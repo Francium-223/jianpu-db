@@ -1477,25 +1477,25 @@
         ]
     },
     "82046c73-33d2-3e08-a74c-a1a738f9ac94": {
-        "file": "th09_08.txt",
+        "file": "th07_09.txt",
         "title": "幽霊楽団　～ Phantom Ensemble",
         "alias": [
             "幽灵乐团　～ Phantom Ensemble"
         ],
         "tag": [
-            "th09",
-            "东方花映塚"
+            "th07",
+            "东方妖妖梦"
         ]
     },
     "f5075e60-abc6-30a7-a0eb-fbfe8968f6ef": {
-        "file": "th09_05.txt",
+        "file": "th07_10.txt",
         "title": "東方妖々夢　～ Ancient Temple",
         "alias": [
             "东方妖妖梦　～ Ancient Temple"
         ],
         "tag": [
-            "th09",
-            "东方花映塚"
+            "th07",
+            "东方妖妖梦"
         ]
     },
     "853a3cc1-ef19-3d62-9c1a-560541b412f6": {
@@ -1950,13 +1950,14 @@
         ]
     },
     "bb384443-1c62-3cf2-bea4-dce5497fe947": {
-        "file": "th145PS4_01.txt",
+        "file": "th08_12.txt",
         "title": "狂気の瞳　～ Invisible Full Moon",
         "alias": [
             "狂气之瞳　～ Invisible Full Moon"
         ],
         "tag": [
-            "th145PS4"
+            "th08",
+            "东方永夜抄"
         ]
     },
     "0bbb84c2-21e7-3039-8870-2a2e74efeefa": {
@@ -2096,28 +2097,6 @@
         "title": "フラワリングナイト",
         "alias": [
             "Flowering Night"
-        ],
-        "tag": [
-            "th09",
-            "东方花映塚"
-        ]
-    },
-    "b4708924-ad6c-3d91-b3aa-33d317d2cbf4": {
-        "file": "th09_07.txt",
-        "title": "おてんば恋娘の冒険",
-        "alias": [
-            "活泼纯情小姑娘的冒险"
-        ],
-        "tag": [
-            "th09",
-            "东方花映塚"
-        ]
-    },
-    "b92b83bd-66ab-4aa4-91ae-d2c6558f8ff2": {
-        "file": "th09_09.txt",
-        "title": "もう歌しか聞こえない　～ Flower Mix",
-        "alias": [
-            "已经只能听见歌声了　～ Flower Mix"
         ],
         "tag": [
             "th09",
@@ -2389,25 +2368,25 @@
         ]
     },
     "145d2b51-0646-30e5-be20-f123b3b281ef": {
-        "file": "th125_06.txt",
+        "file": "th10_09.txt",
         "title": "妖怪の山　～ Mysterious Mountain",
         "alias": [
             "妖怪之山　～ Mysterious Mountain"
         ],
         "tag": [
-            "th125",
-            "东方文花帖DS"
+            "th10",
+            "东方风神录"
         ]
     },
     "aefe2ca7-b1b0-3e00-85f4-d0e31bbd1d72": {
-        "file": "th19_10.txt",
+        "file": "th10_10.txt",
         "title": "少女が見た日本の原風景",
         "alias": [
             "少女曾见的日本原风景"
         ],
         "tag": [
-            "th19",
-            "东方兽王园"
+            "th10",
+            "东方风神录"
         ]
     },
     "fecb65a0-45db-386d-b665-c45eec475d2a": {
@@ -2807,14 +2786,14 @@
         ]
     },
     "e90f08f6-95a4-3364-8bb6-42913379fa31": {
-        "file": "th19_15.txt",
+        "file": "th11_11.txt",
         "title": "死体旅行　～ Be of good cheer!",
         "alias": [
             "尸体旅行　～ Be of good cheer!"
         ],
         "tag": [
-            "th19",
-            "东方兽王园"
+            "th11",
+            "东方地灵殿"
         ]
     },
     "d1381fea-73d6-3d0c-a6c8-450d5ad833fe": {
@@ -2895,14 +2874,14 @@
         ]
     },
     "1c4a70b4-ec40-34ad-9254-278dc1903996": {
-        "file": "th19_13.txt",
+        "file": "th12_02.txt",
         "title": "春の湊に",
         "alias": [
             "春之港湾"
         ],
         "tag": [
-            "th19",
-            "东方兽王园"
+            "th12",
+            "东方星莲船"
         ]
     },
     "8c8a830e-e455-334c-b0e1-b3658b7d16ef": {
@@ -3478,14 +3457,14 @@
         ]
     },
     "a4c42996-55c2-4655-a41b-36aa97d0adf4": {
-        "file": "th19_17.txt",
+        "file": "th13_15.txt",
         "title": "佐渡の二ッ岩",
         "alias": [
             "佐渡的二岩"
         ],
         "tag": [
-            "th19",
-            "东方兽王园"
+            "th13",
+            "东方神灵庙"
         ]
     },
     "24954106-34d1-4d2f-835f-b530a82426eb": {
@@ -4144,14 +4123,14 @@
         ]
     },
     "4914532b-dfc0-490b-b852-25a6fee003f7": {
-        "file": "th19_14.txt",
+        "file": "th15_02.txt",
         "title": "忘れがたき、よすがの緑",
         "alias": [
             "忘不了，那曾依藉的绿意"
         ],
         "tag": [
-            "th19",
-            "东方兽王园"
+            "th15",
+            "东方绀珠传"
         ]
     },
     "2a1d585c-d6cb-4d8a-8b07-be5b59ead8dc": {
@@ -4826,14 +4805,14 @@
         ]
     },
     "f9cf49c0-cca8-4555-8b8b-f37ca189e262": {
-        "file": "th19_12.txt",
+        "file": "th16_07.txt",
         "title": "一対の神獣",
         "alias": [
             "成对的神兽"
         ],
         "tag": [
-            "th19",
-            "东方兽王园"
+            "th16",
+            "东方天空璋"
         ]
     },
     "6b6998fd-5e68-4b21-bc71-4a388da4a8ac": {
@@ -5101,14 +5080,14 @@
         ]
     },
     "edd2a53e-e599-42dc-800e-c7caae8b88b7": {
-        "file": "th19_18.txt",
+        "file": "th17_08.txt",
         "title": "トータスドラゴン　～ 幸運と不運",
         "alias": [
             "Tortoise Dragon　～ 幸运与不幸"
         ],
         "tag": [
-            "th19",
-            "东方兽王园"
+            "th17",
+            "东方鬼形兽"
         ]
     },
     "ceb12564-eebc-4cc0-aa41-c8f47e5e4db1": {
@@ -5167,14 +5146,14 @@
         ]
     },
     "b2406451-8560-4289-848f-ef39dcc2566a": {
-        "file": "th19_19.txt",
+        "file": "th17_14.txt",
         "title": "聖徳太子のペガサス　～ Dark Pegasus",
         "alias": [
             "圣德太子的天马　～ Dark Pegasus"
         ],
         "tag": [
-            "th19",
-            "东方兽王园"
+            "th17",
+            "东方鬼形兽"
         ]
     },
     "81d0dd61-d04b-40f6-b3e5-b9669e3bcdcb": {
@@ -5255,14 +5234,14 @@
         ]
     },
     "da333012-8c67-47cf-85c5-56ac15442edd": {
-        "file": "th19_20.txt",
+        "file": "th175_25.txt",
         "title": "強欲な獣のメメント",
         "alias": [
             "贪欲之兽的记忆"
         ],
         "tag": [
-            "th19",
-            "东方兽王园"
+            "th175",
+            "东方刚欲异闻"
         ]
     },
     "48e18723-348e-4649-9934-f4ee418dec8b": {
@@ -5376,14 +5355,14 @@
         ]
     },
     "d801e0a3-e188-48a7-ad93-16644a536479": {
-        "file": "th19_16.txt",
+        "file": "th18_10.txt",
         "title": "待ちわびた逢魔が時",
         "alias": [
             "渴盼已久的逢魔之刻"
         ],
         "tag": [
-            "th19",
-            "东方兽王园"
+            "th18",
+            "东方虹龙洞"
         ]
     },
     "1608bfb8-9c74-404c-8870-e4d1721b1e89": {
@@ -6242,7 +6221,7 @@
         ]
     },
     "fc45820f-91bb-487b-9c15-b5a40c483bac": {
-        "file": "东方音焰火_01.txt",
+        "file": "日日是红日.txt",
         "title": "日々是紅日　～ Folksy Touhou days.",
         "alias": [
             "日日是红日 ～ Folksy Touhou days."
@@ -6260,7 +6239,7 @@
         "tag": []
     },
     "(missing_mbid772)": {
-        "file": "其他_02.txt",
+        "file": "Frontal Attack.txt",
         "title": "Frontal Attack",
         "alias": [
             "Frontal Attack"
