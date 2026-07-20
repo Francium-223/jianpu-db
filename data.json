@@ -25,7 +25,8 @@
         "file": "th01_03.txt",
         "title": "Positive and Negative",
         "alias": [
-            "Positive and Negative", "the Positive and Negative"
+            "Positive and Negative",
+            "the Positive and Negative"
         ],
         "tag": [
             "th01",
@@ -124,7 +125,8 @@
         "file": "th01_12.txt",
         "title": "死なばもろとも",
         "alias": [
-            "同归于尽", "Civilization of Magic"
+            "同归于尽",
+            "Civilization of Magic"
         ],
         "tag": [
             "th01",
@@ -135,7 +137,8 @@
         "file": "th01_13.txt",
         "title": "星幽剣士",
         "alias": [
-            "星幽剑士", "星幽天使"
+            "星幽剑士",
+            "星幽天使"
         ],
         "tag": [
             "th01",
@@ -1253,7 +1256,7 @@
             "东方红魔乡"
         ]
     },
-    "(missing_mbid115)": {
+    "2971335a-00d0-31a2-8b84-ecfc8ab72ae4": {
         "file": "th06_06.txt",
         "title": "上海紅茶館　～ Chinese Tea",
         "alias": [
@@ -1286,7 +1289,7 @@
             "东方红魔乡"
         ]
     },
-    "(missing_mbid118)": {
+    "3e68abbe-ee41-3062-ac5a-d110f6a8acff": {
         "file": "th06_09.txt",
         "title": "ラクトガール　～ 少女密室",
         "alias": [
@@ -1308,7 +1311,7 @@
             "东方红魔乡"
         ]
     },
-    "(missing_mbid120)": {
+    "ee4a2a47-16f5-36b2-b9b2-1d3481eba56c": {
         "file": "th06_11.txt",
         "title": "月時計　～ ルナ・ダイアル",
         "alias": [
@@ -1374,7 +1377,7 @@
             "东方红魔乡"
         ]
     },
-    "(missing_mbid126)": {
+    "cff2f7b2-1ac6-36e9-81b5-2f3d0386c4b8": {
         "file": "th06_17.txt",
         "title": "紅楼　～ Eastern Dream...",
         "alias": [
@@ -1385,7 +1388,7 @@
             "东方红魔乡"
         ]
     },
-    "(missing_mbid127)": {
+    "6dca6108-ca4b-3952-a943-9384120e21e4": {
         "file": "th07_01.txt",
         "title": "妖々夢　～ Snow or Cherry Petal",
         "alias": [
@@ -1396,7 +1399,7 @@
             "东方妖妖梦"
         ]
     },
-    "(missing_mbid128)": {
+    "bcbd5934-9cad-39c2-b881-400cee5d96a2": {
         "file": "th07_02.txt",
         "title": "無何有の郷　～ Deep Mountain",
         "alias": [
@@ -1429,7 +1432,7 @@
             "东方妖妖梦"
         ]
     },
-    "(missing_mbid131)": {
+    "fdba5303-f076-3041-8708-a5150a87404f": {
         "file": "th07_05.txt",
         "title": "ティアオイエツォン(withered leaf)",
         "alias": [
@@ -1451,7 +1454,7 @@
             "东方妖妖梦"
         ]
     },
-    "(missing_mbid133)": {
+    "4e48ac49-e03d-36d6-b140-45f40cd23fbe": {
         "file": "th07_07.txt",
         "title": "人形裁判　～ 人の形弄びし少女",
         "alias": [
@@ -1473,29 +1476,29 @@
             "东方妖妖梦"
         ]
     },
-    "(missing_mbid135)": {
-        "file": "th07_09.txt",
+    "82046c73-33d2-3e08-a74c-a1a738f9ac94": {
+        "file": "th09_08.txt",
         "title": "幽霊楽団　～ Phantom Ensemble",
         "alias": [
             "幽灵乐团　～ Phantom Ensemble"
         ],
         "tag": [
-            "th07",
-            "东方妖妖梦"
+            "th09",
+            "东方花映塚"
         ]
     },
-    "(missing_mbid136)": {
-        "file": "th07_10.txt",
+    "f5075e60-abc6-30a7-a0eb-fbfe8968f6ef": {
+        "file": "th09_05.txt",
         "title": "東方妖々夢　～ Ancient Temple",
         "alias": [
             "东方妖妖梦　～ Ancient Temple"
         ],
         "tag": [
-            "th07",
-            "东方妖妖梦"
+            "th09",
+            "东方花映塚"
         ]
     },
-    "(missing_mbid137)": {
+    "853a3cc1-ef19-3d62-9c1a-560541b412f6": {
         "file": "th07_11.txt",
         "title": "広有射怪鳥事　～ Till When?",
         "alias": [
@@ -1517,7 +1520,7 @@
             "东方妖妖梦"
         ]
     },
-    "(missing_mbid139)": {
+    "255e9094-da2f-3f1f-bc5b-9258a2a630d7": {
         "file": "th07_13.txt",
         "title": "幽雅に咲かせ、墨染の桜　～ Border of Life",
         "alias": [
@@ -1550,7 +1553,7 @@
             "东方妖妖梦"
         ]
     },
-    "(missing_mbid142)": {
+    "6c35ee27-41bb-38ec-b758-93c0ba446cbf": {
         "file": "th07_16.txt",
         "title": "少女幻葬　～ Necro-Fantasy",
         "alias": [
@@ -1561,7 +1564,7 @@
             "东方妖妖梦"
         ]
     },
-    "(missing_mbid143)": {
+    "36fe767c-1232-38f7-9f8a-eb63992c42cf": {
         "file": "th07_17.txt",
         "title": "妖々跋扈　～ Who done it!",
         "alias": [
@@ -1594,7 +1597,7 @@
             "东方妖妖梦"
         ]
     },
-    "(missing_mbid146)": {
+    "665804aa-7b9f-3721-9bf8-269ad9ee3968": {
         "file": "th07_20.txt",
         "title": "さくらさくら　～ Japanize Dream...",
         "alias": [
@@ -1627,7 +1630,7 @@
             "东方萃梦想"
         ]
     },
-    "(missing_mbid163)": {
+    "082f90d6-9db5-3747-b90a-8560969f379e": {
         "file": "th075_17.txt",
         "title": "夜が降りてくる　～ Evening Star",
         "alias": [
@@ -1836,7 +1839,7 @@
             "东方永夜抄"
         ]
     },
-    "(missing_mbid182)": {
+    "13ab0d21-2271-3180-b86f-cdba373ec177": {
         "file": "th08_02.txt",
         "title": "幻視の夜　～ Ghostly Eyes",
         "alias": [
@@ -1847,7 +1850,7 @@
             "东方永夜抄"
         ]
     },
-    "(missing_mbid183)": {
+    "c2353835-642a-3bdf-aa0e-9ae5c7b80aea": {
         "file": "th08_03.txt",
         "title": "蠢々秋月　～ Mooned Insect",
         "alias": [
@@ -1858,7 +1861,7 @@
             "东方永夜抄"
         ]
     },
-    "(missing_mbid184)": {
+    "55d76cc7-faeb-3a10-9b1c-d7d2d3293f93": {
         "file": "th08_04.txt",
         "title": "夜雀の歌声　～ Night Bird",
         "alias": [
@@ -1880,7 +1883,7 @@
             "东方永夜抄"
         ]
     },
-    "(missing_mbid186)": {
+    "1172c3a9-5082-3bd3-ac8a-e99e85b99472": {
         "file": "th08_06.txt",
         "title": "懐かしき東方の血　～ Old World",
         "alias": [
@@ -1902,7 +1905,7 @@
             "东方永夜抄"
         ]
     },
-    "(missing_mbid188)": {
+    "cdfdfa58-0f69-3482-abfd-a70db80f9e6e": {
         "file": "th08_08.txt",
         "title": "永夜の報い　～ Imperishable Night",
         "alias": [
@@ -1913,7 +1916,7 @@
             "东方永夜抄"
         ]
     },
-    "(missing_mbid189)": {
+    "52585ad8-3a44-37c3-839e-6132f386867c": {
         "file": "th08_09.txt",
         "title": "少女綺想曲　～ Dream Battle",
         "alias": [
@@ -1935,7 +1938,7 @@
             "东方永夜抄"
         ]
     },
-    "(missing_mbid191)": {
+    "53734d6e-2982-36cf-a124-881dd7eb28a0": {
         "file": "th08_11.txt",
         "title": "シンデレラケージ　～ Kagome-Kagome",
         "alias": [
@@ -1946,15 +1949,14 @@
             "东方永夜抄"
         ]
     },
-    "(missing_mbid192)": {
-        "file": "th08_12.txt",
+    "bb384443-1c62-3cf2-bea4-dce5497fe947": {
+        "file": "th145PS4_01.txt",
         "title": "狂気の瞳　～ Invisible Full Moon",
         "alias": [
             "狂气之瞳　～ Invisible Full Moon"
         ],
         "tag": [
-            "th08",
-            "东方永夜抄"
+            "th145PS4"
         ]
     },
     "0bbb84c2-21e7-3039-8870-2a2e74efeefa": {
@@ -1968,7 +1970,7 @@
             "东方永夜抄"
         ]
     },
-    "(missing_mbid194)": {
+    "48b90e15-a9b4-3d34-ae26-112f60d8eb8f": {
         "file": "th08_14.txt",
         "title": "千年幻想郷　～ History of the Moon",
         "alias": [
@@ -1979,7 +1981,7 @@
             "东方永夜抄"
         ]
     },
-    "(missing_mbid195)": {
+    "011ecd26-9e73-35ad-aa78-8d9b0197e653": {
         "file": "th08_15.txt",
         "title": "竹取飛翔　～ Lunatic Princess",
         "alias": [
@@ -2001,7 +2003,7 @@
             "东方永夜抄"
         ]
     },
-    "(missing_mbid197)": {
+    "c0bddb1d-39a0-3a42-9183-e9f81fd84629": {
         "file": "th08_17.txt",
         "title": "エクステンドアッシュ　～ 蓬莱人",
         "alias": [
@@ -2034,7 +2036,7 @@
             "东方永夜抄"
         ]
     },
-    "(missing_mbid200)": {
+    "757e4483-bdcb-3888-8220-f757eb62be4e": {
         "file": "th08_20.txt",
         "title": "Eternal Dream　～ 幽玄の槭樹",
         "alias": [
@@ -2056,7 +2058,7 @@
             "东方永夜抄"
         ]
     },
-    "(missing_mbid202)": {
+    "00aef610-1376-3f79-87c5-cd649860ef4f": {
         "file": "th09_01.txt",
         "title": "花映塚　～ Higan Retour",
         "alias": [
@@ -2067,7 +2069,7 @@
             "东方花映塚"
         ]
     },
-    "(missing_mbid203)": {
+    "e4858fa1-7ba2-3d99-80a8-e3e0f74fa7b5": {
         "file": "th09_02.txt",
         "title": "春色小径　～ Colorful Path",
         "alias": [
@@ -2100,28 +2102,6 @@
             "东方花映塚"
         ]
     },
-    "(missing_mbid206)": {
-        "file": "th09_05.txt",
-        "title": "東方妖々夢　～ Ancient Temple",
-        "alias": [
-            "东方妖妖梦　～ Ancient Temple"
-        ],
-        "tag": [
-            "th09",
-            "东方花映塚"
-        ]
-    },
-    "(missing_mbid207)": {
-        "file": "th09_06.txt",
-        "title": "狂気の瞳　～ Invisible Full Moon",
-        "alias": [
-            "狂气之瞳　～ Invisible Full Moon"
-        ],
-        "tag": [
-            "th09",
-            "东方花映塚"
-        ]
-    },
     "b4708924-ad6c-3d91-b3aa-33d317d2cbf4": {
         "file": "th09_07.txt",
         "title": "おてんば恋娘の冒険",
@@ -2133,18 +2113,7 @@
             "东方花映塚"
         ]
     },
-    "(missing_mbid209)": {
-        "file": "th09_08.txt",
-        "title": "幽霊楽団　～ Phantom Ensemble",
-        "alias": [
-            "幽灵乐团　～ Phantom Ensemble"
-        ],
-        "tag": [
-            "th09",
-            "东方花映塚"
-        ]
-    },
-    "(missing_mbid210)": {
+    "b92b83bd-66ab-4aa4-91ae-d2c6558f8ff2": {
         "file": "th09_09.txt",
         "title": "もう歌しか聞こえない　～ Flower Mix",
         "alias": [
@@ -2166,7 +2135,7 @@
             "东方花映塚"
         ]
     },
-    "(missing_mbid212)": {
+    "989ebb6e-bdd0-3081-9561-d94ca1180528": {
         "file": "th09_11.txt",
         "title": "風神少女(Short Version)",
         "alias": [
@@ -2177,7 +2146,7 @@
             "东方花映塚"
         ]
     },
-    "(missing_mbid213)": {
+    "fcd504a3-fa33-39a0-91c1-ffc60e8b336a": {
         "file": "th09_12.txt",
         "title": "ポイズンボディ　～ Forsaken Doll",
         "alias": [
@@ -2188,7 +2157,7 @@
             "东方花映塚"
         ]
     },
-    "(missing_mbid214)": {
+    "34b1d9db-7c1b-321f-bf83-b038d35b8f6d": {
         "file": "th09_13.txt",
         "title": "今昔幻想郷　～ Flower Land",
         "alias": [
@@ -2199,7 +2168,7 @@
             "东方花映塚"
         ]
     },
-    "(missing_mbid215)": {
+    "dd5a639a-d33f-39a7-bab3-97aafbf8e675": {
         "file": "th09_14.txt",
         "title": "彼岸帰航　～ Riverside View",
         "alias": [
@@ -2210,7 +2179,7 @@
             "东方花映塚"
         ]
     },
-    "(missing_mbid216)": {
+    "dbd4bf0b-4c6a-383f-b5f3-3191f9870f28": {
         "file": "th09_15.txt",
         "title": "六十年目の東方裁判　～ Fate of Sixty Years",
         "alias": [
@@ -2254,7 +2223,7 @@
             "东方花映塚"
         ]
     },
-    "(missing_mbid220)": {
+    "3927b10c-e237-3f70-b870-6d01bda21171": {
         "file": "th09_19.txt",
         "title": "魂の花　～ Another Dream...",
         "alias": [
@@ -2265,7 +2234,7 @@
             "东方花映塚"
         ]
     },
-    "(missing_mbid221)": {
+    "308181c9-4f71-3136-a2bb-e85adb4563c6": {
         "file": "th095_01.txt",
         "title": "天狗の手帖　～ Mysterious Note",
         "alias": [
@@ -2276,7 +2245,7 @@
             "东方文花帖"
         ]
     },
-    "(missing_mbid222)": {
+    "3a4aee75-4eca-3c4f-ae0f-766a422e26ba": {
         "file": "th095_02.txt",
         "title": "風の循環　～ Wind Tour",
         "alias": [
@@ -2287,7 +2256,7 @@
             "东方文花帖"
         ]
     },
-    "(missing_mbid223)": {
+    "0d78f272-1774-3d4f-b0a2-0a20953c024a": {
         "file": "th095_03.txt",
         "title": "天狗が見ている　～ Black Eyes",
         "alias": [
@@ -2342,7 +2311,7 @@
             "东方风神录"
         ]
     },
-    "(missing_mbid228)": {
+    "e1c210e9-722e-3021-8306-49031798329e": {
         "file": "th10_02.txt",
         "title": "人恋し神様　～ Romantic Fall",
         "alias": [
@@ -2364,7 +2333,7 @@
             "东方风神录"
         ]
     },
-    "(missing_mbid230)": {
+    "fb3dd9db-6660-35e5-a214-ed47a194552f": {
         "file": "th10_04.txt",
         "title": "厄神様の通り道　～ Dark Road",
         "alias": [
@@ -2397,7 +2366,7 @@
             "东方风神录"
         ]
     },
-    "(missing_mbid233)": {
+    "7ec5116d-3116-3320-83c2-5a330875ac14": {
         "file": "th10_07.txt",
         "title": "芥川龍之介の河童　～ Candid Friend",
         "alias": [
@@ -2408,7 +2377,7 @@
             "东方风神录"
         ]
     },
-    "(missing_mbid234)": {
+    "0dfaf49a-36e9-3c40-a744-5b00c2d1e021": {
         "file": "th10_08.txt",
         "title": "フォールオブフォール　～ 秋めく滝",
         "alias": [
@@ -2419,15 +2388,15 @@
             "东方风神录"
         ]
     },
-    "(missing_mbid235)": {
-        "file": "th10_09.txt",
+    "145d2b51-0646-30e5-be20-f123b3b281ef": {
+        "file": "th125_06.txt",
         "title": "妖怪の山　～ Mysterious Mountain",
         "alias": [
             "妖怪之山　～ Mysterious Mountain"
         ],
         "tag": [
-            "th10",
-            "东方风神录"
+            "th125",
+            "东方文花帖DS"
         ]
     },
     "aefe2ca7-b1b0-3e00-85f4-d0e31bbd1d72": {
@@ -2452,7 +2421,7 @@
             "东方风神录"
         ]
     },
-    "(missing_mbid238)": {
+    "2c4dfc9b-be88-3d42-8e68-0a4203a6230a": {
         "file": "th10_12.txt",
         "title": "御柱の墓場　～ Grave of Being",
         "alias": [
@@ -2463,7 +2432,7 @@
             "东方风神录"
         ]
     },
-    "(missing_mbid239)": {
+    "220bde5d-68b1-3620-a7a8-08c9bd7db989": {
         "file": "th10_13.txt",
         "title": "神さびた古戦場　～ Suwa Foughten Field",
         "alias": [
@@ -2507,7 +2476,7 @@
             "东方风神录"
         ]
     },
-    "(missing_mbid243)": {
+    "db368653-07d0-34ee-929a-762845d2f5c9": {
         "file": "th10_17.txt",
         "title": "神は恵みの雨を降らす　～ Sylphid Dream",
         "alias": [
@@ -2661,7 +2630,7 @@
             "东方绯想天"
         ]
     },
-    "(missing_mbid257)": {
+    "6587f27c-4364-3cf9-9b6c-9c870fc178f9": {
         "file": "th105_13.txt",
         "title": "黒い海に紅く　～ Legendary Fish",
         "alias": [
@@ -2683,7 +2652,7 @@
             "东方绯想天"
         ]
     },
-    "(missing_mbid259)": {
+    "f83c9696-8515-33f7-aa73-5b051fe265da": {
         "file": "th105_15.txt",
         "title": "有頂天変　～ Wonderful Heaven",
         "alias": [
@@ -2749,7 +2718,7 @@
             "东方地灵殿"
         ]
     },
-    "(missing_mbid278)": {
+    "1bc0f333-a2f1-336e-bfd8-6e189e77c902": {
         "file": "th11_03.txt",
         "title": "封じられた妖怪　～ Lost Place",
         "alias": [
@@ -2815,7 +2784,7 @@
             "东方地灵殿"
         ]
     },
-    "(missing_mbid284)": {
+    "8ab06f70-a8fb-392e-98a9-83aa2a1b1ba2": {
         "file": "th11_09.txt",
         "title": "少女さとり　～ 3rd eye",
         "alias": [
@@ -2837,15 +2806,15 @@
             "东方地灵殿"
         ]
     },
-    "(missing_mbid286)": {
-        "file": "th11_11.txt",
+    "e90f08f6-95a4-3364-8bb6-42913379fa31": {
+        "file": "th19_15.txt",
         "title": "死体旅行　～ Be of good cheer!",
         "alias": [
             "尸体旅行　～ Be of good cheer!"
         ],
         "tag": [
-            "th11",
-            "东方地灵殿"
+            "th19",
+            "东方兽王园"
         ]
     },
     "d1381fea-73d6-3d0c-a6c8-450d5ad833fe": {
@@ -2859,7 +2828,7 @@
             "东方地灵殿"
         ]
     },
-    "(missing_mbid288)": {
+    "6dd64a70-74c4-314c-ae38-2f8b36d51e46": {
         "file": "th11_13.txt",
         "title": "霊知の太陽信仰　～ Nuclear Fusion",
         "alias": [
@@ -2903,7 +2872,7 @@
             "东方地灵殿"
         ]
     },
-    "(missing_mbid292)": {
+    "610ff82b-17ea-31cb-9bf9-d13ce29f538d": {
         "file": "th11_17.txt",
         "title": "エネルギー黎明　～ Future Dream...",
         "alias": [
@@ -3046,7 +3015,7 @@
             "东方星莲船"
         ]
     },
-    "(missing_mbid306)": {
+    "21c4f440-0de4-3286-9fd8-a7094692d303": {
         "file": "th12_13.txt",
         "title": "感情の摩天楼　～ Cosmic Mind",
         "alias": [
@@ -3090,7 +3059,7 @@
             "东方星莲船"
         ]
     },
-    "(missing_mbid310)": {
+    "08da2064-5308-3f7a-a33f-1e9a07f8526b": {
         "file": "th12_17.txt",
         "title": "空の帰り道　～ Sky Dream",
         "alias": [
@@ -3156,7 +3125,7 @@
             "东方非想天则"
         ]
     },
-    "(missing_mbid323)": {
+    "ca642013-543c-4c89-8e02-cbc752878405": {
         "file": "th123_12.txt",
         "title": "アンノウンＸ　～ Unfound Adventure",
         "alias": [
@@ -3233,22 +3202,11 @@
             "东方文花帖DS"
         ]
     },
-    "(missing_mbid335)": {
+    "bfe831b0-e8ff-314c-96ad-d0349ca327b6": {
         "file": "th125_05.txt",
         "title": "無間の鐘　～ Infinite Nightmare",
         "alias": [
             "无间之钟　～ Infinite Nightmare"
-        ],
-        "tag": [
-            "th125",
-            "东方文花帖DS"
-        ]
-    },
-    "(missing_mbid336)": {
-        "file": "th125_06.txt",
-        "title": "妖怪の山　～ Mysterious Mountain",
-        "alias": [
-            "妖怪之山　～ Mysterious Mountain"
         ],
         "tag": [
             "th125",
@@ -3321,7 +3279,7 @@
             "妖精大战争"
         ]
     },
-    "(missing_mbid343)": {
+    "4001294e-1f3d-4035-a177-e27d904a2df5": {
         "file": "th128_06.txt",
         "title": "妖精大戦争　～ Fairy Wars",
         "alias": [
@@ -3354,7 +3312,7 @@
             "妖精大战争"
         ]
     },
-    "(missing_mbid346)": {
+    "e9b98240-5c32-4907-8139-1f9ca872f8d1": {
         "file": "th128_09.txt",
         "title": "春の氷精　- 静 -",
         "alias": [
@@ -3497,7 +3455,7 @@
             "东方神灵庙"
         ]
     },
-    "(missing_mbid360)": {
+    "9248deb4-3fdc-4c73-a1d0-d9928caf688a": {
         "file": "th13_13.txt",
         "title": "聖徳伝説　～ True Administrator",
         "alias": [
@@ -3794,7 +3752,7 @@
             "东方辉针城"
         ]
     },
-    "(missing_mbid397)": {
+    "d5447ac1-c303-471a-a4f1-90752726a0d5": {
         "file": "th14_13.txt",
         "title": "輝く針の小人族　～ Little Princess",
         "alias": [
@@ -3816,7 +3774,7 @@
             "东方辉针城"
         ]
     },
-    "(missing_mbid399)": {
+    "7d3d603e-6579-4309-93cd-7f6cd05bb9b8": {
         "file": "th14_15.txt",
         "title": "始原のビート　～ Pristine Beat",
         "alias": [
@@ -4104,16 +4062,6 @@
             "东方深秘录"
         ]
     },
-    "(missing_mbid445)": {
-        "file": "th145PS4_01.txt",
-        "title": "狂気の瞳　～ Invisible Full Moon",
-        "alias": [
-            "狂气之瞳　～ Invisible Full Moon"
-        ],
-        "tag": [
-            "th145PS4"
-        ]
-    },
     "(missing_mbid446)": {
         "file": "th145PS4_02.txt",
         "title": "ネオ竹林インフレイム",
@@ -4316,7 +4264,7 @@
             "东方绀珠传"
         ]
     },
-    "(missing_mbid465)": {
+    "dbd1de3d-c7cd-4a3b-b083-687da43438e3": {
         "file": "th15_13.txt",
         "title": "ピュアヒューリーズ　～ 心の在処",
         "alias": [
@@ -4558,7 +4506,7 @@
             "东方凭依华"
         ]
     },
-    "(missing_mbid506)": {
+    "2b3bd3f4-6f01-4b32-b827-7b59639e7337": {
         "file": "th155_36.txt",
         "title": "憑坐は夢と現の間に　～ Necro-Fantasia",
         "alias": [
@@ -4569,7 +4517,7 @@
             "东方凭依华"
         ]
     },
-    "(missing_mbid507)": {
+    "ac3bf985-76fd-4d46-b60e-828943519eff": {
         "file": "th155_37.txt",
         "title": "今宵は飄逸なエゴイスト(Live ver)　～ Egoistic Flowers.",
         "alias": [
@@ -4965,7 +4913,7 @@
             "东方天空璋"
         ]
     },
-    "(missing_mbid543)": {
+    "4ee5dbd2-5a39-46b1-af2c-d0fca2bc48ed": {
         "file": "th16_15.txt",
         "title": "秘神マターラ　～ Hidden Star in All Seasons.",
         "alias": [
@@ -5152,15 +5100,15 @@
             "东方鬼形兽"
         ]
     },
-    "(missing_mbid563)": {
-        "file": "th17_09.txt",
+    "edd2a53e-e599-42dc-800e-c7caae8b88b7": {
+        "file": "th19_18.txt",
         "title": "トータスドラゴン　～ 幸運と不運",
         "alias": [
             "Tortoise Dragon　～ 幸运与不幸"
         ],
         "tag": [
-            "th17",
-            "东方鬼形兽"
+            "th19",
+            "东方兽王园"
         ]
     },
     "ceb12564-eebc-4cc0-aa41-c8f47e5e4db1": {
@@ -5196,7 +5144,7 @@
             "东方鬼形兽"
         ]
     },
-    "(missing_mbid567)": {
+    "9754635c-d783-41cb-b870-104d8ec465c9": {
         "file": "th17_13.txt",
         "title": "偶像に世界を委ねて　～ Idoratrize World",
         "alias": [
@@ -5218,15 +5166,15 @@
             "东方鬼形兽"
         ]
     },
-    "(missing_mbid569)": {
-        "file": "th17_15.txt",
+    "b2406451-8560-4289-848f-ef39dcc2566a": {
+        "file": "th19_19.txt",
         "title": "聖徳太子のペガサス　～ Dark Pegasus",
         "alias": [
             "圣德太子的天马　～ Dark Pegasus"
         ],
         "tag": [
-            "th17",
-            "东方鬼形兽"
+            "th19",
+            "东方兽王园"
         ]
     },
     "81d0dd61-d04b-40f6-b3e5-b9669e3bcdcb": {
@@ -5317,7 +5265,7 @@
             "东方兽王园"
         ]
     },
-    "(missing_mbid598)": {
+    "48e18723-348e-4649-9934-f4ee418dec8b": {
         "file": "th175_26.txt",
         "title": "有機体全てのメメント　～ Memory of Fossil Energy.",
         "alias": [
@@ -5460,7 +5408,7 @@
             "东方虹龙洞"
         ]
     },
-    "(missing_mbid611)": {
+    "08d3cf9b-8472-4cfd-88b6-650f2472f27c": {
         "file": "th18_13.txt",
         "title": "あの賑やかな市場は今どこに　～ Immemorial Marketeers",
         "alias": [
@@ -5680,50 +5628,6 @@
             "东方兽王园"
         ]
     },
-    "(missing_mbid637)": {
-        "file": "th19_11.txt",
-        "title": "妖々跋扈　～ Who done it!",
-        "alias": [
-            "妖妖跋扈　～ Who done it!"
-        ],
-        "tag": [
-            "th19",
-            "东方兽王园"
-        ]
-    },
-    "(missing_mbid641)": {
-        "file": "th19_15.txt",
-        "title": "死体旅行　～ Be of good cheer!",
-        "alias": [
-            "尸体旅行　～ Be of good cheer!"
-        ],
-        "tag": [
-            "th19",
-            "东方兽王园"
-        ]
-    },
-    "(missing_mbid644)": {
-        "file": "th19_18.txt",
-        "title": "トータスドラゴン　～ 幸運と不運",
-        "alias": [
-            "Tortoise Dragon　～ 幸运与不幸"
-        ],
-        "tag": [
-            "th19",
-            "东方兽王园"
-        ]
-    },
-    "(missing_mbid645)": {
-        "file": "th19_19.txt",
-        "title": "聖徳太子のペガサス　～ Dark Pegasus",
-        "alias": [
-            "圣德太子的天马　～ Dark Pegasus"
-        ],
-        "tag": [
-            "th19",
-            "东方兽王园"
-        ]
-    },
     "b9e36a0c-ccce-4568-bda5-a25ef254b76a": {
         "file": "th19_21.txt",
         "title": "獣王達の休息",
@@ -5878,7 +5782,7 @@
             "东方锦上京"
         ]
     },
-    "(missing_mbid661)": {
+    "cdeb46f4-ae85-442c-ab63-08f882d08289": {
         "file": "th20_11.txt",
         "title": "綿月のスペルカード　～ 神海戦",
         "alias": [
@@ -5900,7 +5804,7 @@
             "东方锦上京"
         ]
     },
-    "(missing_mbid663)": {
+    "f0a46859-5123-4a76-8bdb-906497e4d05b": {
         "file": "th20_13.txt",
         "title": "最後の一人は慣れてるから　～ Stone Goddess",
         "alias": [
@@ -6303,7 +6207,8 @@
             "酒鬼的雷姆利亚"
         ],
         "tag": [
-            "黄昏酒场 ～ Uwabami Breakers～", "th103"
+            "黄昏酒场 ～ Uwabami Breakers～",
+            "th103"
         ]
     },
     "(missing_mbid704)": {
@@ -6340,7 +6245,7 @@
             "INDIE Live Expo"
         ]
     },
-    "(missing_mbid711)": {
+    "fc45820f-91bb-487b-9c15-b5a40c483bac": {
         "file": "东方音焰火_01.txt",
         "title": "日々是紅日　～ Folksy Touhou days.",
         "alias": [
