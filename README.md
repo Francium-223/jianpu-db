@@ -1,6 +1,8 @@
 ## 简介
 
-基于[jianpu-ly](https://github.com/ssb22/jianpu-ly/blob/master/README_zh-Hans.md)语法和[MusicBrainz](https://musicbrainz.org/)唯一标识符构建的、面向大语言模型训练及严谨学术研究的高度规范化可读数字音乐简谱旋律数据集。旨在解决大语言模型面对简谱束手无措的痛点、填补网络上以简谱记载的旋律信息量不足、规范度不够的缺口。
+**jianpu-db**是基于[jianpu-ly](https://github.com/ssb22/jianpu-ly/blob/master/README_zh-Hans.md)语法和[MusicBrainz](https://musicbrainz.org/)唯一标识符构建的、面向大语言模型训练及严谨学术研究的高度规范化可读数字音乐简谱旋律数据集。旨在解决大语言模型面对简谱束手无措的痛点、填补网络上以简谱记载的旋律信息量不足、规范度不够的缺口。
+
+本项目正在开发基础架构中，亟待能人异士的加入（无论是开发代码还是转写旋律）……
 
 ## 仓库结构
 
@@ -20,7 +22,7 @@
 
 ### 东方原曲：
 
-☯️东方灵异传：<abbr title="th01_01.txt">[⬛](scores/th01_01.txt)</abbr><abbr title="th01_02.txt">[⬛](scores/th01_02.txt)</abbr><abbr title="th01_03.txt">[⬛](scores/th01_03.txt)</abbr><abbr title="th01_04.txt">[⬛](scores/th01_04.txt)</abbr><abbr title="th01_05.txt">[⬛](scores/th01_05.txt)</abbr><abbr title="th01_06.txt">[⬛](scores/th01_06.txt)</abbr><abbr title="th01_07.txt">[⬛](scores/th01_07.txt)</abbr><abbr title="th01_08.txt">[⬛](scores/th01_08.txt)</abbr><abbr title="th01_09.txt">[⬛](scores/th01_09.txt)</abbr><abbr title="th01_10.txt">[⬛](scores/th01_10.txt)</abbr><abbr title="th01_11.txt">[⬛](scores/th01_11.txt)</abbr><abbr title="th01_12.txt">[⬛](scores/th01_12.txt)</abbr><abbr title="th01_13.txt">[⬛](scores/th01_13.txt)</abbr><abbr title="th01_14.txt">[⬛](scores/th01_14.txt)</abbr><abbr title="th01_15.txt">[⬛](scores/th01_15.txt)</abbr>
+☯️东方灵异传：<abbr title="th01_01.txt">[☯️](scores/th01_01.txt)</abbr><abbr title="th01_02.txt">[⬛](scores/th01_02.txt)</abbr><abbr title="th01_03.txt">[⬛](scores/th01_03.txt)</abbr><abbr title="th01_04.txt">[⬛](scores/th01_04.txt)</abbr><abbr title="th01_05.txt">[⬛](scores/th01_05.txt)</abbr><abbr title="th01_06.txt">[⬛](scores/th01_06.txt)</abbr><abbr title="th01_07.txt">[⬛](scores/th01_07.txt)</abbr><abbr title="th01_08.txt">[⬛](scores/th01_08.txt)</abbr><abbr title="th01_09.txt">[⬛](scores/th01_09.txt)</abbr><abbr title="th01_10.txt">[⬛](scores/th01_10.txt)</abbr><abbr title="th01_11.txt">[⬛](scores/th01_11.txt)</abbr><abbr title="th01_12.txt">[⬛](scores/th01_12.txt)</abbr><abbr title="th01_13.txt">[⬛](scores/th01_13.txt)</abbr><abbr title="th01_14.txt">[⬛](scores/th01_14.txt)</abbr><abbr title="th01_15.txt">[⬛](scores/th01_15.txt)</abbr>
 
 🐢东方封魔录：<abbr title="th02_01.txt">[⬛](scores/th02_01.txt)</abbr><abbr title="th02_02.txt">[⬛](scores/th02_02.txt)</abbr><abbr title="th02_03.txt">[⬛](scores/th02_03.txt)</abbr><abbr title="th02_04.txt">[⬛](scores/th02_04.txt)</abbr><abbr title="th02_05.txt">[⬛](scores/th02_05.txt)</abbr><abbr title="th02_06.txt">[⬛](scores/th02_06.txt)</abbr><abbr title="th02_07.txt">[⬛](scores/th02_07.txt)</abbr><abbr title="th02_08.txt">[⬛](scores/th02_08.txt)</abbr><abbr title="th02_09.txt">[⬛](scores/th02_09.txt)</abbr><abbr title="th02_10.txt">[⬛](scores/th02_10.txt)</abbr><abbr title="th02_11.txt">[⬛](scores/th02_11.txt)</abbr><abbr title="th02_12.txt">[⬛](scores/th02_12.txt)</abbr><abbr title="th02_13.txt">[⬛](scores/th02_13.txt)</abbr><abbr title="th02_14.txt">[⬛](scores/th02_14.txt)</abbr><abbr title="th02_15.txt">[⬛](scores/th02_15.txt)</abbr><abbr title="th02_16.txt">[⬛](scores/th02_16.txt)</abbr><abbr title="th02_17.txt">[⬛](scores/th02_17.txt)</abbr><abbr title="th02_18.txt">[⬛](scores/th02_18.txt)</abbr>
 
@@ -92,7 +94,7 @@
 
 文件/标签命名采用“先到先得”的原则。如果命名时发现了冲突/歧义，请将引起歧义的原有命名和你即将采用的命名一并改成**有标记**的名称。
 
-记谱使用[jianpu-ly](https://github.com/ssb22/jianpu-ly/blob/master/README_zh-Hans.md)语言。原则上，只记**具有特征性的，响度最大**的**线性**（不要有重叠的（当然，有一点重叠的话就分两段记下来就行了））旋律。记谱时，以**小调的一度音为`6,`；大调的一度音为`1`**（就是一般人听到这段声音后凭直觉写出来的样子），以此类推为原则。无需记录重复的旋律，如果完全一样的话。
+记谱使用[jianpu-ly](https://github.com/ssb22/jianpu-ly/blob/master/README_zh-Hans.md)语言。原则上，只记**具有特征性的，响度最大**的**线性**（不要有重叠的（当然，有一点重叠的话就分两段记下来就行了））旋律。记谱时，以**小调的一度音为`6,`；大调的一度音为`1`**（就是一般人听到这段声音后凭直觉写出来的样子），以此类推为原则。无需记录重复的旋律，如果完全一样的话。同一文件中，不同的旋律之用`NextScore`分割。
 
 例如，[东方主旋律](https://thbwiki.cc/Theme_of_Eastern_Story)以此规则转写出来是：
 
@@ -101,11 +103,13 @@
 一般的曲谱文件结构应该是这样：
 
 ```
-% MBID: （这首歌在MusicBrainz中的编号，可以不写，提交后由开发者补充）
-% tag: （这首歌的标签，用半角逗号隔开）
-% alias: （这首歌的标签别名，用半角逗号隔开）
-% transcriber: （转写者）
+%TODO:（如果有的话）
+%（该曲谱的文件名）
+MBID=这首歌在MusicBrainz中对应的work编号（识别的唯一编码）
 title=标题
+transcriber=转写者（如果你想写的话）
+tag=这首歌的标签，像data.json里那样写（如果你想写的话）
+alias=这首歌的别名，像data.json里那样写（如果你想写的话）
 subtitle=副标题（如果你想写的话）
 subsubtitle=三级标题（如果你想写的话）
 instrument=乐器（如果你想写的话）
@@ -117,11 +121,27 @@ tagline=标语（如果你想写的话）
 copyright=版权（如果你想写的话）
 piece=作品（如果你想写的话）
 opus=作品编号（如果你想写的话）
-% ---（分割线，至少两个杠）
+%---（分割元数据和曲谱的线，至少两个杠）
 （你的曲谱）
 ```
 
-MBID、tag、alias可以不写（当然如果会写最好），提交后由开发者补充。
+以[th01_01.txt](scores/th01_01.txt)（A Sacred Lot）为例子：
+
+```
+%th01_01.txt
+MBID=52e3b2d1-80ff-35a7-b11f-f9342c08f22d
+title=A Sacred Lot
+transcriber=Francium-223
+%--
+4/4
+,6s 3s ,6s 2s 1s ,7s ,6s 3s 2s 1s ,7s ,5s 2s 1s 5s 3s ,6s ,7s 1s ,6s 3s 2s 1s 2s 3s ,6s 2s ,6s 1s ,6s 7s ,6s
+NextScore
+6 - 7 - 1' - - - 7 - 2' - 1' - - - 7 - 2' ~ q2' ~ s2' d1' d7 | 1' - - - 7 - 2' - 5 - - - 3' - 7' -
+NextScore
+0 3 6 7 R{ 1' 7 6 2' 1' 7 6 5 6 3' 7 1' 0 3 6 7 1' 7 6 2' 1' 7 6 3 7 1' 2' 3' 0 3 6 7 1' 7 6 3 2' 1' 7 1' 1' 7 2' 3' 0 3' 2' 1' 1' 7 6 3 2' 1' 7 5 6 3 7 1' 0 3 6 7 }
+```
+
+MBID、tag、alias等可以不写（当然如果会写最好），提交后由开发者补充。
 
 #### data.json（高级）
 
