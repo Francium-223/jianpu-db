@@ -10,19 +10,22 @@ class NotMBIDError(Exception):
 class NotTitleError(Exception):
 	pass
 tag = []
-orig_tag = []
+usertag = []
+origtag = []
 nottag = []
-orig_nottag = []
+orignottag = []
 mbid = ''
 title = ''
-others = {}
+others = {'tag': [], 'usertag': [], }
 comments = []
 def safe_add(a, b):
 	c = a[:]
 	for i in b:
 		if not i in c:
 			c.append(i)
-	return c
+	if c:
+		return c
+	return b
 def safe_minus(a, b):
 	c = []
 	for i in a:
@@ -31,26 +34,26 @@ def safe_minus(a, b):
 	return c
 def find_tag(n):
 	global tag
-	global orig_tag
+	global origtag
 	if n.startswith('!'):
 		find_nottag(n.lstrip('!'))
 		return
 	for i in equal:
 		if n in i:
 			tag = safe_add(tag, i)
-			if n in orig_tag:
-				orig_tag = safe_add(orig_tag, i)
+			if n in origtag:
+				origtag = safe_add(origtag, i)
 	tag = safe_add(tag, [n])
 	for i in tag:
 		where_imply(i, [])
 def find_nottag(n):
 	global nottag
-	global orig_nottag
+	global orignottag
 	for i in equal:
 		if n in i:
 			nottag = safe_add(nottag, i)
-			if n in orig_nottag:
-				orig_nottag = safe_add(orig_nottag, i)
+			if n in orignottag:
+				orignottag = safe_add(orignottag, i)
 	nottag = safe_add(nottag, [n])
 	for i in nottag:
 		where_not_imply(i, [])
@@ -64,13 +67,13 @@ def goto(p):
 def where_imply(n, p):
 	global tag
 	for k, v in goto(p).items():
-		if k == n and set(orig_tag) & set(p + [k]):
+		if k == n and set(origtag) & set(p + [k]):
 			tag = safe_add(tag, p)
 		where_imply(n, p + [k])
 def where_not_imply(n, p):
 	global nottag
 	for k, v in goto(p).items():
-		if k == n and set(orig_nottag) & set(p):
+		if k == n and set(orignottag) & set(p):
 			nottag = safe_add(nottag, p)
 		where_not_imply(n, p + [k])
 def get_meta_lines(s):
@@ -80,13 +83,14 @@ def get_meta_lines(s):
 		if i.replace(' ', '').startswith('%--'):
 			return d
 	return []
-def priotitize_title_and_tag(a):
+def prioritize_title_and_tag(a):
 	b = {}
 	b['file'] = a['file']
 	b['title'] = a['title']
+	b['usertag'] = a['usertag']
 	b['tag'] = a['tag']
 	for i in a.keys():
-		if not i in ['title', 'tag']:
+		if not i in ['file', 'title', 'tag', 'usertag']:
 			b[i] = a[i]
 	return(b)
 score = sys.argv[1]
@@ -102,11 +106,19 @@ try:
 			if not re.match('[0123456789abcdef]{8}-[0123456789abcdef]{4}-[0123456789abcdef]{4}-[0123456789abcdef]{4}-[0123456789abcdef]{12}', mbid) and False:
 				raise NotMBIDError
 			continue
+		if i.replace(' ', '').startswith('usertag='):
+			for j in re.split(r'[,|，|、]', i[i.find('=') + 1:].strip(' ')):
+				usertag = safe_add(usertag, [j])
+				origtag = safe_add(origtag, [j])
+				find_tag(j.strip(' '))
+			continue
+		'''
 		if i.replace(' ', '').startswith('tag='):
 			for j in re.split(r'[,|，|、]', i[i.find('=') + 1:].strip(' ')):
-				orig_tag.append(j)
+				origtag.append(j)
 				find_tag(j.strip(' '))
-				continue
+			continue
+		'''
 		if i.replace(' ', '').startswith('title='):
 			title = i[i.find('=') + 1:].strip(' ')
 			continue
@@ -122,8 +134,19 @@ try:
 		if i.startswith('%'):
 			comments.append(i.rstrip('\n'))
 			continue
-		find_tag(i.strip(' '))
-	others['tag'] = safe_minus(tag, nottag)
+		for j in re.split(r'[,|，|、]', i[i.find('=') + 1:].strip(' ')):
+			usertag = safe_add(usertag, [j])
+			origtag = safe_add(origtag, [j])
+			find_tag(j.strip(' '))
+	maybetag = safe_minus(tag, nottag)
+	others['usertag'] = []
+	for i in usertag:
+		others['usertag'] = safe_add(others['usertag'], [i])
+	for i in maybetag:
+		others['tag'] = safe_add(others['tag'], [i])
+		for j in equal:
+			if i in j:
+				others['tag'] = safe_add(others['tag'], j)
 	with open(score, 'w', encoding='utf-8') as f:
 		print('%' + score.split('/')[-1], file=f)
 		for i in comments:
@@ -141,12 +164,12 @@ try:
 			if d:
 				print(i.rstrip('\n'), file=f)
 	with open(('.').join(score.split('.')[:-1]) + '.json', 'w', encoding='utf-8') as f:
-		json.dump({mbid : priotitize_title_and_tag(others)}, f, indent=4, ensure_ascii=False)
+		json.dump({mbid : prioritize_title_and_tag(others)}, f, indent=4, ensure_ascii=False)
 except NotMBIDError:
 	print('Error: no MBID!')
-	print(f'Try add \'MBID=(what you\'ve found in your address bar after \'https://musicbrainz.org/work/\'.)\'.)\' in {score}.')
+	print(f'Try adding \'MBID=(what you\'ve found in your address bar after \'https://musicbrainz.org/work/\'.)\'.)\' in {score}.')
 except NotTitleError:
 	print(f'Error: no title!')
-	print(f'Try add \'title=(your preferred title)\' in {score}.')
+	print(f'Try adding \'title=(your preferred title)\' in {score}.')
 except FileNotFoundError:
 	print(f'Error: file \'{score}\' not found!')
