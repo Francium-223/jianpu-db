@@ -6,3 +6,18 @@ usertag=th01
 alias=永远之巫女,永远的巫女
 transcriber=Francium-223
 %--
+4/4
+subtitle=intro
+6 - - - 4 - - - 5 - - - 3 - - -
+NextScore
+subtitle=verse
+0. 1q 1q 2q 3 R2{ ,6. 1 2q 3 ,6. 1 2q 3 ,6. 1 2q ,7 } A{ ,7. 1. 2q 3q | ,7. 4 4q 3q 2q }
+NextScore
+subtitle=verse
+R2{ ,7. 1. 2 } A{ ,7 1q ,7 ,6q ,5 ,6. 3. ,6 ,6. 3q ~ 3 - | ,7 1q  2 5q 2 1. ,7. ,6 ,7 1q 2q ~ 2 - }
+NextScore
+subtitle=verse
+R{ 1 - ,7 ,6q ,7q ~ ,7 - ,6 ,5q ,6q ~ ,6 - - - - - ,6 ,7 } R{ 3 - 2 1q 2q ~ 2 - 1 ,7q 1q ~ 1q ,6q ~ ,6 - - - - ,6 ,7 }
+NextScore
+subtitle=outro
+1 - - - 2 - - - 7 - - - 3 - - -
