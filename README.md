@@ -16,11 +16,15 @@
 
 [tag_equal.json](tag_equal.json)：标签间的等同关系，如`东方星莲船`等同`th12`。
 
-[by_title](by_title/)：按标题寻找曲谱（通过软链接）的文件夹。
+<details>
+    <summary>by_xxx：按xxx寻找曲谱（通过软链接）的文件夹。</summary>
+    <p><a href="by_title">by_title</a>：按曲名</p>
+    <p><a href="by_title">by_tag</a>：按标签</p>
+</details>
 
-[by_tag](by_artist/)：按标签寻找曲谱（通过软链接）的文件夹。同一首曲子可以有多个标签。
+[score.py](score.py)：定义`Score`类的程序。
 
-[by_xxx](by_artist/)：按xxx寻找曲谱（通过软链接）的文件夹。（见后面）
+[parse_score.py](parse_score.py)：按xxx寻找曲谱（通过软链接）的文件夹。（见后面）
 
 ## 目前进度
 
@@ -60,9 +64,9 @@
 
 🛸东方星莲船：<abbr title="th12_01.txt">[⬛](scores/th12_01.txt)</abbr><abbr title="th12_02.txt">[⬛](scores/th12_02.txt)</abbr><abbr title="th12_03.txt">[⬛](scores/th12_03.txt)</abbr><abbr title="th12_04.txt">[⬛](scores/th12_04.txt)</abbr><abbr title="th12_05.txt">[⬛](scores/th12_05.txt)</abbr><abbr title="th12_06.txt">[⬛](scores/th12_06.txt)</abbr><abbr title="th12_07.txt">[⬛](scores/th12_07.txt)</abbr><abbr title="th12_08.txt">[⬛](scores/th12_08.txt)</abbr><abbr title="th12_09.txt">[⬛](scores/th12_09.txt)</abbr><abbr title="th12_10.txt">[⬛](scores/th12_10.txt)</abbr><abbr title="th12_11.txt">[⬛](scores/th12_11.txt)</abbr><abbr title="th12_12.txt">[⬛](scores/th12_12.txt)</abbr><abbr title="th12_13.txt">[⬛](scores/th12_13.txt)</abbr><abbr title="th12_14.txt">[⬛](scores/th12_14.txt)</abbr><abbr title="th12_15.txt">[⬛](scores/th12_15.txt)</abbr><abbr title="th12_16.txt">[⬛](scores/th12_16.txt)</abbr><abbr title="th12_17.txt">[⬛](scores/th12_17.txt)
 
-🤖东方非想天则：</abbr><abbr title="th123_01.txt">[⬛](scores/th123_01.txt)</abbr><abbr title="th123_03.txt">[⬛](scores/th123_03.txt)</abbr><abbr title="th123_04.txt">[⬛](scores/th123_04.txt)</abbr><abbr title="th123_05.txt">[⬛](scores/th123_05.txt)</abbr><abbr title="th123_06.txt">[⬛](scores/th123_06.txt)</abbr><abbr title="th123_12.txt">[⬛](scores/th123_12.txt)</abbr><abbr title="th123_13.txt">[⬛](scores/th123_13.txt)</abbr><abbr title="th123_19.txt">[⬛](scores/th123_19.txt)</abbr><abbr title="th125_01.txt">[⬛](scores/th125_01.txt)</abbr><abbr title="th125_02.txt">[⬛](scores/th125_02.txt)</abbr><abbr title="th125_03.txt">[⬛](scores/th125_03.txt)
+🤖东方非想天则：</abbr><abbr title="th123_01.txt">[⬛](scores/th123_01.txt)</abbr><abbr title="th123_03.txt">[⬛](scores/th123_03.txt)</abbr><abbr title="th123_04.txt">[⬛](scores/th123_04.txt)</abbr><abbr title="th123_05.txt">[⬛](scores/th123_05.txt)</abbr><abbr title="th123_06.txt">[⬛](scores/th123_06.txt)</abbr><abbr title="th123_12.txt">[⬛](scores/th123_12.txt)</abbr><abbr title="th123_13.txt">[⬛](scores/th123_13.txt)</abbr><abbr title="th123_19.txt">[⬛](scores/th123_19.txt)
 
-📟东方文花帖DS：</abbr><abbr title="th125_04.txt">[⬛](scores/th125_04.txt)</abbr><abbr title="th125_05.txt">[⬛](scores/th125_05.txt)</abbr><abbr title="th125_07.txt">[⬛](scores/th125_07.txt)
+📟东方文花帖DS：</abbr><abbr title="th125_01.txt">[⬛](scores/th125_01.txt)</abbr><abbr title="th125_02.txt">[⬛](scores/th125_02.txt)</abbr><abbr title="th125_03.txt">[⬛](scores/th125_03.txt)</abbr><abbr title="th125_04.txt">[⬛](scores/th125_04.txt)</abbr><abbr title="th125_05.txt">[⬛](scores/th125_05.txt)</abbr><abbr title="th125_07.txt">[⬛](scores/th125_07.txt)
 
 ☀️🌙⭐妖精大战争：</abbr><abbr title="th128_01.txt">[⬛](scores/th128_01.txt)</abbr><abbr title="th128_02.txt">[⬛](scores/th128_02.txt)</abbr><abbr title="th128_03.txt">[⬛](scores/th128_03.txt)</abbr><abbr title="th128_04.txt">[⬛](scores/th128_04.txt)</abbr><abbr title="th128_05.txt">[⬛](scores/th128_05.txt)</abbr><abbr title="th128_06.txt">[⬛](scores/th128_06.txt)</abbr><abbr title="th128_07.txt">[⬛](scores/th128_07.txt)</abbr><abbr title="th128_08.txt">[⬛](scores/th128_08.txt)</abbr><abbr title="th128_09.txt">[⬛](scores/th128_09.txt)</abbr>
 
@@ -110,7 +114,7 @@
 
 以[th01_01.txt](scores/th01_01.txt)（A Sacred Lot）为例，一般的曲谱文件结构应该是这样：
 
-```
+```jianpu-ly
 %th01_02.txt
 MBID=310b3b07-ec9f-3e88-9fd8-529c17478179
 title=永遠の巫女
@@ -155,7 +159,7 @@ subtitle=outro
 
 以下元数据是可选的，写了之后可以在**jianpu-ly**编译时被渲染出来。
 
-```
+```jianpu-ly
 subtitle=副标题
 subsubtitle=三级标题
 instrument=乐器
@@ -171,7 +175,7 @@ opus=作品编号
 
 除此以外，元数据部分还可以其他注释，例如：
 
-```
+```jianpu-ly
 %TODO:（如果有的话）
 %欢迎补充
 ```
@@ -184,7 +188,7 @@ opus=作品编号
 
 以[th01_02.json](meta/th01_02.json)为例：
 
-```
+```json
 {
     "310b3b07-ec9f-3e88-9fd8-529c17478179": {
         "file": "th01_02.txt",
@@ -217,16 +221,28 @@ opus=作品编号
 
 #### 提示
 
-一般来说，一些标签具有蕴涵关系，可以只写一个标签也能自动生成对应的标签。（见[tag_imply.json](tag_imply.json)和[tag_equal.json](tag_equal.json)。）一般来说，如果有100首含有标签`foo`的歌，其中有99首歌都同时也有标签`bar`，有1首歌没有标签`bar`，那么应该在[tag_imply.json](tag_imply.json)里增加一项
+一般来说，一些标签具有蕴涵关系，可以只写一个标签也能自动生成对应的标签。如（见[tag_imply.json](tag_imply.json)和[tag_equal.json](tag_equal.json)。）
 
-```
-"bar":
-    {
-        "foo": {}
-    }
+```json
+"foo": {
+    "bar": {}
+}
 ```
 
-，并在曲谱中给那首没有`bar`的歌标注：
+有的标签可能产生歧义，举个例子，比方说[东方](https://mzh.moegirl.org.cn/东方Project)里的[渡里贝子](https://mzh.moegirl.org.cn/渡里贝子)（渡里**ニナ**，Watari **Nina**）和[GBC](https://mzh.moegirl.org.cn/GIRLS_BAND_CRY)（不是[GameBoy Color](https://nintendo.fandom.com/wiki/Game_Boy_Color)）里的[井芹仁菜](https://mzh.moegirl.org.cn/井芹仁菜)（井芹**仁菜**，Iseri **Nina**）都是`nina`（这个例子不是很恰当），那么可能就会有这样的蕴涵：
+
+```json
+"touhou": {
+    "nina": {}
+},
+"gbc": {
+    "nina": {}
+},
+```
+
+对于这样的标签，如果只写“nina”，它会提醒你有歧义（虽然程序能正常运行）。因此，如果要避免歧义，请在标记时写成`touhou/nina`或者`gbc/nina`以消歧义。
+
+一般来说，如果有100首含有标签`bar`的歌，其中有99首歌都同时也有标签`foo`，有1首歌没有标签`foo`，那也应该在[tag_imply.json](tag_imply.json)里这么写，并在曲谱中给那首没有`foo`的歌标注：
 
 `tag=foo,!bar`
 
