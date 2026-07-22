@@ -4,6 +4,7 @@ import re
 import os
 import shutil
 import warnings
+from pathlib import Path
 with open('tag_implications.json', 'r', encoding='utf-8') as f1:
 	imply = json.load(f1)
 with open('tag_equality.json', 'r', encoding='utf-8') as f2:
@@ -288,15 +289,26 @@ class Score():
 				file = json.load(f)
 			attrib = file[self.mbid]
 			for i in attrib.keys():
-				if i in ['usertag', 'type']:
-					pass
-				elif i in ['title', 'mbid']:
-					os.symlink(self.score, 'by_title/' + attrib['title'])
-				elif i == 'alias':
-					for j in attrib['alias']:
-						os.symlink(self.score, 'by_title/' + j)
+				filename = ''
+				if i in ['usertag', 'type', 'file']:
+					continue
+				elif i == 'title':
+					if attrib['title'][0] in 'qwertyuioppasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBN1234567890':
+						if attrib['title'][1] in 'qwertyuioppasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBN1234567890':
+							filename = 'by_title/' + attrib['title'][0] + '/' + attrib['title'][1] + attrib['title'] + '/' + self.score.split('/')[-1]
+						else:
+							filename = 'by_title/' + attrib['title'][0] + '/others/' + attrib['title'] + '/' + self.score.split('/')[-1]
+					else:
+						filename = 'by_title/others/' + attrib['title'] + '/' + self.score.split('/')[-1]
+				elif i == 'mbid':
+					filename = 'by_mbid/' + attrib['mbid'][0] + '/' + attrib['mbid'][0] + attrib['mbid'][1] + self.mbid
 				else:
-					pass
+					for j in attrib[i]:
+						filename = f'by_{i}/' + j + '/' + self.score.split('/')[-1]
+				dest = Path(filename)
+				Path(filename).parent.mkdir(parents=True, exist_ok=True)
+				dest.unlink(missing_ok=True)
+				dest.symlink_to(self.score)
 		except FileNotFoundError:
 			print(f'Error: file \'{self.score}\' not found!')
 			raise
@@ -304,6 +316,6 @@ class Score():
 		try:
 			self.makebuf()
 			self.movebuf()
-			#self.makelnk()
+			self.makelnk()
 		except NoScoreError:
 			pass

@@ -19,12 +19,13 @@
 <details>
     <summary>by_xxx：按xxx寻找曲谱（通过软链接）的文件夹。</summary>
     <p><a href="by_title">by_title</a>：按曲名</p>
-    <p><a href="by_title">by_tag</a>：按标签</p>
+    <p><a href="by_tag">by_tag</a>：按标签</p>
+    <p>以此类推……</p>
 </details>
 
 [score.py](score.py)：定义`Score`类的程序。
 
-[parse_score.py](parse_score.py)：按xxx寻找曲谱（通过软链接）的文件夹。（见后面）
+[parse_score.py](parse_score.py)：自动规范化处理曲谱文件的脚本。
 
 ## 目前进度
 
