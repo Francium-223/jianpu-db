@@ -40,7 +40,7 @@ def goto_node(p):
 	for i in p:
 		a = a[i]
 	return a
-class ParseMetadata():
+class Score():
 	def __init__(self, score):
 		self.score = score
 		self.tag = []
@@ -198,10 +198,7 @@ class ParseMetadata():
 			print(f'Error: file \'{self.score}\' not found!')
 			raise
 		except BadBufError:
-			print(f'Bad buf: {prefix + '_buf.txt'}')
+			print(f'Bad buf: {prefix + '_buf.txt'}!')
 	def parse(self):
 		self.makebuf()
 		self.movebuf()
-if __name__ == "__main__":
-	a = ParseMetadata(sys.argv[1])
-	a.parse()
