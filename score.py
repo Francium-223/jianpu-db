@@ -308,7 +308,7 @@ class Score():
 				dest = Path(filename)
 				Path(filename).parent.mkdir(parents=True, exist_ok=True)
 				dest.unlink(missing_ok=True)
-				dest.symlink_to(self.score)
+				dest.symlink_to(os.path.relpath(self.score, start=filename))
 		except FileNotFoundError:
 			print(f'Error: file \'{self.score}\' not found!')
 			raise
