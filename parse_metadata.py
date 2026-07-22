@@ -1,6 +1,7 @@
 import sys
 import json
 import re
+import shutil
 with open('tag_imply.json', 'r', encoding='utf-8') as f1:
 	imply = json.load(f1)
 with open('tag_equal.json', 'r', encoding='utf-8') as f2:
@@ -8,6 +9,8 @@ with open('tag_equal.json', 'r', encoding='utf-8') as f2:
 class NotMBIDError(Exception):
 	pass
 class NotTitleError(Exception):
+	pass
+class BadBufError(Exception):
 	pass
 def safe_add(a, b):
 	c = a[:]
@@ -92,7 +95,7 @@ class ParseMetadata():
 			if not i in ['file', 'title', 'tag', 'usertag', 'type']:
 				b[i] = self.others[i]
 		self.others = b
-	def parse(self):
+	def makebuf(self):
 		try:
 			with open(self.score, 'r', encoding='utf-8') as f:
 				raw = f.readlines()
@@ -165,7 +168,7 @@ class ParseMetadata():
 						d = True
 					if d:
 						print(i.rstrip('\n'), file=f)
-				if not ('').join(raw).rstrip('\n').lower().endswith('%end'):
+				if not ('').join(raw).replace('\n', '').replace('\r', '').lower().endswith('%end'):
 					print('%END', end='', file=f)
 			with open(('.').join(self.score.split('.')[:-1]) + '_buf.json', 'w', encoding='utf-8') as f:
 				self.prioritize_title_and_tag()
@@ -182,6 +185,23 @@ class ParseMetadata():
 		except FileNotFoundError:
 			print(f'Error: file \'{self.score}\' not found!')
 			raise
+	def movebuf(self):
+		try:
+			prefix = ('.').join(self.score.split('.')[:-1])
+			with open(prefix + '_buf.txt', 'r', encoding='utf-8') as f:
+				raw = f.read()
+				if not raw.replace('\n', '').replace('\r', '').lower().endswith('%end'):
+					raise BadBufError
+			shutil.move(prefix + '_buf.txt', prefix + '.txt')
+			shutil.move(prefix + '_buf.json', prefix + '.json')
+		except FileNotFoundError:
+			print(f'Error: file \'{self.score}\' not found!')
+			raise
+		except BadBufError:
+			print(f'Bad buf: {prefix + '_buf.txt'}')
+	def parse(self):
+		self.makebuf()
+		self.movebuf()
 if __name__ == "__main__":
 	a = ParseMetadata(sys.argv[1])
 	a.parse()

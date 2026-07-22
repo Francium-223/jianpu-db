@@ -136,6 +136,7 @@ NextScore
 subtitle=outro
 1 - - - 2 - - - 7 - - - 3 - - -
 %END
+
 ```
 
 |行|解释|
