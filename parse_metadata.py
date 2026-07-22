@@ -9,15 +9,6 @@ class NotMBIDError(Exception):
 	pass
 class NotTitleError(Exception):
 	pass
-tag = []
-usertag = []
-origtag = []
-nottag = []
-orignottag = []
-mbid = ''
-title = ''
-others = {'tag': [], 'usertag': [], }
-comments = []
 def safe_add(a, b):
 	c = a[:]
 	for i in b:
@@ -32,50 +23,6 @@ def safe_minus(a, b):
 		if not i in b:
 			c.append(i)
 	return c
-def find_tag(n):
-	global tag
-	global origtag
-	if n.startswith('!'):
-		find_nottag(n.lstrip('!'))
-		return
-	for i in equal:
-		if n in i:
-			tag = safe_add(tag, i)
-			if n in origtag:
-				origtag = safe_add(origtag, i)
-	tag = safe_add(tag, [n])
-	for i in tag:
-		where_imply(i, [])
-def find_nottag(n):
-	global nottag
-	global orignottag
-	for i in equal:
-		if n in i:
-			nottag = safe_add(nottag, i)
-			if n in orignottag:
-				orignottag = safe_add(orignottag, i)
-	nottag = safe_add(nottag, [n])
-	for i in nottag:
-		where_not_imply(i, [])
-def goto(p):
-	if p == []:
-		return imply
-	a = imply
-	for i in p:
-		a = a[i]
-	return a
-def where_imply(n, p):
-	global tag
-	for k, v in goto(p).items():
-		if k == n and set(origtag) & set(p + [k]):
-			tag = safe_add(tag, p)
-		where_imply(n, p + [k])
-def where_not_imply(n, p):
-	global nottag
-	for k, v in goto(p).items():
-		if k == n and set(orignottag) & set(p):
-			nottag = safe_add(nottag, p)
-		where_not_imply(n, p + [k])
 def get_meta_lines(s):
 	d = []
 	for i in s:
@@ -83,93 +30,158 @@ def get_meta_lines(s):
 		if i.replace(' ', '').startswith('%--'):
 			return d
 	return []
-def prioritize_title_and_tag(a):
-	b = {}
-	b['file'] = a['file']
-	b['title'] = a['title']
-	b['usertag'] = a['usertag']
-	b['tag'] = a['tag']
-	for i in a.keys():
-		if not i in ['file', 'title', 'tag', 'usertag']:
-			b[i] = a[i]
-	return(b)
-score = sys.argv[1]
-try:
-	with open(score, 'r', encoding='utf-8') as f:
-		raw = f.readlines()
-	for i in get_meta_lines(raw):
-		i = i.rstrip('\n')
-		if i.replace(' ', '').startswith('%--'):
-			continue
-		if i.replace(' ', '').lower().startswith('mbid='):
-			mbid = i[i.find('=') + 1:].strip(' ')
-			if not re.match('[0123456789abcdef]{8}-[0123456789abcdef]{4}-[0123456789abcdef]{4}-[0123456789abcdef]{4}-[0123456789abcdef]{12}', mbid) and False:
-				raise NotMBIDError
-			continue
-		if i.replace(' ', '').startswith('usertag='):
-			for j in re.split(r'[,|，|、]', i[i.find('=') + 1:].strip(' ')):
-				usertag = safe_add(usertag, [j])
-				origtag = safe_add(origtag, [j])
-				find_tag(j.strip(' '))
-			continue
-		'''
-		if i.replace(' ', '').startswith('tag='):
-			for j in re.split(r'[,|，|、]', i[i.find('=') + 1:].strip(' ')):
-				origtag.append(j)
-				find_tag(j.strip(' '))
-			continue
-		'''
-		if i.replace(' ', '').startswith('title='):
-			title = i[i.find('=') + 1:].strip(' ')
-			continue
-		if '=' in i:
-			t = i[:i.find('=')].strip(' ')
-			if t in others.keys():
-				others[t] = safe_add(others[t], re.split(r'[,|，|、]', i[i.find('=') + 1:].strip(' ')))
-			else:
-				others[t] = safe_add([], re.split(r'[,|，|、]', i[i.find('=') + 1:].strip(' ')))
-			continue
-		if i == '%' + score.split('/')[-1]:
-			continue
-		if i.startswith('%'):
-			comments.append(i.rstrip('\n'))
-			continue
-		for j in re.split(r'[,|，|、]', i[i.find('=') + 1:].strip(' ')):
-			usertag = safe_add(usertag, [j])
-			origtag = safe_add(origtag, [j])
-			find_tag(j.strip(' '))
-	maybetag = safe_minus(tag, nottag)
-	others['usertag'] = []
-	for i in usertag:
-		others['usertag'] = safe_add(others['usertag'], [i])
-	for i in maybetag:
-		others['tag'] = safe_add(others['tag'], [i])
-		for j in equal:
-			if i in j:
-				others['tag'] = safe_add(others['tag'], j)
-	with open(score, 'w', encoding='utf-8') as f:
-		print('%' + score.split('/')[-1], file=f)
-		for i in comments:
-			print(i.rstrip('\n'), file=f)
-		print('MBID=' + mbid, file=f)
-		print('title=' + title, file=f)
-		for i in others.keys():
-			print(i + '=' + (',').join(others[i]), file=f)
-		others['title'] = title
-		others['file'] = score.split('/')[-1]
-		d = False
-		for i in raw:
-			if i.replace(' ', '').startswith('%--'):
-				d = True
-			if d:
-				print(i.rstrip('\n'), file=f)
-	with open(('.').join(score.split('.')[:-1]) + '.json', 'w', encoding='utf-8') as f:
-		json.dump({mbid : prioritize_title_and_tag(others)}, f, indent=4, ensure_ascii=False)
-except NotMBIDError:
-	print('Error: no MBID!')
-	print(f'Try adding \'MBID=(what you\'ve found in your address bar after \'https://musicbrainz.org/work/\'.)\'.)\' in {score}.')
-except NotTitleError:
-	print(f'Error: no title!')
-	print(f'Try adding \'title=(your preferred title)\' in {score}.')
-except FileNotFoundError:
-	print(f'Error: file \'{score}\' not found!')
+def goto_node(p):
+	if p == []:
+		return imply
+	a = imply
+	for i in p:
+		a = a[i]
+	return a
+class ParseMetadata():
+	def __init__(self, score):
+		self.score = score
+		self.tag = []
+		self.usertag = []
+		self.origtag = []
+		self.nottag = []
+		self.orignottag = []
+		self.mbid = ''
+		self.title = ''
+		self.type = 'work'
+		self.others = {'tag': [], 'usertag': []}
+		self.comments = []
+	def find_tag(self, n):
+		if n.startswith('!'):
+			find_nottag(n.lstrip('!'))
+			return
+		for i in equal:
+			if n in i:
+				self.tag = safe_add(self.tag, i)
+				if n in self.origtag:
+					self.origtag = safe_add(self.origtag, i)
+		self.tag = safe_add(self.tag, [n])
+		for i in self.tag:
+			self.where_imply(i, [])
+	def find_nottag(self, n):
+		for i in equal:
+			if n in i:
+				self.nottag = safe_add(self.nottag, i)
+				if n in self.orignottag:
+					self.orignottag = safe_add(self.orignottag, i)
+		self.nottag = safe_add(self.nottag, [n])
+		for i in self.nottag:
+			self.where_not_imply(i, [])
+	def where_imply(self, n, p):
+		for k, v in goto_node(p).items():
+			if k == n and set(self.origtag) & set(p + [k]):
+				self.tag = safe_add(self.tag, p)
+			self.where_imply(n, p + [k])
+	def where_not_imply(n, p):
+		for k, v in goto_node(p).items():
+			if k == n and set(self.orignottag) & set(p):
+				self.nottag = safe_add(self.nottag, p)
+			self.where_not_imply(n, p + [k])
+	def prioritize_title_and_tag(self):
+		b = {}
+		b['file'] = self.others['file']
+		b['type'] = self.others['type']
+		b['title'] = self.others['title']
+		b['usertag'] = self.others['usertag']
+		b['tag'] = self.others['tag']
+		for i in self.others.keys():
+			if not i in ['file', 'title', 'tag', 'usertag', 'type']:
+				b[i] = self.others[i]
+		self.others = b
+	def parse(self):
+		try:
+			with open(self.score, 'r', encoding='utf-8') as f:
+				raw = f.readlines()
+			for i in get_meta_lines(raw):
+				i = i.rstrip('\n')
+				if i.replace(' ', '').startswith('%--'):
+					continue
+				if i.replace(' ', '').lower().startswith('mbid='):
+					self.mbid = i[i.find('=') + 1:].strip(' ')
+					if not re.match('[0123456789abcdef]{8}-[0123456789abcdef]{4}-[0123456789abcdef]{4}-[0123456789abcdef]{4}-[0123456789abcdef]{12}', self.mbid) and False:
+						raise NotMBIDError
+					continue
+				if i.replace(' ', '').startswith('usertag='):
+					for j in re.split(r'[,|，|、]', i[i.find('=') + 1:].strip(' ')):
+						self.usertag = safe_add(self.usertag, [j])
+						self.origtag = safe_add(self.origtag, [j])
+						self.find_tag(j.strip(' '))
+					continue
+				if i.replace(' ', '').startswith('title='):
+					self.title = i[i.find('=') + 1:].strip(' ')
+					continue
+				if i.replace(' ', '').startswith('type='):
+					worktypes = ['work', 'recording']
+					if i[i.find('=') + 1:].strip(' ').lower() in worktypes:
+						self.type = i[i.find('=') + 1:].strip(' ').lower()
+					else:
+						print(f'Warning: invalid type {i[i.find('=') + 1:].strip(' ')}. Changed to \'work\'.')
+						print(f'Valid types are: {', '.join(worktypes)}.')
+					continue
+				if '=' in i:
+					t = i[:i.find('=')].strip(' ')
+					if t in self.others.keys():
+						self.others[t] = safe_add(self.others[t], re.split(r'[,|，|、]', i[i.find('=') + 1:].strip(' ')))
+					else:
+						self.others[t] = safe_add([], re.split(r'[,|，|、]', i[i.find('=') + 1:].strip(' ')))
+					continue
+				if i == '%' + self.score.split('/')[-1]:
+					continue
+				if i.startswith('%'):
+					comments.append(i.rstrip('\n'))
+					continue
+				for j in re.split(r'[,|，|、]', i[i.find('=') + 1:].strip(' ')):
+					self.usertag = safe_add(self.usertag, [j])
+					self.origtag = safe_add(self.origtag, [j])
+					find_tag(j.strip(' '))
+			maybetag = safe_minus(self.tag, self.nottag)
+			self.others['usertag'] = []
+			for i in self.usertag:
+				self.others['usertag'] = safe_add(self.others['usertag'], [i])
+			for i in maybetag:
+				self.others['tag'] = safe_add(self.others['tag'], [i])
+				for j in equal:
+					if i in j:
+						self.others['tag'] = safe_add(self.others['tag'], j)
+			with open(('.').join(self.score.split('.')[:-1]) + '_buf.txt', 'w', encoding='utf-8') as f:
+				print('%' + self.score.split('/')[-1], file=f)
+				for i in self.comments:
+					print(i.rstrip('\n'), file=f)
+				print('MBID=' + self.mbid, file=f)
+				print('title=' + self.title, file=f)
+				print('type=' + self.type, file=f)
+				for i in self.others.keys():
+					print(i + '=' + (',').join(self.others[i]), file=f)
+				self.others['title'] = self.title
+				self.others['type'] = self.type
+				self.others['file'] = self.score.split('/')[-1]
+				d = False
+				for i in raw:
+					if i.replace(' ', '').startswith('%--'):
+						d = True
+					if d:
+						print(i.rstrip('\n'), file=f)
+				if not ('').join(raw).rstrip('\n').lower().endswith('%end'):
+					print('%END', end='', file=f)
+			with open(('.').join(self.score.split('.')[:-1]) + '_buf.json', 'w', encoding='utf-8') as f:
+				self.prioritize_title_and_tag()
+				json.dump({self.mbid : self.others}, f, indent=4, ensure_ascii=False)
+			return 0
+		except NotMBIDError:
+			print('Error: no MBID!')
+			print(f'Try adding \'MBID=(what you\'ve found in your address bar after \'https://musicbrainz.org/work/\'.)\'.)\' in {self.score}.')
+			raise
+		except NotTitleError:
+			print(f'Error: no title!')
+			print(f'Try adding \'title=(your preferred title)\' in {self.score}.')
+			raise
+		except FileNotFoundError:
+			print(f'Error: file \'{self.score}\' not found!')
+			raise
+if __name__ == "__main__":
+	a = ParseMetadata(sys.argv[1])
+	a.parse()
