@@ -86,7 +86,7 @@ class Score():
 		self.comments = []
 	def find_tag(self, n):
 		if n.startswith('!'):
-			find_nottag(n.lstrip('!'))
+			self.find_nottag(n.lstrip('!'))
 			return
 		for i in equal:
 			for j in i:
@@ -128,16 +128,14 @@ class Score():
 				for l in self.origtag:
 					if ('/').join(q).endswith(l):
 						self.tag_route = maybe_add(self.tag_route, ('/').join(q))
-						print(self.tag_route)
 						for m in range(1, len(q) + 1):
 							self.all_tag_route = safe_add(self.all_tag_route, [('/').join(q[:m])])
 						#self.all_tag_route = safe_add(self.all_tag_route, [('/').join(q)])
-						print('atr', self.all_tag_route)
 			if o:
 				self.where_imply(('/').join(o[1:]), q)
 			else:
 				self.where_imply(n, q)
-	def where_not_imply(n, p):
+	def where_not_imply(self, n, p):
 		o = ''
 		if '/' in n:
 			o = n.split('/')
@@ -210,7 +208,7 @@ class Score():
 				for j in re.split(r'[,|，|、]', i[i.find('=') + 1:].strip(' ')):
 					self.usertag = safe_add(self.usertag, [j.strip(' ')])
 					self.origtag = safe_add(self.origtag, [j.strip(' ')])
-					find_tag(j.strip(' '))
+					self.find_tag(j.strip(' '))
 			for n in self.all_tag_route:
 				for i in equal:
 					for j in i:
@@ -252,11 +250,11 @@ class Score():
 			return 0
 		except NotMBIDError:
 			print('Error: no MBID!')
-			print(f'Try adding \'MBID=(what you\'ve found in your address bar after \'https://musicbrainz.org/work/\').\' in {self.score}.')
+			print(f'Try adding \'MBID=(what you\'ve found in your address bar after \'https://musicbrainz.org/work/\').\' to {self.score}.')
 			raise
 		except NotTitleError:
 			print(f'Error: no title!')
-			print(f'Try adding \'title=(your preferred title)\' in {self.score}.')
+			print(f'Try adding \'title=(your preferred title)\' to {self.score}.')
 			raise
 		except FileNotFoundError:
 			print(f'Error: file \'{self.score}\' not found!')
@@ -273,14 +271,14 @@ class Score():
 			print(f'Error: file \'{self.score}\' not found!')
 			raise
 		except BadBufError:
-			print(f'Bad buf: {prefix + '_buf.txt'}!')
+			print(f'Bad buf: {self.prefix + '_buf.txt'}!')
 	def makelnk(self):
 		try:
 			with open(self.prefix + '.json', 'r', encoding='utf-8') as f:
 				file = json.load(f)
 			attrib = file[self.mbid]
 			for i in attrib.keys():
-				if i == ['usertag', 'type']:
+				if i in ['usertag', 'type']:
 					pass
 				elif i in ['title', 'mbid']:
 					os.symlink(self.score, 'by_title/' + attrib['title'])
