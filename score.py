@@ -1,11 +1,15 @@
 import sys
 import json
 import re
+import os
 import shutil
+import warnings
 with open('tag_imply.json', 'r', encoding='utf-8') as f1:
 	imply = json.load(f1)
 with open('tag_equal.json', 'r', encoding='utf-8') as f2:
-	equal = json.load(f2) 
+	equal = json.load(f2)
+class NoScoreError(Exception):
+	pass
 class NotMBIDError(Exception):
 	pass
 class NotTitleError(Exception):
@@ -26,6 +30,29 @@ def safe_minus(a, b):
 		if not i in b:
 			c.append(i)
 	return c
+def maybe_add(a, b):
+	c = []
+	s = True
+	for i in range(len(a)):
+		if b == a[i]:
+			s = False
+			c.append(a[i])
+			continue
+		elif b.startswith(a[i]) and not s:
+			s = True
+			continue
+		c.append(a[i])
+	if s:
+		c.append(b)
+		s = False
+	if not c:
+		c = [b]
+	return c
+def same_ends(a, b):
+	for i in range(1, min(len(b) + 1, len(a) + 1)):
+		if not b[-i] == a[-i]:
+			return False
+	return True
 def get_meta_lines(s):
 	d = []
 	for i in s:
@@ -43,6 +70,10 @@ def goto_node(p):
 class Score():
 	def __init__(self, score):
 		self.score = score
+		self.prefix = ('.').join(self.score.split('.')[:-1])
+		self.tag_route = []
+		self.all_tag_route = []
+		self.nottag_route = []
 		self.tag = []
 		self.usertag = []
 		self.origtag = []
@@ -58,13 +89,25 @@ class Score():
 			find_nottag(n.lstrip('!'))
 			return
 		for i in equal:
-			if n in i:
-				self.tag = safe_add(self.tag, i)
-				if n in self.origtag:
+			for j in i:
+				if same_ends(j.split('/'), n.split('/')):
+					self.tag = safe_add(self.tag, j.split('/'))
 					self.origtag = safe_add(self.origtag, i)
-		self.tag = safe_add(self.tag, [n])
-		for i in self.tag:
+					break
+		for i in self.origtag:
 			self.where_imply(i, [])
+		maybe_homonym = {}
+		for i in range(len(self.tag_route)):
+			for j in range(i + 1, len(self.tag_route)):
+				a = self.tag_route[i]
+				b = self.tag_route[j]
+				if a.split('/')[-1] == b.split('/')[-1]:
+					if not a.split('/')[-1] in maybe_homonym.keys():
+						maybe_homonym = {a.split('/')[-1] : [a, b]}
+					else:
+						maybe_homonym[a.split('/')[-1]].append(b)
+		for k, v in maybe_homonym.items():
+			warnings.warn(f'Ambiguous term \'{k}\'. You mean \'{('\' or \'').join(set(v))}\'?')
 	def find_nottag(self, n):
 		for i in equal:
 			if n in i:
@@ -75,15 +118,43 @@ class Score():
 		for i in self.nottag:
 			self.where_not_imply(i, [])
 	def where_imply(self, n, p):
+		o = ''
+		if '/' in n:
+			o = n.split('/')
+			n = o[0]
 		for k, v in goto_node(p).items():
-			if k == n and set(self.origtag) & set(p + [k]):
-				self.tag = safe_add(self.tag, p)
-			self.where_imply(n, p + [k])
+			q = p + [k]
+			if k == n:
+				for l in self.origtag:
+					if ('/').join(q).endswith(l):
+						self.tag_route = maybe_add(self.tag_route, ('/').join(q))
+						print(self.tag_route)
+						for m in range(1, len(q) + 1):
+							self.all_tag_route = safe_add(self.all_tag_route, [('/').join(q[:m])])
+						#self.all_tag_route = safe_add(self.all_tag_route, [('/').join(q)])
+						print('atr', self.all_tag_route)
+			if o:
+				self.where_imply(('/').join(o[1:]), q)
+			else:
+				self.where_imply(n, q)
 	def where_not_imply(n, p):
+		o = ''
+		if '/' in n:
+			o = n.split('/')
+			n = o[0]
 		for k, v in goto_node(p).items():
 			if k == n and set(self.orignottag) & set(p):
 				self.nottag = safe_add(self.nottag, p)
 			self.where_not_imply(n, p + [k])
+		for k, v in goto_node(p).items():
+			if k == n:
+				for l in self.orignottag:
+					if ('/').join(p + [k]).endswith(l):
+						self.nottag_route = maybe_add(self.nottag_route, ('/').join(p + [k]))
+			if o:
+				self.where_not_imply(('/').join(o[1:]), p + [k])
+			else:
+				self.where_not_imply(n, p + [k])
 	def prioritize_title_and_tag(self):
 		b = {}
 		b['file'] = self.others['file']
@@ -110,8 +181,8 @@ class Score():
 					continue
 				if i.replace(' ', '').startswith('usertag='):
 					for j in re.split(r'[,|，|、]', i[i.find('=') + 1:].strip(' ')):
-						self.usertag = safe_add(self.usertag, [j])
-						self.origtag = safe_add(self.origtag, [j])
+						self.usertag = safe_add(self.usertag, [j.strip(' ')])
+						self.origtag = safe_add(self.origtag, [j.strip(' ')])
 						self.find_tag(j.strip(' '))
 					continue
 				if i.replace(' ', '').startswith('title='):
@@ -122,8 +193,7 @@ class Score():
 					if i[i.find('=') + 1:].strip(' ').lower() in worktypes:
 						self.type = i[i.find('=') + 1:].strip(' ').lower()
 					else:
-						print(f'Warning: invalid type {i[i.find('=') + 1:].strip(' ')}. Changed to \'work\'.')
-						print(f'Valid types are: {', '.join(worktypes)}.')
+						warnings.warn(f'invalid type {i[i.find('=') + 1:].strip(' ')}. Changed to \'work\'. Valid types are: {', '.join(worktypes)}.')
 					continue
 				if '=' in i:
 					t = i[:i.find('=')].strip(' ')
@@ -135,12 +205,18 @@ class Score():
 				if i == '%' + self.score.split('/')[-1]:
 					continue
 				if i.startswith('%'):
-					comments.append(i.rstrip('\n'))
+					self.comments.append(i.rstrip('\n'))
 					continue
 				for j in re.split(r'[,|，|、]', i[i.find('=') + 1:].strip(' ')):
-					self.usertag = safe_add(self.usertag, [j])
-					self.origtag = safe_add(self.origtag, [j])
+					self.usertag = safe_add(self.usertag, [j.strip(' ')])
+					self.origtag = safe_add(self.origtag, [j.strip(' ')])
 					find_tag(j.strip(' '))
+			for n in self.all_tag_route:
+				for i in equal:
+					for j in i:
+						if same_ends(j.split('/'), n.split('/')):
+							self.tag = safe_add(self.tag, j.split('/'))
+							break
 			maybetag = safe_minus(self.tag, self.nottag)
 			self.others['usertag'] = []
 			for i in self.usertag:
@@ -176,7 +252,7 @@ class Score():
 			return 0
 		except NotMBIDError:
 			print('Error: no MBID!')
-			print(f'Try adding \'MBID=(what you\'ve found in your address bar after \'https://musicbrainz.org/work/\'.)\'.)\' in {self.score}.')
+			print(f'Try adding \'MBID=(what you\'ve found in your address bar after \'https://musicbrainz.org/work/\').\' in {self.score}.')
 			raise
 		except NotTitleError:
 			print(f'Error: no title!')
@@ -184,21 +260,42 @@ class Score():
 			raise
 		except FileNotFoundError:
 			print(f'Error: file \'{self.score}\' not found!')
-			raise
+			raise NoScoreError
 	def movebuf(self):
 		try:
-			prefix = ('.').join(self.score.split('.')[:-1])
-			with open(prefix + '_buf.txt', 'r', encoding='utf-8') as f:
+			with open(self.prefix + '_buf.txt', 'r', encoding='utf-8') as f:
 				raw = f.read()
 				if not raw.replace('\n', '').replace('\r', '').lower().endswith('%end'):
 					raise BadBufError
-			shutil.move(prefix + '_buf.txt', prefix + '.txt')
-			shutil.move(prefix + '_buf.json', prefix + '.json')
+			shutil.move(self.prefix + '_buf.txt', self.prefix + '.txt')
+			shutil.move(self.prefix + '_buf.json', self.prefix + '.json')
 		except FileNotFoundError:
 			print(f'Error: file \'{self.score}\' not found!')
 			raise
 		except BadBufError:
 			print(f'Bad buf: {prefix + '_buf.txt'}!')
+	def makelnk(self):
+		try:
+			with open(self.prefix + '.json', 'r', encoding='utf-8') as f:
+				file = json.load(f)
+			attrib = file[self.mbid]
+			for i in attrib.keys():
+				if i == ['usertag', 'type']:
+					pass
+				elif i in ['title', 'mbid']:
+					os.symlink(self.score, 'by_title/' + attrib['title'])
+				elif i == 'alias':
+					for j in attrib['alias']:
+						os.symlink(self.score, 'by_title/' + j)
+				else:
+					pass
+		except FileNotFoundError:
+			print(f'Error: file \'{self.score}\' not found!')
+			raise
 	def parse(self):
-		self.makebuf()
-		self.movebuf()
+		try:
+			self.makebuf()
+			self.movebuf()
+			#self.makelnk()
+		except NoScoreError:
+			pass
