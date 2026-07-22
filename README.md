@@ -12,9 +12,9 @@
 
 [data.json](data.json)：存储歌曲元数据的文件，由脚本将score文件夹中的元数据自动拼接生成。
 
-[tag_imply.json](tag_imply.json)：标签间的蕴涵关系，如`东方星莲船`蕴涵`东方原曲`。
+[tag_implication.json](tag_implication.json)：标签间的蕴涵关系，如`东方星莲船`蕴涵`东方原曲`。
 
-[tag_equal.json](tag_equal.json)：标签间的等同关系，如`东方星莲船`等同`th12`。
+[tag_equality.json](tag_equality.json)：标签间的等同关系，如`东方星莲船`等同`th12`。
 
 <details>
     <summary>by_xxx：按xxx寻找曲谱（通过软链接）的文件夹。</summary>
@@ -221,7 +221,7 @@ opus=作品编号
 
 #### 提示
 
-一般来说，一些标签具有蕴涵关系，可以只写一个标签也能自动生成对应的标签。如（见[tag_imply.json](tag_imply.json)和[tag_equal.json](tag_equal.json)。）
+一般来说，一些标签具有蕴涵关系，可以只写一个标签也能自动生成对应的标签。如（见[tag_implications.json](tag_implications.json)和[tag_equality.json](tag_equality.json)。）
 
 ```json
 "foo": {
@@ -242,7 +242,7 @@ opus=作品编号
 
 对于这样的标签，如果只写“nina”，它会提醒你有歧义（虽然程序能正常运行）。因此，如果要避免歧义，请在标记时写成`touhou/nina`或者`gbc/nina`以消歧义。
 
-一般来说，如果有100首含有标签`bar`的歌，其中有99首歌都同时也有标签`foo`，有1首歌没有标签`foo`，那也应该在[tag_imply.json](tag_imply.json)里这么写，并在曲谱中给那首没有`foo`的歌标注：
+一般来说，如果有100首含有标签`bar`的歌，其中有99首歌都同时也有标签`foo`，有1首歌没有标签`foo`，那也应该在[tag_implications.json](tag_implications.json)里这么写，并在曲谱中给那首没有`foo`的歌标注：
 
 `tag=foo,!bar`
 
