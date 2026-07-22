@@ -50,9 +50,19 @@ def maybe_add(a, b):
 	return c
 def same_ends(a, b):
 	for i in range(1, min(len(b) + 1, len(a) + 1)):
-		if not b[-i] == a[-i]:
+		if not equal_tag(b[-i], a[-i]):
 			return False
 	return True
+def equal_in(a, b):
+	for i in a:
+		if b == i.split('/')[-1]:
+			return True
+	return False
+def equal_tag(a, b):
+	for i in equal:
+		if equal_in(i, a) and equal_in(i, b):
+			return True
+	return False
 def get_meta_lines(s):
 	d = []
 	for i in s:
@@ -213,7 +223,7 @@ class Score():
 				for i in equal:
 					for j in i:
 						if same_ends(j.split('/'), n.split('/')):
-							self.tag = safe_add(self.tag, j.split('/'))
+							self.tag = safe_add(self.tag, n.split('/'))
 							break
 			maybetag = safe_minus(self.tag, self.nottag)
 			self.others['usertag'] = []
