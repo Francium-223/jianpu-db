@@ -4,9 +4,9 @@ import re
 import os
 import shutil
 import warnings
-with open('tag_imply.json', 'r', encoding='utf-8') as f1:
+with open('tag_implications.json', 'r', encoding='utf-8') as f1:
 	imply = json.load(f1)
-with open('tag_equal.json', 'r', encoding='utf-8') as f2:
+with open('tag_equality.json', 'r', encoding='utf-8') as f2:
 	equal = json.load(f2)
 class NoScoreError(Exception):
 	pass
