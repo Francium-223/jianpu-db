@@ -1,6 +1,4 @@
 %th09_01.txt
-%END
-%END
 MBID=00aef610-1376-3f79-87c5-cd649860ef4f
 title=花映塚　～ Higan Retour
 type=work
@@ -8,5 +6,6 @@ tag=th09,东方花映塚,东方,touhou,东方原曲,ZUN,东方新作原曲,东�
 usertag=th09
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th09
 alias=花映塚　～ Higan Retour
-copyright=ZUN
+%---
+1
 %END
