@@ -27,6 +27,8 @@
 
 [parse_score.py](parse_score.py)：自动规范化处理曲谱文件的脚本。
 
+[semitone_offset.py](semitone_offset.py)：曲谱转调用的脚本。
+
 ## 目前进度
 
 ⬛=无文件，🟥=自动生成，待人工审核
@@ -222,7 +224,7 @@ opus=作品编号
 
 #### 提示
 
-一般来说，一些标签具有蕴涵关系，可以只写一个标签也能自动生成对应的标签。如（见[tag_implications.json](tag_implications.json)和[tag_equality.json](tag_equality.json)。）
+一般来说，一些标签具有蕴涵关系，可以只写一个标签也能自动生成对应的标签。如（见[tag_implications.json](tag_implications.json)和[tag_equality.json](tag_equality.json)。）这样的代码意味着标签`bar`蕴涵`foo`——如果你只写了标签`bar`，脚本也会自动加上`foo`。
 
 ```json
 "foo": {
@@ -230,7 +232,7 @@ opus=作品编号
 }
 ```
 
-有的标签可能产生歧义，举个例子，比方说[东方](https://mzh.moegirl.org.cn/东方Project)里的[渡里贝子](https://mzh.moegirl.org.cn/渡里贝子)（渡里**ニナ**，Watari **Nina**）和[GBC](https://mzh.moegirl.org.cn/GIRLS_BAND_CRY)（不是[GameBoy Color](https://nintendo.fandom.com/wiki/Game_Boy_Color)）里的[井芹仁菜](https://mzh.moegirl.org.cn/井芹仁菜)（井芹**仁菜**，Iseri **Nina**）都是`nina`（这个例子不是很恰当），那么可能就会有这样的蕴涵：
+有的标签可能产生歧义，举个例子，比方说[东方](https://mzh.moegirl.org.cn/东方Project)里的[渡里贝子](https://mzh.moegirl.org.cn/渡里贝子)（渡里**ニナ**，Watari **Nina**）和[GBC](https://mzh.moegirl.org.cn/GIRLS_BAND_CRY)（不是[GameBoy Color](https://nintendo.fandom.com/wiki/Game_Boy_Color)）里的[井芹仁菜](https://mzh.moegirl.org.cn/井芹仁菜)（井芹**仁菜**，Iseri **Nina**）都是`nina`（这个例子不是很恰当，可以换一个），那么可能就会有这样的蕴涵：
 
 ```json
 "touhou": {
@@ -253,9 +255,15 @@ opus=作品编号
 
 ### 鸣谢
 
-[ssb22/jianpu-ly](https://github.com/ssb22/jianpu-ly/blob/master/README_zh-Hans.md)：规范的记谱语言
+[jianpu-ly](https://github.com/ssb22/jianpu-ly/blob/master/README_zh-Hans.md)：规范的记谱语言
+
+[Partitura](https://github.com/CPJKU/partitura)：MIDI转MusicXML的工具
+
+[mxml2jp](https://github.com/Kai2510/mxml2jp)：MusicXML转jianpu-ly的工具
 
 [MusicBrainz](https://musicbrainz.org/)：为歌曲提供唯一且确定的序号
+
+[Touhou Midi Collection](https://github.com/AyHa1810/touhou-midi-collection)：东方原曲MIDI
 
 ### 友情链接
 
