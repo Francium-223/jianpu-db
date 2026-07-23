@@ -68,7 +68,7 @@ def get_meta_lines(s):
 		d.append(i)
 		if i.replace(' ', '').startswith('%--'):
 			return d
-	return []
+	return d
 def goto_node(p):
 	if p == []:
 		return imply
@@ -298,8 +298,8 @@ class Score():
 				if i in ['usertag', 'type', 'file']:
 					continue
 				elif i == 'title':
-					if attrib['title'][0] in 'qwertyuioppasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBN1234567890':
-						if attrib['title'][1] in 'qwertyuioppasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBN1234567890':
+					if attrib['title'][0] in 'qwertyuioppasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM1234567890':
+						if attrib['title'][1] in 'qwertyuioppasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM1234567890':
 							filename = 'by_title/' + attrib['title'][0].upper() + '/' + attrib['title'][1].upper() + '/' + attrib['title'] + '/' + self.score.split('/')[-1]
 						else:
 							filename = 'by_title/' + attrib['title'][0].upper() + '/others/' + attrib['title'] + '/' + self.score.split('/')[-1]
@@ -310,6 +310,12 @@ class Score():
 				else:
 					for j in attrib[i]:
 						filename = f'by_{i}/' + j + '/' + self.score.split('/')[-1]
+						filename = ('').join(filename.split('.')[:-1]) + '.' + filename.split('.')[-1]
+						filename = filename.replace('?', '')
+						dest = Path(filename)
+						Path(filename).parent.mkdir(parents=True, exist_ok=True)
+						dest.unlink(missing_ok=True)
+						dest.symlink_to(os.path.relpath(self.score, start=filename))
 				filename = ('').join(filename.split('.')[:-1]) + '.' + filename.split('.')[-1]
 				filename = filename.replace('?', '')
 				dest = Path(filename)
