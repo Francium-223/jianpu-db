@@ -234,7 +234,7 @@ class Score():
 	def process_others(self):
 		for n in self.all_tag_route:
 			#print(self.tag, n.split('/'))
-			#self.tag = safe_add(self.tag, n.split('/'))
+			self.tag = safe_add(self.tag, n.split('/'))
 			for i in equal:
 				for j in i:
 					if same_ends(j.split('/'), n.split('/')):
@@ -300,16 +300,18 @@ class Score():
 				elif i == 'title':
 					if attrib['title'][0] in 'qwertyuioppasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBN1234567890':
 						if attrib['title'][1] in 'qwertyuioppasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBN1234567890':
-							filename = 'by_title/' + attrib['title'][0] + '/' + attrib['title'][1] + attrib['title'] + '/' + self.score.split('/')[-1]
+							filename = 'by_title/' + attrib['title'][0].upper() + '/' + attrib['title'][1].upper() + '/' + attrib['title'] + '/' + self.score.split('/')[-1]
 						else:
-							filename = 'by_title/' + attrib['title'][0] + '/others/' + attrib['title'] + '/' + self.score.split('/')[-1]
+							filename = 'by_title/' + attrib['title'][0].upper() + '/others/' + attrib['title'] + '/' + self.score.split('/')[-1]
 					else:
 						filename = 'by_title/others/' + attrib['title'] + '/' + self.score.split('/')[-1]
 				elif i == 'mbid':
-					filename = 'by_mbid/' + attrib['mbid'][0] + '/' + attrib['mbid'][0] + attrib['mbid'][1] + self.mbid
+					filename = 'by_mbid/' + attrib['mbid'][0] + '/' + attrib['mbid'][1] + '/' + self.mbid
 				else:
 					for j in attrib[i]:
 						filename = f'by_{i}/' + j + '/' + self.score.split('/')[-1]
+				filename = ('').join(filename.split('.')[:-1]) + '.' + filename.split('.')[-1]
+				filename = filename.replace('?', '')
 				dest = Path(filename)
 				Path(filename).parent.mkdir(parents=True, exist_ok=True)
 				dest.unlink(missing_ok=True)
