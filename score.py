@@ -90,6 +90,8 @@ class Score():
 		self.orignottag = []
 		self.mbid = ''
 		self.title = ''
+		self.raw = ''
+		self.raw2 = ''
 		self.type = 'work'
 		self.others = {'tag': [], 'usertag': [], 'tagroute': []}
 		self.comments = []
@@ -174,11 +176,16 @@ class Score():
 			if not i in ['file', 'title', 'tag', 'usertag', 'type', 'tagroute']:
 				b[i] = self.others[i]
 		self.others = b
-	def makebuf(self):
+	def getusertag(self, a):
+		for j in re.split(r'[,|，|、]', a[a.find('=') + 1:].strip(' ')):
+			self.usertag = safe_add(self.usertag, [j.strip(' ')])
+			self.origtag = safe_add(self.origtag, [j.strip(' ')])
+			self.find_tag(j.strip(' '))
+	def read(self):
 		try:
 			with open(self.score, 'r', encoding='utf-8') as f:
-				raw = f.readlines()
-			for i in get_meta_lines(raw):
+				self.raw = f.readlines()
+			for i in get_meta_lines(self.raw):
 				i = i.rstrip('\n')
 				if i.replace(' ', '').startswith('%--'):
 					continue
@@ -188,10 +195,7 @@ class Score():
 						raise NotMBIDError
 					continue
 				if i.replace(' ', '').startswith('usertag='):
-					for j in re.split(r'[,|，|、]', i[i.find('=') + 1:].strip(' ')):
-						self.usertag = safe_add(self.usertag, [j.strip(' ')])
-						self.origtag = safe_add(self.origtag, [j.strip(' ')])
-						self.find_tag(j.strip(' '))
+					self.getusertag(i)
 					continue
 				if i.replace(' ', '').startswith('title='):
 					self.title = i[i.find('=') + 1:].strip(' ')
@@ -215,52 +219,7 @@ class Score():
 				if i.startswith('%'):
 					self.comments.append(i.rstrip('\n'))
 					continue
-				for j in re.split(r'[,|，|、]', i[i.find('=') + 1:].strip(' ')):
-					self.usertag = safe_add(self.usertag, [j.strip(' ')])
-					self.origtag = safe_add(self.origtag, [j.strip(' ')])
-					self.find_tag(j.strip(' '))
-			for n in self.all_tag_route:
-				#print(self.tag, n.split('/'))
-				#self.tag = safe_add(self.tag, n.split('/'))
-				for i in equal:
-					for j in i:
-						if same_ends(j.split('/'), n.split('/')):
-							self.tag = safe_add(self.tag, j.split('/'))
-							break
-			maybetag = safe_minus(self.tag, self.nottag)
-			self.others['usertag'] = []
-			for i in self.usertag:
-				self.others['usertag'] = safe_add(self.others['usertag'], [i])
-			for i in maybetag:
-				self.others['tag'] = safe_add(self.others['tag'], [i])
-				for j in equal:
-					if i in j:
-						self.others['tag'] = safe_add(self.others['tag'], j)
-			self.others['tagroute'] = self.tag_route
-			with open(('.').join(self.score.split('.')[:-1]) + '_buf.txt', 'w', encoding='utf-8') as f:
-				print('%' + self.score.split('/')[-1], file=f)
-				for i in self.comments:
-					print(i.rstrip('\n'), file=f)
-				print('MBID=' + self.mbid, file=f)
-				print('title=' + self.title, file=f)
-				print('type=' + self.type, file=f)
-				for i in self.others.keys():
-					print(i + '=' + (',').join(self.others[i]), file=f)
-				self.others['title'] = self.title
-				self.others['type'] = self.type
-				self.others['file'] = self.score.split('/')[-1]
-				d = False
-				for i in raw:
-					if i.replace(' ', '').startswith('%--'):
-						d = True
-					if d:
-						print(i.rstrip('\n'), file=f)
-				if not ('').join(raw).replace('\n', '').replace('\r', '').lower().endswith('%end'):
-					print('%END', end='', file=f)
-			with open(('.').join(self.score.split('.')[:-1]) + '_buf.json', 'w', encoding='utf-8') as f:
-				self.prioritize_title_and_tag()
-				json.dump({self.mbid : self.others}, f, indent=4, ensure_ascii=False)
-			return 0
+				self.getusertag(i)
 		except NotMBIDError:
 			print('Error: no MBID!')
 			print(f'Try adding \'MBID=(what you\'ve found in your address bar after \'https://musicbrainz.org/work/\').\' to {self.score}.')
@@ -272,11 +231,55 @@ class Score():
 		except FileNotFoundError:
 			print(f'Error: file \'{self.score}\' not found!')
 			raise NoScoreError
-	def movebuf(self):
+	def process_others(self):
+		for n in self.all_tag_route:
+			#print(self.tag, n.split('/'))
+			#self.tag = safe_add(self.tag, n.split('/'))
+			for i in equal:
+				for j in i:
+					if same_ends(j.split('/'), n.split('/')):
+						self.tag = safe_add(self.tag, j.split('/'))
+						break
+		maybetag = safe_minus(self.tag, self.nottag)
+		self.others['usertag'] = []
+		for i in self.usertag:
+			self.others['usertag'] = safe_add(self.others['usertag'], [i])
+		for i in maybetag:
+			self.others['tag'] = safe_add(self.others['tag'], [i])
+			for j in equal:
+				if i in j:
+					self.others['tag'] = safe_add(self.others['tag'], j)
+		self.others['tagroute'] = self.tag_route
+	def write_buf(self):
+		with open(('.').join(self.score.split('.')[:-1]) + '_buf.txt', 'w', encoding='utf-8') as f:
+			print('%' + self.score.split('/')[-1], file=f)
+			for i in self.comments:
+				print(i.rstrip('\n'), file=f)
+			print('MBID=' + self.mbid, file=f)
+			print('title=' + self.title, file=f)
+			print('type=' + self.type, file=f)
+			for i in self.others.keys():
+				print(i + '=' + (',').join(self.others[i]), file=f)
+			self.others['title'] = self.title
+			self.others['type'] = self.type
+			self.others['file'] = self.score.split('/')[-1]
+			d = False
+			for i in self.raw:
+				if i.replace(' ', '').startswith('%--'):
+					d = True
+				if d:
+					print(i.rstrip('\n'), file=f)
+			if not ('').join(self.raw).replace('\n', '').replace('\r', '').lower().endswith('%end'):
+				print('%END', end='', file=f)
+		with open(('.').join(self.score.split('.')[:-1]) + '_buf.json', 'w', encoding='utf-8') as f:
+			self.prioritize_title_and_tag()
+			json.dump({self.mbid : self.others}, f, indent=4, ensure_ascii=False)
+		return 0
+	def move_buf(self):
 		try:
 			with open(self.prefix + '_buf.txt', 'r', encoding='utf-8') as f:
-				raw = f.read()
-				if not raw.replace('\n', '').replace('\r', '').lower().endswith('%end'):
+				self.raw2 = f.read()
+				if not self.raw2.replace('\n', '').replace('\r', '').lower().endswith('%end'):
 					raise BadBufError
 			shutil.move(self.prefix + '_buf.txt', self.prefix + '.txt')
 			shutil.move(self.prefix + '_buf.json', self.prefix + '.json')
@@ -285,7 +288,7 @@ class Score():
 			raise
 		except BadBufError:
 			print(f'Bad buf: {self.prefix + '_buf.txt'}!')
-	def makelnk(self):
+	def make_link(self):
 		try:
 			with open(self.prefix + '.json', 'r', encoding='utf-8') as f:
 				file = json.load(f)
@@ -316,8 +319,10 @@ class Score():
 			raise
 	def parse(self):
 		try:
-			self.makebuf()
-			self.movebuf()
-			self.makelnk()
+			self.read()
+			self.process_others()
+			self.write_buf()
+			self.move_buf()
+			self.make_link()
 		except NoScoreError:
 			pass
