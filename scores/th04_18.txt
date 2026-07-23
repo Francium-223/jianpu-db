@@ -1,0 +1,2982 @@
+%th04_18.txt
+MBID=def2c32b-7573-303d-9630-43068284e1c7
+title=かわいい悪魔　～ Innocence
+type=work
+tag=th04,东方幻想乡,东方,touhou,东方原曲,ZUN,东方旧作原曲,东方整数作原曲
+usertag=th04
+tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th04
+alias=可爱的恶魔　～ Innocence
+copyright=Wobuffet3,Blargzargo,NamelessLegacy
+%---
+%------th04_18.txt_Wobuffet3.buf------
+instrument=fm0 main chime
+OctavesBefore
+4/4
+R*15
+qb1 qb5 b4 qb5 qb3 db5
+qb5 b2 qb5 qb1 b5 qb4 qb5 q2 | b5 qb2 hb5
+qb5 b1 qb5 qb4 qb5 b3 qb5 qb2 qb5 qb1
+qb1. ,b7 - ,b7 qb1 qb5 qb4 hb5
+sb5. qb3 q'b1 b5 q'b1 qb1 qb5 | b4 qb5 q2 'b1
+s'b1. b5 q'b1 qb1 b5 qb4 qb5 qb3 | 'b1 qb5
+q'b1 b7 - qb5 'b4 q'2 q'b2 q'b4 q'b1
+'b1 q'b5 q'b4 q'b5 'b3 q'b5 q'b2 'b5 q'b1 q'b5 | s'b4.
+'b4 'b5 q'2 q'b5 'b2 q'b5 q'b1 q'b5 | 'b4 q'b5 q'b3
+h'b3 q'b5 'b2 q'b5 'b1 - b7 - q'b5
+h'b5 qb7 q'b1 'b5 q'b4 q'b5 'b3 q''b1 q'b5 q''b1 q'b1
+d'b1 q'b5 q'b4 q'b5 '2 q''b1 q'b5 | ''b1 q'b1 q'b5 q'b4
+d'b4 'b5 q'b3 q''b1 q'b5 ''b1 'b7 - 'b5
+q'b5 b7 qb1 qb5 b4 qb5 qb3 | b5 qb2
+db2 qb5 qb1 b5 qb4 qb5 qb3 | b5 qb2 qb5 qb1
+sb1 qb5 qb4 qb5 b3 qb5 qb2 qb5 b1 -
+sb1 ,b7 - ,b7 qb1 qb5 qb4 | b5 sb3
+sb3 q'b1 b5 q'b1 qb1 qb5 b4 qb5 qb3 | 'b1 sb5
+db5. q'b1 qb1 b5 qb4 qb5 qb3 | 'b1 qb5 q'b1 sb7
+b7 qb5 'b4 q'2 q'b2 q'b4 | 'b1 q'b5 d'b4.
+s'b4 'b5 q'b3 q'b5 q'b2 'b5 q'b1 q'b5 q'b4 | 'b5 s'b3
+s'b3 q'b5 'b2 q'b5 q'b1 q'b5 'b4 q'b5 q'b3 q'b5 s'b2
+s'b2 q'b5 'b1 - b7 - q'b5 qb7 s'b1
+s'b1 'b5 q'b4 q'b5 'b3 q''b1 q'b5 q''b1 | 'b1 q'b5 d'b4
+q'b4 'b5 q'b3 q''b1 q'b5 ''b1 q'b1 q'b5 q'b4 | 'b5 d'b3
+q'b3 q''b1 q'b5 ''b1 'b7 - 'b5 - db7
+b7
+NextPart
+instrument=fm1, 2 low ping
+OctavesBefore
+4/4
+R*15
+,b5 ,b1
+,b5 ,b1 ,b4 - - - ,,b7
+q,b4 q,,b7 ,b3 - - - ,,5 q,b2 q,,b5
+,b2 - - - ,,b5 ,b5 - ,b1
+,b5 - ,b1 ,b4 - - - ,,b7
+,b4 - ,,b7 ,b3 - - - ,,b6
+q,b3 q,,b6 ,b2 - - - ,,b5 q,b5 q,b1
+,b5 ,b1 ,b4 ,,b7
+,b4 - - - ,,b7 ,b3 - ,,5
+,b3 ,,5 ,b2 ,,b5
+q,b2 q,,b5 ,b5 - - - ,b1 q,b4 q,,b7
+,b4 - - - ,,b7 ,b3 - ,,b6
+,b3 - - - ,,b6 ,b2 - ,,b5
+,b2 - ,,b5 ,b5 - - - ,b1
+,b5 ,b1 ,b4 - - - ,,b7 q,b3 q,,5
+,b3 - - - ,,5 ,b2 - ,,b5
+,b2 ,,b5 ,b5 ,b1
+,b5 - ,b1 ,b4 - - - ,,b7
+,b4 ,,b7 ,b3 - - - ,,b6 s,b2 s,,b5
+,b2 - - ,,b5 ,b5 ,b1
+,b5 - - - ,b1 ,b4 - ,,b7
+,b4 - ,,b7 ,b3 - - - ,,b6
+,b3 ,,b6 ,b2 - - - ,,b5 s,b5 s,b1
+,b5 - - - ,b1 | q,b4... q,,b7...
+,b4 - - - ,,b7 ,b3 - ,,b6
+,b3. ,,b6. ,b2 ,,b5
+,b2 ,,b5 ,b3 - ,,5 ,b4 - ,,b7 d,b5 d,b1
+,b5 ,b1 ,b4 ,,b7 q,b3.. q,,5..
+q,b3. q,,5. ,b4 - ,,b7 ,b5 - ,b1
+q,b5. q,b1. ,b4 ,,b7 ,b3 - ,,5 | ,b4 ,,b7
+,b4 ,,b7 ,b5 ,b1 ,b4 ,,b7 ,b3 ,,5
+,b3 ,,5 ,b4 - ,,b7 ,b5 ,b1
+,b5 - ,b1 ,b4 ,,b7 ,b3 - ,,b6
+,b3 - ,,b6 ,b2 - - - ,,b5
+,b2 ,,b5 ,b1 ,,b4
+h,b1 h,,b4 ,,b7 - - - ,,b3 q,b3. q,,b6.
+,b3 - - - ,,b6 ,b2 - ,,b5
+,b2 - ,,b5 ,b1 - - - ,,b4
+,b1 ,,b4 ,,b7 - - - ,,b3
+d,,b7 d,,b3 ,b3 - - - ,,b6 ,b2 ,,b5
+,b2 - - - ,,b5 ,b1 - ,,b4
+,b1.. ,,b4.. ,,b7 ,,b3
+,,b7 ,,b3 ,b3 - - - ,,b6
+s,b3 s,,b6 ,b2 - - - ,,b5 ,b1 ,,b4
+,b1 ,,b4 ,,b7 ,,b3
+,,b7 - ,,b3 ,b4 - - - ,,6
+,b4 - ,,6 ,2 - - - ,,5
+s,2 s,,5 ,1 - - - ,,4 ,b1 ,,b4
+,b1 - - - ,,b4 ,b4 - ,,b7
+18/16
+,b4... ,,b7... ,2 ,,5
+,2 ,,5 ,1 ,,4
+q,1 q,,4 ,b1 - - - ,,b4 q,b4 q,,6
+,b4 - - - ,,6 ,2 - ,,5
+,2 - ,,5 ,1 - - - ,,4
+,1 - ,,4 ,b1 - - - ,,b4
+q,b1 q,,b4 ,b4 - - - ,,b7 s,2.. s,,b6..
+,2 - - - ,,b6 ,1 - ,,4
+,1 - ,,4 ,b1 - ,,b4
+,b1 - ,,b4 ,4 - - - ,,b7
+,4 ,,b7 ,b3 - - - ,,b6 | s,b2. s,,b5.
+,b2 ,,b5 ,1 ,,4
+,1 - - - ,,4 ,4 - ,,b7
+,4 - ,,b7 ,b3 - - - ,,b6
+q,b3 q,,b6 ,b2 - - - ,,b5 q,1 q,,4
+,1 - - - ,,4 ,4 - ,,b7
+,4 - - - ,,b7 ,b3 - ,,b6
+,b3 - ,,b6 ,b2 ,,b5
+,b2 ,,b5 ,1 - - - ,,4 s,4 s,,b7
+,4 - - - ,,b7 ,b3 - ,,b6
+,b3 ,,b6 ,b2 ,,b5
+,b2 - ,,b5 ,1 - - - ,,4
+,1 ,,4 ,b5 - - - ,b1 d,b4. d,,b7.
+,b4 - - - ,,b7 ,b3 ,,b6
+,b3 - - - ,,b6 ,b2 - ,,b5
+,b2 - ,,b5 ,b5 - - - ,b1
+,b5 ,b1 ,b4 - - - ,,b7 d,b3 d,,5
+,b3 ,,5 ,b2 ,,b5
+,b2 - - - ,,b5 ,b5 - ,b1
+,b5. ,b1. ,b4 ,,b7
+,b4 ,,b7 ,b3 - - - ,,b6 h,b2 h,,b5
+,b2 - - - ,,b5 ,b5 ,b1
+,b5 - - - ,b1 ,b4 - ,,b7
+,b4 - ,,b7 ,b3 - - - ,,5
+,b3 ,,5 ,b2 - - - ,,b5
+,b3 - - - ,,b6 ,b2 ,,b5
+,b2 ,,b5 ,b1 ,,b4
+,b1 - ,,b4 ,,b7 - - - ,,b3
+,,b7 ,,b3 ,b3 - - - ,,b6
+h,b3 h,,b6 ,b2 - - - ,,b5 ,b1 ,,b4
+,b1 - - - ,,b4 ,,b7 - ,,b3
+,,b7 - ,,b3 ,b3 - - - ,,b6
+,b3 ,,b6 ,b2 ,,b5
+d,b2 d,,b5 ,b1 - - - ,,b4 ,,b7 ,,b3
+,,b7 - - - ,,b3 ,b3 - ,,b6
+,b3.. ,,b6.. ,b2 ,,b5
+,b2 ,,b5 ,b1 - - - ,,b4
+d,b1. d,,b4. ,,b7 - - - ,,b3 ,b4 ,,6
+,b4 - - - ,,6 ,2 - ,,5
+,2 - ,,5 ,1 - - - ,,4
+,1 - ,,4 ,b1 - - - ,,b4
+s,b1 s,,b4 ,b4 - - - ,,b7 ,2 ,,5
+,2 ,,5 ,1 - ,,4
+,1... ,,4... ,b1 ,,b4
+,b1 ,,b4 ,b4 ,,6
+q,b4 q,,6 ,2 - - - ,,5 q,1 q,,4
+,1 - - - ,,4 ,b1 - ,,b4
+,b1 - ,,b4 ,b4 - - - ,,b7
+,b4 - ,,b7 ,2 - - - ,,b6
+s,2. s,,b6. ,1 - - - ,,4 | ,b1 ,,b4
+,b1 - - - ,,b4 ,4 - ,,b7
+,4 - ,,b7 ,b3 - ,,b6
+,b3 - ,,b6 ,b2 - - - ,,b5
+s,b2.. s,,b5.. ,1 - - - ,,4 q,4 q,,b7
+,4 - - - ,,b7 ,b3 - ,,b6
+,b3 - - - ,,b6 ,b2 - ,,b5
+,b2 - ,,b5 ,1 - - - ,,4
+q,1 q,,4 ,4 - - - ,,b7 q,b3 q,,b6
+,b3 ,,b6 ,b2 ,,b5
+,b2 ,,b5 ,1... ,,4...
+,1 - ,,4 ,4 ,,b7
+,4 ,,b7 ,b3 - - - ,,b6 s,b2 s,,b5
+,b2 - - - ,,b5 ,1 - ,,4
+,1 - - - ,,4 ,b5 - ,b1
+,b5 - ,b1 ,b4 - - - ,,b7
+,b4 ,,b7 ,b3 - - - ,,b6 s,b2 s,,b5
+,b2 - - - ,,b5 ,b5 ,b1
+,b5 ,b1 ,b4.. ,,b7..
+,b4 - ,,b7 ,b3 - - - ,,5
+,b3 ,,5 ,b2 - - - ,,b5 d,b5 d,b1
+,b5 - - - ,b1 ,b4 ,,b7
+,b4 - - - ,,b7 ,b3 - ,,b6
+,b3 - ,,b6 ,b2 - - - ,,b5
+,b2 ,,b5 ,b5 - - - ,b1 h,b4 h,,b7
+,b4 ,,b7 ,b3 ,,5
+,b3 - - - ,,5 ,b2 - ,,b5
+,b2 ,,b5 ,b3 ,,b6
+,b3 ,,b6 ,b2 - ,,b5
+NextPart
+instrument=fm4 lq square
+OctavesBefore
+4/4
+R*41
+s'b3. q'b3 s'b5. s'b4.
+s'b3. s'b3. q'b3 s'b3. q'b3
+s'b3. q'b5 s'b4. q'b3 s'b3.
+s'b3. s'b3. s'b3. q'b3 s'b5.
+q'b4 s'b3. q'b3 s'2. q'b3
+s'b3. s'b3. q'b5 s'b4. q'b3
+s'b3. q'2 s'2.
+NextPart
+instrument=fm3, 4 lq square
+OctavesBefore
+4/4
+R*9
+q''b1 q'2 q''b1 q'2 q''2 q'b5 q''b2 q'b4 s''b1 s'2
+s''b1 s'2 ''b1 '2 q''b1 q'2 ''b1 '2 q''b1 q'2 s''b1 s'2
+s''b1 s'2 q''2 q'b5 q''b2 q'b4 q''b1 q'2 q''b1 q'2 s''b1 s'2
+s''b1 s'2 q''b1 q'2 ''b1 '2 q''b1 q'2 ''b3 'b5 d''b2 d'b4
+q''b2 q'b4 q''b1 q'b3 q''b1 q'b3 q''b1 q'2 q''b1 q'2 d''b1 d'2
+q''b1 q'2 q''b1 q'2 q''b3 q'b5 ''b2 'b4 q''b1 q'2 d''b1 d'2
+q''b1 q'2 q''b1 q'b3 q''b1 q'b3
+R*25
+s'b7 s'b1 s'b2 s'b3 sb5 s'b4 s'b3 s'b2 s'b3 s'b3 sb5 s'b2 sb5 s'b2 sb5 s'b4 s'b5 d'b1
+d'b1 s'b2 d'b3. sb5 s'b4 s'b3 s'b2 s'b3 s'b3 sb5 s'b2 sb5 s'b2 sb5 s'b2 sb7 s'b1 s'b2 s'b3 sb5 h'b4
+d'b4 s'b3 s'b2 s'b3 s'b3 sb5 s'b2 sb5 s'b2 sb5 s'b4 s'b5 s'b1 s'b2 s'b3 sb5 s'b4 s'b3 s'b2 s'b3 h'b3
+d'b3 sb5 s'b2 sb5 s'b2 sb5 d'b2. sb7 s'b3 s'b4 s'b5 s''b1 s'b5 s'b4 s'b3 s'b2 s'b3 d'b4. s'b5 s''b2 h''b3
+d''b3 s''b2 s''b1 s'b5 s'b3 s'b4 s'b5 s''b1 s'b5 s'b4 s'b3 s'b2 s'b3 s'b4 s'b5 s''b2 s''b2 s''b3 s''b2 s'b5 'b3
+s'b3 s'b4 s'b5 s''b1 s'b5 s'b4 s'b3 s'b2 s'b3 s'b4 s'b5 s''b2 s''b3 s''b2 s''b1 s'b5 s'b3 s'b4 s'b5 s''b1
+s'b5 d'b4. s'b3 s'b2 s'2 s'b4 s'b5 s''b2 s''b2 s''2 s''b2 s'b5
+NextPart
+instrument=fm3 main chime echo
+OctavesBefore
+4/4
+R*15
+qb1 qb5 b4 qb5
+db5 qb3 qb5 b2 qb5 qb1 qb5 | b4 qb5 qb3 qb5
+sb5 qb2 qb5 qb1 b5 qb4 qb5 q2 | b5 qb2 sb5
+sb5 b1 - ,b7 - ,b7 | b1 sb5
+sb5 qb4 b5 qb3 q'b1 qb5 'b1 qb1 qb5 | b4 sb5
+db5. qb3 q'b1 b5 q'b1 qb1 qb5 | b4 qb5 q2 s'b1
+d'b1. b5 q'b1 b7 b5 - b7 -
+sb7 'b1 q'b5 q'b4 q'b5 'b3 q'b5 q'b2 q'b5 | 'b1 s'b5
+s'b5 q'b4 'b5 q'2 q'b5 q'b2 'b5 q'b1 q'b5 q'b4 s'b5
+s'b5 q'b3 q'b5 'b2 q'b5 'b1 b7 - qb7
+b7 - q'b1 'b5 q'b4 q'b5 q'b3 | ''b1 q'b5 d''b1
+q''b1 'b1 q'b5 q'b4 q'b5 '2 q''b1 q'b5 q''b1 | 'b1 d'b5
+q'b5 q'b4 q'b5 '2 q''b1 q'b5 ''b1 'b7 - d'b5
+'b5 - 'b7 qb1 qb5 b4 qb5 qb3 db5
+qb5 b2 qb5 qb1 b5 qb4 qb5 qb3 | b5 qb2 hb5
+qb5 b1 qb5 qb4 qb5 b3 qb5 qb2 qb5 qb1
+qb1. ,b7 - ,b7 qb1 qb5 qb4 hb5
+sb5. qb3 q'b1 b5 q'b1 qb1 qb5 | b4 qb5 qb3 'b1
+s'b1. b5 q'b1 qb1 b5 qb4 qb5 qb3 | 'b1 qb5
+q'b1 b7 b5 - b7 - q'b1
+'b1 q'b5 q'b4 q'b5 'b3 q'b5 q'b2 'b5 q'b1 q'b5 | s'b4.
+'b4 'b5 q'b3 q'b5 q'b2 'b5 q'b1 q'b5 | 'b4 q'b5 q'b3
+h'b3 q'b5 'b2 q'b5 'b1 b7 - | qb7...
+qb7 q'b1 'b5 q'b4 q'b5 q'b3 | ''b1 q'b5 q''b1 q'b1
+d'b1 q'b5 q'b4 q'b5 'b3 q''b1 q'b5 | ''b1 q'b1 q'b5 q'b4
+d'b4 'b5 q'b3 q''b1 q'b5 ''b1 'b7 - 'b5
+q'b5
+NextPart
+instrument=fm3, 4 chime
+OctavesBefore
+4/4
+R*47
+q'b6 q'b1 q'b6 q'b1
+'b6 'b1 q''b1 q'b3 'b7 'b2 q'b6 q'b1 q'b6 q'b1 s''b1. s'b3.
+''b1 'b3 q'b7 q'b2 q'b6 q'b1 q'b6 q'b1 ''b1 'b3 q'b7 q'b2
+h'b7 h'b2 '5 b7 q'5 qb7 '5 b7 q'5 qb7 q'b6 q'b1
+h'b6 h'b1 q'b6 q'b1 q''b1 q'b3 q'b7 q'b2 q'b6 q'b1 q'b6 q'b1
+d'b6 d'b1 q''b1 q'b3 'b7 'b2 q'b6 q'b1 q'b6 q'b1 q''b1 q'b3
+d''b1 d'b3 q'b7 q'b2 q'5 qb7 q'5 qb7 q'5 qb7 q'5 qb7
+d'5 db7 'b6 'b1 q'b6 q'b1 ''b1 'b3 q'b7 q'b2 q'b6 q'b1
+d'b6 d'b1 q'b6 q'b1 q''b1 q'b3 q'b7 q'b2 q'b6 q'b1 q'b6 q'b1
+s'b6 s'b1 q''b1 q'b3 'b7 'b2 q'5 qb7 '5 b7 s'5 sb7
+s'5 sb7 q'5 qb7 q'b6 q'b1 q'b6 q'b1 q''b1 q'b3 s'b7 s'b2
+s'b7 s'b2 'b6 'b1 q'b6 q'b1 ''b1 'b3 q'b7 q'b2 s'b6 s'b1
+d'b6. d'b1. q'b6 q'b1 q''b1 q'b3 q'b7 q'b2 q'5 qb7 s'5 sb7
+d'5. db7. q'5 qb7 '5 b7 q'6 q'1 'b7 '1 d''1. d'b4.
+s''1 s'b4 q''b1 q'b3 q'6 q'1 q'b7 q'1 q''1 q'b4 s''b1 s'2
+s''b1 s'2 '6 '1 q'b7 q'1 ''b2 'b4 q''b1 q'b3 s'b6 s'b1
+s'b6 s'b1 q'b6 q'b1 q'b6 q'b1 q'b6 q'b1 q'6 q'1 s'6 s'1
+s'6 s'1 q''1 q'b4 ''b1 '2 q'6 q'1 '6 '1 d''1 d'b4
+q''1 q'b4 ''b1 '2 q'6 q'1 q'6 q'1 q''1 q'b4 d''b1 d'b3
+q''b1 q'b3 q'b6 q'b1 q'b6 q'b1 'b6 'b1 q'b6 q'b1 d'6 d'1
+q'6 q'1 q'b7 q'1 ''1 'b4 q''b1 q'2 q'6 q'1 d'b7 d'1
+q'b7 q'1 q''1 q'b4 ''b1 '2 q'6 q'1 'b7 '1 h''b2 h'b4
+q''b2 q'b4 ''b1 'b3 q'b6 q'b1 'b6 'b1 q'b6 q'b1 h'b6 h'b1
+q'b6 q'b1 q'6 q'1 q'6 q'1 ''1 'b4 q''b1 q'2 h'6 h'1
+s'6. s'1. q'6 q'1 ''1 'b4 q''b1 q'2 q'6 q'1 '6 '1
+s'6. s'1. q''1 q'b4 ''b1 '2 q'b6 q'b1 'b6 7
+q'b6 q'b1 'b6 'b1 q'b7 q'b2 'b7 'b2 q''b2 q'4
+q''1 q'b3 q'b7 q'b2 q'b7 q'b2 ''b2 '4 q''1 q'b3
+'b7 'b2 q'b7 q'b2 ''b2 '4 q''1 q'b3 q'6 q'1
+q'6 q'1 q'6 q'1 q'6 q'1 q'b7 q'b2 'b7 'b2
+q''b2 q'4 ''1 'b3 q'b7 q'b2 'b7 'b2 q''b2 q'4
+q''1 q'b3 q'b7 q'b2 q'b7 q'b2 ''b2 '4 q''1 q'b3
+'6 '1 q'6 q'1 '6 '1 q'6 q'1 'b7 'b2
+q'b7 q'b2 q''b2 q'4 q''1 q'b3 q'b7 q'b2 'b7 'b2
+q''b2 q'4 ''1 'b3 q'b7 q'b2 'b7 'b2 q''b2 q'4
+q''1 q'b3 q'6 q'1 q'6 q'1 q'6 q'1 q'6 q'1
+'b7 'b2 q'b7 q'b2 ''b2 '4 q''1 q'b3 'b7 'b2
+q'b7 q'b2 q''b2 q'4 q''1 q'b3 q'b7 q'b2 q'b7 q'b2
+q''b2 q'4 ''1 'b3 q'6 q'1 '6 '1 q'6 q'1
+'b7 '1 q''b1 q'b3 q''b1 q'b3 q''b3 q'b5 q''b2 q'b4
+q''b1 q'b3 q''b1 q'b3 ''b3 'b5 q''b2 q'b4 ''b1 'b3
+q''b1 q'b3 q''b3 q'b5 q''b2 q'b4 q'b7 q'b2 q'b7 q'b2
+q'b7 q'b2 q'b7 q'b2 q''b1 q'b3 ''b1 'b3 q''b3 q'b5
+''b2 'b4 q''b1 q'b3 q''b1 q'b3 q''b3 q'b5 q''b2 q'b4
+q''b1 q'b3 q''b1 q'b3 ''b3 'b5 q''b2 q'b4 'b7 'b2
+q'b7 q'b2 'b7 'b2 q'b7 q'b2 q''b1 q'b3 q''b1 q'b3
+q''b3 q'b5 q''b2 q'b4 q''b1 q'b3 ''b1 'b3 q''b3 q'b5
+''b2 'b4 q''b1 q'b3 q''b1 q'b3 q''b3 q'b5 q''b2 q'b4
+q'b7 q'b2 q'b7 q'b2 q'b7 q'b2 q'b7 q'b2 ''b1 'b3
+q''b1 q'b3 ''b3 'b5 q''b2 q'b4 q''b1 q'b3 q''b1 q'b3
+q''b3 q'b5 q''b2 q'b4 q''b1 q'b3 ''b1 'b3 q''2 q'b5
+''b2 'b4 q'b7 q'b2 q'b7 q'b2 q'b7 q'b2 q'b7 q'b2
+q'b6 q'b1 q'b6 q'b1 q''b1 q'b3 q'b7 q'b2 q'b6 q'b1
+'b6 'b1 q'b6 q'b1 ''b1 'b3 q'b7 q'b2 q'b6 q'b1 s'b6. s'b1.
+'b6 'b1 q''b1 q'b3 q'b7 q'b2 q'5 qb7 '5 b7 q'5 qb7
+h'5 hb7 '5 b7 q'b6 q'b1 'b6 'b1 q''b1 q'b3 q'b7 q'b2
+h'b7 h'b2 q'b6 q'b1 q'b6 q'b1 q''b1 q'b3 q'b7 q'b2 q'b6 q'b1
+d'b6 d'b1 q'b6 q'b1 ''b1 'b3 q'b7 q'b2 '5 b7 q'5 qb7
+d'5 db7 q'5 qb7 q'5 qb7 q'b6 q'b1 q'b6 q'b1 q''b1 q'b3
+d''b1 d'b3 'b7 'b2 q'b6 q'b1 'b6 'b1 q''b1 q'b3 q'b7 q'b2
+d'b7 d'b2 q'b6 q'b1 q'b6 q'b1 q''b1 q'b3 q'b7 q'b2 q'5 qb7
+s'5 sb7 q'5 qb7 '5 b7 q'5 qb7 'b6 'b1 s'b6 s'b1
+s'b6 s'b1 ''b1 'b3 q'b7 q'b2 q'b6 q'b1 q'b6 q'b1 s''b1 s'b3
+s''b1 s'b3 'b7 'b2 q'b6 q'b1 'b6 'b1 q''b1 q'b3 s'b7 s'b2
+d'b7. d'b2. q'5 qb7 q'5 qb7 q'5 qb7 q'5 qb7 s'6 s'1
+d'6. d'1. q'b7 q'1 ''1 'b4 q''b1 q'b3 '6 '1 d'b7. d'1.
+s'b7 s'1 ''1 'b4 q''b1 q'2 q'6 q'1 q'b7 q'1 s''b2 s'b4
+s''b2 s'b4 ''b1 'b3 q'b6 q'b1 'b6 'b1 q'b6 q'b1 s'b6 s'b1
+s'b6 s'b1 q'6 q'1 '6 '1 q''1 q'b4 q''b1 q'2 s'6 s'1
+s'6 s'1 q'6 q'1 ''1 'b4 q''b1 q'2 '6 '1 d'6 d'1
+q'6 q'1 ''1 'b4 q''b1 q'b3 q'b6 q'b1 q'b6 q'b1 d'b6 d'b1
+q'b6 q'b1 q'b6 q'b1 q'6 q'1 'b7 '1 q''1 q'b4 d''b1 d'b3
+q''b1 q'b3 q'6 q'1 'b7 '1 q''1 q'b4 q''b1 q'2 d'6 d'1
+q'6 q'1 q'b7 q'1 ''b2 'b4 q''b1 q'b3 'b6 'b1 h'b6 h'b1
+q'b6 q'b1 'b6 'b1 q'b6 q'b1 '6 '1 q'6 q'1 h''1 h'b4
+q''1 q'b4 q''b1 q'2 q'6 q'1 '6 '1 q''1 q'b4 h''b1 h'2
+s''b1. s'2. q'6 q'1 '6 '1 q''1 q'b4 q''b1 q'2 'b6 'b1
+s'b6. s'b1. q'b6 q7 q'b6 q'b1 q'b6 q'b1 'b7 'b2
+q'b7 q'b2 ''b2 '4 q''1 q'b3 'b7 'b2 q'b7 q'b2
+q''b2 q'4 q''1 q'b3 q'b7 q'b2 q'b7 q'b2 q''b2 q'4
+''1 'b3 q'6 q'1 '6 '1 q'6 q'1 q'6 q'1
+q'b7 q'b2 q'b7 q'b2 q''b2 q'4 q''1 q'b3 q'b7 q'b2
+q'b7 q'b2 ''b2 '4 q''1 q'b3 'b7 'b2 q'b7 q'b2
+q''b2 q'4 q''1 q'b3 q'6 q'1 q'6 q'1 q'6 q'1
+'6 '1 q'b7 q'b2 'b7 'b2 q''b2 q'4 ''1 'b3
+q'b7 q'b2 q'b7 q'b2 q''b2 q'4 q''1 q'b3 q'b7 q'b2
+q'b7 q'b2 ''b2 '4 q''1 q'b3 '6 '1 q'6 q'1
+q'6 q'1 q'6 q'1 q'b7 q'b2 q'b7 q'b2 q''b2 q'4
+q''1 q'b3 q'b7 q'b2 'b7 'b2 q''b2 q'4 ''1 'b3
+q'b7 q'b2 q'b7 q'b2 q''b2 q'4 q''1 q'b3 q'6 q'1
+q'6 q'1 '6 '1 q'b7 q'1 ''b1 'b3 q''b1 q'b3
+''b3 'b5 q''b2 q'b4 q''b1 q'b3 q''b1 q'b3 q''b3 q'b5
+q''b2 q'b4 q''b1 q'b3 ''b1 'b3 q''b3 q'b5 ''b2 'b4
+q'b7 q'b2 q'b7 q'b2 q'b7 q'b2 q'b7 q'b2 q''b1 q'b3
+q''b1 q'b3 q''b3 q'b5 q''b2 q'b4 ''b1 'b3 q''b1 q'b3
+''b3 'b5 q''b2 q'b4 q''b1 q'b3 q''b1 q'b3 q''b3 q'b5
+q''b2 q'b4 q'b7 q'b2 'b7 'b2 q'b7 q'b2 'b7 'b2
+q''b1 q'b3 ''b1 'b3 q''b3 q'b5 q''b2 q'b4 q''b1 q'b3
+q''b1 q'b3 q''b3 q'b5 q''b2 q'b4 ''b1 'b3 q''b1 q'b3
+''b3 'b5 q''b2 q'b4 'b7 'b2 q'b7 q'b2 q'b7 q'b2
+q'b7 q'b2 q''b1 q'b3 q''b1 q'b3 q''b3 q'b5 ''b2 'b4
+q''b1 q'b3 ''b1 'b3 q''b3 q'b5 ''b2 'b4 q''b1 q'b3
+q''b1 q'b3 q''2 q'b5 q''b2 q'b4 'b7 'b2 q'b7 q'b2
+'b7 'b2 q'b7 q'b2 'b6 'b1 q'b6 q'b1 ''b1 'b3
+q'b7 q'b2 q'b6 q'b1 q'b6 q'b1
+NextPart
+instrument=fm4 main
+OctavesBefore
+4/4
+R*28
+s'b1 s'b2 s'b3 sb5 d'b4. s'b3 s'b2 s'b3 s'b3 sb5 s'b2 sb5 s'b2 db5
+db5 s'b4 d'b5. s'b1 s'b2 s'b3 sb5 s'b4 s'b3 s'b2 s'b3 s'b3 sb5 s'b2 sb5 s'b2 sb5 s'b2 sb7 s'b1 h'b2
+d'b2 s'b3 sb5 s'b4 s'b3 s'b2 s'b3 s'b3 sb5 s'b2 sb5 s'b2 sb5 s'b4 s'b5 d'b2. s'b1 sb7 s'b5 sb2 hb1
+db1 s,b7 sb5 s'b2 s'b5 s'b7 d'b2. s'b5 s'b7 s''b1 s''b2 s'b3 s'b4 s'b5 s''b1 s'b5 s'b4 d'b3. s'b2 s'b3 h'b4
+d'b4 s'b5 s''b2 s''b3 s''b2 s''b1 s'b5 s'b3 s'b4 s'b5 s''b1 s'b5 s'b4 s'b3 s'b2 s'b3 s'b4 s'b5 s''b2 s''b2 ''b3
+s''b3 s''b2 s'b5 s'b3 s'b4 s'b5 s''b1 s'b5 s'b4 s'b3 s'b2 s'b3 s'b4 s'b5 s''b2 s''b3 s''b2 s''b1 s'b5 s'b7
+s'b5 d'b4. s'2 s''b2 s''b1 s'b7 s'b5 s''b4 s''2 s''b2 s''2 s'b7 s'b5 s'b4 s'b3 s'b1 s'b2 s'b3 sb5 s'b4
+s'b3 s'b2 s'b3 s'b3 sb5 s'b2 db5. s'b2 sb5 s'b4 s'b5 s'b1 s'b2 s'b3 sb5 s'b4 s'b3 s'b2 s'b3 s'b3
+sb5 s'b2 sb5 s'b2 sb5 s'b2 sb7 s'b1 s'b2 s'b3 sb5 s'b4 s'b3 s'b2 s'b3 s'b3 sb5 s'b2 sb5 s'b2
+sb5 s'b4 s'b5 s'b2 s'b1 sb7 s'b5 sb2 sb1 s,b7 db5. s'b2 s'b5 s'b7 s'b2 s'b5 s'b7 s''b1 s''b2 s'b3
+'b3 s'b4 d'b5. s''b1 s'b5 s'b4 s'b3 s'b2 s'b3 s'b4 s'b5 s''b2 s''b3 d''b2. s''b1 s'b5 s'b3 s'b4 s'b5 s''b1 d'b5
+h'b5 s'b4 s'b3 s'b2 s'b3 s'b4 s'b5 s''b2 s''b2 s''b3 s''b2 s'b5 s'b3 s'b4 s'b5 s''b1 s'b5 s'b4 s'b3 s'b2 d'b3
+h'b3 s'b4 s'b5 s''b2 s''2 s''b2 d''b1. s'b5 s'b7 s'b5 s'3 s'2 s''b2 s''b1 s'b7 s'b5 s''3 d''2. s''b2 s''2 d'b7
+h'b7 s'b5 s'3 s'b3
+NextPart
+instrument=fm3 guitar
+OctavesBefore
+4/4
+R*8
+sb2 q1 db1
+sb1
+NextPart
+instrument=ssg0 square
+OctavesBefore
+4/4
+,b5 - - -
+,b5 - - -
+,b5 - - -
+,b5 - - -
+q,b5 ,,b5 - - - ,,2 -
+,,2 - - -
+,,2 d,,b2
+,,b2 - - -
+,,b2 - - -
+,,b2 ''b1 ''b1 ''2 ''b2 s''b1
+q''b1 ''b1 ''b1 ''b1 ''b1 s''b1
+''b1 ''b3 ''b2 ''b1 ''b1 s''b1
+''b1 ''b1 ''b1 ''b1 ''b3 d''b2
+''b2 ''b1 ''b1 ''b1 ''b1 d''b1
+''b1 ''b1 ''b3 ''b2 ''b1 d''b1
+''b1 ''b1 ''b1 ''b1 ''b1 d''b3
+''b3 ''b2 q''b1. ''b1 q''2. h''b2
+''b2 ''b1 ''b1 ''2 ''b2 h'b7
+'b7 q'b7. 'b7 q'b7. ''b1 h''b1
+''b1 ''b3 ''b2 ''b1 ''b1 ''2
+''2 ''b2 q''b1. ''b1 q''2.
+''b2 q'b7. 'b7 'b7 'b7
+''b1 ''b1 ''b3 q''b2. ''b1
+q''b1. ''2 ''b2 ''b1 ''b1
+''b3 ''b2 q'b7. 'b7 q'b7.
+'b7 q''b1. ''b1 ''b3 ''b2
+''b1 ''b1 ''2 q''b2. ''b1
+''b1 q''b1. ''2 q''b2. 'b7 'b7
+h'b7 'b7 'b7 ''b1 ''b1 ''b3
+h''b3 ''b2 q''b1. ''b1 q''b3. ''b2
+h''b2 ''b1 ''b1 ''b3 q''b2. 'b7
+d'b7 q'b7. 'b7 q'b7. ''b1 ''b1
+d''b1 ''b3 ''b2 ''b1 ''b1 ''b3
+d''b3 ''b2 q''b1. ''b1 q''b3. ''b2
+d''b2 q'b7. 'b7 'b7 'b7 | ''b1
+s''b1 q''b1. ''b3 q''b2. ''b1 | ''b1
+s''b1 ''b3 ''b2 ''b1 ''b1 ''b3
+d''b3. ''b2 q'b7. 'b7 q'b7. 'b7
+d'b7. q''b1. ''b1 ''b3 ''b2 ''b1
+s''b1 q''b1. ''b3 q''b2. ''b1 ''b1
+s''b1 ''b3 q''b2. 'b7 'b7 q'b7
+s'b7 'b7 ''b1 ''b1 ''b3 q''b2
+s''b2 ''b1 ''b1 ''b1 ''b1 q''b1
+s''b1 ''b1 ''b3 ''b2 ''b1 q''b1
+s''b1 ''b1 ''b1 ''b1 ''b1 s''b3..
+q''b3 ''b2 ''b1 ''b1 ''b1 | ''b1
+q''b1 ''b1 ''b1 ''b3 ''b2 q''b1
+q''b1 ''b1 ''b1 q''b1 sb6 sb7 d'b1. sb3 s'b2 d'b1. sb7 d'b1.
+s'b1 sb3 sb7 db3. sb7 db3. s'b2 s'b3 db6. sb7 s'b1 db3. s'b2 s'b1 db7. q'b1 sb3 sb7 sb3
+b3 sb7 sb3 db7. sb5 sb6 db7. s'b1 db3. s'b2 s'b1 db7. 'b1 db3. sb7 sb3 | db7. sb3 d'b2. s'b3
+h'b3 sb7 db6. s5 s'b3 d,b7. s,b6 s,5 db3. sb7 d'b3. s'5 sb7 d'b3. s'5 s'b6 d'b7. s'b1 s'b2 d'b3. s'b6
+h'b6 d'b3. s'b2 s'b1 db7. s'b1 s'b2 d'b3. s'b7 s''b1 d'b7. s'b6 d'b3. s'b1 s'b2 d'b3. s'b6 s'b3 d'b2. s'b1 db7
+db7 d'b1. s'b2 s'b3 q'b7 d''b1. s'b7 s'b3 d'b1. s'b2 s'b3 d'b6. s'b3 s'b2 d'b1. sb7 d'b1. s'b2 s'b3 d'b7
+d'b7 s''b1 s'b7 d'b6. s'b3 d'5. s'b3 s'b2 d'b1. s'b7 s'b6 d'5. s'b3 s''b2 d''b1. s'b7 d''b1. s'5 s'b3 d'b2. d'b1
+d'b1 sb6 db7. s'b1 sb3 d'b2. s'b1 sb7 q'b1 db3. sb7 sb3 db7. sb3 s'b2 d'b3. sb6 sb7 d'b1. db3
+db3 d'b2. s'b1 sb7 q'b1 sb3 db7. sb3 sb7 db3. sb7 db5. sb6 sb7 d'b1. sb3 s'b2 d'b1. sb7 h'b1
+q'b1 sb3 db7. sb3 sb7 db3. s'b2 s'b3 db7. sb6 s5 d'b3. s,b7 d,b6. s,5 sb3 db7. s'b3 s'5 hb7
+sb7 s'b3 s'5 d'b6. s'b7 d'b1. s'b2 s'b3 d'b6. s'b3 s'b2 d'b1. sb7 s'b1 d'b2. s'b3 d'b7. s''b1 s'b7 d'b6. h'b3
+s'b3 s'b1 d'b2. s'b3 s'b6 d'b3. s'b2 d'b1. sb7 s'b1 d'b2. s'b3 q'b7 s''b1 s'b7 d'b3. s'b1 s'b2 d'b3. 'b6
+d'b6. d'b3. s'b2 s'b1 db7. s'b1 s'b2 d'b3. s'b7 s''b1 d'b7. s'b6 d'b3. s'5 s'b3 d'b2. s'b1 s'b7 d'b6. s'5
+d'b3. s''b2 s''b1 d'b7. s''b1 s'5 d'b3. s'b2 s'b1 d6. s'b1 d'1. sb4 s'2 d'1. s'b1 q'1 sb4 d'b1.
+'b1 db4. s'b1 sb4 d'b3. s'b4 d6. s'b1 s'1 db4. s'2 s'1 d'b1. '1 db4. s'b1 db4. s'b1 sb4 s'b1
+'b1 s5 s6 d'b1. s'1 sb4 d'2. s'1 d'b1. '1 db4. s'b1 sb4 d'b1. sb4 s'b3 | d'b4. s'b1 db7. sb6
+hb6 s'b4 db1. s,b7 s,b6 db4. s'b1 s'b4 d'b6. s'b1 d'b4. s'b6 s'b7 d''b1. s'1 s'2 d'b4. s'6 s'b4 d'2. s'1
+h'1 d'b1. s'1 s'2 d'b4. s''b1 s''1 d''b1. s'6 s'b4 d'1. s'2 d'b4. s'6 s'b4 d'2. s'1 s'b1 d'1. s'2 d'b4
+d'b4 q''b1 d''1. s''b1 s'b4 d'1. s'2 s'b4 d'6. s'b4 s'2 d'1. s'b1 s'1 d'b3. s'b4 d''b1. s''1 s''b1 d'b7
+d'b7 s'b4 s'b6 d'b4. s'2 d'1. s''b1 s'6 d'b6. s'b4 s''2 d''1. s''b1 s''1 d'b6. s'b4 d'2. s'1 s6 d'b1. d'1
+d'1 sb4 d'b3. s'1 s'b1 q'1 db4. s'b1 sb4 d'b1. sb4 s'b3 d'b4. s6 s'b1 d'1. sb4 s'b3 d'1. d'b1
+d'b1 q'1 sb4 d'b1. sb4 s'b1 db4. s'b1 s5 d6. s'b1 d'1. sb4 s'b3 d'1. s'b1 q'1 sb4 h'b1
+s'b1 db4. s'b1 db4. s'b3 s'b4 d'b1. sb7 sb6 d'b4. sb1 d,b7. s,b6 sb4 d'b1. s'b4 s'b6 d'b1. s'b4 s'b6 h'b7
+s'b7 s''b1 s'1 d'2. s'b4 d'6. s'b4 s'2 d'1. s'b1 s'1 d'2. s'b4 s''b1 d''1. s''b1 d'6. s'b4 s'1 d'2. h'b4
+s'b4 s'6 d'b4. s'2 s'1 d'b1. s'1 d'2. s'b4 q''b1 s''1 s''b1 d'b4. s'1 s'2 d'b4. s'6 s'b4 d'2. '1
+d'1. d'b1. s'1 s'2 d'b4. s''b1 s''1 d''b1. s'b7 s'b4 d'b6. s'b4 d'2. s'1 s''b1 d'6. s'b6 s'b4 d''2. s''1
+d''b1. s''1 s'b6 d'3. s'2 s'1 db7. s'1 s'b2 d4. s'b3 d'b2. s'1 q'b2 s4 s'1 d4. s'1 d4.
+4 d'b3. s'4 sb7 d'1. s'b2 d4. s'b3 s'b2 d'1. 'b2 d4. s'1 s4 d'1. s4 d'1. sb6 sb7 s'1
+'1 s'b2 s4 d'b3. s'b2 s'1 q'b2 d4. s'1 s4 d'1. s4 s'b3 d'4. s'1 sb7 d6. s'4 d1. s,b7
+h,b7 s,6 d4. s'1 s'4 d'6. s'1 s'4 d'6. s'b7 d''1. s'b2 s'b3 d'4. s'b7 s'4 d'b3. s'b2 s'1 d'b2. s'b3
+h'b3 d'4. s''1 s''b2 d''1. s'b7 s'4 d'b2. s'b3 s'4 d'b7. s'4 d'b3. s'b2 s'1 d'b2. s'b3 s'4 q''1 d''b2
+d''b2 d''1. s'4 d'b2. s'b3 s'4 d'b7. s'4 s'b3 d'b2. s'1 s'b2 d'b3. s'4 s''1 d''b2. s''1 d'b7. s'4 s'6 d'4
+d'4 s'b3 s'b2 d''1. s'b7 d'6. s'4 s''b3 d''b2. s''1 s''b2 d'6. s'4 s'b3 d'b2. sb7 d'1. s'b2 s4 d'b3. d'b2
+d'b2 s'1 q'b2 s4 d'1. s4 d'1. s4 s'b3 d'4. sb7 s'1 d'b2. s4 s'b3 d'b2. s'1 q'b2 d4
+d4 d'1. s4 s'1 d4. s'1 sb6 db7. s'1 s'b2 d4. s'b3 d'b2. s'1 q'b2 s4 s'1 d4. s'1 h4
+s4 d'b3. s'4 d'1. sb7 s6 d'4. s1 s,b7 d,6. s4 d'1. s'4 s'6 d'1. s'4 s'6 d'b7. s''1 s'b2 h'b3
+s'b3 s'4 s'b7 d'4. s'b3 d'b2. s'1 s'b2 d'b3. s'4 s''1 d''b2. s''1 s'b7 d'4. s'b2 d'b3. s'4 s'b7 d'4. h'b3
+s'b3 s'b2 d'1. s'b2 s'b3 d'4. q''1 s''b2 s''1 d'4. s'b2 s'b3 d'4. s'b7 s'4 d'b3. s'b2 d'1. s'b2 'b3
+d'b3. d'4. s''1 s''b2 d''1. s'b7 s'4 d'6. s'4 s'b3 d'b2. s''1 d'b7. s'6 s'4 d''b3. s''b2 s''1 d''b2. s'6
+d'4. s'b3 s'b2 d'b1. s'b2 s'b3 db5. s'b4 s'b3 d'b2. q'b3 sb5 s'b2 db5. s'b2 sb5 d'b4. s'b5 d'b1.
+'b1 d'b2. s'b3 db5. s'b4 s'b3 d'b2. 'b3 db5. s'b2 sb5 d'b2. sb5 s'b2 db7. s'b1 d'b2. s'b3 sb5 s'b4
+'b4 s'b3 s'b2 q'b3 sb5 d'b2. sb5 d'b2. sb5 s'b4 d'b5. s'b2 s'b1 db7. s'b5 sb2 db1. s,b7 db5. s'b2
+h'b2 s'b5 d'b7. s'b2 s'b5 d'b7. s''b1 d''b2. s'b3 s'b4 d'b5. s''b1 s'b5 d'b4. s'b3 s'b2 d'b3. s'b4 s'b5 d''b2. s''b3
+h''b3 d''b2. s''b1 s'b5 d'b3. s'b4 s'b5 d''b1. s'b5 s'b4 d'b3. s'b2 d'b3. s'b4 s'b5 q''b2 s''b3 d''b2. s'b5 d'b3
+d'b3 d'b4. s'b5 d''b1. s'b5 s'b4 d'b3. s'b2 s'b3 d'b4. s'b5 s''b2 d''b3. s''b2 s''b1 d'b5. s'b7 d'b5. s'b4 s'b3 d''b2
+d''b2 s''b1 s'b7 d'b5. s''b4 d''b3. s''b2 s''b3 d'b7. s'b5 s'b4 d'b3. s'b1 s'b2 d'b3. sb5 d'b4. s'b3 s'b2 q'b3
+d'b3 sb5 d'b2. sb5 s'b2 db5. s'b4 d'b5. s'b1 s'b2 d'b3. sb5 s'b4 d'b3. s'b2 q'b3 sb5 s'b2 db5. d'b2
+d'b2 db5. s'b2 sb7 d'b1. s'b2 s'b3 db5. s'b4 s'b3 d'b2. q'b3 sb5 s'b2 db5. s'b2 sb5 d'b4. s'b5 h'b2
+s'b2 d'b1. sb7 d'b5. sb2 sb1 d,b7. sb5 s'b2 d'b5. s'b7 d'b2. s'b5 s'b7 d''b1. s''b2 s'b3 d'b4. s'b5 s''b1 h'b5
+s'b5 s'b4 s'b3 d'b2. s'b3 d'b4. s'b5 s''b2 d''b3. s''b2 s''b1 d'b5. s'b3 s'b4 d'b5. s''b1 d'b5. s'b4 s'b3 d'b2. h'b3
+s'b3 s'b4 d'b5. ''b2 d''b3. s''b2 d'b5. s'b3 s'b4 d'b5. s''b1 s'b5 d'b4. s'b3 s'b2 d'2. s'b4 | d'b5. s''b2 ''2
+d''2. d''b2. s''b1 s'b5 d'b7. s'b5 s'3 d'2. s''b2 s''b1 d'b7. s'b5 d''b4. s''2 s''b2 d''2. s'b7 s'b5 d'b4. s'2
+db6. sb7 s'b1 db3. s'b2 s'b1 db7. 'b1 db3. sb7 db3. sb7 sb3 d'b2. s'b3 sb6 | db7. s'b1 db3.
+b3 d'b2. s'b1 db7. 'b1 db3. sb7 sb3 db7. sb3 sb7 db5. sb6 sb7 d'b1. sb3 d'b2. s'b1 sb7 s'b1
+s'b1 sb3 db7. sb3 sb7 db3. s'b2 d'b3. sb7 sb6 d5. s'b3 s,b7 d,b6. s,5 sb3 db7. s'b3 d'5. sb7
+hb7 s'b3 d'5. s'b6 s'b7 d'b1. s'b2 d'b3. s'b6 s'b3 d'b2. s'b1 sb7 d'b1. s'b2 s'b3 d'b7. s''b1 s'b7 d'b6. s'b3
+h'b3 d'b1. s'b2 s'b3 d'b6. s'b3 s'b2 d'b1. sb7 s'b1 d'b2. s'b3 q'b7 s''b1 d'b7. s'b3 s'b1 d'b2. s'b3 d'b6
+d'b6 d'b3. s'b2 d'b1. sb7 s'b1 d'b2. s'b3 s'b7 d''b1. s'b7 s'b6 d'b3. s'5 d'b3. s'b2 s'b1 d'b7. s'b6 s'5 d'b3
+d'b3 s''b2 s''b1 d'b7. s''b1 d'5. s'b3 s'b2 d'b1. sb6 sb7 d'b1. sb3 s'b2 d'b1. sb7 q'b1 sb3 db7. db3
+db3 sb7 db3. s'b2 s'b3 db6. sb7 d'b1. sb3 s'b2 d'b1. sb7 q'b1 sb3 sb7 db3. sb7 db3. sb7 db5
+db5 db6. sb7 s'b1 db3. s'b2 s'b1 db7. 'b1 db3. sb7 db3. sb7 sb3 d'b2. s'b3 sb7 | db6. s5 h'b3
+s'b3 d,b7. s,b6 d,5. sb3 sb7 d'b3. s'5 sb7 d'b3. s'5 d'b6. s'b7 s'b1 d'b2. s'b3 s'b6 d'b3. s'b2 s'b1 hb7
+sb7 s'b1 d'b2. s'b3 s'b7 d''b1. s'b7 s'b6 d'b3. s'b1 s'b2 d'b3. s'b6 s'b3 d'b2. s'b1 db7. s'b1 s'b2 d'b3. h'b7
+s'b7. d''b1. s'b7 s'b3 d'b1. s'b2 d'b3. s'b6 s'b3 d'b2. s'b1 sb7 d'b1. s'b2 s'b3 d'b7. s''b1 d'b7. s'b6 'b3
+d'b3. d'5. s'b3 s'b2 d'b1. s'b7 s'b6 d'5. s'b3 s''b2 d''b1. s'b7 d''b1. s'5 s'b3 d'b2. s'b1 s6 d'b1. s'1
+db4. s'2 s'1 d'b1. '1 db4. s'b1 sb4 d'b1. sb4 d'b3. s'b4 s6 d'b1. s'1 sb4 | d'2. s'1 d'b1.
+'b1 q'1 db4. s'b1 sb4 d'b1. sb4 s'b1 d5. s6 s'b1 d'1. sb4 s'2 d'1. s'b1 q'1 sb4 s'b1
+'b1 sb4 s'b1 db4. s'b3 s'b4 d'b1. sb7 db6. s'b4 sb1 d,b7. s,b6 sb4 d'b1. s'b4 s'b6 d'b1. s'b4 d'b6. s'b7
+h'b7 s''b1 d'1. s'2 s'b4 d'6. s'b4 d'2. s'1 s'b1 d'1. s'2 s'b4 d''b1. s''1 s''b1 d'6. s'b4 s'1 d'2. s'b4
+h'b4 d'6. s'b4 s'2 d'1. s'b1 s'1 d'2. s'b4 q''b1 s''1 d''b1. s'b4 s'1 d'2. s'b4 s'6 d'b4. s'2 d'1
+d'1 d'b1. s'1 d'b3. s'b4 s''b1 d''1. s''b1 s'b7 d'b4. s'b6 s'b4 d'2. s'1 d''b1. s'6 s'b6 d'b4. s''2 s''1 d''b1
+d''b1 s''1 s'b6 d'b4. s'2 d'1. s6 s'b1 d'1. sb4 s'b3 d'1. s'b1 q'1 sb4 d'b1. sb4 s'b1 db4. d'2
+d'2 s'b4 d6. s'b1 s'1 db4. s'b3 d'1. s'b1 q'1 sb4 s'b1 db4. s'b1 sb4 d'b1. s5 d6. s'b1 d'1
+d'1 db4. s'b3 s'1 d'b1. '1 db4. s'b1 sb4 d'b1. sb4 d'b3. s'b4 s'b1 db7. sb6 s'b4 | db1. s,b7 h,b6
+s,b6 db4. s'b1 d'b4. s'b6 s'b1 d'b4. s'b6 s'b7 d''b1. s'1 d'2. s'b4 s'6 d'b4. s'2 s'1 d'b1. s'1 s'2 h'b4
+s'b4 s''b1 d''1. s''b1 s'6 d'b4. s'1 s'2 d'b4. s'6 s'b4 d'2. s'1 s'b1 d'1. s'2 d'b4. | ''b1 d''1. h''b1
+s''b1 s'b4 d'1. s'2 s'b4 d'6. s'b4 d'2. s'1 s'b1 d'1. s'2 s'b4 d''b1. s''1 s''b1 d'b7. s'b4 d'b6. s'b4 '2
+d'2. d'1. s''b1 s'6 d'b6. s'b4 s''2 d''1. s''b1 d''1. s'b6 s'3 d'2. s'1 sb7 d'1. s'b2 s4 d'b3. s'b2
+d'1. 'b2 d4. s'1 s4 d'1. s4 s'b3 d'4. sb7 d'1. s'b2 s4 d'b3. s'b2 s'1 q'b2 | d4.
+4 d'1. s4 d'1. s4 s'1 db6. sb7 s'1 d'b2. s4 s'b3 d'b2. s'1 q'b2 s4 d'1. s4 s'1 s4
+4 s'b3 s'4 d'1. sb7 s6 d'4. s1 d,b7. s,6 s4 d'1. s'4 s'6 d'1. s'4 s'6 d'b7. s''1 d'b2. s'b3
+h'b3 s'4 d'b7. s'4 s'b3 d'b2. s'1 d'b2. s'b3 s'4 d''1. s''b2 s''1 d'b7. s'4 s'b2 d'b3. s'4 d'b7. s'4 s'b3
+h'b3 d'b2. s'1 s'b2 d'b3. s'4 q''1 s''b2 s''1 d'4. s'b2 d'b3. s'4 s'b7 d'4. s'b3 s'b2 d'1. s'b2 d'b3
+d'b3 d'4. s''1 d''b2. s''1 s'b7 d'4. s'6 s'4 d'b3. s'b2 s''1 d'b7. s'6 d'4. s''b3 s''b2 d''1. s''b2 s'6 d'4
+d'4 s'b3 s'b2 db7. s'1 d'b2. s4 s'b3 d'b2. s'1 q'b2 s4 s'1 d4. s'1 d4. s'b3 s'4 db7. d'1
+d'1 s'b2 d4. s'b3 s'b2 d'1. q'b2 s4 s'1 d4. s'1 s4 d'1. sb6 sb7 d'1. s'b2 d4. s'b3 d'b2
+d'b2 d'1. 'b2 d4. s'1 s4 d'1. s4 s'b3 d'4. s'1 db7. s6 s'4 d1. s,b7 s,6 | d4. s'1 h'4
+s'4 d'6. s'1 d'4. s'6 s'b7 d''1. s'b2 s'b3 d'4. s'b7 d'4. s'b3 s'b2 d'1. s'b2 s'b3 d'4. s''1 s''b2 h''1
+s''1 s'b7 d'4. s'b2 s'b3 d'4. s'b7 s'4 d'b3. s'b2 s'1 d'b2. s'b3 d'4. ''1 d''b2. s''1 s'4 | d'b2. h'b3
+s'b3 s'4 d'b7. s'4 s'b3 d'b2. s'1 d'b2. s'b3 s'4 d''1. s''b2 s''1 d'b7. s'4 s'6 d'4. s'b3 d'b2. s''1 'b7
+d'b7. d'6. s'4 s''b3 d''b2. s''1 s''b2 d'6. s'4 d'b3. s'b2 s'b1 d'b2. s'b3 sb5 d'b4. s'b3 d'b2. | 'b3
+db5. s'b2 sb5 d'b2. sb5 s'b4 d'b5. s'b1 s'b2 d'b3. sb5 d'b4. s'b3 s'b2 q'b3 sb5 d'b2. sb5 d'b2.
+'b2 db5. s'b2 db7. s'b1 s'b2 d'b3. sb5 s'b4 d'b3. s'b2 q'b3 sb5 d'b2. sb5 s'b2 db5. s'b4 s'b5 s'b2
+'b2 s'b1 sb7 d'b5. sb2 sb1 d,b7. sb5 d'b2. s'b5 s'b7 d'b2. s'b5 s'b7 d''b1. s''b2 s'b3 d'b4. s'b5 d''b1. s'b5
+h'b5 s'b4 d'b3. s'b2 s'b3 d'b4. s'b5 d''b2. s''b3 s''b2 d''b1. s'b5 s'b3 d'b4. s'b5 s''b1 d'b5. s'b4 d'b3. s'b2 s'b3
+h'b3 d'b4. s'b5 q''b2 s''b3 s''b2 d'b5. s'b3 s'b4 d'b5. s''b1 d'b5. s'b4 s'b3 d'b2. s'b3 s'b4 d'b5. s''b2 d''b3
+d''b3 d''b2. s''b1 d'b5. s'b7 s'b5 d'b4. s'b3 s''b2 d''b1. s'b7 s'b5 d''b4. s''b3 d''b2. s''b3 s'b7 d'b5. s'b4 s'b3 d'b1
+d'b1 s'b2 s'b3 db5. s'b4 d'b3. s'b2 q'b3 sb5 s'b2 db5. s'b2 sb5 d'b4. s'b5 d'b1. s'b2 s'b3 db5. d'b4
+d'b4 s'b3 d'b2. 'b3 db5. s'b2 db5. s'b2 sb5 d'b2. sb7 s'b1 d'b2. s'b3 sb5 d'b4. s'b3 | d'b2. q'b3
+d'b3 db5. s'b2 sb5 d'b2. sb5 s'b4 d'b5. s'b2 d'b1. sb7 s'b5 db2. sb1 s,b7 db5. s'b2 s'b5 d'b7. s'b2 h'b5
+s'b5 d'b7. s''b1 d''b2. s'b3 s'b4 d'b5. s''b1 s'b5 d'b4. s'b3 d'b2. s'b3 s'b4 d'b5. s''b2 s''b3 d''b2. s''b1 s'b5 h'b3
+s'b3 s'b4 d'b5. s''b1 s'b5 d'b4. s'b3 s'b2 d'b3. s'b4 s'b5 q''b2 d''b3. s''b2 s'b5 d'b3. s'b4 s'b5 d''b1. h'b5
+s'b5 s'b4 d'b3. s'b2 s'2 d'b4. s'b5 d''b2. s''2 s''b2 d''b1. s'b5 s'b7 d'b5. s'3 s'2 d''b2. s''b1 d'b7. s'b5 ''b4
+d''b4. d''2. s''b2 s''2 d'b7. s'b5 s'b4 d'2. sb6 db7. s'b1 sb3 d'b2. s'b1 sb7 q'b1 db3. sb7 sb3
+db7. sb3 s'b2 d'b3. sb6 sb7 h'b1 hb3 h'b2 'b1
+NextPart
+instrument=ssg1 square
+OctavesBefore
+4/4
+,b1 - - -
+,b1 - - -
+,b1 - - -
+,b1 - ,,b7 - - -
+,,b7 - - - ,,5 -
+,,5 - - -
+,,5 d,,b5
+,,b5 - - -
+,,b5 - - -
+,,b5 '2 'b3 'b5 'b4 s'2
+q'2 '2 '2 '2 '2 s'b3
+'b3 'b5 'b4 '2 '2 s'2
+'2 '2 '2 '2 'b5 d'b4
+'b4 'b3 'b3 '2 '2 d'2
+'2 '2 'b5 'b4 '2 d'2
+'2 'b3 'b3 'b3 'b3 d'b5
+'b5 'b4 q'b3. 'b3 q'b5. h'b4
+'b4 'b3 'b3 'b5 'b4 h'b2
+'b2 q'b2. 'b2 q'b2. 'b3 h'b3
+'b3 'b5 'b4 'b3 'b3 'b5
+'b5 'b4 q'b3. 'b3 q'b5.
+'b4 q'b2. 'b2 'b2 'b2
+'b3 'b3 'b5 q'b4. 'b3
+q'b3. 'b5 'b4 '2 'b3
+'b5 'b4 q'b2. 'b2 q'b2.
+'b2 q'b3. 'b3 'b5 'b4
+'b3 'b3 'b5 q'b4. '2
+'2 q'b3. 'b5 q'b4. 'b2 'b2
+h'b2 'b2 'b2 'b3 'b3 'b5
+h'b5 'b4 q'b3. 'b3 q'b5. 'b4
+h'b4 'b3 'b3 'b5 q'b4. 'b2
+d'b2 q'b2. 'b2 q'b2. 'b3 'b3
+d'b3 'b5 'b4 'b3 'b3 'b5
+d'b5 'b4 q'b3. 'b3 q'b5. 'b4
+d'b4 q'b2. 'b2 'b2 'b2 | 'b3
+s'b3 q'b3. 'b5 q'b4. 'b3 | 'b3
+s'b3 'b5 'b4 'b3 'b3 'b5
+d'b5. 'b4 q'b2. 'b2 q'b2. 'b2
+d'b2. q'b3. 'b3 'b5 'b4 'b3
+s'b3 q'b3. 'b5 q'b4. 'b3 'b3
+s'b3 'b5 q'b4. 'b2 'b2 q'b2
+s'b2 'b2 'b3 'b3 'b5 q'b4
+s'b4 'b3 'b3 'b3 'b3 q'b3
+s'b3 'b3 'b5 'b4 'b3 q'b3
+s'b3 'b3 'b3 'b3 'b3 s'b5..
+q'b5 'b4 'b3 'b3 '2 | 'b3
+q'b3 'b3 'b3 'b5 'b4 q'b3
+q'b3 'b3 '2 '2 sb6 db7. s'b1 sb3 d'b2. s'b1 db7.
+b7 q'b1 sb3 db7. sb3 db7. sb3 s'b2 d'b3. sb6 sb7 d'b1. sb3 s'b2 d'b1. sb7 q'b1 sb3 sb7
+b7 sb3 sb7 db3. sb7 sb5 db6. sb7 d'b1. sb3 s'b2 d'b1. sb7 q'b1 sb3 sb7 db3. sb7 db3. s'b2
+h'b2 s'b3 db7. sb6 s5 d'b3. s,b7 s,b6 d,5. sb3 db7. s'b3 s'5 db7. s'b3 s'5 d'b6. s'b7 s'b1 d'b2. s'b3
+h'b3 d'b6. s'b3 s'b2 d'b1. sb7 s'b1 d'b2. s'b3 s'b7 d''b1. s'b7 d'b6. s'b3 s'b1 d'b2. s'b3 s'b6 d'b3. s'b2 d'b1
+d'b1 db7. s'b1 s'b2 d'b3. q'b7 s''b1 s'b7 d'b3. s'b1 s'b2 d'b3. s'b6 s'b3 d'b2. s'b1 db7. s'b1 s'b2 d'b3
+d'b3 s'b7 s''b1 d'b7. s'b6 d'b3. s'5 s'b3 d'b2. s'b1 s'b7 d'b6. s'5 s'b3 d''b2. s''b1 d'b7. s''b1 s'5 d'b3. d'b2
+d'b2 s'b1 db6. sb7 s'b1 db3. s'b2 s'b1 db7. q'b1 sb3 sb7 db3. sb7 sb3 d'b2. s'b3 sb6 db7. d'b1
+d'b1 db3. s'b2 s'b1 db7. 'b1 db3. sb7 sb3 db7. sb3 db7. sb5 sb6 db7. s'b1 sb3 | d'b2. s'b1 hb7
+sb7 q'b1 db3. sb7 sb3 db7. sb3 s'b2 d'b3. sb7 sb6 d5. s'b3 d,b7. s,b6 s,5 db3. sb7 s'b3 h'5
+s'5 sb7 s'b3 d'5. s'b6 d'b7. s'b1 s'b2 d'b3. s'b6 s'b3 d'b2. s'b1 sb7 d'b1. s'b2 d'b3. s'b7 s''b1 d'b7. h'b6
+s'b6 s'b3 d'b1. s'b2 s'b3 d'b6. s'b3 d'b2. s'b1 sb7 d'b1. s'b2 s'b3 q'b7 s''b1 d'b7. s'b3 s'b1 d'b2. 'b3
+d'b3. d'b6. s'b3 s'b2 d'b1. sb7 s'b1 d'b2. s'b3 s'b7 d''b1. s'b7 d'b6. s'b3 s'5 d'b3. s'b2 s'b1 d'b7. s'b6
+d'5. s'b3 s''b2 d''b1. s'b7 s''b1 d'5. s'b3 s'b2 d'b1. s6 d'b1. s'1 sb4 d'b3. s'1 s'b1 q'1 db4.
+b4 d'b1. sb4 s'b1 db4. s'2 d'b4. s6 s'b1 d'1. sb4 s'b3 d'1. s'b1 q'1 sb4 d'b1. sb4 s'b1 sb4
+b4 s'b1 s5 d6. s'b1 s'1 db4. s'b3 d'1. s'b1 q'b2 sb4 s'b1 db4. s'b1 sb4 d'b3. s'b4 d'b1. sb7
+hb7 sb6 d'b4. sb1 s,b7 d,b6. sb4 s'b1 d'b4. s'b6 d'b1. s'b4 s'b6 d'b7. s''b1 s'1 d'2. s'b4 s'6 d'b4. s'b3
+h'b3 d'1. s'b1 s'1 d'2. s'b4 s''b1 d''1. s''b1 s'6 d'b4. s'1 d'2. s'b4 s'6 d'b4. s'2 s'1 d'b1. s'1 d'2
+d'2 d'b4. q''b1 s''1 s''b1 d'b4. s'1 s'2 d'b4. s'6 s'b4 d'b3. s'1 s'b1 d'1. s'b3 d'b4. s''b1 s''1 d''b1
+d''b1 s'b7 s'b4 d'b6. s'b4 d'2. s'1 s''b1 d'b7. s'b6 s'b4 d''2. s''1 s''b1 d''1. s'b6 d'b4. s'2 s'1 d6. d'b1
+d'b1 s'1 db4. s'b3 s'1 d'b1. q'1 sb4 s'b1 db4. s'b1 sb4 d'2. s'b4 s6 d'b1. s'1 sb4 d'b3. d'1
+d'1 d'b1. '1 db4. s'b1 sb4 d'b1. sb4 s'b1 d5. s6 d'b1. s'1 sb4 d'b3. s'1 s'b1 q'b2 | hb4
+sb4 d'b1. sb4 d'b1. sb4 s'b3 d'b4. s'b1 sb7 db6. s'b4 db1. s,b7 s,b6 db4. s'b1 s'b4 d'b6. s'b1 s'b4 h'b6
+s'b6 s'b7 s''b1 d'1. s'2 d'b4. s'6 s'b4 d'2. s'1 s'b1 d'1. s'2 s'b4 d''b1. s''1 d''b1. s'6 s'b4 d'1. h'2
+s'2 s'b4 d'6. s'b4 s'2 d'1. s'b1 d'1. s'2 s'b4 q''b1 s''1 d''b1. s'b4 s'1 d'2. s'b4 s'6 d'b4. '2
+d'2. d'1. s'b1 s'1 d'2. s'b4 s''b1 d''1. s''b1 s'b7 d'b4. s'b6 d'b4. s'2 s'1 d''b1. s'6 s'b6 d'3. s''2
+d''1. s''b1 s''1 d'b6. s'b4 s'2 d'1. sb7 s'1 d'b2. s4 d'b3. s'b2 s'1 q'b2 s4 d'1. s4 d'1.
+'1 d4. s'b3 s'4 db7. s'1 d'b2. s4 s'b3 d'b2. s'1 q'b2 s4 s'1 d4. s'1 d4. s'1 sb6 sb7
+b7 s'1 s'b2 d4. s'b3 s'b2 d'1. q'b2 s4 s'1 d4. s'1 s4 d'b3. s'4 s'1 db7. s6 d'4. s1
+h1 s,b7 d,6. s4 s'1 d'4. s'6 s'1 d'4. s'6 d'b7. s''1 s'b2 d'b3. s'4 s'b7 d'4. s'b3 s'b2 d'1. s'b2
+h'b2 d'b3. s'4 s''1 d''b2. s''1 s'b7 d'4. s'b2 s'b3 d'4. s'b7 d'4. s'b3 s'b2 d'1. s'b2 s'b3 d'4. q''1
+d''1 d''b2. s''1 d'4. s'b2 s'b3 d'4. s'b7 s'4 d'b3. s'b2 s'1 d'b2. s'b3 s'4 d''1. s''b2 d''1. s'b7 s'4 d'6
+d'6 s'4 s'b3 d'b2. s''1 d'b7. s'6 s'4 d''b3. s''b2 s''1 d''b2. s'6 s'4 d'b3. s'b2 db7. s'1 s'b2 d4. d'b3
+d'b3 s'b2 d'1. 'b2 d4. s'1 d4. s'1 s4 d'b3. s'4 sb7 d'1. s'b2 s4 d'b3. s'b2 s'1 q'b2
+d'b2 d4. s'1 s4 d'1. s4 s'1 db6. sb7 s'1 d'b2. s4 d'b3. s'b2 s'1 q'b2 s4 d'1. s4 h'1
+s'1 d4. s'b3 d'4. s'1 sb7 d6. s'4 s1 d,b7. s,6 d4. s'1 s'4 d'6. s'1 s'4 d'6. s'b7 s''1 h'b2
+s'b2 s'b3 s'4 d'b7. s'4 d'b3. s'b2 s'1 d'b2. s'b3 s'4 d''1. s''b2 s''1 d'b7. s'4 d'b2. s'b3 s'4 d'b7. h'4
+s'4 s'b3 d'b2. s'1 s'b2 d'b3. s'4 q''1 s''b2 d''1. s'4 s'b2 d'b3. s'4 s'b7 d'4. s'b3 d'b2. s'1 'b2
+d'b2. d'b3. s'4 s''1 d''b2. s''1 s'b7 d'4. s'6 s'4 d'b3. s'b2 d''1. s'b7 s'6 d'4. s''b3 s''b2 d''1. s''b2
+d'b7. s'4 s'b3 d'b2. s'b1 s'b2 d'b3. sb5 s'b4 d'b3. s'b2 q'b3 sb5 d'b2. sb5 s'b2 db5. s'b4 d'b5.
+'b5 d'b1. s'b2 d'b3. sb5 s'b4 d'b3. s'b2 q'b3 sb5 s'b2 db5. s'b2 sb5 d'b2. sb7 d'b1. s'b2 s'b3 sb5
+b5 s'b4 s'b3 d'b2. 'b3 db5. s'b2 db5. s'b2 sb5 d'b4. s'b5 s'b2 d'b1. sb7 s'b5 | db2. sb1 d,b7. sb5
+hb5 s'b2 d'b5. s'b7 s'b2 d'b5. s'b7 d''b1. s''b2 s'b3 d'b4. s'b5 s''b1 d'b5. s'b4 s'b3 d'b2. s'b3 s'b4 d'b5. s''b2
+h''b2 d''b3. s''b2 s''b1 d'b5. s'b3 s'b4 d'b5. s''b1 s'b5 d'b4. s'b3 d'b2. s'b3 s'b4 d'b5. | ''b2 d''b3. s''b2 d'b5
+d'b5 d'b3. s'b4 d'b5. s''b1 s'b5 d'b4. s'b3 s'b2 d'b3. s'b4 s'b5 d''b2. s''b3 s''b2 d''b1. s'b5 d'b7. s'b5 s'b4 d'b3
+d'b3 s''b2 s''b1 d'b7. s'b5 d''b4. s''b3 s''b2 d''b3. s'b7 s'b5 d'b4. s'b3 s'b1 d'b2. s'b3 db5. s'b4 s'b3 d'b2. d'b3
+q'b3 db5. s'b2 sb5 d'b2. sb5 d'b4. s'b5 s'b1 d'b2. s'b3 sb5 d'b4. s'b3 s'b2 q'b3 sb5 d'b2. db5
+db5 d'b2. sb5 s'b2 db7. s'b1 s'b2 d'b3. sb5 s'b4 d'b3. s'b2 q'b3 sb5 d'b2. sb5 s'b2 db5. s'b4 h'b5
+s'b5 d'b2. s'b1 db7. s'b5 sb2 db1. s,b7 sb5 d'b2. s'b5 d'b7. s'b2 s'b5 d'b7. s''b1 s''b2 d'b3. s'b4 s'b5 h''b1
+s''b1 s'b5 s'b4 d'b3. s'b2 d'b3. s'b4 s'b5 d''b2. s''b3 s''b2 d''b1. s'b5 s'b3 d'b4. s'b5 d''b1. s'b5 s'b4 d'b3. h'b2
+s'b2 s'b3 d'b4. s'b5 q''b2 s''b3 d''b2. s'b5 s'b3 d'b4. s'b5 s''b1 d'b5. s'b4 s'b3 d'b2. s'2 d'b4. s'b5 ''b2
+d''b2. d''2. s''b2 s''b1 d'b5. s'b7 s'b5 d'3. s'2 s''b2 d''b1. s'b7 d'b5. s''b4 s''2 d''b2. s''2 s'b7 d'b5. s'b4
+d'2. sb6 sb7 d'b1. sb3 s'b2 d'b1. sb7 q'b1 sb3 db7. sb3 sb7 db3. s'b2 s'b3 db6. sb7 d'b1.
+'b1 db3. s'b2 d'b1. sb7 q'b1 sb3 sb7 db3. sb7 sb3 db7. sb5 sb6 db7. s'b1 db3. s'b2 s'b1 sb7
+b7 'b1 db3. sb7 sb3 db7. sb3 d'b2. s'b3 sb7 db6. s5 s'b3 d,b7. s,b6 s,5 | db3. sb7 d'b3. s'5
+h'5 sb7 d'b3. s'5 s'b6 d'b7. s'b1 d'b2. s'b3 s'b6 d'b3. s'b2 s'b1 db7. s'b1 s'b2 d'b3. s'b7 s''b1 d'b7. s'b6
+h'b6 d'b3. s'b1 s'b2 d'b3. s'b6 s'b3 d'b2. s'b1 sb7 d'b1. s'b2 d'b3. 'b7 d''b1. s'b7 s'b3 | d'b1. s'b2 d'b3
+d'b3 d'b6. s'b3 d'b2. s'b1 sb7 d'b1. s'b2 s'b3 d'b7. s''b1 s'b7 d'b6. s'b3 d'5. s'b3 s'b2 d'b1. s'b7 s'b6 d'5
+d'5 s'b3 s''b2 d''b1. s'b7 d''b1. s'5 s'b3 d'b2. s'b1 sb6 db7. s'b1 sb3 d'b2. s'b1 db7. | 'b1 db3. db7
+db7 sb3 db7. sb3 s'b2 d'b3. sb6 db7. s'b1 sb3 d'b2. s'b1 sb7 q'b1 sb3 db7. sb3 db7. sb3 db7
+db7 db5. sb6 sb7 d'b1. sb3 s'b2 d'b1. sb7 q'b1 sb3 db7. sb3 sb7 db3. s'b2 s'b3 db7. sb6 h5
+s5 d'b3. s,b7 d,b6. s,5 sb3 db7. s'b3 s'5 db7. s'b3 d'5. s'b6 s'b7 d'b1. s'b2 s'b3 d'b6. s'b3 s'b2 h'b1
+s'b1 sb7 d'b1. s'b2 s'b3 d'b7. s''b1 s'b7 d'b6. s'b3 s'b1 d'b2. s'b3 s'b6 d'b3. s'b2 d'b1. sb7 s'b1 d'b2. h'b3
+s'b3 q'b7 s''b1 s'b7 d'b3. s'b1 d'b2. s'b3 s'b6 d'b3. s'b2 s'b1 db7. s'b1 s'b2 d'b3. s'b7 d''b1. s'b7 'b6
+d'b6. d'b3. s'5 s'b3 d'b2. s'b1 s'b7 d'b6. s'5 s'b3 d''b2. s''b1 d'b7. s''b1 s'5 d'b3. s'b2 s'b1 d6. s'b1
+d'1. sb4 s'b3 d'1. s'b1 q'1 sb4 s'b1 db4. s'b1 db4. s'2 s'b4 d6. s'b1 s'1 db4. s'b3 d'1.
+'1 d'b1. q'1 sb4 s'b1 db4. s'b1 sb4 d'b1. s5 s6 d'b1. s'1 sb4 d'b3. s'1 d'b1. | 'b2 sb4
+b4 s'b1 sb4 d'b1. sb4 s'b3 d'b4. s'b1 db7. sb6 s'b4 db1. s,b7 s,b6 db4. s'b1 s'b4 d'b6. s'b1 d'b4. s'b6
+h'b6 s'b7 d''b1. s'1 s'2 d'b4. s'6 d'b4. s'b3 s'1 d'b1. s'1 s'2 d'b4. s''b1 s''1 d''b1. s'6 s'b4 d'1. s'2
+h'2 d'b4. s'6 s'b4 d'2. s'1 s'b1 d'1. s'2 s'b4 q''b1 d''1. s''b1 s'b4 d'1. s'2 s'b4 d'6. s'b4 d'b3
+d'b3 d'1. s'b1 d'1. s'b3 s'b4 d''b1. s''1 s''b1 d'b7. s'b4 s'b6 d'b4. s'2 d'1. s''b1 s'b7 d'b6. s'b4 s''2 d''1
+d''1 s''b1 s''1 d'b6. s'b4 d'2. s'1 s6 d'b1. s'1 sb4 d'b3. s'1 s'b1 q'1 db4. s'b1 sb4 d'b1. db4
+db4 s'2 d'b4. s6 s'b1 d'1. sb4 d'b3. s'1 s'b1 q'1 sb4 d'b1. sb4 s'b1 db4. s'b1 d5. s6 d'b1
+d'b1 d'1. sb4 s'b3 d'1. s'b1 q'b2 sb4 s'b1 db4. s'b1 db4. s'b3 s'b4 d'b1. sb7 sb6 d'b4. sb1 h,b7
+s,b7 d,b6. sb4 d'b1. s'b4 s'b6 d'b1. s'b4 s'b6 d'b7. s''b1 d'1. s'2 s'b4 d'6. s'b4 s'2 d'1. s'b1 s'1 h'2
+s'2 s'b4 d''b1. s''1 s''b1 d'6. s'b4 s'1 d'2. s'b4 s'6 d'b4. s'2 s'1 d'b1. s'1 d'2. s'b4 q''b1 h''1
+s''1 s''b1 d'b4. s'1 s'2 d'b4. s'6 d'b4. s'2 s'1 d'b1. s'1 s'2 d'b4. s''b1 s''1 d''b1. s'b7 d'b4. s'b6 'b4
+d'b4. d'2. s'1 s''b1 d'6. s'b6 s'3 d''2. s''1 d''b1. s''1 s'b6 d'b4. s'2 s'1 db7. s'1 s'b2 d4. s'b3
+d'b2. s'1 q'b2 s4 s'1 d4. s'1 s4 d'b3. s'4 db7. s'1 s'b2 d4. s'b3 s'b2 d'1. q'b2
+'b2 d4. s'1 d4. s'1 s4 d'1. sb6 sb7 d'1. s'b2 s4 d'b3. s'b2 d'1. 'b2 d4. s'1 s4 s'1
+'1 s4 s'b3 d'4. s'1 sb7 d6. s'4 d1. s,b7 s,6 d4. s'1 s'4 d'6. s'1 s'4 d'6. s'b7 d''1. s'b2
+h'b2 s'b3 d'4. s'b7 s'4 d'b3. s'b2 d'1. s'b2 s'b3 d'4. s''1 s''b2 d''1. s'b7 s'4 d'b2. s'b3 d'4. s'b7 s'4
+h'4 d'b3. s'b2 s'1 d'b2. s'b3 s'4 q''1 s''b2 d''1. s'4 d'b2. s'b3 s'4 d'b7. s'4 s'b3 d'b2. s'1 d'b2
+d'b2 d'b3. s'4 d''1. s''b2 s''1 d'b7. s'4 s'6 d'4. s'b3 s'b2 d''1. s'b7 d'6. s'4 s''b3 d''b2. s''1 s''b2 d'6
+d'6 s'4 s'b3 d'b2. sb7 d'1. s'b2 s4 d'b3. s'b2 s'1 q'b2 s4 d'1. s4 d'1. s4 s'b3 d'4. db7
+db7 s'1 d'b2. s4 s'b3 d'b2. s'1 q'b2 s4 d'1. s4 s'1 d4. s'1 sb6 db7. s'1 d'b2. s4 d'b3
+d'b3 d'b2. s'1 q'b2 s4 s'1 d4. s'1 s4 d'b3. s'4 d'1. sb7 s6 d'4. s1 s,b7 d,6. s4 h'1
+s'1 d'4. s'6 d'1. s'4 s'6 d'b7. s''1 s'b2 d'b3. s'4 d'b7. s'4 s'b3 d'b2. s'1 s'b2 d'b3. s'4 s''1 h''b2
+s''b2 s''1 d'b7. s'4 s'b2 d'b3. s'4 s'b7 d'4. s'b3 s'b2 d'1. s'b2 d'b3. s'4 q''1 s''b2 s''1 d'4. h'b2
+s'b2 s'b3 d'4. s'b7 s'4 d'b3. s'b2 d'1. s'b2 s'b3 d'4. s''1 s''b2 d''1. s'b7 s'4 d'6. s'4 d'b3. s'b2 ''1
+d''1. d'b7. s'6 s'4 d''b3. s''b2 s''1 d''b2. s'b7 d'4. s'b3 s'b2 d'b1. s'b2 s'b3 db5. s'b4 d'b3. s'b2 s'b3
+d'b3. sb5 s'b2 db5. s'b2 sb5 d'b4. s'b5 s'b1 d'b2. s'b3 db5. s'b4 s'b3 d'b2. 'b3 | db5. s'b2 db5.
+b5 d'b2. sb5 d'b2. sb7 s'b1 d'b2. s'b3 sb5 d'b4. s'b3 s'b2 q'b3 db5. s'b2 sb5 d'b2. sb5 s'b4 s'b5
+'b5 s'b2 s'b1 db7. s'b5 sb2 db1. s,b7 db5. s'b2 s'b5 d'b7. s'b2 s'b5 d'b7. s''b1 s''b2 d'b3. s'b4 d'b5. s''b1
+h''b1 s'b5 d'b4. s'b3 s'b2 d'b3. s'b4 d'b5. s''b2 s''b3 d''b2. s''b1 s'b5 d'b3. s'b4 s'b5 d''b1. s'b5 d'b4. s'b3 s'b2
+h'b2 d'b3. s'b4 s'b5 q''b2 s''b3 d''b2. s'b5 s'b3 d'b4. s'b5 d''b1. s'b5 s'b4 d'b3. s'b2 s'b3 d'b4. s'b5 d''b2
+d''b2 d''b3. s''b2 d''b1. s'b5 s'b7 d'b5. s'b4 s'b3 d''b2. s''b1 s'b7 d'b5. s''b4 d''b3. s''b2 s''b3 d'b7. s'b5 s'b4 d'b3
+d'b3 s'b1 s'b2 d'b3. sb5 d'b4. s'b3 s'b2 q'b3 sb5 d'b2. sb5 s'b2 db5. s'b4 d'b5. s'b1 s'b2 d'b3. db5
+db5 s'b4 d'b3. s'b2 q'b3 sb5 d'b2. sb5 s'b2 db5. s'b2 sb7 d'b1. s'b2 s'b3 db5. s'b4 d'b3. s'b2 d'b3
+q'b3 sb5 s'b2 db5. s'b2 sb5 d'b4. s'b5 d'b2. s'b1 sb7 d'b5. sb2 sb1 d,b7. sb5 s'b2 d'b5. s'b7 h'b2
+s'b2 d'b5. s'b7 d''b1. s''b2 s'b3 d'b4. s'b5 s''b1 d'b5. s'b4 d'b3. s'b2 s'b3 d'b4. s'b5 s''b2 d''b3. s''b2 s''b1 h'b5
+s'b5 s'b3 d'b4. s'b5 s''b1 d'b5. s'b4 s'b3 d'b2. s'b3 s'b4 d'b5. q''b2 s''b3 s''b2 d'b5. s'b3 s'b4 d'b5. h''b1
+s''b1 s'b5 d'b4. s'b3 s'b2 d'2. s'b4 d'b5. s''b2 s''2 d''b2. s''b1 s'b5 d'b7. s'b5 s'3 d'2. s''b2 d''b1. s'b7 'b5
+d'b5. d''b4. s''2 s''b2 d''2. s'b7 s'b5 d'b4. s'2 db6. sb7 s'b1 db3. s'b2 s'b1 db7. q'b1 sb3 sb7
+db3. sb7 sb3 d'b2. s'b3 sb6 hb7 h'b1 hb3 'b2
+NextPart
+instrument=drums
+OctavesBefore
+4/4
+,b3 ,b3
+R*3
+,b3
+R*1
+,b3
+R*1
+,,1 ,,1 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,,1 ,b3 ,,2 ,b3 ,,b5,,2 ,,1
+,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3
+,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,2
+,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,,1 ,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2
+,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,b3 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,b3
+,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,b3 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,b3 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2
+,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,b3 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,b3 ,b3 ,,b5,,b3 ,b3 ,,2 ,,1 ,,1 ,b3 ,,2 ,,1 ,,1 ,b3 ,,2
+,,1 ,,2 ,,b3 ,,b3 ,,b3 ,b3 ,,b3 ,,1 ,,b3 ,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3
+,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,2
+,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,2
+,b3 ,,b5,,1 ,,1 ,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3
+,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,2
+,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1
+,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,,1 ,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5
+,b3 ,,b5,,b3 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,b3 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,b3 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,b3 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,b3 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5
+,b3 ,,b5,,b3 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,b3 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,b3 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5
+,b3 ,,b5,,b3 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,,1 ,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2
+,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,b3 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,b3 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,b3 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,b3 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5
+,b3 ,,b5,,b3 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,b3 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,b3 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5
+,b3 ,,b5,,b3 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,b3 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,,1 ,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,2
+,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1
+,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,1
+,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1
+,,1 ,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1
+,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3
+,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1
+,b3 ,,b5,,2 ,b3 ,,b5,,1 ,,1 ,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,b3 ,b3 ,,b5 ,b3 ,,b5,,1
+,b3 ,,b5 ,b3 ,,b5,,b3 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,b3 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,b3 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,b3 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,b3 ,b3 ,,b5 ,b3 ,,b5,,1
+,b3 ,,b5 ,b3 ,,b5,,b3 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,b3 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,b3 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,b3 ,b3 ,,b5 ,b3 ,,b5,,1
+,b3 ,,b5 ,b3 ,,b5,,b3 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,,1 ,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5,,1
+,b3 ,,b5 ,b3 ,,b5,,b3 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,b3 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,b3 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,b3 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,b3 ,b3 ,,b5 ,b3 ,,b5,,1
+,b3 ,,b5 ,b3 ,,b5,,b3 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,b3 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,b3 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,b3 ,b3 ,,b5 ,b3 ,,b5,,1
+,b3 ,,b5 ,b3 ,,b5,,b3 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,2 ,,1 ,,1 ,b3 ,,2 ,,1 ,,1 ,b3 ,,2 ,,1 ,,2 ,,2 ,,2 ,,2 ,b3 ,,2
+,,1 ,,2 ,,2 ,,1 ,,1 ,,1 ,,1 ,,1
+,,1 ,,1 ,,1 ,,1 ,,1
+,,1 ,,1 ,,1 ,,1 ,,1
+,,1 ,b3 ,,b5 ,b3 ,,b5 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5 ,b3 ,,b5 ,b3 ,,b5,,1
+,b3 ,,b5 ,b3 ,,b5 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5 ,b3 ,,b5 ,b3 ,,b5,,1
+,b3 ,,b5 ,b3 ,,b5 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5 ,b3 ,,b5
+,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5 ,b3 ,,b5 ,b3
+R*2
+,b3
+R*3
+,b3
+R*2
+,b3
+,b3 ,b3
+,b3 ,,2 ,,1 ,,1 ,b3 ,,2 ,,1 ,,1 ,b3 ,,2
+,,1 ,,2 ,,2 ,,2 ,,2 ,b3 ,,2 ,,1 ,,2 ,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3
+,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,b3
+,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3
+,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,2
+,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,2
+,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3
+,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,,1 ,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5,,2
+,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,2
+,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,b3
+,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,,1 ,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,b3 ,b3 ,,b5,,1
+,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,2
+,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,2
+,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,2 ,,1 ,,1 ,b3 ,,2 ,,1 ,,1 ,b3 ,,2 ,,1 ,,2 ,,2
+,,2 ,,2 ,b3 ,,2 ,,1 ,,2 ,,2 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5
+,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5
+,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5
+,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5
+,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5,,2
+,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3
+,,1 ,,1 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,,1 ,b3 ,,2 ,b3 ,,b5,,2 ,,1 ,,2 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5
+,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5
+,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5
+,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,,1 ,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5
+,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5
+,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5
+,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,2 ,,1 ,,1 ,b3 ,,2 ,,1 ,,1 ,b3 ,,2 ,,1 ,,2 ,,2 ,,2 ,,2 ,b3 ,,2
+,,1 ,,b3 ,,b3 ,b3
+R*2
+,b3
+R*2
+,b3
+R*2
+,b3
+,b3
+,b3 ,,1 ,,1 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,b3 ,,1 ,b3 ,,2
+,b3 ,,b5,,2 ,,1 ,,2 ,b3 ,,2 ,,1 ,,1 ,b3 ,,2 ,,1 ,,1 ,b3 ,,2 ,,1 ,,2 ,,2 ,,2 ,,2 ,b3 ,,2 ,,1 ,,2 ,,2
+,b3
+R*2
+,b3
+R*2
+,b3
+R*2
+,b3
+,b3
+,b3
+,b3 ,,2 ,,1 ,,1 ,b3 ,,2 ,,1 ,,1 ,b3 ,,2 ,,1 ,,2 ,,2 ,,2 ,,2 ,b3 ,,2 ,,1 ,,2 ,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,b3
+,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,2
+,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3
+,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,b3
+,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,2
+,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,2
+,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,,1 ,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2
+,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3
+,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5,,2
+,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,,1
+,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,2
+,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,2
+,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,2 ,,1 ,,1
+,b3 ,,2 ,,1 ,,1 ,b3 ,,2 ,,1 ,,2 ,,2 ,,2 ,,2 ,b3 ,,2 ,,1 ,,2 ,,2 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5
+,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5
+,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5
+,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5
+,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5
+,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5
+,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,1 ,,1 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,,1 ,b3 ,,2 ,b3 ,,b5,,2
+,,1 ,,2 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5
+,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5
+,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,,1 ,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,2
+,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5
+,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,b5,,1 ,b3 ,,b5,,1 ,b3 ,,b5
+,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5 ,b3 ,,b5,,1 ,b3 ,,b5 ,b3 ,,b5,,2 ,b3 ,,b5,,2 ,b3 ,,2 ,,1 ,,1 ,b3 ,,2 ,,1 ,,1
+,b3 ,,2 ,,1 ,,2 ,,2 ,,2 ,,2 ,b3 ,,2 ,,1 ,,b3 ,,b3 ,b3
+R*2
+,b3
+R*2
+,b3
+R*3
+,b3 ,b3
+,b3
+,,1 ,,1 ,b3 ,,b5,,1 ,b3 ,,b5,,b3 ,b3 ,,b5,,b3 ,,1 ,b3 ,,2 ,b3 ,,b5,,2 ,,1 ,,2 ,b3 ,,2 ,,1 ,,1 ,b3 ,,2 ,,1 ,,1 ,b3 ,,2 ,,1 ,,2
+,,2 ,,2 ,,2 ,b3 ,,2 ,,1 ,,2 ,,2 ,b3
+,b3 ,b1,,b5,,b3,,b2,,1
+NextPart
+instrument=fm0, 1, 2 rikako
+OctavesBefore
+4/4
+b5 - - - b4b1
+LP:\once \override Staff.TimeSignature.stencil = #(lambda (grob) (grob-interpret-markup grob #{ \markup \bold \huge "サ" #}))
+:LP
+12/4
+b4 ~ b5 - - - ~ b1 - - - 2
+LP: \bar "|"
+:LP
+2 - ~ b5 - - - ~ b1 - - - b2 - - -
+b5 - b2b1 b5 - - - b2,b7
+qb5 ,b5 - - - b1 - ,5,2 ~ b2 - - - ~ ,b7 - - -
+b1 - - - ,5,2
+b1 ,5,2 d,b7 d,b5,b2
+,b7 - - - ,b5,b2
+,b7 - - - ,b5,b2
+s,b7 s,b5,b2
+NextPart
+instrument=fm0 mainn
+OctavesBefore
+4/4
+R*47
+,b6 qb3 qb2 qb3
+b3 qb1 qb3 q,b7 b3 q,b6 qb3 b2 qb3 qb1 | sb3.
+b3 ,b7 qb3 q,b6 qb3 b2 qb3 qb1 | b3 q,b7 qb3
+hb3 ,b6 - ,5 - ,5 | ,b6 qb3
+hb3 qb2 qb3 b1 qb6 qb3 qb6 | ,b6 qb3 qb2 qb3
+db3 qb1 qb6 qb3 b6 q,b6 qb3 | b2 qb3 qb1 qb6
+db6 b3 qb6 5 - b3 - 5
+d5 qb6 'b3 q'b2 q'b3 q'b1 'b3 qb7 q'b3 | b6 q'b3
+d'b3 q'b2 q'b3 'b1 q'b3 qb7 q'b3 | b6 q'b3 q'b2 q'b3
+s'b3 q'b1 q'b3 qb7 'b3 b6 - 5 -
+s5 'b3 q5 qb6 q'b3 'b2 q'b3 q'b1 q'b6 | 'b3 s'b6
+s'b6 qb6 'b3 q'b2 q'b3 q'b1 'b6 q'b3 q'b6 | b6 s'b3
+d'b3. q'b2 q'b3 'b1 q'b6 q'b3 q'b6 '5 - s'b3
+'b3 '5 s'b5 d'4 q,6 qb4 qb3 b4 q1 | db4.
+sb4 b1 qb4 q,6 qb4 2 qb4 q1 qb4 | b1 sb4
+sb4 q,6 b4 qb3 qb4 qb2 b4 qb1 qb4 ,b7
+,b7 ,b6 - ,b6 ,6 qb4 q2 sb4
+sb4 1 q6 qb4 b7 q,6 qb4 q2 | b4 q1 d6
+q6 qb4 6 q,6 qb4 2 qb4 q1 qb7 | b4 db7
+qb7 b6 - b4 - b6 q6 d'b4
+q'b4 q'b3 q'b4 q'1 'b4 q'b1 q'b4 | 6 q'b4 q'2 d'b4
+q'b4 '1 q'b4 q'b1 'b4 q6 q'b4 q'b3 | 'b4 q'b2 h'b4
+q'b4 q'b1 'b4 b7 - b6 - | 'b4 hb6
+qb6 q6 q'b4 '2 q'b4 q'1 '6 q'b4 q'6 q6 h'b4
+s'b4. q'2 q'b4 q'1 '6 q'b4 q'6 | 6 q'b4 q'2 'b4
+s'b4. '1 q'b7 q'b4 'b7 'b6 - '3
+q'3 'b6 s'5 d'b5 ,,b7 ,1 ,b2 -
+,b2 q,4 ,b7 1 b2 | q4... hb4 sb3.
+b3 4 ,b7 - 4 db3 d4 sb3 qb2 q1
+h1 q,6 s,6 s,6 q4 sb3 d4. q1 db1 b2 b3 q4
+h4 db7. 4 sb3 b2 qb2 qb3 b3 q4 sb7 | d4. s4 db3
+db3 db2. s1 b2 b3 q4 sb7 q4 sb7 6
+6 - s6 d4. sb3 s4 db2. s4 s1 d4. ,b7 q1
+q1 b2 - q4 b7 '1 q'b2
+q'b2 q'4... d'b4 q'b3 q'4 b7 - q'4
+'4 d'b3 d'4 s'b3 q'b2 '1 q6 d6. s6 q'4 s'b3 s'4 q'1 d'b1 | s'b2
+'b2 'b3 q'4 s'b7 '4 s'b3 'b2 | 'b2 s'b3
+s'b3 q'b3 '4 d'b7. s'4 d'4. s'b3 s'b2 d'1. 'b2 'b3 s'4
+d'4. d'b7. '4 d'b7. '6 - - - d'6. s'4 s'b3 | d'4. s'b2
+d'4. s'1 s'4
+R*12
+q,b6 qb3 b2 qb3 qb1 qb3 ,b7 qb3 q,b6 qb3
+b3 qb2 qb3 qb1 b3 q,b7 qb3 ,b6 qb3 qb2 | sb3.
+b3 b1 qb3 q,b7 qb3 ,b6 - | ,5
+h,5 ,5 q,b6 qb3 qb2 b3 qb1 qb6 | b3 qb6
+hb6 q,b6 qb3 b2 qb3 qb1 qb6 | b3 qb6 q,b6 qb3
+db3 qb2 qb3 qb1 b6 qb3 qb6 5 - qb3
+b3 5 b6 q'b3 q'b2 q'b3 | 'b1 q'b3
+d'b3 qb7 'b3 qb6 q'b3 q'b2 'b3 q'b1 q'b3 qb7 q'b3
+d'b3 qb6 q'b3 'b2 q'b3 q'b1 q'b3 | b7 q'b3 b6
+b6 5 - q'b3 q5 qb6 'b3 q'b2 | s'b3
+s'b3 q'b1 'b6 q'b3 q'b6 b6 q'b3 q'b2 q'b3 | 'b1 s'b6
+s'b6 q'b3 'b6 qb6 q'b3 q'b2 'b3 q'b1 q'b6 q'b3 s'b6
+d'b6. '5 - 'b3 - '5 s'b5 d'4 q,6 sb4
+db4. b3 qb4 q1 b4 qb1 qb4 q,6 | b4 q2 db4.
+sb4 q1 b4 qb1 qb4 ,6 qb4 qb3 qb4 | b2 sb4
+sb4 qb1 b4 ,b7 - ,b6 - ,b6
+s,b6 q,6 qb4 q2 b4 q1 q6 | b4 qb7 q,6 sb4
+sb4 2 qb4 q1 6 qb4 q6 q,6 | b4 q2 db4
+qb4 q1 b7 qb4 qb7 b6 - | b4
+qb4 b6 6 q'b4 q'b3 'b4 q'1 q'b4 q'b1 d'b4
+q'b4 q6 q'b4 q'2 'b4 q'1 q'b4 | 'b1 q'b4 q6 d'b4
+q'b4 'b3 q'b4 q'b2 'b4 q'b1 q'b4 b7 - | hb6
+b6 - q'b4 qb6 q6 'b4 q'2 q'b4 | '1 h'6
+q'6 q'b4 q'6 6 q'b4 q'2 'b4 q'1 q'6 q'b4 h'6
+s'6. q6 q'b4 q'2 'b4 q'1 q'b7 | 'b4 q'b7 'b6
+'b6 '3 - 'b6 d'5 d'b5 ,,b7 q,1
+q,1 ,b2 - q,4 ,b7 1 qb2
+sb2 q4... hb4 b3 q4 ,b7 - | s4.
+s4.. db3 d4 sb3 qb2 q1 ,6 d,6. s,6 q4 sb3 s4 q1 db1 qb2
+sb2.. b3 q4 sb7 4 db3. b2 qb2 qb3
+hb3 qb3 q4 sb7 s4 d4. sb3 sb2 d1. b2 b3 q4
+d4 db7. q4 sb7 6 - s6 s4 db3. s4 sb2 d4
+d4 s1 s4 ,b7 1 b2 - | 4 qb7
+qb7 '1 'b2 q'4... h'b4 q'b3 q'4 qb7
+b7 - '4 d'b3 d'4 d'b3. 'b2 q'1 q6 s6 | h6
+s6 q'4 d'b3. s'4 q'1 d'b1 'b2 'b3 '4 | d'b7. q'4
+s'4 s'b3 'b2 q'b2 q'b3 'b3 q'4 d'b7. s'4 s'4 d'b3. s'b2 s'1 s'b2
+'b2 'b3 q'4 s'b7 q'4 s'b7 '6
+'6 s'6 d'4. s'b3 s'4 d'b2. s'4 d'1. s'4
+R*12
+q,b6 b3 qb2 qb3 qb1 b3
+q,b7 qb3 ,b6 qb3 qb2 qb3 hb1
+NextPart
+instrument=fm1 slap bass
+OctavesBefore
+4/4
+R*9
+,,,5 ,,,5 ,,,b7 ,,,b7 | ,,b1
+s,,b1 ,,b1 ,,b1 ,,,6 ,,,5 ,,,5
+s,,,5 ,,,b7 ,,,6 ,,b1 ,,b1 ,,b1
+s,,b1 ,,,6 s,,,5 d,,,5. s,,2 s,,,5 d,,,5. s,,2 s,,,5 d,,,b6. s,,,b7 d,,,b7. s,,b4 s,,,b7 d,,,b7. s,,b4 d,,,b7
+d,,,b7 d,,,b7. s,,b1 s,,b1 d,,b5. s,,b1 d,,b1. s,,b1 s,,b5 d,,b1. s,,b1 s,,b1 d,,b5. s,,b1 s,,,6 d,,b4. s,,,6 d,,,6. s,,,5 s,,,5 d,,2
+d,,2 s,,,5 s,,,5 d,,2. s,,,5 d,,,b6. s,,,b7 s,,,b7 d,,b4. s,,,b7 s,,,b7 d,,b4. s,,,b7 s,,,b7 d,,b1. s,,b1 s,,b5 d,,b1. s,,b1 d,,b1. d,,b5
+d,,b5 s,,b1 d,,b1. s,,b1 s,,b5 d,,b1. s,,,b7 s,,b4 d,,,b7. s,,,b7
+NextPart
+instrument=fm2 chime thing
+OctavesBefore
+4/4
+R*9
+q'2 q'2 q'b5 q'b4 s'2
+s'2 '2 q'2 '2 q'2 s'2
+s'2 q'b5 q'b4 q'2 q'2 s'2
+s'2 q'2 '2 q'2 'b5 d'b4
+q'b4 q'b3 q'b3 q'2 q'2 d'2
+q'2 q'2 q'b5 'b4 q'2 d'2
+q'2 q'b3 q'b3
+NextPart
+instrument=fm0 high chime
+OctavesBefore
+4/4
+R*9
+q''b1 q''b1 q''b3 q''b2 s''b1
+s''b1 ''b1 q''b1 ''b1 q''b1 s''b1
+s''b1 q''b3 q''b2 q''b1 q''b1 s''b1
+s''b1 q''b1 ''b1 q''b1 ''b3 d''b2
+q''b2 q''b1 q''b1 q''b1 q''b1 d''b1
+q''b1 q''b1 q''b3 ''b2 q''b1 d''b1
+q''b1 q''b1 q''b1
+R*25
+''b1 q''b1 ''b3 q''b2
+''b1 q''b1 q''b1 q''b1 q''b1
+''b1 q''b3 ''b2 q''b1 ''b1
+q''b1 ''b1 q''b1 q''b1 q''b3
+q''b2 ''b1 q''b1 ''b1 q''b1
+''b1 q''b1 q''b3 q''b2 q''b1
+q''b1 q''b1 q''b1
+%---
+%------th04_18.txt_Blargzargo.buf------
+instrument=A
+OctavesBefore
+1=C
+4/4
+#4 - - -
+#4 - - -
+#4 - - -
+#4 - ,#4 -
+,2 - - -
+,2 - - -
+,#1 - - -
+,#1 - - -
+q'7 q'7 q''2 q''#1
+q'7 q'7 q'7 q'7
+q'7 q'7 q''2 q''#1
+q'7 q'7 q'7 q'7
+q'7 q'7 q''2 q''#1
+q'7 q'7 q'7 q'7
+q'7 q'7 q''2 q''#1
+q'7 q'7 q'7 q'7
+q,7 q#4 q3 q#4 q2 q#4 q#1 q#4
+q,7 q#4 q3 q#4 q2 q#4 q#1 q#4
+q,7 q#4 q3 q#4 q2 q#4 q#1 q#4
+,7. ,#6. ,#6
+q,7 q#4 q3 q#4 q2 q7 q#4 q7
+q,7 q#4 q3 q#4 q2 q7 q#4 q7
+q,7 q#4 q3 q#4 q2 q7 q#4 q7
+#6. q#4 q'3 q'2 q'#1 q'3
+q7 q'#4 q'3 q'#4 q'2 q'#4 q'#1 q'#4
+q7 q'#4 q'3 q'#4 q'2 q'#4 q'#1 q'#4
+q7 q'#4 q'3 q'#4 q'2 q'#4 q'#1 q'#4
+7. #6. q'#4 q#6
+q7 q'#4 q'3 q'#4 q'2 q'7 q'#4 q'7
+q7 q'#4 q'3 q'#4 q'2 q'7 q'#4 q'7
+q7 q'#4 q'3 q'#4 q'2 q'7 q'#4 q'7
+'#6. '#4. #6
+q,7 q#4 q3 q#4 q2 q#4 q#1 q#4
+q,7 q#4 q3 q#4 q2 q#4 q#1 q#4
+q,7 q#4 q3 q#4 q2 q#4 q#1 q#4
+,7. ,#6. ,#6
+q,7 q#4 q3 q#4 q2 q7 q#4 q7
+q,7 q#4 q3 q#4 q2 q7 q#4 q7
+q,7 q#4 q3 q#4 q2 q7 q#4 q7
+#6. q#4 q'3 q'2 q'#1 q'3
+q7 q'#4 q'3 q'#4 q'2 q'#4 q'#1 q'#4
+q7 q'#4 q'3 q'#4 q'2 q'#4 q'#1 q'#4
+q7 q'#4 q'3 q'#4 q'2 q'#4 q'#1 q'#4
+7. #6. q'#4 q#6
+q7 q'#4 q'3 q'#4 q'2 q'7 q'#4 q'7
+q7 q'#4 q'3 q'#4 q'2 q'7 q'#4 q'7
+q7 q'#4 q'3 q'#4 q'2 q'7 q'#4 q'7
+'#6. '#4. b7
+q'7 q'7 q''2 q''#1
+q'7 q'7 q'7 q'7
+q'7 q'7 q''2 q''#1
+q'7 q'7 q'7 q'7
+q'7 q'7 q''2 q''#1
+q'7 q'7 q'7 q'7
+q'7 q'7 q''2 q''#1
+q'7 q'7 q'7 q'7
+q,#5 q#2 q#1 q#2 q,7 q#2 q,#6 q#2
+q,#5 q#2 q#1 q#2 q,7 q#2 q,#6 q#2
+q,#5 q#2 q#1 q#2 q,7 q#2 q,#6 q#2
+,#5. ,#4. ,#4
+q,#5 q#2 q#1 q#2 q,7 q#5 q#2 q#5
+q,#5 q#2 q#1 q#2 q,7 q#5 q#2 q#5
+q,#5 q#2 q#1 q#2 q,7 q#5 q#2 q#5
+#4. #2. #4
+q#5 q'#2 q'#1 q'#2 q7 q'#2 q#6 q'#2
+q#5 q'#2 q'#1 q'#2 q7 q'#2 q#6 q'#2
+q#5 q'#2 q'#1 q'#2 q7 q'#2 q#6 q'#2
+#5. #4. q'#2 q#4
+q#5 q'#2 q'#1 q'#2 q7 q'#5 q'#2 q'#5
+q#5 q'#2 q'#1 q'#2 q7 q'#5 q'#2 q'#5
+q#5 q'#2 q'#1 q'#2 q7 q'#5 q'#2 q'#5
+'#4. '#2. '5
+17/16
+'5 q,6 q3 q2 q3 q1 q3 q,7 q3
+q,6 q3 q2 q3 q1 q3 q,7 q3
+q,6 q3 q2 q3 q1 q3 q,7 q3
+,6. ,#5. ,#5
+q,6 q3 q2 q3 q1 q6 q3 q6
+q,6 q3 q2 q3 q1 q6 q3 q6
+q,6 q3 q2 q3 q1 q6 q3 q6
+#5. 3. #5
+#5 q6 q'3 q'2 q'3 q'1 q'3 q7 q'3
+q6 q'3 q'2 q'3 q'1 q'3 q7 q'3
+q6 q'3 q'2 q'3 q'1 q'3 q7 q'3
+6. #5. q'3 q#5
+q6 q'3 q'2 q'3 q'1 q'6 q'3 q'6
+q6 q'3 q'2 q'3 q'1 q'6 q'3 q'6
+q6 q'3 q'2 q'3 q'1 q'6 q'3 q'6
+'#5. '3. '#5
+'#5 ,,#6 ,,#7 ,#1. q,#3
+,#6 ,#7 q#1. 4
+4 q#2 q#3 ,#6 - 4
+d#2 d4 s#2 q#1 q1 q,6 s,6 s,6 q4 s#2 s#3 q,#7
+,#7 #1 #2 q#3 s#6 q#3. s#2 s#1
+q#1 q#1 q#2 q#2 q#3 s#6 s#3 s#3 s#2 s#1 s,#7
+#1 #2 q#3 sb7 q4 sb7 q6
+6 - s6 s4 s#2 s#3 s#1 s#3 s,#7 s#3
+,#6 ,#7 #1. q#3
+#6 #7 q'#1. '4
+'4 q'#2 q'#3 #6 - '4
+d'b3 d'4 s'#2 q'#1 q'1 q6 s6 s6 q'4 s'#2 s'#3 q#7
+#7 '#1 '#2 q'#3 s'#6 q'#3. s'#2 s'#1
+q'#1 q'#1 q'#2 q'#2 q'#3 s'#6 s'#3 s'#3 s'#2 s'#1 s#7
+'#1 '#2 q'#3 s'b7 q'4 s'b7 q'6
+'6 - s'6 s'4 s'#2 s'4 s'#1 s'4 s'1 s'#3
+s,7 s#1 s2 s,#4 s3 s2 s#1 s2 s2 s,#4 s#1 s,#4 s#1 s,#4 s3 s#4
+s,7 s#1 s2 s,#4 s3 s2 s#1 s2 s2 s,#4 s#1 s,#4 s#1 s,#4 s#1 s,6
+s,7 s#1 s2 s,#4 s3 s2 s#1 s2 s2 s,#4 s#1 s,#4 s#1 s,#4 s3 s#4
+s#1 s,7 s,#6 s#4 s,#1 s,,7 s,,#6 s,#4 s#1 s#4 s#6 s#1 s#4 s#6 s7 s'#1
+s2 s3 s#4 s7 s#4 s3 s2 s#1 s2 s3 s#4 s'#1 s'2 s'#1 s7 s#4
+s2 s3 s#4 s7 s#4 s3 s2 s#1 s2 s3 s#4 s'#1 s'#1 s'2 s'#1 s#4
+s2 s3 s#4 s7 s#4 s3 s2 s#1 s2 s3 s#4 s'#1 s'2 s'#1 s7 s#4
+s#6 s#4 s3 s2 s'#1 s7 s#6 s#4 s'3 s'2 s'#1 s'2 s#6 s#4 s3 s2
+s,7 s#1 s2 s,#4 s3 s2 s#1 s2 s2 s,#4 s#1 s,#4 s#1 s,#4 s3 s#4
+s,7 s#1 s2 s,#4 s3 s2 s#1 s2 s2 s,#4 s#1 s,#4 s#1 s,#4 s#1 s,6
+s,7 s#1 s2 s,#4 s3 s2 s#1 s2 s2 s,#4 s#1 s,#4 s#1 s,#4 s3 s#4
+s#1 s,7 s,#6 s#4 s,#1 s,,7 s,,#6 s,#4 s#1 s#4 s#6 s#1 s#4 s#6 s7 s'#1
+s2 s3 s#4 s7 s#4 s3 s2 s#1 s2 s3 s#4 s'#1 s'2 s'#1 s7 s#4
+s2 s3 s#4 s7 s#4 s3 s2 s#1 s2 s3 s#4 s'#1 s'#1 s'2 s'#1 s#4
+s2 s3 s#4 s7 s#4 s3 s2 s#1 s2 s3 s#4 s'#1 s'2 s'#1 s7 s#4
+s#6 s#4 s3 s2 s'#1 s7 s#6 s#4 s'3 s'2 s'#1 s'2 s#6 s#4 s3 s2
+q,#5 q#2 q#1 q#2 q,7 q#2 q,#6 q#2
+q,#5 q#2 q#1 q#2 q,7 q#2 q,#6 q#2
+q,#5 q#2 q#1 q#2 q,7 q#2 q,#6 q#2
+,#5. ,#4. ,#4
+NextPart
+instrument=B
+OctavesBefore
+1=C
+4/4
+3 - - -
+2 - - -
+#1 - - -
+#1 - - -
+,7 - - -
+,7 - - -
+,b7 - - -
+,b7 - - -
+,,,5 ,,,5 ,,,6 ,,,6
+,,,7 ,,,7 ,,,7 ,,,6
+,,,5 ,,,5 ,,,6 ,,,6
+,,,7 ,,,7 ,,,7 ,,,6
+s,,,5 s,,,5 s,,2 s,,,5 s,,,5 s,,2 s,,,5 s,,,5 s,,,6 s,,,6 s,,3 s,,,6 s,,,6 s,,3 s,,,6 s,,,6
+s,,,7 s,,,7 s,,#4 s,,,7 s,,,7 s,,,7 s,,#4 s,,,7 s,,,7 s,,,7 s,,#4 s,,,7 s,,,6 s,,3 s,,,6 s,,,6
+s,,,5 s,,,5 s,,2 s,,,5 s,,,5 s,,2 s,,,5 s,,,5 s,,,6 s,,,6 s,,3 s,,,6 s,,,6 s,,3 s,,,6 s,,,6
+s,,,7 s,,,7 s,,#4 s,,,7 s,,,7 s,,,7 s,,#4 s,,,7 s,,,7 s,,,7 s,,#4 s,,,7 s,,,6 s,,3 s,,,6 s,,,6
+,#4 - - -
+,3 - - -
+,2 - - -
+,#1 - - -
+,#4 - - -
+,3 - - -
+,2 - - -
+,#1 - - -
+,#4 - - -
+,3 - - -
+,2 - - -
+,#1 - - -
+,#4 - - -
+,3 - - -
+,2 - - -
+,#1 - - -
+,#4 - - -
+,3 - - -
+,2 - - -
+,#1 - - -
+,#4 - - -
+,3 - - -
+,2 - - -
+,#1 - - -
+,#4 - - -
+,3 - - -
+,2 - - -
+,#1 - - -
+,#4 - - -
+,3 - - -
+,2 - - -
+,#1 - - -
+,2 - ,3 -
+,#4 - - ,3
+,2 - ,3 -
+,#4 - - ,3
+,2 - ,3 -
+,#4 - - ,3
+,2 - ,3 -
+,#4 - - ,3
+,#2 - - -
+,#1 - - -
+,,7 - - -
+,,#6 - - -
+,#2 - - -
+,#1 - - -
+,,7 - - -
+,,#6 - - -
+,#2 - - -
+,#1 - - -
+,,7 - - -
+,,#6 - - -
+,#2 - - -
+,#1 - - -
+,,7 - - -
+,,#6 - - -
+,3 - - -
+,2 - - -
+,1 - - -
+,,7 - - -
+,3 - - -
+,2 - - -
+,1 - - -
+,,7 - - -
+,3 - - -
+,2 - - -
+,1 - - -
+,,7 - - -
+,3 - - -
+,2 - - -
+,1 - - -
+,,7 - - -
+,#3 - - -
+,#2 - - -
+,#1 - - -
+,1 - - -
+,#3 - - -
+,#2 - - -
+,#1 - - -
+,1 - - -
+,#3 - - -
+,#2 - - -
+,#1 - - -
+,1 - - -
+,#3 - - -
+,#2 - - -
+,#1 - - -
+,1 - - -
+,#4 - - -
+,3 - - -
+,2 - - -
+,#1 - - -
+,#4 - - -
+,3 - - -
+,2 - - -
+,#1 - - -
+,#4 - - -
+,3 - - -
+,2 - - -
+,#1 - - -
+,#4 - - -
+,3 - - -
+,2 - - -
+,#1 - - -
+,#2 - - -
+,#1 - - -
+,,7 - - -
+,,#6 - - -
+NextPart
+instrument=C
+OctavesBefore
+1=C
+4/4
+,7 - - -
+,7 - - -
+,7 - - -
+,#6 - - -
+,5 - - -
+,5 - - -
+,#4 - - -
+,#4 - - -
+q'2 q'2 q'#4 q'3
+q'2 q'2 q'2 q'2
+q'2 q'2 q'#4 q'3
+q'2 q'2 q'2 q'2
+q'2 q'2 q'#4 q'3
+q'2 q'2 q'2 q'2
+q'2 q'2 q'#4 q'3
+q'2 q'2 q'2 q'2
+,,7 - - -
+,,6 - - -
+,,5 - - -
+,,#4 - - -
+,,7 - - -
+,,6 - - -
+,,5 - - -
+,,#4 - - -
+,,7 - - -
+,,6 - - -
+,,5 - - -
+,,#4 - - -
+,,7 - - -
+,,6 - - -
+,,5 - - -
+,,#4 - - -
+,,7 - - -
+,,6 - - -
+,,5 - - -
+,,#4 - - -
+,,7 - - -
+,,6 - - -
+,,5 - - -
+,,#4 - - -
+,,7 - - -
+,,6 - - -
+,,5 - - -
+,,#4 - - -
+,,7 - - -
+,,6 - - -
+,,5 - - -
+,,#4 - - -
+,,5 - ,,6 -
+,,7 - - ,,6
+,,5 - ,,6 -
+,,7 - - ,,6
+,,5 - ,,6 -
+,,7 - - ,,6
+,,5 - ,,6 -
+,,7 - - ,,6
+,,#5 - - -
+,,#4 - - -
+,,3 - - -
+,,#2 - - -
+,,#5 - - -
+,,#4 - - -
+,,3 - - -
+,,#2 - - -
+,,#5 - - -
+,,#4 - - -
+,,3 - - -
+,,#2 - - -
+,,#5 - - -
+,,#4 - - -
+,,3 - - -
+,,#2 - - -
+,,6 - - -
+,,5 - - -
+,,4 - - -
+,,3 - - -
+,,6 - - -
+,,5 - - -
+,,4 - - -
+,,3 - - -
+,,6 - - -
+,,5 - - -
+,,4 - - -
+,,3 - - -
+,,6 - - -
+,,5 - - -
+,,4 - - -
+,,3 - - -
+,,#6 - - -
+,,#5 - - -
+,,#4 - - -
+,,4 - - -
+,,#6 - - -
+,,#5 - - -
+,,#4 - - -
+,,4 - - -
+,,#6 - - -
+,,#5 - - -
+,,#4 - - -
+,,4 - - -
+,,#6 - - -
+,,#5 - - -
+,,#4 - - -
+,,4 - - -
+,,7 - - -
+,,6 - - -
+,,5 - - -
+,,#4 - - -
+,,7 - - -
+,,6 - - -
+,,5 - - -
+,,#4 - - -
+,,7 - - -
+,,6 - - -
+,,5 - - -
+,,#4 - - -
+,,7 - - -
+,,6 - - -
+,,5 - - -
+,,#4 - - -
+,,#5 - - -
+,,#4 - - -
+,,3 - - -
+,,#2 - - -
+NextPart
+instrument=D
+OctavesBefore
+1=C
+4/4
+R*7
+#1
+q''7 q''7 q'''2 q'''#1
+q''7 q''7 q''7 q''7
+q''7 q''7 q'''2 q'''#1
+q''7 q''7 q''7 q''7
+q''7 q''7 q'''2 q'''#1
+q''7 q''7 q''7 q''7
+q''7 q''7 q'''2 q'''#1
+q''7 q''7 q''7 q''7
+q,7 q#4 q3 q#4 q2 q#4 s#1
+s#1 q#4 q,7 q#4 q3 q#4 q2 q#4 s#1
+s#1 q#4 q,7 q#4 q3 q#4 q2 q#4 s#1
+s#1 q#4 ,7. ,#6. s,#6
+q,#6. q,7 q#4 q3 q#4 q2 q7 s#4
+s#4 q7 q,7 q#4 q3 q#4 q2 q7 s#4
+s#4 q7 q,7 q#4 q3 q#4 q2 q7 s#4
+s#4 q7 q#6. #4. #6
+q#6. q7 q'#4 q'3 q'#4 q'2 q'#4 s'#1
+s'#1 q'#4 q7 q'#4 q'3 q'#4 q'2 q'#4 s'#1
+s'#1 q'#4 q7 q'#4 q'3 q'#4 q'2 q'#4 s'#1
+s'#1 q'#4 q7. #6. #6
+q#6. q7 q'#4 q'3 q'#4 q'2 q'7 s'#4
+s'#4 q'7 q7 q'#4 q'3 q'#4 q'2 q'7 s'#4
+s'#4 q'7 q7 q'#4 q'3 q'#4 q'2 q'7 s'#4
+s'#4 q'7 '#6. '#4. s'#6
+q'#6. q,7 q#4 q3 q#4 q2 q#4 s#1
+s#1 q#4 q,7 q#4 q3 q#4 q2 q#4 s#1
+s#1 q#4 q,7 q#4 q3 q#4 q2 q#4 s#1
+s#1 q#4 ,7. ,#6. s,#6
+q,#6. q,7 q#4 q3 q#4 q2 q7 s#4
+s#4 q7 q,7 q#4 q3 q#4 q2 q7 s#4
+s#4 q7 q,7 q#4 q3 q#4 q2 q7 s#4
+s#4 q7 q#6. #4. #6
+q#6. q7 q'#4 q'3 q'#4 q'2 q'#4 s'#1
+s'#1 q'#4 q7 q'#4 q'3 q'#4 q'2 q'#4 s'#1
+s'#1 q'#4 q7 q'#4 q'3 q'#4 q'2 q'#4 s'#1
+s'#1 q'#4 q7. #6. #6
+q#6. q7 q'#4 q'3 q'#4 q'2 q'7 s'#4
+s'#4 q'7 q7 q'#4 q'3 q'#4 q'2 q'7 s'#4
+s'#4 q'7 q7 q'#4 q'3 q'#4 q'2 q'7 s'#4
+s'#4 q'7 '#6. '#4. s'6
+s7 s'#1 s'2 s#4 s'3 s'2 s'#1 s'2 s'2 s#4 s'#1 s#4 s'#1 s#4 s'3 s'#4
+s7 s'#1 s'2 s#4 s'3 s'2 s'#1 s'2 s'2 s#4 s'#1 s#4 s'#1 s#4 s'#1 s6
+s7 s'#1 s'2 s#4 s'3 s'2 s'#1 s'2 s'2 s#4 s'#1 s#4 s'#1 s#4 s'3 s'#4
+s7 s'#1 s'2 s#4 s'3 s'2 s'#1 s'2 s'2 s#4 s'#1 s#4 s'#1 s#4 s'#1 s6
+s'2 s'3 s'#4 s'7 s'#4 s'3 s'2 s'#1 s'2 s'3 s'#4 s''#1 s''2 s''#1 s'7 s'#4
+s'2 s'3 s'#4 s'7 s'#4 s'3 s'2 s'#1 s'2 s'3 s'#4 s''#1 s''#1 s''2 s''#1 s'#4
+s'2 s'3 s'#4 s'7 s'#4 s'3 s'2 s'#1 s'2 s'3 s'#4 s''#1 s''2 s''#1 s'7 s'#4
+s'2 s'3 s'#4 s'7 s'#4 s'3 s'2 s'#1 s'2 s'3 s'#4 s''#1 s''#1 s''2 s''#1 s'#4
+q'#5 q'#5 q'7 q'#6
+q'#5 q'#5 q'7 q'#6
+q'#5 q'#5 q'7 q'#6
+q'#4 q'#4 q'#4 q'#4
+q'#5 q'#5 q'7 q'#6
+q'#5 q'#5 q'7 q'#6
+q'#5 q'#5 q'7 q'#6
+q'#4 q'#4 q'#4 q'#4
+q'#5 q'#5 q'7 q'#6
+q'#5 q'#5 q'7 q'#6
+q'#5 q'#5 q'7 q'#6
+q'#4 q'#4 q'#4 q'#4
+q'#5 q'#5 q'7 q'#6
+q'#5 q'#5 q'7 q'#6
+q'#5 q'#5 q'7 q'#6
+q'5 q'5 q'5 q'5
+q'6 q'6 q''1 q'7
+q'6 q'6 q''1 q'7
+q'6 q'6 q''1 q'7
+q'#5 q'#5 q'#5 q'#5
+q'6 q'6 q''1 q'7
+q'6 q'6 q''1 q'7
+q'6 q'6 q''1 q'7
+q'#5 q'#5 q'#5 q'#5
+q'6 q'6 q''1 q'7
+q'6 q'6 q''1 q'7
+q'6 q'6 q''1 q'7
+q'#5 q'#5 q'#5 q'#5
+q'6 q'6 q''1 q'7
+q'6 q'6 q''1 q'7
+q'6 q'6 q''1 q'7
+q'#5 q'#5 q'#5 q'#5
+q'#6 q'#6 q''#1 q'#7
+q'#6 q'#6 q''#1 q'#7
+q'#6 q'#6 q''#1 q''1
+q'6 q'6 q'6 q'6
+q'#6 q'#6 q''#1 q'#7
+q'#6 q'#6 q''#1 q'#7
+q'#6 q'#6 q''#1 q''1
+q'6 q'6 q'6 q'6
+q'#6 q'#6 q''#1 q'#7
+q'#6 q'#6 q''#1 q'#7
+q'#6 q'#6 q''#1 q''1
+q'6 q'6 q'6 q'6
+q'#6 q'#6 q''#1 q'#7
+q'#6 q'#6 q''#1 q'#7
+q'#6 q'#6 q''#1 q''1
+q'6 q'6 q'6 q'6
+q'7 q'7 q''2 q''#1
+q'7 q'7 q''2 q''#1
+q'7 q'7 q''2 q''#1
+q'#6 q'#6 q'#6 q'#6
+q'7 q'7 q''2 q''#1
+q'7 q'7 q''2 q''#1
+q'7 q'7 q''2 q''#1
+q'#6 q'#6 q'#6 q'#6
+q'7 q'7 q''2 q''#1
+q'7 q'7 q''2 q''#1
+q'7 q'7 q''2 q''#1
+q'#6 q'#6 q'#6 q'#6
+q'7 q'7 q''2 q''#1
+q'7 q'7 q''2 q''#1
+q'7 q'7 q''2 q''#1
+q'#6 q'#6 q'#6 q'#6
+q'#5 q'#5 q'7 q'#6
+q'#5 q'#5 q'7 q'#6
+q'#5 q'#5 q'7 q'#6
+q'#4 q'#4 q'#4 q'#4
+NextPart
+instrument=E
+OctavesBefore
+1=C
+4/4
+R*8
+q''2 q''2 q''#4 q''3
+q''2 q''2 q''2 q''2
+q''2 q''2 q''#4 q''3
+q''2 q''2 q''2 q''2
+q''2 q''2 q''#4 q''3
+q''2 q''2 q''2 q''2
+q''2 q''2 q''#4 q''3
+q''2 q''2 q''2 q''2
+R*16
+s'7 s''#1 s''2 s'#4 s''3 s''2 s''#1 s''2 s''2 s'#4 s''#1 s'#4 s''#1 s'#4 s''3 s''#4
+s'7 s''#1 s''2 s'#4 s''3 s''2 s''#1 s''2 s''2 s'#4 s''#1 s'#4 s''#1 s'#4 s''#1 s'6
+s'7 s''#1 s''2 s'#4 s''3 s''2 s''#1 s''2 s''2 s'#4 s''#1 s'#4 s''#1 s'#4 s''3 s''#4
+s''#1 s'7 s'#6 s''#4 s'#1 s7 s#6 s'#4 s''#1 s''#4 s''#6 s''#1 s''#4 s''#6 s''7 s'''#1
+s''2 s''3 s''#4 s''7 s''#4 s''3 s''2 s''#1 s''2 s''3 s''#4 s'''#1 s'''2 s'''#1 s''7 s''#4
+s''2 s''3 s''#4 s''7 s''#4 s''3 s''2 s''#1 s''2 s''3 s''#4 s'''#1 s'''#1 s'''2 s'''#1 s''#4
+s''2 s''3 s''#4 s''7 s''#4 s''3 s''2 s''#1 s''2 s''3 s''#4 s'''#1 s'''2 s'''#1 s''7 s''#4
+s''#6 s''#4 s''3 s''2 s'''#1 s''7 s''#6 s''#4 s'''3 s'''2 s'''#1 s'''2 s''#6 s''#4 s''3 s''2
+s'7 s''#1 s''2 s'#4 s''3 s''2 s''#1 s''2 s''2 s'#4 s''#1 s'#4 s''#1 s'#4 s''3 s''#4
+s'7 s''#1 s''2 s'#4 s''3 s''2 s''#1 s''2 s''2 s'#4 s''#1 s'#4 s''#1 s'#4 s''#1 s'6
+s'7 s''#1 s''2 s'#4 s''3 s''2 s''#1 s''2 s''2 s'#4 s''#1 s'#4 s''#1 s'#4 s''3 s''#4
+s''#1 s'7 s'#6 s''#4 s'#1 s7 s#6 s'#4 s''#1 s''#4 s''#6 s''#1 s''#4 s''#6 s''7 s'''#1
+s''2 s''3 s''#4 s''7 s''#4 s''3 s''2 s''#1 s''2 s''3 s''#4 s'''#1 s'''2 s'''#1 s''7 s''#4
+s''2 s''3 s''#4 s''7 s''#4 s''3 s''2 s''#1 s''2 s''3 s''#4 s'''#1 s'''#1 s'''2 s'''#1 s''#4
+s''2 s''3 s''#4 s''7 s''#4 s''3 s''2 s''#1 s''2 s''3 s''#4 s'''#1 s'''2 s'''#1 s''7 s''#4
+s''#6 s''#4 s''3 s''2 s'''#1 s''7 s''#6 s''#4 s'''3 s'''2 s'''#1 s'''2 s''b7 s''#4 s''3 s''2
+q''2 q''2 q''#4 q''3
+q''2 q''2 q''2 q''2
+q''2 q''2 q''#4 q''3
+q''2 q''2 q''2 q''2
+q''2 q''2 q''#4 q''3
+q''2 q''2 q''2 q''2
+q''2 q''2 q''#4 q''3
+q''2 q''2 q''2 q''2
+q7 q7 q'#2 q'#1
+q7 q7 q'#2 q'#1
+q7 q7 q'#2 q'#1
+q#6 q#6 q#6 q#6
+q7 q7 q'#2 q'#1
+q7 q7 q'#2 q'#1
+q7 q7 q'#2 q'#1
+q#6 q#6 q#6 q#6
+q7 q7 q'#2 q'#1
+q7 q7 q'#2 q'#1
+q7 q7 q'#2 q'#1
+q#6 q#6 q#6 q#6
+q7 q7 q'#2 q'#1
+q7 q7 q'#2 q'#1
+q7 q7 q'#2 q'#1
+q#6 q#6 q#6 qb7
+q'1 q'1 q'3 q'2
+q'1 q'1 q'3 q'2
+q'1 q'1 q'3 q'2
+q7 q7 q7 q7
+q'1 q'1 q'3 q'2
+q'1 q'1 q'3 q'2
+q'1 q'1 q'3 q'2
+q7 q7 q7 q7
+q'1 q'1 q'3 q'2
+q'1 q'1 q'3 q'2
+q'1 q'1 q'3 q'2
+q7 q7 q7 q7
+q'1 q'1 q'3 q'2
+q'1 q'1 q'3 q'2
+q'1 q'1 q'3 q'2
+q7 q7 q7 q7
+q'#1 q'#1 q'#3 q'#2
+q'#1 q'#1 q'#3 q'#2
+q'#1 q'#1 q'4 q'b3
+q'1 q'1 q'1 q#7
+q'#1 q'#1 q'#3 q'#2
+q'#1 q'#1 q'#3 q'#2
+q'#1 q'#1 q'4 q'#2
+q'1 q'1 q'1 q#7
+q'#1 q'#1 q'#3 q'#2
+q'#1 q'#1 q'#3 q'#2
+q'#1 q'#1 q'4 q'b3
+q'1 q'1 q'1 q#7
+q'#1 q'#1 q'#3 q'#2
+q'#1 q'#1 q'#3 q'#2
+q'#1 q'#1 q'4 q'#2
+q'1 q'1 q'1 q'1
+q'2 q'2 q'#4 q'3
+q'2 q'2 q'#4 q'3
+q'2 q'2 q'#4 q'3
+q'#1 q'#1 q'#1 q'#1
+q'2 q'2 q'#4 q'3
+q'2 q'2 q'#4 q'3
+q'2 q'2 q'#4 q'3
+q'#1 q'#1 q'#1 q'#1
+q'2 q'2 q'#4 q'3
+q'2 q'2 q'#4 q'3
+q'2 q'2 q'#4 q'3
+q'#1 q'#1 q'#1 q'#1
+q'2 q'2 q'#4 q'3
+q'2 q'2 q'#4 q'3
+q'2 q'2 q'#4 q'3
+q'#1 q'#1 q'#1 q'#1
+q7 q7 q'#2 q'#1
+q7 q7 q'#2 q'#1
+q7 q7 q'#2 q'#1
+q#6 q#6 q#6 q#6
+NextPart
+instrument=G
+OctavesBefore
+1=C
+4/4
+,#4 - - -
+,#4 - - -
+,#4 - - -
+,#4 - ,,#4 -
+,,2 - - -
+,,2 - - -
+,,#1 - - -
+,,#1 - - -
+q'7 q'7 q''2 q''#1
+q'7 q'7 q'7 q'7
+q'7 q'7 q''2 q''#1
+q'7 q'7 q'7 q'7
+q'7 q'7 q''2 q''#1
+q'7 q'7 q'7 q'7
+q'7 q'7 q''2 q''#1
+q'7 q'7 q'7 q'7
+q'7 q'7 q''2 q''#1
+q'7 q'7 q''2 q''#1
+q'7 q'7 q''2 q''#1
+q'#6 q'#6 q'#6 q'#6
+q'7 q'7 q''2 q''#1
+q'7 q'7 q''2 q''#1
+q'7 q'7 q''2 q''#1
+q'#6 q'#6 q'#6 q'#6
+q'7 q'7 q''2 q''#1
+q'7 q'7 q''2 q''#1
+q'7 q'7 q''2 q''#1
+q'#6 q'#6 q'#6 q'#6
+q'7 q'7 q''2 q''#1
+q'7 q'7 q''2 q''#1
+q'7 q'7 q''2 q''#1
+q'#6 q'#6 q'#6 q'#6
+q'7 q'7 q''2 q''#1
+q'7 q'7 q''2 q''#1
+q'7 q'7 q''2 q''#1
+q'#6 q'#6 q'#6 q'#6
+q'7 q'7 q''2 q''#1
+q'7 q'7 q''2 q''#1
+q'7 q'7 q''2 q''#1
+q'#6 q'#6 q'#6 q'#6
+q'7 q'7 q''2 q''#1
+q'7 q'7 q''2 q''#1
+q'7 q'7 q''2 q''#1
+q'#6 q'#6 q'#6 q'#6
+q'7 q'7 q''2 q''#1
+q'7 q'7 q''2 q''#1
+q'7 q'7 q''2 q''#1
+q'#6 q'#6 q'b7 q'#6
+q'7 q'7 q''2 q''#1
+q'7 q'7 q'7 q'7
+q'7 q'7 q''2 q''#1
+q'7 q'7 q'7 q'7
+q'7 q'7 q''2 q''#1
+q'7 q'7 q'7 q'7
+q'7 q'7 q''2 q''#1
+q'7 q'7 q'7 q'7
+s#5 s#6 s7 s#2 s'#1 s7 s#6 s7 s7 s#2 s#6 s#2 s#6 s#2 s'#1 s'#2
+s#5 s#6 s7 s#2 s'#1 s7 s#6 s7 s7 s#2 s#6 s#2 s#6 s#2 s#6 s#4
+s#5 s#6 s7 s#2 s'#1 s7 s#6 s7 s7 s#2 s#6 s#2 s#6 s#2 s'#1 s'#2
+s#6 s#5 s#4 s'#2 s,#6 s,#5 s,#4 s#2 s#6 s'#2 s'#4 s#6 s'#2 s'#4 s'#5 s'#6
+s7 s'#1 s'#2 s'#5 s'#2 s'#1 s7 s#6 s7 s'#1 s'#2 s'#6 s'7 s'#6 s'#5 s'#2
+s7 s'#1 s'#2 s'#5 s'#2 s'#1 s7 s#6 s7 s'#1 s'#2 s'#6 s'#6 s'7 s'#6 s'#2
+s7 s'#1 s'#2 s'#5 s'#2 s'#1 s7 s#6 s7 s'#1 s'#2 s'#6 s'7 s'#6 s'#5 s'#2
+s'#4 s'#2 s'#1 s7 s'#6 s'#5 s'#4 s'#2 s''#1 s'7 s'#6 s'7 s'#4 s'#2 s'#1 s7
+s#5 s#6 s7 s#2 s'#1 s7 s#6 s7 s7 s#2 s#6 s#2 s#6 s#2 s'#1 s'#2
+s#5 s#6 s7 s#2 s'#1 s7 s#6 s7 s7 s#2 s#6 s#2 s#6 s#2 s#6 s#4
+s#5 s#6 s7 s#2 s'#1 s7 s#6 s7 s7 s#2 s#6 s#2 s#6 s#2 s'#1 s'#2
+s#6 s#5 s#4 s'#2 s,#6 s,#5 s,#4 s#2 s#6 s'#2 s'#4 s#6 s'#2 s'#4 s'#5 s'#6
+s7 s'#1 s'#2 s'#5 s'#2 s'#1 s7 s#6 s7 s'#1 s'#2 s'#6 s'7 s'#6 s'#5 s'#2
+s7 s'#1 s'#2 s'#5 s'#2 s'#1 s7 s#6 s7 s'#1 s'#2 s'#6 s'#6 s'7 s'#6 s'#2
+s7 s'#1 s'#2 s'#5 s'#2 s'#1 s7 s#6 s7 s'#1 s'#2 s'#6 s'7 s'#6 s'#5 s'#2
+s'#4 s'#2 s'#1 s7 s'#6 s'#5 s'5 s'#2 s''#1 s'7 s'#6 s'7 s'5 s'#2 s'#1 s7
+s6 s7 s'1 s3 s'2 s'1 s7 s'1 s'1 s3 s7 s3 s7 s3 s'2 s'3
+s6 s7 s'1 s3 s'2 s'1 s7 s'1 s'1 s3 s7 s3 s7 s3 s7 s5
+s6 s7 s'1 s3 s'2 s'1 s7 s'1 s'1 s3 s7 s3 s7 s3 s'2 s'3
+s7 s6 s#5 s'3 s,7 s,6 s,#5 s3 s7 s'3 s'#5 s7 s'3 s'#5 s'6 s'7
+s'1 s'2 s'3 s'6 s'3 s'2 s'1 s7 s'1 s'2 s'3 s'7 s''1 s'7 s'6 s'3
+s'1 s'2 s'3 s'6 s'3 s'2 s'1 s7 s'1 s'2 s'3 s'7 s'7 s''1 s'7 s'3
+s'1 s'2 s'3 s'6 s'3 s'2 s'1 s7 s'1 s'2 s'3 s'7 s''1 s'7 s'6 s'3
+s'#5 s'3 s'2 s'1 s'7 s'6 s'#5 s'3 s''2 s''1 s'7 s''1 s'#5 s'3 s'2 s'1
+s6 s7 s'1 s3 s'2 s'1 s7 s'1 s'1 s3 s7 s3 s7 s3 s'2 s'3
+s6 s7 s'1 s3 s'2 s'1 s7 s'1 s'1 s3 s7 s3 s7 s3 s7 s5
+s6 s7 s'1 s3 s'2 s'1 s7 s'1 s'1 s3 s7 s3 s7 s3 s'2 s'3
+s7 s6 s#5 s'3 s,7 s,6 s,#5 s3 s7 s'3 s'#5 s7 s'3 s'#5 s'6 s'7
+s'1 s'2 s'3 s'6 s'3 s'2 s'1 s7 s'1 s'2 s'3 s'7 s''1 s'7 s'6 s'3
+s'1 s'2 s'3 s'6 s'3 s'2 s'1 s7 s'1 s'2 s'3 s'7 s'7 s''1 s'7 s'3
+s'1 s'2 s'3 s'6 s'3 s'2 s'1 s7 s'1 s'2 s'3 s'7 s''1 s'7 s'6 s'3
+s'#5 s'3 s'2 s'1 s'7 s'6 s'#5 s'3 s''2 s''1 s'7 s''1 s'#5 s'3 s'2 s#7
+s#6 s#7 s'#1 s#3 s'#2 s'#1 s#7 s'#1 s'#1 s#3 s#7 s#3 s#7 s#3 s'#2 s'#3
+s#6 s#7 s'#1 s#3 s'#2 s'#1 s'1 s'#1 s'#1 s#3 s#7 s4 s#7 s#3 s#7 s#5
+s#6 s#7 s'#1 s#3 s'#2 s'#1 s#7 s'#1 s'#1 s4 s'1 s4 s'1 s4 s'b3 s'4
+s'1 sb7 s6 s'4 s1 s,b7 s,6 s4 s'1 s'4 s'6 s'1 s'4 s'6 s'#6 s'#7
+s'#1 s'#2 s'#3 s'#6 s'#3 s'#2 s'#1 s#7 s'#1 s'#2 s'#3 s'#7 s''#1 s'#7 s'#6 s'#3
+s'#1 s'#2 s'#3 s'#6 s'#3 s'#2 s'#1 s#7 s'#1 s'#2 s'#3 s'#7 s'#7 s''#1 s'#7 s'#3
+s'#1 s'#2 s'#3 s'#6 s'#3 s'#2 s'#1 s#7 s'#1 s'#2 s'4 s''1 s''#1 s''1 s'b7 s'4
+s'6 s'4 s'#2 s'#1 s''1 s'b7 s'6 s'4 s''#2 s''#1 s''1 s''#1 s'6 s'#3 s'#2 s'#1
+s#6 s#7 s'#1 s#3 s'#2 s'#1 s#7 s'#1 s'#1 s#3 s#7 s#3 s#7 s#3 s'#2 s'#3
+s#6 s#7 s'#1 s#3 s'#2 s'#1 s'1 s'#1 s'#1 s#3 s#7 s4 s#7 s#3 s#7 s#5
+s#6 s#7 s'#1 s#3 s'#2 s'#1 s#7 s'#1 s'#1 s4 s'1 s4 s'1 s4 s'b3 s'4
+s'1 sb7 s6 s'4 s1 s,b7 s,6 s4 s'1 s'4 s'6 s'1 s'4 s'6 s'#6 s'#7
+s'#1 s'#2 s'#3 s'#6 s'#3 s'#2 s'#1 s#7 s'#1 s'#2 s'#3 s'#7 s''#1 s'#7 s'#6 s'#3
+s'#1 s'#2 s'#3 s'#6 s'#3 s'#2 s'#1 s#7 s'#1 s'#2 s'#3 s'#7 s'#7 s''#1 s'#7 s'#3
+s'#1 s'#2 s'#3 s'#6 s'#3 s'#2 s'#1 s#7 s'#1 s'#2 s'4 s''1 s''#1 s''1 s'b7 s'4
+s'6 s'4 s'b3 s'#1 s''1 s'b7 s'6 s'4 s''#2 s''#1 s''1 s''#1 s'6 s'4 s'#2 s'#1
+s7 s'#1 s'2 s#4 s'3 s'2 s'#1 s'2 s'2 s#4 s'#1 s#4 s'#1 s#4 s'3 s'#4
+s7 s'#1 s'2 s#4 s'3 s'2 s'#1 s'2 s'2 s#4 s'#1 s#4 s'#1 s#4 s'#1 s6
+s7 s'#1 s'2 s#4 s'3 s'2 s'#1 s'2 s'2 s#4 s'#1 s#4 s'#1 s#4 s'3 s'#4
+s'#1 s7 s#6 s'#4 s#1 s,7 s,#6 s#4 s'#1 s'#4 s'#6 s'#1 s'#4 s'#6 s'7 s''#1
+s'2 s'3 s'#4 s'7 s'#4 s'3 s'2 s'#1 s'2 s'3 s'#4 s''#1 s''2 s''#1 s'7 s'#4
+s'2 s'3 s'#4 s'7 s'#4 s'3 s'2 s'#1 s'2 s'3 s'#4 s''#1 s''#1 s''2 s''#1 s'#4
+s'2 s'3 s'#4 s'7 s'#4 s'3 s'2 s'#1 s'2 s'3 s'#4 s''#1 s''2 s''#1 s'7 s'#4
+s'#6 s'#4 s'3 s'2 s''#1 s'7 s'#6 s'#4 s''3 s''2 s''#1 s''2 s'#6 s'#4 s'3 s'2
+s7 s'#1 s'2 s#4 s'3 s'2 s'#1 s'2 s'2 s#4 s'#1 s#4 s'#1 s#4 s'3 s'#4
+s7 s'#1 s'2 s#4 s'3 s'2 s'#1 s'2 s'2 s#4 s'#1 s#4 s'#1 s#4 s'#1 s6
+s7 s'#1 s'2 s#4 s'3 s'2 s'#1 s'2 s'2 s#4 s'#1 s#4 s'#1 s#4 s'3 s'#4
+s'#1 s7 s#6 s'#4 s#1 s,7 s,#6 s#4 s'#1 s'#4 s'#6 s'#1 s'#4 s'#6 s'7 s''#1
+s'2 s'3 s'#4 s'7 s'#4 s'3 s'2 s'#1 s'2 s'3 s'#4 s''#1 s''2 s''#1 s'7 s'#4
+s'2 s'3 s'#4 s'7 s'#4 s'3 s'2 s'#1 s'2 s'3 s'#4 s''#1 s''#1 s''2 s''#1 s'#4
+s'2 s'3 s'#4 s'7 s'#4 s'3 s'2 s'#1 s'2 s'3 s'#4 s''#1 s''2 s''#1 s'7 s'#4
+s'#6 s'#4 s'3 s'2 s''#1 s'7 s'#6 s'#4 s''3 s''2 s''#1 s''2 s'#6 s'#4 s'3 s'2
+s#5 s#6 s7 s#2 s'#1 s7 s#6 s7 s7 s#2 s#6 s#2 s#6 s#2 s'#1 s'#2
+s#5 s#6 s7 s#2 s'#1 s7 s#6 s7 s7 s#2 s#6 s#2 s#6 s#2 s#6 s#4
+s#5 s#6 s7 s#2 s'#1 s7 s#6 s7 s7 s#2 s#6 s#2 s#6 s#2 s'#1 s'#2
+s#6 s#5 s#4 s'#2 s,#6 s,#5 s,#4 s#2 s#6 s'#2 s'#4 s#6 s'#2 s'#4 s'#5 s'#6
+NextPart
+instrument=H
+OctavesBefore
+1=C
+4/4
+,,7 - - -
+,,7 - - -
+,,7 - - -
+,,#6 - - -
+,,5 - - -
+,,5 - - -
+,,#4 - - -
+,,#4 - - -
+q'2 q'2 q'#4 q'3
+q'2 q'2 q'2 q'2
+q'2 q'2 q'#4 q'3
+q'2 q'2 q'2 q'2
+q'2 q'2 q'#4 q'3
+q'2 q'2 q'2 q'2
+q'2 q'2 q'#4 q'3
+q'2 q'2 q'2 q'2
+q'2 q'2 q'#4 q'3
+q'2 q'2 q'#4 q'3
+q'2 q'2 q'#4 q'3
+q'#1 q'#1 q'#1 q'#1
+q'2 q'2 q'#4 q'3
+q'2 q'2 q'#4 q'3
+q'2 q'2 q'#4 q'3
+q'#1 q'#1 q'#1 q'#1
+q'2 q'2 q'#4 q'3
+q'2 q'2 q'#4 q'3
+q'2 q'2 q'#4 q'3
+q'#1 q'#1 q'#1 q'#1
+q'2 q'2 q'#4 q'3
+q'2 q'2 q'#4 q'3
+q'2 q'2 q'#4 q'3
+q'#1 q'#1 q'#1 q'#1
+q'2 q'2 q'#4 q'3
+q'2 q'2 q'#4 q'3
+q'2 q'2 q'#4 q'3
+q'#1 q'#1 q'#1 q'#1
+q'2 q'2 q'#4 q'3
+q'2 q'2 q'#4 q'3
+q'2 q'2 q'#4 q'3
+q'#1 q'#1 q'#1 q'#1
+q'2 q'2 q'#4 q'3
+q'2 q'2 q'#4 q'3
+q'2 q'2 q'#4 q'3
+q'#1 q'#1 q'#1 q'#1
+q'2 q'2 q'#4 q'3
+q'2 q'2 q'#4 q'3
+q'2 q'2 q'#4 q'3
+q'#1 q'#1 q'#1 q'#1
+q'2 q'2 q'#4 q'3
+q'2 q'2 q'2 q'2
+q'2 q'2 q'#4 q'3
+q'2 q'2 q'2 q'2
+q'2 q'2 q'#4 q'3
+q'2 q'2 q'2 q'2
+q'2 q'2 q'#4 q'3
+q'2 q'2 q'2 q'2
+s#5 s#6 s7 s#2 s'#1 s7 s#6 s7 s7 s#2 s#6 s#2 s#6 s#2 s'#1
+s'#2 s#5 s#6 s7 s#2 s'#1 s7 s#6 s7 s7 s#2 s#6 s#2 s#6 s#2 s#6
+s#4 s#5 s#6 s7 s#2 s'#1 s7 s#6 s7 s7 s#2 s#6 s#2 s#6 s#2 s'#1
+s'#2 s#6 s#5 s#4 s'#2 s,#6 s,#5 s,#4 s#2 s#6 s'#2 s'#4 s#6 s'#2 s'#4 s'#5
+s'#6 s7 s'#1 s'#2 s'#5 s'#2 s'#1 s7 s#6 s7 s'#1 s'#2 s'#6 s'7 s'#6 s'#5
+s'#2 s7 s'#1 s'#2 s'#5 s'#2 s'#1 s7 s#6 s7 s'#1 s'#2 s'#6 s'#6 s'7 s'#6
+s'#2 s7 s'#1 s'#2 s'#5 s'#2 s'#1 s7 s#6 s7 s'#1 s'#2 s'#6 s'7 s'#6 s'#5
+s'#2 s'#4 s'#2 s'#1 s7 s'#6 s'#5 s'#4 s'#2 s''#1 s'7 s'#6 s'7 s'#4 s'#2 s'#1
+s7 s#5 s#6 s7 s#2 s'#1 s7 s#6 s7 s7 s#2 s#6 s#2 s#6 s#2 s'#1
+s'#2 s#5 s#6 s7 s#2 s'#1 s7 s#6 s7 s7 s#2 s#6 s#2 s#6 s#2 s#6
+s#4 s#5 s#6 s7 s#2 s'#1 s7 s#6 s7 s7 s#2 s#6 s#2 s#6 s#2 s'#1
+s'#2 s#6 s#5 s#4 s'#2 s,#6 s,#5 s,#4 s#2 s#6 s'#2 s'#4 s#6 s'#2 s'#4 s'#5
+s'#6 s7 s'#1 s'#2 s'#5 s'#2 s'#1 s7 s#6 s7 s'#1 s'#2 s'#6 s'7 s'#6 s'#5
+s'#2 s7 s'#1 s'#2 s'#5 s'#2 s'#1 s7 s#6 s7 s'#1 s'#2 s'#6 s'#6 s'7 s'#6
+s'#2 s7 s'#1 s'#2 s'#5 s'#2 s'#1 s7 s#6 s7 s'#1 s'#2 s'#6 s'7 s'#6 s'#5
+s'#2 s'#4 s'#2 s'#1 s7 s'#6 s'#5 s'5 s'#2 s''#1 s'7 s'#6 s'7 s'5 s'#2 s'#1
+s7 s6 s7 s'1 s3 s'2 s'1 s7 s'1 s'1 s3 s7 s3 s7 s3 s'2
+s'3 s6 s7 s'1 s3 s'2 s'1 s7 s'1 s'1 s3 s7 s3 s7 s3 s7
+s5 s6 s7 s'1 s3 s'2 s'1 s7 s'1 s'1 s3 s7 s3 s7 s3 s'2
+s'3 s7 s6 s#5 s'3 s,7 s,6 s,#5 s3 s7 s'3 s'#5 s7 s'3 s'#5 s'6
+s'7 s'1 s'2 s'3 s'6 s'3 s'2 s'1 s7 s'1 s'2 s'3 s'7 s''1 s'7 s'6
+s'3 s'1 s'2 s'3 s'6 s'3 s'2 s'1 s7 s'1 s'2 s'3 s'7 s'7 s''1 s'7
+s'3 s'1 s'2 s'3 s'6 s'3 s'2 s'1 s7 s'1 s'2 s'3 s'7 s''1 s'7 s'6
+s'3 s'#5 s'3 s'2 s'1 s'7 s'6 s'#5 s'3 s''2 s''1 s'7 s''1 s'#5 s'3 s'2
+s'1 s6 s7 s'1 s3 s'2 s'1 s7 s'1 s'1 s3 s7 s3 s7 s3 s'2
+s'3 s6 s7 s'1 s3 s'2 s'1 s7 s'1 s'1 s3 s7 s3 s7 s3 s7
+s5 s6 s7 s'1 s3 s'2 s'1 s7 s'1 s'1 s3 s7 s3 s7 s3 s'2
+s'3 s7 s6 s#5 s'3 s,7 s,6 s,#5 s3 s7 s'3 s'#5 s7 s'3 s'#5 s'6
+s'7 s'1 s'2 s'3 s'6 s'3 s'2 s'1 s7 s'1 s'2 s'3 s'7 s''1 s'7 s'6
+s'3 s'1 s'2 s'3 s'6 s'3 s'2 s'1 s7 s'1 s'2 s'3 s'7 s'7 s''1 s'7
+s'3 s'1 s'2 s'3 s'6 s'3 s'2 s'1 s7 s'1 s'2 s'3 s'7 s''1 s'7 s'6
+s'3 s'#5 s'3 s'2 s'1 s'7 s'6 s'#5 s'3 s''2 s''1 s'7 s''1 s'#5 s'3 s'2
+s#7 s#6 s#7 s'#1 s#3 s'#2 s'#1 s#7 s'#1 s'#1 s#3 s#7 s#3 s#7 s#3 s'#2
+s'#3 s#6 s#7 s'#1 s#3 s'#2 s'#1 s#7 s'#1 s'#1 s4 s'1 s4 s#7 s#3 s#7
+s#5 s#6 s#7 s'#1 s#3 s'#2 s'#1 s#7 s'#1 s'#1 s4 s'1 s4 s'1 s4 s'#2
+s'4 s'1 sb7 s6 s'4 s1 s,b7 s,6 s4 s'1 s'4 s'6 s'1 s'#3 s'6 s'#6
+s'#7 s'#1 s'#2 s'#3 s'#6 s'#3 s'#2 s'#1 s#7 s'#1 s'#2 s'#3 s'#7 s''#1 s'#7 s'#6
+s'#3 s'#1 s'#2 s'#3 s'#6 s'#3 s'#2 s'#1 s#7 s'#1 s'#2 s'#3 s'#7 s'#7 s''#1 s'#7
+s'#3 s'#1 s'#2 s'#3 s'#6 s'#3 s'#2 s'#1 s#7 s'#1 s'#2 s'4 s''1 s''#1 s''1 s'b7
+s'4 s'6 s'4 s'#2 s'#1 s''1 s'b7 s'6 s'4 s''#2 s''#1 s''1 s''#1 s'6 s'#3 s'#2
+s'#1 s#6 s#7 s'#1 s#3 s'#2 s'#1 s#7 s'#1 s'#1 s#3 s#7 s#3 s#7 s#3 s'#2
+s'#3 s#6 s#7 s'#1 s#3 s'#2 s'#1 s#7 s'#1 s'#1 s#3 s'1 s4 s#7 s#3 s#7
+s#5 s#6 s#7 s'#1 s#3 s'#2 s'#1 s#7 s'#1 s'#1 s4 s'1 s4 s'1 s4 s'#2
+s'4 s'1 sb7 s6 s'4 s1 s,b7 s,6 s4 s'1 s'4 s'6 s'1 s'#3 s'6 s'#6
+s'#7 s'#1 s'#2 s'#3 s'#6 s'#3 s'#2 s'#1 s#7 s'#1 s'#2 s'#3 s'#7 s''#1 s'#7 s'#6
+s'#3 s'#1 s'#2 s'#3 s'#6 s'#3 s'#2 s'#1 s#7 s'#1 s'#2 s'#3 s'#7 s'#7 s''#1 s'#7
+s'#3 s'#1 s'#2 s'#3 s'#6 s'#3 s'#2 s'#1 s#7 s'#1 s'#2 s'4 s''1 s''#1 s''1 s'b7
+s'4 s'6 s'4 s'#2 s'#1 s''1 s'b7 s'6 s'4 s''#2 s''#1 s''1 s''#1 s'6 s'4 s'#2
+s'#1 s7 s'#1 s'2 s#4 s'3 s'2 s'#1 s'2 s'2 s#4 s'#1 s#4 s'#1 s#4 s'3
+s'#4 s7 s'#1 s'2 s#4 s'3 s'2 s'#1 s'2 s'2 s#4 s'#1 s#4 s'#1 s#4 s'#1
+s6 s7 s'#1 s'2 s#4 s'3 s'2 s'#1 s'2 s'2 s#4 s'#1 s#4 s'#1 s#4 s'3
+s'#4 s'#1 s7 s#6 s'#4 s#1 s,7 s,#6 s#4 s'#1 s'#4 s'#6 s'#1 s'#4 s'#6 s'7
+s''#1 s'2 s'3 s'#4 s'7 s'#4 s'3 s'2 s'#1 s'2 s'3 s'#4 s''#1 s''2 s''#1 s'7
+s'#4 s'2 s'3 s'#4 s'7 s'#4 s'3 s'2 s'#1 s'2 s'3 s'#4 s''#1 s''#1 s''2 s''#1
+s'#4 s'2 s'3 s'#4 s'7 s'#4 s'3 s'2 s'#1 s'2 s'3 s'#4 s''#1 s''2 s''#1 s'7
+s'#4 s'#6 s'#4 s'3 s'2 s''#1 s'7 s'#6 s'#4 s''3 s''2 s''#1 s''2 s'#6 s'#4 s'3
+s'2 s7 s'#1 s'2 s#4 s'3 s'2 s'#1 s'2 s'2 s#4 s'#1 s#4 s'#1 s#4 s'3
+s'#4 s7 s'#1 s'2 s#4 s'3 s'2 s'#1 s'2 s'2 s#4 s'#1 s#4 s'#1 s#4 s'#1
+s6 s7 s'#1 s'2 s#4 s'3 s'2 s'#1 s'2 s'2 s#4 s'#1 s#4 s'#1 s#4 s'3
+s'#4 s'#1 s7 s#6 s'#4 s#1 s,7 s,#6 s#4 s'#1 s'#4 s'#6 s'#1 s'#4 s'#6 s'7
+s''#1 s'2 s'3 s'#4 s'7 s'#4 s'3 s'2 s'#1 s'2 s'3 s'#4 s''#1 s''2 s''#1 s'7
+s'#4 s'2 s'3 s'#4 s'7 s'#4 s'3 s'2 s'#1 s'2 s'3 s'#4 s''#1 s''#1 s''2 s''#1
+s'#4 s'2 s'3 s'#4 s'7 s'#4 s'3 s'2 s'#1 s'2 s'3 s'#4 s''#1 s''2 s''#1 s'7
+s'#4 s'#6 s'#4 s'3 s'2 s''#1 s'7 s'#6 s'#4 s''3 s''2 s''#1 s''2 s'#6 s'#4 s'3
+s'#1 s#5 s#6 s7 s#2 s'#1 s7 s#6 s7 s7 s#2 s#6 s#2 s#6 s#2 s'#1
+s'#2 s#5 s#6 s7 s#2 s'#1 s7 s#6 s7 s7 s#2 s#6 s#2 s#6 s#2 s#6
+s#4 s#5 s#6 s7 s#2 s'#1 s7 s#6 s7 s7 s#2 s#6 s#2 s#6 s#2 s'#1
+s'#2 s#6 s#5 s#4 s'#2 s,#6 s,#5 s,#4 s#2 s#6 s'#2 s'#4 s#6 s'#2 s'#4 s'#5
+NextPart
+instrument=I/K
+OctavesBefore
+1=C
+4/4
+h,#1
+R*3
+h,#1
+R*1
+h,#1
+h,,1 h,,1 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,2 h,,1 h,#1 h,,2 h,,#4 h,,2 h,,1 h,,2
+h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2
+h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,1
+h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2
+h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,1 h,,1 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,1
+h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,2
+h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,1
+h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,2
+h,#1 h,,2 h,,1 h,,1 h,#1 h,,2 h,,1 h,,1 h,#1 h,,2 h,,1 h,,2 h,,2 h,,2 h,,2 h,#1 h,,2 h,,1 h,,2 h,,2
+h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,,#7 h,,#4 h,,2
+h,,#4 h,,,#7 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,,#7
+h,,#4 h,,,#7 h,,#4 h,,2 h,,#4 h,,,#7 h,,#4 h,,2 h,,#4 h,,,#7 h,,#4 h,,2 h,,#4 h,,,#7 h,,#4 h,,2
+h,,#4 h,,,#7 h,,#4 h,,2 h,,#4 h,,,#7 h,,,#7 h,,,#7 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,,#7 h,,#4 h,,1
+h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2
+h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,1
+h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,,#7 h,,#4 h,,2 h,,#4 h,,,#7 h,,#4 h,,2
+h,,#4 h,,,#7 h,,#4 h,,2 h,,#4 h,,,#7 h,,,#7 h,,,#7 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,,#7 h,,#4 h,,,#7
+h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,2
+h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,,#7
+h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,2
+h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,,#7 h,,,#7 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,,#7 h,,#4 h,,,#7
+h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,2
+h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,1
+h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,2
+h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,,#7 h,,,#7 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,,#7 h,,#4 h,,,#7
+h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,2
+h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,,#7
+h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,2
+h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,,#7 h,,,#7 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,,#7 h,,#4 h,,,#7
+h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,2
+h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,1
+h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,2
+h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,,#7 h,,,#7 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,,#7 h,,#4 h,,1
+h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,2
+h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,,#7
+h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,2
+h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,,#7 h,,,#7 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,,#7 h,,#4 h,,,#7
+h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,2
+h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,1
+h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,2
+h,#1 h,,2 h,,,#7 h,,,#7 h,#1 h,,2 h,,1 h,,1 h,#1 h,,2 h,,1 h,,2 h,,2 h,,2 h,,2 h,#1 h,,2 h,,1 h,,2 h,,2
+h,,1 h,,1 h,,1 h,,1
+h,,1 h,,1 h,,1 h,,1
+h,,1 h,,1 h,,1 h,,1
+h,,1 h,,1 h,,1 h,,1 h,,#4 h,,#4 h,,#4
+h,,#4 h,,1 h,,#4 h,,#4 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,#4
+h,,#4 h,,1 h,,#4 h,,#4 h,,#4 h,,#4 h,,1 h,,#4 h,,#4 h,,#4 h,,#4 h,,1 h,,#4 h,,#4 h,,#4 h,,#4 h,,1 h,,#4 h,,#4 h,,#4
+h,,#4 h,,1 h,,#4 h,,#4 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,#4
+h,,#4 h,,1 h,,#4 h,,#4 h,,#4 h,,#4 h,,1 h,,#4 h,,#4 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,#4
+h,#1
+R*3
+h,#1
+R*3
+h,#1
+R*3
+h,#1
+h,#1
+h,#1
+h,#1 h,,2 h,,,#7 h,,1 h,#1 h,,2 h,,1 h,,1 h,#1 h,,2 h,,1 h,,2 h,,2 h,,2 h,,2 h,#1 h,,2 h,,1 h,,2 h,,2
+h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2
+h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,1
+h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2
+h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,1
+h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2
+h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,1
+h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2
+h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,1 h,,1 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,1
+h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2
+h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,1
+h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2
+h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,1 h,,1 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,1
+h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2
+h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,1
+h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,1 h,,#4 h,,2
+h,#1 h,,2 h,,1 h,,1 h,#1 h,,2 h,,1 h,,1 h,#1 h,,2 h,,1 h,,2 h,,2 h,,2 h,,2 h,#1 h,,2 h,,1 h,,2 h,,2
+h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,2
+h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,,#7
+h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,2
+h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,,#7
+h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,2
+h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,,#7
+h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,2
+h,#1 h,,1 h,,1 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,2 h,,1 h,#1 h,,2 h,,#4 h,,2 h,,,#7 h,,2
+h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,2
+h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,,#7
+h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,2
+h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,1 h,,#4 h,,1 h,,1 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,,#7 h,,#4 h,,,#7
+h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,2
+h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,,#7
+h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,,#7 h,,#4 h,,#4 h,,2 h,,#4 h,,#4 h,,1 h,,#4 h,,#4 h,,2 h,,#4 h,,2
+h,#1 h,,2 h,,1 h,,1 h,#1 h,,2 h,,1 h,,1 h,#1 h,,2 h,,1 h,,2 h,,2 h,,2 h,,2 h,#1 h,,2 h,,1 h,,2 h,,2
+h,#1
+R*3
+h,#1
+R*3
+h,#1
+R*3
+h,#1
+h,#1
+h,#1 h,,1 h,,1 h,,#4 h,,1 h,,#4 h,,2 h,,#4 h,,2 h,,,#7 h,#1 h,,2 h,,#4 h,,2 h,,,#7 h,,2
+h,#1 h,,2 h,,,#7 h,,,#7 h,#1 h,,2 h,,1 h,,1 h,#1 h,,2 h,,1 h,,2 h,,2 h,,2 h,,2 h,#1 h,,2 h,,,#7 h,,2 h,,2
+h,#1
+%---
+%------th04_18.txt_NamelessLegacy.buf------
+instrument=Piano 1
+OctavesBefore
+1/4
+4/4
+R*15
+q'7. q'7. q''2. q''#1
+s''#1 q'7. q'7. q'7. q'7
+s'7 q'7. q'7. q''2. q''#1
+s''#1 q'7. q'7. q'7. q'7
+s'7 q'7. q'7. q''2. q''#1
+s''#1 q'7. q'7. q'7. q'7
+s'7 q'7. q'7. q''2. q''#1
+s''#1 q'7. q'7. q'7. q'7
+q,7 q#4 q3 q#4 q2 q#4 q#1 q#4
+q,7 q#4 q3 q#4 q2 q#4 q#1 q#4
+q,7 q#4 q3 q#4 q2 q#4 q#1 q#4
+,7 - ,#6 - ,#6
+q,7 q#4 q3 q#4 q2 q7 q#4 q7
+q,7 q#4 q3 q#4 q2 q7 q#4 q7
+q,7 q#4 q3 q#4 q2 q7 q#4 q7
+#6 - q#4 q'3 q'2 q'#1 q'3
+q7 q'#4 q'3 q'#4 q'2 q'#4 q'#1 q'#4
+q7 q'#4 q'3 q'#4 q'2 q'#4 q'#1 q'#4
+q7 q'#4 q'3 q'#4 q'2 q'#4 q'#1 q'#4
+7 - #6 - q'#4 q#6
+q7 q'#4 q'3 q'#4 q'2 q'7 q'#4 q'7
+q7 q'#4 q'3 q'#4 q'2 q'7 q'#4 q'7
+q7 q'#4 q'3 q'#4 q'2 q'7 q'#4 q'7
+'#6 - '#4 - #6
+q,7 q#4 q3 q#4 q2 q#4 q#1 q#4
+q,7 q#4 q3 q#4 q2 q#4 q#1 q#4
+q,7 q#4 q3 q#4 q2 q#4 q#1 q#4
+,7 - ,#6 - ,#6
+q,7 q#4 q3 q#4 q2 q7 q#4 q7
+q,7 q#4 q3 q#4 q2 q7 q#4 q7
+q,7 q#4 q3 q#4 q2 q7 q#4 q7
+#6 - q#4 q'3 q'2 q'#1 q'3
+q7 q'#4 q'3 q'#4 q'2 q'#4 q'#1 q'#4
+q7 q'#4 q'3 q'#4 q'2 q'#4 q'#1 q'#4
+q7 q'#4 q'3 q'#4 q'2 q'#4 q'#1 q'#4
+7 - #6 - q'#4 q#6
+q7 q'#4 q'3 q'#4 q'2 q'7 q'#4 q'7
+q7 q'#4 q'3 q'#4 q'2 q'7 q'#4 q'7
+q7 q'#4 q'3 q'#4 q'2 q'7 q'#4 q'7
+'#6 - '#4 - #6
+q'7. q'7. q''2. q''#1
+s''#1 q'7. q'7. q'7. q'7
+s'7 q'7. q'7. q''2. q''#1
+s''#1 q'7. q'7. q'7. q'7
+s'7 q'7. q'7. q''2. q''#1
+s''#1 q'7. q'7. q'7. q'7
+s'7 q'7. q'7. q''2. q''#1
+s''#1 q'7. q'7. q'7. q'7
+'#5 7 '#5 7 '7 '#2 q'#6 q'#1
+q'#6 q'#1 '#5 7 '#5 7 '7 '#2 q'#6 q'#1
+q'#6 q'#1 '#5 7 '#5 7 '7 '#2 q'#6 q'#1
+q'#6 q'#1 '#4 #6 '#4 #6 '#4 #6 q'#4 q#6
+q'#4 q#6 '#5 7 '#5 7 '7 '#2 q'#6 q'#1
+q'#6 q'#1 '#5 7 '#5 7 '7 '#2 q'#6 q'#1
+q'#6 q'#1 '#5 7 '#5 7 '7 '#2 q'#6 q'#1
+q'#6 q'#1 '#4 #6 '#4 #6 '#4 #6 q'#4 q#6
+q'#4 q#6 '#5 7 '#5 7 '7 '#2 q'#6 q'#1
+q'#6 q'#1 '#5 7 '#5 7 '7 '#2 q'#6 q'#1
+q'#6 q'#1 '#5 7 '#5 7 '7 '#2 q'#6 q'#1
+q'#6 q'#1 '#4 #6 '#4 #6 '#4 #6 q'#4 q#6
+q'#4 q#6 '#5 7 '#5 7 '7 '#2 q'#6 q'#1
+q'#6 q'#1 '#5 7 '#5 7 '7 '#2 q'#6 q'#1
+q'#6 q'#1 '#5 7 '#5 7 '7 '#2 q'#6 q'#1
+q'#6 q'#1 '5 #6 '5 #6 '5 #6 q'5 q#6
+q'5 q#6 '6 '1 '6 '1 ''1 '3 q'7 q'2
+q'7 q'2 '6 '1 '6 '1 ''1 '3 q'7 q'2
+q'7 q'2 '6 '1 '6 '1 ''1 '3 q'7 q'2
+q'7 q'2 '#5 7 '#5 7 '#5 7 q'#5 q7
+q'#5 q7 '6 '1 '6 '1 ''1 '3 q'7 q'2
+q'7 q'2 '6 '1 '6 '1 ''1 '3 q'7 q'2
+q'7 q'2 '6 '1 '6 '1 ''1 '3 q'7 q'2
+q'7 q'2 '#5 7 '#5 7 '#5 7 q'#5 q7
+q'#5 q7 '6 '1 '6 '1 ''1 '3 q'7 q'2
+q'7 q'2 '6 '1 '6 '1 ''1 '3 q'7 q'2
+q'7 q'2 '6 '1 '6 '1 ''1 '3 q'7 q'2
+q'7 q'2 '#5 7 '#5 7 '#5 7 q'#5 q7
+q'#5 q7 '6 '1 '6 '1 ''1 '3 q'7 q'2
+q'7 q'2 '6 '1 '6 '1 ''1 '3 q'7 q'2
+q'7 q'2 '6 '1 '6 '1 ''1 '3 q'7 q'2
+q'7 q'2 '#5 7 '#5 7 '#5 7 q'#5 q7
+q'#5 q7 '#6 '#1 '#6 '#1 ''#1 '#3 q'#7 q'#2
+q'#7 q'#2 '#6 '#1 '#6 '#1 ''#1 '#3 q'#7 q'#2
+q'#7 q'#2 '#6 '#1 '#6 '#1 ''#1 '#3 q''1 q'#2
+q''1 q'#2 '6 '1 '6 '1 '6 '1 q'6 q#7
+q'6 q#7 '#6 '#1 '#6 '#1 ''#1 '#3 q'#7 q'#2
+q'#7 q'#2 '#6 '#1 '#6 '#1 ''#1 '#3 q'#7 q'#2
+q'#7 q'#2 '#6 '#1 '#6 '#1 ''#1 '#3 q''1 q'#2
+q''1 q'#2 '6 '1 '6 '1 '6 '1 q'6 q#7
+q'6 q#7 '#6 '#1 '#6 '#1 ''#1 '#3 q'#7 q'#2
+q'#7 q'#2 '#6 '#1 '#6 '#1 ''#1 '#3 q'#7 q'#2
+q'#7 q'#2 '#6 '#1 '#6 '#1 ''#1 '#3 q''1 q'#2
+q''1 q'#2 '6 '1 '6 '1 '6 '1 q'6 q#7
+q'6 q#7 '#6 '#1 '#6 '#1 ''#1 '#3 q'#7 q'#2
+q'#7 q'#2 '#6 '#1 '#6 '#1 ''#1 '#3 q'#7 q'#2
+q'#7 q'#2 '#6 '#1 '#6 '#1 ''#1 '#3 q''1 q'#2
+q''1 q'#2 '6 '1 '6 '1 '6 #7 q'6 q'1
+q'6 q'1 '7 '2 '7 '2 ''2 '#4 q''#1 q'3
+q''#1 q'3 '7 '2 '7 '2 ''2 '#4 q''#1 q'3
+q''#1 q'3 '7 '2 '7 '2 ''2 '#4 q''#1 q'3
+q''#1 q'3 '#6 '#1 '#6 '#1 '#6 '#1 q'#6 q'#1
+q'#6 q'#1 '7 '2 '7 '2 ''2 '#4 q''#1 q'3
+q''#1 q'3 '7 '2 '7 '2 ''2 '#4 q''#1 q'3
+q''#1 q'3 '7 '2 '7 '2 ''2 '#4 q''#1 q'3
+q''#1 q'3 '#6 '#1 '#6 '#1 '#6 '#1 q'#6 q'#1
+q'#6 q'#1 '7 '2 '7 '2 ''2 '#4 q''#1 q'3
+q''#1 q'3 '7 '2 '7 '2 ''2 '#4 q''#1 q'3
+q''#1 q'3 '7 '2 '7 '2 ''2 '#4 q''#1 q'3
+q''#1 q'3 '#6 '#1 '#6 '#1 '#6 '#1 q'#6 q'#1
+q'#6 q'#1 '7 '2 '7 '2 ''2 '#4 q''#1 q'3
+q''#1 q'3 '7 '2 '7 '2 ''2 '#4 q''#1 q'3
+q''#1 q'3 '7 '2 '7 '2 ''2 '#4 q''#1 q'3
+q''#1 q'3 '#6 '#1 '#6 '#1 '#6 '#1 q'#6 q'#1
+NextPart
+instrument=Piano 2
+OctavesBefore
+1/4
+4/4
+R*23
+q,7 q#4 q3 q#4 q2 q#4 s#1
+s#1 q#4 q,7 q#4 q3 q#4 q2 q#4 s#1
+s#1 q#4 q,7 q#4 q3 q#4 q2 q#4 s#1
+s#1 q#4 ,7 - ,#6 - s,#6
+,#6 q,7 q#4 q3 q#4 q2 q7 s#4
+s#4 q7 q,7 q#4 q3 q#4 q2 q7 s#4
+s#4 q7 q,7 q#4 q3 q#4 q2 q7 s#4
+s#4 q7 q#6. q#4. #6
+q#6. q7 q'#4 q'3 q'#4 q'2 q'#4 s'#1
+s'#1 q'#4 q7 q'#4 q'3 q'#4 q'2 q'#4 s'#1
+s'#1 q'#4 q7 q'#4 q'3 q'#4 q'2 q'#4 s'#1
+s'#1 q'#4 q7. #6. #6
+q#6. q7 q'#4 q'3 q'#4 q'2 q'7 s'#4
+s'#4 q'7 q7 q'#4 q'3 q'#4 q'2 q'7 s'#4
+s'#4 q'7 q7 q'#4 q'3 q'#4 q'2 q'7 s'#4
+s'#4 q'7 '#6 - '#4 - s'#6
+'#6 q,7 q#4 q3 q#4 q2 q#4 s#1
+s#1 q#4 q,7 q#4 q3 q#4 q2 q#4 s#1
+s#1 q#4 q,7 q#4 q3 q#4 q2 q#4 s#1
+s#1 q#4 ,7 - ,#6 - s,#6
+,#6 q,7 q#4 q3 q#4 q2 q7 s#4
+s#4 q7 q,7 q#4 q3 q#4 q2 q7 s#4
+s#4 q7 q,7 q#4 q3 q#4 q2 q7 s#4
+s#4 q7 q#6. q#4. #6
+q#6. q7 q'#4 q'3 q'#4 q'2 q'#4 s'#1
+s'#1 q'#4 q7 q'#4 q'3 q'#4 q'2 q'#4 s'#1
+s'#1 q'#4 q7 q'#4 q'3 q'#4 q'2 q'#4 s'#1
+s'#1 q'#4 q7. #6. #6
+q#6. q7 q'#4 q'3 q'#4 q'2 q'7 s'#4
+s'#4 q'7 q7 q'#4 q'3 q'#4 q'2 q'7 s'#4
+s'#4 q'7 q7 q'#4 q'3 q'#4 q'2 q'7 s'#4
+s'#4 q'7 '#6 - '#4 - s'#6
+'#6
+NextPart
+instrument=Melody Saw
+OctavesBefore
+1/4
+4/4
+R*63
+q,#5 q#2 q#1 q#2 q,7 q#2 q,#6 q#2
+q,#5 q#2 q#1 q#2 q,7 q#2 q,#6 q#2
+q,#5 q#2 q#1 q#2 q,7 q#2 q,#6 q#2
+,#5 - ,#4 - ,#4
+q,#5 q#2 q#1 q#2 q,7 q#5 q#2 q#5
+q,#5 q#2 q#1 q#2 q,7 q#5 q#2 q#5
+q,#5 q#2 q#1 q#2 q,7 q#5 q#2 q#5
+#4 - #2. #4
+q#5 q'#2 q'#1 q'#2 q7 q'#2 q#6 q'#2
+q#5 q'#2 q'#1 q'#2 q7 q'#2 q#6 q'#2
+q#5 q'#2 q'#1 q'#2 q7 q'#2 q#6 q'#2
+#5 - #4 - q'#2 q#4
+q#5 q'#2 q'#1 q'#2 q7 q'#5 q'#2 q'#5
+q#5 q'#2 q'#1 q'#2 q7 q'#5 q'#2 q'#5
+q#5 q'#2 q'#1 q'#2 q7 q'#5 q'#2 q'#5
+'#4 - '#2 - '5
+q,6 q3 q2 q3 q1 q3 q,7 q3
+q,6 q3 q2 q3 q1 q3 q,7 q3
+q,6 q3 q2 q3 q1 q3 q,7 q3
+,6 - ,#5 - ,#5
+q,6 q3 q2 q3 q1 q6 q3 q6
+q,6 q3 q2 q3 q1 q6 q3 q6
+q,6 q3 q2 q3 q1 q6 q3 q6
+#5 - 3. #5
+q6 q'3 q'2 q'3 q'1 q'3 q7 q'3
+q6 q'3 q'2 q'3 q'1 q'3 q7 q'3
+q6 q'3 q'2 q'3 q'1 q'3 q7 q'3
+6 - #5 - q'3 q#5
+q6 q'3 q'2 q'3 q'1 q'6 q'3 q'6
+q6 q'3 q'2 q'3 q'1 q'6 q'3 q'6
+q6 q'3 q'2 q'3 q'1 q'6 q'3 q'6
+'#5 - '3 - '#5
+,,#6 ,,#7 ,#1 - q,#3
+,#6 ,#7 #1 #3 -
+q#2 q#3 ,#6 - #3
+d#2 d4 s#2 q#1 q1 q,6 s,6 s,6 q4 s#2 s#3 q,#7
+#1 #2 q#3 s#6 #3 s#2 s#1
+q#1 q#1 q#2 q#2 q#3 s#6 s#3 s#3 s#2 s#1 s,#7
+#1 #2 q#3 s#6 q#3 s#6 q6
+6 - s6 s4 s#2 s4 s#1 s#3 s,#7 s#3
+,#6 ,#7 #1 - q#3
+#6 #7 '#1 '#3 -
+q'#2 q'#3 #6 - '#3
+d'#2 d'4 s'#2 q'#1 q'1 q6 s6 s6 q'4 s'#2 s'#3 q#7
+'#1 '#2 q'#3 s'#6 '#3 s'#2 s'#1
+q'#1 q'#1 q'#2 q'#2 q'#3 s'#6 s'#3 s'#3 s'#2 s'#1 s#7
+'#1 '#2 q'#3 s'#6 q'#3 s'#6 q'6
+'6 - s'6 s'4 s'#2 s'#3 s'#1 s'#3 s'1 s'#3
+NextPart
+instrument=SSG1
+OctavesBefore
+1/4
+4/4
+R*4
+,#4 - - -
+,#4 - - -
+,#4 - - -
+,#4 - - -
+,#4 - - -
+,#4 ,,#4 - -
+,,2 - - -
+,,2 - - -
+,,2 - ,,#1 -
+,,#1 - - -
+,,#1 - - -
+s'7 s'7 s''2 s''#1
+s'7 s'7 s'7 s'7
+s'7 s'7 s''2 s''#1
+s'7 s'7 s'7 s'7
+s'7 s'7 s''2 s''#1
+s'7 s'7 s'7 s'7
+s'7 s'7 s''2 s''#1
+s'7 s'7 s'7 s'7
+s'7 s'7 s''2 s''#1
+s'7 s'7 s''2 s''#1
+s'7 s'7 s''2 s''#1
+s'#6 s'#6 s'#6 s'#6
+s'7 s'7 s''2 s''#1
+s'7 s'7 s''2 s''#1
+s'7 s'7 s''2 s''#1
+s'#6 s'#6 s'#6 s'#6
+s'7 s'7 s''2 s''#1
+s'7 s'7 s''2 s''#1
+s'7 s'7 s''2 s''#1
+s'#6 s'#6 s'#6 s'#6
+s'7 s'7 s''2 s''#1
+s'7 s'7 s''2 s''#1
+s'7 s'7 s''2 s''#1
+s'#6 s'#6 s'#6 s'#6
+s'7 s'7 s''2 s''#1
+s'7 s'7 s''2 s''#1
+s'7 s'7 s''2 s''#1
+s'#6 s'#6 s'#6 s'#6
+s'7 s'7 s''2 s''#1
+s'7 s'7 s''2 s''#1
+s'7 s'7 s''2 s''#1
+s'#6 s'#6 s'#6 s'#6
+s'7 s'7 s''2 s''#1
+s'7 s'7 s''2 s''#1
+s'7 s'7 s''2 s''#1
+s'#6 s'#6 s'#6 s'#6
+s'7 s'7 s''2 s''#1
+s'7 s'7 s''2 s''#1
+s'7 s'7 s''2 s''#1
+s'#6 s'#6 s'#6 s'#6
+s'7 s'7 s''2 s''#1
+s'7 s'7 s'7 s'7
+s'7 s'7 s''2 s''#1
+s'7 s'7 s'7 s'7
+s'7 s'7 s''2 s''#1
+s'7 s'7 s'7 s'7
+s'7 s'7 s''2 s''#1
+s'7 s'7 s'7 s'7
+s#5 s#6 s7 s#2 s'#1 s7 s#6 s7 s7 s#2 s#6 s#2 s#6 s#2 s'#1 s'#2
+s#5 s#6 s7 s#2 s'#1 s7 s#6 s7 s7 s#2 s#6 s#2 s#6 s#2 s#6 s#4
+s#5 s#6 s7 s#2 s'#1 s7 s#6 s7 s7 s#2 s#6 s#2 s#6 s#2 s'#1 s'#2
+s#6 s#5 s#4 s'#2 s,#6 s,#5 s,#4 s#2 s#6 s'#2 s'#4 s#6 s'#2 s'#4 s'#5 s'#6
+s7 s'#1 s'#2 s'#5 s'#2 s'#1 s7 s#6 s7 s'#1 s'#2 s'#6 s'7 s'#6 s'#5 s'#2
+s7 s'#1 s'#2 s'#5 s'#2 s'#1 s7 s#6 s7 s'#1 s'#2 s'#6 s'#6 s'7 s'#6 s'#2
+s7 s'#1 s'#2 s'#5 s'#2 s'#1 s7 s#6 s7 s'#1 s'#2 s'#6 s'7 s'#6 s'#5 s'#2
+s'#4 s'#2 s'#1 s7 s'#6 s'#5 s'#4 s'#2 s''#1 s'7 s'#6 s'7 s'#4 s'#2 s'#1 s7
+s#5 s#6 s7 s#2 s'#1 s7 s#6 s7 s7 s#2 s#6 s#2 s#6 s#2 s'#1 s'#2
+s#5 s#6 s7 s#2 s'#1 s7 s#6 s7 s7 s#2 s#6 s#2 s#6 s#2 s#6 s#4
+s#5 s#6 s7 s#2 s'#1 s7 s#6 s7 s7 s#2 s#6 s#2 s#6 s#2 s'#1 s'#2
+s#6 s#5 s#4 s'#2 s,#6 s,#5 s,#4 s#2 s#6 s'#2 s'#4 s#6 s'#2 s'#4 s'#5 s'#6
+s7 s'#1 s'#2 s'#5 s'#2 s'#1 s7 s#6 s7 s'#1 s'#2 s'#6 s'7 s'#6 s'#5 s'#2
+s7 s'#1 s'#2 s'#5 s'#2 s'#1 s7 s#6 s7 s'#1 s'#2 s'#6 s'#6 s'7 s'#6 s'#2
+s7 s'#1 s'#2 s'#5 s'#2 s'#1 s7 s#6 s7 s'#1 s'#2 s'#6 s'7 s'#6 s'#5 s'#2
+s'#4 s'#2 s'#1 s7 s'#6 s'#5 s'5 s'#2 s''#1 s'7 s'#6 s'7 s'5 s'#2 s'#1 s7
+s6 s7 s'1 s3 s'2 s'1 s7 s'1 s'1 s3 s7 s3 s7 s3 s'2 s'3
+s6 s7 s'1 s3 s'2 s'1 s7 s'1 s'1 s3 s7 s3 s7 s3 s7 s5
+s6 s7 s'1 s3 s'2 s'1 s7 s'1 s'1 s3 s7 s3 s7 s3 s'2 s'3
+s7 s6 s#5 s'3 s,7 s,6 s,#5 s3 s7 s'3 s'#5 s7 s'3 s'#5 s'6 s'7
+s'1 s'2 s'3 s'6 s'3 s'2 s'1 s7 s'1 s'2 s'3 s'7 s''1 s'7 s'6 s'3
+s'1 s'2 s'3 s'6 s'3 s'2 s'1 s7 s'1 s'2 s'3 s'7 s'7 s''1 s'7 s'3
+s'1 s'2 s'3 s'6 s'3 s'2 s'1 s7 s'1 s'2 s'3 s'7 s''1 s'7 s'6 s'3
+s'#5 s'3 s'2 s'1 s'7 s'6 s'#5 s'3 s''2 s''1 s'7 s''1 s'#5 s'3 s'2 s'1
+s6 s7 s'1 s3 s'2 s'1 s7 s'1 s'1 s3 s7 s3 s7 s3 s'2 s'3
+s6 s7 s'1 s3 s'2 s'1 s7 s'1 s'1 s3 s7 s3 s7 s3 s7 s5
+s6 s7 s'1 s3 s'2 s'1 s7 s'1 s'1 s3 s7 s3 s7 s3 s'2 s'3
+s7 s6 s#5 s'3 s,7 s,6 s,#5 s3 s7 s'3 s'#5 s7 s'3 s'#5 s'6 s'7
+s'1 s'2 s'3 s'6 s'3 s'2 s'1 s7 s'1 s'2 s'3 s'7 s''1 s'7 s'6 s'3
+s'1 s'2 s'3 s'6 s'3 s'2 s'1 s7 s'1 s'2 s'3 s'7 s'7 s''1 s'7 s'3
+s'1 s'2 s'3 s'6 s'3 s'2 s'1 s7 s'1 s'2 s'3 s'7 s''1 s'7 s'6 s'3
+s'#5 s'3 s'2 s'1 s'7 s'6 s'#5 s'3 s''2 s''1 s'7 s''1 s'#5 s'3 s'2 s#7
+s#6 s#7 s'#1 s#3 s'#2 s'#1 s#7 s'#1 s'#1 s#3 s#7 s#3 s#7 s#3 s'#2 s'#3
+s#6 s#7 s'#1 s#3 s'#2 s'#1 s#7 s'#1 s'#1 s#3 s#7 s#3 s#7 s#3 s#7 s#5
+s#6 s#7 s'#1 s#3 s'#2 s'#1 s#7 s'#1 s'#1 s#3 s#7 s#3 s#7 s#3 s'#2 s'4
+s'1 sb7 s6 s'4 s1 s,b7 s,6 s4 s'1 s'4 s'6 s'1 s'#3 s'6 s'#6 s'#7
+s'#1 s'#2 s'#3 s'#6 s'#3 s'#2 s'#1 s#7 s'#1 s'#2 s'#3 s'#7 s''#1 s'#7 s'#6 s'#3
+s'#1 s'#2 s'#3 s'#6 s'#3 s'#2 s'#1 s#7 s'#1 s'#2 s'#3 s'#7 s'#7 s''#1 s'#7 s'#3
+s'#1 s'#2 s'#3 s'#6 s'#3 s'#2 s'#1 s#7 s'#1 s'#2 s'#3 s'#7 s''#1 s''1 s'b7 s'4
+s'6 s'4 s'b3 s'b2 s''1 s'b7 s'6 s'4 s''#2 s''#1 s''1 s''#1 s'6 s'#3 s'#2 s'#1
+s#6 s#7 s'#1 s#3 s'#2 s'#1 s#7 s'#1 s'#1 s#3 s#7 s#3 s#7 s#3 s'#2 s'#3
+s#6 s#7 s'#1 s#3 s'#2 s'#1 s#7 s'#1 s'#1 s#3 s#7 s#3 s#7 s#3 s#7 s#5
+s#6 s#7 s'#1 s#3 s'#2 s'#1 s#7 s'#1 s'#1 s#3 s#7 s#3 s#7 s#3 s'#2 s'4
+s'1 sb7 s6 s'4 s1 s,b7 s,6 s4 s'1 s'4 s'6 s'1 s'#3 s'6 s'#6 s'#7
+s'#1 s'#2 s'#3 s'#6 s'#3 s'#2 s'#1 s#7 s'#1 s'#2 s'#3 s'#7 s''#1 s'#7 s'#6 s'#3
+s'#1 s'#2 s'#3 s'#6 s'#3 s'#2 s'#1 s#7 s'#1 s'#2 s'#3 s'#7 s'#7 s''#1 s'#7 s'#3
+s'#1 s'#2 s'#3 s'#6 s'#3 s'#2 s'#1 s#7 s'#1 s'#2 s'#3 s'#7 s''#1 s'#7 s'#6 s'4
+s'6 s'#3 s'#2 s'#1 s'#7 s'#6 s'6 s'#3 s''#2 s''#1 s''1 s''#1 s'6 s'#3 s'#2 s'#1
+s7 s'#1 s'2 s#4 s'3 s'2 s'#1 s'2 s'2 s#4 s'#1 s#4 s'#1 s#4 s'3 s'#4
+s7 s'#1 s'2 s#4 s'3 s'2 s'#1 s'2 s'2 s#4 s'#1 s#4 s'#1 s#4 s'#1 s6
+s7 s'#1 s'2 s#4 s'3 s'2 s'#1 s'2 s'2 s#4 s'#1 s#4 s'#1 s#4 s'3 s'#4
+s'#1 s7 s#6 s'#4 s#1 s,7 s,#6 s#4 s'#1 s'#4 s'#6 s'#1 s'#4 s'#6 s'7 s''#1
+s'2 s'3 s'#4 s'7 s'#4 s'3 s'2 s'#1 s'2 s'3 s'#4 s''#1 s''2 s''#1 s'7 s'#4
+s'2 s'3 s'#4 s'7 s'#4 s'3 s'2 s'#1 s'2 s'3 s'#4 s''#1 s''#1 s''2 s''#1 s'#4
+s'2 s'3 s'#4 s'7 s'#4 s'3 s'2 s'#1 s'2 s'3 s'#4 s''#1 s''2 s''#1 s'7 s'#4
+s'#6 s'#4 s'3 s'2 s''#1 s'7 s'#6 s'#4 s''3 s''2 s''#1 s''2 s'#6 s'#4 s'3 s'2
+s7 s'#1 s'2 s#4 s'3 s'2 s'#1 s'2 s'2 s#4 s'#1 s#4 s'#1 s#4 s'3 s'#4
+s7 s'#1 s'2 s#4 s'3 s'2 s'#1 s'2 s'2 s#4 s'#1 s#4 s'#1 s#4 s'#1 s6
+s7 s'#1 s'2 s#4 s'3 s'2 s'#1 s'2 s'2 s#4 s'#1 s#4 s'#1 s#4 s'3 s'#4
+s'#1 s7 s#6 s'#4 s#1 s,7 s,#6 s#4 s'#1 s'#4 s'#6 s'#1 s'#4 s'#6 s'7 s''#1
+s'2 s'3 s'#4 s'7 s'#4 s'3 s'2 s'#1 s'2 s'3 s'#4 s''#1 s''2 s''#1 s'7 s'#4
+s'2 s'3 s'#4 s'7 s'#4 s'3 s'2 s'#1 s'2 s'3 s'#4 s''#1 s''#1 s''2 s''#1 s'#4
+s'2 s'3 s'#4 s'7 s'#4 s'3 s'2 s'#1 s'2 s'3 s'#4 s''#1 s''2 s''#1 s'7 s'#4
+s'#6 s'#4 s'3 s'2 s''#1 s'7 s'#6 s'#4 s''3 s''2 s''#1 s''2 s'#6 s'#4 s'3 s'2
+NextPart
+instrument=SSG2
+OctavesBefore
+1/4
+4/4
+R*4
+,,7 - - -
+,,7 - - -
+,,7 - - -
+,,7 - - -
+,,7 - ,,#6 -
+,,#6 - - -
+,,5 - - -
+,,5 - - -
+,,5 - ,,#4 -
+,,#4 - - -
+,,#4 - - -
+s'2 s'2 s'#4 s'3
+s'2 s'2 s'2 s'2
+s'2 s'2 s'#4 s'3
+s'2 s'2 s'2 s'2
+s'2 s'2 s'#4 s'3
+s'2 s'2 s'2 s'2
+s'2 s'2 s'#4 s'3
+s'2 s'2 s'2 s'2
+s'2 s'2 s'#4 s'3
+s'2 s'2 s'#4 s'3
+s'2 s'2 s'#4 s'3
+s'#1 s'#1 s'#1 s'#1
+s'2 s'2 s'#4 s'3
+s'2 s'2 s'#4 s'3
+s'2 s'2 s'#4 s'3
+s'#1 s'#1 s'#1 s'#1
+s'2 s'2 s'#4 s'3
+s'2 s'2 s'#4 s'3
+s'2 s'2 s'#4 s'3
+s'#1 s'#1 s'#1 s'#1
+s'2 s'2 s'#4 s'3
+s'2 s'2 s'#4 s'3
+s'2 s'2 s'#4 s'3
+s'#1 s'#1 s'#1 s'#1
+s'2 s'2 s'#4 s'3
+s'2 s'2 s'#4 s'3
+s'2 s'2 s'#4 s'3
+s'#1 s'#1 s'#1 s'#1
+s'2 s'2 s'#4 s'3
+s'2 s'2 s'#4 s'3
+s'2 s'2 s'#4 s'3
+s'#1 s'#1 s'#1 s'#1
+s'2 s'2 s'#4 s'3
+s'2 s'2 s'#4 s'3
+s'2 s'2 s'#4 s'3
+s'#1 s'#1 s'#1 s'#1
+s'2 s'2 s'#4 s'3
+s'2 s'2 s'#4 s'3
+s'2 s'2 s'#4 s'3
+s'#1 s'#1 s'#1 s'#1
+s'2 s'2 s'#4 s'3
+s'2 s'2 s'2 s'2
+s'2 s'2 s'#4 s'3
+s'2 s'2 s'2 s'2
+s'2 s'2 s'#4 s'3
+s'2 s'2 s'2 s'2
+s'2 s'2 s'#4 s'3
+s'2 s'2 s'2 s'2
+s#5 s#6 s7 s#2 s'#1 s7 s#6 s7 s7 s#2 s#6 s#1 s#6 s#2 s'#1
+s'#2 s#5 s#6 s7 s#2 s'#1 s7 s#6 s7 s7 s#2 s#6 s#1 s#6 s#2 s#6
+s#4 s#5 s#6 s7 s#2 s'#1 s7 s#6 s7 s7 s#2 s#6 s#1 s#6 s#2 s'#1
+s'#2 s#6 s#5 s#4 s'#2 s,#6 s,#5 s,#4 s#2 s#6 s'#2 s'#4 s#6 s'#2 s'#4 s'#5
+s'#6 s7 s'#1 s'#2 s'#5 s'#2 s'#1 s7 s#6 s7 s'#1 s'#2 s'#6 s'7 s'#6 s'#5
+s'#2 s7 s'#1 s'#2 s'#5 s'#2 s'#1 s7 s#6 s7 s'#1 s'#2 s'#6 s'#6 s'7 s'#6
+s'#2 s7 s'#1 s'#2 s'#5 s'#2 s'#1 s7 s#6 s7 s'#1 s'#2 s'#6 s'7 s'#6 s'#5
+s'#2 s'#4 s'#2 s'#1 s7 s'#6 s'#5 s'#4 s'#2 s''#1 s'7 s'#6 s'7 s'#4 s'#2 s'#1
+s7 s#5 s#6 s7 s#2 s'#1 s7 s#6 s7 s7 s#2 s#6 s#1 s#6 s#2 s'#1
+s'#2 s#5 s#6 s7 s#2 s'#1 s7 s#6 s7 s7 s#2 s#6 s#1 s#6 s#2 s#6
+s#4 s#5 s#6 s7 s#2 s'#1 s7 s#6 s7 s7 s#2 s#6 s#1 s#6 s#2 s'#1
+s'#2 s#6 s#5 s#4 s'#2 s,#6 s,#5 s,#4 s#2 s#6 s'#2 s'#4 s#6 s'#2 s'#4 s'#5
+s'#6 s7 s'#1 s'#2 s'#5 s'#2 s'#1 s7 s#6 s7 s'#1 s'#2 s'#6 s'7 s'#6 s'#5
+s'#2 s7 s'#1 s'#2 s'#5 s'#2 s'#1 s7 s#6 s7 s'#1 s'#2 s'#6 s'#6 s'7 s'#6
+s'#2 s7 s'#1 s'#2 s'#5 s'#2 s'#1 s7 s#6 s7 s'#1 s'#2 s'#6 s'7 s'#6 s'#5
+s'#2 s'#4 s'#2 s'#1 s7 s'#6 s'#5 s'5 s'#2 s''#1 s'7 s'#6 s'7 s'5 s'#2 s'#1
+s7 d6. d7. d'1. d3. d'2. d'1. d7. d'1. d'1. d3. d7. d2. d7. d3. d'2.
+d'3. d6. d7. d'1. d3. d'2. d'1. d7. d'1. d'1. d3. d7. d2. d7. d3. d7.
+d5. d6. d7. d'1. d3. d'2. d'1. d7. d'1. d'1. d3. d7. d2. d7. d3. d'2.
+d'3. d7. d6. d#5. d'3. d,7. d,6. d,#5. d3. d7. d'3. d'#5. d7. d'3. d'#5. d'6.
+d'7. d'1. d'2. d'3. d'6. d'3. d'2. d'1. d7. d'1. d'2. d'3. d'7. d''1. d'7. d'6.
+d'3. d'1. d'2. d'3. d'6. d'3. d'2. d'1. d7. d'1. d'2. d'3. d'7. d'7. d''1. d'7.
+d'3. d'1. d'2. d'3. d'6. d'3. d'2. d'1. d7. d'1. d'2. d'3. d'7. d''1. d'7. d'6.
+d'3. d'#5. d'3. d'2. d'1. d'7. d'6. d'#5. d'3. d''2. d''1. d'7. d''1. d'#5. d'3. d'2.
+d'1. d6. d7. d'1. d3. d'2. d'1. d7. d'1. d'1. d3. d7. d2. d7. d3. d'2.
+d'3. d6. d7. d'1. d3. d'2. d'1. d7. d'1. d'1. d3. d7. d2. d7. d3. d7.
+d5. d6. d7. d'1. d3. d'2. d'1. d7. d'1. d'1. d3. d7. d2. d7. d3. d'2.
+d'3. d7. d6. d#5. d'3. d,7. d,6. d,#5. d3. d7. d'3. d'#5. d7. d'3. d'#5. d'6.
+d'7. d'1. d'2. d'3. d'6. d'3. d'2. d'1. d7. d'1. d'2. d'3. d'7. d''1. d'7. d'6.
+d'3. d'1. d'2. d'3. d'6. d'3. d'2. d'1. d7. d'1. d'2. d'3. d'7. d'7. d''1. d'7.
+d'3. d'1. d'2. d'3. d'6. d'3. d'2. d'1. d7. d'1. d'2. d'3. d'7. d''1. d'7. d'6.
+d'3. d'#5. d'3. d'2. d'1. d'7. d'6. d'#5. d'3. d''2. d''1. d'7. d'#7. d'#5. d'3. d'2.
+d#7. d#6. d#7. d'#1. d#3. d'#2. d'#1. d#7. d'#1. d'#1. d#3. d#7. d#2. d#7. d#3. d'#2.
+d'#3. d#6. d#7. d'#1. d#3. d'#2. d'#1. d#7. d'#1. d'#1. d#3. d#7. d#2. d#7. d#3. d#7.
+d#5. d#6. d#7. d'#1. d#3. d'#2. d'#1. d#7. d'#1. d'#1. d#3. d#7. d#2. d#7. d4. d'#2.
+d'4. d'1. db7. d6. d'4. d1. d,b7. d,6. d4. d'1. d'4. d'6. d#7. d'#3. d'6. d'#6.
+d'#7. d'#1. d'#2. d'#3. d'#6. d'#3. d'#2. d'#1. d#7. d'#1. d'#2. d'#3. d'#7. d''#1. d'#7. d'#6.
+d'#3. d'#1. d'#2. d'#3. d'#6. d'#3. d'#2. d'#1. d#7. d'#1. d'#2. d'#3. d'#7. d'#7. d''#1. d'#7.
+d'#3. d'#1. d'#2. d'#3. d'#6. d'#3. d'#2. d'#1. d#7. d'#1. d'#2. d'#3. d''1. d''#1. d''1. d'b7.
+d'4. d'6. d'4. d'b3. d'#1. d''1. d'b7. d'6. d'4. d''#2. d''#1. d''1. d''#1. d'6. d'#3. d'#2.
+d'#1. d#6. d#7. d'#1. d#3. d'#2. d'#1. d#7. d'#1. d'#1. d#3. d#7. d#2. d#7. d#3. d'#2.
+d'#3. d#6. d#7. d'#1. d#3. d'#2. d'#1. d#7. d'#1. d'#1. d#3. d#7. d#2. d#7. d#3. d#7.
+d#5. d#6. d#7. d'#1. d#3. d'#2. d'#1. d#7. d'#1. d'#1. d#3. d#7. d#2. d#7. d4. d'#2.
+d'4. d'1. db7. d6. d'4. d1. d,b7. d,6. d4. d'1. d'4. d'6. d#7. d'#3. d'6. d'#6.
+d'#7. d'#1. d'#2. d'#3. d'#6. d'#3. d'#2. d'#1. d#7. d'#1. d'#2. d'#3. d'#7. d''#1. d'#7. d'#6.
+d'#3. d'#1. d'#2. d'#3. d'#6. d'#3. d'#2. d'#1. d#7. d'#1. d'#2. d'#3. d'#7. d'#7. d''#1. d'#7.
+d'#3. d'#1. d'#2. d'#3. d'#6. d'#3. d'#2. d'#1. d#7. d'#1. d'#2. d'#3. d'#7. d''#1. d''1. d'#6.
+d'4. d'6. d'4. d'#2. d'#1. d''1. d'#6. d'6. d'4. d''#2. d''#1. d''1. d''#1. d'6. d'#3. d'#2.
+d'#1. d7. d'#1. d'2. d#4. d'3. d'2. d'#1. d'2. d'2. d#4. d'#1. d3. d'#1. d#4. d'3.
+d'#4. d7. d'#1. d'2. d#4. d'3. d'2. d'#1. d'2. d'2. d#4. d'#1. d3. d'#1. d#4. d'#1.
+d6. d7. d'#1. d'2. d#4. d'3. d'2. d'#1. d'2. d'2. d#4. d'#1. d3. d'#1. d#4. d'3.
+d'#4. d'#1. d7. d#6. d'#4. d#1. d,7. d,#6. d#4. d'#1. d'#4. d'#6. d'#1. d'#4. d'#6. d'7.
+d''#1. d'2. d'3. d'#4. d'7. d'#4. d'3. d'2. d'#1. d'2. d'3. d'#4. d''#1. d''2. d''#1. d'7.
+d'#4. d'2. d'3. d'#4. d'7. d'#4. d'3. d'2. d'#1. d'2. d'3. d'#4. d''#1. d''#1. d''2. d''#1.
+d'#4. d'2. d'3. d'#4. d'7. d'#4. d'3. d'2. d'#1. d'2. d'3. d'#4. d''#1. d''2. d''#1. d'7.
+d'#4. d'#6. d'#4. d'3. d'2. d''#1. d'7. d'#6. d'#4. d''3. d''2. d''#1. d''2. d'#6. d'#4. d'3.
+d'2. d7. d'#1. d'2. d#4. d'3. d'2. d'#1. d'2. d'2. d#4. d'#1. d3. d'#1. d#4. d'3.
+d'#4. d7. d'#1. d'2. d#4. d'3. d'2. d'#1. d'2. d'2. d#4. d'#1. d3. d'#1. d#4. d'#1.
+d6. d7. d'#1. d'2. d#4. d'3. d'2. d'#1. d'2. d'2. d#4. d'#1. d3. d'#1. d#4. d'3.
+d'#4. d'#1. d7. d#6. d'#4. d#1. d,7. d,#6. d#4. d'#1. d'#4. d'#6. d'#1. d'#4. d'#6. d'7.
+d''#1. d'2. d'3. d'#4. d'7. d'#4. d'3. d'2. d'#1. d'2. d'3. d'#4. d''#1. d''2. d''#1. d'7.
+d'#4. d'2. d'3. d'#4. d'7. d'#4. d'3. d'2. d'#1. d'2. d'3. d'#4. d''#1. d''#1. d''2. d''#1.
+d'#4. d'2. d'3. d'#4. d'7. d'#4. d'3. d'2. d'#1. d'2. d'3. d'#4. d''#1. d''2. d''#1. d'7.
+d'#4. d'#6. d'#4. d'3. d'2. d''#1. d'7. d'#6. d'#4. d''3. d''2. d''#1. d''2. d'#6. d'#4. d'3.
+NextPart
+instrument=Organ
+OctavesBefore
+1/4
+4/4
+R*4
+'#4 - - - '37
+LP:\once \override Staff.TimeSignature.stencil = #(lambda (grob) (grob-interpret-markup grob #{ \markup \bold \huge "サ" #}))
+:LP
+12/4
+'3 - ~ 7 - - - ~ '#4 - - - '2 -
+LP: \bar "|"
+:LP
+'#4 - - - '27
+'#4 - - - '#17
+'#4 - '#17 '#4 - '#1#6
+'#4 ~ #6 - - - ~ '#1 - - - #4 - -
+7 - - - 52
+7 - - - 52
+7 - 52 #6 - #4#1
+#6 - - - #4#1
+#6 - - - #4#1
+NextPart
+instrument=Strings
+OctavesBefore
+1/4
+4/4
+R*23
+,#4 - - - ,,7
+,3 - - - ,,6
+,2 - - - ,,5
+,#1 - - - ,,#4
+,#4 - - - ,,7
+,3 - - - ,,6
+,2 - - - ,,5
+,#1 - - - ,,#4
+,#4 - - - ,,7
+,3 - - - ,,6
+,2 - - - ,,5
+,#1 - - - ,,#4
+,#4 - - - ,,7
+,3 - - - ,,6
+,2 - - - ,,5
+,#1 - - - ,,#4
+,#4 - - - ,,7
+,3 - - - ,,6
+,2 - - - ,,5
+,#1 - - - ,,#4
+,#4 - - - ,,7
+,3 - - - ,,6
+,2 - - - ,,5
+,#1 - - - ,,#4
+,#4 - - - ,,7
+,3 - - - ,,6
+,2 - - - ,,5
+,#1 - - - ,,#4
+,#4 - - - ,,7
+,3 - - - ,,6
+,2 - - - ,,5
+,#1 - - - ,,#4
+,2 - ,,5 ,3 - ,,6
+,#4 - - - ,,7 ,3 ,,6
+,2 - ,,5 ,3 - ,,6
+,#4 - - - ,,7 ,3 ,,6
+,2 - ,,5 ,3 - ,,6
+,#4 - - - ,,7 ,3 ,,6
+,2 - ,,5 ,3 - ,,6
+,#4 - - - ,,7 ,3 ,,6
+,#2 - - - ,,#5
+,#1 - - - ,,#4
+,,7 - - - ,,3
+,,#6 - - - ,,#2
+,#2 - - - ,,#5
+,#1 - - - ,,#4
+,,7 - - - ,,3
+,,#6 - - - ,,#2
+,#2 - - - ,,#5
+,#1 - - - ,,#4
+,,7 - - - ,,3
+,,#6 - - - ,,#2
+,#2 - - - ,,#5
+,#1 - - - ,,#4
+,,7 - - - ,,3
+,,#6 - - - ,,#2
+,3 - - - ,,6
+,2 - - - ,,5
+,1 - - - ,,4
+,,7 - - - ,,3
+,3 - - - ,,6
+,2 - - - ,,5
+,1 - - - ,,4
+,,7 - - - ,,3
+,3 - - - ,,6
+,2 - - - ,,5
+,1 - - - ,,4
+,,7 - - - ,,3
+,3 - - - ,,6
+,2 - - - ,,5
+,1 - - - ,,4
+,,7 - - - ,,3
+,#3 - - - ,,#6
+,#2 - - - ,,#5
+,#1 - - - ,,#4
+,1 - - - ,,4
+,#3 - - - ,,#6
+,#2 - - - ,,#5
+,#1 - - - ,,#4
+,1 - - - ,,4
+,#3 - - - ,,#6
+,#2 - - - ,,#5
+,#1 - - - ,,#4
+,1 - - - ,,4
+,#3 - - - ,,#6
+,#2 - - - ,,#5
+,#1 - - - ,,#4
+,1 - - - ,,4
+,#4 - - - ,,7
+,3 - - - ,,6
+,2 - - - ,,5
+,#1 - - - ,,#4
+,#4 - - - ,,7
+,3 - - - ,,6
+,2 - - - ,,5
+,#1 - - - ,,#4
+,#4 - - - ,,7
+,3 - - - ,,6
+,2 - - - ,,5
+,#1 - - - ,,#4
+,#4 - - - ,,7
+,3 - - - ,,6
+,2 - - - ,,5
+,#1 - - - ,,#4
+NextPart
+instrument=Slap Bass
+OctavesBefore
+1/4
+4/4
+R*15
+,,,5 ,,,5 ,,,6 ,,,6
+,,,7 ,,,7 ,,,7 ,,,6
+,,,5 ,,,5 ,,,6 ,,,6
+,,,7 ,,,7 ,,,7 ,,,6
+s,,,5 s,,,5 s,,2 s,,,5 s,,,5 s,,2 s,,,5 s,,,5 s,,,6 s,,,6 s,,3 s,,,6 s,,,6 s,,3 s,,,6 s,,,6
+s,,,7 s,,,7 s,,#4 s,,,7 s,,,7 s,,,7 s,,#4 s,,,7 s,,,7 s,,,7 s,,#4 s,,,7 s,,,6 s,,3 s,,,6 s,,,6
+s,,,5 s,,,5 s,,2 s,,,5 s,,,5 s,,2 s,,,5 s,,,5 s,,,6 s,,,6 s,,3 s,,,6 s,,,6 s,,3 s,,,6 s,,,6
+s,,,7 s,,,7 s,,#4 s,,,7 s,,,7 s,,,7 s,,#4 s,,,7 s,,,7 s,,,7 s,,#4 s,,,7 s,,,6 s,,3 s,,,6 s,,,6
+,,,6 ,,,7 ,,,7 ,,,7 ,,,7
+,,,6 ,,,6 ,,,6 ,,,6
+,,,5 ,,,5 ,,,5 ,,,5
+,,,#4 ,,,#4 ,,,#4 ,,,#4
+,,,7 ,,,7 ,,,7 ,,,7
+,,,6 ,,,6 ,,,6 ,,,6
+,,,5 ,,,5 ,,,5 ,,,5
+,,,#4 ,,,#4 ,,,#4 ,,,#4
+,,,7 ,,,7 ,,,7 ,,,7
+,,,6 ,,,6 ,,,6 ,,,6
+,,,5 ,,,5 ,,,5 ,,,5
+,,,#4 ,,,#4 ,,,#4 ,,,#4
+,,,7 ,,,7 ,,,7 ,,,7
+,,,6 ,,,6 ,,,6 ,,,6
+,,,5 ,,,5 ,,,5 ,,,5
+,,,#4 ,,,#4 ,,,#4 ,,,#4
+,,,7 ,,,7 ,,,7 ,,,7
+,,,6 ,,,6 ,,,6 ,,,6
+,,,5 ,,,5 ,,,5 ,,,5
+,,,#4 ,,,#4 ,,,#4 ,,,#4
+,,,7 ,,,7 ,,,7 ,,,7
+,,,6 ,,,6 ,,,6 ,,,6
+,,,5 ,,,5 ,,,5 ,,,5
+,,,#4 ,,,#4 ,,,#4 ,,,#4
+,,,7 ,,,7 ,,,7 ,,,7
+,,,6 ,,,6 ,,,6 ,,,6
+,,,5 ,,,5 ,,,5 ,,,5
+,,,#4 ,,,#4 ,,,#4 ,,,#4
+,,,7 ,,,7 ,,,7 ,,,7
+,,,6 ,,,6 ,,,6 ,,,6
+,,,5 ,,,5 ,,,5 ,,,5
+,,,#4 ,,,#4 ,,,#4 ,,,#4
+,,,5 - ,,,6 -
+,,,7 - - - ,,,6
+,,,5 - ,,,6 -
+,,,7 - - - ,,,6
+,,,5 - ,,,6 -
+,,,7 - - - ,,,6
+,,,5 - ,,,6 -
+,,,7 - - - ,,,6
+R*16
+,,,6 ,,,6 ,,,6 ,,,6
+,,,5 ,,,5 ,,,5 ,,,5
+,,,4 ,,,4 ,,,4 ,,,4
+,,,3 ,,,3 ,,,3 ,,,3
+,,,6 ,,,6 ,,,6 ,,,6
+,,,5 ,,,5 ,,,5 ,,,5
+,,,4 ,,,4 ,,,4 ,,,4
+,,,3 ,,,3 ,,,3 ,,,3
+,,,6 ,,,6 ,,,6 ,,,6
+,,,5 ,,,5 ,,,5 ,,,5
+,,,4 ,,,4 ,,,4 ,,,4
+,,,3 ,,,3 ,,,3 ,,,3
+,,,6 ,,,6 ,,,6 ,,,6
+,,,5 ,,,5 ,,,5 ,,,5
+,,,4 ,,,4 ,,,4 ,,,4
+,,,3 ,,,3 ,,,3 ,,,3
+,,,#6 ,,,#6 ,,,#6 ,,,#6
+,,,#5 ,,,#5 ,,,#5 ,,,#5
+,,,#4 ,,,#4 ,,,#4 ,,,#4
+,,,4 ,,,4 ,,,4 ,,,4
+,,,#6 ,,,#6 ,,,#6 ,,,#6
+,,,#5 ,,,#5 ,,,#5 ,,,#5
+,,,#4 ,,,#4 ,,,#4 ,,,#4
+,,,4 ,,,4 ,,,4 ,,,4
+,,,#6 ,,,#6 ,,,#6 ,,,#6
+,,,#5 ,,,#5 ,,,#5 ,,,#5
+,,,#4 ,,,#4 ,,,#4 ,,,#4
+,,,4 ,,,4 ,,,4 ,,,4
+,,,#6 ,,,#6 ,,,#6 ,,,#6
+,,,#5 ,,,#5 ,,,#5 ,,,#5
+,,,#4 ,,,#4 ,,,#4 ,,,#4
+,,,4 ,,,#3 ,,,#3 ,,,#3
+,,,7 - - -
+,,,6 - - -
+,,,5 - - -
+,,,#4 - - -
+,,,7 - - -
+,,,6 - - -
+,,,5 - - -
+,,,#4 - - -
+,,,7 - - -
+,,,6 - - -
+,,,5 - - -
+,,,#4 - - -
+,,,7 - - -
+,,,6 - - -
+,,,5 - - -
+,,,#4 - - -
+NextPart
+instrument=Pick Bass
+OctavesBefore
+1/4
+4/4
+R*15
+q,,,5 q,,5 q,,,5 q,,5 q,,,6 q,,6 q,,,6 q,,6
+q,,,7 q,,7 q,,,7 q,,7 q,,,7 q,,7 q,,,6 q,,6
+q,,,5 q,,5 q,,,5 q,,5 q,,,6 q,,6 q,,,6 q,,6
+q,,,7 q,,7 q,,,7 q,,7 q,,,7 q,,7 q,,,6 q,,6
+32/16
+s,,5 s,,5 s,2 s,,5 s,,5 s,2 s,,5 s,2 s,,5 s,,6 s,,6 s,3 s,,6 s,,6 s,3 s,,6 s,3 ,,,5 ,,,5 ,,,6 ,,,6
+s,,7 ,,,7 s,,7 s,#4 s,,7 s,,7 s,#4 s,,7 s,#4 s,,7 s,,7 s,#4 s,,7 s,,6 s,3 s,,6 s,3 ,,,7 ,,,7 ,,,6
+s,,5 ,,,5 s,,5 s,2 s,,5 s,,5 s,2 s,,5 s,2 s,,6 s,,6 s,3 s,,6 s,,6 s,3 s,,6 s,3 ,,,5 ,,,6 ,,,6
+s,,7 ,,,7 s,,7 s,#4 s,,7 s,,7 s,#4 s,,7 s,#4 s,,7 s,,7 s,#4 s,,7 s,,6 s,3 s,,6 s,3 ,,,7 ,,,7 ,,,6
+q,,,7 q,,7 q,,,7 q,,7 q,,,7 q,,7 q,,,7 q,,7
+q,,,6 q,,6 q,,,6 q,,6 q,,,6 q,,6 q,,,6 q,,6
+q,,,5 q,,5 q,,,5 q,,5 q,,,5 q,,5 q,,,5 q,,5
+q,,,#4 q,,#4 q,,,#4 q,,#4 q,,,#4 q,,#4 q,,,#4 q,,#4
+q,,,7 q,,7 q,,,7 q,,7 q,,,7 q,,7 q,,,7 q,,7
+q,,,6 q,,6 q,,,6 q,,6 q,,,6 q,,6 q,,,6 q,,6
+q,,,5 q,,5 q,,,5 q,,5 q,,,5 q,,5 q,,,5 q,,5
+q,,,#4 q,,#4 q,,,#4 q,,#4 q,,,#4 q,,#4 q,,,#4 q,,#4
+q,,,7 q,,7 q,,,7 q,,7 q,,,7 q,,7 q,,,7 q,,7
+q,,,6 q,,6 q,,,6 q,,6 q,,,6 q,,6 q,,,6 q,,6
+q,,,5 q,,5 q,,,5 q,,5 q,,,5 q,,5 q,,,5 q,,5
+q,,,#4 q,,#4 q,,,#4 q,,#4 q,,,#4 q,,#4 q,,,#4 q,,#4
+q,,,7 q,,7 q,,,7 q,,7 q,,,7 q,,7 q,,,7 q,,7
+q,,,6 q,,6 q,,,6 q,,6 q,,,6 q,,6 q,,,6 q,,6
+q,,,5 q,,5 q,,,5 q,,5 q,,,5 q,,5 q,,,5 q,,5
+q,,,#4 q,,#4 q,,,#4 q,,#4 q,,,#4 q,,#4 q,,,#4 q,,#4
+q,,,7 q,,7 q,,,7 q,,7 q,,,7 q,,7 q,,,7 q,,7
+q,,,6 q,,6 q,,,6 q,,6 q,,,6 q,,6 q,,,6 q,,6
+q,,,5 q,,5 q,,,5 q,,5 q,,,5 q,,5 q,,,5 q,,5
+q,,,#4 q,,#4 q,,,#4 q,,#4 q,,,#4 q,,#4 q,,,#4 q,,#4
+q,,,7 q,,7 q,,,7 q,,7 q,,,7 q,,7 q,,,7 q,,7
+q,,,6 q,,6 q,,,6 q,,6 q,,,6 q,,6 q,,,6 q,,6
+q,,,5 q,,5 q,,,5 q,,5 q,,,5 q,,5 q,,,5 q,,5
+q,,,#4 q,,#4 q,,,#4 q,,#4 q,,,#4 q,,#4 q,,,#4 q,,#4
+q,,,7 q,,7 q,,,7 q,,7 q,,,7 q,,7 q,,,7 q,,7
+q,,,6 q,,6 q,,,6 q,,6 q,,,6 q,,6 q,,,6 q,,6
+q,,,5 q,,5 q,,,5 q,,5 q,,,5 q,,5 q,,,5 q,,5
+q,,,#4 q,,#4 q,,,#4 q,,#4 q,,,#4 q,,#4 q,,,#4 q,,#4
+q,,,7 q,,7 q,,,7 q,,7 q,,,7 q,,7 q,,,7 q,,7
+q,,,6 q,,6 q,,,6 q,,6 q,,,6 q,,6 q,,,6 q,,6
+q,,,5 q,,5 q,,,5 q,,5 q,,,5 q,,5 q,,,5 q,,5
+q,,,#4 q,,#4 q,,,#4 q,,#4 q,,,#4 q,,#4 q,,,#4 q,,#4
+,,5 - ,,,5 ,,6 - ,,,6
+,,7 - - - ,,,7 ,,6 ,,,6
+,,5 - ,,,5 ,,6 - ,,,6
+,,7 - - - ,,,7 ,,6 ,,,6
+,,5 - ,,,5 ,,6 - ,,,6
+,,7 - - - ,,,7 ,,6 ,,,6
+,,5 - ,,,5 ,,6 - ,,,6
+,,7 - - - ,,,7 ,,6 ,,,6
+R*16
+q,,,6 q,,6 q,,,6 q,,6 q,,,6 q,,6 q,,,6 q,,6
+q,,,5 q,,5 q,,,5 q,,5 q,,,5 q,,5 q,,,5 q,,5
+q,,,4 q,,4 q,,,4 q,,4 q,,,4 q,,4 q,,,4 q,,4
+q,,,3 q,,3 q,,,3 q,,3 q,,,3 q,,3 q,,,3 q,,3
+q,,,6 q,,6 q,,,6 q,,6 q,,,6 q,,6 q,,,6 q,,6
+q,,,5 q,,5 q,,,5 q,,5 q,,,5 q,,5 q,,,5 q,,5
+q,,,4 q,,4 q,,,4 q,,4 q,,,4 q,,4 q,,,4 q,,4
+q,,,3 q,,3 q,,,3 q,,3 q,,,3 q,,3 q,,,3
+q,,,6 q,,6 q,,,6 q,,6 q,,,6 q,,6 q,,,6 q,,6
+q,,,5 q,,5 q,,,5 q,,5 q,,,5 q,,5 q,,,5 q,,5
+q,,,4 q,,4 q,,,4 q,,4 q,,,4 q,,4 q,,,4 q,,4
+q,,,3 q,,3 q,,,3 q,,3 q,,,3 q,,3 q,,,3 q,,3
+q,,,6 q,,6 q,,,6 q,,6 q,,,6 q,,6 q,,,6 q,,6
+q,,,5 q,,5 q,,,5 q,,5 q,,,5 q,,5 q,,,5 q,,5
+q,,,4 q,,4 q,,,4 q,,4 q,,,4 q,,4 q,,,4 q,,4
+q,,,3 q,,3 q,,,3 q,,3 q,,,3 q,,3 q,,,3
+q,,,#6 q,,#6 q,,,#6 q,,#6 q,,,#6 q,,#6 q,,,#6 q,,#6
+q,,,#5 q,,#5 q,,,#5 q,,#5 q,,,#5 q,,#5 q,,,#5 q,,#5
+q,,,#4 q,,#4 q,,,#4 q,,#4 q,,,#4 q,,#4 q,,,#4 q,,#4
+q,,,4 q,,4 q,,,4 q,,4 q,,,4 q,,4 q,,,4 q,,#3
+q,,,#6 q,,#6 q,,,#6 q,,#6 q,,,#6 q,,#6 q,,,#6 q,,#6
+q,,,#5 q,,#5 q,,,#5 q,,#5 q,,,#5 q,,#5 q,,,#5 q,,#5
+q,,,#4 q,,#4 q,,,#4 q,,#4 q,,,#4 q,,#4 q,,,#4 q,,#4
+q,,,4 q,,4 q,,,4 q,,4 q,,,4 q,,4 q,,,4
+q,,,#6 q,,#6 q,,,#6 q,,#6 q,,,#6 q,,#6 q,,,#6 q,,#6
+q,,,#5 q,,#5 q,,,#5 q,,#5 q,,,#5 q,,#5 q,,,#5 q,,#5
+q,,,#4 q,,#4 q,,,#4 q,,#4 q,,,#4 q,,#4 q,,,#4 q,,#4
+q,,,4 q,,4 q,,,4 q,,4 q,,,4 q,,4 q,,,4 q,,#3
+q,,,#6 q,,#6 q,,,#6 q,,#6 q,,,#6 q,,#6 q,,,#6 q,,#6
+q,,,#5 q,,#5 q,,,#5 q,,#5 q,,,#5 q,,#5 q,,,#5 q,,#5
+q,,,#4 q,,#4 q,,,#4 q,,#4 q,,,#4 q,,#4 q,,,#4 q,,#4
+q,,,4 q,,4 q,,,#3 q,,#3 q,,,4 q,,4 q,,,#3
+,,7 - - - ,,,7
+,,6 - - - ,,,6
+,,5 - - - ,,,5
+,,#4 - - - ,,,#4
+,,7 - - - ,,,7
+,,6 - - - ,,,6
+,,5 - - - ,,,5
+,,#4 - - - ,,,#4
+,,7 - - - ,,,7
+,,6 - - - ,,,6
+,,5 - - - ,,,5
+,,#4 - - - ,,,#4
+,,7 - - - ,,,7
+,,6 - - - ,,,6
+,,5 - - - ,,,5
+,,#4 - - - ,,,#4
+NextPart
+instrument=Drums
+OctavesBefore
+1/4
+4/4
+R*4
+d,#1
+R*5
+d,#1
+R*1
+d,#1
+R*1
+d,,1 d,,1 d,,1 d,,3 d,,3 d,,1 d,,3 d,,3 d,,1 d,,3
+d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3
+d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d,,3 d'#2 d,,#4,,1
+d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3
+d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,1 d,,1 d'#2 d,,#4,,3 d,,3 d,,3 d,,3 d'#2 d,,#4,,3 d,,3 d,,1 d'#2 d,,#4,,1
+d'#2 d,,#4,,1 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,1 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,1 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,1 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4,,3
+d'#2 d,,#4,,1 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,1 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,1 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,1 d'#2 d,,#4,,3 d'#2 d,,#4,,3 d'#2 d,,#4,,1
+d'#2 d,,#4,,1 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,1 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,1 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,1 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4,,3
+d'#2 d,#1,,#4,,3 d'#2 d,,#4,,1 d'#2 d,,#4,,1 d'#2 d,#1,,#4,,3 d'#2 d,,#4,,1 d'#2 d,,#4,,1 d'#2 d,#1,,#4,,3 d'#2 d,,#4,,1 d'#2 d,,#4,,3 d'#2 d,,#4,,3 d'#2 d,,#4,,3 d'#2 d,,#4,,3 d'#2 d,#1,,#4,,3 d'#2 d,,#4,,1 d'#2 d,,#4,,3 d'#2 d,,#4,,3
+d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3
+d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d,,3 d'#2 d,,#4,,1
+d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,,#7 d,,3 d'#2 d,,#4,,,#7 d,,3
+d'#2 d,,#4,,,#7 d,,3 d'#2 d,,#4,,,#7 d,,,#7 d,,,#7 d'#2 d,,#4,,3 d,,3 d,,3 d,,3 d'#2 d,,#4,,3 d,,3 d,,1 d'#2 d,,#4,,1
+d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3
+d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d,,3 d'#2 d,,#4,,1
+d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,,#7 d,,3 d'#2 d,,#4,,,#7 d,,3
+d'#2 d,,#4,,,#7 d,,3 d'#2 d,,#4,,,#7 d,,,#7 d,,,#7 d'#2 d,,#4,,3 d,,3 d,,3 d,,3 d'#2 d,,#4,,3 d,,3 d,,,#7 d'#2 d,,#4,,,#7
+d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4,,3
+d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4,,3 d'#2 d,,#4,,3 d'#2 d,,#4,,,#7
+d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4,,3
+d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4,,,#7 d'#2 d,,#4,,3 d'#2 d,,#4,,3 d'#2 d,,#4,,3 d'#2 d,,#4,,3 d'#2 d,,#4,,3 d'#2 d,,#4,,3 d'#2 d,,#4,,,#7 d'#2 d,,#4,,,#7
+d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,1 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4,,3
+d'#2 d,,#4,,1 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,1 d'#2 d,,#4,,3 d'#2 d,,#4,,3 d'#2 d,,#4,,,#7
+d'#2 d,,#4,,1 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4,,3
+d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4,,,#7 d'#2 d,,#4,,3 d'#2 d,,#4,,3 d'#2 d,,#4,,3 d'#2 d,,#4,,3 d'#2 d,,#4,,3 d'#2 d,,#4,,3 d'#2 d,,#4,,,#7 d'#2 d,,#4,,1
+d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3
+d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d,,3 d'#2 d,,#4,,1
+d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,,#7 d,,3 d'#2 d,,#4,,,#7 d,,3
+d'#2 d,,#4,,,#7 d,,3 d'#2 d,,#4,,,#7 d,,,#7 d,,,#7 d'#2 d,,#4,,3 d,,3 d,,3 d,,3 d'#2 d,,#4,,3 d,,3 d,,,#7 d'#2 d,,#4,,1
+d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3
+d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d,,3 d'#2 d,,#4,,1
+d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,,#7 d,,3
+d'#2 d,,#4,,,#7 d,,3 d'#2 d,,#4,,,#7 d,,,#7 d,,,#7 d'#2 d,,#4,,3 d,,3 d,,3 d,,3 d'#2 d,,#4,,3 d,,3 d,,,#7 d'#2 d,,#4,,,#7
+d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4,,3
+d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4,,3 d'#2 d,,#4,,3 d'#2 d,,#4,,,#7
+d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4,,3
+d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4,,,#7 d'#2 d,,#4,,3 d'#2 d,,#4,,3 d'#2 d,,#4,,3 d'#2 d,,#4,,3 d'#2 d,,#4,,3 d'#2 d,,#4,,3 d'#2 d,,#4,,,#7 d'#2 d,,#4,,,#7
+d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,1 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4,,3
+d'#2 d,,#4,,1 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,1 d'#2 d,,#4,,3 d'#2 d,,#4,,3 d'#2 d,,#4,,1
+d'#2 d,,#4,,1 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4,,3
+d'#2 d,#1,,#4,,3 d'#2 d,,#4,,,#7 d'#2 d,,#4,,,#7 d'#2 d,#1,,#4,,3 d'#2 d,,#4,,,#7 d'#2 d,,#4,,,#7 d'#2 d,#1,,#4,,3 d'#2 d,,#4,,,#7 d'#2 d,,#4,,3 d'#2 d,,#4,,3 d'#2 d,,#4,,3 d'#2 d,,#4,,3 d'#2 d,#1,,#4,,3 d'#2 d,,#4,,1 d'#2 d,,#4,,3 d'#2 d,,#4,,3
+d,,1 d,,1 d,,1 d,,1
+d,,1 d,,1 d,,1 d,,1
+d,,1 d,,1 d,,1 d,,1
+d,,1 d,,1 d,,1 d,,1 d'#2 d,,#4 d'#2 d,,#4 d'#2 d,,#4
+d,,1 d'#2 d,,#4 d'#2 d,,#4 d'#2 d,,#4 d,,1 d'#2 d,,#4 d'#2 d,,#4 d'#2 d,,#4 d,,,#7 d'#2 d,,#4 d'#2 d,,#4 d'#2 d,,#4 d,,,#7 d'#2 d,,#4 d'#2 d,,#4 d'#2 d,,#4
+d,,1 d'#2 d,,#4 d'#2 d,,#4 d'#2 d,,#4 d,,1 d'#2 d,,#4 d'#2 d,,#4 d'#2 d,,#4 d,,1 d'#2 d,,#4 d'#2 d,,#4 d'#2 d,,#4 d,,1 d'#2 d,,#4 d'#2 d,,#4 d'#2 d,,#4
+d,,1 d'#2 d,,#4 d'#2 d,,#4 d'#2 d,,#4 d,,1 d'#2 d,,#4 d'#2 d,,#4 d'#2 d,,#4 d,,,#7 d'#2 d,,#4 d'#2 d,,#4 d'#2 d,,#4 d,,,#7 d'#2 d,,#4 d'#2 d,,#4 d'#2 d,,#4
+d,,1 d'#2 d,,#4 d'#2 d,,#4 d'#2 d,,#4 d,,1 d'#2 d,,#4 d'#2 d,,#4 d'#2 d,,#4 d,,1 d'#2 d,,#4 d'#2 d,,#4 d'#2 d,,#4 d,,,#7 d'#2 d,,#4 d'#2 d,,#4 d'#2 d,,#4
+d,#1
+R*3
+d,#1
+R*3
+d,#1
+R*3
+d,#1
+d,#1
+d,#1
+d,#1 d,,3 d,,,#7 d,,1 d,#1 d,,3 d,,1 d,,1 d,#1 d,,3 d,,1 d,,3 d,,3 d,,3 d,,3 d,#1 d,,3 d,,1 d,,3 d,,3
+d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3
+d'b3 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d,,3 d'#2 d,,#4,,1
+d'b3 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3
+d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d,,3 d'#2 d,,#4,,1
+d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3
+d'b3 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d,,3 d'#2 d,,#4,,1
+d'b3 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3
+d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,1 d,,1 d'#2 d,,#4,,3 d,,3 d,,3 d,,3 d'#2 d,,#4,,3 d,,3 d,,1 d'#2 d,,#4,,1
+d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3
+d'b3 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d,,3 d'#2 d,,#4,,1
+d'b3 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3
+d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,1 d,,1 d'#2 d,,#4,,3 d,,3 d,,3 d,,3 d'#2 d,,#4,,3 d,,3 d,,1 d'#2 d,,#4,,1
+d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3
+d'b3 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d,,3 d'#2 d,,#4,,1
+d'b3 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3 d'#2 d,,#4,,1 d,,3
+d'#2 d,,#4,,3 d,,1 d,,1 d,,3 d'#2 d,,#4,,1 d,,1 d,,3 d,,1 d'#2 d,,#4,,3 d,,3 d,,3 d,,3 d'#2 d,,#4,,3 d,,,#7 d,,3 d,,3
+d'#2 d,#1,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4,,3
+d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4,,3 d'#2 d,,#4,,3 d'#2 d,,#4,,,#7
+d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4,,3
+d'#2 d,,#4,,1 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,1 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,1 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4,,3 d'#2 d,,#4,,3 d'#2 d,,#4,,,#7
+d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4,,3
+d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4,,3 d'#2 d,,#4,,3 d'#2 d,,#4,,,#7
+d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,1 d'#2 d,,#4 d'#2 d,,#4,,3 d'b3 d,,#4,,3
+d,b2 d,,1 d,,1 d,,1 d,,1 d,,3 d,,3 d,,1 d,,3 d,,3 d,,,#7 d,,3
+d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4,,3
+d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4,,3 d'#2 d,,#4,,3 d'#2 d,,#4,,,#7
+d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4,,3
+d'#2 d,,#4,,1 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,1 d'#2 d,,#4 d'#2 d,,#4,,1 d'#2 d,,#4,,1 d'#2 d,,#4,,3 d'#2 d,,#4,,3 d'#2 d,,#4,,3 d'#2 d,,#4,,3 d'#2 d,,#4,,3 d'#2 d,,#4,,3 d'#2 d,,#4,,,#7 d'#2 d,,#4,,,#7
+d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4,,3
+d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4,,3 d'#2 d,,#4,,3 d'#2 d,,#4,,,#7
+d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4 d'#2 d,,#4,,,#7 d'#2 d,,#4 d'#2 d,,#4,,3 d'#2 d,,#4,,3
+d'#2 d,#1,,#4,,3 d'#2 d,,#4,,1 d'#2 d,,#4,,1 d'#2 d,#1,,#4,,3 d'#2 d,,#4,,1 d'#2 d,,#4,,,#7 d'#2 d,#1,,#4,,3 d'#2 d,,#4,,1 d'#2 d,,#4,,3 d'#2 d,,#4,,3 d'#2 d,,#4,,3 d'#2 d,,#4,,3 d'#2 d,#1,,#4,,3 d'#2 d,,#4,,1 d'#2 d,,#4,,3 d'#2 d,,#4,,3
+d,#1
+R*3
+d,#1
+R*3
+d,#1
+R*3
+d,#1
+d,#1
+d,#1 d,,1 d,,1 d,,1 d,,3 d,,3 d,,,#7 d,,3 d,,3 d,,,#7 d,,3
+d,,3 d,,,#7 d,,,#7 d,,3 d,,1 d,,1 d,,3 d,,1 d,,3 d,,3 d,,3 d,,3 d,,3 d,,1 d,,3 s,,3
+NextPart
+instrument=Saw
+OctavesBefore
+1/4
+4/4
+R*39
+s7 s'#1 s'2 s#4 s'3 s'2 s'#1 s'2 s'2 s#4 s'#1 s#4 s'#1 s#4 s'3 s'#4
+s7 s'#1 s'2 s#4 s'3 s'2 s'#1 s'2 s'2 s#4 s'#1 s#4 s'#1 s#4 s'#1 s6
+s7 s'#1 s'2 s#4 s'3 s'2 s'#1 s'2 s'2 s#4 s'#1 s#4 s'#1 s#4 s'3 s'#4
+s'#1 s7 s#6 s'#4 s#1 s,7 s,#6 s#4 s'#1 s'#4 s'#6 s'#1 s'#4 s'#6 s'7 s''#1
+s'2 s'3 s'#4 s'7 s'#4 s'3 s'2 s'#1 s'2 s'3 s'#4 s''#1 s''2 s''#1 s'7 s'#4
+s'2 s'3 s'#4 s'7 s'#4 s'3 s'2 s'#1 s'2 s'3 s'#4 s''#1 s''#1 s''2 s''#1 s'#4
+s'2 s'3 s'#4 s'7 s'#4 s'3 s'2 s'#1 s'2 s'3 s'#4 s''#1 s''2 s''#1 s'7 s'#4
+s'#6 s'#4 s'3 s'2 s''#1 s'7 s'#6 s'#4 s''3 s''2 s''#1 s''2 s'#6 s'#4 s'3 s'2
+s7 s'#1 s'2 s#4 s'3 s'2 s'#1 s'2 s'2 s#4 s'#1 s#4 s'#1 s#4 s'3 s'#4
+s7 s'#1 s'2 s#4 s'3 s'2 s'#1 s'2 s'2 s#4 s'#1 s#4 s'#1 s#4 s'#1 s6
+s7 s'#1 s'2 s#4 s'3 s'2 s'#1 s'2 s'2 s#4 s'#1 s#4 s'#1 s#4 s'3 s'#4
+s'#1 s7 s#6 s'#4 s#1 s,7 s,#6 s#4 s'#1 s'#4 s'#6 s'#1 s'#4 s'#6 s'7 s''#1
+s'2 s'3 s'#4 s'7 s'#4 s'3 s'2 s'#1 s'2 s'3 s'#4 s''#1 s''2 s''#1 s'7 s'#4
+s'2 s'3 s'#4 s'7 s'#4 s'3 s'2 s'#1 s'2 s'3 s'#4 s''#1 s''#1 s''2 s''#1 s'#4
+s'2 s'3 s'#4 s'7 s'#4 s'3 s'2 s'#1 s'2 s'3 s'#4 s''#1 s''2 s''#1 s'7 s'#4
+s'#6 s'#4 s'3 s'2 s''#1 s'7 s'#6 s'#4 s''3 s''2 s''#1 s''2 s'#6 s'#4 s'3 s'2
+NextPart
+instrument=FM5
+OctavesBefore
+1/4
+4/4
+R*14
+'#1 #1
+q''2 q'7 q''2 q'7 q''#4 q''2 q''3 q''#1
+q''2 q'7 q''2 q'7 q''2 q'7 q''2 q'7
+q''2 q'7 q''2 q'7 q''#4 q''2 q''3 q''#1
+q''2 q'7 q''2 q'7 q''2 q'7 q''2 q'7
+q''2 q'7 q''2 q'7 q''#4 q''2 q''3 q''#1
+q''2 q'7 q''2 q'7 q''2 q'7 q''2 q'7
+q''2 q'7 q''2 q'7 q''#4 q''2 q''3 q''#1
+q''2 q'7 q''2 q'7 q''2 q'7 q''2 q'7
+R*32
+q''2 q'7 q''2 q'7 q''#4 q''2 q''3 q''#1
+q''2 q'7 q''2 q'7 q''2 q'7 q''2 q'7
+q''2 q'7 q''2 q'7 q''#4 q''2 q''3 q''#1
+q''2 q'7 q''2 q'7 q''2 q'7 q''2 q'7
+q''2 q'7 q''2 q'7 q''#4 q''2 q''3 q''#1
+q''2 q'7 q''2 q'7 q''2 q'7 q''2 q'7
+q''2 q'7 q''2 q'7 q''#4 q''2 q''3 q''#1
+q''2 q'7 q''2 q'7 q''2 q'7 q''2 q'7
+NextPart
+instrument=FM4
+OctavesBefore
+1/4
+4/4
+R*55
+s7 s'#1 s'2 s#4 s'3 s'2 s'#1 s'2 s'2 s#4 s'#1 s#4 s'#1 s#4 s'3 s'#4
+s7 s'#1 s'2 s#4 s'3 s'2 s'#1 s'2 s'2 s#4 s'#1 s#4 s'#1 s#4 s'#1 s6
+s7 s'#1 s'2 s#4 s'3 s'2 s'#1 s'2 s'2 s#4 s'#1 s#4 s'#1 s#4 s'3 s'#4
+s7 s'#1 s'2 s#4 s'3 s'2 s'#1 s'2 s'2 s#4 s'#1 s#4 s'#1 s#4 s'#1 s6
+s'2 s'3 s'#4 s'7 s'#4 s'3 s'2 s'#1 s'2 s'3 s'#4 s''#1 s''2 s''#1 s'7 s'#4
+s'2 s'3 s'#4 s'7 s'#4 s'3 s'2 s'#1 s'2 s'3 s'#4 s''#1 s''#1 s''2 s''#1 s'#4
+s'2 s'3 s'#4 s'7 s'#4 s'3 s'2 s'#1 s'2 s'3 s'#4 s''#1 s''2 s''#1 s'7 s'#4
+s'2 s'3 s'#4 s'7 s'#4 s'3 s'2 s'#1 s'2 s'3 s'#4 s''#1 s''#1 s''2 s''#1 s'#4
+NextPart
+instrument=Loud Square
+OctavesBefore
+1/4
+4/4
+R*111
+s7 s'#1 s'2 s#4 s'3 s'2 s'#1 s'2 s'2 s#4 s'#1 s#4 s'#1 s#4 s'3 s'#4
+s7 s'#1 s'2 s#4 s'3 s'2 s'#1 s'2 s'2 s#4 s'#1 s#4 s'#1 s#4 s'#1 s6
+s7 s'#1 s'2 s#4 s'3 s'2 s'#1 s'2 s'2 s#4 s'#1 s#4 s'#1 s#4 s'3 s'#4
+s'#1 s7 s#6 s'#4 s#1 s,7 s,#6 s#4 s'#1 s'#4 s'#6 s'#1 s'#4 s'#6 s'7 s''#1
+s'2 s'3 s'#4 s'7 s'#4 s'3 s'2 s'#1 s'2 s'3 s'#4 s''#1 s''2 s''#1 s'7 s'#4
+s'2 s'3 s'#4 s'7 s'#4 s'3 s'2 s'#1 s'2 s'3 s'#4 s''#1 s''#1 s''2 s''#1 s'#4
+s'2 s'3 s'#4 s'7 s'#4 s'3 s'2 s'#1 s'2 s'3 s'#4 s''#1 s''2 s''#1 s'7 s'#4
+s'#6 s'#4 s'3 s'2 s''#1 s'7 s'#6 s'#4 s''3 s''2 s''#1 s''2 s'#6 s'#4 s'3 s'2
+s7 s'#1 s'2 s#4 s'3 s'2 s'#1 s'2 s'2 s#4 s'#1 s#4 s'#1 s#4 s'3 s'#4
+s7 s'#1 s'2 s#4 s'3 s'2 s'#1 s'2 s'2 s#4 s'#1 s#4 s'#1 s#4 s'#1 s6
+s7 s'#1 s'2 s#4 s'3 s'2 s'#1 s'2 s'2 s#4 s'#1 s#4 s'#1 s#4 s'3 s'#4
+s'#1 s7 s#6 s'#4 s#1 s,7 s,#6 s#4 s'#1 s'#4 s'#6 s'#1 s'#4 s'#6 s'7 s''#1
+s'2 s'3 s'#4 s'7 s'#4 s'3 s'2 s'#1 s'2 s'3 s'#4 s''#1 s''2 s''#1 s'7 s'#4
+s'2 s'3 s'#4 s'7 s'#4 s'3 s'2 s'#1 s'2 s'3 s'#4 s''#1 s''#1 s''2 s''#1 s'#4
+s'2 s'3 s'#4 s'7 s'#4 s'3 s'2 s'#1 s'2 s'3 s'#4 s''#1 s''2 s''#1 s'7 s'#4
+s'#6 s'#4 s'3 s'2 s''#1 s'7 s'#6 s'#4 s''3 s''2 s''#1 s''2 s'#6 s'#4 s'3 s'2
+%END

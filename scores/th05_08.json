@@ -1,0 +1,30 @@
+{
+    "70489a2e-43e2-36a8-8c20-42b91f1ebbce": {
+        "file": "th05_08.txt",
+        "type": "work",
+        "title": "メイプルワイズ",
+        "usertag": [
+            "th05"
+        ],
+        "tagroute": [
+            "东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th05"
+        ],
+        "tag": [
+            "th05",
+            "东方怪绮谈",
+            "东方",
+            "touhou",
+            "东方原曲",
+            "ZUN",
+            "东方旧作原曲",
+            "东方整数作原曲"
+        ],
+        "alias": [
+            "Maple Wise"
+        ],
+        "copyright": [
+            "TouhouMIDICreator",
+            "ZUN"
+        ]
+    }
+}

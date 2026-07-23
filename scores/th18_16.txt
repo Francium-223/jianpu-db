@@ -1,0 +1,880 @@
+%th18_16.txt
+MBID=655927db-7546-46cb-a84a-637d9b7e4dbf
+title=嵐の後の日曜日
+type=work
+tag=th18,东方虹龙洞,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
+usertag=th18
+tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th18
+alias=风暴过后的星期日
+copyright=Karl Zuñiga
+%---
+%------th18_16.txt_Karl Zuñiga.buf------
+instrument=TG3 (Bösendorfer 290 Close)
+OctavesBefore
+3/4
+qb3 qb6 qb7 q'b2 qb7 qb6
+b3 -
+qb3 qb6 qb7 q'b2 qb7 q'b2
+'b3 -
+qb3 qb6 qb7 q'b2 qb7 qb6
+b3 -
+qb3 qb6 qb7 q'b2 qb7 q'b2
+'b3 q'b3 q'b5 q'4 q'b2
+13/16
+qb3 qb6 qb7 d6 qb7 qb6 q'b2
+b3 -
+qb3 qb6 qb7 q'b2 qb7 q'b2
+'b3 -
+qb3 qb6 qb7 d6 qb7 qb6 q'b2
+b3 -
+qb3 qb6 qb7 q'b2 qb7 q'b2
+'b3 q'b3 q'b5 q'4 q'b2
+5/4
+qb3 q,b7 qb6 q4 qb7 b5 - q'b2 qb7 sb6. d6
+qb7 b3 - q'b2 'b3
+qb3 q,b7 qb6 q4 qb7 b5 - s'b2. d6 qb7 q'b2
+'b3 qb7 q'b3 q'b2 qb6
+qb3 q,b7 qb6 q4 qb7 b5 - q'b2 qb7 sb6. d6
+qb7 b3 - q'b2 'b3
+qb3 q,b7 qb6 q4 qb7 b5 - s'b2. d6 qb7 q'b2
+'b3 q'b3 q'b5 q'4 q'b2
+qb3 qb1 qb6 q4 qb7 b5 - q'b2 qb7 sb6. d6
+qb7 b3 - q'b2 'b3
+qb3 qb1 qb6 q4 qb7 b5 - s'b2. d6 qb7 q'b2
+'b3 qb7 q'b3 q'b2 qb6
+qb3 qb1 qb6 q4 qb7 b5 - q'b2 qb7 sb6. d6
+qb7 b3 - q'b2 'b3
+qb3 q,b6 qb6 q4 qb7 b5 - s'b2. d6 qb7 q'b2
+'b3 q'b3 qb7 q'b5 q'b3 q'4 q'b2 q'b2 qb6
+qb3 qb6 qb7 q'b2 qb7 qb6
+b3 -
+qb3 qb6 qb7 q'b2 qb7 q'b2
+'b3 -
+qb3 qb6 qb7 q'b2 qb7 qb6
+b3 -
+qb3 qb6 qb7 q'b2 qb7 q'b2
+'b3 q'b3 q'b5 q'4 q'b2
+qb3 qb6 qb7 db7 qb7 qb6 q'b2
+b3 -
+qb3 qb6 qb7 q'b2 qb7 q'b2
+'b3 -
+qb3 qb6 qb7 d6 qb7 qb6 q'b2
+b3 -
+qb3 qb6 qb7 q'b2 qb7 q'b2
+'b3 q'b3 q'b5 q'4 q'b2
+qb3 q,b7 qb6 q4 qb7 b5 - q'b2 qb7 sb6. d6
+qb7 b3 - q'b2 'b3
+qb3 q,b7 qb6 q4 qb7 b5 - s'b2. d6 qb7 q'b2
+'b3 qb7 q'b3 q'b2 qb6
+qb3 q,b7 qb6 q4 qb7 b5 - q'b2 qb7 sb6. d6
+qb7 b3 - q'b2 'b3
+qb3 q,b7 qb6 q4 qb7 b5 - s'b2. d6 qb7 q'b2
+'b3 q'b3 q'b5 q'4 q'b2
+qb3 qb1 qb6 q4 qb7 b5 - q'b2 qb7 sb6. d6
+qb7 b3 - q'b2 'b3
+qb3 qb1 qb6 q4 qb7 b5 - s'b2. d6 qb7 q'b2
+'b3 qb7 q'b3 q'b2 qb6
+qb3 qb1 qb6 q4 qb7 b5 - q'b2 qb7 sb6. d6
+qb7 b3 - q'b2 'b3
+qb3 q,b6 qb6 q4 qb7 b5 - s'b2. d6 qb7 q'b2
+'b3 q'b3 qb7 q'b5 q'b3 q'4 q'b2 q'b2 qb6
+qb3 qb6 qb7 q'b2 qb7 qb6
+b3 -
+qb3 qb6 qb7 q'b2 qb7 q'b2
+'b3 -
+qb3 qb6 qb7 q'b2 qb7 qb6
+b3 -
+qb3 qb6 qb7 q'b2 qb7 q'b2
+'b3 q'b3 q'b5 q'4 q'b2
+qb3 qb6 qb7 db7 qb7 qb6 q'b2
+b3 -
+qb3 qb6 qb7 q'b2 qb7 q'b2
+'b3 -
+qb3 qb6 qb7 d6 qb7 qb6 q'b2
+b3 -
+qb3 qb6 qb7 q'b2 qb7 q'b2
+'b3 q'b3 q'b5 q'4 q'b2
+qb3 q,b7 qb6 q4 qb7 b5 - q'b2 qb7 sb6. d6
+qb7 b3 - q'b2 'b3
+qb3 q,b7 qb6 q4 qb7 b5 - s'b2. d6 qb7 q'b2
+'b3 qb7 q'b3 q'b2 qb6
+qb3 q,b7 qb6 q4 qb7 b5 - q'b2 qb7 sb6. d6
+qb7 b3 - q'b2 'b3
+qb3 q,b7 qb6 q4 qb7 b5 - s'b2. d6 qb7 q'b2
+'b3 q'b3 q'b5 q'4 q'b2
+qb3 qb1 qb6 q4 qb7 b5 - q'b2 qb7 sb6. d6
+qb7 b3 - q'b2 'b3
+qb3 qb1 qb6 q4 qb7 b5 - s'b2. d6 qb7 q'b2
+'b3 qb7 q'b3 q'b2 qb6
+qb3 qb1 qb6 q4 qb7 b5 - q'b2 qb7 sb6. d6
+qb7 b3 - q'b2 'b3
+qb3 q,b6 qb6 q4 qb7 b5 - s'b2. d6 qb7 q'b2
+'b3 q'b3 qb7 q'b5 q'b3 q'4 q'b2 q'b2 qb6
+qb3 qb6 qb7 q'b2 qb7 qb6
+b3 -
+qb3 qb6 qb7 q'b2 qb7 q'b2
+'b3 -
+qb3 qb6 qb7 q'b2 qb7 qb6
+b3 -
+qb3 qb6 qb7 q'b2 qb7 q'b2
+'b3 q'b3 q'b5 q'4 q'b2
+qb3 qb6 qb7 db7 qb7 qb6 q'b2
+b3 -
+qb3 qb6 qb7 q'b2 qb7 q'b2
+'b3 -
+qb3 qb6 qb7 d6 qb7 qb6 q'b2
+b3 -
+qb3 qb6 qb7 q'b2 qb7 q'b2
+'b3 q'b3 q'b5 q'4 q'b2
+NextPart
+instrument=TG3 (Bösendorfer 290 Close)
+OctavesBefore
+3/4
+R*15
+qb2 qb1
+R*16
+24/16
+,b6 - - - ,b3 - -
+R*1
+,b5 - - - ,b3 - -
+R*1
+,4 - - - ,b3 - -
+R*1
+,b5 - - - ,b3 - -
+4 - -
+,b5 - - - b5 - - ,b3
+R*1
+,b6 - - - ,b2 - - b6
+R*1
+,b5 - - - b5 - - ,b1
+R*1
+,4 - - - ,b3 - - 4
+,4 - qb2 qb1
+R*16
+,b6 - - - ,b3 - -
+R*1
+,b5 - - - ,b3 - -
+R*1
+,4 - - - ,b3 - -
+R*1
+,b5 - - - ,b3 - -
+4 - -
+,b5 - - - b5 - - ,b3
+R*1
+,b6 - - - ,b2 - - b6
+R*1
+,b5 - - - b5 - - ,b1
+R*1
+,4 - - - ,b3 - - 4
+,4 - qb2 qb1
+R*16
+,b6 - - - ,b3 - -
+R*1
+,b5 - - - ,b3 - -
+R*1
+,4 - - - ,b3 - -
+R*1
+,b5 - - - ,b3 - -
+4 - -
+,b5 - - - b5 - - ,b3
+R*1
+,b6 - - - ,b2 - - b6
+R*1
+,b5 - - - b5 - - ,b1
+R*1
+,4 - - - ,b3 - - 4
+,4 - qb2 qb1
+NextPart
+instrument=Realguitar Classic (Steel String 12(14)-String A)
+OctavesBefore
+3/4
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,b1.
+,b5 - - ,b3,b1.
+,b5 - - ,b3,b1.
+,b5 - - ,b3,b1.
+,4 - - ,b3,b1.
+,4 - - ,b3,b1.
+,4 - - ,b3,b1.
+,4 - - ,b3,b1.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,b1.
+,b5 - - ,b3,b1.
+,b5 - - ,b3,b1.
+,b5 - - ,b3,b1.
+,4 - - ,b3,b1.
+,4 - - ,b3,b1.
+,4 - - ,b3,b1.
+,4 - - ,b3,b1.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,b1.
+,b5 - - ,b3,b1.
+,b5 - - ,b3,b1.
+,b5 - - ,b3,b1.
+,4 - - ,b3,b1.
+,4 - - ,b3,b1.
+,4 - - ,b3,b1.
+,4 - - ,b3,b1.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+,b5 - - ,b3,,b7.
+NextPart
+instrument=Olympus Choir Elements (Marcato Ah)
+OctavesBefore
+3/4
+R*32
+b3 - - ,b6
+b3 - ,b6
+b3 - - ,b5
+b3 - ,b5
+b3 - - ,4
+b3 - ,4
+b3 - - ,b5
+4 - - ,b5
+b5 - - ,b5
+b5 - ,b5
+b6 - - ,b6
+b6 - ,b6
+b5 - - ,b5
+b5 - ,b5
+4 - - ,4
+b3 - ,4
+R*16
+b3 - - ,b6
+b3 - ,b6
+b3 - - ,b5
+b3 - ,b5
+b3 - - ,4
+b3 - ,4
+b3 - - ,b5
+4 - - ,b5
+b5 - - ,b5
+b5 - ,b5
+b6 - - ,b6
+b6 - ,b6
+b5 - - ,b5
+b5 - ,b5
+4 - - ,4
+b3 - ,4
+R*16
+b3 - - ,b6
+b3 - ,b6
+b3 - - ,b5
+b3 - ,b5
+b3 - - ,4
+b3 - ,4
+b3 - - ,b5
+4 - - ,b5
+b5 - - ,b5
+b5 - ,b5
+b6 - - ,b6
+b6 - ,b6
+b5 - - ,b5
+b5 - ,b5
+4 - - ,4
+b3 - ,4
+NextPart
+instrument=SD-90 (Slow Strings)
+OctavesBefore
+3/4
+''b3 - - 'b6'b3b7b6b3.
+''b3 - - 'b7'b6'b3b7b6b3.
+''b3 - - 'b6'b3b7b6b3.
+''b3 - - 'b7'b6'b3b7b6b3.
+''b3 - - 'b6'b3b7b6b3.
+''b3 - - 'b7'b6'b3b7b6b3.
+''b3 - - 'b6'b3b7b6b3.
+''b2 - - 'b6'b3b7b6b3.
+'b7 - - 'b5'b3b7b5b3.
+'b7 - - 'b5'b3b7b5b3.
+'b7 - - 'b5'b3b7b5b3.
+'b7 - - 'b5'b3b7b5b3.
+'b6 - - 'b5'b3b7b5b3.
+'b6 - - 'b5'b3b7b5b3.
+'b6 - - '4'b3b74b3.
+''b2 - - 'b6'4'b3b74b3.
+'b3 - - b7b6b3.
+'b3 - - b7b6b3.
+'b3 - - b7b6b3.
+'b3 - - b7b6b3.
+'b3 - - b7b6b3.
+'b3 - - b7b6b3.
+'b3 - - b7b6b3.
+'b3 - - b7b6b3.
+'b3 - - 'b1b6b3.
+'b3 - - 'b1b6b3.
+'b3 - - 'b1b6b3.
+'b3 - - 'b1b6b3.
+'4 - - 'b1b64.
+'4 - - 'b1b64.
+'4 - - 'b1b64.
+'b3 - - b7b6b3.
+''b3 - - 'b6'b3b7b6b3.
+''b3 - - 'b7'b6'b3b7b6b3.
+''b3 - - 'b6'b3b7b6b3.
+''b3 - - 'b7'b6'b3b7b6b3.
+''b3 - - 'b6'b3b7b6b3.
+''b3 - - 'b7'b6'b3b7b6b3.
+''b3 - - 'b6'b3b7b6b3.
+''b2 - - 'b6'b3b7b6b3.
+'b7 - - 'b5'b3b7b5b3.
+'b7 - - 'b5'b3b7b5b3.
+'b7 - - 'b5'b3b7b5b3.
+'b7 - - 'b5'b3b7b5b3.
+'b6 - - 'b5'b3b7b5b3.
+'b6 - - 'b5'b3b7b5b3.
+'b6 - - '4'b3b74b3.
+''b2 - - 'b6'4'b3b74b3.
+'b3 - - b7b6b3.
+'b3 - - b7b6b3.
+'b3 - - b7b6b3.
+'b3 - - b7b6b3.
+'b3 - - b7b6b3.
+'b3 - - b7b6b3.
+'b3 - - b7b6b3.
+'b3 - - b7b6b3.
+'b3 - - 'b1b6b3.
+'b3 - - 'b1b6b3.
+'b3 - - 'b1b6b3.
+'b3 - - 'b1b6b3.
+'4 - - 'b1b64.
+'4 - - 'b1b64.
+'4 - - 'b1b64.
+'b3 - - b7b6b3.
+''b3 - - 'b6'b3b7b6b3.
+''b3 - - 'b7'b6'b3b7b6b3.
+''b3 - - 'b6'b3b7b6b3.
+''b3 - - 'b7'b6'b3b7b6b3.
+''b3 - - 'b6'b3b7b6b3.
+''b3 - - 'b7'b6'b3b7b6b3.
+''b3 - - 'b6'b3b7b6b3.
+''b2 - - 'b6'b3b7b6b3.
+'b7 - - 'b5'b3b7b5b3.
+'b7 - - 'b5'b3b7b5b3.
+'b7 - - 'b5'b3b7b5b3.
+'b7 - - 'b5'b3b7b5b3.
+'b6 - - 'b5'b3b7b5b3.
+'b6 - - 'b5'b3b7b5b3.
+'b6 - - '4'b3b74b3.
+''b2 - - 'b6'4'b3b74b3.
+'b3 - - b7b6b3.
+'b3 - - b7b6b3.
+'b3 - - b7b6b3.
+'b3 - - b7b6b3.
+'b3 - - b7b6b3.
+'b3 - - b7b6b3.
+'b3 - - b7b6b3.
+'b3 - - b7b6b3.
+'b3 - - 'b1b6b3.
+'b3 - - 'b1b6b3.
+'b3 - - 'b1b6b3.
+'b3 - - 'b1b6b3.
+'4 - - 'b1b64.
+'4 - - 'b1b64.
+'4 - - 'b1b64.
+'b3 - - b7b6b3.
+''b3 - - 'b6'b3b7b6b3.
+''b3 - - 'b7'b6'b3b7b6b3.
+''b3 - - 'b6'b3b7b6b3.
+''b3 - - 'b7'b6'b3b7b6b3.
+''b3 - - 'b6'b3b7b6b3.
+''b3 - - 'b7'b6'b3b7b6b3.
+''b3 - - 'b6'b3b7b6b3.
+''b2 - - 'b6'b3b7b6b3.
+'b7 - - 'b5'b3b7b5b3.
+'b7 - - 'b5'b3b7b5b3.
+'b7 - - 'b5'b3b7b5b3.
+'b7 - - 'b5'b3b7b5b3.
+'b6 - - 'b5'b3b7b5b3.
+'b6 - - 'b5'b3b7b5b3.
+'b6 - - '4'b3b74b3.
+''b2 - - 'b6'4'b3b74b3.
+NextPart
+instrument=SD-90 (St.Strings)
+OctavesBefore
+3/4
+R*12
+b5 - -
+b5 - -
+4 - -
+b3 - -
+'b3 - - b7b6b3,b7.
+'b3 - - b7b6b3,b7.
+'b3 - - b7b6b3,b7.
+'b3 - - b7b6b3,b7.
+'b3 - - b7b6b3,b7.
+'b3 - - b7b6b3,b7.
+'b3 - - b7b6b3,b7.
+'b3 - - b7b6b3,b7.
+'b3 - - 'b1b6b3b1.
+'b3 - - 'b1b6b3b1.
+'b3 - - 'b1b6b3b1.
+'b3 - - 'b1b6b3b1.
+'4 - - 'b1b64b1.
+'4 - - 'b1b64b1.
+'4 - - 'b1b64b1.
+'b3 - - b7b6b3,b7.
+R*12
+b5 - -
+b5 - -
+4 - -
+b3 - -
+'b3 - - b7b6b3,b7.
+'b3 - - b7b6b3,b7.
+'b3 - - b7b6b3,b7.
+'b3 - - b7b6b3,b7.
+'b3 - - b7b6b3,b7.
+'b3 - - b7b6b3,b7.
+'b3 - - b7b6b3,b7.
+'b3 - - b7b6b3,b7.
+'b3 - - 'b1b6b3b1.
+'b3 - - 'b1b6b3b1.
+'b3 - - 'b1b6b3b1.
+'b3 - - 'b1b6b3b1.
+'4 - - 'b1b64b1.
+'4 - - 'b1b64b1.
+'4 - - 'b1b64b1.
+'b3 - - b7b6b3,b7.
+R*12
+b5 - -
+b5 - -
+4 - -
+b3 - -
+'b3 - - b7b6b3,b7.
+'b3 - - b7b6b3,b7.
+'b3 - - b7b6b3,b7.
+'b3 - - b7b6b3,b7.
+'b3 - - b7b6b3,b7.
+'b3 - - b7b6b3,b7.
+'b3 - - b7b6b3,b7.
+'b3 - - b7b6b3,b7.
+'b3 - - 'b1b6b3b1.
+'b3 - - 'b1b6b3b1.
+'b3 - - 'b1b6b3b1.
+'b3 - - 'b1b6b3b1.
+'4 - - 'b1b64b1.
+'4 - - 'b1b64b1.
+'4 - - 'b1b64b1.
+'b3 - - b7b6b3,b7.
+R*12
+b5 - -
+b5 - -
+4 - -
+b3 - -
+NextPart
+instrument=Trilian (Hardcore Finger)
+OctavesBefore
+3/4
+,,b3 - -
+,,b3 - -
+,,b3 - -
+,,b3 -
+,,b3 - -
+,,b3 - -
+,,b3 - -
+,,b3 -
+,,b3 - -
+,,b3 - -
+,,b3 - -
+,,b3 -
+,,b3 - -
+,,b3 - -
+,,b3 - -
+,,b3 -
+,,b3 - -
+,,b3 - -
+,,b3 - -
+,,b3 -
+,,b3 - -
+,,b3 - -
+,,b3 - -
+,,b3 -
+,,b3 - -
+,,b3 - -
+,,b3 - -
+,,b3 -
+,,b3 - -
+,,b3 - -
+,,b3 - -
+,,b3 -
+,,b3 - -
+,,b3 - -
+,,b3 - -
+,,b3 -
+,,b3 - -
+,,b3 - -
+,,b3 - -
+,,b3 -
+,,b3 - -
+,,b3 - -
+,,b3 - -
+,,b3 -
+,,b3 - -
+,,b3 - -
+,,b3 - -
+,,b3 -
+,,b3 - -
+,,b3 - -
+,,b3 - -
+,,b3 -
+,,b3 - -
+,,b3 - -
+,,b3 - -
+,,b3 -
+,,b3 - -
+,,b3 - -
+,,b3 - -
+,,b3 -
+,,b3 - -
+,,b3 - -
+,,b3 - -
+,,b3 -
+,,b3 - -
+,,b3 - -
+,,b3 - -
+,,b3 -
+,,b3 - -
+,,b3 - -
+,,b3 - -
+,,b3 -
+,,b3 - -
+,,b3 - -
+,,b3 - -
+,,b3 -
+,,b3 - -
+,,b3 - -
+,,b3 - -
+,,b3 -
+,,b3 - -
+,,b3 - -
+,,b3 - -
+,,b3 -
+,,b3 - -
+,,b3 - -
+,,b3 - -
+,,b3 -
+,,b3 - -
+,,b3 - -
+,,b3 - -
+,,b3 -
+,,b3 - -
+,,b3 - -
+,,b3 - -
+,,b3 -
+,,b3 - -
+,,b3 - -
+,,b3 - -
+,,b3 -
+,,b3 - -
+,,b3 - -
+,,b3 - -
+,,b3 -
+,,b3 - -
+,,b3 - -
+,,b3 - -
+,,b3 -
+,,b3 - -
+,,b3 - -
+,,b3 - -
+,,b3 -
+NextPart
+instrument=HALion Sonic [Zilhouette]
+OctavesBefore
+3/4
+'b7 - -
+'b7 - -
+'b7 - -
+'b7 - -
+'b7 - -
+'b7 - -
+'b7 - -
+''b2 - -
+'b7 - -
+'b7 - -
+'b7 - -
+'b7 - -
+b5 - -
+b5 - -
+4 - -
+b3 - -
+'b3 - - ,b7
+'b3 - - ,b7
+'b3 - - ,b7
+'b3 - - ,b7
+'b3 - - ,b7
+'b3 - - ,b7
+'b3 - - ,b7
+'b3 - - ,b7
+'b3 - - b1
+'b3 - - b1
+'b3 - - b1
+'b3 - - b1
+'4 - - b1
+'4 - - b1
+'4 - - b1
+'b3 - - ,b7
+'b7 - -
+'b7 - -
+'b7 - -
+'b7 - -
+'b7 - -
+'b7 - -
+'b7 - -
+''b2 - -
+'b7 - -
+'b7 - -
+'b7 - -
+'b7 - -
+b5 - -
+b5 - -
+4 - -
+b3 - -
+'b3 - - ,b7
+'b3 - - ,b7
+'b3 - - ,b7
+'b3 - - ,b7
+'b3 - - ,b7
+'b3 - - ,b7
+'b3 - - ,b7
+'b3 - - ,b7
+'b3 - - b1
+'b3 - - b1
+'b3 - - b1
+'b3 - - b1
+'4 - - b1
+'4 - - b1
+'4 - - b1
+'b3 - - ,b7
+'b7 - -
+'b7 - -
+'b7 - -
+'b7 - -
+'b7 - -
+'b7 - -
+'b7 - -
+''b2 - -
+'b7 - -
+'b7 - -
+'b7 - -
+'b7 - -
+b5 - -
+b5 - -
+4 - -
+b3 - -
+'b3 - - ,b7
+'b3 - - ,b7
+'b3 - - ,b7
+'b3 - - ,b7
+'b3 - - ,b7
+'b3 - - ,b7
+'b3 - - ,b7
+'b3 - - ,b7
+'b3 - - b1
+'b3 - - b1
+'b3 - - b1
+'b3 - - b1
+'4 - - b1
+'4 - - b1
+'4 - - b1
+'b3 - - ,b7
+'b7 - -
+'b7 - -
+'b7 - -
+'b7 - -
+'b7 - -
+'b7 - -
+'b7 - -
+''b2 - -
+'b7 - -
+'b7 - -
+'b7 - -
+'b7 - -
+b5 - -
+b5 - -
+4 - -
+b3 - -
+NextPart
+instrument=GA5 (Elementics)
+OctavesBefore
+3/4
+d,,b7 d,,b7
+d,,b7
+R*2
+d,,b7 d,,b7
+d,,b7
+R*1
+d,b2
+d,,b7 d,,b7
+d,,b7
+R*2
+d,,b7 d,,b7
+d,,b7
+R*1
+d,b2
+d,,b7 d,,b7
+d,,b7
+R*2
+d,,b7 d,,b7
+d,,b7
+R*1
+d,b2
+d,,b7 d,,b7
+d,,b7
+R*2
+d,,b7 d,,b7
+d,,b7
+R*1
+d,b2
+d,,b7 d,,b7
+d,,b7
+R*2
+d,,b7 d,,b7
+d,,b7
+R*1
+d,b2
+d,,b7 d,,b7
+d,,b7
+R*2
+d,,b7 d,,b7
+d,,b7
+R*1
+d,b2
+d,,b7 d,,b7
+d,,b7
+R*2
+d,,b7 d,,b7
+d,,b7
+R*1
+d,b2
+d,,b7 d,,b7
+d,,b7
+R*2
+d,,b7 d,,b7
+d,,b7
+R*1
+d,b2
+d,,b7 d,,b7
+d,,b7
+R*2
+d,,b7 d,,b7
+d,,b7
+R*1
+d,b2
+d,,b7 d,,b7
+d,,b7
+R*2
+d,,b7 d,,b7
+d,,b7
+R*1
+d,b2
+d,,b7 d,,b7
+d,,b7
+R*2
+d,,b7 d,,b7
+d,,b7
+R*1
+d,b2
+d,,b7 d,,b7
+d,,b7
+R*2
+d,,b7 d,,b7
+d,,b7
+R*1
+d,b2
+d,,b7 d,,b7
+d,,b7
+R*2
+d,,b7 d,,b7
+d,,b7
+R*1
+d,b2
+d,,b7 d,,b7
+d,,b7
+R*2
+d,,b7 d,,b7
+d,,b7
+R*1
+d,b2
+%END

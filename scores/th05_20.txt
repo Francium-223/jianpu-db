@@ -1,0 +1,117 @@
+%th05_20.txt
+MBID=f32290f5-389d-4a60-aa5a-8e50d5419791
+title=久遠の楽園
+type=work
+tag=th05,东方怪绮谈,东方,touhou,东方原曲,ZUN,东方旧作原曲,东方整数作原曲
+usertag=th05
+tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th05
+alias=永远的乐园
+copyright=Susumu Takajima
+%---
+%------th05_20.txt_Susumu Takajima.buf------
+instrument=ShortSynth.4.SQWave
+OctavesBefore
+4/4
+LP:\once \override Staff.TimeSignature.stencil = #(lambda (grob) (grob-interpret-markup grob #{ \markup \bold \huge "サ" #}))
+:LP
+9/4
+qb7 qb7 s'4 qb7 qb7 s'4 q'1 q'1 q'2 q'2 q'1 q'1 q'4 q'4 q'2 q'2 q'1 q'1 q'4 q'4 q'2 q'2 q'1 q'1 q'4 q'4 q'2 q'2 q'6 q'6
+LP: \bar "|"
+:LP
+10/4
+s'4 ~ s'4 q5 s6 q'6 q'6 s6 q5 q6 q6 q5 q5 qb7 qb7 q6 q6 q'2 q'2 qb7 qb7 q4 q4 q'2 q'2 q5 q5 q4 q4 q6 q6 q5 q5 q'1 q'1
+s6 ~ s6 qb3 s6 q'1 q'1 s6 qb3 q4 q4 qb3 qb3 q5 q5 q4 q4 qb7 qb7 q5 q5 q4 q4 qb7 qb7 q5 q5 q4 q4 q6 q6 q5 q5 q'1 q'1
+s6 ~ s6 q5 s'2 q'1 q'1 s'2 q5 qb7 qb7 q5 q5 q'2 q'2 qb7 qb7 q'5 q'5 q'2 q'2 q5 q5 q'5 q'5 qb7 qb7 q5 q5 q'2 q'2 qb7 qb7 q'5 q'5
+s'2 ~ s'2 qb7 s'4 q'5 q'5 s'4 qb7 q'1 q'1 qb7 qb7 q'2 q'2 q'1 q'1 q'4 q'4 q'2 q'2 q'1 q'1 q'4 q'4 q'2 q'2 q'1 q'1 q'4 q'4 q'2 q'2 q'6 q'6
+s'4 ~ s'4 q5 s6 q'6 q'6 s6 q5 q6 q6 q5 q5 qb7 qb7 q6 q6 q'2 q'2 qb7 qb7 q4 q4 q'2 q'2 q5 q5 q4 q4 q6 q6 q5 q5 q'1 q'1
+s6 ~ s6 qb3 s6 q'1 q'1 s6 qb3 q4 q4 qb3 qb3 q5 q5 q4 q4 qb7 qb7 q5 q5 q4 q4 qb7 qb7 q5 q5 q4 q4 q6 q6 q5 q5 q'1 q'1
+s6 ~ s6 q5 s'2 q'1 q'1 s'2 q5 qb7 qb7 q5 q5 q'2 q'2 qb7 qb7 q'5 q'5 q'2 q'2 q5 q5 q'5 q'5 qb7 qb7 q5 q5 q'2 q'2 qb7 qb7 q'5 q'5
+s'2 ~ s'2 qb7 s'4 q'5 q'5 s'4 qb7 q'1 q'1 qb7 qb7 q'2 q'2 q'1 q'1 q'4 q'4 q'2 q'2 q'1 q'1 q'4 q'4 q'2 q'2 q'1 q'1 q'4 q'4 q'2 q'2 q'6 q'6
+s'4 ~ s'4 q5 s6 q'6 q'6 s6 q5 q6 q6 q5 q5 qb7 qb7 q6 q6 q'2 q'2 qb7 qb7 q4 q4 q'2 q'2 q5 q5 q4 q4 q6 q6 q5 q5 q'1 q'1
+s6 ~ s6 qb3 s6 q'1 q'1 s6 qb3 q4 q4 qb3 qb3 q5 q5 q4 q4 qb7 qb7 q5 q5 q4 q4 qb7 qb7 q5 q5 q4 q4 q6 q6 q5 q5 q'1 q'1
+s6 ~ s6 q5 s'2 q'1 q'1 s'2 q5 qb7 qb7 q5 q5 q'2 q'2 qb7 qb7 q'5 q'5 q'2 q'2 q5 q5 q'5 q'5 qb7 qb7 q5 q5 q'2 q'2 qb7 qb7 q'5 q'5
+NextPart
+instrument=GrindNoiseLead.1
+OctavesBefore
+4/4
+R*3
+qb7 qb7 q'1
+'2. q'4 '1. q6
+b7. q'2 6 q5 q4
+5 b7 4 b7
+4 sb3 s4 qb3 2 b7
+'2 '4 q'3 q'4 q'5 q'6
+'2 q5 q'1 6 q5 q4
+5 '1 qb7 q6 q5 q4
+5 qb7 qb7 q'1
+'2 - '1 '4
+qb7. q'1. q'b2 q'b2. q'b3. q'4
+'b3. '2. 'b7
+qb7. q'1. q'b2 q'b3. q'4. q'b6
+'4 qb7 q'1 q'b2
+qb7. q'1. q'b2 q'b2. q'b3. q'4
+'b3. '2. 'b7
+qb7. q'1. q'b2 q'b3. q'4. q'b6
+'b7 - - -
+q'b7. q''1. q''b2 q''b2. q''b3. q''4
+''b3. ''2. ''b7
+qb7. q'1. q'b2 q'b2. q'b3. q'4
+'b3. '2. 'b7
+q,b7. q1. qb2 qb2. qb3. q4
+s1 s2 s4 b7 -
+b7 -
+NextPart
+instrument=MewSynthLead.13
+OctavesBefore
+4/4
+R*4
+LP:\once \override Staff.TimeSignature.stencil = #(lambda (grob) (grob-interpret-markup grob #{ \markup \bold \huge "サ" #}))
+:LP
+8/4
+,b7 - 4 - - - 1 -
+LP: \bar "|"
+:LP
+2 - ,5 1 - ,4
+,b3 - ,b7 - - - ,2 -
+,6 - ,1 ,b7 - ,2
+,b7 - 4 - - - 1 -
+2 - ,5 1 - ,4
+,b7 - ,b3 1 - ,4
+,b7 - - - ,5
+4 - - - ,b7
+b2 - ,b5 b3 - ,b6
+4 - - - ,b7
+b2 - ,b5 b3 - ,b6
+4 - - - ,b7
+b2 - ,b5 b3 - ,b6
+4 - - - ,b7
+b2 - ,b5 b3 - ,b6
+4 - - - ,b7
+'b2 - b5 'b3 - b6
+'4 - - - b7
+b2 - ,b5 b3 - ,b6
+4 - - - ,b7
+,b2 - ,,b5 ,b3 - ,,b6
+,4 - ,,b7
+,4 - ,,b7
+NextPart
+instrument=ÿBell-voice
+OctavesBefore
+4/4
+R*12
+'2 - '1 '4
+b7 q'1. g['b2] q'b3. '4
+'b3 - '2 - 'b7
+b7 q'1. 'b2 'b3 q'4. 'b6
+'4 - - - b7 q'1 q'b2 b7
+b7 q'1. g['b2] q'b3. q'4 'b3
+'b3 - '2. 'b7 b7
+b7 q'1. q'b2 q'b3. q'4. q'b6
+q''1. g[''b2] q''b3. q''4 ''b3
+''b3 - ''2. ''b7 b7
+b7 q'1. g['b2] q'b3. q'4 'b3
+'b3 - '2. 'b7 ,b7
+,b7 q1. g[b2] qb3. q4
+s1 s2 s4 b7 - - -
+b7 -
+%END
