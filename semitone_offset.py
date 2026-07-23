@@ -73,7 +73,8 @@ def main(argv):
 			outfile = '.'.join(f[:-1]) + '_semitone' + f'{offsetv:+}' + '.' + f[-1]
 		with open(infile, 'r', encoding='utf-8') as f:
 			raw = f.read().split(' ')
-		print((' ').join([(format_note(i, offsetv) if is_note(i) else i) for i in raw]), file=open(outfile, 'w', encoding='utf-8') if outfile else sys.stdout)
+		print((' ').join([(format_note(i, offsetv) if is_note(i) else i) for i in raw]), file=open(outfile, 'w', encoding='utf-8'))
+		print((' ').join([(format_note(i, offsetv) if is_note(i) else i) for i in raw]))
 	except FileNotFoundError:
 		print('Usage:')
 		print('python semitone_offset_py -i [input file] -o [output file] --offset=[offset, default 0]')
