@@ -22,8 +22,6 @@ def safe_add(a, b):
 	for i in b:
 		if not i in c:
 			c.append(i)
-	if c:
-		return c
 	return b
 def safe_minus(a, b):
 	c = []
