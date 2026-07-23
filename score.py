@@ -270,6 +270,7 @@ class Score():
 				if d:
 					print(i.rstrip('\n'), file=f)
 			if not ('').join(self.raw).replace('\n', '').replace('\r', '').lower().endswith('%end'):
+				print('%---', file=f)
 				print('%END', end='', file=f)
 		with open(('.').join(self.score.split('.')[:-1]) + '_buf.json', 'w', encoding='utf-8') as f:
 			self.prioritize_title_and_tag()
