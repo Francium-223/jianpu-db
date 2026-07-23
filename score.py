@@ -22,7 +22,7 @@ def safe_add(a, b):
 	for i in b:
 		if not i in c:
 			c.append(i)
-	return b
+	return c
 def safe_minus(a, b):
 	c = []
 	for i in a:
@@ -91,7 +91,7 @@ class Score():
 		self.mbid = ''
 		self.title = ''
 		self.type = 'work'
-		self.others = {'tag': [], 'usertag': []}
+		self.others = {'tag': [], 'usertag': [], 'tagroute': []}
 		self.comments = []
 	def find_tag(self, n):
 		if n.startswith('!'):
@@ -168,9 +168,10 @@ class Score():
 		b['type'] = self.others['type']
 		b['title'] = self.others['title']
 		b['usertag'] = self.others['usertag']
+		b['tagroute'] = self.others['tagroute']
 		b['tag'] = self.others['tag']
 		for i in self.others.keys():
-			if not i in ['file', 'title', 'tag', 'usertag', 'type']:
+			if not i in ['file', 'title', 'tag', 'usertag', 'type', 'tagroute']:
 				b[i] = self.others[i]
 		self.others = b
 	def makebuf(self):
@@ -219,10 +220,12 @@ class Score():
 					self.origtag = safe_add(self.origtag, [j.strip(' ')])
 					self.find_tag(j.strip(' '))
 			for n in self.all_tag_route:
+				#print(self.tag, n.split('/'))
+				#self.tag = safe_add(self.tag, n.split('/'))
 				for i in equal:
 					for j in i:
 						if same_ends(j.split('/'), n.split('/')):
-							self.tag = safe_add(self.tag, n.split('/'))
+							self.tag = safe_add(self.tag, j.split('/'))
 							break
 			maybetag = safe_minus(self.tag, self.nottag)
 			self.others['usertag'] = []
@@ -233,6 +236,7 @@ class Score():
 				for j in equal:
 					if i in j:
 						self.others['tag'] = safe_add(self.others['tag'], j)
+			self.others['tagroute'] = self.tag_route
 			with open(('.').join(self.score.split('.')[:-1]) + '_buf.txt', 'w', encoding='utf-8') as f:
 				print('%' + self.score.split('/')[-1], file=f)
 				for i in self.comments:

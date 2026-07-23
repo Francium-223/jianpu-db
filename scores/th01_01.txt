@@ -2,9 +2,10 @@
 MBID=52e3b2d1-80ff-35a7-b11f-f9342c08f22d
 title=A Sacred Lot
 type=work
-tag=th01,东方灵异传,东方,东方原曲,ZUN,东方旧作原曲,东方整数作原曲,touhou
+tag=th01,东方灵异传,东方,touhou,东方原曲,ZUN,东方旧作原曲,东方整数作原曲
 usertag=th01
 transcriber=Francium-223
+tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th01
 %--
 4/4
 KeepLength ,6s 3 ,6 2 1 ,7 ,6 3 2 1 ,7 ,5 2 1 5 3 ,6 ,7 1 ,6 3 2 1 2 3 ,6 2 ,6 1 ,6 7 ,6
