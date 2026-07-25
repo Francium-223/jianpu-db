@@ -76,6 +76,14 @@ def goto_node(p):
 	for i in p:
 		a = a[i]
 	return a
+def replacer(match):
+	n_val = int(match.group(1))
+	xxx = match.group(2).strip()
+	a_content = match.group(3)
+	items = [item.strip() for item in a_content.split("|")]
+	if len(items) >= 2 and len(items) == n_val:
+		return " ".join(f"{xxx} {item}" for item in items)
+	return match.group(0)
 class Score():
 	def __init__(self, score):
 		self.score = score
@@ -92,6 +100,7 @@ class Score():
 		self.title = ''
 		self.raw = ''
 		self.raw2 = ''
+		self.raw_expanded = ''
 		self.type = 'work'
 		self.others = {'tag': [], 'usertag': [], 'tagroute': []}
 		self.comments = []
@@ -326,6 +335,13 @@ class Score():
 		except FileNotFoundError:
 			print(f'Error: file \'{self.score}\' not found!')
 			raise
+	import re
+	def expand(self):
+		self.raw_expanded = re.sub(r"R(\d+)\s*\{\s*(.*?)\s*\}\s*A\s*\{\s*(.*?)\s*\}", replacer, text)
+		return self.raw_expanded
+	def write_expand(self):
+		with open(('.').join(self.score.split('.')[:-1]) + '_expand.txt', 'w', encoding='utf-8') as f:
+			print(self.raw_expanded, end='', file=f)
 	def parse(self):
 		try:
 			self.read()
