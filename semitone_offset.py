@@ -32,10 +32,7 @@ def format_note(a, o):
 	h = ''
 	for i in a:
 		if i in '1234567':
-			if not f:
-				f = i
-			else:
-				print('Warning: note is already ' + f + '. Pass.')
+			f += i
 		if i in '\\.':
 			h = h + i
 		if i in 'sqdh':
