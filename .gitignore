@@ -1,3 +1,4 @@
 *.pyc
 __pycache__/
 by_*/
+scores/*.json
