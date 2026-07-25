@@ -35,11 +35,6 @@ jobs:
         run: |
           python parse_scores.py
       - name: Commit and push changes
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: auto-regenerate jsons and links [skip ci]"
-          file_pattern: 'path/to/your_folder/*'
-      - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
