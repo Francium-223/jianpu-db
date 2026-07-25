@@ -8,10 +8,14 @@ tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th01
 alias=The Legend of KAGE
 %---
 subtitle=intro
-KeepLength R{ 3q 6 7 '1 7 6 3 7s '1 7q 6 3 7s '1 7q 6 3 2 4q 6 7 '1 7 6 4 7s '1 7q 6 4 7s '1 7q 6 4 2 }
+KeepLength
+3q 6 7 '1 7 6 3 7s '1 7q 6 3 7s '1 7q 6 3 2 4q 6 7 '1 7 6 4 7s '1 7q 6 4 7s '1 7q 6 4 2
+3q 6 7 '1 7 6 3 7s '1 7q 6 3 7s '1 7q 6 3 2 4q 6 7 '1 7 6 4 7s '1 7q 6 4 7s '1 7q 6 4 2
 NextScore
 subtitle=verse
-KeepLength R{ ,6c - 3. 2s 3 2c - - 1q ,7 ,6q. ,7. 1  } A{ 1q. 5. 2 1c - - - | 2q. ,7. 2 3c - - - }
+KeepLength
+,6c - 3. 2s 3 2c - - 1q ,7 ,6q. ,7. 1 1q. 5. 2 1c - - -
+,6c - 3. 2s 3 2c - - 1q ,7 ,6q. ,7. 1 2q. ,7. 2 3c - - -
 4c - ~ 4q 4 5 4 3q. 2. 1 ~ 1c ,7 - 1q. ,6q. 3q ~ 3c - - ~ 3q 2 1 ,7 1c. ,6c. 3 ~ 3 - - - 1c. ,6c. 2 4q. 2. 4 #5. 3. #5
 NextScore
 subtitle=chorus

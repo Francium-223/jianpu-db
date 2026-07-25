@@ -8,13 +8,18 @@ tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th01
 alias=Highly Responsive to Prayers
 %---
 subtitle=intro
-KeepLength 0q 3 3c 2 3 0q 3 3c 2 3  0q 3 3c 2 3q 4q 0 3c. 4c 5
+KeepLength
+0q 3 3c 2 3 0q 3 3c 2 3  0q 3 3c 2 3q 4q 0 3c. 4c 5
 NextScore
 subtitle=verse
-KeepLength 0q 3 6 '3 '2 '1 7 '1 6 3 7 3 '1 3 7 3 6 3 7 3 '1 3 2 3 '1 3 7 3 6 3 5 3
+KeepLength
+0q 3 6 '3 '2 '1 7 '1 6 3 7 3 '1 3 7 3 6 3 7 3 '1 3 2 3 '1 3 7 3 6 3 5 3
 NextScore
 subtitle=layer
 R3{ 1 - - - ,7 - 2 - 1 - - - ,7 - 2 - } A{ 1 - - -  ,7 - 2 - ,6 - - - 7 - 1 - | 1s 7s 7 1q ~ 1 -  ,7 - 2 - ,6 - - - 3 - - - }
 NextScore
-KeepLength 0q 3 6 '3 '2 '1 7 '1 '1 7 6 3 '1 7 6 3 0q 3 6 '3 '2 '1 7 '1 '1 7 6 3 '1 7 6 3 0q 3 6 '3 '2 '1 7 '1 '1 7 6 3 '2 '1 7 '1 '1 7 6 3 '2 '1 7 '1 '1 7 6 3 ''5 ''4 '3s '2s '1s '7s
+KeepLength
+0q 3 6 '3 '2 '1 7 '1 '1 7 6 3 '1 7 6 3
+0q 3 6 '3 '2 '1 7 '1 '1 7 6 3 '1 7 6 3
+0q 3 6 '3 '2 '1 7 '1 '1 7 6 3 '2 '1 7 '1 '1 7 6 3 '2 '1 7 '1 '1 7 6 3 ''5 ''4 '3s '2s '1s '7s
 %END

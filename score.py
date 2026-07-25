@@ -77,13 +77,19 @@ def goto_node(p):
 		a = a[i]
 	return a
 def replacer(match):
-	n_val = int(match.group(1))
+	n_str = match.group(1)
 	xxx = match.group(2).strip()
 	a_content = match.group(3)
-	items = [item.strip() for item in a_content.split("|")]
-	if len(items) >= 2 and len(items) == n_val:
-		return " ".join(f"{xxx} {item}" for item in items)
-	return match.group(0)
+	if a_content is not None:
+		items = [item.strip() for item in a_content.split("|")]
+		if len(items) >= 2:
+			if n_str and int(n_str) != len(items):
+				return match.group(0)
+			return "\n".join(f"{xxx} {item}" for item in items)
+		return match.group(0)
+	else:
+		repeat_count = int(n_str) if n_str else 2
+		return "\n".join([xxx] * repeat_count)
 class Score():
 	def __init__(self, score):
 		self.score = score
@@ -339,8 +345,8 @@ class Score():
 			print(f'Error: file \'{self.score}\' not found!')
 			raise
 	def expand(self):
-		pattern = r"R(\d+)\s*\{\s*(.*?)\s*\}\s*A\s*\{\s*(.*?)\s*\}"
-		self.raw_expanded = re.sub(pattern, replacer, self.raw2)
+		pattern = r"R(\d*)\s*\{\s*(.*?)\s*\}(?:\s*A\s*\{\s*(.*?)\s*\})?"
+		self.raw_expanded = re.sub(pattern, replacer, self.raw2, flags=re.DOTALL)
 		return self.raw_expanded
 	def write_expand(self):
 		with open(('.').join(self.score.split('.')[:-1]) + '_expand.txt', 'w', encoding='utf-8') as f:
