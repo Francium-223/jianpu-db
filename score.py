@@ -299,11 +299,11 @@ class Score():
 				if i in ['usertag', 'type', 'file']:
 					continue
 				elif i == 'title':
-					if attrib['title'][0] in 'qwertyuioppasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM1234567890':
-						if attrib['title'][1] in 'qwertyuioppasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM1234567890':
-							filename = 'by_title/' + attrib['title'][0].upper() + '/' + attrib['title'][1].upper() + '/' + attrib['title'] + '/' + self.score.split('/')[-1]
+					if attrib['title'].replace(' ', '')[0] in 'qwertyuioppasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM1234567890':
+						if attrib['title'].replace(' ', '')[1] in 'qwertyuioppasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM1234567890':
+							filename = 'by_title/' + attrib['title'].replace(' ', '')[0].upper() + '/' + attrib['title'].replace(' ', '')[1].upper() + '/' + attrib['title'] + '/' + self.score.split('/')[-1]
 						else:
-							filename = 'by_title/' + attrib['title'][0].upper() + '/others/' + attrib['title'] + '/' + self.score.split('/')[-1]
+							filename = 'by_title/' + attrib['title'].replace(' ', '')[0].upper() + '/others/' + attrib['title'] + '/' + self.score.split('/')[-1]
 					else:
 						filename = 'by_title/others/' + attrib['title'] + '/' + self.score.split('/')[-1]
 				elif i == 'mbid':

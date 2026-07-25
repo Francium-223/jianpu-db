@@ -3,6 +3,9 @@ files = os.listdir('scores')
 files = ['scores/' + i for i in files if re.match(r'.*\.txt', i)]
 a = []
 b = {}
+c = [i.name for i in Path('.').iterdir() if i.is_dir() and i.name.startswith('by_')]
+for i in c:
+	shutil.rmtree(i)
 for i in files:
 	a.append(Score(i))
 for i in a:
