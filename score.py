@@ -194,6 +194,7 @@ class Score():
 		try:
 			with open(self.score, 'r', encoding='utf-8') as f:
 				self.raw = f.readlines()
+				self.raw2 = f.read()
 			for i in get_meta_lines(self.raw):
 				i = i.rstrip('\n')
 				if i.replace(' ', '').startswith('%--'):
@@ -281,6 +282,8 @@ class Score():
 			if not ('').join(self.raw).replace('\n', '').replace('\r', '').lower().endswith('%end'):
 				print('%---', file=f)
 				print('%END', end='', file=f)
+		with open(('.').join(self.score.split('.')[:-1]) + '_buf.txt', 'r', encoding='utf-8') as f:
+			self.raw2 = f.read()
 		with open(('.').join(self.score.split('.')[:-1]) + '_buf.json', 'w', encoding='utf-8') as f:
 			self.prioritize_title_and_tag()
 			json.dump({self.mbid : self.others}, f, indent=4, ensure_ascii=False)
@@ -335,19 +338,25 @@ class Score():
 		except FileNotFoundError:
 			print(f'Error: file \'{self.score}\' not found!')
 			raise
-	import re
 	def expand(self):
-		self.raw_expanded = re.sub(r"R(\d+)\s*\{\s*(.*?)\s*\}\s*A\s*\{\s*(.*?)\s*\}", replacer, text)
+		pattern = r"R(\d+)\s*\{\s*(.*?)\s*\}\s*A\s*\{\s*(.*?)\s*\}"
+		self.raw_expanded = re.sub(pattern, replacer, self.raw2)
 		return self.raw_expanded
 	def write_expand(self):
 		with open(('.').join(self.score.split('.')[:-1]) + '_expand.txt', 'w', encoding='utf-8') as f:
 			print(self.raw_expanded, end='', file=f)
 	def parse(self):
-		try:
-			self.read()
-			self.process_others()
-			self.write_buf()
-			self.move_buf()
-			self.make_link()
-		except NoScoreError:
-			pass
+		if len(self.score.split('.')) > 1:
+			if self.score.split('.')[-2].endswith('_expand') or self.score.split('.')[-2].endswith('_buf'):
+				pass
+			else:
+				try:
+					self.read()
+					self.process_others()
+					self.write_buf()
+					self.expand()
+					self.write_expand()
+					self.move_buf()
+					self.make_link()
+				except NoScoreError:
+					pass
