@@ -1,4 +1,4 @@
-name: Parse Scores
+name: Parse Scores Metadata
 
 on:
   push:
@@ -29,11 +29,11 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.14'
-      - name: Prepare release metadata
+      - name: Run python parse_scores.py
         id: meta
         shell: bash
         run: |
-          python parse_tags.py
+          python parse_scores.py
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
