@@ -1,6 +1,6 @@
 from score import *
 files = os.listdir('scores')
-files = ['scores/' + i for i in files if re.match(r'.*\.txt', i)]
+files = ['scores/' + i for i in files if re.match(r'^(?!.*(?:_expand|_buf)\.txt$).*\.txt$', i)]
 a = []
 b = {}
 c = [i.name for i in Path('.').iterdir() if i.is_dir() and i.name.startswith('by_')]

@@ -58,7 +58,7 @@ def equal_in(a, b):
 			return True
 	return False
 def equal_tag(a, b):
-	for i in equal:
+	for i in equal[0]:
 		if equal_in(i, a) and equal_in(i, b):
 			return True
 	return False
@@ -114,14 +114,21 @@ class Score():
 		if n.startswith('!'):
 			self.find_nottag(n.lstrip('!'))
 			return
-		for i in equal:
+		for i in equal[0]:
 			for j in i:
 				if same_ends(j.split('/'), n.split('/')):
 					self.tag = safe_add(self.tag, j.split('/'))
 					self.origtag = safe_add(self.origtag, i)
 					break
+		for i in equal[1]:
+			for j in i:
+				if j == n:
+					self.tag = safe_add(self.tag, j.split('/'))
+					self.origtag = safe_add(self.origtag, i)
+					break
 		for i in self.origtag:
 			self.where_imply(i, [])
+		print(self.score, 'tag_route', self.tag_route)
 		maybe_homonym = {}
 		for i in range(len(self.tag_route)):
 			for j in range(i + 1, len(self.tag_route)):
@@ -135,11 +142,18 @@ class Score():
 		for k, v in maybe_homonym.items():
 			warnings.warn(f'Ambiguous term \'{k}\'. You mean \'{('\' or \'').join(set(v))}\'?')
 	def find_nottag(self, n):
-		for i in equal:
-			if n in i:
-				self.nottag = safe_add(self.nottag, i)
-				if n in self.orignottag:
+		for i in equal[0]:
+			for j in i:
+				if same_ends(j.split('/'), n.split('/')):
+					self.nottag = safe_add(self.nottag, j.split('/'))
 					self.orignottag = safe_add(self.orignottag, i)
+					break
+		for i in equal[1]:
+			for j in i:
+				if j == n:
+					self.nottag = safe_add(self.nottag, j.split('/'))
+					self.orignottag = safe_add(self.orignottag, i)
+					break
 		self.nottag = safe_add(self.nottag, [n])
 		for i in self.nottag:
 			self.where_not_imply(i, [])
@@ -203,7 +217,7 @@ class Score():
 				self.raw2 = f.read()
 			for i in get_meta_lines(self.raw):
 				i = i.rstrip('\n')
-				if i.replace(' ', '').startswith('%--'):
+				if i.replace(' ', '').startswith('%--') or i.replace(' ', '').startswith('tag=') or i.replace(' ', '').startswith('tagroute='):
 					continue
 				if i.replace(' ', '').lower().startswith('mbid='):
 					self.mbid = i[i.find('=') + 1:].strip(' ')
@@ -249,22 +263,32 @@ class Score():
 			raise NoScoreError
 	def process_others(self):
 		for n in self.all_tag_route:
-			#print(self.tag, n.split('/'))
 			self.tag = safe_add(self.tag, n.split('/'))
-			for i in equal:
+			for i in equal[0]:
 				for j in i:
 					if same_ends(j.split('/'), n.split('/')):
+						self.tag = safe_add(self.tag, j.split('/'))
+						break
+			for i in equal[1]:
+				for j in i:
+					if j == n:
 						self.tag = safe_add(self.tag, j.split('/'))
 						break
 		maybetag = safe_minus(self.tag, self.nottag)
 		self.others['usertag'] = []
 		for i in self.usertag:
 			self.others['usertag'] = safe_add(self.others['usertag'], [i])
-		for i in maybetag:
-			self.others['tag'] = safe_add(self.others['tag'], [i])
-			for j in equal:
+		self.others['tag'] = safe_add(self.others['tag'], self.others['usertag'])
+		for i in maybetag + self.tag_route:
+			self.others['tag'] = safe_add(self.others['tag'], i.split('/'))
+			for j in equal[0]:
 				if i in j:
-					self.others['tag'] = safe_add(self.others['tag'], j)
+					for k in j:
+						self.others['tag'] = safe_add(self.others['tag'], k.split('/'))
+			for j in equal[1]:
+				if i in j:
+					for k in j:
+						self.others['tag'] = safe_add(self.others['tag'], k.split('/'))
 		self.others['tagroute'] = self.tag_route
 	def write_buf(self):
 		with open(('.').join(self.score.split('.')[:-1]) + '_buf.txt', 'w', encoding='utf-8') as f:
@@ -313,6 +337,8 @@ class Score():
 				file = json.load(f)
 			attrib = file[self.mbid]
 			for i in attrib.keys():
+				if not attrib[i]:
+					continue
 				filename = ''
 				if i in ['usertag', 'type', 'file']:
 					continue

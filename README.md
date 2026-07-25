@@ -109,7 +109,7 @@
 
 文件/标签命名采用“先到先得”的原则。如果命名时发现了冲突/歧义，请将引起歧义的原有命名和你即将采用的命名一并改成**有标记**的名称。
 
-记谱使用[jianpu-ly](https://github.com/ssb22/jianpu-ly/blob/master/README_zh-Hans.md)语言。原则上，只记**具有特征性的，响度最大**的**线性**（不要有重叠的（当然，有一点重叠的话就分两段记下来就行了））旋律。记谱时，以**小调的一度音为`6,`；大调的一度音为`1`**（就是一般人听到这段声音后凭直觉写出来的样子），以此类推为原则。无需记录重复的旋律，如果完全一样的话。同一文件中，不同的旋律之用`NextScore`分割。
+记谱使用[jianpu-ly](https://github.com/ssb22/jianpu-ly/blob/master/README_zh-Hans.md)语言。原则上，只记**具有特征性的，响度最大**的**线性**（不要有重叠的（当然，有一点重叠的话就分两段记下来就行了））旋律。记谱时，以**小调一级记作`,6`；大调一级记作`1`**（就是一般人听到这段声音后凭直觉写出来的样子），以此类推为原则。无需记录重复的旋律，如果完全一样的话。同一文件中，不同的旋律之用`NextScore`分割。
 
 例如，[东方主旋律](https://thbwiki.cc/Theme_of_Eastern_Story)以此规则转写出来是：
 
@@ -122,8 +122,9 @@
 MBID=310b3b07-ec9f-3e88-9fd8-529c17478179
 title=永遠の巫女
 type=work
-tag=th01,东方灵异传,东方,东方原曲,ZUN,东方旧作原曲,东方整数作原曲
+tag=th01,东方灵异传,东方,touhou,东方原曲,ZUN,东方旧作原曲,东方整数作原曲
 usertag=th01
+tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th01
 alias=永远之巫女,永远的巫女
 transcriber=Francium-223
 %--
@@ -132,12 +133,11 @@ subtitle=intro
 6 - - - 4 - - - 5 - - - 3 - - -
 NextScore
 subtitle=verse
-0. 1q 1q 2q 3 R2{ ,6. 1 2q 3 ,6. 1 2q 3 ,6. 1 2q ,7 } A{ ,7. 1. 2q 3q | ,7. 4 4q 3q 2q }
+KeepLength
+0c. 1q 1 2 3c R2{ ,6c. 1 2q 3c ,6. 1 2q 3c ,6. 1 2q ,7c } A{ ,7c. 1. 2q 3 | ,7c. 4 4q 3 2 }
 NextScore
-subtitle=verse
+subtitle=chorus
 R2{ ,7. 1. 2 } A{ ,7 1q ,7 ,6q ,5 ,6. 3. ,6 ,6. 3q ~ 3 - | ,7 1q  2 5q 2 1. ,7. ,6 ,7 1q 2q ~ 2 - }
-NextScore
-subtitle=verse
 R{ 1 - ,7 ,6q ,7q ~ ,7 - ,6 ,5q ,6q ~ ,6 - - - - - ,6 ,7 } R{ 3 - 2 1q 2q ~ 2 - 1 ,7q 1q ~ 1q ,6q ~ ,6 - - - - ,6 ,7 }
 NextScore
 subtitle=outro
@@ -148,17 +148,23 @@ subtitle=outro
 
 |行|解释|
 |---|---|
-|%th01_02.txt|这个文件的**文件名**为`th01_01.txt`。注意所有曲谱都应是`scores`的一级子文件，且统一以“.txt”结尾。**由脚本自动补充**。|
+|%th01_02.txt|这个文件的**文件名**为`th01_01.txt`。注意所有曲谱都应是`scores`的一级子文件，且统一以“.txt”结尾。**由脚本自动补充。**|
 |MBID=310b3b07-ec9f-3e88-9fd8-529c17478179|这首歌在[MusicBrainz](https://musicbrainz.org/)中唯一且确定的标识符（**MBID**）为`310b3b07-ec9f-3e88-9fd8-529c17478179`。|
 |title=永遠の巫女|这首歌的**标题**为`永遠の巫女`。此处应填写其**最早发布版本**的**现时通用名称**，基于**名从主人**原则。|
 |type=work|这首歌在[MusicBrainz](https://musicbrainz.org/)中被**标记为**`work`。一般默认是`work`，但是有的旋律不一样的改编曲也被其算作同一`work`下的`recording`。这种情况下应填`recording`。|
 |tag=th01,东方灵异传,东方,东方原曲,ZUN,东方旧作原曲,东方整数作原曲|这首歌的**标签**有`th01`和`东方灵异传`、`东方`、`东方原曲`、`ZUN`、`东方旧作原曲`、`东方整数作原曲`。**由脚本根据`usertag`自动生成，所以一般不用动。**根据这些字符串，会自动在`by_tag`中生成快捷方式。|
-|usertag=th01|**用户填写的这首歌的标签**。注意这是你要填的，它会决定`tag`的生成。|
+|tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th01|根据`usertag`（及其等效tag，见[tag_equality.json](tag_equality.json)）可推导出**标签的蕴涵路径**：`东方`<-`东方原曲`<-`ZUN`<-`东方旧作原曲`<-`东方整数作原曲`<-`th01`。**由脚本根据`usertag`自动生成，所以一般不用动。**|
+|usertag=th01|**用户填写的这首歌的标签**。注意这是你要填的，它会决定`tag`和`tagroute`的生成。|
 |alias=永远之巫女,永远的巫女|这首歌的**别名**有：`永远之巫女`、`永远的巫女`，可以填写多个。包括但不仅限于：可选的**其他拼写**方式、**转写**、**翻译**、在社群中有一定影响力的**别名**。|
 |transcriber=Francium-223|**转写者**为[Francium-223](https://github.com/Francium-223/)。|
 |%---|**分割元数据和曲谱的线**，注意百分号后至少有两个杠。|
-|之后的行|转写的**简谱**。关于语法，更多详情见[此处](https://github.com/ssb22/jianpu-ly/blob/master/README_zh-Hans.md)。|
-|%END|文件的**结束标记**。**不出意外的话，由脚本自动补充**。|
+|4/4|这首歌的**节拍**为4/4拍。后面可以改。|
+|subtitle=intro|位于歌曲中的**段落**。推荐填写：`intro`（前奏）、`layer`（覆盖过渡）、`verse`（主歌）、`pre-chorus`（前副歌）、`chorus`（副歌）、`interlude`（间奏）、`bridge`（桥段）、`outro`（尾奏）、`crazy-piano`（发狂钢琴）（目前想到的有这么多）。|
+|NextScore|**分隔段落**的标记。|
+|KeepLength|如果没有标时值，则使用上一个音符的（可以省一些键盘）：如`,6q ,7q 1q 2q 3 -`如果用`KeepLength`，可以写成`,6q ,7 1 2 3c -`。注意这个开关不影响延长`-`和附点`.`。**四分音符开启后要加`c`标记。**|
+|R2\{ ... \}|**循环**2次。对于相似的乐句，可以使用此方法省一些键盘。R后的数字代表循环次数，也可以不写。会由脚本自动展开为`文件名_expand.txt`。|
+|A\{ ... \| ... \}|**循环中的不一样的地方**。会由脚本自动展开为`文件名_expand.txt`。**必须配合`R{ ... }`使用。**|
+|%END|文件的**结束标记**。**不出意外的话，由脚本自动补充。**|
 
 以下元数据是可选的，写了之后可以在**jianpu-ly**编译时被渲染出来。
 
@@ -200,10 +206,14 @@ opus=作品编号
         "usertag": [
             "th01"
         ],
+        "tagroute": [
+            "东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th01"
+        ],
         "tag": [
             "th01",
             "东方灵异传",
             "东方",
+            "touhou",
             "东方原曲",
             "ZUN",
             "东方旧作原曲",
@@ -224,30 +234,55 @@ opus=作品编号
 
 #### 提示
 
-一般来说，一些标签具有蕴涵关系，可以只写一个标签也能自动生成对应的标签。如（见[tag_implications.json](tag_implications.json)和[tag_equality.json](tag_equality.json)。）这样的代码意味着标签`bar`蕴涵`foo`——如果你只写了标签`bar`，脚本也会自动加上`foo`。
+一般来说，一些标签具有**蕴涵**关系，可以只写一个标签也能自动生成对应的标签。如（见[tag_implications.json](tag_implications.json)和[tag_equality.json](tag_equality.json)。）这样的代码意味着标签`bar`蕴涵`foo`——如果你只写了标签`bar`，脚本也会自动加上`foo`。
 
 ```json
-"foo": {
-    "bar": {}
+{
+    "foo": {
+        "bar": {}
+    }
 }
 ```
 
 有的标签可能产生歧义，举个例子，比方说[东方](https://mzh.moegirl.org.cn/东方Project)里的[渡里贝子](https://mzh.moegirl.org.cn/渡里贝子)（渡里**ニナ**，Watari **Nina**）和[GBC](https://mzh.moegirl.org.cn/GIRLS_BAND_CRY)（不是[GameBoy Color](https://nintendo.fandom.com/wiki/Game_Boy_Color)）里的[井芹仁菜](https://mzh.moegirl.org.cn/井芹仁菜)（井芹**仁菜**，Iseri **Nina**）都是`nina`（这个例子不是很恰当，可以换一个），那么可能就会有这样的蕴涵：
 
 ```json
-"touhou": {
-    "nina": {}
-},
-"gbc": {
-    "nina": {}
-},
+{
+    "touhou":
+    {
+        "nina": {}
+    },
+    "gbc":
+    {
+        "nina": {}
+    }
+}
 ```
 
-对于这样的标签，如果只写“nina”，它会提醒你有歧义（虽然程序能正常运行）。因此，如果要避免歧义，请在标记时写成`touhou/nina`或者`gbc/nina`以消歧义。
+对于这样的标签，如果只写“nina”，因为无法确定是哪个标签，它会提醒你有歧义。因此，如果要避免歧义，请在标记时写成`touhou/nina`或者`gbc/nina`以消除歧义。
 
 一般来说，如果有100首含有标签`bar`的歌，其中有99首歌都同时也有标签`foo`，有1首歌没有标签`foo`，那也应该在[tag_implications.json](tag_implications.json)里这么写，并在曲谱中给那首没有`foo`的歌标注：
 
 `tag=foo,!bar`
+
+有的标签还有**等同**关系。比如`东方`等同于`touhou`、`少女乐队的呐喊`等同于`gbc`。`仁菜`等同于`gbc/nina`，`贝子`等同于`touhou/nina`。在这样的定义下，输入标签`东方`可自动生成`touhou`。
+
+```json
+[
+    [
+        ["东方", "touhou"],
+        ["少女乐队的呐喊", "gbc"]
+    ],
+    [
+        ["贝子", "touhou/nina"],
+        ["仁菜", "gbc/nina"]
+    ]
+]
+```
+
+在这个列表中，第一个列表代表“宽匹配”——只要某标签在其中一个列表（无论是怎么链接到的）中就能无条件链接其中所有；第二个列表代表“窄匹配”——必须要完全匹配才能链接到。
+
+（未完待续）（欢迎找bug）
 
 ### 贡献者
 

@@ -13,7 +13,8 @@ subtitle=intro
 6 - - - 4 - - - 5 - - - 3 - - -
 NextScore
 subtitle=verse
-0. 1q 1q 2q 3 R2{ ,6. 1 2q 3 ,6. 1 2q 3 ,6. 1 2q ,7 } A{ ,7. 1. 2q 3q | ,7. 4 4q 3q 2q }
+KeepLength
+0c. 1q 1 2 3c R2{ ,6c. 1 2q 3c ,6. 1 2q 3c ,6. 1 2q ,7c } A{ ,7c. 1. 2q 3 | ,7c. 4 4q 3 2 }
 NextScore
 subtitle=chorus
 R2{ ,7. 1. 2 } A{ ,7 1q ,7 ,6q ,5 ,6. 3. ,6 ,6. 3q ~ 3 - | ,7 1q  2 5q 2 1. ,7. ,6 ,7 1q 2q ~ 2 - }
