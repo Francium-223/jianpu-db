@@ -1,0 +1,124 @@
+%th03_21.txt
+MBID=602a1982-8843-4d78-a032-ff2a92462cc1
+title=ゲームオーバー
+type=work
+tag=th03,东方梦时空,东方,touhou,东方原曲,ZUN,东方旧作原曲,东方整数作原曲
+usertag=th03
+tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th03
+alias=Game Over
+copyright=Blargzargo,TouhouMIDICreator
+%---
+%------th03_21.txt_Blargzargo.buf------
+instrument=A
+OctavesBefore
+1=C
+2/4
+q2 q2 q3
+4/4
+4 q3 2 q1 2
+2 -
+NextPart
+instrument=B
+OctavesBefore
+1=C
+2/4
+4/4
+R*1
+,6. ,5. ,6
+,6 -
+NextPart
+instrument=C
+OctavesBefore
+1=C
+2/4
+4/4
+R*1
+,2. ,1. ,,2
+,,2 -
+NextPart
+instrument=D
+OctavesBefore
+1=C
+2/4
+q2 q2
+4/4
+q3 4 q3 2 q1 q2
+2
+NextPart
+instrument=E
+OctavesBefore
+1=C
+2/4
+4/4
+R*1
+,4
+,4 -
+NextPart
+instrument=G
+OctavesBefore
+1=C
+2/4
+q2 q2 q3
+4/4
+4 q3 2 q1
+s2 s3 s4 s6 s'2 s'3 s'4 s'6 q''2
+NextPart
+instrument=H
+OctavesBefore
+1=C
+2/4
+4/4
+R*2
+s2 s3 s4 s6 s'2 s'3 s'4 s'6 q''2
+NextPart
+instrument=I/K
+OctavesBefore
+1=C
+2/4
+h,,#4 h,,#4 h,,#4 h,,#4
+4/4
+h,,2 h,,2 h,,2
+h,,#4 h,,#4 h,,#4 h,,#4 h,,#4 h,,#4 h,,#4 h,,#4
+%---
+%------th03_21.txt_TouhouMIDICreator.buf------
+OctavesBefore
+4/4
+q,2 q,2 q,3
+,4 q,3 ,2 q,1 ,2
+,2 -
+NextPart
+OctavesBefore
+4/4
+q,2 q,2
+q,3 ,4 q,3 ,2 q,1 q,2
+,2
+NextPart
+OctavesBefore
+4/4
+R*1
+,6. ,5. ,6
+,6 -
+NextPart
+OctavesBefore
+4/4
+R*1
+,2. ,1. ,2
+,2 -
+NextPart
+OctavesBefore
+4/4
+q2 q2 q3
+4 q3 2 q1 q2
+s2 s3 s4 s6 s'2 s'3 s'4 s'6 s''2
+NextPart
+OctavesBefore
+4/4
+R*2
+s2 s3 s4 s6 s'2 s'3 s'4 s'6 s''2
+NextPart
+OctavesBefore
+4/4
+s,,#5 s,,#5 s,,#5
+s,,#6 s,,3 s,,#6 s,,3 s,,#6 s,,3
+s,,#5 s,,#5 s,,#5 s,,#5 s,,#5 s,,#5 s,,#5 s,,#5
+%END

@@ -1,0 +1,24 @@
+%th01_02.txt
+MBID=310b3b07-ec9f-3e88-9fd8-529c17478179
+title=永遠の巫女
+type=work
+tag=th01,东方灵异传,东方,touhou,东方原曲,ZUN,东方旧作原曲,东方整数作原曲
+usertag=th01
+tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th01
+alias=永远之巫女,永远的巫女
+transcriber=Francium-223
+%--
+4/4
+subtitle=intro
+6 - - - 4 - - - 5 - - - 3 - - -
+NextScore
+subtitle=verse
+0. 1q 1q 2q 3 ,6. 1 2q 3 ,6. 1 2q 3 ,6. 1 2q ,7 ,7. 1. 2q 3q ,6. 1 2q 3 ,6. 1 2q 3 ,6. 1 2q ,7 ,7. 4 4q 3q 2q
+NextScore
+subtitle=chorus
+,7. 1. 2 ,7 1q ,7 ,6q ,5 ,6. 3. ,6 ,6. 3q ~ 3 - ,7. 1. 2 ,7 1q  2 5q 2 1. ,7. ,6 ,7 1q 2q ~ 2 -
+R{ 1 - ,7 ,6q ,7q ~ ,7 - ,6 ,5q ,6q ~ ,6 - - - - - ,6 ,7 } R{ 3 - 2 1q 2q ~ 2 - 1 ,7q 1q ~ 1q ,6q ~ ,6 - - - - ,6 ,7 }
+NextScore
+subtitle=outro
+1 - - - 2 - - - 7 - - - 3 - - -
+%END

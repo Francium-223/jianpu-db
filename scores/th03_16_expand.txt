@@ -1,0 +1,151 @@
+%th03_16.txt
+MBID=fa7f3e8b-18a3-46c9-996f-1624612973f0
+title=東方の青い空
+type=work
+tag=th03,东方梦时空,东方,touhou,东方原曲,ZUN,东方旧作原曲,东方整数作原曲
+usertag=th03
+tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th03
+alias=东方的蓝色天空
+copyright=Blargzargo
+%---
+%------th03_16.txt_Blargzargo.buf------
+instrument=A
+OctavesBefore
+1=C
+4/4
+q,2 q,3 q,6 q2 q3 q6 q3 q2
+q,2 q,3 q,6 q2 q3 q6 q3 q2
+q,2 q,3 q,6 q2 q3 q6 q3 q2
+q,2 q,3 q,6 q2 q3 q6 q3 q2
+q,2 q,3 q,6 q2 q3 q6 q3 q2
+q,2 q,3 q,6 q2 q3 q6 q3 q2
+q,,b7 q,4 q,6 q2 q3 q6 q3 q2
+q,1 q,3 q,5 q2 q3 q5 q3 q2
+q,2 q,3 q,6 q2 q3 q6 q3 q2
+q,2 q,3 q,6 q2 q3 q6 q3 q2
+q,,b7 q,4 q,6 q2 q3 q6 q3 q2
+q,1 q,3 q,5 q2 q3 q5 q3 q2
+q,2 q,3 q,6 q2 q3 q6 q3 q2
+q,2 q,3 q,6 q2 q3 q6 q3 q2
+q,,b7 q,4 q,6 q2 q3 q6 q3 q2
+q,1 q,3 q,5 q2 q3 q5 q3 q2
+R*1
+q,2 q,3 q,6 q2 q3 q6 q3 q2
+q,2 q,3 q,6 q2 q3 q6 q3 q2
+q,2 q,3 q,6 q2 q3 q6 q3 q2
+q,2 q,3 q,6 q2 q3 q6 q3 q2
+NextPart
+instrument=B
+OctavesBefore
+1=C
+4/4
+R*4
+''6
+R*1
+''2
+''3
+''4
+R*1
+'''2
+'''3
+'''4
+R*1
+'b7
+''1
+NextPart
+instrument=C
+OctavesBefore
+1=C
+4/4
+R*4
+''4
+R*1
+'b7
+''1
+''2
+R*1
+''4
+''5
+''6
+R*1
+''2
+''3
+NextPart
+instrument=D
+OctavesBefore
+1=C
+4/4
+q,2 q,3 q,6 q2 q3 q6 q3
+q2 q,2 q,3 q,6 q2 q3 q6 q3
+q2 q,2 q,3 q,6 q2 q3 q6 q3
+q2 q,2 q,3 q,6 q2 q3 q6 q3
+q2 q,2 q,3 q,6 q2 q3 q6 q3
+q2 q,2 q,3 q,6 q2 q3 q6 q3
+q2 q,,b7 q,4 q,6 q2 q3 q6 q3
+q2 q,1 q,3 q,5 q2 q3 q5 q3
+q2 q,2 q,3 q,6 q2 q3 q6 q3
+q2 q,2 q,3 q,6 q2 q3 q6 q3
+q2 q,,b7 q,4 q,6 q2 q3 q6 q3
+q2 q,1 q,3 q,5 q2 q3 q5 q3
+q2 q,2 q,3 q,6 q2 q3 q6 q3
+q2 q,2 q,3 q,6 q2 q3 q6 q3
+q2 q,,b7 q,4 q,6 q2 q3 q6 q3
+q2 q,1 q,3 q,5 q2 q3 q5 q3
+q2
+q,2 q,3 q,6 q2 q3 q6 q3
+q2 q,2 q,3 q,6 q2 q3 q6 q3
+q2 q,2 q,3 q,6 q2 q3 q6 q3
+q2 q,2 q,3 q,6 q2 q3 q6 q3
+NextPart
+instrument=G
+OctavesBefore
+1=C
+4/4
+q2 q3 q6 q'2 q'3 q'6 q'3 q'2
+q2 q3 q6 q'2 q'3 q'6 q'3 q'2
+q2 q3 q6 q'2 q'3 q'6 q'3 q'2
+q2 q3 q6 q'2 q'3 q'6 q'3 q'2
+q2 q3 q6 q'2 q'3 q'6 q'3 q'2
+q2 q3 q6 q'2 q'3 q'6 q'3 q'2
+q,b7 q4 q6 q'2 q'3 q'6 q'3 q'2
+q1 q3 q5 q'2 q'3 q'5 q'3 q'2
+q2 q3 q6 q'2 q'3 q'6 q'3 q'2
+q2 q3 q6 q'2 q'3 q'6 q'3 q'2
+q,b7 q4 q6 q'2 q'3 q'6 q'3 q'2
+q1 q3 q5 q'2 q'3 q'5 q'3 q'2
+q2 q3 q6 q'2 q'3 q'6 q'3 q'2
+q2 q3 q6 q'2 q'3 q'6 q'3 q'2
+q,b7 q4 q6 q'2 q'3 q'6 q'3 q'2
+q1 q3 q5 q'2 q'3 q'5 q'3 q'2
+R*1
+q2 q3 q6 q'2 q'3 q'6 q'3 q'2
+q2 q3 q6 q'2 q'3 q'6 q'3 q'2
+q2 q3 q6 q'2 q'3 q'6 q'3 q'2
+q2 q3 q6 q'2 q'3 q'6 q'3 q'2
+NextPart
+instrument=H
+OctavesBefore
+1=C
+4/4
+q2 q3 q6 q'2 q'3 q'6 q'3
+q'2 q2 q3 q6 q'2 q'3 q'6 q'3
+q'2 q2 q3 q6 q'2 q'3 q'6 q'3
+q'2 q2 q3 q6 q'2 q'3 q'6 q'3
+q'2 q2 q3 q6 q'2 q'3 q'6 q'3
+q'2 q2 q3 q6 q'2 q'3 q'6 q'3
+q'2 q,b7 q4 q6 q'2 q'3 q'6 q'3
+q'2 q1 q3 q5 q'2 q'3 q'5 q'3
+q'2 q2 q3 q6 q'2 q'3 q'6 q'3
+q'2 q2 q3 q6 q'2 q'3 q'6 q'3
+q'2 q,b7 q4 q6 q'2 q'3 q'6 q'3
+q'2 q1 q3 q5 q'2 q'3 q'5 q'3
+q'2 q2 q3 q6 q'2 q'3 q'6 q'3
+q'2 q2 q3 q6 q'2 q'3 q'6 q'3
+q'2 q,b7 q4 q6 q'2 q'3 q'6 q'3
+q'2 q1 q3 q5 q'2 q'3 q'5 q'3
+q'2
+q2 q3 q6 q'2 q'3 q'6 q'3
+q'2 q2 q3 q6 q'2 q'3 q'6 q'3
+q'2 q2 q3 q6 q'2 q'3 q'6 q'3
+q'2 q2 q3 q6 q'2 q'3 q'6 q'3
+%END

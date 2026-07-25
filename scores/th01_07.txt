@@ -8,7 +8,8 @@ tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th01
 alias=Oriental Magician
 %---
 subtitle=intro
-KeepLength 6q 6 7 '1 6 7 '1 6 6 6 7 '1 6 '2 '1 7
+KeepLength
+6q 6 7 '1 6 7 '1 6 6 6 7 '1 6 '2 '1 7
 1 '1 7 '1 6 7 '1 6 6 6 7 '1 6 7 '1s 7 6q
 ,6 6 7 '1 6 7 '1 6 6 6 7 '1 6 '2 '1 7
 1 '1 7 '1 6 7 '1 6 6 6 7 '1 6 7 '1 7s '1
@@ -20,7 +21,8 @@ subtitle=chorus
 R{ '1 - - - 7 - 5 - 5q 6q 6 - - 7q '1q '1 - - 7 - - '1 '2 - 7 5 3 - - - - - - - }
 NextScore
 subtitle=outro
-KeepLength 6q 6 7 '1 6 7 '1 6 6 6 7 '1 6 '2 '1 7
+KeepLength
+6q 6 7 '1 6 7 '1 6 6 6 7 '1 6 '2 '1 7
 4 4 5 6 4 5 6 4 4 4 5 6 4 5 6s 5 4q
 5 5 6 7 5 6 7 5 5 5 6 7 5 6 7s 6 5q
 6 6 7 '1 6 7 '1 6 6 6 7 '1 6 7 '1 7s '1

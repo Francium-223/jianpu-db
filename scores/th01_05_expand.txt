@@ -1,0 +1,20 @@
+%th01_05.txt
+MBID=8dc63e81-b445-4467-b012-756b31c34ef0
+title=東方怪奇談
+type=work
+tag=th01,东方灵异传,东方,touhou,东方原曲,ZUN,东方旧作原曲,东方整数作原曲
+usertag=th01
+tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th01
+alias=东方怪奇谈
+%---
+subtitle=intro
+KeepLength '1q 6 3 '1 7 5 3 7 6 3 1 6 3 1 2 ,7
+3 1 ,6 3 2 ,7 ,5 2 1s ,6 ,3 1 ,7 ,5 ,3 ,7 ,6 ,3 ,1 ,6 ,3 ,,6 ,2 ,,#5
+NextScore
+subtitle=intro
+KeepLength R{ ,6s ,6 3 ,6 ,6 2 1 ,7 ,6s ,6 3 ,6 ,6 ,7 1 2 }
+NextScore
+subtitle=verse
+KeepLength  0c 0 6 7 '1 - - - ~ '1q '1q '2 '3 '2 '1 7 5 6c - - - ~ 6q 6 7 '1 7 6 5 3 6c - - - ~ 6q 6 7 '1 7 6 3 6 3c - - - - - 6 7 '1 - - - ~ '1q '1q '2 '3 '2 '1 7 5 6c - - - ~ 6q 6 7 '1 7 6 5 3 6c - - - ~ 6q 6 7 '1 7 6 3 6 3c - - - - - - -
+2c - - 5c ~ 5q 3c - - 2s 1s 2c. 5c. 6c 3c - - ~ 3q 3s 5s 6c - - ~ 6q 3s 5s 6c - - ~ 6q 3s 5s 6c. '1c 7s 6s 5c 6 - 6 7
+%END

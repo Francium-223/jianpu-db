@@ -8,19 +8,29 @@ tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th01
 alias=来吧,直到倒地死去的那一刻
 %---
 subtitle=intro
-KeepLength R2{ ,6q ,7 1 ,6 ,7 1 2 ,7 1 2 3 1 2 1 ,7 ,5 }
+KeepLength
+R2{ ,6q ,7 1 ,6 ,7 1 2 ,7 1 2 3 1 2 1 ,7 ,5 }
 R2{ 1 2 3 1 2 3 4 2 3 4 5 3 4 3 2 ,5 }
 NextScore
 subtitle=layer
-KeepLength 0 ,6 ,6. ,6q ,6c. ,5. ,6 0 ,6 ,6. 3q 2c. 1c 1q ,7 ,5
+KeepLength
+0 ,6 ,6. ,6q ,6c. ,5. ,6 0 ,6 ,6. 3q 2c. 1c 1q ,7 ,5
 NextScore
 subtitle=verse
-KeepLength ,6 - - - - ,6s ,7q 0s 1q ,7 ,5 ,7 ,6c - 3 - ,7 - - ~ ,7q ,5 
+KeepLength
+,6 - - - - ,6s ,7q 0s 1q ,7 ,5 ,7 ,6c - 3 - ,7 - - ~ ,7q ,5 
 R2{ ,6s ,5 ,6q 3q ,6s ,5 ,6q 5 3s 2 1q } A{ 3c - - - | ,6c - - ,5 }
 NextScore
 subtitle=pre-chorus
-KeepLength ,4q. ,6. 1 ,7. ,6. ,5 ,6c - - - 
+KeepLength
+,4q. ,6. 1 ,7. ,6. ,5 ,6c - - - 
 ,3q. ,6. 1 ,7. 1. 2 ,6c - - -
 ,4q. ,6. 1 ,7. ,6. ,5 ,6c - - - 
-,3q. ,6. 1 ,7. 1. 2 ,6c - - - 
+,3q. ,6. 1 ,7. 1. 2 ,3c - - ~ 3q 2s 1
+R2{ 2c - ,7q 1 2 ,7 1c - ,6 1 } A{ ,7c 1q 2c 1q ,7c 1 - ,6 1 | 2c - - 3 4q. 2. 4 5. 3. ,7 }
+NextScore
+subtitle=pre-chorus
+KeepLength
+R{ 6q 3c 6 7q '1 '2 7c - 6 5 4q. 5. 6 5c 4 3 - 1 -
+2q. 3. 4 ,6. 5. 4 } A{ 3. 2. 3 ,6. 4. 3 2c. ,7. 2 3 - - - | 3. 2. 3 6. 3. 2 2c. ,7. 2 1 - ,7 - } 1c - - - - - - -
 %END

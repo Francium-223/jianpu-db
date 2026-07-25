@@ -8,13 +8,16 @@ tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th01
 alias=破邪的小太刀
 %---
 subtitle=intro
-KeepLength ,6s 3 2 1 ,7 1 ,3 ,5 ,6c - - - ,6s 3 2 1 ,7 1 ,3 ,5 ,6c - - -
+KeepLength
+,6s 3 2 1 ,7 1 ,3 ,5 ,6c - - - ,6s 3 2 1 ,7 1 ,3 ,5 ,6c - - -
 NextScore
 subtitle=verse
 0 0 0 ,6q ,7q R{ 1. 3q 2q 1q ,7q 1q ,6 - 3 1q 2q } A{ 3c. 5q 4q 3q 2q 3q ~ 3 2 1 ,6q ,7q | 3c. ,6q 1q ,6q ,7q ,5q ,6 - - - }
 NextScore
 subtitle=chorus
-KeepLength 0c 0 0q ,6 ,7 1 R{ 3c - ~ 3q ,6q ,7q ,1q 3c. 5q 3c 2q 1 } A{ 2c. 1q ,7c ,5c ,6q ,7 ,1 2 3 ,6 ,7 1 | 2c. 1q ,7c 2c 3 - - - }
+KeepLength
+0c 0 0q ,6 ,7 1 R{ 3c - ~ 3q ,6q ,7q ,1q 3c. 5q 3c 2q 1 } A{ 2c. 1q ,7c ,5c ,6q ,7 ,1 2 3 ,6 ,7 1 | 2c. 1q ,7c 2c 3 - - - }
 NextScore
-KeepLength R{ 2q 1 ,7c 1q ,7 ,6 ,3 ,6c - ,3c ,7q 1 ,7c 1q ,7c ,6q ,5c } A{ ,6c - ,3 - | 3 - - - }
+KeepLength
+R{ 2q 1 ,7c 1q ,7 ,6 ,3 ,6c - ,3c ,7q 1 ,7c 1q ,7c ,6q ,5c } A{ ,6c - ,3 - | 3 - - - }
 %END
