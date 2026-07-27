@@ -1,7 +1,7 @@
 import math
 import sys
 import getopt
-notes = ['1', 
+notes = ['1',
          '#1',
          '2',
          '#2',
@@ -13,6 +13,31 @@ notes = ['1',
          '6',
          '#6',
          '7' ]
+alt_notes = {
+	'1' : '1',
+	'#1' : '#1',
+	'2' : '2',
+	'#2' : '#2',
+	'3' : '3',
+	'4' : '4',
+	'#4' : '#4',
+	'5' : '5',
+	'#5' : '#5',
+	'6' : '6',
+	'#6' : '#6',
+	'7' : '7',
+	'b2' : "#1",
+	'b3' : "#2",
+	'b4' : "3",
+	'b5' : "#4",
+	'b6' : "#5",
+	'b7' : "#6",
+	'b1' : ",7",
+	'#7' : "'1"
+}
+def notes_index(a):
+	b = alt_notes[a] if a in alt_notes.keys() else '1'
+	return notes.index(b)
 offset = {'#' : 1,
           'b' : -1,
           '\'' : 12,
@@ -30,6 +55,7 @@ def format_note(a, o):
 	f = ''
 	g = ''
 	h = ''
+	k = ''
 	for i in a:
 		if i in '1234567':
 			f += i
@@ -37,16 +63,18 @@ def format_note(a, o):
 			h = h + i
 		if i in 'sqdh':
 			g = g + i
-	return offset_note(f, e) + g + h
+		if i == '\n':
+			k = k + i
+	return offset_note(f, e) + g + h + k
 def offset_note(a, n):
-	b = notes.index(a) + n
+	b = notes_index(a) + n
 	c = math.floor(b / 12)
 	c = c * '\'' if c > 0 else (-c) * ','
 	return c + notes[b % 12]
 def is_note(a):
 	b = False
 	for i in a:
-		if not i in 'sqdh\\.#b,\'1234567':
+		if not i in 'sqdh\\.#b,\'1234567\n':
 			return False
 		if i in '1234567':
 			b = True
@@ -69,9 +97,14 @@ def main(argv):
 			f = infile.split('.')
 			outfile = '.'.join(f[:-1]) + '_semitone' + f'{offsetv:+}' + '.' + f[-1]
 		with open(infile, 'r', encoding='utf-8') as f:
-			raw = f.read().split(' ')
+			raw = f.readlines()
+		with open(outfile, 'w', encoding='utf-8') as f:
+			for i in raw:
+				print((' ').join([(format_note(j, offsetv) if is_note(j) else j) for j in i.split(' ')]), end='', file=f)
+		'''
 		print((' ').join([(format_note(i, offsetv) if is_note(i) else i) for i in raw]), file=open(outfile, 'w', encoding='utf-8'))
 		print((' ').join([(format_note(i, offsetv) if is_note(i) else i) for i in raw]))
+		'''
 	except FileNotFoundError:
 		print('Usage:')
 		print('python semitone_offset_py -i [input file] -o [output file] --offset=[offset, default 0]')
