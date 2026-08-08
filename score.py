@@ -128,7 +128,6 @@ class Score():
 					break
 		for i in self.origtag:
 			self.where_imply(i, [])
-		print(self.score, 'tag_route', self.tag_route)
 		maybe_homonym = {}
 		for i in range(len(self.tag_route)):
 			for j in range(i + 1, len(self.tag_route)):
