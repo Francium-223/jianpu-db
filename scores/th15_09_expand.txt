@@ -7,6 +7,8 @@ usertag=th15
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th15
 alias=逆转的命运之轮
 copyright=TouhouMIDICreator
+status=draft
+mbid=98941e21-f93f-4275-b14b-e05359649283
 %---
 %------th15_09.txt_TouhouMIDICreator.buf------
 instrument=St.Coupl hps R

@@ -1,12 +1,14 @@
 %th04_15.txt
 MBID=3d356e3c-31ca-3818-ab1b-9f93bed84d88
-title=幽夢　～ Inanimate Dream
+title=幽夢 ～ Inanimate Dream
 type=work
 tag=th04,东方幻想乡,东方,touhou,东方原曲,ZUN,东方旧作原曲,东方整数作原曲
 usertag=th04
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th04
-alias=幽梦　～ Inanimate Dream
+alias=幽梦 ～ Inanimate Dream
 copyright=Bessem,Blargzargo,icebhm23230 - GM,icebhm23230 - XG,Karl Zuñiga,neognosticism,TouhouMIDICreator,Wobuffet3,ZUN - SC-88pro
+status=draft
+mbid=3d356e3c-31ca-3818-ab1b-9f93bed84d88
 %---
 %------th04_15.txt_Bessem.buf------
 instrument=Piste 1
@@ -9040,7 +9042,7 @@ s,,#5 s,,,#7 s,,#5 s,,#5 s,,#5 s,,#6 s,,3 s,,#5 s,,,#7 s,,#6 s,,3 s,,#5 s,,,#7 s
 s,,#5 s,,,#7 s,,#5 s,,#5 s,,#5 s,,#6 s,,3 s,,#5 s,,#5 s,,,#7 s,,#5 s,,#5 s,,,#7 s,,#5 s,,#5 s,,#5 s,,#6 s,,3 s,,#5 s,,,#7 s,,#5 s,,,#7 s,,#5 s,,,#7
 %---
 %------th04_15.txt_ZUN - SC-88pro.buf------
-instrument=y H²@` Inanimate Dream zfrom ¶z½  sc-88Pro comp.ZUN
+instrument=y H²@` Inanimate Dream zfrom ¶z½ sc-88Pro comp.ZUN
 OctavesBefore
 1=C
 4/4

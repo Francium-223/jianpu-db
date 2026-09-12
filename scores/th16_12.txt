@@ -7,6 +7,8 @@ usertag=th16
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th16
 alias=Into Backdoor
 copyright=Karamitasu,ryoya1295
+status=draft
+mbid=92a00ef2-dbf7-4e6d-991d-9419558c0fc7
 %---
 %------th16_12.txt_Karamitasu.buf------
 OctavesBefore

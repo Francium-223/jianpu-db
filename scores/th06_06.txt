@@ -7,6 +7,8 @@ usertag=th06
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th06
 alias=上海红茶馆　～ Chinese Tea
 copyright=Piano Only,rongns_2,SONARLE,unknown,ZUN
+status=draft
+mbid=2971335a-00d0-31a2-8b84-ecfc8ab72ae4
 %---
 %------th06_06.txt_Piano Only.buf------
 instrument=Setup

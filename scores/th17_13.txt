@@ -7,6 +7,8 @@ usertag=th17
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th17
 alias=寄世界于偶像　～ Idoratrize World
 copyright=hisaraito,KR.Palto47 - GM2,KR.Palto47 - GS,KR.Palto47 - XG,ryoya1295,ShinkoNet,TouhouMIDICreator
+status=draft
+mbid=9754635c-d783-41cb-b870-104d8ec465c9
 %---
 %------th17_13.txt_hisaraito.buf------
 OctavesBefore

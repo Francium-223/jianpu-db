@@ -7,6 +7,8 @@ usertag=th13
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th13
 alias=在美妙的墓地里住下吧
 copyright=unknown 2,unknown
+status=draft
+mbid=23877c0f-4b9b-4c5a-a82b-5890647f104c
 %---
 %------th13_06.txt_unknown 2.buf------
 OctavesBefore

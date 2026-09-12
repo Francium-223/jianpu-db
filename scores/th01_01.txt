@@ -6,6 +6,8 @@ tag=th01,东方灵异传,东方,touhou,东方原曲,ZUN,东方旧作原曲,东�
 usertag=th01
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th01
 transcriber=Francium-223
+status=ok
+mbid=52e3b2d1-80ff-35a7-b11f-f9342c08f22d
 %--
 4/4
 subtitle=intro

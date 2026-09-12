@@ -6,18 +6,20 @@ tag=th02,东方封魔录,东方,touhou,东方原曲,ZUN,东方旧作原曲,东�
 usertag=th02
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th02
 alias=神篱,如紫色火焰般燃烧
+status=ok
+mbid=74bbc8cf-274f-3d04-ab8f-67a1d8740cbf
 %---
 subtitle=intro
 KeepLength
-3q 6c 4q 6c #4q 6q ~ 6q 4q 6c 3q 6 2 6
-3q 6c 4q 6c #4q 6q ~ 6q 4q 6c 3q 6 2 6
-3q 6c 4q 6c #4q 6q ~ 6q 4q 6c 3q 6 2 6
-3q 6c 4q 6c #4q 6q ~ 6q 4q 6c 3q 6 2 6
+3q 6c 4q 6c #4q 6q q~ 6q 4q 6c 3q q6 q2 q6
+3q 6c 4q 6c #4q 6q q~ 6q 4q 6c 3q q6 q2 q6
+3q 6c 4q 6c #4q 6q q~ 6q 4q 6c 3q q6 q2 q6
+3q 6c 4q 6c #4q 6q q~ 6q 4q 6c 3q q6 q2 q6
 %TODO:refine this offset
-3q ,6 ,7 3 ,6 ,7 3 ,6 ,7 3 ,6 ,7 6 3 7 3
-'1 7 6 3 2 3 1 3 1 ,7 ,6 ,3 ,6 ,3 ,7 1
-,6 3 2 3 ,6 3 2 3 ,6 3 2 3 1 ,7 ,6 ,3
-6 '3 '2 '3 6 '3 '2 '3 '6c - - -
+3q q,6 q,7 q3 q,6 q,7 q3 q,6 q,7 q3 q,6 q,7 q6 q3 q7 q3
+q'1 q7 q6 q3 q2 q3 q1 q3 q1 q,7 q,6 q,3 q,6 q,3 q,7 q1
+q,6 q3 q2 q3 q,6 q3 q2 q3 q,6 q3 q2 q3 q1 q,7 q,6 q,3
+q6 q'3 q'2 q'3 q6 q'3 q'2 q'3 '6c c- c- c-
 NextScore
 subtitle=bridge
 ,6. ,6q ~ ,6c ,6c ~ ,6q ,6c. ,6 ,5
@@ -25,25 +27,25 @@ subtitle=bridge
 NextScore
 subtitle=verse
 KeepLength
-,6c - ~ ,6q ,3 ,6 ,7 1c - 3 -
-2. 3q ,6c - - - - ,7
-1c - ~ 1q ,3 ,6 ,7 1c - 3 1q 3 5c. 6q 6c - - - 3q 2 1 ,7
-,6c - ~ ,6q ,3 ,6 ,7 1c - 3 -
-2. 3q ,6c - - - - ,7
-1c - ~ 1q ,3 ,6 ,7 1c - 3 1q 3 5c. 6q 6c - - - 7c '1
+,6c c- c~ ,6q q,3 q,6 q,7 1c c- c3 c-
+c2. 3q ,6c c- c- c- c- c,7
+1c c- c~ 1q q,3 q,6 q,7 1c c- c3 1q q3 5c. 6q 6c c- c- c- 3q q2 q1 q,7
+,6c c- c~ ,6q q,3 q,6 q,7 1c c- c3 c-
+c2. 3q ,6c c- c- c- c- c,7
+1c c- c~ 1q q,3 q,6 q,7 1c c- c3 1q q3 5c. 6q 6c c- c- c- 7c c'1
 NextScore
 subtitle=pre-chorus
 KeepLength
-,6c - ,7c. 1q ~ 1c - ,6q ,7 1 2
-1c - 2c. 3q ~ 3c - 2q 3 5c
-,6c - ,7c. 1q ~ 1c - ,6q ,7 1 2
-,6q ,7 1c ,7q 1 2c #1c - 5q. #4. 3
+,6c c- ,7c. 1q q~ 1c c- ,6q q,7 q1 q2
+1c c- 2c. 3q q~ 3c c- 2q q3 5c
+,6c c- ,7c. 1q q~ 1c c- ,6q q,7 q1 q2
+,6q q,7 1c ,7q q1 2c #1c c- 5q. q#4. q3
 NextScore
 subtitle=chorus
 %TODO:refine this offset
 KeepLength
-6q. 7. '1 7. 6. 5 6. 1. 2 3. 5. 6
-6q. 7. '1 7. '1. '2 '1. 7. 6 1. 2. 3
-6q. 7. '1 7. 6. 5 6. 1. 2 3. 5. 6
-6q. 7. '1 7. '1. '2 '1. 7. 6 1. 2. 3
+6q. q7. q'1 q7. q6. q5 q6. q1. q2 q3. q5. q6
+6q. q7. q'1 q7. q'1. q'2 q'1. q7. q6 q1. q2. q3
+6q. q7. q'1 q7. q6. q5 q6. q1. q2 q3. q5. q6
+6q. q7. q'1 q7. q'1. q'2 q'1. q7. q6 q1. q2. q3
 %END

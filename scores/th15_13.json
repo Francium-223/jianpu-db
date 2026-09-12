@@ -28,6 +28,10 @@
             "Loren chan",
             "TouhouMIDICreator",
             "Unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "dbd1de3d-c7cd-4a3b-b083-687da43438e3"
     }
 }

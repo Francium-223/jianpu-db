@@ -7,6 +7,8 @@ usertag=th14
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th14
 alias=针小棒大的天守阁
 copyright=KR.Palto47 - SC88pro GS,KR.Palto47 - SD20 GM2Native,unknown
+status=draft
+mbid=46591277-72ab-4174-9d2d-6fa169ed6a57
 %---
 %------th14_12.txt_KR.Palto47 - SC88pro GS.buf------
 instrument=Electri6ity-Rickenbacker Amped

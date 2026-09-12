@@ -6,13 +6,15 @@ tag=th02,东方封魔录,东方,touhou,东方原曲,ZUN,东方旧作原曲,东�
 usertag=th02
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th02
 alias=Complete Darkness
+status=draft
+mbid=dda8c8d7-4950-3140-b063-7a9d13e76337
 %---
 subtitle=intro
 KeepLength
-,6c. ,7. 1c ~ 1q 3c. 2q 1 ,7 1
-,6c. ,7. 1c ~ 1q 3c. 2q ,7 1 ,6
-,6c. ,7. 1c ~ 1q 2c. 1q ,7 ,6 ,5
-,6c. ,7. 1c ~ 1q 3c. 2q 3 6 3
+,6c. c,7. 1c c~ 1q 3c. 2q q1 q,7 q1
+,6c. c,7. 1c c~ 1q 3c. 2q q,7 q1 q,6
+,6c. c,7. 1c c~ 1q 2c. 1q q,7 q,6 q,5
+,6c. c,7. 1c c~ 1q 3c. 2q q3 q6 q3
 NextScore
 subtitle=layer
 6 - - - - - - -
@@ -22,21 +24,21 @@ subtitle=layer
 NextScore
 subtitle=verse
 KeepLength
-'1q 7s 6 ~ 6c - - - 6 7 '1
-7c. 3. 5 ~ 5 3 5 7
-'2. 6q 6c - - - 6 7
-'1. 7. 6 '2. '1. 7
-6 - - - - - - -
-5 - - - 3 - '3 -
-'2. 6q 6c - - - 6 7
-'1. 7. 6 '2 7 3 5
+'1q 7s s6 s~ 6c c- c- c- c6 c7 c'1
+7c. c3. c5 c~ c5 c3 c5 c7
+c'2. 6q 6c c- c- c- c6 c7
+c'1. c7. c6 c'2. c'1. c7
+c6 c- c- c- c- c- c- c-
+c5 c- c- c- c3 c- c'3 c-
+c'2. 6q 6c c- c- c- c6 c7
+c'1. c7. c6 c'2 c7 c3 c5
 NextScore
 subtitle=chorus
 KeepLength
-,6c. ,7. 1 ,7. ,1. 2
-1. 2. 3 1. ,7. ,5
-,6c. ,7. 1 ,7. ,1. 2 1. 2. 3 6 - - -
-,6c. ,7. 1 ,7. ,1. 2
-1. 2. 3 1. ,7. ,5
-,6c. ,7. 1 ,7. ,1. 2 2. #1q #1c - - - - -
+,6c. c,7. c1 c,7. c,1. c2
+c1. c2. c3 c1. c,7. c,5
+,6c. c,7. c1 c,7. c,1. c2 c1. c2. c3 c6 c- c- c-
+,6c. c,7. c1 c,7. c,1. c2
+c1. c2. c3 c1. c,7. c,5
+,6c. c,7. c1 c,7. c,1. c2 c2. #1q #1c c- c- c- c- c-
 %END

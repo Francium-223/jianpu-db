@@ -7,6 +7,8 @@ usertag=th13
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th13
 alias=Rigid Paradise
 copyright=unknown
+status=draft
+mbid=dcb0a52c-dece-4854-9cc1-b079eb3e4df9
 %---
 %------th13_07.txt_unknown.buf------
 instrument=TRACK 1

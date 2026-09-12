@@ -7,6 +7,8 @@ usertag=th03
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th03
 alias=Dim. Dream
 copyright=Blargzargo
+status=draft
+mbid=5bf008d6-4114-3771-bd76-ffc40621affb
 %---
 %------th03_05.txt_Blargzargo.buf------
 instrument=A

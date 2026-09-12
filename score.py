@@ -76,6 +76,57 @@ def goto_node(p):
 	for i in p:
 		a = a[i]
 	return a
+def expand_keep_length(text):
+	"""把 KeepLength 的"省略时值"补全成显式时值(供计算机直接读取)。
+
+	jianpu-ly 规则(见 jianpu-ly.py 的 addNote: if nBeams==None: nBeams = self.lastNBeams):
+	  出现 KeepLength 后, 凡是"没写时值"的音符沿用上一个音符的时值, 直到出现新的时值标记。
+	时值字母: c=四分 q=八分 s=十六分 d=三十二分 h=二分 (可前可后, 这里统一补到前面)
+
+	例: KeepLength s1 1 1 1 c1  ->  s1 s1 s1 s1 c1
+	"""
+	VAL = 'cqsdh'
+	out_lines = []
+	cur_val = ''          # 当前生效的时值
+	keep = False          # KeepLength 是否生效
+	for line in text.splitlines():
+		s = line.strip()
+		if s == 'KeepLength':
+			keep = True
+			out_lines.append(line)
+			continue
+		# 作用域: KeepLength 到换 subtitle(或 NextScore)即失效 —— 必须重置状态
+		if s.startswith('subtitle=') or s.lower() == 'nextscore':
+			keep = False
+			cur_val = ''
+			out_lines.append(line)
+			continue
+		if not s or s.startswith('%'):
+			out_lines.append(line)
+			continue
+		toks = []
+		for tok in s.split():
+			# 取时值: 可能前置(q1 / q1' / s,6) 或后置(1q / ,6s / 3c.)
+			m_pre = re.match(r'^([cqsdh])(.*)$', tok)
+			m_post = re.match(r'^(.*?)([cqsdh])([.]*)$', tok)
+			val = ''
+			if m_pre and re.match(r"^[,']*[0-9x]", m_pre.group(2)):
+				val = m_pre.group(1)
+			elif m_post:
+				val = m_post.group(2)
+			if val:
+				cur_val = val
+				toks.append(tok)
+			else:
+				# 无时值: KeepLength 生效时补上当前时值, 否则按四分音(不加前缀)
+				if keep and cur_val:
+					toks.append(cur_val + tok)
+				else:
+					toks.append(tok)
+		out_lines.append(' '.join(toks))
+	return '\n'.join(out_lines)
+
+
 def replacer(match):
 	n_str = match.group(1)
 	xxx = match.group(2).strip()
@@ -103,6 +154,7 @@ class Score():
 		self.nottag = []
 		self.orignottag = []
 		self.mbid = ''
+		self.wikidata = ''
 		self.title = ''
 		self.raw = ''
 		self.raw2 = ''
@@ -219,9 +271,11 @@ class Score():
 				if i.replace(' ', '').startswith('%--') or i.replace(' ', '').startswith('tag=') or i.replace(' ', '').startswith('tagroute='):
 					continue
 				if i.replace(' ', '').lower().startswith('mbid='):
+					# 多个外部标识各自独立存取(可并存, 不冲突): MBID / Wikidata / ...
 					self.mbid = i[i.find('=') + 1:].strip(' ')
-					if not re.match('[0123456789abcdef]{8}-[0123456789abcdef]{4}-[0123456789abcdef]{4}-[0123456789abcdef]{4}-[0123456789abcdef]{12}', self.mbid) and False:
-						raise NotMBIDError
+					continue
+				if i.replace(' ', '').lower().startswith('wikidata='):
+					self.wikidata = i[i.find('=') + 1:].strip(' ')
 					continue
 				if i.replace(' ', '').startswith('usertag='):
 					self.getusertag(i)
@@ -261,6 +315,11 @@ class Score():
 			print(f'Error: file \'{self.score}\' not found!')
 			raise NoScoreError
 	def process_others(self):
+		# 外部标识进 others(供 by_mbid/ by_wikidata/ 索引); 可并存
+		if self.mbid:
+			self.others['mbid'] = self.mbid
+		if self.wikidata:
+			self.others['wikidata'] = self.wikidata
 		for n in self.all_tag_route:
 			self.tag = safe_add(self.tag, n.split('/'))
 			for i in equal[0]:
@@ -294,11 +353,17 @@ class Score():
 			print('%' + self.score.split('/')[-1], file=f)
 			for i in self.comments:
 				print(i.rstrip('\n'), file=f)
-			print('MBID=' + self.mbid, file=f)
+			# 外部标识各自独立写(可并存): 有哪个写哪个
+			if self.mbid:
+				print('MBID=' + self.mbid, file=f)
+			if self.wikidata:
+				print('Wikidata=' + self.wikidata, file=f)
 			print('title=' + self.title, file=f)
 			print('type=' + self.type, file=f)
 			for i in self.others.keys():
-				print(i + '=' + (',').join(self.others[i]), file=f)
+				# others 的值可能是列表(多值字段)或字符串(单值标识: mbid/wikidata) -> 分别处理
+				_v = self.others[i]
+				print(i + '=' + ((',').join(_v) if isinstance(_v, list) else str(_v)), file=f)
 			self.others['title'] = self.title
 			self.others['type'] = self.type
 			self.others['file'] = self.score.split('/')[-1]
@@ -334,7 +399,8 @@ class Score():
 		try:
 			with open(self.prefix + '.json', 'r', encoding='utf-8') as f:
 				file = json.load(f)
-			attrib = file[self.mbid]
+			# data.json 以"文件名"为 key(不再依赖任何单一主键; 标识可多可无)
+			attrib = file.get(self.score.split('/')[-1], {})
 			for i in attrib.keys():
 				if not attrib[i]:
 					continue
@@ -349,8 +415,10 @@ class Score():
 							filename = 'by_title/' + attrib['title'].replace(' ', '')[0].upper() + '/others/' + attrib['title'] + '/' + self.score.split('/')[-1]
 					else:
 						filename = 'by_title/others/' + attrib['title'] + '/' + self.score.split('/')[-1]
-				elif i == 'mbid':
-					filename = 'by_mbid/' + attrib['mbid'][0] + '/' + attrib['mbid'][1] + '/' + self.mbid
+				elif i in ('mbid', 'wikidata'):
+					_v = attrib.get(i) or ''
+					if _v:
+						filename = f'by_{i}/' + _v[0] + '/' + self.score.split('/')[-1]
 				else:
 					for j in attrib[i]:
 						filename = f'by_{i}/' + j + '/' + self.score.split('/')[-1]
@@ -372,6 +440,8 @@ class Score():
 	def expand(self):
 		pattern = r"R(\d*)\s*\{\s*(.*?)\s*\}(?:\s*A\s*\{\s*(.*?)\s*\})?"
 		self.raw_expanded = re.sub(pattern, replacer, self.raw2, flags=re.DOTALL)
+		# 再补全 KeepLength 的"省略时值"(jianpu-ly 的 sticky duration) -> 计算机可直接读
+		self.raw_expanded = expand_keep_length(self.raw_expanded)
 		return self.raw_expanded
 	def write_expand(self):
 		with open(('.').join(self.score.split('.')[:-1]) + '_expand.txt', 'w', encoding='utf-8') as f:

@@ -26,6 +26,10 @@
             "TouhouMIDICreator",
             "ZUN",
             "sweetmusic"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "b04e9995-56e6-3e9d-8e85-4c685edb1aec"
     }
 }

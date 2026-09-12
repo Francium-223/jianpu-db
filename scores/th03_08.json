@@ -33,6 +33,10 @@
             "Unknown 2",
             "Unknown",
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "43591fbe-9922-4652-bc6b-c2481f418f93"
     }
 }

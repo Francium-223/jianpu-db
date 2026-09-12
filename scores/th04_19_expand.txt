@@ -7,6 +7,8 @@ usertag=th04
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th04
 alias=Days
 copyright=Blargzargo,Ruukasu
+status=draft
+mbid=305b022b-d967-4dcf-976a-788b293d7553
 %---
 %------th04_19.txt_Blargzargo.buf------
 instrument=A

@@ -7,6 +7,8 @@ usertag=th10
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th10
 alias=御柱的墓场　～ Grave of Being
 copyright=Shirai Yuki - GM,Shirai Yuki - XG
+status=draft
+mbid=2c4dfc9b-be88-3d42-8e68-0a4203a6230a
 %---
 %------th10_12.txt_Shirai Yuki - GM.buf------
 instrument=E.Gtr

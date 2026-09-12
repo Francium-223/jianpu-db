@@ -7,6 +7,8 @@ usertag=th02
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th02
 alias=东方封魔录　～ 净土曼荼罗
 transcriber=Francium-223
+status=ok
+mbid=d2887acb-13ae-4213-a2f2-7b4b9fe42ca2
 %---
 subtitle=intro
 KeepLength

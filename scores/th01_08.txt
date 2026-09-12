@@ -7,6 +7,8 @@ usertag=th01
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th01
 alias=破邪的小太刀
 transcriber=Francium-223
+status=ok
+mbid=740fb474-2d7c-4df2-bab6-57d64438fecd
 %---
 subtitle=intro
 KeepLength

@@ -1,12 +1,14 @@
 %th13_13.txt
 MBID=9248deb4-3fdc-4c73-a1d0-d9928caf688a
-title=聖徳伝説　～ True Administrator
+title=聖徳伝説 ～ True Administrator
 type=work
 tag=th13,东方神灵庙,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th13
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th13
-alias=圣德传说　～ True Administrator
+alias=圣德传说 ～ True Administrator
 copyright=gondayu,unknown
+status=draft
+mbid=9248deb4-3fdc-4c73-a1d0-d9928caf688a
 %---
 %------th13_13.txt_gondayu.buf------
 instrument=System Setup

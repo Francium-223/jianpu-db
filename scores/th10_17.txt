@@ -7,6 +7,8 @@ usertag=th10
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th10
 alias=神明降下恩惠之雨　～ Sylphid Dream
 copyright=LeastLPZ
+status=draft
+mbid=db368653-07d0-34ee-929a-762845d2f5c9
 %---
 %------th10_17.txt_LeastLPZ.buf------
 OctavesBefore

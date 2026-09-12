@@ -1,12 +1,14 @@
 %th03_10.txt
 MBID=2af759a2-f29c-4d1d-9420-61524dfdfc44
-title=魔法決戦！　～ Fight it out!
+title=魔法決戦！ ～ Fight it out!
 type=work
 tag=th03,东方梦时空,东方,touhou,东方原曲,ZUN,东方旧作原曲,东方整数作原曲
 usertag=th03
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th03
-alias=魔法决战！　～ Fight it out!
+alias=魔法决战！ ～ Fight it out!
 copyright=Blargzargo,unknown
+status=draft
+mbid=2af759a2-f29c-4d1d-9420-61524dfdfc44
 %---
 %------th03_10.txt_unknown.buf------
 instrument=MIDI out

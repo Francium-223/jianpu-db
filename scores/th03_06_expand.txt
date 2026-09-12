@@ -1,12 +1,14 @@
 %th03_06.txt
 MBID=e7cbcd08-3cb1-4482-aaad-575246afb4ea
-title=Tabula rasa　～ 空白少女
+title=Tabula rasa ～ 空白少女
 type=work
 tag=th03,东方梦时空,东方,touhou,东方原曲,ZUN,东方旧作原曲,东方整数作原曲
 usertag=th03
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th03
-alias=Tabula rasa　～ 空白少女
+alias=Tabula rasa ～ 空白少女
 copyright=Blargzargo,Piano Only,ZUN - SC88pro
+status=draft
+mbid=e7cbcd08-3cb1-4482-aaad-575246afb4ea
 %---
 %------th03_06.txt_Blargzargo.buf------
 instrument=A
@@ -875,7 +877,7 @@ q1 q,6 q1 q,6 q,7 q,5 q,7 ,,,6 q,5 ,,3 - 6 - - - ,,,6 ,,2 - ,,,5 ,,,5
 q1 q,6 q1 q,6 q,7 q1 q,3 q,5 ,,1 - ~ 6 - - - ,,,4 ,,,4 ,,,5 ,,2 - ,,,5
 %---
 %------th03_06.txt_ZUN - SC88pro.buf------
-instrument=y Tabula rasa ` ó­ zfrom ²ó for sc88Pro  Comp.ZUN
+instrument=y Tabula rasa ` ó­ zfrom ²ó for sc88Pro Comp.ZUN
 OctavesBefore
 1=C
 4/4

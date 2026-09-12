@@ -7,6 +7,8 @@ usertag=th09
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th09
 alias=宇佐大人的白旗
 copyright=Kanade_KND34,Unknown
+status=draft
+mbid=4e0d26d0-f36c-383c-baef-1f3d7ac0c3a4
 %---
 %------th09_10.txt_Kanade_KND34.buf------
 OctavesBefore

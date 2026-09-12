@@ -31,6 +31,10 @@
             "TouhouMIDICreator",
             "Unknown",
             "Wobuffet3"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "b873f5df-2e9b-4fe5-8573-aaedcc9545c8"
     }
 }

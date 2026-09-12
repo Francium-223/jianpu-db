@@ -7,6 +7,8 @@ usertag=th04
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th04
 alias=不可不禁止的游戏
 copyright=Blargzargo,ZUN
+status=draft
+mbid=0cecba7e-ff8f-4d27-8526-73a1c2f9cccb
 %---
 %------th04_16.txt_Blargzargo.buf------
 instrument=A

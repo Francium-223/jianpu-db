@@ -1,12 +1,14 @@
 %th10_09.txt
 MBID=145d2b51-0646-30e5-be20-f123b3b281ef
-title=妖怪の山　～ Mysterious Mountain
+title=妖怪の山 ～ Mysterious Mountain
 type=work
 tag=th10,东方风神录,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th10
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th10
-alias=妖怪之山　～ Mysterious Mountain
+alias=妖怪之山 ～ Mysterious Mountain
 copyright=cross,Dekyo ongen,Jacob31593,LeastLPZ,TouhouMIDICreator
+status=draft
+mbid=145d2b51-0646-30e5-be20-f123b3b281ef
 %---
 %------th10_09.txt_cross.buf------
 instrument=CH01

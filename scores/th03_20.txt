@@ -7,6 +7,8 @@ usertag=th03
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th03
 alias=胜利对话
 copyright=Blargzargo
+status=draft
+mbid=ed8e25a1-6d5c-42c0-93a2-8da96868de2a
 %---
 %------th03_20.txt_Blargzargo.buf------
 instrument=A

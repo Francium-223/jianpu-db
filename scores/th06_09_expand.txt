@@ -1,12 +1,14 @@
 %th06_09.txt
 MBID=3e68abbe-ee41-3062-ac5a-d110f6a8acff
-title=ラクトガール　～ 少女密室
+title=ラクトガール ～ 少女密室
 type=work
 tag=th06,东方红魔乡,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th06
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th06
-alias=Locked Girl　～ 少女密室
+alias=Locked Girl ～ 少女密室
 copyright=sweetmusic,ZUN
+status=draft
+mbid=3e68abbe-ee41-3062-ac5a-d110f6a8acff
 %---
 %------th06_09.txt_sweetmusic.buf------
 OctavesBefore

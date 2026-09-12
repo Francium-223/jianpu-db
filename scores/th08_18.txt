@@ -7,6 +7,8 @@ usertag=th08
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th08
 alias=飘上月球,不死之烟
 copyright=Hisaraito - Ver. 1,Hisaraito - Ver. 2,Hisaraito - Ver. 3,Hisaraito,icebhm23230 - XG,icebhm23230,rongns_2,yoimutu,ZUN,LeastLPZ
+status=draft
+mbid=163346cf-4c62-3bb8-9720-b5aaa1c04862
 %---
 %------th08_18.txt_Hisaraito - Ver. 1.buf------
 OctavesBefore

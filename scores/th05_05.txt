@@ -7,6 +7,8 @@ usertag=th05
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th05
 alias=灵天　～ Spiritual Heaven
 copyright=Susumu Takajima
+status=draft
+mbid=65b6bd5d-61c8-3d99-abbb-89758327efae
 %---
 %------th05_05.txt_Susumu Takajima.buf------
 instrument=MewSynthLead.13

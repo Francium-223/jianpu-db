@@ -7,6 +7,8 @@ usertag=th02
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th02
 alias=战车娘所做的梦
 copyright=Blargzargo,Wobuffet3,Zun & Mr_KrzYchoo
+status=draft
+mbid=90ecf7e2-c90a-40ba-8fbd-95267ea3242b
 %---
 %------th02_13.txt_Blargzargo.buf------
 instrument=A

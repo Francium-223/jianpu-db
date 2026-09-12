@@ -7,6 +7,8 @@ usertag=th14
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th14
 alias=Magical Storm
 copyright=pieordie1
+status=draft
+mbid=c8bed257-b55a-4dd4-aeb3-84fe38d45408
 %---
 %------th14_08.txt_pieordie1.buf------
 OctavesBefore

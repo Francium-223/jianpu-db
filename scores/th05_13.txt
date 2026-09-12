@@ -7,6 +7,8 @@ usertag=th05
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th05
 alias=可悲的人偶　～ Doll of Misery
 copyright=icebhm23230
+status=draft
+mbid=2f718495-1fdd-3fb9-94f8-1ce9070a67a9
 %---
 %------th05_13.txt_icebhm23230.buf------
 instrument=Touhou 5: Mystic Square - Doll Story ~ Doll of Misery

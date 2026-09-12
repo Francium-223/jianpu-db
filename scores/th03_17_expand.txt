@@ -7,6 +7,8 @@ usertag=th03
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th03
 alias=永远的满月
 copyright=Blargzargo,ZUN SC88pro
+status=draft
+mbid=02553edf-b075-359e-b7d4-160f8e0a637a
 %---
 %------th03_17.txt_Blargzargo.buf------
 instrument=A
@@ -242,7 +244,7 @@ h,,b5 h,,b1 h,,b5 h,,2 h,,b5 h,,,7 h,,b5 h,,,7 h,,b5 h,,2
 h,,#4 h,,,7 h,,#4 h,,2 h,,#4 h,,,7 h,,#4 h,,,7 h,,#4 h,,2
 %---
 %------th03_17.txt_ZUN SC88pro.buf------
-instrument=y iÌ z from ²ó  for sc88Pro  comp.ZUN
+instrument=y iÌ z from ²ó for sc88Pro comp.ZUN
 OctavesBefore
 1=C
 4/4

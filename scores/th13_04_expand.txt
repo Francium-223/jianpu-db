@@ -7,6 +7,8 @@ usertag=th13
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th13
 alias=欢迎来到妖怪寺
 copyright=LeastLPZ
+status=draft
+mbid=a4eb5d42-1865-4895-8652-e3f25f224838
 %---
 %------th13_04.txt_LeastLPZ.buf------
 OctavesBefore

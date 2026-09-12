@@ -26,6 +26,10 @@
             "Wobuffet3",
             "Blargzargo",
             "NamelessLegacy"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "def2c32b-7573-303d-9630-43068284e1c7"
     }
 }

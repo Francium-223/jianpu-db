@@ -27,6 +27,10 @@
             "CommonShitSandwich",
             "TouhouMIDICreator",
             "unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "749b67b7-604b-3479-92a4-37693ed8319e"
     }
 }

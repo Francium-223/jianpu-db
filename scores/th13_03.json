@@ -26,6 +26,10 @@
             "Amiya - GM",
             "Amiya - GS",
             "unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "c1b1fa18-ecb6-4636-81d1-8e3b45d4636a"
     }
 }

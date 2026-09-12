@@ -7,6 +7,8 @@ usertag=th07
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th07
 alias=Ultimate Truth
 copyright=hisaraito,ZUN
+status=draft
+mbid=d764ced5-3a72-3d82-80d9-da7dea0e3c2c
 %---
 %------th07_12.txt_hisaraito.buf------
 OctavesBefore

@@ -7,6 +7,8 @@ usertag=th01
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th01
 alias=来吧,直到倒地死去的那一刻
 transcriber=Francium-223
+status=ok
+mbid=ce9de5f6-3327-48c1-b174-21bedef867de
 %---
 subtitle=intro
 KeepLength

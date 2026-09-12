@@ -7,6 +7,8 @@ usertag=th16
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th16
 alias=魔法的笠地藏
 copyright=ryoya1295
+status=draft
+mbid=ffc38828-36e7-43b4-ae4f-0284e34faddf
 %---
 %------th16_09.txt_ryoya1295.buf------
 OctavesBefore

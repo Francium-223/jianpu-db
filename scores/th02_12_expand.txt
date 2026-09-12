@@ -6,6 +6,8 @@ tag=th02,东方封魔录,东方,touhou,东方原曲,ZUN,东方旧作原曲,东�
 usertag=th02
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th02
 alias=Extra Love
+status=draft
+mbid=dd24ee73-362f-4ce9-97f8-3b14927ccaf1
 %---
 subtitle=intro
 ,6 - 3 - 6 - 7 - '1 - - - - - 7 -
@@ -18,6 +20,6 @@ subtitle=intro
 NextScore
 subtitle=layer
 %21713-671
-2q 1 ,7 1s ,3 
+2q 1 ,7 1s ,3
 %TODO:finish this
 %END

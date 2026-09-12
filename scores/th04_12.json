@@ -26,6 +26,10 @@
             "Blargzargo",
             "TouhouMIDICreator",
             "unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "d5d2185e-5fd6-3fca-9c47-62394a61c69e"
     }
 }

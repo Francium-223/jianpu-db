@@ -7,6 +7,8 @@ usertag=th11
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th11
 alias=漫游旧地狱街道
 copyright=ryoya1295,sagittarius shikoku,Susumu Takajima
+status=draft
+mbid=598c728c-9eff-3e48-9aab-aa4d62dea3ad
 %---
 %------th11_06.txt_ryoya1295.buf------
 OctavesBefore

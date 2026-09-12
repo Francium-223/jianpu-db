@@ -7,6 +7,8 @@ usertag=th01
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th01
 alias=星幽剑士,星幽天使
 transcriber=Francium-223
+status=ok
+mbid=791c053a-4ec5-493a-a297-e9c8d610d5b8
 %---
 subtitle=intro
 KeepLength

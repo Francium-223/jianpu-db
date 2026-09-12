@@ -7,6 +7,8 @@ usertag=th18
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th18
 alias=Smoking Dragon
 copyright=Karl Zuñiga,GS,GM2Native,TouhouMIDICreator
+status=draft
+mbid=ece21377-3938-42c3-bbdd-4f3209eeab0f
 %---
 %------th18_07.txt_Karl Zuñiga.buf------
 instrument=Elementics

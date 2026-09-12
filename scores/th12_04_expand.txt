@@ -7,6 +7,8 @@ usertag=th12
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th12
 alias=封闭的云中通路
 copyright=terebi
+status=draft
+mbid=76142d7e-796a-397d-b2b5-ebfb7ce57b83
 %---
 %------th12_04.txt_terebi.buf------
 instrument=Saw

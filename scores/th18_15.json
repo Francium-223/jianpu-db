@@ -28,6 +28,10 @@
             "GM2Native",
             "Native",
             "TouhouMIDICreator"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "d7e73b08-229a-4a9e-a482-e406bb86ec78"
     }
 }

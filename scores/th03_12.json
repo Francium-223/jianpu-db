@@ -26,6 +26,10 @@
             "Blargzargo",
             "Ezequiel-TM",
             "Unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "944f7034-5ac6-3df3-b0cd-091b0b67e948"
     }
 }

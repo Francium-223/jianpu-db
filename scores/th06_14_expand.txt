@@ -7,6 +7,8 @@ usertag=th06
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th06
 alias=魔法少女们的百年祭
 copyright=hisaraito,sweetmusic,unknown,ZUN
+status=draft
+mbid=d9e98ef6-b7e4-3431-8b53-867437ad81bd
 %---
 %------th06_14.txt_hisaraito.buf------
 OctavesBefore
