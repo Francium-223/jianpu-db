@@ -7,6 +7,8 @@ usertag=th05
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th05
 alias=不可思议之国的爱丽丝
 copyright=hisaraito,icebhm23230,rongns_2,sweetmusic,ZUN
+status=draft
+mbid=6aac7283-d2d8-39fe-9e13-36c579aefa42
 %---
 %------th05_16.txt_hisaraito.buf------
 OctavesBefore

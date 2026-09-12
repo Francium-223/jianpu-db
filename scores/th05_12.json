@@ -27,6 +27,10 @@
             "LeastLPZ",
             "TouhouMIDICreator",
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "8753c26a-938f-3295-b3c0-8a41b50ce84d"
     }
 }

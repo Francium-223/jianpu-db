@@ -1,12 +1,14 @@
 %th11_09.txt
 MBID=8ab06f70-a8fb-392e-98a9-83aa2a1b1ba2
-title=少女さとり　～ 3rd eye
+title=少女さとり ～ 3rd eye
 type=work
 tag=th11,东方地灵殿,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th11
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th11
-alias=少女觉　～ 3rd eye
+alias=少女觉 ～ 3rd eye
 copyright=Bessem,Hisaraito,icebhm23230,Kitaichi Rei,rongns_2,sweetmusic,Unknown,yoimutu
+status=draft
+mbid=8ab06f70-a8fb-392e-98a9-83aa2a1b1ba2
 %---
 %------th11_09.txt_Bessem.buf------
 instrument=Guitar 1 (Bm)

@@ -7,20 +7,22 @@ usertag=th01
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th01
 alias=东方怪奇谈
 transcriber=Francium-223
+status=ok
+mbid=8dc63e81-b445-4467-b012-756b31c34ef0
 %---
 subtitle=intro
 KeepLength
-'1q 6 3 '1 7 5 3 7 6 3 1 6 3 1 2 ,7
-3 1 ,6 3 2 ,7 ,5 2 1s ,6 ,3 1 ,7 ,5 ,3 ,7 ,6 ,3 ,1 ,6 ,3 ,,6 ,2 ,,#5
+'1q q6 q3 q'1 q7 q5 q3 q7 q6 q3 q1 q6 q3 q1 q2 q,7
+q3 q1 q,6 q3 q2 q,7 q,5 q2 1s s,6 s,3 s1 s,7 s,5 s,3 s,7 s,6 s,3 s,1 s,6 s,3 s,,6 s,2 s,,#5
 NextScore
 subtitle=intro
 KeepLength
-,6s ,6 3 ,6 ,6 2 1 ,7 ,6s ,6 3 ,6 ,6 ,7 1 2
-,6s ,6 3 ,6 ,6 2 1 ,7 ,6s ,6 3 ,6 ,6 ,7 1 2
+,6s s,6 s3 s,6 s,6 s2 s1 s,7 ,6s s,6 s3 s,6 s,6 s,7 s1 s2
+,6s s,6 s3 s,6 s,6 s2 s1 s,7 ,6s s,6 s3 s,6 s,6 s,7 s1 s2
 NextScore
 subtitle=verse
 KeepLength
- 0c 0 6 7 '1 - - - ~ '1q '1q '2 '3 '2 '1 7 5 6c - - - ~ 6q 6 7 '1 7 6 5 3 6c - - - ~ 6q 6 7 '1 7 6 3 6 3c - - - - - 6 7
-'1 - - - ~ '1q '1q '2 '3 '2 '1 7 5 6c - - - ~ 6q 6 7 '1 7 6 5 3 6c - - - ~ 6q 6 7 '1 7 6 3 6 3c - - - - - - -
-2c - - 5c ~ 5q 3c - - 2s 1s 2c. 5c. 6c 3c - - ~ 3q 3s 5s 6c - - ~ 6q 3s 5s 6c - - ~ 6q 3s 5s 6c. '1c 7s 6s 5c 6 - 6 7
+0c c0 c6 c7 c'1 c- c- c- c~ '1q '1q q'2 q'3 q'2 q'1 q7 q5 6c c- c- c- c~ 6q q6 q7 q'1 q7 q6 q5 q3 6c c- c- c- c~ 6q q6 q7 q'1 q7 q6 q3 q6 3c c- c- c- c- c- c6 c7
+c'1 c- c- c- c~ '1q '1q q'2 q'3 q'2 q'1 q7 q5 6c c- c- c- c~ 6q q6 q7 q'1 q7 q6 q5 q3 6c c- c- c- c~ 6q q6 q7 q'1 q7 q6 q3 q6 3c c- c- c- c- c- c- c-
+2c c- c- 5c c~ 5q 3c c- c- 2s 1s 2c. 5c. 6c 3c c- c- c~ 3q 3s 5s 6c c- c- c~ 6q 3s 5s 6c c- c- c~ 6q 3s 5s 6c. '1c 7s 6s 5c c6 c- c6 c7
 %END

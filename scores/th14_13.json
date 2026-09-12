@@ -29,6 +29,10 @@
             "TouhouMIDICreator",
             "unknown 2",
             "unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "d5447ac1-c303-471a-a4f1-90752726a0d5"
     }
 }

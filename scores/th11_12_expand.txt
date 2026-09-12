@@ -7,6 +7,8 @@ usertag=th11
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th11
 alias=业火地幔
 copyright=Akira,hisaraito,sagittarius shikoku,unknown
+status=draft
+mbid=d1381fea-73d6-3d0c-a6c8-450d5ad833fe
 %---
 %------th11_12.txt_Akira.buf------
 OctavesBefore

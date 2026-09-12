@@ -7,6 +7,8 @@ usertag=th05
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th05
 alias=Romantic Children
 copyright=TouhouMIDICreator,ZUN,sweetmusic
+status=draft
+mbid=b04e9995-56e6-3e9d-8e85-4c685edb1aec
 %---
 %------th05_06.txt_TouhouMIDICreator.buf------
 OctavesBefore

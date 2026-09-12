@@ -7,6 +7,8 @@ usertag=th05
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th05
 alias=世界的尽头　～ World's End
 copyright=LeastLPZ,ShinkoNetCavy
+status=draft
+mbid=4702541c-2dc7-4ccb-a18a-9a89c95d84a1
 %---
 %------th05_14.txt_LeastLPZ.buf------
 instrument=FM1

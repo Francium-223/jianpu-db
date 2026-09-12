@@ -7,6 +7,8 @@ usertag=th04
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th04
 alias=Alice Maestra
 copyright=Blargzargo,TouhouMIDICreator,yoshimo,ZUN - SC-88pro
+status=draft
+mbid=cd9febfb-dd0a-3b75-a77a-3b6982033965
 %---
 %------th04_09.txt_Blargzargo.buf------
 instrument=A
@@ -2243,7 +2245,7 @@ s,,6 s,,7 s,1 s,3 s,5 s,6 s,7 s1 s,,6 s,,7 s,1 s,3 s,5 s,6 s3 s,5
 s,,6 s,,7 s,1 s,3 s,5 s,6 s,7 s1 s,,6 s,,7 s,1 s,3 s,5 s,6 s3 s,5
 %---
 %------th04_09.txt_ZUN - SC-88pro.buf------
-instrument=y AX}GXe zfrom û¶z½  for sc-88Pro  Comp.ZUN
+instrument=y AX}GXe zfrom û¶z½ for sc-88Pro Comp.ZUN
 OctavesBefore
 1=C
 4/4

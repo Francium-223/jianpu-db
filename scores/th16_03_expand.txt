@@ -7,6 +7,8 @@ usertag=th16
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th16
 alias=仲夏的妖精梦
 copyright=ryoya1295
+status=draft
+mbid=2712b4f3-b8f7-4a5e-9c16-080c3ebc0ea7
 %---
 %------th16_03.txt_ryoya1295.buf------
 OctavesBefore

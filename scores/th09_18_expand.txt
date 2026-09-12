@@ -7,6 +7,8 @@ usertag=th09
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th09
 alias=花如幻想一般
 copyright=74644323,Kanade_KND34
+status=draft
+mbid=166bbb41-9c69-3d38-ab90-d77a035963e6
 %---
 %------th09_18.txt_74644323.buf------
 instrument=Acoustic Grand Piano

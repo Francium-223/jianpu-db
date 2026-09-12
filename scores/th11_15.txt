@@ -7,6 +7,8 @@ usertag=th11
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th11
 alias=哈德曼的妖怪少女
 copyright=akira,Ezequiel-TM,sagittarius shikoku,sweetmusic,unknown,yoimutu
+status=draft
+mbid=3bd91097-c4d6-3533-81f4-52b6042a9742
 %---
 %------th11_15.txt_akira.buf------
 OctavesBefore

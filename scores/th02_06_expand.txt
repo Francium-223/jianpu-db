@@ -6,24 +6,26 @@ tag=th02,东方封魔录,东方,touhou,东方原曲,ZUN,东方旧作原曲,东�
 usertag=th02
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th02
 alias=幻梦界
+status=ok
+mbid=c21c0bc4-ffb8-4aec-93d3-d5fe12e70519
 %---
 subtitle=intro
 KeepLength
-'1c. 1. '1 7. 2q 5c 4 3. 3. 6 ~ 6q 3c. 6 7
-'1c. 1. '2 7 '2 '4 '5 '3 - - - - - 6 7
-'1c. 1. '1 7. 2q 5c 4 3. 3. 6 ~ 6q 3c. 6 7
-'1c. 1. '2 7 '2 '4 '5 '3 - - - - - 6 7
+'1c. c1. c'1 c7. 2q 5c c4 c3. c3. c6 c~ 6q 3c. c6 c7
+'1c. c1. c'2 c7 c'2 c'4 c'5 c'3 c- c- c- c- c- c6 c7
+'1c. c1. c'1 c7. 2q 5c c4 c3. c3. c6 c~ 6q 3c. c6 c7
+'1c. c1. c'2 c7 c'2 c'4 c'5 c'3 c- c- c- c- c- c6 c7
 NextScore
 subtitle=verse
 KeepLength
-6c - - - 7q '1 '2 '3 7 '1 '2 6
-6c - - - 7q '1 '2 '3 7 '1 '2 6
-6c - - - 7q '1 '2 '3 '1 7 6 5
-3c - - - - - - -
-6c - - - 7q '1 '2 '3 7 '1 '2 6
-6c - - - 7q '1 '2 '3 7 '1 '2 6
-6c - - - 7q '1 '2 '3 '1 7 6 5
-3c - - - - - - -
+6c c- c- c- 7q q'1 q'2 q'3 q7 q'1 q'2 q6
+6c c- c- c- 7q q'1 q'2 q'3 q7 q'1 q'2 q6
+6c c- c- c- 7q q'1 q'2 q'3 q'1 q7 q6 q5
+3c c- c- c- c- c- c- c-
+6c c- c- c- 7q q'1 q'2 q'3 q7 q'1 q'2 q6
+6c c- c- c- 7q q'1 q'2 q'3 q7 q'1 q'2 q6
+6c c- c- c- 7q q'1 q'2 q'3 q'1 q7 q6 q5
+3c c- c- c- c- c- c- c-
 NextScore
 subtitle=verse
 '1 - - '1 7 - 5 4 3 - - - - - 6 7

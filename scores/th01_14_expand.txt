@@ -8,14 +8,16 @@ usertag=th01
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th01
 alias=鸢尾花
 transcriber=Francium-223
+status=ok
+mbid=7319499b-dd92-3fe2-9f5a-5cdfe57ee5eb
 %---
 subtitle=intro
 KeepLength
-0q 6 '1 6 0 5 7 5
-0 6 '1 6 7 '1 '2 '3
-0 6 '1 6 0 5 7 5
-0 6 '1 6 7 5 '2 '1
-0 6 '1 6 0 5 7 5
+0q q6 q'1 q6 q0 q5 q7 q5
+q0 q6 q'1 q6 q7 q'1 q'2 q'3
+q0 q6 q'1 q6 q0 q5 q7 q5
+q0 q6 q'1 q6 q7 q5 q'2 q'1
+q0 q6 q'1 q6 q0 q5 q7 q5
 NextScore
 subtitle=layer
 ''3 -

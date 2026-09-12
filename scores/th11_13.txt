@@ -7,6 +7,8 @@ usertag=th11
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th11
 alias=灵知的太阳信仰　～ Nuclear Fusion
 copyright=KR.Palto47 - GM2,KR.Palto47 - GS,ryoya1295,sweetmusic,Unknown
+status=draft
+mbid=6dd64a70-74c4-314c-ae38-2f8b36d51e46
 %---
 %------th11_13.txt_KR.Palto47 - GM2.buf------
 instrument=SD-90 FM Hard EP

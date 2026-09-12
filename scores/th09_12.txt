@@ -7,6 +7,8 @@ usertag=th09
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th09
 alias=剧毒身体　～ Forsaken Doll
 copyright=aoba-ss,Kanade_KND34
+status=draft
+mbid=fcd504a3-fa33-39a0-91c1-ffc60e8b336a
 %---
 %------th09_12.txt_aoba-ss.buf------
 instrument=|CY{fB@` Forsaken Doll

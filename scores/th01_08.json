@@ -24,6 +24,10 @@
         ],
         "transcriber": [
             "Francium-223"
-        ]
+        ],
+        "status": [
+            "ok"
+        ],
+        "mbid": "740fb474-2d7c-4df2-bab6-57d64438fecd"
     }
 }

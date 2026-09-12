@@ -7,6 +7,8 @@ usertag=th12
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th12
 alias=守旧老爹与前卫少女
 copyright=sweetmusic,terebi
+status=draft
+mbid=c76e465d-1c4e-3d6b-bbc3-c72c093799ef
 %---
 %------th12_07.txt_sweetmusic.buf------
 OctavesBefore

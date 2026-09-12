@@ -7,37 +7,39 @@ usertag=th01
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th01
 alias=来吧,直到倒地死去的那一刻
 transcriber=Francium-223
+status=ok
+mbid=ce9de5f6-3327-48c1-b174-21bedef867de
 %---
 subtitle=intro
 KeepLength
-,6q ,7 1 ,6 ,7 1 2 ,7 1 2 3 1 2 1 ,7 ,5
-,6q ,7 1 ,6 ,7 1 2 ,7 1 2 3 1 2 1 ,7 ,5
-1 2 3 1 2 3 4 2 3 4 5 3 4 3 2 ,5
-1 2 3 1 2 3 4 2 3 4 5 3 4 3 2 ,5
+,6q q,7 q1 q,6 q,7 q1 q2 q,7 q1 q2 q3 q1 q2 q1 q,7 q,5
+,6q q,7 q1 q,6 q,7 q1 q2 q,7 q1 q2 q3 q1 q2 q1 q,7 q,5
+q1 q2 q3 q1 q2 q3 q4 q2 q3 q4 q5 q3 q4 q3 q2 q,5
+q1 q2 q3 q1 q2 q3 q4 q2 q3 q4 q5 q3 q4 q3 q2 q,5
 NextScore
 subtitle=layer
 KeepLength
-0 ,6 ,6. ,6q ,6c. ,5. ,6 0 ,6 ,6. 3q 2c. 1c 1q ,7 ,5
+0 ,6 ,6. ,6q ,6c. c,5. c,6 c0 c,6 c,6. 3q 2c. 1c 1q q,7 q,5
 NextScore
 subtitle=verse
 KeepLength
-,6 - - - - ,6s ,7q 0s 1q ,7 ,5 ,7 ,6c - 3 - ,7 - - ~ ,7q ,5 
-,6s ,5 ,6q 3q ,6s ,5 ,6q 5 3s 2 1q 3c - - -
-,6s ,5 ,6q 3q ,6s ,5 ,6q 5 3s 2 1q ,6c - - ,5
+,6 - - - - ,6s ,7q 0s 1q q,7 q,5 q,7 ,6c c- c3 c- c,7 c- c- c~ ,7q q,5
+,6s s,5 ,6q 3q ,6s s,5 ,6q q5 3s s2 1q 3c c- c- c-
+,6s s,5 ,6q 3q ,6s s,5 ,6q q5 3s s2 1q ,6c c- c- c,5
 NextScore
 subtitle=pre-chorus
 KeepLength
-,4q. ,6. 1 ,7. ,6. ,5 ,6c - - - 
-,3q. ,6. 1 ,7. 1. 2 ,6c - - -
-,4q. ,6. 1 ,7. ,6. ,5 ,6c - - - 
-,3q. ,6. 1 ,7. 1. 2 3c - - ~ 3q 2s 1
-2c - ,7q 1 2 ,7 1c - ,6 1 ,7c 1q 2c 1q ,7c 1 - ,6 1
-2c - ,7q 1 2 ,7 1c - ,6 1 2c - - 3 4q. 2. 4 5. 3. ,7
+,4q. q,6. q1 q,7. q,6. q,5 ,6c c- c- c-
+,3q. q,6. q1 q,7. q1. q2 ,6c c- c- c-
+,4q. q,6. q1 q,7. q,6. q,5 ,6c c- c- c-
+,3q. q,6. q1 q,7. q1. q2 3c c- c- c~ 3q 2s s1
+2c c- ,7q q1 q2 q,7 1c c- c,6 c1 ,7c 1q 2c 1q ,7c c1 c- c,6 c1
+2c c- ,7q q1 q2 q,7 1c c- c,6 c1 2c c- c- c3 4q. q2. q4 q5. q3. q,7
 NextScore
 subtitle=chorus
 KeepLength
-6q 3c 6 7q '1 '2 7c - 6 5 4q. 5. 6 5c 4 3 - 1 -
-2q. 3. 4 ,6. 5. 4 3. 2. 3 ,6. 4. 3 2c. ,7. 2 3 - - -
-6q 3c 6 7q '1 '2 7c - 6 5 4q. 5. 6 5c 4 3 - 1 -
-2q. 3. 4 ,6. 5. 4 3. 2. 3 6. 3. 2 2c. ,7. 2 1 - ,7 - 1c - - - - - ,7 -
+6q 3c c6 7q q'1 q'2 7c c- c6 c5 4q. q5. q6 5c c4 c3 c- c1 c-
+2q. q3. q4 q,6. q5. q4 q3. q2. q3 q,6. q4. q3 2c. c,7. c2 c3 c- c- c-
+6q 3c c6 7q q'1 q'2 7c c- c6 c5 4q. q5. q6 5c c4 c3 c- c1 c-
+2q. q3. q4 q,6. q5. q4 q3. q2. q3 q6. q3. q2 2c. c,7. c2 c1 c- c,7 c- 1c c- c- c- c- c- c,7 c-
 %END

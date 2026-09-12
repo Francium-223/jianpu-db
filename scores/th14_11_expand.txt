@@ -7,6 +7,8 @@ usertag=th14
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th14
 alias=Reverse Ideology
 copyright=TouhouMIDICreator,unknown 2,unknown
+status=draft
+mbid=627e08fd-0b61-4410-9140-32b9b4b72aa6
 %---
 %------th14_11.txt_TouhouMIDICreator.buf------
 OctavesBefore

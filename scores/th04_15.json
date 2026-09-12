@@ -32,6 +32,10 @@
             "TouhouMIDICreator",
             "Wobuffet3",
             "ZUN - SC-88pro"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "3d356e3c-31ca-3818-ab1b-9f93bed84d88"
     }
 }

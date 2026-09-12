@@ -11,6 +11,6 @@ for i in files:
 for i in a:
 	print('Parsing:', i.score)
 	i.parse()
-	b.update({i.mbid : i.others})
+	b.update({i.score.split('/')[-1] : i.others})
 with open('./data.json', 'w', encoding='utf-8') as f:
 	json.dump(b, f, indent=4, ensure_ascii=False)

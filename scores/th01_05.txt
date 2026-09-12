@@ -7,6 +7,8 @@ usertag=th01
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th01
 alias=东方怪奇谈
 transcriber=Francium-223
+status=ok
+mbid=8dc63e81-b445-4467-b012-756b31c34ef0
 %---
 subtitle=intro
 KeepLength

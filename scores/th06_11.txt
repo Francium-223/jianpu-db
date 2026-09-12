@@ -7,6 +7,8 @@ usertag=th06
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th06
 alias=月时计　～ Luna Dial
 copyright=sweetmusic,ZUN
+status=draft
+mbid=ee4a2a47-16f5-36b2-b9b2-1d3481eba56c
 %---
 %------th06_11.txt_sweetmusic.buf------
 OctavesBefore

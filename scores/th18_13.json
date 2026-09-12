@@ -28,6 +28,10 @@
             "KR.Palto47 - GS",
             "KR.Palto47 - SD90",
             "KR.Palto47 - XG"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "08d3cf9b-8472-4cfd-88b6-650f2472f27c"
     }
 }

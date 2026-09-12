@@ -7,6 +7,8 @@ usertag=th10
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th10
 alias=芥川龙之介的河童　～ Candid Friend
 copyright=hisaraito,LeastLPZ,sweetmusic,TouhouMIDICreator - Ver. 2,TouhouMIDICreator
+status=draft
+mbid=7ec5116d-3116-3320-83c2-5a330875ac14
 %---
 %------th10_07.txt_hisaraito.buf------
 OctavesBefore

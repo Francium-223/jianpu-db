@@ -7,17 +7,19 @@ usertag=th01
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th01
 alias=The Legend of KAGE
 transcriber=Francium-223
+status=ok
+mbid=c9debb19-1ac5-42a6-a867-b6b0e2c0ac08
 %---
 subtitle=intro
 KeepLength
-3q 6 7 '1 7 6 3 7s '1 7q 6 3 7s '1 7q 6 3 2 4q 6 7 '1 7 6 4 7s '1 7q 6 4 7s '1 7q 6 4 2
-3q 6 7 '1 7 6 3 7s '1 7q 6 3 7s '1 7q 6 3 2 4q 6 7 '1 7 6 4 7s '1 7q 6 4 7s '1 7q 6 4 2
+3q q6 q7 q'1 q7 q6 q3 7s s'1 7q q6 q3 7s s'1 7q q6 q3 q2 4q q6 q7 q'1 q7 q6 q4 7s s'1 7q q6 q4 7s s'1 7q q6 q4 q2
+3q q6 q7 q'1 q7 q6 q3 7s s'1 7q q6 q3 7s s'1 7q q6 q3 q2 4q q6 q7 q'1 q7 q6 q4 7s s'1 7q q6 q4 7s s'1 7q q6 q4 q2
 NextScore
 subtitle=verse
 KeepLength
-,6c - 3. 2s 3 2c - - 1q ,7 ,6q. ,7. 1 1q. 5. 2 1c - - -
-,6c - 3. 2s 3 2c - - 1q ,7 ,6q. ,7. 1 2q. ,7. 2 3c - - -
-4c - ~ 4q 4 5 4 3q. 2. 1 ~ 1c ,7 - 1q. ,6q. 3q ~ 3c - - ~ 3q 2 1 ,7 1c. ,6c. 3 ~ 3 - - - 1c. ,6c. 2 4q. 2. 4 #5. 3. #5
+,6c c- c3. 2s s3 2c c- c- 1q q,7 ,6q. q,7. q1 1q. q5. q2 1c c- c- c-
+,6c c- c3. 2s s3 2c c- c- 1q q,7 ,6q. q,7. q1 2q. q,7. q2 3c c- c- c-
+4c c- c~ 4q q4 q5 q4 3q. q2. q1 q~ 1c c,7 c- 1q. ,6q. 3q q~ 3c c- c- c~ 3q q2 q1 q,7 1c. ,6c. c3 c~ c3 c- c- c- 1c. ,6c. c2 4q. q2. q4 q#5. q3. q#5
 NextScore
 subtitle=chorus
 ,6c. 2s 3s ,6c - '3 - - ~ '3q ,6s ,5s

@@ -7,6 +7,8 @@ usertag=th07
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th07
 alias=人偶裁判　～ 玩弄人形的少女
 copyright=hisaraito - Version 2,hisaraito,icebhm23230,sweetmusic,ZUN
+status=draft
+mbid=4e48ac49-e03d-36d6-b140-45f40cd23fbe
 %---
 %------th07_07.txt_hisaraito - Version 2.buf------
 OctavesBefore

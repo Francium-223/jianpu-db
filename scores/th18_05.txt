@@ -7,6 +7,8 @@ usertag=th18
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th18
 alias=Banditry Technology
 copyright=Karl Zuñiga
+status=draft
+mbid=974d83dd-ff41-40ae-9974-bb685f673227
 %---
 %------th18_05.txt_Karl Zuñiga.buf------
 instrument=Elementics

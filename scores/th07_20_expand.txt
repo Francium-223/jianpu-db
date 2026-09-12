@@ -1,12 +1,14 @@
 %th07_20.txt
 MBID=665804aa-7b9f-3721-9bf8-269ad9ee3968
-title=さくらさくら　～ Japanize Dream...
+title=さくらさくら ～ Japanize Dream...
 type=work
 tag=th07,东方妖妖梦,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th07
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th07
-alias=樱花樱花　～ Japanize Dream...
+alias=樱花樱花 ～ Japanize Dream...
 copyright=Baka94,ZUN
+status=draft
+mbid=665804aa-7b9f-3721-9bf8-269ad9ee3968
 %---
 %------th07_20.txt_Baka94.buf------
 instrument=Strings

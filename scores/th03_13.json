@@ -26,6 +26,10 @@
             "Blargzargo",
             "CommonShitSandwich",
             "TouhouMIDICreator"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "ee92ca51-f7e1-4b67-b1a7-cd9c97dfbd4c"
     }
 }

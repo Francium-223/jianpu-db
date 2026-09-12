@@ -7,6 +7,8 @@ usertag=th14
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th14
 alias=幻想净琉璃
 copyright=pieordie1
+status=draft
+mbid=17d79100-4b6b-4a4f-82ef-c13bc0e72e24
 %---
 %------th14_09.txt_pieordie1.buf------
 OctavesBefore

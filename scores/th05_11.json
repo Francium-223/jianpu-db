@@ -25,6 +25,10 @@
         "copyright": [
             "TouhouMIDICreator",
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "50cc71da-1a03-3308-a176-c6cb33b016a0"
     }
 }

@@ -7,6 +7,8 @@ usertag=th07
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th07
 alias=Crystallize Silver
 copyright=ZUN
+status=draft
+mbid=c66a10d4-0007-31fe-a15e-47e604a78c18
 %---
 %------th07_03.txt_ZUN.buf------
 OctavesBefore

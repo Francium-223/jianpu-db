@@ -7,6 +7,8 @@ usertag=th15
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th15
 alias=冻结的永远之都
 copyright=pieordie1,ryoya1295
+status=draft
+mbid=0ac94c6e-386a-463c-aa18-52f3a8d9a4b9
 %---
 %------th15_08.txt_pieordie1.buf------
 OctavesBefore

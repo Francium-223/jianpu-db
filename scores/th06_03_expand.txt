@@ -7,6 +7,8 @@ usertag=th06
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th06
 alias=妖魔夜行
 copyright=hisaraito,icebhm23230 - XG,sagittarius shikoku,sweetmusic,ZUN
+status=draft
+mbid=fdff3cfe-f414-3aad-b692-9890ff03ec90
 %---
 %------th06_03.txt_hisaraito.buf------
 OctavesBefore
@@ -1484,7 +1486,7 @@ q,,b6 q,,b6 q,,b6 q,,b7 q,,b6 q,,b6 q,,b7 q,,b6
 q,,b6 q,,b7 q,,b6 q,,b7 q,,b6 q,,b7 q,,b6 q,,b7
 %---
 %------th06_03.txt_ZUN.buf------
-instrument=y dés z from ûg½  for 88Pro Comp.ZUN
+instrument=y dés z from ûg½ for 88Pro Comp.ZUN
 OctavesBefore
 1=C
 4/4

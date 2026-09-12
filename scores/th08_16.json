@@ -21,6 +21,10 @@
         ],
         "alias": [
             "Voyage1970"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "0dbf445c-fa68-4aed-a914-92480a98082e"
     }
 }

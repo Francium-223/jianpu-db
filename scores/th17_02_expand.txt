@@ -7,6 +7,8 @@ usertag=th17
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th17
 alias=只有地藏知晓的哀叹
 copyright=ryoya1295
+status=draft
+mbid=05291a41-1bf1-4bcd-af00-dff986f55c2e
 %---
 %------th17_02.txt_ryoya1295.buf------
 OctavesBefore

@@ -7,6 +7,8 @@ usertag=th02
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th02
 alias=She's in a temper!!
 transcriber=Francium-223
+status=ok
+mbid=fc51f565-56ca-4856-8b44-15e6869c8c23
 %---
 subtitle=intro
 KeepLength

@@ -7,6 +7,8 @@ usertag=th05
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th05
 alias=神话幻想　～ Infinite Being
 copyright=unknown
+status=draft
+mbid=23220726-7873-3c17-ab4e-4f298a04b107
 %---
 %------th05_15.txt_unknown.buf------
 OctavesBefore

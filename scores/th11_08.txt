@@ -7,6 +7,8 @@ usertag=th11
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th11
 alias=Heartfelt Fancy
 copyright=hisaraito,leastLPZ,unknown
+status=draft
+mbid=fd71b1a4-b659-3d33-ab20-7384cac36778
 %---
 %------th11_08.txt_hisaraito.buf------
 OctavesBefore

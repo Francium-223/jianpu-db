@@ -7,6 +7,8 @@ usertag=th03
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th03
 alias=魔法钟爱
 copyright=average,Blargzargo,CommonShitSandwich,Hasaraito,sweetmusic,TouhouMIDICreator,Unknown,Wobuffet3
+status=draft
+mbid=b873f5df-2e9b-4fe5-8573-aaedcc9545c8
 %---
 %------th03_14.txt_average.buf------
 OctavesBefore

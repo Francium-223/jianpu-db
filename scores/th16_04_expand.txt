@@ -7,6 +7,8 @@ usertag=th16
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th16
 alias=妖怪山间无色风
 copyright=ryoya1295
+status=draft
+mbid=a8092000-3112-450d-a480-139136b918c2
 %---
 %------th16_04.txt_ryoya1295.buf------
 OctavesBefore

@@ -7,6 +7,8 @@ usertag=th04
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th04
 alias=Arcadian Dream
 copyright=Blargzargo
+status=draft
+mbid=0396dc40-a25a-3ee7-a127-fde42b59e946
 %---
 %------th04_21.txt_Blargzargo.buf------
 instrument=A

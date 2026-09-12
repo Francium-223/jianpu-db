@@ -7,6 +7,8 @@ usertag=th07
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th07
 alias=东方妖妖梦　～ Ancient Temple
 copyright=ZUN
+status=draft
+mbid=f5075e60-abc6-30a7-a0eb-fbfe8968f6ef
 %---
 %------th07_10.txt_ZUN.buf------
 OctavesBefore

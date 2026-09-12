@@ -7,6 +7,8 @@ usertag=th05
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th05
 alias=灵魂安息之所
 copyright=LeastLPZ
+status=draft
+mbid=569296d9-e5cd-3a50-83d5-18bf46cb2e6e
 %---
 %------th05_23.txt_LeastLPZ.buf------
 instrument=FM1

@@ -7,6 +7,8 @@ usertag=th03
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th03
 alias=东方的蓝色天空
 copyright=Blargzargo
+status=draft
+mbid=fa7f3e8b-18a3-46c9-996f-1624612973f0
 %---
 %------th03_16.txt_Blargzargo.buf------
 instrument=A

@@ -7,6 +7,8 @@ usertag=th05
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th05
 alias=Peaceful Romancer
 copyright=ryoya1295,ZUN
+status=draft
+mbid=4b9094a9-5ba6-418d-ac91-3aaa03c50292
 %---
 %------th05_22.txt_ryoya1295.buf------
 OctavesBefore
@@ -1390,7 +1392,7 @@ q,,5 q,,5 q,2 q,,5 q,,4 q,,6 q,1 q,,#3
 q,,#2 q,,#2 q,,b7 q,,#2 q,,4 q,,6 q,1 q,,4
 %---
 %------th05_22.txt_ZUN.buf------
-instrument=y Peaceful Romancer z from öãYk@for sc-8850  comp.ZUN
+instrument=y Peaceful Romancer z from öãYk@for sc-8850 comp.ZUN
 OctavesBefore
 1=C
 4/4

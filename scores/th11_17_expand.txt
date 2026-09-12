@@ -1,12 +1,14 @@
 %th11_17.txt
 MBID=610ff82b-17ea-31cb-9bf9-d13ce29f538d
-title=エネルギー黎明　～ Future Dream...
+title=エネルギー黎明 ～ Future Dream...
 type=work
 tag=th11,东方地灵殿,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th11
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th11
-alias=能源黎明　～ Future Dream...
+alias=能源黎明 ～ Future Dream...
 copyright=takashi
+status=draft
+mbid=610ff82b-17ea-31cb-9bf9-d13ce29f538d
 %---
 %------th11_17.txt_takashi.buf------
 OctavesBefore

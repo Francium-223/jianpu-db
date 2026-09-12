@@ -6,6 +6,8 @@ tag=th02,东方封魔录,东方,touhou,东方原曲,ZUN,东方旧作原曲,东�
 usertag=th02
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th02
 alias=恋色Magic
+status=ok
+mbid=f880369e-a19e-3719-a45d-706c194c1f3e
 %---
 subtitle=intro
 R{ 3 - - - 3 6 7 '1

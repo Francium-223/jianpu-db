@@ -7,18 +7,20 @@ usertag=th02
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th02
 alias=She's in a temper!!
 transcriber=Francium-223
+status=ok
+mbid=fc51f565-56ca-4856-8b44-15e6869c8c23
 %---
 subtitle=intro
 KeepLength
-3q. 3. 2c 5q 3c 3q. 3. 2c 5q 3c 3q. 3. 2c 5q 6c 3q. 3. 2c 1q ,7c
-3q. 3. 2c 5q 3c 3q. 3. 2c 5q 3c 3q. 3. 2c 5q 6c 3q. 3. 6c 7q '1c
+3q. q3. 2c 5q 3c 3q. q3. 2c 5q 3c 3q. q3. 2c 5q 6c 3q. q3. 2c 1q ,7c
+3q. q3. 2c 5q 3c 3q. q3. 2c 5q 3c 3q. q3. 2c 5q 6c 3q. q3. 6c 7q '1c
 NextScore
 subtitle=chorus
 KeepLength
-3s 2 1 ,7 1c ~ 1q ,6 ,7 1 3s 2 1 ,7 1c ,6q 6c 5q 6 3c 5q ~ 5c - 6q 2c 3q 1 2 ,7c
-3s 2 1 ,7 1c ~ 1q ,6 ,7 1 3s 2 1 ,7 1c ,6q 6c 5q 6 3c 5q ~ 5c - 6q 3c 5q 7 '1 '2c
-,6s 2 3 ,6 2 3 6q ~ 6 3 2 3 ,6s 2 3 ,6 2 3 6q ~ 6 6 7 '1
-7s '1 7 6 1c ~ 1q 1 2 3 7s '1 7 6 1c ~ 1 -
-,6s 2 3 ,6 2 3 6q ~ 6 3 2 3 ,6s 2 3 ,6 2 3 6q ~ 6 6 7 '1
-7s '1 7 6 1c ~ 1q 1 2 3 7s '1 7 6 1c ~ 1 -
+3s s2 s1 s,7 1c c~ 1q q,6 q,7 q1 3s s2 s1 s,7 1c ,6q 6c 5q q6 3c 5q q~ 5c c- 6q 2c 3q q1 q2 ,7c
+3s s2 s1 s,7 1c c~ 1q q,6 q,7 q1 3s s2 s1 s,7 1c ,6q 6c 5q q6 3c 5q q~ 5c c- 6q 3c 5q q7 q'1 '2c
+,6s s2 s3 s,6 s2 s3 6q q~ q6 q3 q2 q3 ,6s s2 s3 s,6 s2 s3 6q q~ q6 q6 q7 q'1
+7s s'1 s7 s6 1c c~ 1q q1 q2 q3 7s s'1 s7 s6 1c c~ c1 c-
+,6s s2 s3 s,6 s2 s3 6q q~ q6 q3 q2 q3 ,6s s2 s3 s,6 s2 s3 6q q~ q6 q6 q7 q'1
+7s s'1 s7 s6 1c c~ 1q q1 q2 q3 7s s'1 s7 s6 1c c~ c1 c-
 %END

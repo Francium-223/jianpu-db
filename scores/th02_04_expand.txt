@@ -6,13 +6,15 @@ tag=th02,东方封魔录,东方,touhou,东方原曲,ZUN,东方旧作原曲,东�
 usertag=th02
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th02
 alias=End of Daylight
+status=ok
+mbid=3e340c28-e549-31e5-80fe-f9285eb5d2c9
 %---
 subtitle=intro
 3 - ,6 - 1 - 2 - ,6 - - - - - - -
 ,6 - 2 - 1 - 2 - ,6 2 - - - - - ,3
 ,6 - 2 - ,6 - 3 - 4 - - 5 2 - - -
 4 - - 5 2 - 6 5 2 - - - - - - 1
-,6 - - - - - - ,5q 1q ,6 - - - - - - ,5q 1q 
+,6 - - - - - - ,5q 1q ,6 - - - - - - ,5q 1q
 ,6 - - - - - - ,5q 1q ,6 - - - - - - ,5q 1q
 NextScore
 subtitle=layer
@@ -23,23 +25,23 @@ subtitle=layer
 NextScore
 subtitle=verse
 KeepLength
-3q 3 0 3 3 3 0 3 3 3 0 3 3 3 0 3
-3q 3 0 3 3 3 0 3 3 3 0 3 3 3 0 3
-1 1 0 1 1 1 0 1 1 1 0 1 1 1 0 1
-1 1 0 1 1 1 0 1 1 1 0 1 1 1 0 1
-2 2 0 2 2 2 0 2 2 2 0 2 2 2 0 2
-2 2 0 2 2 2 0 2 2 2 0 2 2 2 0 2
+3q q3 q0 q3 q3 q3 q0 q3 q3 q3 q0 q3 q3 q3 q0 q3
+3q q3 q0 q3 q3 q3 q0 q3 q3 q3 q0 q3 q3 q3 q0 q3
+q1 q1 q0 q1 q1 q1 q0 q1 q1 q1 q0 q1 q1 q1 q0 q1
+q1 q1 q0 q1 q1 q1 q0 q1 q1 q1 q0 q1 q1 q1 q0 q1
+q2 q2 q0 q2 q2 q2 q0 q2 q2 q2 q0 q2 q2 q2 q0 q2
+q2 q2 q0 q2 q2 q2 q0 q2 q2 q2 q0 q2 q2 q2 q0 q2
 NextScore
 subtitle=chorus
 KeepLength
-7q 6 3c - 2q 3 7q 6 3c - 2q 3
-6c 3q 2 3c ,6c ,6 ,3q ,2 ,3c ,6q ,7
-3c 2q 3 6 2 3 6 2 3 6 2 3 6 2 3
-6 2 3 6 1 2 ,7 ,5 ,6 ,2 ,3 ,5 ,1 ,2 ,,7 ,,5
-,,6 ,,3 ,,6 ,,7 ,1 ,3 ,6 ,7 1 3 6 7 '1 7 6 3
-2 3 6 2 3 6 2 3 6 2 3 6 2 3 6 ,7
-,7c ,6q ,7 3 ,6 ,7 3 ,6 ,7 6 7 '1 7 6 3
-2 3 6 2 3 6 2 3 6 2 3 6 2 3 6c
+7q q6 3c c- 2q q3 7q q6 3c c- 2q q3
+6c 3q q2 3c ,6c c,6 ,3q q,2 ,3c ,6q q,7
+3c 2q q3 q6 q2 q3 q6 q2 q3 q6 q2 q3 q6 q2 q3
+q6 q2 q3 q6 q1 q2 q,7 q,5 q,6 q,2 q,3 q,5 q,1 q,2 q,,7 q,,5
+q,,6 q,,3 q,,6 q,,7 q,1 q,3 q,6 q,7 q1 q3 q6 q7 q'1 q7 q6 q3
+q2 q3 q6 q2 q3 q6 q2 q3 q6 q2 q3 q6 q2 q3 q6 q,7
+,7c ,6q q,7 q3 q,6 q,7 q3 q,6 q,7 q6 q7 q'1 q7 q6 q3
+q2 q3 q6 q2 q3 q6 q2 q3 q6 q2 q3 q6 q2 q3 6c
 NextScore
 subtitle=outro
 3 - - - - - 2 5 6 - - - - - 6 7

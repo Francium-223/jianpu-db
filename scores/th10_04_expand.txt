@@ -1,12 +1,14 @@
 %th10_04.txt
 MBID=fb3dd9db-6660-35e5-a214-ed47a194552f
-title=厄神様の通り道　～ Dark Road
+title=厄神様の通り道 ～ Dark Road
 type=work
 tag=th10,东方风神录,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th10
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th10
-alias=厄神降临之路　～ Dark Road
+alias=厄神降临之路 ～ Dark Road
 copyright=icebhm23230 - GM,icebhm23230 - XG,komugi,sweetmusic
+status=draft
+mbid=fb3dd9db-6660-35e5-a214-ed47a194552f
 %---
 %------th10_04.txt_icebhm23230 - GM.buf------
 instrument=Touhou 10: Mountain of Faith - The Road of the Apotropaic God ~ Dark Road

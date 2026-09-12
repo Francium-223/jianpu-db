@@ -7,6 +7,8 @@ usertag=th05
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th05
 alias=Maple Wise
 copyright=TouhouMIDICreator,ZUN
+status=draft
+mbid=70489a2e-43e2-36a8-8c20-42b91f1ebbce
 %---
 %------th05_08.txt_TouhouMIDICreator.buf------
 OctavesBefore
@@ -1093,7 +1095,7 @@ s,,#6 s,,3 s,,#5 s,,#5 s,,#5 s,,#5 s,,#5 s,,#5 s,,#5 s,,#5 s,,#6 s,,3 s,,#5 s,,b
 s,,b7 s,,3 s,,b6 s,,b6 s,,b6 s,,b6 s,,b6 s,,b6 s,,b6 s,,b6 s,,b6 s,,b6 s,,b6
 %---
 %------th05_08.txt_ZUN.buf------
-instrument=y CvCY z from ûöïk@for sc-88Pro  comp.ZUN
+instrument=y CvCY z from ûöïk@for sc-88Pro comp.ZUN
 OctavesBefore
 1=C
 4/4

@@ -25,6 +25,10 @@
         "copyright": [
             "Blargzargo",
             "TouhouMIDICreator"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "fd2b7b5d-52a4-35e4-a5f0-3a21ab38bc26"
     }
 }

@@ -1,12 +1,14 @@
 %th06_06.txt
 MBID=2971335a-00d0-31a2-8b84-ecfc8ab72ae4
-title=上海紅茶館　～ Chinese Tea
+title=上海紅茶館 ～ Chinese Tea
 type=work
 tag=th06,东方红魔乡,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th06
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th06
-alias=上海红茶馆　～ Chinese Tea
+alias=上海红茶馆 ～ Chinese Tea
 copyright=Piano Only,rongns_2,SONARLE,unknown,ZUN
+status=draft
+mbid=2971335a-00d0-31a2-8b84-ecfc8ab72ae4
 %---
 %------th06_06.txt_Piano Only.buf------
 instrument=Setup
@@ -2890,7 +2892,7 @@ q'#1 q#4 s#5 s6 #5 3 q#1
 q3 q#1 q3 s3 #4 - - -
 %---
 %------th06_06.txt_ZUN.buf------
-instrument=y ãCgÙ  ` Chinese Tea zfrom ûg½ for 88P Comp.ZUN
+instrument=y ãCgÙ ` Chinese Tea zfrom ûg½ for 88P Comp.ZUN
 OctavesBefore
 1=C
 4/4

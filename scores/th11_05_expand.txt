@@ -7,6 +7,8 @@ usertag=th11
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th11
 alias=绿眼的嫉妒
 copyright=hisaraito,icebhm23230,sweetmusic,unknown
+status=draft
+mbid=c50f369c-a20c-3066-8756-5d6f81fd3e84
 %---
 %------th11_05.txt_hisaraito.buf------
 OctavesBefore

@@ -7,6 +7,8 @@ usertag=th18
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th18
 alias=虹色的世界
 copyright=Karl Zuñiga
+status=draft
+mbid=eda29a95-98dc-4236-9e1f-cc5476e9c4a8
 %---
 %------th18_17.txt_Karl Zuñiga.buf------
 instrument=TG3 (Model D Close)

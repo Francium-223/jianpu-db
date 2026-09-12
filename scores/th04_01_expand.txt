@@ -1,12 +1,14 @@
 %th04_01.txt
 MBID=8b405cae-344b-351c-9fe1-3f26a9194a40
-title=幻想郷　～ Lotus Land Story
+title=幻想郷 ～ Lotus Land Story
 type=work
 tag=th04,东方幻想乡,东方,touhou,东方原曲,ZUN,东方旧作原曲,东方整数作原曲
 usertag=th04
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th04
-alias=幻想乡　～ Lotus Land Story
+alias=幻想乡 ～ Lotus Land Story
 copyright=Blargzargo
+status=draft
+mbid=8b405cae-344b-351c-9fe1-3f26a9194a40
 %---
 %------th04_01.txt_Blargzargo.buf------
 instrument=A

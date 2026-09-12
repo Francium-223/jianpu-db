@@ -7,6 +7,8 @@ usertag=th10
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th10
 alias=少女曾见的日本原风景
 copyright=cross,rongns_2
+status=draft
+mbid=aefe2ca7-b1b0-3e00-85f4-d0e31bbd1d72
 %---
 %------th10_10.txt_cross.buf------
 instrument=piano

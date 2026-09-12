@@ -7,10 +7,12 @@ usertag=th01
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th01
 alias=破邪的小太刀
 transcriber=Francium-223
+status=ok
+mbid=740fb474-2d7c-4df2-bab6-57d64438fecd
 %---
 subtitle=intro
 KeepLength
-,6s 3 2 1 ,7 1 ,3 ,5 ,6c - - - ,6s 3 2 1 ,7 1 ,3 ,5 ,6c - - -
+,6s s3 s2 s1 s,7 s1 s,3 s,5 ,6c c- c- c- ,6s s3 s2 s1 s,7 s1 s,3 s,5 ,6c c- c- c-
 NextScore
 subtitle=verse
 0 0 0 ,6q ,7q 1. 3q 2q 1q ,7q 1q ,6 - 3 1q 2q 3c. 5q 4q 3q 2q 3q ~ 3 2 1 ,6q ,7q
@@ -18,10 +20,10 @@ subtitle=verse
 NextScore
 subtitle=chorus
 KeepLength
-0c 0 0q ,6 ,7 1 3c - ~ 3q ,6q ,7q ,1q 3c. 5q 3c 2q 1 2c. 1q ,7c ,5c ,6q ,7 ,1 2 3 ,6 ,7 1
-3c - ~ 3q ,6q ,7q ,1q 3c. 5q 3c 2q 1 2c. 1q ,7c 2c 3 - - -
+0c c0 0q q,6 q,7 q1 3c c- c~ 3q ,6q ,7q ,1q 3c. 5q 3c 2q q1 2c. 1q ,7c ,5c ,6q q,7 q,1 q2 q3 q,6 q,7 q1
+3c c- c~ 3q ,6q ,7q ,1q 3c. 5q 3c 2q q1 2c. 1q ,7c 2c c3 c- c- c-
 NextScore
 KeepLength
-2q 1 ,7c 1q ,7 ,6 ,3 ,6c - ,3c ,7q 1 ,7c 1q ,7c ,6q ,5c ,6c - ,3 -
-2q 1 ,7c 1q ,7 ,6 ,3 ,6c - ,3c ,7q 1 ,7c 1q ,7c ,6q ,5c 3 - - -
+2q q1 ,7c 1q q,7 q,6 q,3 ,6c c- ,3c ,7q q1 ,7c 1q ,7c ,6q ,5c ,6c c- c,3 c-
+2q q1 ,7c 1q q,7 q,6 q,3 ,6c c- ,3c ,7q q1 ,7c 1q ,7c ,6q ,5c c3 c- c- c-
 %END

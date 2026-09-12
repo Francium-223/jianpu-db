@@ -27,6 +27,10 @@
             "TouhouMIDICreator",
             "yoshimo",
             "ZUN - SC-88pro"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "cd9febfb-dd0a-3b75-a77a-3b6982033965"
     }
 }

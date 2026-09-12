@@ -7,9 +7,11 @@ usertag=th05
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th05
 alias=Dream Express
 copyright=ZUN
+status=draft
+mbid=42d38efa-2776-3c8e-8bf7-40535bb00917
 %---
 %------th05_02.txt_ZUN.buf------
-instrument=y Dream Express z from ûöãYk@for sc88Pro  comp.ZUN
+instrument=y Dream Express z from ûöãYk@for sc88Pro comp.ZUN
 OctavesBefore
 1=C
 4/4
