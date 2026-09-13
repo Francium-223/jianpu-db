@@ -1,0 +1,122 @@
+%th03_20.txt
+MBID=ed8e25a1-6d5c-42c0-93a2-8da96868de2a
+title=勝利デモ
+type=work
+tag=th03,东方梦时空,东方,touhou,东方原曲,ZUN,东方旧作原曲,东方整数作原曲
+usertag=th03
+tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th03
+alias=胜利对话
+copyright=Blargzargo
+%---
+%------th03_20.txt_Blargzargo.buf------
+instrument=A
+OctavesBefore
+1=C
+2/4
+d1 d2 d3
+4/4
+q2. q3. q4 q4. q3. q1
+q3. q4. q5 q'1. q'2. q'3
+1/4
+4/4
+R*1
+'4 - - -
+'4 - - -
+NextPart
+instrument=B
+OctavesBefore
+1=C
+2/4
+4/4
+R*1
+,,4 - - -
+,,5 - - -
+1/4
+4/4
+R*1
+,,6 - - -
+17/16
+,,6 ,,#5 - - -
+NextPart
+instrument=C
+OctavesBefore
+1=C
+2/4
+4/4
+R*1
+,,,b7 - - -
+,,1 - - -
+1/4
+4/4
+R*1
+,,2 - - -
+,,2 - - -
+NextPart
+instrument=D
+OctavesBefore
+1=C
+2/4
+4/4
+R*1
+q,b7. q1. q2 q2. q1. q,5
+q1. q2. q3 q5. q5. q'1
+1/4
+4/4
+R*1
+'2 - - -
+'2 - - -
+NextPart
+instrument=E
+OctavesBefore
+1=C
+2/4
+4/4
+R*1
+s'2 s'3 s'4 s'6 s'5 s'6 s'3 s'6 s'2 s'3 s'4 s'6 s'5 s'6 s'3 s'6
+s'2 s'3 s'4 s'6 s'5 s'4 s'3 s'4 s'3 s'4 s'5 s''1 s''1 s''2 s''3 s''5
+1/4
+4/4
+R*1
+s''2 s''3 s''6 s''2 s''3 s''6 s''2 s''3 s''6 s''2 s''3 s''6
+s''2 s''3 s''#5 s''2 s''3 s''#5 s''2 s''3 s''#5 s''2 s''3 s''#5
+NextPart
+instrument=G
+OctavesBefore
+1=C
+2/4
+4/4
+R*1
+q,b7. q1. q2 q2. q1. q,5
+q1. q2. q3 q5. q5. q'1
+1/4
+4/4
+R*1
+'2
+NextPart
+instrument=H
+OctavesBefore
+1=C
+2/4
+4/4
+R*1
+s'2 s'3 s'4 s'6 s'5 s'6 s'3 s'6 s'2 s'3 s'4 s'6 s'5 s'6 s'3 s'6
+s'2 s'3 s'4 s'6 s'5 s'4 s'3 s'4 s'3 s'4 s'5 s''1 s''1 s''2 s''3 s''5
+1/4
+4/4
+R*1
+s''2 s''3 s''6 s''2 s''3 s''6 s''2 s''3 s''6 s''2 s''3 s''6
+s''2 s''3 s''#5 s''2 s''3 s''#5 s''2 s''3 s''#5 s''2 s''3 s''#5
+NextPart
+instrument=I/K
+OctavesBefore
+1=C
+2/4
+h,,#4 h,,#4 h,,#4 h,,#4 h,,#4 h,,#4 h,,#4 h,,#4 h,,#4 h,,#4 h,,#4 h,,#4 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2 h,,#4 h,,2
+4/4
+h,#1 h,,2 h,,,7 h,,,7 h,,2
+h,,#6 h,,,7 h,,#6 h,,,7 h,,b7 h,,,7 h,,#6 h,,,7 h,,b7 h,,,7 h,,b7 h,,,7
+1/4
+4/4
+R*1
+h,,#4 h,,#4 h,,#4 h,,#4 h,,#4 h,,#4 h,,#4 h,,#4 h,,#4 h,,#4 h,,#4
+%END

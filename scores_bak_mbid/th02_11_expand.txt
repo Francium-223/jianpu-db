@@ -1,0 +1,42 @@
+%th02_11.txt
+MBID=dda8c8d7-4950-3140-b063-7a9d13e76337
+title=Complete Darkness
+type=work
+tag=th02,东方封魔录,东方,touhou,东方原曲,ZUN,东方旧作原曲,东方整数作原曲
+usertag=th02
+tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th02
+alias=Complete Darkness
+%---
+subtitle=intro
+KeepLength
+,6c. ,7. 1c ~ 1q 3c. 2q 1 ,7 1
+,6c. ,7. 1c ~ 1q 3c. 2q ,7 1 ,6
+,6c. ,7. 1c ~ 1q 2c. 1q ,7 ,6 ,5
+,6c. ,7. 1c ~ 1q 3c. 2q 3 6 3
+NextScore
+subtitle=layer
+6 - - - - - - -
+3 - - - 2 - 3 -
+6 - - - - - 6 7
+'1. 7. 6 '2 '1 7 5
+NextScore
+subtitle=verse
+KeepLength
+'1q 7s 6 ~ 6c - - - 6 7 '1
+7c. 3. 5 ~ 5 3 5 7
+'2. 6q 6c - - - 6 7
+'1. 7. 6 '2. '1. 7
+6 - - - - - - -
+5 - - - 3 - '3 -
+'2. 6q 6c - - - 6 7
+'1. 7. 6 '2 7 3 5
+NextScore
+subtitle=chorus
+KeepLength
+,6c. ,7. 1 ,7. ,1. 2
+1. 2. 3 1. ,7. ,5
+,6c. ,7. 1 ,7. ,1. 2 1. 2. 3 6 - - -
+,6c. ,7. 1 ,7. ,1. 2
+1. 2. 3 1. ,7. ,5
+,6c. ,7. 1 ,7. ,1. 2 2. #1q #1c - - - - -
+%END
