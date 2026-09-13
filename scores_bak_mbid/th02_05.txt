@@ -1,0 +1,27 @@
+%th02_05.txt
+MBID=f9faf531-00d4-41cb-85cc-f94d0c16bbf5
+title=やみのちから
+type=work
+tag=th02,东方封魔录,东方,touhou,东方原曲,ZUN,东方旧作原曲,东方整数作原曲
+usertag=th02
+tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th02
+alias=黑暗的力量
+%---
+subtitle=intro
+R4{ 3q 3q 3q 3s 3q 3s 3q 3q 2q
+3q 3q 3q 3s 3q 3s 3q 5q 5q }
+
+3q 3q 3q 3s 3q 3s 3q 3q #2q
+#2q #2q #2q #2s #2q #2s #4q 3q #2q
+NextScore
+subtitle=intro
+R{ ,6q 3q 2q 3q ,6q 3q 2q 3q
+,5q 2q 1q 2q ,5q 2q 1q 2q }
+NextScore
+subtitle=verse
+KeepLength
+R{ 0c 6 7q. 6. 7 '1. 7. 6 5. 4. 3
+0c 6 7q. '1. 7 6. 5. 4 3c 6
+0c 6 7q. 6. 7 '1. 7. 6 5. 4. 3
+6q. 3. 6 7. 3. 7 '1 - - '2 } A{ 7 5 3 1 | 7 5 '2 '5 }
+%END

@@ -1,0 +1,64 @@
+%th01_13.txt
+MBID=791c053a-4ec5-493a-a297-e9c8d610d5b8
+title=星幽剣士
+type=work
+tag=th01,东方灵异传,东方,touhou,东方原曲,ZUN,东方旧作原曲,东方整数作原曲
+usertag=th01
+tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th01
+alias=星幽剑士,星幽天使
+transcriber=Francium-223
+%---
+subtitle=intro
+KeepLength
+,6c 1 ,7q 1q ,5c ,6 1 ,7q 1q ,5c
+,6 1 ,7q 1q ,5c ,6 ~ ,6q ,6q ,7q 1q
+,7c 3 2q 3q ,7c ,7 3 2q 3q ,7c
+1 3 2q 3q ,7c 1
+,6c 1 ,7q 1q ,5c ,6 1 ,7q 1q ,5c
+,6 1 ,7q 1q ,5c ,6 ~ ,6q ,6q ,7q 1q
+,7c 3 2q 3q ,7c ,7 3 2q 3q ,7c
+1 3 2q 3q ,7c 1
+NextScore
+subtitle=verse
+6c '1c 7q '1q 5c 6c 3q '3c 3q 5q 6q
+6c '1c 7q 6q 5c 7c. '1q 5q 7q '3c
+6c '1c 7q '1q 5c 6c 3q '3c 3q 5q 6q
+6c '1c 7q 6q 5c 6 - - -
+6c '1c 7q '1q 5c 6c 3q '3c 3q 5q 6q
+6c '1c 7q 6q 5c 7c. '1q 5q 7q '3c
+6c '1c 7q '1q 5c 6c 3q '3c 3q 5q 6q
+6c '1c 7q 6q 5c 6 - - 5
+NextScore
+subtitle=pre-chorus
+KeepLength
+4c 5 6. 3q ~ 3q 3 5 6 ~ 6c -
+4c 5 6q 7c '1q
+4c 5 6. 3q ~ 3q 3 5 6 ~ 6c -
+4c 5 6q 7c '1q ~ A{ '1q '1 7 6 ~ 6c - | '1q '1 7 '2 ~ '2 '1 7 5 }
+NextScore
+subtitle=chorus
+KeepLength
+,6q ,6 1c 2q 3c ,7q ,7 ,7 1 ,7c ,6q ,5 ,3
+,6q ,6 1c 2q 3c ,7q ,7 ,7 1 ,7 ~ ,7c -
+,6q ,6 1 ,6 2q 3c ,7q ,7 ,7 1 ,7c ,6q ,5 ,3
+,6q ,6 1 ,6 2 3c 1q 1 1 3 6 ~ 6c - 
+NextScore
+subtitle=chorus
+KeepLength
+6c - ~ 6q 1 3 6 6c. 7. '1
+1c - ~ 1q 1 3 6 6c - ~ 6q 1 3 6
+6c - ~ 6q 1 3 6 6c. 7. '1
+7c. '1. '2 '1c. 7. 5
+'4 - ~ '4q '4 '3 '2
+'2c. 7. '2 '1. 7. 6 ~
+6 - - 6 6c - ~ 6q 6 7 '1
+7c. 5. 3 6c - ~ 6q 6 7 '1
+7c. '3. '2 '1c - ~ '1q '1 '2 '3
+'5c. '2. 7 '1c - ~ '1q '1 '2 '3
+'2c. '4. '5 '3 - - - '1 - 7 -
+NextScore
+subtitle=outro
+KeepLength
+5q 6 6c 7q '1 '1c 7q 5 3 6 ~ 6c -
+5q 6 6c 7q '1 '1c 7q '1 '2 7 ~ 7c -
+%END

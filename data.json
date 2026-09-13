@@ -1,5 +1,5 @@
 {
-    "52e3b2d1-80ff-35a7-b11f-f9342c08f22d": {
+    "th01_01.txt": {
         "file": "th01_01.txt",
         "type": "work",
         "title": "A Sacred Lot",
@@ -21,9 +21,13 @@
         ],
         "transcriber": [
             "Francium-223"
-        ]
+        ],
+        "status": [
+            "ok"
+        ],
+        "mbid": "52e3b2d1-80ff-35a7-b11f-f9342c08f22d"
     },
-    "310b3b07-ec9f-3e88-9fd8-529c17478179": {
+    "th01_02.txt": {
         "file": "th01_02.txt",
         "type": "work",
         "title": "永遠の巫女",
@@ -49,9 +53,13 @@
         ],
         "transcriber": [
             "Francium-223"
-        ]
+        ],
+        "status": [
+            "ok"
+        ],
+        "mbid": "310b3b07-ec9f-3e88-9fd8-529c17478179"
     },
-    "9207af95-131b-461e-b4a0-70095c3c1c90": {
+    "th01_03.txt": {
         "file": "th01_03.txt",
         "type": "work",
         "title": "Positive and Negative",
@@ -77,9 +85,13 @@
         ],
         "transcriber": [
             "Francium-223"
-        ]
+        ],
+        "status": [
+            "ok"
+        ],
+        "mbid": "9207af95-131b-461e-b4a0-70095c3c1c90"
     },
-    "781d4c42-ff9e-3add-a447-1df676c59866": {
+    "th01_04.txt": {
         "file": "th01_04.txt",
         "type": "work",
         "title": "Highly Responsive to Prayers",
@@ -104,9 +116,13 @@
         ],
         "transcriber": [
             "Francium-223"
-        ]
+        ],
+        "status": [
+            "ok"
+        ],
+        "mbid": "781d4c42-ff9e-3add-a447-1df676c59866"
     },
-    "8dc63e81-b445-4467-b012-756b31c34ef0": {
+    "th01_05.txt": {
         "file": "th01_05.txt",
         "type": "work",
         "title": "東方怪奇談",
@@ -131,9 +147,13 @@
         ],
         "transcriber": [
             "Francium-223"
-        ]
+        ],
+        "status": [
+            "ok"
+        ],
+        "mbid": "8dc63e81-b445-4467-b012-756b31c34ef0"
     },
-    "c5efa94f-21b4-39bf-af7f-2e4b2f56f47e": {
+    "th01_06.txt": {
         "file": "th01_06.txt",
         "type": "work",
         "title": "天使伝説",
@@ -158,9 +178,13 @@
         ],
         "transcriber": [
             "Francium-223"
-        ]
+        ],
+        "status": [
+            "ok"
+        ],
+        "mbid": "c5efa94f-21b4-39bf-af7f-2e4b2f56f47e"
     },
-    "1e0a6286-3b04-4bf5-80b7-da54aadfdb4f": {
+    "th01_07.txt": {
         "file": "th01_07.txt",
         "type": "work",
         "title": "Oriental Magician",
@@ -185,9 +209,13 @@
         ],
         "transcriber": [
             "Francium-223"
-        ]
+        ],
+        "status": [
+            "ok"
+        ],
+        "mbid": "1e0a6286-3b04-4bf5-80b7-da54aadfdb4f"
     },
-    "740fb474-2d7c-4df2-bab6-57d64438fecd": {
+    "th01_08.txt": {
         "file": "th01_08.txt",
         "type": "work",
         "title": "破邪の小太刀",
@@ -212,9 +240,13 @@
         ],
         "transcriber": [
             "Francium-223"
-        ]
+        ],
+        "status": [
+            "ok"
+        ],
+        "mbid": "740fb474-2d7c-4df2-bab6-57d64438fecd"
     },
-    "96c3ebb8-e045-45c3-a0de-898c9d3a6178": {
+    "th01_09.txt": {
         "file": "th01_09.txt",
         "type": "work",
         "title": "魔鏡",
@@ -239,9 +271,13 @@
         ],
         "transcriber": [
             "Francium-223"
-        ]
+        ],
+        "status": [
+            "ok"
+        ],
+        "mbid": "96c3ebb8-e045-45c3-a0de-898c9d3a6178"
     },
-    "c9debb19-1ac5-42a6-a867-b6b0e2c0ac08": {
+    "th01_10.txt": {
         "file": "th01_10.txt",
         "type": "work",
         "title": "The Legend of KAGE",
@@ -266,9 +302,13 @@
         ],
         "transcriber": [
             "Francium-223"
-        ]
+        ],
+        "status": [
+            "ok"
+        ],
+        "mbid": "c9debb19-1ac5-42a6-a867-b6b0e2c0ac08"
     },
-    "ce9de5f6-3327-48c1-b174-21bedef867de": {
+    "th01_11.txt": {
         "file": "th01_11.txt",
         "type": "work",
         "title": "いざ、倒れ逝くその時まで",
@@ -294,9 +334,13 @@
         ],
         "transcriber": [
             "Francium-223"
-        ]
+        ],
+        "status": [
+            "ok"
+        ],
+        "mbid": "ce9de5f6-3327-48c1-b174-21bedef867de"
     },
-    "9adbcb65-f873-493c-8477-a07511c0536f": {
+    "th01_12.txt": {
         "file": "th01_12.txt",
         "type": "work",
         "title": "死なばもろとも",
@@ -322,9 +366,13 @@
         ],
         "transcriber": [
             "Francium-223"
-        ]
+        ],
+        "status": [
+            "ok"
+        ],
+        "mbid": "9adbcb65-f873-493c-8477-a07511c0536f"
     },
-    "791c053a-4ec5-493a-a297-e9c8d610d5b8": {
+    "th01_13.txt": {
         "file": "th01_13.txt",
         "type": "work",
         "title": "星幽剣士",
@@ -350,9 +398,13 @@
         ],
         "transcriber": [
             "Francium-223"
-        ]
+        ],
+        "status": [
+            "ok"
+        ],
+        "mbid": "791c053a-4ec5-493a-a297-e9c8d610d5b8"
     },
-    "7319499b-dd92-3fe2-9f5a-5cdfe57ee5eb": {
+    "th01_14.txt": {
         "file": "th01_14.txt",
         "type": "work",
         "title": "アイリス",
@@ -377,9 +429,13 @@
         ],
         "transcriber": [
             "Francium-223"
-        ]
+        ],
+        "status": [
+            "ok"
+        ],
+        "mbid": "7319499b-dd92-3fe2-9f5a-5cdfe57ee5eb"
     },
-    "94c98b41-8a14-40a1-9bb1-96d3fb5b443e": {
+    "th01_15.txt": {
         "file": "th01_15.txt",
         "type": "work",
         "title": "風の神社",
@@ -404,9 +460,13 @@
         ],
         "transcriber": [
             "Francium-223"
-        ]
+        ],
+        "status": [
+            "ok"
+        ],
+        "mbid": "94c98b41-8a14-40a1-9bb1-96d3fb5b443e"
     },
-    "d2887acb-13ae-4213-a2f2-7b4b9fe42ca2": {
+    "th02_01.txt": {
         "file": "th02_01.txt",
         "type": "work",
         "title": "東方封魔録　～ 浄土曼荼羅",
@@ -431,9 +491,13 @@
         ],
         "transcriber": [
             "Francium-223"
-        ]
+        ],
+        "status": [
+            "ok"
+        ],
+        "mbid": "d2887acb-13ae-4213-a2f2-7b4b9fe42ca2"
     },
-    "2b2e2df0-20ce-3c72-813c-9483f809bc37": {
+    "th02_02.txt": {
         "file": "th02_02.txt",
         "type": "work",
         "title": "博麗　～Eastern Wind",
@@ -458,9 +522,13 @@
         ],
         "transcriber": [
             "Francium-223"
-        ]
+        ],
+        "status": [
+            "ok"
+        ],
+        "mbid": "2b2e2df0-20ce-3c72-813c-9483f809bc37"
     },
-    "fc51f565-56ca-4856-8b44-15e6869c8c23": {
+    "th02_03.txt": {
         "file": "th02_03.txt",
         "type": "work",
         "title": "She's in a temper!!",
@@ -485,9 +553,13 @@
         ],
         "transcriber": [
             "Francium-223"
-        ]
+        ],
+        "status": [
+            "ok"
+        ],
+        "mbid": "fc51f565-56ca-4856-8b44-15e6869c8c23"
     },
-    "3e340c28-e549-31e5-80fe-f9285eb5d2c9": {
+    "th02_04.txt": {
         "file": "th02_04.txt",
         "type": "work",
         "title": "End of Daylight",
@@ -509,9 +581,13 @@
         ],
         "alias": [
             "End of Daylight"
-        ]
+        ],
+        "status": [
+            "ok"
+        ],
+        "mbid": "3e340c28-e549-31e5-80fe-f9285eb5d2c9"
     },
-    "f9faf531-00d4-41cb-85cc-f94d0c16bbf5": {
+    "th02_05.txt": {
         "file": "th02_05.txt",
         "type": "work",
         "title": "やみのちから",
@@ -533,9 +609,13 @@
         ],
         "alias": [
             "黑暗的力量"
-        ]
+        ],
+        "status": [
+            "ok"
+        ],
+        "mbid": "f9faf531-00d4-41cb-85cc-f94d0c16bbf5"
     },
-    "c21c0bc4-ffb8-4aec-93d3-d5fe12e70519": {
+    "th02_06.txt": {
         "file": "th02_06.txt",
         "type": "work",
         "title": "幻夢界",
@@ -557,9 +637,13 @@
         ],
         "alias": [
             "幻梦界"
-        ]
+        ],
+        "status": [
+            "ok"
+        ],
+        "mbid": "c21c0bc4-ffb8-4aec-93d3-d5fe12e70519"
     },
-    "df689cc1-1fa6-4bb0-b9b5-5534896759bb": {
+    "th02_07.txt": {
         "file": "th02_07.txt",
         "type": "work",
         "title": "死を賭して",
@@ -581,9 +665,13 @@
         ],
         "alias": [
             "以死相赌"
-        ]
+        ],
+        "status": [
+            "ok"
+        ],
+        "mbid": "df689cc1-1fa6-4bb0-b9b5-5534896759bb"
     },
-    "74bbc8cf-274f-3d04-ab8f-67a1d8740cbf": {
+    "th02_08.txt": {
         "file": "th02_08.txt",
         "type": "work",
         "title": "ひもろぎ、むらさきにもえ",
@@ -606,9 +694,13 @@
         "alias": [
             "神篱",
             "如紫色火焰般燃烧"
-        ]
+        ],
+        "status": [
+            "ok"
+        ],
+        "mbid": "74bbc8cf-274f-3d04-ab8f-67a1d8740cbf"
     },
-    "f880369e-a19e-3719-a45d-706c194c1f3e": {
+    "th02_09.txt": {
         "file": "th02_09.txt",
         "type": "work",
         "title": "恋色マジック",
@@ -630,9 +722,13 @@
         ],
         "alias": [
             "恋色Magic"
-        ]
+        ],
+        "status": [
+            "ok"
+        ],
+        "mbid": "f880369e-a19e-3719-a45d-706c194c1f3e"
     },
-    "80a33287-ebe9-431d-bc14-8491768445a3": {
+    "th02_10.txt": {
         "file": "th02_10.txt",
         "type": "work",
         "title": "東方封魔録　～ 幽幻乱舞",
@@ -654,9 +750,13 @@
         ],
         "alias": [
             "东方封魔录　～ 幽幻乱舞"
-        ]
+        ],
+        "status": [
+            "ok"
+        ],
+        "mbid": "80a33287-ebe9-431d-bc14-8491768445a3"
     },
-    "dda8c8d7-4950-3140-b063-7a9d13e76337": {
+    "th02_11.txt": {
         "file": "th02_11.txt",
         "type": "work",
         "title": "Complete Darkness",
@@ -678,9 +778,13 @@
         ],
         "alias": [
             "Complete Darkness"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "dda8c8d7-4950-3140-b063-7a9d13e76337"
     },
-    "dd24ee73-362f-4ce9-97f8-3b14927ccaf1": {
+    "th02_12.txt": {
         "file": "th02_12.txt",
         "type": "work",
         "title": "エキストララブ",
@@ -702,9 +806,13 @@
         ],
         "alias": [
             "Extra Love"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "dd24ee73-362f-4ce9-97f8-3b14927ccaf1"
     },
-    "90ecf7e2-c90a-40ba-8fbd-95267ea3242b": {
+    "th02_13.txt": {
         "file": "th02_13.txt",
         "type": "work",
         "title": "戦車むすめのみるゆめ",
@@ -731,9 +839,13 @@
             "Blargzargo",
             "Wobuffet3",
             "Zun & Mr_KrzYchoo"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "90ecf7e2-c90a-40ba-8fbd-95267ea3242b"
     },
-    "dc84677c-7842-3a3f-8888-f5ca4596cd38": {
+    "th02_14.txt": {
         "file": "th02_14.txt",
         "type": "work",
         "title": "遠野の森",
@@ -760,9 +872,13 @@
             "Blargzargo",
             "TheDUBSpeedArts",
             "Zun & Mr_KrzYch00"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "dc84677c-7842-3a3f-8888-f5ca4596cd38"
     },
-    "925059a9-9902-427c-834b-fe149ed7c31e": {
+    "th02_15.txt": {
         "file": "th02_15.txt",
         "type": "work",
         "title": "昔話わんだーらんど",
@@ -789,9 +905,13 @@
             "Blargzargo",
             "TouhouMIDICreator",
             "Zun & Mr_KrzYch00"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "925059a9-9902-427c-834b-fe149ed7c31e"
     },
-    "083c3521-5dd2-4f40-a6b9-ced0a78c1428": {
+    "th03_01.txt": {
         "file": "th03_01.txt",
         "type": "work",
         "title": "夢は時空を越えて",
@@ -816,9 +936,13 @@
         ],
         "copyright": [
             "Blargzargo"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "083c3521-5dd2-4f40-a6b9-ced0a78c1428"
     },
-    "ea059928-2377-34f2-bc4b-6c155e909762": {
+    "th03_02.txt": {
         "file": "th03_02.txt",
         "type": "work",
         "title": "Selection",
@@ -844,9 +968,13 @@
         "copyright": [
             "Blargzargo",
             "Wobuffet3"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "ea059928-2377-34f2-bc4b-6c155e909762"
     },
-    "fd2b7b5d-52a4-35e4-a5f0-3a21ab38bc26": {
+    "th03_03.txt": {
         "file": "th03_03.txt",
         "type": "work",
         "title": "東方妖恋談",
@@ -872,9 +1000,13 @@
         "copyright": [
             "Blargzargo",
             "TouhouMIDICreator"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "fd2b7b5d-52a4-35e4-a5f0-3a21ab38bc26"
     },
-    "b3e895a4-900a-34d8-9a81-d1cb23316fd4": {
+    "th03_04.txt": {
         "file": "th03_04.txt",
         "type": "work",
         "title": "Reincarnation",
@@ -902,9 +1034,13 @@
             "hisaraito",
             "TheDUBSpeedArts",
             "Unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "b3e895a4-900a-34d8-9a81-d1cb23316fd4"
     },
-    "5bf008d6-4114-3771-bd76-ffc40621affb": {
+    "th03_05.txt": {
         "file": "th03_05.txt",
         "type": "work",
         "title": "Dim. Dream",
@@ -929,9 +1065,13 @@
         ],
         "copyright": [
             "Blargzargo"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "5bf008d6-4114-3771-bd76-ffc40621affb"
     },
-    "e7cbcd08-3cb1-4482-aaad-575246afb4ea": {
+    "th03_06.txt": {
         "file": "th03_06.txt",
         "type": "work",
         "title": "Tabula rasa　～ 空白少女",
@@ -958,9 +1098,13 @@
             "Blargzargo",
             "Piano Only",
             "ZUN - SC88pro"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "e7cbcd08-3cb1-4482-aaad-575246afb4ea"
     },
-    "abd1b5f7-e19e-482d-bc61-4abd70cdff2f": {
+    "th03_07.txt": {
         "file": "th03_07.txt",
         "type": "work",
         "title": "Maniacal Princess",
@@ -985,9 +1129,13 @@
         ],
         "copyright": [
             "Blargzargo"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "abd1b5f7-e19e-482d-bc61-4abd70cdff2f"
     },
-    "43591fbe-9922-4652-bc6b-c2481f418f93": {
+    "th03_08.txt": {
         "file": "th03_08.txt",
         "type": "work",
         "title": "夢消失　～ Lost Dream",
@@ -1021,9 +1169,13 @@
             "Unknown 2",
             "Unknown",
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "43591fbe-9922-4652-bc6b-c2481f418f93"
     },
-    "da8a62f6-3b65-3b3d-b331-7ae4398d9230": {
+    "th03_09.txt": {
         "file": "th03_09.txt",
         "type": "work",
         "title": "夢幻遊戯　～ Dream War",
@@ -1048,9 +1200,13 @@
         ],
         "copyright": [
             "Blargzargo"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "da8a62f6-3b65-3b3d-b331-7ae4398d9230"
     },
-    "2af759a2-f29c-4d1d-9420-61524dfdfc44": {
+    "th03_10.txt": {
         "file": "th03_10.txt",
         "type": "work",
         "title": "魔法決戦！　～ Fight it out!",
@@ -1076,9 +1232,13 @@
         "copyright": [
             "Blargzargo",
             "unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "2af759a2-f29c-4d1d-9420-61524dfdfc44"
     },
-    "adfb1342-efe8-406d-a6a9-79e729a44986": {
+    "th03_11.txt": {
         "file": "th03_11.txt",
         "type": "work",
         "title": "Sailor of Time",
@@ -1103,9 +1263,13 @@
         ],
         "copyright": [
             "Blargzargo"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "adfb1342-efe8-406d-a6a9-79e729a44986"
     },
-    "944f7034-5ac6-3df3-b0cd-091b0b67e948": {
+    "th03_12.txt": {
         "file": "th03_12.txt",
         "type": "work",
         "title": "Strawberry Crisis!!",
@@ -1132,9 +1296,13 @@
             "Blargzargo",
             "Ezequiel-TM",
             "Unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "944f7034-5ac6-3df3-b0cd-091b0b67e948"
     },
-    "ee92ca51-f7e1-4b67-b1a7-cd9c97dfbd4c": {
+    "th03_13.txt": {
         "file": "th03_13.txt",
         "type": "work",
         "title": "非統一魔法世界論",
@@ -1161,9 +1329,13 @@
             "Blargzargo",
             "CommonShitSandwich",
             "TouhouMIDICreator"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "ee92ca51-f7e1-4b67-b1a7-cd9c97dfbd4c"
     },
-    "b873f5df-2e9b-4fe5-8573-aaedcc9545c8": {
+    "th03_14.txt": {
         "file": "th03_14.txt",
         "type": "work",
         "title": "魔法鐘愛",
@@ -1195,9 +1367,13 @@
             "TouhouMIDICreator",
             "Unknown",
             "Wobuffet3"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "b873f5df-2e9b-4fe5-8573-aaedcc9545c8"
     },
-    "9377d6d1-5243-4843-ba79-f4587e79bdcf": {
+    "th03_15.txt": {
         "file": "th03_15.txt",
         "type": "work",
         "title": "久遠の夢",
@@ -1222,9 +1398,13 @@
         ],
         "copyright": [
             "Blargzargo"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "9377d6d1-5243-4843-ba79-f4587e79bdcf"
     },
-    "fa7f3e8b-18a3-46c9-996f-1624612973f0": {
+    "th03_16.txt": {
         "file": "th03_16.txt",
         "type": "work",
         "title": "東方の青い空",
@@ -1249,9 +1429,13 @@
         ],
         "copyright": [
             "Blargzargo"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "fa7f3e8b-18a3-46c9-996f-1624612973f0"
     },
-    "02553edf-b075-359e-b7d4-160f8e0a637a": {
+    "th03_17.txt": {
         "file": "th03_17.txt",
         "type": "work",
         "title": "永遠の満月",
@@ -1277,9 +1461,13 @@
         "copyright": [
             "Blargzargo",
             "ZUN SC88pro"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "02553edf-b075-359e-b7d4-160f8e0a637a"
     },
-    "a227043d-2d19-3f0d-bfd1-0cf2226e20fa": {
+    "th03_18.txt": {
         "file": "th03_18.txt",
         "type": "work",
         "title": "Maple Dream...",
@@ -1305,9 +1493,13 @@
         "copyright": [
             "Blargzargo",
             "Jacob31593"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "a227043d-2d19-3f0d-bfd1-0cf2226e20fa"
     },
-    "1e3754a6-f58d-4adf-8c68-69138a7247a4": {
+    "th03_19.txt": {
         "file": "th03_19.txt",
         "type": "work",
         "title": "霊人の休日",
@@ -1332,9 +1524,13 @@
         ],
         "copyright": [
             "Blargzargo"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "1e3754a6-f58d-4adf-8c68-69138a7247a4"
     },
-    "ed8e25a1-6d5c-42c0-93a2-8da96868de2a": {
+    "th03_20.txt": {
         "file": "th03_20.txt",
         "type": "work",
         "title": "勝利デモ",
@@ -1359,9 +1555,13 @@
         ],
         "copyright": [
             "Blargzargo"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "ed8e25a1-6d5c-42c0-93a2-8da96868de2a"
     },
-    "602a1982-8843-4d78-a032-ff2a92462cc1": {
+    "th03_21.txt": {
         "file": "th03_21.txt",
         "type": "work",
         "title": "ゲームオーバー",
@@ -1387,9 +1587,13 @@
         "copyright": [
             "Blargzargo",
             "TouhouMIDICreator"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "602a1982-8843-4d78-a032-ff2a92462cc1"
     },
-    "8b405cae-344b-351c-9fe1-3f26a9194a40": {
+    "th04_01.txt": {
         "file": "th04_01.txt",
         "type": "work",
         "title": "幻想郷　～ Lotus Land Story",
@@ -1414,9 +1618,13 @@
         ],
         "copyright": [
             "Blargzargo"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "8b405cae-344b-351c-9fe1-3f26a9194a40"
     },
-    "43a72f44-1fc6-37d0-aa3d-985e61b95cb4": {
+    "th04_02.txt": {
         "file": "th04_02.txt",
         "type": "work",
         "title": "Witching Dream",
@@ -1443,9 +1651,13 @@
             "Bessem",
             "Blargzargo",
             "ZUN - SC-88pro"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "43a72f44-1fc6-37d0-aa3d-985e61b95cb4"
     },
-    "c38c42b7-27d0-33f5-a5f9-36c4f495c0a6": {
+    "th04_03.txt": {
         "file": "th04_03.txt",
         "type": "work",
         "title": "Selene's light",
@@ -1471,9 +1683,13 @@
         "copyright": [
             "Blargzargo",
             "unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "c38c42b7-27d0-33f5-a5f9-36c4f495c0a6"
     },
-    "26618990-1d6e-345b-b6f6-a9e53ec4785c": {
+    "th04_04.txt": {
         "file": "th04_04.txt",
         "type": "work",
         "title": "装飾戦　～ Decoration Battle",
@@ -1498,9 +1714,13 @@
         ],
         "copyright": [
             "Blargzargo"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "26618990-1d6e-345b-b6f6-a9e53ec4785c"
     },
-    "6a866192-afd6-3749-8bac-31a90a0d7643": {
+    "th04_05.txt": {
         "file": "th04_05.txt",
         "type": "work",
         "title": "Break the Sabbath",
@@ -1525,9 +1745,13 @@
         ],
         "copyright": [
             "Blargzargo"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "6a866192-afd6-3749-8bac-31a90a0d7643"
     },
-    "37a77268-c1ce-3f39-b931-2da509c2b6c2": {
+    "th04_06.txt": {
         "file": "th04_06.txt",
         "type": "work",
         "title": "紅響曲　～ Scarlet Phoneme",
@@ -1553,9 +1777,13 @@
         "copyright": [
             "Blargzargo",
             "Wobuffet3"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "37a77268-c1ce-3f39-b931-2da509c2b6c2"
     },
-    "715a50b2-7525-3dbd-9d67-e0ed13d4c4b6": {
+    "th04_07.txt": {
         "file": "th04_07.txt",
         "type": "work",
         "title": "Bad Apple!!",
@@ -1584,9 +1812,13 @@
             "icebhm23230 - XG",
             "TouhouMIDICreator",
             "TrangOul"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "715a50b2-7525-3dbd-9d67-e0ed13d4c4b6"
     },
-    "86f214cf-2a73-3366-8164-92853dbcc681": {
+    "th04_08.txt": {
         "file": "th04_08.txt",
         "type": "work",
         "title": "霊戦　～ Perdition crisis",
@@ -1613,9 +1845,13 @@
             "Blargzargo",
             "TheDUBSpeedArts",
             "ZUN - SC-88pro"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "86f214cf-2a73-3366-8164-92853dbcc681"
     },
-    "cd9febfb-dd0a-3b75-a77a-3b6982033965": {
+    "th04_09.txt": {
         "file": "th04_09.txt",
         "type": "work",
         "title": "アリスマエステラ",
@@ -1643,9 +1879,13 @@
             "TouhouMIDICreator",
             "yoshimo",
             "ZUN - SC-88pro"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "cd9febfb-dd0a-3b75-a77a-3b6982033965"
     },
-    "08a016ec-18fc-34d9-9ab6-e3b6007787ef": {
+    "th04_10.txt": {
         "file": "th04_10.txt",
         "type": "work",
         "title": "少女綺想曲　～ Capriccio",
@@ -1672,9 +1912,13 @@
             "Blargzargo",
             "TouhouMIDICreator",
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "08a016ec-18fc-34d9-9ab6-e3b6007787ef"
     },
-    "32915e47-05db-3d2a-b833-5935d1c16549": {
+    "th04_11.txt": {
         "file": "th04_11.txt",
         "type": "work",
         "title": "星の器　～ Casket of Star",
@@ -1701,9 +1945,13 @@
             "Bessem",
             "Blargzargo",
             "ZUN - SC-88Pro"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "32915e47-05db-3d2a-b833-5935d1c16549"
     },
-    "d5d2185e-5fd6-3fca-9c47-62394a61c69e": {
+    "th04_12.txt": {
         "file": "th04_12.txt",
         "type": "work",
         "title": "Lotus Love",
@@ -1730,9 +1978,13 @@
             "Blargzargo",
             "TouhouMIDICreator",
             "unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "d5d2185e-5fd6-3fca-9c47-62394a61c69e"
     },
-    "44f5bfaf-9180-319d-9242-9ebf0c365da6": {
+    "th04_13.txt": {
         "file": "th04_13.txt",
         "type": "work",
         "title": "眠れる恐怖　～Sleeping Terror",
@@ -1761,9 +2013,13 @@
             "icebhm23230 - XG",
             "TouhouMIDICreator",
             "ZUN - SC-88pro"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "44f5bfaf-9180-319d-9242-9ebf0c365da6"
     },
-    "749b67b7-604b-3479-92a4-37693ed8319e": {
+    "th04_14.txt": {
         "file": "th04_14.txt",
         "type": "work",
         "title": "Dream Land",
@@ -1791,9 +2047,13 @@
             "CommonShitSandwich",
             "TouhouMIDICreator",
             "unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "749b67b7-604b-3479-92a4-37693ed8319e"
     },
-    "3d356e3c-31ca-3818-ab1b-9f93bed84d88": {
+    "th04_15.txt": {
         "file": "th04_15.txt",
         "type": "work",
         "title": "幽夢　～ Inanimate Dream",
@@ -1826,9 +2086,13 @@
             "TouhouMIDICreator",
             "Wobuffet3",
             "ZUN - SC-88pro"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "3d356e3c-31ca-3818-ab1b-9f93bed84d88"
     },
-    "0cecba7e-ff8f-4d27-8526-73a1c2f9cccb": {
+    "th04_16.txt": {
         "file": "th04_16.txt",
         "type": "work",
         "title": "禁じざるをえない遊戯",
@@ -1854,9 +2118,13 @@
         "copyright": [
             "Blargzargo",
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "0cecba7e-ff8f-4d27-8526-73a1c2f9cccb"
     },
-    "79baedd2-cd01-3068-beab-9c8956472e9d": {
+    "th04_17.txt": {
         "file": "th04_17.txt",
         "type": "work",
         "title": "メイド幻想　～ Icemilk Magic",
@@ -1882,9 +2150,13 @@
         "copyright": [
             "Blargzargo",
             "Wobuffet3"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "79baedd2-cd01-3068-beab-9c8956472e9d"
     },
-    "def2c32b-7573-303d-9630-43068284e1c7": {
+    "th04_18.txt": {
         "file": "th04_18.txt",
         "type": "work",
         "title": "かわいい悪魔　～ Innocence",
@@ -1911,9 +2183,13 @@
             "Wobuffet3",
             "Blargzargo",
             "NamelessLegacy"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "def2c32b-7573-303d-9630-43068284e1c7"
     },
-    "305b022b-d967-4dcf-976a-788b293d7553": {
+    "th04_19.txt": {
         "file": "th04_19.txt",
         "type": "work",
         "title": "Days",
@@ -1939,9 +2215,13 @@
         "copyright": [
             "Blargzargo",
             "Ruukasu"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "305b022b-d967-4dcf-976a-788b293d7553"
     },
-    "ef7887ce-041a-3693-829c-624ae252d5e3": {
+    "th04_20.txt": {
         "file": "th04_20.txt",
         "type": "work",
         "title": "Peaceful",
@@ -1966,9 +2246,13 @@
         ],
         "copyright": [
             "Blargzargo"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "ef7887ce-041a-3693-829c-624ae252d5e3"
     },
-    "0396dc40-a25a-3ee7-a127-fde42b59e946": {
+    "th04_21.txt": {
         "file": "th04_21.txt",
         "type": "work",
         "title": "Arcadian Dream",
@@ -1993,9 +2277,13 @@
         ],
         "copyright": [
             "Blargzargo"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "0396dc40-a25a-3ee7-a127-fde42b59e946"
     },
-    "f29018dc-73c5-49d3-86c9-943d2798ca60": {
+    "th04_22.txt": {
         "file": "th04_22.txt",
         "type": "work",
         "title": "幻想の住人",
@@ -2020,9 +2308,13 @@
         ],
         "copyright": [
             "Blargzargo"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "f29018dc-73c5-49d3-86c9-943d2798ca60"
     },
-    "f826d791-249e-408c-84d7-0540db63ca4d": {
+    "th04_24.txt": {
         "file": "th04_24.txt",
         "type": "work",
         "title": "Dreamy pilot",
@@ -2047,9 +2339,13 @@
         ],
         "copyright": [
             "TouhouMIDICreator"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "f826d791-249e-408c-84d7-0540db63ca4d"
     },
-    "3b152cda-1bfe-348a-8453-30fdb825c4bb": {
+    "th04_27.txt": {
         "file": "th04_27.txt",
         "type": "work",
         "title": "Magic Shop of Raspberry",
@@ -2074,9 +2370,13 @@
         ],
         "copyright": [
             "TouhouMIDICreator"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "3b152cda-1bfe-348a-8453-30fdb825c4bb"
     },
-    "67540bd0-a5c2-4287-96e2-9e9cd7e91622": {
+    "th05_01.txt": {
         "file": "th05_01.txt",
         "type": "work",
         "title": "怪綺談　～ Mystic Square",
@@ -2102,9 +2402,13 @@
         "copyright": [
             "icebhm23230",
             "TouhouMIDICreator & TheDUBSpeedArts"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "67540bd0-a5c2-4287-96e2-9e9cd7e91622"
     },
-    "42d38efa-2776-3c8e-8bf7-40535bb00917": {
+    "th05_02.txt": {
         "file": "th05_02.txt",
         "type": "work",
         "title": "Dream Express",
@@ -2129,9 +2433,13 @@
         ],
         "copyright": [
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "42d38efa-2776-3c8e-8bf7-40535bb00917"
     },
-    "1097e9a9-51f1-3d21-b730-1681e4c64c51": {
+    "th05_03.txt": {
         "file": "th05_03.txt",
         "type": "work",
         "title": "魔法陣　～ Magic Square",
@@ -2156,9 +2464,13 @@
         ],
         "copyright": [
             "icebhm23230"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "1097e9a9-51f1-3d21-b730-1681e4c64c51"
     },
-    "d6c35ea8-d9d7-3ceb-ba5b-bcd3d91a9215": {
+    "th05_04.txt": {
         "file": "th05_04.txt",
         "type": "work",
         "title": "夢想時空",
@@ -2185,9 +2497,13 @@
             "icebhm23230",
             "ryoya1295",
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "d6c35ea8-d9d7-3ceb-ba5b-bcd3d91a9215"
     },
-    "65b6bd5d-61c8-3d99-abbb-89758327efae": {
+    "th05_05.txt": {
         "file": "th05_05.txt",
         "type": "work",
         "title": "霊天　～ Spiritual Heaven",
@@ -2212,9 +2528,13 @@
         ],
         "copyright": [
             "Susumu Takajima"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "65b6bd5d-61c8-3d99-abbb-89758327efae"
     },
-    "b04e9995-56e6-3e9d-8e85-4c685edb1aec": {
+    "th05_06.txt": {
         "file": "th05_06.txt",
         "type": "work",
         "title": "Romantic Children",
@@ -2241,9 +2561,13 @@
             "TouhouMIDICreator",
             "ZUN",
             "sweetmusic"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "b04e9995-56e6-3e9d-8e85-4c685edb1aec"
     },
-    "57481aab-ef2b-3758-b2e4-f3b9c3d04bc5": {
+    "th05_07.txt": {
         "file": "th05_07.txt",
         "type": "work",
         "title": "プラスチックマインド",
@@ -2269,9 +2593,13 @@
         "copyright": [
             "icebhm23230",
             "sweetmusic"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "57481aab-ef2b-3758-b2e4-f3b9c3d04bc5"
     },
-    "70489a2e-43e2-36a8-8c20-42b91f1ebbce": {
+    "th05_08.txt": {
         "file": "th05_08.txt",
         "type": "work",
         "title": "メイプルワイズ",
@@ -2297,9 +2625,13 @@
         "copyright": [
             "TouhouMIDICreator",
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "70489a2e-43e2-36a8-8c20-42b91f1ebbce"
     },
-    "4eeaa356-9acd-3751-8ffa-717ff90419d3": {
+    "th05_09.txt": {
         "file": "th05_09.txt",
         "type": "work",
         "title": "禁断の魔法　～ Forbidden Magic",
@@ -2324,9 +2656,13 @@
         ],
         "copyright": [
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "4eeaa356-9acd-3751-8ffa-717ff90419d3"
     },
-    "376e68c5-bf56-3f4f-81a9-35ca04a46243": {
+    "th05_10.txt": {
         "file": "th05_10.txt",
         "type": "work",
         "title": "真紅の少女　～ Crimson Dead!!",
@@ -2351,9 +2687,13 @@
         ],
         "copyright": [
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "376e68c5-bf56-3f4f-81a9-35ca04a46243"
     },
-    "50cc71da-1a03-3308-a176-c6cb33b016a0": {
+    "th05_11.txt": {
         "file": "th05_11.txt",
         "type": "work",
         "title": "裏切りの少女　～ Judas Kiss",
@@ -2379,9 +2719,13 @@
         "copyright": [
             "TouhouMIDICreator",
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "50cc71da-1a03-3308-a176-c6cb33b016a0"
     },
-    "8753c26a-938f-3295-b3c0-8a41b50ce84d": {
+    "th05_12.txt": {
         "file": "th05_12.txt",
         "type": "work",
         "title": "the Last Judgement",
@@ -2409,9 +2753,13 @@
             "LeastLPZ",
             "TouhouMIDICreator",
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "8753c26a-938f-3295-b3c0-8a41b50ce84d"
     },
-    "2f718495-1fdd-3fb9-94f8-1ce9070a67a9": {
+    "th05_13.txt": {
         "file": "th05_13.txt",
         "type": "work",
         "title": "悲しき人形　～ Doll of Misery",
@@ -2436,9 +2784,13 @@
         ],
         "copyright": [
             "icebhm23230"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "2f718495-1fdd-3fb9-94f8-1ce9070a67a9"
     },
-    "4702541c-2dc7-4ccb-a18a-9a89c95d84a1": {
+    "th05_14.txt": {
         "file": "th05_14.txt",
         "type": "work",
         "title": "世界の果て　～ World's End",
@@ -2464,9 +2816,13 @@
         "copyright": [
             "LeastLPZ",
             "ShinkoNetCavy"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "4702541c-2dc7-4ccb-a18a-9a89c95d84a1"
     },
-    "23220726-7873-3c17-ab4e-4f298a04b107": {
+    "th05_15.txt": {
         "file": "th05_15.txt",
         "type": "work",
         "title": "神話幻想　～ Infinite Being",
@@ -2491,9 +2847,13 @@
         ],
         "copyright": [
             "unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "23220726-7873-3c17-ab4e-4f298a04b107"
     },
-    "6aac7283-d2d8-39fe-9e13-36c579aefa42": {
+    "th05_16.txt": {
         "file": "th05_16.txt",
         "type": "work",
         "title": "不思議の国のアリス",
@@ -2522,9 +2882,13 @@
             "rongns_2",
             "sweetmusic",
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "6aac7283-d2d8-39fe-9e13-36c579aefa42"
     },
-    "2c6e4da6-a093-3ba0-bf70-3c3d045cca2a": {
+    "th05_17.txt": {
         "file": "th05_17.txt",
         "type": "work",
         "title": "the Grimoire of Alice",
@@ -2552,9 +2916,13 @@
             "Ruukasu2005",
             "SonicMaster",
             "Wobuffet3"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "2c6e4da6-a093-3ba0-bf70-3c3d045cca2a"
     },
-    "0ab2506c-3354-4d4c-93f4-c94d7277996e": {
+    "th05_19.txt": {
         "file": "th05_19.txt",
         "type": "work",
         "title": "Endless",
@@ -2579,9 +2947,13 @@
         ],
         "copyright": [
             "TheDUBSpeedArts"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "0ab2506c-3354-4d4c-93f4-c94d7277996e"
     },
-    "f32290f5-389d-4a60-aa5a-8e50d5419791": {
+    "th05_20.txt": {
         "file": "th05_20.txt",
         "type": "work",
         "title": "久遠の楽園",
@@ -2606,9 +2978,13 @@
         ],
         "copyright": [
             "Susumu Takajima"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "f32290f5-389d-4a60-aa5a-8e50d5419791"
     },
-    "9d198e71-efde-46d6-b2b1-6152f3053845": {
+    "th05_21.txt": {
         "file": "th05_21.txt",
         "type": "work",
         "title": "Mystic Dream",
@@ -2633,9 +3009,13 @@
         ],
         "copyright": [
             "CommonShitSandwich"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "9d198e71-efde-46d6-b2b1-6152f3053845"
     },
-    "4b9094a9-5ba6-418d-ac91-3aaa03c50292": {
+    "th05_22.txt": {
         "file": "th05_22.txt",
         "type": "work",
         "title": "Peaceful Romancer",
@@ -2661,9 +3041,13 @@
         "copyright": [
             "ryoya1295",
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "4b9094a9-5ba6-418d-ac91-3aaa03c50292"
     },
-    "569296d9-e5cd-3a50-83d5-18bf46cb2e6e": {
+    "th05_23.txt": {
         "file": "th05_23.txt",
         "type": "work",
         "title": "魂の休らむ所",
@@ -2688,9 +3072,13 @@
         ],
         "copyright": [
             "LeastLPZ"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "569296d9-e5cd-3a50-83d5-18bf46cb2e6e"
     },
-    "021ff404-3bf7-35ad-b637-9638cfcb737b": {
+    "th06_01.txt": {
         "file": "th06_01.txt",
         "type": "work",
         "title": "赤より紅い夢",
@@ -2715,9 +3103,13 @@
         ],
         "copyright": [
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "021ff404-3bf7-35ad-b637-9638cfcb737b"
     },
-    "7f6beb9e-31ff-3aea-b360-bb88e619b1a3": {
+    "th06_02.txt": {
         "file": "th06_02.txt",
         "type": "work",
         "title": "ほおずきみたいに紅い魂",
@@ -2743,9 +3135,13 @@
         "copyright": [
             "Slappedpancake - piano only",
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "7f6beb9e-31ff-3aea-b360-bb88e619b1a3"
     },
-    "fdff3cfe-f414-3aad-b692-9890ff03ec90": {
+    "th06_03.txt": {
         "file": "th06_03.txt",
         "type": "work",
         "title": "妖魔夜行",
@@ -2774,9 +3170,13 @@
             "sagittarius shikoku",
             "sweetmusic",
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "fdff3cfe-f414-3aad-b692-9890ff03ec90"
     },
-    "015eb428-a7e0-3ce3-a36f-5e6821fd08b9": {
+    "th06_04.txt": {
         "file": "th06_04.txt",
         "type": "work",
         "title": "ルーネイトエルフ",
@@ -2802,9 +3202,13 @@
         "copyright": [
             "rongns_2",
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "015eb428-a7e0-3ce3-a36f-5e6821fd08b9"
     },
-    "c7f68ee9-667f-33fe-9459-1012139ca602": {
+    "th06_05.txt": {
         "file": "th06_05.txt",
         "type": "work",
         "title": "おてんば恋娘",
@@ -2833,9 +3237,13 @@
             "unknown 1",
             "unknown 2",
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "c7f68ee9-667f-33fe-9459-1012139ca602"
     },
-    "2971335a-00d0-31a2-8b84-ecfc8ab72ae4": {
+    "th06_06.txt": {
         "file": "th06_06.txt",
         "type": "work",
         "title": "上海紅茶館　～ Chinese Tea",
@@ -2864,9 +3272,13 @@
             "SONARLE",
             "unknown",
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "2971335a-00d0-31a2-8b84-ecfc8ab72ae4"
     },
-    "50eb313d-f275-3752-afcb-e9a587dfc44e": {
+    "th06_07.txt": {
         "file": "th06_07.txt",
         "type": "work",
         "title": "明治十七年の上海アリス",
@@ -2893,9 +3305,13 @@
             "icebhm23230",
             "sweetmusic",
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "50eb313d-f275-3752-afcb-e9a587dfc44e"
     },
-    "b636601e-40cc-3ce0-8654-dc11bf3bc865": {
+    "th06_08.txt": {
         "file": "th06_08.txt",
         "type": "work",
         "title": "ヴワル魔法図書館",
@@ -2920,9 +3336,13 @@
         ],
         "copyright": [
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "b636601e-40cc-3ce0-8654-dc11bf3bc865"
     },
-    "3e68abbe-ee41-3062-ac5a-d110f6a8acff": {
+    "th06_09.txt": {
         "file": "th06_09.txt",
         "type": "work",
         "title": "ラクトガール　～ 少女密室",
@@ -2948,9 +3368,13 @@
         "copyright": [
             "sweetmusic",
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "3e68abbe-ee41-3062-ac5a-d110f6a8acff"
     },
-    "9cc8d30a-e8c6-3a5b-8458-d8eb9bc5b938": {
+    "th06_10.txt": {
         "file": "th06_10.txt",
         "type": "work",
         "title": "メイドと血の懐中時計",
@@ -2978,9 +3402,13 @@
             "sweetmusic",
             "yoimutu",
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "9cc8d30a-e8c6-3a5b-8458-d8eb9bc5b938"
     },
-    "ee4a2a47-16f5-36b2-b9b2-1d3481eba56c": {
+    "th06_11.txt": {
         "file": "th06_11.txt",
         "type": "work",
         "title": "月時計　～ ルナ・ダイアル",
@@ -3006,9 +3434,13 @@
         "copyright": [
             "sweetmusic",
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "ee4a2a47-16f5-36b2-b9b2-1d3481eba56c"
     },
-    "fb488194-0b76-387e-bab6-db89dad28d95": {
+    "th06_12.txt": {
         "file": "th06_12.txt",
         "type": "work",
         "title": "ツェペシュの幼き末裔",
@@ -3033,9 +3465,13 @@
         ],
         "copyright": [
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "fb488194-0b76-387e-bab6-db89dad28d95"
     },
-    "c9565d06-b108-3d06-abcc-4275f3ca648f": {
+    "th06_13.txt": {
         "file": "th06_13.txt",
         "type": "work",
         "title": "亡き王女の為のセプテット",
@@ -3067,9 +3503,13 @@
             "unknown",
             "yoimutu",
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "c9565d06-b108-3d06-abcc-4275f3ca648f"
     },
-    "d9e98ef6-b7e4-3431-8b53-867437ad81bd": {
+    "th06_14.txt": {
         "file": "th06_14.txt",
         "type": "work",
         "title": "魔法少女達の百年祭",
@@ -3097,9 +3537,13 @@
             "sweetmusic",
             "unknown",
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "d9e98ef6-b7e4-3431-8b53-867437ad81bd"
     },
-    "8e59a59c-c4fa-30fa-8a79-33f442da74cf": {
+    "th06_15.txt": {
         "file": "th06_15.txt",
         "type": "work",
         "title": "U.N.オーエンは彼女なのか？",
@@ -3132,9 +3576,13 @@
             "tutogamer2a",
             "yoimutu",
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "8e59a59c-c4fa-30fa-8a79-33f442da74cf"
     },
-    "a1b79cf4-3f54-343d-b76a-a45cc6574e40": {
+    "th06_16.txt": {
         "file": "th06_16.txt",
         "type": "work",
         "title": "紅より儚い永遠",
@@ -3159,9 +3607,13 @@
         ],
         "copyright": [
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "a1b79cf4-3f54-343d-b76a-a45cc6574e40"
     },
-    "cff2f7b2-1ac6-36e9-81b5-2f3d0386c4b8": {
+    "th06_17.txt": {
         "file": "th06_17.txt",
         "type": "work",
         "title": "紅楼　～ Eastern Dream...",
@@ -3187,9 +3639,13 @@
         "copyright": [
             "rongns_2",
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "cff2f7b2-1ac6-36e9-81b5-2f3d0386c4b8"
     },
-    "6dca6108-ca4b-3952-a943-9384120e21e4": {
+    "th07_01.txt": {
         "file": "th07_01.txt",
         "type": "work",
         "title": "妖々夢　～ Snow or Cherry Petal",
@@ -3214,9 +3670,13 @@
         ],
         "copyright": [
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "6dca6108-ca4b-3952-a943-9384120e21e4"
     },
-    "bcbd5934-9cad-39c2-b881-400cee5d96a2": {
+    "th07_02.txt": {
         "file": "th07_02.txt",
         "type": "work",
         "title": "無何有の郷　～ Deep Mountain",
@@ -3242,9 +3702,13 @@
         "copyright": [
             "rongns_2",
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "bcbd5934-9cad-39c2-b881-400cee5d96a2"
     },
-    "c66a10d4-0007-31fe-a15e-47e604a78c18": {
+    "th07_03.txt": {
         "file": "th07_03.txt",
         "type": "work",
         "title": "クリスタライズシルバー",
@@ -3269,9 +3733,13 @@
         ],
         "copyright": [
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "c66a10d4-0007-31fe-a15e-47e604a78c18"
     },
-    "4c8747c2-eea1-308c-a827-551df7e31788": {
+    "th07_04.txt": {
         "file": "th07_04.txt",
         "type": "work",
         "title": "遠野幻想物語",
@@ -3297,9 +3765,13 @@
         "copyright": [
             "hisaraito",
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "4c8747c2-eea1-308c-a827-551df7e31788"
     },
-    "fdba5303-f076-3041-8708-a5150a87404f": {
+    "th07_05.txt": {
         "file": "th07_05.txt",
         "type": "work",
         "title": "ティアオイエツォン(withered leaf)",
@@ -3325,9 +3797,13 @@
         "copyright": [
             "hisaraito",
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "fdba5303-f076-3041-8708-a5150a87404f"
     },
-    "9ee2c748-f3bb-358a-8f45-dfe1d2f1140a": {
+    "th07_06.txt": {
         "file": "th07_06.txt",
         "type": "work",
         "title": "ブクレシュティの人形師",
@@ -3354,9 +3830,13 @@
             "sweetmusic",
             "TouhouMIDICreator",
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "9ee2c748-f3bb-358a-8f45-dfe1d2f1140a"
     },
-    "4e48ac49-e03d-36d6-b140-45f40cd23fbe": {
+    "th07_07.txt": {
         "file": "th07_07.txt",
         "type": "work",
         "title": "人形裁判　～ 人の形弄びし少女",
@@ -3385,9 +3865,13 @@
             "icebhm23230",
             "sweetmusic",
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "4e48ac49-e03d-36d6-b140-45f40cd23fbe"
     },
-    "879d2474-7fd6-3dee-a7e6-585eaf83b875": {
+    "th07_08.txt": {
         "file": "th07_08.txt",
         "type": "work",
         "title": "天空の花の都",
@@ -3412,9 +3896,13 @@
         ],
         "copyright": [
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "879d2474-7fd6-3dee-a7e6-585eaf83b875"
     },
-    "82046c73-33d2-3e08-a74c-a1a738f9ac94": {
+    "th07_09.txt": {
         "file": "th07_09.txt",
         "type": "work",
         "title": "幽霊楽団　～ Phantom Ensemble",
@@ -3440,9 +3928,13 @@
         "copyright": [
             "sweetmusic",
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "82046c73-33d2-3e08-a74c-a1a738f9ac94"
     },
-    "f5075e60-abc6-30a7-a0eb-fbfe8968f6ef": {
+    "th07_10.txt": {
         "file": "th07_10.txt",
         "type": "work",
         "title": "東方妖々夢　～ Ancient Temple",
@@ -3467,9 +3959,13 @@
         ],
         "copyright": [
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "f5075e60-abc6-30a7-a0eb-fbfe8968f6ef"
     },
-    "853a3cc1-ef19-3d62-9c1a-560541b412f6": {
+    "th07_11.txt": {
         "file": "th07_11.txt",
         "type": "work",
         "title": "広有射怪鳥事　～ Till When?",
@@ -3495,9 +3991,13 @@
         "copyright": [
             "hisaraito",
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "853a3cc1-ef19-3d62-9c1a-560541b412f6"
     },
-    "d764ced5-3a72-3d82-80d9-da7dea0e3c2c": {
+    "th07_12.txt": {
         "file": "th07_12.txt",
         "type": "work",
         "title": "アルティメットトゥルース",
@@ -3523,9 +4023,13 @@
         "copyright": [
             "hisaraito",
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "d764ced5-3a72-3d82-80d9-da7dea0e3c2c"
     },
-    "255e9094-da2f-3f1f-bc5b-9258a2a630d7": {
+    "th07_13.txt": {
         "file": "th07_13.txt",
         "type": "work",
         "title": "幽雅に咲かせ、墨染の桜　～ Border of Life",
@@ -3556,9 +4060,13 @@
             "sweetmusic",
             "yoimutu",
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "255e9094-da2f-3f1f-bc5b-9258a2a630d7"
     },
-    "0220b328-82ba-35e5-b74f-c375d3bf66f2": {
+    "th07_14.txt": {
         "file": "th07_14.txt",
         "type": "work",
         "title": "ボーダーオブライフ",
@@ -3587,9 +4095,13 @@
             "rongns_2",
             "sweetmusic",
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "0220b328-82ba-35e5-b74f-c375d3bf66f2"
     },
-    "511ca31f-f0f9-3898-a57b-4975df8ca85f": {
+    "th07_15.txt": {
         "file": "th07_15.txt",
         "type": "work",
         "title": "妖々跋扈",
@@ -3614,9 +4126,13 @@
         ],
         "copyright": [
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "511ca31f-f0f9-3898-a57b-4975df8ca85f"
     },
-    "6c35ee27-41bb-38ec-b758-93c0ba446cbf": {
+    "th07_16.txt": {
         "file": "th07_16.txt",
         "type": "work",
         "title": "少女幻葬　～ Necro-Fantasy",
@@ -3643,9 +4159,13 @@
             "Baka94",
             "icebhm23230",
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "6c35ee27-41bb-38ec-b758-93c0ba446cbf"
     },
-    "36fe767c-1232-38f7-9f8a-eb63992c42cf": {
+    "th07_17.txt": {
         "file": "th07_17.txt",
         "type": "work",
         "title": "妖々跋扈　～ Who done it!",
@@ -3671,9 +4191,13 @@
         "copyright": [
             "hisaraito",
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "36fe767c-1232-38f7-9f8a-eb63992c42cf"
     },
-    "d34f2616-9ac9-3189-80f7-918faef6ed30": {
+    "th07_18.txt": {
         "file": "th07_18.txt",
         "type": "work",
         "title": "ネクロファンタジア",
@@ -3702,9 +4226,13 @@
             "SONARLE",
             "sweetmusic",
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "d34f2616-9ac9-3189-80f7-918faef6ed30"
     },
-    "b8a8f7c8-b8d0-374d-af6a-4dbbc55dc88e": {
+    "th07_19.txt": {
         "file": "th07_19.txt",
         "type": "work",
         "title": "春風の夢",
@@ -3729,9 +4257,13 @@
         ],
         "copyright": [
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "b8a8f7c8-b8d0-374d-af6a-4dbbc55dc88e"
     },
-    "665804aa-7b9f-3721-9bf8-269ad9ee3968": {
+    "th07_20.txt": {
         "file": "th07_20.txt",
         "type": "work",
         "title": "さくらさくら　～ Japanize Dream...",
@@ -3757,9 +4289,13 @@
         "copyright": [
             "Baka94",
             "ZUN"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "665804aa-7b9f-3721-9bf8-269ad9ee3968"
     },
-    "9cf4e3d8-3578-43a1-8bd8-35a0f30c8354": {
+    "th08_01.txt": {
         "file": "th08_01.txt",
         "type": "work",
         "title": "永夜抄　～ Eastern Night.",
@@ -3781,9 +4317,13 @@
         ],
         "alias": [
             "永夜抄　～ Eastern Night."
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "9cf4e3d8-3578-43a1-8bd8-35a0f30c8354"
     },
-    "13ab0d21-2271-3180-b86f-cdba373ec177": {
+    "th08_02.txt": {
         "file": "th08_02.txt",
         "type": "work",
         "title": "幻視の夜　～ Ghostly Eyes",
@@ -3805,9 +4345,13 @@
         ],
         "alias": [
             "幻视之夜　～ Ghostly Eyes"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "13ab0d21-2271-3180-b86f-cdba373ec177"
     },
-    "c2353835-642a-3bdf-aa0e-9ae5c7b80aea": {
+    "th08_03.txt": {
         "file": "th08_03.txt",
         "type": "work",
         "title": "蠢々秋月　～ Mooned Insect",
@@ -3829,9 +4373,13 @@
         ],
         "alias": [
             "蠢蠢的秋月　～ Mooned Insect"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "c2353835-642a-3bdf-aa0e-9ae5c7b80aea"
     },
-    "55d76cc7-faeb-3a10-9b1c-d7d2d3293f93": {
+    "th08_04.txt": {
         "file": "th08_04.txt",
         "type": "work",
         "title": "夜雀の歌声　～ Night Bird",
@@ -3853,9 +4401,13 @@
         ],
         "alias": [
             "夜雀的歌声　～ Night Bird"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "55d76cc7-faeb-3a10-9b1c-d7d2d3293f93"
     },
-    "209d6367-c73e-3737-935d-9b178e68ac55": {
+    "th08_05.txt": {
         "file": "th08_05.txt",
         "type": "work",
         "title": "もう歌しか聞こえない",
@@ -3877,9 +4429,13 @@
         ],
         "alias": [
             "已经只能听见歌声了"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "209d6367-c73e-3737-935d-9b178e68ac55"
     },
-    "1172c3a9-5082-3bd3-ac8a-e99e85b99472": {
+    "th08_06.txt": {
         "file": "th08_06.txt",
         "type": "work",
         "title": "懐かしき東方の血　～ Old World",
@@ -3901,9 +4457,13 @@
         ],
         "alias": [
             "令人怀念的东方之血　～ Old World"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "1172c3a9-5082-3bd3-ac8a-e99e85b99472"
     },
-    "5c41937e-6fd6-3586-a53c-1bdfa6629451": {
+    "th08_07.txt": {
         "file": "th08_07.txt",
         "type": "work",
         "title": "プレインエイジア",
@@ -3925,9 +4485,13 @@
         ],
         "alias": [
             "Plain Asia"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "5c41937e-6fd6-3586-a53c-1bdfa6629451"
     },
-    "cdfdfa58-0f69-3482-abfd-a70db80f9e6e": {
+    "th08_08.txt": {
         "file": "th08_08.txt",
         "type": "work",
         "title": "永夜の報い　～ Imperishable Night",
@@ -3949,9 +4513,13 @@
         ],
         "alias": [
             "永夜的报应　～ Imperishable Night"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "cdfdfa58-0f69-3482-abfd-a70db80f9e6e"
     },
-    "52585ad8-3a44-37c3-839e-6132f386867c": {
+    "th08_09.txt": {
         "file": "th08_09.txt",
         "type": "work",
         "title": "少女綺想曲　～ Dream Battle",
@@ -3973,9 +4541,13 @@
         ],
         "alias": [
             "少女绮想曲　～ Dream Battle"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "52585ad8-3a44-37c3-839e-6132f386867c"
     },
-    "12a9dc1b-c0be-328a-b2b2-884e4a4cd240": {
+    "th08_10.txt": {
         "file": "th08_10.txt",
         "type": "work",
         "title": "恋色マスタースパーク",
@@ -4001,9 +4573,13 @@
         "copyright": [
             "ZUN",
             " edited by LeastLPZ"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "12a9dc1b-c0be-328a-b2b2-884e4a4cd240"
     },
-    "53734d6e-2982-36cf-a124-881dd7eb28a0": {
+    "th08_11.txt": {
         "file": "th08_11.txt",
         "type": "work",
         "title": "シンデレラケージ　～ Kagome-Kagome",
@@ -4025,9 +4601,13 @@
         ],
         "alias": [
             "灰姑娘的笼子　～ Kagome-Kagome"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "53734d6e-2982-36cf-a124-881dd7eb28a0"
     },
-    "bb384443-1c62-3cf2-bea4-dce5497fe947": {
+    "th08_12.txt": {
         "file": "th08_12.txt",
         "type": "work",
         "title": "狂気の瞳　～ Invisible Full Moon",
@@ -4049,9 +4629,13 @@
         ],
         "alias": [
             "狂气之瞳　～ Invisible Full Moon"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "bb384443-1c62-3cf2-bea4-dce5497fe947"
     },
-    "0bbb84c2-21e7-3039-8870-2a2e74efeefa": {
+    "th08_13.txt": {
         "file": "th08_13.txt",
         "type": "work",
         "title": "ヴォヤージュ1969",
@@ -4073,9 +4657,13 @@
         ],
         "alias": [
             "Voyage1969"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "0bbb84c2-21e7-3039-8870-2a2e74efeefa"
     },
-    "48b90e15-a9b4-3d34-ae26-112f60d8eb8f": {
+    "th08_14.txt": {
         "file": "th08_14.txt",
         "type": "work",
         "title": "千年幻想郷　～ History of the Moon",
@@ -4097,9 +4685,13 @@
         ],
         "alias": [
             "千年幻想乡　～ History of the Moon"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "48b90e15-a9b4-3d34-ae26-112f60d8eb8f"
     },
-    "011ecd26-9e73-35ad-aa78-8d9b0197e653": {
+    "th08_15.txt": {
         "file": "th08_15.txt",
         "type": "work",
         "title": "竹取飛翔　～ Lunatic Princess",
@@ -4121,9 +4713,13 @@
         ],
         "alias": [
             "竹取飞翔　～ Lunatic Princess"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "011ecd26-9e73-35ad-aa78-8d9b0197e653"
     },
-    "0dbf445c-fa68-4aed-a914-92480a98082e": {
+    "th08_16.txt": {
         "file": "th08_16.txt",
         "type": "work",
         "title": "ヴォヤージュ1970",
@@ -4145,9 +4741,13 @@
         ],
         "alias": [
             "Voyage1970"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "0dbf445c-fa68-4aed-a914-92480a98082e"
     },
-    "c0bddb1d-39a0-3a42-9183-e9f81fd84629": {
+    "th08_17.txt": {
         "file": "th08_17.txt",
         "type": "work",
         "title": "エクステンドアッシュ　～ 蓬莱人",
@@ -4169,9 +4769,13 @@
         ],
         "alias": [
             "Extend Ash　～ 蓬莱人"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "c0bddb1d-39a0-3a42-9183-e9f81fd84629"
     },
-    "163346cf-4c62-3bb8-9720-b5aaa1c04862": {
+    "th08_18.txt": {
         "file": "th08_18.txt",
         "type": "work",
         "title": "月まで届け、不死の煙",
@@ -4206,9 +4810,13 @@
             "yoimutu",
             "ZUN",
             "LeastLPZ"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "163346cf-4c62-3bb8-9720-b5aaa1c04862"
     },
-    "1248b0e2-bca1-3b10-894d-76bbcbedfbbd": {
+    "th08_19.txt": {
         "file": "th08_19.txt",
         "type": "work",
         "title": "月見草",
@@ -4230,9 +4838,13 @@
         ],
         "alias": [
             "月见草"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "1248b0e2-bca1-3b10-894d-76bbcbedfbbd"
     },
-    "757e4483-bdcb-3888-8220-f757eb62be4e": {
+    "th08_20.txt": {
         "file": "th08_20.txt",
         "type": "work",
         "title": "Eternal Dream　～ 幽玄の槭樹",
@@ -4254,9 +4866,13 @@
         ],
         "alias": [
             "Eternal Dream　～ 幽玄的枫树"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "757e4483-bdcb-3888-8220-f757eb62be4e"
     },
-    "f686a061-5e01-35b2-8735-183246485b0b": {
+    "th08_21.txt": {
         "file": "th08_21.txt",
         "type": "work",
         "title": "東方妖怪小町",
@@ -4278,9 +4894,13 @@
         ],
         "alias": [
             "东方妖怪小町"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "f686a061-5e01-35b2-8735-183246485b0b"
     },
-    "00aef610-1376-3f79-87c5-cd649860ef4f": {
+    "th09_01.txt": {
         "file": "th09_01.txt",
         "type": "work",
         "title": "花映塚　～ Higan Retour",
@@ -4302,9 +4922,13 @@
         ],
         "alias": [
             "花映塚　～ Higan Retour"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "00aef610-1376-3f79-87c5-cd649860ef4f"
     },
-    "e4858fa1-7ba2-3d99-80a8-e3e0f74fa7b5": {
+    "th09_02.txt": {
         "file": "th09_02.txt",
         "type": "work",
         "title": "春色小径　～ Colorful Path",
@@ -4326,9 +4950,13 @@
         ],
         "alias": [
             "春色小径　～ Colorful Path"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "e4858fa1-7ba2-3d99-80a8-e3e0f74fa7b5"
     },
-    "5ce37a9d-3a27-39ef-8c81-2f2f385f145c": {
+    "th09_03.txt": {
         "file": "th09_03.txt",
         "type": "work",
         "title": "オリエンタルダークフライト",
@@ -4350,9 +4978,13 @@
         ],
         "alias": [
             "Oriental Dark Flight"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "5ce37a9d-3a27-39ef-8c81-2f2f385f145c"
     },
-    "8558dbb8-1af0-36d8-8f90-c8a7556ea258": {
+    "th09_04.txt": {
         "file": "th09_04.txt",
         "type": "work",
         "title": "フラワリングナイト",
@@ -4374,9 +5006,13 @@
         ],
         "alias": [
             "Flowering Night"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "8558dbb8-1af0-36d8-8f90-c8a7556ea258"
     },
-    "4e0d26d0-f36c-383c-baef-1f3d7ac0c3a4": {
+    "th09_10.txt": {
         "file": "th09_10.txt",
         "type": "work",
         "title": "お宇佐さまの素い幡",
@@ -4402,9 +5038,13 @@
         "copyright": [
             "Kanade_KND34",
             "Unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "4e0d26d0-f36c-383c-baef-1f3d7ac0c3a4"
     },
-    "989ebb6e-bdd0-3081-9561-d94ca1180528": {
+    "th09_11.txt": {
         "file": "th09_11.txt",
         "type": "work",
         "title": "風神少女",
@@ -4430,9 +5070,13 @@
         "copyright": [
             "Kanade_KND34",
             "rongns_2"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "989ebb6e-bdd0-3081-9561-d94ca1180528"
     },
-    "fcd504a3-fa33-39a0-91c1-ffc60e8b336a": {
+    "th09_12.txt": {
         "file": "th09_12.txt",
         "type": "work",
         "title": "ポイズンボディ　～ Forsaken Doll",
@@ -4458,9 +5102,13 @@
         "copyright": [
             "aoba-ss",
             "Kanade_KND34"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "fcd504a3-fa33-39a0-91c1-ffc60e8b336a"
     },
-    "34b1d9db-7c1b-321f-bf83-b038d35b8f6d": {
+    "th09_13.txt": {
         "file": "th09_13.txt",
         "type": "work",
         "title": "今昔幻想郷　～ Flower Land",
@@ -4489,9 +5137,13 @@
             "ryoya1295",
             "sweetmusic",
             "TouhouMIDICreator"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "34b1d9db-7c1b-321f-bf83-b038d35b8f6d"
     },
-    "dd5a639a-d33f-39a7-bab3-97aafbf8e675": {
+    "th09_14.txt": {
         "file": "th09_14.txt",
         "type": "work",
         "title": "彼岸帰航　～ Riverside View",
@@ -4520,9 +5172,13 @@
             "wrbk - GM",
             "wrbk - GS",
             "Yuki"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "dd5a639a-d33f-39a7-bab3-97aafbf8e675"
     },
-    "dbd4bf0b-4c6a-383f-b5f3-3191f9870f28": {
+    "th09_15.txt": {
         "file": "th09_15.txt",
         "type": "work",
         "title": "六十年目の東方裁判　～ Fate of Sixty Years",
@@ -4552,9 +5208,13 @@
             "ryoya1295",
             "Unknown",
             "yoimutu"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "dbd4bf0b-4c6a-383f-b5f3-3191f9870f28"
     },
-    "61496167-3286-35cd-b98c-890de5f1821e": {
+    "th09_16.txt": {
         "file": "th09_16.txt",
         "type": "work",
         "title": "花の映る塚",
@@ -4576,9 +5236,13 @@
         ],
         "alias": [
             "映花之塚"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "61496167-3286-35cd-b98c-890de5f1821e"
     },
-    "f6df3ac8-4b7c-3d2d-af81-a3fbfc6d4f9f": {
+    "th09_17.txt": {
         "file": "th09_17.txt",
         "type": "work",
         "title": "此岸の塚",
@@ -4603,9 +5267,13 @@
         ],
         "copyright": [
             "Kanade_KND34"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "f6df3ac8-4b7c-3d2d-af81-a3fbfc6d4f9f"
     },
-    "166bbb41-9c69-3d38-ab90-d77a035963e6": {
+    "th09_18.txt": {
         "file": "th09_18.txt",
         "type": "work",
         "title": "花は幻想のままに",
@@ -4631,9 +5299,13 @@
         "copyright": [
             "74644323",
             "Kanade_KND34"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "166bbb41-9c69-3d38-ab90-d77a035963e6"
     },
-    "3927b10c-e237-3f70-b870-6d01bda21171": {
+    "th09_19.txt": {
         "file": "th09_19.txt",
         "type": "work",
         "title": "魂の花　～ Another Dream...",
@@ -4658,9 +5330,13 @@
         ],
         "copyright": [
             "Kanade_KND34"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "3927b10c-e237-3f70-b870-6d01bda21171"
     },
-    "6e83c5bf-17c6-36fb-89a7-d0304d448a51": {
+    "th10_01.txt": {
         "file": "th10_01.txt",
         "type": "work",
         "title": "封印されし神々",
@@ -4685,9 +5361,13 @@
         ],
         "copyright": [
             "unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "6e83c5bf-17c6-36fb-89a7-d0304d448a51"
     },
-    "e1c210e9-722e-3021-8306-49031798329e": {
+    "th10_02.txt": {
         "file": "th10_02.txt",
         "type": "work",
         "title": "人恋し神様　～ Romantic Fall",
@@ -4715,9 +5395,13 @@
             "hisaraito",
             "Susumu Takajima",
             "unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "e1c210e9-722e-3021-8306-49031798329e"
     },
-    "1a943a94-457e-3b8b-b491-5546586fe813": {
+    "th10_03.txt": {
         "file": "th10_03.txt",
         "type": "work",
         "title": "稲田姫様に叱られるから",
@@ -4746,9 +5430,13 @@
             "ryoya1295",
             "Shirai Yuki - GM",
             "Shirai Yuki - XG"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "1a943a94-457e-3b8b-b491-5546586fe813"
     },
-    "fb3dd9db-6660-35e5-a214-ed47a194552f": {
+    "th10_04.txt": {
         "file": "th10_04.txt",
         "type": "work",
         "title": "厄神様の通り道　～ Dark Road",
@@ -4776,9 +5464,13 @@
             "icebhm23230 - XG",
             "komugi",
             "sweetmusic"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "fb3dd9db-6660-35e5-a214-ed47a194552f"
     },
-    "e8514750-f02d-3a69-ac64-d997cbfda027": {
+    "th10_05.txt": {
         "file": "th10_05.txt",
         "type": "work",
         "title": "運命のダークサイド",
@@ -4805,9 +5497,13 @@
             "rongns_2",
             "sweetmusic",
             "TheDUBSpeedArts"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "e8514750-f02d-3a69-ac64-d997cbfda027"
     },
-    "98f5e291-abd2-3f74-90f8-b829cb0f52f0": {
+    "th10_06.txt": {
         "file": "th10_06.txt",
         "type": "work",
         "title": "神々が恋した幻想郷",
@@ -4835,9 +5531,13 @@
             "rongns_2",
             "ryoya1295",
             "sweetmusic"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "98f5e291-abd2-3f74-90f8-b829cb0f52f0"
     },
-    "7ec5116d-3116-3320-83c2-5a330875ac14": {
+    "th10_07.txt": {
         "file": "th10_07.txt",
         "type": "work",
         "title": "芥川龍之介の河童　～ Candid Friend",
@@ -4866,9 +5566,13 @@
             "sweetmusic",
             "TouhouMIDICreator - Ver. 2",
             "TouhouMIDICreator"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "7ec5116d-3116-3320-83c2-5a330875ac14"
     },
-    "0dfaf49a-36e9-3c40-a744-5b00c2d1e021": {
+    "th10_08.txt": {
         "file": "th10_08.txt",
         "type": "work",
         "title": "フォールオブフォール　～ 秋めく滝",
@@ -4895,9 +5599,13 @@
             "Hisaraito",
             "Samidare",
             "Wrbk"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "0dfaf49a-36e9-3c40-a744-5b00c2d1e021"
     },
-    "145d2b51-0646-30e5-be20-f123b3b281ef": {
+    "th10_09.txt": {
         "file": "th10_09.txt",
         "type": "work",
         "title": "妖怪の山　～ Mysterious Mountain",
@@ -4926,9 +5634,13 @@
             "Jacob31593",
             "LeastLPZ",
             "TouhouMIDICreator"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "145d2b51-0646-30e5-be20-f123b3b281ef"
     },
-    "aefe2ca7-b1b0-3e00-85f4-d0e31bbd1d72": {
+    "th10_10.txt": {
         "file": "th10_10.txt",
         "type": "work",
         "title": "少女が見た日本の原風景",
@@ -4954,9 +5666,13 @@
         "copyright": [
             "cross",
             "rongns_2"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "aefe2ca7-b1b0-3e00-85f4-d0e31bbd1d72"
     },
-    "fecb65a0-45db-386d-b665-c45eec475d2a": {
+    "th10_11.txt": {
         "file": "th10_11.txt",
         "type": "work",
         "title": "信仰は儚き人間の為に",
@@ -4988,9 +5704,13 @@
             "Samidare",
             "sweetmusic",
             "TouhouMIDICreator"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "fecb65a0-45db-386d-b665-c45eec475d2a"
     },
-    "2c4dfc9b-be88-3d42-8e68-0a4203a6230a": {
+    "th10_12.txt": {
         "file": "th10_12.txt",
         "type": "work",
         "title": "御柱の墓場　～ Grave of Being",
@@ -5016,9 +5736,13 @@
         "copyright": [
             "Shirai Yuki - GM",
             "Shirai Yuki - XG"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "2c4dfc9b-be88-3d42-8e68-0a4203a6230a"
     },
-    "220bde5d-68b1-3620-a7a8-08c9bd7db989": {
+    "th10_13.txt": {
         "file": "th10_13.txt",
         "type": "work",
         "title": "神さびた古戦場　～ Suwa Foughten Field",
@@ -5045,9 +5769,13 @@
             "Hisaraito",
             "Jacob31593",
             "unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "220bde5d-68b1-3620-a7a8-08c9bd7db989"
     },
-    "41f30577-da8b-34f4-87f8-bf3527d067bf": {
+    "th10_14.txt": {
         "file": "th10_14.txt",
         "type": "work",
         "title": "明日ハレの日、ケの昨日",
@@ -5074,9 +5802,13 @@
         "copyright": [
             "ryoya1295",
             "sweetmusic"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "41f30577-da8b-34f4-87f8-bf3527d067bf"
     },
-    "c01242b7-9764-359b-adf0-a56d1bcbf242": {
+    "th10_15.txt": {
         "file": "th10_15.txt",
         "type": "work",
         "title": "ネイティブフェイス",
@@ -5106,9 +5838,13 @@
             "Samidare",
             "Shirai Yuki - GM",
             "Shirai Yuki - XG"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "c01242b7-9764-359b-adf0-a56d1bcbf242"
     },
-    "be352ce2-c57d-304d-84ea-903756729704": {
+    "th10_16.txt": {
         "file": "th10_16.txt",
         "type": "work",
         "title": "麓の神社",
@@ -5134,9 +5870,13 @@
         "copyright": [
             "Alkione",
             "Dekyo ongen"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "be352ce2-c57d-304d-84ea-903756729704"
     },
-    "db368653-07d0-34ee-929a-762845d2f5c9": {
+    "th10_17.txt": {
         "file": "th10_17.txt",
         "type": "work",
         "title": "神は恵みの雨を降らす　～ Sylphid Dream",
@@ -5161,9 +5901,13 @@
         ],
         "copyright": [
             "LeastLPZ"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "db368653-07d0-34ee-929a-762845d2f5c9"
     },
-    "3455d0a3-caeb-3ae6-aa80-38c5018f76b7": {
+    "th11_01.txt": {
         "file": "th11_01.txt",
         "type": "work",
         "title": "地霊達の起床",
@@ -5190,9 +5934,13 @@
             "Dekyo Ongen",
             "Susumu Takajima but probably edited by someone",
             "Username"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "3455d0a3-caeb-3ae6-aa80-38c5018f76b7"
     },
-    "824c033a-ca65-325a-b7f9-9d627673f853": {
+    "th11_02.txt": {
         "file": "th11_02.txt",
         "type": "work",
         "title": "暗闇の風穴",
@@ -5218,9 +5966,13 @@
         "copyright": [
             "leastLPZ",
             "unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "824c033a-ca65-325a-b7f9-9d627673f853"
     },
-    "1bc0f333-a2f1-336e-bfd8-6e189e77c902": {
+    "th11_03.txt": {
         "file": "th11_03.txt",
         "type": "work",
         "title": "封じられた妖怪　～ Lost Place",
@@ -5245,9 +5997,13 @@
         ],
         "copyright": [
             "yosiyosi"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "1bc0f333-a2f1-336e-bfd8-6e189e77c902"
     },
-    "f853ae8d-334c-365e-aca9-9e337e407569": {
+    "th11_04.txt": {
         "file": "th11_04.txt",
         "type": "work",
         "title": "渡る者の途絶えた橋",
@@ -5273,9 +6029,13 @@
         "copyright": [
             "ryoya1295",
             "unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "f853ae8d-334c-365e-aca9-9e337e407569"
     },
-    "c50f369c-a20c-3066-8756-5d6f81fd3e84": {
+    "th11_05.txt": {
         "file": "th11_05.txt",
         "type": "work",
         "title": "緑眼のジェラシー",
@@ -5303,9 +6063,13 @@
             "icebhm23230",
             "sweetmusic",
             "unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "c50f369c-a20c-3066-8756-5d6f81fd3e84"
     },
-    "598c728c-9eff-3e48-9aab-aa4d62dea3ad": {
+    "th11_06.txt": {
         "file": "th11_06.txt",
         "type": "work",
         "title": "旧地獄街道を行く",
@@ -5332,9 +6096,13 @@
             "ryoya1295",
             "sagittarius shikoku",
             "Susumu Takajima"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "598c728c-9eff-3e48-9aab-aa4d62dea3ad"
     },
-    "833c365b-80eb-3b3c-965c-e508b4eafe88": {
+    "th11_07.txt": {
         "file": "th11_07.txt",
         "type": "work",
         "title": "華のさかづき大江山",
@@ -5360,9 +6128,13 @@
         "copyright": [
             "hailstone",
             "yoimutu"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "833c365b-80eb-3b3c-965c-e508b4eafe88"
     },
-    "fd71b1a4-b659-3d33-ab20-7384cac36778": {
+    "th11_08.txt": {
         "file": "th11_08.txt",
         "type": "work",
         "title": "ハートフェルトファンシー",
@@ -5389,9 +6161,13 @@
             "hisaraito",
             "leastLPZ",
             "unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "fd71b1a4-b659-3d33-ab20-7384cac36778"
     },
-    "8ab06f70-a8fb-392e-98a9-83aa2a1b1ba2": {
+    "th11_09.txt": {
         "file": "th11_09.txt",
         "type": "work",
         "title": "少女さとり　～ 3rd eye",
@@ -5423,9 +6199,13 @@
             "sweetmusic",
             "Unknown",
             "yoimutu"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "8ab06f70-a8fb-392e-98a9-83aa2a1b1ba2"
     },
-    "3cdd2991-2ab3-3aad-9948-f902eee69e1f": {
+    "th11_10.txt": {
         "file": "th11_10.txt",
         "type": "work",
         "title": "廃獄ララバイ",
@@ -5455,9 +6235,13 @@
             "Bessem 2",
             "Bessem",
             "sagittarius shikoku"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "3cdd2991-2ab3-3aad-9948-f902eee69e1f"
     },
-    "e90f08f6-95a4-3364-8bb6-42913379fa31": {
+    "th11_11.txt": {
         "file": "th11_11.txt",
         "type": "work",
         "title": "死体旅行　～ Be of good cheer!",
@@ -5485,9 +6269,13 @@
             "Shirai Yuki - incomplete",
             "Shirai Yuki - XG",
             "yuki"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "e90f08f6-95a4-3364-8bb6-42913379fa31"
     },
-    "d1381fea-73d6-3d0c-a6c8-450d5ad833fe": {
+    "th11_12.txt": {
         "file": "th11_12.txt",
         "type": "work",
         "title": "業火マントル",
@@ -5515,9 +6303,13 @@
             "hisaraito",
             "sagittarius shikoku",
             "unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "d1381fea-73d6-3d0c-a6c8-450d5ad833fe"
     },
-    "6dd64a70-74c4-314c-ae38-2f8b36d51e46": {
+    "th11_13.txt": {
         "file": "th11_13.txt",
         "type": "work",
         "title": "霊知の太陽信仰　～ Nuclear Fusion",
@@ -5546,9 +6338,13 @@
             "ryoya1295",
             "sweetmusic",
             "Unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "6dd64a70-74c4-314c-ae38-2f8b36d51e46"
     },
-    "f0d1e652-8eb2-36e1-bd86-be302b2a2de1": {
+    "th11_14.txt": {
         "file": "th11_14.txt",
         "type": "work",
         "title": "ラストリモート",
@@ -5578,9 +6374,13 @@
             "sagittarius shikoku",
             "sweetmusic",
             "unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "f0d1e652-8eb2-36e1-bd86-be302b2a2de1"
     },
-    "3bd91097-c4d6-3533-81f4-52b6042a9742": {
+    "th11_15.txt": {
         "file": "th11_15.txt",
         "type": "work",
         "title": "ハルトマンの妖怪少女",
@@ -5610,9 +6410,13 @@
             "sweetmusic",
             "unknown",
             "yoimutu"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "3bd91097-c4d6-3533-81f4-52b6042a9742"
     },
-    "b14c2621-0775-37c1-b9c7-84f9d3a77aae": {
+    "th11_16.txt": {
         "file": "th11_16.txt",
         "type": "work",
         "title": "地霊達の帰宅",
@@ -5637,9 +6441,13 @@
         ],
         "copyright": [
             "TheDUBSpeedArts"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "b14c2621-0775-37c1-b9c7-84f9d3a77aae"
     },
-    "610ff82b-17ea-31cb-9bf9-d13ce29f538d": {
+    "th11_17.txt": {
         "file": "th11_17.txt",
         "type": "work",
         "title": "エネルギー黎明　～ Future Dream...",
@@ -5664,9 +6472,13 @@
         ],
         "copyright": [
             "takashi"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "610ff82b-17ea-31cb-9bf9-d13ce29f538d"
     },
-    "2bb2c194-5226-326b-9cdd-2ef278ffff75": {
+    "th12_01.txt": {
         "file": "th12_01.txt",
         "type": "work",
         "title": "青空の影",
@@ -5691,9 +6503,13 @@
         ],
         "copyright": [
             "terebi"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "2bb2c194-5226-326b-9cdd-2ef278ffff75"
     },
-    "1c4a70b4-ec40-34ad-9254-278dc1903996": {
+    "th12_02.txt": {
         "file": "th12_02.txt",
         "type": "work",
         "title": "春の湊に",
@@ -5720,9 +6536,13 @@
             "ryoya1295",
             "terebi",
             "yoimutu"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "1c4a70b4-ec40-34ad-9254-278dc1903996"
     },
-    "8c8a830e-e455-334c-b0e1-b3658b7d16ef": {
+    "th12_03.txt": {
         "file": "th12_03.txt",
         "type": "work",
         "title": "小さな小さな賢将",
@@ -5752,9 +6572,13 @@
             "rongns_2",
             "sweetmusic",
             "terebi"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "8c8a830e-e455-334c-b0e1-b3658b7d16ef"
     },
-    "76142d7e-796a-397d-b2b5-ebfb7ce57b83": {
+    "th12_04.txt": {
         "file": "th12_04.txt",
         "type": "work",
         "title": "閉ざせし雲の通い路",
@@ -5779,9 +6603,13 @@
         ],
         "copyright": [
             "terebi"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "76142d7e-796a-397d-b2b5-ebfb7ce57b83"
     },
-    "f647ac61-861e-3c55-9113-389f26510f94": {
+    "th12_05.txt": {
         "file": "th12_05.txt",
         "type": "work",
         "title": "万年置き傘にご注意を",
@@ -5808,9 +6636,13 @@
             "hisaraito",
             "icebhm23230",
             "terebi"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "f647ac61-861e-3c55-9113-389f26510f94"
     },
-    "6aab447f-83c0-38b3-a2ca-4912291a3eaf": {
+    "th12_06.txt": {
         "file": "th12_06.txt",
         "type": "work",
         "title": "スカイルーイン",
@@ -5835,9 +6667,13 @@
         ],
         "copyright": [
             "terebi"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "6aab447f-83c0-38b3-a2ca-4912291a3eaf"
     },
-    "c76e465d-1c4e-3d6b-bbc3-c72c093799ef": {
+    "th12_07.txt": {
         "file": "th12_07.txt",
         "type": "work",
         "title": "時代親父とハイカラ少女",
@@ -5863,9 +6699,13 @@
         "copyright": [
             "sweetmusic",
             "terebi"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "c76e465d-1c4e-3d6b-bbc3-c72c093799ef"
     },
-    "f3ce579b-ed59-3ce9-bd74-459286f215d3": {
+    "th12_08.txt": {
         "file": "th12_08.txt",
         "type": "work",
         "title": "幽霊客船の時空を越えた旅",
@@ -5890,9 +6730,13 @@
         ],
         "copyright": [
             "terebi"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "f3ce579b-ed59-3ce9-bd74-459286f215d3"
     },
-    "2b9a2c12-dcba-3fa1-9c1a-8c937d7bf2c8": {
+    "th12_09.txt": {
         "file": "th12_09.txt",
         "type": "work",
         "title": "キャプテン・ムラサ",
@@ -5917,9 +6761,13 @@
         ],
         "copyright": [
             "terebi"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "2b9a2c12-dcba-3fa1-9c1a-8c937d7bf2c8"
     },
-    "36b21f7a-c175-3258-a5f4-6f51e8d82f79": {
+    "th12_10.txt": {
         "file": "th12_10.txt",
         "type": "work",
         "title": "魔界地方都市エソテリア",
@@ -5945,9 +6793,13 @@
         "copyright": [
             "hisaraito",
             "terebi"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "36b21f7a-c175-3258-a5f4-6f51e8d82f79"
     },
-    "776c6cd5-f9a2-3db2-8d79-51c96f766d9e": {
+    "th12_11.txt": {
         "file": "th12_11.txt",
         "type": "work",
         "title": "虎柄の毘沙門天",
@@ -5973,9 +6825,13 @@
         "copyright": [
             "icebhm23230",
             "terebi"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "776c6cd5-f9a2-3db2-8d79-51c96f766d9e"
     },
-    "5051cf4a-8407-30c6-8bf2-a76cfcd3d4e5": {
+    "th12_12.txt": {
         "file": "th12_12.txt",
         "type": "work",
         "title": "法界の火",
@@ -6000,9 +6856,13 @@
         ],
         "copyright": [
             "terebi"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "5051cf4a-8407-30c6-8bf2-a76cfcd3d4e5"
     },
-    "21c4f440-0de4-3286-9fd8-a7094692d303": {
+    "th12_13.txt": {
         "file": "th12_13.txt",
         "type": "work",
         "title": "感情の摩天楼　～ Cosmic Mind",
@@ -6031,9 +6891,13 @@
             "KR.Palto47 - XG",
             "sweetmusic",
             "terebi"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "21c4f440-0de4-3286-9fd8-a7094692d303"
     },
-    "de7d12bc-7971-3591-b8ac-94080e16d4c4": {
+    "th12_14.txt": {
         "file": "th12_14.txt",
         "type": "work",
         "title": "夜空のユーフォーロマンス",
@@ -6058,9 +6922,13 @@
         ],
         "copyright": [
             "terebi"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "de7d12bc-7971-3591-b8ac-94080e16d4c4"
     },
-    "19273d74-6301-33a3-b112-282b0b7128a2": {
+    "th12_15.txt": {
         "file": "th12_15.txt",
         "type": "work",
         "title": "平安のエイリアン",
@@ -6088,9 +6956,13 @@
             "sweetmusic",
             "terebi",
             "yoimutu"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "19273d74-6301-33a3-b112-282b0b7128a2"
     },
-    "e032e109-6df5-386f-9eed-359e3c34316e": {
+    "th12_16.txt": {
         "file": "th12_16.txt",
         "type": "work",
         "title": "妖怪寺",
@@ -6115,9 +6987,13 @@
         ],
         "copyright": [
             "TheDUBSpeedArts"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "e032e109-6df5-386f-9eed-359e3c34316e"
     },
-    "08da2064-5308-3f7a-a33f-1e9a07f8526b": {
+    "th12_17.txt": {
         "file": "th12_17.txt",
         "type": "work",
         "title": "空の帰り道　～ Sky Dream",
@@ -6142,9 +7018,13 @@
         ],
         "copyright": [
             "terebi"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "08da2064-5308-3f7a-a33f-1e9a07f8526b"
     },
-    "483a55d0-b379-4068-a8cf-7863fb543351": {
+    "th13_01.txt": {
         "file": "th13_01.txt",
         "type": "work",
         "title": "欲深き霊魂",
@@ -6169,9 +7049,13 @@
         ],
         "copyright": [
             "unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "483a55d0-b379-4068-a8cf-7863fb543351"
     },
-    "04e6f332-3e1f-4ae3-8752-bc4798e147e9": {
+    "th13_02.txt": {
         "file": "th13_02.txt",
         "type": "work",
         "title": "死霊の夜桜",
@@ -6196,9 +7080,13 @@
         ],
         "copyright": [
             "unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "04e6f332-3e1f-4ae3-8752-bc4798e147e9"
     },
-    "c1b1fa18-ecb6-4636-81d1-8e3b45d4636a": {
+    "th13_03.txt": {
         "file": "th13_03.txt",
         "type": "work",
         "title": "ゴーストリード",
@@ -6225,9 +7113,13 @@
             "Amiya - GM",
             "Amiya - GS",
             "unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "c1b1fa18-ecb6-4636-81d1-8e3b45d4636a"
     },
-    "a4eb5d42-1865-4895-8652-e3f25f224838": {
+    "th13_04.txt": {
         "file": "th13_04.txt",
         "type": "work",
         "title": "妖怪寺へようこそ",
@@ -6252,9 +7144,13 @@
         ],
         "copyright": [
             "LeastLPZ"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "a4eb5d42-1865-4895-8652-e3f25f224838"
     },
-    "744e70f5-75b7-4977-8c44-2e3c9e737fd5": {
+    "th13_05.txt": {
         "file": "th13_05.txt",
         "type": "work",
         "title": "門前の妖怪小娘",
@@ -6279,9 +7175,13 @@
         ],
         "copyright": [
             "unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "744e70f5-75b7-4977-8c44-2e3c9e737fd5"
     },
-    "23877c0f-4b9b-4c5a-a82b-5890647f104c": {
+    "th13_06.txt": {
         "file": "th13_06.txt",
         "type": "work",
         "title": "素敵な墓場で暮しましょ",
@@ -6307,9 +7207,13 @@
         "copyright": [
             "unknown 2",
             "unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "23877c0f-4b9b-4c5a-a82b-5890647f104c"
     },
-    "dcb0a52c-dece-4854-9cc1-b079eb3e4df9": {
+    "th13_07.txt": {
         "file": "th13_07.txt",
         "type": "work",
         "title": "リジッドパラダイス",
@@ -6334,9 +7238,13 @@
         ],
         "copyright": [
             "unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "dcb0a52c-dece-4854-9cc1-b079eb3e4df9"
     },
-    "b57bae7e-71a1-4ae6-9789-f97d43102e25": {
+    "th13_08.txt": {
         "file": "th13_08.txt",
         "type": "work",
         "title": "デザイアドライブ",
@@ -6366,9 +7274,13 @@
             "KR.Palto47 - SD90",
             "pieordie1",
             "TouhouMIDICreator"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "b57bae7e-71a1-4ae6-9789-f97d43102e25"
     },
-    "97e4748a-ee3a-41bc-8a23-849c879c43aa": {
+    "th13_09.txt": {
         "file": "th13_09.txt",
         "type": "work",
         "title": "古きユアンシェン",
@@ -6396,9 +7308,13 @@
             "icebhm23230",
             "yuki but edited by someone",
             "yuki"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "97e4748a-ee3a-41bc-8a23-849c879c43aa"
     },
-    "91b0b82f-45ed-4dc6-949b-99b74adbb45e": {
+    "th13_10.txt": {
         "file": "th13_10.txt",
         "type": "work",
         "title": "夢殿大祀廟",
@@ -6425,9 +7341,13 @@
             "hisaraito",
             "unknown",
             "yuki"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "91b0b82f-45ed-4dc6-949b-99b74adbb45e"
     },
-    "fbf6da57-a783-447f-9a6a-79fa49bc3c9e": {
+    "th13_11.txt": {
         "file": "th13_11.txt",
         "type": "work",
         "title": "大神神話伝",
@@ -6455,9 +7375,13 @@
             "icebhm23230 - GM",
             "icebhm23230 - XG",
             "icebhm23230 but edited by someone"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "fbf6da57-a783-447f-9a6a-79fa49bc3c9e"
     },
-    "1dd85de9-db4c-4133-a448-ac6f43fc8ece": {
+    "th13_12.txt": {
         "file": "th13_12.txt",
         "type": "work",
         "title": "小さな欲望の星空",
@@ -6482,9 +7406,13 @@
         ],
         "copyright": [
             "icebhm23230"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "1dd85de9-db4c-4133-a448-ac6f43fc8ece"
     },
-    "9248deb4-3fdc-4c73-a1d0-d9928caf688a": {
+    "th13_13.txt": {
         "file": "th13_13.txt",
         "type": "work",
         "title": "聖徳伝説　～ True Administrator",
@@ -6510,9 +7438,13 @@
         "copyright": [
             "gondayu",
             "unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "9248deb4-3fdc-4c73-a1d0-d9928caf688a"
     },
-    "2e733a51-cb96-4777-a156-398ea64d5c12": {
+    "th13_14.txt": {
         "file": "th13_14.txt",
         "type": "work",
         "title": "妖怪裏参道",
@@ -6537,9 +7469,13 @@
         ],
         "copyright": [
             "LeastLPZ"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "2e733a51-cb96-4777-a156-398ea64d5c12"
     },
-    "a4c42996-55c2-4655-a41b-36aa97d0adf4": {
+    "th13_15.txt": {
         "file": "th13_15.txt",
         "type": "work",
         "title": "佐渡の二ッ岩",
@@ -6566,9 +7502,13 @@
             "Piano Only",
             "Shirai Yuki",
             "unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "a4c42996-55c2-4655-a41b-36aa97d0adf4"
     },
-    "4e6af92e-dfc0-494b-af63-1af46b7e4ac5": {
+    "th14_01.txt": {
         "file": "th14_01.txt",
         "type": "work",
         "title": "不思議なお祓い棒",
@@ -6596,9 +7536,13 @@
             "nitayahisa - revised",
             "nitayahisa",
             "unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "4e6af92e-dfc0-494b-af63-1af46b7e4ac5"
     },
-    "b5c973ac-14e7-4e9f-bde1-bb5c0cde5490": {
+    "th14_02.txt": {
         "file": "th14_02.txt",
         "type": "work",
         "title": "ミストレイク",
@@ -6623,9 +7567,13 @@
         ],
         "copyright": [
             "unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "b5c973ac-14e7-4e9f-bde1-bb5c0cde5490"
     },
-    "57103c43-003b-4b6b-9411-c4ccc327c90e": {
+    "th14_03.txt": {
         "file": "th14_03.txt",
         "type": "work",
         "title": "秘境のマーメイド",
@@ -6650,9 +7598,13 @@
         ],
         "copyright": [
             "leastLPZ"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "57103c43-003b-4b6b-9411-c4ccc327c90e"
     },
-    "c6fe3ce6-e238-42ac-90a8-3351cf2f3a36": {
+    "th14_05.txt": {
         "file": "th14_05.txt",
         "type": "work",
         "title": "柳の下のデュラハン",
@@ -6678,9 +7630,13 @@
         "copyright": [
             "unknown 2",
             "unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "c6fe3ce6-e238-42ac-90a8-3351cf2f3a36"
     },
-    "4cf622fe-7f51-4933-bf8b-a6310b39dbc7": {
+    "th14_06.txt": {
         "file": "th14_06.txt",
         "type": "work",
         "title": "満月の竹林",
@@ -6708,9 +7664,13 @@
             "Shirai Yuki - XG",
             "unknown 2",
             "unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "4cf622fe-7f51-4933-bf8b-a6310b39dbc7"
     },
-    "79b043a3-5626-4d77-9d04-de64fe9d50cb": {
+    "th14_07.txt": {
         "file": "th14_07.txt",
         "type": "work",
         "title": "孤独なウェアウルフ",
@@ -6738,9 +7698,13 @@
             "Kitaichi Rei",
             "LeastLPZ",
             "unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "79b043a3-5626-4d77-9d04-de64fe9d50cb"
     },
-    "c8bed257-b55a-4dd4-aeb3-84fe38d45408": {
+    "th14_08.txt": {
         "file": "th14_08.txt",
         "type": "work",
         "title": "マジカルストーム",
@@ -6765,9 +7729,13 @@
         ],
         "copyright": [
             "pieordie1"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "c8bed257-b55a-4dd4-aeb3-84fe38d45408"
     },
-    "17d79100-4b6b-4a4f-82ef-c13bc0e72e24": {
+    "th14_09.txt": {
         "file": "th14_09.txt",
         "type": "work",
         "title": "幻想浄瑠璃",
@@ -6792,9 +7760,13 @@
         ],
         "copyright": [
             "pieordie1"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "17d79100-4b6b-4a4f-82ef-c13bc0e72e24"
     },
-    "07056113-ac85-4dd3-9a45-0c3792366976": {
+    "th14_10.txt": {
         "file": "th14_10.txt",
         "type": "work",
         "title": "空中に沈む輝針城",
@@ -6822,9 +7794,13 @@
             "HertzDevil",
             "Infernis",
             "Wobuffet3"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "07056113-ac85-4dd3-9a45-0c3792366976"
     },
-    "627e08fd-0b61-4410-9140-32b9b4b72aa6": {
+    "th14_11.txt": {
         "file": "th14_11.txt",
         "type": "work",
         "title": "リバースイデオロギー",
@@ -6851,9 +7827,13 @@
             "TouhouMIDICreator",
             "unknown 2",
             "unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "627e08fd-0b61-4410-9140-32b9b4b72aa6"
     },
-    "46591277-72ab-4174-9d2d-6fa169ed6a57": {
+    "th14_12.txt": {
         "file": "th14_12.txt",
         "type": "work",
         "title": "針小棒大の天守閣",
@@ -6880,9 +7860,13 @@
             "KR.Palto47 - SC88pro GS",
             "KR.Palto47 - SD20 GM2Native",
             "unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "46591277-72ab-4174-9d2d-6fa169ed6a57"
     },
-    "d5447ac1-c303-471a-a4f1-90752726a0d5": {
+    "th14_13.txt": {
         "file": "th14_13.txt",
         "type": "work",
         "title": "輝く針の小人族　～ Little Princess",
@@ -6912,9 +7896,13 @@
             "TouhouMIDICreator",
             "unknown 2",
             "unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "d5447ac1-c303-471a-a4f1-90752726a0d5"
     },
-    "da9f0c3a-2a73-4e77-aa93-739ed3c337ea": {
+    "th14_14.txt": {
         "file": "th14_14.txt",
         "type": "work",
         "title": "魔力の雷雲",
@@ -6941,9 +7929,13 @@
             "hisaraito",
             "Kitaichi Rei",
             "pieordie1"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "da9f0c3a-2a73-4e77-aa93-739ed3c337ea"
     },
-    "7d3d603e-6579-4309-93cd-7f6cd05bb9b8": {
+    "th14_15.txt": {
         "file": "th14_15.txt",
         "type": "work",
         "title": "始原のビート　～ Pristine Beat",
@@ -6970,9 +7962,13 @@
             "TouhouMIDICreator",
             "Unknown",
             "Yunior 64"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "7d3d603e-6579-4309-93cd-7f6cd05bb9b8"
     },
-    "c423714d-fb91-4617-bd57-4246d3a6b60c": {
+    "th14_17.txt": {
         "file": "th14_17.txt",
         "type": "work",
         "title": "不思議な不思議な道具達",
@@ -6997,9 +7993,13 @@
         ],
         "copyright": [
             "Nitayahisa"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "c423714d-fb91-4617-bd57-4246d3a6b60c"
     },
-    "15a09a43-2af8-4c14-86e6-774fa9a6de10": {
+    "th15_01.txt": {
         "file": "th15_01.txt",
         "type": "work",
         "title": "宇宙巫女現る",
@@ -7024,9 +8024,13 @@
         ],
         "copyright": [
             "Karl Zuñiga"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "15a09a43-2af8-4c14-86e6-774fa9a6de10"
     },
-    "4914532b-dfc0-490b-b852-25a6fee003f7": {
+    "th15_02.txt": {
         "file": "th15_02.txt",
         "type": "work",
         "title": "忘れがたき、よすがの緑",
@@ -7052,9 +8056,13 @@
         ],
         "copyright": [
             "pieordie1"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "4914532b-dfc0-490b-b852-25a6fee003f7"
     },
-    "2a1d585c-d6cb-4d8a-8b07-be5b59ead8dc": {
+    "th15_03.txt": {
         "file": "th15_03.txt",
         "type": "work",
         "title": "兎は舞い降りた",
@@ -7080,9 +8088,13 @@
         "copyright": [
             "LeastLPZ",
             "thejunkjard"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "2a1d585c-d6cb-4d8a-8b07-be5b59ead8dc"
     },
-    "7983d0cc-6f5a-41d2-94e9-9d5cb5cb5d38": {
+    "th15_05.txt": {
         "file": "th15_05.txt",
         "type": "work",
         "title": "九月のパンプキン",
@@ -7107,9 +8119,13 @@
         ],
         "copyright": [
             "ryoya1295"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "7983d0cc-6f5a-41d2-94e9-9d5cb5cb5d38"
     },
-    "bc6d9f79-936c-4106-bace-d7b8c9c1358c": {
+    "th15_06.txt": {
         "file": "th15_06.txt",
         "type": "work",
         "title": "宇宙を飛ぶ不思議な巫女",
@@ -7135,9 +8151,13 @@
         "copyright": [
             "Kitaichi Rei",
             "pieordie1"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "bc6d9f79-936c-4106-bace-d7b8c9c1358c"
     },
-    "e55b0397-c00b-4c78-bdb9-2413b8e8d7b4": {
+    "th15_07.txt": {
         "file": "th15_07.txt",
         "type": "work",
         "title": "永遠の春夢",
@@ -7165,9 +8185,13 @@
             "LeastLPZ",
             "ryoya1295",
             "TouhouMIDICreator"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "e55b0397-c00b-4c78-bdb9-2413b8e8d7b4"
     },
-    "0ac94c6e-386a-463c-aa18-52f3a8d9a4b9": {
+    "th15_08.txt": {
         "file": "th15_08.txt",
         "type": "work",
         "title": "凍り付いた永遠の都",
@@ -7193,9 +8217,13 @@
         "copyright": [
             "pieordie1",
             "ryoya1295"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "0ac94c6e-386a-463c-aa18-52f3a8d9a4b9"
     },
-    "98941e21-f93f-4275-b14b-e05359649283": {
+    "th15_09.txt": {
         "file": "th15_09.txt",
         "type": "work",
         "title": "逆転するホイールオブフォーチュン",
@@ -7220,9 +8248,13 @@
         ],
         "copyright": [
             "TouhouMIDICreator"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "98941e21-f93f-4275-b14b-e05359649283"
     },
-    "2c2cd990-5efa-453d-883c-446c2fd79310": {
+    "th15_10.txt": {
         "file": "th15_10.txt",
         "type": "work",
         "title": "遥か３８万キロのボヤージュ",
@@ -7250,9 +8282,13 @@
             "Karl Zuñiga",
             "pieordie1",
             "ryoya1295"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "2c2cd990-5efa-453d-883c-446c2fd79310"
     },
-    "56087b41-d8ba-4167-a490-a17b353e8674": {
+    "th15_11.txt": {
         "file": "th15_11.txt",
         "type": "work",
         "title": "星条旗のピエロ",
@@ -7278,9 +8314,13 @@
         "copyright": [
             "TouhouMIDICreator",
             "Unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "56087b41-d8ba-4167-a490-a17b353e8674"
     },
-    "fb27152c-a554-4324-a9bd-ecbeab6cad05": {
+    "th15_12.txt": {
         "file": "th15_12.txt",
         "type": "work",
         "title": "故郷の星が映る海",
@@ -7309,9 +8349,13 @@
             "KR.Palto47 - SD20 GM2Native",
             "KR.Palto47 - SD80-90 Native",
             "ryoya1295"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "fb27152c-a554-4324-a9bd-ecbeab6cad05"
     },
-    "dbd1de3d-c7cd-4a3b-b083-687da43438e3": {
+    "th15_13.txt": {
         "file": "th15_13.txt",
         "type": "work",
         "title": "ピュアヒューリーズ　～ 心の在処",
@@ -7340,9 +8384,13 @@
             "Loren chan",
             "TouhouMIDICreator",
             "Unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "dbd1de3d-c7cd-4a3b-b083-687da43438e3"
     },
-    "fb4c2cc5-4644-4f3a-a4b3-cbe3b71395cc": {
+    "th15_14.txt": {
         "file": "th15_14.txt",
         "type": "work",
         "title": "見た事も無い悪夢の世界",
@@ -7368,9 +8416,13 @@
         "copyright": [
             "Kitaichi Rei",
             "ryoya1295"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "fb4c2cc5-4644-4f3a-a4b3-cbe3b71395cc"
     },
-    "3c0807bf-1779-4ab3-8143-2ea127fc5535": {
+    "th15_15.txt": {
         "file": "th15_15.txt",
         "type": "work",
         "title": "パンデモニックプラネット",
@@ -7401,9 +8453,13 @@
             "TouhouMIDICreator",
             "unknown 2",
             "unknown"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "3c0807bf-1779-4ab3-8143-2ea127fc5535"
     },
-    "dbecc7d4-ba5d-45d4-9187-ef2d437ebf73": {
+    "th15_16.txt": {
         "file": "th15_16.txt",
         "type": "work",
         "title": "神社から見える月",
@@ -7428,9 +8484,13 @@
         ],
         "copyright": [
             "TheDUBSpeedArts"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "dbecc7d4-ba5d-45d4-9187-ef2d437ebf73"
     },
-    "006412ea-297c-48e3-bdde-11b1c806382f": {
+    "th16_01.txt": {
         "file": "th16_01.txt",
         "type": "work",
         "title": "桜舞い散る天空",
@@ -7455,9 +8515,13 @@
         ],
         "copyright": [
             "Yaki"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "006412ea-297c-48e3-bdde-11b1c806382f"
     },
-    "ecf7bc44-dffb-4434-a6e0-a16b206b3296": {
+    "th16_02.txt": {
         "file": "th16_02.txt",
         "type": "work",
         "title": "希望の星は青霄に昇る",
@@ -7483,9 +8547,13 @@
         "copyright": [
             "Hisaraito",
             "ryoya1295"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "ecf7bc44-dffb-4434-a6e0-a16b206b3296"
     },
-    "2712b4f3-b8f7-4a5e-9c16-080c3ebc0ea7": {
+    "th16_03.txt": {
         "file": "th16_03.txt",
         "type": "work",
         "title": "真夏の妖精の夢",
@@ -7510,9 +8578,13 @@
         ],
         "copyright": [
             "ryoya1295"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "2712b4f3-b8f7-4a5e-9c16-080c3ebc0ea7"
     },
-    "a8092000-3112-450d-a480-139136b918c2": {
+    "th16_04.txt": {
         "file": "th16_04.txt",
         "type": "work",
         "title": "色無き風は妖怪の山に",
@@ -7537,9 +8609,13 @@
         ],
         "copyright": [
             "ryoya1295"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "a8092000-3112-450d-a480-139136b918c2"
     },
-    "70676c8b-f015-4f20-9329-77a467f2c6c6": {
+    "th16_05.txt": {
         "file": "th16_05.txt",
         "type": "work",
         "title": "山奥のエンカウンター",
@@ -7565,9 +8641,13 @@
         "copyright": [
             "ryoya1295",
             "sou1"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "70676c8b-f015-4f20-9329-77a467f2c6c6"
     },
-    "153fba9b-bae4-40ba-91f8-4dec26243afe": {
+    "th16_06.txt": {
         "file": "th16_06.txt",
         "type": "work",
         "title": "桜色の海を泳いで",
@@ -7593,9 +8673,13 @@
         "copyright": [
             "ryoya1295",
             "ShinkoNet"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "153fba9b-bae4-40ba-91f8-4dec26243afe"
     },
-    "f9cf49c0-cca8-4555-8b8b-f37ca189e262": {
+    "th16_07.txt": {
         "file": "th16_07.txt",
         "type": "work",
         "title": "一対の神獣",
@@ -7625,9 +8709,13 @@
             "ryoya1295",
             "ShinkoNet",
             "TouhouMIDICreator"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "f9cf49c0-cca8-4555-8b8b-f37ca189e262"
     },
-    "6b6998fd-5e68-4b21-bc71-4a388da4a8ac": {
+    "th16_08.txt": {
         "file": "th16_08.txt",
         "type": "work",
         "title": "幻想のホワイトトラベラー",
@@ -7653,9 +8741,13 @@
         "copyright": [
             "Hisaraito",
             "ryoya1295"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "6b6998fd-5e68-4b21-bc71-4a388da4a8ac"
     },
-    "ffc38828-36e7-43b4-ae4f-0284e34faddf": {
+    "th16_09.txt": {
         "file": "th16_09.txt",
         "type": "work",
         "title": "魔法の笠地蔵",
@@ -7680,9 +8772,13 @@
         ],
         "copyright": [
             "ryoya1295"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "ffc38828-36e7-43b4-ae4f-0284e34faddf"
     },
-    "5ccd17ae-da3f-48da-a12a-d77a92352aee": {
+    "th16_10.txt": {
         "file": "th16_10.txt",
         "type": "work",
         "title": "禁断の扉の向こうは、この世かあの世か",
@@ -7708,9 +8804,13 @@
         ],
         "copyright": [
             "ryoya1295"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "5ccd17ae-da3f-48da-a12a-d77a92352aee"
     },
-    "5a6354ee-f395-4545-b274-62a74c6dd0f4": {
+    "th16_11.txt": {
         "file": "th16_11.txt",
         "type": "work",
         "title": "クレイジーバックダンサーズ",
@@ -7736,9 +8836,13 @@
         "copyright": [
             "ryoya1295",
             "TouhouMIDICreator"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "5a6354ee-f395-4545-b274-62a74c6dd0f4"
     },
-    "92a00ef2-dbf7-4e6d-991d-9419558c0fc7": {
+    "th16_12.txt": {
         "file": "th16_12.txt",
         "type": "work",
         "title": "イントゥ・バックドア",
@@ -7764,9 +8868,13 @@
         "copyright": [
             "Karamitasu",
             "ryoya1295"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "92a00ef2-dbf7-4e6d-991d-9419558c0fc7"
     },
-    "e299d0cf-c1be-4a85-b77a-5c51c62fc217": {
+    "th16_13.txt": {
         "file": "th16_13.txt",
         "type": "work",
         "title": "秘匿されたフォーシーズンズ",
@@ -7792,9 +8900,13 @@
         "copyright": [
             "ryoya1295",
             "ShinkoNet"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "e299d0cf-c1be-4a85-b77a-5c51c62fc217"
     },
-    "2887df87-4ae8-4e77-9c79-6e66caee38bd": {
+    "th16_14.txt": {
         "file": "th16_14.txt",
         "type": "work",
         "title": "もうドアには入れない",
@@ -7820,9 +8932,13 @@
         "copyright": [
             "Karamitasu",
             "ryoya1295"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "2887df87-4ae8-4e77-9c79-6e66caee38bd"
     },
-    "4ee5dbd2-5a39-46b1-af2c-d0fca2bc48ed": {
+    "th16_15.txt": {
         "file": "th16_15.txt",
         "type": "work",
         "title": "秘神マターラ　～ Hidden Star in All Seasons.",
@@ -7850,9 +8966,13 @@
             "Hisaraito",
             "ryoya1295",
             "TouhouMIDICreator"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "4ee5dbd2-5a39-46b1-af2c-d0fca2bc48ed"
     },
-    "05291a41-1bf1-4bcd-af00-dff986f55c2e": {
+    "th17_02.txt": {
         "file": "th17_02.txt",
         "type": "work",
         "title": "地蔵だけが知る哀嘆",
@@ -7877,9 +8997,13 @@
         ],
         "copyright": [
             "ryoya1295"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "05291a41-1bf1-4bcd-af00-dff986f55c2e"
     },
-    "d4830628-6dd0-4433-82b6-c73c725ea789": {
+    "th17_03.txt": {
         "file": "th17_03.txt",
         "type": "work",
         "title": "ジェリーストーン",
@@ -7905,9 +9029,13 @@
         "copyright": [
             "ryoya1295",
             "Touhocaloid - piano only"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "d4830628-6dd0-4433-82b6-c73c725ea789"
     },
-    "b9a7cf2a-75c9-4f8d-814d-2ea78991fb4d": {
+    "th17_04.txt": {
         "file": "th17_04.txt",
         "type": "work",
         "title": "ロストリバー",
@@ -7933,9 +9061,13 @@
         "copyright": [
             "ryoya1295",
             "ShinkoNet"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "b9a7cf2a-75c9-4f8d-814d-2ea78991fb4d"
     },
-    "1272e584-d9d7-4905-b53c-8584dd577b09": {
+    "th17_05.txt": {
         "file": "th17_05.txt",
         "type": "work",
         "title": "石の赤子と水中の牛",
@@ -7962,9 +9094,13 @@
             "EpreTroll - piano only",
             "ryoya1295",
             "ShinkoNet"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "1272e584-d9d7-4905-b53c-8584dd577b09"
     },
-    "fdba8d04-a917-4799-aa1e-349cd04c704c": {
+    "th17_06.txt": {
         "file": "th17_06.txt",
         "type": "work",
         "title": "不朽の曼珠沙華",
@@ -7991,9 +9127,13 @@
             "ido",
             "ryoya1295",
             "ShinkoNet"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "fdba8d04-a917-4799-aa1e-349cd04c704c"
     },
-    "edcc88e8-4f83-4a41-b4c0-51f8d1b6e1d6": {
+    "th17_07.txt": {
         "file": "th17_07.txt",
         "type": "work",
         "title": "セラフィックチキン",
@@ -8019,9 +9159,13 @@
         "copyright": [
             "ryoya1295",
             "ShinkoNet"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "edcc88e8-4f83-4a41-b4c0-51f8d1b6e1d6"
     },
-    "edd2a53e-e599-42dc-800e-c7caae8b88b7": {
+    "th17_08.txt": {
         "file": "th17_08.txt",
         "type": "work",
         "title": "トータスドラゴン　～ 幸運と不運",
@@ -8046,9 +9190,13 @@
         ],
         "copyright": [
             "ryoya1295"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "edd2a53e-e599-42dc-800e-c7caae8b88b7"
     },
-    "ceb12564-eebc-4cc0-aa41-c8f47e5e4db1": {
+    "th17_10.txt": {
         "file": "th17_10.txt",
         "type": "work",
         "title": "ビーストメトロポリス",
@@ -8073,9 +9221,13 @@
         ],
         "copyright": [
             "ryoya1295"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "ceb12564-eebc-4cc0-aa41-c8f47e5e4db1"
     },
-    "115eeb1d-84ec-4b95-b4ad-4ff267559540": {
+    "th17_11.txt": {
         "file": "th17_11.txt",
         "type": "work",
         "title": "セラミックスの杖刀人",
@@ -8102,9 +9254,13 @@
             "Electroll",
             "hisaraito",
             "leastLPZ"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "115eeb1d-84ec-4b95-b4ad-4ff267559540"
     },
-    "72c07e4d-9d97-4ded-8914-4ce534c5de53": {
+    "th17_12.txt": {
         "file": "th17_12.txt",
         "type": "work",
         "title": "エレクトリックヘリテージ",
@@ -8131,9 +9287,13 @@
             "hisaraito",
             "KR.Palto47 - SC88pro - GS",
             "KR.Palto47. SD20 - GM2Native"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "72c07e4d-9d97-4ded-8914-4ce534c5de53"
     },
-    "9754635c-d783-41cb-b870-104d8ec465c9": {
+    "th17_13.txt": {
         "file": "th17_13.txt",
         "type": "work",
         "title": "偶像に世界を委ねて　～ Idoratrize World",
@@ -8164,9 +9324,13 @@
             "ryoya1295",
             "ShinkoNet",
             "TouhouMIDICreator"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "9754635c-d783-41cb-b870-104d8ec465c9"
     },
-    "b2406451-8560-4289-848f-ef39dcc2566a": {
+    "th17_14.txt": {
         "file": "th17_14.txt",
         "type": "work",
         "title": "聖徳太子のペガサス　～ Dark Pegasus",
@@ -8191,9 +9355,13 @@
         ],
         "copyright": [
             "ryoya1295"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "b2406451-8560-4289-848f-ef39dcc2566a"
     },
-    "8e5cf625-ddfe-46a9-ac2b-fde10e77185d": {
+    "th18_01.txt": {
         "file": "th18_01.txt",
         "type": "work",
         "title": "虹の架かる幻想郷",
@@ -8218,9 +9386,13 @@
         ],
         "copyright": [
             "Karl Zuñiga"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "8e5cf625-ddfe-46a9-ac2b-fde10e77185d"
     },
-    "e09ae124-648f-4139-8904-06f911f18433": {
+    "th18_02.txt": {
         "file": "th18_02.txt",
         "type": "work",
         "title": "妖異達の通り雨",
@@ -8245,9 +9417,13 @@
         ],
         "copyright": [
             "Karl Zuñiga"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "e09ae124-648f-4139-8904-06f911f18433"
     },
-    "8cb2ae05-f4c1-4b13-a5a7-6d922eb98dcb": {
+    "th18_03.txt": {
         "file": "th18_03.txt",
         "type": "work",
         "title": "大吉キトゥン",
@@ -8274,9 +9450,13 @@
             "EpreTroll - piano only",
             "Karl Zuñiga",
             "TouhouMIDICreator"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "8cb2ae05-f4c1-4b13-a5a7-6d922eb98dcb"
     },
-    "025ee291-74da-4e99-a539-3ccb2bcbc7c3": {
+    "th18_04.txt": {
         "file": "th18_04.txt",
         "type": "work",
         "title": "深緑に隠された断崖",
@@ -8301,9 +9481,13 @@
         ],
         "copyright": [
             "Karl Zuñiga"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "025ee291-74da-4e99-a539-3ccb2bcbc7c3"
     },
-    "974d83dd-ff41-40ae-9974-bb685f673227": {
+    "th18_05.txt": {
         "file": "th18_05.txt",
         "type": "work",
         "title": "バンデットリィテクノロジー",
@@ -8328,9 +9512,13 @@
         ],
         "copyright": [
             "Karl Zuñiga"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "974d83dd-ff41-40ae-9974-bb685f673227"
     },
-    "ab7ff14b-3f06-4ab4-8946-cb00ec894370": {
+    "th18_06.txt": {
         "file": "th18_06.txt",
         "type": "work",
         "title": "駒草咲くパーペチュアルスノー",
@@ -8355,9 +9543,13 @@
         ],
         "copyright": [
             "Karl Zuñiga"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "ab7ff14b-3f06-4ab4-8946-cb00ec894370"
     },
-    "ece21377-3938-42c3-bbdd-4f3209eeab0f": {
+    "th18_07.txt": {
         "file": "th18_07.txt",
         "type": "work",
         "title": "スモーキングドラゴン",
@@ -8385,9 +9577,13 @@
             "GS",
             "GM2Native",
             "TouhouMIDICreator"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "ece21377-3938-42c3-bbdd-4f3209eeab0f"
     },
-    "ffe8a760-54a2-4bf0-bf3c-9fb78d47e26f": {
+    "th18_08.txt": {
         "file": "th18_08.txt",
         "type": "work",
         "title": "廃れゆく産業遺構",
@@ -8412,9 +9608,13 @@
         ],
         "copyright": [
             "Karl Zuñiga"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "ffe8a760-54a2-4bf0-bf3c-9fb78d47e26f"
     },
-    "4b62fc1b-0e93-43e2-aa2b-34f6b24bfe6d": {
+    "th18_09.txt": {
         "file": "th18_09.txt",
         "type": "work",
         "title": "神代鉱石",
@@ -8439,9 +9639,13 @@
         ],
         "copyright": [
             "Karl Zuñiga"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "4b62fc1b-0e93-43e2-aa2b-34f6b24bfe6d"
     },
-    "d801e0a3-e188-48a7-ad93-16644a536479": {
+    "th18_10.txt": {
         "file": "th18_10.txt",
         "type": "work",
         "title": "待ちわびた逢魔が時",
@@ -8466,9 +9670,13 @@
         ],
         "copyright": [
             "Karl Zuñiga"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "d801e0a3-e188-48a7-ad93-16644a536479"
     },
-    "1608bfb8-9c74-404c-8870-e4d1721b1e89": {
+    "th18_11.txt": {
         "file": "th18_11.txt",
         "type": "work",
         "title": "星降る天魔の山",
@@ -8493,9 +9701,13 @@
         ],
         "copyright": [
             "Karl Zuñiga"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "1608bfb8-9c74-404c-8870-e4d1721b1e89"
     },
-    "2e0aa77d-889c-49b8-a068-bb095c5ca99e": {
+    "th18_12.txt": {
         "file": "th18_12.txt",
         "type": "work",
         "title": "ルナレインボー",
@@ -8521,9 +9733,13 @@
         "copyright": [
             "Dekyo ongen",
             "Karl Zuñiga"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "2e0aa77d-889c-49b8-a068-bb095c5ca99e"
     },
-    "08d3cf9b-8472-4cfd-88b6-650f2472f27c": {
+    "th18_13.txt": {
         "file": "th18_13.txt",
         "type": "work",
         "title": "あの賑やかな市場は今どこに　～ Immemorial Marketeers",
@@ -8552,9 +9768,13 @@
             "KR.Palto47 - GS",
             "KR.Palto47 - SD90",
             "KR.Palto47 - XG"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "08d3cf9b-8472-4cfd-88b6-650f2472f27c"
     },
-    "6f84c001-3edd-42bb-9bb2-4baa865f5ba4": {
+    "th18_14.txt": {
         "file": "th18_14.txt",
         "type": "work",
         "title": "幻想の地下大線路網",
@@ -8579,9 +9799,13 @@
         ],
         "copyright": [
             "Karl Zuñiga"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "6f84c001-3edd-42bb-9bb2-4baa865f5ba4"
     },
-    "d7e73b08-229a-4a9e-a482-e406bb86ec78": {
+    "th18_15.txt": {
         "file": "th18_15.txt",
         "type": "work",
         "title": "龍王殺しのプリンセス",
@@ -8610,9 +9834,13 @@
             "GM2Native",
             "Native",
             "TouhouMIDICreator"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "d7e73b08-229a-4a9e-a482-e406bb86ec78"
     },
-    "655927db-7546-46cb-a84a-637d9b7e4dbf": {
+    "th18_16.txt": {
         "file": "th18_16.txt",
         "type": "work",
         "title": "嵐の後の日曜日",
@@ -8637,9 +9865,13 @@
         ],
         "copyright": [
             "Karl Zuñiga"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "655927db-7546-46cb-a84a-637d9b7e4dbf"
     },
-    "eda29a95-98dc-4236-9e1f-cc5476e9c4a8": {
+    "th18_17.txt": {
         "file": "th18_17.txt",
         "type": "work",
         "title": "虹色の世界",
@@ -8664,6 +9896,10 @@
         ],
         "copyright": [
             "Karl Zuñiga"
-        ]
+        ],
+        "status": [
+            "draft"
+        ],
+        "mbid": "eda29a95-98dc-4236-9e1f-cc5476e9c4a8"
     }
 }

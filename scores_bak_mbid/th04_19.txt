@@ -1,0 +1,516 @@
+%th04_19.txt
+MBID=305b022b-d967-4dcf-976a-788b293d7553
+title=Days
+type=work
+tag=th04,东方幻想乡,东方,touhou,东方原曲,ZUN,东方旧作原曲,东方整数作原曲
+usertag=th04
+tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th04
+alias=Days
+copyright=Blargzargo,Ruukasu
+%---
+%------th04_19.txt_Blargzargo.buf------
+instrument=A
+OctavesBefore
+1=C
+4/4
+,,6 - - -
+,,5 - - -
+,,4 - - -
+,,3 - - -
+,,6 - - -
+,,5 - - -
+,,4 - - -
+,,3 - - -
+,,6 - - -
+,,5 - - -
+,,4 - - -
+,,3 - - -
+,,6 - - -
+,,5 - - -
+,,4 - - -
+,,3 - - -
+,,6 - - -
+,,5 - - -
+,,4 - - -
+,,3 - - -
+,,6 - - -
+,,5 - - -
+,,4 - - -
+,,3 - - -
+,,6 - - -
+,,5 - - -
+,,4 - - -
+,,3 - - -
+,,6 - - -
+,,5 - - -
+,,4 - - -
+,,3 - - -
+,,6 - - -
+,,5 - - -
+,,4 - - -
+,,3 - - -
+NextPart
+instrument=B
+OctavesBefore
+1=C
+4/4
+,3 - - -
+,2 - - -
+,1 - - -
+,,7 - - -
+,3 - - -
+,2 - - -
+,1 - - -
+,,7 - - -
+,3 - - -
+,2 - - -
+,1 - - -
+,,7 - - -
+,3 - - -
+,2 - - -
+,1 - - -
+,,7 - - -
+,3 - - -
+,2 - - -
+,1 - - -
+,,7 - - -
+,3 - - -
+,2 - - -
+,1 - - -
+,,7 - - -
+,3 - - -
+,2 - - -
+,1 - - -
+,,7 - - -
+,3 - - -
+,2 - - -
+,1 - - -
+,,7 - - -
+,3 - - -
+,2 - - -
+,1 - - -
+,,7 - - -
+NextPart
+instrument=C
+OctavesBefore
+1=C
+4/4
+q,6 q,7 q1 q3 q2
+3. ,6. q,7 q1
+,6 - - -
+,#5 - - q,#5 q,6
+q,6 q,7 q1 q3 q2
+3. 5. 6
+3 - - -
+q2 q1 q,7 q,#5 q,7 q,#5 q2 q3
+q6 q7 q'1 q'3 q'2
+'3. 6. q7 q'1
+6 - - -
+#5 - - q'2 q'3
+q6 q7 q'1 q'3 q'2
+'3. '5. '6
+'3 - - -
+q'2 q'1 q7 q#5 q7 q#5 q2 q,7
+,1 - - -
+,1 - - -
+,1 - - -
+,,7 - - ,2
+,3 - - -
+,3 - - -
+,,6 - - -
+,,#5 - - ,,#5
+,1 - - -
+,2 - - -
+,3 - - -
+,#5 - q,7 q1 q2 q3
+1 - - 3
+,7 - - 3
+,6 - - -
+q,2 q,1 q,,7 q,,#5 q,,7 q,,#5 q,2 q,3
+q,6 q,7 q1 q3 q2
+3. ,6. q,7 q1
+,6 - - -
+,#5 - - q,#5 h,6
+NextPart
+instrument=D
+OctavesBefore
+1=C
+4/4
+q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,#5 q,7 q1 q3 q,#5
+q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,#5 q,7 q1 q3 q,#5
+q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,#5 q,7 q1 q3 q,#5
+q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,#5 q,7 q1 q3 q,#5
+q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,#5 q,7 q1 q3 q,#5
+q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,#5 q,7 q1 q3 q,#5
+q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,#5 q,7 q1 q3 q,#5
+q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,#5 q,7 q1 q3 q,#5
+q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,#5 q,7 q1 q3 q,#5
+NextPart
+instrument=E
+OctavesBefore
+1=C
+4/4
+q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,#5 q,7 q1 q3 s,#5
+q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,#5 q,7 q1 q3 s,#5
+q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,#5 q,7 q1 q3 s,#5
+q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,#5 q,7 q1 q3 s,#5
+q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,#5 q,7 q1 q3 s,#5
+q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,#5 q,7 q1 q3 s,#5
+q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,#5 q,7 q1 q3 s,#5
+q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,#5 q,7 q1 q3 s,#5
+q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,#5 q,7 q1 q3 s,#5
+NextPart
+instrument=G
+OctavesBefore
+1=C
+4/4
+q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,#5 q,7 q1 q3 q,#5
+q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,#5 q,7 q1 q3 q,#5
+q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,#5 q,7 q1 q3 q,#5
+q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,#5 q,7 q1 q3 q,#5
+q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,#5 q,7 q1 q3 q,#5
+q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,#5 q,7 q1 q3 q,#5
+q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,#5 q,7 q1 q3 q,#5
+q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,#5 q,7 q1 q3 q,#5
+q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,#5 q,7 q1 q3 q,#5
+NextPart
+instrument=H
+OctavesBefore
+1=C
+4/4
+q,6 q,7 q1 q3 s,6
+h,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+h,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+h,6 q,7 q1 q3 q,#5 q,7 q1 q3 s,#5
+q,6 q,7 q1 q3 s,6
+h,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+h,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+h,6 q,7 q1 q3 q,#5 q,7 q1 q3 s,#5
+q,6 q,7 q1 q3 s,6
+h,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+h,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+h,6 q,7 q1 q3 q,#5 q,7 q1 q3 s,#5
+q,6 q,7 q1 q3 s,6
+h,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+h,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+h,6 q,7 q1 q3 q,#5 q,7 q1 q3 s,#5
+q,6 q,7 q1 q3 s,6
+h,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+h,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+h,6 q,7 q1 q3 q,#5 q,7 q1 q3 s,#5
+q,6 q,7 q1 q3 s,6
+h,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+h,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+h,6 q,7 q1 q3 q,#5 q,7 q1 q3 s,#5
+q,6 q,7 q1 q3 s,6
+h,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+h,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+h,6 q,7 q1 q3 q,#5 q,7 q1 q3 s,#5
+q,6 q,7 q1 q3 s,6
+h,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+h,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+h,6 q,7 q1 q3 q,#5 q,7 q1 q3 s,#5
+q,6 q,7 q1 q3 s,6
+h,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+h,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+h,6 q,7 q1 q3 q,#5 q,7 q1 q3 s,#5
+NextPart
+instrument=I/K
+OctavesBefore
+1=C
+4/4
+h,,b7
+R*3
+h,,#6
+R*2
+h,,1 h,,#6 h,,2
+h,,1 h,,2 h,,1 h,,1 h,,2
+h,,1 h,,2 h,,1 h,,1 h,,2
+h,,1 h,,2 h,,1 h,,1 h,,2
+h,,1 h,,2 h,,1 h,,1 h,,2
+h,,1 h,,2 h,,1 h,,1 h,,2
+h,,1 h,,2 h,,1 h,,1 h,,2
+h,,1 h,,2 h,,1 h,,1 h,,2
+h,,1 h,,2 h,,1 h,,1 h,,2
+h,,1 h,,1 h,,1 h,,1
+h,,1 h,,1 h,,1 h,,1
+h,,1 h,,1 h,,1 h,,1
+h,,1 h,,1 h,,1 h,,1
+h,,1 h,,1 h,,1 h,,1
+h,,1 h,,1 h,,1 h,,1
+h,,1 h,,1 h,,1 h,,1
+h,,1 h,,1 h,,1 h,,1
+h,,1 h,,1 h,,1 h,,1
+h,,1 h,,1 h,,1 h,,1
+h,,1 h,,1 h,,1 h,,1
+h,,1 h,,1 h,,1 h,,1
+h,,1 h,,1 h,,1 h,,1
+h,,1 h,,1 h,,1 h,,1
+h,,1 h,,1 h,,1 h,,1
+h,,1 h,,1 h,,1 h,,1
+h,,#6
+%---
+%------th04_19.txt_Ruukasu.buf------
+instrument=Track 1
+OctavesBefore
+1=C
+4/4
+,3 - - - ,,6
+,2 - - - ,,5
+,1 - - - ,,4
+,,7 - - - ,,3
+,3 - - - ,,6
+,2 - - - ,,5
+,1 - - - ,,4
+,,7 - - - ,,3
+,3 - - - ,,6
+,2 - - - ,,5
+,1 - - - ,,4
+,,7 - - - ,,3
+,3 - - - ,,6
+,2 - - - ,,5
+,1 - - - ,,4
+,,7 - - - ,,3
+,3 - - - ,,6
+,2 - - - ,,5
+,1 - - - ,,4
+,,7 - - - ,,3
+,3 - - - ,,6
+,2 - - - ,,5
+,1 - - - ,,4
+,,7 - - - ,,3
+,3 - - - ,,6
+,2 - - - ,,5
+,1 - - - ,,4
+,,7 - - - ,,3
+,3 - - - ,,6
+,2 - - - ,,5
+,1 - - - ,,4
+,,7 - - - ,,3
+NextPart
+instrument=Track 2
+OctavesBefore
+1=C
+4/4
+q,6 q,7 q1 q3 q2
+3. ,6. q,7 q1
+,6 - - -
+,#5 - - q,#5 q,6
+q,6 q,7 q1 q3 q2
+3. 5. 6
+3 - - -
+q2 q1 q,7 q,#5 q,7 q,#5 q2 q3
+q6 q7 q'1 q'3 q'2
+'3. 6. q7 q'1
+6 - - -
+#5 - - q'2 q'3
+q6 q7 q'1 q'3 q'2
+'3. '5. '6
+'3 - - -
+q'2 q'1 q7 q#5 q7 q#5 q2 q,7
+,1 - - -
+,1 - - -
+,1 - - -
+,,7 - - ,2
+,3 - - -
+,3 - - -
+,,6 - - -
+,,#5 - - ,,#5
+,1 - - -
+,2 - - -
+,3 - - -
+,#5 - q,7 q1 q2 q3
+1 - - 3
+,7 - - 3
+,6 - - -
+q,2 q,1 q,,7 q,,#5 q,,7 q,,#5 q,2 q,3
+NextPart
+instrument=Track 3
+OctavesBefore
+1=C
+4/4
+q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,#5 q,7 q1 q3 q,#5
+q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,#5 q,7 q1 q3 q,#5
+q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,#5 q,7 q1 q3 q,#5
+q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,#5 q,7 q1 q3 q,#5
+q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,#5 q,7 q1 q3 q,#5
+q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,#5 q,7 q1 q3 q,#5
+q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,#5 q,7 q1 q3 q,#5
+q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,6 q,7 q1 q3 q,6
+q,7 q1 q3 q,#5 q,7 q1 q3 q,#5
+NextPart
+instrument=Track 4
+OctavesBefore
+1=C
+4/4
+q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,#5 q,7 q1 q3 s,#5
+q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,#5 q,7 q1 q3 s,#5
+q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,#5 q,7 q1 q3 s,#5
+q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,#5 q,7 q1 q3 s,#5
+q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,#5 q,7 q1 q3 s,#5
+q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,#5 q,7 q1 q3 s,#5
+q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,#5 q,7 q1 q3 s,#5
+q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,6 q,7 q1 q3 s,6
+s,6 q,7 q1 q3 q,#5 q,7 q1 q3 s,#5
+NextPart
+instrument=Track 5
+OctavesBefore
+1=C
+4/4
+,,b7 - - -
+R*3
+,,b7 - - -
+R*2
+,,,7 ,,3
+,,,7 ,,3 q,,,7 q,,,7 ,,3
+,,,7 ,,3 q,,,7 q,,,7 ,,3
+,,,7 ,,3 q,,,7 q,,,7 ,,3
+,,,7 ,,3 q,,,7 q,,,7 ,,3
+,,,7 ,,3 q,,,7 q,,,7 ,,3
+,,,7 ,,3 q,,,7 q,,,7 ,,3
+,,,7 ,,3 q,,,7 q,,,7 ,,3
+,,,7 ,,3 q,,,7 q,,,7 ,,3
+,,1 ,,1 ,,1 ,,1
+,,1 ,,1 ,,1 ,,1
+,,1 ,,1 ,,1 ,,1
+,,1 ,,1 ,,1 ,,1
+,,1 ,,1 ,,1 ,,1
+,,1 ,,1 ,,1 ,,1
+,,1 ,,1 ,,1 ,,1
+,,1 ,,1 ,,1 ,,1
+,,1 ,,1 ,,1 ,,1
+,,1 ,,1 ,,1 ,,1
+,,1 ,,1 ,,1 ,,1
+,,1 ,,1 ,,1 ,,1
+,,1 ,,1 ,,1 ,,1
+,,1 ,,1 ,,1 ,,1
+,,1 ,,1 ,,1 ,,1
+,,1 ,,1 ,,1 ,,1
+%END
