@@ -10,7 +10,7 @@
 
 [scores](scores/)：存放曲谱及其元数据的文件夹。
 
-[data.json](data.json)：存储歌曲元数据的文件，由脚本将score文件夹中的元数据自动拼接生成。
+[data.jsonl](data.jsonl)：存储歌曲元数据的文件，由脚本将score文件夹中的元数据自动拼接生成。
 
 [tag_implication.json](tag_implication.json)：标签间的蕴涵关系，如`东方星莲船`蕴涵`东方原曲`。
 
@@ -193,7 +193,7 @@ opus=作品编号
 
 #### 元数据（高级）
 
-所有元数据（包括data.json）均由脚本根据曲谱文件里的数据自动生成，因此一般情况下不要乱动。
+所有元数据（包括data.jsonl）均由脚本根据曲谱文件里的数据自动生成，因此一般情况下不要乱动。
 
 以[th01_02.json](meta/th01_02.json)为例：
 
