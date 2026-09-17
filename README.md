@@ -23,6 +23,8 @@
     <p>以此类推……</p>
 </details>
 
+[melody_find.py](melody_find.py)：根据数字查旋律（将来应该改成接口的）的脚本。
+
 [score.py](score.py)：定义`Score`类的程序。
 
 [parse_score.py](parse_score.py)：自动规范化处理曲谱文件的脚本。
