@@ -7,8 +7,8 @@ usertag=th17
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th17
 alias=寄世界于偶像　～ Idoratrize World
 status=ok
-mbid=9754635c-d783-41cb-b870-104d8ec465c9
 transcriber=Francium-223
+mbid=9754635c-d783-41cb-b870-104d8ec465c9
 %---
 subtitle=intro
 7 - - - - - - - 1 - - - - - - 2q 3q 2 - - - - - - 1q ,7q 1c - 3 - 2 - ,7 -
@@ -39,3 +39,5 @@ KeepLength
 R{
 5c 6q 6c 3q 6 3 5c 6q 6c ,7q 5 ,7 5c 6q 6c #5q 7 '3 '2c 6q '2 '1 7c 5q ~
 5c 6q 6c 3q 6 3 } A{ 5c 6q 6c 5q 6 7 '1c 7q '1c '1q 7 5 3c - 6 -  | 5q. 6. 6 '2. 7. 5 6c - - - - - - - }
+%---
+%END
