@@ -1,7 +1,8 @@
 {
     "th15_07.txt": {
-        "file": "th15_07.txt",
-        "type": "work",
+        "file": [
+            "th15_07.txt"
+        ],
         "title": "永遠の春夢",
         "usertag": [
             "th15"

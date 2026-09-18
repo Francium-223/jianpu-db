@@ -1,7 +1,8 @@
 {
     "th17_02.txt": {
-        "file": "th17_02.txt",
-        "type": "work",
+        "file": [
+            "th17_02.txt"
+        ],
         "title": "地蔵だけが知る哀嘆",
         "usertag": [
             "th17"

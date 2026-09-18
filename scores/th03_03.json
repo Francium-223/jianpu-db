@@ -1,7 +1,8 @@
 {
     "th03_03.txt": {
-        "file": "th03_03.txt",
-        "type": "work",
+        "file": [
+            "th03_03.txt"
+        ],
         "title": "東方妖恋談",
         "usertag": [
             "th03"

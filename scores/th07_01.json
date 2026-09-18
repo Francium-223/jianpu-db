@@ -1,7 +1,8 @@
 {
     "th07_01.txt": {
-        "file": "th07_01.txt",
-        "type": "work",
+        "file": [
+            "th07_01.txt"
+        ],
         "title": "妖々夢　～ Snow or Cherry Petal",
         "usertag": [
             "th07"

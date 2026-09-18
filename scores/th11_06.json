@@ -1,7 +1,8 @@
 {
     "th11_06.txt": {
-        "file": "th11_06.txt",
-        "type": "work",
+        "file": [
+            "th11_06.txt"
+        ],
         "title": "旧地獄街道を行く",
         "usertag": [
             "th11"

@@ -1,7 +1,8 @@
 {
     "th10_10.txt": {
-        "file": "th10_10.txt",
-        "type": "work",
+        "file": [
+            "th10_10.txt"
+        ],
         "title": "少女が見た日本の原風景",
         "usertag": [
             "th10"

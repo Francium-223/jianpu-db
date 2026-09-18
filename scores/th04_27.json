@@ -1,7 +1,8 @@
 {
     "th04_27.txt": {
-        "file": "th04_27.txt",
-        "type": "work",
+        "file": [
+            "th04_27.txt"
+        ],
         "title": "Magic Shop of Raspberry",
         "usertag": [
             "th04"

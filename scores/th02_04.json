@@ -1,7 +1,8 @@
 {
     "th02_04.txt": {
-        "file": "th02_04.txt",
-        "type": "work",
+        "file": [
+            "th02_04.txt"
+        ],
         "title": "End of Daylight",
         "usertag": [
             "th02"

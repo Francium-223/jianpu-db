@@ -1,7 +1,8 @@
 {
     "th14_13.txt": {
-        "file": "th14_13.txt",
-        "type": "work",
+        "file": [
+            "th14_13.txt"
+        ],
         "title": "輝く針の小人族　～ Little Princess",
         "usertag": [
             "th14"

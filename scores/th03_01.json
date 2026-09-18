@@ -1,7 +1,8 @@
 {
     "th03_01.txt": {
-        "file": "th03_01.txt",
-        "type": "work",
+        "file": [
+            "th03_01.txt"
+        ],
         "title": "夢は時空を越えて",
         "usertag": [
             "th03"

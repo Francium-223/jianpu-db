@@ -1,7 +1,8 @@
 {
     "th05_20.txt": {
-        "file": "th05_20.txt",
-        "type": "work",
+        "file": [
+            "th05_20.txt"
+        ],
         "title": "久遠の楽園",
         "usertag": [
             "th05"

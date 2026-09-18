@@ -1,7 +1,8 @@
 {
     "th13_09.txt": {
-        "file": "th13_09.txt",
-        "type": "work",
+        "file": [
+            "th13_09.txt"
+        ],
         "title": "古きユアンシェン",
         "usertag": [
             "th13"

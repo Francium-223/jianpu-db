@@ -1,7 +1,8 @@
 {
     "th08_16.txt": {
-        "file": "th08_16.txt",
-        "type": "work",
+        "file": [
+            "th08_16.txt"
+        ],
         "title": "ヴォヤージュ1970",
         "usertag": [
             "th08"

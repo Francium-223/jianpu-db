@@ -1,7 +1,8 @@
 {
     "th03_17.txt": {
-        "file": "th03_17.txt",
-        "type": "work",
+        "file": [
+            "th03_17.txt"
+        ],
         "title": "永遠の満月",
         "usertag": [
             "th03"

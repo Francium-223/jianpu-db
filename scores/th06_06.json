@@ -1,7 +1,8 @@
 {
     "th06_06.txt": {
-        "file": "th06_06.txt",
-        "type": "work",
+        "file": [
+            "th06_06.txt"
+        ],
         "title": "上海紅茶館　～ Chinese Tea",
         "usertag": [
             "th06"

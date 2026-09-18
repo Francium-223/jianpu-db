@@ -1,7 +1,8 @@
 {
     "th02_06.txt": {
-        "file": "th02_06.txt",
-        "type": "work",
+        "file": [
+            "th02_06.txt"
+        ],
         "title": "幻夢界",
         "usertag": [
             "th02"

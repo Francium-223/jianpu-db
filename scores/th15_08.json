@@ -1,7 +1,8 @@
 {
     "th15_08.txt": {
-        "file": "th15_08.txt",
-        "type": "work",
+        "file": [
+            "th15_08.txt"
+        ],
         "title": "凍り付いた永遠の都",
         "usertag": [
             "th15"

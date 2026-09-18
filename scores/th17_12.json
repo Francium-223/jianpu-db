@@ -1,7 +1,8 @@
 {
     "th17_12.txt": {
-        "file": "th17_12.txt",
-        "type": "work",
+        "file": [
+            "th17_12.txt"
+        ],
         "title": "エレクトリックヘリテージ",
         "usertag": [
             "th17"

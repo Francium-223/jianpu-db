@@ -1,7 +1,8 @@
 {
     "th01_05.txt": {
-        "file": "th01_05.txt",
-        "type": "work",
+        "file": [
+            "th01_05.txt"
+        ],
         "title": "東方怪奇談",
         "usertag": [
             "th01"

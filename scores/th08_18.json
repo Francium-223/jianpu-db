@@ -1,7 +1,8 @@
 {
     "th08_18.txt": {
-        "file": "th08_18.txt",
-        "type": "work",
+        "file": [
+            "th08_18.txt"
+        ],
         "title": "月まで届け、不死の煙",
         "usertag": [
             "th08"

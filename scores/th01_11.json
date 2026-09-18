@@ -1,7 +1,8 @@
 {
     "th01_11.txt": {
-        "file": "th01_11.txt",
-        "type": "work",
+        "file": [
+            "th01_11.txt"
+        ],
         "title": "いざ、倒れ逝くその時まで",
         "usertag": [
             "th01"

@@ -1,7 +1,8 @@
 {
     "th16_11.txt": {
-        "file": "th16_11.txt",
-        "type": "work",
+        "file": [
+            "th16_11.txt"
+        ],
         "title": "クレイジーバックダンサーズ",
         "usertag": [
             "th16"

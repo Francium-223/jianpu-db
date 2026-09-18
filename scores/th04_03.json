@@ -1,7 +1,8 @@
 {
     "th04_03.txt": {
-        "file": "th04_03.txt",
-        "type": "work",
+        "file": [
+            "th04_03.txt"
+        ],
         "title": "Selene's light",
         "usertag": [
             "th04"

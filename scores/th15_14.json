@@ -1,7 +1,8 @@
 {
     "th15_14.txt": {
-        "file": "th15_14.txt",
-        "type": "work",
+        "file": [
+            "th15_14.txt"
+        ],
         "title": "見た事も無い悪夢の世界",
         "usertag": [
             "th15"

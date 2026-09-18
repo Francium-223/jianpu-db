@@ -189,7 +189,6 @@ class Score():
 		self.raw = ''
 		self.raw2 = ''
 		self.raw_expanded = ''
-		self.type = 'work'
 		self.others = {'tag': [], 'usertag': [], 'tagroute': []}
 		self.comments = []
 	def find_tag(self, n):
@@ -277,13 +276,12 @@ class Score():
 	def prioritize_title_and_tag(self):
 		b = {}
 		b['file'] = self.others['file']
-		b['type'] = self.others['type']
 		b['title'] = self.others['title']
 		b['usertag'] = self.others['usertag']
 		b['tagroute'] = self.others['tagroute']
 		b['tag'] = self.others['tag']
 		for i in self.others.keys():
-			if not i in ['file', 'title', 'tag', 'usertag', 'type', 'tagroute']:
+			if not i in ['file', 'title', 'tag', 'usertag', 'tagroute']:
 				b[i] = self.others[i]
 		self.others = b
 	def getusertag(self, a):
@@ -305,13 +303,6 @@ class Score():
 					continue
 				if i.replace(' ', '').startswith('title='):
 					self.title = i[i.find('=') + 1:].strip(' ')
-					continue
-				if i.replace(' ', '').startswith('type='):
-					worktypes = ['work', 'recording']
-					if i[i.find('=') + 1:].strip(' ').lower() in worktypes:
-						self.type = i[i.find('=') + 1:].strip(' ').lower()
-					else:
-						warnings.warn(f'invalid type {i[i.find('=') + 1:].strip(' ')}. Changed to \'work\'. Valid types are: {', '.join(worktypes)}.')
 					continue
 				if '=' in i:
 					t = i[:i.find('=')].strip(' ')
@@ -371,17 +362,26 @@ class Score():
 				print(i.rstrip('\n'), file=f)
 			# 所有字段统一写: MBID / Wikidata 不再单独提前写, 跟 title/type 之外的一律走 others
 			print('title=' + self.title, file=f)
-			print('type=' + self.type, file=f)
 			for i in self.others.keys():
-				# others 的值: 一般是列表(多值字段), 也可能是字符串
-				_v = self.others[i]
-				if _v in schema.schema and not schema.schema['i'](_v):
-					warnings.warn(f'Ambiguous term \'{k}\'. You mean \'{('\' or \'').join(set(v))}\'?')
-				else:
-					print(i + '=' + ((',').join(_v) if isinstance(_v, list) else str(_v)), file=f)
+				# others 的值统一都是**多值字段**(列表) —— 含 title/type/file, 见下面赋值处。
+				# schema.schema[字段名] 是**校验单个值**的函数(如 check_mbid(a) 里 a 是字符串),
+				# 所以这里按元素逐个校验, 而不是把整个列表丢进去。
+				_v = self.others[i] if isinstance(self.others[i], list) else [self.others[i]]
+				chk = schema.schema.get(i)
+				if chk:
+					for _x in _v:
+						try:
+							if not chk(_x):
+								warnings.warn(f'Invalid {i} value: {_x!r} '
+											  f'(see {getattr(chk, "__name__", "?")} in schema.py)')
+						except Exception as _e:
+							warnings.warn(f'schema check for {i} failed: {_e!r}')
+				print(i + '=' + (',').join(str(x) for x in _v), file=f)
+			# type/file 存成列表, 与其它字段形态一致; **title 是例外**, 保持字符串
+			# (它是曲目的显示名/单值, 下游按字符串读)。
+			# type 字段已去掉(实测 309 份全是 work, 零信息量; 要用时再加回来)
 			self.others['title'] = self.title
-			self.others['type'] = self.type
-			self.others['file'] = self.score.split('/')[-1]
+			self.others['file'] = [self.score.split('/')[-1]]
 			d = False
 			for i in self.raw:
 				if i.replace(' ', '').startswith('%--'):
@@ -422,16 +422,20 @@ class Score():
 				if not attrib[i]:
 					continue
 				filename = ''
-				if i in ['usertag', 'type', 'file']:
+				if i in ['usertag', 'file']:
 					continue
 				elif i == 'title':
-					if attrib['title'].replace(' ', '')[0] in 'qwertyuioppasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM1234567890':
-						if attrib['title'].replace(' ', '')[1] in 'qwertyuioppasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM1234567890':
-							filename = 'by_title/' + attrib['title'].replace(' ', '')[0].upper() + '/' + attrib['title'].replace(' ', '')[1].upper() + '/' + attrib['title'] + '/' + self.score.split('/')[-1]
+					# title 现在是列表(与其它字段形态一致) -> 取首值; 同时兼容旧的字符串形态
+					_tv = attrib.get('title')
+					_t = (_tv[0] if isinstance(_tv, list) and _tv else (_tv or ''))
+					_ts = _t.replace(' ', '') if _t else ''
+					if len(_ts) >= 2 and _ts[0] in 'qwertyuioppasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM1234567890':
+						if _ts[1] in 'qwertyuioppasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM1234567890':
+							filename = 'by_title/' + _ts[0].upper() + '/' + _ts[1].upper() + '/' + _t + '/' + self.score.split('/')[-1]
 						else:
-							filename = 'by_title/' + attrib['title'].replace(' ', '')[0].upper() + '/others/' + attrib['title'] + '/' + self.score.split('/')[-1]
+							filename = 'by_title/' + _ts[0].upper() + '/others/' + _t + '/' + self.score.split('/')[-1]
 					else:
-						filename = 'by_title/others/' + attrib['title'] + '/' + self.score.split('/')[-1]
+						filename = 'by_title/others/' + _t + '/' + self.score.split('/')[-1]
 				else:
 					for j in attrib[i]:
 						filename = f'by_{i}/' + j + '/' + self.score.split('/')[-1]

@@ -1,7 +1,8 @@
 {
     "th08_19.txt": {
-        "file": "th08_19.txt",
-        "type": "work",
+        "file": [
+            "th08_19.txt"
+        ],
         "title": "月見草",
         "usertag": [
             "th08"

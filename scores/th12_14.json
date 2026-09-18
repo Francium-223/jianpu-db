@@ -1,7 +1,8 @@
 {
     "th12_14.txt": {
-        "file": "th12_14.txt",
-        "type": "work",
+        "file": [
+            "th12_14.txt"
+        ],
         "title": "夜空のユーフォーロマンス",
         "usertag": [
             "th12"

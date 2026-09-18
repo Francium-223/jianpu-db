@@ -1,7 +1,8 @@
 {
     "th15_16.txt": {
-        "file": "th15_16.txt",
-        "type": "work",
+        "file": [
+            "th15_16.txt"
+        ],
         "title": "神社から見える月",
         "usertag": [
             "th15"

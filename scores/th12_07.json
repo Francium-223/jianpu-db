@@ -1,7 +1,8 @@
 {
     "th12_07.txt": {
-        "file": "th12_07.txt",
-        "type": "work",
+        "file": [
+            "th12_07.txt"
+        ],
         "title": "時代親父とハイカラ少女",
         "usertag": [
             "th12"

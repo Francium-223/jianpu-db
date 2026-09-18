@@ -1,7 +1,8 @@
 {
     "th06_01.txt": {
-        "file": "th06_01.txt",
-        "type": "work",
+        "file": [
+            "th06_01.txt"
+        ],
         "title": "赤より紅い夢",
         "usertag": [
             "th06"

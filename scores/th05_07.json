@@ -1,7 +1,8 @@
 {
     "th05_07.txt": {
-        "file": "th05_07.txt",
-        "type": "work",
+        "file": [
+            "th05_07.txt"
+        ],
         "title": "プラスチックマインド",
         "usertag": [
             "th05"

@@ -1,7 +1,8 @@
 {
     "th17_14.txt": {
-        "file": "th17_14.txt",
-        "type": "work",
+        "file": [
+            "th17_14.txt"
+        ],
         "title": "聖徳太子のペガサス　～ Dark Pegasus",
         "usertag": [
             "th17"
