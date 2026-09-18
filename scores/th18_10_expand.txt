@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th18
 MBID=d801e0a3-e188-48a7-ad93-16644a536479
 alias=渴盼已久的逢魔之刻
 copyright=Karl Zuñiga
-status=draft
+status=midi
 %---
 %------th18_10.txt_Karl Zuñiga.buf------
 instrument=GA5 (Elementics)

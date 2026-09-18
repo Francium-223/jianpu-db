@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th06
 MBID=cff2f7b2-1ac6-36e9-81b5-2f3d0386c4b8
 alias=红楼　～ Eastern Dream...
 copyright=rongns_2,ZUN
-status=draft
+status=midi
 %---
 %------th06_17.txt_rongns_2.buf------
 instrument=CH01

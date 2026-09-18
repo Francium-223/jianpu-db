@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th10
 MBID=145d2b51-0646-30e5-be20-f123b3b281ef
 alias=妖怪之山　～ Mysterious Mountain
 copyright=cross,Dekyo ongen,Jacob31593,LeastLPZ,TouhouMIDICreator
-status=draft
+status=midi
 %---
 %------th10_09.txt_cross.buf------
 instrument=CH01

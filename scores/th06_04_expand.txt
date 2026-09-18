@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th06
 MBID=015eb428-a7e0-3ce3-a36f-5e6821fd08b9
 alias=Lunate Elf
 copyright=rongns_2,ZUN
-status=draft
+status=midi
 %---
 %------th06_04.txt_rongns_2.buf------
 instrument=CH01

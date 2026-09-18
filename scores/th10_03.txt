@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th10
 MBID=1a943a94-457e-3b8b-b491-5546586fe813
 alias=会受稻田姬的斥责啦
 copyright=Bessem,Ezequiel-TM,ryoya1295,Shirai Yuki - GM,Shirai Yuki - XG
-status=draft
+status=midi
 %---
 %------th10_03.txt_Bessem.buf------
 instrument=Piste 1

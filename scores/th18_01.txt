@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th18
 MBID=8e5cf625-ddfe-46a9-ac2b-fde10e77185d
 alias=架起虹桥的幻想乡
 copyright=Karl Zuñiga
-status=draft
+status=midi
 %---
 %------th18_01.txt_Karl Zuñiga.buf------
 instrument=Dam Hard

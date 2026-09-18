@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th05
 MBID=67540bd0-a5c2-4287-96e2-9e9cd7e91622
 alias=怪绮谈 ～ Mystic Square
 copyright=icebhm23230,TouhouMIDICreator & TheDUBSpeedArts
-status=draft
+status=midi
 %---
 %------th05_01.txt_icebhm23230.buf------
 instrument=Touhou 5: Mystic Square - Wondrous Romance ~ Mystic Square

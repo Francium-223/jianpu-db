@@ -5,8 +5,8 @@ usertag=th11
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th11
 MBID=3cdd2991-2ab3-3aad-9948-f902eee69e1f
 alias=废狱摇篮曲
-copyright=akira,ALiCE, But it is edited by someone,Bessem 2,Bessem,sagittarius shikoku
-status=draft
+copyright=akira,ALiCE,But it is edited by someone,Bessem 2,Bessem,sagittarius shikoku
+status=midi
 %---
 %------th11_10.txt_akira.buf------
 OctavesBefore

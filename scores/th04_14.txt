@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th04
 MBID=749b67b7-604b-3479-92a4-37693ed8319e
 alias=Dream Land
 copyright=Blargzargo,CommonShitSandwich,TouhouMIDICreator,unknown
-status=draft
+status=midi
 %---
 %------th04_14.txt_Blargzargo.buf------
 instrument=A

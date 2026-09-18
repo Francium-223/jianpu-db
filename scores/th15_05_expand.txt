@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th15
 MBID=7983d0cc-6f5a-41d2-94e9-9d5cb5cb5d38
 alias=九月的南瓜
 copyright=ryoya1295
-status=draft
+status=midi
 %---
 %------th15_05.txt_ryoya1295.buf------
 OctavesBefore

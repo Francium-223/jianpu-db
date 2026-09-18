@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th13
 MBID=a4c42996-55c2-4655-a41b-36aa97d0adf4
 alias=佐渡的二岩
 copyright=Piano Only,Shirai Yuki,unknown
-status=draft
+status=midi
 %---
 %------th13_15.txt_Piano Only.buf------
 OctavesBefore

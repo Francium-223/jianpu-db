@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th07
 MBID=255e9094-da2f-3f1f-bc5b-9258a2a630d7
 alias=幽雅地绽放吧,墨染的樱花 ～ Border of Life
 copyright=icebhm23230 - GM,icebhm23230 - XG,ryoya1295,sweetmusic,yoimutu,ZUN
-status=draft
+status=midi
 %---
 %------th07_13.txt_icebhm23230 - GM.buf------
 instrument=Touhou 7: Perfect Cherry Blossom - Bloom nobly, Cherry blossoms of Sumizome ~ Border of Life

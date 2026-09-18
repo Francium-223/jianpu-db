@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th14
 MBID=c6fe3ce6-e238-42ac-90a8-3351cf2f3a36
 alias=柳树下的杜拉罕
 copyright=unknown 2,unknown
-status=draft
+status=midi
 %---
 %------th14_05.txt_unknown 2.buf------
 OctavesBefore

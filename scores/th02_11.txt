@@ -5,7 +5,7 @@ usertag=th02
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th02
 MBID=dda8c8d7-4950-3140-b063-7a9d13e76337
 alias=Complete Darkness
-status=draft
+status=midi
 %---
 subtitle=intro
 KeepLength

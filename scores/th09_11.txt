@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th09
 MBID=989ebb6e-bdd0-3081-9561-d94ca1180528
 alias=风神少女
 copyright=Kanade_KND34,rongns_2
-status=draft
+status=midi
 %---
 %------th09_11.txt_Kanade_KND34.buf------
 OctavesBefore

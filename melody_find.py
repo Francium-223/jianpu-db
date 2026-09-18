@@ -16,7 +16,7 @@
 2. **模糊匹配**：记谱/转写都会有错，整串精确相等会全丢。容忍 k 处不同并按错音扣分。
 3. **段落加权**：subtitle= 的段落名带权重 —— 副歌(chorus)是"记得住的那句"，
    匹配到副歌比匹配到前奏更该靠前。
-4. **校对状态加权**：status=ok（已校对）比 status=draft（未校对）更可信。
+4. **校对状态加权**：status=ok（人工校对）比 midi（MIDI 硬转）/ ocr（图片机器转写）更可信。
 5. **记谱规则**（会被规范化掉，不干扰匹配）：
    * `3[ ... ]` 三连音标记 —— 那个 3 不是音符
    * `1 ~ 1` 同数字用 ~ 连接 = 一个音（连音线）
@@ -87,8 +87,8 @@ SECTION_W = {
 SECTION_CN = {"chorus": "副歌", "verse": "主歌", "intro": "前奏", "outro": "尾奏",
               "pre-chorus": "预副歌", "bridge": "桥段", "interlude": "间奏",
               "layer": "叠加层", "crazy-piano": "钢琴华彩", "score": "整曲"}
-STATUS_W = {"ok": 1.30, "draft": 0.75}
-STATUS_CN = {"ok": "已校对", "draft": "未校对"}
+STATUS_W = {"ok": 1.30, "midi": 0.75, "ocr": 0.75}
+STATUS_CN = {"ok": "已校对", "midi": "MIDI转", "ocr": "OCR转"}
 
 
 def section_weight(name):

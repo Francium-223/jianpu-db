@@ -5,7 +5,7 @@ usertag=th08
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th08
 MBID=c2353835-642a-3bdf-aa0e-9ae5c7b80aea
 alias=蠢蠢的秋月　～ Mooned Insect
-status=draft
+status=midi
 %---
 1
 %END

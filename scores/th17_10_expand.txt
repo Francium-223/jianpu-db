@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th17
 MBID=ceb12564-eebc-4cc0-aa41-c8f47e5e4db1
 alias=Beast Metropolis
 copyright=ryoya1295
-status=draft
+status=midi
 %---
 %------th17_10.txt_ryoya1295.buf------
 OctavesBefore

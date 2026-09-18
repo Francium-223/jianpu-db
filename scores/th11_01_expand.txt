@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th11
 MBID=3455d0a3-caeb-3ae6-aa80-38c5018f76b7
 alias=地灵们的起床
 copyright=Dekyo Ongen,Susumu Takajima but probably edited by someone,Username
-status=draft
+status=midi
 %---
 %------th11_01.txt_Dekyo Ongen.buf------
 OctavesBefore

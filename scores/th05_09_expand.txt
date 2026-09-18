@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th05
 MBID=4eeaa356-9acd-3751-8ffa-717ff90419d3
 alias=禁忌的魔法 ～ Forbidden Magic
 copyright=ZUN
-status=draft
+status=midi
 %---
 %------th05_09.txt_ZUN.buf------
 instrument=y ÖfÌ@@` Forbidden Magic zûöïk 88Pro comp.ZUN

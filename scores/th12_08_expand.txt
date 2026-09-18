@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th12
 MBID=f3ce579b-ed59-3ce9-bd74-459286f215d3
 alias=幽灵客船的穿越时空之旅
 copyright=terebi
-status=draft
+status=midi
 %---
 %------th12_08.txt_terebi.buf------
 instrument=Low Bass

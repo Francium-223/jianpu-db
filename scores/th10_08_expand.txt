@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th10
 MBID=0dfaf49a-36e9-3c40-a744-5b00c2d1e021
 alias=Fall of Fall ～ 秋意渐浓之瀑
 copyright=Hisaraito,Samidare,Wrbk
-status=draft
+status=midi
 %---
 %------th10_08.txt_Hisaraito.buf------
 OctavesBefore

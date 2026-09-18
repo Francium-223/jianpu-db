@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th15
 MBID=dbecc7d4-ba5d-45d4-9187-ef2d437ebf73
 alias=从神社所见之月
 copyright=TheDUBSpeedArts
-status=draft
+status=midi
 %---
 %------th15_16.txt_TheDUBSpeedArts.buf------
 instrument=Untitled

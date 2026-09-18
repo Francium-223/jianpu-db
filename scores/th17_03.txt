@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th17
 MBID=d4830628-6dd0-4433-82b6-c73c725ea789
 alias=Jelly Stone
 copyright=ryoya1295,Touhocaloid - piano only
-status=draft
+status=midi
 %---
 %------th17_03.txt_ryoya1295.buf------
 OctavesBefore

@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th17
 MBID=fdba8d04-a917-4799-aa1e-349cd04c704c
 alias=不朽的曼珠沙华
 copyright=ido,ryoya1295,ShinkoNet
-status=draft
+status=midi
 %---
 %------th17_06.txt_ido.buf------
 OctavesBefore

@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th07
 MBID=665804aa-7b9f-3721-9bf8-269ad9ee3968
 alias=樱花樱花 ～ Japanize Dream...
 copyright=Baka94,ZUN
-status=draft
+status=midi
 %---
 %------th07_20.txt_Baka94.buf------
 instrument=Strings

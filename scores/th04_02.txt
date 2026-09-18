@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th04
 MBID=43a72f44-1fc6-37d0-aa3d-985e61b95cb4
 alias=Witching Dream
 copyright=Bessem,Blargzargo,ZUN - SC-88pro
-status=draft
+status=midi
 %---
 %------th04_02.txt_Bessem.buf------
 instrument=Piste 1

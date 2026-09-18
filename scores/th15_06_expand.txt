@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th15
 MBID=bc6d9f79-936c-4106-bace-d7b8c9c1358c
 alias=飞翔于宇宙的不可思议巫女
 copyright=Kitaichi Rei,pieordie1
-status=draft
+status=midi
 %---
 %------th15_06.txt_Kitaichi Rei.buf------
 OctavesBefore

@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th04
 MBID=79baedd2-cd01-3068-beab-9c8956472e9d
 alias=女仆幻想 ～ Icemilk Magic
 copyright=Blargzargo,Wobuffet3
-status=draft
+status=midi
 %---
 %------th04_17.txt_Blargzargo.buf------
 instrument=A

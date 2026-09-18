@@ -5,7 +5,7 @@ usertag=th08
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th08
 MBID=13ab0d21-2271-3180-b86f-cdba373ec177
 alias=幻视之夜 ～ Ghostly Eyes
-status=draft
+status=midi
 %---
 1
 %END

@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th09
 MBID=34b1d9db-7c1b-321f-bf83-b038d35b8f6d
 alias=今昔幻想乡　～ Flower Land
 copyright=Ezequiel-TM,Kanade_KND34,ryoya1295,sweetmusic,TouhouMIDICreator
-status=draft
+status=midi
 %---
 %------th09_13.txt_Ezequiel-TM.buf------
 instrument=Tremolo Flute (Right)

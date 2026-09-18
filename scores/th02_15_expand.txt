@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th02
 MBID=925059a9-9902-427c-834b-fe149ed7c31e
 alias=传说中的仙境
 copyright=Blargzargo,TouhouMIDICreator,Zun & Mr_KrzYch00
-status=draft
+status=midi
 %---
 %------th02_15.txt_Blargzargo.buf------
 instrument=A

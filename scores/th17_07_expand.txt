@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th17
 MBID=edcc88e8-4f83-4a41-b4c0-51f8d1b6e1d6
 alias=Seraphic Chicken
 copyright=ryoya1295,ShinkoNet
-status=draft
+status=midi
 %---
 %------th17_07.txt_ryoya1295.buf------
 OctavesBefore

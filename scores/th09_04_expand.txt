@@ -5,7 +5,7 @@ usertag=th09
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th09
 MBID=8558dbb8-1af0-36d8-8f90-c8a7556ea258
 alias=Flowering Night
-status=draft
+status=midi
 %---
 1
 %END

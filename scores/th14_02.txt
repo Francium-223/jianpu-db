@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th14
 MBID=b5c973ac-14e7-4e9f-bde1-bb5c0cde5490
 alias=Mist Lake
 copyright=unknown
-status=draft
+status=midi
 %---
 %------th14_02.txt_unknown.buf------
 instrument=Rockabilly

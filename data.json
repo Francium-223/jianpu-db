@@ -20,15 +20,11 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "52e3b2d1-80ff-35a7-b11f-f9342c08f22d"
-        ],
+        "MBID": "52e3b2d1-80ff-35a7-b11f-f9342c08f22d",
         "transcriber": [
             "Francium-223"
         ],
-        "status": [
-            "ok"
-        ]
+        "status": "ok"
     },
     "th01_02.txt": {
         "file": [
@@ -51,9 +47,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "310b3b07-ec9f-3e88-9fd8-529c17478179"
-        ],
+        "MBID": "310b3b07-ec9f-3e88-9fd8-529c17478179",
         "alias": [
             "永远之巫女",
             "永远的巫女"
@@ -61,9 +55,7 @@
         "transcriber": [
             "Francium-223"
         ],
-        "status": [
-            "ok"
-        ]
+        "status": "ok"
     },
     "th01_03.txt": {
         "file": [
@@ -86,9 +78,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "9207af95-131b-461e-b4a0-70095c3c1c90"
-        ],
+        "MBID": "9207af95-131b-461e-b4a0-70095c3c1c90",
         "alias": [
             "Positive and Negative",
             "the Positive and Negative"
@@ -96,9 +86,7 @@
         "transcriber": [
             "Francium-223"
         ],
-        "status": [
-            "ok"
-        ]
+        "status": "ok"
     },
     "th01_04.txt": {
         "file": [
@@ -121,18 +109,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "781d4c42-ff9e-3add-a447-1df676c59866"
-        ],
+        "MBID": "781d4c42-ff9e-3add-a447-1df676c59866",
         "alias": [
             "Highly Responsive to Prayers"
         ],
         "transcriber": [
             "Francium-223"
         ],
-        "status": [
-            "ok"
-        ]
+        "status": "ok"
     },
     "th01_05.txt": {
         "file": [
@@ -155,18 +139,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "8dc63e81-b445-4467-b012-756b31c34ef0"
-        ],
+        "MBID": "8dc63e81-b445-4467-b012-756b31c34ef0",
         "alias": [
             "东方怪奇谈"
         ],
         "transcriber": [
             "Francium-223"
         ],
-        "status": [
-            "ok"
-        ]
+        "status": "ok"
     },
     "th01_06.txt": {
         "file": [
@@ -189,18 +169,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "c5efa94f-21b4-39bf-af7f-2e4b2f56f47e"
-        ],
+        "MBID": "c5efa94f-21b4-39bf-af7f-2e4b2f56f47e",
         "alias": [
             "天使传说"
         ],
         "transcriber": [
             "Francium-223"
         ],
-        "status": [
-            "ok"
-        ]
+        "status": "ok"
     },
     "th01_07.txt": {
         "file": [
@@ -223,18 +199,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "1e0a6286-3b04-4bf5-80b7-da54aadfdb4f"
-        ],
+        "MBID": "1e0a6286-3b04-4bf5-80b7-da54aadfdb4f",
         "alias": [
             "Oriental Magician"
         ],
         "transcriber": [
             "Francium-223"
         ],
-        "status": [
-            "ok"
-        ]
+        "status": "ok"
     },
     "th01_08.txt": {
         "file": [
@@ -257,18 +229,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "740fb474-2d7c-4df2-bab6-57d64438fecd"
-        ],
+        "MBID": "740fb474-2d7c-4df2-bab6-57d64438fecd",
         "alias": [
             "破邪的小太刀"
         ],
         "transcriber": [
             "Francium-223"
         ],
-        "status": [
-            "ok"
-        ]
+        "status": "ok"
     },
     "th01_09.txt": {
         "file": [
@@ -291,18 +259,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "96c3ebb8-e045-45c3-a0de-898c9d3a6178"
-        ],
+        "MBID": "96c3ebb8-e045-45c3-a0de-898c9d3a6178",
         "alias": [
             "魔镜"
         ],
         "transcriber": [
             "Francium-223"
         ],
-        "status": [
-            "ok"
-        ]
+        "status": "ok"
     },
     "th01_10.txt": {
         "file": [
@@ -325,18 +289,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "c9debb19-1ac5-42a6-a867-b6b0e2c0ac08"
-        ],
+        "MBID": "c9debb19-1ac5-42a6-a867-b6b0e2c0ac08",
         "alias": [
             "The Legend of KAGE"
         ],
         "transcriber": [
             "Francium-223"
         ],
-        "status": [
-            "ok"
-        ]
+        "status": "ok"
     },
     "th01_11.txt": {
         "file": [
@@ -359,9 +319,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "ce9de5f6-3327-48c1-b174-21bedef867de"
-        ],
+        "MBID": "ce9de5f6-3327-48c1-b174-21bedef867de",
         "alias": [
             "来吧",
             "直到倒地死去的那一刻"
@@ -369,9 +327,7 @@
         "transcriber": [
             "Francium-223"
         ],
-        "status": [
-            "ok"
-        ]
+        "status": "ok"
     },
     "th01_12.txt": {
         "file": [
@@ -394,9 +350,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "9adbcb65-f873-493c-8477-a07511c0536f"
-        ],
+        "MBID": "9adbcb65-f873-493c-8477-a07511c0536f",
         "alias": [
             "同归于尽",
             "Civilization of Magic"
@@ -404,9 +358,7 @@
         "transcriber": [
             "Francium-223"
         ],
-        "status": [
-            "ok"
-        ]
+        "status": "ok"
     },
     "th01_13.txt": {
         "file": [
@@ -429,9 +381,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "791c053a-4ec5-493a-a297-e9c8d610d5b8"
-        ],
+        "MBID": "791c053a-4ec5-493a-a297-e9c8d610d5b8",
         "alias": [
             "星幽剑士",
             "星幽天使"
@@ -439,9 +389,7 @@
         "transcriber": [
             "Francium-223"
         ],
-        "status": [
-            "ok"
-        ]
+        "status": "ok"
     },
     "th01_14.txt": {
         "file": [
@@ -464,18 +412,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "7319499b-dd92-3fe2-9f5a-5cdfe57ee5eb"
-        ],
+        "MBID": "7319499b-dd92-3fe2-9f5a-5cdfe57ee5eb",
         "alias": [
             "鸢尾花"
         ],
         "transcriber": [
             "Francium-223"
         ],
-        "status": [
-            "ok"
-        ]
+        "status": "ok"
     },
     "th01_15.txt": {
         "file": [
@@ -498,18 +442,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "94c98b41-8a14-40a1-9bb1-96d3fb5b443e"
-        ],
+        "MBID": "94c98b41-8a14-40a1-9bb1-96d3fb5b443e",
         "alias": [
             "风之神社"
         ],
         "transcriber": [
             "Francium-223"
         ],
-        "status": [
-            "ok"
-        ]
+        "status": "ok"
     },
     "th02_01.txt": {
         "file": [
@@ -532,18 +472,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "d2887acb-13ae-4213-a2f2-7b4b9fe42ca2"
-        ],
+        "MBID": "d2887acb-13ae-4213-a2f2-7b4b9fe42ca2",
         "alias": [
             "东方封魔录　～ 净土曼荼罗"
         ],
         "transcriber": [
             "Francium-223"
         ],
-        "status": [
-            "ok"
-        ]
+        "status": "ok"
     },
     "th02_02.txt": {
         "file": [
@@ -566,18 +502,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "2b2e2df0-20ce-3c72-813c-9483f809bc37"
-        ],
+        "MBID": "2b2e2df0-20ce-3c72-813c-9483f809bc37",
         "alias": [
             "博丽　～Eastern Wind"
         ],
         "transcriber": [
             "Francium-223"
         ],
-        "status": [
-            "ok"
-        ]
+        "status": "ok"
     },
     "th02_03.txt": {
         "file": [
@@ -600,18 +532,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "fc51f565-56ca-4856-8b44-15e6869c8c23"
-        ],
+        "MBID": "fc51f565-56ca-4856-8b44-15e6869c8c23",
         "alias": [
             "She's in a temper!!"
         ],
         "transcriber": [
             "Francium-223"
         ],
-        "status": [
-            "ok"
-        ]
+        "status": "ok"
     },
     "th02_04.txt": {
         "file": [
@@ -634,15 +562,11 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "3e340c28-e549-31e5-80fe-f9285eb5d2c9"
-        ],
+        "MBID": "3e340c28-e549-31e5-80fe-f9285eb5d2c9",
         "alias": [
             "End of Daylight"
         ],
-        "status": [
-            "ok"
-        ]
+        "status": "ok"
     },
     "th02_05.txt": {
         "file": [
@@ -665,15 +589,11 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "f9faf531-00d4-41cb-85cc-f94d0c16bbf5"
-        ],
+        "MBID": "f9faf531-00d4-41cb-85cc-f94d0c16bbf5",
         "alias": [
             "黑暗的力量"
         ],
-        "status": [
-            "ok"
-        ]
+        "status": "ok"
     },
     "th02_06.txt": {
         "file": [
@@ -696,15 +616,11 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "c21c0bc4-ffb8-4aec-93d3-d5fe12e70519"
-        ],
+        "MBID": "c21c0bc4-ffb8-4aec-93d3-d5fe12e70519",
         "alias": [
             "幻梦界"
         ],
-        "status": [
-            "ok"
-        ]
+        "status": "ok"
     },
     "th02_07.txt": {
         "file": [
@@ -727,15 +643,11 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "df689cc1-1fa6-4bb0-b9b5-5534896759bb"
-        ],
+        "MBID": "df689cc1-1fa6-4bb0-b9b5-5534896759bb",
         "alias": [
             "以死相赌"
         ],
-        "status": [
-            "ok"
-        ]
+        "status": "ok"
     },
     "th02_08.txt": {
         "file": [
@@ -758,16 +670,12 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "74bbc8cf-274f-3d04-ab8f-67a1d8740cbf"
-        ],
+        "MBID": "74bbc8cf-274f-3d04-ab8f-67a1d8740cbf",
         "alias": [
             "神篱",
             "如紫色火焰般燃烧"
         ],
-        "status": [
-            "ok"
-        ]
+        "status": "ok"
     },
     "th02_09.txt": {
         "file": [
@@ -790,15 +698,11 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "f880369e-a19e-3719-a45d-706c194c1f3e"
-        ],
+        "MBID": "f880369e-a19e-3719-a45d-706c194c1f3e",
         "alias": [
             "恋色Magic"
         ],
-        "status": [
-            "ok"
-        ]
+        "status": "ok"
     },
     "th02_10.txt": {
         "file": [
@@ -821,15 +725,11 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "80a33287-ebe9-431d-bc14-8491768445a3"
-        ],
+        "MBID": "80a33287-ebe9-431d-bc14-8491768445a3",
         "alias": [
             "东方封魔录　～ 幽幻乱舞"
         ],
-        "status": [
-            "ok"
-        ]
+        "status": "ok"
     },
     "th02_11.txt": {
         "file": [
@@ -852,15 +752,11 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "dda8c8d7-4950-3140-b063-7a9d13e76337"
-        ],
+        "MBID": "dda8c8d7-4950-3140-b063-7a9d13e76337",
         "alias": [
             "Complete Darkness"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th02_12.txt": {
         "file": [
@@ -883,15 +779,11 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "dd24ee73-362f-4ce9-97f8-3b14927ccaf1"
-        ],
+        "MBID": "dd24ee73-362f-4ce9-97f8-3b14927ccaf1",
         "alias": [
             "Extra Love"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th02_13.txt": {
         "file": [
@@ -914,9 +806,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "90ecf7e2-c90a-40ba-8fbd-95267ea3242b"
-        ],
+        "MBID": "90ecf7e2-c90a-40ba-8fbd-95267ea3242b",
         "alias": [
             "战车娘所做的梦"
         ],
@@ -925,9 +815,7 @@
             "Wobuffet3",
             "Zun & Mr_KrzYchoo"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th02_14.txt": {
         "file": [
@@ -950,9 +838,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "dc84677c-7842-3a3f-8888-f5ca4596cd38"
-        ],
+        "MBID": "dc84677c-7842-3a3f-8888-f5ca4596cd38",
         "alias": [
             "远野之森"
         ],
@@ -961,9 +847,7 @@
             "TheDUBSpeedArts",
             "Zun & Mr_KrzYch00"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th02_15.txt": {
         "file": [
@@ -986,9 +870,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "925059a9-9902-427c-834b-fe149ed7c31e"
-        ],
+        "MBID": "925059a9-9902-427c-834b-fe149ed7c31e",
         "alias": [
             "传说中的仙境"
         ],
@@ -997,9 +879,7 @@
             "TouhouMIDICreator",
             "Zun & Mr_KrzYch00"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th03_01.txt": {
         "file": [
@@ -1022,18 +902,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "083c3521-5dd2-4f40-a6b9-ced0a78c1428"
-        ],
+        "MBID": "083c3521-5dd2-4f40-a6b9-ced0a78c1428",
         "alias": [
             "梦想超越时空"
         ],
         "copyright": [
             "Blargzargo"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th03_02.txt": {
         "file": [
@@ -1056,9 +932,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "ea059928-2377-34f2-bc4b-6c155e909762"
-        ],
+        "MBID": "ea059928-2377-34f2-bc4b-6c155e909762",
         "alias": [
             "Selection"
         ],
@@ -1066,9 +940,7 @@
             "Blargzargo",
             "Wobuffet3"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th03_03.txt": {
         "file": [
@@ -1091,9 +963,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "fd2b7b5d-52a4-35e4-a5f0-3a21ab38bc26"
-        ],
+        "MBID": "fd2b7b5d-52a4-35e4-a5f0-3a21ab38bc26",
         "alias": [
             "东方妖恋谈"
         ],
@@ -1101,9 +971,7 @@
             "Blargzargo",
             "TouhouMIDICreator"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th03_04.txt": {
         "file": [
@@ -1126,9 +994,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "b3e895a4-900a-34d8-9a81-d1cb23316fd4"
-        ],
+        "MBID": "b3e895a4-900a-34d8-9a81-d1cb23316fd4",
         "alias": [
             "Reincarnation"
         ],
@@ -1138,9 +1004,7 @@
             "TheDUBSpeedArts",
             "Unknown"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th03_05.txt": {
         "file": [
@@ -1163,18 +1027,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "5bf008d6-4114-3771-bd76-ffc40621affb"
-        ],
+        "MBID": "5bf008d6-4114-3771-bd76-ffc40621affb",
         "alias": [
             "Dim. Dream"
         ],
         "copyright": [
             "Blargzargo"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th03_06.txt": {
         "file": [
@@ -1197,9 +1057,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "e7cbcd08-3cb1-4482-aaad-575246afb4ea"
-        ],
+        "MBID": "e7cbcd08-3cb1-4482-aaad-575246afb4ea",
         "alias": [
             "Tabula rasa　～ 空白少女"
         ],
@@ -1208,9 +1066,7 @@
             "Piano Only",
             "ZUN - SC88pro"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th03_07.txt": {
         "file": [
@@ -1233,18 +1089,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "abd1b5f7-e19e-482d-bc61-4abd70cdff2f"
-        ],
+        "MBID": "abd1b5f7-e19e-482d-bc61-4abd70cdff2f",
         "alias": [
             "Maniacal Princess"
         ],
         "copyright": [
             "Blargzargo"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th03_08.txt": {
         "file": [
@@ -1267,9 +1119,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "43591fbe-9922-4652-bc6b-c2481f418f93"
-        ],
+        "MBID": "43591fbe-9922-4652-bc6b-c2481f418f93",
         "alias": [
             "梦消失　～ Lost Dream"
         ],
@@ -1285,9 +1135,7 @@
             "Unknown",
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th03_09.txt": {
         "file": [
@@ -1310,18 +1158,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "da8a62f6-3b65-3b3d-b331-7ae4398d9230"
-        ],
+        "MBID": "da8a62f6-3b65-3b3d-b331-7ae4398d9230",
         "alias": [
             "梦幻游戏　～ Dream War"
         ],
         "copyright": [
             "Blargzargo"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th03_10.txt": {
         "file": [
@@ -1344,9 +1188,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "2af759a2-f29c-4d1d-9420-61524dfdfc44"
-        ],
+        "MBID": "2af759a2-f29c-4d1d-9420-61524dfdfc44",
         "alias": [
             "魔法决战！　～ Fight it out!"
         ],
@@ -1354,9 +1196,7 @@
             "Blargzargo",
             "unknown"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th03_11.txt": {
         "file": [
@@ -1379,18 +1219,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "adfb1342-efe8-406d-a6a9-79e729a44986"
-        ],
+        "MBID": "adfb1342-efe8-406d-a6a9-79e729a44986",
         "alias": [
             "Sailor of Time"
         ],
         "copyright": [
             "Blargzargo"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th03_12.txt": {
         "file": [
@@ -1413,9 +1249,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "944f7034-5ac6-3df3-b0cd-091b0b67e948"
-        ],
+        "MBID": "944f7034-5ac6-3df3-b0cd-091b0b67e948",
         "alias": [
             "Strawberry Crisis!!"
         ],
@@ -1424,9 +1258,7 @@
             "Ezequiel-TM",
             "Unknown"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th03_13.txt": {
         "file": [
@@ -1449,9 +1281,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "ee92ca51-f7e1-4b67-b1a7-cd9c97dfbd4c"
-        ],
+        "MBID": "ee92ca51-f7e1-4b67-b1a7-cd9c97dfbd4c",
         "alias": [
             "非统一魔法世界论"
         ],
@@ -1460,9 +1290,7 @@
             "CommonShitSandwich",
             "TouhouMIDICreator"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th03_14.txt": {
         "file": [
@@ -1485,9 +1313,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "b873f5df-2e9b-4fe5-8573-aaedcc9545c8"
-        ],
+        "MBID": "b873f5df-2e9b-4fe5-8573-aaedcc9545c8",
         "alias": [
             "魔法钟爱"
         ],
@@ -1501,9 +1327,7 @@
             "Unknown",
             "Wobuffet3"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th03_15.txt": {
         "file": [
@@ -1526,18 +1350,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "9377d6d1-5243-4843-ba79-f4587e79bdcf"
-        ],
+        "MBID": "9377d6d1-5243-4843-ba79-f4587e79bdcf",
         "alias": [
             "久远之梦"
         ],
         "copyright": [
             "Blargzargo"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th03_16.txt": {
         "file": [
@@ -1560,18 +1380,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "fa7f3e8b-18a3-46c9-996f-1624612973f0"
-        ],
+        "MBID": "fa7f3e8b-18a3-46c9-996f-1624612973f0",
         "alias": [
             "东方的蓝色天空"
         ],
         "copyright": [
             "Blargzargo"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th03_17.txt": {
         "file": [
@@ -1594,9 +1410,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "02553edf-b075-359e-b7d4-160f8e0a637a"
-        ],
+        "MBID": "02553edf-b075-359e-b7d4-160f8e0a637a",
         "alias": [
             "永远的满月"
         ],
@@ -1604,9 +1418,7 @@
             "Blargzargo",
             "ZUN SC88pro"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th03_18.txt": {
         "file": [
@@ -1629,9 +1441,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "a227043d-2d19-3f0d-bfd1-0cf2226e20fa"
-        ],
+        "MBID": "a227043d-2d19-3f0d-bfd1-0cf2226e20fa",
         "alias": [
             "Maple Dream..."
         ],
@@ -1639,9 +1449,7 @@
             "Blargzargo",
             "Jacob31593"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th03_19.txt": {
         "file": [
@@ -1664,18 +1472,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "1e3754a6-f58d-4adf-8c68-69138a7247a4"
-        ],
+        "MBID": "1e3754a6-f58d-4adf-8c68-69138a7247a4",
         "alias": [
             "灵人的休息日"
         ],
         "copyright": [
             "Blargzargo"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th03_20.txt": {
         "file": [
@@ -1698,18 +1502,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "ed8e25a1-6d5c-42c0-93a2-8da96868de2a"
-        ],
+        "MBID": "ed8e25a1-6d5c-42c0-93a2-8da96868de2a",
         "alias": [
             "胜利对话"
         ],
         "copyright": [
             "Blargzargo"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th03_21.txt": {
         "file": [
@@ -1732,9 +1532,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "602a1982-8843-4d78-a032-ff2a92462cc1"
-        ],
+        "MBID": "602a1982-8843-4d78-a032-ff2a92462cc1",
         "alias": [
             "Game Over"
         ],
@@ -1742,9 +1540,7 @@
             "Blargzargo",
             "TouhouMIDICreator"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th04_01.txt": {
         "file": [
@@ -1767,18 +1563,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "8b405cae-344b-351c-9fe1-3f26a9194a40"
-        ],
+        "MBID": "8b405cae-344b-351c-9fe1-3f26a9194a40",
         "alias": [
             "幻想乡　～ Lotus Land Story"
         ],
         "copyright": [
             "Blargzargo"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th04_02.txt": {
         "file": [
@@ -1801,9 +1593,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "43a72f44-1fc6-37d0-aa3d-985e61b95cb4"
-        ],
+        "MBID": "43a72f44-1fc6-37d0-aa3d-985e61b95cb4",
         "alias": [
             "Witching Dream"
         ],
@@ -1812,9 +1602,7 @@
             "Blargzargo",
             "ZUN - SC-88pro"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th04_03.txt": {
         "file": [
@@ -1837,9 +1625,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "c38c42b7-27d0-33f5-a5f9-36c4f495c0a6"
-        ],
+        "MBID": "c38c42b7-27d0-33f5-a5f9-36c4f495c0a6",
         "alias": [
             "Selene's light"
         ],
@@ -1847,9 +1633,7 @@
             "Blargzargo",
             "unknown"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th04_04.txt": {
         "file": [
@@ -1872,18 +1656,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "26618990-1d6e-345b-b6f6-a9e53ec4785c"
-        ],
+        "MBID": "26618990-1d6e-345b-b6f6-a9e53ec4785c",
         "alias": [
             "装饰战　～ Decoration Battle"
         ],
         "copyright": [
             "Blargzargo"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th04_05.txt": {
         "file": [
@@ -1906,18 +1686,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "6a866192-afd6-3749-8bac-31a90a0d7643"
-        ],
+        "MBID": "6a866192-afd6-3749-8bac-31a90a0d7643",
         "alias": [
             "Break the Sabbath"
         ],
         "copyright": [
             "Blargzargo"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th04_06.txt": {
         "file": [
@@ -1940,9 +1716,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "37a77268-c1ce-3f39-b931-2da509c2b6c2"
-        ],
+        "MBID": "37a77268-c1ce-3f39-b931-2da509c2b6c2",
         "alias": [
             "红响曲　～ Scarlet Phoneme"
         ],
@@ -1950,9 +1724,7 @@
             "Blargzargo",
             "Wobuffet3"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th04_07.txt": {
         "file": [
@@ -1975,9 +1747,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "715a50b2-7525-3dbd-9d67-e0ed13d4c4b6"
-        ],
+        "MBID": "715a50b2-7525-3dbd-9d67-e0ed13d4c4b6",
         "alias": [
             "Bad Apple!!"
         ],
@@ -1988,9 +1758,7 @@
             "TouhouMIDICreator",
             "TrangOul"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th04_08.txt": {
         "file": [
@@ -2013,9 +1781,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "86f214cf-2a73-3366-8164-92853dbcc681"
-        ],
+        "MBID": "86f214cf-2a73-3366-8164-92853dbcc681",
         "alias": [
             "灵战　～ Perdition crisis"
         ],
@@ -2024,9 +1790,7 @@
             "TheDUBSpeedArts",
             "ZUN - SC-88pro"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th04_09.txt": {
         "file": [
@@ -2049,9 +1813,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "cd9febfb-dd0a-3b75-a77a-3b6982033965"
-        ],
+        "MBID": "cd9febfb-dd0a-3b75-a77a-3b6982033965",
         "alias": [
             "Alice Maestra"
         ],
@@ -2061,9 +1823,7 @@
             "yoshimo",
             "ZUN - SC-88pro"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th04_10.txt": {
         "file": [
@@ -2086,9 +1846,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "08a016ec-18fc-34d9-9ab6-e3b6007787ef"
-        ],
+        "MBID": "08a016ec-18fc-34d9-9ab6-e3b6007787ef",
         "alias": [
             "少女绮想曲　～ Capriccio"
         ],
@@ -2097,9 +1855,7 @@
             "TouhouMIDICreator",
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th04_11.txt": {
         "file": [
@@ -2122,9 +1878,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "32915e47-05db-3d2a-b833-5935d1c16549"
-        ],
+        "MBID": "32915e47-05db-3d2a-b833-5935d1c16549",
         "alias": [
             "星之器　～ Casket of Star"
         ],
@@ -2133,9 +1887,7 @@
             "Blargzargo",
             "ZUN - SC-88Pro"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th04_12.txt": {
         "file": [
@@ -2158,9 +1910,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "d5d2185e-5fd6-3fca-9c47-62394a61c69e"
-        ],
+        "MBID": "d5d2185e-5fd6-3fca-9c47-62394a61c69e",
         "alias": [
             "Lotus Love"
         ],
@@ -2169,9 +1919,7 @@
             "TouhouMIDICreator",
             "unknown"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th04_13.txt": {
         "file": [
@@ -2194,9 +1942,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "44f5bfaf-9180-319d-9242-9ebf0c365da6"
-        ],
+        "MBID": "44f5bfaf-9180-319d-9242-9ebf0c365da6",
         "alias": [
             "沉睡的恐怖　～ Sleeping Terror"
         ],
@@ -2207,9 +1953,7 @@
             "TouhouMIDICreator",
             "ZUN - SC-88pro"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th04_14.txt": {
         "file": [
@@ -2232,9 +1976,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "749b67b7-604b-3479-92a4-37693ed8319e"
-        ],
+        "MBID": "749b67b7-604b-3479-92a4-37693ed8319e",
         "alias": [
             "Dream Land"
         ],
@@ -2244,9 +1986,7 @@
             "TouhouMIDICreator",
             "unknown"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th04_15.txt": {
         "file": [
@@ -2269,9 +2009,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "3d356e3c-31ca-3818-ab1b-9f93bed84d88"
-        ],
+        "MBID": "3d356e3c-31ca-3818-ab1b-9f93bed84d88",
         "alias": [
             "幽梦　～ Inanimate Dream"
         ],
@@ -2286,9 +2024,7 @@
             "Wobuffet3",
             "ZUN - SC-88pro"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th04_16.txt": {
         "file": [
@@ -2311,9 +2047,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "0cecba7e-ff8f-4d27-8526-73a1c2f9cccb"
-        ],
+        "MBID": "0cecba7e-ff8f-4d27-8526-73a1c2f9cccb",
         "alias": [
             "不可不禁止的游戏"
         ],
@@ -2321,9 +2055,7 @@
             "Blargzargo",
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th04_17.txt": {
         "file": [
@@ -2346,9 +2078,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "79baedd2-cd01-3068-beab-9c8956472e9d"
-        ],
+        "MBID": "79baedd2-cd01-3068-beab-9c8956472e9d",
         "alias": [
             "女仆幻想　～ Icemilk Magic"
         ],
@@ -2356,9 +2086,7 @@
             "Blargzargo",
             "Wobuffet3"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th04_18.txt": {
         "file": [
@@ -2381,9 +2109,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "def2c32b-7573-303d-9630-43068284e1c7"
-        ],
+        "MBID": "def2c32b-7573-303d-9630-43068284e1c7",
         "alias": [
             "可爱的恶魔　～ Innocence"
         ],
@@ -2392,9 +2118,7 @@
             "Blargzargo",
             "NamelessLegacy"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th04_19.txt": {
         "file": [
@@ -2417,9 +2141,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "305b022b-d967-4dcf-976a-788b293d7553"
-        ],
+        "MBID": "305b022b-d967-4dcf-976a-788b293d7553",
         "alias": [
             "Days"
         ],
@@ -2427,9 +2149,7 @@
             "Blargzargo",
             "Ruukasu"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th04_20.txt": {
         "file": [
@@ -2452,18 +2172,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "ef7887ce-041a-3693-829c-624ae252d5e3"
-        ],
+        "MBID": "ef7887ce-041a-3693-829c-624ae252d5e3",
         "alias": [
             "Peaceful"
         ],
         "copyright": [
             "Blargzargo"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th04_21.txt": {
         "file": [
@@ -2486,18 +2202,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "0396dc40-a25a-3ee7-a127-fde42b59e946"
-        ],
+        "MBID": "0396dc40-a25a-3ee7-a127-fde42b59e946",
         "alias": [
             "Arcadian Dream"
         ],
         "copyright": [
             "Blargzargo"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th04_22.txt": {
         "file": [
@@ -2520,18 +2232,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "f29018dc-73c5-49d3-86c9-943d2798ca60"
-        ],
+        "MBID": "f29018dc-73c5-49d3-86c9-943d2798ca60",
         "alias": [
             "幻想的居民"
         ],
         "copyright": [
             "Blargzargo"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th04_24.txt": {
         "file": [
@@ -2554,18 +2262,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "f826d791-249e-408c-84d7-0540db63ca4d"
-        ],
+        "MBID": "f826d791-249e-408c-84d7-0540db63ca4d",
         "alias": [
             "Dreamy pilot"
         ],
         "copyright": [
             "TouhouMIDICreator"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th04_27.txt": {
         "file": [
@@ -2588,18 +2292,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "3b152cda-1bfe-348a-8453-30fdb825c4bb"
-        ],
+        "MBID": "3b152cda-1bfe-348a-8453-30fdb825c4bb",
         "alias": [
             "Magic Shop of Raspberry"
         ],
         "copyright": [
             "TouhouMIDICreator"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th05_01.txt": {
         "file": [
@@ -2622,9 +2322,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "67540bd0-a5c2-4287-96e2-9e9cd7e91622"
-        ],
+        "MBID": "67540bd0-a5c2-4287-96e2-9e9cd7e91622",
         "alias": [
             "怪绮谈　～ Mystic Square"
         ],
@@ -2632,9 +2330,7 @@
             "icebhm23230",
             "TouhouMIDICreator & TheDUBSpeedArts"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th05_02.txt": {
         "file": [
@@ -2657,18 +2353,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "42d38efa-2776-3c8e-8bf7-40535bb00917"
-        ],
+        "MBID": "42d38efa-2776-3c8e-8bf7-40535bb00917",
         "alias": [
             "Dream Express"
         ],
         "copyright": [
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th05_03.txt": {
         "file": [
@@ -2691,18 +2383,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "1097e9a9-51f1-3d21-b730-1681e4c64c51"
-        ],
+        "MBID": "1097e9a9-51f1-3d21-b730-1681e4c64c51",
         "alias": [
             "魔法阵　～ Magic Square"
         ],
         "copyright": [
             "icebhm23230"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th05_04.txt": {
         "file": [
@@ -2725,9 +2413,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "d6c35ea8-d9d7-3ceb-ba5b-bcd3d91a9215"
-        ],
+        "MBID": "d6c35ea8-d9d7-3ceb-ba5b-bcd3d91a9215",
         "alias": [
             "梦想时空"
         ],
@@ -2736,9 +2422,7 @@
             "ryoya1295",
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th05_05.txt": {
         "file": [
@@ -2761,18 +2445,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "65b6bd5d-61c8-3d99-abbb-89758327efae"
-        ],
+        "MBID": "65b6bd5d-61c8-3d99-abbb-89758327efae",
         "alias": [
             "灵天　～ Spiritual Heaven"
         ],
         "copyright": [
             "Susumu Takajima"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th05_06.txt": {
         "file": [
@@ -2795,9 +2475,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "b04e9995-56e6-3e9d-8e85-4c685edb1aec"
-        ],
+        "MBID": "b04e9995-56e6-3e9d-8e85-4c685edb1aec",
         "alias": [
             "Romantic Children"
         ],
@@ -2806,9 +2484,7 @@
             "ZUN",
             "sweetmusic"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th05_07.txt": {
         "file": [
@@ -2831,9 +2507,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "57481aab-ef2b-3758-b2e4-f3b9c3d04bc5"
-        ],
+        "MBID": "57481aab-ef2b-3758-b2e4-f3b9c3d04bc5",
         "alias": [
             "Plastic Mind"
         ],
@@ -2841,9 +2515,7 @@
             "icebhm23230",
             "sweetmusic"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th05_08.txt": {
         "file": [
@@ -2866,9 +2538,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "70489a2e-43e2-36a8-8c20-42b91f1ebbce"
-        ],
+        "MBID": "70489a2e-43e2-36a8-8c20-42b91f1ebbce",
         "alias": [
             "Maple Wise"
         ],
@@ -2876,9 +2546,7 @@
             "TouhouMIDICreator",
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th05_09.txt": {
         "file": [
@@ -2901,18 +2569,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "4eeaa356-9acd-3751-8ffa-717ff90419d3"
-        ],
+        "MBID": "4eeaa356-9acd-3751-8ffa-717ff90419d3",
         "alias": [
             "禁忌的魔法　～ Forbidden Magic"
         ],
         "copyright": [
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th05_10.txt": {
         "file": [
@@ -2935,18 +2599,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "376e68c5-bf56-3f4f-81a9-35ca04a46243"
-        ],
+        "MBID": "376e68c5-bf56-3f4f-81a9-35ca04a46243",
         "alias": [
             "绯红的少女　～ Crimson Dead!!"
         ],
         "copyright": [
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th05_11.txt": {
         "file": [
@@ -2969,9 +2629,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "50cc71da-1a03-3308-a176-c6cb33b016a0"
-        ],
+        "MBID": "50cc71da-1a03-3308-a176-c6cb33b016a0",
         "alias": [
             "背叛的少女　～ Judas Kiss"
         ],
@@ -2979,9 +2637,7 @@
             "TouhouMIDICreator",
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th05_12.txt": {
         "file": [
@@ -3004,9 +2660,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "8753c26a-938f-3295-b3c0-8a41b50ce84d"
-        ],
+        "MBID": "8753c26a-938f-3295-b3c0-8a41b50ce84d",
         "alias": [
             "the Last Judgement"
         ],
@@ -3016,9 +2670,7 @@
             "TouhouMIDICreator",
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th05_13.txt": {
         "file": [
@@ -3041,18 +2693,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "2f718495-1fdd-3fb9-94f8-1ce9070a67a9"
-        ],
+        "MBID": "2f718495-1fdd-3fb9-94f8-1ce9070a67a9",
         "alias": [
             "可悲的人偶　～ Doll of Misery"
         ],
         "copyright": [
             "icebhm23230"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th05_14.txt": {
         "file": [
@@ -3075,9 +2723,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "4702541c-2dc7-4ccb-a18a-9a89c95d84a1"
-        ],
+        "MBID": "4702541c-2dc7-4ccb-a18a-9a89c95d84a1",
         "alias": [
             "世界的尽头　～ World's End"
         ],
@@ -3085,9 +2731,7 @@
             "LeastLPZ",
             "ShinkoNetCavy"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th05_15.txt": {
         "file": [
@@ -3110,18 +2754,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "23220726-7873-3c17-ab4e-4f298a04b107"
-        ],
+        "MBID": "23220726-7873-3c17-ab4e-4f298a04b107",
         "alias": [
             "神话幻想　～ Infinite Being"
         ],
         "copyright": [
             "unknown"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th05_16.txt": {
         "file": [
@@ -3144,9 +2784,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "6aac7283-d2d8-39fe-9e13-36c579aefa42"
-        ],
+        "MBID": "6aac7283-d2d8-39fe-9e13-36c579aefa42",
         "alias": [
             "不可思议之国的爱丽丝"
         ],
@@ -3157,9 +2795,7 @@
             "sweetmusic",
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th05_17.txt": {
         "file": [
@@ -3182,9 +2818,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "2c6e4da6-a093-3ba0-bf70-3c3d045cca2a"
-        ],
+        "MBID": "2c6e4da6-a093-3ba0-bf70-3c3d045cca2a",
         "alias": [
             "the Grimoire of Alice"
         ],
@@ -3194,9 +2828,7 @@
             "SonicMaster",
             "Wobuffet3"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th05_19.txt": {
         "file": [
@@ -3219,18 +2851,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "0ab2506c-3354-4d4c-93f4-c94d7277996e"
-        ],
+        "MBID": "0ab2506c-3354-4d4c-93f4-c94d7277996e",
         "alias": [
             "Endless"
         ],
         "copyright": [
             "TheDUBSpeedArts"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th05_20.txt": {
         "file": [
@@ -3253,18 +2881,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "f32290f5-389d-4a60-aa5a-8e50d5419791"
-        ],
+        "MBID": "f32290f5-389d-4a60-aa5a-8e50d5419791",
         "alias": [
             "永远的乐园"
         ],
         "copyright": [
             "Susumu Takajima"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th05_21.txt": {
         "file": [
@@ -3287,18 +2911,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "9d198e71-efde-46d6-b2b1-6152f3053845"
-        ],
+        "MBID": "9d198e71-efde-46d6-b2b1-6152f3053845",
         "alias": [
             "Mystic Dream"
         ],
         "copyright": [
             "CommonShitSandwich"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th05_22.txt": {
         "file": [
@@ -3321,9 +2941,7 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "4b9094a9-5ba6-418d-ac91-3aaa03c50292"
-        ],
+        "MBID": "4b9094a9-5ba6-418d-ac91-3aaa03c50292",
         "alias": [
             "Peaceful Romancer"
         ],
@@ -3331,9 +2949,7 @@
             "ryoya1295",
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th05_23.txt": {
         "file": [
@@ -3356,18 +2972,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "569296d9-e5cd-3a50-83d5-18bf46cb2e6e"
-        ],
+        "MBID": "569296d9-e5cd-3a50-83d5-18bf46cb2e6e",
         "alias": [
             "灵魂安息之所"
         ],
         "copyright": [
             "LeastLPZ"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th06_01.txt": {
         "file": [
@@ -3390,18 +3002,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "021ff404-3bf7-35ad-b637-9638cfcb737b"
-        ],
+        "MBID": "021ff404-3bf7-35ad-b637-9638cfcb737b",
         "alias": [
             "比赤色更红的梦"
         ],
         "copyright": [
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th06_02.txt": {
         "file": [
@@ -3424,9 +3032,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "7f6beb9e-31ff-3aea-b360-bb88e619b1a3"
-        ],
+        "MBID": "7f6beb9e-31ff-3aea-b360-bb88e619b1a3",
         "alias": [
             "如鬼灯般的红色之魂"
         ],
@@ -3434,9 +3040,7 @@
             "Slappedpancake - piano only",
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th06_03.txt": {
         "file": [
@@ -3459,9 +3063,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "fdff3cfe-f414-3aad-b692-9890ff03ec90"
-        ],
+        "MBID": "fdff3cfe-f414-3aad-b692-9890ff03ec90",
         "alias": [
             "妖魔夜行"
         ],
@@ -3472,9 +3074,7 @@
             "sweetmusic",
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th06_04.txt": {
         "file": [
@@ -3497,9 +3097,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "015eb428-a7e0-3ce3-a36f-5e6821fd08b9"
-        ],
+        "MBID": "015eb428-a7e0-3ce3-a36f-5e6821fd08b9",
         "alias": [
             "Lunate Elf"
         ],
@@ -3507,9 +3105,7 @@
             "rongns_2",
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th06_05.txt": {
         "file": [
@@ -3532,9 +3128,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "c7f68ee9-667f-33fe-9459-1012139ca602"
-        ],
+        "MBID": "c7f68ee9-667f-33fe-9459-1012139ca602",
         "alias": [
             "活泼的纯情小姑娘"
         ],
@@ -3545,9 +3139,7 @@
             "unknown 2",
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th06_06.txt": {
         "file": [
@@ -3570,9 +3162,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "2971335a-00d0-31a2-8b84-ecfc8ab72ae4"
-        ],
+        "MBID": "2971335a-00d0-31a2-8b84-ecfc8ab72ae4",
         "alias": [
             "上海红茶馆　～ Chinese Tea"
         ],
@@ -3583,9 +3173,7 @@
             "unknown",
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th06_07.txt": {
         "file": [
@@ -3608,9 +3196,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "50eb313d-f275-3752-afcb-e9a587dfc44e"
-        ],
+        "MBID": "50eb313d-f275-3752-afcb-e9a587dfc44e",
         "alias": [
             "明治十七年的上海爱丽丝"
         ],
@@ -3619,9 +3205,7 @@
             "sweetmusic",
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th06_08.txt": {
         "file": [
@@ -3644,18 +3228,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "b636601e-40cc-3ce0-8654-dc11bf3bc865"
-        ],
+        "MBID": "b636601e-40cc-3ce0-8654-dc11bf3bc865",
         "alias": [
             "伏瓦鲁魔法图书馆"
         ],
         "copyright": [
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th06_09.txt": {
         "file": [
@@ -3678,9 +3258,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "3e68abbe-ee41-3062-ac5a-d110f6a8acff"
-        ],
+        "MBID": "3e68abbe-ee41-3062-ac5a-d110f6a8acff",
         "alias": [
             "Locked Girl　～ 少女密室"
         ],
@@ -3688,9 +3266,7 @@
             "sweetmusic",
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th06_10.txt": {
         "file": [
@@ -3713,9 +3289,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "9cc8d30a-e8c6-3a5b-8458-d8eb9bc5b938"
-        ],
+        "MBID": "9cc8d30a-e8c6-3a5b-8458-d8eb9bc5b938",
         "alias": [
             "女仆与血之怀表"
         ],
@@ -3725,9 +3299,7 @@
             "yoimutu",
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th06_11.txt": {
         "file": [
@@ -3750,9 +3322,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "ee4a2a47-16f5-36b2-b9b2-1d3481eba56c"
-        ],
+        "MBID": "ee4a2a47-16f5-36b2-b9b2-1d3481eba56c",
         "alias": [
             "月时计　～ Luna Dial"
         ],
@@ -3760,9 +3330,7 @@
             "sweetmusic",
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th06_12.txt": {
         "file": [
@@ -3785,18 +3353,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "fb488194-0b76-387e-bab6-db89dad28d95"
-        ],
+        "MBID": "fb488194-0b76-387e-bab6-db89dad28d95",
         "alias": [
             "特佩斯的年幼末裔"
         ],
         "copyright": [
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th06_13.txt": {
         "file": [
@@ -3819,9 +3383,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "c9565d06-b108-3d06-abcc-4275f3ca648f"
-        ],
+        "MBID": "c9565d06-b108-3d06-abcc-4275f3ca648f",
         "alias": [
             "献给已逝公主的七重奏"
         ],
@@ -3835,9 +3397,7 @@
             "yoimutu",
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th06_14.txt": {
         "file": [
@@ -3860,9 +3420,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "d9e98ef6-b7e4-3431-8b53-867437ad81bd"
-        ],
+        "MBID": "d9e98ef6-b7e4-3431-8b53-867437ad81bd",
         "alias": [
             "魔法少女们的百年祭"
         ],
@@ -3872,9 +3430,7 @@
             "unknown",
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th06_15.txt": {
         "file": [
@@ -3897,9 +3453,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "8e59a59c-c4fa-30fa-8a79-33f442da74cf"
-        ],
+        "MBID": "8e59a59c-c4fa-30fa-8a79-33f442da74cf",
         "alias": [
             "U.N.OWEN就是她吗？"
         ],
@@ -3914,9 +3468,7 @@
             "yoimutu",
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th06_16.txt": {
         "file": [
@@ -3939,18 +3491,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "a1b79cf4-3f54-343d-b76a-a45cc6574e40"
-        ],
+        "MBID": "a1b79cf4-3f54-343d-b76a-a45cc6574e40",
         "alias": [
             "比红色更虚无的永远"
         ],
         "copyright": [
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th06_17.txt": {
         "file": [
@@ -3973,9 +3521,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "cff2f7b2-1ac6-36e9-81b5-2f3d0386c4b8"
-        ],
+        "MBID": "cff2f7b2-1ac6-36e9-81b5-2f3d0386c4b8",
         "alias": [
             "红楼　～ Eastern Dream..."
         ],
@@ -3983,9 +3529,7 @@
             "rongns_2",
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th07_01.txt": {
         "file": [
@@ -4008,18 +3552,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "6dca6108-ca4b-3952-a943-9384120e21e4"
-        ],
+        "MBID": "6dca6108-ca4b-3952-a943-9384120e21e4",
         "alias": [
             "妖妖梦　～ Snow or Cherry Petal"
         ],
         "copyright": [
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th07_02.txt": {
         "file": [
@@ -4042,9 +3582,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "bcbd5934-9cad-39c2-b881-400cee5d96a2"
-        ],
+        "MBID": "bcbd5934-9cad-39c2-b881-400cee5d96a2",
         "alias": [
             "无何有之乡　～ Deep Mountain"
         ],
@@ -4052,9 +3590,7 @@
             "rongns_2",
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th07_03.txt": {
         "file": [
@@ -4077,18 +3613,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "c66a10d4-0007-31fe-a15e-47e604a78c18"
-        ],
+        "MBID": "c66a10d4-0007-31fe-a15e-47e604a78c18",
         "alias": [
             "Crystallize Silver"
         ],
         "copyright": [
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th07_04.txt": {
         "file": [
@@ -4111,9 +3643,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "4c8747c2-eea1-308c-a827-551df7e31788"
-        ],
+        "MBID": "4c8747c2-eea1-308c-a827-551df7e31788",
         "alias": [
             "远野幻想物语"
         ],
@@ -4121,9 +3651,7 @@
             "hisaraito",
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th07_05.txt": {
         "file": [
@@ -4146,9 +3674,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "fdba5303-f076-3041-8708-a5150a87404f"
-        ],
+        "MBID": "fdba5303-f076-3041-8708-a5150a87404f",
         "alias": [
             "凋叶棕（withered leaf）"
         ],
@@ -4156,9 +3682,7 @@
             "hisaraito",
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th07_06.txt": {
         "file": [
@@ -4181,9 +3705,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "9ee2c748-f3bb-358a-8f45-dfe1d2f1140a"
-        ],
+        "MBID": "9ee2c748-f3bb-358a-8f45-dfe1d2f1140a",
         "alias": [
             "布加勒斯特的人偶师"
         ],
@@ -4192,9 +3714,7 @@
             "TouhouMIDICreator",
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th07_07.txt": {
         "file": [
@@ -4217,9 +3737,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "4e48ac49-e03d-36d6-b140-45f40cd23fbe"
-        ],
+        "MBID": "4e48ac49-e03d-36d6-b140-45f40cd23fbe",
         "alias": [
             "人偶裁判　～ 玩弄人形的少女"
         ],
@@ -4230,9 +3748,7 @@
             "sweetmusic",
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th07_08.txt": {
         "file": [
@@ -4255,18 +3771,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "879d2474-7fd6-3dee-a7e6-585eaf83b875"
-        ],
+        "MBID": "879d2474-7fd6-3dee-a7e6-585eaf83b875",
         "alias": [
             "天空的花都"
         ],
         "copyright": [
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th07_09.txt": {
         "file": [
@@ -4289,9 +3801,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "82046c73-33d2-3e08-a74c-a1a738f9ac94"
-        ],
+        "MBID": "82046c73-33d2-3e08-a74c-a1a738f9ac94",
         "alias": [
             "幽灵乐团　～ Phantom Ensemble"
         ],
@@ -4299,9 +3809,7 @@
             "sweetmusic",
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th07_10.txt": {
         "file": [
@@ -4324,18 +3832,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "f5075e60-abc6-30a7-a0eb-fbfe8968f6ef"
-        ],
+        "MBID": "f5075e60-abc6-30a7-a0eb-fbfe8968f6ef",
         "alias": [
             "东方妖妖梦　～ Ancient Temple"
         ],
         "copyright": [
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th07_11.txt": {
         "file": [
@@ -4358,9 +3862,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "853a3cc1-ef19-3d62-9c1a-560541b412f6"
-        ],
+        "MBID": "853a3cc1-ef19-3d62-9c1a-560541b412f6",
         "alias": [
             "广有射怪鸟事　～ Till When?"
         ],
@@ -4368,9 +3870,7 @@
             "hisaraito",
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th07_12.txt": {
         "file": [
@@ -4393,9 +3893,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "d764ced5-3a72-3d82-80d9-da7dea0e3c2c"
-        ],
+        "MBID": "d764ced5-3a72-3d82-80d9-da7dea0e3c2c",
         "alias": [
             "Ultimate Truth"
         ],
@@ -4403,9 +3901,7 @@
             "hisaraito",
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th07_13.txt": {
         "file": [
@@ -4428,9 +3924,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "255e9094-da2f-3f1f-bc5b-9258a2a630d7"
-        ],
+        "MBID": "255e9094-da2f-3f1f-bc5b-9258a2a630d7",
         "alias": [
             "幽雅地绽放吧",
             "墨染的樱花　～ Border of Life"
@@ -4443,9 +3937,7 @@
             "yoimutu",
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th07_14.txt": {
         "file": [
@@ -4468,9 +3960,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "0220b328-82ba-35e5-b74f-c375d3bf66f2"
-        ],
+        "MBID": "0220b328-82ba-35e5-b74f-c375d3bf66f2",
         "alias": [
             "Border of Life"
         ],
@@ -4481,9 +3971,7 @@
             "sweetmusic",
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th07_15.txt": {
         "file": [
@@ -4506,18 +3994,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "511ca31f-f0f9-3898-a57b-4975df8ca85f"
-        ],
+        "MBID": "511ca31f-f0f9-3898-a57b-4975df8ca85f",
         "alias": [
             "妖妖跋扈"
         ],
         "copyright": [
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th07_16.txt": {
         "file": [
@@ -4540,9 +4024,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "6c35ee27-41bb-38ec-b758-93c0ba446cbf"
-        ],
+        "MBID": "6c35ee27-41bb-38ec-b758-93c0ba446cbf",
         "alias": [
             "少女幻葬　～ Necro-Fantasy"
         ],
@@ -4551,9 +4033,7 @@
             "icebhm23230",
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th07_17.txt": {
         "file": [
@@ -4576,9 +4056,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "36fe767c-1232-38f7-9f8a-eb63992c42cf"
-        ],
+        "MBID": "36fe767c-1232-38f7-9f8a-eb63992c42cf",
         "alias": [
             "妖妖跋扈　～ Who done it!"
         ],
@@ -4586,9 +4064,7 @@
             "hisaraito",
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th07_18.txt": {
         "file": [
@@ -4611,9 +4087,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "d34f2616-9ac9-3189-80f7-918faef6ed30"
-        ],
+        "MBID": "d34f2616-9ac9-3189-80f7-918faef6ed30",
         "alias": [
             "Necro-Fantasia"
         ],
@@ -4624,9 +4098,7 @@
             "sweetmusic",
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th07_19.txt": {
         "file": [
@@ -4649,18 +4121,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "b8a8f7c8-b8d0-374d-af6a-4dbbc55dc88e"
-        ],
+        "MBID": "b8a8f7c8-b8d0-374d-af6a-4dbbc55dc88e",
         "alias": [
             "春风之梦"
         ],
         "copyright": [
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th07_20.txt": {
         "file": [
@@ -4683,9 +4151,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "665804aa-7b9f-3721-9bf8-269ad9ee3968"
-        ],
+        "MBID": "665804aa-7b9f-3721-9bf8-269ad9ee3968",
         "alias": [
             "樱花樱花　～ Japanize Dream..."
         ],
@@ -4693,9 +4159,7 @@
             "Baka94",
             "ZUN"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th08_01.txt": {
         "file": [
@@ -4718,15 +4182,11 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "9cf4e3d8-3578-43a1-8bd8-35a0f30c8354"
-        ],
+        "MBID": "9cf4e3d8-3578-43a1-8bd8-35a0f30c8354",
         "alias": [
             "永夜抄　～ Eastern Night."
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th08_02.txt": {
         "file": [
@@ -4749,15 +4209,11 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "13ab0d21-2271-3180-b86f-cdba373ec177"
-        ],
+        "MBID": "13ab0d21-2271-3180-b86f-cdba373ec177",
         "alias": [
             "幻视之夜　～ Ghostly Eyes"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th08_03.txt": {
         "file": [
@@ -4780,15 +4236,11 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "c2353835-642a-3bdf-aa0e-9ae5c7b80aea"
-        ],
+        "MBID": "c2353835-642a-3bdf-aa0e-9ae5c7b80aea",
         "alias": [
             "蠢蠢的秋月　～ Mooned Insect"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th08_04.txt": {
         "file": [
@@ -4811,15 +4263,11 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "55d76cc7-faeb-3a10-9b1c-d7d2d3293f93"
-        ],
+        "MBID": "55d76cc7-faeb-3a10-9b1c-d7d2d3293f93",
         "alias": [
             "夜雀的歌声　～ Night Bird"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th08_05.txt": {
         "file": [
@@ -4842,15 +4290,11 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "209d6367-c73e-3737-935d-9b178e68ac55"
-        ],
+        "MBID": "209d6367-c73e-3737-935d-9b178e68ac55",
         "alias": [
             "已经只能听见歌声了"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th08_06.txt": {
         "file": [
@@ -4873,15 +4317,11 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "1172c3a9-5082-3bd3-ac8a-e99e85b99472"
-        ],
+        "MBID": "1172c3a9-5082-3bd3-ac8a-e99e85b99472",
         "alias": [
             "令人怀念的东方之血　～ Old World"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th08_07.txt": {
         "file": [
@@ -4904,15 +4344,11 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "5c41937e-6fd6-3586-a53c-1bdfa6629451"
-        ],
+        "MBID": "5c41937e-6fd6-3586-a53c-1bdfa6629451",
         "alias": [
             "Plain Asia"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th08_08.txt": {
         "file": [
@@ -4935,15 +4371,11 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "cdfdfa58-0f69-3482-abfd-a70db80f9e6e"
-        ],
+        "MBID": "cdfdfa58-0f69-3482-abfd-a70db80f9e6e",
         "alias": [
             "永夜的报应　～ Imperishable Night"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th08_09.txt": {
         "file": [
@@ -4966,15 +4398,11 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "52585ad8-3a44-37c3-839e-6132f386867c"
-        ],
+        "MBID": "52585ad8-3a44-37c3-839e-6132f386867c",
         "alias": [
             "少女绮想曲　～ Dream Battle"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th08_10.txt": {
         "file": [
@@ -4997,19 +4425,15 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "12a9dc1b-c0be-328a-b2b2-884e4a4cd240"
-        ],
+        "MBID": "12a9dc1b-c0be-328a-b2b2-884e4a4cd240",
         "alias": [
             "恋色Master spark"
         ],
         "copyright": [
             "ZUN",
-            " edited by LeastLPZ"
+            "edited by LeastLPZ"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th08_11.txt": {
         "file": [
@@ -5032,15 +4456,11 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "53734d6e-2982-36cf-a124-881dd7eb28a0"
-        ],
+        "MBID": "53734d6e-2982-36cf-a124-881dd7eb28a0",
         "alias": [
             "灰姑娘的笼子　～ Kagome-Kagome"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th08_12.txt": {
         "file": [
@@ -5063,15 +4483,11 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "bb384443-1c62-3cf2-bea4-dce5497fe947"
-        ],
+        "MBID": "bb384443-1c62-3cf2-bea4-dce5497fe947",
         "alias": [
             "狂气之瞳　～ Invisible Full Moon"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th08_13.txt": {
         "file": [
@@ -5094,15 +4510,11 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "0bbb84c2-21e7-3039-8870-2a2e74efeefa"
-        ],
+        "MBID": "0bbb84c2-21e7-3039-8870-2a2e74efeefa",
         "alias": [
             "Voyage1969"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th08_14.txt": {
         "file": [
@@ -5125,15 +4537,11 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "48b90e15-a9b4-3d34-ae26-112f60d8eb8f"
-        ],
+        "MBID": "48b90e15-a9b4-3d34-ae26-112f60d8eb8f",
         "alias": [
             "千年幻想乡　～ History of the Moon"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th08_15.txt": {
         "file": [
@@ -5156,15 +4564,11 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "011ecd26-9e73-35ad-aa78-8d9b0197e653"
-        ],
+        "MBID": "011ecd26-9e73-35ad-aa78-8d9b0197e653",
         "alias": [
             "竹取飞翔　～ Lunatic Princess"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th08_16.txt": {
         "file": [
@@ -5187,15 +4591,11 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "0dbf445c-fa68-4aed-a914-92480a98082e"
-        ],
+        "MBID": "0dbf445c-fa68-4aed-a914-92480a98082e",
         "alias": [
             "Voyage1970"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th08_17.txt": {
         "file": [
@@ -5218,15 +4618,11 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "c0bddb1d-39a0-3a42-9183-e9f81fd84629"
-        ],
+        "MBID": "c0bddb1d-39a0-3a42-9183-e9f81fd84629",
         "alias": [
             "Extend Ash　～ 蓬莱人"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th08_18.txt": {
         "file": [
@@ -5249,9 +4645,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "163346cf-4c62-3bb8-9720-b5aaa1c04862"
-        ],
+        "MBID": "163346cf-4c62-3bb8-9720-b5aaa1c04862",
         "alias": [
             "飘上月球",
             "不死之烟"
@@ -5268,9 +4662,7 @@
             "ZUN",
             "LeastLPZ"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th08_19.txt": {
         "file": [
@@ -5293,15 +4685,11 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "1248b0e2-bca1-3b10-894d-76bbcbedfbbd"
-        ],
+        "MBID": "1248b0e2-bca1-3b10-894d-76bbcbedfbbd",
         "alias": [
             "月见草"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th08_20.txt": {
         "file": [
@@ -5324,15 +4712,11 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "757e4483-bdcb-3888-8220-f757eb62be4e"
-        ],
+        "MBID": "757e4483-bdcb-3888-8220-f757eb62be4e",
         "alias": [
             "Eternal Dream　～ 幽玄的枫树"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th08_21.txt": {
         "file": [
@@ -5355,15 +4739,11 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "f686a061-5e01-35b2-8735-183246485b0b"
-        ],
+        "MBID": "f686a061-5e01-35b2-8735-183246485b0b",
         "alias": [
             "东方妖怪小町"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th09_01.txt": {
         "file": [
@@ -5386,15 +4766,11 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "00aef610-1376-3f79-87c5-cd649860ef4f"
-        ],
+        "MBID": "00aef610-1376-3f79-87c5-cd649860ef4f",
         "alias": [
             "花映塚　～ Higan Retour"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th09_02.txt": {
         "file": [
@@ -5417,15 +4793,11 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "e4858fa1-7ba2-3d99-80a8-e3e0f74fa7b5"
-        ],
+        "MBID": "e4858fa1-7ba2-3d99-80a8-e3e0f74fa7b5",
         "alias": [
             "春色小径　～ Colorful Path"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th09_03.txt": {
         "file": [
@@ -5448,15 +4820,11 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "5ce37a9d-3a27-39ef-8c81-2f2f385f145c"
-        ],
+        "MBID": "5ce37a9d-3a27-39ef-8c81-2f2f385f145c",
         "alias": [
             "Oriental Dark Flight"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th09_04.txt": {
         "file": [
@@ -5479,15 +4847,11 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "8558dbb8-1af0-36d8-8f90-c8a7556ea258"
-        ],
+        "MBID": "8558dbb8-1af0-36d8-8f90-c8a7556ea258",
         "alias": [
             "Flowering Night"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th09_10.txt": {
         "file": [
@@ -5510,9 +4874,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "4e0d26d0-f36c-383c-baef-1f3d7ac0c3a4"
-        ],
+        "MBID": "4e0d26d0-f36c-383c-baef-1f3d7ac0c3a4",
         "alias": [
             "宇佐大人的白旗"
         ],
@@ -5520,9 +4882,7 @@
             "Kanade_KND34",
             "Unknown"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th09_11.txt": {
         "file": [
@@ -5545,9 +4905,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "989ebb6e-bdd0-3081-9561-d94ca1180528"
-        ],
+        "MBID": "989ebb6e-bdd0-3081-9561-d94ca1180528",
         "alias": [
             "风神少女"
         ],
@@ -5555,9 +4913,7 @@
             "Kanade_KND34",
             "rongns_2"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th09_12.txt": {
         "file": [
@@ -5580,9 +4936,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "fcd504a3-fa33-39a0-91c1-ffc60e8b336a"
-        ],
+        "MBID": "fcd504a3-fa33-39a0-91c1-ffc60e8b336a",
         "alias": [
             "剧毒身体　～ Forsaken Doll"
         ],
@@ -5590,9 +4944,7 @@
             "aoba-ss",
             "Kanade_KND34"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th09_13.txt": {
         "file": [
@@ -5615,9 +4967,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "34b1d9db-7c1b-321f-bf83-b038d35b8f6d"
-        ],
+        "MBID": "34b1d9db-7c1b-321f-bf83-b038d35b8f6d",
         "alias": [
             "今昔幻想乡　～ Flower Land"
         ],
@@ -5628,9 +4978,7 @@
             "sweetmusic",
             "TouhouMIDICreator"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th09_14.txt": {
         "file": [
@@ -5653,9 +5001,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "dd5a639a-d33f-39a7-bab3-97aafbf8e675"
-        ],
+        "MBID": "dd5a639a-d33f-39a7-bab3-97aafbf8e675",
         "alias": [
             "彼岸归航　～ Riverside View"
         ],
@@ -5666,9 +5012,7 @@
             "wrbk - GS",
             "Yuki"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th09_15.txt": {
         "file": [
@@ -5691,9 +5035,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "dbd4bf0b-4c6a-383f-b5f3-3191f9870f28"
-        ],
+        "MBID": "dbd4bf0b-4c6a-383f-b5f3-3191f9870f28",
         "alias": [
             "第六十年的东方审判　～ Fate of Sixty Years"
         ],
@@ -5705,9 +5047,7 @@
             "Unknown",
             "yoimutu"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th09_16.txt": {
         "file": [
@@ -5730,15 +5070,11 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "61496167-3286-35cd-b98c-890de5f1821e"
-        ],
+        "MBID": "61496167-3286-35cd-b98c-890de5f1821e",
         "alias": [
             "映花之塚"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th09_17.txt": {
         "file": [
@@ -5761,18 +5097,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "f6df3ac8-4b7c-3d2d-af81-a3fbfc6d4f9f"
-        ],
+        "MBID": "f6df3ac8-4b7c-3d2d-af81-a3fbfc6d4f9f",
         "alias": [
             "此岸之塚"
         ],
         "copyright": [
             "Kanade_KND34"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th09_18.txt": {
         "file": [
@@ -5795,9 +5127,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "166bbb41-9c69-3d38-ab90-d77a035963e6"
-        ],
+        "MBID": "166bbb41-9c69-3d38-ab90-d77a035963e6",
         "alias": [
             "花如幻想一般"
         ],
@@ -5805,9 +5135,7 @@
             "74644323",
             "Kanade_KND34"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th09_19.txt": {
         "file": [
@@ -5830,18 +5158,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "3927b10c-e237-3f70-b870-6d01bda21171"
-        ],
+        "MBID": "3927b10c-e237-3f70-b870-6d01bda21171",
         "alias": [
             "魂之花　～ Another Dream..."
         ],
         "copyright": [
             "Kanade_KND34"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th10_01.txt": {
         "file": [
@@ -5864,18 +5188,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "6e83c5bf-17c6-36fb-89a7-d0304d448a51"
-        ],
+        "MBID": "6e83c5bf-17c6-36fb-89a7-d0304d448a51",
         "alias": [
             "被封印的众神"
         ],
         "copyright": [
             "unknown"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th10_02.txt": {
         "file": [
@@ -5898,9 +5218,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "e1c210e9-722e-3021-8306-49031798329e"
-        ],
+        "MBID": "e1c210e9-722e-3021-8306-49031798329e",
         "alias": [
             "眷爱众生之神　～ Romantic Fall"
         ],
@@ -5910,9 +5228,7 @@
             "Susumu Takajima",
             "unknown"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th10_03.txt": {
         "file": [
@@ -5935,9 +5251,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "1a943a94-457e-3b8b-b491-5546586fe813"
-        ],
+        "MBID": "1a943a94-457e-3b8b-b491-5546586fe813",
         "alias": [
             "会受稻田姬的斥责啦"
         ],
@@ -5948,9 +5262,7 @@
             "Shirai Yuki - GM",
             "Shirai Yuki - XG"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th10_04.txt": {
         "file": [
@@ -5973,9 +5285,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "fb3dd9db-6660-35e5-a214-ed47a194552f"
-        ],
+        "MBID": "fb3dd9db-6660-35e5-a214-ed47a194552f",
         "alias": [
             "厄神降临之路　～ Dark Road"
         ],
@@ -5985,9 +5295,7 @@
             "komugi",
             "sweetmusic"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th10_05.txt": {
         "file": [
@@ -6010,9 +5318,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "e8514750-f02d-3a69-ac64-d997cbfda027"
-        ],
+        "MBID": "e8514750-f02d-3a69-ac64-d997cbfda027",
         "alias": [
             "命运的阴暗面"
         ],
@@ -6021,9 +5327,7 @@
             "sweetmusic",
             "TheDUBSpeedArts"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th10_06.txt": {
         "file": [
@@ -6046,15 +5350,11 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "98f5e291-abd2-3f74-90f8-b829cb0f52f0"
-        ],
+        "MBID": "98f5e291-abd2-3f74-90f8-b829cb0f52f0",
         "alias": [
             "众神眷恋的幻想乡"
         ],
-        "status": [
-            "ok"
-        ],
+        "status": "ok",
         "transcriber": [
             "Francium-223"
         ]
@@ -6080,9 +5380,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "7ec5116d-3116-3320-83c2-5a330875ac14"
-        ],
+        "MBID": "7ec5116d-3116-3320-83c2-5a330875ac14",
         "alias": [
             "芥川龙之介的河童　～ Candid Friend"
         ],
@@ -6093,9 +5391,7 @@
             "TouhouMIDICreator - Ver. 2",
             "TouhouMIDICreator"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th10_08.txt": {
         "file": [
@@ -6118,9 +5414,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "0dfaf49a-36e9-3c40-a744-5b00c2d1e021"
-        ],
+        "MBID": "0dfaf49a-36e9-3c40-a744-5b00c2d1e021",
         "alias": [
             "Fall of Fall　～ 秋意渐浓之瀑"
         ],
@@ -6129,9 +5423,7 @@
             "Samidare",
             "Wrbk"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th10_09.txt": {
         "file": [
@@ -6154,9 +5446,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "145d2b51-0646-30e5-be20-f123b3b281ef"
-        ],
+        "MBID": "145d2b51-0646-30e5-be20-f123b3b281ef",
         "alias": [
             "妖怪之山　～ Mysterious Mountain"
         ],
@@ -6167,9 +5457,7 @@
             "LeastLPZ",
             "TouhouMIDICreator"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th10_10.txt": {
         "file": [
@@ -6192,9 +5480,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "aefe2ca7-b1b0-3e00-85f4-d0e31bbd1d72"
-        ],
+        "MBID": "aefe2ca7-b1b0-3e00-85f4-d0e31bbd1d72",
         "alias": [
             "少女曾见的日本原风景"
         ],
@@ -6202,9 +5488,7 @@
             "cross",
             "rongns_2"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th10_11.txt": {
         "file": [
@@ -6227,9 +5511,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "fecb65a0-45db-386d-b665-c45eec475d2a"
-        ],
+        "MBID": "fecb65a0-45db-386d-b665-c45eec475d2a",
         "alias": [
             "信仰是为了虚幻之人"
         ],
@@ -6243,9 +5525,7 @@
             "sweetmusic",
             "TouhouMIDICreator"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th10_12.txt": {
         "file": [
@@ -6268,9 +5548,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "2c4dfc9b-be88-3d42-8e68-0a4203a6230a"
-        ],
+        "MBID": "2c4dfc9b-be88-3d42-8e68-0a4203a6230a",
         "alias": [
             "御柱的墓场　～ Grave of Being"
         ],
@@ -6278,9 +5556,7 @@
             "Shirai Yuki - GM",
             "Shirai Yuki - XG"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th10_13.txt": {
         "file": [
@@ -6303,9 +5579,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "220bde5d-68b1-3620-a7a8-08c9bd7db989"
-        ],
+        "MBID": "220bde5d-68b1-3620-a7a8-08c9bd7db989",
         "alias": [
             "神圣庄严的古战场　～ Suwa Foughten Field"
         ],
@@ -6314,9 +5588,7 @@
             "Jacob31593",
             "unknown"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th10_14.txt": {
         "file": [
@@ -6339,9 +5611,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "41f30577-da8b-34f4-87f8-bf3527d067bf"
-        ],
+        "MBID": "41f30577-da8b-34f4-87f8-bf3527d067bf",
         "alias": [
             "明日之盛",
             "昨日之俗"
@@ -6350,9 +5620,7 @@
             "ryoya1295",
             "sweetmusic"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th10_15.txt": {
         "file": [
@@ -6375,9 +5643,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "c01242b7-9764-359b-adf0-a56d1bcbf242"
-        ],
+        "MBID": "c01242b7-9764-359b-adf0-a56d1bcbf242",
         "alias": [
             "Native Faith"
         ],
@@ -6389,9 +5655,7 @@
             "Shirai Yuki - GM",
             "Shirai Yuki - XG"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th10_16.txt": {
         "file": [
@@ -6414,9 +5678,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "be352ce2-c57d-304d-84ea-903756729704"
-        ],
+        "MBID": "be352ce2-c57d-304d-84ea-903756729704",
         "alias": [
             "山脚的神社"
         ],
@@ -6424,9 +5686,7 @@
             "Alkione",
             "Dekyo ongen"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th10_17.txt": {
         "file": [
@@ -6449,18 +5709,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "db368653-07d0-34ee-929a-762845d2f5c9"
-        ],
+        "MBID": "db368653-07d0-34ee-929a-762845d2f5c9",
         "alias": [
             "神明降下恩惠之雨　～ Sylphid Dream"
         ],
         "copyright": [
             "LeastLPZ"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th11_01.txt": {
         "file": [
@@ -6483,9 +5739,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "3455d0a3-caeb-3ae6-aa80-38c5018f76b7"
-        ],
+        "MBID": "3455d0a3-caeb-3ae6-aa80-38c5018f76b7",
         "alias": [
             "地灵们的起床"
         ],
@@ -6494,9 +5748,7 @@
             "Susumu Takajima but probably edited by someone",
             "Username"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th11_02.txt": {
         "file": [
@@ -6519,9 +5771,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "824c033a-ca65-325a-b7f9-9d627673f853"
-        ],
+        "MBID": "824c033a-ca65-325a-b7f9-9d627673f853",
         "alias": [
             "昏暗的风穴"
         ],
@@ -6529,9 +5779,7 @@
             "leastLPZ",
             "unknown"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th11_03.txt": {
         "file": [
@@ -6554,18 +5802,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "1bc0f333-a2f1-336e-bfd8-6e189e77c902"
-        ],
+        "MBID": "1bc0f333-a2f1-336e-bfd8-6e189e77c902",
         "alias": [
             "被封印的妖怪　～ Lost Place"
         ],
         "copyright": [
             "yosiyosi"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th11_04.txt": {
         "file": [
@@ -6588,9 +5832,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "f853ae8d-334c-365e-aca9-9e337e407569"
-        ],
+        "MBID": "f853ae8d-334c-365e-aca9-9e337e407569",
         "alias": [
             "阻绝人迹之桥"
         ],
@@ -6598,9 +5840,7 @@
             "ryoya1295",
             "unknown"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th11_05.txt": {
         "file": [
@@ -6623,9 +5863,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "c50f369c-a20c-3066-8756-5d6f81fd3e84"
-        ],
+        "MBID": "c50f369c-a20c-3066-8756-5d6f81fd3e84",
         "alias": [
             "绿眼的嫉妒"
         ],
@@ -6635,9 +5873,7 @@
             "sweetmusic",
             "unknown"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th11_06.txt": {
         "file": [
@@ -6660,9 +5896,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "598c728c-9eff-3e48-9aab-aa4d62dea3ad"
-        ],
+        "MBID": "598c728c-9eff-3e48-9aab-aa4d62dea3ad",
         "alias": [
             "漫游旧地狱街道"
         ],
@@ -6671,9 +5905,7 @@
             "sagittarius shikoku",
             "Susumu Takajima"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th11_07.txt": {
         "file": [
@@ -6696,9 +5928,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "833c365b-80eb-3b3c-965c-e508b4eafe88"
-        ],
+        "MBID": "833c365b-80eb-3b3c-965c-e508b4eafe88",
         "alias": [
             "大江山的花之酒宴"
         ],
@@ -6706,9 +5936,7 @@
             "hailstone",
             "yoimutu"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th11_08.txt": {
         "file": [
@@ -6731,9 +5959,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "fd71b1a4-b659-3d33-ab20-7384cac36778"
-        ],
+        "MBID": "fd71b1a4-b659-3d33-ab20-7384cac36778",
         "alias": [
             "Heartfelt Fancy"
         ],
@@ -6742,9 +5968,7 @@
             "leastLPZ",
             "unknown"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th11_09.txt": {
         "file": [
@@ -6767,9 +5991,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "8ab06f70-a8fb-392e-98a9-83aa2a1b1ba2"
-        ],
+        "MBID": "8ab06f70-a8fb-392e-98a9-83aa2a1b1ba2",
         "alias": [
             "少女觉　～ 3rd eye"
         ],
@@ -6783,9 +6005,7 @@
             "Unknown",
             "yoimutu"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th11_10.txt": {
         "file": [
@@ -6808,23 +6028,19 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "3cdd2991-2ab3-3aad-9948-f902eee69e1f"
-        ],
+        "MBID": "3cdd2991-2ab3-3aad-9948-f902eee69e1f",
         "alias": [
             "废狱摇篮曲"
         ],
         "copyright": [
             "akira",
             "ALiCE",
-            " But it is edited by someone",
+            "But it is edited by someone",
             "Bessem 2",
             "Bessem",
             "sagittarius shikoku"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th11_11.txt": {
         "file": [
@@ -6847,9 +6063,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "e90f08f6-95a4-3364-8bb6-42913379fa31"
-        ],
+        "MBID": "e90f08f6-95a4-3364-8bb6-42913379fa31",
         "alias": [
             "尸体旅行　～ Be of good cheer!"
         ],
@@ -6859,9 +6073,7 @@
             "Shirai Yuki - XG",
             "yuki"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th11_12.txt": {
         "file": [
@@ -6884,9 +6096,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "d1381fea-73d6-3d0c-a6c8-450d5ad833fe"
-        ],
+        "MBID": "d1381fea-73d6-3d0c-a6c8-450d5ad833fe",
         "alias": [
             "业火地幔"
         ],
@@ -6896,9 +6106,7 @@
             "sagittarius shikoku",
             "unknown"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th11_13.txt": {
         "file": [
@@ -6921,9 +6129,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "6dd64a70-74c4-314c-ae38-2f8b36d51e46"
-        ],
+        "MBID": "6dd64a70-74c4-314c-ae38-2f8b36d51e46",
         "alias": [
             "灵知的太阳信仰　～ Nuclear Fusion"
         ],
@@ -6934,9 +6140,7 @@
             "sweetmusic",
             "Unknown"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th11_14.txt": {
         "file": [
@@ -6959,9 +6163,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "f0d1e652-8eb2-36e1-bd86-be302b2a2de1"
-        ],
+        "MBID": "f0d1e652-8eb2-36e1-bd86-be302b2a2de1",
         "alias": [
             "Last Remote"
         ],
@@ -6973,9 +6175,7 @@
             "sweetmusic",
             "unknown"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th11_15.txt": {
         "file": [
@@ -6998,9 +6198,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "3bd91097-c4d6-3533-81f4-52b6042a9742"
-        ],
+        "MBID": "3bd91097-c4d6-3533-81f4-52b6042a9742",
         "alias": [
             "哈德曼的妖怪少女"
         ],
@@ -7012,9 +6210,7 @@
             "unknown",
             "yoimutu"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th11_16.txt": {
         "file": [
@@ -7037,18 +6233,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "b14c2621-0775-37c1-b9c7-84f9d3a77aae"
-        ],
+        "MBID": "b14c2621-0775-37c1-b9c7-84f9d3a77aae",
         "alias": [
             "地灵们的归家"
         ],
         "copyright": [
             "TheDUBSpeedArts"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th11_17.txt": {
         "file": [
@@ -7071,18 +6263,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "610ff82b-17ea-31cb-9bf9-d13ce29f538d"
-        ],
+        "MBID": "610ff82b-17ea-31cb-9bf9-d13ce29f538d",
         "alias": [
             "能源黎明　～ Future Dream..."
         ],
         "copyright": [
             "takashi"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th12_01.txt": {
         "file": [
@@ -7105,18 +6293,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "2bb2c194-5226-326b-9cdd-2ef278ffff75"
-        ],
+        "MBID": "2bb2c194-5226-326b-9cdd-2ef278ffff75",
         "alias": [
             "青空之影"
         ],
         "copyright": [
             "terebi"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th12_02.txt": {
         "file": [
@@ -7139,9 +6323,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "1c4a70b4-ec40-34ad-9254-278dc1903996"
-        ],
+        "MBID": "1c4a70b4-ec40-34ad-9254-278dc1903996",
         "alias": [
             "春之港湾"
         ],
@@ -7150,9 +6332,7 @@
             "terebi",
             "yoimutu"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th12_03.txt": {
         "file": [
@@ -7175,9 +6355,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "8c8a830e-e455-334c-b0e1-b3658b7d16ef"
-        ],
+        "MBID": "8c8a830e-e455-334c-b0e1-b3658b7d16ef",
         "alias": [
             "小小的贤将"
         ],
@@ -7189,9 +6367,7 @@
             "sweetmusic",
             "terebi"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th12_04.txt": {
         "file": [
@@ -7214,18 +6390,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "76142d7e-796a-397d-b2b5-ebfb7ce57b83"
-        ],
+        "MBID": "76142d7e-796a-397d-b2b5-ebfb7ce57b83",
         "alias": [
             "封闭的云中通路"
         ],
         "copyright": [
             "terebi"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th12_05.txt": {
         "file": [
@@ -7248,9 +6420,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "f647ac61-861e-3c55-9113-389f26510f94"
-        ],
+        "MBID": "f647ac61-861e-3c55-9113-389f26510f94",
         "alias": [
             "请注意万年备用伞"
         ],
@@ -7259,9 +6429,7 @@
             "icebhm23230",
             "terebi"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th12_06.txt": {
         "file": [
@@ -7284,18 +6452,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "6aab447f-83c0-38b3-a2ca-4912291a3eaf"
-        ],
+        "MBID": "6aab447f-83c0-38b3-a2ca-4912291a3eaf",
         "alias": [
             "Sky Ruin"
         ],
         "copyright": [
             "terebi"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th12_07.txt": {
         "file": [
@@ -7318,9 +6482,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "c76e465d-1c4e-3d6b-bbc3-c72c093799ef"
-        ],
+        "MBID": "c76e465d-1c4e-3d6b-bbc3-c72c093799ef",
         "alias": [
             "守旧老爹与前卫少女"
         ],
@@ -7328,9 +6490,7 @@
             "sweetmusic",
             "terebi"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th12_08.txt": {
         "file": [
@@ -7353,18 +6513,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "f3ce579b-ed59-3ce9-bd74-459286f215d3"
-        ],
+        "MBID": "f3ce579b-ed59-3ce9-bd74-459286f215d3",
         "alias": [
             "幽灵客船的穿越时空之旅"
         ],
         "copyright": [
             "terebi"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th12_09.txt": {
         "file": [
@@ -7387,18 +6543,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "2b9a2c12-dcba-3fa1-9c1a-8c937d7bf2c8"
-        ],
+        "MBID": "2b9a2c12-dcba-3fa1-9c1a-8c937d7bf2c8",
         "alias": [
             "Captain Murasa"
         ],
         "copyright": [
             "terebi"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th12_10.txt": {
         "file": [
@@ -7421,9 +6573,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "36b21f7a-c175-3258-a5f4-6f51e8d82f79"
-        ],
+        "MBID": "36b21f7a-c175-3258-a5f4-6f51e8d82f79",
         "alias": [
             "魔界地方都市秘境"
         ],
@@ -7431,9 +6581,7 @@
             "hisaraito",
             "terebi"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th12_11.txt": {
         "file": [
@@ -7456,9 +6604,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "776c6cd5-f9a2-3db2-8d79-51c96f766d9e"
-        ],
+        "MBID": "776c6cd5-f9a2-3db2-8d79-51c96f766d9e",
         "alias": [
             "虎纹的毘沙门天"
         ],
@@ -7466,9 +6612,7 @@
             "icebhm23230",
             "terebi"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th12_12.txt": {
         "file": [
@@ -7491,18 +6635,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "5051cf4a-8407-30c6-8bf2-a76cfcd3d4e5"
-        ],
+        "MBID": "5051cf4a-8407-30c6-8bf2-a76cfcd3d4e5",
         "alias": [
             "法界之火"
         ],
         "copyright": [
             "terebi"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th12_13.txt": {
         "file": [
@@ -7525,9 +6665,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "21c4f440-0de4-3286-9fd8-a7094692d303"
-        ],
+        "MBID": "21c4f440-0de4-3286-9fd8-a7094692d303",
         "alias": [
             "感情的摩天楼　～ Cosmic Mind"
         ],
@@ -7538,9 +6676,7 @@
             "sweetmusic",
             "terebi"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th12_14.txt": {
         "file": [
@@ -7563,18 +6699,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "de7d12bc-7971-3591-b8ac-94080e16d4c4"
-        ],
+        "MBID": "de7d12bc-7971-3591-b8ac-94080e16d4c4",
         "alias": [
             "夜空中的UFO恋曲"
         ],
         "copyright": [
             "terebi"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th12_15.txt": {
         "file": [
@@ -7597,9 +6729,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "19273d74-6301-33a3-b112-282b0b7128a2"
-        ],
+        "MBID": "19273d74-6301-33a3-b112-282b0b7128a2",
         "alias": [
             "平安时代的外星人"
         ],
@@ -7609,9 +6739,7 @@
             "terebi",
             "yoimutu"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th12_16.txt": {
         "file": [
@@ -7634,18 +6762,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "e032e109-6df5-386f-9eed-359e3c34316e"
-        ],
+        "MBID": "e032e109-6df5-386f-9eed-359e3c34316e",
         "alias": [
             "妖怪寺"
         ],
         "copyright": [
             "TheDUBSpeedArts"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th12_17.txt": {
         "file": [
@@ -7668,18 +6792,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "08da2064-5308-3f7a-a33f-1e9a07f8526b"
-        ],
+        "MBID": "08da2064-5308-3f7a-a33f-1e9a07f8526b",
         "alias": [
             "空中的归路　～ Sky Dream"
         ],
         "copyright": [
             "terebi"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th13_01.txt": {
         "file": [
@@ -7702,18 +6822,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "483a55d0-b379-4068-a8cf-7863fb543351"
-        ],
+        "MBID": "483a55d0-b379-4068-a8cf-7863fb543351",
         "alias": [
             "欲望深重的灵魂"
         ],
         "copyright": [
             "unknown"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th13_02.txt": {
         "file": [
@@ -7736,18 +6852,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "04e6f332-3e1f-4ae3-8752-bc4798e147e9"
-        ],
+        "MBID": "04e6f332-3e1f-4ae3-8752-bc4798e147e9",
         "alias": [
             "死灵的夜樱"
         ],
         "copyright": [
             "unknown"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th13_03.txt": {
         "file": [
@@ -7770,9 +6882,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "c1b1fa18-ecb6-4636-81d1-8e3b45d4636a"
-        ],
+        "MBID": "c1b1fa18-ecb6-4636-81d1-8e3b45d4636a",
         "alias": [
             "Ghost Lead"
         ],
@@ -7781,9 +6891,7 @@
             "Amiya - GS",
             "unknown"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th13_04.txt": {
         "file": [
@@ -7806,18 +6914,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "a4eb5d42-1865-4895-8652-e3f25f224838"
-        ],
+        "MBID": "a4eb5d42-1865-4895-8652-e3f25f224838",
         "alias": [
             "欢迎来到妖怪寺"
         ],
         "copyright": [
             "LeastLPZ"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th13_05.txt": {
         "file": [
@@ -7840,18 +6944,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "744e70f5-75b7-4977-8c44-2e3c9e737fd5"
-        ],
+        "MBID": "744e70f5-75b7-4977-8c44-2e3c9e737fd5",
         "alias": [
             "寺门前的妖怪小姑娘"
         ],
         "copyright": [
             "unknown"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th13_06.txt": {
         "file": [
@@ -7874,9 +6974,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "23877c0f-4b9b-4c5a-a82b-5890647f104c"
-        ],
+        "MBID": "23877c0f-4b9b-4c5a-a82b-5890647f104c",
         "alias": [
             "在美妙的墓地里住下吧"
         ],
@@ -7884,9 +6982,7 @@
             "unknown 2",
             "unknown"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th13_07.txt": {
         "file": [
@@ -7909,18 +7005,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "dcb0a52c-dece-4854-9cc1-b079eb3e4df9"
-        ],
+        "MBID": "dcb0a52c-dece-4854-9cc1-b079eb3e4df9",
         "alias": [
             "Rigid Paradise"
         ],
         "copyright": [
             "unknown"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th13_08.txt": {
         "file": [
@@ -7943,9 +7035,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "b57bae7e-71a1-4ae6-9789-f97d43102e25"
-        ],
+        "MBID": "b57bae7e-71a1-4ae6-9789-f97d43102e25",
         "alias": [
             "Desire Drive"
         ],
@@ -7957,9 +7047,7 @@
             "pieordie1",
             "TouhouMIDICreator"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th13_09.txt": {
         "file": [
@@ -7982,9 +7070,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "97e4748a-ee3a-41bc-8a23-849c879c43aa"
-        ],
+        "MBID": "97e4748a-ee3a-41bc-8a23-849c879c43aa",
         "alias": [
             "古老的元神"
         ],
@@ -7994,9 +7080,7 @@
             "yuki but edited by someone",
             "yuki"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th13_10.txt": {
         "file": [
@@ -8019,9 +7103,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "91b0b82f-45ed-4dc6-949b-99b74adbb45e"
-        ],
+        "MBID": "91b0b82f-45ed-4dc6-949b-99b74adbb45e",
         "alias": [
             "梦殿大祀庙"
         ],
@@ -8030,9 +7112,7 @@
             "unknown",
             "yuki"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th13_11.txt": {
         "file": [
@@ -8055,9 +7135,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "fbf6da57-a783-447f-9a6a-79fa49bc3c9e"
-        ],
+        "MBID": "fbf6da57-a783-447f-9a6a-79fa49bc3c9e",
         "alias": [
             "大神神话传"
         ],
@@ -8067,9 +7145,7 @@
             "icebhm23230 - XG",
             "icebhm23230 but edited by someone"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th13_12.txt": {
         "file": [
@@ -8092,18 +7168,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "1dd85de9-db4c-4133-a448-ac6f43fc8ece"
-        ],
+        "MBID": "1dd85de9-db4c-4133-a448-ac6f43fc8ece",
         "alias": [
             "小小欲望的星空"
         ],
         "copyright": [
             "icebhm23230"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th13_13.txt": {
         "file": [
@@ -8126,9 +7198,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "9248deb4-3fdc-4c73-a1d0-d9928caf688a"
-        ],
+        "MBID": "9248deb4-3fdc-4c73-a1d0-d9928caf688a",
         "alias": [
             "圣德传说　～ True Administrator"
         ],
@@ -8136,9 +7206,7 @@
             "gondayu",
             "unknown"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th13_14.txt": {
         "file": [
@@ -8161,18 +7229,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "2e733a51-cb96-4777-a156-398ea64d5c12"
-        ],
+        "MBID": "2e733a51-cb96-4777-a156-398ea64d5c12",
         "alias": [
             "后院的妖怪参拜道"
         ],
         "copyright": [
             "LeastLPZ"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th13_15.txt": {
         "file": [
@@ -8195,9 +7259,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "a4c42996-55c2-4655-a41b-36aa97d0adf4"
-        ],
+        "MBID": "a4c42996-55c2-4655-a41b-36aa97d0adf4",
         "alias": [
             "佐渡的二岩"
         ],
@@ -8206,9 +7268,7 @@
             "Shirai Yuki",
             "unknown"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th14_01.txt": {
         "file": [
@@ -8231,9 +7291,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "4e6af92e-dfc0-494b-af63-1af46b7e4ac5"
-        ],
+        "MBID": "4e6af92e-dfc0-494b-af63-1af46b7e4ac5",
         "alias": [
             "不可思议的驱魔棒"
         ],
@@ -8243,9 +7301,7 @@
             "nitayahisa",
             "unknown"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th14_02.txt": {
         "file": [
@@ -8268,18 +7324,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "b5c973ac-14e7-4e9f-bde1-bb5c0cde5490"
-        ],
+        "MBID": "b5c973ac-14e7-4e9f-bde1-bb5c0cde5490",
         "alias": [
             "Mist Lake"
         ],
         "copyright": [
             "unknown"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th14_03.txt": {
         "file": [
@@ -8302,18 +7354,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "57103c43-003b-4b6b-9411-c4ccc327c90e"
-        ],
+        "MBID": "57103c43-003b-4b6b-9411-c4ccc327c90e",
         "alias": [
             "秘境的人鱼"
         ],
         "copyright": [
             "leastLPZ"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th14_05.txt": {
         "file": [
@@ -8336,9 +7384,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "c6fe3ce6-e238-42ac-90a8-3351cf2f3a36"
-        ],
+        "MBID": "c6fe3ce6-e238-42ac-90a8-3351cf2f3a36",
         "alias": [
             "柳树下的杜拉罕"
         ],
@@ -8346,9 +7392,7 @@
             "unknown 2",
             "unknown"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th14_06.txt": {
         "file": [
@@ -8371,9 +7415,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "4cf622fe-7f51-4933-bf8b-a6310b39dbc7"
-        ],
+        "MBID": "4cf622fe-7f51-4933-bf8b-a6310b39dbc7",
         "alias": [
             "满月的竹林"
         ],
@@ -8383,9 +7425,7 @@
             "unknown 2",
             "unknown"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th14_07.txt": {
         "file": [
@@ -8408,9 +7448,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "79b043a3-5626-4d77-9d04-de64fe9d50cb"
-        ],
+        "MBID": "79b043a3-5626-4d77-9d04-de64fe9d50cb",
         "alias": [
             "孤独的狼人"
         ],
@@ -8420,9 +7458,7 @@
             "LeastLPZ",
             "unknown"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th14_08.txt": {
         "file": [
@@ -8445,18 +7481,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "c8bed257-b55a-4dd4-aeb3-84fe38d45408"
-        ],
+        "MBID": "c8bed257-b55a-4dd4-aeb3-84fe38d45408",
         "alias": [
             "Magical Storm"
         ],
         "copyright": [
             "pieordie1"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th14_09.txt": {
         "file": [
@@ -8479,18 +7511,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "17d79100-4b6b-4a4f-82ef-c13bc0e72e24"
-        ],
+        "MBID": "17d79100-4b6b-4a4f-82ef-c13bc0e72e24",
         "alias": [
             "幻想净琉璃"
         ],
         "copyright": [
             "pieordie1"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th14_10.txt": {
         "file": [
@@ -8513,9 +7541,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "07056113-ac85-4dd3-9a45-0c3792366976"
-        ],
+        "MBID": "07056113-ac85-4dd3-9a45-0c3792366976",
         "alias": [
             "沉向空中的辉针城"
         ],
@@ -8525,9 +7551,7 @@
             "Infernis",
             "Wobuffet3"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th14_11.txt": {
         "file": [
@@ -8550,9 +7574,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "627e08fd-0b61-4410-9140-32b9b4b72aa6"
-        ],
+        "MBID": "627e08fd-0b61-4410-9140-32b9b4b72aa6",
         "alias": [
             "Reverse Ideology"
         ],
@@ -8561,9 +7583,7 @@
             "unknown 2",
             "unknown"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th14_12.txt": {
         "file": [
@@ -8586,9 +7606,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "46591277-72ab-4174-9d2d-6fa169ed6a57"
-        ],
+        "MBID": "46591277-72ab-4174-9d2d-6fa169ed6a57",
         "alias": [
             "针小棒大的天守阁"
         ],
@@ -8597,9 +7615,7 @@
             "KR.Palto47 - SD20 GM2Native",
             "unknown"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th14_13.txt": {
         "file": [
@@ -8622,9 +7638,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "d5447ac1-c303-471a-a4f1-90752726a0d5"
-        ],
+        "MBID": "d5447ac1-c303-471a-a4f1-90752726a0d5",
         "alias": [
             "辉光之针的小人族　～ Little Princess"
         ],
@@ -8636,9 +7650,7 @@
             "unknown 2",
             "unknown"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th14_14.txt": {
         "file": [
@@ -8661,9 +7673,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "da9f0c3a-2a73-4e77-aa93-739ed3c337ea"
-        ],
+        "MBID": "da9f0c3a-2a73-4e77-aa93-739ed3c337ea",
         "alias": [
             "魔力的雷云"
         ],
@@ -8672,9 +7682,7 @@
             "Kitaichi Rei",
             "pieordie1"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th14_15.txt": {
         "file": [
@@ -8697,9 +7705,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "7d3d603e-6579-4309-93cd-7f6cd05bb9b8"
-        ],
+        "MBID": "7d3d603e-6579-4309-93cd-7f6cd05bb9b8",
         "alias": [
             "原初的节拍　～ Pristine Beat"
         ],
@@ -8708,9 +7714,7 @@
             "Unknown",
             "Yunior 64"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th14_17.txt": {
         "file": [
@@ -8733,18 +7737,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "c423714d-fb91-4617-bd57-4246d3a6b60c"
-        ],
+        "MBID": "c423714d-fb91-4617-bd57-4246d3a6b60c",
         "alias": [
             "非常非常神奇的道具们"
         ],
         "copyright": [
             "Nitayahisa"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th15_01.txt": {
         "file": [
@@ -8767,18 +7767,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "15a09a43-2af8-4c14-86e6-774fa9a6de10"
-        ],
+        "MBID": "15a09a43-2af8-4c14-86e6-774fa9a6de10",
         "alias": [
             "宇宙巫女现身"
         ],
         "copyright": [
             "Karl Zuñiga"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th15_02.txt": {
         "file": [
@@ -8801,9 +7797,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "4914532b-dfc0-490b-b852-25a6fee003f7"
-        ],
+        "MBID": "4914532b-dfc0-490b-b852-25a6fee003f7",
         "alias": [
             "忘不了",
             "那曾依藉的绿意"
@@ -8811,9 +7805,7 @@
         "copyright": [
             "pieordie1"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th15_03.txt": {
         "file": [
@@ -8836,9 +7828,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "2a1d585c-d6cb-4d8a-8b07-be5b59ead8dc"
-        ],
+        "MBID": "2a1d585c-d6cb-4d8a-8b07-be5b59ead8dc",
         "alias": [
             "兔已着陆"
         ],
@@ -8846,9 +7836,7 @@
             "LeastLPZ",
             "thejunkjard"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th15_05.txt": {
         "file": [
@@ -8871,18 +7859,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "7983d0cc-6f5a-41d2-94e9-9d5cb5cb5d38"
-        ],
+        "MBID": "7983d0cc-6f5a-41d2-94e9-9d5cb5cb5d38",
         "alias": [
             "九月的南瓜"
         ],
         "copyright": [
             "ryoya1295"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th15_06.txt": {
         "file": [
@@ -8905,9 +7889,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "bc6d9f79-936c-4106-bace-d7b8c9c1358c"
-        ],
+        "MBID": "bc6d9f79-936c-4106-bace-d7b8c9c1358c",
         "alias": [
             "飞翔于宇宙的不可思议巫女"
         ],
@@ -8915,9 +7897,7 @@
             "Kitaichi Rei",
             "pieordie1"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th15_07.txt": {
         "file": [
@@ -8940,9 +7920,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "e55b0397-c00b-4c78-bdb9-2413b8e8d7b4"
-        ],
+        "MBID": "e55b0397-c00b-4c78-bdb9-2413b8e8d7b4",
         "alias": [
             "永远的春梦"
         ],
@@ -8952,9 +7930,7 @@
             "ryoya1295",
             "TouhouMIDICreator"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th15_08.txt": {
         "file": [
@@ -8977,9 +7953,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "0ac94c6e-386a-463c-aa18-52f3a8d9a4b9"
-        ],
+        "MBID": "0ac94c6e-386a-463c-aa18-52f3a8d9a4b9",
         "alias": [
             "冻结的永远之都"
         ],
@@ -8987,9 +7961,7 @@
             "pieordie1",
             "ryoya1295"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th15_09.txt": {
         "file": [
@@ -9012,18 +7984,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "98941e21-f93f-4275-b14b-e05359649283"
-        ],
+        "MBID": "98941e21-f93f-4275-b14b-e05359649283",
         "alias": [
             "逆转的命运之轮"
         ],
         "copyright": [
             "TouhouMIDICreator"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th15_10.txt": {
         "file": [
@@ -9046,9 +8014,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "2c2cd990-5efa-453d-883c-446c2fd79310"
-        ],
+        "MBID": "2c2cd990-5efa-453d-883c-446c2fd79310",
         "alias": [
             "遥遥38万公里的航程"
         ],
@@ -9058,9 +8024,7 @@
             "pieordie1",
             "ryoya1295"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th15_11.txt": {
         "file": [
@@ -9083,9 +8047,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "56087b41-d8ba-4167-a490-a17b353e8674"
-        ],
+        "MBID": "56087b41-d8ba-4167-a490-a17b353e8674",
         "alias": [
             "星条旗的小丑"
         ],
@@ -9093,9 +8055,7 @@
             "TouhouMIDICreator",
             "Unknown"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th15_12.txt": {
         "file": [
@@ -9118,9 +8078,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "fb27152c-a554-4324-a9bd-ecbeab6cad05"
-        ],
+        "MBID": "fb27152c-a554-4324-a9bd-ecbeab6cad05",
         "alias": [
             "故乡之星倒映之海"
         ],
@@ -9131,9 +8089,7 @@
             "KR.Palto47 - SD80-90 Native",
             "ryoya1295"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th15_13.txt": {
         "file": [
@@ -9156,9 +8112,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "dbd1de3d-c7cd-4a3b-b083-687da43438e3"
-        ],
+        "MBID": "dbd1de3d-c7cd-4a3b-b083-687da43438e3",
         "alias": [
             "Pure Furies　～ 心之所在"
         ],
@@ -9169,9 +8123,7 @@
             "TouhouMIDICreator",
             "Unknown"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th15_14.txt": {
         "file": [
@@ -9194,9 +8146,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "fb4c2cc5-4644-4f3a-a4b3-cbe3b71395cc"
-        ],
+        "MBID": "fb4c2cc5-4644-4f3a-a4b3-cbe3b71395cc",
         "alias": [
             "前所未见的噩梦世界"
         ],
@@ -9204,9 +8154,7 @@
             "Kitaichi Rei",
             "ryoya1295"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th15_15.txt": {
         "file": [
@@ -9229,9 +8177,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "3c0807bf-1779-4ab3-8143-2ea127fc5535"
-        ],
+        "MBID": "3c0807bf-1779-4ab3-8143-2ea127fc5535",
         "alias": [
             "Pandemonic Planet"
         ],
@@ -9244,9 +8190,7 @@
             "unknown 2",
             "unknown"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th15_16.txt": {
         "file": [
@@ -9269,18 +8213,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "dbecc7d4-ba5d-45d4-9187-ef2d437ebf73"
-        ],
+        "MBID": "dbecc7d4-ba5d-45d4-9187-ef2d437ebf73",
         "alias": [
             "从神社所见之月"
         ],
         "copyright": [
             "TheDUBSpeedArts"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th16_01.txt": {
         "file": [
@@ -9303,18 +8243,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "006412ea-297c-48e3-bdde-11b1c806382f"
-        ],
+        "MBID": "006412ea-297c-48e3-bdde-11b1c806382f",
         "alias": [
             "樱花舞落的天空"
         ],
         "copyright": [
             "Yaki"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th16_02.txt": {
         "file": [
@@ -9337,9 +8273,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "ecf7bc44-dffb-4434-a6e0-a16b206b3296"
-        ],
+        "MBID": "ecf7bc44-dffb-4434-a6e0-a16b206b3296",
         "alias": [
             "希望之星直升青霄"
         ],
@@ -9347,9 +8281,7 @@
             "Hisaraito",
             "ryoya1295"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th16_03.txt": {
         "file": [
@@ -9372,18 +8304,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "2712b4f3-b8f7-4a5e-9c16-080c3ebc0ea7"
-        ],
+        "MBID": "2712b4f3-b8f7-4a5e-9c16-080c3ebc0ea7",
         "alias": [
             "仲夏的妖精梦"
         ],
         "copyright": [
             "ryoya1295"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th16_04.txt": {
         "file": [
@@ -9406,18 +8334,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "a8092000-3112-450d-a480-139136b918c2"
-        ],
+        "MBID": "a8092000-3112-450d-a480-139136b918c2",
         "alias": [
             "妖怪山间无色风"
         ],
         "copyright": [
             "ryoya1295"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th16_05.txt": {
         "file": [
@@ -9440,9 +8364,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "70676c8b-f015-4f20-9329-77a467f2c6c6"
-        ],
+        "MBID": "70676c8b-f015-4f20-9329-77a467f2c6c6",
         "alias": [
             "深山的遭遇"
         ],
@@ -9450,9 +8372,7 @@
             "ryoya1295",
             "sou1"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th16_06.txt": {
         "file": [
@@ -9475,9 +8395,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "153fba9b-bae4-40ba-91f8-4dec26243afe"
-        ],
+        "MBID": "153fba9b-bae4-40ba-91f8-4dec26243afe",
         "alias": [
             "徜徉于樱色之海"
         ],
@@ -9485,9 +8403,7 @@
             "ryoya1295",
             "ShinkoNet"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th16_07.txt": {
         "file": [
@@ -9510,9 +8426,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "f9cf49c0-cca8-4555-8b8b-f37ca189e262"
-        ],
+        "MBID": "f9cf49c0-cca8-4555-8b8b-f37ca189e262",
         "alias": [
             "成对的神兽"
         ],
@@ -9524,9 +8438,7 @@
             "ShinkoNet",
             "TouhouMIDICreator"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th16_08.txt": {
         "file": [
@@ -9549,9 +8461,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "6b6998fd-5e68-4b21-bc71-4a388da4a8ac"
-        ],
+        "MBID": "6b6998fd-5e68-4b21-bc71-4a388da4a8ac",
         "alias": [
             "幻想的白色旅人"
         ],
@@ -9559,9 +8469,7 @@
             "Hisaraito",
             "ryoya1295"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th16_09.txt": {
         "file": [
@@ -9584,18 +8492,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "ffc38828-36e7-43b4-ae4f-0284e34faddf"
-        ],
+        "MBID": "ffc38828-36e7-43b4-ae4f-0284e34faddf",
         "alias": [
             "魔法的笠地藏"
         ],
         "copyright": [
             "ryoya1295"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th16_10.txt": {
         "file": [
@@ -9618,9 +8522,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "5ccd17ae-da3f-48da-a12a-d77a92352aee"
-        ],
+        "MBID": "5ccd17ae-da3f-48da-a12a-d77a92352aee",
         "alias": [
             "禁忌之门对侧",
             "是此世还是彼世"
@@ -9628,9 +8530,7 @@
         "copyright": [
             "ryoya1295"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th16_11.txt": {
         "file": [
@@ -9653,9 +8553,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "5a6354ee-f395-4545-b274-62a74c6dd0f4"
-        ],
+        "MBID": "5a6354ee-f395-4545-b274-62a74c6dd0f4",
         "alias": [
             "Crazy Back Dancers"
         ],
@@ -9663,9 +8561,7 @@
             "ryoya1295",
             "TouhouMIDICreator"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th16_12.txt": {
         "file": [
@@ -9688,9 +8584,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "92a00ef2-dbf7-4e6d-991d-9419558c0fc7"
-        ],
+        "MBID": "92a00ef2-dbf7-4e6d-991d-9419558c0fc7",
         "alias": [
             "Into Backdoor"
         ],
@@ -9698,9 +8592,7 @@
             "Karamitasu",
             "ryoya1295"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th16_13.txt": {
         "file": [
@@ -9723,9 +8615,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "e299d0cf-c1be-4a85-b77a-5c51c62fc217"
-        ],
+        "MBID": "e299d0cf-c1be-4a85-b77a-5c51c62fc217",
         "alias": [
             "被秘匿的四个季节"
         ],
@@ -9733,9 +8623,7 @@
             "ryoya1295",
             "ShinkoNet"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th16_14.txt": {
         "file": [
@@ -9758,9 +8646,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "2887df87-4ae8-4e77-9c79-6e66caee38bd"
-        ],
+        "MBID": "2887df87-4ae8-4e77-9c79-6e66caee38bd",
         "alias": [
             "门再也进不去了"
         ],
@@ -9768,9 +8654,7 @@
             "Karamitasu",
             "ryoya1295"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th16_15.txt": {
         "file": [
@@ -9793,9 +8677,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "4ee5dbd2-5a39-46b1-af2c-d0fca2bc48ed"
-        ],
+        "MBID": "4ee5dbd2-5a39-46b1-af2c-d0fca2bc48ed",
         "alias": [
             "秘神摩多罗　～ Hidden Star in All Seasons."
         ],
@@ -9805,9 +8687,7 @@
             "ryoya1295",
             "TouhouMIDICreator"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th17_02.txt": {
         "file": [
@@ -9830,18 +8710,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "05291a41-1bf1-4bcd-af00-dff986f55c2e"
-        ],
+        "MBID": "05291a41-1bf1-4bcd-af00-dff986f55c2e",
         "alias": [
             "只有地藏知晓的哀叹"
         ],
         "copyright": [
             "ryoya1295"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th17_03.txt": {
         "file": [
@@ -9864,9 +8740,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "d4830628-6dd0-4433-82b6-c73c725ea789"
-        ],
+        "MBID": "d4830628-6dd0-4433-82b6-c73c725ea789",
         "alias": [
             "Jelly Stone"
         ],
@@ -9874,9 +8748,7 @@
             "ryoya1295",
             "Touhocaloid - piano only"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th17_04.txt": {
         "file": [
@@ -9899,9 +8771,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "b9a7cf2a-75c9-4f8d-814d-2ea78991fb4d"
-        ],
+        "MBID": "b9a7cf2a-75c9-4f8d-814d-2ea78991fb4d",
         "alias": [
             "Lost River"
         ],
@@ -9909,9 +8779,7 @@
             "ryoya1295",
             "ShinkoNet"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th17_05.txt": {
         "file": [
@@ -9934,9 +8802,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "1272e584-d9d7-4905-b53c-8584dd577b09"
-        ],
+        "MBID": "1272e584-d9d7-4905-b53c-8584dd577b09",
         "alias": [
             "石之婴儿与水中牛"
         ],
@@ -9945,9 +8811,7 @@
             "ryoya1295",
             "ShinkoNet"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th17_06.txt": {
         "file": [
@@ -9970,9 +8834,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "fdba8d04-a917-4799-aa1e-349cd04c704c"
-        ],
+        "MBID": "fdba8d04-a917-4799-aa1e-349cd04c704c",
         "alias": [
             "不朽的曼珠沙华"
         ],
@@ -9981,9 +8843,7 @@
             "ryoya1295",
             "ShinkoNet"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th17_07.txt": {
         "file": [
@@ -10006,9 +8866,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "edcc88e8-4f83-4a41-b4c0-51f8d1b6e1d6"
-        ],
+        "MBID": "edcc88e8-4f83-4a41-b4c0-51f8d1b6e1d6",
         "alias": [
             "Seraphic Chicken"
         ],
@@ -10016,9 +8874,7 @@
             "ryoya1295",
             "ShinkoNet"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th17_08.txt": {
         "file": [
@@ -10041,18 +8897,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "edd2a53e-e599-42dc-800e-c7caae8b88b7"
-        ],
+        "MBID": "edd2a53e-e599-42dc-800e-c7caae8b88b7",
         "alias": [
             "Tortoise Dragon　～ 幸运与不幸"
         ],
         "copyright": [
             "ryoya1295"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th17_10.txt": {
         "file": [
@@ -10075,18 +8927,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "ceb12564-eebc-4cc0-aa41-c8f47e5e4db1"
-        ],
+        "MBID": "ceb12564-eebc-4cc0-aa41-c8f47e5e4db1",
         "alias": [
             "Beast Metropolis"
         ],
         "copyright": [
             "ryoya1295"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th17_11.txt": {
         "file": [
@@ -10109,9 +8957,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "115eeb1d-84ec-4b95-b4ad-4ff267559540"
-        ],
+        "MBID": "115eeb1d-84ec-4b95-b4ad-4ff267559540",
         "alias": [
             "陶瓷的杖刀人"
         ],
@@ -10120,9 +8966,7 @@
             "hisaraito",
             "leastLPZ"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th17_12.txt": {
         "file": [
@@ -10145,9 +8989,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "72c07e4d-9d97-4ded-8914-4ce534c5de53"
-        ],
+        "MBID": "72c07e4d-9d97-4ded-8914-4ce534c5de53",
         "alias": [
             "Electric Heritage"
         ],
@@ -10156,9 +8998,7 @@
             "KR.Palto47 - SC88pro - GS",
             "KR.Palto47. SD20 - GM2Native"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th17_13.txt": {
         "file": [
@@ -10181,15 +9021,11 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "9754635c-d783-41cb-b870-104d8ec465c9"
-        ],
+        "MBID": "9754635c-d783-41cb-b870-104d8ec465c9",
         "alias": [
             "寄世界于偶像　～ Idoratrize World"
         ],
-        "status": [
-            "ok"
-        ],
+        "status": "ok",
         "transcriber": [
             "Francium-223"
         ]
@@ -10215,18 +9051,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "b2406451-8560-4289-848f-ef39dcc2566a"
-        ],
+        "MBID": "b2406451-8560-4289-848f-ef39dcc2566a",
         "alias": [
             "圣德太子的天马　～ Dark Pegasus"
         ],
         "copyright": [
             "ryoya1295"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th18_01.txt": {
         "file": [
@@ -10249,18 +9081,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "8e5cf625-ddfe-46a9-ac2b-fde10e77185d"
-        ],
+        "MBID": "8e5cf625-ddfe-46a9-ac2b-fde10e77185d",
         "alias": [
             "架起虹桥的幻想乡"
         ],
         "copyright": [
             "Karl Zuñiga"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th18_02.txt": {
         "file": [
@@ -10283,18 +9111,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "e09ae124-648f-4139-8904-06f911f18433"
-        ],
+        "MBID": "e09ae124-648f-4139-8904-06f911f18433",
         "alias": [
             "妖异们的骤雨"
         ],
         "copyright": [
             "Karl Zuñiga"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th18_03.txt": {
         "file": [
@@ -10317,9 +9141,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "8cb2ae05-f4c1-4b13-a5a7-6d922eb98dcb"
-        ],
+        "MBID": "8cb2ae05-f4c1-4b13-a5a7-6d922eb98dcb",
         "alias": [
             "大吉猫咪"
         ],
@@ -10328,9 +9150,7 @@
             "Karl Zuñiga",
             "TouhouMIDICreator"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th18_04.txt": {
         "file": [
@@ -10353,18 +9173,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "025ee291-74da-4e99-a539-3ccb2bcbc7c3"
-        ],
+        "MBID": "025ee291-74da-4e99-a539-3ccb2bcbc7c3",
         "alias": [
             "深绿掩映的断崖"
         ],
         "copyright": [
             "Karl Zuñiga"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th18_05.txt": {
         "file": [
@@ -10387,18 +9203,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "974d83dd-ff41-40ae-9974-bb685f673227"
-        ],
+        "MBID": "974d83dd-ff41-40ae-9974-bb685f673227",
         "alias": [
             "Banditry Technology"
         ],
         "copyright": [
             "Karl Zuñiga"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th18_06.txt": {
         "file": [
@@ -10421,18 +9233,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "ab7ff14b-3f06-4ab4-8946-cb00ec894370"
-        ],
+        "MBID": "ab7ff14b-3f06-4ab4-8946-cb00ec894370",
         "alias": [
             "驹草盛开的万年积雪"
         ],
         "copyright": [
             "Karl Zuñiga"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th18_07.txt": {
         "file": [
@@ -10455,9 +9263,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "ece21377-3938-42c3-bbdd-4f3209eeab0f"
-        ],
+        "MBID": "ece21377-3938-42c3-bbdd-4f3209eeab0f",
         "alias": [
             "Smoking Dragon"
         ],
@@ -10467,9 +9273,7 @@
             "GM2Native",
             "TouhouMIDICreator"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th18_08.txt": {
         "file": [
@@ -10492,18 +9296,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "ffe8a760-54a2-4bf0-bf3c-9fb78d47e26f"
-        ],
+        "MBID": "ffe8a760-54a2-4bf0-bf3c-9fb78d47e26f",
         "alias": [
             "日渐荒废的工业遗址"
         ],
         "copyright": [
             "Karl Zuñiga"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th18_09.txt": {
         "file": [
@@ -10526,18 +9326,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "4b62fc1b-0e93-43e2-aa2b-34f6b24bfe6d"
-        ],
+        "MBID": "4b62fc1b-0e93-43e2-aa2b-34f6b24bfe6d",
         "alias": [
             "神代矿石"
         ],
         "copyright": [
             "Karl Zuñiga"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th18_10.txt": {
         "file": [
@@ -10560,18 +9356,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "d801e0a3-e188-48a7-ad93-16644a536479"
-        ],
+        "MBID": "d801e0a3-e188-48a7-ad93-16644a536479",
         "alias": [
             "渴盼已久的逢魔之刻"
         ],
         "copyright": [
             "Karl Zuñiga"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th18_11.txt": {
         "file": [
@@ -10594,18 +9386,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "1608bfb8-9c74-404c-8870-e4d1721b1e89"
-        ],
+        "MBID": "1608bfb8-9c74-404c-8870-e4d1721b1e89",
         "alias": [
             "天魔之山漫天星"
         ],
         "copyright": [
             "Karl Zuñiga"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th18_12.txt": {
         "file": [
@@ -10628,9 +9416,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "2e0aa77d-889c-49b8-a068-bb095c5ca99e"
-        ],
+        "MBID": "2e0aa77d-889c-49b8-a068-bb095c5ca99e",
         "alias": [
             "Lunar Rainbow"
         ],
@@ -10638,9 +9424,7 @@
             "Dekyo ongen",
             "Karl Zuñiga"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th18_13.txt": {
         "file": [
@@ -10663,9 +9447,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "08d3cf9b-8472-4cfd-88b6-650f2472f27c"
-        ],
+        "MBID": "08d3cf9b-8472-4cfd-88b6-650f2472f27c",
         "alias": [
             "熙攘市场今何在　～ Immemorial Marketeers"
         ],
@@ -10676,9 +9458,7 @@
             "KR.Palto47 - SD90",
             "KR.Palto47 - XG"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th18_14.txt": {
         "file": [
@@ -10701,18 +9481,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "6f84c001-3edd-42bb-9bb2-4baa865f5ba4"
-        ],
+        "MBID": "6f84c001-3edd-42bb-9bb2-4baa865f5ba4",
         "alias": [
             "幻想地下大轨道网"
         ],
         "copyright": [
             "Karl Zuñiga"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th18_15.txt": {
         "file": [
@@ -10735,9 +9511,7 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "d7e73b08-229a-4a9e-a482-e406bb86ec78"
-        ],
+        "MBID": "d7e73b08-229a-4a9e-a482-e406bb86ec78",
         "alias": [
             "灭杀龙王的公主"
         ],
@@ -10748,9 +9522,7 @@
             "Native",
             "TouhouMIDICreator"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th18_16.txt": {
         "file": [
@@ -10773,18 +9545,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "655927db-7546-46cb-a84a-637d9b7e4dbf"
-        ],
+        "MBID": "655927db-7546-46cb-a84a-637d9b7e4dbf",
         "alias": [
             "风暴过后的星期日"
         ],
         "copyright": [
             "Karl Zuñiga"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     },
     "th18_17.txt": {
         "file": [
@@ -10807,17 +9575,13 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
-        "MBID": [
-            "eda29a95-98dc-4236-9e1f-cc5476e9c4a8"
-        ],
+        "MBID": "eda29a95-98dc-4236-9e1f-cc5476e9c4a8",
         "alias": [
             "虹色的世界"
         ],
         "copyright": [
             "Karl Zuñiga"
         ],
-        "status": [
-            "draft"
-        ]
+        "status": "midi"
     }
 }

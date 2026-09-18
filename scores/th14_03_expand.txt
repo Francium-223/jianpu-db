@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th14
 MBID=57103c43-003b-4b6b-9411-c4ccc327c90e
 alias=秘境的人鱼
 copyright=leastLPZ
-status=draft
+status=midi
 %---
 %------th14_03.txt_leastLPZ.buf------
 OctavesBefore

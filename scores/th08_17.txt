@@ -5,7 +5,7 @@ usertag=th08
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th08
 MBID=c0bddb1d-39a0-3a42-9183-e9f81fd84629
 alias=Extend Ash　～ 蓬莱人
-status=draft
+status=midi
 %---
 1
 %END

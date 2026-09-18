@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th07
 MBID=9ee2c748-f3bb-358a-8f45-dfe1d2f1140a
 alias=布加勒斯特的人偶师
 copyright=sweetmusic,TouhouMIDICreator,ZUN
-status=draft
+status=midi
 %---
 %------th07_06.txt_sweetmusic.buf------
 OctavesBefore

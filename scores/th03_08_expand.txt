@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th03
 MBID=43591fbe-9922-4652-bc6b-c2481f418f93
 alias=梦消失 ～ Lost Dream
 copyright=ALiCE,Blargzargo,gondayu,Piano Only,rongns_2,sweetmusic,TouhouMIDICreator,Unknown 2,Unknown,ZUN
-status=draft
+status=midi
 %---
 %------th03_08.txt_ALiCE.buf------
 instrument=untitled

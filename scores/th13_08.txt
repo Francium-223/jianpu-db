@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th13
 MBID=b57bae7e-71a1-4ae6-9789-f97d43102e25
 alias=Desire Drive
 copyright=hisaraito,KR.Palto47 - GM2,KR.Palto47 - GS,KR.Palto47 - SD90,pieordie1,TouhouMIDICreator
-status=draft
+status=midi
 %---
 %------th13_08.txt_hisaraito.buf------
 OctavesBefore

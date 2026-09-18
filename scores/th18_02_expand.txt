@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th18
 MBID=e09ae124-648f-4139-8904-06f911f18433
 alias=妖异们的骤雨
 copyright=Karl Zuñiga
-status=draft
+status=midi
 %---
 %------th18_02.txt_Karl Zuñiga.buf------
 instrument=Dam Hard

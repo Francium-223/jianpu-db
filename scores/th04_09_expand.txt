@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th04
 MBID=cd9febfb-dd0a-3b75-a77a-3b6982033965
 alias=Alice Maestra
 copyright=Blargzargo,TouhouMIDICreator,yoshimo,ZUN - SC-88pro
-status=draft
+status=midi
 %---
 %------th04_09.txt_Blargzargo.buf------
 instrument=A

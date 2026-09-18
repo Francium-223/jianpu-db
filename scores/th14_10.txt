@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th14
 MBID=07056113-ac85-4dd3-9a45-0c3792366976
 alias=沉向空中的辉针城
 copyright=gondayu,HertzDevil,Infernis,Wobuffet3
-status=draft
+status=midi
 %---
 %------th14_10.txt_gondayu.buf------
 instrument=System Setup

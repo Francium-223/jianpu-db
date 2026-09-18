@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th10
 MBID=41f30577-da8b-34f4-87f8-bf3527d067bf
 alias=明日之盛,昨日之俗
 copyright=ryoya1295,sweetmusic
-status=draft
+status=midi
 %---
 %------th10_14.txt_ryoya1295.buf------
 OctavesBefore

@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th18
 MBID=2e0aa77d-889c-49b8-a068-bb095c5ca99e
 alias=Lunar Rainbow
 copyright=Dekyo ongen,Karl Zuñiga
-status=draft
+status=midi
 %---
 %------th18_12.txt_Dekyo ongen.buf------
 OctavesBefore

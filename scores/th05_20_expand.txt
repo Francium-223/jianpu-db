@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th05
 MBID=f32290f5-389d-4a60-aa5a-8e50d5419791
 alias=永远的乐园
 copyright=Susumu Takajima
-status=draft
+status=midi
 %---
 %------th05_20.txt_Susumu Takajima.buf------
 instrument=ShortSynth.4.SQWave

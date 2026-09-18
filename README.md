@@ -37,6 +37,15 @@
 
 （转写完成后，请将对应位置的方块换成前面的emoji。）
 
+曲谱文件里的 `status=` 分三级：
+
+- `ok` —— 人工校对过，可信
+- `midi` —— 由 MIDI 硬转过来的（自动）
+- `ocr` —— 由图片机器转写（OCR）来的，未校对
+
+`data.jsonl` 只收 `ok`（白名单，不是"排除 midi"，以后再加等级也不会漏进去）；
+`data.json` 收录全部，方便逐首校对后把 `status` 升成 `ok`。
+
 ### 东方原曲：
 
 ☯️东方灵异传：<abbr title="th01_01.txt">[☯️](scores/th01_01.txt)</abbr><abbr title="th01_02.txt">[☯️](scores/th01_02.txt)</abbr><abbr title="th01_03.txt">[☯️](scores/th01_03.txt)</abbr><abbr title="th01_04.txt">[☯️](scores/th01_04.txt)</abbr><abbr title="th01_05.txt">[☯️](scores/th01_05.txt)</abbr><abbr title="th01_06.txt">[☯️](scores/th01_06.txt)</abbr><abbr title="th01_07.txt">[☯️](scores/th01_07.txt)</abbr><abbr title="th01_08.txt">[☯️](scores/th01_08.txt)</abbr><abbr title="th01_09.txt">[☯️](scores/th01_09.txt)</abbr><abbr title="th01_10.txt">[☯️](scores/th01_10.txt)</abbr><abbr title="th01_11.txt">[☯️](scores/th01_11.txt)</abbr><abbr title="th01_12.txt">[☯️](scores/th01_12.txt)</abbr><abbr title="th01_13.txt">[☯️](scores/th01_13.txt)</abbr><abbr title="th01_14.txt">[☯️](scores/th01_14.txt)</abbr><abbr title="th01_15.txt">[☯️](scores/th01_15.txt)</abbr>

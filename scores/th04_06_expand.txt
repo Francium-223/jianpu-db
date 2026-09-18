@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th04
 MBID=37a77268-c1ce-3f39-b931-2da509c2b6c2
 alias=红响曲 ～ Scarlet Phoneme
 copyright=Blargzargo,Wobuffet3
-status=draft
+status=midi
 %---
 %------th04_06.txt_Blargzargo.buf------
 instrument=A

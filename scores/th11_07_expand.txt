@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th11
 MBID=833c365b-80eb-3b3c-965c-e508b4eafe88
 alias=大江山的花之酒宴
 copyright=hailstone,yoimutu
-status=draft
+status=midi
 %---
 %------th11_07.txt_hailstone.buf------
 instrument=---- System Setup --------------------------------------------------

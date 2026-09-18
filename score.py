@@ -209,18 +209,6 @@ class Score():
 					break
 		for i in self.origtag:
 			self.where_imply(i, [])
-		maybe_homonym = {}
-		for i in range(len(self.tag_route)):
-			for j in range(i + 1, len(self.tag_route)):
-				a = self.tag_route[i]
-				b = self.tag_route[j]
-				if a.split('/')[-1] == b.split('/')[-1]:
-					if not a.split('/')[-1] in maybe_homonym.keys():
-						maybe_homonym = {a.split('/')[-1] : [a, b]}
-					else:
-						maybe_homonym[a.split('/')[-1]].append(b)
-		for k, v in maybe_homonym.items():
-			warnings.warn(f'Ambiguous term \'{k}\'. You mean \'{('\' or \'').join(set(v))}\'?')
 	def find_nottag(self, n):
 		for i in equal[0]:
 			for j in i:
@@ -260,17 +248,21 @@ class Score():
 		if '/' in n:
 			o = n.split('/')
 			n = o[0]
-		for k, v in goto_node(p).items():
-			if k == n and set(self.orignottag) & set(p):
-				self.nottag = safe_add(self.nottag, p)
-			self.where_not_imply(n, p + [k])
+		# 原先这里是**两个独立的循环**, 各自把每个子节点递归一遍:
+		#   A: where_not_imply(n, p+[k])            —— 用原标签名继续找
+		#   B: where_not_imply(o[1:] or n, p+[k])   —— 路径形态时消耗掉一段
+		# 单段标签时(A 和 B 的递归参数完全相同)整棵树被白走两遍(2^深度)。
+		# 合并成一个循环; 只有在 n 是路径时(= o 非空)两条递归才确实不同, 都保留。
 		for k, v in goto_node(p).items():
 			if k == n:
+				if set(self.orignottag) & set(p):
+					self.nottag = safe_add(self.nottag, p)
 				for l in self.orignottag:
 					if ('/').join(p + [k]).endswith(l):
 						self.nottag_route = maybe_add(self.nottag_route, ('/').join(p + [k]))
 			if o:
 				self.where_not_imply(('/').join(o[1:]), p + [k])
+				self.where_not_imply(n, p + [k])
 			else:
 				self.where_not_imply(n, p + [k])
 	def prioritize_title_and_tag(self):
@@ -289,6 +281,49 @@ class Score():
 			self.usertag = safe_add(self.usertag, [j.strip(' ')])
 			self.origtag = safe_add(self.origtag, [j.strip(' ')])
 			self.find_tag(j.strip(' '))
+	def to_record(self):
+		"""扁平记录: 一行一首, 给 data.jsonl 用(便于 datasets.load_dataset 直接读)。
+
+		与 data.json 是同一批数据的两种摆法 —— 由 parse_scores.py 一次跑出来, 不需要另开脚本。
+		字段形态与 data.json 一致: 除 title 是字符串外, 其余都是列表。
+		"""
+		sections, cur, cur_sub = [], [], ''
+		for line in self.raw_expanded.splitlines():
+			s = line.strip()
+			if s.lower().startswith('nextscore'):
+				if cur:
+					sections.append({'subtitle': cur_sub, 'score': ' '.join(cur)})
+				cur, cur_sub = [], ''
+				continue
+			if s.replace(' ', '').lower().startswith('%end'):
+				break
+			if s.lower().startswith('subtitle='):
+				cur_sub = s.split('=', 1)[1].strip()
+				continue
+			# 拍号行(如 4/4)不是音符 —— 不排除的话 "4/4" 会被当成音符混进 score
+			if re.match(r'^\d+\s*/\s*\d+$', s):
+				continue
+			if s.startswith('%') or not s:
+				continue
+			cur += [t for t in s.split()
+					if re.match(r"^[,']*[qsdh]*[,']*[1-7x0]", t) or t in ('-', '|', '~')]
+		if cur:
+			sections.append({'subtitle': cur_sub, 'score': ' '.join(cur)})
+		full = ' | '.join(x['score'] for x in sections if x['score'])
+		n_notes = len([t for t in full.split() if re.match(r"^[,']*[qsdh]*[,']*[1-7x0]", t)])
+		# 各字段的形态由 schema 决定(字符串或列表) -> 原样传出去, 不在这里强转
+		return {
+			'file': [self.score.split('/')[-1]],
+			'status': self.others.get('status', ''),
+			'title': self.title,                      # ← 单值字符串(schema 里由 return_itself 产出)
+			# 字段名统一用**单数**, 与 data.json 完全一致(tag/usertag, 不是 tags/usertags)
+			'tag': self.others.get('tag', []),
+			'usertag': self.others.get('usertag', []),
+			'transcriber': self.others.get('transcriber', []),
+			'sections': sections,
+			'score': full,
+			'n_notes': n_notes,
+		}
 	def read(self):
 		try:
 			with open(self.score, 'r', encoding='utf-8') as f:
@@ -301,15 +336,21 @@ class Score():
 				if i.replace(' ', '').startswith('usertag='):
 					self.getusertag(i)
 					continue
-				if i.replace(' ', '').startswith('title='):
-					self.title = i[i.find('=') + 1:].strip(' ')
+				if i.replace(' ', '').lower().startswith('file='):
+					# file 由文件名派生(write_buf 里写进 JSON), 不是源字段 ——
+					# 曲谱文件里若残留这一行(历史误写)要忽略, 否则会被读回来又写回去。
 					continue
 				if '=' in i:
-					t = i[:i.find('=')].strip(' ')
-					if t in self.others.keys():
-						self.others[t] = safe_add(self.others[t], re.split(r'[,|，|、]', i[i.find('=') + 1:].strip(' ')))
+					k, raw = i.split('=', 1)
+					k = k.strip(' ')
+					# schema 里有这个字段的解析函数就用它, 没有就用 schema.default_parse(多值列表)。
+					# 解析函数返回什么类型, 这个字段就是什么类型(字符串或列表); 不合规会抛异常。
+					v = schema.schema.get(k, schema.default_parse)(raw.strip(' '))
+					if isinstance(v, list) and isinstance(self.others.get(k), list):
+						# 多值字段: 同一个字段可以写多行, 累加去重
+						self.others[k] = safe_add(self.others[k], v)
 					else:
-						self.others[t] = safe_add([], re.split(r'[,|，|、]', i[i.find('=') + 1:].strip(' ')))
+						self.others[k] = v
 					continue
 				if i == '%' + self.score.split('/')[-1]:
 					continue
@@ -317,6 +358,9 @@ class Score():
 					self.comments.append(i.rstrip('\n'))
 					continue
 				self.getusertag(i)
+			# title 现在也由 schema 解析进 others(字符串) -> 同步到 self.title(文件命名要用)
+			if isinstance(self.others.get('title'), str):
+				self.title = self.others['title']
 		except NotTitleError:
 			print(f'Error: no title!')
 			print(f'Try adding \'title=(your preferred title)\' to {self.score}.')
@@ -360,26 +404,18 @@ class Score():
 			print('%' + self.score.split('/')[-1], file=f)
 			for i in self.comments:
 				print(i.rstrip('\n'), file=f)
-			# 所有字段统一写: MBID / Wikidata 不再单独提前写, 跟 title/type 之外的一律走 others
+			# title 由 schema 解析成字符串、已进 others; 这里先写它(保持原来的字段位置),
+			# 循环里跳过它, 免得写两遍。值的形态由 schema 决定: 字符串(title/MBID)或列表(其余)。
 			print('title=' + self.title, file=f)
 			for i in self.others.keys():
-				# others 的值统一都是**多值字段**(列表) —— 含 title/type/file, 见下面赋值处。
-				# schema.schema[字段名] 是**校验单个值**的函数(如 check_mbid(a) 里 a 是字符串),
-				# 所以这里按元素逐个校验, 而不是把整个列表丢进去。
-				_v = self.others[i] if isinstance(self.others[i], list) else [self.others[i]]
-				chk = schema.schema.get(i)
-				if chk:
-					for _x in _v:
-						try:
-							if not chk(_x):
-								warnings.warn(f'Invalid {i} value: {_x!r} '
-											  f'(see {getattr(chk, "__name__", "?")} in schema.py)')
-						except Exception as _e:
-							warnings.warn(f'schema check for {i} failed: {_e!r}')
-				print(i + '=' + (',').join(str(x) for x in _v), file=f)
-			# type/file 存成列表, 与其它字段形态一致; **title 是例外**, 保持字符串
-			# (它是曲目的显示名/单值, 下游按字符串读)。
-			# type 字段已去掉(实测 309 份全是 work, 零信息量; 要用时再加回来)
+				if i == 'title':
+					continue
+				_v = self.others[i]
+				# 字符串字段直接写; 列表字段用逗号连接(与读入时的切分规则对称)
+				print(i + '=' + ((',').join(str(x) for x in _v)
+								 if isinstance(_v, list) else str(_v)), file=f)
+			# file 只给 JSON 用(prioritize_title_and_tag), **不写回曲谱文件** ——
+			# 否则每份曲谱会多出一行 file=xxx.txt(实测踩过)。
 			self.others['title'] = self.title
 			self.others['file'] = [self.score.split('/')[-1]]
 			d = False
@@ -437,7 +473,10 @@ class Score():
 					else:
 						filename = 'by_title/others/' + _t + '/' + self.score.split('/')[-1]
 				else:
-					for j in attrib[i]:
+					# 字段值可能是列表(多值), 也可能是字符串(schema 里定义为单值的, 如 MBID):
+					# 字符串直接 for 会逐字符拆开(by_M/mbid/…/0/…), 必须先包成列表。
+					_vals = attrib[i] if isinstance(attrib[i], list) else [attrib[i]]
+					for j in _vals:
 						filename = f'by_{i}/' + j + '/' + self.score.split('/')[-1]
 						filename = ('').join(filename.split('.')[:-1]) + '.' + filename.split('.')[-1]
 						filename = filename.replace('?', '')
