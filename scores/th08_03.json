@@ -1,5 +1,5 @@
 {
-    "c2353835-642a-3bdf-aa0e-9ae5c7b80aea": {
+    "th08_03.txt": {
         "file": "th08_03.txt",
         "type": "work",
         "title": "蠢々秋月　～ Mooned Insect",
@@ -19,12 +19,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "c2353835-642a-3bdf-aa0e-9ae5c7b80aea"
+        ],
         "alias": [
             "蠢蠢的秋月　～ Mooned Insect"
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "c2353835-642a-3bdf-aa0e-9ae5c7b80aea"
+        ]
     }
 }

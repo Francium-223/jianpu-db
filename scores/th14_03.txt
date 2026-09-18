@@ -1,14 +1,13 @@
 %th14_03.txt
-MBID=57103c43-003b-4b6b-9411-c4ccc327c90e
 title=秘境のマーメイド
 type=work
 tag=th14,东方辉针城,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th14
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th14
+MBID=57103c43-003b-4b6b-9411-c4ccc327c90e
 alias=秘境的人鱼
 copyright=leastLPZ
 status=draft
-mbid=57103c43-003b-4b6b-9411-c4ccc327c90e
 %---
 %------th14_03.txt_leastLPZ.buf------
 OctavesBefore

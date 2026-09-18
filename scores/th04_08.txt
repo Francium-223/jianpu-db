@@ -1,14 +1,13 @@
 %th04_08.txt
-MBID=86f214cf-2a73-3366-8164-92853dbcc681
 title=霊戦　～ Perdition crisis
 type=work
 tag=th04,东方幻想乡,东方,touhou,东方原曲,ZUN,东方旧作原曲,东方整数作原曲
 usertag=th04
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th04
+MBID=86f214cf-2a73-3366-8164-92853dbcc681
 alias=灵战　～ Perdition crisis
 copyright=Blargzargo,TheDUBSpeedArts,ZUN - SC-88pro
 status=draft
-mbid=86f214cf-2a73-3366-8164-92853dbcc681
 %---
 %------th04_08.txt_Blargzargo.buf------
 instrument=A

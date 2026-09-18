@@ -1,14 +1,13 @@
 %th09_11.txt
-MBID=989ebb6e-bdd0-3081-9561-d94ca1180528
 title=風神少女
 type=work
 tag=th09,东方花映塚,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th09
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th09
+MBID=989ebb6e-bdd0-3081-9561-d94ca1180528
 alias=风神少女
 copyright=Kanade_KND34,rongns_2
 status=draft
-mbid=989ebb6e-bdd0-3081-9561-d94ca1180528
 %---
 %------th09_11.txt_Kanade_KND34.buf------
 OctavesBefore

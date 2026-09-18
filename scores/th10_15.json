@@ -1,5 +1,5 @@
 {
-    "c01242b7-9764-359b-adf0-a56d1bcbf242": {
+    "th10_15.txt": {
         "file": "th10_15.txt",
         "type": "work",
         "title": "ネイティブフェイス",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "c01242b7-9764-359b-adf0-a56d1bcbf242"
+        ],
         "alias": [
             "Native Faith"
         ],
@@ -32,7 +35,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "c01242b7-9764-359b-adf0-a56d1bcbf242"
+        ]
     }
 }

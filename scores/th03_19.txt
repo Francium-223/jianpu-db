@@ -1,14 +1,13 @@
 %th03_19.txt
-MBID=1e3754a6-f58d-4adf-8c68-69138a7247a4
 title=霊人の休日
 type=work
 tag=th03,东方梦时空,东方,touhou,东方原曲,ZUN,东方旧作原曲,东方整数作原曲
 usertag=th03
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th03
+MBID=1e3754a6-f58d-4adf-8c68-69138a7247a4
 alias=灵人的休息日
 copyright=Blargzargo
 status=draft
-mbid=1e3754a6-f58d-4adf-8c68-69138a7247a4
 %---
 %------th03_19.txt_Blargzargo.buf------
 instrument=A

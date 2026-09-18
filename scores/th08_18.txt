@@ -1,14 +1,13 @@
 %th08_18.txt
-MBID=163346cf-4c62-3bb8-9720-b5aaa1c04862
 title=月まで届け、不死の煙
 type=work
 tag=th08,东方永夜抄,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th08
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th08
+MBID=163346cf-4c62-3bb8-9720-b5aaa1c04862
 alias=飘上月球,不死之烟
 copyright=Hisaraito - Ver. 1,Hisaraito - Ver. 2,Hisaraito - Ver. 3,Hisaraito,icebhm23230 - XG,icebhm23230,rongns_2,yoimutu,ZUN,LeastLPZ
 status=draft
-mbid=163346cf-4c62-3bb8-9720-b5aaa1c04862
 %---
 %------th08_18.txt_Hisaraito - Ver. 1.buf------
 OctavesBefore

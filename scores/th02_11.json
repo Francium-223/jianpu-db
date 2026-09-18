@@ -1,5 +1,5 @@
 {
-    "dda8c8d7-4950-3140-b063-7a9d13e76337": {
+    "th02_11.txt": {
         "file": "th02_11.txt",
         "type": "work",
         "title": "Complete Darkness",
@@ -19,12 +19,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "dda8c8d7-4950-3140-b063-7a9d13e76337"
+        ],
         "alias": [
             "Complete Darkness"
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "dda8c8d7-4950-3140-b063-7a9d13e76337"
+        ]
     }
 }

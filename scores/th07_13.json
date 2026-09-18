@@ -1,5 +1,5 @@
 {
-    "255e9094-da2f-3f1f-bc5b-9258a2a630d7": {
+    "th07_13.txt": {
         "file": "th07_13.txt",
         "type": "work",
         "title": "幽雅に咲かせ、墨染の桜　～ Border of Life",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "255e9094-da2f-3f1f-bc5b-9258a2a630d7"
+        ],
         "alias": [
             "幽雅地绽放吧",
             "墨染的樱花　～ Border of Life"
@@ -33,7 +36,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "255e9094-da2f-3f1f-bc5b-9258a2a630d7"
+        ]
     }
 }

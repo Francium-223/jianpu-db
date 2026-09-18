@@ -1,5 +1,5 @@
 {
-    "6dd64a70-74c4-314c-ae38-2f8b36d51e46": {
+    "th11_13.txt": {
         "file": "th11_13.txt",
         "type": "work",
         "title": "霊知の太陽信仰　～ Nuclear Fusion",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "6dd64a70-74c4-314c-ae38-2f8b36d51e46"
+        ],
         "alias": [
             "灵知的太阳信仰　～ Nuclear Fusion"
         ],
@@ -31,7 +34,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "6dd64a70-74c4-314c-ae38-2f8b36d51e46"
+        ]
     }
 }

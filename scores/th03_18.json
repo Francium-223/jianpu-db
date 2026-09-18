@@ -1,5 +1,5 @@
 {
-    "a227043d-2d19-3f0d-bfd1-0cf2226e20fa": {
+    "th03_18.txt": {
         "file": "th03_18.txt",
         "type": "work",
         "title": "Maple Dream...",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "a227043d-2d19-3f0d-bfd1-0cf2226e20fa"
+        ],
         "alias": [
             "Maple Dream..."
         ],
@@ -28,7 +31,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "a227043d-2d19-3f0d-bfd1-0cf2226e20fa"
+        ]
     }
 }

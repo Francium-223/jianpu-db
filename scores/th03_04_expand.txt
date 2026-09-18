@@ -1,14 +1,13 @@
 %th03_04.txt
-MBID=b3e895a4-900a-34d8-9a81-d1cb23316fd4
 title=Reincarnation
 type=work
 tag=th03,东方梦时空,东方,touhou,东方原曲,ZUN,东方旧作原曲,东方整数作原曲
 usertag=th03
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th03
+MBID=b3e895a4-900a-34d8-9a81-d1cb23316fd4
 alias=Reincarnation
 copyright=Blargzargo,hisaraito,TheDUBSpeedArts,Unknown
 status=draft
-mbid=b3e895a4-900a-34d8-9a81-d1cb23316fd4
 %---
 %------th03_04.txt_Blargzargo.buf------
 instrument=A

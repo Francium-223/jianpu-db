@@ -1,14 +1,13 @@
 %th15_13.txt
-MBID=dbd1de3d-c7cd-4a3b-b083-687da43438e3
 title=ピュアヒューリーズ　～ 心の在処
 type=work
 tag=th15,东方绀珠传,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th15
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th15
+MBID=dbd1de3d-c7cd-4a3b-b083-687da43438e3
 alias=Pure Furies　～ 心之所在
 copyright=Hisaraito,Kitaichi Rei,Loren chan,TouhouMIDICreator,Unknown
 status=draft
-mbid=dbd1de3d-c7cd-4a3b-b083-687da43438e3
 %---
 %------th15_13.txt_Hisaraito.buf------
 instrument=Untitled

@@ -1,14 +1,13 @@
 %th02_02.txt
-MBID=2b2e2df0-20ce-3c72-813c-9483f809bc37
 title=博麗　～Eastern Wind
 type=work
 tag=th02,东方封魔录,东方,touhou,东方原曲,ZUN,东方旧作原曲,东方整数作原曲
 usertag=th02
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th02
+MBID=2b2e2df0-20ce-3c72-813c-9483f809bc37
 alias=博丽　～Eastern Wind
 transcriber=Francium-223
 status=ok
-mbid=2b2e2df0-20ce-3c72-813c-9483f809bc37
 %---
 subtitle=intro
 KeepLength

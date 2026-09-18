@@ -1,5 +1,5 @@
 {
-    "fc51f565-56ca-4856-8b44-15e6869c8c23": {
+    "th02_03.txt": {
         "file": "th02_03.txt",
         "type": "work",
         "title": "She's in a temper!!",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "fc51f565-56ca-4856-8b44-15e6869c8c23"
+        ],
         "alias": [
             "She's in a temper!!"
         ],
@@ -27,7 +30,6 @@
         ],
         "status": [
             "ok"
-        ],
-        "mbid": "fc51f565-56ca-4856-8b44-15e6869c8c23"
+        ]
     }
 }

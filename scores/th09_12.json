@@ -1,5 +1,5 @@
 {
-    "fcd504a3-fa33-39a0-91c1-ffc60e8b336a": {
+    "th09_12.txt": {
         "file": "th09_12.txt",
         "type": "work",
         "title": "ポイズンボディ　～ Forsaken Doll",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "fcd504a3-fa33-39a0-91c1-ffc60e8b336a"
+        ],
         "alias": [
             "剧毒身体　～ Forsaken Doll"
         ],
@@ -28,7 +31,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "fcd504a3-fa33-39a0-91c1-ffc60e8b336a"
+        ]
     }
 }

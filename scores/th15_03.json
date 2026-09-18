@@ -1,5 +1,5 @@
 {
-    "2a1d585c-d6cb-4d8a-8b07-be5b59ead8dc": {
+    "th15_03.txt": {
         "file": "th15_03.txt",
         "type": "work",
         "title": "兎は舞い降りた",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "2a1d585c-d6cb-4d8a-8b07-be5b59ead8dc"
+        ],
         "alias": [
             "兔已着陆"
         ],
@@ -28,7 +31,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "2a1d585c-d6cb-4d8a-8b07-be5b59ead8dc"
+        ]
     }
 }

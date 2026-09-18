@@ -1,5 +1,5 @@
 {
-    "3b152cda-1bfe-348a-8453-30fdb825c4bb": {
+    "th04_27.txt": {
         "file": "th04_27.txt",
         "type": "work",
         "title": "Magic Shop of Raspberry",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "3b152cda-1bfe-348a-8453-30fdb825c4bb"
+        ],
         "alias": [
             "Magic Shop of Raspberry"
         ],
@@ -27,7 +30,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "3b152cda-1bfe-348a-8453-30fdb825c4bb"
+        ]
     }
 }

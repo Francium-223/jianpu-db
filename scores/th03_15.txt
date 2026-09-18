@@ -1,14 +1,13 @@
 %th03_15.txt
-MBID=9377d6d1-5243-4843-ba79-f4587e79bdcf
 title=久遠の夢
 type=work
 tag=th03,东方梦时空,东方,touhou,东方原曲,ZUN,东方旧作原曲,东方整数作原曲
 usertag=th03
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th03
+MBID=9377d6d1-5243-4843-ba79-f4587e79bdcf
 alias=久远之梦
 copyright=Blargzargo
 status=draft
-mbid=9377d6d1-5243-4843-ba79-f4587e79bdcf
 %---
 %------th03_15.txt_Blargzargo.buf------
 instrument=A

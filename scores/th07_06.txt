@@ -1,14 +1,13 @@
 %th07_06.txt
-MBID=9ee2c748-f3bb-358a-8f45-dfe1d2f1140a
 title=ブクレシュティの人形師
 type=work
 tag=th07,东方妖妖梦,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th07
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th07
+MBID=9ee2c748-f3bb-358a-8f45-dfe1d2f1140a
 alias=布加勒斯特的人偶师
 copyright=sweetmusic,TouhouMIDICreator,ZUN
 status=draft
-mbid=9ee2c748-f3bb-358a-8f45-dfe1d2f1140a
 %---
 %------th07_06.txt_sweetmusic.buf------
 OctavesBefore

@@ -1,5 +1,5 @@
 {
-    "dbd1de3d-c7cd-4a3b-b083-687da43438e3": {
+    "th15_13.txt": {
         "file": "th15_13.txt",
         "type": "work",
         "title": "ピュアヒューリーズ　～ 心の在処",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "dbd1de3d-c7cd-4a3b-b083-687da43438e3"
+        ],
         "alias": [
             "Pure Furies　～ 心之所在"
         ],
@@ -31,7 +34,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "dbd1de3d-c7cd-4a3b-b083-687da43438e3"
+        ]
     }
 }

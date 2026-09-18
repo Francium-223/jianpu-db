@@ -1,5 +1,5 @@
 {
-    "3e68abbe-ee41-3062-ac5a-d110f6a8acff": {
+    "th06_09.txt": {
         "file": "th06_09.txt",
         "type": "work",
         "title": "ラクトガール　～ 少女密室",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "3e68abbe-ee41-3062-ac5a-d110f6a8acff"
+        ],
         "alias": [
             "Locked Girl　～ 少女密室"
         ],
@@ -28,7 +31,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "3e68abbe-ee41-3062-ac5a-d110f6a8acff"
+        ]
     }
 }

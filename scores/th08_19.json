@@ -1,5 +1,5 @@
 {
-    "1248b0e2-bca1-3b10-894d-76bbcbedfbbd": {
+    "th08_19.txt": {
         "file": "th08_19.txt",
         "type": "work",
         "title": "月見草",
@@ -19,12 +19,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "1248b0e2-bca1-3b10-894d-76bbcbedfbbd"
+        ],
         "alias": [
             "月见草"
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "1248b0e2-bca1-3b10-894d-76bbcbedfbbd"
+        ]
     }
 }

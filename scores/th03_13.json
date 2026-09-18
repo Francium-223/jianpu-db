@@ -1,5 +1,5 @@
 {
-    "ee92ca51-f7e1-4b67-b1a7-cd9c97dfbd4c": {
+    "th03_13.txt": {
         "file": "th03_13.txt",
         "type": "work",
         "title": "非統一魔法世界論",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "ee92ca51-f7e1-4b67-b1a7-cd9c97dfbd4c"
+        ],
         "alias": [
             "非统一魔法世界论"
         ],
@@ -29,7 +32,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "ee92ca51-f7e1-4b67-b1a7-cd9c97dfbd4c"
+        ]
     }
 }

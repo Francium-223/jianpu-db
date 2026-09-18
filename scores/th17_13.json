@@ -1,5 +1,5 @@
 {
-    "9754635c-d783-41cb-b870-104d8ec465c9": {
+    "th17_13.txt": {
         "file": "th17_13.txt",
         "type": "work",
         "title": "偶像に世界を委ねて　～ Idoratrize World",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "9754635c-d783-41cb-b870-104d8ec465c9"
+        ],
         "alias": [
             "寄世界于偶像　～ Idoratrize World"
         ],
@@ -27,7 +30,6 @@
         ],
         "transcriber": [
             "Francium-223"
-        ],
-        "mbid": "9754635c-d783-41cb-b870-104d8ec465c9"
+        ]
     }
 }

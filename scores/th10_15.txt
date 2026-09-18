@@ -1,14 +1,13 @@
 %th10_15.txt
-MBID=c01242b7-9764-359b-adf0-a56d1bcbf242
 title=ネイティブフェイス
 type=work
 tag=th10,东方风神录,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th10
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th10
+MBID=c01242b7-9764-359b-adf0-a56d1bcbf242
 alias=Native Faith
 copyright=hisaraito - Ver. 2,rongns_2,ryoya1295,Samidare,Shirai Yuki - GM,Shirai Yuki - XG
 status=draft
-mbid=c01242b7-9764-359b-adf0-a56d1bcbf242
 %---
 %------th10_15.txt_hisaraito - Ver. 2.buf------
 OctavesBefore

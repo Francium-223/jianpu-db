@@ -1,14 +1,13 @@
 %th06_13.txt
-MBID=c9565d06-b108-3d06-abcc-4275f3ca648f
 title=亡き王女の為のセプテット
 type=work
 tag=th06,东方红魔乡,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th06
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th06
+MBID=c9565d06-b108-3d06-abcc-4275f3ca648f
 alias=献给已逝公主的七重奏
 copyright=Baka94,Ezequiel-TM,rongns_2,ryoya1295,sweetmusic,unknown,yoimutu,ZUN
 status=draft
-mbid=c9565d06-b108-3d06-abcc-4275f3ca648f
 %---
 %------th06_13.txt_Baka94.buf------
 instrument=MIDI out

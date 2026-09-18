@@ -1,14 +1,13 @@
 %th06_15.txt
-MBID=8e59a59c-c4fa-30fa-8a79-33f442da74cf
 title=U.N.オーエンは彼女なのか？
 type=work
 tag=th06,东方红魔乡,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th06
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th06
+MBID=8e59a59c-c4fa-30fa-8a79-33f442da74cf
 alias=U.N.OWEN就是她吗？
 copyright=Bessem,icebhm23230,lu9,Piano Only,SonicMaster,sweetmusic,tutogamer2a,yoimutu,ZUN
 status=draft
-mbid=8e59a59c-c4fa-30fa-8a79-33f442da74cf
 %---
 %------th06_15.txt_Bessem.buf------
 instrument=Piste 1

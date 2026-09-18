@@ -1,5 +1,5 @@
 {
-    "376e68c5-bf56-3f4f-81a9-35ca04a46243": {
+    "th05_10.txt": {
         "file": "th05_10.txt",
         "type": "work",
         "title": "真紅の少女　～ Crimson Dead!!",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "376e68c5-bf56-3f4f-81a9-35ca04a46243"
+        ],
         "alias": [
             "绯红的少女　～ Crimson Dead!!"
         ],
@@ -27,7 +30,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "376e68c5-bf56-3f4f-81a9-35ca04a46243"
+        ]
     }
 }

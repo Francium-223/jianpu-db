@@ -1,5 +1,5 @@
 {
-    "f826d791-249e-408c-84d7-0540db63ca4d": {
+    "th04_24.txt": {
         "file": "th04_24.txt",
         "type": "work",
         "title": "Dreamy pilot",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "f826d791-249e-408c-84d7-0540db63ca4d"
+        ],
         "alias": [
             "Dreamy pilot"
         ],
@@ -27,7 +30,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "f826d791-249e-408c-84d7-0540db63ca4d"
+        ]
     }
 }

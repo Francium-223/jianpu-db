@@ -1,5 +1,5 @@
 {
-    "cd9febfb-dd0a-3b75-a77a-3b6982033965": {
+    "th04_09.txt": {
         "file": "th04_09.txt",
         "type": "work",
         "title": "アリスマエステラ",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "cd9febfb-dd0a-3b75-a77a-3b6982033965"
+        ],
         "alias": [
             "Alice Maestra"
         ],
@@ -30,7 +33,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "cd9febfb-dd0a-3b75-a77a-3b6982033965"
+        ]
     }
 }

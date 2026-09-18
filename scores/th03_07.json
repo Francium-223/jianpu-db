@@ -1,5 +1,5 @@
 {
-    "abd1b5f7-e19e-482d-bc61-4abd70cdff2f": {
+    "th03_07.txt": {
         "file": "th03_07.txt",
         "type": "work",
         "title": "Maniacal Princess",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "abd1b5f7-e19e-482d-bc61-4abd70cdff2f"
+        ],
         "alias": [
             "Maniacal Princess"
         ],
@@ -27,7 +30,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "abd1b5f7-e19e-482d-bc61-4abd70cdff2f"
+        ]
     }
 }

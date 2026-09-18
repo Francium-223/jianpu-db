@@ -1,5 +1,5 @@
 {
-    "44f5bfaf-9180-319d-9242-9ebf0c365da6": {
+    "th04_13.txt": {
         "file": "th04_13.txt",
         "type": "work",
         "title": "眠れる恐怖　～Sleeping Terror",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "44f5bfaf-9180-319d-9242-9ebf0c365da6"
+        ],
         "alias": [
             "沉睡的恐怖　～ Sleeping Terror"
         ],
@@ -31,7 +34,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "44f5bfaf-9180-319d-9242-9ebf0c365da6"
+        ]
     }
 }

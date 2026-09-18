@@ -1,5 +1,5 @@
 {
-    "bb384443-1c62-3cf2-bea4-dce5497fe947": {
+    "th08_12.txt": {
         "file": "th08_12.txt",
         "type": "work",
         "title": "狂気の瞳　～ Invisible Full Moon",
@@ -19,12 +19,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "bb384443-1c62-3cf2-bea4-dce5497fe947"
+        ],
         "alias": [
             "狂气之瞳　～ Invisible Full Moon"
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "bb384443-1c62-3cf2-bea4-dce5497fe947"
+        ]
     }
 }

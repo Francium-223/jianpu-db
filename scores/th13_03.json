@@ -1,5 +1,5 @@
 {
-    "c1b1fa18-ecb6-4636-81d1-8e3b45d4636a": {
+    "th13_03.txt": {
         "file": "th13_03.txt",
         "type": "work",
         "title": "ゴーストリード",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "c1b1fa18-ecb6-4636-81d1-8e3b45d4636a"
+        ],
         "alias": [
             "Ghost Lead"
         ],
@@ -29,7 +32,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "c1b1fa18-ecb6-4636-81d1-8e3b45d4636a"
+        ]
     }
 }

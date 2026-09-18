@@ -1,5 +1,5 @@
 {
-    "7d3d603e-6579-4309-93cd-7f6cd05bb9b8": {
+    "th14_15.txt": {
         "file": "th14_15.txt",
         "type": "work",
         "title": "始原のビート　～ Pristine Beat",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "7d3d603e-6579-4309-93cd-7f6cd05bb9b8"
+        ],
         "alias": [
             "原初的节拍　～ Pristine Beat"
         ],
@@ -29,7 +32,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "7d3d603e-6579-4309-93cd-7f6cd05bb9b8"
+        ]
     }
 }

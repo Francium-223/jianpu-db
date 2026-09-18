@@ -1,14 +1,13 @@
 %th12_17.txt
-MBID=08da2064-5308-3f7a-a33f-1e9a07f8526b
 title=空の帰り道 ～ Sky Dream
 type=work
 tag=th12,东方星莲船,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th12
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th12
+MBID=08da2064-5308-3f7a-a33f-1e9a07f8526b
 alias=空中的归路 ～ Sky Dream
 copyright=terebi
 status=draft
-mbid=08da2064-5308-3f7a-a33f-1e9a07f8526b
 %---
 %------th12_17.txt_terebi.buf------
 instrument=El. Piano 1

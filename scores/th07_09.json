@@ -1,5 +1,5 @@
 {
-    "82046c73-33d2-3e08-a74c-a1a738f9ac94": {
+    "th07_09.txt": {
         "file": "th07_09.txt",
         "type": "work",
         "title": "幽霊楽団　～ Phantom Ensemble",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "82046c73-33d2-3e08-a74c-a1a738f9ac94"
+        ],
         "alias": [
             "幽灵乐团　～ Phantom Ensemble"
         ],
@@ -28,7 +31,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "82046c73-33d2-3e08-a74c-a1a738f9ac94"
+        ]
     }
 }

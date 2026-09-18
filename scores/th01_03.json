@@ -1,5 +1,5 @@
 {
-    "9207af95-131b-461e-b4a0-70095c3c1c90": {
+    "th01_03.txt": {
         "file": "th01_03.txt",
         "type": "work",
         "title": "Positive and Negative",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "9207af95-131b-461e-b4a0-70095c3c1c90"
+        ],
         "alias": [
             "Positive and Negative",
             "the Positive and Negative"
@@ -28,7 +31,6 @@
         ],
         "status": [
             "ok"
-        ],
-        "mbid": "9207af95-131b-461e-b4a0-70095c3c1c90"
+        ]
     }
 }

@@ -1,5 +1,5 @@
 {
-    "6c35ee27-41bb-38ec-b758-93c0ba446cbf": {
+    "th07_16.txt": {
         "file": "th07_16.txt",
         "type": "work",
         "title": "少女幻葬　～ Necro-Fantasy",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "6c35ee27-41bb-38ec-b758-93c0ba446cbf"
+        ],
         "alias": [
             "少女幻葬　～ Necro-Fantasy"
         ],
@@ -29,7 +32,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "6c35ee27-41bb-38ec-b758-93c0ba446cbf"
+        ]
     }
 }

@@ -1,5 +1,5 @@
 {
-    "3d356e3c-31ca-3818-ab1b-9f93bed84d88": {
+    "th04_15.txt": {
         "file": "th04_15.txt",
         "type": "work",
         "title": "幽夢　～ Inanimate Dream",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "3d356e3c-31ca-3818-ab1b-9f93bed84d88"
+        ],
         "alias": [
             "幽梦　～ Inanimate Dream"
         ],
@@ -35,7 +38,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "3d356e3c-31ca-3818-ab1b-9f93bed84d88"
+        ]
     }
 }

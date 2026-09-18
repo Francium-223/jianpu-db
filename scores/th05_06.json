@@ -1,5 +1,5 @@
 {
-    "b04e9995-56e6-3e9d-8e85-4c685edb1aec": {
+    "th05_06.txt": {
         "file": "th05_06.txt",
         "type": "work",
         "title": "Romantic Children",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "b04e9995-56e6-3e9d-8e85-4c685edb1aec"
+        ],
         "alias": [
             "Romantic Children"
         ],
@@ -29,7 +32,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "b04e9995-56e6-3e9d-8e85-4c685edb1aec"
+        ]
     }
 }

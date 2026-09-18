@@ -1,14 +1,13 @@
 %th02_03.txt
-MBID=fc51f565-56ca-4856-8b44-15e6869c8c23
 title=She's in a temper!!
 type=work
 tag=th02,东方封魔录,东方,touhou,东方原曲,ZUN,东方旧作原曲,东方整数作原曲
 usertag=th02
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th02
+MBID=fc51f565-56ca-4856-8b44-15e6869c8c23
 alias=She's in a temper!!
 transcriber=Francium-223
 status=ok
-mbid=fc51f565-56ca-4856-8b44-15e6869c8c23
 %---
 subtitle=intro
 KeepLength

@@ -1,5 +1,5 @@
 {
-    "6f84c001-3edd-42bb-9bb2-4baa865f5ba4": {
+    "th18_14.txt": {
         "file": "th18_14.txt",
         "type": "work",
         "title": "幻想の地下大線路網",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "6f84c001-3edd-42bb-9bb2-4baa865f5ba4"
+        ],
         "alias": [
             "幻想地下大轨道网"
         ],
@@ -27,7 +30,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "6f84c001-3edd-42bb-9bb2-4baa865f5ba4"
+        ]
     }
 }

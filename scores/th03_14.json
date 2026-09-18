@@ -1,5 +1,5 @@
 {
-    "b873f5df-2e9b-4fe5-8573-aaedcc9545c8": {
+    "th03_14.txt": {
         "file": "th03_14.txt",
         "type": "work",
         "title": "魔法鐘愛",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "b873f5df-2e9b-4fe5-8573-aaedcc9545c8"
+        ],
         "alias": [
             "魔法钟爱"
         ],
@@ -34,7 +37,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "b873f5df-2e9b-4fe5-8573-aaedcc9545c8"
+        ]
     }
 }

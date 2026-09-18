@@ -1,14 +1,13 @@
 %th03_12.txt
-MBID=944f7034-5ac6-3df3-b0cd-091b0b67e948
 title=Strawberry Crisis!!
 type=work
 tag=th03,东方梦时空,东方,touhou,东方原曲,ZUN,东方旧作原曲,东方整数作原曲
 usertag=th03
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th03
+MBID=944f7034-5ac6-3df3-b0cd-091b0b67e948
 alias=Strawberry Crisis!!
 copyright=Blargzargo,Ezequiel-TM,Unknown
 status=draft
-mbid=944f7034-5ac6-3df3-b0cd-091b0b67e948
 %---
 %------th03_12.txt_Blargzargo.buf------
 instrument=A

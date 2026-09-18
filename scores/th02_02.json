@@ -1,5 +1,5 @@
 {
-    "2b2e2df0-20ce-3c72-813c-9483f809bc37": {
+    "th02_02.txt": {
         "file": "th02_02.txt",
         "type": "work",
         "title": "博麗　～Eastern Wind",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "2b2e2df0-20ce-3c72-813c-9483f809bc37"
+        ],
         "alias": [
             "博丽　～Eastern Wind"
         ],
@@ -27,7 +30,6 @@
         ],
         "status": [
             "ok"
-        ],
-        "mbid": "2b2e2df0-20ce-3c72-813c-9483f809bc37"
+        ]
     }
 }

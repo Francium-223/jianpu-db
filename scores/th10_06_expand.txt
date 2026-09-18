@@ -1,14 +1,13 @@
 %th10_06.txt
-MBID=98f5e291-abd2-3f74-90f8-b829cb0f52f0
 title=神々が恋した幻想郷
 type=work
 tag=th10,东方风神录,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th10
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th10
+MBID=98f5e291-abd2-3f74-90f8-b829cb0f52f0
 alias=众神眷恋的幻想乡
 status=ok
 transcriber=Francium-223
-mbid=98f5e291-abd2-3f74-90f8-b829cb0f52f0
 %---
 subtitle=intro
 KeepLength

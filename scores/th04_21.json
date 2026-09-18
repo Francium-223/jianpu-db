@@ -1,5 +1,5 @@
 {
-    "0396dc40-a25a-3ee7-a127-fde42b59e946": {
+    "th04_21.txt": {
         "file": "th04_21.txt",
         "type": "work",
         "title": "Arcadian Dream",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "0396dc40-a25a-3ee7-a127-fde42b59e946"
+        ],
         "alias": [
             "Arcadian Dream"
         ],
@@ -27,7 +30,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "0396dc40-a25a-3ee7-a127-fde42b59e946"
+        ]
     }
 }

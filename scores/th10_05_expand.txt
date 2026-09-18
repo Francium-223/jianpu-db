@@ -1,14 +1,13 @@
 %th10_05.txt
-MBID=e8514750-f02d-3a69-ac64-d997cbfda027
 title=運命のダークサイド
 type=work
 tag=th10,东方风神录,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th10
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th10
+MBID=e8514750-f02d-3a69-ac64-d997cbfda027
 alias=命运的阴暗面
 copyright=rongns_2,sweetmusic,TheDUBSpeedArts
 status=draft
-mbid=e8514750-f02d-3a69-ac64-d997cbfda027
 %---
 %------th10_05.txt_rongns_2.buf------
 instrument=CH01

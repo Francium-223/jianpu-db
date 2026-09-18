@@ -1,14 +1,13 @@
 %th16_04.txt
-MBID=a8092000-3112-450d-a480-139136b918c2
 title=色無き風は妖怪の山に
 type=work
 tag=th16,东方天空璋,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th16
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th16
+MBID=a8092000-3112-450d-a480-139136b918c2
 alias=妖怪山间无色风
 copyright=ryoya1295
 status=draft
-mbid=a8092000-3112-450d-a480-139136b918c2
 %---
 %------th16_04.txt_ryoya1295.buf------
 OctavesBefore

@@ -1,5 +1,5 @@
 {
-    "74bbc8cf-274f-3d04-ab8f-67a1d8740cbf": {
+    "th02_08.txt": {
         "file": "th02_08.txt",
         "type": "work",
         "title": "ひもろぎ、むらさきにもえ",
@@ -19,13 +19,15 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "74bbc8cf-274f-3d04-ab8f-67a1d8740cbf"
+        ],
         "alias": [
             "神篱",
             "如紫色火焰般燃烧"
         ],
         "status": [
             "ok"
-        ],
-        "mbid": "74bbc8cf-274f-3d04-ab8f-67a1d8740cbf"
+        ]
     }
 }

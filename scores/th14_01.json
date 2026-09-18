@@ -1,5 +1,5 @@
 {
-    "4e6af92e-dfc0-494b-af63-1af46b7e4ac5": {
+    "th14_01.txt": {
         "file": "th14_01.txt",
         "type": "work",
         "title": "不思議なお祓い棒",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "4e6af92e-dfc0-494b-af63-1af46b7e4ac5"
+        ],
         "alias": [
             "不可思议的驱魔棒"
         ],
@@ -30,7 +33,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "4e6af92e-dfc0-494b-af63-1af46b7e4ac5"
+        ]
     }
 }

@@ -1,14 +1,13 @@
 %th06_08.txt
-MBID=b636601e-40cc-3ce0-8654-dc11bf3bc865
 title=ヴワル魔法図書館
 type=work
 tag=th06,东方红魔乡,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th06
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th06
+MBID=b636601e-40cc-3ce0-8654-dc11bf3bc865
 alias=伏瓦鲁魔法图书馆
 copyright=ZUN
 status=draft
-mbid=b636601e-40cc-3ce0-8654-dc11bf3bc865
 %---
 %------th06_08.txt_ZUN.buf------
 instrument=y @}Ù zfrom ûg½ for 88P Comp.ZUN

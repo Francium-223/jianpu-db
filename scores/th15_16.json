@@ -1,5 +1,5 @@
 {
-    "dbecc7d4-ba5d-45d4-9187-ef2d437ebf73": {
+    "th15_16.txt": {
         "file": "th15_16.txt",
         "type": "work",
         "title": "神社から見える月",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "dbecc7d4-ba5d-45d4-9187-ef2d437ebf73"
+        ],
         "alias": [
             "从神社所见之月"
         ],
@@ -27,7 +30,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "dbecc7d4-ba5d-45d4-9187-ef2d437ebf73"
+        ]
     }
 }

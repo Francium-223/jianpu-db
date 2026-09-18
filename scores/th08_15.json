@@ -1,5 +1,5 @@
 {
-    "011ecd26-9e73-35ad-aa78-8d9b0197e653": {
+    "th08_15.txt": {
         "file": "th08_15.txt",
         "type": "work",
         "title": "竹取飛翔　～ Lunatic Princess",
@@ -19,12 +19,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "011ecd26-9e73-35ad-aa78-8d9b0197e653"
+        ],
         "alias": [
             "竹取飞翔　～ Lunatic Princess"
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "011ecd26-9e73-35ad-aa78-8d9b0197e653"
+        ]
     }
 }

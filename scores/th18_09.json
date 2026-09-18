@@ -1,5 +1,5 @@
 {
-    "4b62fc1b-0e93-43e2-aa2b-34f6b24bfe6d": {
+    "th18_09.txt": {
         "file": "th18_09.txt",
         "type": "work",
         "title": "神代鉱石",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "4b62fc1b-0e93-43e2-aa2b-34f6b24bfe6d"
+        ],
         "alias": [
             "神代矿石"
         ],
@@ -27,7 +30,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "4b62fc1b-0e93-43e2-aa2b-34f6b24bfe6d"
+        ]
     }
 }

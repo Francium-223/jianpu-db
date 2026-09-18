@@ -1,14 +1,13 @@
 %th03_05.txt
-MBID=5bf008d6-4114-3771-bd76-ffc40621affb
 title=Dim. Dream
 type=work
 tag=th03,东方梦时空,东方,touhou,东方原曲,ZUN,东方旧作原曲,东方整数作原曲
 usertag=th03
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th03
+MBID=5bf008d6-4114-3771-bd76-ffc40621affb
 alias=Dim. Dream
 copyright=Blargzargo
 status=draft
-mbid=5bf008d6-4114-3771-bd76-ffc40621affb
 %---
 %------th03_05.txt_Blargzargo.buf------
 instrument=A

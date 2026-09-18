@@ -1,14 +1,13 @@
 %th14_06.txt
-MBID=4cf622fe-7f51-4933-bf8b-a6310b39dbc7
 title=満月の竹林
 type=work
 tag=th14,东方辉针城,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th14
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th14
+MBID=4cf622fe-7f51-4933-bf8b-a6310b39dbc7
 alias=满月的竹林
 copyright=Shirai Yuki - GM,Shirai Yuki - XG,unknown 2,unknown
 status=draft
-mbid=4cf622fe-7f51-4933-bf8b-a6310b39dbc7
 %---
 %------th14_06.txt_Shirai Yuki - GM.buf------
 instrument=Gtr

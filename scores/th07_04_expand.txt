@@ -1,14 +1,13 @@
 %th07_04.txt
-MBID=4c8747c2-eea1-308c-a827-551df7e31788
 title=遠野幻想物語
 type=work
 tag=th07,东方妖妖梦,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th07
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th07
+MBID=4c8747c2-eea1-308c-a827-551df7e31788
 alias=远野幻想物语
 copyright=hisaraito,ZUN
 status=draft
-mbid=4c8747c2-eea1-308c-a827-551df7e31788
 %---
 %------th07_04.txt_hisaraito.buf------
 OctavesBefore

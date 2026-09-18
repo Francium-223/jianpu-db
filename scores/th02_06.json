@@ -1,5 +1,5 @@
 {
-    "c21c0bc4-ffb8-4aec-93d3-d5fe12e70519": {
+    "th02_06.txt": {
         "file": "th02_06.txt",
         "type": "work",
         "title": "幻夢界",
@@ -19,12 +19,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "c21c0bc4-ffb8-4aec-93d3-d5fe12e70519"
+        ],
         "alias": [
             "幻梦界"
         ],
         "status": [
             "ok"
-        ],
-        "mbid": "c21c0bc4-ffb8-4aec-93d3-d5fe12e70519"
+        ]
     }
 }

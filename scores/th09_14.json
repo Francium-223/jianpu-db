@@ -1,5 +1,5 @@
 {
-    "dd5a639a-d33f-39a7-bab3-97aafbf8e675": {
+    "th09_14.txt": {
         "file": "th09_14.txt",
         "type": "work",
         "title": "彼岸帰航　～ Riverside View",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "dd5a639a-d33f-39a7-bab3-97aafbf8e675"
+        ],
         "alias": [
             "彼岸归航　～ Riverside View"
         ],
@@ -31,7 +34,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "dd5a639a-d33f-39a7-bab3-97aafbf8e675"
+        ]
     }
 }

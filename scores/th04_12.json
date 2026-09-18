@@ -1,5 +1,5 @@
 {
-    "d5d2185e-5fd6-3fca-9c47-62394a61c69e": {
+    "th04_12.txt": {
         "file": "th04_12.txt",
         "type": "work",
         "title": "Lotus Love",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "d5d2185e-5fd6-3fca-9c47-62394a61c69e"
+        ],
         "alias": [
             "Lotus Love"
         ],
@@ -29,7 +32,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "d5d2185e-5fd6-3fca-9c47-62394a61c69e"
+        ]
     }
 }

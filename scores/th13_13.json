@@ -1,5 +1,5 @@
 {
-    "9248deb4-3fdc-4c73-a1d0-d9928caf688a": {
+    "th13_13.txt": {
         "file": "th13_13.txt",
         "type": "work",
         "title": "聖徳伝説　～ True Administrator",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "9248deb4-3fdc-4c73-a1d0-d9928caf688a"
+        ],
         "alias": [
             "圣德传说　～ True Administrator"
         ],
@@ -28,7 +31,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "9248deb4-3fdc-4c73-a1d0-d9928caf688a"
+        ]
     }
 }

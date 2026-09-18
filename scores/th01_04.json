@@ -1,5 +1,5 @@
 {
-    "781d4c42-ff9e-3add-a447-1df676c59866": {
+    "th01_04.txt": {
         "file": "th01_04.txt",
         "type": "work",
         "title": "Highly Responsive to Prayers",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "781d4c42-ff9e-3add-a447-1df676c59866"
+        ],
         "alias": [
             "Highly Responsive to Prayers"
         ],
@@ -27,7 +30,6 @@
         ],
         "status": [
             "ok"
-        ],
-        "mbid": "781d4c42-ff9e-3add-a447-1df676c59866"
+        ]
     }
 }

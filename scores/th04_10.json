@@ -1,5 +1,5 @@
 {
-    "08a016ec-18fc-34d9-9ab6-e3b6007787ef": {
+    "th04_10.txt": {
         "file": "th04_10.txt",
         "type": "work",
         "title": "少女綺想曲　～ Capriccio",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "08a016ec-18fc-34d9-9ab6-e3b6007787ef"
+        ],
         "alias": [
             "少女绮想曲　～ Capriccio"
         ],
@@ -29,7 +32,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "08a016ec-18fc-34d9-9ab6-e3b6007787ef"
+        ]
     }
 }

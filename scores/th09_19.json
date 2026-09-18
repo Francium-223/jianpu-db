@@ -1,5 +1,5 @@
 {
-    "3927b10c-e237-3f70-b870-6d01bda21171": {
+    "th09_19.txt": {
         "file": "th09_19.txt",
         "type": "work",
         "title": "魂の花　～ Another Dream...",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "3927b10c-e237-3f70-b870-6d01bda21171"
+        ],
         "alias": [
             "魂之花　～ Another Dream..."
         ],
@@ -27,7 +30,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "3927b10c-e237-3f70-b870-6d01bda21171"
+        ]
     }
 }

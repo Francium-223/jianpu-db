@@ -1,5 +1,5 @@
 {
-    "2e0aa77d-889c-49b8-a068-bb095c5ca99e": {
+    "th18_12.txt": {
         "file": "th18_12.txt",
         "type": "work",
         "title": "ルナレインボー",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "2e0aa77d-889c-49b8-a068-bb095c5ca99e"
+        ],
         "alias": [
             "Lunar Rainbow"
         ],
@@ -28,7 +31,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "2e0aa77d-889c-49b8-a068-bb095c5ca99e"
+        ]
     }
 }

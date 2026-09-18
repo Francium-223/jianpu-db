@@ -1,14 +1,13 @@
 %th11_04.txt
-MBID=f853ae8d-334c-365e-aca9-9e337e407569
 title=渡る者の途絶えた橋
 type=work
 tag=th11,东方地灵殿,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th11
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th11
+MBID=f853ae8d-334c-365e-aca9-9e337e407569
 alias=阻绝人迹之桥
 copyright=ryoya1295,unknown
 status=draft
-mbid=f853ae8d-334c-365e-aca9-9e337e407569
 %---
 %------th11_04.txt_ryoya1295.buf------
 OctavesBefore

@@ -1,5 +1,5 @@
 {
-    "70489a2e-43e2-36a8-8c20-42b91f1ebbce": {
+    "th05_08.txt": {
         "file": "th05_08.txt",
         "type": "work",
         "title": "メイプルワイズ",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "70489a2e-43e2-36a8-8c20-42b91f1ebbce"
+        ],
         "alias": [
             "Maple Wise"
         ],
@@ -28,7 +31,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "70489a2e-43e2-36a8-8c20-42b91f1ebbce"
+        ]
     }
 }

@@ -1,13 +1,12 @@
 %th02_04.txt
-MBID=3e340c28-e549-31e5-80fe-f9285eb5d2c9
 title=End of Daylight
 type=work
 tag=th02,东方封魔录,东方,touhou,东方原曲,ZUN,东方旧作原曲,东方整数作原曲
 usertag=th02
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th02
+MBID=3e340c28-e549-31e5-80fe-f9285eb5d2c9
 alias=End of Daylight
 status=ok
-mbid=3e340c28-e549-31e5-80fe-f9285eb5d2c9
 %---
 subtitle=intro
 3 - ,6 - 1 - 2 - ,6 - - - - - - -

@@ -1,5 +1,5 @@
 {
-    "ece21377-3938-42c3-bbdd-4f3209eeab0f": {
+    "th18_07.txt": {
         "file": "th18_07.txt",
         "type": "work",
         "title": "スモーキングドラゴン",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "ece21377-3938-42c3-bbdd-4f3209eeab0f"
+        ],
         "alias": [
             "Smoking Dragon"
         ],
@@ -30,7 +33,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "ece21377-3938-42c3-bbdd-4f3209eeab0f"
+        ]
     }
 }

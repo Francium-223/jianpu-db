@@ -1,14 +1,13 @@
 %th04_15.txt
-MBID=3d356e3c-31ca-3818-ab1b-9f93bed84d88
 title=幽夢 ～ Inanimate Dream
 type=work
 tag=th04,东方幻想乡,东方,touhou,东方原曲,ZUN,东方旧作原曲,东方整数作原曲
 usertag=th04
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th04
+MBID=3d356e3c-31ca-3818-ab1b-9f93bed84d88
 alias=幽梦 ～ Inanimate Dream
 copyright=Bessem,Blargzargo,icebhm23230 - GM,icebhm23230 - XG,Karl Zuñiga,neognosticism,TouhouMIDICreator,Wobuffet3,ZUN - SC-88pro
 status=draft
-mbid=3d356e3c-31ca-3818-ab1b-9f93bed84d88
 %---
 %------th04_15.txt_Bessem.buf------
 instrument=Piste 1

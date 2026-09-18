@@ -1,14 +1,13 @@
 %th04_11.txt
-MBID=32915e47-05db-3d2a-b833-5935d1c16549
 title=星の器 ～ Casket of Star
 type=work
 tag=th04,东方幻想乡,东方,touhou,东方原曲,ZUN,东方旧作原曲,东方整数作原曲
 usertag=th04
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th04
+MBID=32915e47-05db-3d2a-b833-5935d1c16549
 alias=星之器 ～ Casket of Star
 copyright=Bessem,Blargzargo,ZUN - SC-88Pro
 status=draft
-mbid=32915e47-05db-3d2a-b833-5935d1c16549
 %---
 %------th04_11.txt_Bessem.buf------
 instrument=Piste 1

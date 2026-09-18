@@ -1,5 +1,5 @@
 {
-    "8e59a59c-c4fa-30fa-8a79-33f442da74cf": {
+    "th06_15.txt": {
         "file": "th06_15.txt",
         "type": "work",
         "title": "U.N.オーエンは彼女なのか？",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "8e59a59c-c4fa-30fa-8a79-33f442da74cf"
+        ],
         "alias": [
             "U.N.OWEN就是她吗？"
         ],
@@ -35,7 +38,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "8e59a59c-c4fa-30fa-8a79-33f442da74cf"
+        ]
     }
 }

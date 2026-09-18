@@ -1,14 +1,13 @@
 %th09_10.txt
-MBID=4e0d26d0-f36c-383c-baef-1f3d7ac0c3a4
 title=お宇佐さまの素い幡
 type=work
 tag=th09,东方花映塚,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th09
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th09
+MBID=4e0d26d0-f36c-383c-baef-1f3d7ac0c3a4
 alias=宇佐大人的白旗
 copyright=Kanade_KND34,Unknown
 status=draft
-mbid=4e0d26d0-f36c-383c-baef-1f3d7ac0c3a4
 %---
 %------th09_10.txt_Kanade_KND34.buf------
 OctavesBefore

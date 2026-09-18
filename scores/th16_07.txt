@@ -1,14 +1,13 @@
 %th16_07.txt
-MBID=f9cf49c0-cca8-4555-8b8b-f37ca189e262
 title=一対の神獣
 type=work
 tag=th16,东方天空璋,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th16
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th16
+MBID=f9cf49c0-cca8-4555-8b8b-f37ca189e262
 alias=成对的神兽
 copyright=Hisaraito - Ver. 2,Hisaraito,Kitaichi Rei,ryoya1295,ShinkoNet,TouhouMIDICreator
 status=draft
-mbid=f9cf49c0-cca8-4555-8b8b-f37ca189e262
 %---
 %------th16_07.txt_Hisaraito - Ver. 2.buf------
 OctavesBefore

@@ -1,5 +1,5 @@
 {
-    "153fba9b-bae4-40ba-91f8-4dec26243afe": {
+    "th16_06.txt": {
         "file": "th16_06.txt",
         "type": "work",
         "title": "桜色の海を泳いで",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "153fba9b-bae4-40ba-91f8-4dec26243afe"
+        ],
         "alias": [
             "徜徉于樱色之海"
         ],
@@ -28,7 +31,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "153fba9b-bae4-40ba-91f8-4dec26243afe"
+        ]
     }
 }

@@ -1,5 +1,5 @@
 {
-    "c8bed257-b55a-4dd4-aeb3-84fe38d45408": {
+    "th14_08.txt": {
         "file": "th14_08.txt",
         "type": "work",
         "title": "マジカルストーム",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "c8bed257-b55a-4dd4-aeb3-84fe38d45408"
+        ],
         "alias": [
             "Magical Storm"
         ],
@@ -27,7 +30,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "c8bed257-b55a-4dd4-aeb3-84fe38d45408"
+        ]
     }
 }

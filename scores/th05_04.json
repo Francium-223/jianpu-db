@@ -1,5 +1,5 @@
 {
-    "d6c35ea8-d9d7-3ceb-ba5b-bcd3d91a9215": {
+    "th05_04.txt": {
         "file": "th05_04.txt",
         "type": "work",
         "title": "夢想時空",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "d6c35ea8-d9d7-3ceb-ba5b-bcd3d91a9215"
+        ],
         "alias": [
             "梦想时空"
         ],
@@ -29,7 +32,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "d6c35ea8-d9d7-3ceb-ba5b-bcd3d91a9215"
+        ]
     }
 }

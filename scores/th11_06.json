@@ -1,5 +1,5 @@
 {
-    "598c728c-9eff-3e48-9aab-aa4d62dea3ad": {
+    "th11_06.txt": {
         "file": "th11_06.txt",
         "type": "work",
         "title": "旧地獄街道を行く",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "598c728c-9eff-3e48-9aab-aa4d62dea3ad"
+        ],
         "alias": [
             "漫游旧地狱街道"
         ],
@@ -29,7 +32,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "598c728c-9eff-3e48-9aab-aa4d62dea3ad"
+        ]
     }
 }

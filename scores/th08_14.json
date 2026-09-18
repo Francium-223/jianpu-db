@@ -1,5 +1,5 @@
 {
-    "48b90e15-a9b4-3d34-ae26-112f60d8eb8f": {
+    "th08_14.txt": {
         "file": "th08_14.txt",
         "type": "work",
         "title": "千年幻想郷　～ History of the Moon",
@@ -19,12 +19,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "48b90e15-a9b4-3d34-ae26-112f60d8eb8f"
+        ],
         "alias": [
             "千年幻想乡　～ History of the Moon"
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "48b90e15-a9b4-3d34-ae26-112f60d8eb8f"
+        ]
     }
 }
