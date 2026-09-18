@@ -1,5 +1,5 @@
 {
-    "adfb1342-efe8-406d-a6a9-79e729a44986": {
+    "th03_11.txt": {
         "file": "th03_11.txt",
         "type": "work",
         "title": "Sailor of Time",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "adfb1342-efe8-406d-a6a9-79e729a44986"
+        ],
         "alias": [
             "Sailor of Time"
         ],
@@ -27,7 +30,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "adfb1342-efe8-406d-a6a9-79e729a44986"
+        ]
     }
 }

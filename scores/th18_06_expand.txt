@@ -1,14 +1,13 @@
 %th18_06.txt
-MBID=ab7ff14b-3f06-4ab4-8946-cb00ec894370
 title=駒草咲くパーペチュアルスノー
 type=work
 tag=th18,东方虹龙洞,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th18
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th18
+MBID=ab7ff14b-3f06-4ab4-8946-cb00ec894370
 alias=驹草盛开的万年积雪
 copyright=Karl Zuñiga
 status=draft
-mbid=ab7ff14b-3f06-4ab4-8946-cb00ec894370
 %---
 %------th18_06.txt_Karl Zuñiga.buf------
 instrument=Elementics

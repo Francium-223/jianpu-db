@@ -1,14 +1,13 @@
 %th04_07.txt
-MBID=715a50b2-7525-3dbd-9d67-e0ed13d4c4b6
 title=Bad Apple!!
 type=work
 tag=th04,东方幻想乡,东方,touhou,东方原曲,ZUN,东方旧作原曲,东方整数作原曲
 usertag=th04
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th04
+MBID=715a50b2-7525-3dbd-9d67-e0ed13d4c4b6
 alias=Bad Apple!!
 copyright=Average & NamelessLegacy,Blargzargo,icebhm23230 - XG,TouhouMIDICreator,TrangOul
 status=draft
-mbid=715a50b2-7525-3dbd-9d67-e0ed13d4c4b6
 %---
 %------th04_07.txt_Average & NamelessLegacy.buf------
 OctavesBefore

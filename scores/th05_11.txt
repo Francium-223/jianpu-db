@@ -1,14 +1,13 @@
 %th05_11.txt
-MBID=50cc71da-1a03-3308-a176-c6cb33b016a0
 title=裏切りの少女　～ Judas Kiss
 type=work
 tag=th05,东方怪绮谈,东方,touhou,东方原曲,ZUN,东方旧作原曲,东方整数作原曲
 usertag=th05
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th05
+MBID=50cc71da-1a03-3308-a176-c6cb33b016a0
 alias=背叛的少女　～ Judas Kiss
 copyright=TouhouMIDICreator,ZUN
 status=draft
-mbid=50cc71da-1a03-3308-a176-c6cb33b016a0
 %---
 %------th05_11.txt_TouhouMIDICreator.buf------
 instrument=FM1

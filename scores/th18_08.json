@@ -1,5 +1,5 @@
 {
-    "ffe8a760-54a2-4bf0-bf3c-9fb78d47e26f": {
+    "th18_08.txt": {
         "file": "th18_08.txt",
         "type": "work",
         "title": "廃れゆく産業遺構",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "ffe8a760-54a2-4bf0-bf3c-9fb78d47e26f"
+        ],
         "alias": [
             "日渐荒废的工业遗址"
         ],
@@ -27,7 +30,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "ffe8a760-54a2-4bf0-bf3c-9fb78d47e26f"
+        ]
     }
 }

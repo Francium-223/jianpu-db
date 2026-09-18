@@ -1,5 +1,5 @@
 {
-    "86f214cf-2a73-3366-8164-92853dbcc681": {
+    "th04_08.txt": {
         "file": "th04_08.txt",
         "type": "work",
         "title": "霊戦　～ Perdition crisis",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "86f214cf-2a73-3366-8164-92853dbcc681"
+        ],
         "alias": [
             "灵战　～ Perdition crisis"
         ],
@@ -29,7 +32,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "86f214cf-2a73-3366-8164-92853dbcc681"
+        ]
     }
 }

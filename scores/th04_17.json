@@ -1,5 +1,5 @@
 {
-    "79baedd2-cd01-3068-beab-9c8956472e9d": {
+    "th04_17.txt": {
         "file": "th04_17.txt",
         "type": "work",
         "title": "メイド幻想　～ Icemilk Magic",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "79baedd2-cd01-3068-beab-9c8956472e9d"
+        ],
         "alias": [
             "女仆幻想　～ Icemilk Magic"
         ],
@@ -28,7 +31,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "79baedd2-cd01-3068-beab-9c8956472e9d"
+        ]
     }
 }

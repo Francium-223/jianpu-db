@@ -1,14 +1,13 @@
 %th03_09.txt
-MBID=da8a62f6-3b65-3b3d-b331-7ae4398d9230
 title=夢幻遊戯　～ Dream War
 type=work
 tag=th03,东方梦时空,东方,touhou,东方原曲,ZUN,东方旧作原曲,东方整数作原曲
 usertag=th03
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th03
+MBID=da8a62f6-3b65-3b3d-b331-7ae4398d9230
 alias=梦幻游戏　～ Dream War
 copyright=Blargzargo
 status=draft
-mbid=da8a62f6-3b65-3b3d-b331-7ae4398d9230
 %---
 %------th03_09.txt_Blargzargo.buf------
 instrument=A

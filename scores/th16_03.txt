@@ -1,14 +1,13 @@
 %th16_03.txt
-MBID=2712b4f3-b8f7-4a5e-9c16-080c3ebc0ea7
 title=真夏の妖精の夢
 type=work
 tag=th16,东方天空璋,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th16
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th16
+MBID=2712b4f3-b8f7-4a5e-9c16-080c3ebc0ea7
 alias=仲夏的妖精梦
 copyright=ryoya1295
 status=draft
-mbid=2712b4f3-b8f7-4a5e-9c16-080c3ebc0ea7
 %---
 %------th16_03.txt_ryoya1295.buf------
 OctavesBefore

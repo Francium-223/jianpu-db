@@ -1,5 +1,5 @@
 {
-    "2b9a2c12-dcba-3fa1-9c1a-8c937d7bf2c8": {
+    "th12_09.txt": {
         "file": "th12_09.txt",
         "type": "work",
         "title": "キャプテン・ムラサ",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "2b9a2c12-dcba-3fa1-9c1a-8c937d7bf2c8"
+        ],
         "alias": [
             "Captain Murasa"
         ],
@@ -27,7 +30,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "2b9a2c12-dcba-3fa1-9c1a-8c937d7bf2c8"
+        ]
     }
 }

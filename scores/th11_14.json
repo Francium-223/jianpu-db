@@ -1,5 +1,5 @@
 {
-    "f0d1e652-8eb2-36e1-bd86-be302b2a2de1": {
+    "th11_14.txt": {
         "file": "th11_14.txt",
         "type": "work",
         "title": "ラストリモート",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "f0d1e652-8eb2-36e1-bd86-be302b2a2de1"
+        ],
         "alias": [
             "Last Remote"
         ],
@@ -32,7 +35,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "f0d1e652-8eb2-36e1-bd86-be302b2a2de1"
+        ]
     }
 }

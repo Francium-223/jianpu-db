@@ -1,5 +1,5 @@
 {
-    "43a72f44-1fc6-37d0-aa3d-985e61b95cb4": {
+    "th04_02.txt": {
         "file": "th04_02.txt",
         "type": "work",
         "title": "Witching Dream",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "43a72f44-1fc6-37d0-aa3d-985e61b95cb4"
+        ],
         "alias": [
             "Witching Dream"
         ],
@@ -29,7 +32,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "43a72f44-1fc6-37d0-aa3d-985e61b95cb4"
+        ]
     }
 }

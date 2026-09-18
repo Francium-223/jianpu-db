@@ -1,5 +1,5 @@
 {
-    "12a9dc1b-c0be-328a-b2b2-884e4a4cd240": {
+    "th08_10.txt": {
         "file": "th08_10.txt",
         "type": "work",
         "title": "恋色マスタースパーク",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "12a9dc1b-c0be-328a-b2b2-884e4a4cd240"
+        ],
         "alias": [
             "恋色Master spark"
         ],
@@ -28,7 +31,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "12a9dc1b-c0be-328a-b2b2-884e4a4cd240"
+        ]
     }
 }

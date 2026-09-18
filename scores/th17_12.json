@@ -1,5 +1,5 @@
 {
-    "72c07e4d-9d97-4ded-8914-4ce534c5de53": {
+    "th17_12.txt": {
         "file": "th17_12.txt",
         "type": "work",
         "title": "エレクトリックヘリテージ",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "72c07e4d-9d97-4ded-8914-4ce534c5de53"
+        ],
         "alias": [
             "Electric Heritage"
         ],
@@ -29,7 +32,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "72c07e4d-9d97-4ded-8914-4ce534c5de53"
+        ]
     }
 }

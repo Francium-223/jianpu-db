@@ -1,5 +1,5 @@
 {
-    "fb27152c-a554-4324-a9bd-ecbeab6cad05": {
+    "th15_12.txt": {
         "file": "th15_12.txt",
         "type": "work",
         "title": "故郷の星が映る海",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "fb27152c-a554-4324-a9bd-ecbeab6cad05"
+        ],
         "alias": [
             "故乡之星倒映之海"
         ],
@@ -31,7 +34,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "fb27152c-a554-4324-a9bd-ecbeab6cad05"
+        ]
     }
 }

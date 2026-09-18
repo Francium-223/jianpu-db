@@ -1,14 +1,13 @@
 %th16_14.txt
-MBID=2887df87-4ae8-4e77-9c79-6e66caee38bd
 title=もうドアには入れない
 type=work
 tag=th16,东方天空璋,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th16
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th16
+MBID=2887df87-4ae8-4e77-9c79-6e66caee38bd
 alias=门再也进不去了
 copyright=Karamitasu,ryoya1295
 status=draft
-mbid=2887df87-4ae8-4e77-9c79-6e66caee38bd
 %---
 %------th16_14.txt_Karamitasu.buf------
 OctavesBefore

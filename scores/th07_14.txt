@@ -1,14 +1,13 @@
 %th07_14.txt
-MBID=0220b328-82ba-35e5-b74f-c375d3bf66f2
 title=ボーダーオブライフ
 type=work
 tag=th07,东方妖妖梦,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th07
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th07
+MBID=0220b328-82ba-35e5-b74f-c375d3bf66f2
 alias=Border of Life
 copyright=hisaraito - Remake,hisaraito,rongns_2,sweetmusic,ZUN
 status=draft
-mbid=0220b328-82ba-35e5-b74f-c375d3bf66f2
 %---
 %------th07_14.txt_hisaraito - Remake.buf------
 OctavesBefore

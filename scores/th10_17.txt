@@ -1,14 +1,13 @@
 %th10_17.txt
-MBID=db368653-07d0-34ee-929a-762845d2f5c9
 title=神は恵みの雨を降らす　～ Sylphid Dream
 type=work
 tag=th10,东方风神录,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th10
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th10
+MBID=db368653-07d0-34ee-929a-762845d2f5c9
 alias=神明降下恩惠之雨　～ Sylphid Dream
 copyright=LeastLPZ
 status=draft
-mbid=db368653-07d0-34ee-929a-762845d2f5c9
 %---
 %------th10_17.txt_LeastLPZ.buf------
 OctavesBefore

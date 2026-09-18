@@ -1,5 +1,5 @@
 {
-    "c5efa94f-21b4-39bf-af7f-2e4b2f56f47e": {
+    "th01_06.txt": {
         "file": "th01_06.txt",
         "type": "work",
         "title": "天使伝説",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "c5efa94f-21b4-39bf-af7f-2e4b2f56f47e"
+        ],
         "alias": [
             "天使传说"
         ],
@@ -27,7 +30,6 @@
         ],
         "status": [
             "ok"
-        ],
-        "mbid": "c5efa94f-21b4-39bf-af7f-2e4b2f56f47e"
+        ]
     }
 }

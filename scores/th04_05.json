@@ -1,5 +1,5 @@
 {
-    "6a866192-afd6-3749-8bac-31a90a0d7643": {
+    "th04_05.txt": {
         "file": "th04_05.txt",
         "type": "work",
         "title": "Break the Sabbath",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "6a866192-afd6-3749-8bac-31a90a0d7643"
+        ],
         "alias": [
             "Break the Sabbath"
         ],
@@ -27,7 +30,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "6a866192-afd6-3749-8bac-31a90a0d7643"
+        ]
     }
 }

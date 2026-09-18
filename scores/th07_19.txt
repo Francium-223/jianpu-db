@@ -1,14 +1,13 @@
 %th07_19.txt
-MBID=b8a8f7c8-b8d0-374d-af6a-4dbbc55dc88e
 title=春風の夢
 type=work
 tag=th07,东方妖妖梦,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th07
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th07
+MBID=b8a8f7c8-b8d0-374d-af6a-4dbbc55dc88e
 alias=春风之梦
 copyright=ZUN
 status=draft
-mbid=b8a8f7c8-b8d0-374d-af6a-4dbbc55dc88e
 %---
 %------th07_19.txt_ZUN.buf------
 OctavesBefore

@@ -1,5 +1,5 @@
 {
-    "8cb2ae05-f4c1-4b13-a5a7-6d922eb98dcb": {
+    "th18_03.txt": {
         "file": "th18_03.txt",
         "type": "work",
         "title": "大吉キトゥン",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "8cb2ae05-f4c1-4b13-a5a7-6d922eb98dcb"
+        ],
         "alias": [
             "大吉猫咪"
         ],
@@ -29,7 +32,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "8cb2ae05-f4c1-4b13-a5a7-6d922eb98dcb"
+        ]
     }
 }

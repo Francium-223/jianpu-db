@@ -1,5 +1,5 @@
 {
-    "67540bd0-a5c2-4287-96e2-9e9cd7e91622": {
+    "th05_01.txt": {
         "file": "th05_01.txt",
         "type": "work",
         "title": "怪綺談　～ Mystic Square",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "67540bd0-a5c2-4287-96e2-9e9cd7e91622"
+        ],
         "alias": [
             "怪绮谈　～ Mystic Square"
         ],
@@ -28,7 +31,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "67540bd0-a5c2-4287-96e2-9e9cd7e91622"
+        ]
     }
 }

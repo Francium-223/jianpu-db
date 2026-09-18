@@ -1,5 +1,5 @@
 {
-    "dd24ee73-362f-4ce9-97f8-3b14927ccaf1": {
+    "th02_12.txt": {
         "file": "th02_12.txt",
         "type": "work",
         "title": "エキストララブ",
@@ -19,12 +19,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "dd24ee73-362f-4ce9-97f8-3b14927ccaf1"
+        ],
         "alias": [
             "Extra Love"
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "dd24ee73-362f-4ce9-97f8-3b14927ccaf1"
+        ]
     }
 }

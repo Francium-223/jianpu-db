@@ -1,5 +1,5 @@
 {
-    "f6df3ac8-4b7c-3d2d-af81-a3fbfc6d4f9f": {
+    "th09_17.txt": {
         "file": "th09_17.txt",
         "type": "work",
         "title": "此岸の塚",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "f6df3ac8-4b7c-3d2d-af81-a3fbfc6d4f9f"
+        ],
         "alias": [
             "此岸之塚"
         ],
@@ -27,7 +30,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "f6df3ac8-4b7c-3d2d-af81-a3fbfc6d4f9f"
+        ]
     }
 }

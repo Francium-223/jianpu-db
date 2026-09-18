@@ -1,14 +1,13 @@
 %th07_17.txt
-MBID=36fe767c-1232-38f7-9f8a-eb63992c42cf
 title=妖々跋扈 ～ Who done it!
 type=work
 tag=th07,东方妖妖梦,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th07
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th07
+MBID=36fe767c-1232-38f7-9f8a-eb63992c42cf
 alias=妖妖跋扈 ～ Who done it!
 copyright=hisaraito,ZUN
 status=draft
-mbid=36fe767c-1232-38f7-9f8a-eb63992c42cf
 %---
 %------th07_17.txt_hisaraito.buf------
 OctavesBefore

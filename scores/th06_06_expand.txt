@@ -1,14 +1,13 @@
 %th06_06.txt
-MBID=2971335a-00d0-31a2-8b84-ecfc8ab72ae4
 title=上海紅茶館 ～ Chinese Tea
 type=work
 tag=th06,东方红魔乡,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th06
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th06
+MBID=2971335a-00d0-31a2-8b84-ecfc8ab72ae4
 alias=上海红茶馆 ～ Chinese Tea
 copyright=Piano Only,rongns_2,SONARLE,unknown,ZUN
 status=draft
-mbid=2971335a-00d0-31a2-8b84-ecfc8ab72ae4
 %---
 %------th06_06.txt_Piano Only.buf------
 instrument=Setup

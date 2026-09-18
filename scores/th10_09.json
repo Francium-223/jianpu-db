@@ -1,5 +1,5 @@
 {
-    "145d2b51-0646-30e5-be20-f123b3b281ef": {
+    "th10_09.txt": {
         "file": "th10_09.txt",
         "type": "work",
         "title": "妖怪の山　～ Mysterious Mountain",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "145d2b51-0646-30e5-be20-f123b3b281ef"
+        ],
         "alias": [
             "妖怪之山　～ Mysterious Mountain"
         ],
@@ -31,7 +34,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "145d2b51-0646-30e5-be20-f123b3b281ef"
+        ]
     }
 }

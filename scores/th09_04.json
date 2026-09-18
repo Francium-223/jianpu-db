@@ -1,5 +1,5 @@
 {
-    "8558dbb8-1af0-36d8-8f90-c8a7556ea258": {
+    "th09_04.txt": {
         "file": "th09_04.txt",
         "type": "work",
         "title": "フラワリングナイト",
@@ -19,12 +19,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "8558dbb8-1af0-36d8-8f90-c8a7556ea258"
+        ],
         "alias": [
             "Flowering Night"
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "8558dbb8-1af0-36d8-8f90-c8a7556ea258"
+        ]
     }
 }

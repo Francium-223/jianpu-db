@@ -1,5 +1,5 @@
 {
-    "f9faf531-00d4-41cb-85cc-f94d0c16bbf5": {
+    "th02_05.txt": {
         "file": "th02_05.txt",
         "type": "work",
         "title": "やみのちから",
@@ -19,12 +19,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "f9faf531-00d4-41cb-85cc-f94d0c16bbf5"
+        ],
         "alias": [
             "黑暗的力量"
         ],
         "status": [
             "ok"
-        ],
-        "mbid": "f9faf531-00d4-41cb-85cc-f94d0c16bbf5"
+        ]
     }
 }

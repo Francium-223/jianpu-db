@@ -1,5 +1,5 @@
 {
-    "2f718495-1fdd-3fb9-94f8-1ce9070a67a9": {
+    "th05_13.txt": {
         "file": "th05_13.txt",
         "type": "work",
         "title": "悲しき人形　～ Doll of Misery",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "2f718495-1fdd-3fb9-94f8-1ce9070a67a9"
+        ],
         "alias": [
             "可悲的人偶　～ Doll of Misery"
         ],
@@ -27,7 +30,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "2f718495-1fdd-3fb9-94f8-1ce9070a67a9"
+        ]
     }
 }

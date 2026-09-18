@@ -1,5 +1,5 @@
 {
-    "3e340c28-e549-31e5-80fe-f9285eb5d2c9": {
+    "th02_04.txt": {
         "file": "th02_04.txt",
         "type": "work",
         "title": "End of Daylight",
@@ -19,12 +19,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "3e340c28-e549-31e5-80fe-f9285eb5d2c9"
+        ],
         "alias": [
             "End of Daylight"
         ],
         "status": [
             "ok"
-        ],
-        "mbid": "3e340c28-e549-31e5-80fe-f9285eb5d2c9"
+        ]
     }
 }

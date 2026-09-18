@@ -1,5 +1,5 @@
 {
-    "220bde5d-68b1-3620-a7a8-08c9bd7db989": {
+    "th10_13.txt": {
         "file": "th10_13.txt",
         "type": "work",
         "title": "神さびた古戦場　～ Suwa Foughten Field",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "220bde5d-68b1-3620-a7a8-08c9bd7db989"
+        ],
         "alias": [
             "神圣庄严的古战场　～ Suwa Foughten Field"
         ],
@@ -29,7 +32,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "220bde5d-68b1-3620-a7a8-08c9bd7db989"
+        ]
     }
 }

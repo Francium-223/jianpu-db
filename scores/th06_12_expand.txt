@@ -1,14 +1,13 @@
 %th06_12.txt
-MBID=fb488194-0b76-387e-bab6-db89dad28d95
 title=ツェペシュの幼き末裔
 type=work
 tag=th06,东方红魔乡,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th06
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th06
+MBID=fb488194-0b76-387e-bab6-db89dad28d95
 alias=特佩斯的年幼末裔
 copyright=ZUN
 status=draft
-mbid=fb488194-0b76-387e-bab6-db89dad28d95
 %---
 %------th06_12.txt_ZUN.buf------
 instrument=y cFyV

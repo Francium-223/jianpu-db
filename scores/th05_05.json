@@ -1,5 +1,5 @@
 {
-    "65b6bd5d-61c8-3d99-abbb-89758327efae": {
+    "th05_05.txt": {
         "file": "th05_05.txt",
         "type": "work",
         "title": "霊天　～ Spiritual Heaven",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "65b6bd5d-61c8-3d99-abbb-89758327efae"
+        ],
         "alias": [
             "灵天　～ Spiritual Heaven"
         ],
@@ -27,7 +30,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "65b6bd5d-61c8-3d99-abbb-89758327efae"
+        ]
     }
 }

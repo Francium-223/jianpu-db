@@ -1,14 +1,13 @@
 %th12_10.txt
-MBID=36b21f7a-c175-3258-a5f4-6f51e8d82f79
 title=魔界地方都市エソテリア
 type=work
 tag=th12,东方星莲船,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th12
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th12
+MBID=36b21f7a-c175-3258-a5f4-6f51e8d82f79
 alias=魔界地方都市秘境
 copyright=hisaraito,terebi
 status=draft
-mbid=36b21f7a-c175-3258-a5f4-6f51e8d82f79
 %---
 %------th12_10.txt_hisaraito.buf------
 OctavesBefore

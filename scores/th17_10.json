@@ -1,5 +1,5 @@
 {
-    "ceb12564-eebc-4cc0-aa41-c8f47e5e4db1": {
+    "th17_10.txt": {
         "file": "th17_10.txt",
         "type": "work",
         "title": "ビーストメトロポリス",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "ceb12564-eebc-4cc0-aa41-c8f47e5e4db1"
+        ],
         "alias": [
             "Beast Metropolis"
         ],
@@ -27,7 +30,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "ceb12564-eebc-4cc0-aa41-c8f47e5e4db1"
+        ]
     }
 }

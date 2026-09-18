@@ -1,5 +1,5 @@
 {
-    "7319499b-dd92-3fe2-9f5a-5cdfe57ee5eb": {
+    "th01_14.txt": {
         "file": "th01_14.txt",
         "type": "work",
         "title": "アイリス",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "7319499b-dd92-3fe2-9f5a-5cdfe57ee5eb"
+        ],
         "alias": [
             "鸢尾花"
         ],
@@ -27,7 +30,6 @@
         ],
         "status": [
             "ok"
-        ],
-        "mbid": "7319499b-dd92-3fe2-9f5a-5cdfe57ee5eb"
+        ]
     }
 }

@@ -1,14 +1,13 @@
 %th09_19.txt
-MBID=3927b10c-e237-3f70-b870-6d01bda21171
 title=魂の花 ～ Another Dream...
 type=work
 tag=th09,东方花映塚,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th09
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th09
+MBID=3927b10c-e237-3f70-b870-6d01bda21171
 alias=魂之花 ～ Another Dream...
 copyright=Kanade_KND34
 status=draft
-mbid=3927b10c-e237-3f70-b870-6d01bda21171
 %---
 %------th09_19.txt_Kanade_KND34.buf------
 OctavesBefore

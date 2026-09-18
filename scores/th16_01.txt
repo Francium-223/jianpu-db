@@ -1,14 +1,13 @@
 %th16_01.txt
-MBID=006412ea-297c-48e3-bdde-11b1c806382f
 title=桜舞い散る天空
 type=work
 tag=th16,东方天空璋,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th16
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th16
+MBID=006412ea-297c-48e3-bdde-11b1c806382f
 alias=樱花舞落的天空
 copyright=Yaki
 status=draft
-mbid=006412ea-297c-48e3-bdde-11b1c806382f
 %---
 %------th16_01.txt_Yaki.buf------
 instrument=MIDI Out

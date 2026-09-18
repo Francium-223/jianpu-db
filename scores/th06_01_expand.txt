@@ -1,14 +1,13 @@
 %th06_01.txt
-MBID=021ff404-3bf7-35ad-b637-9638cfcb737b
 title=赤より紅い夢
 type=work
 tag=th06,东方红魔乡,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th06
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th06
+MBID=021ff404-3bf7-35ad-b637-9638cfcb737b
 alias=比赤色更红的梦
 copyright=ZUN
 status=draft
-mbid=021ff404-3bf7-35ad-b637-9638cfcb737b
 %---
 %------th06_01.txt_ZUN.buf------
 instrument=y g²O zfrom ûg½ for 88P Comp.ZUN

@@ -1,14 +1,13 @@
 %th15_05.txt
-MBID=7983d0cc-6f5a-41d2-94e9-9d5cb5cb5d38
 title=九月のパンプキン
 type=work
 tag=th15,东方绀珠传,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th15
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th15
+MBID=7983d0cc-6f5a-41d2-94e9-9d5cb5cb5d38
 alias=九月的南瓜
 copyright=ryoya1295
 status=draft
-mbid=7983d0cc-6f5a-41d2-94e9-9d5cb5cb5d38
 %---
 %------th15_05.txt_ryoya1295.buf------
 OctavesBefore

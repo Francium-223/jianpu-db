@@ -1,5 +1,5 @@
 {
-    "08d3cf9b-8472-4cfd-88b6-650f2472f27c": {
+    "th18_13.txt": {
         "file": "th18_13.txt",
         "type": "work",
         "title": "あの賑やかな市場は今どこに　～ Immemorial Marketeers",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "08d3cf9b-8472-4cfd-88b6-650f2472f27c"
+        ],
         "alias": [
             "熙攘市场今何在　～ Immemorial Marketeers"
         ],
@@ -31,7 +34,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "08d3cf9b-8472-4cfd-88b6-650f2472f27c"
+        ]
     }
 }

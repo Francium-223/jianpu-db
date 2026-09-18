@@ -1,14 +1,13 @@
 %th12_16.txt
-MBID=e032e109-6df5-386f-9eed-359e3c34316e
 title=妖怪寺
 type=work
 tag=th12,东方星莲船,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th12
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th12
+MBID=e032e109-6df5-386f-9eed-359e3c34316e
 alias=妖怪寺
 copyright=TheDUBSpeedArts
 status=draft
-mbid=e032e109-6df5-386f-9eed-359e3c34316e
 %---
 %------th12_16.txt_TheDUBSpeedArts.buf------
 instrument=Untitled

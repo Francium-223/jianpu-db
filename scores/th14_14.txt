@@ -1,14 +1,13 @@
 %th14_14.txt
-MBID=da9f0c3a-2a73-4e77-aa93-739ed3c337ea
 title=魔力の雷雲
 type=work
 tag=th14,东方辉针城,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th14
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th14
+MBID=da9f0c3a-2a73-4e77-aa93-739ed3c337ea
 alias=魔力的雷云
 copyright=hisaraito,Kitaichi Rei,pieordie1
 status=draft
-mbid=da9f0c3a-2a73-4e77-aa93-739ed3c337ea
 %---
 %------th14_14.txt_hisaraito.buf------
 OctavesBefore

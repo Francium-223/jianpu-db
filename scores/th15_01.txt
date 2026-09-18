@@ -1,14 +1,13 @@
 %th15_01.txt
-MBID=15a09a43-2af8-4c14-86e6-774fa9a6de10
 title=宇宙巫女現る
 type=work
 tag=th15,东方绀珠传,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th15
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th15
+MBID=15a09a43-2af8-4c14-86e6-774fa9a6de10
 alias=宇宙巫女现身
 copyright=Karl Zuñiga
 status=draft
-mbid=15a09a43-2af8-4c14-86e6-774fa9a6de10
 %---
 %------th15_01.txt_Karl Zuñiga.buf------
 instrument=TG3 (Model D Close)

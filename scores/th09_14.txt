@@ -1,14 +1,13 @@
 %th09_14.txt
-MBID=dd5a639a-d33f-39a7-bab3-97aafbf8e675
 title=彼岸帰航　～ Riverside View
 type=work
 tag=th09,东方花映塚,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th09
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th09
+MBID=dd5a639a-d33f-39a7-bab3-97aafbf8e675
 alias=彼岸归航　～ Riverside View
 copyright=hisaraito,Kanade_KND34,wrbk - GM,wrbk - GS,Yuki
 status=draft
-mbid=dd5a639a-d33f-39a7-bab3-97aafbf8e675
 %---
 %------th09_14.txt_hisaraito.buf------
 OctavesBefore

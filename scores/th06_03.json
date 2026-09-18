@@ -1,5 +1,5 @@
 {
-    "fdff3cfe-f414-3aad-b692-9890ff03ec90": {
+    "th06_03.txt": {
         "file": "th06_03.txt",
         "type": "work",
         "title": "妖魔夜行",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "fdff3cfe-f414-3aad-b692-9890ff03ec90"
+        ],
         "alias": [
             "妖魔夜行"
         ],
@@ -31,7 +34,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "fdff3cfe-f414-3aad-b692-9890ff03ec90"
+        ]
     }
 }

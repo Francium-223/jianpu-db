@@ -1,5 +1,5 @@
 {
-    "e7cbcd08-3cb1-4482-aaad-575246afb4ea": {
+    "th03_06.txt": {
         "file": "th03_06.txt",
         "type": "work",
         "title": "Tabula rasa　～ 空白少女",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "e7cbcd08-3cb1-4482-aaad-575246afb4ea"
+        ],
         "alias": [
             "Tabula rasa　～ 空白少女"
         ],
@@ -29,7 +32,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "e7cbcd08-3cb1-4482-aaad-575246afb4ea"
+        ]
     }
 }

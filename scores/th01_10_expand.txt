@@ -1,14 +1,13 @@
 %th01_10.txt
-MBID=c9debb19-1ac5-42a6-a867-b6b0e2c0ac08
 title=The Legend of KAGE
 type=work
 tag=th01,东方灵异传,东方,touhou,东方原曲,ZUN,东方旧作原曲,东方整数作原曲
 usertag=th01
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th01
+MBID=c9debb19-1ac5-42a6-a867-b6b0e2c0ac08
 alias=The Legend of KAGE
 transcriber=Francium-223
 status=ok
-mbid=c9debb19-1ac5-42a6-a867-b6b0e2c0ac08
 %---
 subtitle=intro
 KeepLength

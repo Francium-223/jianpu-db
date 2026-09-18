@@ -1,5 +1,5 @@
 {
-    "2c6e4da6-a093-3ba0-bf70-3c3d045cca2a": {
+    "th05_17.txt": {
         "file": "th05_17.txt",
         "type": "work",
         "title": "the Grimoire of Alice",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "2c6e4da6-a093-3ba0-bf70-3c3d045cca2a"
+        ],
         "alias": [
             "the Grimoire of Alice"
         ],
@@ -30,7 +33,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "2c6e4da6-a093-3ba0-bf70-3c3d045cca2a"
+        ]
     }
 }

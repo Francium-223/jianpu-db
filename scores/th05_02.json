@@ -1,5 +1,5 @@
 {
-    "42d38efa-2776-3c8e-8bf7-40535bb00917": {
+    "th05_02.txt": {
         "file": "th05_02.txt",
         "type": "work",
         "title": "Dream Express",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "42d38efa-2776-3c8e-8bf7-40535bb00917"
+        ],
         "alias": [
             "Dream Express"
         ],
@@ -27,7 +30,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "42d38efa-2776-3c8e-8bf7-40535bb00917"
+        ]
     }
 }

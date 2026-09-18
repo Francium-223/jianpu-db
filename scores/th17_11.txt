@@ -1,14 +1,13 @@
 %th17_11.txt
-MBID=115eeb1d-84ec-4b95-b4ad-4ff267559540
 title=セラミックスの杖刀人
 type=work
 tag=th17,东方鬼形兽,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th17
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th17
+MBID=115eeb1d-84ec-4b95-b4ad-4ff267559540
 alias=陶瓷的杖刀人
 copyright=Electroll,hisaraito,leastLPZ
 status=draft
-mbid=115eeb1d-84ec-4b95-b4ad-4ff267559540
 %---
 %------th17_11.txt_Electroll.buf------
 instrument=Kontakt 5 [64bit]

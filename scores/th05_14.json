@@ -1,5 +1,5 @@
 {
-    "4702541c-2dc7-4ccb-a18a-9a89c95d84a1": {
+    "th05_14.txt": {
         "file": "th05_14.txt",
         "type": "work",
         "title": "世界の果て　～ World's End",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "4702541c-2dc7-4ccb-a18a-9a89c95d84a1"
+        ],
         "alias": [
             "世界的尽头　～ World's End"
         ],
@@ -28,7 +31,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "4702541c-2dc7-4ccb-a18a-9a89c95d84a1"
+        ]
     }
 }

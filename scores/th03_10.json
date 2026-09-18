@@ -1,5 +1,5 @@
 {
-    "2af759a2-f29c-4d1d-9420-61524dfdfc44": {
+    "th03_10.txt": {
         "file": "th03_10.txt",
         "type": "work",
         "title": "魔法決戦！　～ Fight it out!",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "2af759a2-f29c-4d1d-9420-61524dfdfc44"
+        ],
         "alias": [
             "魔法决战！　～ Fight it out!"
         ],
@@ -28,7 +31,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "2af759a2-f29c-4d1d-9420-61524dfdfc44"
+        ]
     }
 }

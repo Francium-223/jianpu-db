@@ -1,14 +1,13 @@
 %th06_03.txt
-MBID=fdff3cfe-f414-3aad-b692-9890ff03ec90
 title=妖魔夜行
 type=work
 tag=th06,东方红魔乡,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th06
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th06
+MBID=fdff3cfe-f414-3aad-b692-9890ff03ec90
 alias=妖魔夜行
 copyright=hisaraito,icebhm23230 - XG,sagittarius shikoku,sweetmusic,ZUN
 status=draft
-mbid=fdff3cfe-f414-3aad-b692-9890ff03ec90
 %---
 %------th06_03.txt_hisaraito.buf------
 OctavesBefore

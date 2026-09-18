@@ -1,5 +1,5 @@
 {
-    "5bf008d6-4114-3771-bd76-ffc40621affb": {
+    "th03_05.txt": {
         "file": "th03_05.txt",
         "type": "work",
         "title": "Dim. Dream",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "5bf008d6-4114-3771-bd76-ffc40621affb"
+        ],
         "alias": [
             "Dim. Dream"
         ],
@@ -27,7 +30,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "5bf008d6-4114-3771-bd76-ffc40621affb"
+        ]
     }
 }

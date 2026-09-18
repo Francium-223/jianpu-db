@@ -1,14 +1,13 @@
 %th13_07.txt
-MBID=dcb0a52c-dece-4854-9cc1-b079eb3e4df9
 title=リジッドパラダイス
 type=work
 tag=th13,东方神灵庙,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th13
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th13
+MBID=dcb0a52c-dece-4854-9cc1-b079eb3e4df9
 alias=Rigid Paradise
 copyright=unknown
 status=draft
-mbid=dcb0a52c-dece-4854-9cc1-b079eb3e4df9
 %---
 %------th13_07.txt_unknown.buf------
 instrument=TRACK 1

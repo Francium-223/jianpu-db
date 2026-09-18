@@ -1,14 +1,13 @@
 %th03_11.txt
-MBID=adfb1342-efe8-406d-a6a9-79e729a44986
 title=Sailor of Time
 type=work
 tag=th03,东方梦时空,东方,touhou,东方原曲,ZUN,东方旧作原曲,东方整数作原曲
 usertag=th03
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th03
+MBID=adfb1342-efe8-406d-a6a9-79e729a44986
 alias=Sailor of Time
 copyright=Blargzargo
 status=draft
-mbid=adfb1342-efe8-406d-a6a9-79e729a44986
 %---
 %------th03_11.txt_Blargzargo.buf------
 instrument=A

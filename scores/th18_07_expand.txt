@@ -1,14 +1,13 @@
 %th18_07.txt
-MBID=ece21377-3938-42c3-bbdd-4f3209eeab0f
 title=スモーキングドラゴン
 type=work
 tag=th18,东方虹龙洞,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th18
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th18
+MBID=ece21377-3938-42c3-bbdd-4f3209eeab0f
 alias=Smoking Dragon
 copyright=Karl Zuñiga,GS,GM2Native,TouhouMIDICreator
 status=draft
-mbid=ece21377-3938-42c3-bbdd-4f3209eeab0f
 %---
 %------th18_07.txt_Karl Zuñiga.buf------
 instrument=Elementics

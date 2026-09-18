@@ -1,5 +1,5 @@
 {
-    "37a77268-c1ce-3f39-b931-2da509c2b6c2": {
+    "th04_06.txt": {
         "file": "th04_06.txt",
         "type": "work",
         "title": "紅響曲　～ Scarlet Phoneme",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "37a77268-c1ce-3f39-b931-2da509c2b6c2"
+        ],
         "alias": [
             "红响曲　～ Scarlet Phoneme"
         ],
@@ -28,7 +31,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "37a77268-c1ce-3f39-b931-2da509c2b6c2"
+        ]
     }
 }

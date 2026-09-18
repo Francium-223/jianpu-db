@@ -1,5 +1,5 @@
 {
-    "0dbf445c-fa68-4aed-a914-92480a98082e": {
+    "th08_16.txt": {
         "file": "th08_16.txt",
         "type": "work",
         "title": "ヴォヤージュ1970",
@@ -19,12 +19,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "0dbf445c-fa68-4aed-a914-92480a98082e"
+        ],
         "alias": [
             "Voyage1970"
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "0dbf445c-fa68-4aed-a914-92480a98082e"
+        ]
     }
 }

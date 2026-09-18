@@ -1,14 +1,13 @@
 %th04_27.txt
-MBID=3b152cda-1bfe-348a-8453-30fdb825c4bb
 title=Magic Shop of Raspberry
 type=work
 tag=th04,东方幻想乡,东方,touhou,东方原曲,ZUN,东方旧作原曲,东方整数作原曲
 usertag=th04
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th04
+MBID=3b152cda-1bfe-348a-8453-30fdb825c4bb
 alias=Magic Shop of Raspberry
 copyright=TouhouMIDICreator
 status=draft
-mbid=3b152cda-1bfe-348a-8453-30fdb825c4bb
 %---
 %------th04_27.txt_TouhouMIDICreator.buf------
 OctavesBefore

@@ -1,5 +1,5 @@
 {
-    "4eeaa356-9acd-3751-8ffa-717ff90419d3": {
+    "th05_09.txt": {
         "file": "th05_09.txt",
         "type": "work",
         "title": "禁断の魔法　～ Forbidden Magic",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "4eeaa356-9acd-3751-8ffa-717ff90419d3"
+        ],
         "alias": [
             "禁忌的魔法　～ Forbidden Magic"
         ],
@@ -27,7 +30,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "4eeaa356-9acd-3751-8ffa-717ff90419d3"
+        ]
     }
 }

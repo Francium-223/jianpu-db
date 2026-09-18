@@ -1,5 +1,5 @@
 {
-    "b5c973ac-14e7-4e9f-bde1-bb5c0cde5490": {
+    "th14_02.txt": {
         "file": "th14_02.txt",
         "type": "work",
         "title": "ミストレイク",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "b5c973ac-14e7-4e9f-bde1-bb5c0cde5490"
+        ],
         "alias": [
             "Mist Lake"
         ],
@@ -27,7 +30,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "b5c973ac-14e7-4e9f-bde1-bb5c0cde5490"
+        ]
     }
 }

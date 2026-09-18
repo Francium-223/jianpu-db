@@ -1,14 +1,13 @@
 %th06_04.txt
-MBID=015eb428-a7e0-3ce3-a36f-5e6821fd08b9
 title=ルーネイトエルフ
 type=work
 tag=th06,东方红魔乡,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th06
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th06
+MBID=015eb428-a7e0-3ce3-a36f-5e6821fd08b9
 alias=Lunate Elf
 copyright=rongns_2,ZUN
 status=draft
-mbid=015eb428-a7e0-3ce3-a36f-5e6821fd08b9
 %---
 %------th06_04.txt_rongns_2.buf------
 instrument=CH01

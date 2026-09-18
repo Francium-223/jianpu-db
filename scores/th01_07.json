@@ -1,5 +1,5 @@
 {
-    "1e0a6286-3b04-4bf5-80b7-da54aadfdb4f": {
+    "th01_07.txt": {
         "file": "th01_07.txt",
         "type": "work",
         "title": "Oriental Magician",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "1e0a6286-3b04-4bf5-80b7-da54aadfdb4f"
+        ],
         "alias": [
             "Oriental Magician"
         ],
@@ -27,7 +30,6 @@
         ],
         "status": [
             "ok"
-        ],
-        "mbid": "1e0a6286-3b04-4bf5-80b7-da54aadfdb4f"
+        ]
     }
 }

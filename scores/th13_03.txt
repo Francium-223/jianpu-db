@@ -1,14 +1,13 @@
 %th13_03.txt
-MBID=c1b1fa18-ecb6-4636-81d1-8e3b45d4636a
 title=ゴーストリード
 type=work
 tag=th13,东方神灵庙,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th13
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th13
+MBID=c1b1fa18-ecb6-4636-81d1-8e3b45d4636a
 alias=Ghost Lead
 copyright=Amiya - GM,Amiya - GS,unknown
 status=draft
-mbid=c1b1fa18-ecb6-4636-81d1-8e3b45d4636a
 %---
 %------th13_03.txt_Amiya - GM.buf------
 OctavesBefore

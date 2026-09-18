@@ -1,14 +1,13 @@
 %th13_02.txt
-MBID=04e6f332-3e1f-4ae3-8752-bc4798e147e9
 title=死霊の夜桜
 type=work
 tag=th13,东方神灵庙,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th13
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th13
+MBID=04e6f332-3e1f-4ae3-8752-bc4798e147e9
 alias=死灵的夜樱
 copyright=unknown
 status=draft
-mbid=04e6f332-3e1f-4ae3-8752-bc4798e147e9
 %---
 %------th13_02.txt_unknown.buf------
 OctavesBefore

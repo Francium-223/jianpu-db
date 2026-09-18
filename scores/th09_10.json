@@ -1,5 +1,5 @@
 {
-    "4e0d26d0-f36c-383c-baef-1f3d7ac0c3a4": {
+    "th09_10.txt": {
         "file": "th09_10.txt",
         "type": "work",
         "title": "お宇佐さまの素い幡",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "4e0d26d0-f36c-383c-baef-1f3d7ac0c3a4"
+        ],
         "alias": [
             "宇佐大人的白旗"
         ],
@@ -28,7 +31,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "4e0d26d0-f36c-383c-baef-1f3d7ac0c3a4"
+        ]
     }
 }

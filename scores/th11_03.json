@@ -1,5 +1,5 @@
 {
-    "1bc0f333-a2f1-336e-bfd8-6e189e77c902": {
+    "th11_03.txt": {
         "file": "th11_03.txt",
         "type": "work",
         "title": "封じられた妖怪　～ Lost Place",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "1bc0f333-a2f1-336e-bfd8-6e189e77c902"
+        ],
         "alias": [
             "被封印的妖怪　～ Lost Place"
         ],
@@ -27,7 +30,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "1bc0f333-a2f1-336e-bfd8-6e189e77c902"
+        ]
     }
 }

@@ -1,14 +1,13 @@
 %th06_16.txt
-MBID=a1b79cf4-3f54-343d-b76a-a45cc6574e40
 title=紅より儚い永遠
 type=work
 tag=th06,东方红魔乡,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th06
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th06
+MBID=a1b79cf4-3f54-343d-b76a-a45cc6574e40
 alias=比红色更虚无的永远
 copyright=ZUN
 status=draft
-mbid=a1b79cf4-3f54-343d-b76a-a45cc6574e40
 %---
 %------th06_16.txt_ZUN.buf------
 instrument=y gæèR¢i zg½ for 88P Comp.ZUN

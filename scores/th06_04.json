@@ -1,5 +1,5 @@
 {
-    "015eb428-a7e0-3ce3-a36f-5e6821fd08b9": {
+    "th06_04.txt": {
         "file": "th06_04.txt",
         "type": "work",
         "title": "ルーネイトエルフ",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "015eb428-a7e0-3ce3-a36f-5e6821fd08b9"
+        ],
         "alias": [
             "Lunate Elf"
         ],
@@ -28,7 +31,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "015eb428-a7e0-3ce3-a36f-5e6821fd08b9"
+        ]
     }
 }

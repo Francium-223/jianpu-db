@@ -1,5 +1,5 @@
 {
-    "0cecba7e-ff8f-4d27-8526-73a1c2f9cccb": {
+    "th04_16.txt": {
         "file": "th04_16.txt",
         "type": "work",
         "title": "禁じざるをえない遊戯",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "0cecba7e-ff8f-4d27-8526-73a1c2f9cccb"
+        ],
         "alias": [
             "不可不禁止的游戏"
         ],
@@ -28,7 +31,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "0cecba7e-ff8f-4d27-8526-73a1c2f9cccb"
+        ]
     }
 }

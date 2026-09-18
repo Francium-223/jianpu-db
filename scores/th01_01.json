@@ -1,5 +1,5 @@
 {
-    "52e3b2d1-80ff-35a7-b11f-f9342c08f22d": {
+    "th01_01.txt": {
         "file": "th01_01.txt",
         "type": "work",
         "title": "A Sacred Lot",
@@ -19,12 +19,14 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "52e3b2d1-80ff-35a7-b11f-f9342c08f22d"
+        ],
         "transcriber": [
             "Francium-223"
         ],
         "status": [
             "ok"
-        ],
-        "mbid": "52e3b2d1-80ff-35a7-b11f-f9342c08f22d"
+        ]
     }
 }

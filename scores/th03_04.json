@@ -1,5 +1,5 @@
 {
-    "b3e895a4-900a-34d8-9a81-d1cb23316fd4": {
+    "th03_04.txt": {
         "file": "th03_04.txt",
         "type": "work",
         "title": "Reincarnation",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "b3e895a4-900a-34d8-9a81-d1cb23316fd4"
+        ],
         "alias": [
             "Reincarnation"
         ],
@@ -30,7 +33,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "b3e895a4-900a-34d8-9a81-d1cb23316fd4"
+        ]
     }
 }

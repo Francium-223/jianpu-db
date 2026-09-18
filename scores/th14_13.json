@@ -1,5 +1,5 @@
 {
-    "d5447ac1-c303-471a-a4f1-90752726a0d5": {
+    "th14_13.txt": {
         "file": "th14_13.txt",
         "type": "work",
         "title": "輝く針の小人族　～ Little Princess",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "d5447ac1-c303-471a-a4f1-90752726a0d5"
+        ],
         "alias": [
             "辉光之针的小人族　～ Little Princess"
         ],
@@ -32,7 +35,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "d5447ac1-c303-471a-a4f1-90752726a0d5"
+        ]
     }
 }

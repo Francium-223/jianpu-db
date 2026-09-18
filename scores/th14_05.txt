@@ -1,14 +1,13 @@
 %th14_05.txt
-MBID=c6fe3ce6-e238-42ac-90a8-3351cf2f3a36
 title=柳の下のデュラハン
 type=work
 tag=th14,东方辉针城,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th14
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th14
+MBID=c6fe3ce6-e238-42ac-90a8-3351cf2f3a36
 alias=柳树下的杜拉罕
 copyright=unknown 2,unknown
 status=draft
-mbid=c6fe3ce6-e238-42ac-90a8-3351cf2f3a36
 %---
 %------th14_05.txt_unknown 2.buf------
 OctavesBefore

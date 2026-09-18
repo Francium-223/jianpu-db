@@ -1,5 +1,5 @@
 {
-    "fb3dd9db-6660-35e5-a214-ed47a194552f": {
+    "th10_04.txt": {
         "file": "th10_04.txt",
         "type": "work",
         "title": "厄神様の通り道　～ Dark Road",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "fb3dd9db-6660-35e5-a214-ed47a194552f"
+        ],
         "alias": [
             "厄神降临之路　～ Dark Road"
         ],
@@ -30,7 +33,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "fb3dd9db-6660-35e5-a214-ed47a194552f"
+        ]
     }
 }

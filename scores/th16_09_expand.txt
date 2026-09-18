@@ -1,14 +1,13 @@
 %th16_09.txt
-MBID=ffc38828-36e7-43b4-ae4f-0284e34faddf
 title=魔法の笠地蔵
 type=work
 tag=th16,东方天空璋,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th16
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th16
+MBID=ffc38828-36e7-43b4-ae4f-0284e34faddf
 alias=魔法的笠地藏
 copyright=ryoya1295
 status=draft
-mbid=ffc38828-36e7-43b4-ae4f-0284e34faddf
 %---
 %------th16_09.txt_ryoya1295.buf------
 OctavesBefore

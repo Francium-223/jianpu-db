@@ -1,5 +1,5 @@
 {
-    "c9debb19-1ac5-42a6-a867-b6b0e2c0ac08": {
+    "th01_10.txt": {
         "file": "th01_10.txt",
         "type": "work",
         "title": "The Legend of KAGE",
@@ -19,6 +19,9 @@
             "东方旧作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "c9debb19-1ac5-42a6-a867-b6b0e2c0ac08"
+        ],
         "alias": [
             "The Legend of KAGE"
         ],
@@ -27,7 +30,6 @@
         ],
         "status": [
             "ok"
-        ],
-        "mbid": "c9debb19-1ac5-42a6-a867-b6b0e2c0ac08"
+        ]
     }
 }

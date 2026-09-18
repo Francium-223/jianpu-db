@@ -1,14 +1,13 @@
 %th18_03.txt
-MBID=8cb2ae05-f4c1-4b13-a5a7-6d922eb98dcb
 title=大吉キトゥン
 type=work
 tag=th18,东方虹龙洞,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th18
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th18
+MBID=8cb2ae05-f4c1-4b13-a5a7-6d922eb98dcb
 alias=大吉猫咪
 copyright=EpreTroll - piano only,Karl Zuñiga,TouhouMIDICreator
 status=draft
-mbid=8cb2ae05-f4c1-4b13-a5a7-6d922eb98dcb
 %---
 %------th18_03.txt_EpreTroll - piano only.buf------
 instrument=MIDITrack

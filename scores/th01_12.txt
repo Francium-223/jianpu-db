@@ -1,14 +1,13 @@
 %th01_12.txt
-MBID=9adbcb65-f873-493c-8477-a07511c0536f
 title=死なばもろとも
 type=work
 tag=th01,东方灵异传,东方,touhou,东方原曲,ZUN,东方旧作原曲,东方整数作原曲
 usertag=th01
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th01
+MBID=9adbcb65-f873-493c-8477-a07511c0536f
 alias=同归于尽,Civilization of Magic
 transcriber=Francium-223
 status=ok
-mbid=9adbcb65-f873-493c-8477-a07511c0536f
 %---
 subtitle=intro,chorus
 KeepLength

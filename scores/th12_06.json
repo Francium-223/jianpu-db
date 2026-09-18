@@ -1,5 +1,5 @@
 {
-    "6aab447f-83c0-38b3-a2ca-4912291a3eaf": {
+    "th12_06.txt": {
         "file": "th12_06.txt",
         "type": "work",
         "title": "スカイルーイン",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "6aab447f-83c0-38b3-a2ca-4912291a3eaf"
+        ],
         "alias": [
             "Sky Ruin"
         ],
@@ -27,7 +30,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "6aab447f-83c0-38b3-a2ca-4912291a3eaf"
+        ]
     }
 }

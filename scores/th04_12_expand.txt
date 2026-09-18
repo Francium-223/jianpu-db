@@ -1,14 +1,13 @@
 %th04_12.txt
-MBID=d5d2185e-5fd6-3fca-9c47-62394a61c69e
 title=Lotus Love
 type=work
 tag=th04,东方幻想乡,东方,touhou,东方原曲,ZUN,东方旧作原曲,东方整数作原曲
 usertag=th04
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th04
+MBID=d5d2185e-5fd6-3fca-9c47-62394a61c69e
 alias=Lotus Love
 copyright=Blargzargo,TouhouMIDICreator,unknown
 status=draft
-mbid=d5d2185e-5fd6-3fca-9c47-62394a61c69e
 %---
 %------th04_12.txt_Blargzargo.buf------
 instrument=A

@@ -1,5 +1,5 @@
 {
-    "92a00ef2-dbf7-4e6d-991d-9419558c0fc7": {
+    "th16_12.txt": {
         "file": "th16_12.txt",
         "type": "work",
         "title": "イントゥ・バックドア",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "92a00ef2-dbf7-4e6d-991d-9419558c0fc7"
+        ],
         "alias": [
             "Into Backdoor"
         ],
@@ -28,7 +31,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "92a00ef2-dbf7-4e6d-991d-9419558c0fc7"
+        ]
     }
 }

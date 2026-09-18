@@ -1,5 +1,5 @@
 {
-    "d764ced5-3a72-3d82-80d9-da7dea0e3c2c": {
+    "th07_12.txt": {
         "file": "th07_12.txt",
         "type": "work",
         "title": "アルティメットトゥルース",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "d764ced5-3a72-3d82-80d9-da7dea0e3c2c"
+        ],
         "alias": [
             "Ultimate Truth"
         ],
@@ -28,7 +31,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "d764ced5-3a72-3d82-80d9-da7dea0e3c2c"
+        ]
     }
 }

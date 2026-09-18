@@ -1,5 +1,5 @@
 {
-    "2971335a-00d0-31a2-8b84-ecfc8ab72ae4": {
+    "th06_06.txt": {
         "file": "th06_06.txt",
         "type": "work",
         "title": "上海紅茶館　～ Chinese Tea",
@@ -19,6 +19,9 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "2971335a-00d0-31a2-8b84-ecfc8ab72ae4"
+        ],
         "alias": [
             "上海红茶馆　～ Chinese Tea"
         ],
@@ -31,7 +34,6 @@
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "2971335a-00d0-31a2-8b84-ecfc8ab72ae4"
+        ]
     }
 }

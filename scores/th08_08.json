@@ -1,5 +1,5 @@
 {
-    "cdfdfa58-0f69-3482-abfd-a70db80f9e6e": {
+    "th08_08.txt": {
         "file": "th08_08.txt",
         "type": "work",
         "title": "永夜の報い　～ Imperishable Night",
@@ -19,12 +19,14 @@
             "东方新作原曲",
             "东方整数作原曲"
         ],
+        "MBID": [
+            "cdfdfa58-0f69-3482-abfd-a70db80f9e6e"
+        ],
         "alias": [
             "永夜的报应　～ Imperishable Night"
         ],
         "status": [
             "draft"
-        ],
-        "mbid": "cdfdfa58-0f69-3482-abfd-a70db80f9e6e"
+        ]
     }
 }
