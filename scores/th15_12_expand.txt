@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th15
 MBID=fb27152c-a554-4324-a9bd-ecbeab6cad05
 alias=故乡之星倒映之海
 copyright=KR.Palto47 - GS,Kitaichi Rei,KR.Palto47 - SD20 GM2Native,KR.Palto47 - SD80-90 Native,ryoya1295
-status=draft
+status=midi
 %---
 %------th15_12.txt_KR.Palto47 - GS.buf------
 instrument=Pristine Bell-1

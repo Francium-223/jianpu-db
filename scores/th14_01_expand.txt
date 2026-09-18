@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th14
 MBID=4e6af92e-dfc0-494b-af63-1af46b7e4ac5
 alias=不可思议的驱魔棒
 copyright=gondayu,nitayahisa - revised,nitayahisa,unknown
-status=draft
+status=midi
 %---
 %------th14_01.txt_gondayu.buf------
 instrument=System Setup

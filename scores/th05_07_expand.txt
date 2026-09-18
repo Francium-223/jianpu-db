@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th05
 MBID=57481aab-ef2b-3758-b2e4-f3b9c3d04bc5
 alias=Plastic Mind
 copyright=icebhm23230,sweetmusic
-status=draft
+status=midi
 %---
 %------th05_07.txt_icebhm23230.buf------
 instrument=Touhou 5: Mystic Square - Plastic Mind

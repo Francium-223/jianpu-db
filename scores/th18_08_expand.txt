@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th18
 MBID=ffe8a760-54a2-4bf0-bf3c-9fb78d47e26f
 alias=日渐荒废的工业遗址
 copyright=Karl Zuñiga
-status=draft
+status=midi
 %---
 %------th18_08.txt_Karl Zuñiga.buf------
 instrument=GA5 (Elementics)

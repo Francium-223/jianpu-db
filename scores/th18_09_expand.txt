@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th18
 MBID=4b62fc1b-0e93-43e2-aa2b-34f6b24bfe6d
 alias=神代矿石
 copyright=Karl Zuñiga
-status=draft
+status=midi
 %---
 %------th18_09.txt_Karl Zuñiga.buf------
 instrument=TG3 (Model D Close)

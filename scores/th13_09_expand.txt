@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th13
 MBID=97e4748a-ee3a-41bc-8a23-849c879c43aa
 alias=古老的元神
 copyright=hisaraito,icebhm23230,yuki but edited by someone,yuki
-status=draft
+status=midi
 %---
 %------th13_09.txt_hisaraito.buf------
 OctavesBefore

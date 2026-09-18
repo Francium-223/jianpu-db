@@ -5,7 +5,7 @@ usertag=th08
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th08
 MBID=9cf4e3d8-3578-43a1-8bd8-35a0f30c8354
 alias=永夜抄 ～ Eastern Night.
-status=draft
+status=midi
 %---
 1
 %END

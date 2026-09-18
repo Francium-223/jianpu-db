@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th13
 MBID=91b0b82f-45ed-4dc6-949b-99b74adbb45e
 alias=梦殿大祀庙
 copyright=hisaraito,unknown,yuki
-status=draft
+status=midi
 %---
 %------th13_10.txt_hisaraito.buf------
 OctavesBefore

@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th02
 MBID=dc84677c-7842-3a3f-8888-f5ca4596cd38
 alias=远野之森
 copyright=Blargzargo,TheDUBSpeedArts,Zun & Mr_KrzYch00
-status=draft
+status=midi
 %---
 %------th02_14.txt_Blargzargo.buf------
 instrument=A

@@ -5,7 +5,7 @@ usertag=th08
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th08
 MBID=53734d6e-2982-36cf-a124-881dd7eb28a0
 alias=灰姑娘的笼子　～ Kagome-Kagome
-status=draft
+status=midi
 %---
 1
 %END

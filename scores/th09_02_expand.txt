@@ -5,7 +5,7 @@ usertag=th09
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th09
 MBID=e4858fa1-7ba2-3d99-80a8-e3e0f74fa7b5
 alias=春色小径 ～ Colorful Path
-status=draft
+status=midi
 %---
 1
 %END

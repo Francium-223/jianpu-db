@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th04
 MBID=f29018dc-73c5-49d3-86c9-943d2798ca60
 alias=幻想的居民
 copyright=Blargzargo
-status=draft
+status=midi
 %---
 %------th04_22.txt_Blargzargo.buf------
 instrument=A

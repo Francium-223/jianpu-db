@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th05
 MBID=4b9094a9-5ba6-418d-ac91-3aaa03c50292
 alias=Peaceful Romancer
 copyright=ryoya1295,ZUN
-status=draft
+status=midi
 %---
 %------th05_22.txt_ryoya1295.buf------
 OctavesBefore

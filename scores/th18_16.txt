@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th18
 MBID=655927db-7546-46cb-a84a-637d9b7e4dbf
 alias=风暴过后的星期日
 copyright=Karl Zuñiga
-status=draft
+status=midi
 %---
 %------th18_16.txt_Karl Zuñiga.buf------
 instrument=TG3 (Bösendorfer 290 Close)

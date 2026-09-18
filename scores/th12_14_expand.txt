@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th12
 MBID=de7d12bc-7971-3591-b8ac-94080e16d4c4
 alias=夜空中的UFO恋曲
 copyright=terebi
-status=draft
+status=midi
 %---
 %------th12_14.txt_terebi.buf------
 instrument=Finger Bass

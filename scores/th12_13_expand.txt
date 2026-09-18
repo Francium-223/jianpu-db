@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th12
 MBID=21c4f440-0de4-3286-9fd8-a7094692d303
 alias=感情的摩天楼 ～ Cosmic Mind
 copyright=KR.Palto47 - GS,KR.Palto47 - SD90,KR.Palto47 - XG,sweetmusic,terebi
-status=draft
+status=midi
 %---
 %------th12_13.txt_KR.Palto47 - GS.buf------
 instrument=Reed Romance

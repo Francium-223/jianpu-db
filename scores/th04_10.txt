@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th04
 MBID=08a016ec-18fc-34d9-9ab6-e3b6007787ef
 alias=少女绮想曲　～ Capriccio
 copyright=Blargzargo,TouhouMIDICreator,ZUN
-status=draft
+status=midi
 %---
 %------th04_10.txt_TouhouMIDICreator.buf------
 instrument=FM1

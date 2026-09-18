@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th03
 MBID=fd2b7b5d-52a4-35e4-a5f0-3a21ab38bc26
 alias=东方妖恋谈
 copyright=Blargzargo,TouhouMIDICreator
-status=draft
+status=midi
 %---
 %------th03_03.txt_Blargzargo.buf------
 instrument=A

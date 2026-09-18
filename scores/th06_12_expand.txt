@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th06
 MBID=fb488194-0b76-387e-bab6-db89dad28d95
 alias=特佩斯的年幼末裔
 copyright=ZUN
-status=draft
+status=midi
 %---
 %------th06_12.txt_ZUN.buf------
 instrument=y cFyV

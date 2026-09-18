@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th14
 MBID=da9f0c3a-2a73-4e77-aa93-739ed3c337ea
 alias=魔力的雷云
 copyright=hisaraito,Kitaichi Rei,pieordie1
-status=draft
+status=midi
 %---
 %------th14_14.txt_hisaraito.buf------
 OctavesBefore

@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th16
 MBID=e299d0cf-c1be-4a85-b77a-5c51c62fc217
 alias=被秘匿的四个季节
 copyright=ryoya1295,ShinkoNet
-status=draft
+status=midi
 %---
 %------th16_13.txt_ryoya1295.buf------
 OctavesBefore

@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th18
 MBID=ab7ff14b-3f06-4ab4-8946-cb00ec894370
 alias=驹草盛开的万年积雪
 copyright=Karl Zuñiga
-status=draft
+status=midi
 %---
 %------th18_06.txt_Karl Zuñiga.buf------
 instrument=Elementics

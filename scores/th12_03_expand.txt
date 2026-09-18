@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th12
 MBID=8c8a830e-e455-334c-b0e1-b3658b7d16ef
 alias=小小的贤将
 copyright=Jacob31593,Barhoum,hisaraito,rongns_2,sweetmusic,terebi
-status=draft
+status=midi
 %---
 %------th12_03.txt_Jacob31593.buf------
 instrument=Track 3

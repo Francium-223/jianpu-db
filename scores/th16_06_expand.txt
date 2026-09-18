@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th16
 MBID=153fba9b-bae4-40ba-91f8-4dec26243afe
 alias=徜徉于樱色之海
 copyright=ryoya1295,ShinkoNet
-status=draft
+status=midi
 %---
 %------th16_06.txt_ryoya1295.buf------
 OctavesBefore

@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th03
 MBID=ea059928-2377-34f2-bc4b-6c155e909762
 alias=Selection
 copyright=Blargzargo,Wobuffet3
-status=draft
+status=midi
 %---
 %------th03_02.txt_Blargzargo.buf------
 instrument=A

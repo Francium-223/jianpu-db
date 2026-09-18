@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th12
 MBID=1c4a70b4-ec40-34ad-9254-278dc1903996
 alias=春之港湾
 copyright=ryoya1295,terebi,yoimutu
-status=draft
+status=midi
 %---
 %------th12_02.txt_ryoya1295.buf------
 OctavesBefore

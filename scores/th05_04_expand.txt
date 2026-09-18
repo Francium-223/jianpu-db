@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th05
 MBID=d6c35ea8-d9d7-3ceb-ba5b-bcd3d91a9215
 alias=梦想时空
 copyright=icebhm23230,ryoya1295,ZUN
-status=draft
+status=midi
 %---
 %------th05_04.txt_icebhm23230.buf------
 instrument=Touhou 5: Mystic Square - Dimension of Reverie

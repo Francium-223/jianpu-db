@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th03
 MBID=da8a62f6-3b65-3b3d-b331-7ae4398d9230
 alias=梦幻游戏　～ Dream War
 copyright=Blargzargo
-status=draft
+status=midi
 %---
 %------th03_09.txt_Blargzargo.buf------
 instrument=A

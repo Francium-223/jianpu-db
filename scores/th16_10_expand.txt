@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th16
 MBID=5ccd17ae-da3f-48da-a12a-d77a92352aee
 alias=禁忌之门对侧,是此世还是彼世
 copyright=ryoya1295
-status=draft
+status=midi
 %---
 %------th16_10.txt_ryoya1295.buf------
 OctavesBefore

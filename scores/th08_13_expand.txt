@@ -5,7 +5,7 @@ usertag=th08
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th08
 MBID=0bbb84c2-21e7-3039-8870-2a2e74efeefa
 alias=Voyage1969
-status=draft
+status=midi
 %---
 1
 %END

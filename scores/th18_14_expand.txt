@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th18
 MBID=6f84c001-3edd-42bb-9bb2-4baa865f5ba4
 alias=幻想地下大轨道网
 copyright=Karl Zuñiga
-status=draft
+status=midi
 %---
 %------th18_14.txt_Karl Zuñiga.buf------
 instrument=TG3 (Model D Close)

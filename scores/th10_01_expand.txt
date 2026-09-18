@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th10
 MBID=6e83c5bf-17c6-36fb-89a7-d0304d448a51
 alias=被封印的众神
 copyright=unknown
-status=draft
+status=midi
 %---
 %------th10_01.txt_unknown.buf------
 instrument=CH #1

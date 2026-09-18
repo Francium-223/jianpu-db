@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th05
 MBID=376e68c5-bf56-3f4f-81a9-35ca04a46243
 alias=绯红的少女 ～ Crimson Dead!!
 copyright=ZUN
-status=draft
+status=midi
 %---
 %------th05_10.txt_ZUN.buf------
 instrument=y ^gÌ­@` Crimson Dead!! zfrom öãYk for sc-88Pro ZUN

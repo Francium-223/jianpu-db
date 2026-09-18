@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th04
 MBID=f826d791-249e-408c-84d7-0540db63ca4d
 alias=Dreamy pilot
 copyright=TouhouMIDICreator
-status=draft
+status=midi
 %---
 %------th04_24.txt_TouhouMIDICreator.buf------
 instrument=FM1

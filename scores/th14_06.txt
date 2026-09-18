@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th14
 MBID=4cf622fe-7f51-4933-bf8b-a6310b39dbc7
 alias=满月的竹林
 copyright=Shirai Yuki - GM,Shirai Yuki - XG,unknown 2,unknown
-status=draft
+status=midi
 %---
 %------th14_06.txt_Shirai Yuki - GM.buf------
 instrument=Gtr

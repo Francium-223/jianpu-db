@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th18
 MBID=08d3cf9b-8472-4cfd-88b6-650f2472f27c
 alias=熙攘市场今何在　～ Immemorial Marketeers
 copyright=Karl Zuñiga,KR.Palto47 - GM2,KR.Palto47 - GS,KR.Palto47 - SD90,KR.Palto47 - XG
-status=draft
+status=midi
 %---
 %------th18_13.txt_Karl Zuñiga.buf------
 instrument=SD-90 (Romantic Tp)

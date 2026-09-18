@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th14
 MBID=c423714d-fb91-4617-bd57-4246d3a6b60c
 alias=非常非常神奇的道具们
 copyright=Nitayahisa
-status=draft
+status=midi
 %---
 %------th14_17.txt_Nitayahisa.buf------
 OctavesBefore

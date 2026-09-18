@@ -5,7 +5,7 @@ usertag=th02
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th02
 MBID=dd24ee73-362f-4ce9-97f8-3b14927ccaf1
 alias=Extra Love
-status=draft
+status=midi
 %---
 subtitle=intro
 ,6 - 3 - 6 - 7 - '1 - - - - - 7 -

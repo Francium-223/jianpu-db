@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th15
 MBID=2a1d585c-d6cb-4d8a-8b07-be5b59ead8dc
 alias=兔已着陆
 copyright=LeastLPZ,thejunkjard
-status=draft
+status=midi
 %---
 %------th15_03.txt_LeastLPZ.buf------
 instrument=Saw

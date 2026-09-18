@@ -5,7 +5,7 @@ usertag=th08
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th08
 MBID=5c41937e-6fd6-3586-a53c-1bdfa6629451
 alias=Plain Asia
-status=draft
+status=midi
 %---
 1
 %END

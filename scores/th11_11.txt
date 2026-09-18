@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th11
 MBID=e90f08f6-95a4-3364-8bb6-42913379fa31
 alias=尸体旅行　～ Be of good cheer!
 copyright=Shirai Yuki - GM,Shirai Yuki - incomplete,Shirai Yuki - XG,yuki
-status=draft
+status=midi
 %---
 %------th11_11.txt_Shirai Yuki - GM.buf------
 instrument=E.Gtr

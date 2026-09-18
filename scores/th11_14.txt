@@ -6,7 +6,7 @@ tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th11
 MBID=f0d1e652-8eb2-36e1-bd86-be302b2a2de1
 alias=Last Remote
 copyright=Akira,hisaraito,rongns_2,sagittarius shikoku,sweetmusic,unknown
-status=draft
+status=midi
 %---
 %------th11_14.txt_Akira.buf------
 OctavesBefore
