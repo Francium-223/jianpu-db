@@ -1,7 +1,8 @@
 {
     "th08_05.txt": {
-        "file": "th08_05.txt",
-        "type": "work",
+        "file": [
+            "th08_05.txt"
+        ],
         "title": "もう歌しか聞こえない",
         "usertag": [
             "th08"

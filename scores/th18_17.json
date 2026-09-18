@@ -1,7 +1,8 @@
 {
     "th18_17.txt": {
-        "file": "th18_17.txt",
-        "type": "work",
+        "file": [
+            "th18_17.txt"
+        ],
         "title": "虹色の世界",
         "usertag": [
             "th18"

@@ -1,7 +1,8 @@
 {
     "th05_11.txt": {
-        "file": "th05_11.txt",
-        "type": "work",
+        "file": [
+            "th05_11.txt"
+        ],
         "title": "裏切りの少女　～ Judas Kiss",
         "usertag": [
             "th05"

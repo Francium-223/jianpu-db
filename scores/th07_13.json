@@ -1,7 +1,8 @@
 {
     "th07_13.txt": {
-        "file": "th07_13.txt",
-        "type": "work",
+        "file": [
+            "th07_13.txt"
+        ],
         "title": "幽雅に咲かせ、墨染の桜　～ Border of Life",
         "usertag": [
             "th07"

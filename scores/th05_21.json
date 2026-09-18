@@ -1,7 +1,8 @@
 {
     "th05_21.txt": {
-        "file": "th05_21.txt",
-        "type": "work",
+        "file": [
+            "th05_21.txt"
+        ],
         "title": "Mystic Dream",
         "usertag": [
             "th05"

@@ -1,7 +1,8 @@
 {
     "th11_16.txt": {
-        "file": "th11_16.txt",
-        "type": "work",
+        "file": [
+            "th11_16.txt"
+        ],
         "title": "地霊達の帰宅",
         "usertag": [
             "th11"

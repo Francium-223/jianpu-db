@@ -1,7 +1,8 @@
 {
     "th18_14.txt": {
-        "file": "th18_14.txt",
-        "type": "work",
+        "file": [
+            "th18_14.txt"
+        ],
         "title": "幻想の地下大線路網",
         "usertag": [
             "th18"

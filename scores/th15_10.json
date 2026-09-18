@@ -1,7 +1,8 @@
 {
     "th15_10.txt": {
-        "file": "th15_10.txt",
-        "type": "work",
+        "file": [
+            "th15_10.txt"
+        ],
         "title": "遥か３８万キロのボヤージュ",
         "usertag": [
             "th15"

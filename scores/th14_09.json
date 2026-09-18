@@ -1,7 +1,8 @@
 {
     "th14_09.txt": {
-        "file": "th14_09.txt",
-        "type": "work",
+        "file": [
+            "th14_09.txt"
+        ],
         "title": "幻想浄瑠璃",
         "usertag": [
             "th14"

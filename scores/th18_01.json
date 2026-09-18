@@ -1,7 +1,8 @@
 {
     "th18_01.txt": {
-        "file": "th18_01.txt",
-        "type": "work",
+        "file": [
+            "th18_01.txt"
+        ],
         "title": "虹の架かる幻想郷",
         "usertag": [
             "th18"

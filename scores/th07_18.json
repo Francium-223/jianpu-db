@@ -1,7 +1,8 @@
 {
     "th07_18.txt": {
-        "file": "th07_18.txt",
-        "type": "work",
+        "file": [
+            "th07_18.txt"
+        ],
         "title": "ネクロファンタジア",
         "usertag": [
             "th07"

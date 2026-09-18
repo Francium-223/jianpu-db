@@ -1,7 +1,8 @@
 {
     "th05_09.txt": {
-        "file": "th05_09.txt",
-        "type": "work",
+        "file": [
+            "th05_09.txt"
+        ],
         "title": "禁断の魔法　～ Forbidden Magic",
         "usertag": [
             "th05"

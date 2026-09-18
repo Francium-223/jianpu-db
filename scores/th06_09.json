@@ -1,7 +1,8 @@
 {
     "th06_09.txt": {
-        "file": "th06_09.txt",
-        "type": "work",
+        "file": [
+            "th06_09.txt"
+        ],
         "title": "ラクトガール　～ 少女密室",
         "usertag": [
             "th06"

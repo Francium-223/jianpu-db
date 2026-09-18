@@ -1,7 +1,8 @@
 {
     "th01_01.txt": {
-        "file": "th01_01.txt",
-        "type": "work",
+        "file": [
+            "th01_01.txt"
+        ],
         "title": "A Sacred Lot",
         "usertag": [
             "th01"
@@ -30,8 +31,9 @@
         ]
     },
     "th01_02.txt": {
-        "file": "th01_02.txt",
-        "type": "work",
+        "file": [
+            "th01_02.txt"
+        ],
         "title": "永遠の巫女",
         "usertag": [
             "th01"
@@ -64,8 +66,9 @@
         ]
     },
     "th01_03.txt": {
-        "file": "th01_03.txt",
-        "type": "work",
+        "file": [
+            "th01_03.txt"
+        ],
         "title": "Positive and Negative",
         "usertag": [
             "th01"
@@ -98,8 +101,9 @@
         ]
     },
     "th01_04.txt": {
-        "file": "th01_04.txt",
-        "type": "work",
+        "file": [
+            "th01_04.txt"
+        ],
         "title": "Highly Responsive to Prayers",
         "usertag": [
             "th01"
@@ -131,8 +135,9 @@
         ]
     },
     "th01_05.txt": {
-        "file": "th01_05.txt",
-        "type": "work",
+        "file": [
+            "th01_05.txt"
+        ],
         "title": "東方怪奇談",
         "usertag": [
             "th01"
@@ -164,8 +169,9 @@
         ]
     },
     "th01_06.txt": {
-        "file": "th01_06.txt",
-        "type": "work",
+        "file": [
+            "th01_06.txt"
+        ],
         "title": "天使伝説",
         "usertag": [
             "th01"
@@ -197,8 +203,9 @@
         ]
     },
     "th01_07.txt": {
-        "file": "th01_07.txt",
-        "type": "work",
+        "file": [
+            "th01_07.txt"
+        ],
         "title": "Oriental Magician",
         "usertag": [
             "th01"
@@ -230,8 +237,9 @@
         ]
     },
     "th01_08.txt": {
-        "file": "th01_08.txt",
-        "type": "work",
+        "file": [
+            "th01_08.txt"
+        ],
         "title": "破邪の小太刀",
         "usertag": [
             "th01"
@@ -263,8 +271,9 @@
         ]
     },
     "th01_09.txt": {
-        "file": "th01_09.txt",
-        "type": "work",
+        "file": [
+            "th01_09.txt"
+        ],
         "title": "魔鏡",
         "usertag": [
             "th01"
@@ -296,8 +305,9 @@
         ]
     },
     "th01_10.txt": {
-        "file": "th01_10.txt",
-        "type": "work",
+        "file": [
+            "th01_10.txt"
+        ],
         "title": "The Legend of KAGE",
         "usertag": [
             "th01"
@@ -329,8 +339,9 @@
         ]
     },
     "th01_11.txt": {
-        "file": "th01_11.txt",
-        "type": "work",
+        "file": [
+            "th01_11.txt"
+        ],
         "title": "いざ、倒れ逝くその時まで",
         "usertag": [
             "th01"
@@ -363,8 +374,9 @@
         ]
     },
     "th01_12.txt": {
-        "file": "th01_12.txt",
-        "type": "work",
+        "file": [
+            "th01_12.txt"
+        ],
         "title": "死なばもろとも",
         "usertag": [
             "th01"
@@ -397,8 +409,9 @@
         ]
     },
     "th01_13.txt": {
-        "file": "th01_13.txt",
-        "type": "work",
+        "file": [
+            "th01_13.txt"
+        ],
         "title": "星幽剣士",
         "usertag": [
             "th01"
@@ -431,8 +444,9 @@
         ]
     },
     "th01_14.txt": {
-        "file": "th01_14.txt",
-        "type": "work",
+        "file": [
+            "th01_14.txt"
+        ],
         "title": "アイリス",
         "usertag": [
             "th01"
@@ -464,8 +478,9 @@
         ]
     },
     "th01_15.txt": {
-        "file": "th01_15.txt",
-        "type": "work",
+        "file": [
+            "th01_15.txt"
+        ],
         "title": "風の神社",
         "usertag": [
             "th01"
@@ -497,8 +512,9 @@
         ]
     },
     "th02_01.txt": {
-        "file": "th02_01.txt",
-        "type": "work",
+        "file": [
+            "th02_01.txt"
+        ],
         "title": "東方封魔録　～ 浄土曼荼羅",
         "usertag": [
             "th02"
@@ -530,8 +546,9 @@
         ]
     },
     "th02_02.txt": {
-        "file": "th02_02.txt",
-        "type": "work",
+        "file": [
+            "th02_02.txt"
+        ],
         "title": "博麗　～Eastern Wind",
         "usertag": [
             "th02"
@@ -563,8 +580,9 @@
         ]
     },
     "th02_03.txt": {
-        "file": "th02_03.txt",
-        "type": "work",
+        "file": [
+            "th02_03.txt"
+        ],
         "title": "She's in a temper!!",
         "usertag": [
             "th02"
@@ -596,8 +614,9 @@
         ]
     },
     "th02_04.txt": {
-        "file": "th02_04.txt",
-        "type": "work",
+        "file": [
+            "th02_04.txt"
+        ],
         "title": "End of Daylight",
         "usertag": [
             "th02"
@@ -626,8 +645,9 @@
         ]
     },
     "th02_05.txt": {
-        "file": "th02_05.txt",
-        "type": "work",
+        "file": [
+            "th02_05.txt"
+        ],
         "title": "やみのちから",
         "usertag": [
             "th02"
@@ -656,8 +676,9 @@
         ]
     },
     "th02_06.txt": {
-        "file": "th02_06.txt",
-        "type": "work",
+        "file": [
+            "th02_06.txt"
+        ],
         "title": "幻夢界",
         "usertag": [
             "th02"
@@ -686,8 +707,9 @@
         ]
     },
     "th02_07.txt": {
-        "file": "th02_07.txt",
-        "type": "work",
+        "file": [
+            "th02_07.txt"
+        ],
         "title": "死を賭して",
         "usertag": [
             "th02"
@@ -716,8 +738,9 @@
         ]
     },
     "th02_08.txt": {
-        "file": "th02_08.txt",
-        "type": "work",
+        "file": [
+            "th02_08.txt"
+        ],
         "title": "ひもろぎ、むらさきにもえ",
         "usertag": [
             "th02"
@@ -747,8 +770,9 @@
         ]
     },
     "th02_09.txt": {
-        "file": "th02_09.txt",
-        "type": "work",
+        "file": [
+            "th02_09.txt"
+        ],
         "title": "恋色マジック",
         "usertag": [
             "th02"
@@ -777,8 +801,9 @@
         ]
     },
     "th02_10.txt": {
-        "file": "th02_10.txt",
-        "type": "work",
+        "file": [
+            "th02_10.txt"
+        ],
         "title": "東方封魔録　～ 幽幻乱舞",
         "usertag": [
             "th02"
@@ -807,8 +832,9 @@
         ]
     },
     "th02_11.txt": {
-        "file": "th02_11.txt",
-        "type": "work",
+        "file": [
+            "th02_11.txt"
+        ],
         "title": "Complete Darkness",
         "usertag": [
             "th02"
@@ -837,8 +863,9 @@
         ]
     },
     "th02_12.txt": {
-        "file": "th02_12.txt",
-        "type": "work",
+        "file": [
+            "th02_12.txt"
+        ],
         "title": "エキストララブ",
         "usertag": [
             "th02"
@@ -867,8 +894,9 @@
         ]
     },
     "th02_13.txt": {
-        "file": "th02_13.txt",
-        "type": "work",
+        "file": [
+            "th02_13.txt"
+        ],
         "title": "戦車むすめのみるゆめ",
         "usertag": [
             "th02"
@@ -902,8 +930,9 @@
         ]
     },
     "th02_14.txt": {
-        "file": "th02_14.txt",
-        "type": "work",
+        "file": [
+            "th02_14.txt"
+        ],
         "title": "遠野の森",
         "usertag": [
             "th02"
@@ -937,8 +966,9 @@
         ]
     },
     "th02_15.txt": {
-        "file": "th02_15.txt",
-        "type": "work",
+        "file": [
+            "th02_15.txt"
+        ],
         "title": "昔話わんだーらんど",
         "usertag": [
             "th02"
@@ -972,8 +1002,9 @@
         ]
     },
     "th03_01.txt": {
-        "file": "th03_01.txt",
-        "type": "work",
+        "file": [
+            "th03_01.txt"
+        ],
         "title": "夢は時空を越えて",
         "usertag": [
             "th03"
@@ -1005,8 +1036,9 @@
         ]
     },
     "th03_02.txt": {
-        "file": "th03_02.txt",
-        "type": "work",
+        "file": [
+            "th03_02.txt"
+        ],
         "title": "Selection",
         "usertag": [
             "th03"
@@ -1039,8 +1071,9 @@
         ]
     },
     "th03_03.txt": {
-        "file": "th03_03.txt",
-        "type": "work",
+        "file": [
+            "th03_03.txt"
+        ],
         "title": "東方妖恋談",
         "usertag": [
             "th03"
@@ -1073,8 +1106,9 @@
         ]
     },
     "th03_04.txt": {
-        "file": "th03_04.txt",
-        "type": "work",
+        "file": [
+            "th03_04.txt"
+        ],
         "title": "Reincarnation",
         "usertag": [
             "th03"
@@ -1109,8 +1143,9 @@
         ]
     },
     "th03_05.txt": {
-        "file": "th03_05.txt",
-        "type": "work",
+        "file": [
+            "th03_05.txt"
+        ],
         "title": "Dim. Dream",
         "usertag": [
             "th03"
@@ -1142,8 +1177,9 @@
         ]
     },
     "th03_06.txt": {
-        "file": "th03_06.txt",
-        "type": "work",
+        "file": [
+            "th03_06.txt"
+        ],
         "title": "Tabula rasa　～ 空白少女",
         "usertag": [
             "th03"
@@ -1177,8 +1213,9 @@
         ]
     },
     "th03_07.txt": {
-        "file": "th03_07.txt",
-        "type": "work",
+        "file": [
+            "th03_07.txt"
+        ],
         "title": "Maniacal Princess",
         "usertag": [
             "th03"
@@ -1210,8 +1247,9 @@
         ]
     },
     "th03_08.txt": {
-        "file": "th03_08.txt",
-        "type": "work",
+        "file": [
+            "th03_08.txt"
+        ],
         "title": "夢消失　～ Lost Dream",
         "usertag": [
             "th03"
@@ -1252,8 +1290,9 @@
         ]
     },
     "th03_09.txt": {
-        "file": "th03_09.txt",
-        "type": "work",
+        "file": [
+            "th03_09.txt"
+        ],
         "title": "夢幻遊戯　～ Dream War",
         "usertag": [
             "th03"
@@ -1285,8 +1324,9 @@
         ]
     },
     "th03_10.txt": {
-        "file": "th03_10.txt",
-        "type": "work",
+        "file": [
+            "th03_10.txt"
+        ],
         "title": "魔法決戦！　～ Fight it out!",
         "usertag": [
             "th03"
@@ -1319,8 +1359,9 @@
         ]
     },
     "th03_11.txt": {
-        "file": "th03_11.txt",
-        "type": "work",
+        "file": [
+            "th03_11.txt"
+        ],
         "title": "Sailor of Time",
         "usertag": [
             "th03"
@@ -1352,8 +1393,9 @@
         ]
     },
     "th03_12.txt": {
-        "file": "th03_12.txt",
-        "type": "work",
+        "file": [
+            "th03_12.txt"
+        ],
         "title": "Strawberry Crisis!!",
         "usertag": [
             "th03"
@@ -1387,8 +1429,9 @@
         ]
     },
     "th03_13.txt": {
-        "file": "th03_13.txt",
-        "type": "work",
+        "file": [
+            "th03_13.txt"
+        ],
         "title": "非統一魔法世界論",
         "usertag": [
             "th03"
@@ -1422,8 +1465,9 @@
         ]
     },
     "th03_14.txt": {
-        "file": "th03_14.txt",
-        "type": "work",
+        "file": [
+            "th03_14.txt"
+        ],
         "title": "魔法鐘愛",
         "usertag": [
             "th03"
@@ -1462,8 +1506,9 @@
         ]
     },
     "th03_15.txt": {
-        "file": "th03_15.txt",
-        "type": "work",
+        "file": [
+            "th03_15.txt"
+        ],
         "title": "久遠の夢",
         "usertag": [
             "th03"
@@ -1495,8 +1540,9 @@
         ]
     },
     "th03_16.txt": {
-        "file": "th03_16.txt",
-        "type": "work",
+        "file": [
+            "th03_16.txt"
+        ],
         "title": "東方の青い空",
         "usertag": [
             "th03"
@@ -1528,8 +1574,9 @@
         ]
     },
     "th03_17.txt": {
-        "file": "th03_17.txt",
-        "type": "work",
+        "file": [
+            "th03_17.txt"
+        ],
         "title": "永遠の満月",
         "usertag": [
             "th03"
@@ -1562,8 +1609,9 @@
         ]
     },
     "th03_18.txt": {
-        "file": "th03_18.txt",
-        "type": "work",
+        "file": [
+            "th03_18.txt"
+        ],
         "title": "Maple Dream...",
         "usertag": [
             "th03"
@@ -1596,8 +1644,9 @@
         ]
     },
     "th03_19.txt": {
-        "file": "th03_19.txt",
-        "type": "work",
+        "file": [
+            "th03_19.txt"
+        ],
         "title": "霊人の休日",
         "usertag": [
             "th03"
@@ -1629,8 +1678,9 @@
         ]
     },
     "th03_20.txt": {
-        "file": "th03_20.txt",
-        "type": "work",
+        "file": [
+            "th03_20.txt"
+        ],
         "title": "勝利デモ",
         "usertag": [
             "th03"
@@ -1662,8 +1712,9 @@
         ]
     },
     "th03_21.txt": {
-        "file": "th03_21.txt",
-        "type": "work",
+        "file": [
+            "th03_21.txt"
+        ],
         "title": "ゲームオーバー",
         "usertag": [
             "th03"
@@ -1696,8 +1747,9 @@
         ]
     },
     "th04_01.txt": {
-        "file": "th04_01.txt",
-        "type": "work",
+        "file": [
+            "th04_01.txt"
+        ],
         "title": "幻想郷　～ Lotus Land Story",
         "usertag": [
             "th04"
@@ -1729,8 +1781,9 @@
         ]
     },
     "th04_02.txt": {
-        "file": "th04_02.txt",
-        "type": "work",
+        "file": [
+            "th04_02.txt"
+        ],
         "title": "Witching Dream",
         "usertag": [
             "th04"
@@ -1764,8 +1817,9 @@
         ]
     },
     "th04_03.txt": {
-        "file": "th04_03.txt",
-        "type": "work",
+        "file": [
+            "th04_03.txt"
+        ],
         "title": "Selene's light",
         "usertag": [
             "th04"
@@ -1798,8 +1852,9 @@
         ]
     },
     "th04_04.txt": {
-        "file": "th04_04.txt",
-        "type": "work",
+        "file": [
+            "th04_04.txt"
+        ],
         "title": "装飾戦　～ Decoration Battle",
         "usertag": [
             "th04"
@@ -1831,8 +1886,9 @@
         ]
     },
     "th04_05.txt": {
-        "file": "th04_05.txt",
-        "type": "work",
+        "file": [
+            "th04_05.txt"
+        ],
         "title": "Break the Sabbath",
         "usertag": [
             "th04"
@@ -1864,8 +1920,9 @@
         ]
     },
     "th04_06.txt": {
-        "file": "th04_06.txt",
-        "type": "work",
+        "file": [
+            "th04_06.txt"
+        ],
         "title": "紅響曲　～ Scarlet Phoneme",
         "usertag": [
             "th04"
@@ -1898,8 +1955,9 @@
         ]
     },
     "th04_07.txt": {
-        "file": "th04_07.txt",
-        "type": "work",
+        "file": [
+            "th04_07.txt"
+        ],
         "title": "Bad Apple!!",
         "usertag": [
             "th04"
@@ -1935,8 +1993,9 @@
         ]
     },
     "th04_08.txt": {
-        "file": "th04_08.txt",
-        "type": "work",
+        "file": [
+            "th04_08.txt"
+        ],
         "title": "霊戦　～ Perdition crisis",
         "usertag": [
             "th04"
@@ -1970,8 +2029,9 @@
         ]
     },
     "th04_09.txt": {
-        "file": "th04_09.txt",
-        "type": "work",
+        "file": [
+            "th04_09.txt"
+        ],
         "title": "アリスマエステラ",
         "usertag": [
             "th04"
@@ -2006,8 +2066,9 @@
         ]
     },
     "th04_10.txt": {
-        "file": "th04_10.txt",
-        "type": "work",
+        "file": [
+            "th04_10.txt"
+        ],
         "title": "少女綺想曲　～ Capriccio",
         "usertag": [
             "th04"
@@ -2041,8 +2102,9 @@
         ]
     },
     "th04_11.txt": {
-        "file": "th04_11.txt",
-        "type": "work",
+        "file": [
+            "th04_11.txt"
+        ],
         "title": "星の器　～ Casket of Star",
         "usertag": [
             "th04"
@@ -2076,8 +2138,9 @@
         ]
     },
     "th04_12.txt": {
-        "file": "th04_12.txt",
-        "type": "work",
+        "file": [
+            "th04_12.txt"
+        ],
         "title": "Lotus Love",
         "usertag": [
             "th04"
@@ -2111,8 +2174,9 @@
         ]
     },
     "th04_13.txt": {
-        "file": "th04_13.txt",
-        "type": "work",
+        "file": [
+            "th04_13.txt"
+        ],
         "title": "眠れる恐怖　～Sleeping Terror",
         "usertag": [
             "th04"
@@ -2148,8 +2212,9 @@
         ]
     },
     "th04_14.txt": {
-        "file": "th04_14.txt",
-        "type": "work",
+        "file": [
+            "th04_14.txt"
+        ],
         "title": "Dream Land",
         "usertag": [
             "th04"
@@ -2184,8 +2249,9 @@
         ]
     },
     "th04_15.txt": {
-        "file": "th04_15.txt",
-        "type": "work",
+        "file": [
+            "th04_15.txt"
+        ],
         "title": "幽夢　～ Inanimate Dream",
         "usertag": [
             "th04"
@@ -2225,8 +2291,9 @@
         ]
     },
     "th04_16.txt": {
-        "file": "th04_16.txt",
-        "type": "work",
+        "file": [
+            "th04_16.txt"
+        ],
         "title": "禁じざるをえない遊戯",
         "usertag": [
             "th04"
@@ -2259,8 +2326,9 @@
         ]
     },
     "th04_17.txt": {
-        "file": "th04_17.txt",
-        "type": "work",
+        "file": [
+            "th04_17.txt"
+        ],
         "title": "メイド幻想　～ Icemilk Magic",
         "usertag": [
             "th04"
@@ -2293,8 +2361,9 @@
         ]
     },
     "th04_18.txt": {
-        "file": "th04_18.txt",
-        "type": "work",
+        "file": [
+            "th04_18.txt"
+        ],
         "title": "かわいい悪魔　～ Innocence",
         "usertag": [
             "th04"
@@ -2328,8 +2397,9 @@
         ]
     },
     "th04_19.txt": {
-        "file": "th04_19.txt",
-        "type": "work",
+        "file": [
+            "th04_19.txt"
+        ],
         "title": "Days",
         "usertag": [
             "th04"
@@ -2362,8 +2432,9 @@
         ]
     },
     "th04_20.txt": {
-        "file": "th04_20.txt",
-        "type": "work",
+        "file": [
+            "th04_20.txt"
+        ],
         "title": "Peaceful",
         "usertag": [
             "th04"
@@ -2395,8 +2466,9 @@
         ]
     },
     "th04_21.txt": {
-        "file": "th04_21.txt",
-        "type": "work",
+        "file": [
+            "th04_21.txt"
+        ],
         "title": "Arcadian Dream",
         "usertag": [
             "th04"
@@ -2428,8 +2500,9 @@
         ]
     },
     "th04_22.txt": {
-        "file": "th04_22.txt",
-        "type": "work",
+        "file": [
+            "th04_22.txt"
+        ],
         "title": "幻想の住人",
         "usertag": [
             "th04"
@@ -2461,8 +2534,9 @@
         ]
     },
     "th04_24.txt": {
-        "file": "th04_24.txt",
-        "type": "work",
+        "file": [
+            "th04_24.txt"
+        ],
         "title": "Dreamy pilot",
         "usertag": [
             "th04"
@@ -2494,8 +2568,9 @@
         ]
     },
     "th04_27.txt": {
-        "file": "th04_27.txt",
-        "type": "work",
+        "file": [
+            "th04_27.txt"
+        ],
         "title": "Magic Shop of Raspberry",
         "usertag": [
             "th04"
@@ -2527,8 +2602,9 @@
         ]
     },
     "th05_01.txt": {
-        "file": "th05_01.txt",
-        "type": "work",
+        "file": [
+            "th05_01.txt"
+        ],
         "title": "怪綺談　～ Mystic Square",
         "usertag": [
             "th05"
@@ -2561,8 +2637,9 @@
         ]
     },
     "th05_02.txt": {
-        "file": "th05_02.txt",
-        "type": "work",
+        "file": [
+            "th05_02.txt"
+        ],
         "title": "Dream Express",
         "usertag": [
             "th05"
@@ -2594,8 +2671,9 @@
         ]
     },
     "th05_03.txt": {
-        "file": "th05_03.txt",
-        "type": "work",
+        "file": [
+            "th05_03.txt"
+        ],
         "title": "魔法陣　～ Magic Square",
         "usertag": [
             "th05"
@@ -2627,8 +2705,9 @@
         ]
     },
     "th05_04.txt": {
-        "file": "th05_04.txt",
-        "type": "work",
+        "file": [
+            "th05_04.txt"
+        ],
         "title": "夢想時空",
         "usertag": [
             "th05"
@@ -2662,8 +2741,9 @@
         ]
     },
     "th05_05.txt": {
-        "file": "th05_05.txt",
-        "type": "work",
+        "file": [
+            "th05_05.txt"
+        ],
         "title": "霊天　～ Spiritual Heaven",
         "usertag": [
             "th05"
@@ -2695,8 +2775,9 @@
         ]
     },
     "th05_06.txt": {
-        "file": "th05_06.txt",
-        "type": "work",
+        "file": [
+            "th05_06.txt"
+        ],
         "title": "Romantic Children",
         "usertag": [
             "th05"
@@ -2730,8 +2811,9 @@
         ]
     },
     "th05_07.txt": {
-        "file": "th05_07.txt",
-        "type": "work",
+        "file": [
+            "th05_07.txt"
+        ],
         "title": "プラスチックマインド",
         "usertag": [
             "th05"
@@ -2764,8 +2846,9 @@
         ]
     },
     "th05_08.txt": {
-        "file": "th05_08.txt",
-        "type": "work",
+        "file": [
+            "th05_08.txt"
+        ],
         "title": "メイプルワイズ",
         "usertag": [
             "th05"
@@ -2798,8 +2881,9 @@
         ]
     },
     "th05_09.txt": {
-        "file": "th05_09.txt",
-        "type": "work",
+        "file": [
+            "th05_09.txt"
+        ],
         "title": "禁断の魔法　～ Forbidden Magic",
         "usertag": [
             "th05"
@@ -2831,8 +2915,9 @@
         ]
     },
     "th05_10.txt": {
-        "file": "th05_10.txt",
-        "type": "work",
+        "file": [
+            "th05_10.txt"
+        ],
         "title": "真紅の少女　～ Crimson Dead!!",
         "usertag": [
             "th05"
@@ -2864,8 +2949,9 @@
         ]
     },
     "th05_11.txt": {
-        "file": "th05_11.txt",
-        "type": "work",
+        "file": [
+            "th05_11.txt"
+        ],
         "title": "裏切りの少女　～ Judas Kiss",
         "usertag": [
             "th05"
@@ -2898,8 +2984,9 @@
         ]
     },
     "th05_12.txt": {
-        "file": "th05_12.txt",
-        "type": "work",
+        "file": [
+            "th05_12.txt"
+        ],
         "title": "the Last Judgement",
         "usertag": [
             "th05"
@@ -2934,8 +3021,9 @@
         ]
     },
     "th05_13.txt": {
-        "file": "th05_13.txt",
-        "type": "work",
+        "file": [
+            "th05_13.txt"
+        ],
         "title": "悲しき人形　～ Doll of Misery",
         "usertag": [
             "th05"
@@ -2967,8 +3055,9 @@
         ]
     },
     "th05_14.txt": {
-        "file": "th05_14.txt",
-        "type": "work",
+        "file": [
+            "th05_14.txt"
+        ],
         "title": "世界の果て　～ World's End",
         "usertag": [
             "th05"
@@ -3001,8 +3090,9 @@
         ]
     },
     "th05_15.txt": {
-        "file": "th05_15.txt",
-        "type": "work",
+        "file": [
+            "th05_15.txt"
+        ],
         "title": "神話幻想　～ Infinite Being",
         "usertag": [
             "th05"
@@ -3034,8 +3124,9 @@
         ]
     },
     "th05_16.txt": {
-        "file": "th05_16.txt",
-        "type": "work",
+        "file": [
+            "th05_16.txt"
+        ],
         "title": "不思議の国のアリス",
         "usertag": [
             "th05"
@@ -3071,8 +3162,9 @@
         ]
     },
     "th05_17.txt": {
-        "file": "th05_17.txt",
-        "type": "work",
+        "file": [
+            "th05_17.txt"
+        ],
         "title": "the Grimoire of Alice",
         "usertag": [
             "th05"
@@ -3107,8 +3199,9 @@
         ]
     },
     "th05_19.txt": {
-        "file": "th05_19.txt",
-        "type": "work",
+        "file": [
+            "th05_19.txt"
+        ],
         "title": "Endless",
         "usertag": [
             "th05"
@@ -3140,8 +3233,9 @@
         ]
     },
     "th05_20.txt": {
-        "file": "th05_20.txt",
-        "type": "work",
+        "file": [
+            "th05_20.txt"
+        ],
         "title": "久遠の楽園",
         "usertag": [
             "th05"
@@ -3173,8 +3267,9 @@
         ]
     },
     "th05_21.txt": {
-        "file": "th05_21.txt",
-        "type": "work",
+        "file": [
+            "th05_21.txt"
+        ],
         "title": "Mystic Dream",
         "usertag": [
             "th05"
@@ -3206,8 +3301,9 @@
         ]
     },
     "th05_22.txt": {
-        "file": "th05_22.txt",
-        "type": "work",
+        "file": [
+            "th05_22.txt"
+        ],
         "title": "Peaceful Romancer",
         "usertag": [
             "th05"
@@ -3240,8 +3336,9 @@
         ]
     },
     "th05_23.txt": {
-        "file": "th05_23.txt",
-        "type": "work",
+        "file": [
+            "th05_23.txt"
+        ],
         "title": "魂の休らむ所",
         "usertag": [
             "th05"
@@ -3273,8 +3370,9 @@
         ]
     },
     "th06_01.txt": {
-        "file": "th06_01.txt",
-        "type": "work",
+        "file": [
+            "th06_01.txt"
+        ],
         "title": "赤より紅い夢",
         "usertag": [
             "th06"
@@ -3306,8 +3404,9 @@
         ]
     },
     "th06_02.txt": {
-        "file": "th06_02.txt",
-        "type": "work",
+        "file": [
+            "th06_02.txt"
+        ],
         "title": "ほおずきみたいに紅い魂",
         "usertag": [
             "th06"
@@ -3340,8 +3439,9 @@
         ]
     },
     "th06_03.txt": {
-        "file": "th06_03.txt",
-        "type": "work",
+        "file": [
+            "th06_03.txt"
+        ],
         "title": "妖魔夜行",
         "usertag": [
             "th06"
@@ -3377,8 +3477,9 @@
         ]
     },
     "th06_04.txt": {
-        "file": "th06_04.txt",
-        "type": "work",
+        "file": [
+            "th06_04.txt"
+        ],
         "title": "ルーネイトエルフ",
         "usertag": [
             "th06"
@@ -3411,8 +3512,9 @@
         ]
     },
     "th06_05.txt": {
-        "file": "th06_05.txt",
-        "type": "work",
+        "file": [
+            "th06_05.txt"
+        ],
         "title": "おてんば恋娘",
         "usertag": [
             "th06"
@@ -3448,8 +3550,9 @@
         ]
     },
     "th06_06.txt": {
-        "file": "th06_06.txt",
-        "type": "work",
+        "file": [
+            "th06_06.txt"
+        ],
         "title": "上海紅茶館　～ Chinese Tea",
         "usertag": [
             "th06"
@@ -3485,8 +3588,9 @@
         ]
     },
     "th06_07.txt": {
-        "file": "th06_07.txt",
-        "type": "work",
+        "file": [
+            "th06_07.txt"
+        ],
         "title": "明治十七年の上海アリス",
         "usertag": [
             "th06"
@@ -3520,8 +3624,9 @@
         ]
     },
     "th06_08.txt": {
-        "file": "th06_08.txt",
-        "type": "work",
+        "file": [
+            "th06_08.txt"
+        ],
         "title": "ヴワル魔法図書館",
         "usertag": [
             "th06"
@@ -3553,8 +3658,9 @@
         ]
     },
     "th06_09.txt": {
-        "file": "th06_09.txt",
-        "type": "work",
+        "file": [
+            "th06_09.txt"
+        ],
         "title": "ラクトガール　～ 少女密室",
         "usertag": [
             "th06"
@@ -3587,8 +3693,9 @@
         ]
     },
     "th06_10.txt": {
-        "file": "th06_10.txt",
-        "type": "work",
+        "file": [
+            "th06_10.txt"
+        ],
         "title": "メイドと血の懐中時計",
         "usertag": [
             "th06"
@@ -3623,8 +3730,9 @@
         ]
     },
     "th06_11.txt": {
-        "file": "th06_11.txt",
-        "type": "work",
+        "file": [
+            "th06_11.txt"
+        ],
         "title": "月時計　～ ルナ・ダイアル",
         "usertag": [
             "th06"
@@ -3657,8 +3765,9 @@
         ]
     },
     "th06_12.txt": {
-        "file": "th06_12.txt",
-        "type": "work",
+        "file": [
+            "th06_12.txt"
+        ],
         "title": "ツェペシュの幼き末裔",
         "usertag": [
             "th06"
@@ -3690,8 +3799,9 @@
         ]
     },
     "th06_13.txt": {
-        "file": "th06_13.txt",
-        "type": "work",
+        "file": [
+            "th06_13.txt"
+        ],
         "title": "亡き王女の為のセプテット",
         "usertag": [
             "th06"
@@ -3730,8 +3840,9 @@
         ]
     },
     "th06_14.txt": {
-        "file": "th06_14.txt",
-        "type": "work",
+        "file": [
+            "th06_14.txt"
+        ],
         "title": "魔法少女達の百年祭",
         "usertag": [
             "th06"
@@ -3766,8 +3877,9 @@
         ]
     },
     "th06_15.txt": {
-        "file": "th06_15.txt",
-        "type": "work",
+        "file": [
+            "th06_15.txt"
+        ],
         "title": "U.N.オーエンは彼女なのか？",
         "usertag": [
             "th06"
@@ -3807,8 +3919,9 @@
         ]
     },
     "th06_16.txt": {
-        "file": "th06_16.txt",
-        "type": "work",
+        "file": [
+            "th06_16.txt"
+        ],
         "title": "紅より儚い永遠",
         "usertag": [
             "th06"
@@ -3840,8 +3953,9 @@
         ]
     },
     "th06_17.txt": {
-        "file": "th06_17.txt",
-        "type": "work",
+        "file": [
+            "th06_17.txt"
+        ],
         "title": "紅楼　～ Eastern Dream...",
         "usertag": [
             "th06"
@@ -3874,8 +3988,9 @@
         ]
     },
     "th07_01.txt": {
-        "file": "th07_01.txt",
-        "type": "work",
+        "file": [
+            "th07_01.txt"
+        ],
         "title": "妖々夢　～ Snow or Cherry Petal",
         "usertag": [
             "th07"
@@ -3907,8 +4022,9 @@
         ]
     },
     "th07_02.txt": {
-        "file": "th07_02.txt",
-        "type": "work",
+        "file": [
+            "th07_02.txt"
+        ],
         "title": "無何有の郷　～ Deep Mountain",
         "usertag": [
             "th07"
@@ -3941,8 +4057,9 @@
         ]
     },
     "th07_03.txt": {
-        "file": "th07_03.txt",
-        "type": "work",
+        "file": [
+            "th07_03.txt"
+        ],
         "title": "クリスタライズシルバー",
         "usertag": [
             "th07"
@@ -3974,8 +4091,9 @@
         ]
     },
     "th07_04.txt": {
-        "file": "th07_04.txt",
-        "type": "work",
+        "file": [
+            "th07_04.txt"
+        ],
         "title": "遠野幻想物語",
         "usertag": [
             "th07"
@@ -4008,8 +4126,9 @@
         ]
     },
     "th07_05.txt": {
-        "file": "th07_05.txt",
-        "type": "work",
+        "file": [
+            "th07_05.txt"
+        ],
         "title": "ティアオイエツォン(withered leaf)",
         "usertag": [
             "th07"
@@ -4042,8 +4161,9 @@
         ]
     },
     "th07_06.txt": {
-        "file": "th07_06.txt",
-        "type": "work",
+        "file": [
+            "th07_06.txt"
+        ],
         "title": "ブクレシュティの人形師",
         "usertag": [
             "th07"
@@ -4077,8 +4197,9 @@
         ]
     },
     "th07_07.txt": {
-        "file": "th07_07.txt",
-        "type": "work",
+        "file": [
+            "th07_07.txt"
+        ],
         "title": "人形裁判　～ 人の形弄びし少女",
         "usertag": [
             "th07"
@@ -4114,8 +4235,9 @@
         ]
     },
     "th07_08.txt": {
-        "file": "th07_08.txt",
-        "type": "work",
+        "file": [
+            "th07_08.txt"
+        ],
         "title": "天空の花の都",
         "usertag": [
             "th07"
@@ -4147,8 +4269,9 @@
         ]
     },
     "th07_09.txt": {
-        "file": "th07_09.txt",
-        "type": "work",
+        "file": [
+            "th07_09.txt"
+        ],
         "title": "幽霊楽団　～ Phantom Ensemble",
         "usertag": [
             "th07"
@@ -4181,8 +4304,9 @@
         ]
     },
     "th07_10.txt": {
-        "file": "th07_10.txt",
-        "type": "work",
+        "file": [
+            "th07_10.txt"
+        ],
         "title": "東方妖々夢　～ Ancient Temple",
         "usertag": [
             "th07"
@@ -4214,8 +4338,9 @@
         ]
     },
     "th07_11.txt": {
-        "file": "th07_11.txt",
-        "type": "work",
+        "file": [
+            "th07_11.txt"
+        ],
         "title": "広有射怪鳥事　～ Till When?",
         "usertag": [
             "th07"
@@ -4248,8 +4373,9 @@
         ]
     },
     "th07_12.txt": {
-        "file": "th07_12.txt",
-        "type": "work",
+        "file": [
+            "th07_12.txt"
+        ],
         "title": "アルティメットトゥルース",
         "usertag": [
             "th07"
@@ -4282,8 +4408,9 @@
         ]
     },
     "th07_13.txt": {
-        "file": "th07_13.txt",
-        "type": "work",
+        "file": [
+            "th07_13.txt"
+        ],
         "title": "幽雅に咲かせ、墨染の桜　～ Border of Life",
         "usertag": [
             "th07"
@@ -4321,8 +4448,9 @@
         ]
     },
     "th07_14.txt": {
-        "file": "th07_14.txt",
-        "type": "work",
+        "file": [
+            "th07_14.txt"
+        ],
         "title": "ボーダーオブライフ",
         "usertag": [
             "th07"
@@ -4358,8 +4486,9 @@
         ]
     },
     "th07_15.txt": {
-        "file": "th07_15.txt",
-        "type": "work",
+        "file": [
+            "th07_15.txt"
+        ],
         "title": "妖々跋扈",
         "usertag": [
             "th07"
@@ -4391,8 +4520,9 @@
         ]
     },
     "th07_16.txt": {
-        "file": "th07_16.txt",
-        "type": "work",
+        "file": [
+            "th07_16.txt"
+        ],
         "title": "少女幻葬　～ Necro-Fantasy",
         "usertag": [
             "th07"
@@ -4426,8 +4556,9 @@
         ]
     },
     "th07_17.txt": {
-        "file": "th07_17.txt",
-        "type": "work",
+        "file": [
+            "th07_17.txt"
+        ],
         "title": "妖々跋扈　～ Who done it!",
         "usertag": [
             "th07"
@@ -4460,8 +4591,9 @@
         ]
     },
     "th07_18.txt": {
-        "file": "th07_18.txt",
-        "type": "work",
+        "file": [
+            "th07_18.txt"
+        ],
         "title": "ネクロファンタジア",
         "usertag": [
             "th07"
@@ -4497,8 +4629,9 @@
         ]
     },
     "th07_19.txt": {
-        "file": "th07_19.txt",
-        "type": "work",
+        "file": [
+            "th07_19.txt"
+        ],
         "title": "春風の夢",
         "usertag": [
             "th07"
@@ -4530,8 +4663,9 @@
         ]
     },
     "th07_20.txt": {
-        "file": "th07_20.txt",
-        "type": "work",
+        "file": [
+            "th07_20.txt"
+        ],
         "title": "さくらさくら　～ Japanize Dream...",
         "usertag": [
             "th07"
@@ -4564,8 +4698,9 @@
         ]
     },
     "th08_01.txt": {
-        "file": "th08_01.txt",
-        "type": "work",
+        "file": [
+            "th08_01.txt"
+        ],
         "title": "永夜抄　～ Eastern Night.",
         "usertag": [
             "th08"
@@ -4594,8 +4729,9 @@
         ]
     },
     "th08_02.txt": {
-        "file": "th08_02.txt",
-        "type": "work",
+        "file": [
+            "th08_02.txt"
+        ],
         "title": "幻視の夜　～ Ghostly Eyes",
         "usertag": [
             "th08"
@@ -4624,8 +4760,9 @@
         ]
     },
     "th08_03.txt": {
-        "file": "th08_03.txt",
-        "type": "work",
+        "file": [
+            "th08_03.txt"
+        ],
         "title": "蠢々秋月　～ Mooned Insect",
         "usertag": [
             "th08"
@@ -4654,8 +4791,9 @@
         ]
     },
     "th08_04.txt": {
-        "file": "th08_04.txt",
-        "type": "work",
+        "file": [
+            "th08_04.txt"
+        ],
         "title": "夜雀の歌声　～ Night Bird",
         "usertag": [
             "th08"
@@ -4684,8 +4822,9 @@
         ]
     },
     "th08_05.txt": {
-        "file": "th08_05.txt",
-        "type": "work",
+        "file": [
+            "th08_05.txt"
+        ],
         "title": "もう歌しか聞こえない",
         "usertag": [
             "th08"
@@ -4714,8 +4853,9 @@
         ]
     },
     "th08_06.txt": {
-        "file": "th08_06.txt",
-        "type": "work",
+        "file": [
+            "th08_06.txt"
+        ],
         "title": "懐かしき東方の血　～ Old World",
         "usertag": [
             "th08"
@@ -4744,8 +4884,9 @@
         ]
     },
     "th08_07.txt": {
-        "file": "th08_07.txt",
-        "type": "work",
+        "file": [
+            "th08_07.txt"
+        ],
         "title": "プレインエイジア",
         "usertag": [
             "th08"
@@ -4774,8 +4915,9 @@
         ]
     },
     "th08_08.txt": {
-        "file": "th08_08.txt",
-        "type": "work",
+        "file": [
+            "th08_08.txt"
+        ],
         "title": "永夜の報い　～ Imperishable Night",
         "usertag": [
             "th08"
@@ -4804,8 +4946,9 @@
         ]
     },
     "th08_09.txt": {
-        "file": "th08_09.txt",
-        "type": "work",
+        "file": [
+            "th08_09.txt"
+        ],
         "title": "少女綺想曲　～ Dream Battle",
         "usertag": [
             "th08"
@@ -4834,8 +4977,9 @@
         ]
     },
     "th08_10.txt": {
-        "file": "th08_10.txt",
-        "type": "work",
+        "file": [
+            "th08_10.txt"
+        ],
         "title": "恋色マスタースパーク",
         "usertag": [
             "th08"
@@ -4868,8 +5012,9 @@
         ]
     },
     "th08_11.txt": {
-        "file": "th08_11.txt",
-        "type": "work",
+        "file": [
+            "th08_11.txt"
+        ],
         "title": "シンデレラケージ　～ Kagome-Kagome",
         "usertag": [
             "th08"
@@ -4898,8 +5043,9 @@
         ]
     },
     "th08_12.txt": {
-        "file": "th08_12.txt",
-        "type": "work",
+        "file": [
+            "th08_12.txt"
+        ],
         "title": "狂気の瞳　～ Invisible Full Moon",
         "usertag": [
             "th08"
@@ -4928,8 +5074,9 @@
         ]
     },
     "th08_13.txt": {
-        "file": "th08_13.txt",
-        "type": "work",
+        "file": [
+            "th08_13.txt"
+        ],
         "title": "ヴォヤージュ1969",
         "usertag": [
             "th08"
@@ -4958,8 +5105,9 @@
         ]
     },
     "th08_14.txt": {
-        "file": "th08_14.txt",
-        "type": "work",
+        "file": [
+            "th08_14.txt"
+        ],
         "title": "千年幻想郷　～ History of the Moon",
         "usertag": [
             "th08"
@@ -4988,8 +5136,9 @@
         ]
     },
     "th08_15.txt": {
-        "file": "th08_15.txt",
-        "type": "work",
+        "file": [
+            "th08_15.txt"
+        ],
         "title": "竹取飛翔　～ Lunatic Princess",
         "usertag": [
             "th08"
@@ -5018,8 +5167,9 @@
         ]
     },
     "th08_16.txt": {
-        "file": "th08_16.txt",
-        "type": "work",
+        "file": [
+            "th08_16.txt"
+        ],
         "title": "ヴォヤージュ1970",
         "usertag": [
             "th08"
@@ -5048,8 +5198,9 @@
         ]
     },
     "th08_17.txt": {
-        "file": "th08_17.txt",
-        "type": "work",
+        "file": [
+            "th08_17.txt"
+        ],
         "title": "エクステンドアッシュ　～ 蓬莱人",
         "usertag": [
             "th08"
@@ -5078,8 +5229,9 @@
         ]
     },
     "th08_18.txt": {
-        "file": "th08_18.txt",
-        "type": "work",
+        "file": [
+            "th08_18.txt"
+        ],
         "title": "月まで届け、不死の煙",
         "usertag": [
             "th08"
@@ -5121,8 +5273,9 @@
         ]
     },
     "th08_19.txt": {
-        "file": "th08_19.txt",
-        "type": "work",
+        "file": [
+            "th08_19.txt"
+        ],
         "title": "月見草",
         "usertag": [
             "th08"
@@ -5151,8 +5304,9 @@
         ]
     },
     "th08_20.txt": {
-        "file": "th08_20.txt",
-        "type": "work",
+        "file": [
+            "th08_20.txt"
+        ],
         "title": "Eternal Dream　～ 幽玄の槭樹",
         "usertag": [
             "th08"
@@ -5181,8 +5335,9 @@
         ]
     },
     "th08_21.txt": {
-        "file": "th08_21.txt",
-        "type": "work",
+        "file": [
+            "th08_21.txt"
+        ],
         "title": "東方妖怪小町",
         "usertag": [
             "th08"
@@ -5211,8 +5366,9 @@
         ]
     },
     "th09_01.txt": {
-        "file": "th09_01.txt",
-        "type": "work",
+        "file": [
+            "th09_01.txt"
+        ],
         "title": "花映塚　～ Higan Retour",
         "usertag": [
             "th09"
@@ -5241,8 +5397,9 @@
         ]
     },
     "th09_02.txt": {
-        "file": "th09_02.txt",
-        "type": "work",
+        "file": [
+            "th09_02.txt"
+        ],
         "title": "春色小径　～ Colorful Path",
         "usertag": [
             "th09"
@@ -5271,8 +5428,9 @@
         ]
     },
     "th09_03.txt": {
-        "file": "th09_03.txt",
-        "type": "work",
+        "file": [
+            "th09_03.txt"
+        ],
         "title": "オリエンタルダークフライト",
         "usertag": [
             "th09"
@@ -5301,8 +5459,9 @@
         ]
     },
     "th09_04.txt": {
-        "file": "th09_04.txt",
-        "type": "work",
+        "file": [
+            "th09_04.txt"
+        ],
         "title": "フラワリングナイト",
         "usertag": [
             "th09"
@@ -5331,8 +5490,9 @@
         ]
     },
     "th09_10.txt": {
-        "file": "th09_10.txt",
-        "type": "work",
+        "file": [
+            "th09_10.txt"
+        ],
         "title": "お宇佐さまの素い幡",
         "usertag": [
             "th09"
@@ -5365,8 +5525,9 @@
         ]
     },
     "th09_11.txt": {
-        "file": "th09_11.txt",
-        "type": "work",
+        "file": [
+            "th09_11.txt"
+        ],
         "title": "風神少女",
         "usertag": [
             "th09"
@@ -5399,8 +5560,9 @@
         ]
     },
     "th09_12.txt": {
-        "file": "th09_12.txt",
-        "type": "work",
+        "file": [
+            "th09_12.txt"
+        ],
         "title": "ポイズンボディ　～ Forsaken Doll",
         "usertag": [
             "th09"
@@ -5433,8 +5595,9 @@
         ]
     },
     "th09_13.txt": {
-        "file": "th09_13.txt",
-        "type": "work",
+        "file": [
+            "th09_13.txt"
+        ],
         "title": "今昔幻想郷　～ Flower Land",
         "usertag": [
             "th09"
@@ -5470,8 +5633,9 @@
         ]
     },
     "th09_14.txt": {
-        "file": "th09_14.txt",
-        "type": "work",
+        "file": [
+            "th09_14.txt"
+        ],
         "title": "彼岸帰航　～ Riverside View",
         "usertag": [
             "th09"
@@ -5507,8 +5671,9 @@
         ]
     },
     "th09_15.txt": {
-        "file": "th09_15.txt",
-        "type": "work",
+        "file": [
+            "th09_15.txt"
+        ],
         "title": "六十年目の東方裁判　～ Fate of Sixty Years",
         "usertag": [
             "th09"
@@ -5545,8 +5710,9 @@
         ]
     },
     "th09_16.txt": {
-        "file": "th09_16.txt",
-        "type": "work",
+        "file": [
+            "th09_16.txt"
+        ],
         "title": "花の映る塚",
         "usertag": [
             "th09"
@@ -5575,8 +5741,9 @@
         ]
     },
     "th09_17.txt": {
-        "file": "th09_17.txt",
-        "type": "work",
+        "file": [
+            "th09_17.txt"
+        ],
         "title": "此岸の塚",
         "usertag": [
             "th09"
@@ -5608,8 +5775,9 @@
         ]
     },
     "th09_18.txt": {
-        "file": "th09_18.txt",
-        "type": "work",
+        "file": [
+            "th09_18.txt"
+        ],
         "title": "花は幻想のままに",
         "usertag": [
             "th09"
@@ -5642,8 +5810,9 @@
         ]
     },
     "th09_19.txt": {
-        "file": "th09_19.txt",
-        "type": "work",
+        "file": [
+            "th09_19.txt"
+        ],
         "title": "魂の花　～ Another Dream...",
         "usertag": [
             "th09"
@@ -5675,8 +5844,9 @@
         ]
     },
     "th10_01.txt": {
-        "file": "th10_01.txt",
-        "type": "work",
+        "file": [
+            "th10_01.txt"
+        ],
         "title": "封印されし神々",
         "usertag": [
             "th10"
@@ -5708,8 +5878,9 @@
         ]
     },
     "th10_02.txt": {
-        "file": "th10_02.txt",
-        "type": "work",
+        "file": [
+            "th10_02.txt"
+        ],
         "title": "人恋し神様　～ Romantic Fall",
         "usertag": [
             "th10"
@@ -5744,8 +5915,9 @@
         ]
     },
     "th10_03.txt": {
-        "file": "th10_03.txt",
-        "type": "work",
+        "file": [
+            "th10_03.txt"
+        ],
         "title": "稲田姫様に叱られるから",
         "usertag": [
             "th10"
@@ -5781,8 +5953,9 @@
         ]
     },
     "th10_04.txt": {
-        "file": "th10_04.txt",
-        "type": "work",
+        "file": [
+            "th10_04.txt"
+        ],
         "title": "厄神様の通り道　～ Dark Road",
         "usertag": [
             "th10"
@@ -5817,8 +5990,9 @@
         ]
     },
     "th10_05.txt": {
-        "file": "th10_05.txt",
-        "type": "work",
+        "file": [
+            "th10_05.txt"
+        ],
         "title": "運命のダークサイド",
         "usertag": [
             "th10"
@@ -5852,8 +6026,9 @@
         ]
     },
     "th10_06.txt": {
-        "file": "th10_06.txt",
-        "type": "work",
+        "file": [
+            "th10_06.txt"
+        ],
         "title": "神々が恋した幻想郷",
         "usertag": [
             "th10"
@@ -5885,8 +6060,9 @@
         ]
     },
     "th10_07.txt": {
-        "file": "th10_07.txt",
-        "type": "work",
+        "file": [
+            "th10_07.txt"
+        ],
         "title": "芥川龍之介の河童　～ Candid Friend",
         "usertag": [
             "th10"
@@ -5922,8 +6098,9 @@
         ]
     },
     "th10_08.txt": {
-        "file": "th10_08.txt",
-        "type": "work",
+        "file": [
+            "th10_08.txt"
+        ],
         "title": "フォールオブフォール　～ 秋めく滝",
         "usertag": [
             "th10"
@@ -5957,8 +6134,9 @@
         ]
     },
     "th10_09.txt": {
-        "file": "th10_09.txt",
-        "type": "work",
+        "file": [
+            "th10_09.txt"
+        ],
         "title": "妖怪の山　～ Mysterious Mountain",
         "usertag": [
             "th10"
@@ -5994,8 +6172,9 @@
         ]
     },
     "th10_10.txt": {
-        "file": "th10_10.txt",
-        "type": "work",
+        "file": [
+            "th10_10.txt"
+        ],
         "title": "少女が見た日本の原風景",
         "usertag": [
             "th10"
@@ -6028,8 +6207,9 @@
         ]
     },
     "th10_11.txt": {
-        "file": "th10_11.txt",
-        "type": "work",
+        "file": [
+            "th10_11.txt"
+        ],
         "title": "信仰は儚き人間の為に",
         "usertag": [
             "th10"
@@ -6068,8 +6248,9 @@
         ]
     },
     "th10_12.txt": {
-        "file": "th10_12.txt",
-        "type": "work",
+        "file": [
+            "th10_12.txt"
+        ],
         "title": "御柱の墓場　～ Grave of Being",
         "usertag": [
             "th10"
@@ -6102,8 +6283,9 @@
         ]
     },
     "th10_13.txt": {
-        "file": "th10_13.txt",
-        "type": "work",
+        "file": [
+            "th10_13.txt"
+        ],
         "title": "神さびた古戦場　～ Suwa Foughten Field",
         "usertag": [
             "th10"
@@ -6137,8 +6319,9 @@
         ]
     },
     "th10_14.txt": {
-        "file": "th10_14.txt",
-        "type": "work",
+        "file": [
+            "th10_14.txt"
+        ],
         "title": "明日ハレの日、ケの昨日",
         "usertag": [
             "th10"
@@ -6172,8 +6355,9 @@
         ]
     },
     "th10_15.txt": {
-        "file": "th10_15.txt",
-        "type": "work",
+        "file": [
+            "th10_15.txt"
+        ],
         "title": "ネイティブフェイス",
         "usertag": [
             "th10"
@@ -6210,8 +6394,9 @@
         ]
     },
     "th10_16.txt": {
-        "file": "th10_16.txt",
-        "type": "work",
+        "file": [
+            "th10_16.txt"
+        ],
         "title": "麓の神社",
         "usertag": [
             "th10"
@@ -6244,8 +6429,9 @@
         ]
     },
     "th10_17.txt": {
-        "file": "th10_17.txt",
-        "type": "work",
+        "file": [
+            "th10_17.txt"
+        ],
         "title": "神は恵みの雨を降らす　～ Sylphid Dream",
         "usertag": [
             "th10"
@@ -6277,8 +6463,9 @@
         ]
     },
     "th11_01.txt": {
-        "file": "th11_01.txt",
-        "type": "work",
+        "file": [
+            "th11_01.txt"
+        ],
         "title": "地霊達の起床",
         "usertag": [
             "th11"
@@ -6312,8 +6499,9 @@
         ]
     },
     "th11_02.txt": {
-        "file": "th11_02.txt",
-        "type": "work",
+        "file": [
+            "th11_02.txt"
+        ],
         "title": "暗闇の風穴",
         "usertag": [
             "th11"
@@ -6346,8 +6534,9 @@
         ]
     },
     "th11_03.txt": {
-        "file": "th11_03.txt",
-        "type": "work",
+        "file": [
+            "th11_03.txt"
+        ],
         "title": "封じられた妖怪　～ Lost Place",
         "usertag": [
             "th11"
@@ -6379,8 +6568,9 @@
         ]
     },
     "th11_04.txt": {
-        "file": "th11_04.txt",
-        "type": "work",
+        "file": [
+            "th11_04.txt"
+        ],
         "title": "渡る者の途絶えた橋",
         "usertag": [
             "th11"
@@ -6413,8 +6603,9 @@
         ]
     },
     "th11_05.txt": {
-        "file": "th11_05.txt",
-        "type": "work",
+        "file": [
+            "th11_05.txt"
+        ],
         "title": "緑眼のジェラシー",
         "usertag": [
             "th11"
@@ -6449,8 +6640,9 @@
         ]
     },
     "th11_06.txt": {
-        "file": "th11_06.txt",
-        "type": "work",
+        "file": [
+            "th11_06.txt"
+        ],
         "title": "旧地獄街道を行く",
         "usertag": [
             "th11"
@@ -6484,8 +6676,9 @@
         ]
     },
     "th11_07.txt": {
-        "file": "th11_07.txt",
-        "type": "work",
+        "file": [
+            "th11_07.txt"
+        ],
         "title": "華のさかづき大江山",
         "usertag": [
             "th11"
@@ -6518,8 +6711,9 @@
         ]
     },
     "th11_08.txt": {
-        "file": "th11_08.txt",
-        "type": "work",
+        "file": [
+            "th11_08.txt"
+        ],
         "title": "ハートフェルトファンシー",
         "usertag": [
             "th11"
@@ -6553,8 +6747,9 @@
         ]
     },
     "th11_09.txt": {
-        "file": "th11_09.txt",
-        "type": "work",
+        "file": [
+            "th11_09.txt"
+        ],
         "title": "少女さとり　～ 3rd eye",
         "usertag": [
             "th11"
@@ -6593,8 +6788,9 @@
         ]
     },
     "th11_10.txt": {
-        "file": "th11_10.txt",
-        "type": "work",
+        "file": [
+            "th11_10.txt"
+        ],
         "title": "廃獄ララバイ",
         "usertag": [
             "th11"
@@ -6631,8 +6827,9 @@
         ]
     },
     "th11_11.txt": {
-        "file": "th11_11.txt",
-        "type": "work",
+        "file": [
+            "th11_11.txt"
+        ],
         "title": "死体旅行　～ Be of good cheer!",
         "usertag": [
             "th11"
@@ -6667,8 +6864,9 @@
         ]
     },
     "th11_12.txt": {
-        "file": "th11_12.txt",
-        "type": "work",
+        "file": [
+            "th11_12.txt"
+        ],
         "title": "業火マントル",
         "usertag": [
             "th11"
@@ -6703,8 +6901,9 @@
         ]
     },
     "th11_13.txt": {
-        "file": "th11_13.txt",
-        "type": "work",
+        "file": [
+            "th11_13.txt"
+        ],
         "title": "霊知の太陽信仰　～ Nuclear Fusion",
         "usertag": [
             "th11"
@@ -6740,8 +6939,9 @@
         ]
     },
     "th11_14.txt": {
-        "file": "th11_14.txt",
-        "type": "work",
+        "file": [
+            "th11_14.txt"
+        ],
         "title": "ラストリモート",
         "usertag": [
             "th11"
@@ -6778,8 +6978,9 @@
         ]
     },
     "th11_15.txt": {
-        "file": "th11_15.txt",
-        "type": "work",
+        "file": [
+            "th11_15.txt"
+        ],
         "title": "ハルトマンの妖怪少女",
         "usertag": [
             "th11"
@@ -6816,8 +7017,9 @@
         ]
     },
     "th11_16.txt": {
-        "file": "th11_16.txt",
-        "type": "work",
+        "file": [
+            "th11_16.txt"
+        ],
         "title": "地霊達の帰宅",
         "usertag": [
             "th11"
@@ -6849,8 +7051,9 @@
         ]
     },
     "th11_17.txt": {
-        "file": "th11_17.txt",
-        "type": "work",
+        "file": [
+            "th11_17.txt"
+        ],
         "title": "エネルギー黎明　～ Future Dream...",
         "usertag": [
             "th11"
@@ -6882,8 +7085,9 @@
         ]
     },
     "th12_01.txt": {
-        "file": "th12_01.txt",
-        "type": "work",
+        "file": [
+            "th12_01.txt"
+        ],
         "title": "青空の影",
         "usertag": [
             "th12"
@@ -6915,8 +7119,9 @@
         ]
     },
     "th12_02.txt": {
-        "file": "th12_02.txt",
-        "type": "work",
+        "file": [
+            "th12_02.txt"
+        ],
         "title": "春の湊に",
         "usertag": [
             "th12"
@@ -6950,8 +7155,9 @@
         ]
     },
     "th12_03.txt": {
-        "file": "th12_03.txt",
-        "type": "work",
+        "file": [
+            "th12_03.txt"
+        ],
         "title": "小さな小さな賢将",
         "usertag": [
             "th12"
@@ -6988,8 +7194,9 @@
         ]
     },
     "th12_04.txt": {
-        "file": "th12_04.txt",
-        "type": "work",
+        "file": [
+            "th12_04.txt"
+        ],
         "title": "閉ざせし雲の通い路",
         "usertag": [
             "th12"
@@ -7021,8 +7228,9 @@
         ]
     },
     "th12_05.txt": {
-        "file": "th12_05.txt",
-        "type": "work",
+        "file": [
+            "th12_05.txt"
+        ],
         "title": "万年置き傘にご注意を",
         "usertag": [
             "th12"
@@ -7056,8 +7264,9 @@
         ]
     },
     "th12_06.txt": {
-        "file": "th12_06.txt",
-        "type": "work",
+        "file": [
+            "th12_06.txt"
+        ],
         "title": "スカイルーイン",
         "usertag": [
             "th12"
@@ -7089,8 +7298,9 @@
         ]
     },
     "th12_07.txt": {
-        "file": "th12_07.txt",
-        "type": "work",
+        "file": [
+            "th12_07.txt"
+        ],
         "title": "時代親父とハイカラ少女",
         "usertag": [
             "th12"
@@ -7123,8 +7333,9 @@
         ]
     },
     "th12_08.txt": {
-        "file": "th12_08.txt",
-        "type": "work",
+        "file": [
+            "th12_08.txt"
+        ],
         "title": "幽霊客船の時空を越えた旅",
         "usertag": [
             "th12"
@@ -7156,8 +7367,9 @@
         ]
     },
     "th12_09.txt": {
-        "file": "th12_09.txt",
-        "type": "work",
+        "file": [
+            "th12_09.txt"
+        ],
         "title": "キャプテン・ムラサ",
         "usertag": [
             "th12"
@@ -7189,8 +7401,9 @@
         ]
     },
     "th12_10.txt": {
-        "file": "th12_10.txt",
-        "type": "work",
+        "file": [
+            "th12_10.txt"
+        ],
         "title": "魔界地方都市エソテリア",
         "usertag": [
             "th12"
@@ -7223,8 +7436,9 @@
         ]
     },
     "th12_11.txt": {
-        "file": "th12_11.txt",
-        "type": "work",
+        "file": [
+            "th12_11.txt"
+        ],
         "title": "虎柄の毘沙門天",
         "usertag": [
             "th12"
@@ -7257,8 +7471,9 @@
         ]
     },
     "th12_12.txt": {
-        "file": "th12_12.txt",
-        "type": "work",
+        "file": [
+            "th12_12.txt"
+        ],
         "title": "法界の火",
         "usertag": [
             "th12"
@@ -7290,8 +7505,9 @@
         ]
     },
     "th12_13.txt": {
-        "file": "th12_13.txt",
-        "type": "work",
+        "file": [
+            "th12_13.txt"
+        ],
         "title": "感情の摩天楼　～ Cosmic Mind",
         "usertag": [
             "th12"
@@ -7327,8 +7543,9 @@
         ]
     },
     "th12_14.txt": {
-        "file": "th12_14.txt",
-        "type": "work",
+        "file": [
+            "th12_14.txt"
+        ],
         "title": "夜空のユーフォーロマンス",
         "usertag": [
             "th12"
@@ -7360,8 +7577,9 @@
         ]
     },
     "th12_15.txt": {
-        "file": "th12_15.txt",
-        "type": "work",
+        "file": [
+            "th12_15.txt"
+        ],
         "title": "平安のエイリアン",
         "usertag": [
             "th12"
@@ -7396,8 +7614,9 @@
         ]
     },
     "th12_16.txt": {
-        "file": "th12_16.txt",
-        "type": "work",
+        "file": [
+            "th12_16.txt"
+        ],
         "title": "妖怪寺",
         "usertag": [
             "th12"
@@ -7429,8 +7648,9 @@
         ]
     },
     "th12_17.txt": {
-        "file": "th12_17.txt",
-        "type": "work",
+        "file": [
+            "th12_17.txt"
+        ],
         "title": "空の帰り道　～ Sky Dream",
         "usertag": [
             "th12"
@@ -7462,8 +7682,9 @@
         ]
     },
     "th13_01.txt": {
-        "file": "th13_01.txt",
-        "type": "work",
+        "file": [
+            "th13_01.txt"
+        ],
         "title": "欲深き霊魂",
         "usertag": [
             "th13"
@@ -7495,8 +7716,9 @@
         ]
     },
     "th13_02.txt": {
-        "file": "th13_02.txt",
-        "type": "work",
+        "file": [
+            "th13_02.txt"
+        ],
         "title": "死霊の夜桜",
         "usertag": [
             "th13"
@@ -7528,8 +7750,9 @@
         ]
     },
     "th13_03.txt": {
-        "file": "th13_03.txt",
-        "type": "work",
+        "file": [
+            "th13_03.txt"
+        ],
         "title": "ゴーストリード",
         "usertag": [
             "th13"
@@ -7563,8 +7786,9 @@
         ]
     },
     "th13_04.txt": {
-        "file": "th13_04.txt",
-        "type": "work",
+        "file": [
+            "th13_04.txt"
+        ],
         "title": "妖怪寺へようこそ",
         "usertag": [
             "th13"
@@ -7596,8 +7820,9 @@
         ]
     },
     "th13_05.txt": {
-        "file": "th13_05.txt",
-        "type": "work",
+        "file": [
+            "th13_05.txt"
+        ],
         "title": "門前の妖怪小娘",
         "usertag": [
             "th13"
@@ -7629,8 +7854,9 @@
         ]
     },
     "th13_06.txt": {
-        "file": "th13_06.txt",
-        "type": "work",
+        "file": [
+            "th13_06.txt"
+        ],
         "title": "素敵な墓場で暮しましょ",
         "usertag": [
             "th13"
@@ -7663,8 +7889,9 @@
         ]
     },
     "th13_07.txt": {
-        "file": "th13_07.txt",
-        "type": "work",
+        "file": [
+            "th13_07.txt"
+        ],
         "title": "リジッドパラダイス",
         "usertag": [
             "th13"
@@ -7696,8 +7923,9 @@
         ]
     },
     "th13_08.txt": {
-        "file": "th13_08.txt",
-        "type": "work",
+        "file": [
+            "th13_08.txt"
+        ],
         "title": "デザイアドライブ",
         "usertag": [
             "th13"
@@ -7734,8 +7962,9 @@
         ]
     },
     "th13_09.txt": {
-        "file": "th13_09.txt",
-        "type": "work",
+        "file": [
+            "th13_09.txt"
+        ],
         "title": "古きユアンシェン",
         "usertag": [
             "th13"
@@ -7770,8 +7999,9 @@
         ]
     },
     "th13_10.txt": {
-        "file": "th13_10.txt",
-        "type": "work",
+        "file": [
+            "th13_10.txt"
+        ],
         "title": "夢殿大祀廟",
         "usertag": [
             "th13"
@@ -7805,8 +8035,9 @@
         ]
     },
     "th13_11.txt": {
-        "file": "th13_11.txt",
-        "type": "work",
+        "file": [
+            "th13_11.txt"
+        ],
         "title": "大神神話伝",
         "usertag": [
             "th13"
@@ -7841,8 +8072,9 @@
         ]
     },
     "th13_12.txt": {
-        "file": "th13_12.txt",
-        "type": "work",
+        "file": [
+            "th13_12.txt"
+        ],
         "title": "小さな欲望の星空",
         "usertag": [
             "th13"
@@ -7874,8 +8106,9 @@
         ]
     },
     "th13_13.txt": {
-        "file": "th13_13.txt",
-        "type": "work",
+        "file": [
+            "th13_13.txt"
+        ],
         "title": "聖徳伝説　～ True Administrator",
         "usertag": [
             "th13"
@@ -7908,8 +8141,9 @@
         ]
     },
     "th13_14.txt": {
-        "file": "th13_14.txt",
-        "type": "work",
+        "file": [
+            "th13_14.txt"
+        ],
         "title": "妖怪裏参道",
         "usertag": [
             "th13"
@@ -7941,8 +8175,9 @@
         ]
     },
     "th13_15.txt": {
-        "file": "th13_15.txt",
-        "type": "work",
+        "file": [
+            "th13_15.txt"
+        ],
         "title": "佐渡の二ッ岩",
         "usertag": [
             "th13"
@@ -7976,8 +8211,9 @@
         ]
     },
     "th14_01.txt": {
-        "file": "th14_01.txt",
-        "type": "work",
+        "file": [
+            "th14_01.txt"
+        ],
         "title": "不思議なお祓い棒",
         "usertag": [
             "th14"
@@ -8012,8 +8248,9 @@
         ]
     },
     "th14_02.txt": {
-        "file": "th14_02.txt",
-        "type": "work",
+        "file": [
+            "th14_02.txt"
+        ],
         "title": "ミストレイク",
         "usertag": [
             "th14"
@@ -8045,8 +8282,9 @@
         ]
     },
     "th14_03.txt": {
-        "file": "th14_03.txt",
-        "type": "work",
+        "file": [
+            "th14_03.txt"
+        ],
         "title": "秘境のマーメイド",
         "usertag": [
             "th14"
@@ -8078,8 +8316,9 @@
         ]
     },
     "th14_05.txt": {
-        "file": "th14_05.txt",
-        "type": "work",
+        "file": [
+            "th14_05.txt"
+        ],
         "title": "柳の下のデュラハン",
         "usertag": [
             "th14"
@@ -8112,8 +8351,9 @@
         ]
     },
     "th14_06.txt": {
-        "file": "th14_06.txt",
-        "type": "work",
+        "file": [
+            "th14_06.txt"
+        ],
         "title": "満月の竹林",
         "usertag": [
             "th14"
@@ -8148,8 +8388,9 @@
         ]
     },
     "th14_07.txt": {
-        "file": "th14_07.txt",
-        "type": "work",
+        "file": [
+            "th14_07.txt"
+        ],
         "title": "孤独なウェアウルフ",
         "usertag": [
             "th14"
@@ -8184,8 +8425,9 @@
         ]
     },
     "th14_08.txt": {
-        "file": "th14_08.txt",
-        "type": "work",
+        "file": [
+            "th14_08.txt"
+        ],
         "title": "マジカルストーム",
         "usertag": [
             "th14"
@@ -8217,8 +8459,9 @@
         ]
     },
     "th14_09.txt": {
-        "file": "th14_09.txt",
-        "type": "work",
+        "file": [
+            "th14_09.txt"
+        ],
         "title": "幻想浄瑠璃",
         "usertag": [
             "th14"
@@ -8250,8 +8493,9 @@
         ]
     },
     "th14_10.txt": {
-        "file": "th14_10.txt",
-        "type": "work",
+        "file": [
+            "th14_10.txt"
+        ],
         "title": "空中に沈む輝針城",
         "usertag": [
             "th14"
@@ -8286,8 +8530,9 @@
         ]
     },
     "th14_11.txt": {
-        "file": "th14_11.txt",
-        "type": "work",
+        "file": [
+            "th14_11.txt"
+        ],
         "title": "リバースイデオロギー",
         "usertag": [
             "th14"
@@ -8321,8 +8566,9 @@
         ]
     },
     "th14_12.txt": {
-        "file": "th14_12.txt",
-        "type": "work",
+        "file": [
+            "th14_12.txt"
+        ],
         "title": "針小棒大の天守閣",
         "usertag": [
             "th14"
@@ -8356,8 +8602,9 @@
         ]
     },
     "th14_13.txt": {
-        "file": "th14_13.txt",
-        "type": "work",
+        "file": [
+            "th14_13.txt"
+        ],
         "title": "輝く針の小人族　～ Little Princess",
         "usertag": [
             "th14"
@@ -8394,8 +8641,9 @@
         ]
     },
     "th14_14.txt": {
-        "file": "th14_14.txt",
-        "type": "work",
+        "file": [
+            "th14_14.txt"
+        ],
         "title": "魔力の雷雲",
         "usertag": [
             "th14"
@@ -8429,8 +8677,9 @@
         ]
     },
     "th14_15.txt": {
-        "file": "th14_15.txt",
-        "type": "work",
+        "file": [
+            "th14_15.txt"
+        ],
         "title": "始原のビート　～ Pristine Beat",
         "usertag": [
             "th14"
@@ -8464,8 +8713,9 @@
         ]
     },
     "th14_17.txt": {
-        "file": "th14_17.txt",
-        "type": "work",
+        "file": [
+            "th14_17.txt"
+        ],
         "title": "不思議な不思議な道具達",
         "usertag": [
             "th14"
@@ -8497,8 +8747,9 @@
         ]
     },
     "th15_01.txt": {
-        "file": "th15_01.txt",
-        "type": "work",
+        "file": [
+            "th15_01.txt"
+        ],
         "title": "宇宙巫女現る",
         "usertag": [
             "th15"
@@ -8530,8 +8781,9 @@
         ]
     },
     "th15_02.txt": {
-        "file": "th15_02.txt",
-        "type": "work",
+        "file": [
+            "th15_02.txt"
+        ],
         "title": "忘れがたき、よすがの緑",
         "usertag": [
             "th15"
@@ -8564,8 +8816,9 @@
         ]
     },
     "th15_03.txt": {
-        "file": "th15_03.txt",
-        "type": "work",
+        "file": [
+            "th15_03.txt"
+        ],
         "title": "兎は舞い降りた",
         "usertag": [
             "th15"
@@ -8598,8 +8851,9 @@
         ]
     },
     "th15_05.txt": {
-        "file": "th15_05.txt",
-        "type": "work",
+        "file": [
+            "th15_05.txt"
+        ],
         "title": "九月のパンプキン",
         "usertag": [
             "th15"
@@ -8631,8 +8885,9 @@
         ]
     },
     "th15_06.txt": {
-        "file": "th15_06.txt",
-        "type": "work",
+        "file": [
+            "th15_06.txt"
+        ],
         "title": "宇宙を飛ぶ不思議な巫女",
         "usertag": [
             "th15"
@@ -8665,8 +8920,9 @@
         ]
     },
     "th15_07.txt": {
-        "file": "th15_07.txt",
-        "type": "work",
+        "file": [
+            "th15_07.txt"
+        ],
         "title": "永遠の春夢",
         "usertag": [
             "th15"
@@ -8701,8 +8957,9 @@
         ]
     },
     "th15_08.txt": {
-        "file": "th15_08.txt",
-        "type": "work",
+        "file": [
+            "th15_08.txt"
+        ],
         "title": "凍り付いた永遠の都",
         "usertag": [
             "th15"
@@ -8735,8 +8992,9 @@
         ]
     },
     "th15_09.txt": {
-        "file": "th15_09.txt",
-        "type": "work",
+        "file": [
+            "th15_09.txt"
+        ],
         "title": "逆転するホイールオブフォーチュン",
         "usertag": [
             "th15"
@@ -8768,8 +9026,9 @@
         ]
     },
     "th15_10.txt": {
-        "file": "th15_10.txt",
-        "type": "work",
+        "file": [
+            "th15_10.txt"
+        ],
         "title": "遥か３８万キロのボヤージュ",
         "usertag": [
             "th15"
@@ -8804,8 +9063,9 @@
         ]
     },
     "th15_11.txt": {
-        "file": "th15_11.txt",
-        "type": "work",
+        "file": [
+            "th15_11.txt"
+        ],
         "title": "星条旗のピエロ",
         "usertag": [
             "th15"
@@ -8838,8 +9098,9 @@
         ]
     },
     "th15_12.txt": {
-        "file": "th15_12.txt",
-        "type": "work",
+        "file": [
+            "th15_12.txt"
+        ],
         "title": "故郷の星が映る海",
         "usertag": [
             "th15"
@@ -8875,8 +9136,9 @@
         ]
     },
     "th15_13.txt": {
-        "file": "th15_13.txt",
-        "type": "work",
+        "file": [
+            "th15_13.txt"
+        ],
         "title": "ピュアヒューリーズ　～ 心の在処",
         "usertag": [
             "th15"
@@ -8912,8 +9174,9 @@
         ]
     },
     "th15_14.txt": {
-        "file": "th15_14.txt",
-        "type": "work",
+        "file": [
+            "th15_14.txt"
+        ],
         "title": "見た事も無い悪夢の世界",
         "usertag": [
             "th15"
@@ -8946,8 +9209,9 @@
         ]
     },
     "th15_15.txt": {
-        "file": "th15_15.txt",
-        "type": "work",
+        "file": [
+            "th15_15.txt"
+        ],
         "title": "パンデモニックプラネット",
         "usertag": [
             "th15"
@@ -8985,8 +9249,9 @@
         ]
     },
     "th15_16.txt": {
-        "file": "th15_16.txt",
-        "type": "work",
+        "file": [
+            "th15_16.txt"
+        ],
         "title": "神社から見える月",
         "usertag": [
             "th15"
@@ -9018,8 +9283,9 @@
         ]
     },
     "th16_01.txt": {
-        "file": "th16_01.txt",
-        "type": "work",
+        "file": [
+            "th16_01.txt"
+        ],
         "title": "桜舞い散る天空",
         "usertag": [
             "th16"
@@ -9051,8 +9317,9 @@
         ]
     },
     "th16_02.txt": {
-        "file": "th16_02.txt",
-        "type": "work",
+        "file": [
+            "th16_02.txt"
+        ],
         "title": "希望の星は青霄に昇る",
         "usertag": [
             "th16"
@@ -9085,8 +9352,9 @@
         ]
     },
     "th16_03.txt": {
-        "file": "th16_03.txt",
-        "type": "work",
+        "file": [
+            "th16_03.txt"
+        ],
         "title": "真夏の妖精の夢",
         "usertag": [
             "th16"
@@ -9118,8 +9386,9 @@
         ]
     },
     "th16_04.txt": {
-        "file": "th16_04.txt",
-        "type": "work",
+        "file": [
+            "th16_04.txt"
+        ],
         "title": "色無き風は妖怪の山に",
         "usertag": [
             "th16"
@@ -9151,8 +9420,9 @@
         ]
     },
     "th16_05.txt": {
-        "file": "th16_05.txt",
-        "type": "work",
+        "file": [
+            "th16_05.txt"
+        ],
         "title": "山奥のエンカウンター",
         "usertag": [
             "th16"
@@ -9185,8 +9455,9 @@
         ]
     },
     "th16_06.txt": {
-        "file": "th16_06.txt",
-        "type": "work",
+        "file": [
+            "th16_06.txt"
+        ],
         "title": "桜色の海を泳いで",
         "usertag": [
             "th16"
@@ -9219,8 +9490,9 @@
         ]
     },
     "th16_07.txt": {
-        "file": "th16_07.txt",
-        "type": "work",
+        "file": [
+            "th16_07.txt"
+        ],
         "title": "一対の神獣",
         "usertag": [
             "th16"
@@ -9257,8 +9529,9 @@
         ]
     },
     "th16_08.txt": {
-        "file": "th16_08.txt",
-        "type": "work",
+        "file": [
+            "th16_08.txt"
+        ],
         "title": "幻想のホワイトトラベラー",
         "usertag": [
             "th16"
@@ -9291,8 +9564,9 @@
         ]
     },
     "th16_09.txt": {
-        "file": "th16_09.txt",
-        "type": "work",
+        "file": [
+            "th16_09.txt"
+        ],
         "title": "魔法の笠地蔵",
         "usertag": [
             "th16"
@@ -9324,8 +9598,9 @@
         ]
     },
     "th16_10.txt": {
-        "file": "th16_10.txt",
-        "type": "work",
+        "file": [
+            "th16_10.txt"
+        ],
         "title": "禁断の扉の向こうは、この世かあの世か",
         "usertag": [
             "th16"
@@ -9358,8 +9633,9 @@
         ]
     },
     "th16_11.txt": {
-        "file": "th16_11.txt",
-        "type": "work",
+        "file": [
+            "th16_11.txt"
+        ],
         "title": "クレイジーバックダンサーズ",
         "usertag": [
             "th16"
@@ -9392,8 +9668,9 @@
         ]
     },
     "th16_12.txt": {
-        "file": "th16_12.txt",
-        "type": "work",
+        "file": [
+            "th16_12.txt"
+        ],
         "title": "イントゥ・バックドア",
         "usertag": [
             "th16"
@@ -9426,8 +9703,9 @@
         ]
     },
     "th16_13.txt": {
-        "file": "th16_13.txt",
-        "type": "work",
+        "file": [
+            "th16_13.txt"
+        ],
         "title": "秘匿されたフォーシーズンズ",
         "usertag": [
             "th16"
@@ -9460,8 +9738,9 @@
         ]
     },
     "th16_14.txt": {
-        "file": "th16_14.txt",
-        "type": "work",
+        "file": [
+            "th16_14.txt"
+        ],
         "title": "もうドアには入れない",
         "usertag": [
             "th16"
@@ -9494,8 +9773,9 @@
         ]
     },
     "th16_15.txt": {
-        "file": "th16_15.txt",
-        "type": "work",
+        "file": [
+            "th16_15.txt"
+        ],
         "title": "秘神マターラ　～ Hidden Star in All Seasons.",
         "usertag": [
             "th16"
@@ -9530,8 +9810,9 @@
         ]
     },
     "th17_02.txt": {
-        "file": "th17_02.txt",
-        "type": "work",
+        "file": [
+            "th17_02.txt"
+        ],
         "title": "地蔵だけが知る哀嘆",
         "usertag": [
             "th17"
@@ -9563,8 +9844,9 @@
         ]
     },
     "th17_03.txt": {
-        "file": "th17_03.txt",
-        "type": "work",
+        "file": [
+            "th17_03.txt"
+        ],
         "title": "ジェリーストーン",
         "usertag": [
             "th17"
@@ -9597,8 +9879,9 @@
         ]
     },
     "th17_04.txt": {
-        "file": "th17_04.txt",
-        "type": "work",
+        "file": [
+            "th17_04.txt"
+        ],
         "title": "ロストリバー",
         "usertag": [
             "th17"
@@ -9631,8 +9914,9 @@
         ]
     },
     "th17_05.txt": {
-        "file": "th17_05.txt",
-        "type": "work",
+        "file": [
+            "th17_05.txt"
+        ],
         "title": "石の赤子と水中の牛",
         "usertag": [
             "th17"
@@ -9666,8 +9950,9 @@
         ]
     },
     "th17_06.txt": {
-        "file": "th17_06.txt",
-        "type": "work",
+        "file": [
+            "th17_06.txt"
+        ],
         "title": "不朽の曼珠沙華",
         "usertag": [
             "th17"
@@ -9701,8 +9986,9 @@
         ]
     },
     "th17_07.txt": {
-        "file": "th17_07.txt",
-        "type": "work",
+        "file": [
+            "th17_07.txt"
+        ],
         "title": "セラフィックチキン",
         "usertag": [
             "th17"
@@ -9735,8 +10021,9 @@
         ]
     },
     "th17_08.txt": {
-        "file": "th17_08.txt",
-        "type": "work",
+        "file": [
+            "th17_08.txt"
+        ],
         "title": "トータスドラゴン　～ 幸運と不運",
         "usertag": [
             "th17"
@@ -9768,8 +10055,9 @@
         ]
     },
     "th17_10.txt": {
-        "file": "th17_10.txt",
-        "type": "work",
+        "file": [
+            "th17_10.txt"
+        ],
         "title": "ビーストメトロポリス",
         "usertag": [
             "th17"
@@ -9801,8 +10089,9 @@
         ]
     },
     "th17_11.txt": {
-        "file": "th17_11.txt",
-        "type": "work",
+        "file": [
+            "th17_11.txt"
+        ],
         "title": "セラミックスの杖刀人",
         "usertag": [
             "th17"
@@ -9836,8 +10125,9 @@
         ]
     },
     "th17_12.txt": {
-        "file": "th17_12.txt",
-        "type": "work",
+        "file": [
+            "th17_12.txt"
+        ],
         "title": "エレクトリックヘリテージ",
         "usertag": [
             "th17"
@@ -9871,8 +10161,9 @@
         ]
     },
     "th17_13.txt": {
-        "file": "th17_13.txt",
-        "type": "work",
+        "file": [
+            "th17_13.txt"
+        ],
         "title": "偶像に世界を委ねて　～ Idoratrize World",
         "usertag": [
             "th17"
@@ -9904,8 +10195,9 @@
         ]
     },
     "th17_14.txt": {
-        "file": "th17_14.txt",
-        "type": "work",
+        "file": [
+            "th17_14.txt"
+        ],
         "title": "聖徳太子のペガサス　～ Dark Pegasus",
         "usertag": [
             "th17"
@@ -9937,8 +10229,9 @@
         ]
     },
     "th18_01.txt": {
-        "file": "th18_01.txt",
-        "type": "work",
+        "file": [
+            "th18_01.txt"
+        ],
         "title": "虹の架かる幻想郷",
         "usertag": [
             "th18"
@@ -9970,8 +10263,9 @@
         ]
     },
     "th18_02.txt": {
-        "file": "th18_02.txt",
-        "type": "work",
+        "file": [
+            "th18_02.txt"
+        ],
         "title": "妖異達の通り雨",
         "usertag": [
             "th18"
@@ -10003,8 +10297,9 @@
         ]
     },
     "th18_03.txt": {
-        "file": "th18_03.txt",
-        "type": "work",
+        "file": [
+            "th18_03.txt"
+        ],
         "title": "大吉キトゥン",
         "usertag": [
             "th18"
@@ -10038,8 +10333,9 @@
         ]
     },
     "th18_04.txt": {
-        "file": "th18_04.txt",
-        "type": "work",
+        "file": [
+            "th18_04.txt"
+        ],
         "title": "深緑に隠された断崖",
         "usertag": [
             "th18"
@@ -10071,8 +10367,9 @@
         ]
     },
     "th18_05.txt": {
-        "file": "th18_05.txt",
-        "type": "work",
+        "file": [
+            "th18_05.txt"
+        ],
         "title": "バンデットリィテクノロジー",
         "usertag": [
             "th18"
@@ -10104,8 +10401,9 @@
         ]
     },
     "th18_06.txt": {
-        "file": "th18_06.txt",
-        "type": "work",
+        "file": [
+            "th18_06.txt"
+        ],
         "title": "駒草咲くパーペチュアルスノー",
         "usertag": [
             "th18"
@@ -10137,8 +10435,9 @@
         ]
     },
     "th18_07.txt": {
-        "file": "th18_07.txt",
-        "type": "work",
+        "file": [
+            "th18_07.txt"
+        ],
         "title": "スモーキングドラゴン",
         "usertag": [
             "th18"
@@ -10173,8 +10472,9 @@
         ]
     },
     "th18_08.txt": {
-        "file": "th18_08.txt",
-        "type": "work",
+        "file": [
+            "th18_08.txt"
+        ],
         "title": "廃れゆく産業遺構",
         "usertag": [
             "th18"
@@ -10206,8 +10506,9 @@
         ]
     },
     "th18_09.txt": {
-        "file": "th18_09.txt",
-        "type": "work",
+        "file": [
+            "th18_09.txt"
+        ],
         "title": "神代鉱石",
         "usertag": [
             "th18"
@@ -10239,8 +10540,9 @@
         ]
     },
     "th18_10.txt": {
-        "file": "th18_10.txt",
-        "type": "work",
+        "file": [
+            "th18_10.txt"
+        ],
         "title": "待ちわびた逢魔が時",
         "usertag": [
             "th18"
@@ -10272,8 +10574,9 @@
         ]
     },
     "th18_11.txt": {
-        "file": "th18_11.txt",
-        "type": "work",
+        "file": [
+            "th18_11.txt"
+        ],
         "title": "星降る天魔の山",
         "usertag": [
             "th18"
@@ -10305,8 +10608,9 @@
         ]
     },
     "th18_12.txt": {
-        "file": "th18_12.txt",
-        "type": "work",
+        "file": [
+            "th18_12.txt"
+        ],
         "title": "ルナレインボー",
         "usertag": [
             "th18"
@@ -10339,8 +10643,9 @@
         ]
     },
     "th18_13.txt": {
-        "file": "th18_13.txt",
-        "type": "work",
+        "file": [
+            "th18_13.txt"
+        ],
         "title": "あの賑やかな市場は今どこに　～ Immemorial Marketeers",
         "usertag": [
             "th18"
@@ -10376,8 +10681,9 @@
         ]
     },
     "th18_14.txt": {
-        "file": "th18_14.txt",
-        "type": "work",
+        "file": [
+            "th18_14.txt"
+        ],
         "title": "幻想の地下大線路網",
         "usertag": [
             "th18"
@@ -10409,8 +10715,9 @@
         ]
     },
     "th18_15.txt": {
-        "file": "th18_15.txt",
-        "type": "work",
+        "file": [
+            "th18_15.txt"
+        ],
         "title": "龍王殺しのプリンセス",
         "usertag": [
             "th18"
@@ -10446,8 +10753,9 @@
         ]
     },
     "th18_16.txt": {
-        "file": "th18_16.txt",
-        "type": "work",
+        "file": [
+            "th18_16.txt"
+        ],
         "title": "嵐の後の日曜日",
         "usertag": [
             "th18"
@@ -10479,8 +10787,9 @@
         ]
     },
     "th18_17.txt": {
-        "file": "th18_17.txt",
-        "type": "work",
+        "file": [
+            "th18_17.txt"
+        ],
         "title": "虹色の世界",
         "usertag": [
             "th18"

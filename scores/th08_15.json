@@ -1,7 +1,8 @@
 {
     "th08_15.txt": {
-        "file": "th08_15.txt",
-        "type": "work",
+        "file": [
+            "th08_15.txt"
+        ],
         "title": "竹取飛翔　～ Lunatic Princess",
         "usertag": [
             "th08"

@@ -1,7 +1,8 @@
 {
     "th07_14.txt": {
-        "file": "th07_14.txt",
-        "type": "work",
+        "file": [
+            "th07_14.txt"
+        ],
         "title": "ボーダーオブライフ",
         "usertag": [
             "th07"

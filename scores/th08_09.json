@@ -1,7 +1,8 @@
 {
     "th08_09.txt": {
-        "file": "th08_09.txt",
-        "type": "work",
+        "file": [
+            "th08_09.txt"
+        ],
         "title": "少女綺想曲　～ Dream Battle",
         "usertag": [
             "th08"

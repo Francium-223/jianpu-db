@@ -1,7 +1,8 @@
 {
     "th16_09.txt": {
-        "file": "th16_09.txt",
-        "type": "work",
+        "file": [
+            "th16_09.txt"
+        ],
         "title": "魔法の笠地蔵",
         "usertag": [
             "th16"

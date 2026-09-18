@@ -1,7 +1,8 @@
 {
     "th08_03.txt": {
-        "file": "th08_03.txt",
-        "type": "work",
+        "file": [
+            "th08_03.txt"
+        ],
         "title": "蠢々秋月　～ Mooned Insect",
         "usertag": [
             "th08"

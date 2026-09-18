@@ -1,7 +1,8 @@
 {
     "th02_14.txt": {
-        "file": "th02_14.txt",
-        "type": "work",
+        "file": [
+            "th02_14.txt"
+        ],
         "title": "遠野の森",
         "usertag": [
             "th02"

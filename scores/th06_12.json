@@ -1,7 +1,8 @@
 {
     "th06_12.txt": {
-        "file": "th06_12.txt",
-        "type": "work",
+        "file": [
+            "th06_12.txt"
+        ],
         "title": "ツェペシュの幼き末裔",
         "usertag": [
             "th06"

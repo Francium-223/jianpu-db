@@ -1,7 +1,8 @@
 {
     "th07_10.txt": {
-        "file": "th07_10.txt",
-        "type": "work",
+        "file": [
+            "th07_10.txt"
+        ],
         "title": "東方妖々夢　～ Ancient Temple",
         "usertag": [
             "th07"

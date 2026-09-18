@@ -1,7 +1,8 @@
 {
     "th18_05.txt": {
-        "file": "th18_05.txt",
-        "type": "work",
+        "file": [
+            "th18_05.txt"
+        ],
         "title": "バンデットリィテクノロジー",
         "usertag": [
             "th18"

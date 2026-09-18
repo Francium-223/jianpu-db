@@ -201,10 +201,13 @@ opus=作品编号
 
 ```json
 {
-    "310b3b07-ec9f-3e88-9fd8-529c17478179": {
-        "file": "th01_02.txt",
-        "type": "work",
-        "title": "永遠の巫女",
+    "th01_02.txt": {
+        "file": [
+            "th01_02.txt"
+        ],
+        "title": [
+            "永遠の巫女"
+        ],
         "usertag": [
             "th01"
         ],

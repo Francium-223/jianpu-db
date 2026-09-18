@@ -1,7 +1,8 @@
 {
     "th10_11.txt": {
-        "file": "th10_11.txt",
-        "type": "work",
+        "file": [
+            "th10_11.txt"
+        ],
         "title": "信仰は儚き人間の為に",
         "usertag": [
             "th10"

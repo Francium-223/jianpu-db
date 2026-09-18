@@ -1,7 +1,8 @@
 {
     "th02_10.txt": {
-        "file": "th02_10.txt",
-        "type": "work",
+        "file": [
+            "th02_10.txt"
+        ],
         "title": "東方封魔録　～ 幽幻乱舞",
         "usertag": [
             "th02"

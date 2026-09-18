@@ -1,7 +1,8 @@
 {
     "th05_15.txt": {
-        "file": "th05_15.txt",
-        "type": "work",
+        "file": [
+            "th05_15.txt"
+        ],
         "title": "神話幻想　～ Infinite Being",
         "usertag": [
             "th05"

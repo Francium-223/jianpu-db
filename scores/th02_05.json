@@ -1,7 +1,8 @@
 {
     "th02_05.txt": {
-        "file": "th02_05.txt",
-        "type": "work",
+        "file": [
+            "th02_05.txt"
+        ],
         "title": "やみのちから",
         "usertag": [
             "th02"

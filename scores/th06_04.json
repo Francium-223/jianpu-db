@@ -1,7 +1,8 @@
 {
     "th06_04.txt": {
-        "file": "th06_04.txt",
-        "type": "work",
+        "file": [
+            "th06_04.txt"
+        ],
         "title": "ルーネイトエルフ",
         "usertag": [
             "th06"

@@ -1,7 +1,8 @@
 {
     "th06_17.txt": {
-        "file": "th06_17.txt",
-        "type": "work",
+        "file": [
+            "th06_17.txt"
+        ],
         "title": "紅楼　～ Eastern Dream...",
         "usertag": [
             "th06"

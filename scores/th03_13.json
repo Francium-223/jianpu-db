@@ -1,7 +1,8 @@
 {
     "th03_13.txt": {
-        "file": "th03_13.txt",
-        "type": "work",
+        "file": [
+            "th03_13.txt"
+        ],
         "title": "非統一魔法世界論",
         "usertag": [
             "th03"

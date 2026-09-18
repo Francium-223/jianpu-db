@@ -1,7 +1,8 @@
 {
     "th11_11.txt": {
-        "file": "th11_11.txt",
-        "type": "work",
+        "file": [
+            "th11_11.txt"
+        ],
         "title": "死体旅行　～ Be of good cheer!",
         "usertag": [
             "th11"

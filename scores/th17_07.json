@@ -1,7 +1,8 @@
 {
     "th17_07.txt": {
-        "file": "th17_07.txt",
-        "type": "work",
+        "file": [
+            "th17_07.txt"
+        ],
         "title": "セラフィックチキン",
         "usertag": [
             "th17"

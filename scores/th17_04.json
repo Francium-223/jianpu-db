@@ -1,7 +1,8 @@
 {
     "th17_04.txt": {
-        "file": "th17_04.txt",
-        "type": "work",
+        "file": [
+            "th17_04.txt"
+        ],
         "title": "ロストリバー",
         "usertag": [
             "th17"

@@ -1,7 +1,8 @@
 {
     "th08_07.txt": {
-        "file": "th08_07.txt",
-        "type": "work",
+        "file": [
+            "th08_07.txt"
+        ],
         "title": "プレインエイジア",
         "usertag": [
             "th08"

@@ -1,7 +1,8 @@
 {
     "th09_13.txt": {
-        "file": "th09_13.txt",
-        "type": "work",
+        "file": [
+            "th09_13.txt"
+        ],
         "title": "今昔幻想郷　～ Flower Land",
         "usertag": [
             "th09"

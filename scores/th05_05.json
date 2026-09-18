@@ -1,7 +1,8 @@
 {
     "th05_05.txt": {
-        "file": "th05_05.txt",
-        "type": "work",
+        "file": [
+            "th05_05.txt"
+        ],
         "title": "霊天　～ Spiritual Heaven",
         "usertag": [
             "th05"

@@ -1,7 +1,8 @@
 {
     "th09_11.txt": {
-        "file": "th09_11.txt",
-        "type": "work",
+        "file": [
+            "th09_11.txt"
+        ],
         "title": "風神少女",
         "usertag": [
             "th09"

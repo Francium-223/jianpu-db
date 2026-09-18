@@ -1,7 +1,8 @@
 {
     "th17_03.txt": {
-        "file": "th17_03.txt",
-        "type": "work",
+        "file": [
+            "th17_03.txt"
+        ],
         "title": "ジェリーストーン",
         "usertag": [
             "th17"

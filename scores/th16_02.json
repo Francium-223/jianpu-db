@@ -1,7 +1,8 @@
 {
     "th16_02.txt": {
-        "file": "th16_02.txt",
-        "type": "work",
+        "file": [
+            "th16_02.txt"
+        ],
         "title": "希望の星は青霄に昇る",
         "usertag": [
             "th16"

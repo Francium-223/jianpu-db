@@ -1,7 +1,8 @@
 {
     "th04_08.txt": {
-        "file": "th04_08.txt",
-        "type": "work",
+        "file": [
+            "th04_08.txt"
+        ],
         "title": "霊戦　～ Perdition crisis",
         "usertag": [
             "th04"
