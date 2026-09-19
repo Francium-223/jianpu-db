@@ -79,6 +79,15 @@ def maybe_add(a, b):
 	if not c:
 		c = [b]
 	return c
+def _rel(target, link_path):
+	"""链接目标: 相对链接所在目录, 统一用正斜杠。
+
+	Windows 的 os.sep 是反斜杠、Linux 是正斜杠 —— 不统一的话, 本地生成一次、
+	CI(Linux) 再生一次, 同一批链接的文本内容就不同, 每次提交都在改它们。
+	"""
+	return os.path.relpath(target, start=os.path.dirname(link_path)).replace(os.sep, '/')
+
+
 def same_ends(a, b):
 	for i in range(1, min(len(b) + 1, len(a) + 1)):
 		if not equal_tag(b[-i], a[-i]):
@@ -483,13 +492,17 @@ class Score():
 						dest = Path(filename)
 						Path(filename).parent.mkdir(parents=True, exist_ok=True)
 						dest.unlink(missing_ok=True)
-						dest.symlink_to(os.path.relpath(self.score, start=filename))
+						# start 必须是**链接所在目录**: 传 filename(链接自身)会当成目录,
+						# 相对路径多出一层 .., 链接全部指向仓库外 -> 显示为死链
+						# (实测 by_tag/th01/th01_01.txt 指向 ../../../scores/..., 应为 ../../)。
+						# 统一用正斜杠: Windows 生成的反斜杠与 Linux(CI) 不同, 会来回改。
+						dest.symlink_to(_rel(self.score, filename))
 				filename = ('').join(filename.split('.')[:-1]) + '.' + filename.split('.')[-1]
 				filename = filename.replace('?', '')
 				dest = Path(filename)
 				Path(filename).parent.mkdir(parents=True, exist_ok=True)
 				dest.unlink(missing_ok=True)
-				dest.symlink_to(os.path.relpath(self.score, start=filename))
+				dest.symlink_to(_rel(self.score, filename))
 		except FileNotFoundError:
 			print(f'Error: file \'{self.score}\' not found!')
 			raise
