@@ -248,55 +248,7 @@ opus=作品编号
 
 #### 提示
 
-一般来说，一些标签具有**蕴涵**关系，可以只写一个标签也能自动生成对应的标签。如（见[tag_implications.json](tag_implications.json)和[tag_equality.json](tag_equality.json)。）这样的代码意味着标签`bar`蕴涵`foo`——如果你只写了标签`bar`，脚本也会自动加上`foo`。
-
-```json
-{
-    "foo": {
-        "bar": {}
-    }
-}
-```
-
-有的标签可能产生歧义，举个例子，比方说[东方](https://mzh.moegirl.org.cn/东方Project)里的[渡里贝子](https://mzh.moegirl.org.cn/渡里贝子)（渡里**ニナ**，Watari **Nina**）和[GBC](https://mzh.moegirl.org.cn/GIRLS_BAND_CRY)（不是[GameBoy Color](https://nintendo.fandom.com/wiki/Game_Boy_Color)）里的[井芹仁菜](https://mzh.moegirl.org.cn/井芹仁菜)（井芹**仁菜**，Iseri **Nina**）都是`nina`（这个例子不是很恰当，可以换一个），那么可能就会有这样的蕴涵：
-
-```json
-{
-    "touhou":
-    {
-        "nina": {}
-    },
-    "gbc":
-    {
-        "nina": {}
-    }
-}
-```
-
-对于这样的标签，如果只写“nina”，因为无法确定是哪个标签，它会提醒你有歧义。因此，如果要避免歧义，请在标记时写成`touhou/nina`或者`gbc/nina`以消除歧义。
-
-一般来说，如果有100首含有标签`bar`的歌，其中有99首歌都同时也有标签`foo`，有1首歌没有标签`foo`，那也应该在[tag_implications.json](tag_implications.json)里这么写，并在曲谱中给那首没有`foo`的歌标注：
-
-`tag=foo,!bar`
-
-有的标签还有**等同**关系。比如`东方`等同于`touhou`、`少女乐队的呐喊`等同于`gbc`。`仁菜`等同于`gbc/nina`，`贝子`等同于`touhou/nina`。在这样的定义下，输入标签`东方`可自动生成`touhou`。
-
-```json
-[
-    [
-        ["东方", "touhou"],
-        ["少女乐队的呐喊", "gbc"]
-    ],
-    [
-        ["贝子", "touhou/nina"],
-        ["仁菜", "gbc/nina"]
-    ]
-]
-```
-
-在这个列表中，第一个列表代表“宽匹配”——只要某标签在其中一个列表（无论是怎么链接到的）中就能无条件链接其中所有；第二个列表代表“窄匹配”——必须要完全匹配才能链接到。
-
-（未完待续）（欢迎找bug）
+（[tags.json](tags.json)新版待写）
 
 ### 贡献者
 
