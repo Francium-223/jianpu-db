@@ -37,11 +37,11 @@
 
 （转写完成后，请将对应位置的方块换成前面的emoji。）
 
-曲谱文件里的 `status=` 分三级：
+曲谱文件里的`status=`
 
-- `ok` —— 人工校对过，可信
-- `midi` —— 由 MIDI 硬转过来的（自动）
-- `ocr` —— 由图片机器转写（OCR）来的，未校对
+- `ok` —— 人工转写/校对
+- `midi` —— 由MIDI自动转换
+- `ocr` —— 由图片机器转写（OCR）来的，仅供参考
 
 `data.jsonl` 只收 `ok`（白名单，不是"排除 midi"，以后再加等级也不会漏进去）；
 `data.json` 收录全部，方便逐首校对后把 `status` 升成 `ok`。
@@ -58,7 +58,7 @@
 
 🪽东方怪绮谈：<abbr title="th05_01.txt">[🟥](scores/th05_01.txt)</abbr><abbr title="th05_02.txt">[🟥](scores/th05_02.txt)</abbr><abbr title="th05_03.txt">[🟥](scores/th05_03.txt)</abbr><abbr title="th05_04.txt">[🟥](scores/th05_04.txt)</abbr><abbr title="th05_05.txt">[🟥](scores/th05_05.txt)</abbr><abbr title="th05_06.txt">[🟥](scores/th05_06.txt)</abbr><abbr title="th05_07.txt">[🟥](scores/th05_07.txt)</abbr><abbr title="th05_08.txt">[🟥](scores/th05_08.txt)</abbr><abbr title="th05_09.txt">[🟥](scores/th05_09.txt)</abbr><abbr title="th05_10.txt">[🟥](scores/th05_10.txt)</abbr><abbr title="th05_11.txt">[🟥](scores/th05_11.txt)</abbr><abbr title="th05_12.txt">[🟥](scores/th05_12.txt)</abbr><abbr title="th05_13.txt">[🟥](scores/th05_13.txt)</abbr><abbr title="th05_14.txt">[🟥](scores/th05_14.txt)</abbr><abbr title="th05_15.txt">[🟥](scores/th05_15.txt)</abbr><abbr title="th05_16.txt">[🟥](scores/th05_16.txt)</abbr><abbr title="th05_17.txt">[🟥](scores/th05_17.txt)</abbr><abbr title="th05_18.txt">[🟥](scores/th05_18.txt)</abbr><abbr title="th05_19.txt">[🟥](scores/th05_19.txt)</abbr><abbr title="th05_20.txt">[🟥](scores/th05_20.txt)</abbr><abbr title="th05_21.txt">[🟥](scores/th05_21.txt)</abbr><abbr title="th05_22.txt">[🟥](scores/th05_22.txt)</abbr><abbr title="th05_23.txt">[🟥](scores/th05_23.txt)</abbr>
 
-🦇东方红魔乡：<abbr title="th06_01.txt">[🟥](scores/th06_01.txt)</abbr><abbr title="th06_02.txt">[🟥](scores/th06_02.txt)</abbr><abbr title="th06_03.txt">[🟥](scores/th06_03.txt)</abbr><abbr title="th06_04.txt">[🟥](scores/th06_04.txt)</abbr><abbr title="th06_05.txt">[🟥](scores/th06_05.txt)</abbr><abbr title="th06_06.txt">[🟥](scores/th06_06.txt)</abbr><abbr title="th06_07.txt">[🟥](scores/th06_07.txt)</abbr><abbr title="th06_08.txt">[🟥](scores/th06_08.txt)</abbr><abbr title="th06_09.txt">[🟥](scores/th06_09.txt)</abbr><abbr title="th06_10.txt">[🟥](scores/th06_10.txt)</abbr><abbr title="th06_11.txt">[🟥](scores/th06_11.txt)</abbr><abbr title="th06_12.txt">[🟥](scores/th06_12.txt)</abbr><abbr title="th06_13.txt">[🟥](scores/th06_13.txt)</abbr><abbr title="th06_14.txt">[🟥](scores/th06_14.txt)</abbr><abbr title="th06_15.txt">[🦇](scores/th06_15.txt)</abbr><abbr title="th06_16.txt">[🟥](scores/th06_16.txt)</abbr><abbr title="th06_17.txt">[🟥](scores/th06_17.txt)</abbr>
+🦇东方红魔乡：<abbr title="th06_01.txt">[🟥](scores/th06_01.txt)</abbr><abbr title="th06_02.txt">[🟥](scores/th06_02.txt)</abbr><abbr title="th06_03.txt">[🟥](scores/th06_03.txt)</abbr><abbr title="th06_04.txt">[🟥](scores/th06_04.txt)</abbr><abbr title="th06_05.txt">[🟥](scores/th06_05.txt)</abbr><abbr title="th06_06.txt">[🦇](scores/th06_06.txt)</abbr><abbr title="th06_07.txt">[🟥](scores/th06_07.txt)</abbr><abbr title="th06_08.txt">[🟥](scores/th06_08.txt)</abbr><abbr title="th06_09.txt">[🟥](scores/th06_09.txt)</abbr><abbr title="th06_10.txt">[🟥](scores/th06_10.txt)</abbr><abbr title="th06_11.txt">[🟥](scores/th06_11.txt)</abbr><abbr title="th06_12.txt">[🟥](scores/th06_12.txt)</abbr><abbr title="th06_13.txt">[🟥](scores/th06_13.txt)</abbr><abbr title="th06_14.txt">[🟥](scores/th06_14.txt)</abbr><abbr title="th06_15.txt">[🦇](scores/th06_15.txt)</abbr><abbr title="th06_16.txt">[🟥](scores/th06_16.txt)</abbr><abbr title="th06_17.txt">[🟥](scores/th06_17.txt)</abbr>
 
 🌸东方妖妖梦：<abbr title="th07_01.txt">[🟥](scores/th07_01.txt)</abbr><abbr title="th07_02.txt">[🟥](scores/th07_02.txt)</abbr><abbr title="th07_03.txt">[🟥](scores/th07_03.txt)</abbr><abbr title="th07_04.txt">[🟥](scores/th07_04.txt)</abbr><abbr title="th07_05.txt">[🟥](scores/th07_05.txt)</abbr><abbr title="th07_06.txt">[🟥](scores/th07_06.txt)</abbr><abbr title="th07_07.txt">[🟥](scores/th07_07.txt)</abbr><abbr title="th07_08.txt">[🟥](scores/th07_08.txt)</abbr><abbr title="th07_09.txt">[🟥](scores/th07_09.txt)</abbr><abbr title="th07_10.txt">[🟥](scores/th07_10.txt)</abbr><abbr title="th07_11.txt">[🟥](scores/th07_11.txt)</abbr><abbr title="th07_12.txt">[🟥](scores/th07_12.txt)</abbr><abbr title="th07_13.txt">[🟥](scores/th07_13.txt)</abbr><abbr title="th07_14.txt">[🟥](scores/th07_14.txt)</abbr><abbr title="th07_15.txt">[🟥](scores/th07_15.txt)</abbr><abbr title="th07_16.txt">[🟥](scores/th07_16.txt)</abbr><abbr title="th07_17.txt">[🟥](scores/th07_17.txt)</abbr><abbr title="th07_18.txt">[🟥](scores/th07_18.txt)</abbr><abbr title="th07_19.txt">[🟥](scores/th07_19.txt)</abbr><abbr title="th07_20.txt">[🟥](scores/th07_20.txt)</abbr>
 
