@@ -5,10 +5,10 @@ usertag=th11
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th11
 MBID=3bd91097-c4d6-3533-81f4-52b6042a9742
 alias=哈德曼的妖怪少女
-status=midi
+status=ok
 transcriber=Francium-223
 %---
-subtitle=intro,bridge
+subtitle=intro,interlude
 7/4
 KeepLength
 R2{ 3q 1 ,6 5. 4. 5 3 1 ,6 b3 ,7 b,6 b3 }
