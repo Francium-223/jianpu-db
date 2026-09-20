@@ -25,3 +25,5 @@ subtitle=bridge
 KeepLength
 0c 0 0 7 R{ '1 3q '1 7 6 5 4 3 5 2 3 1c. 1q 
 2 3 5 3 } A{ 2q 3 2 1 ,6 1 ,5c ,6. '1q ~ | 2q 3 5 3 2 3 5 6 '1 6 5c 6 - - - }
+%---
+%END
