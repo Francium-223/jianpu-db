@@ -12,9 +12,7 @@
 
 [data.jsonl](data.jsonl)：存储歌曲元数据的文件，由脚本将score文件夹中的元数据自动拼接生成。
 
-[tag_implication.json](tag_implication.json)：标签间的蕴涵关系，如`东方星莲船`蕴涵`东方原曲`。
-
-[tag_equality.json](tag_equality.json)：标签间的等同关系，如`东方星莲船`等同`th12`。
+[tags.json](tags.json)：**标签体系的单一真源**（一棵 DAG：节点名/别名 + 父子关系）。`imply`（蕴涵，如`东方星莲船`→`东方原曲`）与`equal`（等同/别名，如`东方星莲船`=`th12`）都由它派生，见 [schema.py](schema.py) 的 `load_tag_rules()`。旧的`tag_implication.json`/`tag_equality.json`已删除（曾是它的冗余副本）。
 
 <details>
     <summary>by_xxx：按xxx寻找曲谱（通过软链接）的文件夹。</summary>
@@ -164,7 +162,7 @@ subtitle=outro
 |title=永遠の巫女|这首歌的**标题**为`永遠の巫女`。此处应填写其**最早发布版本**的**现时通用名称**，基于**名从主人**原则。|
 |type=work|这首歌在[MusicBrainz](https://musicbrainz.org/)中被**标记为**`work`。一般默认是`work`，但是有的旋律不一样的改编曲也被其算作同一`work`下的`recording`。这种情况下应填`recording`。|
 |tag=th01,东方灵异传,东方,东方原曲,ZUN,东方旧作原曲,东方整数作原曲|这首歌的**标签**有`th01`和`东方灵异传`、`东方`、`东方原曲`、`ZUN`、`东方旧作原曲`、`东方整数作原曲`。**由脚本根据`usertag`自动生成，所以一般不用动。**根据这些字符串，会自动在`by_tag`中生成快捷方式。|
-|tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th01|根据`usertag`（及其等效tag，见[tag_equality.json](tag_equality.json)）可推导出**标签的蕴涵路径**：`东方`<-`东方原曲`<-`ZUN`<-`东方旧作原曲`<-`东方整数作原曲`<-`th01`。**由脚本根据`usertag`自动生成，所以一般不用动。**|
+|tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th01|根据`usertag`（及其等效tag，见[tags.json](tags.json)）可推导出**标签的蕴涵路径**：`东方`<-`东方原曲`<-`ZUN`<-`东方旧作原曲`<-`东方整数作原曲`<-`th01`。**由脚本根据`usertag`自动生成，所以一般不用动。**|
 |usertag=th01|**用户填写的这首歌的标签**。注意这是你要填的，它会决定`tag`和`tagroute`的生成。|
 |alias=永远之巫女,永远的巫女|这首歌的**别名**有：`永远之巫女`、`永远的巫女`，可以填写多个。包括但不仅限于：可选的**其他拼写**方式、**转写**、**翻译**、在社群中有一定影响力的**别名**。|
 |transcriber=Francium-223|**转写者**为[Francium-223](https://github.com/Francium-223/)。|

@@ -85,10 +85,11 @@ def maybe_add(a, b):
 
 
 def load_tag_rules(path='tags.json'):
-	"""蕴涵/等同规则: 从 tags.json 派生(单一真源), 不再读 tag_implications.json /
-	tag_equality.json —— 那两份本就是这个文件的冗余副本, 三处各写一份必然漂移
-	(实测"东方同人曲"被错挂在"东方原曲"下: 同人曲不是原曲)。
-	那两份旧文件已归档到 misc/, 仅供查阅, 改了不会生效。
+	"""蕴涵/等同规则: **只**从 tags.json 派生(单一真源)。
+	旧的 tag_implications.json / tag_equality.json **已删除** —— 它们本就是这个文件的
+	冗余副本, 三处各写一份必然漂移(实测"东方同人曲"被错挂在"东方原曲"下: 同人曲不是原曲)。
+	字段名也顺带收敛: 原先为了兼容那两份文件, equal 是"两槽"形状 [等同组, 空表],
+	现在直接是等同组列表。
 
 	tags.json 是 **DAG 而非树**: 一个名字可以出现在多处(实测"东方整数作原曲"
 	同时挂在"东方旧作原曲"与"东方新作原曲"下)。不过这类中间节点只是**代码推路线时
@@ -96,9 +97,9 @@ def load_tag_rules(path='tags.json'):
 	但仍必须按**路径**递归构造嵌套 dict, 绝不做 名字->父 的映射: 那样后写会覆盖
 	先写, 会把 th01-th05 的"旧作"错算成"新作"(实测 309 份里错 97 份)。
 
-	返回 (imply, equal), 与旧的 tag_implications.json / tag_equality.json 逐项等值:
-	  imply    = 嵌套 dict, 键取每个节点 name[0]
-	  equal[0] = 别名数 >= 2 的节点, 按先序;  equal[1] = [[]] (历史形状, 空)
+	返回 (imply, equal):
+	  imply = 嵌套 dict, 键取每个节点 name[0]
+	  equal = 别名数 >= 2 的节点(即"等同组"), 按先序
 	"""
 	with open(path, 'r', encoding='utf-8') as f:
 		raw = f.read()
@@ -117,7 +118,7 @@ def load_tag_rules(path='tags.json'):
 			walk(nd.get('child') or [], here)
 
 	walk(tree, imply)
-	return imply, [groups, [[]]]
+	return imply, groups
 
 
 imply, equal = load_tag_rules()
@@ -138,7 +139,7 @@ def equal_in(a, b):
 
 
 def equal_tag(a, b):
-	for i in equal[0]:
+	for i in equal:
 		if equal_in(i, a) and equal_in(i, b):
 			return True
 	return False
@@ -174,15 +175,9 @@ class TagState():
 		if n.startswith('!'):
 			self.find_nottag(n.lstrip('!'))
 			return
-		for i in equal[0]:
+		for i in equal:
 			for j in i:
 				if same_ends(j.split('/'), n.split('/')):
-					self.tag = safe_add(self.tag, j.split('/'))
-					self.origtag = safe_add(self.origtag, i)
-					break
-		for i in equal[1]:
-			for j in i:
-				if j == n:
 					self.tag = safe_add(self.tag, j.split('/'))
 					self.origtag = safe_add(self.origtag, i)
 					break
@@ -190,15 +185,9 @@ class TagState():
 			self.where_imply(i, [])
 
 	def find_nottag(self, n):
-		for i in equal[0]:
+		for i in equal:
 			for j in i:
 				if same_ends(j.split('/'), n.split('/')):
-					self.nottag = safe_add(self.nottag, j.split('/'))
-					self.orignottag = safe_add(self.orignottag, i)
-					break
-		for i in equal[1]:
-			for j in i:
-				if j == n:
 					self.nottag = safe_add(self.nottag, j.split('/'))
 					self.orignottag = safe_add(self.orignottag, i)
 					break
@@ -272,14 +261,9 @@ def derive_tag(score) -> list:
 	tag = list(st.tag)
 	for n in st.all_tag_route:
 		tag = safe_add(tag, n.split('/'))
-		for i in equal[0]:
+		for i in equal:
 			for j in i:
 				if same_ends(j.split('/'), n.split('/')):
-					tag = safe_add(tag, j.split('/'))
-					break
-		for i in equal[1]:
-			for j in i:
-				if j == n:
 					tag = safe_add(tag, j.split('/'))
 					break
 	maybetag = safe_minus(tag, st.nottag)
@@ -288,11 +272,7 @@ def derive_tag(score) -> list:
 		out = safe_add(out, [i])
 	for i in maybetag + st.tag_route:
 		out = safe_add(out, i.split('/'))
-		for j in equal[0]:
-			if i in j:
-				for k in j:
-					out = safe_add(out, k.split('/'))
-		for j in equal[1]:
+		for j in equal:
 			if i in j:
 				for k in j:
 					out = safe_add(out, k.split('/'))
