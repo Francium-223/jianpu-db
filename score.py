@@ -6,79 +6,19 @@ import shutil
 import warnings
 import schema
 from pathlib import Path
-def load_tag_rules(path='tags.json'):
-	"""蕴涵/等同规则: 从 tags.json 派生(单一真源), 不再读 tag_implications.json /
-	tag_equality.json —— 那两份本就是这个文件的冗余副本, 三处各写一份必然漂移
-	(实测"东方同人曲"被错挂在"东方原曲"下: 同人曲不是原曲)。
-	那两份旧文件已归档到 misc/, 仅供查阅, 改了不会生效。
-
-	tags.json 是 **DAG 而非树**: 一个名字可以出现在多处(实测"东方整数作原曲"
-	同时挂在"东方旧作原曲"与"东方新作原曲"下)。不过这类中间节点只是**代码推路线时
-	生成的**, 人写 usertag 时只会写叶子(如 th10), 所以歧义不会从输入进来 ——
-	但仍必须按**路径**递归构造嵌套 dict, 绝不做 名字->父 的映射: 那样后写会覆盖
-	先写, 会把 th01-th05 的"旧作"错算成"新作"(实测 309 份里错 97 份)。
-
-	返回 (imply, equal), 与旧的 tag_implications.json / tag_equality.json 逐项等值:
-	  imply    = 嵌套 dict, 键取每个节点 name[0]
-	  equal[0] = 别名数 >= 2 的节点, 按先序;  equal[1] = [[]] (历史形状, 空)
-	"""
-	with open(path, 'r', encoding='utf-8') as f:
-		raw = f.read()
-	tree = json.loads(raw)
-	imply = {}
-	groups = []
-
-	def walk(nodes, carry):
-		for nd in nodes:
-			names = nd.get('name') or []
-			if not names:
-				continue
-			if len(names) >= 2:
-				groups.append(list(names))
-			here = carry.setdefault(names[0], {})
-			walk(nd.get('child') or [], here)
-
-	walk(tree, imply)
-	return imply, [groups, [[]]]
-
-
-imply, equal = load_tag_rules()
+# 标签图的机械(safe_add/maybe_add/别名比较/goto_node/load_tag_rules)与
+# "usertag -> tag/tagroute"的推导**已迁到 schema.py**(单一实现)。
+# 这里只取别名, 免得出现第二份会漂移的实现。
+imply, equal = schema.imply, schema.equal
+safe_add = schema.safe_add
+safe_minus = schema.safe_minus
+maybe_add = schema.maybe_add
 class NoScoreError(Exception):
 	pass
 class NotTitleError(Exception):
 	pass
 class BadBufError(Exception):
 	pass
-def safe_add(a, b):
-	c = a[:]
-	for i in b:
-		if not i in c:
-			c.append(i)
-	return c
-def safe_minus(a, b):
-	c = []
-	for i in a:
-		if not i in b:
-			c.append(i)
-	return c
-def maybe_add(a, b):
-	c = []
-	s = True
-	for i in range(len(a)):
-		if b == a[i]:
-			s = False
-			c.append(a[i])
-			continue
-		elif b.startswith(a[i]) and not s:
-			s = True
-			continue
-		c.append(a[i])
-	if s:
-		c.append(b)
-		s = False
-	if not c:
-		c = [b]
-	return c
 def _rel(target, link_path):
 	"""链接目标: 相对链接所在目录, 统一用正斜杠。
 
@@ -88,21 +28,6 @@ def _rel(target, link_path):
 	return os.path.relpath(target, start=os.path.dirname(link_path)).replace(os.sep, '/')
 
 
-def same_ends(a, b):
-	for i in range(1, min(len(b) + 1, len(a) + 1)):
-		if not equal_tag(b[-i], a[-i]):
-			return False
-	return True
-def equal_in(a, b):
-	for i in a:
-		if b == i.split('/')[-1]:
-			return True
-	return False
-def equal_tag(a, b):
-	for i in equal[0]:
-		if equal_in(i, a) and equal_in(i, b):
-			return True
-	return False
 def get_meta_lines(s):
 	d = []
 	for i in s:
@@ -110,13 +35,6 @@ def get_meta_lines(s):
 		if i.replace(' ', '').startswith('%--'):
 			return d
 	return d
-def goto_node(p):
-	if p == []:
-		return imply
-	a = imply
-	for i in p:
-		a = a[i]
-	return a
 def expand_keep_length(text):
 	"""把 KeepLength 的"省略时值"补全成显式时值(供计算机直接读取)。
 
@@ -200,80 +118,6 @@ class Score():
 		self.raw_expanded = ''
 		self.others = {'tag': [], 'usertag': [], 'tagroute': []}
 		self.comments = []
-	def find_tag(self, n):
-		if n.startswith('!'):
-			self.find_nottag(n.lstrip('!'))
-			return
-		for i in equal[0]:
-			for j in i:
-				if same_ends(j.split('/'), n.split('/')):
-					self.tag = safe_add(self.tag, j.split('/'))
-					self.origtag = safe_add(self.origtag, i)
-					break
-		for i in equal[1]:
-			for j in i:
-				if j == n:
-					self.tag = safe_add(self.tag, j.split('/'))
-					self.origtag = safe_add(self.origtag, i)
-					break
-		for i in self.origtag:
-			self.where_imply(i, [])
-	def find_nottag(self, n):
-		for i in equal[0]:
-			for j in i:
-				if same_ends(j.split('/'), n.split('/')):
-					self.nottag = safe_add(self.nottag, j.split('/'))
-					self.orignottag = safe_add(self.orignottag, i)
-					break
-		for i in equal[1]:
-			for j in i:
-				if j == n:
-					self.nottag = safe_add(self.nottag, j.split('/'))
-					self.orignottag = safe_add(self.orignottag, i)
-					break
-		self.nottag = safe_add(self.nottag, [n])
-		for i in self.nottag:
-			self.where_not_imply(i, [])
-	def where_imply(self, n, p):
-		o = ''
-		if '/' in n:
-			o = n.split('/')
-			n = o[0]
-		for k, v in goto_node(p).items():
-			q = p + [k]
-			if k == n:
-				for l in self.origtag:
-					if ('/').join(q).endswith(l):
-						self.tag_route = maybe_add(self.tag_route, ('/').join(q))
-						for m in range(1, len(q) + 1):
-							self.all_tag_route = safe_add(self.all_tag_route, [('/').join(q[:m])])
-						#self.all_tag_route = safe_add(self.all_tag_route, [('/').join(q)])
-			if o:
-				self.where_imply(('/').join(o[1:]), q)
-			else:
-				self.where_imply(n, q)
-	def where_not_imply(self, n, p):
-		o = ''
-		if '/' in n:
-			o = n.split('/')
-			n = o[0]
-		# 原先这里是**两个独立的循环**, 各自把每个子节点递归一遍:
-		#   A: where_not_imply(n, p+[k])            —— 用原标签名继续找
-		#   B: where_not_imply(o[1:] or n, p+[k])   —— 路径形态时消耗掉一段
-		# 单段标签时(A 和 B 的递归参数完全相同)整棵树被白走两遍(2^深度)。
-		# 合并成一个循环; 只有在 n 是路径时(= o 非空)两条递归才确实不同, 都保留。
-		for k, v in goto_node(p).items():
-			if k == n:
-				if set(self.orignottag) & set(p):
-					self.nottag = safe_add(self.nottag, p)
-				for l in self.orignottag:
-					if ('/').join(p + [k]).endswith(l):
-						self.nottag_route = maybe_add(self.nottag_route, ('/').join(p + [k]))
-			if o:
-				self.where_not_imply(('/').join(o[1:]), p + [k])
-				self.where_not_imply(n, p + [k])
-			else:
-				self.where_not_imply(n, p + [k])
 	def prioritize_title_and_tag(self):
 		b = {}
 		b['file'] = self.others['file']
@@ -285,11 +129,6 @@ class Score():
 			if not i in ['file', 'title', 'tag', 'usertag', 'tagroute']:
 				b[i] = self.others[i]
 		self.others = b
-	def getusertag(self, a):
-		for j in re.split(r'[,|，|、]', a[a.find('=') + 1:].strip(' ')):
-			self.usertag = safe_add(self.usertag, [j.strip(' ')])
-			self.origtag = safe_add(self.origtag, [j.strip(' ')])
-			self.find_tag(j.strip(' '))
 	def to_record(self):
 		"""扁平记录: 一行一首, 给 data.jsonl 用(便于 datasets.load_dataset 直接读)。
 
@@ -338,12 +177,13 @@ class Score():
 			with open(self.score, 'r', encoding='utf-8') as f:
 				self.raw = f.readlines()
 				self.raw2 = f.read()
+			# 阶段 1: 只收集**原文**(字段名 -> 按出现顺序的原文列表), 不在这里解析。
+			#   为什么分两阶段: 属性的生成有依赖(tag/tagroute 要吃 usertag 的**聚合结果**),
+			#   边读边算会让"多行 usertag"在中途被重算; 谁先谁后交给 schema.order()。
+			raws = {}
 			for i in get_meta_lines(self.raw):
 				i = i.rstrip('\n')
 				if i.replace(' ', '').startswith('%--') or i.replace(' ', '').startswith('tag=') or i.replace(' ', '').startswith('tagroute='):
-					continue
-				if i.replace(' ', '').startswith('usertag='):
-					self.getusertag(i)
 					continue
 				if i.replace(' ', '').lower().startswith('file='):
 					# file 由文件名派生(write_buf 里写进 JSON), 不是源字段 ——
@@ -351,22 +191,36 @@ class Score():
 					continue
 				if '=' in i:
 					k, raw = i.split('=', 1)
-					k = k.strip(' ')
-					# schema 里有这个字段的解析函数就用它, 没有就用 schema.default_parse(多值列表)。
-					# 解析函数返回什么类型, 这个字段就是什么类型(字符串或列表); 不合规会抛异常。
-					v = schema.schema.get(k, schema.default_parse)(raw.strip(' '))
-					if isinstance(v, list) and isinstance(self.others.get(k), list):
-						# 多值字段: 同一个字段可以写多行, 累加去重
-						self.others[k] = safe_add(self.others[k], v)
-					else:
-						self.others[k] = v
+					raws.setdefault(k.strip(' '), []).append(raw.strip(' '))
 					continue
 				if i == '%' + self.score.split('/')[-1]:
 					continue
 				if i.startswith('%'):
 					self.comments.append(i.rstrip('\n'))
 					continue
-				self.getusertag(i)
+				# 裸行 = 旧格式的 usertag(没有 `=`); 实测 0 命中, 保留兼容。
+				raws.setdefault('usertag', []).append(i.strip())
+			# 阶段 2a: 一阶字段(deps 为空)按**文件出现顺序**逐条原文解析后累加
+			#   —— list 字段去重保序、str 字段后者覆盖前者(与搬迁前一致)。
+			#   叶子之间没有依赖, 文件顺序本身就是一个合法的拓扑序; 保持它还让
+			#   data.json 的键顺序与搬迁前逐字节一致。
+			for i in raws:
+				_attr = schema.schema.get(i)
+				if _attr is not None and _attr.deps:
+					continue                      # 衍生字段留到 2b
+				_fn = _attr.fn if _attr is not None else schema.default_parse
+				for raw in raws[i]:
+					v = _fn(raw)
+					if isinstance(v, list) and isinstance(self.others.get(i), list):
+						# 多值字段: 同一个字段可以写多行, 累加去重
+						self.others[i] = safe_add(self.others[i], v)
+					else:
+						self.others[i] = v
+			# 阶段 2b: 衍生字段按**依赖拓扑序**执行(每个吃 Score 对象, 整份谱只跑一次)
+			for i in schema.order():
+				_attr = schema.schema[i]
+				if _attr.deps:
+					self.others[i] = _attr.fn(self)
 			# title 现在也由 schema 解析进 others(字符串) -> 同步到 self.title(文件命名要用)
 			if isinstance(self.others.get('title'), str):
 				self.title = self.others['title']
@@ -377,37 +231,13 @@ class Score():
 		except FileNotFoundError:
 			print(f'Error: file \'{self.score}\' not found!')
 			raise NoScoreError
-	def process_others(self):
-		# 外部标识(MBID / Wikidata / ...)不做特殊处理 —— 它们和 alias/status/transcriber
-		# 等一样, 在 read() 里按 `键=值` 统一进 others, 由 make_link() 统一建 by_<键>/ 链接。
-		for n in self.all_tag_route:
-			self.tag = safe_add(self.tag, n.split('/'))
-			for i in equal[0]:
-				for j in i:
-					if same_ends(j.split('/'), n.split('/')):
-						self.tag = safe_add(self.tag, j.split('/'))
-						break
-			for i in equal[1]:
-				for j in i:
-					if j == n:
-						self.tag = safe_add(self.tag, j.split('/'))
-						break
-		maybetag = safe_minus(self.tag, self.nottag)
-		self.others['usertag'] = []
-		for i in self.usertag:
-			self.others['usertag'] = safe_add(self.others['usertag'], [i])
-		self.others['tag'] = safe_add(self.others['tag'], self.others['usertag'])
-		for i in maybetag + self.tag_route:
-			self.others['tag'] = safe_add(self.others['tag'], i.split('/'))
-			for j in equal[0]:
-				if i in j:
-					for k in j:
-						self.others['tag'] = safe_add(self.others['tag'], k.split('/'))
-			for j in equal[1]:
-				if i in j:
-					for k in j:
-						self.others['tag'] = safe_add(self.others['tag'], k.split('/'))
-		self.others['tagroute'] = self.tag_route
+	def derive_others(self):
+		"""衍生字段(tag/tagroute)已在 read() 里按 schema.order() 生成完毕。
+
+		这里保留一个显式收尾点: 只做**依赖表自检** —— 成环会让 schema.order() 自己 Warning
+		(CI 里可以用 schema.order(strict=True) 把它升级成错误)。
+		"""
+		schema.order()
 	def write_buf(self):
 		with open(('.').join(self.score.split('.')[:-1]) + '_buf.txt', 'w', encoding='utf-8') as f:
 			print('%' + self.score.split('/')[-1], file=f)
@@ -522,7 +352,7 @@ class Score():
 			else:
 				try:
 					self.read()
-					self.process_others()
+					self.derive_others()
 					self.write_buf()
 					self.expand()
 					self.write_expand()
