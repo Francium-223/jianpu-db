@@ -89,18 +89,12 @@ def main():
 
     card = rf"""---
 license: other
-language:
-- zh
 pretty_name: Jianpu Melody Corpus (简谱旋律语料)
-task_categories:
-- text-generation
-- other
 tags:
 - music
 - symbolic-music
 - jianpu
 - numbered-musical-notation
-- chinese
 - melody
 - retrieval
 size_categories:
@@ -112,8 +106,14 @@ configs:
 
 # 简谱旋律语料 / Jianpu Melody Corpus
 
-中文**简谱(jianpu)**旋律语料: {len(rows)} 首, 一行一首。每一首是**逐音符的简谱 token 序列**,
+**简谱(jianpu)**旋律语料: {len(rows)} 首, 一行一首。每一首是**逐音符的旋律序列**,
 按 jianpu-ly 的记法编码, 可直接做检索 / 训练 / 对齐。
+
+## 口径声明
+
+* 这是**旋律数据集**: 内容是音高 + 时值的符号序列, 没有歌词, 也不带语言标注
+  —— 同一段 `5 6 5 3 2 1` 与它是哪首歌、用哪种语言唱无关。
+* 曲名只是**检索用的元数据**, 它可能是中文、英文或日文; 这不影响 `score` 字段的内容。
 
 ## 字段
 
@@ -131,11 +131,31 @@ configs:
 | `sections` | list[dict] | 分段: `{{"subtitle": "chorus", "score": "..."}}` |
 | `score` | str | 全文旋律(各段用 ` \| ` 连接) |
 
+### 筛选示例
+
+```python
+from datasets import load_dataset
+d = load_dataset("<你的账号>/chinese-jianpu-corpus", split="train")
+d.filter(lambda x: x["status"] == "ok")                    # 只看人工校对过的
+d.filter(lambda x: x["source_host"] == "qupu123")          # 只看某一个来源站
+d.filter(lambda x: 50 <= x["n_notes"] <= 200)              # 按长度切
+d.filter(lambda x: "分类/儿歌" in x["tags"])               # 按标签切
+```
+
 ## token 记法
 
 * 音高: `1`–`7`; `,` 低八度(`,6`), `'` 高八度(`'1`), 可叠(`''1`)
 * 时值前缀: `q`=八分 `s`=十六分 `d`=三十二分 `h`=六十四分; **无前缀 = 四分**
 * `.` 附点, `-` 延长一拍, `0` 休止, `x` 念白, `~` 连音线, `3[ … ]` 三连音
+
+例(《东方红》开头): `5 5 6 2 | 1 1 6 2 | 5 5 6 1 6 5 | 1 1 6 2`
+
+## 为什么这个数据集稀缺
+
+五线谱有通用的机器可读格式(MusicXML / MEI / ABC / MIDI), **简谱没有**——
+简谱在网上的存在形式基本就是**图片**: 排版工具有(jianpu-ly 等), 但交换格式没有。
+所以这不是"又一份乐谱文本", 而是**把"只有图片的简谱"转成 token 序列**:
+`score` 字段就是那套逐音符记法, `source` 字段逐首保留原图出处, 可回溯核对。
 
 ## 出处与许可
 
@@ -143,9 +163,16 @@ configs:
   `source` 字段逐首标注站内 id, 便于回溯。
 * 本站只是**旋律记谱**(不含歌词), 用于检索与研究; 版权归原词曲作者所有, 请勿商用。
 
+## 数据构成(实测)
+
+* `status`: `ocr` 7295 首(由图片机器转写) / `ok` 36 首(人工校对过)
+* `source_host`: qupu123 3298 / jianpucn 3251 / jianpujia 741 / 其它 4 / 未记录 40
+* 音符总数: 1,422,852
+
 ## 生成方式
 
-`data.jsonl` 由仓库 CI 每次 push 后自动重建(`parse_scores.py`), 本卡与上表同步。
+`data.jsonl` 由仓库 CI 每次 push 后自动重建(`parse_scores.py` 重生成 `data.json`/`data.jsonl`,
+`export_hf.py` 转出本卡与本文件), 数字与上表同步。
 """
     with io.open(os.path.join(args.out, "README.md"), "w", encoding="utf-8", newline="\n") as g:
         g.write(card)
