@@ -21,13 +21,18 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 os.chdir(ROOT)
 
 ap = argparse.ArgumentParser()
-ap.add_argument("repo_id", help="如 Francium-223/jianpu-db")
+ap.add_argument("repo_id", nargs="?", default="Caesium-132/jianpu-db",
+                help="如 Caesium-132/jianpu-db (默认值; 也可用环境变量 HF_REPO)")
 ap.add_argument("--folder", default="hf")
 ap.add_argument("--token", default="")
 ap.add_argument("--dry-run", action="store_true", help="只列文件与行数, 不联网")
 ap.add_argument("--check", action="store_true", help="验证 token 与目标仓库")
 ap.add_argument("--private", action="store_true")
 args = ap.parse_args()
+# 环境变量兜底: CI 里用 GitHub 仓库变量 HF_REPO 传, 本地也能设一把
+if not args.repo_id or args.repo_id.startswith("-"):
+    args.repo_id = "Caesium-132/jianpu-db"
+args.repo_id = os.environ.get("HF_REPO") or args.repo_id
 
 files = []
 for name in sorted(os.listdir(args.folder)):

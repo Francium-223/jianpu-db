@@ -44,13 +44,13 @@ jobs:
       - name: Upload to HuggingFace
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-          HF_REPO: ${{ vars.HF_REPO }}          # 例: Francium-223/jianpu-db (仓库变量, 改它不用改代码)
+          HF_REPO: ${{ vars.HF_REPO }}          # 例: Caesium-132/jianpu-db (仓库变量, 改它不用改代码)
         run: |
           python -m pip install --quiet --disable-pip-version-check huggingface_hub
           python - <<'PY'
           import os, sys
           from huggingface_hub import HfApi, create_repo, upload_folder
-          repo = os.environ.get("HF_REPO") or "Francium-223/jianpu-db"
+          repo = os.environ.get("HF_REPO") or "Caesium-132/jianpu-db"
           token = os.environ.get("HF_TOKEN")
           if not token:
               sys.exit("缺少 HF_TOKEN secret(见 README 的发布说明)")
