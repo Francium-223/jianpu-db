@@ -81,6 +81,19 @@ def main():
         for row in rows:
             g.write(json.dumps(row, ensure_ascii=False) + "\n")
 
+    # 把 skill(查询脚本 + 说明)**一起放进数据集仓库**: skill 目录里不放 data.jsonl,
+    # lookup.py 会自动往上一层找(HF 仓库根目录就有), 所以不产生第二份 10MB。
+    import shutil
+    skill_src = os.path.join(ROOT, "skill", "jianpu-melody-lookup")
+    if os.path.isdir(skill_src):
+        dst = os.path.join(args.out, "skill", "jianpu-melody-lookup")
+        os.makedirs(dst, exist_ok=True)
+        for name in sorted(os.listdir(skill_src)):
+            sp = os.path.join(skill_src, name)
+            if os.path.isfile(sp) and not name.endswith((".pyc",)):
+                shutil.copyfile(sp, os.path.join(dst, name))
+        print(f"一并放入 skill: {sorted(os.listdir(dst))}")
+
     h = hashlib.sha256(open(outj, "rb").read()).hexdigest()[:16]
     print(f"写出 {len(rows)} 条 -> {outj}  ({os.path.getsize(outj)/1e6:.1f} MB, sha256[:16]={h})")
     for k, v in sorted(stats.items()):
@@ -141,6 +154,30 @@ d.filter(lambda x: x["source_host"] == "qupu123")          # 只看某一个来�
 d.filter(lambda x: 50 <= x["n_notes"] <= 200)              # 按长度切
 d.filter(lambda x: "分类/儿歌" in x["tags"])               # 按标签切
 ```
+
+## 配套 AI Skill: 旋律查歌
+
+`skill/jianpu-melody-lookup/` 是一个**开箱即用的查询技能**: 给一段旋律(简谱唱名数字串),
+在全部 {len(rows)} 首里找出它最可能是哪首歌。纯离线, 只依赖本仓库的 `data.jsonl` + numpy。
+
+```bash
+python skill/jianpu-melody-lookup/lookup.py "5 5 5 3 2 2 3 5 3 2 1 1 6 1 2 6 5 5"
+#   #   错音   八度差  曲名            状态   出处
+#   1    0     0  上春山           ocr  qinyipu-377784
+```
+
+实测指标(华流金曲清单 319 首中库里可定位的 262 首, 每首截一段片段查询, 按曲名判定):
+
+| 片段长度 | 哼错音 | Top-1 | Top-3 | Top-5 |
+|---|---|---|---|---|
+| 11 音 | 0 | **94.4%** | 98.8% | 99.4% |
+| 11 音 | 1 | 69.4% | 88.8% | 93.1% |
+| 15 音 | 0 | **98.1%** | 100% | 100% |
+| 15 音 | 1 | 97.5% | 100% | 100% |
+
+更严口径(留一版本: 查询所用的那份谱从索引排除, 只能靠同一首歌的另一个版本命中, 模拟"没有原谱、
+纯凭记忆"): 11 音 Top-1 **41.2%** / 15 音 **48.8%**。两个口径的落差说明**瓶颈是"片段是否独特",
+不是匹配算法** —— 所以并列时请补长片段, 或多给几段(`lookup.py 片段1 片段2`)。
 
 ## token 记法
 

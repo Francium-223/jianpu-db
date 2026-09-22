@@ -167,6 +167,9 @@ class Score():
 			# 字段名统一用**单数**, 与 data.json 完全一致(tag/usertag, 不是 tags/usertags)
 			'tag': self.others.get('tag', []),
 			'usertag': self.others.get('usertag', []),
+			# source= 是**逐首溯源**(站点-站内id), 之前只有曲谱文件里有、扁平记录里没带出来,
+			# 于是 data.jsonl 里这一列是空的 —— 数据集没法回答"这首哪来的" ✗
+			'source': self.others.get('source', []),
 			'transcriber': self.others.get('transcriber', []),
 			'sections': sections,
 			'score': full,
