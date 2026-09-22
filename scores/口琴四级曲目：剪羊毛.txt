@@ -1,0 +1,16 @@
+%口琴四级曲目：剪羊毛.txt
+% 出处 http://www.jianpu.cn/
+title=口琴四级曲目：剪羊毛
+tag=分类/口琴谱
+usertag=分类/口琴谱
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-161142
+todo=refine the filename
+%--
+4/4
+subtitle=score
+3 q3. ,2 1 1 q3 5 q1'. s7 6 5 q5. ,6 5 q3. s1 2 q2. s3 2 3 3. ,2 q1 q1 q3 q5 q,7 6 q2'. 7 6 q5 q4 q3 q2 1 q1'. s7 1'
+1' 2' q2' 7 2' 3' 6 q7 q7 q6 5 1' 2 q3 q3 q3 q2 q1 q1 q3 5 7 6 q2'. q7 q6 q5 q4 q3 q2 1 q1'. s7
+%END

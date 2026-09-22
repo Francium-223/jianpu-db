@@ -1,0 +1,20 @@
+%你是如此美丽.txt
+% 出处 http://www.jianpu.cn/
+title=你是如此美丽
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-109487
+todo=add tags
+%--
+4/4
+subtitle=score
+0 3 3 3 s3 s2 1 - q0 s,6 s,5 q3 q3 3 - - 0 0 0 0 0 3 3 5 q3 q1 - q0 q6 s,5 q3 q3 3 - q3 q4 5 - - -
+0 q6 q6 1 5 6 7. q3 3 3 - 0 q1' q1' 7 ,x 3' - - - 0 3 3. q3 s3 s2 q1 q1 1 - 2 1 - - - 0 0 0 0 0
+3' 3'. s3'. s3' s3'. s1' s1' 1' - q0 s6 s5 q3' q3' 3' - - 0 0 0 0 0 3' 3'. q5' q3' q1' 1' - q0 s6 s5 q3' q3' 3' - q3' q4' 5'. s6'.
+s5' s1' q1'. 1' 0 q6. q6' q6' 5' 5' 6' 7'. q3' 3' - 0 1. q1' 7' 1' 3' - - - 0 3 3. s3 s3 s3 s2 q1 1 - 2 s1 q1. 1 - -
+0 0 0 q0 s5 q6 q1 q2 s3 s2 s1 d2 d6 s3 s5 s6 s1 s1' s6' q5' s5' s6' q3' q0 s6' q2' q1' 1' - q0 s6 s7 s6 q5 q5 5 - - s3'. s5'.
+q5' 5' q5'. s6'. q3' s3'. s1' s1'
+%END

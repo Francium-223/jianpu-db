@@ -1,0 +1,18 @@
+%钢琴和弦_《情网》.txt
+% 出处 http://www.jianpu.cn/
+title=钢琴和弦 《情网》
+tag=张学友,分类/钢琴谱
+usertag=张学友,分类/钢琴谱
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-319463
+todo=refine the filename
+%--
+4/4
+subtitle=score
+0 3 6 6. q6 7 1' 7 7 q6' q5' 5 7 6 3 0 0 q3 q6 q6. q6 7 2' 7 2' 3' 3' 3' 0 0 7 0 q3' q4' q4' q4' 3' 2' 2' q3'
+3' 3' 1' q2' q2' q7 q2' 7' 6' q6. q3 6 6. 6 7 7 7 6' 5' 5 7 6 0 0 q3 6 6 0 0 5 1'. x 1' 2' 3' 4' 7 q3' q2' q2'
+q1' - 0 0 5 q0 q1' 2' 3' 4' 4' 7 3' 2' 2' 3' 3' - 0 0 7 0 3' 6' 6' q6' q4' 4' 4' 4' 5' 5' q5' s3' 3'. q3' 4' 4' 2' 2'
+3' 3' 1'. 3 6. 6 7 7 q6' q5' 5 7 6 0 0 0 0 0 0 3 6 - 0 0 5 6 0
+%END

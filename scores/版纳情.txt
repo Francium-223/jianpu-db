@@ -1,0 +1,22 @@
+%版纳情.txt
+% 出处 http://www.jianpu.cn/
+title=版纳情
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-129607
+todo=add tags
+%--
+4/4
+subtitle=score
+5 - - - 5 - - - q1 q5 q5 s3 s5 q5 s6 s5 q0 q3 q1 q5 q5 s3 s5 q5 s3 s1 ,5 q1 q5 q5 s3 s1 s2 s3 q2 q0 q3 q1 s3 s5
+q3 s1 s5 s6 s1 q1 q3 q5 1. s2 s1 3. q1 2. s1 s6 1 q5 q6 x x ,3 ,5 ,2 ,6 ,3 ,5 ,2 x q3. s5 q5 q1 3. q5 1 q1 s6 s1 3
+- q3. s1 q1 s3 s5 s5 s3 s2 s3 q1 q6 q5 s6 s1 q1 s6 s1 s2 s3 2. x ,6 5 ,2 3 q3. s5 q5 q1 s6 s5 ,6 s5 s6 1 4 4 1 6
+- s3 q5 s6 6 s5 s1 2 q0 s3 s5 q6 s5 s6 s5 s3 s3 s5 q3 s2 s3 q2 s1 s6 q5 q0 s1 s6 s6 s1 1. s4 s5 6. q1 6. s5 s6 q1 q4
+q4 q5 6 - 6. q1 6. s5 s6 1. s5 s6 5 - x q5 s6 s1 q3 q5 q6 s5 s6 q5 qx q3 q2. s3 q5 s6 s5 s5 s3 s2 s3 s2 s0 s3 s5 q5
+q0 s1 s6 s6 s1 1 - q1 q5 q5 s3 s5 s5 s6 q5 q0 q3 q1 q5 q5 s3 s5 s5 s3 q1 ,5 q1 q5 q5 s3 s1 s2 s3 q,2 q0 q3 q1 s3 s5 q3
+s1 s5 s6 s1 q1 q3 q5 1. 2 1 3. 1 2. 1 5 1 2. 3 5 6 5 3 2 3 2 0 3 5 5 0 1 6 6 1 1 - - - - -
+1 - - - - - - - - - - - q5 q0 s1 s6 s6 s1 1 - q5 q0 s1 s6 s6 s1 1 - q5 q0 s1 s6 s6 s1 1 -
+%END

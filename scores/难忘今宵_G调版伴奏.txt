@@ -1,0 +1,19 @@
+%难忘今宵_G调版伴奏.txt
+% 出处 http://www.jianpu.cn/
+title=难忘今宵 G调版伴奏
+tag=李谷一
+usertag=李谷一
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-453179
+todo=refine the filename
+%--
+4/4
+subtitle=score
+1 1 x. qx qx q1 q1 2 1 q1' q5 q6 q7 q6 5 q4 q6 q5 q6 q5 1 q1 q4 s3 s4 s3 s2 ,6 - s7 s1 s2 s4 s3 s2 q1 ~ 1 q2' s3
+s2' 1 q2' s3 s2 ,5 q,5 q5 s5' s2 s4 s3' 2 - s7'. d1 s2 s3' 1 s7' s1 s2 s3' ,5 s5'. s4 s3' s4 s3 s2' 1 - q5' s6 s5 q4 q1' s3 s4 s5
+s6' 5 q2' q6' s5' s6 s4 s6 5 - s3' s4' s3' s2' ,5 s3' s4' s3' s2' 1 s5' q4' s3' s4 s3 s2' 1 - s6' s5' s4' s1' s4 s6 q5' ~ 5' - s6 s5
+s4 s1 s4 s6 q5 5 - s3 s2 s1 s5 s1 s3 q2 2 - s3 s2 s1 s5 s1 s3 q,5 ,5 - s3 s2 s1 s5 s1 s3 q1 1 - q1' q5 q6' q7 q6' 5
+q4 q6 q5' q6 q5' 1 - q1 q4 s3 s4 s3 s2 ,6 s7 s1 s2 s4 s3 s2 q1' ~ 1' - x - 1'. 0 0 0
+%END

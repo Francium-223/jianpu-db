@@ -1,0 +1,19 @@
+%蜗牛.txt
+% 出处 http://www.jianpu.cn/
+title=蜗牛
+tag=周杰伦
+usertag=周杰伦
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-58221
+%--
+4/4
+subtitle=score
+x x x x x 7 5 1' q5 1' q2' 3' 4' 5' 0 1' 1' 7' 7' 7' 1' 7' 6' q6' 7' 0 1 4 5 x. qx x. 3. x. x. q,x x qx 6. 6
+7 1' 2' 5 5 4 2 5 - - - 5 - - - 6 - - - 5 - - - x ,x x 0 x. 3 3 3 4. ,3 2 ,,3 2 2. ,,1 1 0
+1 4 4 q3'. 2 2 2 1 2 3 - - 0 1 x 7 6 6 - 5 - 4 - 3 - - - 5 q5. 5. q6 q5 4 q3 4. q,6 1 q0 q,5 3
+3 3 4 3 2'. 3 1 - - - x. x x ,x x x ,6 ,x 2 ,5 1 1 ,5 1 q2 q3 4 4' 5. 0 1 1' 7 7 7 1' 7 q6 q6 ,6
+6. ,7 0 0 0 0 3 3 1 3 4 5 q6 6 7. 0 3 q3 5 6 6 6 5 4 4 q4 4 q5 5 - 0 1 4 5 6. q6 7 1' q2' 3'
+q5 5 - 0 ,5 1 5 4 4 5 4 q3 q2 q1 3 1 ,7 1 2. 3 4. 4 2 q3 4. 5 q3 3 - 0 ,5 1 3 2 2 3 2 1 ,7 1
+%END

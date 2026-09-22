@@ -1,0 +1,22 @@
+%百家姓.txt
+% 出处 https://www.jianpujia.com/
+title=百家姓
+tag=分类/儿歌
+usertag=分类/儿歌
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-13171
+%--
+4/4
+subtitle=score
+1 - - - x x ,1 7 1 1 1 x x' x q3 s5 s5 q5 q5 q6 q6 5 q3 s5 s5 q5 q5 q6 q6 5 ,5 s6 s5 s6 s1 s2 s1 s6 s1 s2
+s1 s2 s4 q5 q5 0 0 0 q1 s1 s1 q1 q1 q1 q,6 q,5 q,3 ,5 ,6 1 0 q1 s1 s1 q1 q1 q1 q,6 q,5 q,3 ,5 ,6 2 0 q2 s2 s2 q2 q2 q3
+q2 q1 q,6 1 2 2 q2 q3 6 5 6 5 q6 q5 q3 q2 1 0 1 q,6 q1 1 ,5 q1 q,5 q,6 q,5 1 0 1 1 q1 q,6 1 x x x. q,1 qx x'
+qx x. 3 x x s1 q,5 x q1 q,5 q,6 q,5 2 0 2 2 2 q,6 q1 q2 q,6 q3 q2 2 0 2 q2 q3 3 q2 q3 q3 q2 6 5 - x q5. s6 q,1
+s,1 q3 q3. q2 2 q2 q2. q2 2 q2 q3 s,2 q5 q5 q2 s,2 q3. - x 5 - - - q6 q5 q6 q5 q6 q5 q2 q3 q5 s5 s5 q5 q5 5 0 1 q1
+q,6 1 1 q1 q,5 q,6 q,5 1 0 1 1 1 q,5 q,6 q1 q,5 q,6 q,5 2 0 2 q,6 q1 2 q,6 q1 q2 q,6 q3 q2 2 0 2 3 3 q2 q3 5. - s,1
+1 1 0 q1. s1' d5. 2 q2 s,2 q3 q,3 1 q,2 s,1 x q6 q5 q2 q3 5 - 5 - - - x q6 q5 q6 q5 q6 q5 q2 q3 q5 s5 s5 q5 q5 5
+0 qx qx x x - qx qx x x - x x x x qx qx x x - qx qx x x - qx qx x x - x x x x qx qx x x - qx
+qx x x - 6 5 - - 3 0 2 0 1 0 0 0
+%END

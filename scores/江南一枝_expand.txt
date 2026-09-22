@@ -1,0 +1,27 @@
+%江南一枝.txt
+% 出处 http://www.jianpu.cn/
+title=江南一枝
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-283191
+todo=add tags
+%--
+2/4
+subtitle=score
+q1 x. - - x x'. x'. x x q,5 q5 s5. d6 s4 s5 q3. s2 q,5 s5. s6 s4 s5 q3 q1 2 - 5 q5 s5. d6 s4 s5 q3. s2 q1 5 s2. s3 s4 s5
+q3 q2 s2 s3 s5 s6 q1'. s2' s3. s5 s2 s3 s5. s6' s7 6 q3'. q2' s2'. s3' s7 s6 5 s2 s3 s5 s6 s2' s3. s5 s2 s3 s5. sx' s7 6 s5. s6 s4 s5
+q3 q2 1. q2 s5 s6 x s5 s5 s5. s6 s4 s5 s3 s5 s2 s3 q1 x s5. s6 s4 s5 q3 q2 x q1 q1 q2 q3 q5 s1' s1' 1' 1'. q6 q2'. s2' q2' s1'
+s6 s1' s1' s6 s5 5 5 - q1'. s1' q1' q1 q3 s5 s6 6 - qx' 6 1' q2' s5 d1' s3 q0 6 0 x q5. s1 q2 q3 3'. s5 s2 h6 h7' s1 d1' 2'
+2 - - - - 2' 2 q1 q1 q2 q3 q5 s6' s1' 2' s2' d3' q2' 1' q2' 6 q2'. s2' q2' s1' s6 sx' s6 s5 5 qx d5 d5 s1. 5 d6 s4 s5 s3 s5
+s2 s3 qx q1' s1 s2 q3 s5 s6 6 qx' 6 1' q2' s5 s3 s1' q0 6 0 x q5. s1 q2 s2 s3 x q2 q3 5 - - 2. s1 s6 - 1 - q6'. q3'
+q2' s1' s6 1'. q2' q3'. 5' s5' s7 s6 5 - q6' q1' q6 q2' q1'. s6 q5 q3 q3 s2 s1 2 - q6'. q3' q2' s1' s6 1'. - q2' q3' 3' 5' s5' s7 s6 5
+- q6' q1' s6 s6 q2' q1' q1'. s6 q5 q3' q3' s2' s1' 2' - q5 q3'. q3' s2' - 1'. x q6 s1 q2. s3 s5 s6 q4 s3. s2 s3 s5 q1 5 q5. s6 q4 q5
+3 - q2. s3 s5 s6 q4 s3. s2 s3 s5 q1 5 q6 q5 q5 q6 s1 q6 q6 s1 s2 s1 s1 s2 s3 s1 s2 s3 s5. s3 s3 s5 s6 s5 s5 s6 q6'. s2' q3'
+s6 5. s5 s6 q1'. s2' s3. s5 s2 s3 s5. s1' s7 6 q3' q2' s2'. s3' s7 s6 5 s2 s3 s5 s6 q1'. s2' s3. s5 s2 s3 s5. s6' s1' s7 6 s5. s6 s4 s5
+q3 q2 1. q2 s1 s5 s6 s1 s2. s3 s5 s6 q6'. q3' q2' s6 1'. q2' q3' 3' 5' s5' s7 s6 5 - qx' q1' s6 s6 q2' q1' q1'. s6 q5 q3' q3' s2' s1' 2'
+- q5 q3' q2' q3' 3' 5' 5' - q1'. q2' q3. q5 q2 q3 q5. q5 q3 q5 qx' q2' q2' q3' 3' - 3' 0 - - 0 x q6. 6' 1. 1' - - 1' - -
+- - 0 0 0 0 0 0 0
+%END

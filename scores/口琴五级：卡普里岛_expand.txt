@@ -1,0 +1,19 @@
+%口琴五级：卡普里岛.txt
+% 出处 http://www.jianpu.cn/
+title=口琴五级：卡普里岛
+tag=分类/口琴谱
+usertag=分类/口琴谱
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-161159
+todo=refine the filename
+%--
+4/4
+subtitle=score
+1 - - 1. 1 - - 2 x q0 ,5 q1 q3 5 q5 q6 5 q4 q3 5 ~ q5 q,5 q1 q3 5 q5 5 q4 q3 4 ~ q4 ,5 q,7 q2 4 q4 q5 4
+q3 q2 4 q5 q4 3 q2 q1 2 q1. ,,7 1 ~ q1 q,5 q1 q3 5 q5 q6 5 q4 q3 5 q5 ,5 q1 q3 5 q5 5 q4 q3 4 q4 q,5 q,7 q2 x 4
+4 q5 4 q3 q2 4 q5 q4 3 q2 q1 2 q1 q,7 1 q1 ,7 ,5 ,6 q1 q1 q2 1. ,6 ,5 3 ,5 q2 q2 q3 2. q1 3 ,6 q1 q1 q2 1. ,6 ,5
+3 - q1 q1 q1 q2 3 q2 1 2 ~ q2 q,5 q1 q3 5 q5 q6 5 q4 q3 5 q5 ,5 q1 q3 5 q5 q6 5 q4 q3 4 q4 ,5 ,7 q2 4 q4 q5
+4 4' q3 q2 4 q5 q4 3 q2 q1 2 2' q1 ,7 1 1
+%END

@@ -1,0 +1,19 @@
+%口琴六级：啄木鸟之歌.txt
+% 出处 http://www.jianpu.cn/
+title=口琴六级：啄木鸟之歌
+tag=分类/口琴谱
+usertag=分类/口琴谱
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-161173
+todo=refine the filename
+%--
+3/4
+subtitle=score
+1 - - x 1. 1 - - x 2 x x x 3 5 q4 q4 q0 q4 4 6 2 2 4 q3 q3 q3 q3 3 5 1 1 3 q2 q2 q2 qx' q2 2 4
+q,7 q,7 q,7 q,7 ,7 2 1 1 x 3 5 5 5 5 5 4 2 ~ 2 5 7 7 7 6 5 4 3 - 3 3 5 5 5 5 5 4 2 ~ 2 5
+5 5 5 4 3 2 1 1 0 0 5 q0 q4 q4 q4 0 0 2 2 4 q3 q3 q3 q3 3 5 1 1 3 q2 q2 q2 q2 2 4 q,7 q,7 q,7 q,7 ,7
+2 1 1 ,1 1 3 5 - 7 2' 6 6 2 4 5 7 6 5 5 ~ 5 1 3 5 6 5 7'. q6 6 5 7. 6 5 7. q6 6 5 5 4 3
+3' - 3' 1 3 5 1' 7 2' 6 ~ 6 ~ 6 2 4 5 7 6
+%END

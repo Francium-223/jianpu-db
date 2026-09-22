@@ -1,0 +1,18 @@
+%我愿跟着你.txt
+% 出处 http://www.jianpu.cn/
+title=我愿跟着你
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-166432
+todo=add tags
+%--
+6/8
+subtitle=score
+q1 q,5 q,6 q6 q3 q2 q1 q,6 ,5. ,5. 1. q5 q6 q1 3. 3. 3. 5 q3 q1' q7' q7 q1' 6. 1 q3 6 6. q2 q3 q5 q1 q1 s7 s6 5 q6 3. q2 q3
+q5 q2 q1 s1 s6 q3 2 2. q1 q3 q5 q1 q7 q1 q3 5 5. q2 q3 q5 q2 q3 q7 6. 6. q2 q3 q5 q1 q7 q1 q5. s5 q6 3. q2 q3 q5 s6 s5
+q2 1. 1. 1. 1. 1. 1. q3 5 5. 5. 5. 2. 2. 2. 2. 1. 1. 1. 1. 1. 1. q1 q0 q0 0 q2 q3 q5 s6 s5 q2 1. 1. 1. 1. 1. 1. q3 5
+5. 5. 5. 2. 2. 2. 2. 1. 1. 1. 1. 1. 1. q1 q0 q0 0
+%END

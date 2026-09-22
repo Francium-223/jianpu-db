@@ -1,0 +1,19 @@
+%那就是你.txt
+% 出处 https://www.qupu123.com/
+title=那就是你
+tag=分类/美声
+usertag=分类/美声
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=qupu123-296820
+%--
+4/4
+subtitle=score
+q5 s5 s5' ~ 5' - s5 q4 s3 5' - - q5' s6 s7 q1' s1' s1' ~ 1' - s7 q6' s5' q5 3'. ~ 3' - q6 s6 s6' ~ 6' - s6 q5 s4 6' -
+- q6' s2 s2 q2' q7' ~ 7' - s7 q6 s7 q6 5'. ~ 5' - 6 - - q6 q1 q7 s7 s7 7 - q2 q1 q7 1 - - s5 q6 s1 q5 q3 3. q3
+q2. s1 6 - - s6 q7 s1' q6' q4' 4'. q3' q5'. s3' 2' - - s5 q6 s1' q5' q3' ~ 3'. q3' q2'. s1' 7. q1' 6'. s6 s1' q3' s4' s4' ~ q4' q3' 2' s1'
+q7 s2' 1' - - - q7 1' q7 6 - q7 1' q3' 6 - q3' 4' q3' 2' - q1' q6 q7 q1' 1' 3' 5' - - s5 q6 s1' q5' q3' 3'. q3' q2'. s1' 6'
+~ 6' - s6 q7 s1' q6' q4' ~ 4'. q3' q5' q3' 2' - - s5 q6 s1' q5 q3 3. q3 q2. s1 7. q1 6. s6 s1 q3 s4 s4 q4 q3 2 s1 q7 s2 1
+- - q1 s6 s1 q3' s4' s4' ~ q4' q3' 2' - 2' - - - 1' 7 - 2' 1' - - - 1' - - -
+%END

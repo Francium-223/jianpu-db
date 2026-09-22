@@ -1,0 +1,19 @@
+%最后一次我见到你_歌曲类.txt
+% 出处 http://www.jianpu.cn/
+title=最后一次我见到你 歌曲类
+tag=汪峰
+usertag=汪峰
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-112649
+%--
+4/4
+subtitle=score
+x 5 5 6 6 3 3 3 1 1 1 0 6 1 0 1 1 1 6 5 1 1 0 0 0 1 1 1 6 6 6 5 5 1 ~ 1 1 1 2 ~
+2 4 4 3 2 1 1 - 0 0 0 6 6 5 3 3 3 3 2 1 ~ 1 x 0 6 1 0 1 6 1 0 1. 6 0 0 0 0 q1 q1 1
+6 6 0 q6 q6 q6 q1 1 q1 q1 q2 q2 q2 q4 q4 q3 q2 q1 1 0 q0 q1 6 1 1 1 1 1 3 3 5 6 0 0 6 0 1 1 1 1
+1 0 6 5 0 0 0 1 6 1 1 1 1 1 3 3 5 6 0 1 1 2 2 2 2 0 0 5 3 ,6 1 0 0 0 5 5 5 5 3 3
+2 1 ~ 1 0 0 5 1 6 1. 1 ~ 1 0 1 6 0 0 0 1 1 1 x 0 q1 0 q1 5 x 0 1 1 1 6 6 5 5 5 1 1
+1 1 2 2 2 2 4 3 2 1 1 0 0 0 q1 q1 q1 q1 6 q0 q1 1 q1 q1 q2 q2 q2 q4 q4 q3 q0 q2 q1 1 0 0
+%END

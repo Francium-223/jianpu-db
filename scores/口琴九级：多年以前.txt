@@ -1,0 +1,20 @@
+%口琴九级：多年以前.txt
+% 出处 http://www.jianpu.cn/
+title=口琴九级：多年以前
+tag=分类/口琴谱
+usertag=分类/口琴谱
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-161202
+todo=refine the filename
+%--
+4/4
+subtitle=score
+1 - - 1 - - x 1 1 1 q1' q2' 3' q3' q4' 5' q6' q5' 3' 5' qx' q3' q,2'. q3' q2' 1' 5 1' 0 x q1 q1. s1 s2 q3 s3 s4 q5 s6 s5
+3 5 q4 q3 2 4 3 q2 1 1 q1 q2 3 q3 q4 5 q6 q5 3 5 q4 q3 2 3 q2 1 0 5 q4 q3 2 ,5 4 q3 q2 1 ,5 5 ,4 q3
+2 ,5 4 q3 q2 1 1 q1 2 3 q3 q4 5 q6 q5 3 5 q4 q3 2 q3 q2 1 1 ,5 q1. ,,5 q1 q2 q3. s,5 3 q4 q5. s,5 q6 q5 q3. ,,5 ,3
+q,5 q5. ,,5 q4 q3 q2. s,5 ,4 ,5 q4. s,5 q3 q2 q1. ,,5 3 q,5 q1. s,5 q1 q2 q3. s,5 q3 q4 s,5 q6 q5 q3. ,,5 q,3 q,5 q5. ,5 q4 q3 q2. ,5 q3 2
+q1. s,5 ,3 q,5 1 ,5 q5. ,5 q4 3 q2. s,5 q,4 q,5 q4. ,5 q3 q2 q1. ,,5 ,3 ,5 q5. ,,5 q4 q3 q2. ,5 q,4 5 4. q,5 q3 q2 q1. q,5 q,3 ,5 q1. ,,5
+q1 q2 q3. ,5 q3 q4 q5. ,,5 q6 q5 q3. ,,5 ,3 ,5 q5. ,5 q4 q3 q2. s,5 q3 q2 1 1 2' 3'
+%END

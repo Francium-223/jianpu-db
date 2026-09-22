@@ -1,0 +1,20 @@
+%话语.txt
+% 出处 http://www.jianpu.cn/
+title=话语
+tag=周深
+usertag=周深
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-448029
+%--
+4/4
+subtitle=score
+q0 s5 s5 6 5 3 q0 s1 s5 1 2 1 q0 s5 s5 6 1' q3 q5 q0 s1 s5 1 2 1 q0 s1 s5 q,6 q1 0 q2 q3 q5 q0 q5 s6 s1' s6 s5
+s3 s5 q3 0 q0 s5 s5 6 5 3 q0 q,5 1 2 1 q0 q5 q3 q2 q3 0 0 q0 q,5 q2 q1 0 0 q,5 q5 q3 q2 q3 0 0 q0 q,5 q2 q1 0
+0 q0 q5 q6. s5 q6. s5 s6 s7 s6 s5 s3 s5 q3 0 0 q0 q5 q5 s3 s2 3 0 q0 s5 s5 q,6 q,5 5 2' 7 1' 0 0 0 0 0 0 q0 s5
+s5 6 5 3 q0 s1 s5 1 2 1 q0 s5 s5 6 1 q3 q5 q0 s1 s5 1 2 1 q0 s1 s5 q,6 q1 0 q3 q5 0 s1' s1' s6 s5 s3 s5 q3 0
+q0 s5 s5 6 5 3 q0 q5 1 2 1 0 0 0 0 0 0 0 0 q0 q5 q6. s5 q6. s5 s6 s7 s6 s5 s3 s5 q3 0 0 q0 q,5 q5 s3 s2 3
+0 q0 s5 s5 q,6 q,5 5 2' 7 1' 0 0 0 0 0 0 0 6 3 5 0 0 0 0 0 6 3 5 0 0 0 0 q0 s5 s5 6 5 3 q0 s1
+s5 1 2 1 0
+%END

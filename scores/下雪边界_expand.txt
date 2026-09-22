@@ -1,0 +1,20 @@
+%下雪边界.txt
+% 出处 http://www.jianpu.cn/
+title=下雪边界
+tag=张信哲
+usertag=张信哲
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-120942
+%--
+4/4
+subtitle=score
+x x x 0 x x x 0 q7 5 q7 q1 5 ,,7 5 q7 6 0 q5 q7 q1 5 q7 q1 5 q7 5 - x 0 7 6 7 6 q0 5 3 q3 5 -
+- 0 0 6 5 6 5 q4 3 3 q2 3 3 - 0 3 q2 6 6 6 - q0 q7 5 5 5 - q1 q2 q3 3 q4 4 0 4 3 q1 q2 2 -
+- q0 q1 7 q1 q7 q6 6 q5 4 5 - - 0 q0 q6 5 q6 q5 4 3 3 q2 3 - 0 3 q2 q6 q6 6 q0 q1 q7 q6 q6 q5 q5 5 -
+q5 q4 q4 6 q0 q6 q6 q5 q4 q6 5 0 0 5 q5 q5 q2 3 q3 2 3 3 q1 6 q0 q,,6 q6 6 3 q3 4 q6 3 4 q4 q2 2 2 q0 q5
+q5 q5 q2 3 q3 q5 3 q,3 q1 q7 6 ,1 1 q0 q6 6 6 q3 3 4 0 6 q,3 4 q,4 q2 q1 2 2 - q0 3 q3 q2 3 2 - 1 - -
+3 6 6 q0 q6 6 q5 x 4 q6 5 5 - q0 q4 4 q0 q4 q3 q2 0 - x q4 q3 3 - q3 q6 q6 6 q0 q2 q7 q6 6 q7 q6 5 q0
+q6 q7 1 q6 q0 q6 q7 6 q0 6 7 6 6 2 3 2 q2 2 2 - - 0
+%END

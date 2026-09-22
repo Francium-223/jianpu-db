@@ -1,0 +1,19 @@
+%七色的花环.txt
+% 出处 https://www.qupu123.com/
+title=七色的花环
+tag=分类/儿歌
+usertag=分类/儿歌
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=qupu123-331676
+%--
+4/4
+subtitle=score
+q0 q,5 q,6 q1 q3 q2 q1. s1 q,6 ,5. ~ ,5 - q0 q,5 q,6 q1 q3 q2 q1. s1 q3 q1 q3 q2 ~ 2 - q0 q3 q3 q4 q5 q4 q3. s1 q2 ,6. q0 q1
+q,7 q,6 ,5 q,7. s1 2 4 q3 q1 q2 q1 1 - 0 1 4 5 6 q7 q1' 1' - 7 7 6 q7 q5 5 - - - 0 1 2 3 4 q5 q6 ~ 6
+- 5 5 4 q2 q3 ~ 3 - - - 0 1 4 5 6 q7 q1' 1' - 7 5 3 q7 q6 ~ 6 - - q0 q5 q6. s6 q5 q4 ~ 4 q3. s1 q2
+,6. q0 q1 q,7 q,6 ,5 ,7 2 q4. s3 q2 1. 1 - 0 1 4 5 6 q7 q1 1 - 7 1 2 q7 q5 5 - - - 0 5 3 1 4 q5 q6 6
+- 5 6 7 q5 q3 3 - - - 0 1 4 5 6 q7 q1 1 - 7 5 3 q7 q6 6 - q0 1 q5 q6. s6 q5 q4 4 q3. s1 q2 ,6. q0 q1
+q,7 q,6 ,5 1 2 3 4 5 - q0 4 q3 q2 1. 1 - 5 - - 6 7 - 6 5 1 - - - 1 - - 0
+%END

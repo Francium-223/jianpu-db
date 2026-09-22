@@ -1,0 +1,22 @@
+%口琴九级：那坡里舞曲.txt
+% 出处 http://www.jianpu.cn/
+title=口琴九级：那坡里舞曲
+tag=分类/口琴谱
+usertag=分类/口琴谱
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-161204
+todo=refine the filename
+%--
+2/4
+subtitle=score
+q,1 q1. s1 s1 1 q1 q1 q,1 s5 q,6 7 s6 ,5 q7 q0 7' 7' s6 s,7 s1' q7 s6 ,7 q6 q0 5' 0 5' q,5 q5 s6 s5 q4 s3 s5 s5 q0 4' q4' s4
+~ q,4 5 q4 s3 ,2 q3 q0 1 1 ,1 5 s6 1' s7 6 q5 q7 q0 q7' ~ q7' s6 s7 s1' q7 q,6 ,7 q6 q0 5' ~ q5' ,,5 s5 6 q5 s4 s3 5
+0 4' 4 s4 4 5 q4. q3 s2 q3 s0 q1 q1. q,,1 q6 0 6' 6' s1' q1' s1' q7 s6 6 q0 5' q5'. s5 q6 s5 4' s3 q5 s0 q4' ~ q4' 3 s4 s5
+4 s3 s2 3 q0 1 q1. s1 6 0 6' 6 7' x' 1' q7 6 6 q0 5' 5' s4 ,5 q4 q5 s7 ,6 q5 0 4 q4 s3 q4 s3 q4 s6 s5 1 1. 1
+q6' q,1 q1 qx q6 1' s2' s7 s6 q,6 s5 ~ 5 ~ 5 s6 5 s5 s5 5 s5 s5 s6' s5 q4 s3 q5 q4 s4 s4 s5 s4 s4 s4 s5 q4 s4 4 4 5
+s4 q3 2 h1 s5' h1 d4' h2 d,4' s3' s4' h4 q5' h5 q4' s6' s4' d7 ,4' 1' q5' s4' h1 s4' s4' ,1' ,5' ,5' 4' h1' q,3' 2' s1' h1' s1' s2' h1' s3' s4' h6'
+s5' s6' h1' s7' h1' s1' s1' s1' s2' h1' s3' d2' q4' h1' s5' s6' h7' h6' s7' d,,6' h5' h0 q0 d5' d1' x' 1' h5' s0 0 d5' d1' q1 d5' h0 q0 q5' s0 0 d5'
+d4' 3'
+%END

@@ -1,0 +1,15 @@
+%他的吉他.txt
+% 出处 http://www.jianpu.cn/
+title=他的吉他
+tag=Beyond,分类/吉他谱
+usertag=Beyond,分类/吉他谱
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-197500
+todo=refine the filename
+%--
+4/4
+subtitle=score
+q0 x'. x' x 1' x 1 1'. x x 1 1. 1'. 1 x.
+%END

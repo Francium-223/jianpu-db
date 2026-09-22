@@ -1,0 +1,23 @@
+%我们_2.txt
+% 出处 https://www.jianpujia.com/
+title=我们
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-14837
+todo=add tags
+%--
+2/4
+subtitle=score
+s3' s2 s6 s4 s4 s2 q2 q4. s2 s2 q3 s4 ,6 2 s5 q2. s5 s4 s4 s2 q2. s2 s2 s1 s2 s4 4 q1'. s4' s4' q2'. s6 s4 s,2 s1 s6 s1 s6 s4 s6
+s4 s6 s1 s6 s2 s6 s4 x s2 s,2 s4 s5 ~ s5 s4 s2 s,6 s2 s2 s4 s5 ~ s5 s4 s2 s6 s2 s6 s2 s3 s2 s4 s2 s6 s2 s6 s2 s3 s2 s4
+s2 s6 0 0 0 0 0 q0 q5 q5 q3 ~ q3 q5 q5 q4 ~ 4 - 0 0 q0 s5 s6 q7 q1' q7. s1 ,7 ,7 s5 s2 s4 q,5 q1 ,5 - ,5 - 0
+0 s,2 q,2 q,6 q1 3 - s,5 q,5 1 - - q2 q3 3 3 - 1 q0 s3 s3 q3 q1 ~ q1 s2 s3 q3 q6 q3 q2 ~ 2 q0 s1 s2 q3 q6 q3 q2
+0 q0 q2 ,1 - q,1 q,1 q,5 q2 q,6 q,3 ,6 - - q,2 q,2 q,4 q,6 1 - q,4 q,4 q,6 q,6 ,5 - x 5 5 x q2 q1 1 - 0 0 q0 q5 q5. s3
+q3 s4 s5 6 - - - 0 q0 s6 s6 q5 2 q4 q,1 q,5 q2 q3 ~ 3 - q,1 q,5 2 q3 q,5 ~ ,5 q,4 q,4 q,6 q1 ~ 1 - q,4 q,4 q,7 q2 ~
+2 - 5 3' - q3' q3' q5' q5' 1'. s1' s1' 1' 2' 3' q3' 2' q1' 2' q1' q2'. q3' q3' 2' s1' s2' 2' q2' q3' q4' q,3 q,3 q,7 q2 5 - q,6 q,3 q,7 q1
+3 - q,2 q1 q2 q4 ~ 4 - q,2 q,5 q1 q2 4 - q4' 3' q2' 3' 4' 5' - q5' q5' 3' q4' q5' 6' - - 6' q0 s6' s7' 1' 7' 6' q,1 q,5 q2
+q,5 q,1 q,6 q1 q,6 q,1 q,5 q1 q,5 2 - q,4 q,4 q,6 q1 q3 q1 q,6 q,4 q,4 q,4 q,7 q2 q5 q2 q,7 q,4
+%END

@@ -1,0 +1,20 @@
+%巴丁小夜曲.txt
+% 出处 http://www.jianpu.cn/
+title=巴丁小夜曲
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-109476
+todo=add tags
+%--
+2/4
+subtitle=score
+4 0 s0 s5 s1' s1' s7 s5 s4 s6 s5 s3 s2 q3 q3 s0 s5 s6' q7 s5 s4 s6 s5 s3 s2 s3 q4 q4 s0 s4 s5 s6 q3' q2' s0 s2 s3 s4 q7 s0
+q7 s1 s2 s6 s5 s4 s3 s2 s1 s,7 q6 s,5 q7 s2 s4 s6 s5 s1' s1' s7 s5 s4 s6 s5 s3 s1 s2 q3 q3 s0 s5 s6 s7 s5 s4 q6 s5 s3 s2 s3
+q4 q4 s0 s4 s5 s6 q3' q2' s0 s2 s3 s4 q2 q1 s0 s3 s4 s5 s7 s6 s5 s4 s3 s5 s2 s5 1 s0 s2 s3 s5 q4 q2 s0 s3 s4 s6 q5 q2 s0
+s7 s1 s2 q3 s4 s5 q7 q6 2 s2 s2 s3 s5 x q4 q2' s0 s3 s4 s6 q5 q2' s2' s7 s6 s5 s4 s3 s2 s1 q7 s2 s,6 s2 q5 s5 s6' s5 5 s5
+s5 s6' s5 5 s5 s5 s6' s5 s5 s5 s6' s5 s5 s,5 q6 s,5 ,5 ,5 s0 s5 s6 s1' s7 s5 s4 s6 s5 s3 s1 s2 q3 q3 s0 s5 s6 s1 s7 s5 s4 s6
+s5 s3 s2 s3 q4 q4 s0 s4 s5 s6 q3 q2 s0 s2 s3 s4
+%END

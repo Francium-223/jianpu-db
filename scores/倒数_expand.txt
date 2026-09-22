@@ -1,0 +1,23 @@
+%倒数.txt
+% 出处 http://www.jianpu.cn/
+title=倒数
+tag=邓紫棋
+usertag=邓紫棋
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-420997
+%--
+4/4
+subtitle=score
+q,5 q,5 q,5 q,5 q,5 q,5 q,5 q,5 q,3 q,3 q,3 q,3 q,3 q,3 q,3 q,3 q,4 q,4 q,4 q,4 q,4 q,4 q,4 q,4 q,2 q,2 q,2 q,2 q,1 q,1 q,1 q,1 q0 s,5 s,5 s,5 s,3 q,3 q,3. s,2
+q,2 q,3 q0 s5 s5 s5 s3 q,3 q,3. s2 q,2 q,3 q0 s5 s5 s5 s3 q,3 q,3. s2 q,2 q,3 s2 s2 q,2 q,2 s2 s1 s2 s2 q,2 ,3 q0 s5 s5 s5 s3 q,3 q,3. s2
+q,2 q,3 q0 s5 s5 s5 s3 q,3 q,3. s2 q,2 q,3 q0 s5 s5 s5 s3 q,3 q,3. s2 q,2 q,3 s2 s2 q,2 q,2 s2 s1 s2 s2 q,2 ,3 q,6 q,6 q,7 q,7 q1 q1 q2 q2
+q,7 ,7 q1 q2 q2 q3 q3 q1 1 q,6 q1 q2 q3 q2 q2 3 d5 d5 q4 q4 q4 q4 q3' 3. q3 q2 q3 q5 q5 q5 q5' 5. d5 d5 q4 q4 q4 q4 q3 3.
+q3 s2 s1 q,7 q,7 q,6 ,6. s5 s5 s4 s4 q4 q4 q3 3. s3 s2 s3 s5 q5 q7 q5 5. s5 s5 s4 s4 q,4 q4 q3 3. q3 s2 s1 q,7 q,7 q,6 ,6'. s,5 s,3
+s,5 s,5 q,5 q,5 q,3 ~ ,3 s0 s,5 s,5 s3 s,5 s,5 q,5 q,5 q,3 ~ ,3 s0 s,5 s,5 s,3 s,5 s,5 q,5 q,5 q,3 ~ ,3 s0 s,5 s,5 s,3 s,5 s,5 q,5 q,5 q,3 s,5 s,5
+q,5 q,5 q,3 s,5 s,5 q,5 q,5 q,3 ,3 s0 s,5 s,5 s,3 s,5 s,5 q,5 q,5 q,3 ,3 s0 s,5 s,5 s,3 s,5 s,5 q,5 q,5 q,3 ~ ,3 s0 s,5 s,5 s,3 s,5 s,5 q,5 q,5 q,3 s,5
+s,5 q,5 q,5 q,3 s,5 s,5 q,5 q,5 q,3 ,6. s5 s3 s5 s5 q5 q5 q3 3' - - - 3' q0 s5 s3 s5 s5 q5 q5 q3' 3' - - q3 s2 s1 s2 q1. q0 s5
+s3 s5 s5 q5 q5 q3 3 - - - 3 q0 s5 s3 s5 s5 q5 q5 q6 q6 5 q4 q4 3 s2 s1 s2 q1. q0 s,5 s3 s,5 s,5 q,5 q,5 q,3 ,3 - - -
+,3 q0 s5 s3 s5 s5 q,5 q,5 q,6 q,6 ,5 q,4 q,4 ,3 s2 s1 s2 q,1. ,1 - - q4 q4 q3 q3 q4 q4 q5 q5
+%END

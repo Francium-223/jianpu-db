@@ -1,0 +1,17 @@
+%燕尾蝶_歌曲类.txt
+% 出处 http://www.jianpu.cn/
+title=燕尾蝶 歌曲类
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-114922
+todo=add tags
+%--
+4/4
+subtitle=score
+1 - 0 4 x 0 3 3 2 1 1 1 3 3 3 1 1 0 q3 3 2 1 2 1 1 3 ,7 0 q3 3 2 1 2 1 3 3 3 2 1 2
+1 x 3 3 2 1 2 1 1 4 3 3 3 1' 1 0 7 7 3. 0 0 6 5 6 2 1 4 0 4 3 1 2 2 2 1 3 3 3 1 1
+7 7 3 6 6 6 5 5 5 2 1 q4 q4 q3 3. q3 3 3 7 0 0 q7 x ~ x' 3 1 3 1 1' q0 q7 1' q6 q7 q7 q5 6 q6 q7
+%END

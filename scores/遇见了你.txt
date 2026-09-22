@@ -1,0 +1,18 @@
+%遇见了你.txt
+% 出处 http://www.jianpu.cn/
+title=遇见了你
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-118623
+todo=add tags
+%--
+4/4
+subtitle=score
+qx x 1 1 5 0 1 2 2 3 5 ,1 5 1 2 2' 3. 1 5 1 2 q2 3. 0 0 2 1 5 ,3 - 0 0 0 0 5 2 1 5' 3' ,3
+0 0 0 0 q0 5 6 7 7 1 1 ,7 1 1 7 1 1 ,7 1 1 5 ,6 - - - 0 0 5 5 ,4 5 ,4 3 ,3 1 0 0 2 1 5
+,3 - 0 0 0 5 2 1 7 ,7 - - - 0 0 0 5 6 7 7 1 1 ,7 1 1 7 1 1 ,7 q1 q1 q3 6 q6 ,6 - - 0 0 0
+q0 6 5 5 5 5 5 ,6 7 7 1 ~ 1 - 0 5
+%END

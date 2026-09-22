@@ -1,0 +1,18 @@
+%妈妈的歌谣.txt
+% 出处 http://www.jianpu.cn/
+title=妈妈的歌谣
+tag=乌兰图雅
+usertag=乌兰图雅
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-463908
+%--
+4/4
+subtitle=score
+1 - - - - x - - x x x 2' q2' q3' s2' s3' s2' - - q6 2' - q2' q2' 1' - - - x q,5 s,5 1 s1 s2 s3 1 q2 s2 s1 s2
+q3 ,5 - q,5 ~ s,5 q1 s1 s2 s1 s2 s3 3 q2 s3 s5 s1. d2 s,6 s,5 2 - s3 s2 q3 q5. s3 s2. d3 s2 s1 1 q2 s2 s3 s2 q3 s,5 ,6 -
+q,5 s,5 s,6 q1 s2 q3 s3 s5 q3 s2 s1 s2 s3 q5 1 - q5 s5 s6 q2' s1' 6 - 6 - q5 s1' s6. s6 s5 q2 s2 s3 q1' 5 - 5 - q5 s5
+s6 1' - - - q2' q1' q2'. q3' q5 q6 x. 3' - q2' q5 q6' q2' - - - x. 5 s1' 1' - q2' s2' s1' q6' q2' - - - - q2' s2' 5 - q2
+s2 s3 q5 s5 ~ s5 q,6 d,5 s3 s2 s3 s5 1 - 1 -
+%END

@@ -1,0 +1,21 @@
+%中国大舞台.txt
+% 出处 http://www.jianpu.cn/
+title=中国大舞台
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-437292
+todo=add tags
+%--
+4/4
+subtitle=score
+qx q1 - - - - 5 6 - 7 0 ,1 x x x x. ,x' q1'. s2' s2' s7 s6 s5 6 - s1' q1' s2' s7 s6 d5 d6 s3 5 - q5. s6 q1' s2' s7
+s6. d7 s6 s5 s3 s6 q1 s1 s7 h6 s3. s2 s3 d2 d3 s6 1 - x q5 s5 s3 q5 q6 q1 s7 s6 ,5 q3 q1 s7 s2 d5 d6 s3. 5 - s5 q5 s6
+q1 s2 s7 s6. d7 s6 s5 s3 s6 q1 s1 s7 s6 s6 s6 s3 s5 s6 2 - q5 s5 s3 q5 q6 q1 s7 s6 ,5 q3 q1' s7 s2' d1' d2' s7 6 - s5 q5
+s6 q1' s2' s7 s6. d7 s6 s5 s3 s6 q1 s1 s7 s6 s3 s2 s3 d2 d3 s6 1 - s1' s1' s1' s2' s2' s7 s6 s5 6 - s1' q1' s2' s7 s6 d5 d6 s3
+5 - s5 q5 s6 q1' s2' s7 s6. d7 s6 s5 s3 s6 q1 s1 s7 s6 s6 s6 s3 s5 s6 2 - s1 s1 s1 s2 s2 s7 s6 s5 6 - s1 q1 s2 s7 s6
+d5 d6 s3 5 - q5 q5 q6 q1' q2' q7 q6. q7 q6 q5 q3 q6 q1 q1 q7 q6 q3 q2 q3 q3 q6 1 - s5 q5 s6 q1' s2' s7 s6. d7 s6 s5 s3 s6
+q1 s1' s7 s6 s3' s2' s3' s5 s6 6 - 1' - - -
+%END

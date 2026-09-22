@@ -1,0 +1,17 @@
+%小螺号.txt
+% 出处 https://www.jianpujia.com/
+title=小螺号
+tag=分类/儿歌
+usertag=分类/儿歌
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-9850
+%--
+4/4
+subtitle=score
+s6 s6 s6 s6 q6 s3 s5 s6 s3 s3 s3 q3 s3 s2 s6 s2 s2 s2 s2 s1 q,6 q1 s3 s5 q1' sx sx x - q,6 q3 3 x q,6 s3 s3 3 d6 s3 s3
+s3 s3 s5 s3 s2 3 - q,6 q2 2 q,6 s2 s2 2 d6 s2 s2 s2 s2 s1 q,6 1 - q,6 q3 q,6 s3 s3 3 q,6 q5 q5 s3 s5 q6. s5 s6 s5 q3 q,6
+q2 2 q,6 s2 s2 2 s3 s3 s2 s3 q2 s1 d6 1 1 6 q6. s5 s3 s2 6. ~ 6 - 6 q6. s5 s3 s2 5. ~ 5 - 5 s5 q6 s5 s3 s2 3.
+3 - 2 q2 s3 s1 s1 s6 1. 1 -
+%END

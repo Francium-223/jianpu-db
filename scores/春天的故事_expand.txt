@@ -1,0 +1,26 @@
+%春天的故事.txt
+% 出处 https://www.qupu123.com/
+title=春天的故事
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=qupu123-370499
+todo=add tags
+%--
+4/4
+subtitle=score
+q1 q1'. q1 x' 1' x x x 6' 6' 6 6 6' 0 0 0 q1' 1' 6 1' 0 1' 2' 1' 2' 1' ,3 3 0 2 6 6 6 5 q,1 1 ,1 x 1. x.
+q4 6 5 5 6 3 1 0 3 5 2 x q1 x' x x q0 1 1 1' 1' x' ,x. q1' 1'. ,,x ,x' x q0 q,5 q,6 q5 3 - q0 q,5 q,6 q5 2 -
+q0 s,5 q,6 q5 q2 q3 q,6 ,5 - - 0 q5 s5 s5 s6 s5 s6 s5 5 - 5 - q2 s3 s3 s3 s1 d6 s1 2 - 2 - q2 q,3 q,5 q,6 q1. s2 s3
+s5 q2 2 - 0 0 q5 s5 s5 s5 s3 s2 s3 q,6 q0 s6 s7 q,6 ,5 - ,5 0 x q,5 q5 s5 s3 s2 s3 1 s6 s1 q2 s0 s2 s3 s7 s6 s1 ,5
+- q,6 1 q2 q3 5 q3 s6 q6 s6 s5 s6 s3 s2 q2. s6 s1 s2 s3 s2 q2 2. 0 0 q0 q,5 q,6 q,5 2 - q,5'. q5 s5 s3 s2 s3 1. s6 s1 q2
+s0 s2 s3 s7 s6 s1 ,5 - q,6'. 1 q2 q3'. 5 q3 s6 q6 s6 s5 s6 s3 s3 q2 q,6 s1 s2 s3 s2 2 - - 0 - - - q3. s5 q5 q,7 q,6 s7
+s6 q,5 q,3 q,5. s6 q,7 s3 s5 2 - - - - q3. s5 q5 q,7 q,6 s7 s6 q,5 q,3 q,7. s7 s6 s7 q,5 ,5 0 - - - 5. s6 s6 s5 s6 1 q,7. q,6
+q3 s5 s6 q2 2 - - - - 5. s6 s6 s5 s6 1 q,7. q,6 q6 s6 s5 s6 s5 5 - q0 q6 q6 s5 s6 1 s6 s1 q2. s3 s7 s2 q,6 ,6 - q0
+q,3 q,5 s6 s6 q1. s2 q3 s5 s5 5 7 6 1 q5 0 3 5 2 3 7 6 0 3 5 6 6 1. 2 3 1 6 5. 3 2. 3 5 7 6 1 2.
+s3 s5 q,5. s6 q,7 s3 s5 q2 q,7 s6 s7 s6 s5 ,5. q,6 ,5 - q5 s5 s5 s6 s5 s6 s5 5 - 5 - q5 s5 s5 s6 s5 s6 s5 5 - 5 - q5
+s5 s5 s6 s5 s6 s5 5 - 5 - q5 s5 s5 s5 s3 s2 s3 q,6 q0 s6 s7 q,6 ,5 - ,5 0 7 6 7 x 3 5 0 x q5 s5 s5 s6 s5 s6
+s5 5 - 5 - x
+%END

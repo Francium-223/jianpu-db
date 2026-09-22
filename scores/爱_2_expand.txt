@@ -1,0 +1,19 @@
+%爱_2.txt
+% 出处 http://www.jianpu.cn/
+title=爱
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-61598
+todo=add tags
+%--
+2/4
+subtitle=score
+,6 1 3 q6 1 1. 1. ,6 1 3 q,6 q,7 q,6 1 2 3 5 6 2 1 q6 3 5 6 2 1 6 3 3 0 ,6 1 3 q6 1 1 1 q6 q6 1
+3 q6 q7 ,7 ,7 6 q1 q2 3 5 6 2 1 6 3 5 6 2 1 q6 q6 3 3 0 5 1' 2' 3' 1' q1' 5'. 5'. 5 3' 2' 7 7 6 5'. 5.
+3' 2' 7 1' 1' 7 1' 3' 7 5 6'. 6. 0 5 ,1 2 3 1 1 5. 5. 5 1 2 5 2 2 3 2 1 0 7 1. 1 1' 7 1' 3' 7 5
+1'. 1'. 0 7 5 6. 6. 0 0 0 ,6 1 3 ,6 1 1 1 ,6 1 3 ,6 ,7 ,7 ,6 1 2 3 5 q6 q2 q1 ,6 3 5 6 2 1 6 3 3
+3
+%END

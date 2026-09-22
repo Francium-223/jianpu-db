@@ -1,0 +1,16 @@
+%知足_歌曲类.txt
+% 出处 http://www.jianpu.cn/
+title=知足 歌曲类
+tag=五月天
+usertag=五月天
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-115179
+%--
+4/4
+subtitle=score
+0 0 0 x q1' qx' x 0 qx' q1' x' 6' q1' q7' 1' - x 0 0 0 0 x 1 7 ,1 6 5 1 1 ,1 0 0 1 7 ,1 x 2 6 1 1
+2 0 1 7 q1 0 6 0 7 3 0 6 7 1' 5 4 0 q2 1 x 0 0 7 7 1 0 q4 q1' q6 0 q2 1 q4 q3 q2 4. x. 1 5 q2
+q1 1 q2 q3 4 q4 q0 q3 q2 5 q4 q5 q1 q1 q7 6 4 q7 q1 2 1 1 1 2 - - 0 q6 q6 s1 s1 sx' s1 sx sx 1 1 4 2 x
+%END

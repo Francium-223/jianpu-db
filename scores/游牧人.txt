@@ -1,0 +1,19 @@
+%游牧人.txt
+% 出处 http://www.jianpu.cn/
+title=游牧人
+tag=腾格尔
+usertag=腾格尔
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-34792
+%--
+2/4
+subtitle=score
+1 - - q1 x x x x q,6. s3 q3 s2 s1 3 0 q1 s1 s2 s2 s1 s,6 s,5 ,3 0 q,3. s,3 q,6 s1 s3 q2. s3 q2 q1 q,6 q3 q,3 q,3 ,3 q,6 s2
+s1 ,6 - q,6. s6 q6 s3 s5 6 - q5 s5 s6 q7 s5 s3 6 - q6 q6 q,6 s6 q6 q5 q6 3 q2 q2 s1 s2 q6. s5 3 - 3 0 q,6 2 q2 s2
+s3 s1 d6 ,6 q5 s5 s3 s5 s6 s2 s1 6 - q,6 1 q1 s2 s3 s1 s,6 ,6 q,5 s,5 s,3 s,5 s,6 s2 s1 ,6 - s6 q0 3 6 - 6 q6 q0 7 q7
+s6 q6'. 7 s5 s3 6 - 6 q6 q0 7 q7. s6 q6 7 s5 s3 q3 q3 ~ 3 ~ 3 0 s6 ~ 6 q5 6 ,6 q6. s3 ~ q3 s2 s3 q2 s1 s,6 ,6
+q,6. s1 q2 q3 q6 q1 q2 q3 q2. s,6 ~ ,6 ~ ,6 0 3 6 ~ 6 - 7 q7. s6 q6 7 s5 s3 q3'. q6 ~ 6 ~ 6 7 q7. s6 q6 q7 7 q5
+q3 3 6 - - - -
+%END

@@ -1,0 +1,17 @@
+%我有一个家.txt
+% 出处 https://www.qupu123.com/
+title=我有一个家
+tag=分类/儿歌
+usertag=分类/儿歌
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=qupu123-320102
+%--
+4/4
+subtitle=score
+q1 - - 1 2 0 x x q5. s5 q5 q3 q6 q6 5 q1'. s1' q7 q6 5 - q1'. s7 q6 q1' q6. s5 3 q2. s4 q3 q2 1 - 5 3 q6 q6 5 q1'.
+s1' q7 q6 5 - q1'. s1' q7 q6 q5 q6 3 q5. s6 q5 q3 2 - 5 3 q6 q6 5 q1'. s7 q6 q5 6 - q1'. s7 q6 q1' q6 q5 3 q2 q4 q3 q2
+1 - 1'. q3' 2' 1' 5 - - - 6. q5 6 q1' q3' 2' - - - 6 - 5. q6 7 6 - 2'. 3' 2' 1' - - - 2'. q2' 3' - 2' - -
+- - - - 1' 0 0 0
+%END

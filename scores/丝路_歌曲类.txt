@@ -1,0 +1,17 @@
+%丝路_歌曲类.txt
+% 出处 http://www.jianpu.cn/
+title=丝路 歌曲类
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-115070
+todo=add tags
+%--
+4/4
+subtitle=score
+1' 1' x' 1' ,1' 2' ,1' x' 7 7 1' 1' - - 2' ,1' 2' 5' 0 x' - 0 x 1. x x x 1 1 x 1 x 1 q1 x. 0 q1 q1 q1 -
+- - 0 x 0 x x x 1' x 2 x x 1' 0 1 1 2 2' 1 x 1 1 1 s0 s4 s0 s1 q1 q1 qx s1 0 q1' s4 q1 s1 s1 s1 s2
+q0 s2 s1 s1 q1 s1 q1 sx q1 q1 s2 s1 x qx s1 1 x 1' 1 1 x x x x 6 - - 1 x 0 2 1' 0 2'
+%END

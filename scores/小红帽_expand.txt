@@ -1,0 +1,20 @@
+%小红帽.txt
+% 出处 https://www.jianpujia.com/
+title=小红帽
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-15548
+todo=add tags
+%--
+2/4
+subtitle=score
+q1 q2 q3 q4 5 q3 q1 1' q6 q4 q5 q5 3 q,1 q,3 q,1 q,3 q,1 q,3 q,1 q,3 q,1 q,4 q,1 q,4 q,1 q,3 q,1 q,3 x q1 q2 q3 q4 q5 q3 q2 q1 2 3
+2 5 ,5 ,5 ,5 ,5 ,4 ,3 ,2 ,2 q,1 q,3 q,1 q,3 q,1 q,3 q,1 q,3 q,5 q,2 q,5 q,1 q,5 q,7 q,5 q,7 q1 q2 q3 q4 5 q3 q1 1' q6 q4 5 3 ,5 ,5
+,5 ,5 ,6 ,6 ,5 ,5 q,1 q,3 q,1 q,3 q,1 q,3 q,1 q,3 q,1 q,4 q,1 q,4 q,1 q,3 q,1 q,3 q1 q2 q3 q4 q5 q3 q2 q1 2 3 1 1 ,5 ,5 ,5 ,5 ,4 ,3
+,5 ,5 q,1 q,3 q,1 q,3 q,1 q,3 q,1 q,3 q,5 q,2 q,5 q,1 q,1 q,3 q,1 q,3 q6 q4 q5 q5 1 1' q6 q4 5 3 ,6 ,6 ,5 ,5 ,6 ,6 ,5 ,5 q,1 q,4 q,1 q,4
+q,1 q,3 q,1 q,3 q,1 q,4 q,1 q,4 q,1 q,3 q,1 q,3 q1 q2 q3 q4 q5 q3 q2 q1 2 3 1 1 ,5 ,5 ,5 ,5 ,4 ,3 ,5 q,1 q,3 q,1 q,3 q,1 q,3 q,1 q,3 q,5
+q,2 q,5 q,1 q,1 q,3 ,1
+%END

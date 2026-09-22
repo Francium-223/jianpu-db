@@ -1,0 +1,19 @@
+%朋友首日封_歌曲类.txt
+% 出处 http://www.jianpu.cn/
+title=朋友首日封 歌曲类
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-115201
+todo=add tags
+%--
+4/4
+subtitle=score
+q1 q2 q3 6 q7 q1 q2 5 q1 q2 q3 0 q1 q1 7 s0 s7 x 1 1 1 ,1 1 1 1 3 4 3 5 4 4 3 2 3 2 4 3 1 3 4
+0 6. 4 4. 3 3 2 2 1. 2 3 3 3 4 3 6 4 4 3 2 2 3 2 4 1' 3 q3 1 q1 q2 q2 q3 ,4' 4 3 q3 qx q6 0 q1
+q2 q0 q3 ,6. q1 1 7 7 0 7 1 0 q1' q2' q3' x q7 q1' q2' 5 0 q1' q2' q3' 6 6 6. 1' 1' 7 6 5 5 1' 2' 3' 3' 0 7 1'
+1' 2' 5 0 1 1 2 3 6 6 6 1 1 x 0 6 7 1 q6 q1 q2 q3 q6 q1' q3' q6' q7 q2' q7 q6 q0 q1 q4 1. 4' 3' x 2. 4' 3'
+x
+%END

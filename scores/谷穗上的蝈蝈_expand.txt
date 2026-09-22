@@ -1,0 +1,19 @@
+%谷穗上的蝈蝈.txt
+% 出处 http://www.jianpu.cn/
+title=谷穗上的蝈蝈
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-41921
+todo=add tags
+%--
+2/4
+subtitle=score
+q,5 q5 q5 q5 q,5 q4 q4 q4 q,5 q3 s3 s2 s1 s2 q3 q4 5 q,5 q5 q5 q5 q,5 q4 q4 q4 q,5 s3 s4 s5 s4 s3 s2 q1 q,7 q1 s,5 s,5 q3 s3 s3
+q3 q1 ,5 s3 s3 q3 q3 q3 q5 4 - q2 s7 s7 q,5 q2 q4 q3 2 q3 s3 s2 s3 s2 s3 s4 5 s,5 s,5 q3 s3 s3 q3 q1 ,5 s3 s3 q3 q3 q3
+q5 4 - q2 s,7 s,7 q,5 q2 q4 q3 2 s5 s6 s5 s4 q3 q2 1 q1 q,5 s5 s1 q1 q1 q2 1 q,6 q,5 q1 q,7 q1 ,5. q2 s5 q2 q2 q2 q4 q3 q2.
+s2 q5 s5 s6 q5 q4 3 - q6' q5 q6' q5 q4. q4 q4 q4 x q5 q4 q5' q4 q4 q4 q4 qx q4 3 5 q2. s3 q4. s4 q3 q3 q3 q2 1 - q6 q5
+q6 q5 x x q4 qx q4 x q4 q4 x q5 q4 q5 q4 x q4 qx q4 q4 q4 3 5 q2. s3 q4'. s4 q3 q3 q3 q2 1 0
+%END

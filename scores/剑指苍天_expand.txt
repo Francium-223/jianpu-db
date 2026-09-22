@@ -1,0 +1,19 @@
+%剑指苍天.txt
+% 出处 http://www.jianpu.cn/
+title=剑指苍天
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-205985
+todo=add tags
+%--
+4/4
+subtitle=score
+0 x 1 - 1 0 q3 q5 q1' q3' 2' 3' 6 - - - q3 q5 q1' q3' 2' 1' 7 - - - q6 q7 q7 q1' 1'. q1' 3' 2' 6 - q1' q1' q1' q2'
+3' 6 2' - - - q3 q5 q1' q3' 2' 3' 6 - - - q3 q5 q1' q3' 2' 1' 5' - - - x q5' q1' q1' q5 5. q1' q7 q7 2' 1' - q1' q1'
+q1' q2' 6' 5' 5' - - - q3 q5 q1' q3' 2' 3' 6 - - - q3 q5 q1' q3' 2' 1' 7 - - - q6 q7 q7 q1' 1' - 3' 2' 6 - q6 q7
+q1' q2' 3' 4' 2' - - - q3 q5 q1' q3' 2' 1' 3' - - - q4' q3' q3' q2' 3' 4' 2' - - q2' q1' q7 q7 q7 q5 7 2' 3' 2' 1' - q1'
+q1' q1' q2' 3' 4' 5' - - - q3' q3' q3' q2' 6 2' 1' - - -
+%END

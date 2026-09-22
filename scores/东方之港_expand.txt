@@ -1,0 +1,20 @@
+%东方之港.txt
+% 出处 http://www.jianpu.cn/
+title=东方之港
+tag=宋祖英
+usertag=宋祖英
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-120408
+%--
+4/4
+subtitle=score
+1 - - - x 0 1 x x q6 s3 s1 q2 s6 s3 q1 2 s3 s2 2 - - - q6 s1 s6 q7 s6 s7 q6 5 q6 q5 q3 3 - - q6 s3 s3
+q3 q2 q2 ,6. 2 - - - q5 s5 s3 q5 s5 s6 q2' 1' s1' s2' 6 - - - q2 3' s2 s1 q2 3. 2 s2 s3 q2 ,6'. 2. s6 s1 2. q5 q6 s5
+s3 3 - - x x x 2 s2 1 x q6 6 q3 q6 2 s2 s3 q2. s3 ~ q3' s2 s3 s3 s2 1. q3 5 q3 s2 s3 ,5 s6 s1 ,6 - - - 1'
+1' s7 s7 q6 7 q5 q5 6 s6 s5 3 - 4. s2 s2 5 s5' s6 s5 s3 3 - - - x' 1 1 x q5 x 6. 5 x x 6. s3 s6 1'. q6 2
+s3 s1 2 - 7 s5 s3 2'. s1' s2' 6 - - - q6 q3' q2' q6 q1' 2' s3' s2' 2' - - - q6 s1' ~ s1' q7 s6 s7 q6 5 s5 s6 3 - -
+- q6 q3 q3 q2 q2 q6 s6 s5 s6 s5 2 - - - q5 s5 s3 q5 s5 s6 q2 1 s1 s2 6 - - - q5 s5 s3 q5 q6 q2' 3' s1' s2' 6 -
+- - 6 - - -
+%END

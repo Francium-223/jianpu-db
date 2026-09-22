@@ -1,0 +1,18 @@
+%忽然之间_歌曲类.txt
+% 出处 http://www.jianpu.cn/
+title=忽然之间 歌曲类
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-115214
+todo=add tags
+%--
+2/4
+subtitle=score
+6 6 1 2 5 5 0 0 2 3 2 2 3 2 1 0 0 q0 q2' q0 q2' q1' q2' q6 q0 0 0 q0 q2' q3' q6' q0 0 q6' 5' 2' q3' 3' q2' 2'
+q2' 2' ,x 0 3 q4 q3 2 0 0 3 4 4 3 2 0 0 4 3 1 1 6 ~ 6 3 4 2 0 1 5 5 3 4 3 1 1 5 ~ 5 3
+3 4 4 1 1' ~ 1' x 5 2' 3' 1' 0 0 3' 4' 6' 6' 0 4' 6' 6' 4' 3' 2' 3' 1' 2' 3' 3 2 1 7 1 1 1 1 6 1 1
+4 4 3 4 4 0 2' 3' 4' 6' ~ 6' 3' 4' 5' ~ 5' 4' 3' 2' 3' ~ 3' 1' 2' 0 ~ 0 2' 7
+%END

@@ -1,0 +1,19 @@
+%Funny_Face_歌曲类.txt
+% 出处 http://www.jianpu.cn/
+title=Funny Face 歌曲类
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-64780
+todo=add tags
+%--
+4/4
+subtitle=score
+x 1' 7 7 6 0 3 4 4 4 4 4 2 1' 7 7 6 0 3 4 6 7 7 6 1' 7 1' 7 0 0 3 4 4 4 4 4 2 7 7 0
+0 3 4 0 7 7 x 1. 3 q1 q2 2 q0 q7 q1 7 q3 3 q0 q3 4 3 2 q0 q4 4 q4 q3 q0 q2 q1 q2 3' 2' 0 7 7 3' ~ 3'
+0 3 4 3' 2' 2' 0 4 4 4' 0 3' 6 7 0 5 3 1' 7 1' 2' 3' 2' 3 2' 7 7 6 7 2' 1 6 7 0 5 3 1' 7 1' 2'
+0 2' 3' 2' 1' 4' 3' 2' 0 x 6' 7 3 6 6 1 2 1 3 3 6 6 2 3 2 4 4 6 6 7 7 6 0 5 0 4 3 3 2 1
+2 3 6 6 1 2 1 3 3 6 6 2 3 2 4 4 6 6 7 7 6 q1 5 0 4 3 3 2 1 2
+%END

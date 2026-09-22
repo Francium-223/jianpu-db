@@ -1,0 +1,18 @@
+%如果爱下去.txt
+% 出处 http://www.jianpu.cn/
+title=如果爱下去
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-54340
+todo=add tags
+%--
+4/4
+subtitle=score
+0 0 0 0 1 - 7 q7. s1' s7 6 - 0 0 q0 s1' q1' q1' 3' q7 ~ 7 s0 s1' s7 5 s5 5 q6 ~ 6 0 0 q0 s1' x 1' s1 s1' s1
+x x q3' 7 ,x. 7 q7 q7 q1' s7 q3 ,x ,5 x 5 x ,1 q5 s6 6 0 6 s1' x. x 3 x 2' 2 q0 s7 s1' 2'. q7 6 0 0 0 q0 s1'
+s1' s1' s1 3' 7 s0 q1 s7 q0 q5 s6 6 0 0 s0 q1' s1' s1' s1' s1' q3' s7 s7 q7 q7 q1' q7 q3 q5 q5 s6 ~ 6 0 s6 q1' q3' q2' ~ 2'
+q0 s6 s1' 2'. q7 6 0 s0 s3 s3' 3' s3' q5' s5 s4'
+%END

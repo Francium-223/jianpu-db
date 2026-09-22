@@ -1,0 +1,15 @@
+%I’MH_A_P_P_Y我快乐儿歌.txt
+% 出处 https://www.jianpujia.com/
+title=I’MH_A_P_P_Y我快乐儿歌
+tag=分类/儿歌
+usertag=分类/儿歌
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-394069
+todo=refine the filename
+%--
+4/4
+subtitle=score
+0 5 1 ~ 1 1 ~ 1 1. 2 2 ~ 2 2 ,,,2 2. q2 3 ~ q3 q3 ~ q3 q4. ~ q4 4 ~ q4 3 1 2 ~ q2 1
+%END

@@ -1,0 +1,20 @@
+%读书郎.txt
+% 出处 https://www.jianpujia.com/
+title=读书郎
+tag=分类/儿歌
+usertag=分类/儿歌
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-26513
+%--
+4/4
+subtitle=score
+1 - - - ,x 1' 1. x s1' s1' s1' s1' q6 q0 s2' s4' s6' s4' q2' q0 s2' s1' s2' s4' s6' s5' s1' s1' s2'. s3' s2' s1' s6'. s5' s3'. s5' 6' - - -
+q,6. s1 q,6 q5 q,6. s1 ,6 q,6 s6 s1 q2 q3 s3 s2 s1 s7 ,6 q,6. s1 3 q3 s2 s3 q5 q3 q6 s6 s6 s6 s5 q3 2 - q6. s6 q6 q6 q6 s6 s5
+q3 q2 q2. s3 q5 q3 q5 6 s5 s3 q2 q3 s3 s2 s1 s7 ,6 - q,6 s6 s1 q3. s3 q2 s2 s3 ,6 q2. s3 q5 q3 q5 6 s5 s3 q2 q3 s3 s2 s1
+s7 ,6 - x s1' s1' s1' s1' q6 q0 s2' s4' s6' s4' q2' q0 s1' s1' s1' s1' q6 q0 s2' s4' s6' s4' q2' q0 1 - - 2 - - 6 q,6. s1 q,6 q5 q,6.
+s1 ,6 q,6 s6 s1 q2 q3 s3 s2 s1 s7 ,6 q,6. s1 3 q3 s2 s3 q5 q3 q6 s6 s6 s6 s5 q3 2 - q6. s6 q6 q6 q6 s6 s5 q3 q2 q2. s3 q5
+q3 q5 6 s5 s3 q2 q3 s3 s2 s1 s7 ,6 - 6 - - - q2. s3 q5 q3 q5 6 s5 s3 q2 q3 s3 s2 s1 s7 ,6 - q,6 s6 s6 ,6 q6 s6 s6
+6 q,6 s6 s6 ,6 q6 s6 s6 6 - 6 5 - 6 - - - 0 s3 s3 s3 s3 6 0 0 s3 s3 s3 s3 6 0 x q6 q0 0 0 0
+%END

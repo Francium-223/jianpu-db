@@ -1,0 +1,20 @@
+%在这个世界相遇.txt
+% 出处 http://www.jianpu.cn/
+title=在这个世界相遇
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-349081
+todo=add tags
+%--
+4/4
+subtitle=score
+3 2 5 1 2 q1 q2 q3 q2 q1 q2 q3 q5 5 0 0 q1 q2 q3 q6 q5 q3 q1 s6 2 0 0 4. q3 q5 4. 3. q2 q2. s3 ~ 3 q1 s6 s5
+1 q2 q3 q5 ~ q5 2. 0 0 q1 q2 q3 q2 q1 q2 q3 q6 q5 5. 0 0 q1 q2 q3 q6 q5 q3 q1 q6 2 0 0 4. q3 q5 4. 3. q2 q2. s3
+~ 3 q1 q6 q5 1 q1 q2 q3 q2 q5 ~ 5 0 0 q0 q3 q5 q6 1' 0 q2' q1' q7 7. 0 q3 q5 6 q0 q6 q1' q6 q5 5. q0 q3 q5 q6 1'
+0 q2' q1' q7. s7 ~ 7 0 q3 q5 6 q0 q6 q1' q6 2' 0 5 1' 5 6 5 5 q2 s2 s5 ~ 5 5 0 q0 q3 q5 q6 1' 0 q2' q1' q3'. s7
+~ 7 q0 q3 q3 q5 6 q0 q6 q6 q5 5. q0 q3 q3 q5 0 q2' q1' q5'. s3' ~ 3' q0 q5 q5 q6 1'. q1' 1'. q6 2' 1' q0 q1 q2 q3 5 0 q2'
+q1' 7 ~ 7
+%END

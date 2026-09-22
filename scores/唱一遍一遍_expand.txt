@@ -1,0 +1,22 @@
+%唱一遍一遍.txt
+% 出处 http://www.jianpu.cn/
+title=唱一遍一遍
+tag=费玉清
+usertag=费玉清
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-149081
+%--
+4/4
+subtitle=score
+q1 0 0 q4 x 4 x. 0 x 1 q,7 1 2 5 - - - q6 q5 q3 q2 3 q1 q,7 1 q1 q3 q2 q1 q,6 2 - - 0 5 - - - q3 q2'.
+q3 q2'. 3'. q2 q1 q2 q1 s1 d6 q,6 1 - q,6 q1 q1 q,6 1 q,6 q,5 q2 q1 q2 s2 s3 2 - q5 q5 s5 s3 q3 5'. q3 q2 q3 s3 s2 q1 q2 1
+- q3 s3 s2 q1 q,6 q1 q2 q3 q2 ~ 2 - - 0 q3 q2 q3 q2'. x'. q2 q1 q2 q1 s1 d6 q,6'. 1 - q,6 q1 q,6 1 q,6 q,5 q2 q2 q3'. 2 -
+q5 q5 s5 s3 q3 x'. q3 q2 q3 s3 s2 q1 q2 1 q3 q2 q3 q2 s1 s6 q6 q1 6 q5 5 - - - 5 q3 q5 q3 5 q5 q6 q5 q3 q2 3. q3
+q6'. q6 q5 q3. s2 q2'. q3 ~ 3 - - 0 q5 q5 q5 q3 5 q3 q5 q6'. q1' q6 s5 s3 3. q3 q2 q3'. q2 q1 q,6 q,6'. q2 ~ 2 - - 0 5 q3
+q5 q3 5 q5 q6 q5 q3 q2 3 q3 q6. q1 q6 q5 q3 q2 q2 q2 3 - - 0 q5 q5 q5 q3 5 q3 q5 q6. q1 q6 s5 s3 3. q3 q2 q3. q5. s3
+q2. 3 q6 5 q3 q5 q3 5 q5 q6 1 - 1 - 0 0 q6 q5 q3 q2 3. q3 q1' q6 q5 3 2 3 - - 5 q5 q5 q5 q3 5 q3 q5 q6. s1'
+q6 q5 3. q3 q2 q3 q5 q3 q2. s1 ,6 1 - - - q2 qx'. q2 q1 q1 6 q3 5 - - 0 q2 q3'. q5. s3 q2'. 3 q,6 1 - - 0 q5 q5 s5
+s3 q3 5 q3 q5 q6. q1 q6 s5 s3 3. q3 q2 q3. q5. s3 q2. 3 s6 1 - - - 1 - - 0
+%END

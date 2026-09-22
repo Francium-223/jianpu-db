@@ -1,0 +1,17 @@
+%就是我.txt
+% 出处 http://www.jianpu.cn/
+title=就是我
+tag=林俊杰
+usertag=林俊杰
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-72040
+%--
+4/4
+subtitle=score
+,1 ,1 1 1 1 1 ,7 1 1 1 1 1 1 ,1 ,7 1 1. 2. 2 1 2 1 2 x' 1 2 0 1 3 x 3 x 3 2 1 6' 1 1 1 ,5.
+,5 ,7 1 2 q1 5 2 1 0 ,5 0 ,6 ,7 1 2 1 ,5 5 q3 3 0 ,5 q0 q5 q,7 1 2 1 ,5 2' 1' 1 2' q1' ,7 0 0 0 0 ,7
+1 2 3 ,1 2 3 ,1 2 3 1 2 q3 2 1 2 3 1 q2 3 4 3 2 ,6 q3' q2' 2 - 3 1 2 3 ,1 2 3 1 2 3 4 3 2
+3 5 2 5 1 - 3 2 1 0 ,7 ,6 0 0 0
+%END

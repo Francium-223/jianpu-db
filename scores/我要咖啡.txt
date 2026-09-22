@@ -1,0 +1,17 @@
+%我要咖啡.txt
+% 出处 http://www.jianpu.cn/
+title=我要咖啡
+tag=邓丽君
+usertag=邓丽君
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-434010
+%--
+4/4
+subtitle=score
+q2 q,6 q,5 q,6 q0 q,5 0 q2 q,6 q,5 q,6 q0 q,5 1 0 - - - - - - 1. q1 q2 q,6 q,5 q,3 ,5 q,6 ,6 - q,6 ,6 3 q2 2 - - - 2
+q0 q3 3 2 q2 q1 q,6 q1 ,5 q,3 q,3 ,2 ,3 ,5 - - - q0 q,5 q,3 q,2 ,3 q,5 q,6 1. - 2 q2 s2 3 - 3 - q5 s3 s3 s3 s2 2 -
+- - 2 - 0 0 3. q2 q,6 q,5 q5 q3 q2 3 - q5 3 q2 q1 q,6 q,5 q,6 - - - 3. q2 q,6 q,5 q,6 - - - 1 q1 q2 q,6 q,5 q,6 q,5
+- q1 q2 q,6 q,5 q,6 q,5 q1 q1 q2 q,6 q1 q,5 q,6 q,5 1 - - -
+%END

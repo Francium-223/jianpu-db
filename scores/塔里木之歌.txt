@@ -1,0 +1,24 @@
+%塔里木之歌.txt
+% 出处 http://www.jianpu.cn/
+title=塔里木之歌
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-43922
+todo=add tags
+%--
+2/4
+subtitle=score
+d7 s1 s3 s2 3 s7 s1 s3 s2 3 s3 s4 q5 s4 s3 s2 s1 s2 s4 3 d7 s1 s2 s1 2 s7 s1 s2 s1 2 s7 s1 q3 s2 s1 s7 s6 s5 s6 ,7
+q6 q4 s0 s3 q3 s2 s3 s4 s0 d3 s3 s2 s1 s7 q6 s0 s3 s6 s3 s1 s7 q6 s0 s3 s6 s3 s1 s7 d6 d6 d0 d6 s6 s3 s6 s6' s1' d7 s1 d7'
+d6' ,6 s3 s3 s3' s1' s1 s1 s7' s1' s7' s6' ,6 d7 s1 q2 s2 s2 s1 ~ s1 s2' s1' ,7 d7 s1 q2 s2 s2 s1 s1 s2 s1 ,7 s3' s4' s3 s2 s7 s1
+q2 s7' s1' s2 s1 s7 s6 q7 s6' s7' s1 s7 s7 s6 s6 s4 s3 s2 ,3 - q6 s6 s6 s,5 s,6 s,5 s,4 d3 d2 s3' ,3 q6 s6 s6 d5' d6' d5 d4 s3' s2'
+,3 q1 s7 q7 s6 q5 s5 s6 s7 q7 s6 q5 s5 s6 q0 s7 s1 s3 s2' q3 ~ q3 s7 s1 s3' s2' q3 ~ q3 s2 s3 s4 s3' q4' ~ q4 s2 s3 s4' s3'
+q4 5 - 5 - q0 s4. s5 q4 q3 s3 s4 s3 s2 q1 q2 q0 s6 s7 q1 s2 s4 3 - 3 2 s1. d1 s1 s1 s7 s6 q5 ,6 q7 q1 s3 s2 3 s2
+s3 s4 s3 q4 4 s5 s4 s5 s4 s5 s6 s5 s4 q3 s4 s3 s4 s5 s4 s3 2 s3 s4 s5 s4 s3 s2 s1 s7 s6 s7 s2 s1 s7 s6 s5 s7 s6 q4 s3
+s2 s1 s2 s3 s3 s4 s5 s7 s6 s4 s5 s7 s6 q6 s6 q,6 x q,3. ,6 s7 s1 s2 q2' s1' s7' s2' s1' s7' ,6. s7 s1 s2 s2 s2 s1 s7' s2' s1' s7 ,6.
+s1' s2' s3 q3' s4' s3' s4' s3' s2' 2. s1 s2 s3 s3 s3 s4 s3' s4' s3' s2' 2 - q1 q2 3 3 q6 q7 1 1 0 0 q,3' q,6 q,7 s1 s2' q3 5 q4
+3. q2 3' - 3' - 3' - 3 -
+%END

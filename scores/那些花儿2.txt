@@ -1,0 +1,16 @@
+%那些花儿2.txt
+% 出处 http://www.jianpu.cn/
+title=那些花儿2
+tag=朴树
+usertag=朴树
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-213262
+%--
+4/4
+subtitle=score
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 x q,5 s,6 q2 s2' s3' s2 s2' ~ q2' q1 q,6 s1 s2' ~ q2' ,5 - q,5 q,6 s1 ~ q1' q2
+s2' s3' s1 s6' ~ q6' q5 q5 s4 s4' ~ s4' q3 s1 2 - q4 s3 s1 ~ q1' q3 q5 s3 s1 ~ q1' q2 q5 s3 s1' q2 s1 - q1 s,6 s,5' ~ s,5' s2'
+s3 s2' q2 s1 s2' ~ q2' q3 q3 s2 s1 ~ q1' q2 1 ~ q1'. s5 q3 s1 s3' ~ q3' s1 s2' ~ 2' q2'. s5
+%END

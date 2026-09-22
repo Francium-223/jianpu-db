@@ -1,0 +1,28 @@
+%贝斯谱_流行曲K.txt
+% 出处 https://www.qupu123.com/
+title=贝斯谱_流行曲K
+tag=分类/谱友上传
+usertag=分类/谱友上传
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=qupu123-397253
+todo=refine the filename
+%--
+4/4
+subtitle=score
+q6 0 s2 s3 s2 2 q0 s2 s3 q,3 q,5 s,5 s,3 s,3 s,3 q2 q2 1 q,5 s,5 s,3 q,5 q,6 ,6 q3 s5 s6 6 q0 s6 s5 x. - - - - q5 ,3. q,3 -
+1 - - s,x 0 - s3 x x' 5 qx' d,3 qx ,6 ,x' - 0 - - ,6. q6 q5 q6 q7. s5 q6 s5 ~ 5 0 q5 s5 s6 2 s0 q2 s3 s3 s5 q6
+s3 ~ q3 3. 0 q0 s3 q5 q5 s5 s3 q3 q6' q6 s5 q3'. 2 6 q6 s,6 0 0 0 s2 s3 s2 s2 2 q0 s2 s3 q,5 s,5 s,3 s3' q,5'. q,6 - - q2
+- q2 q1 q1 q,5 s,5 s3 s,3 q,5 q,6 x' ,6 0 q3 q3' s5 s6 6 0 q0 s6 s5 0 5 6 - q7. s5 s6 s5 s5 5 0 q5 q,3. q6 2 q,,1. s0 s1
+- q2 q3 s5 0 - q6 s3 q,3. q3 0 3. - 0 q0 s3 q5 s5 s5 s5 s3 q3 q6 q6 x. 6'. q1'. - q1 - s,7 q1. q1. - - - - 0 0 -
+- - 0 qx - 7 q,x - x q1 0 - 0 - - qx. 0 0 0 q2 0 x ,x' s1' qx' ,x. s6 q1 q6 - - - q3 q3 s2 s6 s,6 s,6 s2 s3
+s2 2 q0 s3 q,5 q,5 q,5 q,3 q2 s2 s3 0 q,5 s,5 s,3 q,5 q,6 ,6 q3 s5 s6 6 q0 s6 s5 6 q5 q6 q7. s5 q6 s5 5 0 q5 s5 s6 q,,2 2 s0
+q2 s3 s3 s5 q6 s3 q3 s,,3. 3. 0 0 q0 s3 q5 q6' q5 s5 s3 q3 q6 q6 s5 0 q3. q6 q6 s2 s3 s2 0 2 qx' q0 s2 s3 q,5 s,5 s,3 q,5 q,6
+q2 q2 q1 q1 q,5 q1' s,5 s,3 - - q,5 q,6 ,6 q3 s5 s6 6 q0 q0 s6 s5 x - - 3. s1 1. - - - x 1' 3'. s3 1 2 s1' s3 dx q1'
+s2. s1' h3' x x' ,5. - 0 ,6. dx s5 s5 - x 0 q,,6. 0 - ,6 5 q6'. q7. s5 s6 s5 s5 5 0 q5 q6 2 s0 0 q2 q3 s5 q6 s3 q3 3.
+0 q0 s3 q5 s5 s5 s5 s3 q3 q6 q6 6 q,6 1 x - x ,x'. q7. q7. - - - - - qx q1 - x s0 1 s1 - - - s0 q,5. q,,1. qx. -
+- - 0 - s0 - - x' x - sx 1 q,1 - s6. - 5 q3 q3 q2 s,6 s,6 s,6 s2 s3 s2 2 q0 s3 q,5 q,5 q,5 q,3 q2 s2 s3 q1 q,5 s,5' s,3'
+q,5 q,6 ,6 - 3. 6 - - - - q6 q7 s6 s3 5 - q5. d6 d5 q4 s3 s,x' 4 - q,5 5' 5 1' - x. s6 q7 ,7 - 0 6' 6' q,x' x'. -
+- - - - ,1. 6' - 0 0
+%END

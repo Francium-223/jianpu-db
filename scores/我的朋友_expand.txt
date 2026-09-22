@@ -1,0 +1,19 @@
+%我的朋友.txt
+% 出处 http://www.jianpu.cn/
+title=我的朋友
+tag=宋祖英
+usertag=宋祖英
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-55988
+%--
+4/4
+subtitle=score
+1 - - - x 0 x 1 ,x 1' q3 q5 q1 q7 q6 5. q2 q3 q1 q6 2 - q3 q5 q1 q7 6 q5 q3 5 - - q6 q7 5 - - - 5 -
+- - q3 q5 q1' q7 q6 s5 s6 q5 q3 q2 q3 s2 s3 s6' ,5 - q1 s1 q2 q3 s2 s1 ,6 q2 s6 s6 q5 q3 s2 s3 2 q3 q5 q1 q7 q6 s5 s6'
+q5 q3 q2. s3 q5 s5 d7 q,7 ,6 q1 q,6 q6 q5 3 q3 q2 q,6 1' - q1 7 q6 5 - q1 7 q6 5 - q3. s5 q6 q1 q2 7 q6 5 - - -
+q1 7 q6 5 - q2 1 q5 6 - q1 q,6 q6 q5 3 q3 q2 q,6. 1. 1 - q3' q2 q3' q2 q1 q7 q2' q1' q7 q6 q1 2 - q2' q1 q7 q2' q1 q7
+q6 q7 3 - 5 - q3' q2' q1 q3' q2' q1 q7 q2' q1 q7 q6 q1 2. q3 4. q5 q6 q1 q7 q6 5 - - - 2 1' 1'. x 1 - - - q1 q6
+q6 q5 3' - 3' - q2 q3 ,6 ~ ,6' - - 0 1' - - - 1 - - -
+%END

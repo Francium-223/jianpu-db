@@ -1,0 +1,19 @@
+%小星星广告版钢琴.txt
+% 出处 https://www.jianpujia.com/
+title=小星星广告版钢琴
+tag=分类/钢琴谱,分类/儿歌
+usertag=分类/钢琴谱,分类/儿歌
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-148698
+todo=refine the filename
+%--
+4/4
+subtitle=score
+1 1 5 5 6 6 5 - 4 5 4 3 5 3 2 2 3 1 - 1 - - - 4 - 3 - 2 - 1 - ,3 - ,6 - 5 q1 - - 6
+0 q1 - - 5 6 1 1 5 5 6 6 5 - 4 5 4 3 5 3 2 2 3 1 - ,4 - ,3 - ,7 - ,3 - ,5 - ,5 - ,5 - ,6
+- 1 6 - 5 - 3 - 0 6 q,6 7 3 ,6 3 3 ,7 2 5 6 6 1 5 - 0 0 0 0 0 0 0 0 6 3 1 5 3 7 4 1
+6 3 1 5 x 1 3 x 4 5 4 3 5 3 qx 2 7 5 2 4 3 3 1 - 1 1 5 5 6 6 5 - 2 6 4 1 6 3 0 5
+5 2 ,4 ,1 - 1 x - 5 - 4 - 5 -
+%END

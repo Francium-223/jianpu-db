@@ -1,0 +1,20 @@
+%小白杨.txt
+% 出处 https://www.qupu123.com/
+title=小白杨
+tag=分类/记谱
+usertag=分类/记谱
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=qupu123-382733
+%--
+2/4
+subtitle=score
+q1 q1 - - - - 6 6 6 6 - x x' x' ,1. q1' ,,x ,x' 3' s2' s1' 2' q3' q3. s5 s1'. d2 s6 s5 5. q6 s1. d2 s6 s5 q6. s1 q6 s5 s6
+s5 s3 q2 s1 s3 s5 s6 s2' s1 s2 s3' 5. q3' q2'. s3 s2'. d3' s5 s6 1' - q1. s6 q5 q5 s6 s5 s3 s2 1 - - q3. s5 s1. d2 s6 s5 q5. q5.
+s6 s6 s5 s3 s2 s3 x s1. d2 s6 s5 q6. s1 q6 s5 s6 - - 3 q5 s5 s6 s5 s3 s3 s2 2 - q3. s5 s5. d6 s5 s3 q2 1 s1 s2 q3. s5
+s1. d2 s6 s5 - - q6 s6 s5 3 s1. d2 s6 s5 q6. s1 q6 s5 s3 2 q5. s6 s5 s3 s2 s3 q2 1. 3. s2 s1 2. q3 q3. s5 s1. d2 s6 s5 5
+- s1. d2 s6 s5 q6. s1 q6 s5 s6 - - 3 q5. s6 s5 s3 s3 s2 2. q3 s5 s5 s5 s6 s5. d3 s2 s3 q2 1. 3. s2 s1 2. q3 - - q3. s5
+s1. d2 s6 s5 5 - s1'. d2 s6 s5 q6. s1 q6 s5 s6 3 s5 s5 s5 s6 s5 s3 s3 s2 2. q3 2'. q3 5 s6 s1 s2 s6 6 - 1 - 1' - 1'
+- 1' - 1' 0
+%END

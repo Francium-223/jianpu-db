@@ -1,0 +1,18 @@
+%一年又一年.txt
+% 出处 http://www.jianpu.cn/
+title=一年又一年
+tag=蔡琴
+usertag=蔡琴
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-59645
+%--
+2/4
+subtitle=score
+x ,5 x' qx h,1. q1 s1 s1' s1' q3 s1 sx s1' 1' q3' q3 d3 q3 s3 s3 3' 1 5 2' s5' 2. dx d2 q6 q1 d1 d1 q6 q1 q1' q6 q1 2 3' qx
+d6 q1' q,5 d1 q,5' ,2' q,6 s6 d6 s3' q1 q1 s5 ,5. d3' h,5 h3 q1 d,6 h2 q3 d,1 h1 q3 q1' q3' q2 q1 1 qx' 5' q2 q1 q1' h,1 1 d1 d,1 s,1' s,6
+d,1 d,6' 6' x q,6 s2 1 s0 s1' qx q3 q6 qx q5 s1 qx q1 q5 q1 3' 3' 3 q6 6. 3 6 3 3' h,,3' s,3' 3 s,,,2' q2'. 3'. 1'. d,1 3. 3' 3' 3
+q5 0 ,6 3 3 q2 q6 q2 q,2 q2 1 ,,1 3 q1 3 3 1' q2. s2 s1 ,6 d1 6' 1 s2 5' 5 5' ,5 s3 d6 s3 h1 ,3 s5 d3 q3 3 q5. q,,5
+q1' q1 d2 h3 q,6 q,1 1 q1 ,2. 2 - 1 s1 1 3 q1 3. s5 - s6 q5 1 q1 6 5. 0 - x. 1 q6 q6
+%END

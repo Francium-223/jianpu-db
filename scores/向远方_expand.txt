@@ -1,0 +1,22 @@
+%向远方.txt
+% 出处 https://www.qupu123.com/
+title=向远方
+tag=分类/美声
+usertag=分类/美声
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=qupu123-316041
+%--
+4/4
+subtitle=score
+1 - - 1 4 q2 4 qx - - 6 3 ,x x x x' 1 x x x 1 x x x 1' 1' q1 q2 q1 ,5 q1 2 3 5 q4 6 5 4 q3 q2
+4 3 q1 2 - 2 s2 3 s4 s5 6 7 1' s2' s1' 5 q1' s2' 3' 5' 4' 6' q5' s4' q3' q2' q4' 3' q1' s1' q2' q5 s1' q2' s1' s5 s1' ,1' s2' s5
+q1' q2' q1' q5 ,1' q1 s2 s1 ,5 1 s2 s3 5 q6 q6 s4 s5 6 5 - q2 2 6 q5 s5 q6 s4 s5 s2 q1 2 - - - 1 s2 s1 q5. s5 q1
+s2 s3 q5. s5 q6 q6 s4 s5 s6 s5 5 - q2 2 6 s5 s6 s4 s5 q2. s2 4. q5 q3. s1 2 1 - - 1 5 - - s4 s5 s6' s5' 5 - -
+- q4. s5 q3 s1 s5 q2 4 s3 s1 2 - - ,5 5 - - s4 s5 s6' s5' 5 - - - q2 1 q4. s5 q3 s1 s5 q1 1 q2 2 q4 q3. s1 2
+1 - - 0 5 - - s4 s5 s6 s5 5 - - 1 5 - - q4 q5 q2 q1 2 - - ,5 5 - - s4 s5 s6 s5 5 - - 5 4'. 5 3'.
+2' s1' s2' s5 q1' 2' s1' q5 q,1' s2' q5 s1' s2' s1' s5 1 - - 1 5 - - q4 s5 s6' 5 - - ,5 5 - - s7 s1' s1' s7 5 - - -
+q1 4' 4. s5 q3 s1 q5 q4 4 2 2 4 3. s1 2 1 - - - 2. q4 3 q4 q3 q3 q1 q2 2 - - - 1 1 - - - 1 - - -
+1 0 0 0
+%END

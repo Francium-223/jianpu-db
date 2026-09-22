@@ -1,0 +1,22 @@
+%love.txt
+% 出处 http://www.jianpu.cn/
+title=love
+tag=张学友
+usertag=张学友
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-75136
+%--
+4/4
+subtitle=score
+x q0 q1 q2. x 4' - q3 5 5 ,1. - 0 5 6 ,5. 5'. ,x 1 1' q1' 2' 2' - 3' x 3 - 3 - 2. q1 ~ q1 q1 ,6 1 2 3 -
+3 - 2 1 q1 q6 1 ,6 1 - 5. q3 q5. q6 q6 q1 s3 s3 q2 1 1. s1 1' - 5. 3 5. 6 ~ q6 q1 3 q3 q2 q1 q1 s2 3. q2 ~
+2 q1 q6 1. 1 q2 3. q2'. 2'. q,1 q1. 6 1 q2. q1 x 3 5 - 4 q3. 4' 2 - 3 - 5 - 7 1' 6 5 x 3 - 3 - 2. s1 ~
+q1 q1 q6 1 ,6 3 3 2. q1 q1 s1 q6 1 q2. s1 1' 5. 3 3. q2 2 q1 6 1. q1 2 3. 2 2 1 6 1 2. s1 1 - - - 4. q3
+~ 3 4 2 - 3 - 5 - 7. q1' 6 5 5 - - - x ,1. 1'. q0 1 2 3 5 5' ,3 5'. 6' 6' 1 x s2 x q3. q5 q5 q5 q6 1.
+q1 q2 q3 q5 q5 q6 q1' q1' q6 q5 ~ q5 q3 2. q1 q3 2 1 2 q3. s5 5 s5 s3 q5 6 q1 s2 3. q5 q5 q5 6 1. q1 q2 q3 q5 q5 q6
+q1 q1 q6 q5 q3 q3 5. s6' q3 q6 5 s0 s1 1 - - - 1' 5. q3 q5. s6 6 q1 q3 s3 q2 1 1 1 - 5. 3 5. q6 6 q1 q3 q3 q2
+q1 s1 q2 x 3 - 5 3. q2 q2 1 s6 1. s1 2 q3. s2 2 s1 s6 1 2 1 - - - q4 3 s4 2. 3 - 5 - ,,,7'. 1' 6 x 5 q5
+- x
+%END

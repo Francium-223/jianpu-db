@@ -1,0 +1,17 @@
+%我很想爱他_歌曲类.txt
+% 出处 http://www.jianpu.cn/
+title=我很想爱他 歌曲类
+tag=Twins
+usertag=Twins
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-114832
+%--
+4/4
+subtitle=score
+5 q1 1 0 2 2 q1 1 q0 2 x. q,1 4 - 0 q2 q,1 x. q0 q2 2 0 5 1 - 0 2 3. 1 1 - 0 7 1. q0 4 - 0 1 1.
+q0 q3 2 q2 1 0 2 1 s2 q1. 1 - 0 q0 q3 q3 s2 2 q4 q0 q1 q1 s1 ,x q1 q,7 q0 q0 q0 s0 s5 q5 4 0 1 1 1 2 3 2
+2 4 5 ,1 1 ,,1 7 7 ,1 7 6 0 q5 5 4 1 1 1 2 1 1 1. 1' 1 - - 0 1' 1 - - 0 4 5. q5 q5 q4 q3 q5. q5
+q4 q0 q2 q4 q1 q2 q2 q2 q1 q0 q,1 q2 q2 q2 q2 q1 s1 0 0 1 - - q3 q5 q4 q2 q1 q1 q2 q1 1' 1 - - 0
+%END

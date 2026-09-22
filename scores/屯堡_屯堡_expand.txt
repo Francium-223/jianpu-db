@@ -1,0 +1,17 @@
+%屯堡_屯堡.txt
+% 出处 https://www.qupu123.com/
+title=屯堡_屯堡
+tag=分类/合唱
+usertag=分类/合唱
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=qupu123-332510
+todo=refine the filename
+%--
+4/4
+subtitle=score
+3 ,3 - ,5. ,3 - 3 5 5 3 6 5 6 q1 2. 2 - ,3 - ,5. 0 ,7 - - - 2 3 3 ,5 ,1 7 ,6'. ,6' - - - q1 q1 q7 q7
+q6 0 q1 q7 q7 q0 q6 0 q2 q2 q7 q7 0 3 3 3 3 3 3 0 3 3 3 3 3 3 0 3 3 3 3 3 3 0 5 5 5 5 5 5
+0 5 5 5 5 5 5 0 5 5 5 5 5 5 0 0 0 0 ,3 ,3' ,3' 0 0 q,3 q,3' ,3' 0 0 6 6
+%END

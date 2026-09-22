@@ -1,0 +1,18 @@
+%贝格的新春.txt
+% 出处 http://www.jianpu.cn/
+title=贝格的新春
+tag=分类/提琴谱
+usertag=分类/提琴谱
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-149796
+%--
+4/4
+subtitle=score
+sx - - - - - - - - - 0 0 - - qx - x q0 - - - - - sx 0 - - - 0 - - - - - - - - - x -
+- - - - 0 1 x - - - 0 0 0 - d1 x' 1' - sx 0 qx' q3 0 q1 s1 x - - - - q,1 - - q,x x 1'. q1' q1 0 qx
+d,1 - s,1 q1 1. - s,3 - - s1 ,x x x - - 0 - q,x qx qx 1 ,1 q7 q,1 qx 1 s,1 q,1 7 s,1 s,,,x 1' s,x q,1. s,x q1 s1 s,1 1 1
+1' x. s,x - q1'. s,x q1'. q,1 q1'. x' q,x 1 s1 0 q,,1 ,x. x sx - 0 - x - - ,x qx - q,1' sx qx - - q1 1 1 dx. s,,1 q1' s1 q,1
+q1' q1 3' x 3' 1
+%END

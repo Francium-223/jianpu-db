@@ -1,0 +1,23 @@
+%永恒长调.txt
+% 出处 http://www.jianpu.cn/
+title=永恒长调
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-444329
+todo=add tags
+%--
+4/4
+subtitle=score
+1 - - - ,x q1 q1 1' ,,1 qx - - 1 2 1 - 6 - q6 q3' q1' s2' s1' 6 - - s1 s2 s3 s5 6 - q6 q1' s6 s1' q5 3 - -
+s3 s5 s6 s1' q2 q2 q2 q2 q2 q2 q2 q6 q1 s2 s3 q2 q2 q2 q2 q2 q2 q2 q3 s2 s3 q5 5. q3 q5 q6 q2 q1 6 - - - q3 q5 q6 s5
+s6 q1 q1 ,6 q2 q3 q6 q1' 5 - q3 q5 s6 ~ s6 s5 s6 q1 q1 q0 s6 2 - - - q2 q3 q5 s6 s5 3 - q1 s2 s3 q2 s1 s6 ,6 -
+q0 s6 s1 q2 q3 q5 q6 q1' q6 2' - q2'. s2' q1' s6 s5 5 - - - q3 q5 q6 s5 s6 q1 s1 s1 ,6 q2 q3 q6 q1' 5 - q3 q5 s6 s6 s5
+s6 1 q0 q,6 2 - - - q2 q3 q5 s6 s5 3 - q1 q3 q2 s1 d6 ,6 - q0 s6 s1 q2 q3 q5 s6 s5 3 q0 s2 s3 q5 q6 q1' s2' s1' 6
+q0 s5 s5 q6 s5 s3 q5 q6 q1' s0 s1' s6 s1 s1 q2 s3 s5 q6 s5 s3 ~ 3 q0 s2 s3 q5 q6 q1' s2' s1' 6 q0 s5 s5 q6 s5 s3 q5 s6 s1'
+1' q6 q1' 2' - q2' s1' s6 s1' s2' q2' ~ 2' - - 1'. s1' s2' q3' s2' s3' q2' q1' q6 q2' q1' s6 s5 5 - - q5 s6 s1' q6 q5 3 - q5 d6
+s1' q6 q5 3 q2 s3 6 1' - 5 - - - 1'. s1' s2' q3' s2' s3' q2' q1' q6 q2' q1' s6 s5 5 - - q5 s6 s1' q6 s5 s3 3 - q5 s6 s1'
+q6 s5 s3 3 q5 q6 2' - - s2' s3' s2' s1' 1' 1' - - - 1' 1' - - - 1' - - 0
+%END

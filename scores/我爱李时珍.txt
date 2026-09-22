@@ -1,0 +1,18 @@
+%我爱李时珍.txt
+% 出处 http://www.jianpu.cn/
+title=我爱李时珍
+tag=张也
+usertag=张也
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-211654
+%--
+4/4
+subtitle=score
+1 qx q1. - x 1'. x' q3. s1 s6 d1 d6 1 q,6 s5 s6 s1 s2 s6 s5 3 - q5 s6 s5 q3. s1 s6 s5 s6 s3 2 s5 q3 s5 s2 s3 q,6 1 -
+q3 s2 s1 q,6 s5 s6 1 - q1 s1 s2 q1 q,3 ,5 - q3 s2 s1 q,6 q,5 q5 q2 3 q,5 q5 s5 s3 s2 s1 2 - q3 s2 s3 q5 q2 1 - q2 s2
+s3 q2 q,5 ,6 - q,5 s5 s6 q,3 q,5 q5 q2 3 q2 q,7 q,6 s5 s6 1 - q5. s5 s6 s5 q3 5 - q6. s5 s3 s2 q1 2 - s2 s3 s5 s2 3 s7
+s6 s5 s6 1 s6 s6 s5 s6 s1 s6 s1 s6 5 - - - 5 s6 s5 q3 5 - q6. s5 s3 s2 q1 2 - s2 s1 s2 s3 5 s7 s6 s2 s3 ,6 s7
+s7 s6 s7 q,5 q,6 1 - q1 q,5. d3 q,5 q,6 1 q5 q3 2 2 - 1 - - - 1 - - -
+%END

@@ -1,0 +1,16 @@
+%叮当叮当闹钟响.txt
+% 出处 https://www.qupu123.com/
+title=叮当叮当闹钟响
+tag=分类/儿歌
+usertag=分类/儿歌
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=qupu123-88860
+%--
+2/4
+subtitle=score
+x 0 0 - 0 2 3 - 2 2 5 1 6 5 6 x q2 q1 ,6 - 3 6 0 6 6 0 2 3 - 6 2 q1 - 6 0 6 q0 5 2 q0
+1 7 5 - 0 6 5 6 3 2 - 2 q2 0 q2 2 0 - 2 2 0 7 5 6 - 7 - 7 5 - 6 6 - 6 - 6 x 0 5 0
+x
+%END

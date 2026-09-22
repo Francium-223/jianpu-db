@@ -1,0 +1,20 @@
+%小微.txt
+% 出处 http://www.jianpu.cn/
+title=小微
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-87230
+todo=add tags
+%--
+4/4
+subtitle=score
+x q5 q6 3' s5'. s3' s2' 3' q3' s2' q2' s2' q2' q1' 6. s1' 0 q3'. q2' s2' s6 q3'. q2' s2' s6 5 - - q5 q6 - q0 ,2' ,3' 5' 1' 2' q3' q2' 1'
+1' q1' q1' 3' - 0 ,2' 3' 2' s1' s1' ~ 1' 0 s6 s6'. s2' s3' 2' - q1' q1' q1' q6 2' - 0 q1' 3 - 0 s5' q2'. s1' q2'. s1' ~ 1' 0 q6
+q3' q3'. q2' ~ 2' q1' s1' s1' q1' q6 q1' q1' ~ 1' 0 q1' s7 s6 6. s6 s5 q6 s5 q1' q1' q6 6 0 s1' s2'. s2' s3' 2 0 q2' q6 q2' s6 5 -
+0 q1' q1' q3'. q3' s1' s1' s5' 3'. s1' s1' q2' q2' ~ 2' q0 s1' s6 q6 ~ q6 q1. q1' ~ 1' - - 0 0 0 x q5 q6 3' s5' s3'. s1' s1' 3' q3'
+d3' s2' d1' q2' s2' s3' q2' 6 s0 s5 s6' q3' q2' s2' s6 q3' q2 q6 5 - q5 q6 - q0 s2' s3' s5' s1' s2' s2' q3'. q2' q1' ~ 1' ~ ,1' 1' q5' 1'
+- ,7 ,6 q1' q1' ~ 1' - x q5 q6 3' 5'. 3' 2' 3' 3'. q3' 2' q,1'
+%END

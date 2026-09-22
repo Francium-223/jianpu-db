@@ -1,0 +1,18 @@
+%幸福泉.txt
+% 出处 http://www.jianpu.cn/
+title=幸福泉
+tag=张也
+usertag=张也
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-49005
+%--
+4/4
+subtitle=score
+q6 q1 q6 5. q6 q5 q6 6 - - q6 q1 q6 5. q6 q5 q3 3 - - q5 q1 q6 q5 q6 2. q3 q2 q3 q5 q6 q6 q5 q5 q3 3 - q2 q3 q5
+q3 q2 2 q3 q3 q,6 ,6 - - q6 q1' q6 5 q3 q5 6 5 3 - q2 q3 q2 q3 q5 q3 2 q2 q3 q2 ,6 1 q3 5. 5 - q1 q6 q1 q6 5
+q3 q5 6 5 3 - q2. q3 2 q3 q5 q3 2 q2 2 q3 q5 q6 s6 6 - - - q6 q6 5 q3 q5 6 5 3 - q2 q3 q2 q3 q5 q3 2 q2
+q3 q2 q1 ,6 1 q3 5. 5 - q1 q6 q1 q6 5 q3 q5 6 5 3 - q2. s3 q2 q3 q5 q3 2 q2 2 q3 q5 q6 q1. s6 6 - - - q2. s3
+q2 q3 q5 q3 2 q2 2 q3 5 7 - - q5 q3 6 - - - 6 - - 0
+%END

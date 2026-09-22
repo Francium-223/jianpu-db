@@ -1,0 +1,17 @@
+%一剪梅_歌曲类.txt
+% 出处 http://www.jianpu.cn/
+title=一剪梅 歌曲类
+tag=费玉清
+usertag=费玉清
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-114895
+%--
+4/4
+subtitle=score
+q7 q0 q5 3 q0 q1 2 2 q3 q2 1 2 1 7 x x 6 0 3 2 1 7 1 7 5 0 x 1 6 1 2 2 x 3 5 3 2 3 - -
+3 3 5 6 5 3 2. 1 1 2 3 2 3 ,x 7 7 6 5 7 0 0 3 7 1 7 1. ,6 0 0 6 - - - x 3 6 5 6 3 5
+3 5 6 5 2 2 3 5 3 2 3. q7 q0 q5 q6 0 q7 q6 q5 q6 0 q6 q0 q2 3' 6 0 6 q6 q3 q6 0 2 2 3 3 2 3 7 0
+0 0 0 7 6 0 0 0 3 2 3 3 2 3 3 q3 q3 q3 q3 q3 5 5 ,6 ,6 0
+%END

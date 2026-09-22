@@ -1,0 +1,17 @@
+%最近比较烦_歌曲类.txt
+% 出处 http://www.jianpu.cn/
+title=最近比较烦 歌曲类
+tag=李宗盛
+usertag=李宗盛
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-114800
+%--
+4/4
+subtitle=score
+3 2 1 6 1 x' 5 3 5' 5' 5 0 1 0 1' 1' 0 5 5 2 q2 q1 q1 0 q1 q1 q2 q2 1 q0 q3 q3 q3 q4 6 q5 7 q1 x 5
+5 5 5 5 1' 0 0 0 7 q1 q1' ~ q1' q3 q2 q1' ~ 1' 6 2 q3 q2 1 0 ,6 6 3 ,6 6 6 1 q1 q0 q5 q3 q2 x x x 1
+1 q1 q0 ,3 x 1 q1 1 6 1 1 2 2 1 0 3 0 4 5 5 5 3 3 2 2 1 2 0 6 5 0 1 1 1 1 1 0 2 5 0
+3 2 1 6
+%END

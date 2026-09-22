@@ -1,0 +1,22 @@
+%盲点.txt
+% 出处 http://www.jianpu.cn/
+title=盲点
+tag=邓紫棋
+usertag=邓紫棋
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-308485
+%--
+4/4
+subtitle=score
+q0 q4 q4 q4 q4 q3 q5 q4 q3 q3 ~ 3 0 0 q0 q4 q4 q4 q4 q5 q4 q3 ~ 3 - 0 0 q0 q6 q6 q6 q6 q5 q3 q2 q2 q3 ~ 3 0
+0 q0 q4 q4 q4 q4 q5 q4 q3 ~ 3 - 0 0 q0 q4 q4 q4 q4 q3 q5 q4 q3 q3 ~ 3 - 0 q0 q4 q4 q4 q4 q5 q4 q3 ~ 3 - 0
+0 q0 q6 q6 q6 q6 q5 q3 q2 ~ q2 q3 ~ 3 0 s6 q1 ~ q1 q1 q1 q3 q2 s3 s2 q1 q1 1 0 q0 q1 q1 q1' q1' q7 q6 q0 q1 q1 q1'
+q7 q5 q3 q2 q0 q1 q1 q1' q1' s7 s1' q1' q6 q1' s7 s1' q5 q3 q2 q1 q2 q0 q1 q1 q1' q1' q7 q1' q6 q0 q1 q1 q1' q7 q1' q2' q1' q0 q1 q2
+q3 q5 q6 q3 s2 s5 ~ q5 q6 q3 q2 2 q0 q2 q3 q2 q1 q1 1 - 0 0 - - - - - 2 q0 q2 q3 q2 q1 q6 q0 q3 q6 s3 s6 q6
+q7 q1 q7 x q5 q5 q0 q3 q7 q1 q2 q1 q7 7 q6 q6 q3 q2. q2 q2' s1 d,6 q0 q,6 q6 q5 q3 q2 q0 q1 q1 q,6 q1 q2 q3 q3 ~ 3 q0 q,6
+q6 q5 q3 q6 q0 q5 q5 s5 s5 ~ q5 q6 q7 q7 7 q6 q7 7 q6 q1' 1' - q0 q1' q7 q1' q7 q5 q3 q2 q0 q6 qx'. q1' 1' - q0 q1' s1' s5
+q5 q3' q2' q1' q2' q0 q6 q1'. q1' 1' - q0 q1' q7 q1' q7 q1' q2' q1' q0 q1 q2 q3 q5 q6 q3 s2 s5 ~ q5 q6 q3 q2 ~ 2 q0 q2 q3 q2 q1
+q1 ~ 1 - 0 0
+%END

@@ -1,0 +1,20 @@
+%游仙吟.txt
+% 出处 https://www.qupu123.com/
+title=游仙吟
+tag=分类/通俗歌曲
+usertag=分类/通俗歌曲
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=qupu123-394515
+%--
+4/4
+subtitle=score
+3 q3 q2 2 q6 q3 q2 q3 q5 q2 q3 q2 3 q3 q2 2 q6 q1 q2 q3 3 3 q3 q2 2 q6 q5 q6 q7 q6 q2 q3 q6 ,6 ,6 q3 q2 q2 q1 q1
+q,6 q,6 q,5 ~ q,5 q,6 ~ ,6 q3 q5 q6 q5 q5 q3 q3 2 q3 ~ 3 0 q3 q5 q6 s5 s5 ~ q5 q3 q3 q2 q3 q5 q6 s5 s5 ~ q5 q2 q2 q1
+q,6 q,7 q1. s1 ~ q1 q3 2 s7 s6 q,6 ~ ,6 0 q3 q2 q2 q1 q1 q,6 q,6 q,5 ~ q,5 q,6 ~ ,6 q3 q5 q6 q5 q5 q3 q3 2 q3 ~ 3 0 q3
+q5 q6 s5 s5 ~ q5 q3 q3 q2 q3 q5 q6 s5 s5 ~ q5 q2 q2 q1 q,6 q,7 q1. s1 ~ q1 q3 2 s7 s6 q,6 ~ ,6 0 q3 q5 q6. s6 q1' q1' q7
+q5 q5 q5 ~ q5 q6 ~ 6 q3 q5 q6 6 q1' q2' q7 q7 q5 q3 q3 ~ 3 q6 q1 q2. s2 ~ q2 s2 s3 2 q,6 q1 q2. s2 ~ q2 s2 s3 2 q,6
+q1 q2. s2 q2 q3 q5 q3 q2 q1 q,6 q,6 ~ ,6 3. q2 2 3. q2 2 3. q2 2 q5 q2 q2 q3 ~ 3 3. q2 2 3. q2 2 3. q2 2 q1 q,6 ~
+q,6 q,6 ~ ,6 3 ,6 3 ,7 3 ,6 3 ,6 6 5 6 q2. s2 ~ q2 s2 s3 2 q3 q5 q6 q5 q3 q5 q6 q5 ~ q5 q6 ~ 6 6 0 0 0
+%END

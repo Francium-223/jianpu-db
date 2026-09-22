@@ -1,0 +1,23 @@
+%缺___个人.txt
+% 出处 https://www.jianpujia.com/
+title=缺___个人
+tag=分类/主题曲
+usertag=分类/主题曲
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-395598
+todo=refine the filename
+%--
+4/4
+subtitle=score
+x. x. x. x q,3 q,4 1. q1 q,3 ,4. 2. q,3 q,4 q,1 q,2 3. 1 s,1 ,6 q0 x. x. x. x. x. q3 q4 q5 2. q5 s1 s7 ,1 s,1 s,6 q,1 s4 - s1 s4
+1 - - q,3 q,4 ,5 q,5 s1 s1 0 q,3 q,4 s2 s2 0 q,3 q,4 s3 s2 q0 q2 q2 q1 q2 q3 3 0 q3 q2 q2 q1 q1 q,6 1 q0 q,6 x. 0 ,x' ,3
+qx. x s1 s1 0 ,5 q2. s3 s2 s2 q1 0 4 3 q3 q3 4 3 0 2 q1 ,6 ,5 0 q,3 q,4 q,4 ,5 ,5 1 1 q,,3 q,4 ,5 ,5 x 1 q,5 s2 s2
+0 q,3 q,3 ,4 q,4' ,5 3 q3 q2 2 2 q1 q2' 2 3 4' 3' q3. 0 q0 q0 ,6 h3 s3 h4 s4 s3 q4 d3 q3 d2 h2 s2 h2 s2 2 2 s0 q0 -
+x ,x x x. ,3' q3 q0 q6 0 q1 x s5 - - s3 q2 s3. s2 q1 q1 q0 d6 s6 q4 q3 q3. s2 s2 q2 q1 s1 s4. q5 - 0 s3 s4 x. x qx.
+x. 1. x. q,4 5. s5. s5 s5 s5 2 2 q5 q5 s6 q7. q1' s7 s6. - s5 5 qx' q6 s,,6 s6 s6 6. s3 s3 s2 s2 s2 q1 q1. q,1. q2 s1 s2 s2 q3.
+s2 2 s3 sx q1' q5 s5 s5 s5 q3. q2 s5 s6 s6 q7. q1' s7 s6 s6. q3. q6' - s5 5 5 1 q2 q,1 s2 0 x 3 x. 2 2 q,,x x 1 x x
+x. x 1 x qx. x. x 1 q6 s6 s6 q6 q6 q5. s3. s2 s2 q1 q2 q1 q2 s2. s2 q3 3 - 3 q0 s1 s2 3 q0 s1. s2 3 q6 0 q4 q4 q4
+s4. s5 q2 q1 s1 s1 q2 q1 1 0 0 6 5 4 3 3 q,6 q,1 ,7 q,3 q,4
+%END

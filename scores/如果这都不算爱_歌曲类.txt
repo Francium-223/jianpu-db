@@ -1,0 +1,16 @@
+%如果这都不算爱_歌曲类.txt
+% 出处 http://www.jianpu.cn/
+title=如果这都不算爱 歌曲类
+tag=张学友
+usertag=张学友
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-114171
+%--
+4/4
+subtitle=score
+3 2 2 1 1 7 7 6 ,6 6 7 1 4 ,4 ,4 4 4 0 5 5 4 4 3 3 7 ,7 ,7 1 2 4 3 3 3 3 2. 1 1 7 0 0
+6 1' 7 7 7 7 3 ~ 3 0 5 0 5 5 1' ~ 1' ~ 1 1 4 3 2' ~ 2' 1 2 3' - 3' 2' 1' 7 7 - 3 5. ,x x 3
+3 3
+%END

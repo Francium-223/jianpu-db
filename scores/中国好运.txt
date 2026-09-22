@@ -1,0 +1,22 @@
+%中国好运.txt
+% 出处 http://www.jianpu.cn/
+title=中国好运
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-40277
+todo=add tags
+%--
+4/4
+subtitle=score
+- - - x x 0 x 5 5 5 5 q5. s5 q5 q5' q6' q5 q2' q5' q5'. s5' q5' q5 q6' q5' q2' q5 q1'. q1 q1' q2' q1 q6 q1 q1. s1 q1 q1 q2' q1'
+6 q5 q5 q6 q1 q2' q1' 6 5 - - - 5 - q3 q2 q3 q2 1 6 - - 5 - q3. s2 q1 q6 2 - - 5 5 - q3 q2 q2 q1 1 6
+- 5 5 - q3 q2 q1 q6 2 - - - 5 q3 q5 6. q1 q5 q5 q6 q5 2 - 5 q3 q5 6 q2 q2 q3 q6 2 - 2 q1 q2 5 q3 q2 q5
+q3 q2 1 - 0 6 1 2 3 - 6 - 6 - - 6 1 q0 q2 3 2 2 - - - 2 - - - 5 - - 5 4. q5 6 2 5 - -
+- 5 - - - 5 - - 5 4. q5 6 5 2 - - - 2 - - - 5 q2. s5 2 1 2 - - 1 6 2 - 6 - - - 5. q5 4
+5 6 - 1 2 6 - - - 6 - - - 0 4 4 5 6 - 2 - 5 5 5 5' q5'. s5' q5 q5 q6' q5 q2' q5 q5. s5 q5 q5 q6' q5 q2'
+q5'. - - - - - - - - - - - - - x. 0 2 4 2 6 - - - 2 - - - 5 - - - 5 - - - 5 - - - 5
+- - - 5' 0 0 0
+%END

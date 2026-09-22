@@ -1,0 +1,20 @@
+%红树林之歌.txt
+% 出处 http://www.jianpu.cn/
+title=红树林之歌
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-318105
+todo=add tags
+%--
+4/4
+subtitle=score
+q0 q3 q5 q6 1' - q1' q3' q2' s2' 5 - q5 q6 q5 q6 q5 1 q3 q2 q1 ,6 q0 q,5 q6 q1 5 3 q2 1 q2 q3 2 q1 q,6 1 - - - 1
+- q0 q3' q5'. q3' 5' - - - 5' - - - 3' s3'. s2'. s3' s4' - q5' q5' q5' q6' q5'. q3' 3' q0 q2' q2'. q3' 1. 1'. q2' 3' - - - q0 q6 q2'
+q3'. s5' 3' q0 q2' q3' q5' 1' q2' - - - q0 s6 s6 q5 q3 q5. s6 q0 s6 s6 q5 q3 q5. s6 q0 q6 q6 q5 q2' s2' 3' q0 s2' q2' q2' q3' q2' s3'
+q5'. q5' q3' 5' s3' q5' 6'. q5' q6' 5' - - - q5' q6' q5' q3' q5' q2'. q2' q2' q3' x q5' q5' q6' q5' q3' 3' q0 q2' q2' q3' 1' q2' 3' - - - q0
+q6 q1' q2' q3'. q5' 3' q0 q2' q3' q5' 1' q6' 1' - - - q0 q6 q5 q3 q5'. q6' q0 q6 q2'. q3' 2' q0 s2' s2' q6 s2' q3' q3' q0 q2' q2' q3' s2' s3'
+5' q0 s5' s5' q3' q5' q6' q6' q5' q6'
+%END

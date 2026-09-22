@@ -1,0 +1,20 @@
+%故园情_根据原唱标注和声.txt
+% 出处 http://www.jianpu.cn/
+title=故园情 根据原唱标注和声
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-313194
+todo=add tags,refine the filename
+%--
+4/4
+subtitle=score
+q1' q1' q7 q7 q6 q6 q5 q5 q6 q7 q3 7 - - q4 q6 q5 q5 q4 q4 q5 q5 q6 q6 q2 6 - - q5 q5 q4 q3 q3 q2 q2 q,7 q,6 q,5 5 -
+- - q0 ,7 q,3 q,5 q,5 q,6 q,7 q,3 q0 q,6 2 3 4 5 6 2 - - - q5 q3 q6 q5 q5 q4 q4 q3 q2 q,6 - q,7 q,6 q,5 5 q3 6 q7 s5
+s3 3 - - - q6 q6 q5 6 s5 s6 q5 q4 q4 q3 q3 q2 ,6 - 0 q,6 q,7 q,7 5 s4 s5 q4 q3 q3 q2 s,6 q,7. ,5 - 0 q,5 q,6 3. s2 s3
+q5 q2 q2 q3 q2 s1 s,6 1 - q,5 q,6 s3 s3 3 s2 s3 q5 q2 q2 s2 s3 q2 q,6 1 - q,7 s,6 s,6 2. q3 5 q,7 s,6 s,7 q,6 q,5 ,5 - - q2
+q7 q6 q7 q2 3. s7 s6 5. q3 q7 q6 q5 q6 q7 q7 q1 1'. q3 3 - q6. s5 q5 q6 5 q4 q3 2 - ,6 - q,5 q,6 q,7 q5 q4 q3 2 q3 3.
+2 q1 q,6 5 - - 5. 1 - - - q,5 q,6 q,7 q5 q4 q3 2 q3 3. 5 q6 - - - - - -
+%END

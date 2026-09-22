@@ -1,0 +1,21 @@
+%中国忘不了你.txt
+% 出处 http://www.jianpu.cn/
+title=中国忘不了你
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-437729
+todo=add tags
+%--
+4/4
+subtitle=score
+qx q1 - - - - 6 4 1 1 1'. q,5 q,6 3. q5 q2 q3 q2 q,6 1 - q1 q2 3. q5 q6 q3 q1 q,6 2 - q5 q6 3' - q3' q2' q1' q7 6
+- q6 q1' 5. q4 3 q2 q3 1 - q5 q6 3. q5 q2 s2 s2 q1 q2 1 - q3 q5 6. q6 q6 s6 s6 q5 q6 5 - q5 q6 1'. q7 q6 q3 s5 s5
+s6 s5 2 - q2 q3 q5 5 q3 s2 s2 s2 s2 q2 q3 1 - q3 q5 1'. q2' q1' q7 q6 q3 s5 s6 5. ~ 5 q5 q6 6. q5 q6 q6 s6 s6 s1' ~
+s1' 2' - - q5 q6 q3' 3'. q2' q3' q1' q6 s2 s3 2. 2 q6 q1 2. q3 q2 q3 q1 q6 5 - - q5 q6 q3 3. q2 q3 q1 q6 s2 s3 2. 2 q6
+q1 q2' 2' q3' 2' q1' s1' s2' 1' q5 q6 3'. q2' q1' q7 6 - - q6 q1' 1 - - q5 q6 q3 3. q2 q3 q1 q6 s2 s3 2. 2 q6 q1 2. q3 q2
+q3 q1 q6 5 - q5 q6 q3 3. q2 q5 q1 q6 s2 s3 2. 2 q6 q1 2. q3 2 q1 q2 1 - - - - 2'. q1' 2' - 5' - - - 1' - -
+- 1' - 0
+%END

@@ -1,0 +1,19 @@
+%大爱有声.txt
+% 出处 http://www.jianpu.cn/
+title=大爱有声
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-306562
+todo=add tags
+%--
+4/4
+subtitle=score
+q,5 q,6 q1 q2 3 q2 q1 2. q1 ,6 - q,5 q,6 q1 q2 3 q3 q1 2 - - - q,5 q,6 q1 q2 3 5 6. q3 2 - 5. q2 1 q2 q3 4 - 6
+5 2 - - - 2 - - - q,5 q,6 q1 q2 3 q2 q1 2. q1 ,6 - q,5 q,6 q1 q2 3 1 2 - - - q,5 q,6 q1 q2 3 q2 q1 2. q1 ,6
+- ,5 3 2. q,6 1 - - - 1 - - q3 q4 1 - - - 1 0 0 q3 q4 5. q6 5 q3 q5 6. q1 6 q6 q3 q2 q3 q2 q6 1 2 3
+- - q3 q4 5. q6 5 q5 q5 6. q5 3. s2 s3 q2 ~ q2 q2 q1 s,6 q1 q2 q3 5 - - - 5 - - - 5 - - 0 1 - - - q,5
+q,6 q1 q2 3 q2 q1 2. q1 ,6 - ,5 3 5 6 5 - - - 5 - - - 5 - 0 0
+%END

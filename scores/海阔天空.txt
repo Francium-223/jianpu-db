@@ -1,0 +1,21 @@
+%海阔天空.txt
+% 出处 http://www.jianpu.cn/
+title=海阔天空
+tag=Beyond
+usertag=Beyond
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-172610
+%--
+4/4
+subtitle=score
+x 0 sx' 0 x' h1 0 x q3 q2 1 x' h1 q,x' q0 s2 s3 q5 h1 s5 h1' s5 s1 q1' q5 q6 5 h1 x' q0 qx' sx' s6 s7 q1' h1 hx' q1' q7 s6
+q5 h6 h6 s6' x' 1 ,x' 6' h1 hx sx 1' 1 s1 6' hx q1' 1' hx q6 q6 d6 q5 q5. sx' q5 s3' s2 q1' q3 q4 q3 q1 q2 sx q2 h1 s3 s2 2
+q3 s2 s2 q2' h1 q1 q1 hx q1' q1 q1' s1 s1 1 q2 q1 1 1 h,x' q3 q2 1 qx h,,,x q0 q6 q7 q1' h1 s1' h1 hx h6 h1 q1' q7 h1' q6 q1' s5
+q5. q5 q3' q3' q,x' q2' 1 x s0 h1 h1 s,1' s1' q1' s1' s2' d3' q2' dx' h1 q2' q2' s3' 3' s2' h2' q3'. s2' 1' 1'. h0 q0 h1 h1 h1' d1 q1 h1' s,1' dx'
+h1' s1' h1' h1' d1' s1' h1' q2' q2' s1' s2' q1' h1 d2' q2' h1 h1 s3' q0 h5 h1 3'. d1' q1' q1 s1' q3' q3' h1 q3' qx' q1' h1 q2' q2' d1 2'. q1' d1' h3
+h3 q1' s1'. q3' 1 hx hx hx 1' h0 q1 h1' q1 q1' h,1 h1' h1 h1' h1 d1' d1' s1' h1 h1' q1' q0 d2' s6 d2' d1' s7 hx 1' s1' h1' s1' h1' s1' q1' h1'
+h1 d1' s1' d1' d1 d1' h1' d1' s1' h1' h3 q1' q7 h7 q1' h1' q3' hx q6 q3' h1 s5 sx' hx' q5. h0 5 s1' s6' h1' q1 h,1' s3' h1' d6' q3 h1 s1' q2 q1'
+q1 q1 1 1 q1 q1' hx' hx
+%END

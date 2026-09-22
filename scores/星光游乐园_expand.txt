@@ -1,0 +1,16 @@
+%星光游乐园.txt
+% 出处 http://www.jianpu.cn/
+title=星光游乐园
+tag=Twins
+usertag=Twins
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-63151
+%--
+4/4
+subtitle=score
+x 1' 1' 0 q1 q2 q,2 3 q3 d1 q0 0 q3 s1 q1 q1 q2' s2' q3 q2. q2 q3 s1 q3 q1' q3 q2 q1 q1 x 2 x' 1' 0 2 2 3 q3 q1 s1
+q1 s1 sx s1. q1' s1' q1 s1'. q1' qx q6' q6' q5 5 q3 q3 5 q1 x' q7 q1' q3 q3 q5 q5 - 0 3 q6 s5 q5 d3 3 q3 5 6' q5 q5 s1 s1
+s1 q1 s1 q1 q1' q5 q5 q5' q6 6 q5 2' 2' - q5 q2' q2' q2' q5
+%END

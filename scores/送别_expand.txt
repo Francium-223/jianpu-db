@@ -1,0 +1,18 @@
+%送别.txt
+% 出处 https://www.qupu123.com/
+title=送别
+tag=分类/通俗歌曲
+usertag=分类/通俗歌曲
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=qupu123-381279
+%--
+4/4
+subtitle=score
+x 5 q3 q5 1. q7 6 1 5 - 5 q2 q3 4. q7 1 - - 0 x 5 3 5 1 - 6 1 6 5 - 5 1 2 3 2 1 2 - - 0
+5 q3 q5 1. q7 6 1 5 - 5 q2 q3 4. q7 1 - - 0 x x. - - x 6 1 1' - 7 q6 q7 1' - q6 q7 q1' q6 q6 q5 q3 q1
+x 4 6 6 - 5 4 5 6 - 4 5 6 5 4 3 2 1 2 - - - 5 3 5 1. 7 6 1 5 - 5 2 3 4. 7 1 - - 0
+x 7 - - - 3 q1 q3 5. q5 4 6 3 - 2 q7 q1 2. q2 1 - - 0 5 q2 q3 4. q,7 1 - - 0 5 q2 q3 x 4' 4. q,7 1
+- - 0 2 q,7 q1 2. q2 1 - - 0 2 q,7 q1 2. q2 1 1 - - - - 0 0
+%END

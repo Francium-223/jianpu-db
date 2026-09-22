@@ -1,0 +1,20 @@
+%锦绣中国.txt
+% 出处 http://www.jianpu.cn/
+title=锦绣中国
+tag=宋祖英
+usertag=宋祖英
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-238779
+%--
+4/4
+subtitle=score
+1 - - 0 x x 1 3' s2' s1' s0 q7 s1' q7 q5 5' - - - 3' s2' s1' s0 q7 s1' q7 q6 6' - - - q0 q,6 q,7 q1 s0 q4 s3 2 q0
+q2 q3 q4 s0 q7 s6 5 q0 q6 q5 q4 q3 ,5 q2 1 - - - 1' s7 s1' s7 s6 5. q3 q1' q7 s6 s5 5. s1 s3 2. s2 s3 s6 q6 s6 q6 q3
+q2 2' q6 5. s1 s3 2. s2 s3 s6 q6 s6 q6 q3 q2 q2 q0 q5 1 - s0 q3 s5 q5 s5 s6 q5 q1 0 s0 q3 s5 q5 s5 s1' q6 q5 0 s0 q3
+s5 q5 s5 s1' q2' 2' s2 s2 7. q6 5 - s0 q3 s5 q5 s5 s6 q5 q1 0 s0 q3 s5 q5 s5 q6 q5 0 s0 q3 s5 q5 s5 s1' q2'. s1' 6 q2 q3
+q5 q6 q1' q5 q6 q1' 2' - - q2' q5 1 1' 2' 3' q1'. s6 q5 q6 q6 q3 5. q5 1' 2' 3' q1'. s6 q5 q6 q6 q1 2 - q3 5 q6 1' 6 q5
+q1' q2' 3' - q5 q6 q1' q2' 3' 5' 2' - - - 3' q5 q6 q1' 2' 1' - - - 1' - q1' q5 1' - - - 2' - - 2' 5' - - - 5'
+- - - 5' - - - 5' 0 0 0
+%END

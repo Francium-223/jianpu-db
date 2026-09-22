@@ -1,0 +1,17 @@
+%梅花.txt
+% 出处 https://www.jianpujia.com/
+title=梅花
+tag=邓丽君
+usertag=邓丽君
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-20465
+%--
+2/4
+subtitle=score
+q1 q1 - - - - 1 1 1 0 x x x. x x x. x x 1 5 - 3 6 - 3 2. q3 1 ,6 - - ,5 ,6 5 3 - 2 1 1 -
+1 0 0 5 - 3 6 - 3 2. q3 q1 s6 ,5 - - ,6 1 ,6 5 - q5 q6 ~ q6 q3 ~ 3 - 3 - - 5 - 3 6 - 3 2. q3
+q1 s6 ,6 - - ,5 ,6 5 3 - q2 s3 s2 1 - - 1 0 0 ,5 ,6 5 3 - q2 s3 s2 1 - - 1 0 0 ,5 ,6 5 3 - q2 s3
+s2 1 - - 1 - - 5 - 3 6 - 3 2. q3 1 1 - - 1 - -
+%END

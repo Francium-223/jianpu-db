@@ -1,0 +1,19 @@
+%心雨.txt
+% 出处 http://www.jianpu.cn/
+title=心雨
+tag=周杰伦
+usertag=周杰伦
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-63846
+%--
+4/4
+subtitle=score
+0 s3 q2 1 q3 s,,2 q2 2 0 s3 q,,2 1 q2 q1 q1 1 q1 ,6 q1 q,6 q1 q2 s2 2 q0 q1 q3 q3. q2 2 0 0 q3 q2 q1 q3 q2 s2 2 0
+q3 s2 q1 s7 q2 q1 s1 1 q0 1 1' q3 s2 2' x. 2 2' h1 h,7 hx' s3 s1' s1. q1' h6' h1 s3 s5 h1 q4 0 0 7' 1 x' q4' 6' q,4 h3' h3
+d,x h0 0 h4. s1 4 q3 s2 h2 ,5' s2 h1. q1 q1' 0 h,1 0 q1 dx q1' 1' d1 7 7 s1' s1 1'. 1' 1 x q1 3' 2' 2' 3 2' 2' s,,3 h,1' h3
+d3 q7 h1 s1' s5 2 5 d3 d7' 1' 3' 5' 6' 5' 5' qx s,1 ,3' 4' 7' 3 d6 q6' q3' qx. 2 x' 2' qx qx q3 2' d,1 2 d2 s,2' s1' d1 h1 d1
+h1 q1 h,1. 1' 1' 1' 1 dx 1' s1' s,1 s1' 1' 1 h2 sx h2' h,2 s2' s1 q4 1 s1 q3 h1 q1' d3 h1 d,1 d,1 x 3 q3 h,1 1 1 h1 q1 3 s3
+h4' s1 s5 x 2 d4 h3' q0 0 0 6' q4 q1' q,,4' 3 3 h,,,3'. s,3' h,,,2' h,,,3' 0 0 ,,,2'. q1'
+%END

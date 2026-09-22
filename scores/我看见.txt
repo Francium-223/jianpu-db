@@ -1,0 +1,21 @@
+%我看见.txt
+% 出处 https://www.qupu123.com/
+title=我看见
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=qupu123-334420
+todo=add tags
+%--
+2/4
+subtitle=score
+q,5 q,1' q5 - - 7 7 5 ,1 4 2 1 ,1 ,1 ,1 3. 5 6 ,1 ,1 3. 2 2 1 1 2 2 3 2 2 ,5. q,5 q,5 ,6 ,6 ,6 ,6' ,,6 1. qx.
+qx' 1' x 4 3 2. ,7 ,5 5 3 3 q2. 2 1 4 4 4 4 q1. 1 ,1 4 4 4 q6. q4 6 q6 q5 q2 q2 2 ,1 4. q5 3. q1 6 6 6
+6 3 2' 2' ~ q2' q7 5 q2' s3' s1' 1'. s6 s5 q4 6. 7 q7 q1' q2' 1 - 1. q,5 1 q1 q1 q1 3. 5 q6 q1 s1 q3. q2 q2 1 q2 q2 q3
+s2 s2 2 ,5. ,5 ,5 ,6 ,6 ,6 ,6 ,6 ,6 q1. q4 3 ,1 ,1 q2. ,7 ,5 5 3 3 q2. 2 1 q4 q4 q4 q4 4 q1' ,1' 4 ~ 4 q6. q7 q6 q5
+q5 6 7 3 2 s1 q4 q4 4 4 ~ 4 3. 3. q2 2 q3 1. q1 6 6 6 6 6 q6 2' 2' ~ 2' q7 q7 5 2 3 3 q1 1. q6 q5 q4
+6. q1 q7 q6 7 5 5. q1 6 6 6 6 6 6 3 2 2 2 2 7 5 q2 q2 3 1. 6 7 7 q1 6. 7 7 q1' q1' s2' s2' q1' 1'. q1 2.
+1'. 6 7 q1' 6. q3' q7 q1' 2' ,1' 1' - q1' -
+%END
