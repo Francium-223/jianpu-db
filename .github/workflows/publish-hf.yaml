@@ -1,0 +1,64 @@
+name: Publish dataset to HuggingFace
+
+# 由 GitHub runner 上传 HF —— 本地那条线路访问 huggingface.co 是被污染的(DNS 假 IP + TLS 阻断),
+# 但 runner 在境外直连没问题; 也省掉本地 10MB 上传要走 VPN。
+#
+# 触发: push 到默认分支 / 手动。
+# **必须跳过 bot 自己的提交**(parse.yaml 重建产物后会以 github-actions[bot] 提交),
+# 否则 push -> publish -> bot push -> publish ... 无限套娃。
+on:
+  push:
+    branches: [master, main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: publish-hf-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  publish:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # **不在这里重跑 parse_scores.py**: push 会同时触发 parse.yaml, 它已经是
+      # "重建 -> 以 github-actions[bot] 提交(带 [skip ci])" 的那一步; 我们这条在它之后 checkout,
+      # 直接读最新的 data.jsonl 即可。这里再跑一遍只会让两个 job 抢着改同一个文件、徒增 6 分钟。
+      - name: Sanity check data
+        run: |
+          test -s data.jsonl || { echo "data.jsonl 不存在或为空"; exit 1; }
+          echo "data.jsonl 行数: $(wc -l < data.jsonl)"
+          test -s scores/17.txt || echo "提示: scores/ 看起来不完整"
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Export HF dataset
+        run: python export_hf.py --out hf
+
+      - name: Upload to HuggingFace
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          HF_REPO: ${{ vars.HF_REPO }}          # 例: Francium-223/jianpu-db (仓库变量, 改它不用改代码)
+        run: |
+          python -m pip install --quiet --disable-pip-version-check huggingface_hub
+          python - <<'PY'
+          import os, sys
+          from huggingface_hub import HfApi, create_repo, upload_folder
+          repo = os.environ.get("HF_REPO") or "Francium-223/jianpu-db"
+          token = os.environ.get("HF_TOKEN")
+          if not token:
+              sys.exit("缺少 HF_TOKEN secret(见 README 的发布说明)")
+          api = HfApi(token=token)
+          print("已认证:", api.whoami().get("name"), "-> 目标", repo)
+          create_repo(repo, repo_type="dataset", exist_ok=True, token=token)
+          url = upload_folder(folder_path="hf", repo_id=repo, repo_type="dataset",
+                              commit_message="sync from GitHub %s" % os.environ.get("GITHUB_SHA", "")[:8],
+                              token=token)
+          print("上传完成:", url)
+          PY
