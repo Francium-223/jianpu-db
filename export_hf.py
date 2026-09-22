@@ -95,6 +95,14 @@ pretty_name: Jianpu Melody Corpus (简谱旋律语料)
 task_categories:
 - text-generation
 - other
+tags:
+- music
+- symbolic-music
+- jianpu
+- numbered-musical-notation
+- chinese
+- melody
+- retrieval
 size_categories:
 - 1K<n<10K
 configs:

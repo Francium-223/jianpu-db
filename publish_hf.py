@@ -2,9 +2,10 @@
 """把 hf/ 里的数据集推到 HuggingFace(需要 token)。
 
 用法:
-  py -3.13 publish_hf.py USER/jianpu-db --dry-run     # 不联网也能跑, 先看要传什么
-  py -3.13 publish_hf.py USER/jianpu-db --check       # 只验证 token + 目标仓库
-  py -3.13 publish_hf.py USER/jianpu-db               # 建仓 + 上传
+  py -3.13 publish_hf.py --dry-run     # 不联网也能跑, 先看要传什么
+  py -3.13 publish_hf.py --check       # 只验证 token + 目标仓库
+  py -3.13 publish_hf.py               # 建仓 + 上传(默认推 Caesium-132/chinese-jianpu-corpus)
+  py -3.13 publish_hf.py 别的账号/别的名字   # 换目标; 也可用环境变量 HF_REPO
 
 token 来源(按优先级): --token 参数 / 环境变量 HF_TOKEN / 已登录的 ~/.cache/huggingface/token
   * 没装 huggingface-cli 也行: 直接在 PowerShell 里 `$env:HF_TOKEN="hf_xxx"` 再跑本脚本。
@@ -21,8 +22,8 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 os.chdir(ROOT)
 
 ap = argparse.ArgumentParser()
-ap.add_argument("repo_id", nargs="?", default="Caesium-132/jianpu-db",
-                help="如 Caesium-132/jianpu-db (默认值; 也可用环境变量 HF_REPO)")
+ap.add_argument("repo_id", nargs="?", default="Caesium-132/chinese-jianpu-corpus",
+                help="如 Caesium-132/chinese-jianpu-corpus (默认值; 也可用环境变量 HF_REPO)")
 ap.add_argument("--folder", default="hf")
 ap.add_argument("--token", default="")
 ap.add_argument("--dry-run", action="store_true", help="只列文件与行数, 不联网")
@@ -31,7 +32,7 @@ ap.add_argument("--private", action="store_true")
 args = ap.parse_args()
 # 环境变量兜底: CI 里用 GitHub 仓库变量 HF_REPO 传, 本地也能设一把
 if not args.repo_id or args.repo_id.startswith("-"):
-    args.repo_id = "Caesium-132/jianpu-db"
+    args.repo_id = "Caesium-132/chinese-jianpu-corpus"
 args.repo_id = os.environ.get("HF_REPO") or args.repo_id
 
 files = []
