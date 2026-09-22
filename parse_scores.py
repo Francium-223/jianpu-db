@@ -15,15 +15,17 @@ for i in a:
 	print('Parsing:', i.score)
 	i.parse()
 	b.update({i.score.split('/')[-1] : i.others})
-	# 同一批数据再摆一份扁平的。**白名单**: 只有 status 含 ok 的才算可用数据。
+	# 同一批数据再摆一份扁平的。**白名单**: status 含 ok 或 ocr 的算可用数据。
 	#   ok   = 人工校对过                -> 进数据集
-	#   midi = 由 MIDI 硬转过来的(自动)   -> 不进
-	#   ocr  = 由图片机器转写(OCR)来的    -> 不进
+	#   ocr  = 由图片机器转写(OCR)来的    -> **也进**(2026-09-23 用户决定:
+	#          导入的 OCR 谱必须进 data.jsonl, 否则 data.json 有而 data.jsonl 没有 -> 静默丢数据)
+	#   midi = 由 MIDI 硬转过来的(自动)   -> 不进(它是硬转, 不是本仓库要的简谱记录)
 	# 用白名单而不是"排除 midi": 以后再加等级(比如两条自动线各自再分档)也不会漏进数据集。
+	OK_STATUS = ('ok', 'ocr')
 	_r = i.to_record()
 	# status 的形态由 schema 决定(现在是字符串, 也可能是列表) -> 统一成列表再判断
 	_s = _r['status'] if isinstance(_r['status'], list) else [_r['status']]
-	if 'ok' in _s and _r['score']:
+	if any(_x in OK_STATUS for _x in _s) and _r['score']:
 		rows.append(_r)
 with open('./data.json', 'w', encoding='utf-8') as f:
 	json.dump(b, f, indent=4, ensure_ascii=False)
