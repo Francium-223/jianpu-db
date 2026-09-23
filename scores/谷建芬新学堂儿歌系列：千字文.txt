@@ -1,8 +1,8 @@
 %谷建芬新学堂儿歌系列：千字文.txt
 % 出处 https://www.jianpujia.com/
 title=谷建芬新学堂儿歌系列：千字文
-tag=分类/儿歌
-usertag=分类/儿歌
+tag=分类/儿歌,儿歌
+usertag=分类/儿歌,儿歌
 tagroute=
 transcriber=jianpu2-auto
 status=ocr

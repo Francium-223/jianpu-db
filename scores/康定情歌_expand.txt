@@ -1,8 +1,8 @@
 %康定情歌.txt
 % 出处 https://www.jianpujia.com/
 title=康定情歌
-tag=梦之旅组合
-usertag=梦之旅组合
+tag=梦之旅组合,民歌
+usertag=梦之旅组合,民歌
 tagroute=
 transcriber=jianpu2-auto
 status=ocr

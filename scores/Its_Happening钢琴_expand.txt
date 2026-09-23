@@ -1,8 +1,8 @@
 %Its_Happening钢琴.txt
 % 出处 https://www.jianpujia.com/
 title=Its_Happening钢琴
-tag=Beyond,分类/钢琴谱
-usertag=Beyond,分类/钢琴谱
+tag=Beyond,分类/钢琴谱,World Beyond
+usertag=Beyond,分类/钢琴谱,World Beyond
 tagroute=
 transcriber=jianpu2-auto
 status=ocr

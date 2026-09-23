@@ -1,8 +1,8 @@
 %泼水歌_2.txt
 % 出处 https://www.jianpujia.com/
 title=泼水歌
-tag=分类/儿歌
-usertag=分类/儿歌
+tag=分类/儿歌,儿歌
+usertag=分类/儿歌,儿歌
 tagroute=
 transcriber=jianpu2-auto
 status=ocr

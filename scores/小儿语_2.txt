@@ -1,8 +1,8 @@
 %小儿语_2.txt
 % 出处 https://www.jianpujia.com/
 title=小儿语
-tag=小海龟演唱组
-usertag=小海龟演唱组
+tag=小海龟演唱组,小海龟,儿歌
+usertag=小海龟演唱组,小海龟,儿歌
 tagroute=
 transcriber=jianpu2-auto
 status=ocr

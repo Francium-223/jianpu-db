@@ -1,8 +1,8 @@
 %诗的草原，画的草原.txt
 % 出处 https://www.jianpujia.com/
 title=诗的草原，画的草原
-tag=分类/草原
-usertag=分类/草原
+tag=分类/草原,草原
+usertag=分类/草原,草原
 tagroute=
 transcriber=jianpu2-auto
 status=ocr

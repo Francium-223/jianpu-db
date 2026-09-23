@@ -1,8 +1,8 @@
 %琵琶曲.txt
 % 出处 http://www.jianpu.cn/
 title=琵琶曲
-tag=分类/琵琶谱
-usertag=分类/琵琶谱
+tag=分类/琵琶谱,蔡幸娟
+usertag=分类/琵琶谱,蔡幸娟
 tagroute=
 transcriber=jianpu2-auto
 status=ocr

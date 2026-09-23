@@ -1,8 +1,8 @@
 %小城故事.txt
 % 出处 http://www.jianpu.cn/
 title=小城故事
-tag=邓丽君
-usertag=邓丽君
+tag=邓丽君,两版本
+usertag=邓丽君,两版本
 tagroute=
 transcriber=jianpu2-auto
 status=ocr

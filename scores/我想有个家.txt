@@ -1,8 +1,8 @@
 %我想有个家.txt
 % 出处 http://www.jianpu.cn/
 title=我想有个家
-tag=潘美辰
-usertag=潘美辰
+tag=潘美辰,视频 我想有个家 本 潘美辰
+usertag=潘美辰,视频 我想有个家 本 潘美辰
 tagroute=
 transcriber=jianpu2-auto
 status=ocr

@@ -1,8 +1,8 @@
 %多情的月光.txt
 % 出处 https://www.jianpujia.com/
 title=多情的月光
-tag=分类/儿歌
-usertag=分类/儿歌
+tag=分类/儿歌,正月十五,儿歌
+usertag=分类/儿歌,正月十五,儿歌
 tagroute=
 transcriber=jianpu2-auto
 status=ocr
