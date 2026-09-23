@@ -1,0 +1,15 @@
+[Unit]
+Description=简谱旋律查歌 本地服务 (jianpu-web)
+Documentation=file:///home/caesium-132/jianpu/00_锦囊_先读我.md
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/caesium-132/jianpu/jianpu-web
+Environment=JIANPU_DB=/home/caesium-132/jianpu/jianpu-db
+ExecStart=/usr/bin/python3 /home/caesium-132/jianpu/jianpu-web/app/server.py 8770
+Restart=on-failure
+RestartSec=3
+
+[Install]
+WantedBy=default.target
