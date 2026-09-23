@@ -7,6 +7,7 @@
 |---|---|
 | `夜间工作报告_2026-09-24.md` | **先看这个**：这一夜干完的事、待你决定的、怎么复现 |
 | `修复记录_解析器丢音.md` | 丢音事故完整记录（解析器/休止计拍/h 时值定案/收录页/git 事故救援） |
+| `投稿漏斗排障_2026-09-24.md` | **投稿会不会被静默吃掉**：5 个坑 + 并发/口径隐患 + 一次自造污染事故的记录与复原 |
 | `待办4_根因报告.md` | th10_06「3 2 / 5 6」翻转定案的证据链 |
 | `tag_todo.tsv` | **人工补标签入口**：926 首待补，填 `human_tag` 列 → `propose_tags.py --from-tsv` |
 | `title_proposal.tsv` | 曲名改名提案（138 条高置信度），`accepted` 列审完 → `refine_titles_from_pages.py --apply` |
@@ -14,6 +15,7 @@
 | `tag_proposal.tsv` / `artist_proposal.tsv` | 标签/歌手的自动提案（含来源证据与页面标题，便于人工核对） |
 | `quality_proposal.tsv` | 语料体检第三类："拿不准"的 68 首 + 18 组跨站重复（带 `recommend` 列） |
 | `eval_baseline_before_fix.txt` / `eval_final_7321.txt` | 改动前后的榜单指标（**逐项一致**，无回归） |
+| `eval_after_fix_20260924.txt` | 投稿漏斗修复后重跑 4 清单（与 7321 首基线比对） |
 | `quality_proposal.tsv` / `_verify_report.txt` | 体检提案 / 10.4 GB 抢救包的 SHA-256 校验报告 |
 | `git救援/` | 三个 stash 的补丁备份（stash0 = 那次"改动全没了"的全部内容） |
 | `backup/` | 关键快照（data.jsonl 各阶段、songs.jsonl.gz.bak、改前基线） |
