@@ -94,3 +94,58 @@ def add_to_score_file(path, url):
 	with open(path, 'wb') as f:
 		f.write((nl.join(lines) + nl).encode('utf-8'))
 	return added, already
+
+
+# usertag 里不许出现的字符(会破坏 `key=value` 行格式或列表分隔)
+_BAD_TAG = re.compile(r'[,\uFF0C\u3001|=%\t\r\n<>]')
+
+
+def parse_tag(tag: str) -> str:
+	"""标签(usertag)的校验: 非空、<=30 字、不许含逗号/等号/竖线等会破坏格式的字符。"""
+	t = (tag or '').strip()
+	if not t:
+		raise ValueError('标签是空的')
+	if len(t) > 30:
+		raise ValueError(f'标签太长(<=30 字): {t!r}')
+	if _BAD_TAG.search(t):
+		raise ValueError(f'标签里不能有逗号/等号/竖线等字符: {t!r}')
+	return t
+
+
+def add_usertag(path, tag, clear_todo=True):
+	"""把 usertag 写进曲谱的**元数据区**(第一条 `%--` 之前); 返回 'added' / 'exists'。
+
+	与 `add_to_score_file` 同一个套路(行尾保持、只动一处、大小写不敏感去重),
+	所以**这里是"写进曲谱"的唯一实现**:
+	  * 网页上「＋ 补标签」(server.py:save_tags)
+	  * 命令行 jianpu2/tools/propose_tags.py(add_tag 只是本函数的皮)
+	  * jianpu2/tools/harvest_artists.py(抽到的歌手/分类落盘)
+	`clear_todo=True` 时顺带删掉 `todo=add tags`(那条 todo 的字面意思就是"该加标签了")。
+	"""
+	tag = parse_tag(tag)
+	with open(path, 'rb') as f:
+		raw = f.read()
+	nl = '\r\n' if b'\r\n' in raw else '\n'
+	lines = raw.decode('utf-8').splitlines()
+	end = next((i for i, ln in enumerate(lines) if ln.replace(' ', '').startswith('%--')), None)
+	if end is None:                     # 没有 %-- 标记: 插在元数据区末尾, 绝不插到正文/文件尾
+		end = 0
+		for i, ln in enumerate(lines):
+			s = ln.strip()
+			if not s or s.startswith('%') or re.match(r'^[A-Za-z_][A-Za-z0-9_]*=', s):
+				end = i + 1
+			else:
+				break
+	ui = next((i for i in range(end) if lines[i].startswith('usertag=')), None)
+	have = ([x.strip() for x in lines[ui][8:].split(',') if x.strip()] if ui is not None else [])
+	if any(t.casefold() == tag.casefold() for t in have):   # 大小写不敏感去重(BEYOND/Beyond)
+		return 'exists'
+	if ui is None:
+		lines.insert(end, 'usertag=' + tag)
+	else:
+		lines[ui] = 'usertag=' + ','.join(have + [tag])
+	if clear_todo:
+		lines = [ln for ln in lines if ln.strip() != 'todo=add tags']
+	with open(path, 'wb') as f:
+		f.write((nl.join(lines) + nl).encode('utf-8'))
+	return 'added'
