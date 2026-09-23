@@ -99,6 +99,16 @@ def add_to_score_file(path, url):
 # usertag 里不许出现的字符(会破坏 `key=value` 行格式或列表分隔)
 _BAD_TAG = re.compile(r'[,\uFF0C\u3001|=%\t\r\n<>]')
 
+# ⚠ 2026-09-24 补: `\n\r\t` 之外, Python 的 `str.splitlines()` 还认 \v \f \x1c \x1d \x1e \x85
+#   U+2028 U+2029 —— 而写入用的是 splitlines()/join(), 所以这些字符同样能**凭空多切出一行**。
+#   实测: 标签 `x\u2028abc`(6 字, 不含 _BAD_TAG 里的字符)会被写进去, 曲谱头部多出一行;
+#   score.py 的元数据区把"非 key= 行"当作上一个列表键的**续行**, 于是那一行被吃成
+#   一个额外的 usertag(实测 usertag 从 ['th10','民歌'] 变成 ['th10','民歌','abc'])。
+#   旋律本身不受影响(509 个音高音不变), 但"读者能往标签里塞任意内容"就是没校验干净。
+#   这里统一按 splitlines() 的口径判定"单行", 别再靠逐个字符列举。
+def _one_line(t):
+	return len(t.splitlines()) == 1
+
 
 def parse_tag(tag: str) -> str:
 	"""标签(usertag)的校验: 非空、<=30 字、不许含逗号/等号/竖线等会破坏格式的字符。"""
@@ -107,8 +117,8 @@ def parse_tag(tag: str) -> str:
 		raise ValueError('标签是空的')
 	if len(t) > 30:
 		raise ValueError(f'标签太长(<=30 字): {t!r}')
-	if _BAD_TAG.search(t):
-		raise ValueError(f'标签里不能有逗号/等号/竖线等字符: {t!r}')
+	if _BAD_TAG.search(t) or not _one_line(t):
+		raise ValueError(f'标签里不能有逗号/等号/竖线/换行等字符: {t!r}')
 	return t
 
 
