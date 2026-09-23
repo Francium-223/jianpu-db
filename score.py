@@ -7,14 +7,24 @@ import warnings
 import schema
 from pathlib import Path
 # 简谱 token / 时值 / 小节线恢复的**唯一实现**(jptok.py)。它住在 skill 目录里,
-# 于是这里显式加路径; 加不到就退化成内置兜底(见下面的 fallback), 保证独立 clone 也能跑。
+# 于是这里显式加路径; 加不到**默认直接报错**(见下面), 不再静默换口径。
 _JTOK_DIR = os.environ.get("JIANPU_JTOK") or os.path.join(
 	os.path.dirname(os.path.abspath(__file__)), "..", "jianpu2", "skills", "jianpu-melody-lookup")
 if os.path.isdir(_JTOK_DIR) and _JTOK_DIR not in sys.path:
 	sys.path.insert(0, _JTOK_DIR)
 try:
 	import jptok
-except Exception:                              # pragma: no cover - 只在独立 clone 时走
+except ImportError:                            # pragma: no cover - 只在独立 clone 时走
+	# ⚠ 2026-09-24: 这里**不再静默兜底**。兜底是"第二份口径", 两份一起漂过一次(36 首受损),
+	#   而静默降级 = 整个 data.jsonl 可能按另一套 token 规则重建还没人发现。
+	#   jptok.py 是硬依赖(与 export_hf.py 一个态度); 确实要在没有 jianpu2 的环境跑,
+	#   显式设 JIANPU_ALLOW_FALLBACK_JTOK=1 才用内置兜底, 并在报告里写明。
+	if os.environ.get("JIANPU_ALLOW_FALLBACK_JTOK") != "1":
+		raise SystemExit(
+			f"找不到 jptok.py(唯一实现): {_JTOK_DIR}\n"
+			f"  它是硬依赖 —— 少了它 data.jsonl 会换一套 token 口径重建(丢音/小节漂)。\n"
+			f"  修法: 设 JIANPU_JTOK=<jianpu2/skills/jianpu-melody-lookup 绝对路径>;\n"
+			f"  或者(不推荐)设 JIANPU_ALLOW_FALLBACK_JTOK=1 用 score.py 里的内置兜底。")
 	class _FallbackJptok:
 		"""jptok 找不到时的最小兜底: 保证 data.jsonl 仍产出 bars。与 jptok 同口径。
 

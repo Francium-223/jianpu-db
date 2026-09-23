@@ -3,3 +3,7 @@ __pycache__/
 scores/*.json
 hf/
 _cm.txt
+
+# 调试产物(score.py:write_expand 生成, parse_scores 本来就跳过; 别进仓库)
+scores/*_expand.txt
+scores/*_buf.txt
