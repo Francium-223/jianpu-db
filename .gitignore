@@ -2,3 +2,4 @@
 __pycache__/
 scores/*.json
 hf/
+_cm.txt
