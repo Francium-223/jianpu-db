@@ -22,7 +22,8 @@
 | `git救援/` | 三个 stash 的补丁备份（stash0 = 那次"改动全没了"的全部内容） |
 | `backup/` | 关键快照（data.jsonl 各阶段、songs.jsonl.gz.bak、改前基线） |
 | `probe_h_*.py` / `diag_*.py` / `verify_*.py` | h 时值定案与各项核对的实验脚本（可复现） |
+| `fingerprint_*.json`（在 `jianpu-db/misc/records/`） | 全部曲谱的基线指纹：批量改写后 `corpus_fingerprint.py --check` 用 |
 
-**工具都在 `jianpu2/tools/`**（`propose_tags.py` / `harvest_artists.py` / `audit_corpus_quality.py` /
+**工具都在 `jianpu2/tools/`**（`corpus_fingerprint.py`（批量写回安全网）/ `propose_tags.py` / `harvest_artists.py` / `audit_corpus_quality.py` /
 `quarantine_short_scores.py` / `refine_titles_from_pages.py` / `audit_arrangements.py` /
 `verify_source_urls.py` / `add_link.py`）—— 用法见各脚本头部 docstring 与 `jianpu2/STATE.md`。
