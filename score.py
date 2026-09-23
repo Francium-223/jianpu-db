@@ -163,6 +163,54 @@ class Score():
 		if cur:
 			sections.append({'subtitle': cur_sub, 'score': ' '.join(cur)})
 		full = ' | '.join(x['score'] for x in sections if x['score'])
+		# ---------------- 小节线恢复 ----------------
+		# 用户口径(2026-09-23): 「进 data.jsonl 的所有小节线必须是显式的。」
+		# 现实: 全库只有 2.5%(197/7884)的谱真写了 `|`, 而且 expand 还会把 R{..} 里的吃掉
+		# —— 所以不能靠"保留", 必须按**拍号 + 时值**把小节算出来。
+		#
+		# 算法(确定性, 与 jianpu-ly 的 addBar/barCheck 同思路):
+		#   ① 拍号 n/d -> 每小节拍数 = n * 4 / d   (4/4 -> 4 拍; 3/4 -> 3 拍; 6/8 -> 3 拍)
+		#   ② 每个音符的拍值: h=2, 无前缀=1(四分), q=0.5, s=0.25, d=0.125, 附点 x1.5
+		#      `-`(延长) 也算 1 拍; `~` 连音线不额外计时
+		#   ③ 累加到 == 每小节拍数 就落一条小节线并归零
+		#   ④ **遇源文件里已有的 `|` 就当强小节线, 累加器强制归零**(处理弱起/不规则小节)
+		#   ⑤ 一个音跨过整小节(罕见)时也落线, 归零后继续, 不会吃掉音符
+		VAL = {'h': 2.0, '': 1.0, 'q': 0.5, 's': 0.25, 'd': 0.125}
+		def _beat(tok):
+			m = re.match(r"^([qsdh]*)", tok or "")
+			v = VAL.get(m.group(1) if m else '', None)
+			if v is None:                      # 未知时值前缀(如 64 分)按最短算, 宁可多落线
+				v = 0.0625
+			return v * 1.5 if tok.endswith('.') else v
+
+		_beat_n = 4.0                          # 每小节拍数, 默认 4/4
+		# 拍号可能在 `%--` 之前(元数据区)也可能在正文第一行; raw2 为空时退回按行扫 raw。
+		_probe = self.raw2 or "\n".join(x.rstrip("\n") for x in (self.raw or []))
+		m = re.search(r"(?m)^\s*(\d+)\s*/\s*(\d+)\s*$", _probe or "")
+		if m:
+			try:
+				_beat_n = int(m.group(1)) * 4.0 / int(m.group(2))
+			except ZeroDivisionError:
+				_beat_n = 4.0
+		bars = []
+		_n = 0                                 # 已数过的音符下标
+		_acc = 0.0
+		for _sec in sections:
+			for _t in _sec['score'].split():
+				if _t == '|':                  # 源里的小节线(强)
+					bars.append(_n)
+					_acc = 0.0
+					continue
+				if _t == '-':
+					_acc += 1.0
+					continue
+				if not re.match(r"^[,']*[qsdh]*[,']*[#b]?[1-7x0]", _t):
+					continue                   # 休止/念白也占时值, 但保守起见不计(它们少)
+				_acc += _beat(_t)
+				_n += 1
+				if _acc >= _beat_n - 1e-9:
+					bars.append(_n)
+					_acc = 0.0
 		n_notes = len([t for t in full.split() if re.match(r"^[,']*[qsdh]*[,']*[#b]?[1-7x0]|[#b][1-7]", t)])
 		# 各字段的形态由 schema 决定(字符串或列表) -> 原样传出去, 不在这里强转
 		return {
@@ -183,6 +231,11 @@ class Score():
 			'transcriber': self.others.get('transcriber', []),
 			'sections': sections,
 			'score': full,
+			# **显式小节线**(用户口径: 进 data.jsonl 的所有小节线必须是显式的)。
+			# 语义: 一串 0-based 音符下标, 表示"第 i 个音符之前有一条小节线"。
+			# 由拍号 + 时值确定性算出(见上面算法); 源文件里已有的 `|` 当强小节线。
+			'bars': bars,
+			'beats_per_bar': _beat_n,
 			'n_notes': n_notes,
 		}
 	def read(self):

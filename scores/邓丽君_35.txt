@@ -1,9 +1,10 @@
 %邓丽君_35.txt
 % 出处 https://www.qupu123.com/
-title=邓丽君
+title=多情的玫瑰
 tag=邓丽君
 usertag=邓丽君
 tagroute=
+% 原 title=邓丽君 (爬虫把歌手名当成了曲名,已按目录名修正)
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-291858
