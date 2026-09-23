@@ -33,6 +33,17 @@ HOST_RE = re.compile(r"^([a-z0-9]+)-")
 COLS = ["file", "title", "status", "tags", "usertags", "transcriber",
         "source", "source_host", "n_notes", "sections", "score", "link"]
 
+# 简谱 token 口径的**唯一实现**在 skill 目录的 jptok.py(与 score.py 用同一份)。
+# 导出的 dataset card 要报"音符总数", 必须用它数, 不许在这里再写一份正则。
+_JT = os.environ.get("JIANPU_JTOK") or os.path.join(
+    os.path.dirname(ROOT), "jianpu2", "skills", "jianpu-melody-lookup")
+if os.path.isdir(_JT):
+    sys.path.insert(0, _JT)
+try:
+    import jptok
+except Exception as e:                       # pragma: no cover
+    sys.exit(f"找不到 jptok.py(设 JIANPU_JTOK 指一下): {e}")
+
 
 def main():
     # ① source= 只在曲谱文件里(score.py 的 to_record 没带出来) -> 逐份扫
@@ -48,6 +59,7 @@ def main():
 
     # ② data.jsonl 是唯一真源(由 parse_scores.py 生成, 与 data.json 同源)
     rows, stats = [], collections.Counter()
+    n_pitch_notes = 0
     with io.open("data.jsonl", encoding="utf-8") as fh:
         for ln in fh:
             ln = ln.strip()
@@ -77,6 +89,7 @@ def main():
             rows.append(row)
             stats["status:" + (row["status"] or "?")] += 1
             stats["host:" + (host or "?")] += 1
+            n_pitch_notes += len(jptok.seq(row["score"]))   # 不含休止/念白, 与检索口径一致
 
     os.makedirs(args.out, exist_ok=True)
     outj = os.path.join(args.out, "data.jsonl")
@@ -206,9 +219,12 @@ python skill/jianpu-melody-lookup/lookup.py "5 5 5 3 2 2 3 5 3 2 1 1 6 1 2 6 5 5
 
 ## 数据构成(实测)
 
-* `status`: `ocr` 7295 首(由图片机器转写) / `ok` 36 首(人工校对过)
-* `source_host`: qupu123 3298 / jianpucn 3251 / jianpujia 741 / 其它 4 / 未记录 40
-* 音符总数: 1,422,852
+* `status`: `ocr` {stats.get('status:ocr', 0)} 首(由图片机器转写) / `ok` {stats.get('status:ok', 0)} 首(人工校对过)
+* `source_host`: qupu123 {stats.get('host:qupu123', 0)} / jianpucn {stats.get('host:jianpucn', 0)} / jianpujia {stats.get('host:jianpujia', 0)} / 其它 {sum(v for k, v in stats.items() if k.startswith('host:') and k.split(':')[1] not in ('qupu123', 'jianpucn', 'jianpujia', '?'))} / 未记录 {stats.get('host:?', 0)}
+* 音符总数: {n_pitch_notes:,}(不含休止/念白; 由 `jptok.seq` 统计)
+
+> ⚠ 这三行以前是**硬编码**的(写着 `ocr 7295` / `1,422,852`), 数据涨了卡片还不动 ——
+> 现在改成从本次导出的数据现算, 数字与 `data.jsonl` 永远一致。
 
 ## 生成方式
 
