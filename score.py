@@ -505,7 +505,14 @@ class Score():
 					self.derive_others()
 					self.write_buf()
 					self.expand()
-					self.write_expand()
+					# ⚠ 2026-09-24: 这里原来无条件 `self.write_expand()`, 于是**每次解析**
+					#   (parse_scores.py 每次 refresh 都会跑)都给每首歌写一份 `*_expand.txt`
+					#   调试副本 —— 7820 份 / 32MB, 曾经全被提交进仓库, 而且
+					#   melody_oct.py / famous2.py / probe_h_*.py 这些只 glob scores/*.txt
+					#   不过滤的工具一直在把副本当曲谱统计。
+					#   现在改成默认不写(需要时显式调 write_expand(), 或设 JIANPU_WRITE_EXPAND=1)。
+					if os.environ.get("JIANPU_WRITE_EXPAND") == "1":
+						self.write_expand()
 					self.move_buf()
 					self.make_link()
 				except NoScoreError:
