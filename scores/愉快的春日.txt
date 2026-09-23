@@ -1,13 +1,12 @@
 %愉快的春日.txt
 % 出处 https://www.qupu123.com/
 title=愉快的春日
-tag=
-usertag=
+tag=分类/儿歌
+usertag=分类/儿歌
 tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-371014
-todo=add tags
 %--
 4/4
 subtitle=score

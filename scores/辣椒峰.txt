@@ -1,13 +1,12 @@
 %辣椒峰.txt
 % 出处 https://www.qupu123.com/
 title=辣椒峰
-tag=
-usertag=
+tag=分类/谱友上传
+usertag=分类/谱友上传
 tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-396520
-todo=add tags
 %--
 4/4
 subtitle=score

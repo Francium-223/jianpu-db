@@ -1,13 +1,12 @@
 %小兔——菲菲.txt
 % 出处 https://www.qupu123.com/
 title=小兔——菲菲
-tag=
-usertag=
+tag=分类/儿歌
+usertag=分类/儿歌
 tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-327854
-todo=add tags
 %--
 2/4
 subtitle=score

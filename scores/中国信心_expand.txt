@@ -1,13 +1,12 @@
 %中国信心.txt
 % 出处 https://www.qupu123.com/
 title=中国信心
-tag=
-usertag=
+tag=分类/民歌
+usertag=分类/民歌
 tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-373398
-todo=add tags
 %--
 4/4
 subtitle=score

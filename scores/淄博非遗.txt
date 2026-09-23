@@ -1,13 +1,12 @@
 %淄博非遗.txt
 % 出处 https://www.qupu123.com/
 title=淄博非遗
-tag=
-usertag=
+tag=分类/通俗歌曲
+usertag=分类/通俗歌曲
 tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-371290
-todo=add tags
 %--
 2/4
 subtitle=score

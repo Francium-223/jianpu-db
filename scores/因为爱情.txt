@@ -1,13 +1,12 @@
 %因为爱情.txt
 % 出处 https://www.qupu123.com/
 title=因为爱情
-tag=
-usertag=
+tag=分类/谱友上传
+usertag=分类/谱友上传
 tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-362739
-todo=add tags
 %--
 4/4
 subtitle=score

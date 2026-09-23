@@ -1,13 +1,12 @@
 %草原就是我的家.txt
 % 出处 https://www.qupu123.com/
 title=草原就是我的家
-tag=
-usertag=
+tag=分类/民歌
+usertag=分类/民歌
 tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-370482
-todo=add tags
 %--
 2/4
 subtitle=score

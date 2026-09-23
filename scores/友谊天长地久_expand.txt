@@ -1,13 +1,12 @@
 %友谊天长地久.txt
 % 出处 https://www.qupu123.com/
 title=友谊天长地久
-tag=
-usertag=
+tag=分类/儿歌
+usertag=分类/儿歌
 tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-369903
-todo=add tags
 %--
 4/4
 subtitle=score

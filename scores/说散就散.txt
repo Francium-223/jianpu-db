@@ -1,13 +1,12 @@
 %说散就散.txt
 % 出处 https://www.qupu123.com/
 title=说散就散
-tag=
-usertag=
+tag=分类/谱友上传
+usertag=分类/谱友上传
 tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-378419
-todo=add tags
 %--
 4/4
 subtitle=score

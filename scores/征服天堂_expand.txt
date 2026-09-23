@@ -1,13 +1,12 @@
 %征服天堂.txt
 % 出处 https://www.qupu123.com/
 title=征服天堂
-tag=
-usertag=
+tag=分类/谱友上传
+usertag=分类/谱友上传
 tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-373701
-todo=add tags
 %--
 3/4
 subtitle=score

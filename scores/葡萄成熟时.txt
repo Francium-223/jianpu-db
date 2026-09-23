@@ -1,13 +1,12 @@
 %葡萄成熟时.txt
 % 出处 https://www.qupu123.com/
 title=葡萄成熟时
-tag=
-usertag=
+tag=分类/谱友上传
+usertag=分类/谱友上传
 tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-374809
-todo=add tags
 %--
 4/4
 subtitle=score

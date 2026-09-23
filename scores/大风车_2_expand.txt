@@ -1,13 +1,12 @@
 %大风车_2.txt
 % 出处 https://www.qupu123.com/
 title=大风车
-tag=
-usertag=
+tag=分类/儿歌
+usertag=分类/儿歌
 tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-331657
-todo=add tags
 %--
 3/4
 subtitle=score

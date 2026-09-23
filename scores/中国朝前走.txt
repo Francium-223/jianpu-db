@@ -1,13 +1,12 @@
 %中国朝前走.txt
 % 出处 https://www.qupu123.com/
 title=中国朝前走
-tag=
-usertag=
+tag=分类/合唱
+usertag=分类/合唱
 tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-370206
-todo=add tags
 %--
 4/4
 subtitle=score

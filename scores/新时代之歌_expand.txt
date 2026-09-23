@@ -1,13 +1,12 @@
 %新时代之歌.txt
 % 出处 https://www.qupu123.com/
 title=新时代之歌
-tag=
-usertag=
+tag=分类/合唱
+usertag=分类/合唱
 tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-369999
-todo=add tags
 %--
 4/4
 subtitle=score

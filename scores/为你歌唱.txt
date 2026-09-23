@@ -1,13 +1,12 @@
 %为你歌唱.txt
 % 出处 https://www.qupu123.com/
 title=为你歌唱
-tag=
-usertag=
+tag=分类/通俗歌曲
+usertag=分类/通俗歌曲
 tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-370216
-todo=add tags
 %--
 4/4
 subtitle=score

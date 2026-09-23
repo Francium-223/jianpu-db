@@ -1,13 +1,12 @@
 %人民是江山.txt
 % 出处 https://www.qupu123.com/
 title=人民是江山
-tag=
-usertag=
+tag=分类/合唱
+usertag=分类/合唱
 tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-370089
-todo=add tags
 %--
 3/4
 subtitle=score

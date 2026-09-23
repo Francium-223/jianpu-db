@@ -1,13 +1,12 @@
 %爱人别哭泣.txt
 % 出处 https://www.qupu123.com/
 title=爱人别哭泣
-tag=
-usertag=
+tag=分类/通俗歌曲
+usertag=分类/通俗歌曲
 tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-369979
-todo=add tags
 %--
 4/4
 subtitle=score

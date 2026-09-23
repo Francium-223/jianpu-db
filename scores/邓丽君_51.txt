@@ -1,14 +1,13 @@
 %邓丽君_51.txt
 % 出处 https://www.qupu123.com/
 title=心湖里起涟漪
-tag=
-usertag=
+tag=分类/通俗歌曲
+usertag=分类/通俗歌曲
 tagroute=
 % 原 title=邓丽君 (爬虫把歌手名当成了曲名,已按目录名修正)
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-292088
-todo=add tags
 %--
 4/4
 subtitle=score

@@ -1,13 +1,12 @@
 %太阳出来了.txt
 % 出处 https://www.qupu123.com/
 title=太阳出来了
-tag=
-usertag=
+tag=分类/合唱
+usertag=分类/合唱
 tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-319429
-todo=add tags
 %--
 2/4
 subtitle=score

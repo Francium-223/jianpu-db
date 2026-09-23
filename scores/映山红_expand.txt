@@ -1,13 +1,12 @@
 %映山红.txt
 % 出处 https://www.qupu123.com/
 title=映山红
-tag=
-usertag=
+tag=分类/谱友上传
+usertag=分类/谱友上传
 tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-375116
-todo=add tags
 %--
 2/4
 subtitle=score

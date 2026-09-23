@@ -1,13 +1,12 @@
 %京歌《我爱你中国）.txt
 % 出处 https://www.qupu123.com/
 title=京歌《我爱你中国）
-tag=
-usertag=
+tag=分类/通俗歌曲
+usertag=分类/通俗歌曲
 tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-370522
-todo=add tags
 %--
 4/4
 subtitle=score

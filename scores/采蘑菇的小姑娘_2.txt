@@ -1,13 +1,12 @@
 %采蘑菇的小姑娘_2.txt
 % 出处 https://www.qupu123.com/
 title=采蘑菇的小姑娘
-tag=
-usertag=
+tag=分类/儿歌
+usertag=分类/儿歌
 tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-3316
-todo=add tags
 %--
 4/4
 subtitle=score

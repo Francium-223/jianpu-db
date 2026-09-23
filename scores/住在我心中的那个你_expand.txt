@@ -1,13 +1,12 @@
 %住在我心中的那个你.txt
 % 出处 https://www.qupu123.com/
 title=住在我心中的那个你
-tag=
-usertag=
+tag=分类/美声
+usertag=分类/美声
 tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-369983
-todo=add tags
 %--
 4/4
 subtitle=score
