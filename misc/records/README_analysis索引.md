@@ -17,10 +17,13 @@
 | `eval_baseline_before_fix.txt` / `eval_final_7321.txt` | 改动前后的榜单指标（**逐项一致**，无回归） |
 | `eval_after_fix_20260924.txt` | 投稿漏斗修复后重跑 4 清单（与 7321 首基线比对） |
 | `quality_proposal.tsv` / `_verify_report.txt` | 体检提案 / 10.4 GB 抢救包的 SHA-256 校验报告 |
+| `推送.sh` | **醒来先跑这个**：`bash 推送.sh --check` 体检 → `bash 推送.sh` 推三个库（要凭据） |
+| `上传HF.sh` | HuggingFace 上传：`--check` 重新导出+核对 → `HF_TOKEN=… bash 上传HF.sh` |
 | `git救援/` | 三个 stash 的补丁备份（stash0 = 那次"改动全没了"的全部内容） |
 | `backup/` | 关键快照（data.jsonl 各阶段、songs.jsonl.gz.bak、改前基线） |
 | `probe_h_*.py` / `diag_*.py` / `verify_*.py` | h 时值定案与各项核对的实验脚本（可复现） |
+| `fingerprint_*.json`（在 `jianpu-db/misc/records/`） | 全部曲谱的基线指纹：批量改写后 `corpus_fingerprint.py --check` 用 |
 
-**工具都在 `jianpu2/tools/`**（`propose_tags.py` / `harvest_artists.py` / `audit_corpus_quality.py` /
+**工具都在 `jianpu2/tools/`**（`corpus_fingerprint.py`（批量写回安全网）/ `propose_tags.py` / `harvest_artists.py` / `audit_corpus_quality.py` /
 `quarantine_short_scores.py` / `refine_titles_from_pages.py` / `audit_arrangements.py` /
 `verify_source_urls.py` / `add_link.py`）—— 用法见各脚本头部 docstring 与 `jianpu2/STATE.md`。
