@@ -1,0 +1,10 @@
+refactor: 拍值表/小节线恢复并回 jptok.py(消灭第 5 份复制口径)
+
+今日同一根因(#5 丢失 / source 空 / MBID 空 / 前端高亮错位)已出现 4 次,
+都是"同一套 token 口径散在多处"。小节线恢复又引入第 5 份拍值表, 一并收敛:
+
+- jptok.py 新增 BEAT / beat() / beats_per_bar_from() / recover_bars()(唯一实现)
+- score.py 改为调用 jptok; 并带内置兜底(独立 clone 时 jptok 找不到也能出 bars)
+- 口径统一后小节线总数 339,475 -> 304,551(旧内联实现把非音符 token 也计入了累加器)
+
+Co-authored-by: deepseek-ai <service@deepseek.com>

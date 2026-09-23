@@ -6,6 +6,70 @@ import shutil
 import warnings
 import schema
 from pathlib import Path
+# 简谱 token / 时值 / 小节线恢复的**唯一实现**(jptok.py)。它住在 skill 目录里,
+# 于是这里显式加路径; 加不到就退化成内置兜底(见下面的 fallback), 保证独立 clone 也能跑。
+_JTOK_DIR = os.environ.get("JIANPU_JTOK") or os.path.join(
+	os.path.dirname(os.path.abspath(__file__)), "..", "jianpu2", "skills", "jianpu-melody-lookup")
+if os.path.isdir(_JTOK_DIR) and _JTOK_DIR not in sys.path:
+	sys.path.insert(0, _JTOK_DIR)
+try:
+	import jptok
+except Exception:                              # pragma: no cover - 只在独立 clone 时走
+	class _FallbackJptok:
+		"""jptok 找不到时的最小兜底: 保证 data.jsonl 仍产出 bars。与 jptok 同口径。"""
+		BEAT = {"h": 2.0, "": 1.0, "q": 0.5, "s": 0.25, "d": 0.125}
+		_TOK = re.compile(r"^([qsdh]*)([,']*)([#b♯♭]?)([1-7x0])([,']*)[.]*$")
+
+		@classmethod
+		def parse_token(cls, t):
+			m = cls._TOK.match(t or "")
+			if not m:
+				return None
+			_pre, octs, acc, dig, post = m.groups()
+			a = 1 if acc in ("#", "♯") else (-1 if acc in ("b", "♭") else 0)
+			off = (octs + post).count(",") - (octs + post).count("'")
+			return (None, a, off) if dig in "0x" else (int(dig), a, off)
+
+		@classmethod
+		def beat(cls, tok):
+			v = cls.BEAT.get(re.match(r"^([qsdh]*)", tok or "").group(1), 0.0625)
+			return v * 1.5 if (tok or "").endswith(".") else v
+
+		@staticmethod
+		def beats_per_bar_from(text, default=4.0):
+			m = re.search(r"(?m)^\s*(\d+)\s*/\s*(\d+)\s*$", text or "")
+			if not m:
+				return default
+			try:
+				return int(m.group(1)) * 4.0 / int(m.group(2))
+			except ZeroDivisionError:
+				return default
+
+		@classmethod
+		def recover_bars(cls, sections, beats_per_bar, keep_explicit=True):
+			bars, n, acc = [], 0, 0.0
+			for sec in sections or []:
+				for t in (sec.get("score") or "").split():
+					if t == "|":
+						if keep_explicit:
+							bars.append(n)
+						acc = 0.0
+						continue
+					if t == "-":
+						acc += 1.0
+						continue
+					p = cls.parse_token(t)
+					if not p or p[0] is None:
+						continue
+					acc += cls.beat(t)
+					n += 1
+					if acc >= beats_per_bar - 1e-9:
+						bars.append(n)
+						acc = 0.0
+			return bars
+
+	jptok = _FallbackJptok
+	warnings.warn("jptok 未找到(用内置兜底): " + _JTOK_DIR, RuntimeWarning)
 # 标签图的机械(safe_add/maybe_add/别名比较/goto_node/load_tag_rules)与
 # "usertag -> tag/tagroute"的推导**已迁到 schema.py**(单一实现)。
 # 这里只取别名, 免得出现第二份会漂移的实现。
@@ -167,50 +231,11 @@ class Score():
 		# 用户口径(2026-09-23): 「进 data.jsonl 的所有小节线必须是显式的。」
 		# 现实: 全库只有 2.5%(197/7884)的谱真写了 `|`, 而且 expand 还会把 R{..} 里的吃掉
 		# —— 所以不能靠"保留", 必须按**拍号 + 时值**把小节算出来。
-		#
-		# 算法(确定性, 与 jianpu-ly 的 addBar/barCheck 同思路):
-		#   ① 拍号 n/d -> 每小节拍数 = n * 4 / d   (4/4 -> 4 拍; 3/4 -> 3 拍; 6/8 -> 3 拍)
-		#   ② 每个音符的拍值: h=2, 无前缀=1(四分), q=0.5, s=0.25, d=0.125, 附点 x1.5
-		#      `-`(延长) 也算 1 拍; `~` 连音线不额外计时
-		#   ③ 累加到 == 每小节拍数 就落一条小节线并归零
-		#   ④ **遇源文件里已有的 `|` 就当强小节线, 累加器强制归零**(处理弱起/不规则小节)
-		#   ⑤ 一个音跨过整小节(罕见)时也落线, 归零后继续, 不会吃掉音符
-		VAL = {'h': 2.0, '': 1.0, 'q': 0.5, 's': 0.25, 'd': 0.125}
-		def _beat(tok):
-			m = re.match(r"^([qsdh]*)", tok or "")
-			v = VAL.get(m.group(1) if m else '', None)
-			if v is None:                      # 未知时值前缀(如 64 分)按最短算, 宁可多落线
-				v = 0.0625
-			return v * 1.5 if tok.endswith('.') else v
-
-		_beat_n = 4.0                          # 每小节拍数, 默认 4/4
-		# 拍号可能在 `%--` 之前(元数据区)也可能在正文第一行; raw2 为空时退回按行扫 raw。
-		_probe = self.raw2 or "\n".join(x.rstrip("\n") for x in (self.raw or []))
-		m = re.search(r"(?m)^\s*(\d+)\s*/\s*(\d+)\s*$", _probe or "")
-		if m:
-			try:
-				_beat_n = int(m.group(1)) * 4.0 / int(m.group(2))
-			except ZeroDivisionError:
-				_beat_n = 4.0
-		bars = []
-		_n = 0                                 # 已数过的音符下标
-		_acc = 0.0
-		for _sec in sections:
-			for _t in _sec['score'].split():
-				if _t == '|':                  # 源里的小节线(强)
-					bars.append(_n)
-					_acc = 0.0
-					continue
-				if _t == '-':
-					_acc += 1.0
-					continue
-				if not re.match(r"^[,']*[qsdh]*[,']*[#b]?[1-7x0]", _t):
-					continue                   # 休止/念白也占时值, 但保守起见不计(它们少)
-				_acc += _beat(_t)
-				_n += 1
-				if _acc >= _beat_n - 1e-9:
-					bars.append(_n)
-					_acc = 0.0
+		# **实现只有一份**: jptok.beat / beats_per_bar_from / recover_bars
+		# (拍值表一度在这里又写了一份, 成了第五个"复制口径"; 已并回去)。
+		_beat_n = jptok.beats_per_bar_from(
+			self.raw2 or "\n".join(x.rstrip("\n") for x in (self.raw or [])))
+		bars = jptok.recover_bars(sections, _beat_n)
 		n_notes = len([t for t in full.split() if re.match(r"^[,']*[qsdh]*[,']*[#b]?[1-7x0]|[#b][1-7]", t)])
 		# 各字段的形态由 schema 决定(字符串或列表) -> 原样传出去, 不在这里强转
 		return {
