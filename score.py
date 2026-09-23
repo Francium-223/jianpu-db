@@ -154,11 +154,16 @@ class Score():
 			if s.startswith('%') or not s:
 				continue
 			cur += [t for t in s.split()
-					if re.match(r"^[,']*[qsdh]*[,']*[1-7x0]", t) or t in ('-', '|', '~')]
+					# **升降号必须收**: 库里确实有 `#5`/`b3` 这类 token(实测 th06_15.txt 整段都是 #5),
+					# 原来的白名单 `[,']*[qsdh]*[,']*[1-7x0]` 看不见它们 -> 这些音在 data.jsonl 里
+					# **被整段丢掉**, 检索因此永远匹配不上(实测: 文件 124 音 vs jsonl 只有部分,
+					# 而且统计出"395 万 token 里 0 个升号"这种假结论)。
+					# 记谱里变音记号可能写在数字前(jiàn谱习惯)也可能在后, 所以两侧都允许。
+					if re.match(r"^[,']*[qsdh]*[,']*[#b]?[1-7x0]|[#b][1-7]", t) or t in ('-', '|', '~')]
 		if cur:
 			sections.append({'subtitle': cur_sub, 'score': ' '.join(cur)})
 		full = ' | '.join(x['score'] for x in sections if x['score'])
-		n_notes = len([t for t in full.split() if re.match(r"^[,']*[qsdh]*[,']*[1-7x0]", t)])
+		n_notes = len([t for t in full.split() if re.match(r"^[,']*[qsdh]*[,']*[#b]?[1-7x0]|[#b][1-7]", t)])
 		# 各字段的形态由 schema 决定(字符串或列表) -> 原样传出去, 不在这里强转
 		return {
 			'file': [self.score.split('/')[-1]],
