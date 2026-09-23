@@ -175,6 +175,11 @@ class Score():
 			# source= 是**逐首溯源**(站点-站内id), 之前只有曲谱文件里有、扁平记录里没带出来,
 			# 于是 data.jsonl 里这一列是空的 —— 数据集没法回答"这首哪来的" ✗
 			'source': self.others.get('source', []),
+			# MBID 是**曲目的实体级身份**(MusicBrainz)。库里已有 1034 份写了它,
+			# 但这里同样曾经漏带 -> data.jsonl 里 0 条能看见, 下游无法用"同 MBID = 同一首"
+			# 替代脆弱的曲名分组。字段名按仓库既有写法保持大写 MBID。
+			'MBID': self.others.get('MBID', ''),
+			'alias': self.others.get('alias', []),
 			'transcriber': self.others.get('transcriber', []),
 			'sections': sections,
 			'score': full,
