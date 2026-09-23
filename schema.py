@@ -1,3 +1,4 @@
+import os
 #schema.py：解析某个属性的值；并声明**属性之间的依赖**与执行顺序。
 #
 #【契约 A：一阶 / 逐值】deps 为空
@@ -118,6 +119,13 @@ def load_tag_rules(path='tags.json'):
 	  imply = 嵌套 dict, 键取每个节点 name[0]
 	  equal = 别名数 >= 2 的节点(即"等同组"), 按先序
 	"""
+	# 2026-09-24: `path` 默认是相对名('tags.json')。以前直接 open(path) -> 跟着**当前目录**走,
+	# 从别的目录 import/调用就 `FileNotFoundError: 'tags.json'`(实测从工作区根目录跑就崩)。
+	# tags.json 是**语料自己的**单一真源, 所以相对路径按 schema.py 所在目录解析。
+	if not os.path.isabs(path):
+		_cand = os.path.join(os.path.dirname(os.path.abspath(__file__)), path)
+		if os.path.isfile(_cand):
+			path = _cand
 	with open(path, 'r', encoding='utf-8') as f:
 		raw = f.read()
 	tree = json.loads(raw)

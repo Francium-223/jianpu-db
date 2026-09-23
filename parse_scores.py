@@ -1,3 +1,8 @@
+import os as _os, sys as _sys
+# 2026-09-24: 这个脚本必须在 jianpu-db 里跑(要读 scores/、tags.json, 写 by_* 与 data.jsonl)。
+# 以前从别的目录跑会崩在 `FileNotFoundError: 'tags.json'`, 而且 by_* 还会被拆到一半
+# (实测: 从工作区根目录跑 -> 崩溃 + by_* 树半重建)。自己 chdir 过来, 从哪儿跑都对。
+_os.chdir(_os.path.dirname(_os.path.abspath(__file__)))
 from score import *
 # 必须排序: os.listdir 的顺序由文件系统决定, 每次可能不同 -> data.json 的顶层键顺序乱跳,
 # 于是 CI 每次 git add -A 都提交一个巨大的"无意义重排"(实测踩过)。

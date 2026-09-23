@@ -438,6 +438,14 @@ class Score():
 		except BadBufError:
 			print(f'Bad buf: {self.prefix + '_buf.txt'}!')
 	def make_link(self):
+		# ⚠ 2026-09-24: 只给**语料自己的 `scores/`** 里的曲谱建 by_* 链接树。
+		#   by_* 树是相对**当前目录**生成的, 而任何一次 parse() 都会调到这里 ——
+		#   实测: 在 jianpu-db 里解析一份 /tmp 副本, `by_status/ok/th10_06.txt` 就被改指到
+		#   `../../../../../../tmp/injtest5/th10_06.txt`, 整棵已提交的 by_* 树被污染。
+		#   草稿/副本/沙箱解析(尖 tests、validate_repo 的沙箱等)不该动仓库;
+		#   沙箱自己在沙箱目录里跑 `scores/x.txt`, 仍然照常建树。
+		if os.path.dirname(self.score.replace('\\', '/')) not in ('scores', './scores'):
+			return
 		try:
 			with open(self.prefix + '.json', 'r', encoding='utf-8') as f:
 				file = json.load(f)
