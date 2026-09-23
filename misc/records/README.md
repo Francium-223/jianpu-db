@@ -8,6 +8,9 @@
 | `夜间工作报告_2026-09-24.md` | **先看这个**：这一夜干完的事、待你决定的、怎么复现 |
 | `修复记录_解析器丢音.md` | 丢音事故完整记录（解析器/休止计拍/h 时值定案/收录页/git 事故救援） |
 | `投稿漏斗排障_2026-09-24.md` | **投稿会不会被静默吃掉**：5 个坑 + 并发/口径隐患 + 一次自造污染事故的记录与复原 |
+| `解析副作用与输入校验_2026-09-24.md` | **读一份谱会不会改坏仓库**：parse 的副作用、两处 cwd 依赖、标签校验漏掉全部换行符、gzip 非确定性 |
+| `金曲缺口与转写队列_2026-09-24.md` | **覆盖瓶颈在哪**：48 首真缺口 + 已爬 18 首可转写简谱；含「这台机器不能转写」的实测 |
+| `金曲缺口清单.tsv` / `金曲缺口_转写队列.tsv` | 榜单每条目的判定 / 爬到的页面（id、类型、本地目录） |
 | `待办4_根因报告.md` | th10_06「3 2 / 5 6」翻转定案的证据链 |
 | `tag_todo.tsv` | **人工补标签入口**：926 首待补，填 `human_tag` 列 → `propose_tags.py --from-tsv` |
 | `title_proposal.tsv` | 曲名改名提案（138 条高置信度），`accepted` 列审完 → `refine_titles_from_pages.py --apply` |
@@ -24,6 +27,6 @@
 | `probe_h_*.py` / `diag_*.py` / `verify_*.py` | h 时值定案与各项核对的实验脚本（可复现） |
 | `fingerprint_*.json`（在 `jianpu-db/misc/records/`） | 全部曲谱的基线指纹：批量改写后 `corpus_fingerprint.py --check` 用 |
 
-**工具都在 `jianpu2/tools/`**（`corpus_fingerprint.py`（批量写回安全网）/ `propose_tags.py` / `harvest_artists.py` / `audit_corpus_quality.py` /
+**工具都在 `jianpu2/tools/`**（`corpus_fingerprint.py`（批量写回安全网）/ `check_sideeffects.py`（解析副作用）/ `coverage_gap.py`（榜单缺口量化）/ `verify_crawl_matches.py`（爬回来的谱是不是这首歌）/ `propose_tags.py` / `harvest_artists.py` / `audit_corpus_quality.py` /
 `quarantine_short_scores.py` / `refine_titles_from_pages.py` / `audit_arrangements.py` /
 `verify_source_urls.py` / `add_link.py`）—— 用法见各脚本头部 docstring 与 `jianpu2/STATE.md`。

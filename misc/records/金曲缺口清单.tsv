@@ -1,0 +1,263 @@
+榜单	曲名	歌手	判定	库里曲名	库里文件	证据
+eval_set_cma_30years30songs	月亮代表我的心	邓丽君	命中	月亮代表我的心	月亮代表我的心.txt	title 相等/包含
+eval_set_cma_30years30songs	狮子山下	罗文	命中	狮子山下遇上	狮子山下遇上.txt	title 相等/包含
+eval_set_cma_30years30songs	橄榄树	齐豫	命中	橄榄树	橄榄树.txt	title 相等/包含
+eval_set_cma_30years30songs	龙的传人	李建复	命中	龙的传人	龙的传人.txt	title 相等/包含
+eval_set_cma_30years30songs	上海滩	叶丽仪	命中	上海滩	上海滩.txt	title 相等/包含
+eval_set_cma_30years30songs	恰似你的温柔	蔡琴	命中	恰似你的温柔	恰似你的温柔.txt	title 相等/包含
+eval_set_cma_30years30songs	万里长城永不倒	叶振棠	库里没有			
+eval_set_cma_30years30songs	童年	张艾嘉	命中	童年	童年.txt	title 相等/包含
+eval_set_cma_30years30songs	万水千山总是情	汪明荃	命中	万水千山总是情	万水千山总是情.txt	title 相等/包含
+eval_set_cma_30years30songs	酒干倘卖无	苏芮	命中	酒干倘卖无	酒干倘卖无.txt	title 相等/包含
+eval_set_cma_30years30songs	风继续吹	张国荣	库里没有			
+eval_set_cma_30years30songs	我的中国心	张明敏	命中	我的中国心	我的中国心.txt	title 相等/包含
+eval_set_cma_30years30songs	爱在深秋	谭咏麟	命中	爱在深秋	爱在深秋.txt	title 相等/包含
+eval_set_cma_30years30songs	明天会更好	群星	命中	明天会更好	明天会更好.txt	title 相等/包含
+eval_set_cma_30years30songs	一无所有	崔健	命中	一无所有	一无所有.txt	title 相等/包含
+eval_set_cma_30years30songs	信天游	程琳	命中	信天游	信天游.txt	title 相等/包含
+eval_set_cma_30years30songs	大约在冬季	齐秦	命中	大约在冬季	大约在冬季.txt	title 相等/包含
+eval_set_cma_30years30songs	一生何求	陈百强	命中	一生何求	一生何求.txt	title 相等/包含
+eval_set_cma_30years30songs	千千阙歌	陈慧娴	命中	千千阙歌	千千阙歌.txt	title 相等/包含
+eval_set_cma_30years30songs	梦醒时分	陈淑桦	命中	梦醒时分	梦醒时分.txt	title 相等/包含
+eval_set_cma_30years30songs	弯弯的月亮	刘欢	命中	弯弯的月亮	弯弯的月亮_歌曲类.txt	title 相等/包含
+eval_set_cma_30years30songs	我的未来不是梦	张雨生	命中	我的未来不是梦	我的未来不是梦.txt	title 相等/包含
+eval_set_cma_30years30songs	我是一只小小鸟	赵传	命中	我是一只小小鸟	我是一只小小鸟.txt	title 相等/包含
+eval_set_cma_30years30songs	男儿当自强	林子祥	命中	男儿当自强	男儿当自强.txt	title 相等/包含
+eval_set_cma_30years30songs	海阔天空	BEYOND	命中	海阔天空	海阔天空.txt	title 相等/包含
+eval_set_cma_30years30songs	吻别	张学友	命中	吻别	吻别_歌曲类.txt	title 相等/包含
+eval_set_cma_30years30songs	同桌的你	老狼	命中	同桌的你	同桌的你.txt	title 相等/包含
+eval_set_cma_30years30songs	我愿意	王菲	命中	我愿意	我愿意（严艺丹.txt	title 相等/包含
+eval_set_cma_30years30songs	明年今日（十年）	陈奕迅	命中	明年今日	明年今日.txt	title 相等/包含
+eval_set_cma_30years30songs	千里之外	周杰伦/费玉清	命中	千里之外	千里之外.txt	title 相等/包含
+eval_set_cn_pop_100classics	月亮代表我的心	邓丽君	命中	月亮代表我的心	月亮代表我的心.txt	title 相等/包含
+eval_set_cn_pop_100classics	狮子山下	罗文	命中	狮子山下遇上	狮子山下遇上.txt	title 相等/包含
+eval_set_cn_pop_100classics	橄榄树	齐豫	命中	橄榄树	橄榄树.txt	title 相等/包含
+eval_set_cn_pop_100classics	龙的传人	李建复	命中	龙的传人	龙的传人.txt	title 相等/包含
+eval_set_cn_pop_100classics	上海滩	叶丽仪	命中	上海滩	上海滩.txt	title 相等/包含
+eval_set_cn_pop_100classics	恰似你的温柔	蔡琴	命中	恰似你的温柔	恰似你的温柔.txt	title 相等/包含
+eval_set_cn_pop_100classics	万里长城永不倒	叶振棠	库里没有			
+eval_set_cn_pop_100classics	童年	张艾嘉	命中	童年	童年.txt	title 相等/包含
+eval_set_cn_pop_100classics	万水千山总是情	汪明荃	命中	万水千山总是情	万水千山总是情.txt	title 相等/包含
+eval_set_cn_pop_100classics	酒干倘卖无	苏芮	命中	酒干倘卖无	酒干倘卖无.txt	title 相等/包含
+eval_set_cn_pop_100classics	风继续吹	张国荣	库里没有			
+eval_set_cn_pop_100classics	我的中国心	张明敏	命中	我的中国心	我的中国心.txt	title 相等/包含
+eval_set_cn_pop_100classics	爱在深秋	谭咏麟	命中	爱在深秋	爱在深秋.txt	title 相等/包含
+eval_set_cn_pop_100classics	明天会更好	群星	命中	明天会更好	明天会更好.txt	title 相等/包含
+eval_set_cn_pop_100classics	一无所有	崔健	命中	一无所有	一无所有.txt	title 相等/包含
+eval_set_cn_pop_100classics	信天游	程琳	命中	信天游	信天游.txt	title 相等/包含
+eval_set_cn_pop_100classics	大约在冬季	齐秦	命中	大约在冬季	大约在冬季.txt	title 相等/包含
+eval_set_cn_pop_100classics	一生何求	陈百强	命中	一生何求	一生何求.txt	title 相等/包含
+eval_set_cn_pop_100classics	千千阙歌	陈慧娴	命中	千千阙歌	千千阙歌.txt	title 相等/包含
+eval_set_cn_pop_100classics	梦醒时分	陈淑桦	命中	梦醒时分	梦醒时分.txt	title 相等/包含
+eval_set_cn_pop_100classics	弯弯的月亮	刘欢	命中	弯弯的月亮	弯弯的月亮_歌曲类.txt	title 相等/包含
+eval_set_cn_pop_100classics	我的未来不是梦	张雨生	命中	我的未来不是梦	我的未来不是梦.txt	title 相等/包含
+eval_set_cn_pop_100classics	我是一只小小鸟	赵传	命中	我是一只小小鸟	我是一只小小鸟.txt	title 相等/包含
+eval_set_cn_pop_100classics	男儿当自强	林子祥	命中	男儿当自强	男儿当自强.txt	title 相等/包含
+eval_set_cn_pop_100classics	海阔天空	BEYOND	命中	海阔天空	海阔天空.txt	title 相等/包含
+eval_set_cn_pop_100classics	吻别	张学友	命中	吻别	吻别_歌曲类.txt	title 相等/包含
+eval_set_cn_pop_100classics	同桌的你	老狼	命中	同桌的你	同桌的你.txt	title 相等/包含
+eval_set_cn_pop_100classics	我愿意	王菲	命中	我愿意	我愿意（严艺丹.txt	title 相等/包含
+eval_set_cn_pop_100classics	明年今日	陈奕迅	命中	明年今日	明年今日.txt	title 相等/包含
+eval_set_cn_pop_100classics	千里之外	周杰伦/费玉清	命中	千里之外	千里之外.txt	title 相等/包含
+eval_set_cn_pop_100classics	梅兰梅兰我爱你	刘家昌	模糊候选	我爱你		相似度 0.75
+eval_set_cn_pop_100classics	顺流逆流	徐小凤	命中	顺流逆流	顺流逆流.txt	title 相等/包含
+eval_set_cn_pop_100classics	铁塔凌云	许冠杰	命中	铁塔凌云	铁塔凌云.txt	title 相等/包含
+eval_set_cn_pop_100classics	掌声响起	凤飞飞	命中	掌声响起来	掌声响起来.txt	title 相等/包含
+eval_set_cn_pop_100classics	海上花	甄妮	模糊候选	上花轿		相似度 0.67
+eval_set_cn_pop_100classics	三月里的小雨	刘文正	模糊候选	泪的小雨		相似度 0.60
+eval_set_cn_pop_100classics	鹿港小镇	罗大佑	命中	鹿港小镇	鹿港小镇.txt	title 相等/包含
+eval_set_cn_pop_100classics	一剪梅	费玉清	命中	一剪梅	一剪梅_歌曲类.txt	title 相等/包含
+eval_set_cn_pop_100classics	乡恋	李谷一	命中	乡恋	乡恋.txt	title 相等/包含
+eval_set_cn_pop_100classics	似水流年	梅艳芳	命中	似水流年	似水流年.txt	title 相等/包含
+eval_set_cn_pop_100classics	寂寞难耐	李宗盛	命中	寂寞难耐	寂寞难耐_歌曲类.txt	title 相等/包含
+eval_set_cn_pop_100classics	前尘	林忆莲	库里没有			
+eval_set_cn_pop_100classics	石头记	达明一派	命中	石头记	石头记.txt	title 相等/包含
+eval_set_cn_pop_100classics	天天天蓝	潘越云	模糊候选	天天天天		相似度 0.75
+eval_set_cn_pop_100classics	新鞋子，旧鞋子	侯德健	命中	柳琴二级：新鞋子、旧鞋子	柳琴二级：新鞋子、旧鞋子.txt	title 相等/包含
+eval_set_cn_pop_100classics	一场游戏一场梦	王杰	命中	一场游戏一场梦	一场游戏一场梦.txt	title 相等/包含
+eval_set_cn_pop_100classics	其实你不懂我的心	童安格	命中	其实你不懂我的心	其实你不懂我的心.txt	title 相等/包含
+eval_set_cn_pop_100classics	梦回唐朝	唐朝乐队	命中	梦回唐朝	梦回唐朝.txt	title 相等/包含
+eval_set_cn_pop_100classics	艳阳天	窦唯	命中	艳阳天	艳阳天.txt	title 相等/包含
+eval_set_cn_pop_100classics	姐姐	张楚	库里没有			
+eval_set_cn_pop_100classics	阿姐鼓	朱哲琴	库里没有			
+eval_set_cn_pop_100classics	东风破	周杰伦	命中	东风破	东风破_歌曲类.txt	title 相等/包含
+eval_set_cn_pop_100classics	爱情陷阱	谭咏麟	命中	爱情陷阱	爱情陷阱.txt	title 相等/包含
+eval_set_cn_pop_100classics	沉默是金	张国荣	命中	沉默是金	沉默是金.txt	title 相等/包含
+eval_set_cn_pop_100classics	每天爱你多一些	张学友	命中	每天爱你多一些	每天爱你多一些.txt	title 相等/包含
+eval_set_cn_pop_100classics	甜蜜蜜	邓丽君	命中	甜蜜蜜	甜蜜蜜.txt	title 相等/包含
+eval_set_cn_pop_100classics	光阴的故事	罗大佑	命中	光阴的故事	光阴的故事_歌曲类.txt	title 相等/包含
+eval_set_cn_pop_100classics	风雨同路	徐小凤	模糊候选	风雨同舟		相似度 0.75
+eval_set_cn_pop_100classics	一样的月光	苏芮	命中	一样的月光	一样的月光.txt	title 相等/包含
+eval_set_cn_pop_100classics	真的汉子	林子祥	命中	真的汉子	真的汉子.txt	title 相等/包含
+eval_set_cn_pop_100classics	似是故人来	梅艳芳	命中	似是故人来	似是故人来.txt	title 相等/包含
+eval_set_cn_pop_100classics	爱上一个不回家的人	林忆莲	命中	林忆莲爱上一个不回家的人	林忆莲-爱上一个不回家的人.txt	title 相等/包含
+eval_set_cn_pop_100classics	追梦人	凤飞飞	命中	追梦人	追梦人_歌曲类.txt	title 相等/包含
+eval_set_cn_pop_100classics	铁血丹心	罗文/甄妮	命中	铁血丹心	铁血丹心.txt	title 相等/包含
+eval_set_cn_pop_100classics	世间始终你好	罗文/甄妮	命中	世间始终你好	世间始终你好.txt	title 相等/包含
+eval_set_cn_pop_100classics	听海	张惠妹	命中	听海	听海.txt	title 相等/包含
+eval_set_cn_pop_100classics	明天你是否依然爱我	童安格	库里没有			
+eval_set_cn_pop_100classics	偏偏喜欢你	陈百强	命中	偏偏喜欢你	偏偏喜欢你.txt	title 相等/包含
+eval_set_cn_pop_100classics	光辉岁月	BEYOND	命中	光辉岁月	光辉岁月.txt	title 相等/包含
+eval_set_cn_pop_100classics	天籁……星河传说	关正杰	库里没有			
+eval_set_cn_pop_100classics	征服	那英	模糊候选	征服天堂		相似度 0.67
+eval_set_cn_pop_100classics	潇洒走一回	叶倩文	命中	潇洒走一回	潇洒走一回.txt	title 相等/包含
+eval_set_cn_pop_100classics	沙滩	陶喆	模糊候选	白沙滩		相似度 0.80
+eval_set_cn_pop_100classics	哭砂	黄莺莺	命中	哭砂	哭砂.txt	title 相等/包含
+eval_set_cn_pop_100classics	容易受伤的女人	王菲	命中	容易受伤的女人	容易受伤的女人.txt	title 相等/包含
+eval_set_cn_pop_100classics	让我欢喜让我忧	周华健	命中	让我欢喜让我忧	让我欢喜让我忧_歌曲类.txt	title 相等/包含
+eval_set_cn_pop_100classics	今宵多珍重	崔萍	库里没有			
+eval_set_cn_pop_100classics	泪的小雨	青山	命中	泪的小雨	泪的小雨.txt	title 相等/包含
+eval_set_cn_pop_100classics	一起走过的日子	刘德华	命中	一起走过	一起走过.txt	title 相等/包含
+eval_set_cn_pop_100classics	每段路	吕方	库里没有			
+eval_set_cn_pop_100classics	哪有一天不想你	黎明	模糊候选	一天天想你		相似度 0.67
+eval_set_cn_pop_100classics	终身美丽	郑秀文	库里没有			
+eval_set_cn_pop_100classics	半斤八两	许冠杰	命中	半斤八两	半斤八两.txt	title 相等/包含
+eval_set_cn_pop_100classics	最后一夜	蔡琴	模糊候选	最后一页		相似度 0.75
+eval_set_cn_pop_100classics	富士山下	陈奕迅	命中	富士山下	富士山下.txt	title 相等/包含
+eval_set_cn_pop_100classics	野百合也有春天	潘越云	命中	野百合也有春天	野百合也有春天_歌曲类.txt	title 相等/包含
+eval_set_cn_pop_100classics	只要你过得比我好	钟镇涛	库里没有			
+eval_set_cn_pop_100classics	那就是我	谷建芬	模糊候选	就是我		相似度 0.86
+eval_set_cn_pop_100classics	少年壮志不言愁	刘欢	命中	少年壮志不言愁	少年壮志不言愁.txt	title 相等/包含
+eval_set_cn_pop_100classics	再回首	姜育恒	命中	再回首	再回首.txt	title 相等/包含
+eval_set_cn_pop_100classics	青藏高原	李娜	命中	青藏高原	青藏高原.txt	title 相等/包含
+eval_set_cn_pop_100classics	红日	李克勤	命中	红日	红日.txt	title 相等/包含
+eval_set_cn_pop_100classics	草原之夜	李双江	命中	草原之夜	草原之夜.txt	title 相等/包含
+eval_set_cn_pop_100classics	留住我吧	太极乐队	库里没有			
+eval_set_cn_pop_100classics	爱如潮水	张信哲	命中	爱如潮水	爱如潮水.txt	title 相等/包含
+eval_set_cn_pop_100classics	绿叶对根的情义	毛阿敏	模糊候选	绿叶对根的情意		相似度 0.86
+eval_set_cn_pop_100classics	青苹果乐园	小虎队	命中	青苹果乐园	青苹果乐园.txt	title 相等/包含
+eval_set_cn_pop_100classics	对你爱不完	郭富城	命中	对你爱不完	对你爱不完.txt	title 相等/包含
+eval_set_cn_pop_100classics	恋爱症候群	黄舒骏	库里没有			
+eval_set_cn_pop_100classics	失恋	草蜢	模糊候选	多谢失恋		相似度 0.67
+eval_set_cn_pop_100classics	让世界充满爱	群星	模糊候选	用爱让世界充满阳光		相似度 0.67
+eval_set_cn_pop_100classics	太傻	巫启贤	命中	太傻	太傻.txt	title 相等/包含
+eval_set_cn_pop_100classics	十五的月亮	董文华	模糊候选	弯弯的月亮		相似度 0.60
+eval_set_cn_pop_100classics	情义两心坚	张德兰	库里没有			
+eval_set_cn_pop_100classics	感恩的心	欧阳菲菲	命中	感恩的心	感恩的心（巴秀拉.txt	title 相等/包含
+eval_set_cn_pop_100classics	倚天屠龙记	郑少秋	命中	倚天屠龙记主题曲	倚天屠龙记-主题曲.txt	title 相等/包含
+eval_set_cn_pop_100classics	不见不散	孙楠	命中	2022不见不散	2022不见不散.txt	title 相等/包含
+eval_set_cn_pop_100classics	恼人的秋风	高凌风	库里没有			
+eval_set_cn_pop_100classics	钟爱一生	杜德伟	命中	钟爱一生	钟爱一生_歌曲类.txt	title 相等/包含
+eval_set_cn_pop_100classics	在那桃花盛开的地方	蒋大为	命中	口琴七级：在那桃花盛开的地方	口琴七级：在那桃花盛开的地方.txt	title 相等/包含
+eval_set_cn_pop_100classics	志明与春娇	五月天	库里没有			
+eval_set_cn_pop_100classics	爱的太迟	古巨基	模糊候选	爱的太仓促		相似度 0.67
+eval_set_cn_pop_100classics	苦酒满杯	谢雷	库里没有			
+eval_set_cn_pop_100classics	榕树下	余天	模糊候选	古树下		相似度 0.67
+eval_set_cn_pop_100classics	难忘今宵	李谷一	命中	难忘今宵	难忘今宵_G调版伴奏.txt	title 相等/包含
+eval_set_cn_pop_100classics	闪亮的日子	刘文正	命中	闪亮的日子	闪亮的日子.txt	title 相等/包含
+eval_set_cn_pop_100classics	狼	齐秦	模糊候选	狼烟		相似度 0.67
+eval_set_cn_pop_100classics	人生何处不相逢	陈慧娴	命中	人生何处不相逢	人生何处不相逢.txt	title 相等/包含
+eval_set_cn_pop_100classics	忘尽心中情	叶振棠	库里没有			
+eval_set_cn_pop_100classics	凡人歌	李宗盛	命中	凡人歌	凡人歌_歌曲类.txt	title 相等/包含
+eval_set_cn_pop_100classics	往事只能回味	尤雅	命中	往事只能回味	往事只能回味.txt	title 相等/包含
+eval_set_cn_pop_100classics	涛声依旧	毛宁	库里没有			
+eval_set_cn_pop_100classics	堆积情感	邝美云	库里没有			
+eval_set_cn_pop_100classics	牧羊曲	郑绪岚	命中	牧羊曲	牧羊曲.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	唯一	G.E.M.邓紫棋	库里没有			
+eval_set_kugou_hualiu_2025	晴天	周杰伦	命中	晴天	晴天（周杰伦.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	爱错	王力宏	命中但太短	爱错	爱错（简和谱）__qupu123-350544.txt	只有 6 个音(检索下限 11, 榜单不算)
+eval_set_kugou_hualiu_2025	舍得	王维旖	命中	舍得	舍得（网剧《双世宠妃》片尾曲）__qupu123-294759.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	特别的人	方大同	库里没有			
+eval_set_kugou_hualiu_2025	瞬	郑润泽	模糊候选	瞬间		相似度 0.67
+eval_set_kugou_hualiu_2025	青花瓷	周杰伦	命中	青花瓷	青花瓷.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	春娇与志明	街道办GDC、欧阳耀荣	库里没有			
+eval_set_kugou_hualiu_2025	搁浅	周杰伦	库里没有			
+eval_set_kugou_hualiu_2025	偏爱	张芸京	模糊候选	爱		相似度 0.67
+eval_set_kugou_hualiu_2025	红色高跟鞋	蔡健雅	命中	红色高跟鞋	红色高跟鞋__qupu123-378999.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	青花	周传雄	命中	青花	青花（吴文峰词 何永志曲）__qupu123-81984.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	稻香	周杰伦	命中	稻香	稻香.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	花海	周杰伦	模糊候选	桂花海		相似度 0.80
+eval_set_kugou_hualiu_2025	孤独患者	陈奕迅	库里没有			
+eval_set_kugou_hualiu_2025	小美满	周深	命中	小美满	小美满（合唱谱）__qupu123-391283.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	世界赠与我的	王菲	命中	世界赠与我的	世界赠与我的__qupu123-389019.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	爱情讯息	郭静	模糊候选	爱情		相似度 0.67
+eval_set_kugou_hualiu_2025	无名的人	毛不易	命中	无名的人	无名的人__qupu123-385188.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	Always Online	林俊杰	命中	Always	Always_Online.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	执子之手	宝石Gem、哩哩	命中	执子之手到永远	执子之手到永远__qupu123-279788.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	爱我还是他	陶喆	命中	爱我还是他	爱我还是他__qupu123-333102.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	如愿	王菲	模糊候选	愿		相似度 0.67
+eval_set_kugou_hualiu_2025	兰亭序	周杰伦	库里没有			
+eval_set_kugou_hualiu_2025	下一个天亮	郭静	命中	下一个天亮	下一个天亮__qupu123-385166.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	多远都要在一起	G.E.M.邓紫棋	命中	多远都要在一起	多远都要在一起_—.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	富士山下	陈奕迅	命中	富士山下	富士山下.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	海阔天空	BEYOND	命中	海阔天空	海阔天空.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	西海情歌	刀郎	命中	西海情歌	西海情歌.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	明明就	周杰伦	库里没有			
+eval_set_kugou_hualiu_2025	演员	薛之谦	命中	演员	演员.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	说好的幸福呢	周杰伦	命中	说好的幸福呢	说好的幸福呢.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	一路向北	周杰伦	库里没有			
+eval_set_kugou_hualiu_2025	七里香	周杰伦	命中	七里香	七里香.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	爱你没差	周杰伦	模糊候选	爱你没爱够		相似度 0.67
+eval_set_kugou_hualiu_2025	江南	林俊杰	命中	江南	江南__qupu123-360746.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	蒲公英的约定	周杰伦	模糊候选	蒲公英		相似度 0.75
+eval_set_kugou_hualiu_2025	奢香夫人	凤凰传奇	命中	奢香夫人	奢香夫人.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	越来越不懂	蔡健雅	模糊候选	越来越		相似度 0.75
+eval_set_kugou_hualiu_2025	枫	周杰伦	命中	枫	枫.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	雨爱	杨丞琳	模糊候选	爱		相似度 0.67
+eval_set_kugou_hualiu_2025	喜欢你	G.E.M.邓紫棋	命中	喜欢你	喜欢你.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	说了再见	周杰伦	库里没有			
+eval_set_kugou_hualiu_2025	落（花开花落日生日没）	唐伯虎Annie	模糊候选	缘落		相似度 0.67
+eval_set_kugou_hualiu_2025	黄昏	周传雄	命中	黄昏	黄昏.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	十年	陈奕迅	命中	十年	十年.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	起风了	卖辣椒也用券	命中	起风了	起风了.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	天地龙鳞	王力宏	库里没有			
+eval_set_kugou_hualiu_2025	我知道	BY2	命中	我知道	我知道.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	告白气球	周杰伦	命中	告白气球	告白气球.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	倒数	G.E.M.邓紫棋	命中	倒数	倒数.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	天下	章节	模糊候选	客天下		相似度 0.80
+eval_set_kugou_hualiu_2025	小三对白	丁禹兮	库里没有			
+eval_set_kugou_hualiu_2025	句号	G.E.M.邓紫棋	库里没有			
+eval_set_kugou_hualiu_2025	一路生花	温弈心	命中	一路生花	一路生花__qupu123-397307.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	泡沫	G.E.M.邓紫棋	命中	泡沫	泡沫.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	如果可以	韦礼安	命中	如果可以	如果可以__qupu123-381404.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	可惜没如果	林俊杰	命中	可惜没如果	可惜没如果_—.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	暮色回响	张韶涵	库里没有			
+eval_set_kugou_hualiu_2025	Letting Go	蔡健雅	命中	Letting	Letting Go__qupu123-378232.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	最后一页	江语晨	命中	最后一页	最后一页__qupu123-235464.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	就是哪吒	唐汉霄	库里没有			
+eval_set_kugou_hualiu_2025	红尘客栈	周杰伦	命中	红尘客栈	红尘客栈__qupu123-378141.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	等一分钟	徐誉滕	命中	等一分钟	等一分钟（笛子演奏谱）__qupu123-280541.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	反方向的钟	周杰伦	库里没有			
+eval_set_kugou_hualiu_2025	退后	周杰伦	库里没有			
+eval_set_kugou_hualiu_2025	大山	王睿卓	命中	大山	大山__qupu123-222085.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	凄美地	国定	库里没有			
+eval_set_kugou_hualiu_2025	体面	于文文	命中	体面	体面.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	亲爱的你啊	任素汐	命中	亲爱的你啊	亲爱的你啊__qupu123-395089.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	猜不透	丁当	命中	猜不透	猜不透（编配乐谱）__qupu123-35068.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	戒烟	李荣浩	命中	戒烟	戒烟.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	素颜	许嵩、何曼婷	模糊候选	素颜钢琴		相似度 0.67
+eval_set_kugou_hualiu_2025	恭喜发财	刘德华	命中	恭喜发财	恭喜发财.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	光辉岁月	BEYOND	命中	光辉岁月	光辉岁月.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	晚风心里吹	阿梨粤	库里没有			
+eval_set_kugou_hualiu_2025	迟来的爱（新版）	金润吉	命中	迟来的爱	迟来的爱__qupu123-178033.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	美人鱼	林俊杰	命中	美人鱼	美人鱼.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	千千阙歌	陈慧娴	命中	千千阙歌	千千阙歌.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	其实	薛之谦	命中	其实	其实（薛之谦 词曲）__qupu123-304211.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	烟花易冷	周杰伦	命中	烟花易冷	烟花易冷.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	最长的电影	周杰伦	模糊候选	最美的身影		相似度 0.60
+eval_set_kugou_hualiu_2025	还是分开	张叶蕾	库里没有			
+eval_set_kugou_hualiu_2025	叹云兮	巨鲸为	命中	叹云兮	叹云兮（电视剧《芸汐传》片尾曲）__qupu123-322846.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	指纹	杜宣达	命中	指纹	指纹（何也词 邓融和曲）__qupu123-98901.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	冬天的秘密	周传雄	模糊候选	冬天的守望		相似度 0.60
+eval_set_kugou_hualiu_2025	茶花开了	王睿卓	命中	茶花开了	茶花开了__qupu123-388046.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	冲动的惩罚	刀郎	命中	冲动的惩罚	冲动的惩罚.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	不讲究	李荣浩	库里没有			
+eval_set_kugou_hualiu_2025	我落泪情绪零碎	周杰伦	命中	我落泪情绪零碎钢琴	我落泪情绪零碎钢琴.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	讲不出再见	谭咏麟	命中	讲不出再见	讲不出再见.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	虚拟	陈粒	库里没有			
+eval_set_kugou_hualiu_2025	平凡之路	朴树	命中	平凡之路	平凡之路.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	最好的安排	曲婉婷	模糊候选	你是最好的		相似度 0.60
+eval_set_kugou_hualiu_2025	光年之外	G.E.M.邓紫棋	命中	光年之外	光年之外.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	再见只是陌生人	庄心妍	命中	再见只是陌生人	再见只是陌生人__qupu123-316662.txt	title 相等/包含
+eval_set_kugou_hualiu_2025	推开世界的门	杨乃文	库里没有			
+eval_set_kugou_hualiu_2025	曾经的你	许巍	命中	曾经的你	曾经的你.txt	title 相等/包含
+eval_set_tme_2024_top10	小美满	周深	命中	小美满	小美满（合唱谱）__qupu123-391283.txt	title 相等/包含
+eval_set_tme_2024_top10	借过一下	周深	库里没有			
+eval_set_tme_2024_top10	缝合	周深	库里没有			
+eval_set_tme_2024_top10	暮色回响	张韶涵	库里没有			
+eval_set_tme_2024_top10	才二十三	方大同	库里没有			
+eval_set_tme_2024_top10	写在星星上	吴克群	库里没有			
+eval_set_tme_2024_top10	AI	薛之谦	模糊候选	A		相似度 0.67
+eval_set_tme_2024_top10	纯妹妹	单依纯	库里没有			
+eval_set_tme_2024_top10	The Beast	严浩翔	模糊候选	THE		相似度 0.75
+eval_set_tme_2024_top10	瘦子	丁世光	库里没有			
