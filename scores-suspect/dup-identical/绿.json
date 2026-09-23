@@ -1,0 +1,22 @@
+{
+    "绿.txt": {
+        "file": [
+            "绿.txt"
+        ],
+        "title": "绿",
+        "usertag": [
+            "张运长"
+        ],
+        "tagroute": [],
+        "tag": [
+            "张运长"
+        ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-240789"
+        ]
+    }
+}

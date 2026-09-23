@@ -1,0 +1,21 @@
+{
+    "青原赋.txt": {
+        "file": [
+            "青原赋.txt"
+        ],
+        "title": "青原赋",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-475606"
+        ],
+        "todo": [
+            "add tags"
+        ]
+    }
+}

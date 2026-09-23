@@ -1,0 +1,22 @@
+{
+    "打电话.txt": {
+        "file": [
+            "打电话.txt"
+        ],
+        "title": "打电话",
+        "usertag": [
+            "分类/儿歌"
+        ],
+        "tagroute": [],
+        "tag": [
+            "分类/儿歌"
+        ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-42563"
+        ]
+    }
+}

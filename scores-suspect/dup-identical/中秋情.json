@@ -1,0 +1,21 @@
+{
+    "中秋情.txt": {
+        "file": [
+            "中秋情.txt"
+        ],
+        "title": "中秋情",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-475610"
+        ],
+        "todo": [
+            "add tags"
+        ]
+    }
+}

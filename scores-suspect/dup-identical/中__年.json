@@ -1,0 +1,25 @@
+{
+    "中__年.txt": {
+        "file": [
+            "中__年.txt"
+        ],
+        "title": "中__年",
+        "usertag": [
+            "分类/儿歌"
+        ],
+        "tagroute": [],
+        "tag": [
+            "分类/儿歌"
+        ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-26442"
+        ],
+        "todo": [
+            "refine the filename"
+        ]
+    }
+}

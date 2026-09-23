@@ -1,0 +1,28 @@
+{
+    "1=F4_4_深.txt": {
+        "file": [
+            "1=F4_4_深.txt"
+        ],
+        "title": "1=F4_4_深",
+        "usertag": [
+            "分类/草原"
+        ],
+        "tagroute": [],
+        "tag": [
+            "分类/草原"
+        ],
+        "%1": [
+            "F4_4_深.txt"
+        ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-315435"
+        ],
+        "todo": [
+            "refine the filename"
+        ]
+    }
+}
