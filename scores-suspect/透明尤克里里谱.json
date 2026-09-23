@@ -1,0 +1,27 @@
+{
+    "透明尤克里里谱.txt": {
+        "file": [
+            "透明尤克里里谱.txt"
+        ],
+        "title": "透明尤克里里谱",
+        "usertag": [
+            "邓紫棋",
+            "分类/尤克里里谱"
+        ],
+        "tagroute": [],
+        "tag": [
+            "邓紫棋",
+            "分类/尤克里里谱"
+        ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-458669"
+        ],
+        "todo": [
+            "refine the filename"
+        ]
+    }
+}
