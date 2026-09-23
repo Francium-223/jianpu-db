@@ -9,10 +9,10 @@ status=midi
 %---
 subtitle=intro
 KeepLength
-,6c. c,7. 1c c~ 1q 3c. 2q q1 q,7 q1
-,6c. c,7. 1c c~ 1q 3c. 2q q,7 q1 q,6
-,6c. c,7. 1c c~ 1q 2c. 1q q,7 q,6 q,5
-,6c. c,7. 1c c~ 1q 3c. 2q q3 q6 q3
+c,6. c,7. c1 c~ q1 c3. q2 q1 q,7 q1
+c,6. c,7. c1 c~ q1 c3. q2 q,7 q1 q,6
+c,6. c,7. c1 c~ q1 c2. q1 q,7 q,6 q,5
+c,6. c,7. c1 c~ q1 c3. q2 q3 q6 q3
 NextScore
 subtitle=layer
 6 - - - - - - -
@@ -22,21 +22,21 @@ subtitle=layer
 NextScore
 subtitle=verse
 KeepLength
-'1q 7s s6 s~ 6c c- c- c- c6 c7 c'1
-7c. c3. c5 c~ c5 c3 c5 c7
-c'2. 6q 6c c- c- c- c6 c7
+q'1 s7 s6 s~ c6 c- c- c- c6 c7 c'1
+c7. c3. c5 c~ c5 c3 c5 c7
+c'2. q6 c6 c- c- c- c6 c7
 c'1. c7. c6 c'2. c'1. c7
 c6 c- c- c- c- c- c- c-
 c5 c- c- c- c3 c- c'3 c-
-c'2. 6q 6c c- c- c- c6 c7
+c'2. q6 c6 c- c- c- c6 c7
 c'1. c7. c6 c'2 c7 c3 c5
 NextScore
 subtitle=chorus
 KeepLength
-,6c. c,7. c1 c,7. c,1. c2
+c,6. c,7. c1 c,7. c,1. c2
 c1. c2. c3 c1. c,7. c,5
-,6c. c,7. c1 c,7. c,1. c2 c1. c2. c3 c6 c- c- c-
-,6c. c,7. c1 c,7. c,1. c2
+c,6. c,7. c1 c,7. c,1. c2 c1. c2. c3 c6 c- c- c-
+c,6. c,7. c1 c,7. c,1. c2
 c1. c2. c3 c1. c,7. c,5
-,6c. c,7. c1 c,7. c,1. c2 c2. #1q #1c c- c- c- c- c-
+c,6. c,7. c1 c,7. c,1. c2 c2. q#1 c#1 c- c- c- c- c-
 %END

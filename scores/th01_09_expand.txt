@@ -9,27 +9,27 @@ transcriber=Francium-223
 status=ok
 %---
 subtitle=intro
-,6. ,7. 1 ~ 1q 2q ~ 2 1q ,7q ,6q ,5q
-,6. ,7. 1 ~ 1q 2q ~ 2 1q ,7q ,6q ,5q ,6. ,7. 1 ~ 1q 2q ~ 2 3 -
+,6. ,7. 1 ~ q1 q2 ~ 2 q1 q,7 q,6 q,5
+,6. ,7. 1 ~ q1 q2 ~ 2 q1 q,7 q,6 q,5 ,6. ,7. 1 ~ q1 q2 ~ 2 3 -
 3 - - - #2 - 5 #4
 NextScore
 subtitle=verse
 KeepLength
-3 - - 6q 7q '1c. c7. 5c c6. '3q q~ '3c c- ,7c. c1. c2
-c3 c- c- 6q 7q '1c. c7. 5c c7. '1q 6c c- c- c- c- c-
-c3 c- c- 6q 7q '1c. c7. 5c c6. '3q q~ '3c c- ,7c. c1. c2
-c3 c- c- 6q 7q '1c. c7. 3q q5 7c. '1q 6c c- c- c- c- c-
+3 - - q6 q7 c'1. c7. c5 c6. q'3 q~ c'3 c- c,7. c1. c2
+c3 c- c- q6 q7 c'1. c7. c5 c7. q'1 c6 c- c- c- c- c-
+c3 c- c- q6 q7 c'1. c7. c5 c6. q'3 q~ c'3 c- c,7. c1. c2
+c3 c- c- q6 q7 c'1. c7. q3 q5 c7. q'1 c6 c- c- c- c- c-
 NextScore
 subtitle=pre-chorus
 KeepLength
-4c c- c~ 4q q4 q3 q2 5c. c3. c4
-4c c- c~ 4q q4 q5 q6 3c. c1. c3
-4c c- c~ 4q q4 q5 q4 3c. 6q q~ 6c c-
-4c. c5. c6 c- c- c- c-
-#5c. c6. c7 c7. c'1. c'2 '#2c c- c- c-
-c#5 c- '#2c c-
+c4 c- c~ q4 q4 q3 q2 c5. c3. c4
+c4 c- c~ q4 q4 q5 q6 c3. c1. c3
+c4 c- c~ q4 q4 q5 q4 c3. q6 q~ c6 c-
+c4. c5. c6 c- c- c- c-
+c#5. c6. c7 c7. c'1. c'2 c'#2 c- c- c-
+c#5 c- c'#2 c-
 NextScore
 subtitle=chorus
-,6c. 2s 3s ,6c - 6c - 2q 3q 1q 2q ,6c. 2s 3s ,6c - 6c - - -
-,6c. 2s 3s ,6c - 6c - 5q 6q '1q 7q 6c. 5s 6s 3c - ,6c - - -
+c,6. s2 s3 c,6 - c6 - q2 q3 q1 q2 c,6. s2 s3 c,6 - c6 - - -
+c,6. s2 s3 c,6 - c6 - q5 q6 q'1 q7 c6. s5 s6 c3 - c,6 - - -
 %END

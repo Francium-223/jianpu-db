@@ -10,13 +10,13 @@ status=ok
 4/4
 subtitle=intro
 KeepLength
-,6s s3 s,6 s2 s1 s,7 s,6 s3 s2 s1 s,7 s,5 s2 s1 s5 s3 s,6 s,7 s1 s,6 s3 s2 s1 s2 s3 s,6 s2 s,6 s1 s,6 s,7 s,6
+s,6 s3 s,6 s2 s1 s,7 s,6 s3 s2 s1 s,7 s,5 s2 s1 s5 s3 s,6 s,7 s1 s,6 s3 s2 s1 s2 s3 s,6 s2 s,6 s1 s,6 s,7 s,6
 NextScore
 subtitle=layer
 6 - 7 - 1' - - - 7 - 2' - 1' - - - 7 - 2' ~ q2' ~ s2' d1' d7 | 1' - - - 7 - 2' - 5 - - - 3' - 7 -
 NextScore
 subtitle=chorus
 KeepLength
-0q q0 q0 q0 q0 q3 q6 q7 q1' q7 q6 q2' q1' q7 q6 q5 q6 q3' q7 q1' q0 q3 q6 q7 q1' q7 q6 q2' q1' q7 q6 q3 q7 q1' q2' q3' q0 q3 q6 q7 q1' q7 q6 q3 q2' q1' q7 q1' q1' q7 q2' q3' q0 q3' q2' q1' q1' q7 q6 q3 q2' q1' q7 q5 q6 q3 q7 q1' q0 q3 q6 q7
+q0 q0 q0 q0 q0 q3 q6 q7 q1' q7 q6 q2' q1' q7 q6 q5 q6 q3' q7 q1' q0 q3 q6 q7 q1' q7 q6 q2' q1' q7 q6 q3 q7 q1' q2' q3' q0 q3 q6 q7 q1' q7 q6 q3 q2' q1' q7 q1' q1' q7 q2' q3' q0 q3' q2' q1' q1' q7 q6 q3 q2' q1' q7 q5 q6 q3 q7 q1' q0 q3 q6 q7
 q1' q7 q6 q2' q1' q7 q6 q5 q6 q3' q7 q1' q0 q3 q6 q7 q1' q7 q6 q2' q1' q7 q6 q3 q7 q1' q2' q3' q0 q3 q6 q7 q1' q7 q6 q3 q2' q1' q7 q1' q1' q7 q2' q3' q0 q3' q2' q1' q1' q7 q6 q3 q2' q1' q7 q5 q6 q3 q7 q1' q0 q3 q6 q7
 %END

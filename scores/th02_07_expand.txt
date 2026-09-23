@@ -9,10 +9,10 @@ status=ok
 %---
 subtitle=intro,verse
 KeepLength
-0c 3s s1 s,6 s3 s1 s,6 s2 s,7 s,5 s2 s,7 s,5
-0c 3s s1 s,6 s3 s1 s,6 s2 s,7 s,5 s2 s,7 s,5
-0c 3s s1 s,6 s3 s1 s,6 s2 s,7 s,5 s2 s,7 s,5
-0c 3s s1 s,6 s3 s1 s,6 s4 s2 s,7 s4 s2 s,7
+c0 s3 s1 s,6 s3 s1 s,6 s2 s,7 s,5 s2 s,7 s,5
+c0 s3 s1 s,6 s3 s1 s,6 s2 s,7 s,5 s2 s,7 s,5
+c0 s3 s1 s,6 s3 s1 s,6 s2 s,7 s,5 s2 s,7 s,5
+c0 s3 s1 s,6 s3 s1 s,6 s4 s2 s,7 s4 s2 s,7
 NextScore
 subtitle=chorus
 KeepLength

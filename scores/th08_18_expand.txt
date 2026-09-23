@@ -11,16 +11,16 @@ todo=transcribe the crazy piano
 %---
 subtitle=intro,verse
 KeepLength
-0c c0 c0 ,3q q,5 ,6c c- ,7q q1 3c c,6 c- c~ 6q q3 q6 q7 '1c c- c6 c- c7 c- c5 c- c3 c- c- c-
-c,6 c- ,7q q1 3c c,6 c- c,#5 c- ,6q q,7 q1 q3 q1 q,7 q,6 q,7 q1 q2 q3 q5 6c c-
-,6c c- ,7q q1 3c c,6 c- c~ 6q q3 q6 q7 '1c c- c6 c- c7 c- c5 c- c3 c- c- c-
-c,6 c- ,7q q1 3c c,6 c- c,#5 c- ,6q q,7 q1 q3 q1 q,7 q,6 q,7 q1 q2 q3 q5 6c c-
+c0 c0 c0 q,3 q,5 c,6 c- q,7 q1 c3 c,6 c- c~ q6 q3 q6 q7 c'1 c- c6 c- c7 c- c5 c- c3 c- c- c-
+c,6 c- q,7 q1 c3 c,6 c- c,#5 c- q,6 q,7 q1 q3 q1 q,7 q,6 q,7 q1 q2 q3 q5 c6 c-
+c,6 c- q,7 q1 c3 c,6 c- c~ q6 q3 q6 q7 c'1 c- c6 c- c7 c- c5 c- c3 c- c- c-
+c,6 c- q,7 q1 c3 c,6 c- c,#5 c- q,6 q,7 q1 q3 q1 q,7 q,6 q,7 q1 q2 q3 q5 c6 c-
 NextScore
 subtitle=chorus
 KeepLength
-1c c- 2q q3 5c c,7 c- c~ ,7q q'1 q6 q'3 '1c c- c6 c- c'2 c- c7 c- c#5 c- c- c-
-c4 c- 5q q6 7c c1 c- c,7 c- 1q q2 q3 q6 q3 q2 q1 q2 q3 q6 q7 q'2 '3c c-
-,6c c- ,7q q1 3c c,6 c- c~ 6q q3 q6 q7 '1c c- c6 c- c7 c- c5 c- c3 c- c- c-
-c,6 c- ,7q q1 3c c,6 c- c,#5 c- ,6q q,7 q1 q3 q1 q,7 q,6 q,7 q1 q2 q3 q5 6c c-
+c1 c- q2 q3 c5 c,7 c- c~ q,7 q'1 q6 q'3 c'1 c- c6 c- c'2 c- c7 c- c#5 c- c- c-
+c4 c- q5 q6 c7 c1 c- c,7 c- q1 q2 q3 q6 q3 q2 q1 q2 q3 q6 q7 q'2 c'3 c-
+c,6 c- q,7 q1 c3 c,6 c- c~ q6 q3 q6 q7 c'1 c- c6 c- c7 c- c5 c- c3 c- c- c-
+c,6 c- q,7 q1 c3 c,6 c- c,#5 c- q,6 q,7 q1 q3 q1 q,7 q,6 q,7 q1 q2 q3 q5 c6 c-
 %---
 %END

@@ -9,41 +9,41 @@ status=ok
 %---
 subtitle=intro
 KeepLength
-3q 6c 4q 6c #4q 6q q~ 6q 4q 6c 3q q6 q2 q6
-3q 6c 4q 6c #4q 6q q~ 6q 4q 6c 3q q6 q2 q6
-3q 6c 4q 6c #4q 6q q~ 6q 4q 6c 3q q6 q2 q6
-3q 6c 4q 6c #4q 6q q~ 6q 4q 6c 3q q6 q2 q6
+q3 c6 q4 c6 q#4 q6 q~ q6 q4 c6 q3 q6 q2 q6
+q3 c6 q4 c6 q#4 q6 q~ q6 q4 c6 q3 q6 q2 q6
+q3 c6 q4 c6 q#4 q6 q~ q6 q4 c6 q3 q6 q2 q6
+q3 c6 q4 c6 q#4 q6 q~ q6 q4 c6 q3 q6 q2 q6
 %TODO:refine this offset
-3q q,6 q,7 q3 q,6 q,7 q3 q,6 q,7 q3 q,6 q,7 q6 q3 q7 q3
+q3 q,6 q,7 q3 q,6 q,7 q3 q,6 q,7 q3 q,6 q,7 q6 q3 q7 q3
 q'1 q7 q6 q3 q2 q3 q1 q3 q1 q,7 q,6 q,3 q,6 q,3 q,7 q1
 q,6 q3 q2 q3 q,6 q3 q2 q3 q,6 q3 q2 q3 q1 q,7 q,6 q,3
-q6 q'3 q'2 q'3 q6 q'3 q'2 q'3 '6c c- c- c-
+q6 q'3 q'2 q'3 q6 q'3 q'2 q'3 c'6 c- c- c-
 NextScore
 subtitle=bridge
-,6. ,6q ~ ,6c ,6c ~ ,6q ,6c. ,6 ,5
-,6. ,6q ~ ,6c ,6c ~ ,6q ,6c. ,6 ,5
+,6. q,6 ~ c,6 c,6 ~ q,6 c,6. ,6 ,5
+,6. q,6 ~ c,6 c,6 ~ q,6 c,6. ,6 ,5
 NextScore
 subtitle=verse
 KeepLength
-,6c c- c~ ,6q q,3 q,6 q,7 1c c- c3 c-
-c2. 3q ,6c c- c- c- c- c,7
-1c c- c~ 1q q,3 q,6 q,7 1c c- c3 1q q3 5c. 6q 6c c- c- c- 3q q2 q1 q,7
-,6c c- c~ ,6q q,3 q,6 q,7 1c c- c3 c-
-c2. 3q ,6c c- c- c- c- c,7
-1c c- c~ 1q q,3 q,6 q,7 1c c- c3 1q q3 5c. 6q 6c c- c- c- 7c c'1
+c,6 c- c~ q,6 q,3 q,6 q,7 c1 c- c3 c-
+c2. q3 c,6 c- c- c- c- c,7
+c1 c- c~ q1 q,3 q,6 q,7 c1 c- c3 q1 q3 c5. q6 c6 c- c- c- q3 q2 q1 q,7
+c,6 c- c~ q,6 q,3 q,6 q,7 c1 c- c3 c-
+c2. q3 c,6 c- c- c- c- c,7
+c1 c- c~ q1 q,3 q,6 q,7 c1 c- c3 q1 q3 c5. q6 c6 c- c- c- c7 c'1
 NextScore
 subtitle=pre-chorus
 KeepLength
-,6c c- ,7c. 1q q~ 1c c- ,6q q,7 q1 q2
-1c c- 2c. 3q q~ 3c c- 2q q3 5c
-,6c c- ,7c. 1q q~ 1c c- ,6q q,7 q1 q2
-,6q q,7 1c ,7q q1 2c #1c c- 5q. q#4. q3
+c,6 c- c,7. q1 q~ c1 c- q,6 q,7 q1 q2
+c1 c- c2. q3 q~ c3 c- q2 q3 c5
+c,6 c- c,7. q1 q~ c1 c- q,6 q,7 q1 q2
+q,6 q,7 c1 q,7 q1 c2 c#1 c- q5. q#4. q3
 NextScore
 subtitle=chorus
 %TODO:refine this offset
 KeepLength
-6q. q7. q'1 q7. q6. q5 q6. q1. q2 q3. q5. q6
-6q. q7. q'1 q7. q'1. q'2 q'1. q7. q6 q1. q2. q3
-6q. q7. q'1 q7. q6. q5 q6. q1. q2 q3. q5. q6
-6q. q7. q'1 q7. q'1. q'2 q'1. q7. q6 q1. q2. q3
+q6. q7. q'1 q7. q6. q5 q6. q1. q2 q3. q5. q6
+q6. q7. q'1 q7. q'1. q'2 q'1. q7. q6 q1. q2. q3
+q6. q7. q'1 q7. q6. q5 q6. q1. q2 q3. q5. q6
+q6. q7. q'1 q7. q'1. q'2 q'1. q7. q6 q1. q2. q3
 %END

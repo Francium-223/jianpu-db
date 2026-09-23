@@ -10,34 +10,34 @@ status=ok
 %---
 subtitle=intro
 KeepLength
-,6q q,7 q1 q,6 q,7 q1 q2 q,7 q1 q2 q3 q1 q2 q1 q,7 q,5
-,6q q,7 q1 q,6 q,7 q1 q2 q,7 q1 q2 q3 q1 q2 q1 q,7 q,5
+q,6 q,7 q1 q,6 q,7 q1 q2 q,7 q1 q2 q3 q1 q2 q1 q,7 q,5
+q,6 q,7 q1 q,6 q,7 q1 q2 q,7 q1 q2 q3 q1 q2 q1 q,7 q,5
 q1 q2 q3 q1 q2 q3 q4 q2 q3 q4 q5 q3 q4 q3 q2 q,5
 q1 q2 q3 q1 q2 q3 q4 q2 q3 q4 q5 q3 q4 q3 q2 q,5
 NextScore
 subtitle=layer
 KeepLength
-0 ,6 ,6. ,6q ,6c. c,5. c,6 c0 c,6 c,6. 3q 2c. 1c 1q q,7 q,5
+0 ,6 ,6. q,6 c,6. c,5. c,6 c0 c,6 c,6. q3 c2. c1 q1 q,7 q,5
 NextScore
 subtitle=verse
 KeepLength
-,6 - - - - ,6s ,7q 0s 1q q,7 q,5 q,7 ,6c c- c3 c- c,7 c- c- c~ ,7q q,5
-,6s s,5 ,6q 3q ,6s s,5 ,6q q5 3s s2 1q 3c c- c- c-
-,6s s,5 ,6q 3q ,6s s,5 ,6q q5 3s s2 1q ,6c c- c- c,5
+,6 - - - - s,6 q,7 s0 q1 q,7 q,5 q,7 c,6 c- c3 c- c,7 c- c- c~ q,7 q,5
+s,6 s,5 q,6 q3 s,6 s,5 q,6 q5 s3 s2 q1 c3 c- c- c-
+s,6 s,5 q,6 q3 s,6 s,5 q,6 q5 s3 s2 q1 c,6 c- c- c,5
 NextScore
 subtitle=pre-chorus
 KeepLength
-,4q. q,6. q1 q,7. q,6. q,5 ,6c c- c- c-
-,3q. q,6. q1 q,7. q1. q2 ,6c c- c- c-
-,4q. q,6. q1 q,7. q,6. q,5 ,6c c- c- c-
-,3q. q,6. q1 q,7. q1. q2 3c c- c- c~ 3q 2s s1
-2c c- ,7q q1 q2 q,7 1c c- c,6 c1 ,7c 1q 2c 1q ,7c c1 c- c,6 c1
-2c c- ,7q q1 q2 q,7 1c c- c,6 c1 2c c- c- c3 4q. q2. q4 q5. q3. q,7
+q,4. q,6. q1 q,7. q,6. q,5 c,6 c- c- c-
+q,3. q,6. q1 q,7. q1. q2 c,6 c- c- c-
+q,4. q,6. q1 q,7. q,6. q,5 c,6 c- c- c-
+q,3. q,6. q1 q,7. q1. q2 c3 c- c- c~ q3 s2 s1
+c2 c- q,7 q1 q2 q,7 c1 c- c,6 c1 c,7 q1 c2 q1 c,7 c1 c- c,6 c1
+c2 c- q,7 q1 q2 q,7 c1 c- c,6 c1 c2 c- c- c3 q4. q2. q4 q5. q3. q,7
 NextScore
 subtitle=chorus
 KeepLength
-6q 3c c6 7q q'1 q'2 7c c- c6 c5 4q. q5. q6 5c c4 c3 c- c1 c-
-2q. q3. q4 q,6. q5. q4 q3. q2. q3 q,6. q4. q3 2c. c,7. c2 c3 c- c- c-
-6q 3c c6 7q q'1 q'2 7c c- c6 c5 4q. q5. q6 5c c4 c3 c- c1 c-
-2q. q3. q4 q,6. q5. q4 q3. q2. q3 q6. q3. q2 2c. c,7. c2 c1 c- c,7 c- 1c c- c- c- c- c- c,7 c-
+q6 c3 c6 q7 q'1 q'2 c7 c- c6 c5 q4. q5. q6 c5 c4 c3 c- c1 c-
+q2. q3. q4 q,6. q5. q4 q3. q2. q3 q,6. q4. q3 c2. c,7. c2 c3 c- c- c-
+q6 c3 c6 q7 q'1 q'2 c7 c- c6 c5 q4. q5. q6 c5 c4 c3 c- c1 c-
+q2. q3. q4 q,6. q5. q4 q3. q2. q3 q6. q3. q2 c2. c,7. c2 c1 c- c,7 c- c1 c- c- c- c- c- c,7 c-
 %END

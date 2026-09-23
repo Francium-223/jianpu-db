@@ -10,18 +10,18 @@ status=ok
 %---
 subtitle=intro
 KeepLength
-3q q6 q7 q'1 q7 q6 q3 7s s'1 7q q6 q3 7s s'1 7q q6 q3 q2 4q q6 q7 q'1 q7 q6 q4 7s s'1 7q q6 q4 7s s'1 7q q6 q4 q2
-3q q6 q7 q'1 q7 q6 q3 7s s'1 7q q6 q3 7s s'1 7q q6 q3 q2 4q q6 q7 q'1 q7 q6 q4 7s s'1 7q q6 q4 7s s'1 7q q6 q4 q2
+q3 q6 q7 q'1 q7 q6 q3 s7 s'1 q7 q6 q3 s7 s'1 q7 q6 q3 q2 q4 q6 q7 q'1 q7 q6 q4 s7 s'1 q7 q6 q4 s7 s'1 q7 q6 q4 q2
+q3 q6 q7 q'1 q7 q6 q3 s7 s'1 q7 q6 q3 s7 s'1 q7 q6 q3 q2 q4 q6 q7 q'1 q7 q6 q4 s7 s'1 q7 q6 q4 s7 s'1 q7 q6 q4 q2
 NextScore
 subtitle=verse
 KeepLength
-,6c c- c3. 2s s3 2c c- c- 1q q,7 ,6q. q,7. q1 1q. q5. q2 1c c- c- c-
-,6c c- c3. 2s s3 2c c- c- 1q q,7 ,6q. q,7. q1 2q. q,7. q2 3c c- c- c-
-4c c- c~ 4q q4 q5 q4 3q. q2. q1 q~ 1c c,7 c- 1q. ,6q. 3q q~ 3c c- c- c~ 3q q2 q1 q,7 1c. ,6c. c3 c~ c3 c- c- c- 1c. ,6c. c2 4q. q2. q4 q#5. q3. q#5
+c,6 c- c3. s2 s3 c2 c- c- q1 q,7 q,6. q,7. q1 q1. q5. q2 c1 c- c- c-
+c,6 c- c3. s2 s3 c2 c- c- q1 q,7 q,6. q,7. q1 q2. q,7. q2 c3 c- c- c-
+c4 c- c~ q4 q4 q5 q4 q3. q2. q1 q~ c1 c,7 c- q1. q,6. q3 q~ c3 c- c- c~ q3 q2 q1 q,7 c1. c,6. c3 c~ c3 c- c- c- c1. c,6. c2 q4. q2. q4 q#5. q3. q#5
 NextScore
 subtitle=chorus
-,6c. 2s 3s ,6c - '3 - - ~ '3q ,6s ,5s
-,6c. 2s 3s '3c - ,6 - - ~ ,6q ,6s ,5s
-,6c. 2s 3s ,6c - '3 - - ~ '3q ,6s ,5s
-,6c. 2s 3s '2c - '3 - ,6 ,5
+c,6. s2 s3 c,6 - '3 - - ~ q'3 s,6 s,5
+c,6. s2 s3 c'3 - ,6 - - ~ q,6 s,6 s,5
+c,6. s2 s3 c,6 - '3 - - ~ q'3 s,6 s,5
+c,6. s2 s3 c'2 - '3 - ,6 ,5
 %END

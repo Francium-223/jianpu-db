@@ -10,22 +10,22 @@ status=ok
 %---
 subtitle=intro
 KeepLength
-0c c0 c0 ,6q q,5
-,6c 1q q2 3c 5q q6 3c c- c- 2q q1
-2c 2q q5 3c 1q q2 3c c- c- ,6q q,5
-,6c 1q q2 3c 5q q6 3c c- c- 2q q1
-2c 2q q5 3c 1q q,7 ,6c c- c- 6q q7
+c0 c0 c0 q,6 q,5
+c,6 q1 q2 c3 q5 q6 c3 c- c- q2 q1
+c2 q2 q5 c3 q1 q2 c3 c- c- q,6 q,5
+c,6 q1 q2 c3 q5 q6 c3 c- c- q2 q1
+c2 q2 q5 c3 q1 q,7 c,6 c- c- q6 q7
 NextScore
 subtitle=verse
-,6c - 1 ,6q 1q ,6 - 3 -
-,6c - 1 ,6q 1q 3 2 3 -
-,6c - 1 ,6q 1q 3 - 6 -
-6q 3q 3 - - 2q 3q 3 1q ,7q ,6q ,5q
+c,6 - 1 q,6 q1 ,6 - 3 -
+c,6 - 1 q,6 q1 3 2 3 -
+c,6 - 1 q,6 q1 3 - 6 -
+q6 q3 3 - - q2 q3 3 q1 q,7 q,6 q,5
 NextScore
 subtitle=chorus
 KeepLength
-,6c. ,5q ,6c 1q q2 3c. 5q 3c c5
-6q q3 3c c- c- 2q q3 3c 1q q,7 q,6 q,5
-,6c. ,5q ,6c 1q q2 3c. 5q 3c c5
-6q q3 3c c- c- 2q q3 3c 1q q,7 q,6 q,5
+c,6. q,5 c,6 q1 q2 c3. q5 c3 c5
+q6 q3 c3 c- c- q2 q3 c3 q1 q,7 q,6 q,5
+c,6. q,5 c,6 q1 q2 c3. q5 c3 c5
+q6 q3 c3 c- c- q2 q3 c3 q1 q,7 q,6 q,5
 %END

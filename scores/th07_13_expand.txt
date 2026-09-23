@@ -1,66 +1,66 @@
 %th07_13.txt
-title=幽雅に咲かせ、墨染の桜 ～ Border of Life
+title=幽雅に咲かせ、墨染の桜　～ Border of Life
 tag=th07,东方妖妖梦,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th07
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th07
 MBID=255e9094-da2f-3f1f-bc5b-9258a2a630d7
-alias=幽雅地绽放吧,墨染的樱花 ～ Border of Life
+alias=幽雅地绽放吧,墨染的樱花　～ Border of Life
 status=ok
 transcriber=Francium-223
 %---
 subtitle=intro
 KeepLength
-3c. c6. c7 c3. c6. c7 c'1 c6 c7 c5 c6 c- c- c-
-3c. c5. c6 c2. c5. c6 c1 c,6 c,7 c,5 c,6 c- c- c-
+c3. c6. c7 c3. c6. c7 c'1 c6 c7 c5 c6 c- c- c-
+c3. c5. c6 c2. c5. c6 c1 c,6 c,7 c,5 c,6 c- c- c-
 NextScore
 subtitle=bridge
 KeepLength
-'1q q6 q4 q7 q#5 3c '1q q~ q'1 q6 q4 q7 q#5 3c '2q
-'1q q6 q4 q7 q#5 3c '1q q~ q'1 q6 q4 q7 q#5 3c '2q
-'3q q'1 q6 q'2 q7 #5c '3q q~ q'3 q1 q6 q'2 q7 #5c '4q
-'3q q'1 q6 q'2 q7 #5c '3q q~ q'3 q1 q6 q'4 q'2 q7 q'1 q'2
+q'1 q6 q4 q7 q#5 c3 q'1 q~ q'1 q6 q4 q7 q#5 c3 q'2
+q'1 q6 q4 q7 q#5 c3 q'1 q~ q'1 q6 q4 q7 q#5 c3 q'2
+q'3 q'1 q6 q'2 q7 c#5 q'3 q~ q'3 q1 q6 q'2 q7 c#5 q'4
+q'3 q'1 q6 q'2 q7 c#5 q'3 q~ q'3 q1 q6 q'4 q'2 q7 q'1 q'2
 NextScore
 subtitle=verse
 KeepLength
-3c. c6. c7 c3. c6. c7 c'1 c6 c7 c5 c6 c- c- c-
-3c. c5. c6 c2. c5. c6 c1 c,6 c,7 c,5 c,6 c- c- c-
-3c. c6. c7 c3. c6. c7 c'1 c'2 c'3 c'5 c'3 c- c- c-
-'3c. c6. c'3 c'3. c6. c'3 c6 c7 c'3 c'5 c'6 c- c- c-
+c3. c6. c7 c3. c6. c7 c'1 c6 c7 c5 c6 c- c- c-
+c3. c5. c6 c2. c5. c6 c1 c,6 c,7 c,5 c,6 c- c- c-
+c3. c6. c7 c3. c6. c7 c'1 c'2 c'3 c'5 c'3 c- c- c-
+c'3. c6. c'3 c'3. c6. c'3 c6 c7 c'3 c'5 c'6 c- c- c-
 NextScore
 subtitle=pre-chorus
 KeepLength
-6c 5q 6c 6q q5 q6 3c c'1 c7 c6
-6c 5q 6c 6q q5 q6 6c c- c- c-
-'1c 7q '1c '1q q7 q'1 6c c'3 c'2 c'1
-'1c 7q '1c '1q q7 q'1 7c c- '3q. q'3. q'3 -c c- c- c-
+c6 q5 c6 q6 q5 q6 c3 c'1 c7 c6
+c6 q5 c6 q6 q5 q6 c6 c- c- c-
+c'1 q7 c'1 q'1 q7 q'1 c6 c'3 c'2 c'1
+c'1 q7 c'1 q'1 q7 q'1 c7 c- q'3. q'3. q'3 -c q- q- q-
 NextScore
 subtitle=chorus
 KeepLength
-0c c0 0q q,3 q,6 q,7 1c c- c~ 1q q,3 q,6 q,7 1c c- c~ 1q q,6 q,7 q1
-q3 q2 q3 q1 q2 q,6 q,7 q1 q~ 1c c~ 1q q1 q2 q3
-6c c- c~ 6q q3 q7 q'1 '1c c- c~ '1q q6 q7
-q'1 q~ q'1 q6 q3 q'1 q7 q5 q2 q3 q~ 3c c- c~ 3q q3 q6 q7
-1c c- c~ 1q q,3 q,6 q,7 1c c- c~ 1q q,6 q,7 q1
-q3 q2 q3 q1 q2 q,6 q,7 q1 q~ 1c c~ 1q q1 q2 q3
-6c c- c~ 6q q3 q7 q'1 '1c c- c~ '1q q6 q7
-q'1 q~ q'1 q6 q3 q'1 q7 q5 q2 q3 q~ 3c c- c~ 3q q3 q6 q7 q0 q0
+c0 c0 q0 q,3 q,6 q,7 c1 c- c~ q1 q,3 q,6 q,7 c1 c- c~ q1 q,6 q,7 q1
+q3 q2 q3 q1 q2 q,6 q,7 q1 q~ c1 c~ q1 q1 q2 q3
+c6 c- c~ q6 q3 q7 q'1 c'1 c- c~ q'1 q6 q7
+q'1 q~ q'1 q6 q3 q'1 q7 q5 q2 q3 q~ c3 c- c~ q3 q3 q6 q7
+c1 c- c~ q1 q,3 q,6 q,7 c1 c- c~ q1 q,6 q,7 q1
+q3 q2 q3 q1 q2 q,6 q,7 q1 q~ c1 c~ q1 q1 q2 q3
+c6 c- c~ q6 q3 q7 q'1 c'1 c- c~ q'1 q6 q7
+q'1 q~ q'1 q6 q3 q'1 q7 q5 q2 q3 q~ c3 c- c~ q3 q3 q6 q7 q0 q0
 NextScore
 subtitle=chorus
 KeepLength
-0c c0 c0 3q q5 6c c- c- 3q q5 6c c- c- 3q q5 6c 5q 6c 5q q6 q5 '1c c7 6q q5 q3 q5
-6c c- c'3 c- c7 c- c- 6q q5 6c c'3 c'2 c'5 c'6 c- c- '3q q'5
-'6c c- c- '3q q'5 '6c c- c- '3q q'5 '6c '5q '6c '5q q'6 q'5 ''1c c'7 '6q q'5 q'3 q'5
-'6c c- c- '3q q'5 '2c c- c- '1q q7 '1c 7q '1c 6q q7 q5 6c c- c- c-
-6c c- c- 3q q5 6c c- c- 3q q5 6c 5q 6c 5q q6 q5 '1c c7 6q q5 q3 q5
-6c c- c'3 c- c7 c- c- 6q q5 6c c'3 c'2 c'5 c'6 c- c- '3q q'5
-'6c c- c- '3q q'5 '6c c- c- '3q q'5 '6c '5q '6c '5q q'6 q'5 ''1c c'7 '6q q'5 q'3 q'5
-'6c c- c- '3q q'5 '2c c- c- '1q q7 '1c 7q '1c 6q q7 q5 6c c- c- c-
+c0 c0 c0 q3 q5 c6 c- c- q3 q5 c6 c- c- q3 q5 c6 q5 c6 q5 q6 q5 c'1 c7 q6 q5 q3 q5
+c6 c- c'3 c- c7 c- c- q6 q5 c6 c'3 c'2 c'5 c'6 c- c- q'3 q'5
+c'6 c- c- q'3 q'5 c'6 c- c- q'3 q'5 c'6 q'5 c'6 q'5 q'6 q'5 c''1 c'7 q'6 q'5 q'3 q'5
+c'6 c- c- q'3 q'5 c'2 c- c- q'1 q7 c'1 q7 c'1 q6 q7 q5 c6 c- c- c-
+c6 c- c- q3 q5 c6 c- c- q3 q5 c6 q5 c6 q5 q6 q5 c'1 c7 q6 q5 q3 q5
+c6 c- c'3 c- c7 c- c- q6 q5 c6 c'3 c'2 c'5 c'6 c- c- q'3 q'5
+c'6 c- c- q'3 q'5 c'6 c- c- q'3 q'5 c'6 q'5 c'6 q'5 q'6 q'5 c''1 c'7 q'6 q'5 q'3 q'5
+c'6 c- c- q'3 q'5 c'2 c- c- q'1 q7 c'1 q7 c'1 q6 q7 q5 c6 c- c- c-
 NextScore
 subtitle=outro
 KeepLength
-3q q2 q3 q1 q2 q,7 q1 q,6 3q q2 q3 q1 q2 q,7 q1 q,6
-q1 q,6 q,3 q1 q,7 q,5 q,2 q- q,3 q,7 q1 ,5s s,6 ,7q q1 q3 q-
-q0 q,2 q,3 q,5 q,2 q,3 q,5 q,2 q0 q,3 q#,5 q,7 q,3 q#,5 q,7 q,3
-q3 q1 q,6 q3 q2 q,7 q,5 q2 q~ q2 q1 q~ 1c c- c- c- c- c- c-
+q3 q2 q3 q1 q2 q,7 q1 q,6 q3 q2 q3 q1 q2 q,7 q1 q,6
+q1 q,6 q,3 q1 q,7 q,5 q,2 q- q,3 q,7 q1 s,5 s,6 q,7 q1 q3 q-
+q0 q,2 q,3 q,5 q,2 q,3 q,5 q,2 q0 q,3 #,5 q,7 q,3 #,5 q,7 q,3
+q3 q1 q,6 q3 q2 q,7 q,5 q2 q~ q2 q1 q~ c1 c- c- c- c- c- c-
 %---
 %END

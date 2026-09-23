@@ -15,26 +15,26 @@ subtitle=intro
 NextScore
 subtitle=verse
 KeepLength
-3q q5 6c 3q q5 6c 3q q5 q6 q3 q'1 q7 q6 q5
-2q q3 5c 2q q3 5c 3q q5 q6 q3 q'1 q7 q6 q5
-3q q5 6c 3q q5 6c 3q q5 q6 q3 q'1 q7 q6 q5
-2q q3 1c ,7c ,5c ,6q q,7 q1 q2 3c c-
+q3 q5 c6 q3 q5 c6 q3 q5 q6 q3 q'1 q7 q6 q5
+q2 q3 c5 q2 q3 c5 q3 q5 q6 q3 q'1 q7 q6 q5
+q3 q5 c6 q3 q5 c6 q3 q5 q6 q3 q'1 q7 q6 q5
+q2 q3 c1 c,7 c,5 q,6 q,7 q1 q2 c3 c-
 NextScore
 subtitle=pre-chorus
 KeepLength
-0 0 0 3q q5
-6c c- c- 3q q5 6c c- c~ 6q 3q q7 q'1
-7c c- c5 c6 c3 c- c- 3q q5
-6c c- c- 3q q5 6c c- c~ 6q 3q q7 q'1
-7c c- c'1 c'2 c'3 c- '3q q'2 q'1 q7
+0 0 0 q3 q5
+c6 c- c- q3 q5 c6 c- c~ q6 q3 q7 q'1
+c7 c- c5 c6 c3 c- c- q3 q5
+c6 c- c- q3 q5 c6 c- c~ q6 q3 q7 q'1
+c7 c- c'1 c'2 c'3 c- q'3 q'2 q'1 q7
 NextScore
 subtitle=chorus
 KeepLength
-6q q7 '1c 7q q6 q5 q6 q~ 6c c- c~ 6q q3 q6 q3
-6q q7 '1c 7q q6 q5 q'2 q~ '2c c- c~ '2q q'1 q7 q6
-6q q7 '1c 7q q6 q5 q'2 q~ q'2 q'1 q7 q'1 q7 q6 q5 q2
-6q q7 '1c 7q q6 q5 q6 q~ 6c c- c~ 6q q3 q6 q3
-6q q7 '1c 7q q6 q5 q'2 q~ '2c c- c~ '2q q'1 q7 q6
-6q q7 '1c 7q q6 q5 q'2 q~ q'2 q'1 q7 q'1 q7 q6 q5 q2
-6q q7 '1c 7q q6 q5 q6 q~ 6c c- c- c- c- c- c- c-
+q6 q7 c'1 q7 q6 q5 q6 q~ c6 c- c~ q6 q3 q6 q3
+q6 q7 c'1 q7 q6 q5 q'2 q~ c'2 c- c~ q'2 q'1 q7 q6
+q6 q7 c'1 q7 q6 q5 q'2 q~ q'2 q'1 q7 q'1 q7 q6 q5 q2
+q6 q7 c'1 q7 q6 q5 q6 q~ c6 c- c~ q6 q3 q6 q3
+q6 q7 c'1 q7 q6 q5 q'2 q~ c'2 c- c~ q'2 q'1 q7 q6
+q6 q7 c'1 q7 q6 q5 q'2 q~ q'2 q'1 q7 q'1 q7 q6 q5 q2
+q6 q7 c'1 q7 q6 q5 q6 q~ c6 c- c- c- c- c- c- c-
 %END

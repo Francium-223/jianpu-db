@@ -31,7 +31,7 @@ SRC = "scores"
 SRC_RE = re.compile(r"(?m)^source=([^\s]+)\s*$")
 HOST_RE = re.compile(r"^([a-z0-9]+)-")
 COLS = ["file", "title", "status", "tags", "usertags", "transcriber",
-        "source", "source_host", "n_notes", "sections", "score"]
+        "source", "source_host", "n_notes", "sections", "score", "link"]
 
 
 def main():
@@ -67,6 +67,9 @@ def main():
                 "source": s,
                 "source_host": host,
                 "n_notes": int(r.get("n_notes") or 0),
+                # ⚠ 这里是**第三处**逐字段白名单(另两处: score.py:to_record、前端 search.js)。
+                #   加新字段时三处都要加, 否则"仓库里有、导出/前端没有"(实测 mbid/link 都踩过)。
+                "link": list(r.get("link") or []),
             }
             if not args.no_sections:
                 row["sections"] = r.get("sections") or []
@@ -140,6 +143,7 @@ configs:
 | `transcriber` | str | 转写者 |
 | `source` | str | 出处(如 `qupu123-268596`, 站点-站内 id) |
 | `source_host` | str | 出处站点(qupu123 / jianpucn / jianpujia …) |
+| `link` | list[str] | 这首歌在某一站的**收录页**(人工核对过, 可多个)。只收具体页面 —— 搜索页不进数据; 原谱站那一页可由 `source` 的站点+id 推出(仓库 `source_pages.json`, 逐条抓取核对过) |
 | `n_notes` | int | 音符数(不含 `-`/`~`/`|`) |
 | `sections` | list[dict] | 分段: `{{"subtitle": "chorus", "score": "..."}}` |
 | `score` | str | 全文旋律(各段用 ` \| ` 连接) |

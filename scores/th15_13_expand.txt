@@ -1,10 +1,10 @@
 %th15_13.txt
-title=ピュアヒューリーズ ～ 心の在処
+title=ピュアヒューリーズ　～ 心の在処
 tag=th15,东方绀珠传,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th15
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th15
 MBID=dbd1de3d-c7cd-4a3b-b083-687da43438e3
-alias=Pure Furies ～ 心之所在
+alias=Pure Furies　～ 心之所在
 status=ok
 transcriber=Francium-223
 %---
@@ -14,38 +14,38 @@ subtitle=intro
 NextScore
 subtitle=layer
 KeepLength
-6q q2 q3 ,6c 6q q2 q3 ,6c. 6q q2 q3 ,6c
-6q q2 q3 ,6c 6q q2 q3 ,6c. 6q q2 q3 ,6c
+q6 q2 q3 c,6 q6 q2 q3 c,6. q6 q2 q3 c,6
+q6 q2 q3 c,6 q6 q2 q3 c,6. q6 q2 q3 c,6
 NextScore
 subtitle=verse
 KeepLength
-,3c c- c,7 c- c2 c- 1q. q,7. q,5 ,3c c- c- c- c- c- c- c-
-,3c c- c,7 c- c2 c- 1q. q,7. q,5 ,6c c- c- c- c- c- c- c-
-1c c- c2 c- c5 c- 3q. q2. q,5 ,6c c- c- c- c- c- c- c-
-1c c- c5 c- c7 c- '1q. q7. q5 6c c- c- c- c- c- c- c-
+c,3 c- c,7 c- c2 c- q1. q,7. q,5 c,3 c- c- c- c- c- c- c-
+c,3 c- c,7 c- c2 c- q1. q,7. q,5 c,6 c- c- c- c- c- c- c-
+c1 c- c2 c- c5 c- q3. q2. q,5 c,6 c- c- c- c- c- c- c-
+c1 c- c5 c- c7 c- q'1. q7. q5 c6 c- c- c- c- c- c- c-
 NextScore
 subtitle=verse
 KeepLength
-0c c0 c0 ,3q q,3
-,6c c- c- c- c,7 c- c- c- c1 c- c- c- c2 c- c3 c5
+c0 c0 c0 q,3 q,3
+c,6 c- c- c- c,7 c- c- c- c1 c- c- c- c2 c- c3 c5
 c6 c- c5 c6 c'1 c7 c2 c5 c3 c- c- c- c- c- c- c,5
-,6c c- c- c- c,7 c- c- c- c1 c- c- c- c2 c- c3 c5
+c,6 c- c- c- c,7 c- c- c- c1 c- c- c- c2 c- c3 c5
 c6 c- c5 c6 c'1 c7 c5 c- c6 c- c- c- c- c- c- c-
-,6c c- c- c- c,7 c- c- c- c1 c- c- c- c2 c- c3 c5
+c,6 c- c- c- c,7 c- c- c- c1 c- c- c- c2 c- c3 c5
 c6 c- c5 c6 c'1 c7 c2 c5 c3 c- c- c- c- c- c- c,5
-,6c c- c- c- c,7 c- c- c- c1 c- c- c- c2 c- c3 c5
+c,6 c- c- c- c,7 c- c- c- c1 c- c- c- c2 c- c3 c5
 c6 c- c5 c6 c'1 c7 c5 c- c6 c- c- c- c- c- c- c-
 NextScore
 subtitle=interlude
 KeepLength
-6c. 7s s'1 '2q q'3 6c
-3c. #4s s5 6q q7 3c 4q q5 q6 3s s4 5q q6 q7 q5
-q'1 q7 q5 q6 q3 q5 2c
-6c. 7s s'1 '2q q'3 6c
-3c. #4s s5 6q q7 3c 4q q5 q6 q4 q'1 q7 q5 q6
-#5q. q#5. q#5 7c c-
-6c. 7s s'1 '2q q'3 6c
-3c. #4s s5 6q q7 3c 4q q5 q6 q4 q'1 q7 q5 q6
-#5q. q#5. q#5 7c c'3
+c6. s7 s'1 q'2 q'3 c6
+c3. s#4 s5 q6 q7 c3 q4 q5 q6 s3 s4 q5 q6 q7 q5
+q'1 q7 q5 q6 q3 q5 c2
+c6. s7 s'1 q'2 q'3 c6
+c3. s#4 s5 q6 q7 c3 q4 q5 q6 q4 q'1 q7 q5 q6
+q#5. q#5. q#5 c7 c-
+c6. s7 s'1 q'2 q'3 c6
+c3. s#4 s5 q6 q7 c3 q4 q5 q6 q4 q'1 q7 q5 q6
+q#5. q#5. q#5 c7 c'3
 %---
 %END

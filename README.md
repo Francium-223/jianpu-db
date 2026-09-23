@@ -159,6 +159,7 @@ subtitle=outro
 |---|---|
 |%th01_02.txt|这个文件的**文件名**为`th01_01.txt`。注意所有曲谱都应是`scores`的一级子文件，且统一以“.txt”结尾。**由脚本自动补充。**|
 |MBID=310b3b07-ec9f-3e88-9fd8-529c17478179|这首歌在[MusicBrainz](https://musicbrainz.org/)中唯一且确定的标识符（**MBID**）为`310b3b07-ec9f-3e88-9fd8-529c17478179`。|
+|link=https://music.163.com/song?id=186016|这首歌在某一站的**具体收录页**（可写多行，一行一个站；自动写回时会合成逗号分隔的一行）。**必须人工核对过**，且**只收确切页面** —— 搜索页（`…/search?…`、`youtube.com/results?search_query=…`）会被 [linkurl.py](linkurl.py) 直接拒收。前端结果卡上的「＋ 补收录页」与 `jianpu2/tools/add_link.py` 都写这个字段。原谱站（简谱来源站）那一页**不用手写**：`source=<站>-<id>` 已经能推出，由 `jianpu2/tools/verify_source_urls.py` 逐条抓取核对后记在 [source_pages.json](source_pages.json)。|
 |title=永遠の巫女|这首歌的**标题**为`永遠の巫女`。此处应填写其**最早发布版本**的**现时通用名称**，基于**名从主人**原则。|
 |type=work|这首歌在[MusicBrainz](https://musicbrainz.org/)中被**标记为**`work`。一般默认是`work`，但是有的旋律不一样的改编曲也被其算作同一`work`下的`recording`。这种情况下应填`recording`。|
 |tag=th01,东方灵异传,东方,东方原曲,ZUN,东方旧作原曲,东方整数作原曲|这首歌的**标签**有`th01`和`东方灵异传`、`东方`、`东方原曲`、`ZUN`、`东方旧作原曲`、`东方整数作原曲`。**由脚本根据`usertag`自动生成，所以一般不用动。**根据这些字符串，会自动在`by_tag`中生成快捷方式。|

@@ -12,8 +12,8 @@ subtitle=intro
 ,6 - 2 - 1 - 2 - ,6 2 - - - - - ,3
 ,6 - 2 - ,6 - 3 - 4 - - 5 2 - - -
 4 - - 5 2 - 6 5 2 - - - - - - 1
-,6 - - - - - - ,5q 1q ,6 - - - - - - ,5q 1q
-,6 - - - - - - ,5q 1q ,6 - - - - - - ,5q 1q
+,6 - - - - - - q,5 q1 ,6 - - - - - - q,5 q1
+,6 - - - - - - q,5 q1 ,6 - - - - - - q,5 q1
 NextScore
 subtitle=layer
 3 - - - - - - - - - - - 6 - 7 '1
@@ -23,8 +23,8 @@ subtitle=layer
 NextScore
 subtitle=verse
 KeepLength
-3q q3 q0 q3 q3 q3 q0 q3 q3 q3 q0 q3 q3 q3 q0 q3
-3q q3 q0 q3 q3 q3 q0 q3 q3 q3 q0 q3 q3 q3 q0 q3
+q3 q3 q0 q3 q3 q3 q0 q3 q3 q3 q0 q3 q3 q3 q0 q3
+q3 q3 q0 q3 q3 q3 q0 q3 q3 q3 q0 q3 q3 q3 q0 q3
 q1 q1 q0 q1 q1 q1 q0 q1 q1 q1 q0 q1 q1 q1 q0 q1
 q1 q1 q0 q1 q1 q1 q0 q1 q1 q1 q0 q1 q1 q1 q0 q1
 q2 q2 q0 q2 q2 q2 q0 q2 q2 q2 q0 q2 q2 q2 q0 q2
@@ -32,18 +32,18 @@ q2 q2 q0 q2 q2 q2 q0 q2 q2 q2 q0 q2 q2 q2 q0 q2
 NextScore
 subtitle=chorus
 KeepLength
-7q q6 3c c- 2q q3 7q q6 3c c- 2q q3
-6c 3q q2 3c ,6c c,6 ,3q q,2 ,3c ,6q q,7
-3c 2q q3 q6 q2 q3 q6 q2 q3 q6 q2 q3 q6 q2 q3
+q7 q6 c3 c- q2 q3 q7 q6 c3 c- q2 q3
+c6 q3 q2 c3 c,6 c,6 q,3 q,2 c,3 q,6 q,7
+c3 q2 q3 q6 q2 q3 q6 q2 q3 q6 q2 q3 q6 q2 q3
 q6 q2 q3 q6 q1 q2 q,7 q,5 q,6 q,2 q,3 q,5 q,1 q,2 q,,7 q,,5
 q,,6 q,,3 q,,6 q,,7 q,1 q,3 q,6 q,7 q1 q3 q6 q7 q'1 q7 q6 q3
 q2 q3 q6 q2 q3 q6 q2 q3 q6 q2 q3 q6 q2 q3 q6 q,7
-,7c ,6q q,7 q3 q,6 q,7 q3 q,6 q,7 q6 q7 q'1 q7 q6 q3
-q2 q3 q6 q2 q3 q6 q2 q3 q6 q2 q3 q6 q2 q3 6c
+c,7 q,6 q,7 q3 q,6 q,7 q3 q,6 q,7 q6 q7 q'1 q7 q6 q3
+q2 q3 q6 q2 q3 q6 q2 q3 q6 q2 q3 q6 q2 q3 c6
 NextScore
 subtitle=outro
 3 - - - - - 2 5 6 - - - - - 6 7
 '1 - 3 - '2 - 5 - '3 - - - - - '1 '2
-'3 - '1 - 7 - '2 - 2. 3q - - - - 6 7
+'3 - '1 - 7 - '2 - 2. q3 - - - - 6 7
 '1 - 3 - '2 - 7 - '#2 - - - - - - -
 %END

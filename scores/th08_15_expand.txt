@@ -1,41 +1,41 @@
 %th08_15.txt
-title=竹取飛翔 ～ Lunatic Princess
+title=竹取飛翔　～ Lunatic Princess
 tag=th08,东方永夜抄,东方,touhou,东方原曲,ZUN,东方新作原曲,东方整数作原曲
 usertag=th08
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th08
 MBID=011ecd26-9e73-35ad-aa78-8d9b0197e653
-alias=竹取飞翔 ～ Lunatic Princess
+alias=竹取飞翔　～ Lunatic Princess
 status=ok
 transcriber=Francium-223
 %---
 subtitle=intro,verse
 KeepLength
-0c c0 c,6 c1 c2 c- c,7 c- c,5. ,6q ,6c ,6q q1 2c 2q q3 q5 q3 q2 q3 6c c'3 c7
-6q q1 '2c c- c7 c- c5. 6q 6c 6q q'1 '2c '2q q'3 q'5 q'3 q'2 q'3 '6c c- c- c,6 c1
-c2 c- c,7 c- c,5. ,6q ,6c ,6q q1 2c 2q q3 q5 q3 q2 q3 6c c'3 c7
-6q q1 '2c c- c7 c- c5. 6q 6c 6q q'1 '2c '2q q'3 q'5 q'3 q'2 q'3 '6c c- c''1 c'7 c''1 c- c- c-
+c0 c0 c,6 c1 c2 c- c,7 c- c,5. q,6 c,6 q,6 q1 c2 q2 q3 q5 q3 q2 q3 c6 c'3 c7
+q6 q1 c'2 c- c7 c- c5. q6 c6 q6 q'1 c'2 q'2 q'3 q'5 q'3 q'2 q'3 c'6 c- c- c,6 c1
+c2 c- c,7 c- c,5. q,6 c,6 q,6 q1 c2 q2 q3 q5 q3 q2 q3 c6 c'3 c7
+q6 q1 c'2 c- c7 c- c5. q6 c6 q6 q'1 c'2 q'2 q'3 q'5 q'3 q'2 q'3 c'6 c- c''1 c'7 c''1 c- c- c-
 NextScore
 subtitle=layer,interlude
 KeepLength
-,6s s3 s2 s3 s6 s3 s2 s3 ,6s s4 s3 s4 s6 s4 s3 s4 ,6s s#4 s4 s#4 s6 s#4 s4 s#4 ,6s s4 s3 s4 s6 s4 s3 s4
-,6s s3 s2 s3 s6 s3 s2 s3 ,6s s4 s3 s4 s6 s4 s3 s4 ,6s s#4 s4 s#4 s6 s#4 s4 s#4 ,6s s4 s3 s4 s6 s4 s3 s4
+s,6 s3 s2 s3 s6 s3 s2 s3 s,6 s4 s3 s4 s6 s4 s3 s4 s,6 s#4 s4 s#4 s6 s#4 s4 s#4 s,6 s4 s3 s4 s6 s4 s3 s4
+s,6 s3 s2 s3 s6 s3 s2 s3 s,6 s4 s3 s4 s6 s4 s3 s4 s,6 s#4 s4 s#4 s6 s#4 s4 s#4 s,6 s4 s3 s4 s6 s4 s3 s4
 NextScore
 subtitle=bridge
 KeepLength
-6q q3 q5 q2 q3 q1 q2 q,7 6q q3 q5 q2 q3 q1 q2 q,7 6q q3 q5 q2 q3 q1 q7 q'1 q~ q'1 q3 q7 q2 q6 q1 q5 q,7
-6q q3 q5 q2 q3 q1 q2 q,7 6q q3 q5 q2 q3 q1 q2 q,7 6q q3 q5 q2 q3 q1 q7 q'1 q~ q'1 q3 q'2 q7 q'1 q3 q7 q2
-6q q3 q5 q2 q3 q1 q2 q,7 6q q3 q5 q2 q3 q1 q2 q,7 6q q3 q5 q2 q3 q1 q7 q'1 q~ q'1 q3 q7 q2 q6 q1 q5 q,7
-6q q3 q5 q2 q3 q1 q2 q,7 6q q3 q5 q2 q3 q1 q2 q,7 6c c- c- c- c- c- c- c-
+q6 q3 q5 q2 q3 q1 q2 q,7 q6 q3 q5 q2 q3 q1 q2 q,7 q6 q3 q5 q2 q3 q1 q7 q'1 q~ q'1 q3 q7 q2 q6 q1 q5 q,7
+q6 q3 q5 q2 q3 q1 q2 q,7 q6 q3 q5 q2 q3 q1 q2 q,7 q6 q3 q5 q2 q3 q1 q7 q'1 q~ q'1 q3 q'2 q7 q'1 q3 q7 q2
+q6 q3 q5 q2 q3 q1 q2 q,7 q6 q3 q5 q2 q3 q1 q2 q,7 q6 q3 q5 q2 q3 q1 q7 q'1 q~ q'1 q3 q7 q2 q6 q1 q5 q,7
+q6 q3 q5 q2 q3 q1 q2 q,7 q6 q3 q5 q2 q3 q1 q2 q,7 c6 c- c- c- c- c- c- c-
 NextScore
 subtitle=chorus
 KeepLength
-3c c,6 3c c,6 ,6q q2 q3 q5 q3 q2 ,6c
-3c c,6 3c ,6q q5 q6 q3 q5 2s s3 s,7 s2 s3 s,5 s,7 s1 s,3
-3c c,6 3c c,6 ,6q q2 q3 q5 q3 q2 ,6c
-3c c,6 3c ,6q q5 6c c- c- c-
-6c c3 c6 c3 7q q'1 q~ q'1 q'2 q'1 q'7 ,5c c0 c0 c0 c0 c0 c0 c0 c0
-6c c3 c6 c3 7q q'1 q~ q'1 q'2 q'1 q'7 ,5c c0 c0 c0 c0 c0 c0 c0 c0
-6c c3 c6 c3 3q q7 q'1 q'2 q'1 q7 5c 6c c3 c6 3q q7 q'1 q3 q7 3s s6 s1 s5 s,7 s1 s2 s3 5q
-6c c3 c6 c3 3q q7 q'1 q'2 q'1 q7 5c 6c c3 c6 3q q5 6c c- c- c-
+c3 c,6 c3 c,6 q,6 q2 q3 q5 q3 q2 c,6
+c3 c,6 c3 q,6 q5 q6 q3 q5 s2 s3 s,7 s2 s3 s,5 s,7 s1 s,3
+c3 c,6 c3 c,6 q,6 q2 q3 q5 q3 q2 c,6
+c3 c,6 c3 q,6 q5 c6 c- c- c-
+c6 c3 c6 c3 q7 q'1 q~ q'1 q'2 q'1 q'7 c,5 c0 c0 c0 c0 c0 c0 c0 c0
+c6 c3 c6 c3 q7 q'1 q~ q'1 q'2 q'1 q'7 c,5 c0 c0 c0 c0 c0 c0 c0 c0
+c6 c3 c6 c3 q3 q7 q'1 q'2 q'1 q7 c5 c6 c3 c6 q3 q7 q'1 q3 q7 s3 s6 s1 s5 s,7 s1 s2 s3 q5
+c6 c3 c6 c3 q3 q7 q'1 q'2 q'1 q7 c5 c6 c3 c6 q3 q5 c6 c- c- c-
 %---
 %END

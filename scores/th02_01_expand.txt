@@ -1,44 +1,44 @@
 %th02_01.txt
-title=東方封魔録 ～ 浄土曼荼羅
+title=東方封魔録　～ 浄土曼荼羅
 tag=th02,东方封魔录,东方,touhou,东方原曲,ZUN,东方旧作原曲,东方整数作原曲
 usertag=th02
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th02
 MBID=d2887acb-13ae-4213-a2f2-7b4b9fe42ca2
-alias=东方封魔录 ～ 净土曼荼罗
+alias=东方封魔录　～ 净土曼荼罗
 transcriber=Francium-223
 status=ok
 %---
 subtitle=intro
 KeepLength
-3q q'1 q6 q3 q7 q5 q2 q6 q~
-6c. 3q q6 q3 q7 q'1
+q3 q'1 q6 q3 q7 q5 q2 q6 q~
+c6. q3 q6 q3 q7 q'1
 q3 q'1 q6 q3 q'2 q7 q5 q'1 q~
-'1c c- c- c7
-3q q'1 q6 q3 q7 q5 q2 q6 q~
-6c. 3q q6 q3 q7 q'1
+c'1 c- c- c7
+q3 q'1 q6 q3 q7 q5 q2 q6 q~
+c6. q3 q6 q3 q7 q'1
 q3 q'1 q6 q3 q'2 q7 q5 q'1 q~
-'1c c- c- c7
+c'1 c- c- c7
 NextScore
 subtitle=verse
 KeepLength
-1q q,7 q1 2c 1q q,7 q1 q~
-1q q,7 q1 2c 1q q,7 q3 q~
-3q q,6 q,7 1c ,7q q1 q2
+q1 q,7 q1 c2 q1 q,7 q1 q~
+q1 q,7 q1 c2 q1 q,7 q3 q~
+q3 q,6 q,7 c1 q,7 q1 q2
 q1 q,7 q,6 q,3 q,6 q,3 q,7 q1
-q1 q,7 q,6 ,3c 2q q1 q,7 q~
-q,7 q1 q,7 ,3c 1q q,7 q,3 q~
-q,3 q,1 q,,7 ,,6c ,1q q,,7 q,2
+q1 q,7 q,6 c,3 q2 q1 q,7 q~
+q,7 q1 q,7 c,3 q1 q,7 q,3 q~
+q,3 q,1 q,,7 c,,6 q,1 q,,7 q,2
 q,,6 q3 q,,7 q3 q,1 q3 q,1 q3
 NextScore
 subtitle=verse
 KeepLength
-R4{ 6q q7 '1c 7q q'1 '2c '1q q7 q6 q3 q6 q3 q7 q'1
-6q q7 '1c 7q q'1 q'2 q'3 q} qA{ 3c c- 2q q3 q6 q- q| 6c c- c- c- c}
+R4{ q6 q7 c'1 q7 q'1 c'2 q'1 q7 q6 q3 q6 q3 q7 q'1
+q6 q7 c'1 q7 q'1 q'2 q'3 } A{ c3 c- q2 q3 q6 q- q| c6 c- c- c- }
 NextScore
 subtitle=interlude
 KeepLength
-,6q q3 q2 q3 q1 q3 q,7 q3
-,6q q3 q2 q3 q1 q3 q,7 q3
-,6q q3 q2 q3 q1 q3 q,7 q3
-,6q q3 q2 q3 q1 q3 q,7 q3
+q,6 q3 q2 q3 q1 q3 q,7 q3
+q,6 q3 q2 q3 q1 q3 q,7 q3
+q,6 q3 q2 q3 q1 q3 q,7 q3
+q,6 q3 q2 q3 q1 q3 q,7 q3
 %END

@@ -10,33 +10,33 @@ transcriber=Francium-223
 %---
 subtitle=intro
 KeepLength
-0c c- 0q q3 q3 q5 6c. 5s s6 5q q3 q2 q5 3c c- c- 3q q5 6c. 5s s6 '1q q7 q6 q5 6c c- c~ 6q
-5s 6s 5q q3 2c c- c~ 2q 5s 6s 5q q2 1c c- c- ,6q q,7 1c. 2q ,7c. ,6q ,6c c- c- c-
+c0 c- q0 q3 q3 q5 c6. s5 s6 q5 q3 q2 q5 c3 c- c- q3 q5 c6. s5 s6 q'1 q7 q6 q5 c6 c- c~ q6
+s5 s6 q5 q3 c2 c- c~ q2 s5 s6 q5 q2 c1 c- c- q,6 q,7 c1. q2 c,7. q,6 c,6 c- c- c-
 NextScore
 subtitle=verse
 KeepLength
-6c c- c- c- c6 c- c5 c- c6 c- c- c'1 c7. c6. c5 c6 c- c'2 c- c'1 c7 c6 c7 c'1. c'2. c'3 c~ c'3 c'2 c'1 c7
-6c c- c- c- c6 c- c5 c- c6 c- c- c'1 c7. c6. c5 c6 3q 5c 6q 3c c2. c3. c5 c6 c- c- c- c- c- c- c-
+c6 c- c- c- c6 c- c5 c- c6 c- c- c'1 c7. c6. c5 c6 c- c'2 c- c'1 c7 c6 c7 c'1. c'2. c'3 c~ c'3 c'2 c'1 c7
+c6 c- c- c- c6 c- c5 c- c6 c- c- c'1 c7. c6. c5 c6 q3 c5 q6 c3 c2. c3. c5 c6 c- c- c- c- c- c- c-
 NextScore
 subtitle=verse
 KeepLength
-,6 - 3q. 2q. q1 ,7c c- ,7q. q,5. q,3 ,6q q- q- q- q- q- q- q,7 q1 q- 1q. q2. q3 q3 q- 3q. q#4. q5 5c c#4 c3 c5 6q. q6. q6 7c c-
-6q. q3. q2 q2. q1. q2 ,6c c- ,6q. q,7. q1 q1 q,7 q,6 q,5 ,6c c- c,7. 3s s5 6q. q3. q2 q2. q1. q2 ,6c c- ,6q. q,7. q1 q1. q2. q3 q3. q#4. q5 #5c c6 c7 c-
+,6 - q3. q2. q1 c,7 c- q,7. q,5. q,3 q,6 q- q- q- q- q- q- q,7 q1 q- q1. q2. q3 q3 q- q3. q#4. q5 c5 c#4 c3 c5 q6. q6. q6 c7 c-
+q6. q3. q2 q2. q1. q2 c,6 c- q,6. q,7. q1 q1 q,7 q,6 q,5 c,6 c- c,7. s3 s5 q6. q3. q2 q2. q1. q2 c,6 c- q,6. q,7. q1 q1. q2. q3 q3. q#4. q5 c#5 c6 c7 c-
 NextScore
 subtitle=chorus
 KeepLength
-0c c- 0q q3 q3 q5 6c. 5s s6 5q q3 q2 q5 3c c- c- 3q q5 6c. 5s s6 '1q q7 q6 q5 6c c- c~ 6q
-5s 6s 5q q3 2c c- c~ 2q 5s 6s 5q q2 1c c- c- ,6q q,7 1c c- c~ 1q q2 q3 q4 3c c- c- 3q q5
-q3 q3 q5 6c. 5s s6 5q q3 q2 q5 3c c- c- 3q q5 6c. 5s s6 '1q q7 q6 q5 6c c- c~ 6q
-5s 6s 5q q3 2c c- c~ 2q 5s 6s 5q q2 1c c- c- ,6q q,7 1c. 2q ,7c. ,6q ,6c c- c- c-
-0c c0 c0 ,6q q,7 1c. 2q q,7. q2. q5 6c c- c- c-
+c0 c- q0 q3 q3 q5 c6. s5 s6 q5 q3 q2 q5 c3 c- c- q3 q5 c6. s5 s6 q'1 q7 q6 q5 c6 c- c~ q6
+s5 s6 q5 q3 c2 c- c~ q2 s5 s6 q5 q2 c1 c- c- q,6 q,7 c1 c- c~ q1 q2 q3 q4 c3 c- c- q3 q5
+q3 q3 q5 c6. s5 s6 q5 q3 q2 q5 c3 c- c- q3 q5 c6. s5 s6 q'1 q7 q6 q5 c6 c- c~ q6
+s5 s6 q5 q3 c2 c- c~ q2 s5 s6 q5 q2 c1 c- c- q,6 q,7 c1. q2 c,7. q,6 c,6 c- c- c-
+c0 c0 c0 q,6 q,7 c1. q2 q,7. q2. q5 c6 c- c- c-
 NextScore
 subtitle=crazy-piano
 KeepLength
-3c 6s s7 s'1 s'2 s'1 s7 s'1 s3 s7 s'1 s3 s6 s7 s,6 s5 s6 ,7q q,6 q,7 1s 2s s3[ 3q q2 q3 q] ,6c. 6q ,6s s,7 s1 s2 s,7 s1 s2 s5 s3[ 3q q1 q3 q] q3[ q7 q2 q7 q] q3[ q1 q6 q1 q] q3[ q5 q2 q5 q]
-,3c ,3s s,6 s,7 s1 s2 s1 s,7 s1 s3 s6 s7 s'1 s'2 s'1 s7 s'1 s'3 s'1 s7 s6 s3 s1 s,7 s,6 3d d2 d1 d,7 d,6 d,3 d,#1 d,1 3c c- c- 0q ,3s s,6
+c3 s6 s7 s'1 s'2 s'1 s7 s'1 s3 s7 s'1 s3 s6 s7 s,6 s5 s6 q,7 q,6 q,7 s1 s2 s3[ q3 q2 q3 ] c,6. q6 s,6 s,7 s1 s2 s,7 s1 s2 s5 s3[ q3 q1 q3 ] q3[ q7 q2 q7 ] q3[ q1 q6 q1 ] q3[ q5 q2 q5 ]
+c,3 s,3 s,6 s,7 s1 s2 s1 s,7 s1 s3 s6 s7 s'1 s'2 s'1 s7 s'1 s'3 s'1 s7 s6 s3 s1 s,7 s,6 d3 d2 d1 d,7 d,6 d,3 d,#1 d,1 c3 c- c- q0 s,3 s,6
 s,7 s2 s3 s6 s3 s7 s3 s'1 s'2 s'3 s'2 s'1 s7 s'1 s7 s6
-3c 6s s7 s'1 s'2 s'1 s7 s'1 s3 s7 s'1 s3 s6 s7 s,6 s5 s6 ,7q q,6 q,7 1s 2s s3[ 3q q2 q3 q] ,6c. 6q ,6s s,7 s1 s2 s,7 s1 s2 s5 s3[ 3q q1 q3 q] q3[ q7 q2 q7 q] q3[ q1 q6 q1 q] q3[ q5 q2 q5 q]
-,3c ,6s s,7 s1 s2 s1 s,7 s1 s,3 s,7 s1 s,3 s,6 s,7 s,,6 s,5 s,6 ,,7q q,,6 q,,7 ,1s ,2s s3[ ,3q q,2 q,3 q] ,,6c c- c- c- c- c- c- c-
+c3 s6 s7 s'1 s'2 s'1 s7 s'1 s3 s7 s'1 s3 s6 s7 s,6 s5 s6 q,7 q,6 q,7 s1 s2 s3[ q3 q2 q3 ] c,6. q6 s,6 s,7 s1 s2 s,7 s1 s2 s5 s3[ q3 q1 q3 ] q3[ q7 q2 q7 ] q3[ q1 q6 q1 ] q3[ q5 q2 q5 ]
+c,3 s,6 s,7 s1 s2 s1 s,7 s1 s,3 s,7 s1 s,3 s,6 s,7 s,,6 s,5 s,6 q,,7 q,,6 q,,7 s,1 s,2 s3[ q,3 q,2 q,3 ] c,,6 c- c- c- c- c- c- c-
 %---
 %END

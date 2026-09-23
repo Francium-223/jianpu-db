@@ -14,15 +14,15 @@ subtitle=intro
 NextScore
 subtitle=verse
 KeepLength
-0c. 1q q1 q2 3c ,6c. c1 2q 3c c,6. c1 2q 3c c,6. c1 2q ,7c ,7c. c1. 2q q3
-,6c. c1 2q 3c c,6. c1 2q 3c c,6. c1 2q ,7c ,7c. c4 4q q3 q2
+c0. q1 q1 q2 c3 c,6. c1 q2 c3 c,6. c1 q2 c3 c,6. c1 q2 c,7 c,7. c1. q2 q3
+c,6. c1 q2 c3 c,6. c1 q2 c3 c,6. c1 q2 c,7 c,7. c4 q4 q3 q2
 NextScore
 subtitle=chorus
-,7. 1. 2 ,7 1q ,7 ,6q ,5 ,6. 3. ,6 ,6. 3q ~ 3 -
-,7. 1. 2 ,7 1q 2 5q 2 1. ,7. ,6 ,7 1q 2q ~ 2 -
-1 - ,7 ,6q ,7q ~ ,7 - ,6 ,5q ,6q ~ ,6 - - - - - ,6 ,7
-1 - ,7 ,6q ,7q ~ ,7 - ,6 ,5q ,6q ~ ,6 - - - - - ,6 ,7 3 - 2 1q 2q ~ 2 - 1 ,7q 1q ~ 1q ,6q ~ ,6 - - - - ,6 ,7
-3 - 2 1q 2q ~ 2 - 1 ,7q 1q ~ 1q ,6q ~ ,6 - - - - ,6 ,7
+,7. 1. 2 ,7 q1 ,7 q,6 ,5 ,6. 3. ,6 ,6. q3 ~ 3 -
+,7. 1. 2 ,7 q1 2 q5 2 1. ,7. ,6 ,7 q1 q2 ~ 2 -
+1 - ,7 q,6 q,7 ~ ,7 - ,6 q,5 q,6 ~ ,6 - - - - - ,6 ,7
+1 - ,7 q,6 q,7 ~ ,7 - ,6 q,5 q,6 ~ ,6 - - - - - ,6 ,7 3 - 2 q1 q2 ~ 2 - 1 q,7 q1 ~ q1 q,6 ~ ,6 - - - - ,6 ,7
+3 - 2 q1 q2 ~ 2 - 1 q,7 q1 ~ q1 q,6 ~ ,6 - - - - ,6 ,7
 NextScore
 subtitle=outro
 1 - - - 2 - - - 7 - - - 3 - - -

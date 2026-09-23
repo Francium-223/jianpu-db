@@ -9,21 +9,21 @@ status=ok
 %---
 subtitle=intro
 KeepLength
-'1c. c1. c'1 c7. 2q 5c c4 c3. c3. c6 c~ 6q 3c. c6 c7
-'1c. c1. c'2 c7 c'2 c'4 c'5 c'3 c- c- c- c- c- c6 c7
-'1c. c1. c'1 c7. 2q 5c c4 c3. c3. c6 c~ 6q 3c. c6 c7
-'1c. c1. c'2 c7 c'2 c'4 c'5 c'3 c- c- c- c- c- c6 c7
+c'1. c1. c'1 c7. q2 c5 c4 c3. c3. c6 c~ q6 c3. c6 c7
+c'1. c1. c'2 c7 c'2 c'4 c'5 c'3 c- c- c- c- c- c6 c7
+c'1. c1. c'1 c7. q2 c5 c4 c3. c3. c6 c~ q6 c3. c6 c7
+c'1. c1. c'2 c7 c'2 c'4 c'5 c'3 c- c- c- c- c- c6 c7
 NextScore
 subtitle=verse
 KeepLength
-6c c- c- c- 7q q'1 q'2 q'3 q7 q'1 q'2 q6
-6c c- c- c- 7q q'1 q'2 q'3 q7 q'1 q'2 q6
-6c c- c- c- 7q q'1 q'2 q'3 q'1 q7 q6 q5
-3c c- c- c- c- c- c- c-
-6c c- c- c- 7q q'1 q'2 q'3 q7 q'1 q'2 q6
-6c c- c- c- 7q q'1 q'2 q'3 q7 q'1 q'2 q6
-6c c- c- c- 7q q'1 q'2 q'3 q'1 q7 q6 q5
-3c c- c- c- c- c- c- c-
+c6 c- c- c- q7 q'1 q'2 q'3 q7 q'1 q'2 q6
+c6 c- c- c- q7 q'1 q'2 q'3 q7 q'1 q'2 q6
+c6 c- c- c- q7 q'1 q'2 q'3 q'1 q7 q6 q5
+c3 c- c- c- c- c- c- c-
+c6 c- c- c- q7 q'1 q'2 q'3 q7 q'1 q'2 q6
+c6 c- c- c- q7 q'1 q'2 q'3 q7 q'1 q'2 q6
+c6 c- c- c- q7 q'1 q'2 q'3 q'1 q7 q6 q5
+c3 c- c- c- c- c- c- c-
 NextScore
 subtitle=verse
 '1 - - '1 7 - 5 4 3 - - - - - 6 7

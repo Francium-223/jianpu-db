@@ -10,17 +10,17 @@ status=ok
 %---
 subtitle=intro
 KeepLength
-0q q3 3c c2 c3 0q q3 3c c2 c3 0q q3 3c c2 3q 4q q0 3c. 4c c5
+q0 q3 c3 c2 c3 q0 q3 c3 c2 c3 q0 q3 c3 c2 q3 q4 q0 c3. c4 c5
 NextScore
 subtitle=verse
 KeepLength
-0q q3 q6 q'3 q'2 q'1 q7 q'1 q6 q3 q7 q3 q'1 q3 q7 q3 q6 q3 q7 q3 q'1 q3 q2 q3 q'1 q3 q7 q3 q6 q3 q5 q3
+q0 q3 q6 q'3 q'2 q'1 q7 q'1 q6 q3 q7 q3 q'1 q3 q7 q3 q6 q3 q7 q3 q'1 q3 q2 q3 q'1 q3 q7 q3 q6 q3 q5 q3
 NextScore
 subtitle=layer
-R3{ 1 - - - ,7 - 2 - 1 - - - ,7 - 2 - } A{ 1 - - - ,7 - 2 - ,6 - - - 7 - 1 - | 1s 7s 7 1q ~ 1 - ,7 - 2 - ,6 - - - 3 - - - }
+R3{ 1 - - - ,7 - 2 - 1 - - - ,7 - 2 - } A{ 1 - - - ,7 - 2 - ,6 - - - 7 - 1 - | s1 s7 7 q1 ~ 1 - ,7 - 2 - ,6 - - - 3 - - - }
 NextScore
 KeepLength
-0q q3 q6 q'3 q'2 q'1 q7 q'1 q'1 q7 q6 q3 q'1 q7 q6 q3
-0q q3 q6 q'3 q'2 q'1 q7 q'1 q'1 q7 q6 q3 q'1 q7 q6 q3
-0q q3 q6 q'3 q'2 q'1 q7 q'1 q'1 q7 q6 q3 q'2 q'1 q7 q'1 q'1 q7 q6 q3 q'2 q'1 q7 q'1 q'1 q7 q6 q3 q''5 q''4 '3s '2s '1s '7s
+q0 q3 q6 q'3 q'2 q'1 q7 q'1 q'1 q7 q6 q3 q'1 q7 q6 q3
+q0 q3 q6 q'3 q'2 q'1 q7 q'1 q'1 q7 q6 q3 q'1 q7 q6 q3
+q0 q3 q6 q'3 q'2 q'1 q7 q'1 q'1 q7 q6 q3 q'2 q'1 q7 q'1 q'1 q7 q6 q3 q'2 q'1 q7 q'1 q'1 q7 q6 q3 q''5 q''4 s'3 s'2 s'1 s'7
 %END

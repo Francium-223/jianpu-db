@@ -8,32 +8,32 @@ alias=黑暗的力量
 status=ok
 %---
 subtitle=intro
-3q 3q 3q 3s 3q 3s 3q 3q 2q
-3q 3q 3q 3s 3q 3s 3q 5q 5q
-3q 3q 3q 3s 3q 3s 3q 3q 2q
-3q 3q 3q 3s 3q 3s 3q 5q 5q
-3q 3q 3q 3s 3q 3s 3q 3q 2q
-3q 3q 3q 3s 3q 3s 3q 5q 5q
-3q 3q 3q 3s 3q 3s 3q 3q 2q
-3q 3q 3q 3s 3q 3s 3q 5q 5q
+q3 q3 q3 s3 q3 s3 q3 q3 q2
+q3 q3 q3 s3 q3 s3 q3 q5 q5
+q3 q3 q3 s3 q3 s3 q3 q3 q2
+q3 q3 q3 s3 q3 s3 q3 q5 q5
+q3 q3 q3 s3 q3 s3 q3 q3 q2
+q3 q3 q3 s3 q3 s3 q3 q5 q5
+q3 q3 q3 s3 q3 s3 q3 q3 q2
+q3 q3 q3 s3 q3 s3 q3 q5 q5
 
-3q 3q 3q 3s 3q 3s 3q 3q #2q
-#2q #2q #2q #2s #2q #2s #4q 3q #2q
+q3 q3 q3 s3 q3 s3 q3 q3 q#2
+q#2 q#2 q#2 s#2 q#2 s#2 q#4 q3 q#2
 NextScore
 subtitle=intro
-,6q 3q 2q 3q ,6q 3q 2q 3q
-,5q 2q 1q 2q ,5q 2q 1q 2q
-,6q 3q 2q 3q ,6q 3q 2q 3q
-,5q 2q 1q 2q ,5q 2q 1q 2q
+q,6 q3 q2 q3 q,6 q3 q2 q3
+q,5 q2 q1 q2 q,5 q2 q1 q2
+q,6 q3 q2 q3 q,6 q3 q2 q3
+q,5 q2 q1 q2 q,5 q2 q1 q2
 NextScore
 subtitle=verse
 KeepLength
-0c c6 7q. q6. q7 q'1. q7. q6 q5. q4. q3
-0c c6 7q. q'1. q7 q6. q5. q4 3c c6
-0c c6 7q. q6. q7 q'1. q7. q6 q5. q4. q3
-6q. q3. q6 q7. q3. q7 q'1 q- q- q'2 q7 q5 q3 q1
-0c c6 7q. q6. q7 q'1. q7. q6 q5. q4. q3
-0c c6 7q. q'1. q7 q6. q5. q4 3c c6
-0c c6 7q. q6. q7 q'1. q7. q6 q5. q4. q3
-6q. q3. q6 q7. q3. q7 q'1 q- q- q'2 q7 q5 q'2 q'5
+c0 c6 q7. q6. q7 q'1. q7. q6 q5. q4. q3
+c0 c6 q7. q'1. q7 q6. q5. q4 c3 c6
+c0 c6 q7. q6. q7 q'1. q7. q6 q5. q4. q3
+q6. q3. q6 q7. q3. q7 q'1 q- q- q'2 q7 q5 q3 q1
+c0 c6 q7. q6. q7 q'1. q7. q6 q5. q4. q3
+c0 c6 q7. q'1. q7 q6. q5. q4 c3 c6
+c0 c6 q7. q6. q7 q'1. q7. q6 q5. q4. q3
+q6. q3. q6 q7. q3. q7 q'1 q- q- q'2 q7 q5 q'2 q'5
 %END

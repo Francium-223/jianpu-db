@@ -16,23 +16,44 @@ try:
 	import jptok
 except Exception:                              # pragma: no cover - 只在独立 clone 时走
 	class _FallbackJptok:
-		"""jptok 找不到时的最小兜底: 保证 data.jsonl 仍产出 bars。与 jptok 同口径。"""
-		BEAT = {"h": 2.0, "": 1.0, "q": 0.5, "s": 0.25, "d": 0.125}
-		_TOK = re.compile(r"^([qsdh]*)([,']*)([#b♯♭]?)([1-7x0])([,']*)[.]*$")
+		"""jptok 找不到时的最小兜底: 保证 data.jsonl 仍产出 bars。与 jptok 同口径。
+
+		⚠ 这是**第二份**口径(唯一一份在 skill 目录的 jptok.py)。2026-09-23 它俩一起漂了:
+		  正则只认前缀时值, 后缀形(`6c.`/`5s`/`3q`)被静默丢掉, 36 首受损。
+		  改 jptok.py 时**必须同步这里**(或干脆删掉这段、让 jptok 成为硬依赖)。
+		"""
+		BEAT = {"h": 2.0, "c": 1.0, "": 1.0, "q": 0.5, "s": 0.25, "d": 0.125}
+		_TOK = re.compile(
+			r"^(?P<pre>[cqsdh]*)(?P<oct1>[,']*)(?P<acc>[#b♯♭]?)(?P<dig>[1-7x0])"
+			r"(?P<oct2>[,']*)(?P<acc2>[#b♯♭]?)(?P<post>[cqsdh]*)(?P<dot>[.]*)(?P<mark>[\[\]]?)$")
 
 		@classmethod
 		def parse_token(cls, t):
 			m = cls._TOK.match(t or "")
 			if not m:
 				return None
-			_pre, octs, acc, dig, post = m.groups()
-			a = 1 if acc in ("#", "♯") else (-1 if acc in ("b", "♭") else 0)
-			off = (octs + post).count(",") - (octs + post).count("'")
-			return (None, a, off) if dig in "0x" else (int(dig), a, off)
+			g = m.groupdict()
+			acc, acc2 = g["acc"], g["acc2"]
+			a = 1 if (acc in ("#", "♯") or acc2 in ("#", "♯")) else (-1 if (acc in ("b", "♭") or acc2 in ("b", "♭")) else 0)
+			off = (g["oct1"] + g["oct2"]).count(",") - (g["oct1"] + g["oct2"]).count("'")
+			return (None, a, off) if g["dig"] in "0x" else (int(g["dig"]), a, off)
+
+		@classmethod
+		def is_note(cls, t):
+			return cls.parse_token(t) is not None
+
+		@classmethod
+		def duration_letter(cls, tok):
+			t = tok or ""
+			m = re.match(r"^([cqsdh]+)", t)
+			if m:
+				return m.group(1)
+			m = re.search(r"([cqsdh]+)[.]*[\[\]]?$", t)
+			return m.group(1) if m else ""
 
 		@classmethod
 		def beat(cls, tok):
-			v = cls.BEAT.get(re.match(r"^([qsdh]*)", tok or "").group(1), 0.0625)
+			v = cls.BEAT.get(cls.duration_letter(tok), 0.0625)
 			return v * 1.5 if (tok or "").endswith(".") else v
 
 		@staticmethod
@@ -47,6 +68,7 @@ except Exception:                              # pragma: no cover - 只在独立
 
 		@classmethod
 		def recover_bars(cls, sections, beats_per_bar, keep_explicit=True):
+			# 与 jptok.recover_bars 同口径: **休止/念白也占拍**(不记时会让小节线整体前漂)
 			bars, n, acc = [], 0, 0.0
 			for sec in sections or []:
 				for t in (sec.get("score") or "").split():
@@ -55,14 +77,15 @@ except Exception:                              # pragma: no cover - 只在独立
 							bars.append(n)
 						acc = 0.0
 						continue
-					if t == "-":
+					if t == "-" or re.match(r"^[cqsdh]+-$", t or ""):
 						acc += 1.0
 						continue
 					p = cls.parse_token(t)
-					if not p or p[0] is None:
+					if not p:
 						continue
+					if p[0] is not None:
+						n += 1
 					acc += cls.beat(t)
-					n += 1
 					if acc >= beats_per_bar - 1e-9:
 						bars.append(n)
 						acc = 0.0
@@ -112,8 +135,21 @@ def expand_keep_length(text):
 	out_lines = []
 	cur_val = ''          # 当前生效的时值
 	keep = False          # KeepLength 是否生效
+	# ⚠ 只处理**曲谱正文**(第一条 `%--` 之后)。输入是 `_buf.txt` 的内容 = 元数据 + 正文,
+	#   元数据行里也可能有"以时值字母结尾"的词(todo=add tags / title=Twins …),
+	#   一旦被当成时值搬前面就会写成 `dtodo=ad stag`(实测: 1678 个 _expand.txt 被写坏)。
+	#   没有 `%--` 时(独立的正文片段)按全文处理。
+	has_marker = any(l.replace(' ', '').startswith('%--') for l in text.splitlines())
+	in_body = not has_marker
 	for line in text.splitlines():
 		s = line.strip()
+		if s.replace(' ', '').startswith('%--'):
+			in_body = True
+			out_lines.append(line)
+			continue
+		if not in_body:
+			out_lines.append(line)           # 元数据区原样保留
+			continue
 		if s == 'KeepLength':
 			keep = True
 			out_lines.append(line)
@@ -129,23 +165,30 @@ def expand_keep_length(text):
 			continue
 		toks = []
 		for tok in s.split():
+			# 第二道防护: **只对音符/记号做时值处理**。不是音符的 token(`todo=add`、垃圾)
+			# 原样放回去 —— 光看"结尾字母像不像 cqsdh"会误伤普通单词。
+			if not (jptok.is_note(tok) or tok in ('-', '|', '~')):
+				toks.append(tok)
+				continue
 			# 取时值: 可能前置(q1 / q1' / s,6) 或后置(1q / ,6s / 3c.)
 			m_pre = re.match(r'^([cqsdh])(.*)$', tok)
 			m_post = re.match(r'^(.*?)([cqsdh])([.]*)$', tok)
-			val = ''
 			if m_pre and re.match(r"^[,']*[0-9x]", m_pre.group(2)):
-				val = m_pre.group(1)
+				cur_val = m_pre.group(1)
+				toks.append(tok)                 # 已经是"时值在前", 原样
 			elif m_post:
-				val = m_post.group(2)
-			if val:
-				cur_val = val
-				toks.append(tok)
-			else:
+				cur_val = m_post.group(2)
+				# **后缀 -> 前缀**(兑现本函数 docstring 的"统一补到前面"):
+				#   `6c.` -> `c6.`    `,6q` -> `q,6`    `'1q` -> `q'1`
+				# 以前这里是 `toks.append(tok)` 原样保留 —— 后缀 token 于是流进 data.jsonl /
+				# _expand.txt, 而只认前缀的解析器把它们整段丢掉: 36 首手工录入谱索引里
+				# 少了 40% 的音(最多一首丢 91%), th10_06 第 1 小节的旋律因此被读错。
+				toks.append(cur_val + m_post.group(1) + m_post.group(3))
+			elif keep and cur_val:
 				# 无时值: KeepLength 生效时补上当前时值, 否则按四分音(不加前缀)
-				if keep and cur_val:
-					toks.append(cur_val + tok)
-				else:
-					toks.append(tok)
+				toks.append(cur_val + tok)
+			else:
+				toks.append(tok)
 		out_lines.append(' '.join(toks))
 	return '\n'.join(out_lines)
 
@@ -218,12 +261,14 @@ class Score():
 			if s.startswith('%') or not s:
 				continue
 			cur += [t for t in s.split()
-					# **升降号必须收**: 库里确实有 `#5`/`b3` 这类 token(实测 th06_15.txt 整段都是 #5),
-					# 原来的白名单 `[,']*[qsdh]*[,']*[1-7x0]` 看不见它们 -> 这些音在 data.jsonl 里
-					# **被整段丢掉**, 检索因此永远匹配不上(实测: 文件 124 音 vs jsonl 只有部分,
-					# 而且统计出"395 万 token 里 0 个升号"这种假结论)。
-					# 记谱里变音记号可能写在数字前(jiàn谱习惯)也可能在后, 所以两侧都允许。
-					if re.match(r"^[,']*[qsdh]*[,']*[#b]?[1-7x0]|[#b][1-7]", t) or t in ('-', '|', '~')]
+					# **口径只有一份**: 判音符一律走 jptok.is_note(整体匹配, 时值前后都认)。
+					# 这里以前自带一份"前缀部分匹配"的正则 `^[,']*[qsdh]*[,']*[#b]?[1-7x0]|[#b][1-7]`:
+					# 它靠部分匹配把 `6c.` 当音收下(所以 n_notes=383), 而真正的 token 解析器
+					# 只认前缀 —— 同一份数据两个口径, 正是"带 # 的音整段消失"那次的老坑。
+					if jptok.is_note(t) or t in ('-', '|', '~')
+					or re.match(r"^[cqsdh]+[-~]$", t)      # `c-`/`q-`: KeepLength 补时值的延长记号
+					# 调号(`1=C`/`1=Bb`)不是音符, 但它**是** score 里唯一残留的调性信息 -> 原样保留
+					or re.match(r"^[1-7]\s*=\s*[A-Ga-g][#b♯♭]?$", t)]
 		if cur:
 			sections.append({'subtitle': cur_sub, 'score': ' '.join(cur)})
 		full = ' | '.join(x['score'] for x in sections if x['score'])
@@ -236,7 +281,7 @@ class Score():
 		_beat_n = jptok.beats_per_bar_from(
 			self.raw2 or "\n".join(x.rstrip("\n") for x in (self.raw or [])))
 		bars = jptok.recover_bars(sections, _beat_n)
-		n_notes = len([t for t in full.split() if re.match(r"^[,']*[qsdh]*[,']*[#b]?[1-7x0]|[#b][1-7]", t)])
+		n_notes = sum(1 for t in full.split() if jptok.is_note(t))
 		# 各字段的形态由 schema 决定(字符串或列表) -> 原样传出去, 不在这里强转
 		return {
 			'file': [self.score.split('/')[-1]],
@@ -252,6 +297,10 @@ class Score():
 			# 但这里同样曾经漏带 -> data.jsonl 里 0 条能看见, 下游无法用"同 MBID = 同一首"
 			# 替代脆弱的曲名分组。字段名按仓库既有写法保持大写 MBID。
 			'MBID': self.others.get('MBID', ''),
+			# **收录页**(用户口径 2026-09-23): 每首歌在自己那一页的确切 URL(可多个)。
+			# 搜索页不算收录页 —— 前端可以现拼搜索, 但那个不进语料。
+			# ⚠ 这个字段是"人工补"的: 页面上的"粘贴链接→保存"与 tools/add_link.py 都写它。
+			'link': self.others.get('link', []),
 			'alias': self.others.get('alias', []),
 			'transcriber': self.others.get('transcriber', []),
 			'sections': sections,

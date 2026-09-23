@@ -10,17 +10,17 @@ status=ok
 %---
 subtitle=intro
 KeepLength
-'1q q6 q3 q'1 q7 q5 q3 q7 q6 q3 q1 q6 q3 q1 q2 q,7
-q3 q1 q,6 q3 q2 q,7 q,5 q2 1s s,6 s,3 s1 s,7 s,5 s,3 s,7 s,6 s,3 s,1 s,6 s,3 s,,6 s,2 s,,#5
+q'1 q6 q3 q'1 q7 q5 q3 q7 q6 q3 q1 q6 q3 q1 q2 q,7
+q3 q1 q,6 q3 q2 q,7 q,5 q2 s1 s,6 s,3 s1 s,7 s,5 s,3 s,7 s,6 s,3 s,1 s,6 s,3 s,,6 s,2 s,,#5
 NextScore
 subtitle=intro
 KeepLength
-,6s s,6 s3 s,6 s,6 s2 s1 s,7 ,6s s,6 s3 s,6 s,6 s,7 s1 s2
-,6s s,6 s3 s,6 s,6 s2 s1 s,7 ,6s s,6 s3 s,6 s,6 s,7 s1 s2
+s,6 s,6 s3 s,6 s,6 s2 s1 s,7 s,6 s,6 s3 s,6 s,6 s,7 s1 s2
+s,6 s,6 s3 s,6 s,6 s2 s1 s,7 s,6 s,6 s3 s,6 s,6 s,7 s1 s2
 NextScore
 subtitle=verse
 KeepLength
-0c c0 c6 c7 c'1 c- c- c- c~ '1q '1q q'2 q'3 q'2 q'1 q7 q5 6c c- c- c- c~ 6q q6 q7 q'1 q7 q6 q5 q3 6c c- c- c- c~ 6q q6 q7 q'1 q7 q6 q3 q6 3c c- c- c- c- c- c6 c7
-c'1 c- c- c- c~ '1q '1q q'2 q'3 q'2 q'1 q7 q5 6c c- c- c- c~ 6q q6 q7 q'1 q7 q6 q5 q3 6c c- c- c- c~ 6q q6 q7 q'1 q7 q6 q3 q6 3c c- c- c- c- c- c- c-
-2c c- c- 5c c~ 5q 3c c- c- 2s 1s 2c. 5c. 6c 3c c- c- c~ 3q 3s 5s 6c c- c- c~ 6q 3s 5s 6c c- c- c~ 6q 3s 5s 6c. '1c 7s 6s 5c c6 c- c6 c7
+c0 c0 c6 c7 c'1 c- c- c- c~ q'1 q'1 q'2 q'3 q'2 q'1 q7 q5 c6 c- c- c- c~ q6 q6 q7 q'1 q7 q6 q5 q3 c6 c- c- c- c~ q6 q6 q7 q'1 q7 q6 q3 q6 c3 c- c- c- c- c- c6 c7
+c'1 c- c- c- c~ q'1 q'1 q'2 q'3 q'2 q'1 q7 q5 c6 c- c- c- c~ q6 q6 q7 q'1 q7 q6 q5 q3 c6 c- c- c- c~ q6 q6 q7 q'1 q7 q6 q3 q6 c3 c- c- c- c- c- c- c-
+c2 c- c- c5 c~ q5 c3 c- c- s2 s1 c2. c5. c6 c3 c- c- c~ q3 s3 s5 c6 c- c- c~ q6 s3 s5 c6 c- c- c~ q6 s3 s5 c6. c'1 s7 s6 c5 c6 c- c6 c7
 %END

@@ -10,23 +10,23 @@ status=ok
 %---
 subtitle=intro
 KeepLength
-6q q6 q7 q'1 q6 q7 q'1 q6 q6 q6 q7 q'1 q6 q'2 q'1 q7
-q1 q'1 q7 q'1 q6 q7 q'1 q6 q6 q6 q7 q'1 q6 q7 '1s s7 6q
+q6 q6 q7 q'1 q6 q7 q'1 q6 q6 q6 q7 q'1 q6 q'2 q'1 q7
+q1 q'1 q7 q'1 q6 q7 q'1 q6 q6 q6 q7 q'1 q6 q7 s'1 s7 q6
 q,6 q6 q7 q'1 q6 q7 q'1 q6 q6 q6 q7 q'1 q6 q'2 q'1 q7
-q1 q'1 q7 q'1 q6 q7 q'1 q6 q6 q6 q7 q'1 q6 q7 q'1 7s s'1
+q1 q'1 q7 q'1 q6 q7 q'1 q6 q6 q6 q7 q'1 q6 q7 q'1 s7 s'1
 NextScore
 subtitle=layer
-3 - - - - - 2 5 3 - - - - - 2 5 6 - - - - - 5 6 3 - - - 2 1q 2s 1s ,7 -
+3 - - - - - 2 5 3 - - - - - 2 5 6 - - - - - 5 6 3 - - - 2 q1 s2 s1 ,7 -
 3 - - - - - 2 5 3 - - - - - 2 5 6 - - - - - 7 '1 7 - - '1 '2 - 7 5
 NextScore
 subtitle=chorus
-'1 - - - 7 - 5 - 5q 6q 6 - - 7q '1q '1 - - 7 - - '1 '2 - 7 5 3 - - - - - - -
-'1 - - - 7 - 5 - 5q 6q 6 - - 7q '1q '1 - - 7 - - '1 '2 - 7 5 3 - - - - - - -
+'1 - - - 7 - 5 - q5 q6 6 - - q7 q'1 '1 - - 7 - - '1 '2 - 7 5 3 - - - - - - -
+'1 - - - 7 - 5 - q5 q6 6 - - q7 q'1 '1 - - 7 - - '1 '2 - 7 5 3 - - - - - - -
 NextScore
 subtitle=outro
 KeepLength
-6q q6 q7 q'1 q6 q7 q'1 q6 q6 q6 q7 q'1 q6 q'2 q'1 q7
-q4 q4 q5 q6 q4 q5 q6 q4 q4 q4 q5 q6 q4 q5 6s s5 4q
-q5 q5 q6 q7 q5 q6 q7 q5 q5 q5 q6 q7 q5 q6 7s s6 5q
-q6 q6 q7 q'1 q6 q7 q'1 q6 q6 q6 q7 q'1 q6 q7 q'1 7s s'1
+q6 q6 q7 q'1 q6 q7 q'1 q6 q6 q6 q7 q'1 q6 q'2 q'1 q7
+q4 q4 q5 q6 q4 q5 q6 q4 q4 q4 q5 q6 q4 q5 s6 s5 q4
+q5 q5 q6 q7 q5 q6 q7 q5 q5 q5 q6 q7 q5 q6 s7 s6 q5
+q6 q6 q7 q'1 q6 q7 q'1 q6 q6 q6 q7 q'1 q6 q7 q'1 s7 s'1
 %END

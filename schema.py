@@ -24,6 +24,8 @@ import re
 import warnings
 from dataclasses import dataclass
 
+import linkurl          # 收录页 URL 的唯一口径(纯函数; 服务端也 import 它)
+
 # ---------------- 一阶（逐值）解析函数 ----------------
 
 def default_parse(a: str) -> list:
@@ -42,6 +44,21 @@ def parse_mbid(a: str) -> str:
 
 def return_itself(a: str) -> str:
 	return a.strip()
+
+
+# 收录页 URL 里常见的跟踪参数: 去掉, 否则同一个页面会有多种写法 -> 去重失效
+_TRACKING = {'utm_source', 'utm_medium', 'utm_campaign', 'utm_term', 'utm_content',
+			 'from', 'spm', 'share_source', 'share_medium', 'refer', 'referer',
+			 'fbclid', 'gclid', 'vd_source', 'buvid'}
+
+
+def parse_link(a: str) -> list:
+	"""收录页链接(**唯一实现**在 `linkurl.py`, 这里只是它的皮)。
+
+	为什么要单独一个模块: 网页投稿服务(server.py)也要校验同一个口径, 但它不能
+	import schema.py(一 import 就读 cwd 下的 tags.json)。口径只能有一份。
+	"""
+	return linkurl.parse_link(a)
 
 
 # ---------------- 标签图的机械（从 score.py 迁来，逐字保留） ----------------
@@ -304,6 +321,8 @@ schema = {
 	# 一阶字段(逐值)
 	'title': Attr(return_itself, (), '单值字符串; 文件名/NotTitleError 依赖它'),
 	'MBID': Attr(parse_mbid, (), '单值 uuid'),
+	'link': Attr(parse_link, (), '**收录页的确切 URL**(可多行: 网易云/QQ音乐/B站/YouTube/…); '
+								 '必须人工核对过, 不许写搜索页'),
 	'status': Attr(return_itself, (), 'ok / midi / ocr ... (parse_scores 用白名单筛)'),
 	'usertag': Attr(default_parse, (), '人只写**叶子**; 可多行、可逗号分隔'),
 	# 衍生字段(整对象) —— 顺序由这里的 deps 决定, 与书写顺序无关

@@ -1,28 +1,28 @@
 %th02_02.txt
-title=博麗 ～Eastern Wind
+title=博麗　～Eastern Wind
 tag=th02,东方封魔录,东方,touhou,东方原曲,ZUN,东方旧作原曲,东方整数作原曲
 usertag=th02
 tagroute=东方/东方原曲/ZUN/东方旧作原曲/东方整数作原曲/th02
 MBID=2b2e2df0-20ce-3c72-813c-9483f809bc37
-alias=博丽 ～Eastern Wind
+alias=博丽　～Eastern Wind
 transcriber=Francium-223
 status=ok
 %---
 subtitle=intro
 KeepLength
-3s s6 s7 s3 s6 s3 s'1 s3 s'2 s3 s'1 s3 s7 s3 s'1 s3
-3s s6 s7 s3 s6 s3 s'1 s3 s'2 s3 s'1 s3 s7 s3 s'1 s3
-3s s6 s7 s3 s6 s3 s'1 s3 s'2 s3 s'1 s3 s7 s3 s'1 s3
-3s s6 s7 s3 s6 s3 s'1 s3 s'2 s3 s'1 s3 s7 s3 s'1 s3
-,#5c c- c- c- c3 c- c2 c3
+s3 s6 s7 s3 s6 s3 s'1 s3 s'2 s3 s'1 s3 s7 s3 s'1 s3
+s3 s6 s7 s3 s6 s3 s'1 s3 s'2 s3 s'1 s3 s7 s3 s'1 s3
+s3 s6 s7 s3 s6 s3 s'1 s3 s'2 s3 s'1 s3 s7 s3 s'1 s3
+s3 s6 s7 s3 s6 s3 s'1 s3 s'2 s3 s'1 s3 s7 s3 s'1 s3
+c,#5 c- c- c- c3 c- c2 c3
 NextScore
 subtitle=verse
-,6 ,6 ,7 ,7q 1q ~ 1q 1q 1 1 2 3 3 2q 5 3q ~ 3q 3q 3 3q 2q 1q ,7q
-,6 ,6 ,7 ,7q 1q ~ 1q 1q 1 1 2 1q ,7q ,6q ,3q ~ 3 - - - ,2q ,3q ,6
-,6 ,6 ,7 ,7q 1q ~ 1q 1q 1 1 2 3 3 2q 5 3q ~ 3q 3q 3 3q 2q 1q ,7q
-,6 ,6 ,7 ,7q 1q ~ 1q 1q 1 1 2 1q ,7q ,6q ,3q ~ 3 - - - '2 '1 7 '1
+,6 ,6 ,7 q,7 q1 ~ q1 q1 1 1 2 3 3 q2 5 q3 ~ q3 q3 3 q3 q2 q1 q,7
+,6 ,6 ,7 q,7 q1 ~ q1 q1 1 1 2 q1 q,7 q,6 q,3 ~ 3 - - - q,2 q,3 ,6
+,6 ,6 ,7 q,7 q1 ~ q1 q1 1 1 2 3 3 q2 5 q3 ~ q3 q3 3 q3 q2 q1 q,7
+,6 ,6 ,7 q,7 q1 ~ q1 q1 1 1 2 q1 q,7 q,6 q,3 ~ 3 - - - '2 '1 7 '1
 NextScore
 subtitle=chorus
-1 1 2 2q 3q ~ 3q 3q 3 3 2
-1 1 2 2q 3q ~ 3q 3q 3 3 2
+1 1 2 q2 q3 ~ q3 q3 3 3 2
+1 1 2 q2 q3 ~ q3 q3 3 3 2
 %END
