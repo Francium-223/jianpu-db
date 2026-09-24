@@ -41,10 +41,19 @@ Fetching submodules
 * 兜底脚本两种情形都对：无 gitlink → 不报；有 → 打印并 `exit 1`。
 * `parse.yaml` 能被 YAML 解析，5 个 step 的 shell 符合预期。
 * 本地 `data.jsonl` md5 全程 `21d9709ce2b0c6fb3537d5f1c83d8938`（这次一个字没动）。
-* **端到端**: 修复推送后徽章由 `failing` 转 **`passing`**（parse.yaml 02:09:19 转绿；
-  publish-hf.yaml 也 `passing` —— HF 那边同步成功）；且**没有**再产生 bot 提交
-  （`git fetch` 后远端 `data.jsonl` 与本地 md5 一致 = CI 用兜底 jptok 重建出来的是同一份，
+* **端到端**（逐条 run 页面读出来的状态，**不是**看徽章）:
+  `#44 cf01b31 17:42 Failure`（修前）→ `#45 9166a4e 18:03 Failure`（修前，用户贴的就是它）
+  → `#46 51af08f 18:05 **Cancelled**` → `#47 4a6828b 18:06 Success` → `#48 e167de0 18:09 Success`。
+  两个 workflow 徽章现在也都是 `passing`；且**没有**再产生 bot 提交
+  （`git fetch` 后远端 `data.jsonl` 与本地 md5 一致 = CI 用兜底 jptok 重建出来的是同一份,
   这同时又是"兜底与 jptok 等价"的一次独立复验）。
+* ⚠ 两个坑（我自己踩的，写下来）:
+  1. **推送别挨太近** —— `concurrency: cancel-in-progress` 会把前一次标成 `Cancelled`（列表里一个红叉），
+     看着像"又失败了"。修复那次（#46）就是这么被我 90 秒后的第二次推送取消掉的。
+  2. **徽章只反映"最近一次已完成的运行"** —— 刚推完那一刻它显示的还是上一次的结果；
+     不能拿它当"我刚推的这次是绿的"的证据。要看某一次，就读那个 run 页面的 `Status`
+     （`curl -s .../actions/runs/<id>` 里搜 `Status\s*(Success|Failure|Cancelled)`）。
+  3. 另外: **老 run 的 "Re-run" 重跑的是老提交** —— 修前的提交树里还长着 gitlink，重跑一万次也还是那个错。
 * 旁证（时间线）: 最后一次成功的 bot 自动提交是 `2f60fb58`（09-24 05:53）——正是把 gitlink 提交进来的那次；
   此后近 20 小时再无 bot 提交，全部卡在 checkout。修完立刻恢复。
 
