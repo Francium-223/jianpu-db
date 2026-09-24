@@ -103,13 +103,21 @@ for r in $REPOS; do
   git -C "$d" remote | grep -q . || { echo "  !! 没有远端, 跳过"; FAIL=1; continue; }
   # jianpu-db 的远端叫 Francium-223; jianpu2/jianpu-web 叫 origin
   rem="$(git -C "$d" remote | head -1)"
-  if git -C "$d" rev-parse --abbrev-ref --symbolic-full-name @{u} >/dev/null 2>&1; then
-    echo "  -> git push ${rem} $(git -C "$d" rev-parse --abbrev-ref HEAD)"
-    git -C "$d" "${CRED[@]}" push "$rem" || FAIL=1
-  else
-    echo "  -> git push -u ${rem} $(git -C "$d" rev-parse --abbrev-ref HEAD)  (首次, 建立跟踪)"
-    git -C "$d" "${CRED[@]}" push -u "$rem" "$(git -C "$d" rev-parse --abbrev-ref HEAD)" || FAIL=1
-  fi
+  br="$(git -C "$d" rev-parse --abbrev-ref HEAD)"
+  # 这台机器的 DNS 会抖(实测 github 有时解析不到 -> "仓库不存在或没权限"), 所以重试 3 次。
+  pushed=0
+  for try in 1 2 3; do
+    if git -C "$d" rev-parse --abbrev-ref --symbolic-full-name @{u} >/dev/null 2>&1; then
+      echo "  -> git push ${rem} ${br}  (第 $try 次)"
+      out="$(git -C "$d" "${CRED[@]}" push "$rem" 2>&1)" && { echo "$out" | tail -2; pushed=1; break; }
+    else
+      echo "  -> git push -u ${rem} ${br}  (首次, 建立跟踪; 第 $try 次)"
+      out="$(git -C "$d" "${CRED[@]}" push -u "$rem" "$br" 2>&1)" && { echo "$out" | tail -2; pushed=1; break; }
+    fi
+    echo "     失败: $(echo "$out" | tail -1)"
+    sleep 5
+  done
+  [ "$pushed" = 1 ] || FAIL=1
 done
 
 hr
