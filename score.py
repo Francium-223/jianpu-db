@@ -358,14 +358,19 @@ class Score():
 					# file 由文件名派生(write_buf 里写进 JSON), 不是源字段 ——
 					# 曲谱文件里若残留这一行(历史误写)要忽略, 否则会被读回来又写回去。
 					continue
+				# ⚠ **注释必须在 `=` 之前判**: `%` 开头的行一律是注释, 哪怕里面有 `=`。
+				#   2026-09-24 用户抓到的 bug: 源文件第一行常是 `%<原文件名>`(如
+				#   `%草原之夜1=bE2_4_中速深情地.txt`), 而下面那条 `if '=' in i` 先执行 ->
+				#   被读成**属性** `草原之夜1` = `bE2_4_中速深情地.txt`。123 首中招
+				#   (3 首文件名带调号的 + 120 首人工注释 `% 原 title=…`)。用户原话:
+				#   "草原之夜不是attribute" —— 曲名不是属性名。
+				if i.startswith('%'):
+					if i != '%' + self.score.split('/')[-1]:   # `%<本文件名>` 只是自述, 不进 comments
+						self.comments.append(i.rstrip('\n'))
+					continue
 				if '=' in i:
 					k, raw = i.split('=', 1)
 					raws.setdefault(k.strip(' '), []).append(raw.strip(' '))
-					continue
-				if i == '%' + self.score.split('/')[-1]:
-					continue
-				if i.startswith('%'):
-					self.comments.append(i.rstrip('\n'))
 					continue
 				# 裸行 = 旧格式的 usertag(没有 `=`); 实测 0 命中, 保留兼容。
 				raws.setdefault('usertag', []).append(i.strip())
