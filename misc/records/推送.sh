@@ -50,7 +50,9 @@ fi
 for r in jianpu2 jianpu-web; do
   u="$(git -C "$ROOT/$r" remote get-url origin 2>/dev/null || true)"
   echo -n "  $u : "
-  if GIT_TERMINAL_PROMPT=0 git ls-remote --exit-code "$u" >/dev/null 2>&1; then echo "存在且可读"
+  # 注意: **空仓库没有 ref**, `git ls-remote --exit-code` 会返回 2 -> 会被误判成"不存在"(实测踩过)。
+  # 只看**退出码**(0 = 连上了, 即使是空仓库), 输出里有没有 ref 另说。
+  if GIT_TERMINAL_PROMPT=0 git ls-remote "$u" >/dev/null 2>&1; then echo "存在且可读"
   else echo "读不到(不存在 / 私有 / 要凭据) —— 若确实不存在, 先建空仓库再推"; fi
 done
 
@@ -82,7 +84,7 @@ if [ -n "$TOKEN" ]; then
   for r in $REPOS; do
     u="$(git -C "$ROOT/$r" remote get-url origin 2>/dev/null || git -C "$ROOT/$r" remote get-url "$(git -C "$ROOT/$r" remote | head -1)" 2>/dev/null)"
     name="$(basename "$u" .git)"
-    if GIT_TERMINAL_PROMPT=0 git ls-remote --exit-code "$u" >/dev/null 2>&1; then
+    if GIT_TERMINAL_PROMPT=0 git ls-remote "$u" >/dev/null 2>&1; then
       echo "  $name: 已存在"
     else
       printf "  %s: 不存在 -> 建空仓库 ... " "$name"
