@@ -33,6 +33,11 @@ jobs:
           submodules: recursive
           lfs: true
       - name: Checkout sibling jianpu2 (可选, 有 PAT 才拉得到)
+        # ⚠ 位置其实不对: score.py 找的是 `<repo>/../jianpu2/skills/jianpu-melody-lookup`(仓库的**兄弟目录**),
+        #   而 `path: jianpu2` 落在 `<repo>/jianpu2` —— 所以 CI 实际上一直走的是下面那个兜底口径。
+        #   要真用上唯一实现, 得把这里换成落到 `<repo>/../jianpu2`(或加一条软链)。但无论怎么改:
+        #   **这个目录绝不能被 `git add -A` 提交**(见下面 Commit 步骤里的 gitlink 兜底), 那是 2026-09-24
+        #   checkout --recursive 直接报 `No url found for submodule path 'jianpu2'` 的原因。
         continue-on-error: true
         uses: actions/checkout@v4
         with:
@@ -49,9 +54,20 @@ jobs:
         run: |
           python parse_scores.py
       - name: Commit and push changes
+        shell: bash                      # 本 job 默认 pwsh, 下面那道 gitlink 兜底是 bash 语法
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
+          # 2026-09-24 事故: 上面那步 "Checkout sibling jianpu2" 把兄弟仓库 checkout 到本仓库里的
+          # jianpu2/, 紧接着 `git add -A` 就把它当成 **submodule(gitlink)** 提交了
+          # (bot 提交 2f60fb58)。之后每次 checkout 带 `submodules: recursive` 都硬报
+          # `fatal: No url found for submodule path 'jianpu2' in .gitmodules` —— 整个 workflow 起不来。
+          # .gitignore 里已把 jianpu2/ 挡住; 这里再**响亮地**兜一道: 索引里出现 gitlink 就直接失败,
+          # 不要让它悄悄进历史(那种错在 CI 的 checkout 阶段报, 跟本次改动八竿子打不着, 极难查)。
+          if git ls-files -s | awk '$1 == "160000" { print "  索引里的 gitlink: " $4; n++ } END { exit !n }'; then
+            echo "::error::索引里出现了 submodule(gitlink) —— 兄弟仓库 jianpu2 不该被提交进来(见 .gitignore)"
+            exit 1
+          fi
           git diff --staged --quiet || git commit -m "chore: auto-regenerate folder [skip ci]"
           git push

@@ -7,3 +7,11 @@ _cm.txt
 # 调试产物(score.py:write_expand 生成, parse_scores 本来就跳过; 别进仓库)
 scores/*_expand.txt
 scores/*_buf.txt
+
+# 兄弟仓库 jianpu2 —— 检索/CI 要它, 但**绝不能进本仓库**:
+# 2026-09-24 CI 的 `git add -A` 把 checkout 到这里的 jianpu2 当 submodule(gitlink)提交了
+# (commit 2f60fb58, 树里一条 mode 160000), 结果 action 的 `submodules: recursive` 每次都
+# `fatal: No url found for submodule path 'jianpu2' in .gitmodules` —— 整个 parse workflow 挂掉。
+# 真口径: jptok.py 在**兄弟目录** `<repo>/../jianpu2/skills/jianpu-melody-lookup`
+# (score.py 就是按这个路径找), 不需要在本仓库里留任何 jianpu2 条目。
+jianpu2/
