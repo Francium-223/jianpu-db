@@ -22,8 +22,18 @@ jobs:
   publish:
     if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
+    # 见 parse.yaml 里的同一段说明: jptok 在兄弟仓库, 没有它时用兜底口径(已被 parity 测试锁死等价)。
+    env:
+      JIANPU_ALLOW_FALLBACK_JTOK: "1"
     steps:
       - uses: actions/checkout@v4
+      - name: Checkout sibling jianpu2 (可选, 有 PAT 才拉得到)
+        continue-on-error: true
+        uses: actions/checkout@v4
+        with:
+          repository: Francium-223/jianpu2
+          path: jianpu2
+          token: ${{ secrets.JIANPU_PAT || github.token }}
 
       # **不在这里重跑 parse_scores.py**: push 会同时触发 parse.yaml, 它已经是
       # "重建 -> 以 github-actions[bot] 提交(带 [skip ci])" 的那一步; 我们这条在它之后 checkout,

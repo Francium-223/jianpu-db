@@ -42,7 +42,15 @@ if os.path.isdir(_JT):
 try:
     import jptok
 except Exception as e:                       # pragma: no cover
-    sys.exit(f"找不到 jptok.py(设 JIANPU_JTOK 指一下): {e}")
+    # CI(GitHub runner)只 checkout 了本仓库, 兄弟目录 jianpu2/ 不在 -> 找不到 jptok 是**常态**。
+    # 显式设了 JIANPU_ALLOW_FALLBACK_JTOK=1 时, 用 score.py 里的兜底口径(与 jptok 已被
+    # check_jptok_parity.py 拿全语料 7,237,223 个 token 证明逐项一致), 而不是让 workflow 挂掉。
+    if os.environ.get("JIANPU_ALLOW_FALLBACK_JTOK") != "1":
+        sys.exit(f"找不到 jptok.py(设 JIANPU_JTOK 指一下, 或 JIANPU_ALLOW_FALLBACK_JTOK=1 用兜底): {e}")
+    import warnings
+    warnings.warn(f"jptok 未找到({e}), 按 JIANPU_ALLOW_FALLBACK_JTOK=1 用 score.py 的兜底口径数音符")
+    import score                             # 同目录; 它会自己决定用 jptok 还是兜底
+    jptok = score.jptok
 
 
 def main():

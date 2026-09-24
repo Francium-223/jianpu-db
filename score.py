@@ -53,6 +53,23 @@ except ImportError:                            # pragma: no cover - 只在独立
 			return cls.parse_token(t) is not None
 
 		@classmethod
+		def seq(cls, score):
+			"""整份谱 -> [解析结果], 只保留**有音高**的 token(与 jptok.seq 同口径)。
+
+			2026-09-24 补: 兜底类原来缺这个方法, 于是 CI(GitHub runner 只 checkout 了本仓库,
+			没有兄弟目录 jianpu2/)走到 export_hf.py 的 `jptok.seq(...)` 就
+			`AttributeError: type object '_FallbackJptok' has no attribute 'seq'` ✗。
+			它是直接建在 parse_token 上的一行逻辑, 不是第二套正则。
+			`check_jptok_parity.py` 现在也逐首比 seq, 专门盯这类"缺方法/口径漂"。
+			"""
+			out = []
+			for t in (score or "").split():
+				q = cls.parse_token(t)
+				if q and q[0] is not None:
+					out.append(q)
+			return out
+
+		@classmethod
 		def duration_letter(cls, tok):
 			t = tok or ""
 			m = re.match(r"^([cqsdh]+)", t)

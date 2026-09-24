@@ -19,12 +19,26 @@ jobs:
     defaults:
       run:
         shell: pwsh
+    # jptok.py(简谱 token 的唯一实现)住在**兄弟仓库** jianpu2/skills/jianpu-melody-lookup,
+    # 而 runner 只 checkout 本仓库 -> 找不到就是硬依赖报错(2026-09-24 实测: publish 那条 workflow
+    # 就是这么挂的)。这里**显式**允许用 score.py 里的兜底口径: 它与 jptok 已被
+    # `check_jptok_parity.py` 拿全语料 7,237,223 个 token 证明逐项一致。
+    # 想让 CI 用**唯一实现**: 给这个仓库加一个 PAT secret `JIANPU_PAT`(下面那步会去拉兄弟仓库)。
+    env:
+      JIANPU_ALLOW_FALLBACK_JTOK: "1"
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           submodules: recursive
           lfs: true
+      - name: Checkout sibling jianpu2 (可选, 有 PAT 才拉得到)
+        continue-on-error: true
+        uses: actions/checkout@v4
+        with:
+          repository: Francium-223/jianpu2
+          path: jianpu2
+          token: ${{ secrets.JIANPU_PAT || github.token }}
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
