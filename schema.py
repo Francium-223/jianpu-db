@@ -309,6 +309,37 @@ def derive_tagroute(score) -> list:
 	return list(_state_of(score).tag_route)
 
 
+# ---------------- 收录平台(搜索页格式的**唯一真源**) ----------------
+# 用户口径(2026-09-24): 一首歌在各站"有没有收录页"要一眼看出来 ——
+#   * 有确切页 -> 绿色片子(点进去就是那一页);
+#   * 没有 -> **同形状的黄色片子**, 点进去是**该平台的搜索页**(帮人去找), 旁边还有个圆形 ＋ 用来粘确切页。
+# 所以"每个平台的搜索 URL 长什么样"必须只写一处: **就在这里**。
+# 前端(jianpu-web)不自己写一份, 而是 build_web_data.py 把这张表塞进 data/stats.json 后读它。
+# 字段:
+#   name   平台名(片子上显示的字)
+#   host   用哪个正则认出"这条 link= 属于该平台"(小写匹配)
+#   search 搜索页模板, `{q}` 会被替换成 URL 编码后的曲名
+#   exact  粘确切页时的输入提示(placeholder)
+#   kind   给前端分组用: 'stream'=流媒体 / 'video'=视频 / 'db'=数据库
+PLATFORMS = [
+	{"name": "网易云音乐", "host": r"music\.163\.com",
+	 "search": "https://music.163.com/#/search/m/?s={q}&type=1",
+	 "exact": "https://music.163.com/song?id=…", "kind": "stream"},
+	{"name": "QQ音乐", "host": r"y\.qq\.com",
+	 "search": "https://y.qq.com/n/ryqq/search?w={q}",
+	 "exact": "https://y.qq.com/n/ryqq/songDetail/…", "kind": "stream"},
+	{"name": "B站", "host": r"bilibili\.com",
+	 "search": "https://search.bilibili.com/all?keyword={q}",
+	 "exact": "https://www.bilibili.com/video/…", "kind": "video"},
+	{"name": "YouTube", "host": r"youtube\.com|youtu\.be",
+	 "search": "https://www.youtube.com/results?search_query={q}",
+	 "exact": "https://www.youtube.com/watch?v=…", "kind": "video"},
+	{"name": "MusicBrainz", "host": r"musicbrainz\.org",
+	 "search": "https://musicbrainz.org/search?query={q}&type=recording",
+	 "exact": "https://musicbrainz.org/recording/…", "kind": "db"},
+]
+
+
 # ---------------- 依赖表 + 执行顺序 ----------------
 
 @dataclass(frozen=True)
