@@ -109,3 +109,81 @@ systemctl --user status cloudflared        # 排障
 journalctl --user -u cloudflared -n 50
 curl -s https://jpt.example.com/api/health # 隧道 + 本地服务一起验
 ```
+
+---
+
+# 附：如果你在 **Workers → "Create application"** 那一面（2026-09-24 晚补）
+
+你屏幕上的这些字样——`Start from a template` / `Continue with GitHub` / `Upload your static files` /
+**`Need to use the legacy Pages workflow? Continue to Pages`** / `Select a repository`——说明这是
+**新版 Workers 的创建流程**（"Continue to Pages" 那句就是标志：Pages 现在是 legacy）。
+它下一步会拿你选的仓库去 `npm ci && (build) && npx wrangler deploy`。
+
+## 选哪个仓库
+
+**选 `jianpu-web`**（前端 + 数据索引 + Worker 包装；`jianpu-db`/`jianpu2` 不是网站, 别选）。
+仓库里我已经放好了让它能一键构建部署的东西：
+
+| 文件 | 作用 |
+|---|---|
+| `wrangler.jsonc` | Worker 名/入口/assets(`dist`)/SPA 回退/R2 绑定 |
+| `worker/index.js` | Worker 本体: `/img/*`→R2, `/api/*`→反代本机, 其余交给 assets |
+| `package.json` | `build = node tools/build_dist.mjs`, `deploy = wrangler deploy` |
+| `tools/build_dist.mjs` | 把 `static/`+`data/` 拼成 `dist/`（**纯 Node**, 云端构建镜像没有 Python） |
+| `tools/r2_filelist.py` / `tools/r2_sync.sh` | 只把"索引真正用到的"26,416 张图（5.08GB）传进 R2 |
+
+面板里要填的（如果它让你填）：**Build command `npm run build`**、**Deploy command `npx wrangler deploy`**。
+
+## 我在本机已经验证过的东西（`npx wrangler dev --local`，真跑 workerd）
+
+| 检查 | 结果 |
+|---|---|
+| `/`、`/static/app.js`、`/static/style.css`、`/data/songs.jsonl.gz` | 200 |
+| `/s/qupu123-313063`（深链） | 200 · 返回 index.html（SPA 回退生效） |
+| `/api/health` | 200 · `{"ok":true,"deploy":"cloudflare-worker","api":false}` |
+| `POST /api/submit`（没配后端时） | 503 · 人话说明"这台部署没有配投稿后端" |
+| `/img/<key>`（R2 里有） | 200 · image/jpeg · 带 `cache-control: max-age=604800` |
+| `/img/%2e%2e/wrangler.jsonc`（越界） | URL 规范化成 `/wrangler.jsonc` → SPA 回退给 index.html, **没泄露配置** |
+| `/img/images/x.txt`（非图扩展名） | 404 |
+| **真浏览器走 Worker 全流程**（`browser_check.py spa http://127.0.0.1:8787`） | 查歌出卡片 → 点「本谱一页」不刷新跳转 → 后退结果还在 → 深链出原图且真解码 → 刷新仍在这一页 · **全绿** |
+
+⚠ 期间抓到两个真问题（都已修）：
+1. **R2 key 的两种写法**：`wrangler r2 object put` 会把中文 key **百分号编码**后再存
+   （实测存进去的是 `…/%E6%80%80%E5%BF%B5__…`）。Worker 现在**两种都认**（先按解码后的规范形式查,
+   再按 URL 原样路径查）；批量上传请走 **S3 API（rclone/aws-cli）**, 它存的是原样 UTF-8 key。
+2. **`/img/%2e%2e/...` 会被 URL 规范化掉**（`%2e%2e` 等同于 `..`），所以它压根到不了 R2 处理器 ——
+   这也意味着"越界"不是 404 而是走到 SPA 回退, 测试断言要看**有没有泄露内容**, 不能只看状态码。
+
+## 图片放哪：R2（免费额度就够）
+
+* 只传索引引用到的 **26,416 张 / 5.08GB**（工作区里总共 9.47GB, 多出来的是没转写、或被派生件顶掉的）。
+  清单：`python3 tools/r2_filelist.py` → `_analysis/r2_files.txt`；上传：`bash tools/r2_sync.sh --check` 然后
+  `bash tools/r2_sync.sh`（rclone 优先, 16 并发 + 断点续传；装 rclone 不需要 sudo）。
+* 一次准备：`npx wrangler r2 bucket create jianpu-images` + 面板建 R2 的 S3 凭据 + 配 rclone remote。
+* 5GB 从家里上行传一次要挺久（按 10Mbps 上行 ≈ 70 分钟起）, 传完就不再管了。
+
+## 投稿接口怎么办（`/api/submit`）
+
+Worker 里**不重写**投稿逻辑——校验收录页 URL、归一化简谱数字、写 `scores/*.txt` + git commit
+这些口径只有一份实现（`jianpu-db/linkurl.py` + `score.py` + `schema.py`）。所以 Worker 只做**反代**：
+
+```bash
+npx wrangler secret put API_UPSTREAM     # 本机服务的公网地址, 例 https://jpt-api.你的域名
+npx wrangler secret put API_TOKEN        # 与本机 systemd 的 JPSUBMIT_TOKEN 同一个值
+```
+
+配好之后：**读路径完全在边缘**（检索/卡片/谱页/原图都不需要本机在线）, 只有"投稿"会回到本机。
+不配也能跑, 只是投稿会回一句"这台部署没有配投稿后端"。
+
+## 数据更新怎么办
+
+`jianpu-web` 的 push 会触发 Cloudflare 自动构建部署（`npm run build` + `wrangler deploy`）——
+所以本机跑完 `refresh.sh`（重建 `data/songs.jsonl.gz`/`stats.json`）后 `git push` 一下就发布了。
+原图只在新收录时才需要补传（`r2_sync.sh` 幂等, 跑一次只补新的）。
+
+## 你只要回我三样
+
+1. 面板上那个页面选 **jianpu-web**（如果它问 build/deploy 命令, 按上面填）；
+2. R2 桶建好后告诉我桶名（默认我写的是 `jianpu-images`）；
+3. 想用的域名（如 `jpt.你的域名`）——我好把 `wrangler.jsonc` 的 routes、Worker 的 `API_UPSTREAM`
+   和 Access 那条一起收尾。
