@@ -24349,28 +24349,6 @@
             "qupu123-341851"
         ]
     },
-    "两.txt": {
-        "file": [
-            "两.txt"
-        ],
-        "title": "两",
-        "usertag": [
-            "分类/儿歌",
-            "儿歌"
-        ],
-        "tagroute": [],
-        "tag": [
-            "分类/儿歌",
-            "儿歌"
-        ],
-        "transcriber": [
-            "jianpu2-auto"
-        ],
-        "status": "ocr",
-        "source": [
-            "jianpujia-15847"
-        ]
-    },
     "两个人的幸运.txt": {
         "file": [
             "两个人的幸运.txt"
@@ -24454,6 +24432,28 @@
         "status": "ocr",
         "source": [
             "jianpujia-234428"
+        ]
+    },
+    "两只老虎_3.txt": {
+        "file": [
+            "两只老虎_3.txt"
+        ],
+        "title": "两只老虎",
+        "usertag": [
+            "分类/儿歌",
+            "儿歌"
+        ],
+        "tagroute": [],
+        "tag": [
+            "分类/儿歌",
+            "儿歌"
+        ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-15847"
         ]
     },
     "两只蝴蝶.txt": {
@@ -26651,26 +26651,6 @@
             "jianpujia-400490"
         ]
     },
-    "丽_3.txt": {
-        "file": [
-            "丽_3.txt"
-        ],
-        "title": "丽",
-        "usertag": [
-            "分类/草原"
-        ],
-        "tagroute": [],
-        "tag": [
-            "分类/草原"
-        ],
-        "transcriber": [
-            "jianpu2-auto"
-        ],
-        "status": "ocr",
-        "source": [
-            "jianpujia-214254"
-        ]
-    },
     "丽江美.txt": {
         "file": [
             "丽江美.txt"
@@ -28441,26 +28421,6 @@
         ],
         "artist": [
             "孟庭苇"
-        ]
-    },
-    "亲.txt": {
-        "file": [
-            "亲.txt"
-        ],
-        "title": "亲",
-        "usertag": [
-            "分类/草原"
-        ],
-        "tagroute": [],
-        "tag": [
-            "分类/草原"
-        ],
-        "transcriber": [
-            "jianpu2-auto"
-        ],
-        "status": "ocr",
-        "source": [
-            "jianpujia-338808"
         ]
     },
     "亲亲.txt": {
@@ -100816,29 +100776,6 @@
             "老狼"
         ]
     },
-    "未命名-jianpujia-394083.txt": {
-        "file": [
-            "未命名-jianpujia-394083.txt"
-        ],
-        "title": "未命名-jianpujia-394083",
-        "usertag": [
-            "分类/草原"
-        ],
-        "tagroute": [],
-        "tag": [
-            "分类/草原"
-        ],
-        "transcriber": [
-            "jianpu2-auto"
-        ],
-        "status": "ocr",
-        "source": [
-            "jianpujia-394083"
-        ],
-        "todo": [
-            "refine the filename"
-        ]
-    },
     "未命名-jianpujia-397525.txt": {
         "file": [
             "未命名-jianpujia-397525.txt"
@@ -122367,26 +122304,6 @@
             "周深"
         ]
     },
-    "画（邓紫棋.txt": {
-        "file": [
-            "画（邓紫棋.txt"
-        ],
-        "title": "画（邓紫棋",
-        "usertag": [
-            "邓紫棋"
-        ],
-        "tagroute": [],
-        "tag": [
-            "邓紫棋"
-        ],
-        "transcriber": [
-            "jianpu2-auto"
-        ],
-        "status": "ocr",
-        "source": [
-            "qupu123-286568"
-        ]
-    },
     "画（邓紫棋）.txt": {
         "file": [
             "画（邓紫棋）.txt"
@@ -122431,6 +122348,26 @@
         ],
         "artist": [
             "邓紫棋"
+        ]
+    },
+    "画（邓紫棋）_3.txt": {
+        "file": [
+            "画（邓紫棋）_3.txt"
+        ],
+        "title": "画",
+        "usertag": [
+            "邓紫棋"
+        ],
+        "tagroute": [],
+        "tag": [
+            "邓紫棋"
+        ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-286568"
         ]
     },
     "畅想曲.txt": {
@@ -140591,6 +140528,29 @@
             "refine the filename"
         ]
     },
+    "草原海陈世慧词张艺军曲_2.txt": {
+        "file": [
+            "草原海陈世慧词张艺军曲_2.txt"
+        ],
+        "title": "草原海陈世慧词张艺军曲",
+        "usertag": [
+            "分类/草原"
+        ],
+        "tagroute": [],
+        "tag": [
+            "分类/草原"
+        ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-394083"
+        ],
+        "todo": [
+            "refine the filename"
+        ]
+    },
     "草原清泉.txt": {
         "file": [
             "草原清泉.txt"
@@ -145490,28 +145450,6 @@
             "阎维文"
         ]
     },
-    "讲.txt": {
-        "file": [
-            "讲.txt"
-        ],
-        "title": "讲",
-        "usertag": [
-            "分类/儿歌",
-            "儿歌"
-        ],
-        "tagroute": [],
-        "tag": [
-            "分类/儿歌",
-            "儿歌"
-        ],
-        "transcriber": [
-            "jianpu2-auto"
-        ],
-        "status": "ocr",
-        "source": [
-            "jianpujia-26269"
-        ]
-    },
     "讲不出再见.txt": {
         "file": [
             "讲不出再见.txt"
@@ -147255,33 +147193,6 @@
         "status": "ocr",
         "source": [
             "qupu123-68316"
-        ]
-    },
-    "谱.txt": {
-        "file": [
-            "谱.txt"
-        ],
-        "title": "谱",
-        "usertag": [
-            "分类/草原",
-            "草原晓燕",
-            "草原"
-        ],
-        "tagroute": [],
-        "tag": [
-            "分类/草原",
-            "草原晓燕",
-            "草原"
-        ],
-        "transcriber": [
-            "jianpu2-auto"
-        ],
-        "status": "ocr",
-        "source": [
-            "jianpujia-238380"
-        ],
-        "artist": [
-            "草原晓燕"
         ]
     },
     "谱_2.txt": {
