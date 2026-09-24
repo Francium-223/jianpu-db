@@ -1,0 +1,20 @@
+# Cloudflare 隧道常驻（**用户级** systemd, 不需要 sudo; 与 jianpu-web.service 同一套路）
+# 安装:
+#   cp cloudflared.service ~/.config/systemd/user/
+#   systemctl --user daemon-reload && systemctl --user enable --now cloudflared
+#   loginctl enable-linger $USER      # 没登录会话也活着（本机已开）
+[Unit]
+Description=Cloudflare Tunnel -> 简谱旋律查歌 (127.0.0.1:8770)
+# 先等本地服务起来; 它是隧道的唯一上游
+After=network-online.target jianpu-web.service
+Wants=network-online.target jianpu-web.service
+
+[Service]
+Type=simple
+# --config 里写着 tunnel: 与 credentials-file:, 所以这里不用再给 UUID
+ExecStart=%h/.local/bin/cloudflared --no-autoupdate --config %h/.cloudflared/config.yml tunnel run
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=default.target

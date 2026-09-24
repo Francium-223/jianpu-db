@@ -1,0 +1,19 @@
+# ~/.cloudflared/config.yml —— 把公网域名接到本机的查歌服务
+# 由 setup_tunnel.sh 生成（占位符会被替换掉）; 本文件是给人看的模板。
+tunnel: <TUNNEL-UUID>
+credentials-file: /home/<你>/.cloudflared/<TUNNEL-UUID>.json
+
+# 日志: 排障时把 level 调成 debug
+loglevel: info
+metrics: 127.0.0.1:20241
+
+ingress:
+  # 整站（含 /s/<id> 谱页、/img/ 原图、/api/submit 投稿接口）都走这一条
+  - hostname: <你的域名>
+    service: http://127.0.0.1:8770
+    originRequest:
+      connectTimeout: 30s
+      # 原图有 1MB 上下的扫描件, 给足超时
+      noTLSVerify: false
+  # 兜底: 不匹配的请求直接 404（别让隧道变成一台开放代理）
+  - service: http_status:404
