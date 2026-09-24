@@ -53,8 +53,9 @@ node tools/build_dist.mjs --target gh          →  dist-gh/   （默认 --out d
   `./static/app.<hash>.js` 仍然解析到 `/jianpu-web/static/…`。`#/s/<id>` 这种 hash 深链也照旧可用。
 * **`.gz` 的两种服务端行为都认**: 有的静态托管把 `.gz` 原样发（要自己解压）, 有的会替我们解好并带
   `Content-Encoding: gzip`。`app.js` 现在先看头、解压失败再回退读原文 —— 两条路都试过才算数。
-* **只读不是残废**: 检索/卡片/谱页/元数据全都在; 只是"投稿/补收录/补标签"会显示
-  "这里只读…请到 jianpu-web.pages.dev 提交", 而不是发一个必 404 的请求。
+* **只读不是残废**: 检索/卡片/谱页/元数据全都在; 只是"投稿/补标签"会显示
+  "只读镜像：投稿请到 jianpu-web.pages.dev。"（2026-09-25 用户口径: 界面文案一律从简），
+  而不是发一个必 404 的请求。
   想让镜像**也能投稿**: `--api https://jianpu-web.pages.dev`
   （Worker 已放行 `/api/*` 的跨域预检: `OPTIONS -> 204 + Access-Control-Allow-Headers: Content-Type`,
   然后它照旧转发给本机; 本机不在线时给 503 人话）。
