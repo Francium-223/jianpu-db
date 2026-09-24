@@ -35,12 +35,18 @@ Fetching submodules
    `<repo>/../jianpu2`，而 checkout 落在 `<repo>/jianpu2`，所以 CI 实际上一直走的是
    `JIANPU_ALLOW_FALLBACK_JTOK=1` 的兜底口径。要真用上唯一实现得改 path 或加软链（未做，避免动 CI 行为）。
 
-## 验过什么
+## 验过什么（含 CI 端到端）
 
 * 远端树里已无 gitlink：`git fetch Francium-223 master && git ls-tree -r FETCH_HEAD | awk '$2=="commit"'` → 空。
 * 兜底脚本两种情形都对：无 gitlink → 不报；有 → 打印并 `exit 1`。
 * `parse.yaml` 能被 YAML 解析，5 个 step 的 shell 符合预期。
 * 本地 `data.jsonl` md5 全程 `21d9709ce2b0c6fb3537d5f1c83d8938`（这次一个字没动）。
+* **端到端**: 修复推送后徽章由 `failing` 转 **`passing`**（parse.yaml 02:09:19 转绿；
+  publish-hf.yaml 也 `passing` —— HF 那边同步成功）；且**没有**再产生 bot 提交
+  （`git fetch` 后远端 `data.jsonl` 与本地 md5 一致 = CI 用兜底 jptok 重建出来的是同一份，
+  这同时又是"兜底与 jptok 等价"的一次独立复验）。
+* 旁证（时间线）: 最后一次成功的 bot 自动提交是 `2f60fb58`（09-24 05:53）——正是把 gitlink 提交进来的那次；
+  此后近 20 小时再无 bot 提交，全部卡在 checkout。修完立刻恢复。
 
 ## 教训（写给以后的自己）
 
