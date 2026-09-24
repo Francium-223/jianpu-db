@@ -101,8 +101,19 @@ for r in $REPOS; do
   hr; echo "### 推 $r"
   d="$ROOT/$r"
   git -C "$d" remote | grep -q . || { echo "  !! 没有远端, 跳过"; FAIL=1; continue; }
-  # jianpu-db 的远端叫 Francium-223; jianpu2/jianpu-web 叫 origin
-  rem="$(git -C "$d" remote | head -1)"
+  # 选推送目标: 有 origin 就用 origin; 否则取第一个**不是 bundle** 的远端。
+  # (2026-09-24 踩过: jianpu-web 先加了 `bundle-src` 指向 ../07_git历史/*.bundle,
+  #  这里原来取 `remote | head -1` -> 拿到 bundle, 每次都推失败, 而 origin 一直没推上去。
+  #  bundle 是**只读的抢救包来源**, 不是推送目标。)
+  rem=""
+  for cand in origin $(git -C "$d" remote); do
+    git -C "$d" remote | grep -qx "$cand" || continue
+    u="$(git -C "$d" remote get-url "$cand")"
+    case "$u" in *.bundle) continue;; esac
+    rem="$cand"; break
+  done
+  [ -n "$rem" ] || { echo "  !! 没有可推的远端(bundle 不算推送目标), 跳过"; FAIL=1; continue; }
+  echo "  推送目标: $rem ($(git -C "$d" remote get-url "$rem"))"
   br="$(git -C "$d" rev-parse --abbrev-ref HEAD)"
   # 这台机器的 DNS 会抖(实测 github 有时解析不到 -> "仓库不存在或没权限"), 所以重试 3 次。
   pushed=0
