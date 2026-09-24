@@ -2018,11 +2018,71 @@
             "qupu123-313766"
         ]
     },
-    "dance_monkey.txt": {
+    "_今天是你的生日_ （改编歌曲）.txt": {
         "file": [
-            "dance_monkey.txt"
+            "_今天是你的生日_ （改编歌曲）.txt"
         ],
-        "title": "dance_monkey",
+        "title": "<今天是你的生日> （改编歌曲）",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-395461"
+        ],
+        "todo": [
+            "add tags",
+            "refine the filename"
+        ]
+    },
+    "_咱们说说知心话_ （改编歌曲）.txt": {
+        "file": [
+            "_咱们说说知心话_ （改编歌曲）.txt"
+        ],
+        "title": "<咱们说说知心话> （改编歌曲）",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-395403"
+        ],
+        "todo": [
+            "add tags",
+            "refine the filename"
+        ]
+    },
+    "_微山湖_ （改编歌曲）.txt": {
+        "file": [
+            "_微山湖_ （改编歌曲）.txt"
+        ],
+        "title": "<微山湖> （改编歌曲）",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-395375"
+        ],
+        "todo": [
+            "add tags",
+            "refine the filename"
+        ]
+    },
+    "dance monkey （跳舞的猴子）.txt": {
+        "file": [
+            "dance monkey （跳舞的猴子）.txt"
+        ],
+        "title": "dance monkey （跳舞的猴子）",
         "usertag": [
             "分类/外国歌曲"
         ],
@@ -2036,9 +2096,6 @@
         "status": "ocr",
         "source": [
             "qupu123-381188"
-        ],
-        "todo": [
-            "refine the filename"
         ]
     },
     "lily.txt": {
@@ -18109,11 +18166,11 @@
             "林俊杰"
         ]
     },
-    "一半钢琴.txt": {
+    "一半.txt": {
         "file": [
-            "一半钢琴.txt"
+            "一半.txt"
         ],
-        "title": "一半钢琴",
+        "title": "一半",
         "usertag": [
             "薛之谦",
             "分类/钢琴谱"
@@ -18129,9 +18186,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-150281"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "薛之谦"
@@ -18157,11 +18211,11 @@
             "qupu123-328417"
         ]
     },
-    "一只小花狗钢琴.txt": {
+    "一只小花狗.txt": {
         "file": [
-            "一只小花狗钢琴.txt"
+            "一只小花狗.txt"
         ],
-        "title": "一只小花狗钢琴",
+        "title": "一只小花狗",
         "usertag": [
             "分类/钢琴谱",
             "分类/儿歌",
@@ -18179,9 +18233,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-234413"
-        ],
-        "todo": [
-            "refine the filename"
         ]
     },
     "一场游戏一场梦.txt": {
@@ -18686,11 +18737,11 @@
             "qupu123-296282"
         ]
     },
-    "一时的选择钢琴.txt": {
+    "一时的选择.txt": {
         "file": [
-            "一时的选择钢琴.txt"
+            "一时的选择.txt"
         ],
-        "title": "一时的选择钢琴",
+        "title": "一时的选择",
         "usertag": [
             "林俊杰",
             "分类/钢琴谱"
@@ -18706,9 +18757,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-383572"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "林俊杰"
@@ -19035,11 +19083,11 @@
             "qupu123-250657"
         ]
     },
-    "一点点钢琴.txt": {
+    "一点点（周杰伦）.txt": {
         "file": [
-            "一点点钢琴.txt"
+            "一点点（周杰伦）.txt"
         ],
-        "title": "一点点钢琴",
+        "title": "一点点",
         "usertag": [
             "周杰伦",
             "分类/钢琴谱"
@@ -19055,9 +19103,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-380059"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "周杰伦"
@@ -19450,11 +19495,11 @@
             "陈瑞王不火"
         ]
     },
-    "一程山路钢琴.txt": {
+    "一程山路.txt": {
         "file": [
-            "一程山路钢琴.txt"
+            "一程山路.txt"
         ],
-        "title": "一程山路钢琴",
+        "title": "一程山路",
         "usertag": [
             "毛不易",
             "分类/钢琴谱"
@@ -19470,9 +19515,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-150629"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "毛不易"
@@ -21393,11 +21435,11 @@
             "qupu123-382792"
         ]
     },
-    "下雨了钢琴.txt": {
+    "下雨了.txt": {
         "file": [
-            "下雨了钢琴.txt"
+            "下雨了.txt"
         ],
-        "title": "下雨了钢琴",
+        "title": "下雨了",
         "usertag": [
             "薛之谦",
             "分类/钢琴谱"
@@ -21413,9 +21455,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-149011"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "薛之谦"
@@ -21997,6 +22036,31 @@
             "jianpucn-58038"
         ]
     },
+    "不懂.txt": {
+        "file": [
+            "不懂.txt"
+        ],
+        "title": "不懂",
+        "usertag": [
+            "林俊杰",
+            "分类/钢琴谱"
+        ],
+        "tagroute": [],
+        "tag": [
+            "林俊杰",
+            "分类/钢琴谱"
+        ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-377896"
+        ],
+        "artist": [
+            "林俊杰"
+        ]
+    },
     "不懂爱的人.txt": {
         "file": [
             "不懂爱的人.txt"
@@ -22015,34 +22079,6 @@
         "status": "ocr",
         "source": [
             "jianpucn-9283"
-        ]
-    },
-    "不懂钢琴.txt": {
-        "file": [
-            "不懂钢琴.txt"
-        ],
-        "title": "不懂钢琴",
-        "usertag": [
-            "林俊杰",
-            "分类/钢琴谱"
-        ],
-        "tagroute": [],
-        "tag": [
-            "林俊杰",
-            "分类/钢琴谱"
-        ],
-        "transcriber": [
-            "jianpu2-auto"
-        ],
-        "status": "ocr",
-        "source": [
-            "jianpujia-377896"
-        ],
-        "todo": [
-            "refine the filename"
-        ],
-        "artist": [
-            "林俊杰"
         ]
     },
     "不是我不小心.txt": {
@@ -22155,11 +22191,11 @@
             "add tags"
         ]
     },
-    "不潮不用花钱钢琴.txt": {
+    "不潮不用花钱（林俊杰）.txt": {
         "file": [
-            "不潮不用花钱钢琴.txt"
+            "不潮不用花钱（林俊杰）.txt"
         ],
-        "title": "不潮不用花钱钢琴",
+        "title": "不潮不用花钱",
         "usertag": [
             "林俊杰",
             "分类/钢琴谱"
@@ -22175,9 +22211,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-377981"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "林俊杰"
@@ -22467,11 +22500,11 @@
             "jianpucn-49009"
         ]
     },
-    "不能说的秘密片尾曲钢琴.txt": {
+    "不能说的秘密片尾曲.txt": {
         "file": [
-            "不能说的秘密片尾曲钢琴.txt"
+            "不能说的秘密片尾曲.txt"
         ],
-        "title": "不能说的秘密片尾曲钢琴",
+        "title": "不能说的秘密片尾曲",
         "usertag": [
             "周杰伦",
             "分类/钢琴谱",
@@ -22489,9 +22522,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-380458"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "周杰伦"
@@ -22891,11 +22921,11 @@
             "qupu123-371205"
         ]
     },
-    "不该钢琴.txt": {
+    "不该（周杰伦）.txt": {
         "file": [
-            "不该钢琴.txt"
+            "不该（周杰伦）.txt"
         ],
-        "title": "不该钢琴",
+        "title": "不该",
         "usertag": [
             "周杰伦",
             "分类/钢琴谱"
@@ -22912,18 +22942,15 @@
         "source": [
             "jianpujia-380028"
         ],
-        "todo": [
-            "refine the filename"
-        ],
         "artist": [
             "周杰伦"
         ]
     },
-    "不说钢琴.txt": {
+    "不说.txt": {
         "file": [
-            "不说钢琴.txt"
+            "不说.txt"
         ],
-        "title": "不说钢琴",
+        "title": "不说",
         "usertag": [
             "李荣浩",
             "分类/钢琴谱"
@@ -22939,9 +22966,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-149014"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "李荣浩"
@@ -23104,11 +23128,11 @@
             "add tags"
         ]
     },
-    "丑八怪钢琴.txt": {
+    "丑八怪.txt": {
         "file": [
-            "丑八怪钢琴.txt"
+            "丑八怪.txt"
         ],
-        "title": "丑八怪钢琴",
+        "title": "丑八怪",
         "usertag": [
             "薛之谦",
             "分类/钢琴谱"
@@ -23124,9 +23148,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-149454"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "薛之谦"
@@ -23178,6 +23199,30 @@
             "薛之谦"
         ]
     },
+    "丑小鸭.txt": {
+        "file": [
+            "丑小鸭.txt"
+        ],
+        "title": "丑小鸭",
+        "usertag": [
+            "分类/钢琴谱",
+            "分类/儿歌",
+            "儿歌"
+        ],
+        "tagroute": [],
+        "tag": [
+            "分类/钢琴谱",
+            "分类/儿歌",
+            "儿歌"
+        ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-148573"
+        ]
+    },
     "丑小鸭钢琴.txt": {
         "file": [
             "丑小鸭钢琴.txt"
@@ -23191,33 +23236,6 @@
         "tag": [
             "分类/钢琴谱",
             "分类/儿歌"
-        ],
-        "transcriber": [
-            "jianpu2-auto"
-        ],
-        "status": "ocr",
-        "source": [
-            "jianpujia-148573"
-        ],
-        "todo": [
-            "refine the filename"
-        ]
-    },
-    "丑小鸭钢琴_2.txt": {
-        "file": [
-            "丑小鸭钢琴_2.txt"
-        ],
-        "title": "丑小鸭钢琴",
-        "usertag": [
-            "分类/钢琴谱",
-            "分类/儿歌",
-            "儿歌"
-        ],
-        "tagroute": [],
-        "tag": [
-            "分类/钢琴谱",
-            "分类/儿歌",
-            "儿歌"
         ],
         "transcriber": [
             "jianpu2-auto"
@@ -24414,11 +24432,11 @@
             "jianpujia-26503"
         ]
     },
-    "两只老虎钢琴.txt": {
+    "两只老虎_2.txt": {
         "file": [
-            "两只老虎钢琴.txt"
+            "两只老虎_2.txt"
         ],
-        "title": "两只老虎钢琴",
+        "title": "两只老虎",
         "usertag": [
             "分类/钢琴谱",
             "分类/儿歌",
@@ -24436,9 +24454,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-234428"
-        ],
-        "todo": [
-            "refine the filename"
         ]
     },
     "两只蝴蝶.txt": {
@@ -26038,11 +26053,11 @@
             "蒋大为"
         ]
     },
-    "为了遇见你钢琴.txt": {
+    "为了遇见你.txt": {
         "file": [
-            "为了遇见你钢琴.txt"
+            "为了遇见你.txt"
         ],
-        "title": "为了遇见你钢琴",
+        "title": "为了遇见你",
         "usertag": [
             "薛之谦",
             "分类/钢琴谱"
@@ -26058,9 +26073,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-149662"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "薛之谦"
@@ -26848,11 +26860,11 @@
             "李荣浩"
         ]
     },
-    "乌梅子酱钢琴.txt": {
+    "乌梅子酱（李荣浩）.txt": {
         "file": [
-            "乌梅子酱钢琴.txt"
+            "乌梅子酱（李荣浩）.txt"
         ],
-        "title": "乌梅子酱钢琴",
+        "title": "乌梅子酱",
         "usertag": [
             "李荣浩",
             "分类/钢琴谱"
@@ -26868,9 +26880,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-387917"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "李荣浩"
@@ -27702,11 +27711,11 @@
             "qupu123-335385"
         ]
     },
-    "二零三钢琴.txt": {
+    "二零三.txt": {
         "file": [
-            "二零三钢琴.txt"
+            "二零三.txt"
         ],
-        "title": "二零三钢琴",
+        "title": "二零三",
         "usertag": [
             "毛不易",
             "分类/钢琴谱"
@@ -27722,9 +27731,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-150712"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "毛不易"
@@ -31301,11 +31307,11 @@
             "五月天"
         ]
     },
-    "伤心的人别听慢歌钢琴.txt": {
+    "伤心的人别听慢歌_2.txt": {
         "file": [
-            "伤心的人别听慢歌钢琴.txt"
+            "伤心的人别听慢歌_2.txt"
         ],
-        "title": "伤心的人别听慢歌钢琴",
+        "title": "伤心的人别听慢歌",
         "usertag": [
             "五月天",
             "分类/钢琴谱"
@@ -31321,9 +31327,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-152759"
-        ],
-        "todo": [
-            "refine the filename"
         ]
     },
     "伤心的哭.txt": {
@@ -31583,11 +31586,11 @@
             "邓丽君"
         ]
     },
-    "但愿人长久钢琴.txt": {
+    "但愿人长久（邓丽君）.txt": {
         "file": [
-            "但愿人长久钢琴.txt"
+            "但愿人长久（邓丽君）.txt"
         ],
-        "title": "但愿人长久钢琴",
+        "title": "但愿人长久",
         "usertag": [
             "邓丽君",
             "分类/钢琴谱"
@@ -31603,9 +31606,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-150360"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "邓丽君"
@@ -32651,11 +32651,11 @@
             "邓丽君"
         ]
     },
-    "你怎么说钢琴.txt": {
+    "你怎么说（邓丽君）.txt": {
         "file": [
-            "你怎么说钢琴.txt"
+            "你怎么说（邓丽君）.txt"
         ],
-        "title": "你怎么说钢琴",
+        "title": "你怎么说",
         "usertag": [
             "邓丽君",
             "分类/钢琴谱"
@@ -32671,9 +32671,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-150365"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "邓丽君"
@@ -33959,11 +33956,11 @@
             "jianpujia-155014"
         ]
     },
-    "你还要我怎样钢琴.txt": {
+    "你还要我怎样（薛之谦）.txt": {
         "file": [
-            "你还要我怎样钢琴.txt"
+            "你还要我怎样（薛之谦）.txt"
         ],
-        "title": "你还要我怎样钢琴",
+        "title": "你还要我怎样",
         "usertag": [
             "薛之谦",
             "分类/钢琴谱"
@@ -33979,9 +33976,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-150489"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "薛之谦"
@@ -35229,11 +35223,11 @@
             "jianpujia-14852"
         ]
     },
-    "像我这样的人钢琴.txt": {
+    "像我这样的人（毛不易）.txt": {
         "file": [
-            "像我这样的人钢琴.txt"
+            "像我这样的人（毛不易）.txt"
         ],
-        "title": "像我这样的人钢琴",
+        "title": "像我这样的人",
         "usertag": [
             "毛不易",
             "分类/钢琴谱"
@@ -35249,9 +35243,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-150727"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "毛不易"
@@ -35277,11 +35268,11 @@
             "jianpujia-15549"
         ]
     },
-    "像风一样自由钢琴.txt": {
+    "像风一样自由.txt": {
         "file": [
-            "像风一样自由钢琴.txt"
+            "像风一样自由.txt"
         ],
-        "title": "像风一样自由钢琴",
+        "title": "像风一样自由",
         "usertag": [
             "许巍",
             "分类/钢琴谱"
@@ -35297,16 +35288,13 @@
         "status": "ocr",
         "source": [
             "jianpujia-152886"
-        ],
-        "todo": [
-            "refine the filename"
         ]
     },
-    "像风一样钢琴.txt": {
+    "像风一样（薛之谦）.txt": {
         "file": [
-            "像风一样钢琴.txt"
+            "像风一样（薛之谦）.txt"
         ],
-        "title": "像风一样钢琴",
+        "title": "像风一样",
         "usertag": [
             "薛之谦",
             "分类/钢琴谱"
@@ -35322,9 +35310,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-150721"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "薛之谦"
@@ -36187,11 +36172,11 @@
             "refine the filename"
         ]
     },
-    "入海钢琴.txt": {
+    "入海.txt": {
         "file": [
-            "入海钢琴.txt"
+            "入海.txt"
         ],
-        "title": "入海钢琴",
+        "title": "入海",
         "usertag": [
             "毛不易",
             "分类/钢琴谱"
@@ -36207,9 +36192,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-154573"
-        ],
-        "todo": [
-            "refine the filename"
         ]
     },
     "入阵曲.txt": {
@@ -37026,6 +37008,31 @@
             "qupu123-333204"
         ]
     },
+    "其实.txt": {
+        "file": [
+            "其实.txt"
+        ],
+        "title": "其实",
+        "usertag": [
+            "薛之谦",
+            "分类/钢琴谱"
+        ],
+        "tagroute": [],
+        "tag": [
+            "薛之谦",
+            "分类/钢琴谱"
+        ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-151373"
+        ],
+        "artist": [
+            "薛之谦"
+        ]
+    },
     "其实不想走_歌曲类.txt": {
         "file": [
             "其实不想走_歌曲类.txt"
@@ -37110,34 +37117,6 @@
         ],
         "artist": [
             "孟庭苇"
-        ]
-    },
-    "其实钢琴.txt": {
-        "file": [
-            "其实钢琴.txt"
-        ],
-        "title": "其实钢琴",
-        "usertag": [
-            "薛之谦",
-            "分类/钢琴谱"
-        ],
-        "tagroute": [],
-        "tag": [
-            "薛之谦",
-            "分类/钢琴谱"
-        ],
-        "transcriber": [
-            "jianpu2-auto"
-        ],
-        "status": "ocr",
-        "source": [
-            "jianpujia-151373"
-        ],
-        "todo": [
-            "refine the filename"
-        ],
-        "artist": [
-            "薛之谦"
         ]
     },
     "其实（薛之谦 词曲）__qupu123-304211.txt": {
@@ -38881,11 +38860,11 @@
             "bass"
         ]
     },
-    "冷雨夜钢琴.txt": {
+    "冷雨夜（Beyond）.txt": {
         "file": [
-            "冷雨夜钢琴.txt"
+            "冷雨夜（Beyond）.txt"
         ],
-        "title": "冷雨夜钢琴",
+        "title": "冷雨夜",
         "usertag": [
             "Beyond",
             "分类/钢琴谱"
@@ -38901,9 +38880,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-150255"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "Beyond"
@@ -39957,11 +39933,11 @@
             "jianpujia-14726"
         ]
     },
-    "刚刚好钢琴.txt": {
+    "刚刚好（薛之谦）.txt": {
         "file": [
-            "刚刚好钢琴.txt"
+            "刚刚好（薛之谦）.txt"
         ],
-        "title": "刚刚好钢琴",
+        "title": "刚刚好",
         "usertag": [
             "薛之谦",
             "分类/钢琴谱"
@@ -39977,9 +39953,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-150582"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "薛之谦"
@@ -40883,11 +40856,11 @@
             "qupu123-394733"
         ]
     },
-    "动物世界钢琴.txt": {
+    "动物世界.txt": {
         "file": [
-            "动物世界钢琴.txt"
+            "动物世界.txt"
         ],
-        "title": "动物世界钢琴",
+        "title": "动物世界",
         "usertag": [
             "薛之谦",
             "分类/钢琴谱"
@@ -40903,9 +40876,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-149543"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "薛之谦"
@@ -40931,11 +40901,11 @@
             "jianpucn-234244"
         ]
     },
-    "勇敢的鄂伦春钢琴.txt": {
+    "勇敢的鄂伦春.txt": {
         "file": [
-            "勇敢的鄂伦春钢琴.txt"
+            "勇敢的鄂伦春.txt"
         ],
-        "title": "勇敢的鄂伦春钢琴",
+        "title": "勇敢的鄂伦春",
         "usertag": [
             "分类/钢琴谱",
             "民歌"
@@ -40951,9 +40921,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-148456"
-        ],
-        "todo": [
-            "refine the filename"
         ]
     },
     "勇气_歌曲类.txt": {
@@ -41320,11 +41287,11 @@
             "刘德华"
         ]
     },
-    "北国之春钢琴.txt": {
+    "北国之春（邓丽君）.txt": {
         "file": [
-            "北国之春钢琴.txt"
+            "北国之春（邓丽君）.txt"
         ],
-        "title": "北国之春钢琴",
+        "title": "北国之春",
         "usertag": [
             "邓丽君",
             "分类/钢琴谱"
@@ -41340,9 +41307,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-149644"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "邓丽君"
@@ -42188,11 +42152,11 @@
             "add tags"
         ]
     },
-    "千百度钢琴.txt": {
+    "千百度.txt": {
         "file": [
-            "千百度钢琴.txt"
+            "千百度.txt"
         ],
-        "title": "千百度钢琴",
+        "title": "千百度",
         "usertag": [
             "许嵩",
             "分类/钢琴谱"
@@ -42208,9 +42172,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-380245"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "许嵩"
@@ -48425,11 +48386,11 @@
             "jianpucn-159006"
         ]
     },
-    "合拍钢琴.txt": {
+    "合拍.txt": {
         "file": [
-            "合拍钢琴.txt"
+            "合拍.txt"
         ],
-        "title": "合拍钢琴",
+        "title": "合拍",
         "usertag": [
             "许嵩",
             "分类/钢琴谱"
@@ -48445,9 +48406,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-383545"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "许嵩"
@@ -50810,6 +50768,28 @@
             "jianpujia-236274"
         ]
     },
+    "哲古草原知音草原风情系列之二_2.txt": {
+        "file": [
+            "哲古草原知音草原风情系列之二_2.txt"
+        ],
+        "title": "哲古草原知音草原风情系列之二",
+        "usertag": [
+            "分类/草原",
+            "草原"
+        ],
+        "tagroute": [],
+        "tag": [
+            "分类/草原",
+            "草原"
+        ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-236274"
+        ]
+    },
     "唐颂.txt": {
         "file": [
             "唐颂.txt"
@@ -52059,34 +52039,6 @@
             "qupu123-331320"
         ]
     },
-    "喜欢你钢琴.txt": {
-        "file": [
-            "喜欢你钢琴.txt"
-        ],
-        "title": "喜欢你钢琴",
-        "usertag": [
-            "Beyond",
-            "分类/钢琴谱"
-        ],
-        "tagroute": [],
-        "tag": [
-            "Beyond",
-            "分类/钢琴谱"
-        ],
-        "transcriber": [
-            "jianpu2-auto"
-        ],
-        "status": "ocr",
-        "source": [
-            "jianpujia-152246"
-        ],
-        "todo": [
-            "refine the filename"
-        ],
-        "artist": [
-            "Beyond"
-        ]
-    },
     "喜欢你（.txt": {
         "file": [
             "喜欢你（.txt"
@@ -52104,6 +52056,31 @@
         ],
         "todo": [
             "add tags"
+        ]
+    },
+    "喜欢你（Beyond）.txt": {
+        "file": [
+            "喜欢你（Beyond）.txt"
+        ],
+        "title": "喜欢你",
+        "usertag": [
+            "Beyond",
+            "分类/钢琴谱"
+        ],
+        "tagroute": [],
+        "tag": [
+            "Beyond",
+            "分类/钢琴谱"
+        ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-152246"
+        ],
+        "artist": [
+            "Beyond"
         ]
     },
     "喜盈门.txt": {
@@ -52327,6 +52304,30 @@
         "status": "ocr",
         "source": [
             "jianpucn-40561"
+        ]
+    },
+    "嘿小脚.txt": {
+        "file": [
+            "嘿小脚.txt"
+        ],
+        "title": "嘿小脚",
+        "usertag": [
+            "儿歌"
+        ],
+        "tagroute": [],
+        "tag": [
+            "儿歌"
+        ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-26487"
+        ],
+        "todo": [
+            "add tags",
+            "refine the filename"
         ]
     },
     "四双红绣鞋.txt": {
@@ -53379,11 +53380,11 @@
             "jianpucn-109481"
         ]
     },
-    "圣诞星钢琴.txt": {
+    "圣诞星.txt": {
         "file": [
-            "圣诞星钢琴.txt"
+            "圣诞星.txt"
         ],
-        "title": "圣诞星钢琴",
+        "title": "圣诞星",
         "usertag": [
             "周杰伦",
             "分类/钢琴谱",
@@ -53401,9 +53402,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-378086"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "周杰伦 杨瑞代"
@@ -53448,11 +53446,11 @@
             "qupu123-370367"
         ]
     },
-    "在一起嘛好不好钢琴.txt": {
+    "在一起嘛好不好.txt": {
         "file": [
-            "在一起嘛好不好钢琴.txt"
+            "在一起嘛好不好.txt"
         ],
-        "title": "在一起嘛好不好钢琴",
+        "title": "在一起嘛好不好",
         "usertag": [
             "李荣浩",
             "分类/钢琴谱"
@@ -53468,9 +53466,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-154205"
-        ],
-        "todo": [
-            "refine the filename"
         ]
     },
     "在乡谚中成长.txt": {
@@ -53886,11 +53881,11 @@
             "陈奕迅"
         ]
     },
-    "在这个世界相遇钢琴.txt": {
+    "在这个世界相遇（陈奕迅）.txt": {
         "file": [
-            "在这个世界相遇钢琴.txt"
+            "在这个世界相遇（陈奕迅）.txt"
         ],
-        "title": "在这个世界相遇钢琴",
+        "title": "在这个世界相遇",
         "usertag": [
             "分类/钢琴谱",
             "陈奕迅"
@@ -53906,9 +53901,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-380113"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "陈奕迅"
@@ -54391,11 +54383,11 @@
             "毛不易"
         ]
     },
-    "城府钢琴.txt": {
+    "城府.txt": {
         "file": [
-            "城府钢琴.txt"
+            "城府.txt"
         ],
-        "title": "城府钢琴",
+        "title": "城府",
         "usertag": [
             "许嵩",
             "分类/钢琴谱"
@@ -54411,9 +54403,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-380170"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "许嵩"
@@ -55012,6 +55001,33 @@
             "草原江枫渔火"
         ]
     },
+    "夏夜的红玫瑰（草原江枫渔火）.txt": {
+        "file": [
+            "夏夜的红玫瑰（草原江枫渔火）.txt"
+        ],
+        "title": "夏夜的红玫瑰",
+        "usertag": [
+            "分类/草原",
+            "草原江枫渔火",
+            "草原"
+        ],
+        "tagroute": [],
+        "tag": [
+            "分类/草原",
+            "草原江枫渔火",
+            "草原"
+        ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-316848"
+        ],
+        "artist": [
+            "草原江枫渔火"
+        ]
+    },
     "夏夜的记忆.txt": {
         "file": [
             "夏夜的记忆.txt"
@@ -55143,11 +55159,11 @@
             "胡夏"
         ]
     },
-    "夏至未至钢琴.txt": {
+    "夏至未至（胡夏）.txt": {
         "file": [
-            "夏至未至钢琴.txt"
+            "夏至未至（胡夏）.txt"
         ],
-        "title": "夏至未至钢琴",
+        "title": "夏至未至",
         "usertag": [
             "分类/钢琴谱",
             "胡夏"
@@ -55163,9 +55179,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-149986"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "胡夏"
@@ -55273,11 +55286,11 @@
             "jianpucn-88764"
         ]
     },
-    "外婆桥钢琴.txt": {
+    "外婆桥.txt": {
         "file": [
-            "外婆桥钢琴.txt"
+            "外婆桥.txt"
         ],
-        "title": "外婆桥钢琴",
+        "title": "外婆桥",
         "usertag": [
             "分类/钢琴谱",
             "分类/儿歌",
@@ -55295,9 +55308,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-148630"
-        ],
-        "todo": [
-            "refine the filename"
         ]
     },
     "外婆的小石桥.txt": {
@@ -58233,11 +58243,11 @@
             "jianpucn-45944"
         ]
     },
-    "天外来物钢琴.txt": {
+    "天外来物.txt": {
         "file": [
-            "天外来物钢琴.txt"
+            "天外来物.txt"
         ],
-        "title": "天外来物钢琴",
+        "title": "天外来物",
         "usertag": [
             "薛之谦",
             "分类/钢琴谱"
@@ -58253,9 +58263,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-153013"
-        ],
-        "todo": [
-            "refine the filename"
         ]
     },
     "天大地大.txt": {
@@ -59347,6 +59354,31 @@
             "add tags"
         ]
     },
+    "天黑黑.txt": {
+        "file": [
+            "天黑黑.txt"
+        ],
+        "title": "天黑黑",
+        "usertag": [
+            "邓丽君",
+            "分类/钢琴谱"
+        ],
+        "tagroute": [],
+        "tag": [
+            "邓丽君",
+            "分类/钢琴谱"
+        ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-149626"
+        ],
+        "artist": [
+            "邓丽君"
+        ]
+    },
     "天黑黑_歌曲类.txt": {
         "file": [
             "天黑黑_歌曲类.txt"
@@ -59364,34 +59396,6 @@
         ],
         "todo": [
             "add tags"
-        ]
-    },
-    "天黑黑钢琴.txt": {
-        "file": [
-            "天黑黑钢琴.txt"
-        ],
-        "title": "天黑黑钢琴",
-        "usertag": [
-            "邓丽君",
-            "分类/钢琴谱"
-        ],
-        "tagroute": [],
-        "tag": [
-            "邓丽君",
-            "分类/钢琴谱"
-        ],
-        "transcriber": [
-            "jianpu2-auto"
-        ],
-        "status": "ocr",
-        "source": [
-            "jianpujia-149626"
-        ],
-        "todo": [
-            "refine the filename"
-        ],
-        "artist": [
-            "邓丽君"
         ]
     },
     "天龙八部之宿敌.txt": {
@@ -61806,11 +61810,11 @@
             "qupu123-333500"
         ]
     },
-    "如果我们不曾相遇钢琴.txt": {
+    "如果我们不曾相遇.txt": {
         "file": [
-            "如果我们不曾相遇钢琴.txt"
+            "如果我们不曾相遇.txt"
         ],
-        "title": "如果我们不曾相遇钢琴",
+        "title": "如果我们不曾相遇",
         "usertag": [
             "五月天",
             "分类/钢琴谱"
@@ -61826,9 +61830,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-380048"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "五月天"
@@ -63387,11 +63388,11 @@
             "jianpucn-115253"
         ]
     },
-    "孤独娱乐钢琴.txt": {
+    "孤独娱乐.txt": {
         "file": [
-            "孤独娱乐钢琴.txt"
+            "孤独娱乐.txt"
         ],
-        "title": "孤独娱乐钢琴",
+        "title": "孤独娱乐",
         "usertag": [
             "林俊杰",
             "分类/钢琴谱"
@@ -63407,9 +63408,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-383574"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "林俊杰"
@@ -65363,26 +65361,6 @@
             "add tags"
         ]
     },
-    "对__徽______100__谱-_谱.txt": {
-        "file": [
-            "对__徽______100__谱-_谱.txt"
-        ],
-        "title": "对__徽______100__谱-_谱",
-        "usertag": [],
-        "tagroute": [],
-        "tag": [],
-        "transcriber": [
-            "jianpu2-auto"
-        ],
-        "status": "ocr",
-        "source": [
-            "jianpujia-314263"
-        ],
-        "todo": [
-            "add tags",
-            "refine the filename"
-        ]
-    },
     "对_河.txt": {
         "file": [
             "对_河.txt"
@@ -65503,6 +65481,26 @@
         "status": "ocr",
         "source": [
             "jianpujia-314263"
+        ]
+    },
+    "对花安徽民歌经典民歌100首_2.txt": {
+        "file": [
+            "对花安徽民歌经典民歌100首_2.txt"
+        ],
+        "title": "对花安徽民歌经典民歌100首",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-314263"
+        ],
+        "todo": [
+            "add tags",
+            "refine the filename"
         ]
     },
     "对花河北民歌经典民歌100首.txt": {
@@ -65739,11 +65737,11 @@
             "jianpujia-15236"
         ]
     },
-    "将军令钢琴.txt": {
+    "将军令（五月天）.txt": {
         "file": [
-            "将军令钢琴.txt"
+            "将军令（五月天）.txt"
         ],
-        "title": "将军令钢琴",
+        "title": "将军令",
         "usertag": [
             "五月天",
             "分类/钢琴谱"
@@ -65759,9 +65757,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-150237"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "五月天"
@@ -65892,11 +65887,11 @@
             "qupu123-382258"
         ]
     },
-    "小丑钢琴.txt": {
+    "小丑（毛不易）.txt": {
         "file": [
-            "小丑钢琴.txt"
+            "小丑（毛不易）.txt"
         ],
-        "title": "小丑钢琴",
+        "title": "小丑",
         "usertag": [
             "毛不易",
             "分类/钢琴谱"
@@ -65912,9 +65907,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-387907"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "毛不易"
@@ -66422,11 +66414,11 @@
             "jianpucn-469451"
         ]
     },
-    "小城故事钢琴.txt": {
+    "小城故事（邓丽君）.txt": {
         "file": [
-            "小城故事钢琴.txt"
+            "小城故事（邓丽君）.txt"
         ],
-        "title": "小城故事钢琴",
+        "title": "小城故事",
         "usertag": [
             "邓丽君",
             "分类/钢琴谱"
@@ -66442,9 +66434,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-148668"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "邓丽君"
@@ -67103,11 +67092,11 @@
             "qupu123-205393"
         ]
     },
-    "小星星广告版钢琴.txt": {
+    "小星星广告版.txt": {
         "file": [
-            "小星星广告版钢琴.txt"
+            "小星星广告版.txt"
         ],
-        "title": "小星星广告版钢琴",
+        "title": "小星星广告版",
         "usertag": [
             "分类/钢琴谱",
             "分类/儿歌",
@@ -67125,9 +67114,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-148698"
-        ],
-        "todo": [
-            "refine the filename"
         ]
     },
     "小曲好唱口难开.txt": {
@@ -67228,6 +67214,33 @@
         "status": "ocr",
         "source": [
             "jianpucn-125319"
+        ]
+    },
+    "小松树.txt": {
+        "file": [
+            "小松树.txt"
+        ],
+        "title": "小松树",
+        "usertag": [
+            "分类/儿歌",
+            "幼儿园儿歌",
+            "儿歌"
+        ],
+        "tagroute": [],
+        "tag": [
+            "分类/儿歌",
+            "幼儿园儿歌",
+            "儿歌"
+        ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-74558"
+        ],
+        "artist": [
+            "幼儿园儿歌"
         ]
     },
     "小树小树你几岁.txt": {
@@ -67371,6 +67384,30 @@
             "add tags"
         ]
     },
+    "小燕子_3.txt": {
+        "file": [
+            "小燕子_3.txt"
+        ],
+        "title": "小燕子",
+        "usertag": [
+            "儿歌"
+        ],
+        "tagroute": [],
+        "tag": [
+            "儿歌"
+        ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-15773"
+        ],
+        "todo": [
+            "add tags",
+            "refine the filename"
+        ]
+    },
     "小燕子穿花衣.txt": {
         "file": [
             "小燕子穿花衣.txt"
@@ -67472,6 +67509,30 @@
         "status": "ocr",
         "source": [
             "qupu123-324638"
+        ]
+    },
+    "小白兔白又白.txt": {
+        "file": [
+            "小白兔白又白.txt"
+        ],
+        "title": "小白兔白又白",
+        "usertag": [
+            "分类/钢琴谱",
+            "分类/儿歌",
+            "儿歌"
+        ],
+        "tagroute": [],
+        "tag": [
+            "分类/钢琴谱",
+            "分类/儿歌",
+            "儿歌"
+        ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-255717"
         ]
     },
     "小白杨.txt": {
@@ -67604,11 +67665,11 @@
             "add tags"
         ]
     },
-    "小红帽钢琴.txt": {
+    "小红帽_2.txt": {
         "file": [
-            "小红帽钢琴.txt"
+            "小红帽_2.txt"
         ],
-        "title": "小红帽钢琴",
+        "title": "小红帽",
         "usertag": [
             "分类/钢琴谱",
             "分类/儿歌",
@@ -67626,9 +67687,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-245722"
-        ],
-        "todo": [
-            "refine the filename"
         ]
     },
     "小红花.txt": {
@@ -68097,11 +68155,11 @@
             "jianpucn-135550"
         ]
     },
-    "小酒窝钢琴.txt": {
+    "小酒窝（林俊杰 蔡卓妍）.txt": {
         "file": [
-            "小酒窝钢琴.txt"
+            "小酒窝（林俊杰 蔡卓妍）.txt"
         ],
-        "title": "小酒窝钢琴",
+        "title": "小酒窝",
         "usertag": [
             "林俊杰",
             "分类/钢琴谱",
@@ -68119,9 +68177,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-383628"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "林俊杰 蔡卓妍"
@@ -68776,11 +68831,11 @@
             "qupu123-335374"
         ]
     },
-    "尘大师钢琴.txt": {
+    "尘大师.txt": {
         "file": [
-            "尘大师钢琴.txt"
+            "尘大师.txt"
         ],
-        "title": "尘大师钢琴",
+        "title": "尘大师",
         "usertag": [
             "分类/钢琴谱",
             "陈奕迅"
@@ -68796,9 +68851,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-384841"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "陈奕迅"
@@ -68963,11 +69015,11 @@
             "qupu123-332400"
         ]
     },
-    "就这样钢琴.txt": {
+    "就这样（李荣浩）.txt": {
         "file": [
-            "就这样钢琴.txt"
+            "就这样（李荣浩）.txt"
         ],
-        "title": "就这样钢琴",
+        "title": "就这样",
         "usertag": [
             "李荣浩",
             "分类/钢琴谱"
@@ -68983,9 +69035,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-149960"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "李荣浩"
@@ -72329,11 +72378,11 @@
             "梁静茹"
         ]
     },
-    "庐州月完美版钢琴.txt": {
+    "庐州月完美版.txt": {
         "file": [
-            "庐州月完美版钢琴.txt"
+            "庐州月完美版.txt"
         ],
-        "title": "庐州月完美版钢琴",
+        "title": "庐州月完美版",
         "usertag": [
             "许嵩",
             "分类/钢琴谱",
@@ -72351,9 +72400,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-150660"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "许嵩 Vae"
@@ -75186,11 +75232,11 @@
             "qupu123-396518"
         ]
     },
-    "心墙钢琴.txt": {
+    "心墙.txt": {
         "file": [
-            "心墙钢琴.txt"
+            "心墙.txt"
         ],
-        "title": "心墙钢琴",
+        "title": "心墙",
         "usertag": [
             "林俊杰",
             "分类/钢琴谱"
@@ -75206,9 +75252,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-429407"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "林俊杰"
@@ -77496,11 +77539,11 @@
             "jianpucn-49796"
         ]
     },
-    "恨幸福来过钢琴.txt": {
+    "恨幸福来过.txt": {
         "file": [
-            "恨幸福来过钢琴.txt"
+            "恨幸福来过.txt"
         ],
-        "title": "恨幸福来过钢琴",
+        "title": "恨幸福来过",
         "usertag": [
             "林俊杰",
             "分类/钢琴谱",
@@ -77518,9 +77561,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-382742"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "林俊杰 金钟国"
@@ -77609,11 +77649,11 @@
             "jianpucn-86325"
         ]
     },
-    "恭喜恭喜钢琴.txt": {
+    "恭喜恭喜.txt": {
         "file": [
-            "恭喜恭喜钢琴.txt"
+            "恭喜恭喜.txt"
         ],
-        "title": "恭喜恭喜钢琴",
+        "title": "恭喜恭喜",
         "usertag": [
             "邓丽君",
             "分类/钢琴谱"
@@ -77629,9 +77669,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-150326"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "邓丽君"
@@ -79759,6 +79796,30 @@
             "add tags"
         ]
     },
+    "感谢.txt": {
+        "file": [
+            "感谢.txt"
+        ],
+        "title": "感谢",
+        "usertag": [
+            "分类/钢琴谱",
+            "分类/儿歌",
+            "儿歌"
+        ],
+        "tagroute": [],
+        "tag": [
+            "分类/钢琴谱",
+            "分类/儿歌",
+            "儿歌"
+        ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-250631"
+        ]
+    },
     "感谢父母养育恩.txt": {
         "file": [
             "感谢父母养育恩.txt"
@@ -79799,33 +79860,6 @@
             "jianpucn-44274"
         ]
     },
-    "感谢钢琴.txt": {
-        "file": [
-            "感谢钢琴.txt"
-        ],
-        "title": "感谢钢琴",
-        "usertag": [
-            "分类/钢琴谱",
-            "分类/儿歌",
-            "儿歌"
-        ],
-        "tagroute": [],
-        "tag": [
-            "分类/钢琴谱",
-            "分类/儿歌",
-            "儿歌"
-        ],
-        "transcriber": [
-            "jianpu2-auto"
-        ],
-        "status": "ocr",
-        "source": [
-            "jianpujia-250631"
-        ],
-        "todo": [
-            "refine the filename"
-        ]
-    },
     "愿.txt": {
         "file": [
             "愿.txt"
@@ -79849,11 +79883,11 @@
             "周深"
         ]
     },
-    "愿与愁钢琴.txt": {
+    "愿与愁.txt": {
         "file": [
-            "愿与愁钢琴.txt"
+            "愿与愁.txt"
         ],
-        "title": "愿与愁钢琴",
+        "title": "愿与愁",
         "usertag": [
             "林俊杰",
             "分类/钢琴谱"
@@ -79869,9 +79903,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-385669"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "林俊杰"
@@ -80129,11 +80160,11 @@
             "薛之谦"
         ]
     },
-    "慢半拍钢琴.txt": {
+    "慢半拍（薛之谦）.txt": {
         "file": [
-            "慢半拍钢琴.txt"
+            "慢半拍（薛之谦）.txt"
         ],
-        "title": "慢半拍钢琴",
+        "title": "慢半拍",
         "usertag": [
             "薛之谦",
             "分类/钢琴谱"
@@ -80149,9 +80180,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-151387"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "薛之谦"
@@ -80729,11 +80757,11 @@
             "jianpujia-15276"
         ]
     },
-    "我不愿让你一个人钢琴.txt": {
+    "我不愿让你一个人（五月天）.txt": {
         "file": [
-            "我不愿让你一个人钢琴.txt"
+            "我不愿让你一个人（五月天）.txt"
         ],
-        "title": "我不愿让你一个人钢琴",
+        "title": "我不愿让你一个人",
         "usertag": [
             "五月天",
             "分类/钢琴谱"
@@ -80749,9 +80777,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-148641"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "五月天"
@@ -81094,6 +81119,26 @@
         "status": "ocr",
         "source": [
             "qupu123-83291"
+        ]
+    },
+    "我从草原来_3.txt": {
+        "file": [
+            "我从草原来_3.txt"
+        ],
+        "title": "我从草原来",
+        "usertag": [
+            "分类/草原"
+        ],
+        "tagroute": [],
+        "tag": [
+            "分类/草原"
+        ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-7077"
         ]
     },
     "我从草原来——凤凰传奇.txt": {
@@ -83033,11 +83078,11 @@
             "jianpujia-15359"
         ]
     },
-    "我好像在哪见过你钢琴.txt": {
+    "我好像在哪见过你（薛之谦）.txt": {
         "file": [
-            "我好像在哪见过你钢琴.txt"
+            "我好像在哪见过你（薛之谦）.txt"
         ],
-        "title": "我好像在哪见过你钢琴",
+        "title": "我好像在哪见过你",
         "usertag": [
             "薛之谦",
             "分类/钢琴谱"
@@ -83053,9 +83098,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-149003"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "薛之谦"
@@ -83081,11 +83123,11 @@
             "qupu123-335584"
         ]
     },
-    "我害怕钢琴.txt": {
+    "我害怕.txt": {
         "file": [
-            "我害怕钢琴.txt"
+            "我害怕.txt"
         ],
-        "title": "我害怕钢琴",
+        "title": "我害怕",
         "usertag": [
             "薛之谦",
             "分类/钢琴谱"
@@ -83101,9 +83143,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-149708"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "薛之谦"
@@ -87248,11 +87287,11 @@
             "qupu123-332732"
         ]
     },
-    "我落泪情绪零碎钢琴.txt": {
+    "我落泪情绪零碎.txt": {
         "file": [
-            "我落泪情绪零碎钢琴.txt"
+            "我落泪情绪零碎.txt"
         ],
-        "title": "我落泪情绪零碎钢琴",
+        "title": "我落泪情绪零碎",
         "usertag": [
             "周杰伦",
             "分类/钢琴谱"
@@ -87268,9 +87307,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-384854"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "周杰伦"
@@ -89768,11 +89804,11 @@
             "jianpujia-15218"
         ]
     },
-    "拔萝卜钢琴.txt": {
+    "拔萝卜_2.txt": {
         "file": [
-            "拔萝卜钢琴.txt"
+            "拔萝卜_2.txt"
         ],
-        "title": "拔萝卜钢琴",
+        "title": "拔萝卜",
         "usertag": [
             "分类/钢琴谱",
             "分类/儿歌",
@@ -89790,9 +89826,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-380006"
-        ],
-        "todo": [
-            "refine the filename"
         ]
     },
     "招牌动作.txt": {
@@ -89855,6 +89888,31 @@
         "status": "ocr",
         "source": [
             "jianpucn-41533"
+        ]
+    },
+    "拥抱.txt": {
+        "file": [
+            "拥抱.txt"
+        ],
+        "title": "拥抱",
+        "usertag": [
+            "五月天",
+            "分类/钢琴谱"
+        ],
+        "tagroute": [],
+        "tag": [
+            "五月天",
+            "分类/钢琴谱"
+        ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-150412"
+        ],
+        "artist": [
+            "五月天"
         ]
     },
     "拥抱_歌曲类.txt": {
@@ -89954,34 +90012,6 @@
         ],
         "todo": [
             "add tags"
-        ]
-    },
-    "拥抱钢琴.txt": {
-        "file": [
-            "拥抱钢琴.txt"
-        ],
-        "title": "拥抱钢琴",
-        "usertag": [
-            "五月天",
-            "分类/钢琴谱"
-        ],
-        "tagroute": [],
-        "tag": [
-            "五月天",
-            "分类/钢琴谱"
-        ],
-        "transcriber": [
-            "jianpu2-auto"
-        ],
-        "status": "ocr",
-        "source": [
-            "jianpujia-150412"
-        ],
-        "todo": [
-            "refine the filename"
-        ],
-        "artist": [
-            "五月天"
         ]
     },
     "拥抱阳光.txt": {
@@ -91199,6 +91229,28 @@
             "jianpucn-24994"
         ]
     },
+    "故乡_2.txt": {
+        "file": [
+            "故乡_2.txt"
+        ],
+        "title": "故乡",
+        "usertag": [
+            "许巍",
+            "分类/钢琴谱"
+        ],
+        "tagroute": [],
+        "tag": [
+            "许巍",
+            "分类/钢琴谱"
+        ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-152901"
+        ]
+    },
     "故乡啊，我怀念的天堂.txt": {
         "file": [
             "故乡啊，我怀念的天堂.txt"
@@ -91508,31 +91560,6 @@
         "status": "ocr",
         "source": [
             "jianpucn-49433"
-        ]
-    },
-    "故乡钢琴.txt": {
-        "file": [
-            "故乡钢琴.txt"
-        ],
-        "title": "故乡钢琴",
-        "usertag": [
-            "许巍",
-            "分类/钢琴谱"
-        ],
-        "tagroute": [],
-        "tag": [
-            "许巍",
-            "分类/钢琴谱"
-        ],
-        "transcriber": [
-            "jianpu2-auto"
-        ],
-        "status": "ocr",
-        "source": [
-            "jianpujia-152901"
-        ],
-        "todo": [
-            "refine the filename"
         ]
     },
     "故事的启迪.txt": {
@@ -92161,11 +92188,11 @@
             "jianpucn-119723"
         ]
     },
-    "断桥残雪钢琴.txt": {
+    "断桥残雪.txt": {
         "file": [
-            "断桥残雪钢琴.txt"
+            "断桥残雪.txt"
         ],
-        "title": "断桥残雪钢琴",
+        "title": "断桥残雪",
         "usertag": [
             "许嵩",
             "分类/钢琴谱"
@@ -92181,9 +92208,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-150254"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "许嵩"
@@ -92435,11 +92459,11 @@
             "jianpujia-15563"
         ]
     },
-    "新年好钢琴.txt": {
+    "新年好_2.txt": {
         "file": [
-            "新年好钢琴.txt"
+            "新年好_2.txt"
         ],
-        "title": "新年好钢琴",
+        "title": "新年好",
         "usertag": [
             "分类/钢琴谱",
             "分类/儿歌",
@@ -92457,9 +92481,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-387554"
-        ],
-        "todo": [
-            "refine the filename"
         ]
     },
     "新年祝福.txt": {
@@ -92846,11 +92867,11 @@
             "qupu123-382702"
         ]
     },
-    "方圆几里钢琴.txt": {
+    "方圆几里.txt": {
         "file": [
-            "方圆几里钢琴.txt"
+            "方圆几里.txt"
         ],
-        "title": "方圆几里钢琴",
+        "title": "方圆几里",
         "usertag": [
             "薛之谦",
             "分类/钢琴谱"
@@ -92866,9 +92887,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-150136"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "薛之谦"
@@ -92940,6 +92958,31 @@
             "jianpucn-34731"
         ]
     },
+    "旅行.txt": {
+        "file": [
+            "旅行.txt"
+        ],
+        "title": "旅行",
+        "usertag": [
+            "许巍",
+            "分类/钢琴谱"
+        ],
+        "tagroute": [],
+        "tag": [
+            "许巍",
+            "分类/钢琴谱"
+        ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-150100"
+        ],
+        "artist": [
+            "许巍"
+        ]
+    },
     "旅行_歌曲类.txt": {
         "file": [
             "旅行_歌曲类.txt"
@@ -92958,34 +93001,6 @@
         "status": "ocr",
         "source": [
             "jianpucn-114992"
-        ]
-    },
-    "旅行钢琴.txt": {
-        "file": [
-            "旅行钢琴.txt"
-        ],
-        "title": "旅行钢琴",
-        "usertag": [
-            "许巍",
-            "分类/钢琴谱"
-        ],
-        "tagroute": [],
-        "tag": [
-            "许巍",
-            "分类/钢琴谱"
-        ],
-        "transcriber": [
-            "jianpu2-auto"
-        ],
-        "status": "ocr",
-        "source": [
-            "jianpujia-150100"
-        ],
-        "todo": [
-            "refine the filename"
-        ],
-        "artist": [
-            "许巍"
         ]
     },
     "旅途人生.txt": {
@@ -96916,11 +96931,11 @@
             "qupu123-35259"
         ]
     },
-    "暧昧钢琴.txt": {
+    "暧昧（薛之谦）.txt": {
         "file": [
-            "暧昧钢琴.txt"
+            "暧昧（薛之谦）.txt"
         ],
-        "title": "暧昧钢琴",
+        "title": "暧昧",
         "usertag": [
             "薛之谦",
             "分类/钢琴谱"
@@ -96936,9 +96951,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-149618"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "薛之谦"
@@ -98356,11 +98368,11 @@
             "jianpujia-154804"
         ]
     },
-    "月亮代表我的心超简单版钢琴.txt": {
+    "月亮代表我的心超简单版.txt": {
         "file": [
-            "月亮代表我的心超简单版钢琴.txt"
+            "月亮代表我的心超简单版.txt"
         ],
-        "title": "月亮代表我的心超简单版钢琴",
+        "title": "月亮代表我的心超简单版",
         "usertag": [
             "邓丽君",
             "分类/钢琴谱"
@@ -98377,18 +98389,15 @@
         "source": [
             "jianpujia-148393"
         ],
-        "todo": [
-            "refine the filename"
-        ],
         "artist": [
             "邓丽君"
         ]
     },
-    "月亮代表我的心钢琴.txt": {
+    "月亮代表我的心（邓丽君）.txt": {
         "file": [
-            "月亮代表我的心钢琴.txt"
+            "月亮代表我的心（邓丽君）.txt"
         ],
-        "title": "月亮代表我的心钢琴",
+        "title": "月亮代表我的心",
         "usertag": [
             "邓丽君",
             "分类/钢琴谱"
@@ -98404,9 +98413,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-152089"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "邓丽君"
@@ -98993,6 +98999,31 @@
             "徐志列"
         ]
     },
+    "月牙五更经典民歌100首（徐志列）.txt": {
+        "file": [
+            "月牙五更经典民歌100首（徐志列）.txt"
+        ],
+        "title": "月牙五更经典民歌100首",
+        "usertag": [
+            "徐志列",
+            "民歌"
+        ],
+        "tagroute": [],
+        "tag": [
+            "徐志列",
+            "民歌"
+        ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-314355"
+        ],
+        "artist": [
+            "徐志列"
+        ]
+    },
     "月神之歌.txt": {
         "file": [
             "月神之歌.txt"
@@ -99480,11 +99511,11 @@
             "qupu123-335129"
         ]
     },
-    "有情也难牵你手1=be4_4_伤感地.txt": {
+    "有情也难牵你手.txt": {
         "file": [
-            "有情也难牵你手1=be4_4_伤感地.txt"
+            "有情也难牵你手.txt"
         ],
-        "title": "有情也难牵你手1=be4_4_伤感地",
+        "title": "有情也难牵你手",
         "usertag": [
             "分类/萨克斯谱",
             "分类/草原",
@@ -99505,11 +99536,8 @@
         "source": [
             "jianpujia-317853"
         ],
-        "todo": [
-            "refine the filename"
-        ],
         "artist": [
-            "萨克斯吹奏:草原丁喜"
+            "草原丁喜"
         ]
     },
     "有情有爱有花.txt": {
@@ -99612,6 +99640,31 @@
             "qupu123-334461"
         ]
     },
+    "有没有.txt": {
+        "file": [
+            "有没有.txt"
+        ],
+        "title": "有没有",
+        "usertag": [
+            "薛之谦",
+            "分类/钢琴谱"
+        ],
+        "tagroute": [],
+        "tag": [
+            "薛之谦",
+            "分类/钢琴谱"
+        ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-149956"
+        ],
+        "artist": [
+            "薛之谦"
+        ]
+    },
     "有没有一首歌会让你想起我_歌曲类.txt": {
         "file": [
             "有没有一首歌会让你想起我_歌曲类.txt"
@@ -99630,34 +99683,6 @@
         "status": "ocr",
         "source": [
             "jianpucn-113845"
-        ]
-    },
-    "有没有钢琴.txt": {
-        "file": [
-            "有没有钢琴.txt"
-        ],
-        "title": "有没有钢琴",
-        "usertag": [
-            "薛之谦",
-            "分类/钢琴谱"
-        ],
-        "tagroute": [],
-        "tag": [
-            "薛之谦",
-            "分类/钢琴谱"
-        ],
-        "transcriber": [
-            "jianpu2-auto"
-        ],
-        "status": "ocr",
-        "source": [
-            "jianpujia-149956"
-        ],
-        "todo": [
-            "refine the filename"
-        ],
-        "artist": [
-            "薛之谦"
         ]
     },
     "有爸有妈有山海.txt": {
@@ -100647,11 +100672,11 @@
             "qupu123-333758"
         ]
     },
-    "木瓜恰恰恰钢琴.txt": {
+    "木瓜恰恰恰.txt": {
         "file": [
-            "木瓜恰恰恰钢琴.txt"
+            "木瓜恰恰恰.txt"
         ],
-        "title": "木瓜恰恰恰钢琴",
+        "title": "木瓜恰恰恰",
         "usertag": [
             "分类/钢琴谱",
             "分类/儿歌",
@@ -100669,9 +100694,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-149655"
-        ],
-        "todo": [
-            "refine the filename"
         ]
     },
     "木鱼与金鱼.txt": {
@@ -100743,53 +100765,6 @@
             "莫文蔚"
         ]
     },
-    "未命名-jianpujia-15773.txt": {
-        "file": [
-            "未命名-jianpujia-15773.txt"
-        ],
-        "title": "未命名-jianpujia-15773",
-        "usertag": [
-            "儿歌"
-        ],
-        "tagroute": [],
-        "tag": [
-            "儿歌"
-        ],
-        "transcriber": [
-            "jianpu2-auto"
-        ],
-        "status": "ocr",
-        "source": [
-            "jianpujia-15773"
-        ],
-        "todo": [
-            "add tags",
-            "refine the filename"
-        ]
-    },
-    "未命名-jianpujia-15835.txt": {
-        "file": [
-            "未命名-jianpujia-15835.txt"
-        ],
-        "title": "未命名-jianpujia-15835",
-        "usertag": [
-            "分类/儿歌"
-        ],
-        "tagroute": [],
-        "tag": [
-            "分类/儿歌"
-        ],
-        "transcriber": [
-            "jianpu2-auto"
-        ],
-        "status": "ocr",
-        "source": [
-            "jianpujia-15835"
-        ],
-        "todo": [
-            "refine the filename"
-        ]
-    },
     "未命名-jianpujia-211190.txt": {
         "file": [
             "未命名-jianpujia-211190.txt"
@@ -100811,270 +100786,6 @@
         ],
         "todo": [
             "refine the filename"
-        ]
-    },
-    "未命名-jianpujia-236274.txt": {
-        "file": [
-            "未命名-jianpujia-236274.txt"
-        ],
-        "title": "未命名-jianpujia-236274",
-        "usertag": [
-            "分类/草原",
-            "草原"
-        ],
-        "tagroute": [],
-        "tag": [
-            "分类/草原",
-            "草原"
-        ],
-        "transcriber": [
-            "jianpu2-auto"
-        ],
-        "status": "ocr",
-        "source": [
-            "jianpujia-236274"
-        ],
-        "todo": [
-            "refine the filename"
-        ]
-    },
-    "未命名-jianpujia-237000.txt": {
-        "file": [
-            "未命名-jianpujia-237000.txt"
-        ],
-        "title": "未命名-jianpujia-237000",
-        "usertag": [
-            "分类/草原"
-        ],
-        "tagroute": [],
-        "tag": [
-            "分类/草原"
-        ],
-        "transcriber": [
-            "jianpu2-auto"
-        ],
-        "status": "ocr",
-        "source": [
-            "jianpujia-237000"
-        ],
-        "todo": [
-            "refine the filename"
-        ]
-    },
-    "未命名-jianpujia-238450.txt": {
-        "file": [
-            "未命名-jianpujia-238450.txt"
-        ],
-        "title": "未命名-jianpujia-238450",
-        "usertag": [
-            "分类/萨克斯谱",
-            "分类/草原"
-        ],
-        "tagroute": [],
-        "tag": [
-            "分类/萨克斯谱",
-            "分类/草原"
-        ],
-        "transcriber": [
-            "jianpu2-auto"
-        ],
-        "status": "ocr",
-        "source": [
-            "jianpujia-238450"
-        ],
-        "todo": [
-            "refine the filename"
-        ],
-        "artist": [
-            "草原丁喜"
-        ]
-    },
-    "未命名-jianpujia-255717.txt": {
-        "file": [
-            "未命名-jianpujia-255717.txt"
-        ],
-        "title": "未命名-jianpujia-255717",
-        "usertag": [
-            "分类/钢琴谱",
-            "分类/儿歌",
-            "儿歌"
-        ],
-        "tagroute": [],
-        "tag": [
-            "分类/钢琴谱",
-            "分类/儿歌",
-            "儿歌"
-        ],
-        "transcriber": [
-            "jianpu2-auto"
-        ],
-        "status": "ocr",
-        "source": [
-            "jianpujia-255717"
-        ],
-        "todo": [
-            "refine the filename"
-        ]
-    },
-    "未命名-jianpujia-26419.txt": {
-        "file": [
-            "未命名-jianpujia-26419.txt"
-        ],
-        "title": "未命名-jianpujia-26419",
-        "usertag": [
-            "分类/儿歌"
-        ],
-        "tagroute": [],
-        "tag": [
-            "分类/儿歌"
-        ],
-        "transcriber": [
-            "jianpu2-auto"
-        ],
-        "status": "ocr",
-        "source": [
-            "jianpujia-26419"
-        ],
-        "todo": [
-            "refine the filename"
-        ]
-    },
-    "未命名-jianpujia-26487.txt": {
-        "file": [
-            "未命名-jianpujia-26487.txt"
-        ],
-        "title": "未命名-jianpujia-26487",
-        "usertag": [
-            "儿歌"
-        ],
-        "tagroute": [],
-        "tag": [
-            "儿歌"
-        ],
-        "transcriber": [
-            "jianpu2-auto"
-        ],
-        "status": "ocr",
-        "source": [
-            "jianpujia-26487"
-        ],
-        "todo": [
-            "add tags",
-            "refine the filename"
-        ]
-    },
-    "未命名-jianpujia-301762.txt": {
-        "file": [
-            "未命名-jianpujia-301762.txt"
-        ],
-        "title": "未命名-jianpujia-301762",
-        "usertag": [
-            "分类/萨克斯谱",
-            "分类/草原"
-        ],
-        "tagroute": [],
-        "tag": [
-            "分类/萨克斯谱",
-            "分类/草原"
-        ],
-        "transcriber": [
-            "jianpu2-auto"
-        ],
-        "status": "ocr",
-        "source": [
-            "jianpujia-301762"
-        ],
-        "todo": [
-            "refine the filename"
-        ],
-        "artist": [
-            "草原美娥"
-        ]
-    },
-    "未命名-jianpujia-314355.txt": {
-        "file": [
-            "未命名-jianpujia-314355.txt"
-        ],
-        "title": "未命名-jianpujia-314355",
-        "usertag": [
-            "徐志列",
-            "民歌"
-        ],
-        "tagroute": [],
-        "tag": [
-            "徐志列",
-            "民歌"
-        ],
-        "transcriber": [
-            "jianpu2-auto"
-        ],
-        "status": "ocr",
-        "source": [
-            "jianpujia-314355"
-        ],
-        "todo": [
-            "refine the filename"
-        ],
-        "artist": [
-            "徐志列"
-        ]
-    },
-    "未命名-jianpujia-316848.txt": {
-        "file": [
-            "未命名-jianpujia-316848.txt"
-        ],
-        "title": "未命名-jianpujia-316848",
-        "usertag": [
-            "分类/草原",
-            "草原江枫渔火",
-            "草原"
-        ],
-        "tagroute": [],
-        "tag": [
-            "分类/草原",
-            "草原江枫渔火",
-            "草原"
-        ],
-        "transcriber": [
-            "jianpu2-auto"
-        ],
-        "status": "ocr",
-        "source": [
-            "jianpujia-316848"
-        ],
-        "todo": [
-            "refine the filename"
-        ],
-        "artist": [
-            "草原江枫渔火"
-        ]
-    },
-    "未命名-jianpujia-317610.txt": {
-        "file": [
-            "未命名-jianpujia-317610.txt"
-        ],
-        "title": "未命名-jianpujia-317610",
-        "usertag": [
-            "分类/萨克斯谱",
-            "分类/草原"
-        ],
-        "tagroute": [],
-        "tag": [
-            "分类/萨克斯谱",
-            "分类/草原"
-        ],
-        "transcriber": [
-            "jianpu2-auto"
-        ],
-        "status": "ocr",
-        "source": [
-            "jianpujia-317610"
-        ],
-        "todo": [
-            "refine the filename"
-        ],
-        "artist": [
-            "草原丁喜"
         ]
     },
     "未命名-jianpujia-337301.txt": {
@@ -101103,32 +100814,6 @@
         ],
         "artist": [
             "老狼"
-        ]
-    },
-    "未命名-jianpujia-349477.txt": {
-        "file": [
-            "未命名-jianpujia-349477.txt"
-        ],
-        "title": "未命名-jianpujia-349477",
-        "usertag": [
-            "分类/草原"
-        ],
-        "tagroute": [],
-        "tag": [
-            "分类/草原"
-        ],
-        "transcriber": [
-            "jianpu2-auto"
-        ],
-        "status": "ocr",
-        "source": [
-            "jianpujia-349477"
-        ],
-        "todo": [
-            "refine the filename"
-        ],
-        "artist": [
-            "德德玛"
         ]
     },
     "未命名-jianpujia-394083.txt": {
@@ -101176,145 +100861,6 @@
             "jianpujia-397525"
         ],
         "todo": [
-            "refine the filename"
-        ]
-    },
-    "未命名-jianpujia-418203.txt": {
-        "file": [
-            "未命名-jianpujia-418203.txt"
-        ],
-        "title": "未命名-jianpujia-418203",
-        "usertag": [
-            "分类/草原"
-        ],
-        "tagroute": [],
-        "tag": [
-            "分类/草原"
-        ],
-        "transcriber": [
-            "jianpu2-auto"
-        ],
-        "status": "ocr",
-        "source": [
-            "jianpujia-418203"
-        ],
-        "todo": [
-            "refine the filename"
-        ],
-        "artist": [
-            "金磊鑫"
-        ]
-    },
-    "未命名-jianpujia-7077.txt": {
-        "file": [
-            "未命名-jianpujia-7077.txt"
-        ],
-        "title": "未命名-jianpujia-7077",
-        "usertag": [
-            "分类/草原"
-        ],
-        "tagroute": [],
-        "tag": [
-            "分类/草原"
-        ],
-        "transcriber": [
-            "jianpu2-auto"
-        ],
-        "status": "ocr",
-        "source": [
-            "jianpujia-7077"
-        ],
-        "todo": [
-            "refine the filename"
-        ]
-    },
-    "未命名-jianpujia-74558.txt": {
-        "file": [
-            "未命名-jianpujia-74558.txt"
-        ],
-        "title": "未命名-jianpujia-74558",
-        "usertag": [
-            "分类/儿歌",
-            "幼儿园儿歌",
-            "儿歌"
-        ],
-        "tagroute": [],
-        "tag": [
-            "分类/儿歌",
-            "幼儿园儿歌",
-            "儿歌"
-        ],
-        "transcriber": [
-            "jianpu2-auto"
-        ],
-        "status": "ocr",
-        "source": [
-            "jianpujia-74558"
-        ],
-        "todo": [
-            "refine the filename"
-        ],
-        "artist": [
-            "幼儿园儿歌"
-        ]
-    },
-    "未命名-qupu123-395375.txt": {
-        "file": [
-            "未命名-qupu123-395375.txt"
-        ],
-        "title": "未命名-qupu123-395375",
-        "usertag": [],
-        "tagroute": [],
-        "tag": [],
-        "transcriber": [
-            "jianpu2-auto"
-        ],
-        "status": "ocr",
-        "source": [
-            "qupu123-395375"
-        ],
-        "todo": [
-            "add tags",
-            "refine the filename"
-        ]
-    },
-    "未命名-qupu123-395403.txt": {
-        "file": [
-            "未命名-qupu123-395403.txt"
-        ],
-        "title": "未命名-qupu123-395403",
-        "usertag": [],
-        "tagroute": [],
-        "tag": [],
-        "transcriber": [
-            "jianpu2-auto"
-        ],
-        "status": "ocr",
-        "source": [
-            "qupu123-395403"
-        ],
-        "todo": [
-            "add tags",
-            "refine the filename"
-        ]
-    },
-    "未命名-qupu123-395461.txt": {
-        "file": [
-            "未命名-qupu123-395461.txt"
-        ],
-        "title": "未命名-qupu123-395461",
-        "usertag": [],
-        "tagroute": [],
-        "tag": [],
-        "transcriber": [
-            "jianpu2-auto"
-        ],
-        "status": "ocr",
-        "source": [
-            "qupu123-395461"
-        ],
-        "todo": [
-            "add tags",
             "refine the filename"
         ]
     },
@@ -101540,34 +101086,6 @@
             "李荣浩"
         ]
     },
-    "李白钢琴.txt": {
-        "file": [
-            "李白钢琴.txt"
-        ],
-        "title": "李白钢琴",
-        "usertag": [
-            "李荣浩",
-            "分类/钢琴谱"
-        ],
-        "tagroute": [],
-        "tag": [
-            "李荣浩",
-            "分类/钢琴谱"
-        ],
-        "transcriber": [
-            "jianpu2-auto"
-        ],
-        "status": "ocr",
-        "source": [
-            "jianpujia-150454"
-        ],
-        "todo": [
-            "refine the filename"
-        ],
-        "artist": [
-            "李荣浩"
-        ]
-    },
     "李白（李荣浩.txt": {
         "file": [
             "李白（李荣浩.txt"
@@ -101585,6 +101103,31 @@
         ],
         "todo": [
             "add tags"
+        ]
+    },
+    "李白（李荣浩）.txt": {
+        "file": [
+            "李白（李荣浩）.txt"
+        ],
+        "title": "李白",
+        "usertag": [
+            "李荣浩",
+            "分类/钢琴谱"
+        ],
+        "tagroute": [],
+        "tag": [
+            "李荣浩",
+            "分类/钢琴谱"
+        ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-150454"
+        ],
+        "artist": [
+            "李荣浩"
         ]
     },
     "村居.txt": {
@@ -101855,11 +101398,11 @@
             "qupu123-396198"
         ]
     },
-    "来日方长钢琴.txt": {
+    "来日方长.txt": {
         "file": [
-            "来日方长钢琴.txt"
+            "来日方长.txt"
         ],
-        "title": "来日方长钢琴",
+        "title": "来日方长",
         "usertag": [
             "薛之谦",
             "分类/钢琴谱",
@@ -101877,9 +101420,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-149762"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "薛之谦 黄龄"
@@ -108571,6 +108111,31 @@
             "qupu123-303181"
         ]
     },
+    "江湖.txt": {
+        "file": [
+            "江湖.txt"
+        ],
+        "title": "江湖",
+        "usertag": [
+            "许嵩",
+            "分类/钢琴谱"
+        ],
+        "tagroute": [],
+        "tag": [
+            "许嵩",
+            "分类/钢琴谱"
+        ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-149000"
+        ],
+        "artist": [
+            "许嵩"
+        ]
+    },
     "江湖笑.txt": {
         "file": [
             "江湖笑.txt"
@@ -108589,34 +108154,6 @@
         "status": "ocr",
         "source": [
             "jianpucn-44944"
-        ]
-    },
-    "江湖钢琴.txt": {
-        "file": [
-            "江湖钢琴.txt"
-        ],
-        "title": "江湖钢琴",
-        "usertag": [
-            "许嵩",
-            "分类/钢琴谱"
-        ],
-        "tagroute": [],
-        "tag": [
-            "许嵩",
-            "分类/钢琴谱"
-        ],
-        "transcriber": [
-            "jianpu2-auto"
-        ],
-        "status": "ocr",
-        "source": [
-            "jianpujia-149000"
-        ],
-        "todo": [
-            "refine the filename"
-        ],
-        "artist": [
-            "许嵩"
         ]
     },
     "江源情歌.txt": {
@@ -109598,11 +109135,11 @@
             "jianpucn-47723"
         ]
     },
-    "洋娃娃的梦钢琴.txt": {
+    "洋娃娃的梦.txt": {
         "file": [
-            "洋娃娃的梦钢琴.txt"
+            "洋娃娃的梦.txt"
         ],
-        "title": "洋娃娃的梦钢琴",
+        "title": "洋娃娃的梦",
         "usertag": [
             "分类/钢琴谱",
             "分类/儿歌",
@@ -109620,9 +109157,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-250727"
-        ],
-        "todo": [
-            "refine the filename"
         ]
     },
     "洋葱.txt": {
@@ -110334,11 +109868,11 @@
             "add tags"
         ]
     },
-    "浮夸钢琴.txt": {
+    "浮夸（陈奕迅）.txt": {
         "file": [
-            "浮夸钢琴.txt"
+            "浮夸（陈奕迅）.txt"
         ],
-        "title": "浮夸钢琴",
+        "title": "浮夸",
         "usertag": [
             "分类/钢琴谱",
             "陈奕迅"
@@ -110354,9 +109888,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-379990"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "陈奕迅"
@@ -110980,11 +110511,11 @@
             "jianpucn-234334"
         ]
     },
-    "海阔天空伴奏版钢琴.txt": {
+    "海阔天空伴奏版.txt": {
         "file": [
-            "海阔天空伴奏版钢琴.txt"
+            "海阔天空伴奏版.txt"
         ],
-        "title": "海阔天空伴奏版钢琴",
+        "title": "海阔天空伴奏版",
         "usertag": [
             "Beyond",
             "分类/钢琴谱"
@@ -111000,9 +110531,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-150416"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "Beyond"
@@ -111160,11 +110688,11 @@
             "qupu123-311617"
         ]
     },
-    "消愁钢琴.txt": {
+    "消愁（毛不易）.txt": {
         "file": [
-            "消愁钢琴.txt"
+            "消愁（毛不易）.txt"
         ],
-        "title": "消愁钢琴",
+        "title": "消愁",
         "usertag": [
             "毛不易",
             "分类/钢琴谱"
@@ -111180,9 +110708,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-150692"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "毛不易"
@@ -111453,11 +110978,11 @@
             "qupu123-324804"
         ]
     },
-    "深夜书店钢琴.txt": {
+    "深夜书店.txt": {
         "file": [
-            "深夜书店钢琴.txt"
+            "深夜书店.txt"
         ],
-        "title": "深夜书店钢琴",
+        "title": "深夜书店",
         "usertag": [
             "许嵩",
             "分类/钢琴谱",
@@ -111475,9 +111000,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-149467"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "许嵩 洛天依"
@@ -111632,11 +111154,11 @@
             "qupu123-333941"
         ]
     },
-    "深深爱过你钢琴.txt": {
+    "深深爱过你.txt": {
         "file": [
-            "深深爱过你钢琴.txt"
+            "深深爱过你.txt"
         ],
-        "title": "深深爱过你钢琴",
+        "title": "深深爱过你",
         "usertag": [
             "薛之谦",
             "分类/钢琴谱"
@@ -111652,9 +111174,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-150016"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "薛之谦"
@@ -111852,11 +111371,11 @@
             "jianpujia-155108"
         ]
     },
-    "清明雨上钢琴.txt": {
+    "清明雨上（许嵩）.txt": {
         "file": [
-            "清明雨上钢琴.txt"
+            "清明雨上（许嵩）.txt"
         ],
-        "title": "清明雨上钢琴",
+        "title": "清明雨上",
         "usertag": [
             "许嵩",
             "分类/钢琴谱"
@@ -111872,9 +111391,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-380540"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "许嵩"
@@ -112124,11 +111640,11 @@
             "qupu123-328257"
         ]
     },
-    "渡钢琴.txt": {
+    "渡.txt": {
         "file": [
-            "渡钢琴.txt"
+            "渡.txt"
         ],
-        "title": "渡钢琴",
+        "title": "渡",
         "usertag": [
             "薛之谦",
             "分类/钢琴谱"
@@ -112144,9 +111660,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-150766"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "薛之谦"
@@ -112321,11 +111834,11 @@
             "jianpucn-115048"
         ]
     },
-    "温柔钢琴.txt": {
+    "温柔（五月天）.txt": {
         "file": [
-            "温柔钢琴.txt"
+            "温柔（五月天）.txt"
         ],
-        "title": "温柔钢琴",
+        "title": "温柔",
         "usertag": [
             "五月天",
             "分类/钢琴谱"
@@ -112341,9 +111854,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-149406"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "五月天"
@@ -113107,11 +112617,11 @@
             "薛之谦"
         ]
     },
-    "演员钢琴.txt": {
+    "演员_2.txt": {
         "file": [
-            "演员钢琴.txt"
+            "演员_2.txt"
         ],
-        "title": "演员钢琴",
+        "title": "演员",
         "usertag": [
             "薛之谦",
             "分类/钢琴谱"
@@ -113127,9 +112637,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-152771"
-        ],
-        "todo": [
-            "refine the filename"
         ]
     },
     "漫步.txt": {
@@ -113438,11 +112945,11 @@
             "jianpujia-15365"
         ]
     },
-    "火星人来过钢琴.txt": {
+    "火星人来过（薛之谦）.txt": {
         "file": [
-            "火星人来过钢琴.txt"
+            "火星人来过（薛之谦）.txt"
         ],
-        "title": "火星人来过钢琴",
+        "title": "火星人来过",
         "usertag": [
             "薛之谦",
             "分类/钢琴谱"
@@ -113458,9 +112965,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-149077"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "薛之谦"
@@ -114453,6 +113957,31 @@
             "草原丁喜"
         ]
     },
+    "燕子归来草原丁喜萨克斯原创曲.txt": {
+        "file": [
+            "燕子归来草原丁喜萨克斯原创曲.txt"
+        ],
+        "title": "燕子归来草原丁喜萨克斯原创曲",
+        "usertag": [
+            "分类/萨克斯谱",
+            "分类/草原"
+        ],
+        "tagroute": [],
+        "tag": [
+            "分类/萨克斯谱",
+            "分类/草原"
+        ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-317610"
+        ],
+        "artist": [
+            "草原丁喜"
+        ]
+    },
     "燕子归来草原丁喜萨斯.txt": {
         "file": [
             "燕子归来草原丁喜萨斯.txt"
@@ -114499,11 +114028,11 @@
             "add tags"
         ]
     },
-    "燕归巢钢琴.txt": {
+    "燕归巢.txt": {
         "file": [
-            "燕归巢钢琴.txt"
+            "燕归巢.txt"
         ],
-        "title": "燕归巢钢琴",
+        "title": "燕归巢",
         "usertag": [
             "许嵩",
             "分类/钢琴谱"
@@ -114519,9 +114048,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-150162"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "许嵩"
@@ -117662,11 +117188,11 @@
             "qupu123-319893"
         ]
     },
-    "爷爷夸我好乖乖钢琴.txt": {
+    "爷爷夸我好乖乖.txt": {
         "file": [
-            "爷爷夸我好乖乖钢琴.txt"
+            "爷爷夸我好乖乖.txt"
         ],
-        "title": "爷爷夸我好乖乖钢琴",
+        "title": "爷爷夸我好乖乖",
         "usertag": [
             "分类/钢琴谱",
             "分类/儿歌",
@@ -117684,9 +117210,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-255729"
-        ],
-        "todo": [
-            "refine the filename"
         ]
     },
     "爷爷挖木拉.txt": {
@@ -117749,11 +117272,11 @@
             "jianpucn-42087"
         ]
     },
-    "爸爸妈妈钢琴.txt": {
+    "爸爸妈妈_2.txt": {
         "file": [
-            "爸爸妈妈钢琴.txt"
+            "爸爸妈妈_2.txt"
         ],
-        "title": "爸爸妈妈钢琴",
+        "title": "爸爸妈妈",
         "usertag": [
             "李荣浩",
             "分类/钢琴谱"
@@ -117769,9 +117292,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-153012"
-        ],
-        "todo": [
-            "refine the filename"
         ]
     },
     "爸爸守哨卡.txt": {
@@ -118148,11 +117668,11 @@
             "qupu123-328272"
         ]
     },
-    "牧羊姑娘1=F4_4_深情悠扬地.txt": {
+    "牧羊姑娘.txt": {
         "file": [
-            "牧羊姑娘1=F4_4_深情悠扬地.txt"
+            "牧羊姑娘.txt"
         ],
-        "title": "牧羊姑娘1=F4_4_深情悠扬地",
+        "title": "牧羊姑娘",
         "usertag": [
             "分类/草原",
             "草原丁喜",
@@ -118170,9 +117690,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-315435"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "草原丁喜"
@@ -118581,11 +118098,11 @@
             "jianpucn-114493"
         ]
     },
-    "独上西楼钢琴.txt": {
+    "独上西楼.txt": {
         "file": [
-            "独上西楼钢琴.txt"
+            "独上西楼.txt"
         ],
-        "title": "独上西楼钢琴",
+        "title": "独上西楼",
         "usertag": [
             "邓丽君",
             "分类/钢琴谱"
@@ -118601,9 +118118,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-152049"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "邓丽君"
@@ -118869,11 +118383,11 @@
             "qupu123-332533"
         ]
     },
-    "王子公主钢琴.txt": {
+    "王子公主.txt": {
         "file": [
-            "王子公主钢琴.txt"
+            "王子公主.txt"
         ],
-        "title": "王子公主钢琴",
+        "title": "王子公主",
         "usertag": [
             "薛之谦",
             "分类/钢琴谱",
@@ -118891,9 +118405,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-149547"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "薛之谦 张信哲"
@@ -120022,11 +119533,31 @@
             "jianpujia-15835"
         ]
     },
-    "生日快乐完整好听版钢琴.txt": {
+    "生日快乐_3.txt": {
         "file": [
-            "生日快乐完整好听版钢琴.txt"
+            "生日快乐_3.txt"
         ],
-        "title": "生日快乐完整好听版钢琴",
+        "title": "生日快乐",
+        "usertag": [
+            "分类/儿歌"
+        ],
+        "tagroute": [],
+        "tag": [
+            "分类/儿歌"
+        ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-15835"
+        ]
+    },
+    "生日快乐完整好听版.txt": {
+        "file": [
+            "生日快乐完整好听版.txt"
+        ],
+        "title": "生日快乐完整好听版",
         "usertag": [
             "分类/钢琴谱",
             "分类/儿歌",
@@ -120044,9 +119575,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-150149"
-        ],
-        "todo": [
-            "refine the filename"
         ]
     },
     "生日歌.txt": {
@@ -124357,11 +123885,11 @@
             "陈奕迅"
         ]
     },
-    "盲婚哑嫁钢琴.txt": {
+    "盲婚哑嫁（陈奕迅）.txt": {
         "file": [
-            "盲婚哑嫁钢琴.txt"
+            "盲婚哑嫁（陈奕迅）.txt"
         ],
-        "title": "盲婚哑嫁钢琴",
+        "title": "盲婚哑嫁",
         "usertag": [
             "分类/钢琴谱",
             "陈奕迅"
@@ -124377,9 +123905,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-380871"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "陈奕迅"
@@ -130080,11 +129605,11 @@
             "add tags"
         ]
     },
-    "突然好想你钢琴.txt": {
+    "突然好想你（五月天）.txt": {
         "file": [
-            "突然好想你钢琴.txt"
+            "突然好想你（五月天）.txt"
         ],
-        "title": "突然好想你钢琴",
+        "title": "突然好想你",
         "usertag": [
             "五月天",
             "分类/钢琴谱"
@@ -130100,9 +129625,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-150427"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "五月天"
@@ -130756,11 +130278,11 @@
             "jianpujia-14971"
         ]
     },
-    "笑忘书钢琴.txt": {
+    "笑忘书（李荣浩）.txt": {
         "file": [
-            "笑忘书钢琴.txt"
+            "笑忘书（李荣浩）.txt"
         ],
-        "title": "笑忘书钢琴",
+        "title": "笑忘书",
         "usertag": [
             "李荣浩",
             "分类/钢琴谱"
@@ -130776,9 +130298,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-148878"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "李荣浩"
@@ -131295,11 +130814,11 @@
             "jianpucn-119968"
         ]
     },
-    "等我回家钢琴.txt": {
+    "等我回家.txt": {
         "file": [
-            "等我回家钢琴.txt"
+            "等我回家.txt"
         ],
-        "title": "等我回家钢琴",
+        "title": "等我回家",
         "usertag": [
             "薛之谦",
             "分类/钢琴谱"
@@ -131315,9 +130834,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-149977"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "薛之谦"
@@ -131654,6 +131170,26 @@
             "jianpujia-26419"
         ]
     },
+    "粉刷匠_2.txt": {
+        "file": [
+            "粉刷匠_2.txt"
+        ],
+        "title": "粉刷匠",
+        "usertag": [
+            "分类/儿歌"
+        ],
+        "tagroute": [],
+        "tag": [
+            "分类/儿歌"
+        ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-26419"
+        ]
+    },
     "粉墨情缘.txt": {
         "file": [
             "粉墨情缘.txt"
@@ -131820,11 +131356,11 @@
             "jianpucn-60039"
         ]
     },
-    "素颜钢琴.txt": {
+    "素颜.txt": {
         "file": [
-            "素颜钢琴.txt"
+            "素颜.txt"
         ],
-        "title": "素颜钢琴",
+        "title": "素颜",
         "usertag": [
             "许嵩",
             "分类/钢琴谱"
@@ -131840,9 +131376,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-154013"
-        ],
-        "todo": [
-            "refine the filename"
         ]
     },
     "索呀拉.txt": {
@@ -133390,11 +132923,11 @@
             "add tags"
         ]
     },
-    "绅士钢琴.txt": {
+    "绅士.txt": {
         "file": [
-            "绅士钢琴.txt"
+            "绅士.txt"
         ],
-        "title": "绅士钢琴",
+        "title": "绅士",
         "usertag": [
             "薛之谦",
             "分类/钢琴谱"
@@ -133410,9 +132943,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-150415"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "薛之谦"
@@ -133602,11 +133132,11 @@
             "add tags"
         ]
     },
-    "给你给我钢琴.txt": {
+    "给你给我.txt": {
         "file": [
-            "给你给我钢琴.txt"
+            "给你给我.txt"
         ],
-        "title": "给你给我钢琴",
+        "title": "给你给我",
         "usertag": [
             "毛不易",
             "分类/钢琴谱"
@@ -133622,9 +133152,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-152124"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "毛不易"
@@ -135847,6 +135374,26 @@
             "jianpujia-237000"
         ]
     },
+    "美玉草原知音草原风情系列之十_2.txt": {
+        "file": [
+            "美玉草原知音草原风情系列之十_2.txt"
+        ],
+        "title": "美玉草原知音草原风情系列之十",
+        "usertag": [
+            "分类/草原"
+        ],
+        "tagroute": [],
+        "tag": [
+            "分类/草原"
+        ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-237000"
+        ]
+    },
     "美美.txt": {
         "file": [
             "美美.txt"
@@ -135959,11 +135506,11 @@
             "邓丽君"
         ]
     },
-    "美酒加咖啡钢琴.txt": {
+    "美酒加咖啡（邓丽君）.txt": {
         "file": [
-            "美酒加咖啡钢琴.txt"
+            "美酒加咖啡（邓丽君）.txt"
         ],
-        "title": "美酒加咖啡钢琴",
+        "title": "美酒加咖啡",
         "usertag": [
             "邓丽君",
             "分类/钢琴谱"
@@ -135979,9 +135526,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-150581"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "邓丽君"
@@ -140016,36 +139560,6 @@
             "qupu123-310509"
         ]
     },
-    "草原之夜1=bE2_4_中速深情地.txt": {
-        "file": [
-            "草原之夜1=bE2_4_中速深情地.txt"
-        ],
-        "title": "草原之夜1=bE2_4_中速深情地",
-        "usertag": [
-            "分类/草原",
-            "草原丁喜",
-            "草原"
-        ],
-        "tagroute": [],
-        "tag": [
-            "分类/草原",
-            "草原丁喜",
-            "草原"
-        ],
-        "transcriber": [
-            "jianpu2-auto"
-        ],
-        "status": "ocr",
-        "source": [
-            "jianpujia-315384"
-        ],
-        "todo": [
-            "refine the filename"
-        ],
-        "artist": [
-            "草原丁喜"
-        ]
-    },
     "草原之夜影片_绿色的草原_插曲.txt": {
         "file": [
             "草原之夜影片_绿色的草原_插曲.txt"
@@ -140094,6 +139608,33 @@
         ],
         "artist": [
             "降央卓玛"
+        ]
+    },
+    "草原之夜（草原丁喜）.txt": {
+        "file": [
+            "草原之夜（草原丁喜）.txt"
+        ],
+        "title": "草原之夜",
+        "usertag": [
+            "分类/草原",
+            "草原丁喜",
+            "草原"
+        ],
+        "tagroute": [],
+        "tag": [
+            "分类/草原",
+            "草原丁喜",
+            "草原"
+        ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-315384"
+        ],
+        "artist": [
+            "草原丁喜"
         ]
     },
     "草原儿女心向党.txt": {
@@ -140673,6 +140214,29 @@
             "德德玛"
         ]
     },
+    "草原无名河草原歌曲100首（德德玛）.txt": {
+        "file": [
+            "草原无名河草原歌曲100首（德德玛）.txt"
+        ],
+        "title": "草原无名河草原歌曲100首",
+        "usertag": [
+            "分类/草原"
+        ],
+        "tagroute": [],
+        "tag": [
+            "分类/草原"
+        ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-349477"
+        ],
+        "artist": [
+            "德德玛"
+        ]
+    },
     "草原春不老草原丁喜.txt": {
         "file": [
             "草原春不老草原丁喜.txt"
@@ -140690,6 +140254,31 @@
             "分类/草原",
             "草原丁喜",
             "草原"
+        ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-238450"
+        ],
+        "artist": [
+            "草原丁喜"
+        ]
+    },
+    "草原春不老草原丁喜萨克斯原创曲.txt": {
+        "file": [
+            "草原春不老草原丁喜萨克斯原创曲.txt"
+        ],
+        "title": "草原春不老草原丁喜萨克斯原创曲",
+        "usertag": [
+            "分类/萨克斯谱",
+            "分类/草原"
+        ],
+        "tagroute": [],
+        "tag": [
+            "分类/萨克斯谱",
+            "分类/草原"
         ],
         "transcriber": [
             "jianpu2-auto"
@@ -141049,6 +140638,29 @@
             "金磊鑫"
         ]
     },
+    "草原湖，草原雨独唱歌曲（金磊鑫）.txt": {
+        "file": [
+            "草原湖，草原雨独唱歌曲（金磊鑫）.txt"
+        ],
+        "title": "草原湖，草原雨独唱歌曲",
+        "usertag": [
+            "分类/草原"
+        ],
+        "tagroute": [],
+        "tag": [
+            "分类/草原"
+        ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-418203"
+        ],
+        "artist": [
+            "金磊鑫"
+        ]
+    },
     "草原父亲母亲河李宝鸿词朝乐蒙曲草原父亲母亲河李宝鸿词.txt": {
         "file": [
             "草原父亲母亲河李宝鸿词朝乐蒙曲草原父亲母亲河李宝鸿词.txt"
@@ -141237,6 +140849,31 @@
             "分类/草原",
             "草原美娥",
             "草原"
+        ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-301762"
+        ],
+        "artist": [
+            "草原美娥"
+        ]
+    },
+    "草原的承诺草原丁喜萨克斯原创曲.txt": {
+        "file": [
+            "草原的承诺草原丁喜萨克斯原创曲.txt"
+        ],
+        "title": "草原的承诺草原丁喜萨克斯原创曲",
+        "usertag": [
+            "分类/萨克斯谱",
+            "分类/草原"
+        ],
+        "tagroute": [],
+        "tag": [
+            "分类/萨克斯谱",
+            "分类/草原"
         ],
         "transcriber": [
             "jianpu2-auto"
@@ -143545,11 +143182,11 @@
             "降央卓玛"
         ]
     },
-    "蓝莲花钢琴.txt": {
+    "蓝莲花.txt": {
         "file": [
-            "蓝莲花钢琴.txt"
+            "蓝莲花.txt"
         ],
-        "title": "蓝莲花钢琴",
+        "title": "蓝莲花",
         "usertag": [
             "许巍",
             "分类/钢琴谱"
@@ -143565,9 +143202,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-152894"
-        ],
-        "todo": [
-            "refine the filename"
         ]
     },
     "蓝蓝的一片海.txt": {
@@ -144728,11 +144362,11 @@
             "qupu123-328761"
         ]
     },
-    "裙姊钢琴.txt": {
+    "裙姊.txt": {
         "file": [
-            "裙姊钢琴.txt"
+            "裙姊.txt"
         ],
-        "title": "裙姊钢琴",
+        "title": "裙姊",
         "usertag": [
             "李荣浩",
             "分类/钢琴谱"
@@ -144748,9 +144382,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-150115"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "李荣浩"
@@ -146451,11 +146082,11 @@
             "周杰伦"
         ]
     },
-    "说好的幸福呢简单版钢琴.txt": {
+    "说好的幸福呢简单版.txt": {
         "file": [
-            "说好的幸福呢简单版钢琴.txt"
+            "说好的幸福呢简单版.txt"
         ],
-        "title": "说好的幸福呢简单版钢琴",
+        "title": "说好的幸福呢简单版",
         "usertag": [
             "周杰伦",
             "分类/钢琴谱"
@@ -146471,9 +146102,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-379923"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "周杰伦"
@@ -147524,11 +147152,11 @@
             "qupu123-289222"
         ]
     },
-    "谢幕钢琴.txt": {
+    "谢幕.txt": {
         "file": [
-            "谢幕钢琴.txt"
+            "谢幕.txt"
         ],
-        "title": "谢幕钢琴",
+        "title": "谢幕",
         "usertag": [
             "林俊杰",
             "分类/钢琴谱"
@@ -147544,9 +147172,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-382758"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "林俊杰"
@@ -152563,11 +152188,11 @@
             "qupu123-333888"
         ]
     },
-    "迷迭香钢琴.txt": {
+    "迷迭香.txt": {
         "file": [
-            "迷迭香钢琴.txt"
+            "迷迭香.txt"
         ],
-        "title": "迷迭香钢琴",
+        "title": "迷迭香",
         "usertag": [
             "周杰伦",
             "分类/钢琴谱"
@@ -152583,9 +152208,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-380466"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "周杰伦"
@@ -159486,11 +159108,11 @@
             "qupu123-328073"
         ]
     },
-    "阳光宅男钢琴.txt": {
+    "阳光宅男.txt": {
         "file": [
-            "阳光宅男钢琴.txt"
+            "阳光宅男.txt"
         ],
-        "title": "阳光宅男钢琴",
+        "title": "阳光宅男",
         "usertag": [
             "周杰伦",
             "分类/钢琴谱"
@@ -159506,9 +159128,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-379944"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "周杰伦"
@@ -163640,11 +163259,11 @@
             "孟庭苇"
         ]
     },
-    "风铃叮叮当钢琴.txt": {
+    "风铃叮叮当.txt": {
         "file": [
-            "风铃叮叮当钢琴.txt"
+            "风铃叮叮当.txt"
         ],
-        "title": "风铃叮叮当钢琴",
+        "title": "风铃叮叮当",
         "usertag": [
             "分类/钢琴谱",
             "分类/儿歌",
@@ -163662,9 +163281,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-148525"
-        ],
-        "todo": [
-            "refine the filename"
         ]
     },
     "风雨中的美丽_歌曲类.txt": {
@@ -165024,11 +164640,11 @@
             "薛之谦"
         ]
     },
-    "高尚钢琴.txt": {
+    "高尚（薛之谦）.txt": {
         "file": [
-            "高尚钢琴.txt"
+            "高尚（薛之谦）.txt"
         ],
-        "title": "高尚钢琴",
+        "title": "高尚",
         "usertag": [
             "薛之谦",
             "分类/钢琴谱"
@@ -165044,9 +164660,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-149384"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "薛之谦"
@@ -166429,11 +166042,11 @@
             "张碧晨/毛不易"
         ]
     },
-    "黑月光钢琴.txt": {
+    "黑月光（张碧晨 毛不易）.txt": {
         "file": [
-            "黑月光钢琴.txt"
+            "黑月光（张碧晨 毛不易）.txt"
         ],
-        "title": "黑月光钢琴",
+        "title": "黑月光",
         "usertag": [
             "毛不易",
             "分类/钢琴谱",
@@ -166451,9 +166064,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-383552"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "张碧晨 毛不易"
@@ -166705,11 +166315,11 @@
             "add tags"
         ]
     },
-    "龙卷风钢琴.txt": {
+    "龙卷风.txt": {
         "file": [
-            "龙卷风钢琴.txt"
+            "龙卷风.txt"
         ],
-        "title": "龙卷风钢琴",
+        "title": "龙卷风",
         "usertag": [
             "周杰伦",
             "分类/钢琴谱"
@@ -166725,9 +166335,6 @@
         "status": "ocr",
         "source": [
             "jianpujia-385301"
-        ],
-        "todo": [
-            "refine the filename"
         ],
         "artist": [
             "周杰伦"

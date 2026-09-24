@@ -1,0 +1,17 @@
+%演员_2.txt
+%演员钢琴.txt
+% 出处 https://www.jianpujia.com/
+title=演员
+tag=薛之谦,分类/钢琴谱
+usertag=薛之谦,分类/钢琴谱
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-152771
+%--
+4/4
+subtitle=score
+q4' q3' q0 q5' q4' q3' q4' q5' q6 q6 q6 q6 q7 q1' q7 7. q5' q4' q3' q4' q5' q7 q7 q7 q7 q5 q2' q1' 1 - - - ,4 ,1 ,4 - ,5 ,2 ,5 -
+,3 ,7 ,3 - 1'. q3' q3' q4' q3' q4' q3' q4' q6 q6 q6 q6 q4 q1' q7 0 q0 q7 q7 q5 q2' q1' 1' - - - ,3 ,7 ,3 - ,2 ,6 ,2 - ,5 -
+- - ,5' ,1 - - -
+%END
