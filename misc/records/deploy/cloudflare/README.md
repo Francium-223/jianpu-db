@@ -187,3 +187,45 @@ npx wrangler secret put API_TOKEN        # 与本机 systemd 的 JPSUBMIT_TOKEN 
 2. R2 桶建好后告诉我桶名（默认我写的是 `jianpu-images`）；
 3. 想用的域名（如 `jpt.你的域名`）——我好把 `wrangler.jsonc` 的 routes、Worker 的 `API_UPSTREAM`
    和 Access 那条一起收尾。
+
+---
+
+# 最终形态（2026-09-24 深夜，用户口径定版）
+
+## 部署在哪
+
+**Cloudflare Pages**：`https://jianpu-web.pages.dev`（免费版：每站点 2 万文件 / 单文件 25MiB / 带宽不限；
+免域名、免绑卡、**大陆可直连**——本机实测 200，`*.vercel.app` 与 `*.workers.dev` 都是 000 被污染）。
+部署命令：`npm run build && npx wrangler pages deploy dist --project-name jianpu-web --branch master`
+（Workers 那条 `workers.dev` 留着但**大陆打不开**，别再用了；R2 未开通，`r2_buckets` 已在 wrangler.jsonc 里注释掉）。
+
+## 谱页长什么样（两条用户口径，都是"减"）
+
+1. **没有"原图"那一栏** —— 不转存扫描件、也不外链图片。原站页面地址本来就在「出处」和「收录页」里。
+   （曾试过：直接 hotlink 原站图 → jianpu.cn 是 http，https 页面按混合内容拦掉；Cloudflare 代取 → 需要 Functions/Worker，
+   且要重新抓 7,281 页拿图片 URL。都不划算，用户直接说"不用原谱图这一栏了"。）
+2. **"原谱原文"是文件 verbatim** —— 曲谱文件正文原样（`4/4`/`subtitle=`/`KeepLength`/`[`/`]`/`~`/`-`/换行全都保留），
+   **不是** `data.jsonl` 里那份"展开过"的 token 流（节头去掉、省略时值补全、多节拼平 —— 67 首受影响），
+   也**不注入**自动恢复的小节线。
+   * 实现：`jianpu-web/tools/build_web_data.py` 在**网页构建时**直接读 `jianpu-db/scores/<file>.txt` 的正文，
+     写成前端索引里的 `src` 字段（`raw` 仍保留给检索卡的命中高亮）。
+   * ⚠ **`data.jsonl` / `parse_scores.py` / `score.py` 一个字都没动**（md5 与 HEAD 一致，`jianpu-db` 工作区干净）——
+     语料那份口径不变，HF 数据集也不变。索引体积：2.77MB → 3.40MB gz。
+   * 自检：`tools/check_tune.mjs` 断言 `pre.sheet` 的内容 `=== esc(src)`、"没有注入 span/小节线"、
+     "显示的**不是** raw 那份展开版"。
+
+## 静态资源带内容哈希
+
+`tools/build_dist.mjs` 把 `app.js`→`app.<hash8>.js`（CSS 同理、JS 之间的 import 一起改），
+`_headers` 里 `/static/*` 因此可以 `max-age=31536000, immutable`。
+为什么必须：不带哈希时长缓存会让**部分边缘节点继续发旧 JS**（实测：同一个页面，截图里还在渲染碎图、
+无头浏览器里 img 数为 0 —— 两种结果并存）。
+
+## 自检入口
+
+```bash
+bash tools/check_all.sh          # 9 组: 投稿漏斗/图索引/渲染/检索/UI/谱页(verbatim)/线上/真浏览器/Worker
+node tools/check_tune.mjs        # 只看"每谱一页"
+SHOW_TUNE=1 node tools/show_card.mjs 铺开一片蔚蓝 1     # 文字预览谱页
+bash tools/cf_deploy.sh          # 用本机 wrangler 直接部署(排障用)
+```
