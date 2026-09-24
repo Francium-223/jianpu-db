@@ -1,5 +1,9 @@
 # 简谱查歌前端：Cloudflare 与 **GitHub Pages** 两条部署路（2026-09-25）
 
+> **线上地址（2026-09-25 实测）：https://jianpu-db.github.io/**
+> 仓库已改名/转移到组织站 **`jianpu-db/jianpu-db.github.io`** —— `<org>.github.io` 这种仓库发在
+> **域名根**上（普通项目仓库才是 `user.github.io/<repo>/` 子路径）。两种位置本产物都支持。
+
 姊妹篇: `_analysis/deploy/cloudflare/README.md`（Cloudflare 那条路的来龙去脉）。
 这份回答两个问题: **① 现在是怎么部署的 ② 能不能改成 xxx.github.io 的格式** —— 能, 已经做好了。
 
@@ -55,13 +59,28 @@ node tools/build_dist.mjs --target gh          →  dist-gh/   （默认 --out d
   （Worker 已放行 `/api/*` 的跨域预检: `OPTIONS -> 204 + Access-Control-Allow-Headers: Content-Type`,
   然后它照旧转发给本机; 本机不在线时给 503 人话）。
 
-## 三、怎么启用（一次性, 需要人点两下）
+## 三、怎么启用（一次性, 需要人点一下）
 
 1. 仓库 **Settings → Pages → Build and deployment → Source: GitHub Actions**。
-2. push 到 `master`（或手动跑 Actions 里的 `Deploy to GitHub Pages`）—— `.github/workflows/pages.yml` 会:
-   跑 `JIANPU_QUICK=1 bash tools/check_gh_pages.sh` 自检 → `--target gh --out dist` 构建 →
-   `actions/upload-pages-artifact` + `actions/deploy-pages`。
-3. 线上地址: **https://francium-223.github.io/jianpu-web/**（github.io 在本机/国内可达, 实测过）。
+2. push 到 `master`（或手动跑 Actions 里的 `Deploy to GitHub Pages`，或对已失败的 run 点 Re-run）——
+   `.github/workflows/pages.yml` 会: 跑 `JIANPU_QUICK=1 bash tools/check_gh_pages.sh` 自检 →
+   `--target gh --out dist` 构建 → `actions/upload-pages-artifact` + `actions/deploy-pages` →
+   **再取一次首页实测**（见下面那个坑）。
+3. 线上地址: **https://jianpu-db.github.io/**（`<org>.github.io` 站点在域名根; github.io 在本机/国内可达）。
+
+### ⚠ 实测踩到的坑：`deploy-pages` 说"成功"≠站点在发我们的东西
+
+2026-09-25 第一次真发布（run #1, `ca830e8`）：run 全绿（build 16s + deploy 9s），可站点打开是
+**GitHub Pages 的 404 页**。逐项取文件才看清: `/tools/build_dist.mjs`、`/package.json`、
+`/static/app.js`（仓库源码树里有的）全是 **200**，而产物里的 `/index.html`、`/404.html`、
+`/static/app.<hash>.js` 全是 **404** —— 说明 **Pages 的 Source 是"分支"模式**, 发的是仓库源码树;
+artifact 根本没上线, 但 `deploy-pages` 仍然报成功。
+
+对应改法（`063712b`，都已自测）:
+* probe 步骤顺带读 Pages 配置里的 `build_type`: `workflow` 才发布; `legacy` 就**只构建+自检**并留一条
+  notice 写明去改哪个下拉框（**不起红叉**, 免得又出现"绿了/红了都看不懂"的情况）; 读不到就试着发。
+* `deploy` 之后加一步**取回首页**: 6 次×20s 内必须拿到引用 `static/app.<hash>.js` 的 index.html,
+  否则 `::error::` 明确点出"Source 还不是 GitHub Actions"。
 
 Runner 上**不需要语料、不需要 Python**: `data/songs.jsonl.gz` 与 `stats.json` 本来就在仓库里,
 所以这条 CI 只有 node, 几十秒就完事。（`pages.yml` 里 `concurrency.cancel-in-progress: false`:
