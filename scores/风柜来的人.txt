@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-264854
 todo=add tags
+artist=李宗盛
 %--
 4/4
 subtitle=score

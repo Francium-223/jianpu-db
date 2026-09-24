@@ -7,6 +7,7 @@ tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-443693
+artist=齐秦
 %--
 4/4
 subtitle=score

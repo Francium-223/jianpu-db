@@ -7,6 +7,7 @@ tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-299366
+artist=梦之旅组合
 %--
 4/4
 subtitle=score

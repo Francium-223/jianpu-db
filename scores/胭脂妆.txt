@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-475872
 todo=add tags
+artist=树屋女孩
 %--
 4/4
 subtitle=score

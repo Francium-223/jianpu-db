@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-475749
 todo=add tags
+artist=孙艺桐
 %--
 4/4
 subtitle=score

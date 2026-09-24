@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-475857
 todo=add tags
+artist=任贤齐
 %--
 4/4
 subtitle=score

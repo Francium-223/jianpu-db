@@ -7,6 +7,7 @@ tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-429934
+artist=乌兰图雅
 %--
 2/4
 subtitle=score

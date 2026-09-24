@@ -30,7 +30,7 @@ args = ap.parse_args()
 SRC = "scores"
 SRC_RE = re.compile(r"(?m)^source=([^\s]+)\s*$")
 HOST_RE = re.compile(r"^([a-z0-9]+)-")
-COLS = ["file", "title", "status", "tags", "usertags", "transcriber",
+COLS = ["file", "title", "artist", "status", "tags", "usertags", "transcriber",
         "source", "source_host", "n_notes", "sections", "score", "link"]
 
 # 简谱 token 口径的**唯一实现**在 skill 目录的 jptok.py(与 score.py 用同一份)。
@@ -82,6 +82,7 @@ def main():
                 "title": r.get("title") or "",
                 "status": r.get("status") if isinstance(r.get("status"), str) else "",
                 "tags": list(r.get("tag") or []),
+                "artist": list(r.get("artist") or []),        # 歌手(独立字段, 2026-09-24)
                 "usertags": list(r.get("usertag") or []),
                 "transcriber": (r.get("transcriber") or [""])[0] if isinstance(r.get("transcriber"), list) else (r.get("transcriber") or ""),
                 "source": s,

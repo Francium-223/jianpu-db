@@ -7,6 +7,7 @@ tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-256294
+artist=周杰伦
 %--
 2/4
 subtitle=score

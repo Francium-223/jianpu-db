@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-475818
 todo=add tags
+artist=罗娇
 %--
 4/4
 subtitle=score

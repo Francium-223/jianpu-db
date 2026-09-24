@@ -7,6 +7,7 @@ tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-463571
+artist=莫文蔚
 %--
 4/4
 subtitle=score

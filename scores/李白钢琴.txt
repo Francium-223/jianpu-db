@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-150454
 todo=refine the filename
+artist=李荣浩
 %--
 4/4
 subtitle=score

@@ -7,6 +7,7 @@ tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-12669
+artist=银河少年艺术团
 %--
 4/4
 subtitle=score

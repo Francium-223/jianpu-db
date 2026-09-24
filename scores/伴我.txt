@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-473477
 todo=add tags
+artist=张靓颖
 %--
 3/4
 subtitle=score

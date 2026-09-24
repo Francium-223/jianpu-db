@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-475839
 todo=add tags
+artist=郑振华-华鸣音乐
 %--
 2/4
 subtitle=score

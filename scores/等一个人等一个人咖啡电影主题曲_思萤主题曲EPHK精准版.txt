@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-395601
 todo=refine the filename
+artist=林芯仪
 %--
 4/4
 subtitle=score

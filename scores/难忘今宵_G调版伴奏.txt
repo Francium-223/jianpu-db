@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-453179
 todo=refine the filename
+artist=李谷一
 %--
 4/4
 subtitle=score

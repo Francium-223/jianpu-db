@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-453136
 todo=refine the filename
+artist=蒋大为
 %--
 4/4
 subtitle=score

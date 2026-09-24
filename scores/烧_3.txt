@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-293456
 todo=add tags
+artist=林忆莲
 %--
 4/4
 subtitle=score

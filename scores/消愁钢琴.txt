@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-150692
 todo=refine the filename
+artist=毛不易
 %--
 4/4
 subtitle=score

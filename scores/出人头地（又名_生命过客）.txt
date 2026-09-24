@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-290144
 todo=refine the filename
+artist=童安格
 %--
 4/4
 subtitle=score

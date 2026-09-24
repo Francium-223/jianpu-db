@@ -7,6 +7,7 @@ tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-470228
+artist=张靓颖
 %--
 4/4
 subtitle=score

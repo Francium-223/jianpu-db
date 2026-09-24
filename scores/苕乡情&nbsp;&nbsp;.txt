@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-475699
 todo=add tags
+artist=朱朝永 陈春阳
 %--
 2/4
 subtitle=score

@@ -7,6 +7,7 @@ tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-296056
+artist=林俊杰
 %--
 4/4
 subtitle=score

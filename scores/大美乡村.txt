@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-475906
 todo=add tags
+artist=毛红波
 %--
 2/4
 subtitle=score

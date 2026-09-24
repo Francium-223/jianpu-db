@@ -7,6 +7,7 @@ tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-294336
+artist=张也
 %--
 4/4
 subtitle=score

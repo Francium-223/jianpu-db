@@ -122,6 +122,47 @@ def parse_tag(tag: str) -> str:
 	return t
 
 
+def add_field(path, key, value):
+	"""把一个 `key=value` 写进曲谱的**元数据区**(第一条 `%--` 之前); 返回 'added'/'exists'/'updated'。
+
+	与 add_usertag 同一套规矩: 只动元数据区、行尾保持、已有同键就替换(不新增行)。
+	2026-09-24 加它是因为歌手要独立成 `artist=`(用户口径), 而"写进曲谱"必须仍然只有一处实现。
+	`key`/`value` 都会做最窄的合法性检查: 不许换行(否则会凭空多出一行 -- 与标签那个坑同类)。
+	"""
+	key = (key or "").strip()
+	if not re.match(r"^[A-Za-z_][A-Za-z0-9_]*$", key):
+		raise ValueError(f"字段名不合法: {key!r}")
+	value = (value or "").strip()
+	if not _one_line(value):
+		raise ValueError(f"{key} 的值不能含换行: {value!r}")
+	with open(path, 'rb') as f:
+		raw = f.read()
+	nl = '\r\n' if b'\r\n' in raw else '\n'
+	lines = raw.decode('utf-8').splitlines()
+	end = next((i for i, ln in enumerate(lines)
+				if ln.replace(' ', '').startswith('%--')), None)
+	if end is None:                      # 没有 %--: 插在元数据区末尾, 绝不插到正文/文件尾
+		end = 0
+		for i, ln in enumerate(lines):
+			s = ln.strip()
+			if not s or s.startswith('%') or re.match(r'^[A-Za-z_][A-Za-z0-9_]*=', s) or re.match(r'^\d+=', s):
+				end = i + 1
+			else:
+				break
+	for i in range(end):
+		if lines[i].startswith(key + '='):
+			if lines[i][len(key) + 1:].strip() == value:
+				return 'exists'
+			lines[i] = f'{key}={value}'
+			with open(path, 'wb') as f:
+				f.write((nl.join(lines) + nl).encode('utf-8'))
+			return 'updated'
+	lines.insert(end, f'{key}={value}')
+	with open(path, 'wb') as f:
+		f.write((nl.join(lines) + nl).encode('utf-8'))
+	return 'added'
+
+
 def add_usertag(path, tag, clear_todo=True):
 	"""把 usertag 写进曲谱的**元数据区**(第一条 `%--` 之前); 返回 'added' / 'exists'。
 

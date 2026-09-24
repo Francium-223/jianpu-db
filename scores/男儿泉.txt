@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-475607
 todo=add tags
+artist=武书明
 %--
 2/4
 subtitle=score

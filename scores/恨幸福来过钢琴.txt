@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-382742
 todo=refine the filename
+artist=林俊杰 金钟国
 %--
 4/4
 subtitle=score

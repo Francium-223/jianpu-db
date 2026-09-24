@@ -7,6 +7,7 @@ tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-466685
+artist=刘欢
 %--
 2/4
 subtitle=score

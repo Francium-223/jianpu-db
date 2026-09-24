@@ -7,6 +7,7 @@ tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-243883
+artist=费玉清
 %--
 2/4
 subtitle=score

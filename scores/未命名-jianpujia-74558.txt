@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-74558
 todo=refine the filename
+artist=幼儿园儿歌
 %--
 4/4
 subtitle=score

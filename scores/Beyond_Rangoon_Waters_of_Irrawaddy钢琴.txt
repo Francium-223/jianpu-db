@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-150279
 todo=refine the filename
+artist=马克西姆
 %--
 4/4
 subtitle=score

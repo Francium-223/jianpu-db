@@ -7,6 +7,7 @@ tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-261717
+artist=腾格尔
 %--
 4/4
 subtitle=score

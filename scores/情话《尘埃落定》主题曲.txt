@@ -7,6 +7,7 @@ tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-462337
+artist=王宏伟
 %--
 2/4
 subtitle=score

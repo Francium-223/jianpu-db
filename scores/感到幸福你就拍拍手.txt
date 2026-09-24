@@ -7,6 +7,7 @@ tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-320213
+artist=凤凰传奇
 %--
 2/4
 subtitle=score

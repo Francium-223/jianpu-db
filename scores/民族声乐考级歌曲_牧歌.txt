@@ -7,6 +7,7 @@ tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-425827
+artist=蒋大为
 %--
 3/4
 subtitle=score

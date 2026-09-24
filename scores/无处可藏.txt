@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-268478
 todo=add tags
+artist=孟庭苇
 %--
 3/4
 subtitle=score

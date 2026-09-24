@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-475849
 todo=add tags
+artist=桑农苏轼
 %--
 2/4
 subtitle=score

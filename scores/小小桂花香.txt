@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-238948
 todo=add tags
+artist=殷秀梅
 %--
 2/4
 subtitle=score

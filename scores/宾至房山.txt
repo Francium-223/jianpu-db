@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-475838
 todo=add tags
+artist=赵国刚
 %--
 4/4
 subtitle=score

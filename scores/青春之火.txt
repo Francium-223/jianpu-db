@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-475879
 todo=add tags
+artist=蒋立德
 %--
 4/4
 subtitle=score

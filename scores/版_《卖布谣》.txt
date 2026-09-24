@@ -7,6 +7,7 @@ tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-260700
+artist=李谷一
 %--
 5/4
 subtitle=score

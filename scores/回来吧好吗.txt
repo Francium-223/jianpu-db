@@ -7,6 +7,7 @@ tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-264859
+artist=刘德华
 %--
 4/4
 subtitle=score

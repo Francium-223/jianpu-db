@@ -7,6 +7,7 @@ tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-475908
+artist=孟庆宇作曲
 %--
 2/4
 subtitle=score

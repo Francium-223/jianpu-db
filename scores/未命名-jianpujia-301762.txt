@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-301762
 todo=refine the filename
+artist=草原美娥
 %--
 4/4
 subtitle=score

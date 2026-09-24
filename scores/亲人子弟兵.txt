@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-475922
 todo=add tags
+artist=乌延永安
 %--
 4/4
 subtitle=score

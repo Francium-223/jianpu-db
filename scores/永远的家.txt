@@ -7,6 +7,7 @@ tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-317561
+artist=草原路漫漫
 %--
 4/4
 subtitle=score

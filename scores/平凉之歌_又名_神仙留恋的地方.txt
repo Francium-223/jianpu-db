@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-401114
 todo=add tags,refine the filename
+artist=王宏伟
 %--
 2/4
 subtitle=score

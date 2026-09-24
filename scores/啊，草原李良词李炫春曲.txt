@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-408999
 todo=refine the filename
+artist=枫桥
 %--
 4/4
 subtitle=score

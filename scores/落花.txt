@@ -7,6 +7,7 @@ tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-448115
+artist=周深
 %--
 3/4
 subtitle=score

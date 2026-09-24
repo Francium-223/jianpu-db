@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-378086
 todo=refine the filename
+artist=周杰伦 杨瑞代
 %--
 4/4
 subtitle=score

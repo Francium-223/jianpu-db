@@ -7,6 +7,7 @@ tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-460178
+artist=蔡琴
 %--
 4/4
 subtitle=score

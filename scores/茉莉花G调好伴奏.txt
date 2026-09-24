@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-453208
 todo=refine the filename
+artist=宋祖英
 %--
 2/4
 subtitle=score

@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-384841
 todo=refine the filename
+artist=陈奕迅
 %--
 4/4
 subtitle=score

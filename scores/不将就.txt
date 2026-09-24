@@ -7,6 +7,7 @@ tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-414186
+artist=李荣浩
 %--
 4/4
 subtitle=score

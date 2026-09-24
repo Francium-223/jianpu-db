@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-319463
 todo=refine the filename
+artist=张学友
 %--
 4/4
 subtitle=score

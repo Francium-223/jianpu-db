@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-453210
 todo=refine the filename
+artist=华晨宇
 %--
 2/4
 subtitle=score

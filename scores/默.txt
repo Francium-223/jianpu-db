@@ -7,6 +7,7 @@ tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-289979
+artist=那英
 %--
 4/4
 subtitle=score

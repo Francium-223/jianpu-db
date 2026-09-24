@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-152040
 todo=refine the filename
+artist=World Beyond
 %--
 4/4
 subtitle=score

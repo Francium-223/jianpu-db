@@ -7,6 +7,7 @@ tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-13162
+artist=小海龟
 %--
 2/4
 subtitle=score

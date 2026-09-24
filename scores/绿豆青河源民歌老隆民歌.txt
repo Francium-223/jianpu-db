@@ -7,6 +7,7 @@ tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-240789
+artist=张运长
 %--
 4/4
 subtitle=score

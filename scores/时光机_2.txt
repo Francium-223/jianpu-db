@@ -7,6 +7,7 @@ tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-74378
+artist=五月天
 %--
 3/4
 subtitle=score

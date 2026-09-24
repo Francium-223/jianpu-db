@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-474501
 todo=add tags
+artist=王莹
 %--
 4/4
 subtitle=score

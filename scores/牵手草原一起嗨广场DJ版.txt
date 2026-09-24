@@ -7,6 +7,7 @@ tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-300068
+artist=草原丁喜
 %--
 4/4
 subtitle=score

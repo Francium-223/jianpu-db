@@ -7,6 +7,7 @@ tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-417323
+artist=童安格
 %--
 4/4
 subtitle=score

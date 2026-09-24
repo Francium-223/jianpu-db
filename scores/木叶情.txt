@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-475637
 todo=add tags
+artist=杨文
 %--
 4/4
 subtitle=score

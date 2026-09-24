@@ -7,6 +7,7 @@ tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-470625
+artist=邓丽君
 %--
 3/4
 subtitle=score

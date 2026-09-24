@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-453138
 todo=refine the filename
+artist=张也
 %--
 2/4
 subtitle=score

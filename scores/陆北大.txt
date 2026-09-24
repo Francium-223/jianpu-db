@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-475623
 todo=add tags
+artist=朱国鑫词曲
 %--
 2/4
 subtitle=score

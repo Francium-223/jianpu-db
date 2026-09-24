@@ -7,6 +7,7 @@ tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-408203
+artist=高胜美
 %--
 3/4
 subtitle=score

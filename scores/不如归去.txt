@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-432656
 todo=add tags
+artist=蔡幸娟
 %--
 3/4
 subtitle=score

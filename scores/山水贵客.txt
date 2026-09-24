@@ -7,6 +7,7 @@ tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-348757
+artist=韩红
 %--
 3/4
 subtitle=score

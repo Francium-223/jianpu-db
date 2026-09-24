@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-475836
 todo=add tags
+artist=王丽达
 %--
 4/4
 subtitle=score

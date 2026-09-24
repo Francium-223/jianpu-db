@@ -7,6 +7,7 @@ tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-232548
+artist=陈金喻
 %--
 4/4
 subtitle=score

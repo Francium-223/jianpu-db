@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-453147
 todo=refine the filename
+artist=韩红
 %--
 2/4
 subtitle=score

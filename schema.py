@@ -333,6 +333,10 @@ schema = {
 								 '必须人工核对过, 不许写搜索页'),
 	'status': Attr(return_itself, (), 'ok / midi / ocr ... (parse_scores 用白名单筛)'),
 	'usertag': Attr(default_parse, (), '人只写**叶子**; 可多行、可逗号分隔'),
+	# 歌手(可多个)。2026-09-24 用户口径: 歌手要**独立字段**, 别混在 usertag 里 ——
+	# 通用曲名(《海阔天空》《爱》《家》)靠它 + 文件名消歧才分得清谁是谁。
+	# 来源是**有证据的**: harvest_artists.py 从原谱站页面标题抽出来、按 source 缓存的歌手。
+	'artist': Attr(default_parse, (), '歌手(可多个); 来自原谱站页面, 与 分类/… 标签分开'),
 	# 衍生字段(整对象) —— 顺序由这里的 deps 决定, 与书写顺序无关
 	'tag': Attr(derive_tag, ('usertag',), '全局真源: tag = f(usertag, tags.json)'),
 	'tagroute': Attr(derive_tagroute, ('usertag', 'tag'),

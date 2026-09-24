@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-437160
 todo=add tags
+artist=梁静茹
 %--
 4/4
 subtitle=score

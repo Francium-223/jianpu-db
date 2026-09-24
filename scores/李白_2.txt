@@ -7,6 +7,7 @@ tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-22027
+artist=李荣浩
 %--
 2/4
 subtitle=score

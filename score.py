@@ -329,6 +329,8 @@ class Score():
 			# ⚠ 这个字段是"人工补"的: 页面上的"粘贴链接→保存"与 tools/add_link.py 都写它。
 			'link': self.others.get('link', []),
 			'alias': self.others.get('alias', []),
+			# 歌手(独立字段, 2026-09-24): 以前只混在 usertag 里, 下游没法直接问"这首谁唱的"。
+			'artist': self.others.get('artist', []),
 			'transcriber': self.others.get('transcriber', []),
 			'sections': sections,
 			'score': full,

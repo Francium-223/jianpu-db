@@ -7,6 +7,7 @@ tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-74532
+artist=小伴龙儿歌
 %--
 4/4
 subtitle=score
