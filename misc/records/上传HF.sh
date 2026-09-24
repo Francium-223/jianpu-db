@@ -41,7 +41,12 @@ TOKEN="${HF_TOKEN:-${HUGGINGFACE_TOKEN:-}}"
 for f in "${JIANPU_HF_TOKEN_FILE:-}" "$HOME/.config/jianpu/hf_token" "$ROOT/_analysis/.hf_token"; do
   [ -n "$f" ] && [ -z "$TOKEN" ] && [ -f "$f" ] && TOKEN="$(tr -d '\r\n' < "$f")"
 done
-if command -v huggingface-cli >/dev/null 2>&1; then
+# 优先用工作区里的独立 venv(系统 Python 被 PEP 668 锁着, 装不了包):
+if [ -x "$ROOT/.venv-hf/bin/huggingface-cli" ]; then
+  CLI="$ROOT/.venv-hf/bin/huggingface-cli"
+elif [ -x "$ROOT/.venv-hf/bin/hf" ]; then
+  CLI="$ROOT/.venv-hf/bin/hf"
+elif command -v huggingface-cli >/dev/null 2>&1; then
   CLI=huggingface-cli
 elif command -v hf >/dev/null 2>&1; then
   CLI=hf
@@ -55,7 +60,8 @@ if [ -z "$TOKEN" ]; then
   exit 1
 fi
 if [ -z "$CLI" ]; then
-  echo "!! 没装上传工具。先:  pip install -U huggingface_hub"
+  echo "!! 没装上传工具。已经给你备好一个独立 venv, 装上即可(不动系统 Python):"
+  echo "     python3 -m venv $ROOT/.venv-hf && $ROOT/.venv-hf/bin/pip install -U huggingface_hub"
   echo "   (装完再跑本脚本; 也可直接用网页版拖 hf/ 里的文件)"
   exit 1
 fi
