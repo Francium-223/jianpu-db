@@ -335,8 +335,11 @@ PLATFORMS = [
 	 "search": "https://www.youtube.com/results?search_query={q}",
 	 "exact": "https://www.youtube.com/watch?v=…", "kind": "video"},
 	{"name": "MusicBrainz", "host": r"musicbrainz\.org",
-	 "search": "https://musicbrainz.org/search?query={q}&type=recording",
-	 "exact": "https://musicbrainz.org/recording/…", "kind": "db"},
+	 # ⚠ MBID 是 **work**(composition), 不是 recording —— 语料里的 MBID 全部按 work 填
+	 # (用户 2026-09-25 纠正: "我写的都是 work"; API 复核: /ws/2/work/<id> 有, /recording/<id> 404)。
+	 # 实体类型只认 work; 若以后混进 recording, 得按类型分别拼。
+	 "search": "https://musicbrainz.org/search?query={q}&type=work",
+	 "exact": "https://musicbrainz.org/work/…", "kind": "db"},
 ]
 
 
