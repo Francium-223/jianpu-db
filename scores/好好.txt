@@ -8,6 +8,7 @@ transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-413926
 todo=refine the filename
+artist=五月天
 %--
 4/4
 subtitle=score

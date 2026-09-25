@@ -7,6 +7,7 @@ tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-279512
+artist=邓紫棋
 %--
 4/4
 subtitle=score
