@@ -9,7 +9,7 @@ status=ok
 transcriber=Francium-223
 todo=transcribe the crazy piano
 %---
-subtitle=intro
+subtitle=intro,chorus
 KeepLength
 0c ,3 ,6 2 1c - ~ 1q 1 ,7 ,5 ,3c - ,3q 1 ,7 ,5
 ,3 ,#5 ,7 3 1c - ~ 1q 1 ,7 ,5 ,6c. 3q 3c 2q 3
@@ -17,4 +17,18 @@ KeepLength
 2 3 ，6c 3c. 2q ~ 2 3 ,6c 1. ,7. ,5
 ,3c ,#5 ,7 #5 6c - ~ 6q 3 6 7 '1 7 5c 6c. '1q ~ '1q 7 5 6 ~ 6c 5
 6 - 5 - 6 - - -
+NextScore
+subtitle=verse
+KeepLength
+3c - ~ 3q 3 2 1 ,7c 1q ,7 ,5c. ,6 - - - - - ,6q ,7 1 2
+3c - ~ 3q 3 2 3 5c 6q 3 2c. 3 - - - - - 3 5
+6c - ~ 6q 6 5 6 '1c 7 6 5 3 - - 5 2 - 1 ,7
+,6 - - 3 ,7c 1q ,7 ,6q ,5c ,5 - - - ,6 - - -
+NextScore
+subtitle=crazy piano
+x x x x
+NextScore
+subtitle=bridge
+,6 - 2 - 3 - ,6 - 5 - 6 - 3 - ,6 - 3 - 2 1 ,7 - ,5 - ,3 - - - - - - -
+,6 - 2 - 3 - ,6 - 5 - 6 - 3 - 2 - 3 - ,6 - ,5 - ,6 - ,6 - - - - - - -
 %END
