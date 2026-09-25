@@ -7,7 +7,6 @@ tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-234744
-
 artist=张敬轩
 %--
 4/4

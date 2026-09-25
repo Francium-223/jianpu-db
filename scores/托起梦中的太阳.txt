@@ -7,7 +7,6 @@ tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-331415
-
 %--
 4/4
 subtitle=score

@@ -7,7 +7,6 @@ tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-252071
-
 artist=孟庭苇
 %--
 4/4
