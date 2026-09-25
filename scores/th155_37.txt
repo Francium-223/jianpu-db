@@ -5,5 +5,16 @@ usertag=th155
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方小数点作原曲/th155
 MBID=ac3bf985-76fd-4d46-b60e-828943519eff
 alias=今宵是飘逸的利己主义者(Live ver)　～ Egoistic Flowers.
+status=ok
+transcriber=Francium-223
+todo=transcribe the crazy piano
 %---
+subtitle=intro
+KeepLength
+0c ,3 ,6 2 1c - ~ 1q 1 ,7 ,5 ,3c - ,3q 1 ,7 ,5
+,3 ,#5 ,7 3 1c - ~ 1q 1 ,7 ,5 ,6c. 3q 3c 2q 3
+5c 6 3 2q 3 ~ 3c - - - #5 - #5q 3 2 1
+2 3 ，6c 3c. 2q ~ 2 3 ,6c 1. ,7. ,5
+,3c ,#5 ,7 #5 6c - ~ 6q 3 6 7 '1 7 5c 6c. '1q ~ '1q 7 5 6 ~ 6c 5
+6 - 5 - 6 - - -
 %END
