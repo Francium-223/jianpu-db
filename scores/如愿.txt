@@ -1,0 +1,20 @@
+%如愿.txt
+% 出处 https://www.jianpujia.com/
+title=如愿
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-231879
+%--
+4/4
+subtitle=score
+1 - - q1 q4 x 1 x x. 1 x q0 s6 3 s1 s2 s3 s4 ~ 4 q0 s4 s3 q2 s1 s2 ~ q2 q7 3 - 0 q1 q3 q2 s1 s2 q0 s1 q2
+s1 s2 ~ q2 q7 3 q0 s6 3 s1 s2 s3 s4 ~ 4 q0 s4 s6 q5 q4 q3. s2 3 - 0 q1 q3 q6 s6 s6 ~ q6 q6 q6 s5 s6 ~ q6 s7 s7
+~ 7 s0 s3 s6 s7 q1' q3 q1' q1' q7 s3 s5 ~ 5 q6 q1 q1 q6 q5 s4 s3 q3. s3 q4 q5 q6 q7 q1' s1' s1' q1'. s1' q1' s1' s2' ~ q2' s6 s7
+~ 7 s0 s3 s6 s7 q1' q3 q1' q1' q7 s3 s5 ~ 5 q6 q1 q1 q6 q5 s4 s3 q3. s3 q4 q5 q6 q7 q1' s1' s1' q1'. s1' q7 s1' s2' q2' q7 6 -
+6 0 0 0 q0 s6 q6 q7 q1' q2' q2'. s3' s3' q3'. s3' q3'. s2' s4' q4'. q3' q1' s1' s1' q1'. s1' q1' s1' s2' q2' q7 6 - 6 s1' s1' s1' s7 1' s1' s1'
+s1' s1' 7 s0 s7 s7 s7 q1' q3' q1' q1' 7 s1' s1' s1' s7 1' s1' s1' s1' s1' 7 q1' s1' s7 q6 s1' s1' s1' q2'. 7 - 7 - 7 - 7 s0 s3 s6
+s7 q1' q3 q3 q1' q7 s3 s5 ~ 5
+%END

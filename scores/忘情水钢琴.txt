@@ -1,0 +1,22 @@
+%忘情水钢琴.txt
+% 出处 https://www.jianpujia.com/
+title=忘情水钢琴
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-251850
+todo=refine the filename
+%--
+4/4
+subtitle=score
+q2 q2 q2 q2 q2 1 q2 q2 q2 q2 q3 q2 q1 q0 q,5 q6 q5 q5 q5 5 q3 q5 5. q0 1 2 ,,4 ,1 ,4 ,1 ,,2 ,,6 ,2 ,,6 ,,5 ,2 ,5 ,2 ,,5 ,,2'
+- q,2 q,5 q,7 q,2 q3 q5 q5 q5 5 3 5 - - - q1' q1' q1' q1' 6 3 - - - q,1 q,5 q,1 q,2 q,3 q,5 q1 q,5 q,1 q,5 q,1 q,2 q,3 q,5 q1 q,5
+q,6 q,3 q,6 q,7 q,1 q,3 q,6 q,3 q,3 q,7 q,3 q,7 q,5 q,7 q,3 q,7 x q1 q1 q1 q1 q1 q2 q0 q3 q3 q5 q5 q5 q6 3 q0 q2 q2 q2 q3 2 1 2 -
+- - ,1. ,1. ,1 ,3 ,3 6 ,,6. ,,4. ,,6. ,,4. ,,6' ,,4 ,,7 ,,5 - ,,6 ,1 - ,4 ,2 - - - q,5 q,5 q,6 q,7 q,1 q,2 q,3 q,4 q3 q5 q5 q5 5 3 5
+- - - q1' q1' q1' q1' 6 q3 q5 5 - - - q,1 q,5 q,1 q,2 q,3 q,5 q1 q,5 q,1 q,5 q,1 q,2 q,3 q,5 q1 q,5 q,6 q,3 q,6 q,7 q,1 q,3 q,6 q,3 q,3 q,7
+q,3 q,7 q,5 q,7 q,3 q,7 q1 q1 q1 q1 q1 q2 q0 q3 q3 q5 q5 q5 q6 3 q0 q2 q2 q2 q3 2 1 2 - q2 q0 0 ,1. ,1. ,1 ,3 ,3 ,6 ,2 ,,5
+,,6. ,,4. ,,6. ,,4. ,,6 ,,4 ,,7 ,,5 - ,,6 ,1 - ,4 ,2 - ,,7 ,,5 - ,,3 ,,1 - - - q1 q1 q1 q1 q1 q2 q0 q3 q3 q5 q5 q5 q6 3 q0 q2 q2
+q2 q3 2 1 2 - - - ,4 ,5 ,1 q,4 q,1 q,4 q,6 6 - q,3 q,7 q,3 q,5 ,6 - ,,6 ,2 - ,2 ,,5 - ,,5' ,,1 - - -
+%END

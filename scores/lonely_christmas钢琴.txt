@@ -1,0 +1,19 @@
+%lonely_christmas钢琴.txt
+% 出处 https://www.jianpujia.com/
+title=lonely_christmas钢琴
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-250042
+todo=refine the filename
+%--
+4/4
+subtitle=score
+x 5 7 6. 5 6 1 6 1 ,5. 1. 1. 1. 1. 1. 1. ,6. ,1'. 6 1 7 7 1 2 3 2 1 5 5 6 1 5 5 3 5 7 5 7 5 3
+2 5 3 3 3 4 6 6 1 2. ,7. 1. ,6. 7. 5. 6. 4. 5. 5. 3. 3. 6. 3. 4. 1. x 1 1 1 x 6 5 6 1 6 5 6 2 1 2
+1 - - 0 0 0 4 6 4 1 ,2'. ,7. 1. 1. 1 1 ,6. ,1'. 5. 5. 1. 5. 5 4. 4. 1 ,7 5 1 ,2 7 1 2 ,3 7 5 7 5 3 2
+2 ,6 3 ,5 3 ,5 3 ,6 4 4 6 ,1 6 1 2. ,7. 1. ,6. ,7. ,5. ,6. ,4. 7 3 6 1 6 5 5. 6 2 ,7. ,5. 2. 1 2 3 3. - 3.
+,7. 5. - 3. ,7. 5. 0 0 ,7. 5. 3. 5 5 4 4. 6 ,6. ,4. 1. 4 1 x 1 1 x
+%END

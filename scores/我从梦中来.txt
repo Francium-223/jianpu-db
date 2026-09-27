@@ -1,0 +1,21 @@
+%我从梦中来.txt
+% 出处 https://www.qupu123.com/
+title=我从梦中来
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=qupu123-306409
+%--
+2/4
+subtitle=score
+x s6 s3' s3' s3' s3' q4' s3' 0 3' - s6 s3' s3' s3' s2' s2' s2' s4' q4'. 0 q3' 0 s6 s3' s3' s3'. 0 2' s6 s2' s2' s2' 0 1' s7 s7 s7 s4' s4'
+s5' s4' s5' s4' s4' s3' s3' 3' ~ 3' - q3 s3 s4 q6 q6 q7 s7 s6 6 ~ 6 - q3 s3 s4 q7 q7 q5 s5 s4 0 3 ~ 3 0 s2 q2 s4 q3
+q3 s4 q3 s3 1 s7 s1 s2 s4 s3 s2 s7 s1 q,7 0 0 q,6 ~ ,6 q3 s3 s4 q6 q6 q7 s7 s1 q1 0 q6 6 0 q4 s4 s5 q7 q7 q4 s4 s5
+- 3 3 0 s2 q2 s4 q3 q3 s4 q3 s2 1 s7 s1 s2 s4 s3 s2 s7 s1 q,7'. q,6 ,6 ~ ,6 0 q7 s7 s1' q2' q4' q3' q3' 0 s6 s3' s3' s3' s3'
+q4' s3' 3' - s6 s3' s3' s3' s2' s2' s2' s4' q4' 0 q3' 0 s6 s3' s3' s3' 0 2' s6 s2 s2 s2 - 1 s7 s7 s7 s4 s4 s5 s4 s5 s4 s4 s3 s3
+3 s6 s3' s3' s3' s3' q4' s3' 0 3' - s6 s3' s3' s3' s2' s2' s2' s4' q4' 0 q3' 0 s6 s3' s3' s3' 0 2' s6 s2' s2' s2' 0 1' s7 s7 s7 s4' s4'
+s5' s4' s5' s4 s4 s3 s3 3 s6 s3 s3 s3 - 3 s6 s2 s2 s2 - 3 s7 s7 s7 s2 s4 q4 s5 s7 s7 d7 d2 s4 - 3 3 - x 0 0 s,7
+d7 d1 s2 s4 s3 s2 s,7 0 0 s1 0 0 ,6 - ,6 0
+%END

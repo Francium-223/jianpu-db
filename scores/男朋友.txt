@@ -1,0 +1,19 @@
+%男朋友.txt
+% 出处 https://www.jianpujia.com/
+title=男朋友
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-19288
+%--
+4/4
+subtitle=score
+1 - - - x x x x q5 q5 s1 s2 q3 2 - 4 s1 s2 q3 ,5 - ,7 - - - ,5 - - - 5 - - - s3 q3 s2 q3 q5 1 0
+s3 q3 s2 q3 q5 ,6 0 s3 q3 s2 q3 s5 s5 q5 q1 q0 s0 s1 1 - - 0 s2 q3 s2 ~ q2 s0 s6 q5 s3 s5 ~ 5 1 ~ s1 s7 q5 6
+- q2 s3 s2 ~ q2 s0 s6 q5 s3 s5 q0 s1 s2 q3 q5 ~ 5 - 0 q1' s7 s6 ~ q6 s0 s1' q7 s6 s5 ~ 5 q1' s7 s6 q6 q1' q7 s2' s5
+5 q1' s7 s6 q6 s0 s1' q7 s6 s5 q5 s6 s1' 2' s2' q3' s2' 2' s2' s3' s5' s3' s2' q3'. 3' - s2' s3' s5' s3' s2' q1' s1' s2' q2' s3' 3' q1' s2' s3'
+6 q1' s2' s3' 6 s1' q2' s3' q6 s5 s6 s1' q3' s1' 2' s2' s3' s5' s3' s2' q3'. 3' - s2' s3' s5' s3' s2' q1' s1' s1' q2' s1' q3' q5' q0 s5 s5 s6 q1'.
+~ q1' s6 s1' q2' s2' s2' ~ q2' s0 s1' 1' - - - s2' s3' s5' s3'
+%END
