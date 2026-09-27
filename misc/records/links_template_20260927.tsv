@@ -1,0 +1,14 @@
+# 收录页 `link=` 的落地模板 —— 每行 `<曲谱文件名或曲名>\t<具体页面 URL>`
+#   * `#` 开头的行会被跳过; 空行也跳过
+#   * 收录页 = **这首歌在那一站的具体页面**; 搜索页会被拒收(见 jianpu-db/linkurl.py)
+#   * 跟踪参数(utm_*/spm/share_* 等)会自动去掉
+#   * 干跑: py -3.13 tools/add_link.py --from-tsv <本文件> --dry
+#
+# 下面这行是**机制演示**(MusicBrainz work 页, MBID 来自语料本身)。
+# 注意: 前端本来就会按 MBID 显示这一页, 所以它不算"补充"; 真落地前请删掉。
+th01_01.txt	https://musicbrainz.org/work/52e3b2d1-80ff-35a7-b11f-f9342c08f22d
+#
+# "平台页"的写法示例(那个 ID 没核对过, 故注释掉 —— 别直接启用):
+#th01_01.txt	https://y.qq.com/n/ryqq/songDetail/<歌曲ID>
+#th01_01.txt	https://music.163.com/#/song?id=<歌曲ID>
+#th01_01.txt	https://www.bilibili.com/video/<BV号>

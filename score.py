@@ -236,7 +236,17 @@ def replacer(match):
 		return "\n".join([xxx] * repeat_count)
 class Score():
 	def __init__(self, score):
-		self.score = score
+		# ⚠ 2026-09-28: `self.score` **统一存正斜杠**。
+		#   本文件里到处用 `self.score.split('/')[-1]` 取文件名, 而 Windows 上传进来的是
+		#   `scores\x.txt` —— 按 `/` 切不开, 于是:
+		#     ① `write_buf()` 往曲谱首行写 `%scores\x.txt`(正确应是 `%x.txt`), 且**非幂等**,
+		#        每跑一次 parse 就把语料改脏一次;
+		#     ② `make_link()` 拼出 `by_tag/ZUN/scores/x.txt` —— pathlib 在 Windows 上把 `\`
+		#        也当分隔符, 于是在 by_* 树里**长出一层叫 `scores` 的目录**(还带副产物
+		#        `by_MBID/<uuid>/scores/`、`by_status/ok/scores/` 等一整套垃圾)。
+		#   CI 在 Linux 上 `/` 本来就是分隔符, 所以这两个 bug 只在 Windows 复现, 一直没被发现。
+		#   open()/shutil 在 Windows 上都接受正斜杠, 所以统一成正斜杠是零风险的收敛做法。
+		self.score = (score or '').replace('\\', '/')
 		self.prefix = ('.').join(self.score.split('.')[:-1])
 		self.tag_route = []
 		self.all_tag_route = []
