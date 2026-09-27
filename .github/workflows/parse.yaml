@@ -22,7 +22,8 @@ jobs:
     # jptok.py(简谱 token 的唯一实现)住在**兄弟仓库** jianpu2/skills/jianpu-melody-lookup,
     # 而 runner 只 checkout 本仓库 -> 找不到就是硬依赖报错(2026-09-24 实测: publish 那条 workflow
     # 就是这么挂的)。这里**显式**允许用 score.py 里的兜底口径: 它与 jptok 已被
-    # `check_jptok_parity.py` 拿全语料 7,237,223 个 token 证明逐项一致。
+    # `check_jptok_parity.py` 拿全语料 723 万个 token 证明逐项一致, 而且下面新增的一步
+    # **每次 CI 都会重新证明**(或直接红掉): 2026-09-28 就是这两份漂了、CI 静默改写了 3044 首。
     # 想让 CI 用**唯一实现**: 给这个仓库加一个 PAT secret `JIANPU_PAT`(下面那步会去拉兄弟仓库)。
     env:
       JIANPU_ALLOW_FALLBACK_JTOK: "1"
@@ -53,6 +54,22 @@ jobs:
         shell: bash
         run: |
           python parse_scores.py
+      # 重建完**先断言, 再提交**。为什么需要(2026-09-28 的真实事故, 见 tools/check_data_sane.py 顶部):
+      # 本地修好了 jptok.recover_bars 的"重复小节线", 而 CI 走的是**还没同步**的内置兜底 ->
+      # CI 把 3044 首的重复线又改了回来并以 bot 身份提交, 远端与前端索引从此不一致。
+      # 口径漂了就让 workflow 红, 不要静默改写 3000 首。
+      - name: 产物断言（拒绝提交坏数据）
+        shell: bash
+        run: python tools/check_data_sane.py
+      # 上面那条只是最低防线。有兄弟仓库时直接证明"两份口径逐项一致" —— 这才是根治。
+      # 兄弟仓库 checkout 到 `<repo>/jianpu2`(actions/checkout 的 path 不能越出 workspace),
+      # 所以这里显式告诉 parity 脚本本仓库在哪。
+      - name: 两份口径等价性（有 jianpu2 才跑）
+        if: ${{ hashFiles('jianpu2/tools/check_jptok_parity.py') != '' }}
+        shell: bash
+        env:
+          JIANPU_DB: ${{ github.workspace }}
+        run: python jianpu2/tools/check_jptok_parity.py --scores scores
       - name: Commit and push changes
         shell: bash                      # 本 job 默认 pwsh, 下面那道 gitlink 兜底是 bash 语法
         run: |
