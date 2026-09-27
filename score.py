@@ -105,7 +105,9 @@ except ImportError:                            # pragma: no cover - 只在独立
 						acc = 0.0
 						continue
 					if t == "-" or re.match(r"^[cqsdh]+-$", t or ""):
-						acc += 1.0
+						# `-` = 延长一拍; `q-` = **字母说的时值**(半拍) —— 不能写死 1.0,
+						# 详见 jptok.py recover_bars 里的定案说明(2026-09-28)。
+						acc += cls.beat(t)
 						continue
 					p = cls.parse_token(t)
 					if not p:
@@ -116,7 +118,13 @@ except ImportError:                            # pragma: no cover - 只在独立
 					if acc >= beats_per_bar - 1e-9:
 						bars.append(n)
 						acc = 0.0
-			return bars
+			# 去重: 休止/念白占拍但不推进 n, 一串休止跨整小节时同一音下标会落两次线
+			# (2026-09-28 与 jptok.py 同步; 前端会把它渲染成空小节)
+			out = []
+			for b in bars:
+				if not out or out[-1] != b:
+					out.append(b)
+			return out
 
 	jptok = _FallbackJptok
 	warnings.warn("jptok 未找到(用内置兜底): " + _JTOK_DIR, RuntimeWarning)
