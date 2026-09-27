@@ -15,3 +15,4 @@ scores/*_buf.txt
 # 真口径: jptok.py 在**兄弟目录** `<repo>/../jianpu2/skills/jianpu-melody-lookup`
 # (score.py 就是按这个路径找), 不需要在本仓库里留任何 jianpu2 条目。
 jianpu2/
+_m.txt
