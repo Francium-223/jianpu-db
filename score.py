@@ -295,7 +295,13 @@ class Score():
 					sections.append({'subtitle': cur_sub, 'score': ' '.join(cur)})
 				cur, cur_sub = [], ''
 				continue
-			if s.replace(' ', '').lower().startswith('%end'):
+			# ⚠ 2026-09-28 修: 必须**精确**匹配 `%END`, 不能用 startswith。
+			#   每个谱文件的第一行都是 `%<文件名>.txt` 这种注释, 一旦文件名以 `end` 开头
+			#   (实测 `Endless_Love_无尽的爱.txt` -> 首行 `%Endless_Love_无尽的爱.txt`),
+			#   `'%endless_...'.startswith('%end')` 成立 -> 这里**在第一行就 break**,
+			#   整首歌的 score 变成空 -> status=ocr 也进不了 data.jsonl, **静默丢一首**。
+			#   用户口径原话: "导入的 OCR 谱必须进 data.jsonl, 否则 data.json 有而 data.jsonl 没有 -> 静默丢数据"。
+			if re.fullmatch(r'%end\s*', s, re.I):
 				break
 			if s.lower().startswith('subtitle='):
 				cur_sub = s.split('=', 1)[1].strip()
