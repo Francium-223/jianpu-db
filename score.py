@@ -96,10 +96,28 @@ except ImportError:                            # pragma: no cover - 只在独立
 			except ZeroDivisionError:
 				return default
 
+		@staticmethod
+		def tuplet_ratio(word):
+			"""`3[` -> (num, fitIn); 不是记号返回 None。与 jptok.tuplet_ratio 同口径:
+			抄 jianpu-ly_patched.py:1786 的算法(fitIn=3 -> i=4 -> num=2 -> 时值 ×2/3),
+			组内个数 = fitIn, `]` 收尾或装满自动收。见 jptok.py 的定案说明(2026-09-28)。
+			"""
+			m = re.match(r"^([1-9][0-9]*)\[$", word or "")
+			if not m:
+				return None
+			fit_in = int(m.group(1))
+			i = 2
+			while i < fit_in:
+				i *= 2
+			num = int(fit_in * 3 / 2) if i == fit_in else int(i / 2)
+			return (num, fit_in)
+
 		@classmethod
 		def recover_bars(cls, sections, beats_per_bar, keep_explicit=True):
-			# 与 jptok.recover_bars 同口径: **休止/念白也占拍**(不记时会让小节线整体前漂)
+			# 与 jptok.recover_bars 同口径: **休止/念白也占拍**(不记时会让小节线整体前漂);
+			# **连音组内按 num/fitIn 缩放**(2026-09-28 与 jptok.py 同步)。
 			bars, n, acc = [], 0, 0.0
+			ratio, left = 1.0, 0
 			for sec in sections or []:
 				for t in (sec.get("score") or "").split():
 					if t == "|":
@@ -107,17 +125,28 @@ except ImportError:                            # pragma: no cover - 只在独立
 							bars.append(n)
 						acc = 0.0
 						continue
+					if t == "]":
+						ratio, left = 1.0, 0
+						continue
+					tp = cls.tuplet_ratio(t)
+					if tp:
+						ratio, left = tp[0] / float(tp[1]), tp[1]
+						continue
 					if t == "-" or re.match(r"^[cqsdh]+-$", t or ""):
 						# `-` = 延长一拍; `q-` = **字母说的时值**(半拍) —— 不能写死 1.0,
 						# 详见 jptok.py recover_bars 里的定案说明(2026-09-28)。
-						acc += cls.beat(t)
+						acc += cls.beat(t) * ratio
 						continue
 					p = cls.parse_token(t)
 					if not p:
 						continue
 					if p[0] is not None:
 						n += 1
-					acc += cls.beat(t)
+					acc += cls.beat(t) * ratio
+					if left > 0:
+						left -= 1
+						if left == 0:
+							ratio = 1.0
 					if acc >= beats_per_bar - 1e-9:
 						bars.append(n)
 						acc = 0.0
