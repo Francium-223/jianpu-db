@@ -56,7 +56,7 @@ except ImportError:                            # pragma: no cover - 只在独立
 			return cls.parse_token(t) is not None
 
 		@classmethod
-		def seq(cls, score):
+		def seq(cls, score, merge_ties=True):
 			"""整份谱 -> [解析结果], 只保留**有音高**的 token(与 jptok.seq 同口径)。
 
 			2026-09-24 补: 兜底类原来缺这个方法, 于是 CI(GitHub runner 只 checkout 了本仓库,
@@ -64,12 +64,27 @@ except ImportError:                            # pragma: no cover - 只在独立
 			`AttributeError: type object '_FallbackJptok' has no attribute 'seq'` ✗。
 			它是直接建在 parse_token 上的一行逻辑, 不是第二套正则。
 			`check_jptok_parity.py` 现在也逐首比 seq, 专门盯这类"缺方法/口径漂"。
+
+			⚠ 2026-09-28: **连音线 `X ~ X` 并成一个音**(用户口径; 判据=音级+变音相同, 忽略八度),
+			与 jptok.pitched 同一份逻辑。想要"记谱上有几个音头"就传 merge_ties=False。
 			"""
-			out = []
+			out, tie, prev_key, last_note = [], False, None, False
 			for t in (score or "").split():
+				if t == "~":
+					tie = last_note
+					continue
+				if t == "-" or re.match(r"^[cqsdh]+-$", t or ""):
+					continue              # `-` 是延长, 不打断连音线(与 jptok.pitched 同口径)
 				q = cls.parse_token(t)
-				if q and q[0] is not None:
-					out.append(q)
+				if not q or q[0] is None:
+					tie, prev_key, last_note = False, None, False
+					continue
+				key = (q[0], q[1])
+				if merge_ties and tie and prev_key == key:
+					tie, last_note = False, True
+					continue
+				out.append(q)
+				tie, prev_key, last_note = False, key, True
 			return out
 
 		@classmethod
@@ -115,9 +130,10 @@ except ImportError:                            # pragma: no cover - 只在独立
 		@classmethod
 		def recover_bars(cls, sections, beats_per_bar, keep_explicit=True):
 			# 与 jptok.recover_bars 同口径: **休止/念白也占拍**(不记时会让小节线整体前漂);
-			# **连音组内按 num/fitIn 缩放**(2026-09-28 与 jptok.py 同步)。
+			# **连音组内按 num/fitIn 缩放**、**连音线 `X ~ X` 只算一个音**(2026-09-28 与 jptok.py 同步)。
 			bars, n, acc = [], 0, 0.0
 			ratio, left = 1.0, 0
+			tie, last_note, prev_pitch = False, False, None
 			for sec in sections or []:
 				for t in (sec.get("score") or "").split():
 					if t == "|":
@@ -127,6 +143,9 @@ except ImportError:                            # pragma: no cover - 只在独立
 						continue
 					if t == "]":
 						ratio, left = 1.0, 0
+						continue
+					if t == "~":
+						tie = last_note
 						continue
 					tp = cls.tuplet_ratio(t)
 					if tp:
@@ -139,10 +158,16 @@ except ImportError:                            # pragma: no cover - 只在独立
 						continue
 					p = cls.parse_token(t)
 					if not p:
+						tie, last_note, prev_pitch = False, False, None
 						continue
 					if p[0] is not None:
-						n += 1
+						if tie and prev_pitch and prev_pitch[:2] == (p[0], p[1]):
+							pass              # 连音线的第二个音头: 不推进"第几个音符"
+						else:
+							n += 1
+						prev_pitch = p
 					acc += cls.beat(t) * ratio
+					tie, last_note = False, (p[0] is not None)
 					if left > 0:
 						left -= 1
 						if left == 0:
