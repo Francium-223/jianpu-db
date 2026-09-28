@@ -125558,6 +125558,22 @@
             "薛之谦"
         ]
     },
+    "暮色回响.txt": {
+        "file": [
+            "暮色回响.txt"
+        ],
+        "title": "暮色回响",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "unknown"
+        ]
+    },
     "暴风女神.txt": {
         "file": [
             "暴风女神.txt"
@@ -150179,6 +150195,22 @@
             "qupu123-311263"
         ]
     },
+    "爱情讯息.txt": {
+        "file": [
+            "爱情讯息.txt"
+        ],
+        "title": "爱情讯息",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "unknown"
+        ]
+    },
     "爱情证书.txt": {
         "file": [
             "爱情证书.txt"
@@ -152196,6 +152228,38 @@
         "status": "ocr",
         "source": [
             "qupu123-315447"
+        ]
+    },
+    "爱错.txt": {
+        "file": [
+            "爱错.txt"
+        ],
+        "title": "爱错",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-350544"
+        ]
+    },
+    "爱错_2.txt": {
+        "file": [
+            "爱错_2.txt"
+        ],
+        "title": "爱错",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-350544"
         ]
     },
     "爱错一人错付一生.txt": {
@@ -159741,6 +159805,22 @@
             "jianpucn-70658"
         ]
     },
+    "白沙滩_2.txt": {
+        "file": [
+            "白沙滩_2.txt"
+        ],
+        "title": "白沙滩",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-34135"
+        ]
+    },
     "白牡丹.txt": {
         "file": [
             "白牡丹.txt"
@@ -161238,6 +161318,22 @@
             "qupu123-315399"
         ]
     },
+    "相思红豆.txt": {
+        "file": [
+            "相思红豆.txt"
+        ],
+        "title": "相思红豆",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-xiangsaigongdou"
+        ]
+    },
     "相思美.txt": {
         "file": [
             "相思美.txt"
@@ -161490,6 +161586,38 @@
         ],
         "artist": [
             "陈瑞王不火"
+        ]
+    },
+    "相爱大海.txt": {
+        "file": [
+            "相爱大海.txt"
+        ],
+        "title": "相爱大海",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-xiangaidahai"
+        ]
+    },
+    "相爱大海_2.txt": {
+        "file": [
+            "相爱大海_2.txt"
+        ],
+        "title": "相爱大海",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-xiangaidahai840"
         ]
     },
     "相爱好往昔.txt": {
@@ -184225,6 +184353,22 @@
         "status": "ocr",
         "source": [
             "qupu123-331656"
+        ]
+    },
+    "蒲公英的约定.txt": {
+        "file": [
+            "蒲公英的约定.txt"
+        ],
+        "title": "蒲公英的约定",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-244860"
         ]
     },
     "蓝天之恋.txt": {
@@ -208105,6 +208249,22 @@
             "qupu123-333531"
         ]
     },
+    "面朝大海.txt": {
+        "file": [
+            "面朝大海.txt"
+        ],
+        "title": "面朝大海",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-mianchaodahai"
+        ]
+    },
     "面朝大海_春暖花开.txt": {
         "file": [
             "面朝大海_春暖花开.txt"
@@ -210302,6 +210462,22 @@
         "status": "ocr",
         "source": [
             "jianpucn-2079"
+        ]
+    },
+    "饿狼传说_2.txt": {
+        "file": [
+            "饿狼传说_2.txt"
+        ],
+        "title": "饿狼传说",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-7829"
         ]
     },
     "饿狼传说钢琴.txt": {
