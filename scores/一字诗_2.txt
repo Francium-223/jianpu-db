@@ -1,0 +1,20 @@
+%一字诗_2.txt
+% 出处 https://www.jianpujia.com/
+title=一字诗
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-22109
+%--
+4/4
+subtitle=score
+qx' q1 - - - - 1 1 2 6 x. x x' x 1' x 5' - 1' 1' 5 - 1' 1' 6 5 4 q3 q1 ,6' ,5' 0 0 5 - 1' 1' 5 - 1'
+1' q,5' q,6' q,7' q1' q2' q3' q4' q6' 0 0 q0 q,5 q,6 q,7 q,5 q,5 q,5 q,5 ,5 ,5 ,5 1 0 0 q,6 q,6 q,6 q,6 ,6 2 2 0 0 0 q,7 q,7 q,7 q,7 ,7
+1 2 - 3 4 q6 q5 q5 q5 5 5 5 - - - 1 q6 q5 q5 q5 4 q3 q2 1 0 0 1 6 q6 q5 6 0 6 5 5 0 - - x. -
+x - - 1 0 0 0 0 0 0 0 1 4 q4 q3 4 0 4 3 3 0 x 1 4 q4 q3 4 3 2 2 0 1 6 q6 q5 6 x 1 2 q2
+q1 2 1 ,7 ,7 0 1 4 q4 q3 4 1 6 5 5. q3 q2 q2 q4 q4 6 7 5 - - - 5 0 0 0 1 4 3 3. q1 q2 q2 q2 q2 2
+2 2 - - - 2 0 0 0 q,5 q,5 q,5 q,5 ,5 ,5 ,5 1 0 0 q,6 q,6 q,6 q,6 ,6 2 2 0 0 0 q,7 q,7 q,7 q,7 ,7 1 2 - 3 4 q6
+q5 q5 q5 4 q3 q2 1 0 0 0 1 x x' qx x x q6 q5 q5 q5 4' 0 3 2 1' x ,5 1 0 0 0 - -
+%END
