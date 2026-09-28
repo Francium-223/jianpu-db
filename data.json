@@ -1416,6 +1416,22 @@
             "jianpucn-41087"
         ]
     },
+    "I_DO.txt": {
+        "file": [
+            "I_DO.txt"
+        ],
+        "title": "I_DO",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-15315"
+        ]
+    },
     "I_Do钢琴.txt": {
         "file": [
             "I_Do钢琴.txt"
@@ -21236,6 +21252,22 @@
         "status": "ocr",
         "source": [
             "qupu123-202723"
+        ]
+    },
+    "一生何求_6.txt": {
+        "file": [
+            "一生何求_6.txt"
+        ],
+        "title": "一生何求",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-377087"
         ]
     },
     "一生何求插曲&nbsp;&nbsp;.txt": {
@@ -42736,6 +42768,22 @@
             "qupu123-396194"
         ]
     },
+    "你给我听好.txt": {
+        "file": [
+            "你给我听好.txt"
+        ],
+        "title": "你给我听好",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-15396"
+        ]
+    },
     "你给我听好钢琴.txt": {
         "file": [
             "你给我听好钢琴.txt"
@@ -54829,6 +54877,22 @@
     "千千阙歌_3.txt": {
         "file": [
             "千千阙歌_3.txt"
+        ],
+        "title": "千千阙歌",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-5758"
+        ]
+    },
+    "千千阙歌_4.txt": {
+        "file": [
+            "千千阙歌_4.txt"
         ],
         "title": "千千阙歌",
         "usertag": [],
@@ -74091,6 +74155,22 @@
             "qupu123-53886"
         ]
     },
+    "大约在冬季_4.txt": {
+        "file": [
+            "大约在冬季_4.txt"
+        ],
+        "title": "大约在冬季",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-53886"
+        ]
+    },
     "大美中华.txt": {
         "file": [
             "大美中华.txt"
@@ -77894,6 +77974,22 @@
             "jianpucn-69915"
         ]
     },
+    "奈何_3.txt": {
+        "file": [
+            "奈何_3.txt"
+        ],
+        "title": "奈何",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-17853"
+        ]
+    },
     "奋发向上.txt": {
         "file": [
             "奋发向上.txt"
@@ -80421,6 +80517,22 @@
         ],
         "artist": [
             "五月天"
+        ]
+    },
+    "如果我们不曾相遇_2.txt": {
+        "file": [
+            "如果我们不曾相遇_2.txt"
+        ],
+        "title": "如果我们不曾相遇",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-14553"
         ]
     },
     "如果我们不曾相遇钢琴.txt": {
@@ -112535,6 +112647,22 @@
             "jianpucn-52295"
         ]
     },
+    "我的未来不是梦_2_5.txt": {
+        "file": [
+            "我的未来不是梦_2_5.txt"
+        ],
+        "title": "我的未来不是梦 2",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-52295"
+        ]
+    },
     "我的梦&nbsp;&nbsp;.txt": {
         "file": [
             "我的梦&nbsp;&nbsp;.txt"
@@ -117116,6 +117244,22 @@
         ],
         "artist": [
             "五月天"
+        ]
+    },
+    "拥抱_2.txt": {
+        "file": [
+            "拥抱_2.txt"
+        ],
+        "title": "拥抱",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-15261"
         ]
     },
     "拥抱_歌曲类.txt": {
@@ -144616,6 +144760,22 @@
             "qupu123-339769"
         ]
     },
+    "消愁_4.txt": {
+        "file": [
+            "消愁_4.txt"
+        ],
+        "title": "消愁",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-14661"
+        ]
+    },
     "消愁钢琴.txt": {
         "file": [
             "消愁钢琴.txt"
@@ -154969,6 +155129,22 @@
         ],
         "artist": [
             "邓丽君"
+        ]
+    },
+    "独上西楼_2.txt": {
+        "file": [
+            "独上西楼_2.txt"
+        ],
+        "title": "独上西楼",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-74083"
         ]
     },
     "独上西楼钢琴.txt": {
@@ -169133,6 +169309,22 @@
         ],
         "artist": [
             "许巍"
+        ]
+    },
+    "空谷幽兰_2.txt": {
+        "file": [
+            "空谷幽兰_2.txt"
+        ],
+        "title": "空谷幽兰",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-21944"
         ]
     },
     "空降雄风.txt": {
@@ -202759,6 +202951,22 @@
     "酒干倘卖无_3.txt": {
         "file": [
             "酒干倘卖无_3.txt"
+        ],
+        "title": "酒干倘卖无",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-1754"
+        ]
+    },
+    "酒干倘卖无_4.txt": {
+        "file": [
+            "酒干倘卖无_4.txt"
         ],
         "title": "酒干倘卖无",
         "usertag": [],
