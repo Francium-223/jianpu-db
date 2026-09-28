@@ -1,0 +1,20 @@
+%理想_2.txt
+% 出处 https://www.qupu123.com/
+title=理想
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=qupu123-366684
+%--
+4/4
+subtitle=score
+q1 - q1 0 0 1. x q1 q2 q3 q5 q5 q5 q6 q5 q3 q2 q1 q,6 q1 q3 3. q,5 q,6 q1 q1 q2 q1 q,6 q,5 q,6 q2 q3 q5 q3 2 q1 q2 q3 q5
+q5 q5 q6 q5 q3 q2 q1 q1 q1 q,5 3. q,5 q,6 q1 q1 q1 q2 q1 q3 q2 q5 q6 q,6 q1 1 q3 q5 - - q1' q6 q6 q5 5 - q6 q5 1' 6 q6
+q5 q5 q2 3 - - q3 q5 - - q6 q6 q5 5 - q6 q5 2' 3' 2'. q1' - - - 0 0 0 0 0 0 0 q1 q2 q3 q5 q5 q5 q6 q5 q3
+q2 q1 q,6 q1 q3 3. q,5 q,6 q1 q1 q2 q1 q,6 q,5 q,6 q2 q3 q5 q3 q2 q3 q5 q5 q5 q6 q5 q2 q3 q1 q,6 q1 q,5 3. q,5 q,6 q1 q1 q2 q3 q5
+q6 q5 q6 q5 q,6 q2 q2 q1 q3 q5 - - q6 q6 q5 5 - q6 q5 6 - 2 3 - - q3 q5 1' - - q6 q6 q5 5 - q6 q5 2' 3' 2'.
+- - q3 q5 - - q1' q6 q6 q5 5 - q6 q5 1' 6 q6 q5 q5 q2 3 - - q3 q5 0 q3 q5 1' - q1' q6 q6 q5 5 0 0 q6 q5 q5
+q2 3 - - -
+%END
