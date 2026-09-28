@@ -236,6 +236,38 @@
             "jianpucn-234085"
         ]
     },
+    "AMANI_2.txt": {
+        "file": [
+            "AMANI_2.txt"
+        ],
+        "title": "AMANI",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-52583"
+        ]
+    },
+    "AMANI_3.txt": {
+        "file": [
+            "AMANI_3.txt"
+        ],
+        "title": "AMANI",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-52583"
+        ]
+    },
     "ANDY_歌曲类.txt": {
         "file": [
             "ANDY_歌曲类.txt"
@@ -475,6 +507,22 @@
         ],
         "todo": [
             "add tags"
+        ]
+    },
+    "Beauty_And_The_Beast.txt": {
+        "file": [
+            "Beauty_And_The_Beast.txt"
+        ],
+        "title": "Beauty And The Beast",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-68332"
         ]
     },
     "Because_of_You.txt": {
@@ -1304,6 +1352,22 @@
             "孙燕姿"
         ]
     },
+    "Honey_Honey_2.txt": {
+        "file": [
+            "Honey_Honey_2.txt"
+        ],
+        "title": "Honey Honey",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-41087"
+        ]
+    },
     "I_Do钢琴.txt": {
         "file": [
             "I_Do钢琴.txt"
@@ -1536,6 +1600,70 @@
             "qupu123-352307"
         ]
     },
+    "K歌之王_4.txt": {
+        "file": [
+            "K歌之王_4.txt"
+        ],
+        "title": "K歌之王",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-gezhiwang"
+        ]
+    },
+    "K歌之王_5.txt": {
+        "file": [
+            "K歌之王_5.txt"
+        ],
+        "title": "K歌之王",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-40413"
+        ]
+    },
+    "K歌之王_6.txt": {
+        "file": [
+            "K歌之王_6.txt"
+        ],
+        "title": "K歌之王",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-61370"
+        ]
+    },
+    "K歌之王_7.txt": {
+        "file": [
+            "K歌之王_7.txt"
+        ],
+        "title": "K歌之王",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-gezhiwang"
+        ]
+    },
     "LEAVE_歌曲类.txt": {
         "file": [
             "LEAVE_歌曲类.txt"
@@ -1553,6 +1681,22 @@
         ],
         "todo": [
             "add tags"
+        ]
+    },
+    "Leave.txt": {
+        "file": [
+            "Leave.txt"
+        ],
+        "title": "Leave",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-61275"
         ]
     },
     "Lemon_Tree.txt": {
@@ -2232,6 +2376,22 @@
             "qupu123-20173"
         ]
     },
+    "Take_Me_To_Your_heart_2.txt": {
+        "file": [
+            "Take_Me_To_Your_heart_2.txt"
+        ],
+        "title": "Take Me To Your heart",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-20173"
+        ]
+    },
     "Tears_in_Heaven.txt": {
         "file": [
             "Tears_in_Heaven.txt"
@@ -2293,6 +2453,38 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "The_Moment.txt": {
+        "file": [
+            "The_Moment.txt"
+        ],
+        "title": "The Moment",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-34742"
+        ]
+    },
+    "The_Moment_2.txt": {
+        "file": [
+            "The_Moment_2.txt"
+        ],
+        "title": "The Moment",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-52684"
         ]
     },
     "The_Sound_of_Silence（.txt": {
@@ -2448,6 +2640,22 @@
         "status": "ocr",
         "source": [
             "qupu123-364037"
+        ]
+    },
+    "Yesterday_Once_More.txt": {
+        "file": [
+            "Yesterday_Once_More.txt"
+        ],
+        "title": "Yesterday_Once_More",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-17878"
         ]
     },
     "Yesterday_Once_More_昨天再来.txt": {
@@ -18780,6 +18988,86 @@
             "jianpujia-26436"
         ]
     },
+    "一分钱_2.txt": {
+        "file": [
+            "一分钱_2.txt"
+        ],
+        "title": "一分钱",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-283725"
+        ]
+    },
+    "一分钱_3.txt": {
+        "file": [
+            "一分钱_3.txt"
+        ],
+        "title": "一分钱",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-354472"
+        ]
+    },
+    "一分钱_4.txt": {
+        "file": [
+            "一分钱_4.txt"
+        ],
+        "title": "一分钱",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-26436"
+        ]
+    },
+    "一分钱_5.txt": {
+        "file": [
+            "一分钱_5.txt"
+        ],
+        "title": "一分钱",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-26534"
+        ]
+    },
+    "一分钱_6.txt": {
+        "file": [
+            "一分钱_6.txt"
+        ],
+        "title": "一分钱",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-26534"
+        ]
+    },
     "一切刚刚好.txt": {
         "file": [
             "一切刚刚好.txt"
@@ -18867,6 +19155,38 @@
             "qupu123-328335"
         ]
     },
+    "一剪梅.txt": {
+        "file": [
+            "一剪梅.txt"
+        ],
+        "title": "一剪梅",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-360450"
+        ]
+    },
+    "一剪梅_2.txt": {
+        "file": [
+            "一剪梅_2.txt"
+        ],
+        "title": "一剪梅",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-369077"
+        ]
+    },
     "一剪梅_歌曲类.txt": {
         "file": [
             "一剪梅_歌曲类.txt"
@@ -18930,6 +19250,54 @@
             "qupu123-1091"
         ]
     },
+    "一千个伤心的理由_2.txt": {
+        "file": [
+            "一千个伤心的理由_2.txt"
+        ],
+        "title": "一千个伤心的理由",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-35459"
+        ]
+    },
+    "一千个伤心的理由_3.txt": {
+        "file": [
+            "一千个伤心的理由_3.txt"
+        ],
+        "title": "一千个伤心的理由",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-40766"
+        ]
+    },
+    "一千个伤心的理由_4.txt": {
+        "file": [
+            "一千个伤心的理由_4.txt"
+        ],
+        "title": "一千个伤心的理由",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-61034"
+        ]
+    },
     "一千个伤心的理由钢琴.txt": {
         "file": [
             "一千个伤心的理由钢琴.txt"
@@ -18947,6 +19315,86 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "一千年以后.txt": {
+        "file": [
+            "一千年以后.txt"
+        ],
+        "title": "一千年以后",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-35456"
+        ]
+    },
+    "一千年以后_2.txt": {
+        "file": [
+            "一千年以后_2.txt"
+        ],
+        "title": "一千年以后",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-40487"
+        ]
+    },
+    "一千年以后_3.txt": {
+        "file": [
+            "一千年以后_3.txt"
+        ],
+        "title": "一千年以后",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-87380"
+        ]
+    },
+    "一千年以后_4.txt": {
+        "file": [
+            "一千年以后_4.txt"
+        ],
+        "title": "一千年以后",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-89327"
+        ]
+    },
+    "一千年以后_5.txt": {
+        "file": [
+            "一千年以后_5.txt"
+        ],
+        "title": "一千年以后",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-90792"
         ]
     },
     "一千年以后_歌曲类.txt": {
@@ -19097,6 +19545,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "一只小花狗钢琴_2.txt": {
+        "file": [
+            "一只小花狗钢琴_2.txt"
+        ],
+        "title": "一只小花狗钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-234413"
         ]
     },
     "一场游戏一场梦.txt": {
@@ -19825,6 +20289,22 @@
             "qupu123-285274"
         ]
     },
+    "一样的月光_2.txt": {
+        "file": [
+            "一样的月光_2.txt"
+        ],
+        "title": "一样的月光",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-62868"
+        ]
+    },
     "一样的月光一样的爱.txt": {
         "file": [
             "一样的月光一样的爱.txt"
@@ -19843,6 +20323,22 @@
         "status": "ocr",
         "source": [
             "qupu123-214709"
+        ]
+    },
+    "一样的月光（董文华.txt": {
+        "file": [
+            "一样的月光（董文华.txt"
+        ],
+        "title": "一样的月光（董文华",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-110265"
         ]
     },
     "一根竹子一道节.txt": {
@@ -20198,6 +20694,22 @@
             "jianpucn-60559"
         ]
     },
+    "一生一次_2.txt": {
+        "file": [
+            "一生一次_2.txt"
+        ],
+        "title": "一生一次",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-59508"
+        ]
+    },
     "一生不变.txt": {
         "file": [
             "一生不变.txt"
@@ -20252,6 +20764,22 @@
         "status": "ocr",
         "source": [
             "qupu123-378917"
+        ]
+    },
+    "一生中最爱_2.txt": {
+        "file": [
+            "一生中最爱_2.txt"
+        ],
+        "title": "一生中最爱",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-12679"
         ]
     },
     "一生中最爱的人&nbsp;&nbsp;.txt": {
@@ -20324,6 +20852,38 @@
         "status": "ocr",
         "source": [
             "qupu123-293390"
+        ]
+    },
+    "一生何求_2.txt": {
+        "file": [
+            "一生何求_2.txt"
+        ],
+        "title": "一生何求",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-293390"
+        ]
+    },
+    "一生何求_3.txt": {
+        "file": [
+            "一生何求_3.txt"
+        ],
+        "title": "一生何求",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-202723"
         ]
     },
     "一生何求插曲&nbsp;&nbsp;.txt": {
@@ -20413,6 +20973,22 @@
             "qupu123-311629"
         ]
     },
+    "一生所爱_2.txt": {
+        "file": [
+            "一生所爱_2.txt"
+        ],
+        "title": "一生所爱",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-308705"
+        ]
+    },
     "一生才能平安.txt": {
         "file": [
             "一生才能平安.txt"
@@ -20467,6 +21043,22 @@
         "status": "ocr",
         "source": [
             "qupu123-270079"
+        ]
+    },
+    "一生有你_2.txt": {
+        "file": [
+            "一生有你_2.txt"
+        ],
+        "title": "一生有你",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-311630"
         ]
     },
     "一生有多少个明天.txt": {
@@ -20808,6 +21400,38 @@
             "毛不易"
         ]
     },
+    "一荤一素_3.txt": {
+        "file": [
+            "一荤一素_3.txt"
+        ],
+        "title": "一荤一素",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-345132"
+        ]
+    },
+    "一荤一素_4.txt": {
+        "file": [
+            "一荤一素_4.txt"
+        ],
+        "title": "一荤一素",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-378918"
+        ]
+    },
     "一荤一素二声部合唱谱.txt": {
         "file": [
             "一荤一素二声部合唱谱.txt"
@@ -20872,6 +21496,38 @@
         ],
         "artist": [
             "阎维文"
+        ]
+    },
+    "一起吃苦的幸福.txt": {
+        "file": [
+            "一起吃苦的幸福.txt"
+        ],
+        "title": "一起吃苦的幸福",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-58841"
+        ]
+    },
+    "一起吃苦的幸福_2.txt": {
+        "file": [
+            "一起吃苦的幸福_2.txt"
+        ],
+        "title": "一起吃苦的幸福",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-86725"
         ]
     },
     "一起吃苦的幸福_歌曲类.txt": {
@@ -20991,6 +21647,118 @@
             "qupu123-364116"
         ]
     },
+    "一起走过的日子_3.txt": {
+        "file": [
+            "一起走过的日子_3.txt"
+        ],
+        "title": "一起走过的日子",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-59113"
+        ]
+    },
+    "一起走过的日子_4.txt": {
+        "file": [
+            "一起走过的日子_4.txt"
+        ],
+        "title": "一起走过的日子",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-36513"
+        ]
+    },
+    "一起走过的日子_5.txt": {
+        "file": [
+            "一起走过的日子_5.txt"
+        ],
+        "title": "一起走过的日子",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-37083"
+        ]
+    },
+    "一起走过的日子_6.txt": {
+        "file": [
+            "一起走过的日子_6.txt"
+        ],
+        "title": "一起走过的日子",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-85589"
+        ]
+    },
+    "一起走过的日子_7.txt": {
+        "file": [
+            "一起走过的日子_7.txt"
+        ],
+        "title": "一起走过的日子",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-86676"
+        ]
+    },
+    "一起走过的日子_8.txt": {
+        "file": [
+            "一起走过的日子_8.txt"
+        ],
+        "title": "一起走过的日子",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-14782"
+        ]
+    },
+    "一起走过的日子_9.txt": {
+        "file": [
+            "一起走过的日子_9.txt"
+        ],
+        "title": "一起走过的日子",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-449123"
+        ]
+    },
     "一起走过的日子钢琴.txt": {
         "file": [
             "一起走过的日子钢琴.txt"
@@ -21029,6 +21797,38 @@
             "add tags"
         ]
     },
+    "一路上有你_3.txt": {
+        "file": [
+            "一路上有你_3.txt"
+        ],
+        "title": "一路上有你",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-35462"
+        ]
+    },
+    "一路上有你_4.txt": {
+        "file": [
+            "一路上有你_4.txt"
+        ],
+        "title": "一路上有你",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-59409"
+        ]
+    },
     "一路上有你钢琴.txt": {
         "file": [
             "一路上有你钢琴.txt"
@@ -21062,6 +21862,38 @@
         "status": "ocr",
         "source": [
             "qupu123-306504"
+        ]
+    },
+    "一路向北.txt": {
+        "file": [
+            "一路向北.txt"
+        ],
+        "title": "一路向北",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-45011"
+        ]
+    },
+    "一路平安.txt": {
+        "file": [
+            "一路平安.txt"
+        ],
+        "title": "一路平安",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-311039"
         ]
     },
     "一路惊喜.txt": {
@@ -21303,6 +22135,22 @@
             "jianpujia-15829"
         ]
     },
+    "一闪一闪亮晶晶_2.txt": {
+        "file": [
+            "一闪一闪亮晶晶_2.txt"
+        ],
+        "title": "一闪一闪亮晶晶",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-15829"
+        ]
+    },
     "一颗不变心.txt": {
         "file": [
             "一颗不变心.txt"
@@ -21516,6 +22364,22 @@
             "qupu123-308006"
         ]
     },
+    "七子之歌.txt": {
+        "file": [
+            "七子之歌.txt"
+        ],
+        "title": "七子之歌",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-250643"
+        ]
+    },
     "七彩阳光.txt": {
         "file": [
             "七彩阳光.txt"
@@ -21571,6 +22435,22 @@
         "tag": [
             "分类/草原"
         ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-141087"
+        ]
+    },
+    "七月的草原_2.txt": {
+        "file": [
+            "七月的草原_2.txt"
+        ],
+        "title": "七月的草原",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
         "transcriber": [
             "jianpu2-auto"
         ],
@@ -21940,6 +22820,166 @@
             "周深"
         ]
     },
+    "万里长城永不倒.txt": {
+        "file": [
+            "万里长城永不倒.txt"
+        ],
+        "title": "万里长城永不倒",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-5401"
+        ]
+    },
+    "万里长城永不倒_2.txt": {
+        "file": [
+            "万里长城永不倒_2.txt"
+        ],
+        "title": "万里长城永不倒",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-47008"
+        ]
+    },
+    "万里长城永不倒_3.txt": {
+        "file": [
+            "万里长城永不倒_3.txt"
+        ],
+        "title": "万里长城永不倒",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-35138"
+        ]
+    },
+    "万里长城永不倒_4.txt": {
+        "file": [
+            "万里长城永不倒_4.txt"
+        ],
+        "title": "万里长城永不倒",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-41449"
+        ]
+    },
+    "万里长城永不倒_5.txt": {
+        "file": [
+            "万里长城永不倒_5.txt"
+        ],
+        "title": "万里长城永不倒",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-15058"
+        ]
+    },
+    "万里长城永不倒_6.txt": {
+        "file": [
+            "万里长城永不倒_6.txt"
+        ],
+        "title": "万里长城永不倒",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-124825"
+        ]
+    },
+    "万里长城永不倒_7.txt": {
+        "file": [
+            "万里长城永不倒_7.txt"
+        ],
+        "title": "万里长城永不倒",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-41758"
+        ]
+    },
+    "万里长城永不倒_8.txt": {
+        "file": [
+            "万里长城永不倒_8.txt"
+        ],
+        "title": "万里长城永不倒",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-60633"
+        ]
+    },
+    "万里长城永不倒_9.txt": {
+        "file": [
+            "万里长城永不倒_9.txt"
+        ],
+        "title": "万里长城永不倒",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-5401"
+        ]
+    },
+    "万里长城永不倒曲谱.txt": {
+        "file": [
+            "万里长城永不倒曲谱.txt"
+        ],
+        "title": "万里长城永不倒曲谱",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-87369"
+        ]
+    },
     "三九的冰雪路.txt": {
         "file": [
             "三九的冰雪路.txt"
@@ -22070,6 +23110,22 @@
             "分类/儿歌",
             "儿歌"
         ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-7147"
+        ]
+    },
+    "三字经_3.txt": {
+        "file": [
+            "三字经_3.txt"
+        ],
+        "title": "三字经",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
         "transcriber": [
             "jianpu2-auto"
         ],
@@ -22301,6 +23357,134 @@
         "status": "ocr",
         "source": [
             "jianpucn-128551"
+        ]
+    },
+    "三月里的小雨.txt": {
+        "file": [
+            "三月里的小雨.txt"
+        ],
+        "title": "三月里的小雨",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-38303"
+        ]
+    },
+    "三月里的小雨_2.txt": {
+        "file": [
+            "三月里的小雨_2.txt"
+        ],
+        "title": "三月里的小雨",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-41029"
+        ]
+    },
+    "三月里的小雨_3.txt": {
+        "file": [
+            "三月里的小雨_3.txt"
+        ],
+        "title": "三月里的小雨",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-60488"
+        ]
+    },
+    "三月里的小雨_4.txt": {
+        "file": [
+            "三月里的小雨_4.txt"
+        ],
+        "title": "三月里的小雨",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-60995"
+        ]
+    },
+    "三月里的小雨_5.txt": {
+        "file": [
+            "三月里的小雨_5.txt"
+        ],
+        "title": "三月里的小雨",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-66863"
+        ]
+    },
+    "三月里的小雨_6.txt": {
+        "file": [
+            "三月里的小雨_6.txt"
+        ],
+        "title": "三月里的小雨",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-17990"
+        ]
+    },
+    "三月里的小雨_7.txt": {
+        "file": [
+            "三月里的小雨_7.txt"
+        ],
+        "title": "三月里的小雨",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-295608"
+        ]
+    },
+    "三月里的小雨钢琴.txt": {
+        "file": [
+            "三月里的小雨钢琴.txt"
+        ],
+        "title": "三月里的小雨钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-246585"
         ]
     },
     "三棵树的情怀.txt": {
@@ -22599,6 +23783,54 @@
             "jianpujia-15571"
         ]
     },
+    "上学歌_3.txt": {
+        "file": [
+            "上学歌_3.txt"
+        ],
+        "title": "上学歌",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-15571"
+        ]
+    },
+    "上学歌_4.txt": {
+        "file": [
+            "上学歌_4.txt"
+        ],
+        "title": "上学歌",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-352687"
+        ]
+    },
+    "上学歌_5.txt": {
+        "file": [
+            "上学歌_5.txt"
+        ],
+        "title": "上学歌",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-304683"
+        ]
+    },
     "上山坡下山坡.txt": {
         "file": [
             "上山坡下山坡.txt"
@@ -22768,6 +24000,22 @@
         "status": "ocr",
         "source": [
             "qupu123-374539"
+        ]
+    },
+    "上海滩_2.txt": {
+        "file": [
+            "上海滩_2.txt"
+        ],
+        "title": "上海滩",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-279884"
         ]
     },
     "上海青年一起来.txt": {
@@ -23292,6 +24540,54 @@
             "qupu123-323487"
         ]
     },
+    "不同.txt": {
+        "file": [
+            "不同.txt"
+        ],
+        "title": "不同",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-34183"
+        ]
+    },
+    "不同_2.txt": {
+        "file": [
+            "不同_2.txt"
+        ],
+        "title": "不同",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-61696"
+        ]
+    },
+    "不同_3.txt": {
+        "file": [
+            "不同_3.txt"
+        ],
+        "title": "不同",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-69718"
+        ]
+    },
     "不同_歌曲类.txt": {
         "file": [
             "不同_歌曲类.txt"
@@ -23329,6 +24625,22 @@
         "status": "ocr",
         "source": [
             "jianpucn-70711"
+        ]
+    },
+    "不后悔_2.txt": {
+        "file": [
+            "不后悔_2.txt"
+        ],
+        "title": "不后悔",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-88514"
         ]
     },
     "不后悔爱过你.txt": {
@@ -24033,6 +25345,22 @@
             "邓丽君"
         ]
     },
+    "不管今宵或明天_2.txt": {
+        "file": [
+            "不管今宵或明天_2.txt"
+        ],
+        "title": "不管今宵或明天",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-431507"
+        ]
+    },
     "不管你是谁.txt": {
         "file": [
             "不管你是谁.txt"
@@ -24054,6 +25382,22 @@
         ],
         "artist": [
             "邓丽君"
+        ]
+    },
+    "不管你是谁_2.txt": {
+        "file": [
+            "不管你是谁_2.txt"
+        ],
+        "title": "不管你是谁",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-471056"
         ]
     },
     "不管有多苦.txt": {
@@ -24151,6 +25495,118 @@
             "邓丽君"
         ]
     },
+    "不老的爸爸_2.txt": {
+        "file": [
+            "不老的爸爸_2.txt"
+        ],
+        "title": "不老的爸爸",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-147911"
+        ]
+    },
+    "不老的爸爸_3.txt": {
+        "file": [
+            "不老的爸爸_3.txt"
+        ],
+        "title": "不老的爸爸",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-459934"
+        ]
+    },
+    "不老的爸爸_4.txt": {
+        "file": [
+            "不老的爸爸_4.txt"
+        ],
+        "title": "不老的爸爸",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-460060"
+        ]
+    },
+    "不老的爸爸_5.txt": {
+        "file": [
+            "不老的爸爸_5.txt"
+        ],
+        "title": "不老的爸爸",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-460227"
+        ]
+    },
+    "不老的爸爸_6.txt": {
+        "file": [
+            "不老的爸爸_6.txt"
+        ],
+        "title": "不老的爸爸",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-460376"
+        ]
+    },
+    "不老的爸爸_7.txt": {
+        "file": [
+            "不老的爸爸_7.txt"
+        ],
+        "title": "不老的爸爸",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-460520"
+        ]
+    },
+    "不老的爸爸_8.txt": {
+        "file": [
+            "不老的爸爸_8.txt"
+        ],
+        "title": "不老的爸爸",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-460682"
+        ]
+    },
     "不老谣.txt": {
         "file": [
             "不老谣.txt"
@@ -24242,6 +25698,22 @@
         ],
         "todo": [
             "add tags"
+        ]
+    },
+    "不能和你一起_2.txt": {
+        "file": [
+            "不能和你一起_2.txt"
+        ],
+        "title": "不能和你一起",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-58979"
         ]
     },
     "不能和你分手&nbsp;&nbsp;.txt": {
@@ -25432,6 +26904,54 @@
             "jianpujia-15837"
         ]
     },
+    "世上只有妈妈好_5.txt": {
+        "file": [
+            "世上只有妈妈好_5.txt"
+        ],
+        "title": "世上只有妈妈好",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-354839"
+        ]
+    },
+    "世上只有妈妈好_6.txt": {
+        "file": [
+            "世上只有妈妈好_6.txt"
+        ],
+        "title": "世上只有妈妈好",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-375139"
+        ]
+    },
+    "世上只有妈妈好_7.txt": {
+        "file": [
+            "世上只有妈妈好_7.txt"
+        ],
+        "title": "世上只有妈妈好",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-283476"
+        ]
+    },
     "世界上最好的爸爸.txt": {
         "file": [
             "世界上最好的爸爸.txt"
@@ -26243,6 +27763,86 @@
             "qupu123-341268"
         ]
     },
+    "东方红_2.txt": {
+        "file": [
+            "东方红_2.txt"
+        ],
+        "title": "东方红",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-276366"
+        ]
+    },
+    "东方红_3.txt": {
+        "file": [
+            "东方红_3.txt"
+        ],
+        "title": "东方红",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-293585"
+        ]
+    },
+    "东方红_4.txt": {
+        "file": [
+            "东方红_4.txt"
+        ],
+        "title": "东方红",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-379583"
+        ]
+    },
+    "东方红_5.txt": {
+        "file": [
+            "东方红_5.txt"
+        ],
+        "title": "东方红",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-384227"
+        ]
+    },
+    "东方红_6.txt": {
+        "file": [
+            "东方红_6.txt"
+        ],
+        "title": "东方红",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-306010"
+        ]
+    },
     "东方醒狮.txt": {
         "file": [
             "东方醒狮.txt"
@@ -26582,6 +28182,38 @@
             "qupu123-341851"
         ]
     },
+    "丢手绢_2.txt": {
+        "file": [
+            "丢手绢_2.txt"
+        ],
+        "title": "丢手绢",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-352490"
+        ]
+    },
+    "丢手绢_3.txt": {
+        "file": [
+            "丢手绢_3.txt"
+        ],
+        "title": "丢手绢",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-45078"
+        ]
+    },
     "两.txt": {
         "file": [
             "两.txt"
@@ -26705,6 +28337,70 @@
             "jianpujia-15847"
         ]
     },
+    "两只老虎_4.txt": {
+        "file": [
+            "两只老虎_4.txt"
+        ],
+        "title": "两只老虎",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-354503"
+        ]
+    },
+    "两只老虎_5.txt": {
+        "file": [
+            "两只老虎_5.txt"
+        ],
+        "title": "两只老虎",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-26503"
+        ]
+    },
+    "两只老虎_6.txt": {
+        "file": [
+            "两只老虎_6.txt"
+        ],
+        "title": "两只老虎",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-339895"
+        ]
+    },
+    "两只老虎_7.txt": {
+        "file": [
+            "两只老虎_7.txt"
+        ],
+        "title": "两只老虎",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-304640"
+        ]
+    },
     "两只老虎钢琴.txt": {
         "file": [
             "两只老虎钢琴.txt"
@@ -26722,6 +28418,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "两只老虎钢琴_2.txt": {
+        "file": [
+            "两只老虎钢琴_2.txt"
+        ],
+        "title": "两只老虎钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-234428"
         ]
     },
     "两只蝴蝶.txt": {
@@ -26742,6 +28454,54 @@
         "status": "ocr",
         "source": [
             "qupu123-338446"
+        ]
+    },
+    "两只蝴蝶_2.txt": {
+        "file": [
+            "两只蝴蝶_2.txt"
+        ],
+        "title": "两只蝴蝶",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-281956"
+        ]
+    },
+    "两只蝴蝶_3.txt": {
+        "file": [
+            "两只蝴蝶_3.txt"
+        ],
+        "title": "两只蝴蝶",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-313409"
+        ]
+    },
+    "两只蝴蝶_4.txt": {
+        "file": [
+            "两只蝴蝶_4.txt"
+        ],
+        "title": "两只蝴蝶",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-57479"
         ]
     },
     "两小无猜.txt": {
@@ -26858,6 +28618,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "中__年_2.txt": {
+        "file": [
+            "中__年_2.txt"
+        ],
+        "title": "中__年",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-26529"
         ]
     },
     "中华你我他.txt": {
@@ -27212,6 +28988,150 @@
         "status": "ocr",
         "source": [
             "qupu123-261382"
+        ]
+    },
+    "中国人_10.txt": {
+        "file": [
+            "中国人_10.txt"
+        ],
+        "title": "中国人",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-19406"
+        ]
+    },
+    "中国人_2.txt": {
+        "file": [
+            "中国人_2.txt"
+        ],
+        "title": "中国人",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-36515"
+        ]
+    },
+    "中国人_3.txt": {
+        "file": [
+            "中国人_3.txt"
+        ],
+        "title": "中国人",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-3973"
+        ]
+    },
+    "中国人_4.txt": {
+        "file": [
+            "中国人_4.txt"
+        ],
+        "title": "中国人",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-55439"
+        ]
+    },
+    "中国人_5.txt": {
+        "file": [
+            "中国人_5.txt"
+        ],
+        "title": "中国人",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-60563"
+        ]
+    },
+    "中国人_6.txt": {
+        "file": [
+            "中国人_6.txt"
+        ],
+        "title": "中国人",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-71057"
+        ]
+    },
+    "中国人_7.txt": {
+        "file": [
+            "中国人_7.txt"
+        ],
+        "title": "中国人",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-88438"
+        ]
+    },
+    "中国人_8.txt": {
+        "file": [
+            "中国人_8.txt"
+        ],
+        "title": "中国人",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-89947"
+        ]
+    },
+    "中国人_9.txt": {
+        "file": [
+            "中国人_9.txt"
+        ],
+        "title": "中国人",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-90289"
         ]
     },
     "中国人钢琴.txt": {
@@ -27629,6 +29549,22 @@
         "status": "ocr",
         "source": [
             "jianpujia-26442"
+        ]
+    },
+    "中国少年先锋队队歌_2.txt": {
+        "file": [
+            "中国少年先锋队队歌_2.txt"
+        ],
+        "title": "中国少年先锋队队歌",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-26529"
         ]
     },
     "中国就在这里.txt": {
@@ -28627,6 +30563,22 @@
             "薛之谦"
         ]
     },
+    "为了遇见你_2.txt": {
+        "file": [
+            "为了遇见你_2.txt"
+        ],
+        "title": "为了遇见你",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-307904"
+        ]
+    },
     "为了遇见你钢琴.txt": {
         "file": [
             "为了遇见你钢琴.txt"
@@ -29587,6 +31539,22 @@
             "qupu123-307029"
         ]
     },
+    "乘上儿童小火车.txt": {
+        "file": [
+            "乘上儿童小火车.txt"
+        ],
+        "title": "乘上儿童小火车",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-322547"
+        ]
+    },
     "乘着歌声的翅膀飞吧.txt": {
         "file": [
             "乘着歌声的翅膀飞吧.txt"
@@ -29711,6 +31679,22 @@
         ],
         "artist": [
             "胡莎莎"
+        ]
+    },
+    "九儿_2.txt": {
+        "file": [
+            "九儿_2.txt"
+        ],
+        "title": "九儿",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-17963"
         ]
     },
     "九儿编号-009、.txt": {
@@ -29893,6 +31877,22 @@
         "status": "ocr",
         "source": [
             "qupu123-325372"
+        ]
+    },
+    "乡__路_谱.txt": {
+        "file": [
+            "乡__路_谱.txt"
+        ],
+        "title": "乡__路_谱",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-19488"
         ]
     },
     "乡下亲戚.txt": {
@@ -30185,6 +32185,70 @@
         ],
         "artist": [
             "卓依婷"
+        ]
+    },
+    "乡间的小路_2.txt": {
+        "file": [
+            "乡间的小路_2.txt"
+        ],
+        "title": "乡间的小路",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-329878"
+        ]
+    },
+    "乡间的小路_3.txt": {
+        "file": [
+            "乡间的小路_3.txt"
+        ],
+        "title": "乡间的小路",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-374528"
+        ]
+    },
+    "乡间的小路_4.txt": {
+        "file": [
+            "乡间的小路_4.txt"
+        ],
+        "title": "乡间的小路",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-75127"
+        ]
+    },
+    "乡间的小路_5.txt": {
+        "file": [
+            "乡间的小路_5.txt"
+        ],
+        "title": "乡间的小路",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-781"
         ]
     },
     "书恋.txt": {
@@ -30572,6 +32636,70 @@
             "qupu123-307924"
         ]
     },
+    "云宫迅音.txt": {
+        "file": [
+            "云宫迅音.txt"
+        ],
+        "title": "云宫迅音",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-363924"
+        ]
+    },
+    "云宫迅音_2.txt": {
+        "file": [
+            "云宫迅音_2.txt"
+        ],
+        "title": "云宫迅音",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-352956"
+        ]
+    },
+    "云宫迅音_3.txt": {
+        "file": [
+            "云宫迅音_3.txt"
+        ],
+        "title": "云宫迅音",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-277388"
+        ]
+    },
+    "云宫迅音_4.txt": {
+        "file": [
+            "云宫迅音_4.txt"
+        ],
+        "title": "云宫迅音",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-292420"
+        ]
+    },
     "云朵上的草原.txt": {
         "file": [
             "云朵上的草原.txt"
@@ -30595,6 +32723,22 @@
         ],
         "artist": [
             "草原姜婷"
+        ]
+    },
+    "云朵上的草原_2.txt": {
+        "file": [
+            "云朵上的草原_2.txt"
+        ],
+        "title": "云朵上的草原",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-261684"
         ]
     },
     "云朵上的草原草原丁喜萨斯.txt": {
@@ -30684,6 +32828,38 @@
         ],
         "artist": [
             "邓丽君"
+        ]
+    },
+    "云河_2.txt": {
+        "file": [
+            "云河_2.txt"
+        ],
+        "title": "云河",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-35489"
+        ]
+    },
+    "云河_3.txt": {
+        "file": [
+            "云河_3.txt"
+        ],
+        "title": "云河",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-69506"
         ]
     },
     "云海里面走小船.txt": {
@@ -31427,6 +33603,38 @@
             "jianpucn-58556"
         ]
     },
+    "亲亲我的宝贝_2.txt": {
+        "file": [
+            "亲亲我的宝贝_2.txt"
+        ],
+        "title": "亲亲我的宝贝",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-58028"
+        ]
+    },
+    "亲亲我的宝贝_3.txt": {
+        "file": [
+            "亲亲我的宝贝_3.txt"
+        ],
+        "title": "亲亲我的宝贝",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-61015"
+        ]
+    },
     "亲亲拉萨.txt": {
         "file": [
             "亲亲拉萨.txt"
@@ -31872,6 +34080,22 @@
         "status": "ocr",
         "source": [
             "jianpucn-34901"
+        ]
+    },
+    "亲爱的妈妈_2.txt": {
+        "file": [
+            "亲爱的妈妈_2.txt"
+        ],
+        "title": "亲爱的妈妈",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-62478"
         ]
     },
     "亲爱的我要去飞行.txt": {
@@ -33193,6 +35417,22 @@
             "邓丽君"
         ]
     },
+    "今夜想起你_2.txt": {
+        "file": [
+            "今夜想起你_2.txt"
+        ],
+        "title": "今夜想起你",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-42940"
+        ]
+    },
     "今夜我一个人醉.txt": {
         "file": [
             "今夜我一个人醉.txt"
@@ -33297,6 +35537,22 @@
             "jianpujia-244832"
         ]
     },
+    "今夜的月亮很草原知音草原恋曲系列之三_2.txt": {
+        "file": [
+            "今夜的月亮很草原知音草原恋曲系列之三_2.txt"
+        ],
+        "title": "今夜的月亮很草原知音草原恋曲系列之三",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-244832"
+        ]
+    },
     "今天.txt": {
         "file": [
             "今天.txt"
@@ -33315,6 +35571,54 @@
         "status": "ocr",
         "source": [
             "jianpucn-34574"
+        ]
+    },
+    "今天_2.txt": {
+        "file": [
+            "今天_2.txt"
+        ],
+        "title": "今天",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-133449"
+        ]
+    },
+    "今天_3.txt": {
+        "file": [
+            "今天_3.txt"
+        ],
+        "title": "今天",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-62488"
+        ]
+    },
+    "今天_4.txt": {
+        "file": [
+            "今天_4.txt"
+        ],
+        "title": "今天",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-69876"
         ]
     },
     "今天_你如此精神.txt": {
@@ -33440,6 +35744,70 @@
         "status": "ocr",
         "source": [
             "qupu123-335320"
+        ]
+    },
+    "今宵多珍重.txt": {
+        "file": [
+            "今宵多珍重.txt"
+        ],
+        "title": "今宵多珍重",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-61030"
+        ]
+    },
+    "今宵多珍重_2.txt": {
+        "file": [
+            "今宵多珍重_2.txt"
+        ],
+        "title": "今宵多珍重",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-87395"
+        ]
+    },
+    "今宵多珍重_3.txt": {
+        "file": [
+            "今宵多珍重_3.txt"
+        ],
+        "title": "今宵多珍重",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-42487"
+        ]
+    },
+    "今宵多珍重_4.txt": {
+        "file": [
+            "今宵多珍重_4.txt"
+        ],
+        "title": "今宵多珍重",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-60223"
         ]
     },
     "今宵如此美丽.txt": {
@@ -34705,6 +37073,41 @@
             "qupu123-271852"
         ]
     },
+    "传奇_5.txt": {
+        "file": [
+            "传奇_5.txt"
+        ],
+        "title": "传奇",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-21523"
+        ]
+    },
+    "传奇简单版钢琴.txt": {
+        "file": [
+            "传奇简单版钢琴.txt"
+        ],
+        "title": "传奇简单版钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-252791"
+        ],
+        "todo": [
+            "refine the filename"
+        ]
+    },
     "传奇钢琴.txt": {
         "file": [
             "传奇钢琴.txt"
@@ -35213,6 +37616,54 @@
             "邓丽君"
         ]
     },
+    "但愿人长久_2.txt": {
+        "file": [
+            "但愿人长久_2.txt"
+        ],
+        "title": "但愿人长久",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-44563"
+        ]
+    },
+    "但愿人长久_3.txt": {
+        "file": [
+            "但愿人长久_3.txt"
+        ],
+        "title": "但愿人长久",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-370975"
+        ]
+    },
+    "但愿人长久_4.txt": {
+        "file": [
+            "但愿人长久_4.txt"
+        ],
+        "title": "但愿人长久",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-384220"
+        ]
+    },
     "但愿人长久钢琴.txt": {
         "file": [
             "但愿人长久钢琴.txt"
@@ -35352,6 +37803,38 @@
             "qupu123-309966"
         ]
     },
+    "体面_2.txt": {
+        "file": [
+            "体面_2.txt"
+        ],
+        "title": "体面",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-320405"
+        ]
+    },
+    "体面_3.txt": {
+        "file": [
+            "体面_3.txt"
+        ],
+        "title": "体面",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-308329"
+        ]
+    },
     "何以在乎我是谁.txt": {
         "file": [
             "何以在乎我是谁.txt"
@@ -35394,6 +37877,22 @@
             "邓丽君"
         ]
     },
+    "何日君再来.txt": {
+        "file": [
+            "何日君再来.txt"
+        ],
+        "title": "何日君再来",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-227567"
+        ]
+    },
     "何日君再来_2.txt": {
         "file": [
             "何日君再来_2.txt"
@@ -35415,6 +37914,38 @@
         ],
         "artist": [
             "邓丽君"
+        ]
+    },
+    "何日君再来_3.txt": {
+        "file": [
+            "何日君再来_3.txt"
+        ],
+        "title": "何日君再来",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-34493"
+        ]
+    },
+    "何日君再来_4.txt": {
+        "file": [
+            "何日君再来_4.txt"
+        ],
+        "title": "何日君再来",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-41572"
         ]
     },
     "何时我俩重相聚.txt": {
@@ -35557,6 +38088,22 @@
         ],
         "artist": [
             "邓丽君"
+        ]
+    },
+    "你为何不说_2.txt": {
+        "file": [
+            "你为何不说_2.txt"
+        ],
+        "title": "你为何不说",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-223036"
         ]
     },
     "你为百姓把心血奉献.txt": {
@@ -36486,6 +39033,22 @@
             "邓丽君"
         ]
     },
+    "你怎么说_2.txt": {
+        "file": [
+            "你怎么说_2.txt"
+        ],
+        "title": "你怎么说",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-451637"
+        ]
+    },
     "你怎么说钢琴.txt": {
         "file": [
             "你怎么说钢琴.txt"
@@ -36626,6 +39189,22 @@
         ],
         "artist": [
             "邓丽君"
+        ]
+    },
+    "你我相伴左右_2.txt": {
+        "file": [
+            "你我相伴左右_2.txt"
+        ],
+        "title": "你我相伴左右",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-211559"
         ]
     },
     "你我都在画里面.txt": {
@@ -36802,6 +39381,22 @@
         ],
         "artist": [
             "邓丽君"
+        ]
+    },
+    "你是否还记得——大山的儿子原曲_红了樱桃填词_涛声依旧.txt": {
+        "file": [
+            "你是否还记得——大山的儿子原曲_红了樱桃填词_涛声依旧.txt"
+        ],
+        "title": "你是否还记得——大山的儿子原曲 红了樱桃填词 涛声依旧",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-198751"
         ]
     },
     "你是如此美丽.txt": {
@@ -37257,6 +39852,22 @@
             "jianpucn-34808"
         ]
     },
+    "你是最好的_2.txt": {
+        "file": [
+            "你是最好的_2.txt"
+        ],
+        "title": "你是最好的",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-61507"
+        ]
+    },
     "你是梵音我是青莲.txt": {
         "file": [
             "你是梵音我是青莲.txt"
@@ -37531,6 +40142,22 @@
             "殷秀梅"
         ]
     },
+    "你现在还好吗.txt": {
+        "file": [
+            "你现在还好吗.txt"
+        ],
+        "title": "你现在还好吗",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-60170"
+        ]
+    },
     "你现在还好吗_歌曲类.txt": {
         "file": [
             "你现在还好吗_歌曲类.txt"
@@ -37569,6 +40196,22 @@
         "status": "ocr",
         "source": [
             "qupu123-331994"
+        ]
+    },
+    "你的名字_我的姓氏.txt": {
+        "file": [
+            "你的名字_我的姓氏.txt"
+        ],
+        "title": "你的名字 我的姓氏",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-305868"
         ]
     },
     "你的名字我的姓氏钢琴.txt": {
@@ -37708,6 +40351,22 @@
         ],
         "todo": [
             "add tags"
+        ]
+    },
+    "你的背包_2.txt": {
+        "file": [
+            "你的背包_2.txt"
+        ],
+        "title": "你的背包",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-74108"
         ]
     },
     "你的背包钢琴.txt": {
@@ -38924,6 +41583,22 @@
             "add tags"
         ]
     },
+    "倩女幽魂_2.txt": {
+        "file": [
+            "倩女幽魂_2.txt"
+        ],
+        "title": "倩女幽魂",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-14646"
+        ]
+    },
     "倩女幽魂钢琴.txt": {
         "file": [
             "倩女幽魂钢琴.txt"
@@ -39252,6 +41927,22 @@
             "jianpucn-114444"
         ]
     },
+    "假装.txt": {
+        "file": [
+            "假装.txt"
+        ],
+        "title": "假装",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-38463"
+        ]
+    },
     "假装_歌曲类.txt": {
         "file": [
             "假装_歌曲类.txt"
@@ -39325,6 +42016,54 @@
         "status": "ocr",
         "source": [
             "qupu123-381646"
+        ]
+    },
+    "偏爱.txt": {
+        "file": [
+            "偏爱.txt"
+        ],
+        "title": "偏爱",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-122109"
+        ]
+    },
+    "偏爱_2.txt": {
+        "file": [
+            "偏爱_2.txt"
+        ],
+        "title": "偏爱",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-137929"
+        ]
+    },
+    "偏爱_3.txt": {
+        "file": [
+            "偏爱_3.txt"
+        ],
+        "title": "偏爱",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-331188"
         ]
     },
     "做个好人.txt": {
@@ -39610,6 +42349,38 @@
         "status": "ocr",
         "source": [
             "jianpucn-35146"
+        ]
+    },
+    "偷心_2.txt": {
+        "file": [
+            "偷心_2.txt"
+        ],
+        "title": "偷心",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-61096"
+        ]
+    },
+    "偷心_3.txt": {
+        "file": [
+            "偷心_3.txt"
+        ],
+        "title": "偷心",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-70163"
         ]
     },
     "傣家女儿.txt": {
@@ -40560,6 +43331,22 @@
             "qupu123-339709"
         ]
     },
+    "光辉岁月_6.txt": {
+        "file": [
+            "光辉岁月_6.txt"
+        ],
+        "title": "光辉岁月",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-251482"
+        ]
+    },
     "光阴的故事_歌曲类.txt": {
         "file": [
             "光阴的故事_歌曲类.txt"
@@ -41288,6 +44075,54 @@
             "qupu123-105781"
         ]
     },
+    "兰亭序.txt": {
+        "file": [
+            "兰亭序.txt"
+        ],
+        "title": "兰亭序",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-27234"
+        ]
+    },
+    "兰亭序_2.txt": {
+        "file": [
+            "兰亭序_2.txt"
+        ],
+        "title": "兰亭序",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-38006"
+        ]
+    },
+    "兰亭序钢琴.txt": {
+        "file": [
+            "兰亭序钢琴.txt"
+        ],
+        "title": "兰亭序钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-252782"
+        ]
+    },
     "兰色的故乡.txt": {
         "file": [
             "兰色的故乡.txt"
@@ -41940,6 +44775,38 @@
             "薛之谦"
         ]
     },
+    "其实不想走.txt": {
+        "file": [
+            "其实不想走.txt"
+        ],
+        "title": "其实不想走",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-61067"
+        ]
+    },
+    "其实不想走_2.txt": {
+        "file": [
+            "其实不想走_2.txt"
+        ],
+        "title": "其实不想走",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-88673"
+        ]
+    },
     "其实不想走_歌曲类.txt": {
         "file": [
             "其实不想走_歌曲类.txt"
@@ -42135,6 +45002,54 @@
         "status": "ocr",
         "source": [
             "jianpucn-70619"
+        ]
+    },
+    "再会了_2.txt": {
+        "file": [
+            "再会了_2.txt"
+        ],
+        "title": "再会了",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-50858"
+        ]
+    },
+    "再会了_3.txt": {
+        "file": [
+            "再会了_3.txt"
+        ],
+        "title": "再会了",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-88481"
+        ]
+    },
+    "再会了_4.txt": {
+        "file": [
+            "再会了_4.txt"
+        ],
+        "title": "再会了",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-286119"
         ]
     },
     "再会吧叮当.txt": {
@@ -42487,6 +45402,22 @@
             "qupu123-308763"
         ]
     },
+    "再见_我的爱人.txt": {
+        "file": [
+            "再见_我的爱人.txt"
+        ],
+        "title": "再见 我的爱人",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-473373"
+        ]
+    },
     "再见了.txt": {
         "file": [
             "再见了.txt"
@@ -42501,6 +45432,22 @@
             "分类/儿歌",
             "儿歌"
         ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-26483"
+        ]
+    },
+    "再见了_2.txt": {
+        "file": [
+            "再见了_2.txt"
+        ],
+        "title": "再见了",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
         "transcriber": [
             "jianpu2-auto"
         ],
@@ -42709,6 +45656,22 @@
             "邓丽君"
         ]
     },
+    "再见，我的爱人_2.txt": {
+        "file": [
+            "再见，我的爱人_2.txt"
+        ],
+        "title": "再见，我的爱人",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-198930"
+        ]
+    },
     "再诉衷肠.txt": {
         "file": [
             "再诉衷肠.txt"
@@ -42727,6 +45690,38 @@
         "status": "ocr",
         "source": [
             "qupu123-396369"
+        ]
+    },
+    "再说一次我爱你.txt": {
+        "file": [
+            "再说一次我爱你.txt"
+        ],
+        "title": "再说一次我爱你",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-41115"
+        ]
+    },
+    "再说一次我爱你_2.txt": {
+        "file": [
+            "再说一次我爱你_2.txt"
+        ],
+        "title": "再说一次我爱你",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-63065"
         ]
     },
     "再说一次我爱你_歌曲类.txt": {
@@ -43746,6 +46741,22 @@
             "qupu123-335033"
         ]
     },
+    "冬色.txt": {
+        "file": [
+            "冬色.txt"
+        ],
+        "title": "冬色",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-232180"
+        ]
+    },
     "冬雪冬雪你别笑我.txt": {
         "file": [
             "冬雪冬雪你别笑我.txt"
@@ -44206,6 +47217,22 @@
             "邓丽君"
         ]
     },
+    "凝望_2.txt": {
+        "file": [
+            "凝望_2.txt"
+        ],
+        "title": "凝望",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-69909"
+        ]
+    },
     "几多愁.txt": {
         "file": [
             "几多愁.txt"
@@ -44227,6 +47254,22 @@
         ],
         "artist": [
             "邓丽君"
+        ]
+    },
+    "几多愁_2.txt": {
+        "file": [
+            "几多愁_2.txt"
+        ],
+        "title": "几多愁",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-34256"
         ]
     },
     "几时再回吊脚楼.txt": {
@@ -44788,6 +47831,54 @@
             "qupu123-328304"
         ]
     },
+    "刀剑如梦.txt": {
+        "file": [
+            "刀剑如梦.txt"
+        ],
+        "title": "刀剑如梦",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-84508"
+        ]
+    },
+    "刀剑如梦_2.txt": {
+        "file": [
+            "刀剑如梦_2.txt"
+        ],
+        "title": "刀剑如梦",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-8876"
+        ]
+    },
+    "刀剑如梦_3.txt": {
+        "file": [
+            "刀剑如梦_3.txt"
+        ],
+        "title": "刀剑如梦",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-58562"
+        ]
+    },
     "刀剑如梦_歌曲类.txt": {
         "file": [
             "刀剑如梦_歌曲类.txt"
@@ -45059,6 +48150,22 @@
         "status": "ocr",
         "source": [
             "jianpucn-184672"
+        ]
+    },
+    "分手总要在雨天.txt": {
+        "file": [
+            "分手总要在雨天.txt"
+        ],
+        "title": "分手总要在雨天",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-61054"
         ]
     },
     "分手总要在雨天_歌曲类.txt": {
@@ -45781,6 +48888,22 @@
             "jianpucn-150326"
         ]
     },
+    "别把眉儿皱_2.txt": {
+        "file": [
+            "别把眉儿皱_2.txt"
+        ],
+        "title": "别把眉儿皱",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-236373"
+        ]
+    },
     "别把解释当成借口.txt": {
         "file": [
             "别把解释当成借口.txt"
@@ -45862,6 +48985,22 @@
             "jianpujia-7208"
         ]
     },
+    "别看我只是只羊_2.txt": {
+        "file": [
+            "别看我只是只羊_2.txt"
+        ],
+        "title": "别看我只是只羊",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-7208"
+        ]
+    },
     "别离.txt": {
         "file": [
             "别离.txt"
@@ -45883,6 +49022,22 @@
         ],
         "artist": [
             "邓丽君"
+        ]
+    },
+    "别离_2.txt": {
+        "file": [
+            "别离_2.txt"
+        ],
+        "title": "别离",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-69335"
         ]
     },
     "别离不必长流泪.txt": {
@@ -46662,6 +49817,22 @@
             "refine the filename"
         ]
     },
+    "勇敢的鄂伦春钢琴_2.txt": {
+        "file": [
+            "勇敢的鄂伦春钢琴_2.txt"
+        ],
+        "title": "勇敢的鄂伦春钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-148456"
+        ]
+    },
     "勇气_歌曲类.txt": {
         "file": [
             "勇气_歌曲类.txt"
@@ -47015,6 +50186,22 @@
             "jianpujia-18261"
         ]
     },
+    "北京有个金太阳_2.txt": {
+        "file": [
+            "北京有个金太阳_2.txt"
+        ],
+        "title": "北京有个金太阳",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-18261"
+        ]
+    },
     "北京的家到啦.txt": {
         "file": [
             "北京的家到啦.txt"
@@ -47045,6 +50232,22 @@
             "分类/儿歌",
             "儿歌"
         ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-18265"
+        ]
+    },
+    "北京的金山上_2.txt": {
+        "file": [
+            "北京的金山上_2.txt"
+        ],
+        "title": "北京的金山上",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
         "transcriber": [
             "jianpu2-auto"
         ],
@@ -47110,6 +50313,22 @@
         "status": "ocr",
         "source": [
             "jianpucn-280455"
+        ]
+    },
+    "北国之春_4.txt": {
+        "file": [
+            "北国之春_4.txt"
+        ],
+        "title": "北国之春",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-382310"
         ]
     },
     "北国之春钢琴.txt": {
@@ -47312,6 +50531,22 @@
             "qupu123-334290"
         ]
     },
+    "北方的雪_2.txt": {
+        "file": [
+            "北方的雪_2.txt"
+        ],
+        "title": "北方的雪",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-334290"
+        ]
+    },
     "北漂.txt": {
         "file": [
             "北漂.txt"
@@ -47405,6 +50640,22 @@
         ],
         "artist": [
             "邓丽君"
+        ]
+    },
+    "十一哥_2.txt": {
+        "file": [
+            "十一哥_2.txt"
+        ],
+        "title": "十一哥",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-421972"
         ]
     },
     "十三岁.txt": {
@@ -47561,6 +50812,310 @@
         "status": "ocr",
         "source": [
             "qupu123-59937"
+        ]
+    },
+    "十五的月亮.txt": {
+        "file": [
+            "十五的月亮.txt"
+        ],
+        "title": "十五的月亮",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-39109"
+        ]
+    },
+    "十五的月亮_10.txt": {
+        "file": [
+            "十五的月亮_10.txt"
+        ],
+        "title": "十五的月亮",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-382251"
+        ]
+    },
+    "十五的月亮_2.txt": {
+        "file": [
+            "十五的月亮_2.txt"
+        ],
+        "title": "十五的月亮",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-35054"
+        ]
+    },
+    "十五的月亮_3.txt": {
+        "file": [
+            "十五的月亮_3.txt"
+        ],
+        "title": "十五的月亮",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-41700"
+        ]
+    },
+    "十五的月亮_4.txt": {
+        "file": [
+            "十五的月亮_4.txt"
+        ],
+        "title": "十五的月亮",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-43964"
+        ]
+    },
+    "十五的月亮_5.txt": {
+        "file": [
+            "十五的月亮_5.txt"
+        ],
+        "title": "十五的月亮",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-48042"
+        ]
+    },
+    "十五的月亮_6.txt": {
+        "file": [
+            "十五的月亮_6.txt"
+        ],
+        "title": "十五的月亮",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-50817"
+        ]
+    },
+    "十五的月亮_7.txt": {
+        "file": [
+            "十五的月亮_7.txt"
+        ],
+        "title": "十五的月亮",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-60650"
+        ]
+    },
+    "十五的月亮_8.txt": {
+        "file": [
+            "十五的月亮_8.txt"
+        ],
+        "title": "十五的月亮",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-288719"
+        ]
+    },
+    "十五的月亮_9.txt": {
+        "file": [
+            "十五的月亮_9.txt"
+        ],
+        "title": "十五的月亮",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-383229"
+        ]
+    },
+    "十五的月亮为谁园.txt": {
+        "file": [
+            "十五的月亮为谁园.txt"
+        ],
+        "title": "十五的月亮为谁园",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-136331"
+        ]
+    },
+    "十五的月亮为谁圆.txt": {
+        "file": [
+            "十五的月亮为谁圆.txt"
+        ],
+        "title": "十五的月亮为谁圆",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-152908"
+        ]
+    },
+    "十五的月亮为谁圆《刘海戏金蟾》.txt": {
+        "file": [
+            "十五的月亮为谁圆《刘海戏金蟾》.txt"
+        ],
+        "title": "十五的月亮为谁圆《刘海戏金蟾》",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-45201"
+        ]
+    },
+    "十五的月亮为谁圆《刘海戏金蟾》_2.txt": {
+        "file": [
+            "十五的月亮为谁圆《刘海戏金蟾》_2.txt"
+        ],
+        "title": "十五的月亮为谁圆《刘海戏金蟾》",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-72457"
+        ]
+    },
+    "十五的月亮为谁圆《刘海戏金蟾》_3.txt": {
+        "file": [
+            "十五的月亮为谁圆《刘海戏金蟾》_3.txt"
+        ],
+        "title": "十五的月亮为谁圆《刘海戏金蟾》",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-87559"
+        ]
+    },
+    "十五的月亮十六圆.txt": {
+        "file": [
+            "十五的月亮十六圆.txt"
+        ],
+        "title": "十五的月亮十六圆",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-68479"
+        ]
+    },
+    "十五的月亮十六圆_2.txt": {
+        "file": [
+            "十五的月亮十六圆_2.txt"
+        ],
+        "title": "十五的月亮十六圆",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-74293"
+        ]
+    },
+    "十五的月亮和姑娘.txt": {
+        "file": [
+            "十五的月亮和姑娘.txt"
+        ],
+        "title": "十五的月亮和姑娘",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-167722"
+        ]
+    },
+    "十五的月亮圆又圆.txt": {
+        "file": [
+            "十五的月亮圆又圆.txt"
+        ],
+        "title": "十五的月亮圆又圆",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-123315"
         ]
     },
     "十八九岁从军行.txt": {
@@ -47950,6 +51505,22 @@
         ],
         "artist": [
             "韩红"
+        ]
+    },
+    "千年之约_2.txt": {
+        "file": [
+            "千年之约_2.txt"
+        ],
+        "title": "千年之约",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-308687"
         ]
     },
     "千年的新.txt": {
@@ -49107,6 +52678,22 @@
             "jianpujia-15680"
         ]
     },
+    "卖报歌_3.txt": {
+        "file": [
+            "卖报歌_3.txt"
+        ],
+        "title": "卖报歌",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-26525"
+        ]
+    },
     "卖杂货.txt": {
         "file": [
             "卖杂货.txt"
@@ -49168,6 +52755,22 @@
         ],
         "artist": [
             "邓丽君"
+        ]
+    },
+    "卖馄饨_2.txt": {
+        "file": [
+            "卖馄饨_2.txt"
+        ],
+        "title": "卖馄饨",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-289196"
         ]
     },
     "南半球与北海道.txt": {
@@ -49755,6 +53358,22 @@
         "status": "ocr",
         "source": [
             "jianpucn-35501"
+        ]
+    },
+    "原乡人_2.txt": {
+        "file": [
+            "原乡人_2.txt"
+        ],
+        "title": "原乡人",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-70995"
         ]
     },
     "原乡情浓.txt": {
@@ -50374,6 +53993,22 @@
             "jianpucn-42496"
         ]
     },
+    "又见炊烟_2.txt": {
+        "file": [
+            "又见炊烟_2.txt"
+        ],
+        "title": "又见炊烟",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-45979"
+        ]
+    },
     "又见雪花.txt": {
         "file": [
             "又见雪花.txt"
@@ -50568,6 +54203,22 @@
             "jianpucn-160658"
         ]
     },
+    "反方向的钟钢琴.txt": {
+        "file": [
+            "反方向的钟钢琴.txt"
+        ],
+        "title": "反方向的钟钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-249659"
+        ]
+    },
     "发如雪.txt": {
         "file": [
             "发如雪.txt"
@@ -50586,6 +54237,22 @@
         "status": "ocr",
         "source": [
             "jianpucn-65661"
+        ]
+    },
+    "发如雪_2.txt": {
+        "file": [
+            "发如雪_2.txt"
+        ],
+        "title": "发如雪",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-307437"
         ]
     },
     "发条微信给太阳.txt": {
@@ -53953,6 +57620,38 @@
             "jianpujia-14454"
         ]
     },
+    "只想一生跟你走_2.txt": {
+        "file": [
+            "只想一生跟你走_2.txt"
+        ],
+        "title": "只想一生跟你走",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-39137"
+        ]
+    },
+    "只想一生跟你走_3.txt": {
+        "file": [
+            "只想一生跟你走_3.txt"
+        ],
+        "title": "只想一生跟你走",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-85398"
+        ]
+    },
     "只想一生跟你走_歌曲类.txt": {
         "file": [
             "只想一生跟你走_歌曲类.txt"
@@ -54171,6 +57870,54 @@
         ],
         "artist": [
             "邓丽君"
+        ]
+    },
+    "只要你心里有我_2.txt": {
+        "file": [
+            "只要你心里有我_2.txt"
+        ],
+        "title": "只要你心里有我",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-224199"
+        ]
+    },
+    "只要你过得比我好.txt": {
+        "file": [
+            "只要你过得比我好.txt"
+        ],
+        "title": "只要你过得比我好",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-42429"
+        ]
+    },
+    "只要你过得比我好_2.txt": {
+        "file": [
+            "只要你过得比我好_2.txt"
+        ],
+        "title": "只要你过得比我好",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-60240"
         ]
     },
     "只要我长大.txt": {
@@ -55377,6 +59124,22 @@
             "qupu123-361491"
         ]
     },
+    "同桌的你_3.txt": {
+        "file": [
+            "同桌的你_3.txt"
+        ],
+        "title": "同桌的你",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-tongzhuodeni1"
+        ]
+    },
     "同欢同乐.txt": {
         "file": [
             "同欢同乐.txt"
@@ -55763,6 +59526,22 @@
             "郭皓"
         ]
     },
+    "向往草原献给美丽的草原_2.txt": {
+        "file": [
+            "向往草原献给美丽的草原_2.txt"
+        ],
+        "title": "向往草原献给美丽的草原",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-413918"
+        ]
+    },
     "向日葵.txt": {
         "file": [
             "向日葵.txt"
@@ -55784,6 +59563,22 @@
         ],
         "artist": [
             "邓丽君"
+        ]
+    },
+    "向日葵_2.txt": {
+        "file": [
+            "向日葵_2.txt"
+        ],
+        "title": "向日葵",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-70818"
         ]
     },
     "向远方.txt": {
@@ -57550,6 +61345,22 @@
             "qupu123-324121"
         ]
     },
+    "哪有一天不想你.txt": {
+        "file": [
+            "哪有一天不想你.txt"
+        ],
+        "title": "哪有一天不想你",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-157856"
+        ]
+    },
     "哪有利刀能割愁.txt": {
         "file": [
             "哪有利刀能割愁.txt"
@@ -57747,6 +61558,150 @@
         ],
         "artist": [
             "韩磊"
+        ]
+    },
+    "唯一.txt": {
+        "file": [
+            "唯一.txt"
+        ],
+        "title": "唯一",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-35192"
+        ]
+    },
+    "唯一1.txt": {
+        "file": [
+            "唯一1.txt"
+        ],
+        "title": "唯一1",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-35193"
+        ]
+    },
+    "唯一_2.txt": {
+        "file": [
+            "唯一_2.txt"
+        ],
+        "title": "唯一",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-36052"
+        ]
+    },
+    "唯一_3.txt": {
+        "file": [
+            "唯一_3.txt"
+        ],
+        "title": "唯一",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-38456"
+        ]
+    },
+    "唯一_4.txt": {
+        "file": [
+            "唯一_4.txt"
+        ],
+        "title": "唯一",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-39248"
+        ]
+    },
+    "唯一_5.txt": {
+        "file": [
+            "唯一_5.txt"
+        ],
+        "title": "唯一",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-66236"
+        ]
+    },
+    "唯一_6.txt": {
+        "file": [
+            "唯一_6.txt"
+        ],
+        "title": "唯一",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-70157"
+        ]
+    },
+    "唯一_7.txt": {
+        "file": [
+            "唯一_7.txt"
+        ],
+        "title": "唯一",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-73631"
+        ]
+    },
+    "唯一_8.txt": {
+        "file": [
+            "唯一_8.txt"
+        ],
+        "title": "唯一",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-89200"
         ]
     },
     "唯有情歌藏心里.txt": {
@@ -59143,6 +63098,22 @@
             "add tags"
         ]
     },
+    "喜欢你_3.txt": {
+        "file": [
+            "喜欢你_3.txt"
+        ],
+        "title": "喜欢你",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-xihuanni"
+        ]
+    },
     "喜欢你的时候.txt": {
         "file": [
             "喜欢你的时候.txt"
@@ -59955,6 +63926,22 @@
             "qupu123-332981"
         ]
     },
+    "回家吃饭_2.txt": {
+        "file": [
+            "回家吃饭_2.txt"
+        ],
+        "title": "回家吃饭",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-332981"
+        ]
+    },
     "回家的路.txt": {
         "file": [
             "回家的路.txt"
@@ -60022,6 +64009,22 @@
         ],
         "artist": [
             "蔡献华 李传永"
+        ]
+    },
+    "回家过年_2.txt": {
+        "file": [
+            "回家过年_2.txt"
+        ],
+        "title": "回家过年",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-312544"
         ]
     },
     "回忆的沙漏.txt": {
@@ -60221,6 +64224,22 @@
             "refine the filename"
         ]
     },
+    "因为爱情钢琴_2.txt": {
+        "file": [
+            "因为爱情钢琴_2.txt"
+        ],
+        "title": "因为爱情钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-150537"
+        ]
+    },
     "因为祖国.txt": {
         "file": [
             "因为祖国.txt"
@@ -60362,6 +64381,22 @@
         "status": "ocr",
         "source": [
             "qupu123-335407"
+        ]
+    },
+    "国旗国旗真美丽_3.txt": {
+        "file": [
+            "国旗国旗真美丽_3.txt"
+        ],
+        "title": "国旗国旗真美丽",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-74605"
         ]
     },
     "国旗多美丽.txt": {
@@ -63059,6 +67094,22 @@
             "jianpujia-15737"
         ]
     },
+    "外婆的澎湖湾_3.txt": {
+        "file": [
+            "外婆的澎湖湾_3.txt"
+        ],
+        "title": "外婆的澎湖湾",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-21977"
+        ]
+    },
     "外面的世界.txt": {
         "file": [
             "外面的世界.txt"
@@ -64079,6 +68130,22 @@
         "status": "ocr",
         "source": [
             "jianpucn-120939"
+        ]
+    },
+    "大城之光_2.txt": {
+        "file": [
+            "大城之光_2.txt"
+        ],
+        "title": "大城之光",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-273017"
         ]
     },
     "大城小爱.txt": {
@@ -65981,6 +70048,22 @@
             "jianpucn-135017"
         ]
     },
+    "天下（王洁.txt": {
+        "file": [
+            "天下（王洁.txt"
+        ],
+        "title": "天下（王洁",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-287343"
+        ]
+    },
     "天之大.txt": {
         "file": [
             "天之大.txt"
@@ -66293,6 +70376,22 @@
         "status": "ocr",
         "source": [
             "qupu123-329493"
+        ]
+    },
+    "天地龙鳞.txt": {
+        "file": [
+            "天地龙鳞.txt"
+        ],
+        "title": "天地龙鳞",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-257591"
         ]
     },
     "天堂.txt": {
@@ -66948,6 +71047,22 @@
         "tag": [
             "分类/通俗歌曲"
         ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-332858"
+        ]
+    },
+    "天留坊_2.txt": {
+        "file": [
+            "天留坊_2.txt"
+        ],
+        "title": "天留坊",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
         "transcriber": [
             "jianpu2-auto"
         ],
@@ -67872,6 +71987,25 @@
             "乌延永安"
         ]
     },
+    "太行情.txt": {
+        "file": [
+            "太行情.txt"
+        ],
+        "title": "太行情",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-370552"
+        ],
+        "todo": [
+            "add tags"
+        ]
+    },
     "太阳出来了.txt": {
         "file": [
             "太阳出来了.txt"
@@ -68230,6 +72364,38 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "失恋.txt": {
+        "file": [
+            "失恋.txt"
+        ],
+        "title": "失恋",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-288523"
+        ]
+    },
+    "失恋_2.txt": {
+        "file": [
+            "失恋_2.txt"
+        ],
+        "title": "失恋",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-421459"
         ]
     },
     "失恋阵线联盟.txt": {
@@ -68956,6 +73122,22 @@
             "谭晶"
         ]
     },
+    "女儿歌_2.txt": {
+        "file": [
+            "女儿歌_2.txt"
+        ],
+        "title": "女儿歌",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-19344"
+        ]
+    },
     "女兵的心事.txt": {
         "file": [
             "女兵的心事.txt"
@@ -69616,6 +73798,22 @@
         "status": "ocr",
         "source": [
             "jianpujia-26498"
+        ]
+    },
+    "好心分手.txt": {
+        "file": [
+            "好心分手.txt"
+        ],
+        "title": "好心分手",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-346942"
         ]
     },
     "好心态之歌.txt": {
@@ -71339,6 +75537,38 @@
             "蓓蕾组合"
         ]
     },
+    "妈妈的吻_2.txt": {
+        "file": [
+            "妈妈的吻_2.txt"
+        ],
+        "title": "妈妈的吻",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-26434"
+        ]
+    },
+    "妈妈的吻_3.txt": {
+        "file": [
+            "妈妈的吻_3.txt"
+        ],
+        "title": "妈妈的吻",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-26536"
+        ]
+    },
     "妈妈的娜鲁娃.txt": {
         "file": [
             "妈妈的娜鲁娃.txt"
@@ -71739,6 +75969,86 @@
             "qupu123-311962"
         ]
     },
+    "姐姐.txt": {
+        "file": [
+            "姐姐.txt"
+        ],
+        "title": "姐姐",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-118884"
+        ]
+    },
+    "姐姐_2.txt": {
+        "file": [
+            "姐姐_2.txt"
+        ],
+        "title": "姐姐",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-45592"
+        ]
+    },
+    "姐姐_3.txt": {
+        "file": [
+            "姐姐_3.txt"
+        ],
+        "title": "姐姐",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-58062"
+        ]
+    },
+    "姐姐_4.txt": {
+        "file": [
+            "姐姐_4.txt"
+        ],
+        "title": "姐姐",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-69457"
+        ]
+    },
+    "姐姐_5.txt": {
+        "file": [
+            "姐姐_5.txt"
+        ],
+        "title": "姐姐",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-141804"
+        ]
+    },
     "姑娘你太美.txt": {
         "file": [
             "姑娘你太美.txt"
@@ -71811,6 +76121,22 @@
         "status": "ocr",
         "source": [
             "jianpujia-26445"
+        ]
+    },
+    "娃哈哈_2.txt": {
+        "file": [
+            "娃哈哈_2.txt"
+        ],
+        "title": "娃哈哈",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-26527"
         ]
     },
     "娃娃和星星.txt": {
@@ -72384,6 +76710,22 @@
             "qupu123-372875"
         ]
     },
+    "孤勇者_3.txt": {
+        "file": [
+            "孤勇者_3.txt"
+        ],
+        "title": "孤勇者",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-151316"
+        ]
+    },
     "孤勇者钢琴.txt": {
         "file": [
             "孤勇者钢琴.txt"
@@ -72459,6 +76801,38 @@
         "status": "ocr",
         "source": [
             "jianpucn-71169"
+        ]
+    },
+    "孤枕难眠.txt": {
+        "file": [
+            "孤枕难眠.txt"
+        ],
+        "title": "孤枕难眠",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-36398"
+        ]
+    },
+    "孤枕难眠_2.txt": {
+        "file": [
+            "孤枕难眠_2.txt"
+        ],
+        "title": "孤枕难眠",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-40562"
         ]
     },
     "孤枕难眠_歌曲类.txt": {
@@ -72649,6 +77023,22 @@
         "status": "ocr",
         "source": [
             "jianpujia-15582"
+        ]
+    },
+    "学习雷锋好榜样_3.txt": {
+        "file": [
+            "学习雷锋好榜样_3.txt"
+        ],
+        "title": "学习雷锋好榜样",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-20507"
         ]
     },
     "学厨艺&nbsp;&nbsp;.txt": {
@@ -73749,6 +78139,25 @@
         "status": "ocr",
         "source": [
             "qupu123-328264"
+        ]
+    },
+    "宫廷宴舞.txt": {
+        "file": [
+            "宫廷宴舞.txt"
+        ],
+        "title": "宫廷宴舞",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-280697"
+        ],
+        "todo": [
+            "add tags"
         ]
     },
     "家.txt": {
@@ -78126,6 +82535,22 @@
             "jianpujia-9850"
         ]
     },
+    "小螺号_3.txt": {
+        "file": [
+            "小螺号_3.txt"
+        ],
+        "title": "小螺号",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-26532"
+        ]
+    },
     "小警察之歌.txt": {
         "file": [
             "小警察之歌.txt"
@@ -81886,6 +86311,22 @@
             "qupu123-318463"
         ]
     },
+    "平凡之路_2.txt": {
+        "file": [
+            "平凡之路_2.txt"
+        ],
+        "title": "平凡之路",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-251973"
+        ]
+    },
     "平凡人生.txt": {
         "file": [
             "平凡人生.txt"
@@ -85249,6 +89690,54 @@
             "qupu123-382097"
         ]
     },
+    "征服.txt": {
+        "file": [
+            "征服.txt"
+        ],
+        "title": "征服",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-38449"
+        ]
+    },
+    "征服_2.txt": {
+        "file": [
+            "征服_2.txt"
+        ],
+        "title": "征服",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-62558"
+        ]
+    },
+    "征服_3.txt": {
+        "file": [
+            "征服_3.txt"
+        ],
+        "title": "征服",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-70352"
+        ]
+    },
     "征服天堂.txt": {
         "file": [
             "征服天堂.txt"
@@ -85267,6 +89756,22 @@
         "status": "ocr",
         "source": [
             "qupu123-373701"
+        ]
+    },
+    "征服钢琴.txt": {
+        "file": [
+            "征服钢琴.txt"
+        ],
+        "title": "征服钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-249895"
         ]
     },
     "待嫁的新娘.txt": {
@@ -86416,6 +90921,22 @@
             "qupu123-37767"
         ]
     },
+    "心如刀割.txt": {
+        "file": [
+            "心如刀割.txt"
+        ],
+        "title": "心如刀割",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-74124"
+        ]
+    },
     "心如刀割_歌曲类.txt": {
         "file": [
             "心如刀割_歌曲类.txt"
@@ -87264,6 +91785,22 @@
         "status": "ocr",
         "source": [
             "qupu123-315212"
+        ]
+    },
+    "忘不了你_2.txt": {
+        "file": [
+            "忘不了你_2.txt"
+        ],
+        "title": "忘不了你",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-307455"
         ]
     },
     "忘不了您.txt": {
@@ -89141,6 +93678,22 @@
             "qupu123-326567"
         ]
     },
+    "恋爱症候群.txt": {
+        "file": [
+            "恋爱症候群.txt"
+        ],
+        "title": "恋爱症候群",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-139932"
+        ]
+    },
     "恋爱的人都一样.txt": {
         "file": [
             "恋爱的人都一样.txt"
@@ -89179,6 +93732,25 @@
         "status": "ocr",
         "source": [
             "qupu123-334973"
+        ]
+    },
+    "恐龙进化论.txt": {
+        "file": [
+            "恐龙进化论.txt"
+        ],
+        "title": "恐龙进化论",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-401511"
+        ],
+        "todo": [
+            "add tags"
         ]
     },
     "恒山中学你最美.txt": {
@@ -89430,6 +94002,22 @@
             "jianpujia-255239"
         ]
     },
+    "恭喜发财_5.txt": {
+        "file": [
+            "恭喜发财_5.txt"
+        ],
+        "title": "恭喜发财",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-154062"
+        ]
+    },
     "恭喜恭喜.txt": {
         "file": [
             "恭喜恭喜.txt"
@@ -89512,6 +94100,54 @@
         "status": "ocr",
         "source": [
             "jianpucn-213341"
+        ]
+    },
+    "恼人的秋风.txt": {
+        "file": [
+            "恼人的秋风.txt"
+        ],
+        "title": "恼人的秋风",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-36555"
+        ]
+    },
+    "恼人的秋风_2.txt": {
+        "file": [
+            "恼人的秋风_2.txt"
+        ],
+        "title": "恼人的秋风",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-42485"
+        ]
+    },
+    "恼人的秋风_3.txt": {
+        "file": [
+            "恼人的秋风_3.txt"
+        ],
+        "title": "恼人的秋风",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-60221"
         ]
     },
     "悄悄地告诉你.txt": {
@@ -89771,6 +94407,22 @@
         "status": "ocr",
         "source": [
             "qupu123-333186"
+        ]
+    },
+    "情义两心坚.txt": {
+        "file": [
+            "情义两心坚.txt"
+        ],
+        "title": "情义两心坚",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-124694"
         ]
     },
     "情书_歌曲类.txt": {
@@ -90169,6 +94821,22 @@
         ],
         "artist": [
             "阎维文"
+        ]
+    },
+    "情怨.txt": {
+        "file": [
+            "情怨.txt"
+        ],
+        "title": "情怨",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-475024"
         ]
     },
     "情怨无常歌.txt": {
@@ -91329,6 +95997,22 @@
         "status": "ocr",
         "source": [
             "jianpujia-386769"
+        ]
+    },
+    "想哭_3.txt": {
+        "file": [
+            "想哭_3.txt"
+        ],
+        "title": "想哭",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-154627"
         ]
     },
     "想家的人.txt": {
@@ -93836,6 +98520,22 @@
             "蒋大为"
         ]
     },
+    "我们一起走_2.txt": {
+        "file": [
+            "我们一起走_2.txt"
+        ],
+        "title": "我们一起走",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-304877"
+        ]
+    },
     "我们为祖国而自豪.txt": {
         "file": [
             "我们为祖国而自豪.txt"
@@ -94224,6 +98924,22 @@
         "status": "ocr",
         "source": [
             "jianpujia-7212"
+        ]
+    },
+    "我们是共产主义接班人_3.txt": {
+        "file": [
+            "我们是共产主义接班人_3.txt"
+        ],
+        "title": "我们是共产主义接班人",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-20468"
         ]
     },
     "我们是初升的太阳.txt": {
@@ -96032,6 +100748,22 @@
             "薛之谦"
         ]
     },
+    "我害怕_2.txt": {
+        "file": [
+            "我害怕_2.txt"
+        ],
+        "title": "我害怕",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-303918"
+        ]
+    },
     "我害怕钢琴.txt": {
         "file": [
             "我害怕钢琴.txt"
@@ -96796,6 +101528,25 @@
         ],
         "todo": [
             "add tags"
+        ]
+    },
+    "我愿意简单版钢琴.txt": {
+        "file": [
+            "我愿意简单版钢琴.txt"
+        ],
+        "title": "我愿意简单版钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-252803"
+        ],
+        "todo": [
+            "refine the filename"
         ]
     },
     "我愿意钢琴.txt": {
@@ -99485,6 +104236,22 @@
             "qupu123-335537"
         ]
     },
+    "我的心一路向北.txt": {
+        "file": [
+            "我的心一路向北.txt"
+        ],
+        "title": "我的心一路向北",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-131749"
+        ]
+    },
     "我的心为你醉.txt": {
         "file": [
             "我的心为你醉.txt"
@@ -99784,6 +104551,22 @@
             "jianpucn-52295"
         ]
     },
+    "我的未来不是梦_2_2.txt": {
+        "file": [
+            "我的未来不是梦_2_2.txt"
+        ],
+        "title": "我的未来不是梦 2",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-52295"
+        ]
+    },
     "我的梦&nbsp;&nbsp;.txt": {
         "file": [
             "我的梦&nbsp;&nbsp;.txt"
@@ -100048,6 +104831,22 @@
         ],
         "todo": [
             "add tags"
+        ]
+    },
+    "我的爱人你可听见.txt": {
+        "file": [
+            "我的爱人你可听见.txt"
+        ],
+        "title": "我的爱人你可听见",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-370529"
         ]
     },
     "我的爱人你可听见歌剧《长征》咏叹调.txt": {
@@ -102185,6 +106984,22 @@
         "status": "ocr",
         "source": [
             "jianpujia-42563"
+        ]
+    },
+    "打电话_3.txt": {
+        "file": [
+            "打电话_3.txt"
+        ],
+        "title": "打电话",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-74659"
         ]
     },
     "打电话（罗晓航.txt": {
@@ -104801,6 +109616,22 @@
             "qupu123-334225"
         ]
     },
+    "推开世界的门.txt": {
+        "file": [
+            "推开世界的门.txt"
+        ],
+        "title": "推开世界的门",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-310208"
+        ]
+    },
     "推搪.txt": {
         "file": [
             "推搪.txt"
@@ -104928,6 +109759,38 @@
         ],
         "artist": [
             "降央卓玛"
+        ]
+    },
+    "搁浅.txt": {
+        "file": [
+            "搁浅.txt"
+        ],
+        "title": "搁浅",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-41101"
+        ]
+    },
+    "搁浅_2.txt": {
+        "file": [
+            "搁浅_2.txt"
+        ],
+        "title": "搁浅",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-89359"
         ]
     },
     "搜心.txt": {
@@ -106969,6 +111832,22 @@
         "status": "ocr",
         "source": [
             "qupu123-334967"
+        ]
+    },
+    "新十五的月亮.txt": {
+        "file": [
+            "新十五的月亮.txt"
+        ],
+        "title": "新十五的月亮",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-153980"
         ]
     },
     "新婚祝福.txt": {
@@ -109402,6 +114281,102 @@
             "罗大佑"
         ]
     },
+    "明天你是否依然爱我.txt": {
+        "file": [
+            "明天你是否依然爱我.txt"
+        ],
+        "title": "明天你是否依然爱我",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-34774"
+        ]
+    },
+    "明天你是否依然爱我_2.txt": {
+        "file": [
+            "明天你是否依然爱我_2.txt"
+        ],
+        "title": "明天你是否依然爱我",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-36144"
+        ]
+    },
+    "明天你是否依然爱我_3.txt": {
+        "file": [
+            "明天你是否依然爱我_3.txt"
+        ],
+        "title": "明天你是否依然爱我",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-40176"
+        ]
+    },
+    "明天你是否依然爱我_4.txt": {
+        "file": [
+            "明天你是否依然爱我_4.txt"
+        ],
+        "title": "明天你是否依然爱我",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-42542"
+        ]
+    },
+    "明天你是否依然爱我_5.txt": {
+        "file": [
+            "明天你是否依然爱我_5.txt"
+        ],
+        "title": "明天你是否依然爱我",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-60200"
+        ]
+    },
+    "明天你是否依然爱我_6.txt": {
+        "file": [
+            "明天你是否依然爱我_6.txt"
+        ],
+        "title": "明天你是否依然爱我",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-60694"
+        ]
+    },
     "明天女声合唱谱.txt": {
         "file": [
             "明天女声合唱谱.txt"
@@ -110947,6 +115922,22 @@
             "戴梓伊"
         ]
     },
+    "春晓_2.txt": {
+        "file": [
+            "春晓_2.txt"
+        ],
+        "title": "春晓",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-22097"
+        ]
+    },
     "春暖花开.txt": {
         "file": [
             "春暖花开.txt"
@@ -112147,6 +117138,38 @@
             "qupu123-369949"
         ]
     },
+    "晚风心里吹.txt": {
+        "file": [
+            "晚风心里吹.txt"
+        ],
+        "title": "晚风心里吹",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-147797"
+        ]
+    },
+    "晚风心里吹钢琴.txt": {
+        "file": [
+            "晚风心里吹钢琴.txt"
+        ],
+        "title": "晚风心里吹钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-152028"
+        ]
+    },
     "晚风（.txt": {
         "file": [
             "晚风（.txt"
@@ -113005,6 +118028,22 @@
             "qupu123-323223"
         ]
     },
+    "最后一夜.txt": {
+        "file": [
+            "最后一夜.txt"
+        ],
+        "title": "最后一夜",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-59606"
+        ]
+    },
     "最后一封信.txt": {
         "file": [
             "最后一封信.txt"
@@ -113203,6 +118242,22 @@
         "status": "ocr",
         "source": [
             "qupu123-331396"
+        ]
+    },
+    "最好的安排钢琴.txt": {
+        "file": [
+            "最好的安排钢琴.txt"
+        ],
+        "title": "最好的安排钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-383205"
         ]
     },
     "最好的时代.txt": {
@@ -114026,6 +119081,70 @@
         "status": "ocr",
         "source": [
             "jianpucn-114800"
+        ]
+    },
+    "最长的电影.txt": {
+        "file": [
+            "最长的电影.txt"
+        ],
+        "title": "最长的电影",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-44964"
+        ]
+    },
+    "最长的电影_2.txt": {
+        "file": [
+            "最长的电影_2.txt"
+        ],
+        "title": "最长的电影",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-324194"
+        ]
+    },
+    "最长的电影周杰伦彩色.txt": {
+        "file": [
+            "最长的电影周杰伦彩色.txt"
+        ],
+        "title": "最长的电影周杰伦彩色",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-432663"
+        ]
+    },
+    "最长的电影钢琴.txt": {
+        "file": [
+            "最长的电影钢琴.txt"
+        ],
+        "title": "最长的电影钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-252875"
         ]
     },
     "月上紫禁城.txt": {
@@ -115151,6 +120270,22 @@
         "status": "ocr",
         "source": [
             "jianpucn-89306"
+        ]
+    },
+    "月老_2.txt": {
+        "file": [
+            "月老_2.txt"
+        ],
+        "title": "月老",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-19289"
         ]
     },
     "月芽泉.txt": {
@@ -117260,6 +122395,22 @@
             "莫文蔚"
         ]
     },
+    "未命名-jianpujia-15680.txt": {
+        "file": [
+            "未命名-jianpujia-15680.txt"
+        ],
+        "title": "未命名-jianpujia-15680",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-15680"
+        ]
+    },
     "未命名-jianpujia-15773.txt": {
         "file": [
             "未命名-jianpujia-15773.txt"
@@ -117297,6 +122448,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "未命名-jianpujia-21023.txt": {
+        "file": [
+            "未命名-jianpujia-21023.txt"
+        ],
+        "title": "未命名-jianpujia-21023",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-21023"
         ]
     },
     "未命名-jianpujia-211190.txt": {
@@ -117379,6 +122546,22 @@
             "refine the filename"
         ]
     },
+    "未命名-jianpujia-238454.txt": {
+        "file": [
+            "未命名-jianpujia-238454.txt"
+        ],
+        "title": "未命名-jianpujia-238454",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-238454"
+        ]
+    },
     "未命名-jianpujia-255717.txt": {
         "file": [
             "未命名-jianpujia-255717.txt"
@@ -117454,6 +122637,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "未命名-jianpujia-314236.txt": {
+        "file": [
+            "未命名-jianpujia-314236.txt"
+        ],
+        "title": "未命名-jianpujia-314236",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-314236"
         ]
     },
     "未命名-jianpujia-314355.txt": {
@@ -117659,6 +122858,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "未命名-jianpujia-7494.txt": {
+        "file": [
+            "未命名-jianpujia-7494.txt"
+        ],
+        "title": "未命名-jianpujia-7494",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-7494"
         ]
     },
     "未完成的歌.txt": {
@@ -119261,6 +124476,22 @@
             "add tags"
         ]
     },
+    "柳琴六级：十五的月亮.txt": {
+        "file": [
+            "柳琴六级：十五的月亮.txt"
+        ],
+        "title": "柳琴六级：十五的月亮",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-161392"
+        ]
+    },
     "柳絮满天飞.txt": {
         "file": [
             "柳絮满天飞.txt"
@@ -120188,6 +125419,22 @@
         ],
         "todo": [
             "add tags"
+        ]
+    },
+    "梅兰梅兰我爱你.txt": {
+        "file": [
+            "梅兰梅兰我爱你.txt"
+        ],
+        "title": "梅兰梅兰我爱你",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-36556"
         ]
     },
     "梅娘曲.txt": {
@@ -123049,6 +128296,22 @@
             "jianpujia-15529"
         ]
     },
+    "歌声与微笑_3.txt": {
+        "file": [
+            "歌声与微笑_3.txt"
+        ],
+        "title": "歌声与微笑",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-26523"
+        ]
+    },
     "歌曲：梅花.txt": {
         "file": [
             "歌曲：梅花.txt"
@@ -124122,6 +129385,38 @@
         "status": "ocr",
         "source": [
             "jianpucn-47547"
+        ]
+    },
+    "每段路.txt": {
+        "file": [
+            "每段路.txt"
+        ],
+        "title": "每段路",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-119963"
+        ]
+    },
+    "每段路_2.txt": {
+        "file": [
+            "每段路_2.txt"
+        ],
+        "title": "每段路",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-134626"
         ]
     },
     "比翼鸟.txt": {
@@ -126059,6 +131354,25 @@
             "jianpucn-41565"
         ]
     },
+    "沁园春·雪.txt": {
+        "file": [
+            "沁园春·雪.txt"
+        ],
+        "title": "沁园春·雪",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-370523"
+        ],
+        "todo": [
+            "add tags"
+        ]
+    },
     "沂蒙山下是我家.txt": {
         "file": [
             "沂蒙山下是我家.txt"
@@ -126221,6 +131535,22 @@
         "status": "ocr",
         "source": [
             "qupu123-5677"
+        ]
+    },
+    "沉默是金_3.txt": {
+        "file": [
+            "沉默是金_3.txt"
+        ],
+        "title": "沉默是金",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-19484"
         ]
     },
     "沉默的表示.txt": {
@@ -128086,6 +133416,38 @@
             "迪丽热巴/毛不易"
         ]
     },
+    "海上花.txt": {
+        "file": [
+            "海上花.txt"
+        ],
+        "title": "海上花",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-65002"
+        ]
+    },
+    "海上花_2.txt": {
+        "file": [
+            "海上花_2.txt"
+        ],
+        "title": "海上花",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-74312"
+        ]
+    },
     "海之歌.txt": {
         "file": [
             "海之歌.txt"
@@ -128968,6 +134330,134 @@
         "status": "ocr",
         "source": [
             "jianpucn-32090"
+        ]
+    },
+    "涛声依旧.txt": {
+        "file": [
+            "涛声依旧.txt"
+        ],
+        "title": "涛声依旧",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-36421"
+        ]
+    },
+    "涛声依旧_2.txt": {
+        "file": [
+            "涛声依旧_2.txt"
+        ],
+        "title": "涛声依旧",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-36746"
+        ]
+    },
+    "涛声依旧_3.txt": {
+        "file": [
+            "涛声依旧_3.txt"
+        ],
+        "title": "涛声依旧",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-41853"
+        ]
+    },
+    "涛声依旧_4.txt": {
+        "file": [
+            "涛声依旧_4.txt"
+        ],
+        "title": "涛声依旧",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-45026"
+        ]
+    },
+    "涛声依旧_5.txt": {
+        "file": [
+            "涛声依旧_5.txt"
+        ],
+        "title": "涛声依旧",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-60579"
+        ]
+    },
+    "涛声依旧_6.txt": {
+        "file": [
+            "涛声依旧_6.txt"
+        ],
+        "title": "涛声依旧",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-382283"
+        ]
+    },
+    "涛声依旧_7.txt": {
+        "file": [
+            "涛声依旧_7.txt"
+        ],
+        "title": "涛声依旧",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-227502"
+        ]
+    },
+    "涛声依旧_8.txt": {
+        "file": [
+            "涛声依旧_8.txt"
+        ],
+        "title": "涛声依旧",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-263345"
         ]
     },
     "涟漪.txt": {
@@ -133790,6 +139280,38 @@
             "qupu123-334468"
         ]
     },
+    "爱你没差钢琴.txt": {
+        "file": [
+            "爱你没差钢琴.txt"
+        ],
+        "title": "爱你没差钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-253042"
+        ]
+    },
+    "爱你没差钢琴_2.txt": {
+        "file": [
+            "爱你没差钢琴_2.txt"
+        ],
+        "title": "爱你没差钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-109089"
+        ]
+    },
     "爱你没爱够.txt": {
         "file": [
             "爱你没爱够.txt"
@@ -134316,6 +139838,22 @@
             "jianpucn-119677"
         ]
     },
+    "爱如此神奇_2.txt": {
+        "file": [
+            "爱如此神奇_2.txt"
+        ],
+        "title": "爱如此神奇",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-19236"
+        ]
+    },
     "爱如此美丽.txt": {
         "file": [
             "爱如此美丽.txt"
@@ -134546,6 +140084,22 @@
         ],
         "artist": [
             "邓丽君"
+        ]
+    },
+    "爱情一米痛千里.txt": {
+        "file": [
+            "爱情一米痛千里.txt"
+        ],
+        "title": "爱情一米痛千里",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-315792"
         ]
     },
     "爱情三十六计.txt": {
@@ -134872,6 +140426,22 @@
         ],
         "todo": [
             "add tags"
+        ]
+    },
+    "爱情转移_3.txt": {
+        "file": [
+            "爱情转移_3.txt"
+        ],
+        "title": "爱情转移",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-76110"
         ]
     },
     "爱情里的眼泪.txt": {
@@ -135753,6 +141323,38 @@
         "status": "ocr",
         "source": [
             "qupu123-330615"
+        ]
+    },
+    "爱的太迟钢琴.txt": {
+        "file": [
+            "爱的太迟钢琴.txt"
+        ],
+        "title": "爱的太迟钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-148844"
+        ]
+    },
+    "爱的太迟钢琴_2.txt": {
+        "file": [
+            "爱的太迟钢琴_2.txt"
+        ],
+        "title": "爱的太迟钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-112183"
         ]
     },
     "爱的完结篇.txt": {
@@ -137801,6 +143403,22 @@
         "status": "ocr",
         "source": [
             "qupu123-308796"
+        ]
+    },
+    "特别的人钢琴.txt": {
+        "file": [
+            "特别的人钢琴.txt"
+        ],
+        "title": "特别的人钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-250123"
         ]
     },
     "特别的爱给特别的你.txt": {
@@ -142991,6 +148609,22 @@
             "qupu123-319482"
         ]
     },
+    "留住我吧.txt": {
+        "file": [
+            "留住我吧.txt"
+        ],
+        "title": "留住我吧",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-49083"
+        ]
+    },
     "留学之歌.txt": {
         "file": [
             "留学之歌.txt"
@@ -144582,6 +150216,22 @@
         ],
         "artist": [
             "陈奕迅"
+        ]
+    },
+    "盲婚哑嫁_2.txt": {
+        "file": [
+            "盲婚哑嫁_2.txt"
+        ],
+        "title": "盲婚哑嫁",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-388028"
         ]
     },
     "盲婚哑嫁钢琴.txt": {
@@ -146325,6 +151975,22 @@
             "jianpucn-59117"
         ]
     },
+    "真我的风采_2.txt": {
+        "file": [
+            "真我的风采_2.txt"
+        ],
+        "title": "真我的风采",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-19252"
+        ]
+    },
     "真永远.txt": {
         "file": [
             "真永远.txt"
@@ -146700,6 +152366,22 @@
         "status": "ocr",
         "source": [
             "qupu123-325011"
+        ]
+    },
+    "瞬钢琴.txt": {
+        "file": [
+            "瞬钢琴.txt"
+        ],
+        "title": "瞬钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-379264"
         ]
     },
     "瞬间.txt": {
@@ -147644,6 +153326,22 @@
         "status": "ocr",
         "source": [
             "qupu123-382579"
+        ]
+    },
+    "祈祷_2.txt": {
+        "file": [
+            "祈祷_2.txt"
+        ],
+        "title": "祈祷",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-308704"
         ]
     },
     "祖国.txt": {
@@ -148836,6 +154534,22 @@
         "status": "ocr",
         "source": [
             "jianpujia-238380"
+        ]
+    },
+    "祝福_3.txt": {
+        "file": [
+            "祝福_3.txt"
+        ],
+        "title": "祝福",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-14449"
         ]
     },
     "祝福_歌曲类.txt": {
@@ -152393,6 +158107,22 @@
             "qupu123-280541"
         ]
     },
+    "等一分钟_2.txt": {
+        "file": [
+            "等一分钟_2.txt"
+        ],
+        "title": "等一分钟",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-dengyifenzhong"
+        ]
+    },
     "等一分钟（笛子.txt": {
         "file": [
             "等一分钟（笛子.txt"
@@ -152880,6 +158610,22 @@
         "status": "ocr",
         "source": [
             "jianpucn-213239"
+        ]
+    },
+    "简单版让世界充满爱_让世界充满爱谱子.txt": {
+        "file": [
+            "简单版让世界充满爱_让世界充满爱谱子.txt"
+        ],
+        "title": "简单版让世界充满爱 让世界充满爱谱子",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-175304"
         ]
     },
     "简简单单-林俊杰.txt": {
@@ -154023,6 +159769,22 @@
             "qupu123-481"
         ]
     },
+    "红星歌_3.txt": {
+        "file": [
+            "红星歌_3.txt"
+        ],
+        "title": "红星歌",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-15449"
+        ]
+    },
     "红星照我去战斗.txt": {
         "file": [
             "红星照我去战斗.txt"
@@ -154630,6 +160392,22 @@
             "qupu123-339811"
         ]
     },
+    "红豆_4.txt": {
+        "file": [
+            "红豆_4.txt"
+        ],
+        "title": "红豆",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-15415"
+        ]
+    },
     "红酒女人.txt": {
         "file": [
             "红酒女人.txt"
@@ -155069,6 +160847,22 @@
             "jianpucn-170441"
         ]
     },
+    "练习_2.txt": {
+        "file": [
+            "练习_2.txt"
+        ],
+        "title": "练习",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-15039"
+        ]
+    },
     "练习_歌曲类.txt": {
         "file": [
             "练习_歌曲类.txt"
@@ -155232,6 +161026,54 @@
         ],
         "artist": [
             "五月天"
+        ]
+    },
+    "终身美丽.txt": {
+        "file": [
+            "终身美丽.txt"
+        ],
+        "title": "终身美丽",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-14832"
+        ]
+    },
+    "终身美丽钢琴.txt": {
+        "file": [
+            "终身美丽钢琴.txt"
+        ],
+        "title": "终身美丽钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-114235"
+        ]
+    },
+    "终身美丽钢琴_2.txt": {
+        "file": [
+            "终身美丽钢琴_2.txt"
+        ],
+        "title": "终身美丽钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-245572"
         ]
     },
     "绒花.txt": {
@@ -155669,6 +161511,22 @@
         "status": "ocr",
         "source": [
             "qupu123-332417"
+        ]
+    },
+    "绽放的小姑娘_2.txt": {
+        "file": [
+            "绽放的小姑娘_2.txt"
+        ],
+        "title": "绽放的小姑娘",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-324557"
         ]
     },
     "绿.txt": {
@@ -156543,6 +162401,22 @@
         ],
         "artist": [
             "阎维文"
+        ]
+    },
+    "美丽中国_2.txt": {
+        "file": [
+            "美丽中国_2.txt"
+        ],
+        "title": "美丽中国",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-311058"
         ]
     },
     "美丽中国唱起来.txt": {
@@ -168785,6 +174659,358 @@
             "qupu123-273470"
         ]
     },
+    "让世界充满爱---可听.txt": {
+        "file": [
+            "让世界充满爱---可听.txt"
+        ],
+        "title": "让世界充满爱---可听",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-187489"
+        ]
+    },
+    "让世界充满爱.txt": {
+        "file": [
+            "让世界充满爱.txt"
+        ],
+        "title": "让世界充满爱",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-46075"
+        ]
+    },
+    "让世界充满爱_10.txt": {
+        "file": [
+            "让世界充满爱_10.txt"
+        ],
+        "title": "让世界充满爱",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-38647"
+        ]
+    },
+    "让世界充满爱_11.txt": {
+        "file": [
+            "让世界充满爱_11.txt"
+        ],
+        "title": "让世界充满爱",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-46503"
+        ]
+    },
+    "让世界充满爱_12.txt": {
+        "file": [
+            "让世界充满爱_12.txt"
+        ],
+        "title": "让世界充满爱",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-46766"
+        ]
+    },
+    "让世界充满爱_13.txt": {
+        "file": [
+            "让世界充满爱_13.txt"
+        ],
+        "title": "让世界充满爱",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-48588"
+        ]
+    },
+    "让世界充满爱_14.txt": {
+        "file": [
+            "让世界充满爱_14.txt"
+        ],
+        "title": "让世界充满爱",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-62480"
+        ]
+    },
+    "让世界充满爱_15.txt": {
+        "file": [
+            "让世界充满爱_15.txt"
+        ],
+        "title": "让世界充满爱",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-157016"
+        ]
+    },
+    "让世界充满爱_16.txt": {
+        "file": [
+            "让世界充满爱_16.txt"
+        ],
+        "title": "让世界充满爱",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-58831"
+        ]
+    },
+    "让世界充满爱_17.txt": {
+        "file": [
+            "让世界充满爱_17.txt"
+        ],
+        "title": "让世界充满爱",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-58828"
+        ]
+    },
+    "让世界充满爱_18.txt": {
+        "file": [
+            "让世界充满爱_18.txt"
+        ],
+        "title": "让世界充满爱",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-58830"
+        ]
+    },
+    "让世界充满爱_19.txt": {
+        "file": [
+            "让世界充满爱_19.txt"
+        ],
+        "title": "让世界充满爱",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-304709"
+        ]
+    },
+    "让世界充满爱_2.txt": {
+        "file": [
+            "让世界充满爱_2.txt"
+        ],
+        "title": "让世界充满爱",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-47094"
+        ]
+    },
+    "让世界充满爱_3.txt": {
+        "file": [
+            "让世界充满爱_3.txt"
+        ],
+        "title": "让世界充满爱",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-57098"
+        ]
+    },
+    "让世界充满爱_4.txt": {
+        "file": [
+            "让世界充满爱_4.txt"
+        ],
+        "title": "让世界充满爱",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-43172"
+        ]
+    },
+    "让世界充满爱_5.txt": {
+        "file": [
+            "让世界充满爱_5.txt"
+        ],
+        "title": "让世界充满爱",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-69167"
+        ]
+    },
+    "让世界充满爱_6.txt": {
+        "file": [
+            "让世界充满爱_6.txt"
+        ],
+        "title": "让世界充满爱",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-29392"
+        ]
+    },
+    "让世界充满爱_7.txt": {
+        "file": [
+            "让世界充满爱_7.txt"
+        ],
+        "title": "让世界充满爱",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-29394"
+        ]
+    },
+    "让世界充满爱_8.txt": {
+        "file": [
+            "让世界充满爱_8.txt"
+        ],
+        "title": "让世界充满爱",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-34943"
+        ]
+    },
+    "让世界充满爱_9.txt": {
+        "file": [
+            "让世界充满爱_9.txt"
+        ],
+        "title": "让世界充满爱",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-35111"
+        ]
+    },
+    "让世界充满爱】彩谱】.txt": {
+        "file": [
+            "让世界充满爱】彩谱】.txt"
+        ],
+        "title": "让世界充满爱】彩谱】",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-282056"
+        ]
+    },
+    "让世界充满爱一、二、三.txt": {
+        "file": [
+            "让世界充满爱一、二、三.txt"
+        ],
+        "title": "让世界充满爱一、二、三",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-295546"
+        ]
+    },
     "让你愉快.txt": {
         "file": [
             "让你愉快.txt"
@@ -168943,6 +175169,22 @@
         "status": "ocr",
         "source": [
             "jianpujia-26282"
+        ]
+    },
+    "让我们荡起双桨_2.txt": {
+        "file": [
+            "让我们荡起双桨_2.txt"
+        ],
+        "title": "让我们荡起双桨",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-26519"
         ]
     },
     "让我再亲你一口.txt": {
@@ -169325,6 +175567,25 @@
         "status": "ocr",
         "source": [
             "qupu123-333156"
+        ]
+    },
+    "记得（尤克里里.txt": {
+        "file": [
+            "记得（尤克里里.txt"
+        ],
+        "title": "记得（尤克里里",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-275278"
+        ],
+        "todo": [
+            "refine the filename"
         ]
     },
     "记忆中总有一杆枪.txt": {
@@ -169894,6 +176155,22 @@
         "status": "ocr",
         "source": [
             "jianpucn-79503"
+        ]
+    },
+    "说了再见.txt": {
+        "file": [
+            "说了再见.txt"
+        ],
+        "title": "说了再见",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-14627"
         ]
     },
     "说傅仪.txt": {
@@ -174053,6 +180330,22 @@
             "qupu123-332682"
         ]
     },
+    "越来越不懂钢琴.txt": {
+        "file": [
+            "越来越不懂钢琴.txt"
+        ],
+        "title": "越来越不懂钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-246519"
+        ]
+    },
     "越来越好.txt": {
         "file": [
             "越来越好.txt"
@@ -175457,6 +181750,22 @@
             "qupu123-333371"
         ]
     },
+    "过年回家_2.txt": {
+        "file": [
+            "过年回家_2.txt"
+        ],
+        "title": "过年回家",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-306994"
+        ]
+    },
     "过火.txt": {
         "file": [
             "过火.txt"
@@ -175711,6 +182020,38 @@
         "status": "ocr",
         "source": [
             "qupu123-311052"
+        ]
+    },
+    "还是分开钢琴.txt": {
+        "file": [
+            "还是分开钢琴.txt"
+        ],
+        "title": "还是分开钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-248130"
+        ]
+    },
+    "还是分开钢琴_2.txt": {
+        "file": [
+            "还是分开钢琴_2.txt"
+        ],
+        "title": "还是分开钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-154207"
         ]
     },
     "还是笨小孩钢琴.txt": {
@@ -177251,6 +183592,22 @@
             "qupu123-317209"
         ]
     },
+    "追寻_3.txt": {
+        "file": [
+            "追寻_3.txt"
+        ],
+        "title": "追寻",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-312869"
+        ]
+    },
     "追寻心中那道光.txt": {
         "file": [
             "追寻心中那道光.txt"
@@ -177562,6 +183919,38 @@
         "status": "ocr",
         "source": [
             "qupu123-326406"
+        ]
+    },
+    "退后.txt": {
+        "file": [
+            "退后.txt"
+        ],
+        "title": "退后",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-84506"
+        ]
+    },
+    "退后钢琴.txt": {
+        "file": [
+            "退后钢琴.txt"
+        ],
+        "title": "退后钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-245555"
         ]
     },
     "退役军人之歌.txt": {
@@ -178850,6 +185239,22 @@
         "status": "ocr",
         "source": [
             "qupu123-291740"
+        ]
+    },
+    "邓丽君_122.txt": {
+        "file": [
+            "邓丽君_122.txt"
+        ],
+        "title": "邓丽君",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-292344"
         ]
     },
     "邓丽君_13.txt": {
@@ -181044,6 +187449,166 @@
         "status": "ocr",
         "source": [
             "qupu123-296820"
+        ]
+    },
+    "那就是我-关贵敏.txt": {
+        "file": [
+            "那就是我-关贵敏.txt"
+        ],
+        "title": "那就是我-关贵敏",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-160676"
+        ]
+    },
+    "那就是我-朱逢博.txt": {
+        "file": [
+            "那就是我-朱逢博.txt"
+        ],
+        "title": "那就是我-朱逢博",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-160678"
+        ]
+    },
+    "那就是我.txt": {
+        "file": [
+            "那就是我.txt"
+        ],
+        "title": "那就是我",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-34764"
+        ]
+    },
+    "那就是我_2.txt": {
+        "file": [
+            "那就是我_2.txt"
+        ],
+        "title": "那就是我",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-41705"
+        ]
+    },
+    "那就是我_3.txt": {
+        "file": [
+            "那就是我_3.txt"
+        ],
+        "title": "那就是我",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-45307"
+        ]
+    },
+    "那就是我_4.txt": {
+        "file": [
+            "那就是我_4.txt"
+        ],
+        "title": "那就是我",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-60654"
+        ]
+    },
+    "那就是我_5.txt": {
+        "file": [
+            "那就是我_5.txt"
+        ],
+        "title": "那就是我",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-82981"
+        ]
+    },
+    "那就是我_6.txt": {
+        "file": [
+            "那就是我_6.txt"
+        ],
+        "title": "那就是我",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-235073"
+        ]
+    },
+    "那就是我_7.txt": {
+        "file": [
+            "那就是我_7.txt"
+        ],
+        "title": "那就是我",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-394122"
+        ]
+    },
+    "那就是我故乡.txt": {
+        "file": [
+            "那就是我故乡.txt"
+        ],
+        "title": "那就是我故乡",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-167199"
         ]
     },
     "那山那水.txt": {
@@ -183348,6 +189913,22 @@
         "status": "ocr",
         "source": [
             "jianpujia-74293"
+        ]
+    },
+    "铃儿响叮当_3.txt": {
+        "file": [
+            "铃儿响叮当_3.txt"
+        ],
+        "title": "铃儿响叮当",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-15735"
         ]
     },
     "铲东铲东铲.txt": {
@@ -188179,6 +194760,22 @@
             "qupu123-98588"
         ]
     },
+    "青花瓷_3.txt": {
+        "file": [
+            "青花瓷_3.txt"
+        ],
+        "title": "青花瓷",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-jinghuaci"
+        ]
+    },
     "青花赋.txt": {
         "file": [
             "青花赋.txt"
@@ -188809,6 +195406,22 @@
         "status": "ocr",
         "source": [
             "qupu123-380772"
+        ]
+    },
+    "颠倒歌_2.txt": {
+        "file": [
+            "颠倒歌_2.txt"
+        ],
+        "title": "颠倒歌",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-473380"
         ]
     },
     "风_告诉我.txt": {
@@ -189705,6 +196318,38 @@
         ],
         "artist": [
             "刘欢"
+        ]
+    },
+    "风雨同路.txt": {
+        "file": [
+            "风雨同路.txt"
+        ],
+        "title": "风雨同路",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-44086"
+        ]
+    },
+    "风雨同路_2.txt": {
+        "file": [
+            "风雨同路_2.txt"
+        ],
+        "title": "风雨同路",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-58699"
         ]
     },
     "风雨彩虹.txt": {
