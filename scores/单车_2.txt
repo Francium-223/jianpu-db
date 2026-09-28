@@ -1,0 +1,18 @@
+%单车_2.txt
+% 出处 https://www.qupu123.com/
+title=单车
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=qupu123-284339
+%--
+4/4
+subtitle=score
+x q1' s7' s1' s1' s0 s1' h2 s1' h0 s0 s0 s7 s1' s1' s0 q3' s1' s,6' q6' s,6' q6' s5' s5' s0 s0 s5' h2' h0 s0 h2' s5' s0 s0 s2'. q5'. s0 s0 5' 5'
+- - h2' s1' h0 s0 h2' s1' s0 s1' s1' s1' s0 s0 q1' s6 q1' q6' q1' s7 s7 s0 s0 s3' h2' h0 s0 h2' s5' s0 s0 s2'. q5'. s0 s0 1' 7' - - x
+,5 ,4 q,5 q,4 q,5 q,5 q,7 q1 q1 q1 ,5 q,5 q0 1 1 q,6 q,7 q,6 q,6 q,5 q,6 q,6 q,5 ,5 q,5 q0 ,3 q,3 q,4 ,3 - q,5 q,6 q,7 q,6 q,6 q,7 ,7 q,6 q,6
+q,6 q,5 ,4 q,3 q,4 q,4 q,3 q,4 q,2 ,2 0 3 q2 q,7 2 - q3 q4 q,7 q,6 ,5 q,3 q,4 ,3 q,7 q1 1 ,6 q,7 q1 q2 q2 2 0 q,5 q,5 ,7 2 4 q3
+q4 2 ,7 0 q,6 q,5 q,6 q,7 q,6 q,6 1 q2 q1 q2 q1 1 - q,5 q,4 q,5 q,5 q,5 q,4 ,5 q,5 q,6 q,5 q,5 ,5 - 0 ,5 ,5 ,5 1 0 0 0
+%END

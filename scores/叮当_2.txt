@@ -1,0 +1,16 @@
+%叮当_2.txt
+% 出处 https://www.qupu123.com/
+title=叮当
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=qupu123-227660
+%--
+4/4
+subtitle=score
+q,5 q1 q1. s3 q6. s3 5 0 q5. q6 q5. 3 q4. q3 2 q,6. s2 q2. s4 q7. s7 q6 q0 q5. s6 q5. s4 ,6 q,7. s1 2 - - - q,5. s1 q1. s3 q6. s3
+5 0 q5. s6 q5. s3 q4. s3 2 0 q,6. s2 q2. s4 q7. s7 q6 q0 q5. s6 q5. s4 ,6 7. s2 1 - - - q6 s6 s6 q6 q5 q4 q6 q5 q0 2 0
+x q2 q0 q2. s3 q4 q2 x 6 0 5 0 q4 0 0 6 q7 q6 q5 q6 q5 s4 0 q5 q6 3 q2 1 - - -
+%END

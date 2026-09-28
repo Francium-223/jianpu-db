@@ -1,0 +1,18 @@
+%我愿意简单版钢琴.txt
+% 出处 https://www.jianpujia.com/
+title=我愿意简单版钢琴
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-252803
+todo=refine the filename
+%--
+4/4
+subtitle=score
+0 0 0 0 q,6 q,6 0 ,6 q,4 q,4 q4 q6 0 0 0 x 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 q,6 q,6 0 q6 q,4 q,4 6
+- 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6. q6 q6 0 q,6 0 0 - q,4 q,4 6 q,4 0 0 0 x qx 0 0 0 0 0 0 0
+0 0 0 6. 0 q6 0 0 0 0 - q,4 q,4 q,4 0 0 - x 0 0 0 0 0 0 0 0 0 0 0 x 0 0 - 0 0 - 0 0 0 0
+- x x 1. 0 q6' 0 0 q4' q6 0 0 0 - - 0 0 0 -
+%END
