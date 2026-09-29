@@ -41773,6 +41773,9 @@
         "status": "ocr",
         "source": [
             "jianpucn-451637"
+        ],
+        "artist": [
+            "邓丽君"
         ]
     },
     "你怎么说_3.txt": {
@@ -41780,15 +41783,22 @@
             "你怎么说_3.txt"
         ],
         "title": "你怎么说",
-        "usertag": [],
+        "usertag": [
+            "分类/民歌"
+        ],
         "tagroute": [],
-        "tag": [],
+        "tag": [
+            "分类/民歌"
+        ],
         "transcriber": [
             "jianpu2-auto"
         ],
         "status": "ocr",
         "source": [
             "jianpujia-8392"
+        ],
+        "alias": [
+            "你怎么说（粤语）"
         ]
     },
     "你怎么说钢琴.txt": {
