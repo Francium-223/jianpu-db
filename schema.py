@@ -374,6 +374,11 @@ FIELDS = {
 			   'note': '原谱站与站内 id（<站>-<id>), 入库时记录; **那一页的确切 URL** 走 link'},
 	'transcriber': {'label': {'zh': '转写', 'en': 'Transcriber'}, 'attr': None, 'kind': 'readonly',
 					'note': 'jianpu2-auto=流水线转的; 人工投稿由投稿流程写入'},
+	# 转写置信度（2026-09-30 加）: 转写时每个数字的 top-1 概率的平均, 0~1。
+	# 唯一真源是 jp_transcribe 的概率（`JP_CONF=1` 时收集, 经 batch-out 的边车落到曲谱头 `confidence=`）。
+	# 老谱没有这个字段 -> 前端按中性 0.5 处理, 不造假数。并列时它排在"人工校对过"之后作次级依据。
+	'confidence': {'label': {'zh': '置信度', 'en': 'Confidence'}, 'attr': None, 'kind': 'readonly',
+				   'note': '转写模型对每个数字的 top-1 概率的平均; 越低越该人工看一眼'},
 	'tags': {'label': {'zh': '标签', 'en': 'Tags'}, 'attr': None, 'kind': 'readonly',
 			 'note': '由「人标」(usertag) 按 tags.json 推导出来, 不直接手写 —— 要加就加到人标'},
 	'usertags': {'label': {'zh': '人标', 'en': 'Human tags'}, 'attr': 'usertag', 'kind': 'list',
@@ -425,6 +430,10 @@ schema = {
 	# 通用曲名(《海阔天空》《爱》《家》)靠它 + 文件名消歧才分得清谁是谁。
 	# 来源是**有证据的**: harvest_artists.py 从原谱站页面标题抽出来、按 source 缓存的歌手。
 	'artist': Attr(default_parse, (), '歌手(可多个); 来自原谱站页面, 与 分类/… 标签分开'),
+	# 转写置信度（2026-09-30 加）: 0~1 的单值字符串。**必须在这里登记**，否则它会被
+	# `default_parse` 当多值列表切成 `["0.93"]`，检索侧 `float()` 拿不到数（并列时就用不上它了）。
+	'confidence': Attr(return_itself, (), '转写置信度 0~1（转写时算的 top-1 概率平均; 老谱没这行）'),
+	'conf_p10': Attr(return_itself, (), '置信度最低那 10% 的分位值（看"有没有个别音很虚"）'),
 	# 衍生字段(整对象) —— 顺序由这里的 deps 决定, 与书写顺序无关
 	'tag': Attr(derive_tag, ('usertag',), '全局真源: tag = f(usertag, tags.json)'),
 	'tagroute': Attr(derive_tagroute, ('usertag', 'tag'),
