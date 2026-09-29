@@ -379,6 +379,9 @@ FIELDS = {
 	# 老谱没有这个字段 -> 前端按中性 0.5 处理, 不造假数。并列时它排在"人工校对过"之后作次级依据。
 	'confidence': {'label': {'zh': '置信度', 'en': 'Confidence'}, 'attr': None, 'kind': 'readonly',
 				   'note': '转写模型对每个数字的 top-1 概率的平均; 越低越该人工看一眼'},
+	# 「最低那 10% 的分位」: 平均值看不出的"个别音很虚"靠它看(例: 平均 0.95 但 p10 只有 0.42)
+	'conf_p10': {'label': {'zh': '置信（低 10%）', 'en': 'Confidence p10'}, 'attr': None, 'kind': 'readonly',
+				 'note': '置信度最低那 10% 的分位值 —— 平均看着还行、个别音很虚时靠它发现'},
 	'tags': {'label': {'zh': '标签', 'en': 'Tags'}, 'attr': None, 'kind': 'readonly',
 			 'note': '由「人标」(usertag) 按 tags.json 推导出来, 不直接手写 —— 要加就加到人标'},
 	'usertags': {'label': {'zh': '人标', 'en': 'Human tags'}, 'attr': 'usertag', 'kind': 'list',
