@@ -343,6 +343,60 @@ PLATFORMS = [
 ]
 
 
+# ---------------- 卡片上"一行一个属性"的展示规格（唯一真源） ----------------
+# 用户口径（2026-09-29）:
+#   ① "这些标签最好也加个加号" —— 能由人补值的属性，前端行尾要给一颗 ＋（就地输入 + 保存）；
+#   ② "要在 schema 里注明哪些是可以修改哪些是不能修改的" —— 所以每条都有 editable 与 note；
+#   ③ "不要对这些硬编码, 每一个 attribute 的名字应该独立于这个 attribute, 以方便多语言支持。
+#     在 schema 里弄一个 attribute 为键的字典" —— 所以标签是**按语言的字典**(label),
+#     而不是写死在前端的中文串；前端按当前语言取, 取不到回落 zh。
+#
+# 键 = **前端索引里的字段名**(与 search.js/build_web_data.py 输出的字段同名),
+#      `attr` = 曲谱文件里真正的属性名(能改的那些用它写盘; 只读的写 None)。
+#      **字典顺序 = 卡片上的显示顺序**(别按字母排)。
+# kind: 'readonly' 只读 / 'text' 单值(改=替换) / 'list' 多值(补=追加一条) / 'link' 收录页 URL。
+# 说明: 只读不等于"永远不能变", 而是"人在这个界面上改不了" —— note 里写清该走哪条路。
+FIELDS = {
+	'file': {'label': {'zh': '文件', 'en': 'File'}, 'attr': None, 'kind': 'readonly',
+			 'note': '入库时按曲名生成的文件名, 不由人手改（改名会牵动 by_* 与前端链接）'},
+	'group': {'label': {'zh': '曲名', 'en': 'Title'}, 'attr': 'title', 'kind': 'readonly',
+			  'note': '改曲名走审核流程: jianpu2/tools/propose_title_cleanup.py（曲名是分组键, 改了会影响同名多版本）'},
+	'artist': {'label': {'zh': '歌手', 'en': 'Artist'}, 'attr': 'artist', 'kind': 'list',
+			   'editable': True, 'hint': '邓丽君（多个用逗号）',
+			   'note': '来自原谱站页面(harvest_artists 抽的), 也可以人工补; 通用曲名靠它消歧'},
+	'status': {'label': {'zh': '状态', 'en': 'Status'}, 'attr': None, 'kind': 'readonly',
+			   'note': 'ok=人工校对过 / ocr=图片机器转写; 由转写与校对流程写入'},
+	'n': {'label': {'zh': '音符', 'en': 'Notes'}, 'attr': None, 'kind': 'readonly',
+		  'note': '按唯一 token 口径 jptok 数出来的, 由谱面决定'},
+	'bars': {'label': {'zh': '小节', 'en': 'Bars'}, 'attr': None, 'kind': 'readonly',
+			 'note': '由拍号与音符时值推出来, 由谱面决定'},
+	'source': {'label': {'zh': '出处', 'en': 'Source'}, 'attr': None, 'kind': 'readonly',
+			   'note': '原谱站与站内 id（<站>-<id>), 入库时记录; **那一页的确切 URL** 走 link'},
+	'transcriber': {'label': {'zh': '转写', 'en': 'Transcriber'}, 'attr': None, 'kind': 'readonly',
+					'note': 'jianpu2-auto=流水线转的; 人工投稿由投稿流程写入'},
+	'tags': {'label': {'zh': '标签', 'en': 'Tags'}, 'attr': None, 'kind': 'readonly',
+			 'note': '由「人标」(usertag) 按 tags.json 推导出来, 不直接手写 —— 要加就加到人标'},
+	'usertags': {'label': {'zh': '人标', 'en': 'Human tags'}, 'attr': 'usertag', 'kind': 'list',
+				 'editable': True, 'hint': '分类/儿歌, 民歌（多个用逗号）',
+				 'note': '人只写叶子; 分类写「分类/儿歌」这种既有约定'},
+	'alias': {'label': {'zh': '别名', 'en': 'Alias'}, 'attr': 'alias', 'kind': 'list',
+			  'editable': True, 'hint': '另一个曲名（如 粤语名/原名）',
+			  'note': '同一首歌的别的叫法, 检索时会一起归组'},
+	'mbid': {'label': {'zh': 'MBID', 'en': 'MBID'}, 'attr': 'MBID', 'kind': 'text',
+			 'editable': True, 'hint': 'MusicBrainz work 的 UUID 或 https://musicbrainz.org/work/…',
+			 'note': '**work**(composition) 而不是 recording —— 用户 2026-09-25 的口径'},
+	'link': {'label': {'zh': '收录页', 'en': 'Source page'}, 'attr': 'link', 'kind': 'link',
+			 'editable': True, 'hint': 'https://…（那一页的确切地址, 不要搜索页）',
+			 'row': False,          # 收录页不做表格行: 它在卡片顶部是绿色/黄色片子
+			 'note': '必须人工核对过的**确切页面**; 原谱站那一页能推出时由 source_pages.json 自动带'},
+}
+
+
+def editable_attrs():
+	"""能由人补/改的属性 -> {前端字段名: kind}。服务端只认这些, 前端也只给这些画 ＋。"""
+	return {k: v['kind'] for k, v in FIELDS.items() if v.get('editable')}
+
+
 # ---------------- 依赖表 + 执行顺序 ----------------
 
 @dataclass(frozen=True)

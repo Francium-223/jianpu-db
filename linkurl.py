@@ -163,6 +163,52 @@ def add_field(path, key, value):
 	return 'added'
 
 
+def add_list_item(path, key, value, extra_drop=()):
+	"""把一个值追加到**多值字段**（逗号分隔, 大小写不敏感去重）; 返回 'added' / 'exists'。
+
+	**"往多值字段里加一个值"只有这一处实现**（2026-09-29 从 add_usertag 抽出来）:
+	  * usertag（人标）—— add_usertag 是本函数的皮
+	  * artist（歌手）/ alias（别名）—— 网页上卡片行尾那颗 ＋(server.py:save_attr)
+	规矩与 add_field 一致: 只动元数据区（第一条 `%--` 之前）、行尾保持、只改一行。
+	`extra_drop` 是"顺带删掉的整行"(如 `todo=add tags`)。
+	"""
+	key = (key or '').strip()
+	if not re.match(r'^[A-Za-z_][A-Za-z0-9_]*$', key):
+		raise ValueError(f"字段名不合法: {key!r}")
+	value = (value or '').strip()
+	if not _one_line(value):
+		raise ValueError(f"{key} 的值不能含换行: {value!r}")
+	with open(path, 'rb') as f:
+		raw = f.read()
+	nl = '\r\n' if b'\r\n' in raw else '\n'
+	lines = raw.decode('utf-8').splitlines()
+	end = next((i for i, ln in enumerate(lines)
+				if ln.replace(' ', '').startswith('%--')), None)
+	if end is None:                     # 没有 %-- 标记: 插在元数据区末尾, 绝不插到正文/文件尾
+		end = 0
+		for i, ln in enumerate(lines):
+			s = ln.strip()
+			if not s or s.startswith('%') or re.match(r'^[A-Za-z_][A-Za-z0-9_]*=', s):
+				end = i + 1
+			else:
+				break
+	vi = next((i for i in range(end) if lines[i].startswith(key + '=')), None)
+	have = ([x.strip() for x in lines[vi][len(key) + 1:].split(',') if x.strip()]
+			if vi is not None else [])
+	if any(value.casefold() == t.casefold() for t in have):   # 大小写不敏感去重(BEYOND/Beyond)
+		return 'exists'
+	if vi is None:
+		lines.insert(end, key + '=' + value)
+	else:
+		lines[vi] = key + '=' + ','.join(have + [value])
+	if extra_drop:
+		drop = {d.strip() for d in extra_drop}
+		lines = [ln for ln in lines if ln.strip() not in drop]
+	with open(path, 'wb') as f:
+		f.write((nl.join(lines) + nl).encode('utf-8'))
+	return 'added'
+
+
 def add_usertag(path, tag, clear_todo=True):
 	"""把 usertag 写进曲谱的**元数据区**(第一条 `%--` 之前); 返回 'added' / 'exists'。
 
@@ -172,31 +218,7 @@ def add_usertag(path, tag, clear_todo=True):
 	  * 命令行 jianpu2/tools/propose_tags.py(add_tag 只是本函数的皮)
 	  * jianpu2/tools/harvest_artists.py(抽到的歌手/分类落盘)
 	`clear_todo=True` 时顺带删掉 `todo=add tags`(那条 todo 的字面意思就是"该加标签了")。
+	写入本身是 `add_list_item`（多值字段只有那一处实现）。
 	"""
-	tag = parse_tag(tag)
-	with open(path, 'rb') as f:
-		raw = f.read()
-	nl = '\r\n' if b'\r\n' in raw else '\n'
-	lines = raw.decode('utf-8').splitlines()
-	end = next((i for i, ln in enumerate(lines) if ln.replace(' ', '').startswith('%--')), None)
-	if end is None:                     # 没有 %-- 标记: 插在元数据区末尾, 绝不插到正文/文件尾
-		end = 0
-		for i, ln in enumerate(lines):
-			s = ln.strip()
-			if not s or s.startswith('%') or re.match(r'^[A-Za-z_][A-Za-z0-9_]*=', s):
-				end = i + 1
-			else:
-				break
-	ui = next((i for i in range(end) if lines[i].startswith('usertag=')), None)
-	have = ([x.strip() for x in lines[ui][8:].split(',') if x.strip()] if ui is not None else [])
-	if any(t.casefold() == tag.casefold() for t in have):   # 大小写不敏感去重(BEYOND/Beyond)
-		return 'exists'
-	if ui is None:
-		lines.insert(end, 'usertag=' + tag)
-	else:
-		lines[ui] = 'usertag=' + ','.join(have + [tag])
-	if clear_todo:
-		lines = [ln for ln in lines if ln.strip() != 'todo=add tags']
-	with open(path, 'wb') as f:
-		f.write((nl.join(lines) + nl).encode('utf-8'))
-	return 'added'
+	return add_list_item(path, 'usertag', parse_tag(tag),
+						 extra_drop=('todo=add tags',) if clear_todo else ())
