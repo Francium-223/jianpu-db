@@ -1,0 +1,18 @@
+%小司机.txt
+% 出处 https://www.jianpujia.com/
+title=小司机
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-22079
+%--
+4/4
+subtitle=score
+3' q3' 3'. q3' 3'. s5 s6 s5 s6 q1' q1' s5 s6 s5 s6 q1' q1' q5' q3' q6' q5' q3' q5' q3' q1' q5 s5 s5 q5 q5 q5 s5 s5 q5 q5 s2 s3 s2 s1 q2
+q3 q1 q1 q1 q1 s2 s3 s2 s1 q2 q3 q1 q1 q1 q0 x q1' q1' q1' q5 q6 q6 5 q1' q5 q6 q6 5 0 q2' q2' q1' q1' q2' q2' q1' q0 q3. s5 q3
+q2 1 - q5 q5 q6 q5 q1' q3' 2' q2' q2' q1' q3' 2' - q2' q2' q1' q3' q2' q5 1' 2' 5 1' 0 x s5 s6 s5 s6 q1' q0 s5 s6 s5 s6 q1' q0
+3. q5 q6. s2' q1' q6 5 - 5 - 3. q5 q6. s2' q1' q5 6 - 6 - q3 q3 q3 q2 q1 q2 6 q2 q2 q2 q1 q6 q1 5 q6 q6 q6 q5 q6 q1
+q3 q2 q1' - 1' 0 q2' q2' q2' q2' q1' q1' q1' q1' q2' q2' q2' q2' q1' q1' q1' q1' q3' 3'. 3' -
+%END
