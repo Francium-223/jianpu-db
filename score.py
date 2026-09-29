@@ -391,7 +391,7 @@ class Score():
 		bars = jptok.recover_bars(sections, _beat_n)
 		n_notes = sum(1 for t in full.split() if jptok.is_note(t))
 		# 各字段的形态由 schema 决定(字符串或列表) -> 原样传出去, 不在这里强转
-		return {
+		rec = {
 			'file': [self.score.split('/')[-1]],
 			'status': self.others.get('status', ''),
 			'title': self.title,                      # ← 单值字符串(schema 里由 return_itself 产出)
@@ -422,6 +422,22 @@ class Score():
 			'beats_per_bar': _beat_n,
 			'n_notes': n_notes,
 		}
+		# **兜底: 别让新属性在 data.jsonl 里静默消失**(2026-09-30 加)。
+		#   上面那张表是**手写**的, 而 `others` 里有什么取决于曲谱头的字段 + schema ——
+		#   历史上 MBID / source / artist 都因为"忘了在这里加一行"而在扁平记录里消失
+		#   (见上面几条注释), 2026-09-30 新加的 `confidence` / `conf_p10` 又踩了一次:
+		#   data.json 里有、data.jsonl 里 0 条 ✗。所以这里把"解析出来但没显式列出"的属性
+		#   一律原样带出去(形态由 schema 决定, 不在这里猜)。
+		#   **内部字段仍然排除**: tagroute 是推导中间物, `todo` 是给人看的工作清单
+		#   (`todo=add tags` 这种, 实测 1,707 首有) —— 它不属于"这首歌的元数据", 不该印到
+		#   公开数据集里。这是个**有意**的排除(不是漏), 要放开就删掉这里的名字。
+		for _k, _v in self.others.items():
+			if _k in rec or _k in ('file', 'title', 'tag', 'usertag', 'tagroute', 'todo'):
+				continue
+			if _v in ('', [], None):
+				continue
+			rec[_k] = _v
+		return rec
 	def read(self):
 		try:
 			with open(self.score, 'r', encoding='utf-8') as f:
@@ -560,7 +576,12 @@ class Score():
 				if not attrib[i]:
 					continue
 				filename = ''
-				if i in ['usertag', 'file']:
+				# **不给"元数据型"字段建 by_* 链接树**(2026-09-30 加):
+				#   `by_*` 是按**属性值**分目录的**分类**索引(人/标签/出处/状态这种"能当抽屉用"的),
+				#   而 `confidence` / `conf_p10` 是**数值元数据** —— 给它们建树会得到
+				#   `by_confidence/0.937/scores/x.txt` 这种一个值一个目录(实测一次就长出 29+38 个目录),
+				#   既没人会这么找谱, 又把仓库搅乱。usertag/file 是内部字段(老代码已排除)。
+				if i in ('usertag', 'file', 'confidence', 'conf_p10'):
 					continue
 				elif i == 'title':
 					# title 现在是列表(与其它字段形态一致) -> 取首值; 同时兼容旧的字符串形态
