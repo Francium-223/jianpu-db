@@ -1,0 +1,18 @@
+%鸭__谱.txt
+% 出处 https://www.jianpujia.com/
+title=鸭__谱
+tag=
+usertag=
+tagroute=
+confidence=0.984
+conf_p10=0.971
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-22147
+%--
+4/4
+subtitle=score
+x s5 s5 q5 q3. s3 q5 q5 3 s6 s6 q6 q4. s4 q6 q6 4 s1' s1' q1' s6 s6 q6 q5. s6 q5 q4 3 2 1 - q5 q5 q3 q3 q5 q5 q3 q3 q2
+3 q2 1. q1 q6 q6 q4 q4 q6 q6 q4 q4 q3 5 q3 2 - q1 q1 1 q1 q1 q,6 q1 q4 q4 q4 q5 6 - q7 q7 6 q5 5 q4 q3 q2 q3 q4
+5 - q7 q7 6 q5 5 q4 q3 q3 q2 q2 1 -
+%END

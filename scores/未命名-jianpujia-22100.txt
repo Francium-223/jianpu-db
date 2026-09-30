@@ -1,0 +1,21 @@
+%未命名-jianpujia-22100.txt
+% 出处 https://www.jianpujia.com/
+title=未命名-jianpujia-22100
+tag=
+usertag=
+tagroute=
+confidence=0.967
+conf_p10=0.930
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-22100
+%--
+4/4
+subtitle=score
+qx q1 - - - - 6 5 - x. x 1' x' x 1' x s6 s3 s6 s7 q1' q2' 3' q2' q1' s5 s2 s5 s6 q7 q1' 2' - s4 s1 s4 s5 q6 q7 1'
+4' s3' s2' s2' s3' q2' q5 7 - s6' s6' s3 s6 s7 q1' q2' 3' q2' q1' s5 s2 s5 s6 q7' q1' 2' - s4 s1 s4 s5 q6 q7 1' 4' 3'. q2' s3 s3 s2
+s3 s2 s1 s7 s5 q3 q3 q2 q1 ,6 0 q,7 q,7 q,7 qx q,5 ,6 0 q2 q3 q2 q1 ,6 0 q5 qx q2 q6 q5 3 0 q6 q6 q6 q3 2 0 6 q6 q2
+1 0 q,7. s3 q2 q3 q,7 q3 q2 q3 ,5 q1 q,7 ,6 - 0 x. x q,7. s3 q2 q3 s7 s7 s3 s3 s2 s2 s3 s3 ,5 q1 q,7 ,6 - x q1 q7 q6 s7
+s5 6. s5 s6 q1 q7 q6 q5. - 3 - q2. s2 q6 q6 q5 s3 s5 2 q2 q1 q5 q2 3 - q1' q7 q6 s7 s5 6. s5 s6 q1' q7 q6 q5'. 3 - q2.
+s2 q6 q6 q5 s3 s5 2 q3 q3 q5 q3 7 s7 q6 s5 6 - - - q3 3. 5 3 7 - q7 6 q5 6 - - - 6 x 6 0
+%END

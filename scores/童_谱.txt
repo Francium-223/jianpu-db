@@ -1,0 +1,21 @@
+%童_谱.txt
+% 出处 https://www.jianpujia.com/
+title=童_谱
+tag=
+usertag=
+tagroute=
+confidence=0.970
+conf_p10=0.924
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-22140
+%--
+4/4
+subtitle=score
+q1' 3' q2' 1' 7 q6 6 q5 4 3 q2 q2 3 q5 5 q4 3 2 1. q0 1 q1' q1 2 q3 5 q4 3 2 1. q0 q5 q5 6 q7 2' q1' 7 6 5.
+q0 q1 q1 2 q3 5 q4 3 2 1. q0 q5 q5 6 q5 4 q3 2 4 5. q0 3' q2' 1' 7 q6 6 q5 4 3 q2 q2 3 q5 5 q4 3 2 1. q0
+1' q7 6 5 q4 4 q3 2 1 q2 q2 3 q5 5 q4 3 2 1. q0 q1' 3' q2' 1' 7 q6 6 q5 4 3 q2 q2 3 q5 5 q4 3 2 1. q0 1
+q1 q1 2 q3 5 q4 3 2 1. q0 q5 q5 6 q7 2' q1' 7 6 q5 q0 0 0 0 q1 q1 2 1 ,5 1. q0 0 0 q5 5 q6 5 2 q5 q5 q5
+q5 s1' q1' 3' 1' q2' q7' 6 1' 7 5 q4 s6 4 6 s5 q3 4 2 1 1 q2 q2 3 q5 5 q4 1 1 5 3 s3 q3 5 3 s4 q2 4 q1 q1
+q,6 q,7 1 q2 q2 3 q3 3 q2 1 3 2 q1 q0 0 3 5 1' 0 x 1 ,5 q1 q0 0 1 2 3 0
+%END
