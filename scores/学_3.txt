@@ -1,0 +1,28 @@
+%学_3.txt
+% 出处 https://www.jianpujia.com/
+title=学
+tag=
+usertag=
+tagroute=
+confidence=0.959
+conf_p10=0.843
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-15582
+%--
+4/4
+subtitle=score
+x sx sx sx sx sx sx sx sx sx sx sx sx sx sx sx sx 5. q3 6 5 6 q2. s3 5 - x q5. s3 q2 q1 5 - 1 q2 q3 ,5 - q5 ~
+q5 ~ q5 q3 2 q3 q5 1 q6 q3 2 - 3 5 6. q5 3 5 q2. s3 q2 q1 ,6 3 q2 2 q1 ,6 1 ,5 - 5. q3 6 5 6 q2 q3 5 -
+q5. s3 q2 q1 5 - 1 q2 q3 ,5 - q5 ~ q5 ~ q5 q3 2 q3 q5 1 s6 q3 2 - 3 5 6 q6 q5 3 5 q2. s3 q2 q1 q,6 q,6 q3 q3
+q2 2 q1 ,6 1 ,5 - q5 q5 q5 q3 6 5 6 q2 q3 5 - 6 q2 q3 5 - x qx sx sx qx sx sx sx sx sx sx qx sx sx 5. q3 6
+5 6 q2. s3 5 - x. 6 q2 q3 5 - x 5 - 5 - q1 s1 s1 1 0 0 qx x' 1 5. 3 2 1 5 1 2 3 5 5. 3 - - -
+- - ,1' ,1 0 ,1' ,1 0 ,1' ,1 0 ,,7 ,5 0 ,1' ,1 0 6 2 q3 q5 1 q,6 q3 2 - 3 5 6. q5 ,6 ,3 ,6 ,7 ,3 ,4 ,2 0 ,6 ,1
+0 ,4 ,2 0 ,5 ,3 0 ,6 ,1 0 x 1 1 x 3 5 q2. s3 q2 q1 ,6 3 q2 2 q1 ,6 1 ,7 ,6 ,3 ,6 ,3 ,5 ,3 0 ,4 ,2 0 ,,6 ,1
+0 ,4 ,2 0 ,,6 ,1 0 1 6 ,5 - 5. q3 6 5 6 q2 q3 5 0 ,,2' ,,7' ,,5 0 ,5 ,1 ,1 0 ,1 ,,6 ,1 0 ,6 ,4 ,2 0 ,,2' ,,7' ,,5 0
+x 2 1 x q5. s3 q2 q1 5 - 1 q2 q3 ,5 - 5. q3 q,2 q,3 q,5 q,3 q,1 s3 s5 q,5 q,3 q,1 q,3 q,5 q,3 q,5 s7 s2 q,2 q,7 q,1 s3 s5 q,5 q,3
+x 2 6 x 2 q3 q5 1 q,6 q3 2 - 3 5 6. q5 ,6 ,5 ,3 ,3 ,6 ,7 ,7 ,3 q,2 q,4 q,1 q,3 q,6 q,1 q,3 q,1 q,2 s4 s6 q,6 q,4 q,3 q,5 q,7
+q,5 q,6 s1 s3 q,3 q,1 x 3 1 x 3 5 q2. s3 q2 q1 ,6 3 q2 2 q1 ,6 1 ,7 ,7 ,6 ,6 ,3 ,3 ,6 ,3 ,3 q,3 q,5 q,7 q,5 q,2 q,4 q,6 q,4
+q,6 q,1 q,3 q,1 q,2 s4 s6 q,6 q,4 q,6 q,1 q,3 q,1 x 3 6 x 5 ,5 - 5. q3 6 5 6 q2 q3 5 ,2 ,7 ,2 ,5 ,3 ,3 ,6 ,6 ,2 q,5 s7 s2
+q,2 q,7 q,1 s3 s5 q,5 q,3 q,6 q,1 q,3 q,1 q,2 q,4 q,6 q,4 ,5 ,5
+%END

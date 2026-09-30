@@ -1,0 +1,18 @@
+%学_2.txt
+% 出处 https://www.jianpujia.com/
+title=学
+tag=
+usertag=
+tagroute=
+confidence=0.915
+conf_p10=0.484
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-20507
+%--
+4/4
+subtitle=score
+1 - - - x' x x' qx - - 1 2 0 x q5 s5 s5 q5 q5 5 0 q5 s5 s5 q5 q5 5 0 q5 s5 s5 q5 q5 5 0 q5. s3 q2 q1 5
+- 1 q2 q3 ,5 - 5. q3 2 q3 q5 1 q,6 q3 2. q0 3 5 6. q5 3 5 q2. s3 q2 q1 ,6 3 q2 2 q1 ,6 1 ,5 0 5. q3 6 5 6
+q2 q3 5 -
+%END
