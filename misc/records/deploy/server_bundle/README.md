@@ -58,4 +58,21 @@ jianpu-server/
 * **主仓库 `git status` 干净**（写的是包里那份 clone，没碰真库）；
 * `refresh` 优雅降级（便携包不带重建流水线，只提示"没有 tools/refresh.sh 也没有 tools/refresh.py"）。
 
+## 三、补：**不要依赖 PowerShell**（2026-09-30 用户当场指出）
+
+"我放到那台电脑可是用不了 pwsh 的" —— 第一版把"起隧道"的逻辑写在 `tunnel_up.ps1` 里，那台机器跑不了；
+而且 Windows 自带的是 PowerShell **5.1**，`pwsh` 是 7.x 的独立安装，新装机常常没有。
+
+改成**逻辑只有一份、在 Python 里**（服务本体就是 Python，一定有）：
+
+| 文件 | 角色 |
+|---|---|
+| `jianpu2/tools/tunnel_up.py` | 全部逻辑：读健康 → 起服务（带 token）→ 清旧隧道 → 起隧道 → 等地址 → 写 `wrangler secret put` → 验域名 → 记状态。只用标准库。 |
+| `tunnel_up.cmd` | **纯 cmd** 薄壳（找到 `py -3`/`python` 再调用）。ASCII 注释 —— `.cmd` 按控制台代码页解析，中文注释在这台机器（932 代码页）会被误当成命令执行。 |
+| `tunnel_up.sh` / `tunnel_up.ps1` | 同样只是薄壳（macOS/Linux；或手边正好有 PowerShell 的人）。 |
+
+便携包现在把这三个壳 + `.py` 一起打进去。**那台电脑需要的东西**：Python（必须有）、cloudflared
+（要对外提供写服务才需要）、git（要 `git pull` 更新语料才需要）；**Node/npx 只在"把 secret 写进
+Worker"这一步才需要** —— 没有的话脚本会跳过并打印手工做法（Cloudflare 面板也能加那两个变量）。
+
 打好的包：`D:\Documents_D\jianpu-server\` 与 `D:\Documents_D\jianpu-server.zip`（5.3 MB）。
