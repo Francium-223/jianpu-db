@@ -1,5 +1,8 @@
 # Cloudflare 部署准备（2026-09-24）
 
+> **2026-09-30：这条路现在是主线路 —— Worker `jianpu-web` 挂上了自定义域名
+> `jianpu-db.org`（apex + www）。接入步骤与现状见 `misc/records/deploy/custom_domain/README.md`。**
+
 > 用户：**"现在Cloudflare那边让我create an app。你要怎么准备？"**
 
 ## 0. 先说清楚：Cloudflare 里"Create an application"是**两个完全不同的东西**

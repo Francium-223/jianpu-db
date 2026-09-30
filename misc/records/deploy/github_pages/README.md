@@ -1,5 +1,9 @@
 # 简谱查歌前端：Cloudflare 与 **GitHub Pages** 两条部署路（2026-09-25）
 
+> **2026-09-30 更新：正式域名是 https://jianpu-db.org/（Cloudflare Worker，有写回）；本页这份
+> GitHub Pages 从现在起是**只读镜像**（老链接继续可用）。域名怎么接的见
+> `misc/records/deploy/custom_domain/README.md`。**
+>
 > **线上地址（2026-09-25 03:19 实测已上线）：https://jianpu-db.github.io/**
 > 仓库已改名/转移到组织站 **`jianpu-db/jianpu-db.github.io`** —— `<org>.github.io` 这种仓库发在
 > **域名根**上（普通项目仓库才是 `user.github.io/<repo>/` 子路径）。两种位置本产物都支持。
