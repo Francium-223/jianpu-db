@@ -544,6 +544,22 @@
             "refine the filename"
         ]
     },
+    "Baby_Song钢琴_2.txt": {
+        "file": [
+            "Baby_Song钢琴_2.txt"
+        ],
+        "title": "Baby_Song钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-252909"
+        ]
+    },
     "Beautiful_歌曲类.txt": {
         "file": [
             "Beautiful_歌曲类.txt"
@@ -643,6 +659,22 @@
             "refine the filename"
         ]
     },
+    "Beyond_My_Beloved_Horizon钢琴_2.txt": {
+        "file": [
+            "Beyond_My_Beloved_Horizon钢琴_2.txt"
+        ],
+        "title": "Beyond_My_Beloved_Horizon钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-149796"
+        ]
+    },
     "Beyond_Rangoon_Waters_of_Irrawaddy.txt": {
         "file": [
             "Beyond_Rangoon_Waters_of_Irrawaddy.txt"
@@ -666,6 +698,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "Beyond_Rangoon_Waters_of_Irrawaddy_2.txt": {
+        "file": [
+            "Beyond_Rangoon_Waters_of_Irrawaddy_2.txt"
+        ],
+        "title": "Beyond Rangoon Waters of Irrawaddy",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-150279"
         ]
     },
     "Beyond_Rangoon_Waters_of_Irrawaddy钢琴.txt": {
@@ -29122,6 +29170,22 @@
             "qupu123-283476"
         ]
     },
+    "世上只有妈妈好_8.txt": {
+        "file": [
+            "世上只有妈妈好_8.txt"
+        ],
+        "title": "世上只有妈妈好",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-15837"
+        ]
+    },
     "世界上最好的爸爸.txt": {
         "file": [
             "世界上最好的爸爸.txt"
@@ -33090,6 +33154,24 @@
         ],
         "todo": [
             "add tags"
+        ]
+    },
+    "丰收中国年_2.txt": {
+        "file": [
+            "丰收中国年_2.txt"
+        ],
+        "title": "丰收中国年",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "confidence": "0.956",
+        "conf_p10": "0.838",
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-475381"
         ]
     },
     "丰收谣.txt": {
@@ -37530,6 +37612,24 @@
             "qupu123-393617"
         ]
     },
+    "亲爱的你啊（三声部合唱_2.txt": {
+        "file": [
+            "亲爱的你啊（三声部合唱_2.txt"
+        ],
+        "title": "亲爱的你啊（三声部合唱",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "confidence": "0.956",
+        "conf_p10": "0.866",
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-393617"
+        ]
+    },
     "亲爱的你还爱我吗.txt": {
         "file": [
             "亲爱的你还爱我吗.txt"
@@ -41214,6 +41314,22 @@
         "status": "ocr",
         "source": [
             "qupu123-353079"
+        ]
+    },
+    "传奇_8.txt": {
+        "file": [
+            "传奇_8.txt"
+        ],
+        "title": "传奇",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-21523"
         ]
     },
     "传奇简单版钢琴.txt": {
@@ -46974,6 +47090,22 @@
         "status": "ocr",
         "source": [
             "qupu123-330176"
+        ]
+    },
+    "倩女幽魂_5.txt": {
+        "file": [
+            "倩女幽魂_5.txt"
+        ],
+        "title": "倩女幽魂",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-14646"
         ]
     },
     "倩女幽魂钢琴.txt": {
@@ -65939,6 +66071,22 @@
             "qupu123-51820"
         ]
     },
+    "只想一生跟你走_5.txt": {
+        "file": [
+            "只想一生跟你走_5.txt"
+        ],
+        "title": "只想一生跟你走",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-14454"
+        ]
+    },
     "只想一生跟你走_歌曲类.txt": {
         "file": [
             "只想一生跟你走_歌曲类.txt"
@@ -75233,6 +75381,22 @@
         "status": "ocr",
         "source": [
             "jianpujia-15535"
+        ]
+    },
+    "在水一方_9.txt": {
+        "file": [
+            "在水一方_9.txt"
+        ],
+        "title": "在水一方",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-9748"
         ]
     },
     "在水中央.txt": {
@@ -110156,6 +110320,22 @@
             "qupu123-863"
         ]
     },
+    "恰似你的温柔_5.txt": {
+        "file": [
+            "恰似你的温柔_5.txt"
+        ],
+        "title": "恰似你的温柔",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-17790"
+        ]
+    },
     "恶狼传说.txt": {
         "file": [
             "恶狼传说.txt"
@@ -144621,6 +144801,24 @@
         "status": "ocr",
         "source": [
             "jianpujia-22027"
+        ]
+    },
+    "李白_7.txt": {
+        "file": [
+            "李白_7.txt"
+        ],
+        "title": "李白",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "confidence": "0.985",
+        "conf_p10": "0.936",
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-14660"
         ]
     },
     "李白钢琴.txt": {
@@ -182195,6 +182393,22 @@
             "qupu123-305196"
         ]
     },
+    "祝你平安_3.txt": {
+        "file": [
+            "祝你平安_3.txt"
+        ],
+        "title": "祝你平安",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-328834"
+        ]
+    },
     "祝你幸福.txt": {
         "file": [
             "祝你幸福.txt"
@@ -188565,6 +188779,24 @@
             "jianpujia-15449"
         ]
     },
+    "红星歌_4.txt": {
+        "file": [
+            "红星歌_4.txt"
+        ],
+        "title": "红星歌",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "confidence": "0.951",
+        "conf_p10": "0.803",
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-15449"
+        ]
+    },
     "红星照我去战斗.txt": {
         "file": [
             "红星照我去战斗.txt"
@@ -193315,6 +193547,24 @@
         "status": "ocr",
         "source": [
             "jianpujia-151472"
+        ]
+    },
+    "美酒加咖啡_5.txt": {
+        "file": [
+            "美酒加咖啡_5.txt"
+        ],
+        "title": "美酒加咖啡",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "confidence": "0.919",
+        "conf_p10": "0.742",
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-15464"
         ]
     },
     "美酒加咖啡怀旧经典.txt": {
@@ -198388,6 +198638,24 @@
         "status": "ocr",
         "source": [
             "jianpujia-75853"
+        ]
+    },
+    "茉莉花_4.txt": {
+        "file": [
+            "茉莉花_4.txt"
+        ],
+        "title": "茉莉花",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "confidence": "0.976",
+        "conf_p10": "0.960",
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-21973"
         ]
     },
     "茉莉花的故乡.txt": {
@@ -204686,6 +204954,24 @@
         "status": "ocr",
         "source": [
             "qupu123-373475"
+        ]
+    },
+    "虫儿飞_5.txt": {
+        "file": [
+            "虫儿飞_5.txt"
+        ],
+        "title": "虫儿飞",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "confidence": "0.951",
+        "conf_p10": "0.785",
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-15844"
         ]
     },
     "虹的一端.txt": {
