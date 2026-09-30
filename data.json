@@ -75044,6 +75044,38 @@
             "refine the filename"
         ]
     },
+    "因为爱情钢琴_4.txt": {
+        "file": [
+            "因为爱情钢琴_4.txt"
+        ],
+        "title": "因为爱情钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-150529"
+        ]
+    },
+    "因为爱情钢琴_5.txt": {
+        "file": [
+            "因为爱情钢琴_5.txt"
+        ],
+        "title": "因为爱情钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-150537"
+        ]
+    },
     "因为祖国.txt": {
         "file": [
             "因为祖国.txt"
@@ -217799,6 +217831,24 @@
             "jianpujia-154207"
         ]
     },
+    "还是分开钢琴_3.txt": {
+        "file": [
+            "还是分开钢琴_3.txt"
+        ],
+        "title": "还是分开钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "confidence": "0.952",
+        "conf_p10": "0.867",
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-154207"
+        ]
+    },
     "还是笨小孩钢琴.txt": {
         "file": [
             "还是笨小孩钢琴.txt"
@@ -238243,6 +238293,22 @@
             "refine the filename"
         ]
     },
+    "黑月光钢琴_2.txt": {
+        "file": [
+            "黑月光钢琴_2.txt"
+        ],
+        "title": "黑月光钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-383552"
+        ]
+    },
     "黑月光（张碧晨 毛不易）.txt": {
         "file": [
             "黑月光（张碧晨 毛不易）.txt"
@@ -238731,6 +238797,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "龙卷风钢琴_2.txt": {
+        "file": [
+            "龙卷风钢琴_2.txt"
+        ],
+        "title": "龙卷风钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-385301"
         ]
     },
     "龙宫月夜.txt": {
