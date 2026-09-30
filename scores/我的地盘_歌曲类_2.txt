@@ -1,8 +1,8 @@
 %我的地盘_歌曲类_2.txt
 % 出处 http://www.jianpu.cn/
 title=我的地盘 歌曲类
-tag=
-usertag=
+tag=周杰伦
+usertag=周杰伦
 tagroute=
 confidence=0.721
 conf_p10=0.375

@@ -1,8 +1,8 @@
 %Baby_Song钢琴.txt
 % 出处 https://www.jianpujia.com/
 title=Baby_Song钢琴
-tag=
-usertag=
+tag=分类/钢琴谱
+usertag=分类/钢琴谱
 tagroute=
 transcriber=jianpu2-auto
 status=ocr

@@ -1,8 +1,8 @@
 %小兔子乖乖_2.txt
 % 出处 https://www.jianpujia.com/
 title=小兔子乖乖
-tag=
-usertag=
+tag=分类/儿歌
+usertag=分类/儿歌
 tagroute=
 confidence=0.966
 conf_p10=0.895

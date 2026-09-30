@@ -1,8 +1,8 @@
 %小跳蛙_3.txt
 % 出处 https://www.jianpujia.com/
 title=小跳蛙
-tag=
-usertag=
+tag=分类/儿歌
+usertag=分类/儿歌
 tagroute=
 confidence=0.991
 conf_p10=0.981
