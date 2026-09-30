@@ -1,5 +1,12 @@
 # 自定义域名 **jianpu-db.org**（2026-09-30）
 
+> **状态：已上线。** 2026-09-30 用户 `npx wrangler login` 后，`npx wrangler deploy` 成功：
+> 绑定 `jianpu-db.org` + `www.jianpu-db.org`，证书自动签发。实测 https 首页 / `/s/<id>` / robots /
+> sitemap / og.png / og.json / stats.json / api/health 全 200；**http 全部 301 到 https**；
+> `/s/<id>` 的 `<title>` 是这一首（`101 · 简谱 | jianpu-db`）；`api/health` 报 `og: 11141`。
+> 上线当天踩到的两个坑（`assets.run_worker_first`、`let OG_CACHE` 被误删导致注入悄悄退化）
+> 记在站点仓库 `DEPLOY.md` 的"一·补"一节。
+
 > 用户："好了，现在我有个 jianpu-db.org 域名了。动态的域名有了，是不是该像个网站（而非 xxx.github.io）一样部署了？"
 
 ## 一、结论：域名挂 **Cloudflare Worker**，GitHub Pages 退成只读镜像
