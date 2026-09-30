@@ -1,0 +1,23 @@
+%草原青_草原蓝_2.txt
+% 出处 https://www.jianpujia.com/
+title=草原青_草原蓝
+tag=
+usertag=
+tagroute=
+confidence=0.996
+conf_p10=0.993
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-130947
+%--
+4/4
+subtitle=score
+q3 q6 q6 q5 q1' q1' q6 q5 q5 q3 q3 q5 3 - q2 q2 q2 q3 q2 q1 q2 q3 5 q6 q5 3 - q3 q6 q6 q5 q6 q1' q6 q5 q6 q5 q3 q5 3.
+q1 q2 q2 q2 q3 5 q6 q5 6 5 6 - 0 0 0 0 q,6 q,5 ,6 q,6 q3 3 q2 q1 q2 q1 q2 q5 3 q3 s5 s6 6 q5 q3 2 q2 q1 q2 q3
+q1 ,6 q,6 q,5 ,6 q,6 q3 3 q2 q1 q2 q1 q2 q5 3 q3 s5 s6 6 q5 s3 s2 2 q2 q1 q2 q3 q1 ,6 ,6 ,7 1 q2 q3 q3 6 q5 q6 s6 s1'
+1' q6 q5 q3 q5 3 - q3 q6 6 q5 s3 s2 2 q2 s2 s1 q6 s5 s3 2 - q3 6 q5 q6 s6 s1' 1' q6 q5 q3 q5 3 - q3 q6 6 q5 s3
+s2 2 q2 q3 q2 q,5 ,6 - ,6 - s1 s,6 s1 s,6 s1 s,6 2 s2 d1 d2 d1 d2 s3 s5 d5 d3 d5 d3 q1 1 q1 s1 s1 s1 s1 s1 s2 s3 s5 s5
+d5 d3 s5 s3 s3 s5 s6 s2' 2' s1' s2' s1' s1' s2' s3'. s5' s5' s3' s5' s3' s3' d5' d3'. s5' s3' 3' q2 q3 q3 q,5 ,6 - 1 2 3 q4 q5 q3 6 q5
+q6 s6 s1' 1' q6 q5 q3 q5 3 - q3 q6 6 q5 s3 s2 2 q2 s2 s1 q6 s5 s3 2 - q3 6 q5 q6 s6 s1' 1' q6 q5 q3 q5 3 - q3 q6
+6 q5 s3 s2 2 q2 q3 q5 q1' 6 - 6 - 6 - 6 0
+%END

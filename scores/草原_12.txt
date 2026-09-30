@@ -1,0 +1,18 @@
+%草原_12.txt
+% 出处 https://www.jianpujia.com/
+title=草原
+tag=
+usertag=
+tagroute=
+confidence=0.944
+conf_p10=0.758
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-65389
+%--
+4/4
+subtitle=score
+x q3 0 q6 q1' q6 q6 q3 q6 3'. 3' - q2' q3 3'. 2' q3 6 q5 3. 3 - ,6 3 3 ,6 3 3 2 1 2. 2 3 ,7 3 q3 1 5 3 1
+q3 1 ,6. ,6 - x 3. q6 6 q5 q3 q7 q2' s7 6. 6 - q3 6 q7 6 5 q1 q5 s6 q5 3. 3 - ,6. 3 3 6 5 2 s1 2. 2 1 2
+3 q5 0 7' 2 3 7' ,6 - - - 3 q5 6. q7 q2' q7 6 - - - 6 3' q3' 3' q2' 3' 2' - - 2' 3'. 3' 3' q2' 3' 1'
+%END
