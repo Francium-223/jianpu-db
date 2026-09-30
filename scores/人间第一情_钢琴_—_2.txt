@@ -1,0 +1,23 @@
+%人间第一情_钢琴_—_2.txt
+% 出处 http://www.jianpu.cn/
+title=人间第一情 钢琴 —
+tag=
+usertag=
+tagroute=
+confidence=0.853
+conf_p10=0.526
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-229742
+%--
+4/4
+subtitle=score
+1 1 1 1 1 7 1 - - 2' 4 x. q1 qx x. - - 7 6 - q7. q6 7 6. q5 - ,6. s6 d5 s6 ,5 6 q4. s3 ,6. sx - - - -
+q,6 ,3 ,6 ,3 q,,3 q,5 q,4 - q3 - 7 6. - - x 5' ,3 5' x x x s7 6 5 q3 6' ,x. ,5' 6' x x 1. s3 - ,6. - ,7 ,6 - 0
+q,5 ,6 ,3 ,6 ,3 ,x ,3 ,6 q3 qx 6 - q3' 0 - 7 6 3 - q7 - 6 qx q5. 7. s3 s3 q,5 - q,5 q,5 6. ,3 ,6 ,3 - ,7 ,6 q,5 q,5
+q,3 ,,5 ,5 6 - q,3' - 7. x 6' - ,6. q6 s5 s6 - 6 d5 - - 4' x - ,3 ,3' ,x s5 x. - 0 s7 q,6 ,6. ,3 ,6. ,3 s,5 ,6 ,3 ,6
+,3 ,6. ,6 q,3 - ,6 ,4 - - ,6. 6. - - q3. s4 q3 q5 - x x q3. q3 q1 q3 ,5 ,7 - ,7 0 - ,5 - q,5 - q,5 ,5 q,5 - ,4 -
+- x ,6. q5 x - q4 x 3' - x x 4. q3 - - ,,5 ,,5 ,7 - ,7 - - - q,5 - q,4 - 3. q5 x q3' q7 6. s5 qx 3' q7 6 -
+7. 3 7 q6. x ,1 - - - q5 - ,1 ,6 ,3 ,6 ,3 - - x x ,6. q6. q6 6. q4. q7 6. - q,5 - ,6. ,3 ,6. ,,3 - - - ,6. x 6
+- q4. q3 - 3 q5 0 7 x -
+%END

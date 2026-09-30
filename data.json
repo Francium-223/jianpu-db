@@ -912,6 +912,22 @@
             "refine the filename"
         ]
     },
+    "Beyond_the_Memory钢琴_2.txt": {
+        "file": [
+            "Beyond_the_Memory钢琴_2.txt"
+        ],
+        "title": "Beyond_the_Memory钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-245753"
+        ]
+    },
     "Black欧谱斯.txt": {
         "file": [
             "Black欧谱斯.txt"
@@ -1209,6 +1225,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "Eyes_On_Me钢琴_3.txt": {
+        "file": [
+            "Eyes_On_Me钢琴_3.txt"
+        ],
+        "title": "Eyes_On_Me钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-378084"
         ]
     },
     "Falling_in_Love.txt": {
@@ -1615,6 +1647,22 @@
             "refine the filename"
         ]
     },
+    "I_Do钢琴_2.txt": {
+        "file": [
+            "I_Do钢琴_2.txt"
+        ],
+        "title": "I_Do钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-245461"
+        ]
+    },
     "I_Pary_For_You.txt": {
         "file": [
             "I_Pary_For_You.txt"
@@ -1721,6 +1769,24 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "I_will_carry_you钢琴谱当王者荣耀遇到五月天骨灰级玩家在哪里_2.txt": {
+        "file": [
+            "I_will_carry_you钢琴谱当王者荣耀遇到五月天骨灰级玩家在哪里_2.txt"
+        ],
+        "title": "I_will_carry_you钢琴谱当王者荣耀遇到五月天骨灰级玩家在哪里",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "confidence": "0.937",
+        "conf_p10": "0.775",
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-15444"
         ]
     },
     "Its_Happening钢琴.txt": {
@@ -2561,6 +2627,22 @@
             "refine the filename"
         ]
     },
+    "Stormbringer钢琴_2.txt": {
+        "file": [
+            "Stormbringer钢琴_2.txt"
+        ],
+        "title": "Stormbringer钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-387639"
+        ]
+    },
     "Super_Star.txt": {
         "file": [
             "Super_Star.txt"
@@ -2620,6 +2702,24 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "Take_Me_To_Your_Heart钢琴_2.txt": {
+        "file": [
+            "Take_Me_To_Your_Heart钢琴_2.txt"
+        ],
+        "title": "Take_Me_To_Your_Heart钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "confidence": "0.903",
+        "conf_p10": "0.695",
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-251698"
         ]
     },
     "Take_Me_To_Your_Heart（吻别）.txt": {
@@ -19794,6 +19894,22 @@
             "qupu123-339783"
         ]
     },
+    "一千个伤心的理由_7.txt": {
+        "file": [
+            "一千个伤心的理由_7.txt"
+        ],
+        "title": "一千个伤心的理由",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-145462"
+        ]
+    },
     "一千个伤心的理由钢琴.txt": {
         "file": [
             "一千个伤心的理由钢琴.txt"
@@ -19815,6 +19931,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "一千个伤心的理由钢琴_2.txt": {
+        "file": [
+            "一千个伤心的理由钢琴_2.txt"
+        ],
+        "title": "一千个伤心的理由钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-252727"
         ]
     },
     "一千年以后.txt": {
@@ -19988,6 +20120,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "一半钢琴_2.txt": {
+        "file": [
+            "一半钢琴_2.txt"
+        ],
+        "title": "一半钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-150281"
         ]
     },
     "一双小红鞋.txt": {
@@ -20813,6 +20961,22 @@
             "refine the filename"
         ]
     },
+    "一时的选择钢琴_2.txt": {
+        "file": [
+            "一时的选择钢琴_2.txt"
+        ],
+        "title": "一时的选择钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-383572"
+        ]
+    },
     "一曲情未了.txt": {
         "file": [
             "一曲情未了.txt"
@@ -21289,6 +21453,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "一点点钢琴_2.txt": {
+        "file": [
+            "一点点钢琴_2.txt"
+        ],
+        "title": "一点点钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-380059"
         ]
     },
     "一点点（周杰伦）.txt": {
@@ -22193,6 +22373,22 @@
             "refine the filename"
         ]
     },
+    "一程山路钢琴_2.txt": {
+        "file": [
+            "一程山路钢琴_2.txt"
+        ],
+        "title": "一程山路钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-150629"
+        ]
+    },
     "一笑而过解千愁.txt": {
         "file": [
             "一笑而过解千愁.txt"
@@ -22796,6 +22992,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "一起走过的日子钢琴_2.txt": {
+        "file": [
+            "一起走过的日子钢琴_2.txt"
+        ],
+        "title": "一起走过的日子钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-246225"
         ]
     },
     "一路上有你.txt": {
@@ -24879,6 +25091,22 @@
             "jianpujia-246585"
         ]
     },
+    "三月里的小雨钢琴_2.txt": {
+        "file": [
+            "三月里的小雨钢琴_2.txt"
+        ],
+        "title": "三月里的小雨钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-246585"
+        ]
+    },
     "三棵树的情怀.txt": {
         "file": [
             "三棵树的情怀.txt"
@@ -25835,6 +26063,22 @@
             "refine the filename"
         ]
     },
+    "下雨了钢琴_2.txt": {
+        "file": [
+            "下雨了钢琴_2.txt"
+        ],
+        "title": "下雨了钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-149011"
+        ]
+    },
     "下雨的时候会想你_歌曲类.txt": {
         "file": [
             "下雨的时候会想你_歌曲类.txt"
@@ -26717,6 +26961,22 @@
             "林俊杰"
         ]
     },
+    "不懂_2.txt": {
+        "file": [
+            "不懂_2.txt"
+        ],
+        "title": "不懂",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-377896"
+        ]
+    },
     "不懂爱的人.txt": {
         "file": [
             "不懂爱的人.txt"
@@ -26962,6 +27222,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "不潮不用花钱钢琴_2.txt": {
+        "file": [
+            "不潮不用花钱钢琴_2.txt"
+        ],
+        "title": "不潮不用花钱钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-377981"
         ]
     },
     "不潮不用花钱（林俊杰）.txt": {
@@ -27795,6 +28071,24 @@
             "refine the filename"
         ]
     },
+    "不能说的秘密片尾曲钢琴_2.txt": {
+        "file": [
+            "不能说的秘密片尾曲钢琴_2.txt"
+        ],
+        "title": "不能说的秘密片尾曲钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "confidence": "0.920",
+        "conf_p10": "0.756",
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-380458"
+        ]
+    },
     "不能这样活-辘轳_女人和井片尾曲.txt": {
         "file": [
             "不能这样活-辘轳_女人和井片尾曲.txt"
@@ -28336,6 +28630,22 @@
             "refine the filename"
         ]
     },
+    "不该钢琴_2.txt": {
+        "file": [
+            "不该钢琴_2.txt"
+        ],
+        "title": "不该钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-380028"
+        ]
+    },
     "不该（周杰伦）.txt": {
         "file": [
             "不该（周杰伦）.txt"
@@ -28449,6 +28759,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "不说钢琴_2.txt": {
+        "file": [
+            "不说钢琴_2.txt"
+        ],
+        "title": "不说钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-149014"
         ]
     },
     "不负好时光.txt": {
@@ -30793,6 +31119,22 @@
             "qupu123-304640"
         ]
     },
+    "两只老虎_8.txt": {
+        "file": [
+            "两只老虎_8.txt"
+        ],
+        "title": "两只老虎",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-15847"
+        ]
+    },
     "两只老虎钢琴.txt": {
         "file": [
             "两只老虎钢琴.txt"
@@ -30832,6 +31174,22 @@
             "分类/钢琴谱",
             "分类/儿歌"
         ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-234428"
+        ]
+    },
+    "两只老虎钢琴_3.txt": {
+        "file": [
+            "两只老虎钢琴_3.txt"
+        ],
+        "title": "两只老虎钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
         "transcriber": [
             "jianpu2-auto"
         ],
@@ -33429,6 +33787,22 @@
             "refine the filename"
         ]
     },
+    "为了遇见你钢琴_2.txt": {
+        "file": [
+            "为了遇见你钢琴_2.txt"
+        ],
+        "title": "为了遇见你钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-149662"
+        ]
+    },
     "为人民服务.txt": {
         "file": [
             "为人民服务.txt"
@@ -34485,6 +34859,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "乌梅子酱钢琴_2.txt": {
+        "file": [
+            "乌梅子酱钢琴_2.txt"
+        ],
+        "title": "乌梅子酱钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-387917"
         ]
     },
     "乌梅子酱（李荣浩）.txt": {
@@ -35765,6 +36155,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "二零三钢琴_2.txt": {
+        "file": [
+            "二零三钢琴_2.txt"
+        ],
+        "title": "二零三钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-150712"
         ]
     },
     "云上情歌.txt": {
@@ -38026,6 +38432,22 @@
             "refine the filename"
         ]
     },
+    "人来人往钢琴_2.txt": {
+        "file": [
+            "人来人往钢琴_2.txt"
+        ],
+        "title": "人来人往钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-150685"
+        ]
+    },
     "人比人.txt": {
         "file": [
             "人比人.txt"
@@ -39144,6 +39566,24 @@
             "refine the filename"
         ]
     },
+    "人间第一情_钢琴_—_2.txt": {
+        "file": [
+            "人间第一情_钢琴_—_2.txt"
+        ],
+        "title": "人间第一情 钢琴 —",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "confidence": "0.853",
+        "conf_p10": "0.526",
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpucn-229742"
+        ]
+    },
     "人间道.txt": {
         "file": [
             "人间道.txt"
@@ -39185,6 +39625,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "人间钢琴_2.txt": {
+        "file": [
+            "人间钢琴_2.txt"
+        ],
+        "title": "人间钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-252439"
         ]
     },
     "人间（.txt": {
@@ -41378,6 +41834,22 @@
             "refine the filename"
         ]
     },
+    "传奇钢琴_2.txt": {
+        "file": [
+            "传奇钢琴_2.txt"
+        ],
+        "title": "传奇钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-252562"
+        ]
+    },
     "传说.txt": {
         "file": [
             "传说.txt"
@@ -41622,6 +42094,24 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "伤心的人别听慢歌钢琴_2.txt": {
+        "file": [
+            "伤心的人别听慢歌钢琴_2.txt"
+        ],
+        "title": "伤心的人别听慢歌钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "confidence": "0.964",
+        "conf_p10": "0.881",
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-152759"
         ]
     },
     "伤心的哭.txt": {
@@ -42102,6 +42592,22 @@
             "refine the filename"
         ]
     },
+    "但愿人长久钢琴_2.txt": {
+        "file": [
+            "但愿人长久钢琴_2.txt"
+        ],
+        "title": "但愿人长久钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-150360"
+        ]
+    },
     "但愿人长久（邓丽君）.txt": {
         "file": [
             "但愿人长久（邓丽君）.txt"
@@ -42437,6 +42943,22 @@
         "status": "ocr",
         "source": [
             "qupu123-370709"
+        ]
+    },
+    "何日君再来_6.txt": {
+        "file": [
+            "何日君再来_6.txt"
+        ],
+        "title": "何日君再来",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-9200"
         ]
     },
     "何时我俩重相聚.txt": {
@@ -43222,6 +43744,22 @@
             "refine the filename"
         ]
     },
+    "你在终点等我钢琴_2.txt": {
+        "file": [
+            "你在终点等我钢琴_2.txt"
+        ],
+        "title": "你在终点等我钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-149017"
+        ]
+    },
     "你好 小宝贝.txt": {
         "file": [
             "你好 小宝贝.txt"
@@ -43837,6 +44375,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "你怎么说钢琴_2.txt": {
+        "file": [
+            "你怎么说钢琴_2.txt"
+        ],
+        "title": "你怎么说钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-150365"
         ]
     },
     "你怎么说（邓丽君）.txt": {
@@ -45810,6 +46364,22 @@
             "refine the filename"
         ]
     },
+    "你给我听好钢琴_2.txt": {
+        "file": [
+            "你给我听好钢琴_2.txt"
+        ],
+        "title": "你给我听好钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-149671"
+        ]
+    },
     "你给我的爱不是爱.txt": {
         "file": [
             "你给我的爱不是爱.txt"
@@ -46220,6 +46790,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "你还要我怎样钢琴_2.txt": {
+        "file": [
+            "你还要我怎样钢琴_2.txt"
+        ],
+        "title": "你还要我怎样钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-150489"
         ]
     },
     "你还要我怎样（薛之谦）.txt": {
@@ -48474,6 +49060,22 @@
             "refine the filename"
         ]
     },
+    "像我这样的人钢琴_2.txt": {
+        "file": [
+            "像我这样的人钢琴_2.txt"
+        ],
+        "title": "像我这样的人钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-150727"
+        ]
+    },
     "像我这样的人（孙世彦.txt": {
         "file": [
             "像我这样的人（孙世彦.txt"
@@ -48641,6 +49243,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "像风一样钢琴_2.txt": {
+        "file": [
+            "像风一样钢琴_2.txt"
+        ],
+        "title": "像风一样钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-150721"
         ]
     },
     "像风一样（薛之谦）.txt": {
@@ -49897,6 +50515,24 @@
             "refine the filename"
         ]
     },
+    "入海钢琴_2.txt": {
+        "file": [
+            "入海钢琴_2.txt"
+        ],
+        "title": "入海钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "confidence": "0.929",
+        "conf_p10": "0.758",
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-154573"
+        ]
+    },
     "入阵曲.txt": {
         "file": [
             "入阵曲.txt"
@@ -50372,6 +51008,22 @@
         "tag": [
             "分类/钢琴谱"
         ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-252782"
+        ]
+    },
+    "兰亭序钢琴_2.txt": {
+        "file": [
+            "兰亭序钢琴_2.txt"
+        ],
+        "title": "兰亭序钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
         "transcriber": [
             "jianpu2-auto"
         ],
@@ -51289,6 +51941,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "其实钢琴_2.txt": {
+        "file": [
+            "其实钢琴_2.txt"
+        ],
+        "title": "其实钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-151373"
         ]
     },
     "其实（薛之谦 词曲）__qupu123-304211.txt": {
@@ -55560,6 +56228,22 @@
             "refine the filename"
         ]
     },
+    "刚刚好钢琴_2.txt": {
+        "file": [
+            "刚刚好钢琴_2.txt"
+        ],
+        "title": "刚刚好钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-150582"
+        ]
+    },
     "刚刚好（薛之谦）.txt": {
         "file": [
             "刚刚好（薛之谦）.txt"
@@ -57101,6 +57785,22 @@
             "refine the filename"
         ]
     },
+    "动物世界钢琴_2.txt": {
+        "file": [
+            "动物世界钢琴_2.txt"
+        ],
+        "title": "动物世界钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-149543"
+        ]
+    },
     "努力吧，朋友.txt": {
         "file": [
             "努力吧，朋友.txt"
@@ -57917,6 +58617,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "北国之春钢琴_2.txt": {
+        "file": [
+            "北国之春钢琴_2.txt"
+        ],
+        "title": "北国之春钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-149644"
         ]
     },
     "北国之春（邓丽君）.txt": {
@@ -59450,6 +60166,22 @@
             "refine the filename"
         ]
     },
+    "千百度钢琴_2.txt": {
+        "file": [
+            "千百度钢琴_2.txt"
+        ],
+        "title": "千百度钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-380245"
+        ]
+    },
     "千秋大业.txt": {
         "file": [
             "千秋大业.txt"
@@ -60481,6 +61213,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "单车钢琴_2.txt": {
+        "file": [
+            "单车钢琴_2.txt"
+        ],
+        "title": "单车钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-149739"
         ]
     },
     "单骑西藏寻天堂.txt": {
@@ -61950,6 +62698,22 @@
             "refine the filename"
         ]
     },
+    "又十年钢琴_2.txt": {
+        "file": [
+            "又十年钢琴_2.txt"
+        ],
+        "title": "又十年钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-382939"
+        ]
+    },
     "又听到那首歌.txt": {
         "file": [
             "又听到那首歌.txt"
@@ -62526,6 +63290,22 @@
         "tag": [
             "分类/钢琴谱"
         ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-249659"
+        ]
+    },
+    "反方向的钟钢琴_2.txt": {
+        "file": [
+            "反方向的钟钢琴_2.txt"
+        ],
+        "title": "反方向的钟钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
         "transcriber": [
             "jianpu2-auto"
         ],
@@ -85746,6 +86526,22 @@
             "refine the filename"
         ]
     },
+    "好久不见钢琴_2.txt": {
+        "file": [
+            "好久不见钢琴_2.txt"
+        ],
+        "title": "好久不见钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-248264"
+        ]
+    },
     "好久不见（陈奕迅）.txt": {
         "file": [
             "好久不见（陈奕迅）.txt"
@@ -87347,6 +88143,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "如果我们不曾相遇钢琴_2.txt": {
+        "file": [
+            "如果我们不曾相遇钢琴_2.txt"
+        ],
+        "title": "如果我们不曾相遇钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-380048"
         ]
     },
     "如果我有勇气.txt": {
@@ -89753,6 +90565,22 @@
             "refine the filename"
         ]
     },
+    "孤独娱乐钢琴_2.txt": {
+        "file": [
+            "孤独娱乐钢琴_2.txt"
+        ],
+        "title": "孤独娱乐钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-383574"
+        ]
+    },
     "孤独的小骆驼羔.txt": {
         "file": [
             "孤独的小骆驼羔.txt"
@@ -92037,6 +92865,22 @@
             "refine the filename"
         ]
     },
+    "容易受伤的女人钢琴_2.txt": {
+        "file": [
+            "容易受伤的女人钢琴_2.txt"
+        ],
+        "title": "容易受伤的女人钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-250144"
+        ]
+    },
     "宾至房山.txt": {
         "file": [
             "宾至房山.txt"
@@ -93680,6 +94524,22 @@
             "refine the filename"
         ]
     },
+    "小丑钢琴_2.txt": {
+        "file": [
+            "小丑钢琴_2.txt"
+        ],
+        "title": "小丑钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-387907"
+        ]
+    },
     "小丑（毛不易）.txt": {
         "file": [
             "小丑（毛不易）.txt"
@@ -94353,6 +95213,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "小城故事钢琴_2.txt": {
+        "file": [
+            "小城故事钢琴_2.txt"
+        ],
+        "title": "小城故事钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-148668"
         ]
     },
     "小城故事（邓丽君）.txt": {
@@ -96016,6 +96892,22 @@
             "refine the filename"
         ]
     },
+    "小白兔白又白钢琴_2.txt": {
+        "file": [
+            "小白兔白又白钢琴_2.txt"
+        ],
+        "title": "小白兔白又白钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-255717"
+        ]
+    },
     "小白杨.txt": {
         "file": [
             "小白杨.txt"
@@ -96250,6 +97142,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "小红帽钢琴_2.txt": {
+        "file": [
+            "小红帽钢琴_2.txt"
+        ],
+        "title": "小红帽钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-245722"
         ]
     },
     "小红花.txt": {
@@ -96955,6 +97863,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "小酒窝钢琴_2.txt": {
+        "file": [
+            "小酒窝钢琴_2.txt"
+        ],
+        "title": "小酒窝钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-383628"
         ]
     },
     "小酒窝（林俊杰 蔡卓妍）.txt": {
@@ -97963,6 +98887,22 @@
             "refine the filename"
         ]
     },
+    "尘大师钢琴_2.txt": {
+        "file": [
+            "尘大师钢琴_2.txt"
+        ],
+        "title": "尘大师钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-384841"
+        ]
+    },
     "尘缘.txt": {
         "file": [
             "尘缘.txt"
@@ -98207,6 +99147,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "就这样钢琴_2.txt": {
+        "file": [
+            "就这样钢琴_2.txt"
+        ],
+        "title": "就这样钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-149960"
         ]
     },
     "就这样（李荣浩）.txt": {
@@ -99628,6 +100584,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "岁月钢琴_2.txt": {
+        "file": [
+            "岁月钢琴_2.txt"
+        ],
+        "title": "岁月钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-245824"
         ]
     },
     "岁钢琴.txt": {
@@ -102616,6 +103588,22 @@
             "refine the filename"
         ]
     },
+    "庐州月完美版钢琴_2.txt": {
+        "file": [
+            "庐州月完美版钢琴_2.txt"
+        ],
+        "title": "庐州月完美版钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-150660"
+        ]
+    },
     "应该.txt": {
         "file": [
             "应该.txt"
@@ -105114,6 +106102,22 @@
             "jianpujia-249895"
         ]
     },
+    "征服钢琴_2.txt": {
+        "file": [
+            "征服钢琴_2.txt"
+        ],
+        "title": "征服钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-249895"
+        ]
+    },
     "待嫁的新娘.txt": {
         "file": [
             "待嫁的新娘.txt"
@@ -106344,6 +107348,22 @@
             "refine the filename"
         ]
     },
+    "心墙钢琴_2.txt": {
+        "file": [
+            "心墙钢琴_2.txt"
+        ],
+        "title": "心墙钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-429407"
+        ]
+    },
     "心太软.txt": {
         "file": [
             "心太软.txt"
@@ -106458,6 +107478,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "心如刀割钢琴_2.txt": {
+        "file": [
+            "心如刀割钢琴_2.txt"
+        ],
+        "title": "心如刀割钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-246929"
         ]
     },
     "心存感恩.txt": {
@@ -107768,6 +108804,24 @@
             "qupu123-259057"
         ]
     },
+    "忘情水_9.txt": {
+        "file": [
+            "忘情水_9.txt"
+        ],
+        "title": "忘情水",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "confidence": "0.945",
+        "conf_p10": "0.839",
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-15373"
+        ]
+    },
     "忘情水_歌曲类.txt": {
         "file": [
             "忘情水_歌曲类.txt"
@@ -107809,6 +108863,24 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "忘情水钢琴_2.txt": {
+        "file": [
+            "忘情水钢琴_2.txt"
+        ],
+        "title": "忘情水钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "confidence": "0.954",
+        "conf_p10": "0.839",
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-251850"
         ]
     },
     "忘情酒&nbsp;&nbsp;.txt": {
@@ -107993,6 +109065,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "忘记你我做不到钢琴_2.txt": {
+        "file": [
+            "忘记你我做不到钢琴_2.txt"
+        ],
+        "title": "忘记你我做不到钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-149573"
         ]
     },
     "忠孝东路走九遍.txt": {
@@ -110015,6 +111103,22 @@
             "refine the filename"
         ]
     },
+    "恨幸福来过钢琴_2.txt": {
+        "file": [
+            "恨幸福来过钢琴_2.txt"
+        ],
+        "title": "恨幸福来过钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-382742"
+        ]
+    },
     "恨离殇.txt": {
         "file": [
             "恨离殇.txt"
@@ -111001,6 +112105,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "情人钢琴_2.txt": {
+        "file": [
+            "情人钢琴_2.txt"
+        ],
+        "title": "情人钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-234504"
         ]
     },
     "情似无情.txt": {
@@ -113453,6 +114573,24 @@
             "refine the filename"
         ]
     },
+    "感谢钢琴_3.txt": {
+        "file": [
+            "感谢钢琴_3.txt"
+        ],
+        "title": "感谢钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "confidence": "0.923",
+        "conf_p10": "0.733",
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-250631"
+        ]
+    },
     "愿.txt": {
         "file": [
             "愿.txt"
@@ -113544,6 +114682,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "愿与愁钢琴_2.txt": {
+        "file": [
+            "愿与愁钢琴_2.txt"
+        ],
+        "title": "愿与愁钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-385669"
         ]
     },
     "愿亲人早日养好伤.txt": {
@@ -113863,6 +115017,22 @@
             "refine the filename"
         ]
     },
+    "慢半拍钢琴_2.txt": {
+        "file": [
+            "慢半拍钢琴_2.txt"
+        ],
+        "title": "慢半拍钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-151387"
+        ]
+    },
     "慢半拍（薛之谦）.txt": {
         "file": [
             "慢半拍（薛之谦）.txt"
@@ -113965,6 +115135,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "慢慢_钢琴_2.txt": {
+        "file": [
+            "慢慢_钢琴_2.txt"
+        ],
+        "title": "慢慢_钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-245680"
         ]
     },
     "慢慢后退.txt": {
@@ -114864,6 +116050,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "我不愿让你一个人钢琴_2.txt": {
+        "file": [
+            "我不愿让你一个人钢琴_2.txt"
+        ],
+        "title": "我不愿让你一个人钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-148641"
         ]
     },
     "我不愿让你一个人（五月天）.txt": {
@@ -117307,6 +118509,22 @@
             "refine the filename"
         ]
     },
+    "我们钢琴_2.txt": {
+        "file": [
+            "我们钢琴_2.txt"
+        ],
+        "title": "我们钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-246006"
+        ]
+    },
     "我会再来.txt": {
         "file": [
             "我会再来.txt"
@@ -118428,6 +119646,22 @@
             "refine the filename"
         ]
     },
+    "我好像在哪见过你钢琴_2.txt": {
+        "file": [
+            "我好像在哪见过你钢琴_2.txt"
+        ],
+        "title": "我好像在哪见过你钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-149003"
+        ]
+    },
     "我好像在哪见过你（薛之谦）.txt": {
         "file": [
             "我好像在哪见过你（薛之谦）.txt"
@@ -118579,6 +119813,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "我害怕钢琴_2.txt": {
+        "file": [
+            "我害怕钢琴_2.txt"
+        ],
+        "title": "我害怕钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-149708"
         ]
     },
     "我家两警察.txt": {
@@ -123990,6 +125240,22 @@
             "refine the filename"
         ]
     },
+    "我真的受伤了钢琴_2.txt": {
+        "file": [
+            "我真的受伤了钢琴_2.txt"
+        ],
+        "title": "我真的受伤了钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-150755"
+        ]
+    },
     "我知道.txt": {
         "file": [
             "我知道.txt"
@@ -124281,6 +125547,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "我落泪情绪零碎钢琴_2.txt": {
+        "file": [
+            "我落泪情绪零碎钢琴_2.txt"
+        ],
+        "title": "我落泪情绪零碎钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-384854"
         ]
     },
     "我要为你歌唱.txt": {
@@ -124706,6 +125988,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "我钢琴_2.txt": {
+        "file": [
+            "我钢琴_2.txt"
+        ],
+        "title": "我钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-149605"
         ]
     },
     "我问白云-邓丽君.txt": {
@@ -126178,6 +127476,22 @@
             "refine the filename"
         ]
     },
+    "执迷不悔钢琴_2.txt": {
+        "file": [
+            "执迷不悔钢琴_2.txt"
+        ],
+        "title": "执迷不悔钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-249763"
+        ]
+    },
     "扫大街的老大妈【杜得民原创歌曲之18】.txt": {
         "file": [
             "扫大街的老大妈【杜得民原创歌曲之18】.txt"
@@ -127259,6 +128573,22 @@
             "refine the filename"
         ]
     },
+    "披风钢琴_2.txt": {
+        "file": [
+            "披风钢琴_2.txt"
+        ],
+        "title": "披风钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-149724"
+        ]
+    },
     "抬头仰望夜黑的天.txt": {
         "file": [
             "抬头仰望夜黑的天.txt"
@@ -127948,6 +129278,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "拥抱钢琴_2.txt": {
+        "file": [
+            "拥抱钢琴_2.txt"
+        ],
+        "title": "拥抱钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-150412"
         ]
     },
     "拥抱阳光.txt": {
@@ -129458,6 +130804,22 @@
             "refine the filename"
         ]
     },
+    "放钢琴_2.txt": {
+        "file": [
+            "放钢琴_2.txt"
+        ],
+        "title": "放钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-149990"
+        ]
+    },
     "放风筝.txt": {
         "file": [
             "放风筝.txt"
@@ -130087,6 +131449,24 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "故乡钢琴_2.txt": {
+        "file": [
+            "故乡钢琴_2.txt"
+        ],
+        "title": "故乡钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "confidence": "0.954",
+        "conf_p10": "0.859",
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-152901"
         ]
     },
     "故事的启迪.txt": {
@@ -130873,6 +132253,22 @@
             "refine the filename"
         ]
     },
+    "断桥残雪钢琴_2.txt": {
+        "file": [
+            "断桥残雪钢琴_2.txt"
+        ],
+        "title": "断桥残雪钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-150254"
+        ]
+    },
     "断点.txt": {
         "file": [
             "断点.txt"
@@ -131283,6 +132679,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "新年好钢琴_3.txt": {
+        "file": [
+            "新年好钢琴_3.txt"
+        ],
+        "title": "新年好钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-387554"
         ]
     },
     "新年歌（陈元绍.txt": {
@@ -131939,6 +133351,22 @@
             "refine the filename"
         ]
     },
+    "方圆几里钢琴_2.txt": {
+        "file": [
+            "方圆几里钢琴_2.txt"
+        ],
+        "title": "方圆几里钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-150136"
+        ]
+    },
     "方岩之歌.txt": {
         "file": [
             "方岩之歌.txt"
@@ -132154,6 +133582,24 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "旋木钢琴_2.txt": {
+        "file": [
+            "旋木钢琴_2.txt"
+        ],
+        "title": "旋木钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "confidence": "0.936",
+        "conf_p10": "0.788",
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-250917"
         ]
     },
     "旋涡.txt": {
@@ -132874,6 +134320,22 @@
             "refine the filename"
         ]
     },
+    "无条件钢琴_2.txt": {
+        "file": [
+            "无条件钢琴_2.txt"
+        ],
+        "title": "无条件钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-249961"
+        ]
+    },
     "无法阻挡.txt": {
         "file": [
             "无法阻挡.txt"
@@ -133313,6 +134775,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "无间道钢琴_2.txt": {
+        "file": [
+            "无间道钢琴_2.txt"
+        ],
+        "title": "无间道钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-252860"
         ]
     },
     "无题.txt": {
@@ -134391,6 +135869,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "明月几时有钢琴_2.txt": {
+        "file": [
+            "明月几时有钢琴_2.txt"
+        ],
+        "title": "明月几时有钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-245665"
         ]
     },
     "明月千里.txt": {
@@ -137075,6 +138569,22 @@
             "refine the filename"
         ]
     },
+    "是但求其爱钢琴_2.txt": {
+        "file": [
+            "是但求其爱钢琴_2.txt"
+        ],
+        "title": "是但求其爱钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-248737"
+        ]
+    },
     "是你吗？.txt": {
         "file": [
             "是你吗？.txt"
@@ -137506,6 +139016,22 @@
             "jianpujia-152028"
         ]
     },
+    "晚风心里吹钢琴_2.txt": {
+        "file": [
+            "晚风心里吹钢琴_2.txt"
+        ],
+        "title": "晚风心里吹钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-152028"
+        ]
+    },
     "晚风（.txt": {
         "file": [
             "晚风（.txt"
@@ -137773,6 +139299,22 @@
             "refine the filename"
         ]
     },
+    "暗涌钢琴_2.txt": {
+        "file": [
+            "暗涌钢琴_2.txt"
+        ],
+        "title": "暗涌钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-245798"
+        ]
+    },
     "暗示.txt": {
         "file": [
             "暗示.txt"
@@ -137849,6 +139391,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "暗里着迷钢琴_2.txt": {
+        "file": [
+            "暗里着迷钢琴_2.txt"
+        ],
+        "title": "暗里着迷钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-248454"
         ]
     },
     "暗香.txt": {
@@ -137987,6 +139545,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "暧昧钢琴_2.txt": {
+        "file": [
+            "暧昧钢琴_2.txt"
+        ],
+        "title": "暧昧钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-149618"
         ]
     },
     "暧昧（薛之谦）.txt": {
@@ -138397,6 +139971,22 @@
             "refine the filename"
         ]
     },
+    "最佳损友钢琴_2.txt": {
+        "file": [
+            "最佳损友钢琴_2.txt"
+        ],
+        "title": "最佳损友钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-148533"
+        ]
+    },
     "最佳福星.txt": {
         "file": [
             "最佳福星.txt"
@@ -138766,6 +140356,22 @@
         "tag": [
             "分类/钢琴谱"
         ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-383205"
+        ]
+    },
+    "最好的安排钢琴_2.txt": {
+        "file": [
+            "最好的安排钢琴_2.txt"
+        ],
+        "title": "最好的安排钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
         "transcriber": [
             "jianpu2-auto"
         ],
@@ -139795,6 +141401,22 @@
             "分类/钢琴谱",
             "分类/影视"
         ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-252875"
+        ]
+    },
+    "最长的电影钢琴_2.txt": {
+        "file": [
+            "最长的电影钢琴_2.txt"
+        ],
+        "title": "最长的电影钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
         "transcriber": [
             "jianpu2-auto"
         ],
@@ -141366,6 +142988,22 @@
             "refine the filename"
         ]
     },
+    "月球上的人钢琴_2.txt": {
+        "file": [
+            "月球上的人钢琴_2.txt"
+        ],
+        "title": "月球上的人钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-245617"
+        ]
+    },
     "月神之歌.txt": {
         "file": [
             "月神之歌.txt"
@@ -142082,6 +143720,22 @@
             "refine the filename"
         ]
     },
+    "有心人钢琴_2.txt": {
+        "file": [
+            "有心人钢琴_2.txt"
+        ],
+        "title": "有心人钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-149317"
+        ]
+    },
     "有情也难牵你手.txt": {
         "file": [
             "有情也难牵你手.txt"
@@ -142259,6 +143913,22 @@
             "薛之谦"
         ]
     },
+    "有没有_2.txt": {
+        "file": [
+            "有没有_2.txt"
+        ],
+        "title": "有没有",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-149956"
+        ]
+    },
     "有没有一首歌会让你想起我_歌曲类.txt": {
         "file": [
             "有没有一首歌会让你想起我_歌曲类.txt"
@@ -142424,6 +144094,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "有谁共鸣钢琴_2.txt": {
+        "file": [
+            "有谁共鸣钢琴_2.txt"
+        ],
+        "title": "有谁共鸣钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-251700"
         ]
     },
     "有谁知我此时情.txt": {
@@ -143774,6 +145460,22 @@
             "refine the filename"
         ]
     },
+    "木瓜恰恰恰钢琴_2.txt": {
+        "file": [
+            "木瓜恰恰恰钢琴_2.txt"
+        ],
+        "title": "木瓜恰恰恰钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-149655"
+        ]
+    },
     "木鱼与金鱼.txt": {
         "file": [
             "木鱼与金鱼.txt"
@@ -144844,6 +146546,22 @@
         ],
         "todo": [
             "refine the filename"
+        ]
+    },
+    "李白钢琴_2.txt": {
+        "file": [
+            "李白钢琴_2.txt"
+        ],
+        "title": "李白钢琴",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-150454"
         ]
     },
     "李白（李荣浩.txt": {
@@ -189572,6 +191290,24 @@
         "status": "ocr",
         "source": [
             "qupu123-381945"
+        ]
+    },
+    "红豆_7.txt": {
+        "file": [
+            "红豆_7.txt"
+        ],
+        "title": "红豆",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "confidence": "0.943",
+        "conf_p10": "0.832",
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-15415"
         ]
     },
     "红豆（史光柱.txt": {
