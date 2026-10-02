@@ -137,7 +137,15 @@ def main():    # ① source= 只在曲谱文件里(score.py 的 to_record 没带
         _sp = _json.load(open("source_pages.json", encoding="utf-8"))
     except Exception:
         pass
-    _sp_uniq = sorted({s for r in rows for s in (r.get("source") or []) if s})
+    def _srcs(r):
+        # 注意: export 出去的行里 `source` 已经是**字符串**（见上面 "source": s），
+        # 直接当列表遍历会把字符串拆成单个字符（2026-10-03 踩过，卡片上打出了一串 '-','0','1'…）
+        v = r.get("source")
+        if isinstance(v, list):
+            return [x for x in v if x]
+        return [v] if isinstance(v, str) and v else []
+
+    _sp_uniq = sorted({s for r in rows for s in _srcs(r)})
     _sp_hit = sum(1 for s in _sp_uniq if s in _sp)
     _sp_pct = ("%.1f" % (len(_sp_uniq) and _sp_hit * 100.0 / len(_sp_uniq))) if _sp_uniq else "0.0"
     h = hashlib.sha256(open(outj, "rb").read()).hexdigest()[:16]
@@ -186,7 +194,7 @@ configs:
 | `transcriber` | str | 转写者 |
 | `source` | str | 出处(如 `qupu123-268596`, 站点-站内 id) |
 | `source_host` | str | 出处站点(qupu123 / jianpucn / jianpujia …) |
-| `link` | list[str] | 这首歌在某一站的**收录页**(人工核对过, 可多个)。只收具体页面 —— 搜索页不进数据; 原谱站那一页可由 `source` 的站点+id 推出(仓库 `source_pages.json`, 逐条抓取核对过; **实测覆盖: 本版语料 {_sp_uniq} 个唯一 source 里能查到页面的 {_sp_hit} 个 = {_sp_pct}%**)。**⚠ 实测: 本版 {len(rows)} 行里该字段非空的有 {_link_ne} 行** —— 字段在、但还没有数据(曲谱文件头里根本没有 `link=` 这一项, 它只由人工核对过的投稿流程写入) |
+| `link` | list[str] | 这首歌在某一站的**收录页**(人工核对过, 可多个)。只收具体页面 —— 搜索页不进数据; 原谱站那一页可由 `source` 的站点+id 推出(仓库 `source_pages.json`, 逐条抓取核对过; **实测覆盖: 本版语料 {len(_sp_uniq)} 个唯一 source 里能查到页面的 {_sp_hit} 个 = {_sp_pct}%**)。**⚠ 实测: 本版 {len(rows)} 行里该字段非空的有 {_link_ne} 行** —— 字段在、但还没有数据(曲谱文件头里根本没有 `link=` 这一项, 它只由人工核对过的投稿流程写入) |
 | `n_notes` | int | 音符数 —— **含休止 `0` 与念白 `x`**（jptok 判为音符的 token 都算），不含 `-`/`~`/`|`。⚠ 站点索引的 `n` 只数真音高，所以同一份谱两边会差：全库合计本数据集 2,532,332 vs 站点 2,282,964（90.2%） |
 | `sections` | list[dict] | 分段: `{{"subtitle": "chorus", "score": "..."}}` |
 | `score` | str | 全文旋律(各段用 ` \| ` 连接) |
