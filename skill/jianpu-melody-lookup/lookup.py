@@ -78,6 +78,23 @@ def group_of(title):
     return re.split(r"[（(\s　【\[《]", base)[0].strip() or base.strip()
 
 
+# ── 归组归一化（与站点 build_web_data.py 的 norm_group_key 同一套口径）──────────
+# 为什么要有: 上面那个 group_of 只在第一个括号/空格处截断，于是**同一首歌会分成几个组** ——
+#   `Amani` / `AMANI`（大小写）、`Love` / `love`、`中国_中国` / `中国，中国`（标点/下划线）。
+#   不归一化时本 skill 报"库 8625 首"，而归一化后与站点一致是 **8602 首**（2026-10-03 实测）。
+# 为什么在这里重写一份而不是 import: 这个 skill 要能**单独拷到 HF 数据集里**跑（自包含），
+#   所以口径照抄自 `jianpu-db.github.io/tools/build_web_data.py`，改动请两边一起改。
+_JUNK_SUFFIX = ("简谱", "歌谱", "五线谱", "正谱", "完整版", "弹唱", "吉他谱", "钢琴谱", "歌曲类", "简和谱")
+
+
+def norm_group_key(name):
+    """归组键: 剥站名后缀 + 去标点/下划线/空格 + 转小写（只用来**判同**）。"""
+    t = name or ""
+    for j in _JUNK_SUFFIX:
+        t = t.replace(j, "")
+    return re.sub(r"[\s_\-–—·、,，.。()（）【】\[\]]+", "", t).casefold()
+
+
 def main():
     ap = argparse.ArgumentParser(add_help=True)
     ap.add_argument("frags", nargs="+", help="旋律片段(可多个), 如 `51223323323531`")
@@ -106,11 +123,12 @@ def main():
                 rows.append(json.loads(ln))
 
     groups = {}
+    _all_rows = len(rows)          # 语料总共读进多少行（打印"为什么不参与比较"时要用）
     for r in rows:
         p, o = pitch_and_oct(r.get("score"))
         if len(p) < min(len(x) for x in QS):
             continue
-        groups.setdefault(group_of(r.get("title")), []).append(
+        groups.setdefault(norm_group_key(group_of(r.get("title"))), []).append(
             (r, np.frombuffer(p.encode("ascii", "ignore"), dtype=np.uint8), o))
 
     def variants(s):
@@ -182,8 +200,14 @@ def main():
                           "index_scores": sum(len(v) for v in groups.values()),
                           "results": out}, ensure_ascii=False, indent=2))
     else:
+        # 说明为什么"库"比数据集小: 比查询还短的谱不可能匹配上，所以不进比较。
+        # 实测（2026-10-03，11495 行的语料）: 短于 5/11/15/18 音的分别有 0/46/79/100 行
+        # —— 18 音查询时正好剩 11395 行参与比较，与本行打印的数字逐字对上。
+        _qmin = min(len(x) for x in QS)
+        _short = _all_rows - sum(len(v) for v in groups.values())
         print(f"查询 {(' | '.join(QS))}   库 {len(groups)} 首 / "
-              f"{sum(len(v) for v in groups.values())} 份谱   至少 5 音\n")
+              f"{sum(len(v) for v in groups.values())} 份谱   至少 5 音"
+              f"（语料 {_all_rows} 份里，短于本次查询 {_qmin} 音的 {_short} 份不参与比较）\n")
         print(f"{'#':>2} {'错音':>4} {'八度差':>5}  {'曲名':<26} {'状态':<4} 出处")
         for r in out:
             od = "-" if r["octave_diff"] is None else str(r["octave_diff"])
