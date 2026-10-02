@@ -53,8 +53,17 @@ except Exception as e:                       # pragma: no cover
     jptok = score.jptok
 
 
-def main():
-    # ① source= 只在曲谱文件里(score.py 的 to_record 没带出来) -> 逐份扫
+def size_category(n: int) -> str:
+    """HF 的 `size_categories` 档位。**按实际行数算** —— 写死 `1K<n<10K` 时，语料已到 11495 首，
+    卡片上的档位就是错的（HF 会按这个档位展示/筛选）。"""
+    for lim, label in ((1_000, "n<1K"), (10_000, "1K<n<10K"), (100_000, "10K<n<100K"),
+                       (1_000_000, "100K<n<1M"), (10_000_000, "1M<n<10M")):
+        if n < lim:
+            return label
+    return "10M<n<1B"
+
+
+def main():    # ① source= 只在曲谱文件里(score.py 的 to_record 没带出来) -> 逐份扫
     srcmap = {}
     files = sorted(f for f in os.listdir(SRC) if f.endswith(".txt"))
     for f in files:
@@ -136,7 +145,7 @@ tags:
 - melody
 - retrieval
 size_categories:
-- 1K<n<10K
+- {size_category(len(rows))}
 configs:
 - config_name: default
   data_files: data.jsonl
@@ -200,6 +209,10 @@ python skill/jianpu-melody-lookup/lookup.py "5 5 5 3 2 2 3 5 3 2 1 1 6 1 2 6 5 5
 | 11 音 | 1 | 69.4% | 88.8% | 93.1% |
 | 15 音 | 0 | **98.1%** | 100% | 100% |
 | 15 音 | 1 | 97.5% | 100% | 100% |
+
+> ⚠ 上面这组是**当初那次评测**的值（它写在卡片模板里）。语料增长后要重跑再改本表：
+> `py -3.13 skill/jianpu-melody-lookup/eval_golden.py`（同一份 319 首金标准）。
+> 不做这件事的后果是"卡片上的准确率与当前语料对不上" —— 属于**陈述过期**，不是造假，但别长期不管。
 
 更严口径(留一版本: 查询所用的那份谱从索引排除, 只能靠同一首歌的另一个版本命中, 模拟"没有原谱、
 纯凭记忆"): 11 音 Top-1 **41.2%** / 15 音 **48.8%**。两个口径的落差说明**瓶颈是"片段是否独特",
