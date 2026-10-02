@@ -6,13 +6,19 @@
 #     bash _analysis/推送.sh              # ② 真推(用你现有的 gh 登录 / 凭据 helper)
 #     GITHUB_TOKEN=ghp_xxx bash _analysis/推送.sh    # ②' 没有 gh 时用 PAT(不会写进 .git/config)
 #
-# 三个库与目标:
-#   jianpu-db   -> Francium-223/jianpu-db   (已跟踪, 领先 15)
-#   jianpu2     -> origin = Francium-223/jianpu2   ← 远端可能还不存在, 见下面提示
-#   jianpu-web  -> origin = Francium-223/jianpu-web ← 同上
+# 三个库与目标（2026-10-03 实测核对过）:
+#   jianpu2                  -> origin = https://github.com/Francium-223/jianpu2.git   （无 CI, 推了只是备份）
+#   jianpu-db                -> Francium-223/jianpu-db   （推它会触发 CI: parse.yaml 校验 + **publish-hf.yaml 发布 HF 数据集**）
+#   jianpu-db.github.io      -> origin = https://github.com/jianpu-db/jianpu-db.github.io.git
+#                               （推它会触发 checks.yml + **pages.yml 部署 GitHub Pages**）
+#   ⚠ 不是 jianpu-web: `D:\Documents_D\jianpu-web` 是**没有远端**的旧快照(最后提交 09-23), 推不了也不该推。
 set -u
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
-REPOS="jianpu-db jianpu2 jianpu-web"
+# ⚠ 2026-10-03 更正: 站点仓库的本地目录叫 **jianpu-db.github.io**（远端
+#   https://github.com/jianpu-db/jianpu-db.github.io.git），不叫 jianpu-web ——
+#   `D:\Documents_D\jianpu-web` 是个**没有远端**的旧快照（最后提交 09-23），推不了也不该推。
+#   原来的列表里只有它、没有真正的站点仓库，于是"一条命令推三个库"会漏掉站点那 3 个提交。
+REPOS="jianpu-db jianpu2 jianpu-db.github.io"
 MODE="${1:-push}"
 FAIL=0
 
@@ -47,7 +53,7 @@ if command -v gh >/dev/null 2>&1; then
 else
   echo "  没装 gh(可选: sudo apt install gh && gh auth login)"
 fi
-for r in jianpu2 jianpu-web; do
+for r in jianpu2 jianpu-db.github.io; do
   u="$(git -C "$ROOT/$r" remote get-url origin 2>/dev/null || true)"
   echo -n "  $u : "
   # 注意: **空仓库没有 ref**, `git ls-remote --exit-code` 会返回 2 -> 会被误判成"不存在"(实测踩过)。
@@ -138,8 +144,9 @@ else
   cat <<'EOF'
 有失败。常见原因与做法:
   * 远端仓库还不存在 -> 先建空仓库(不要勾 README), 然后重跑本脚本:
-        gh repo create Francium-223/jianpu2   --private --source=. --remote=origin --push
-        gh repo create Francium-223/jianpu-web --private --source=. --remote=origin --push
+        gh repo create Francium-223/jianpu2 --private --source=. --remote=origin --push
+        # 站点仓库已存在, 在组织下: jianpu-db/jianpu-db.github.io（推它 = 部署 Pages）
+        # jianpu-db 也已存在, 推它 = 顺手发布 HF 数据集（.github/workflows/publish-hf.yaml）
     或手工在网页上建好后:  git push -u origin master
   * 要凭据 -> 任选一种:
         gh auth login                                   # 最省事
