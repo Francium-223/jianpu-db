@@ -177,7 +177,7 @@ configs:
 | `source` | str | 出处(如 `qupu123-268596`, 站点-站内 id) |
 | `source_host` | str | 出处站点(qupu123 / jianpucn / jianpujia …) |
 | `link` | list[str] | 这首歌在某一站的**收录页**(人工核对过, 可多个)。只收具体页面 —— 搜索页不进数据; 原谱站那一页可由 `source` 的站点+id 推出(仓库 `source_pages.json`, 逐条抓取核对过)。**⚠ 实测: 本版 {len(rows)} 行里该字段非空的有 {_link_ne} 行** —— 字段在、但还没有数据(曲谱文件头里根本没有 `link=` 这一项, 它只由人工核对过的投稿流程写入) |
-| `n_notes` | int | 音符数(不含 `-`/`~`/`|`) |
+| `n_notes` | int | 音符数 —— **含休止 `0` 与念白 `x`**（jptok 判为音符的 token 都算），不含 `-`/`~`/`|`。⚠ 站点索引的 `n` 只数真音高，所以同一份谱两边会差：全库合计本数据集 2,532,332 vs 站点 2,282,964（90.2%） |
 | `sections` | list[dict] | 分段: `{{"subtitle": "chorus", "score": "..."}}` |
 | `score` | str | 全文旋律(各段用 ` \| ` 连接) |
 
