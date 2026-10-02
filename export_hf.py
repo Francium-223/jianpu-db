@@ -128,6 +128,8 @@ def main():    # ① source= 只在曲谱文件里(score.py 的 to_record 没带
                 shutil.copyfile(sp, os.path.join(dst, name))
         print(f"一并放入 skill: {sorted(os.listdir(dst))}")
 
+    # link 字段有多少行真的有内容（实测后写进卡片 —— 只报"字段存在"会把"没数据"藏起来）
+    _link_ne = sum(1 for r in rows if r.get("link"))
     h = hashlib.sha256(open(outj, "rb").read()).hexdigest()[:16]
     print(f"写出 {len(rows)} 条 -> {outj}  ({os.path.getsize(outj)/1e6:.1f} MB, sha256[:16]={h})")
     for k, v in sorted(stats.items()):
@@ -174,7 +176,7 @@ configs:
 | `transcriber` | str | 转写者 |
 | `source` | str | 出处(如 `qupu123-268596`, 站点-站内 id) |
 | `source_host` | str | 出处站点(qupu123 / jianpucn / jianpujia …) |
-| `link` | list[str] | 这首歌在某一站的**收录页**(人工核对过, 可多个)。只收具体页面 —— 搜索页不进数据; 原谱站那一页可由 `source` 的站点+id 推出(仓库 `source_pages.json`, 逐条抓取核对过) |
+| `link` | list[str] | 这首歌在某一站的**收录页**(人工核对过, 可多个)。只收具体页面 —— 搜索页不进数据; 原谱站那一页可由 `source` 的站点+id 推出(仓库 `source_pages.json`, 逐条抓取核对过)。**⚠ 实测: 本版 {len(rows)} 行里该字段非空的有 {_link_ne} 行** —— 字段在、但还没有数据(曲谱文件头里根本没有 `link=` 这一项, 它只由人工核对过的投稿流程写入) |
 | `n_notes` | int | 音符数(不含 `-`/`~`/`|`) |
 | `sections` | list[dict] | 分段: `{{"subtitle": "chorus", "score": "..."}}` |
 | `score` | str | 全文旋律(各段用 ` \| ` 连接) |
