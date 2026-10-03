@@ -2,7 +2,7 @@
 
 ## 简介
 
-**jianpu-db**是基于[jianpu-ly](https://github.com/ssb22/jianpu-ly/blob/master/README_zh-Hans.md)语法和[MusicBrainz](https://musicbrainz.org/)唯一标识符构建的、面向大语言模型训练及严谨学术研究的高度规范化可读数字音乐简谱旋律数据集。旨在解决大语言模型面对简谱束手无措的痛点、填补网络上以简谱记载的旋律信息量不足、规范度不够的缺口。
+**jianpu-db**是一份简谱数据集。曲谱用[jianpu-ly](https://github.com/ssb22/jianpu-ly/blob/master/README_zh-Hans.md)语法写成纯文本，每首歌对应[MusicBrainz](https://musicbrainz.org/)里的一个唯一标识符（MBID）。
 
 本项目正在开发基础架构中，亟待能人异士的加入（无论是开发代码还是转写旋律）……
 
