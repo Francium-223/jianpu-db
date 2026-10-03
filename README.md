@@ -42,7 +42,7 @@
 - `ocr` —— 由图片机器转写（OCR）来的，仅供参考
 
 `data.jsonl` 收 `status` 在发布白名单 **`{ok, ocr}`** 里的谱（`midi` 不进数据集）。
-> 2026-10-03：以代码为准 —— `check_corpus_invariants.py` 的判据是 `status` 属于 `{ok, ocr}`；
+> 2026-10-03：以代码为准 —— `jianpu2/tools/check_corpus_invariants.py` 的判据是 `status` 属于 `{ok, ocr}`；
 > 实测 `data.jsonl` 11,380 行中 `ocr` 11,342 行、`ok` 38 行。该脚本是这条判据的单一真源。
 `data.json` 收录全部，方便逐首校对后把 `status` 升成 `ok`。
 
