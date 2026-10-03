@@ -1,6 +1,6 @@
 # jianpu-db
 
-[![曲谱](https://img.shields.io/badge/%E6%9B%B2%E8%B0%B1-11%2C381%20%E9%A6%96-0b62c4)](https://jianpu-db.org/) [![音符](https://img.shields.io/badge/%E9%9F%B3%E7%AC%A6-2%2C528%2C904-0b62c4)](https://jianpu-db.org/) [![小节线](https://img.shields.io/badge/%E5%B0%8F%E8%8A%82%E7%BA%BF-551%2C947-0b62c4)](https://jianpu-db.org/) [![出处站](https://img.shields.io/badge/%E5%87%BA%E5%A4%84%E7%AB%99-6%20%E4%B8%AA-0b62c4)](https://jianpu-db.org/) [![人工校对](https://img.shields.io/badge/%E4%BA%BA%E5%B7%A5%E6%A0%A1%E5%AF%B9-38%20%E9%A6%96-c4770b)](https://jianpu-db.org/) [![机器转写](https://img.shields.io/badge/%E6%9C%BA%E5%99%A8%E8%BD%AC%E5%86%99-11%2C342%20%E9%A6%96-c4770b)](https://jianpu-db.org/)
+[![曲谱](https://img.shields.io/badge/%E6%9B%B2%E8%B0%B1-11%2C381%20%E9%A6%96-0b62c4)](https://jianpu-db.org/) [![音符](https://img.shields.io/badge/%E9%9F%B3%E7%AC%A6-2%2C528%2C904-0b62c4)](https://jianpu-db.org/) [![小节线](https://img.shields.io/badge/%E5%B0%8F%E8%8A%82%E7%BA%BF-551%2C947-0b62c4)](https://jianpu-db.org/) [![出处站](https://img.shields.io/badge/%E5%87%BA%E5%A4%84%E7%AB%99-6%20%E4%B8%AA-0b62c4)](https://jianpu-db.org/) [![人工校对](https://img.shields.io/badge/%E4%BA%BA%E5%B7%A5%E6%A0%A1%E5%AF%B9-39%20%E9%A6%96-c4770b)](https://jianpu-db.org/) [![机器转写](https://img.shields.io/badge/%E6%9C%BA%E5%99%A8%E8%BD%AC%E5%86%99-11%2C342%20%E9%A6%96-c4770b)](https://jianpu-db.org/)
 
 在线检索（按旋律找歌）：https://jianpu-db.org/
 
