@@ -2,7 +2,7 @@
 
 ## 简介
 
-**jianpu-db**是一份简谱数据集。曲谱用[jianpu-ly](https://github.com/ssb22/jianpu-ly/blob/master/README_zh-Hans.md)语法写成纯文本，每首歌对应[MusicBrainz](https://musicbrainz.org/)里的一个唯一标识符（MBID）。
+**jianpu-db**是基于[jianpu-ly](https://github.com/ssb22/jianpu-ly/blob/master/README_zh-Hans.md)语法和[MusicBrainz](https://musicbrainz.org/)唯一标识符构建的、面向大语言模型训练及严谨学术研究的高度规范化可读数字音乐简谱旋律数据集。旨在解决大语言模型面对简谱束手无措的痛点、填补网络上以简谱记载的旋律信息量不足、规范度不够的缺口。
 
 本项目正在开发基础架构中，亟待能人异士的加入（无论是开发代码还是转写旋律）……
 
@@ -10,7 +10,7 @@
 
 [scores](scores/)：存放曲谱及其元数据的文件夹。
 
-[data.jsonl](data.jsonl)：存储歌曲元数据的文件，由脚本将scores文件夹中的元数据自动拼接生成。
+[data.jsonl](data.jsonl)：存储歌曲元数据的文件，由脚本将score文件夹中的元数据自动拼接生成。
 
 [tags.json](tags.json)：**标签体系的单一真源**（一棵 DAG：节点名/别名 + 父子关系）。`imply`（蕴涵，如`东方星莲船`→`东方原曲`）与`equal`（等同/别名，如`东方星莲船`=`th12`）都由它派生，见 [schema.py](schema.py) 的 `load_tag_rules()`。旧的`tag_implication.json`/`tag_equality.json`已删除（曾是它的冗余副本）。
 
@@ -42,7 +42,7 @@
 - `ocr` —— 由图片机器转写（OCR）来的，仅供参考
 
 `data.jsonl` 收 `status` 在发布白名单 **`{ok, ocr}`** 里的谱（`midi` 不进数据集）。
-> 2026-10-03：以代码为准 —— `jianpu2/tools/check_corpus_invariants.py` 的判据是 `status` 属于 `{ok, ocr}`；
+> 2026-10-02：以代码为准 —— `check_corpus_invariants.py` 的判据是 `status` 属于 `{ok, ocr}`；
 > 实测 `data.jsonl` 11,380 行中 `ocr` 11,342 行、`ok` 38 行。该脚本是这条判据的单一真源。
 `data.json` 收录全部，方便逐首校对后把 `status` 升成 `ok`。
 
@@ -274,7 +274,7 @@ opus=作品编号
 }
 ```
 
-其他键在其各自文件夹中建立索引，如果有一个`"foo": ["bar"]`，索引会建立在一个叫`by_foo`的文件夹。**除`title`外，其他键对应的值均为列表。**
+其他键在其各自文件夹中建立索引，如果有一个`"foo": ["bar"]`，索引会建立在一个叫`by_foo`的文件夹。**除`file`、`title`外，其他键对应的值均为列表。**
 
 #### 提示
 
