@@ -47,7 +47,7 @@
 
 `data.jsonl` 收 `status` 在发布白名单 **`{ok, ocr}`** 里的谱（`midi` 不进数据集）。
 > 2026-10-02：以代码为准 —— `check_corpus_invariants.py` 的判据是 `status` 属于 `{ok, ocr}`；
-> 实测 `data.jsonl` 11,380 行中 `ocr` 11,342 行、`ok` 38 行。该脚本是这条判据的单一真源。
+> 实测 `data.jsonl` 11,381 行中 `ocr` 11,342 行、`ok` 39 行。该脚本是这条判据的单一真源。该脚本是这条判据的单一真源。
 `data.json` 收录全部，方便逐首校对后把 `status` 升成 `ok`。
 
 ### 东方原曲：
