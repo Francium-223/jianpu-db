@@ -5,5 +5,11 @@ usertag=th105
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方小数点作原曲/th105
 MBID=a850f52e-715e-35d9-900d-19f470f50cc8
 alias=东方绯想天
+status=ok
+transcriber=Francium-223
+todo=complete transcription
 %---
+KeepLength
+0c 0 1q 2 3 5 6c - - 5q 6 '1 7 6 5 6c 3q 5 6c - - 7q '1 '2 '3 '3c - ~ '3q '2 '1 7
+6c - - 5q 6 '1 7 6 5 6c 5q '2 6c 5q '2 6c 5q '2 6c - - -
 %END

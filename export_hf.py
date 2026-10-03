@@ -212,7 +212,7 @@ d.filter(lambda x: "分类/儿歌" in x["tags"])               # 按标签切
 
 ## 配套 AI Skill: 旋律查歌
 
-`skill/jianpu-melody-lookup/` 是一个**开箱即用的查询技能**: 给一段旋律(简谱唱名数字串),
+`skill/jianpu-melody-lookup/` 是一个查询技能: 给一段旋律(简谱唱名数字串),
 在全部 {len(rows)} 首里找出它最可能是哪首歌。纯离线, 只依赖本仓库的 `data.jsonl` + numpy。
 
 ```bash

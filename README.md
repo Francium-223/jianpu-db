@@ -301,3 +301,5 @@ opus=作品编号
 [ACGMuse](https://www.acgmuse.com/)
 
 [Justice Eternal（zytx121/je）](https://github.com/zytx121/je)
+
+[dolce](https://github.com/lodebar2026/dolce)
