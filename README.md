@@ -2,6 +2,8 @@
 
 [![曲谱](https://img.shields.io/badge/%E6%9B%B2%E8%B0%B1-11%2C380%20%E9%A6%96-0b62c4)](https://jianpu-db.org/) [![音符](https://img.shields.io/badge/%E9%9F%B3%E7%AC%A6-2%2C528%2C861-0b62c4)](https://jianpu-db.org/) [![小节线](https://img.shields.io/badge/%E5%B0%8F%E8%8A%82%E7%BA%BF-551%2C939-0b62c4)](https://jianpu-db.org/) [![出处站](https://img.shields.io/badge/%E5%87%BA%E5%A4%84%E7%AB%99-6%20%E4%B8%AA-0b62c4)](https://jianpu-db.org/) [![人工校对](https://img.shields.io/badge/%E4%BA%BA%E5%B7%A5%E6%A0%A1%E5%AF%B9-38%20%E9%A6%96-c4770b)](https://jianpu-db.org/) [![机器转写](https://img.shields.io/badge/%E6%9C%BA%E5%99%A8%E8%BD%AC%E5%86%99-11%2C342%20%E9%A6%96-c4770b)](https://jianpu-db.org/)
 
+在线检索（按旋律找歌）：https://jianpu-db.org/
+
 ## 简介
 
 **jianpu-db**是基于[jianpu-ly](https://github.com/ssb22/jianpu-ly/blob/master/README_zh-Hans.md)语法和[MusicBrainz](https://musicbrainz.org/)唯一标识符构建的、面向大语言模型训练及严谨学术研究的高度规范化可读数字音乐简谱旋律数据集。旨在解决大语言模型面对简谱束手无措的痛点、填补网络上以简谱记载的旋律信息量不足、规范度不够的缺口。
