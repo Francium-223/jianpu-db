@@ -1,0 +1,25 @@
+{
+    "致青春_钢琴.txt": {
+        "file": [
+            "致青春_钢琴.txt"
+        ],
+        "title": "致青春_钢琴",
+        "usertag": [
+            "分类/钢琴谱"
+        ],
+        "tagroute": [],
+        "tag": [
+            "分类/钢琴谱"
+        ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-252886"
+        ],
+        "todo": [
+            "refine the filename"
+        ]
+    }
+}

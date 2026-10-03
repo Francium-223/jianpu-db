@@ -1,0 +1,20 @@
+{
+    "未命名-jianpujia-15551.txt": {
+        "file": [
+            "未命名-jianpujia-15551.txt"
+        ],
+        "title": "未命名-jianpujia-15551",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "confidence": "0.931",
+        "conf_p10": "0.712",
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "jianpujia-15551"
+        ]
+    }
+}

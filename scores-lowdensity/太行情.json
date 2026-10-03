@@ -1,0 +1,21 @@
+{
+    "太行情.txt": {
+        "file": [
+            "太行情.txt"
+        ],
+        "title": "太行情",
+        "usertag": [],
+        "tagroute": [],
+        "tag": [],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-370552"
+        ],
+        "todo": [
+            "add tags"
+        ]
+    }
+}

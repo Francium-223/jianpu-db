@@ -1,0 +1,22 @@
+{
+    "卖杂货.txt": {
+        "file": [
+            "卖杂货.txt"
+        ],
+        "title": "卖杂货",
+        "usertag": [
+            "分类/民歌"
+        ],
+        "tagroute": [],
+        "tag": [
+            "分类/民歌"
+        ],
+        "transcriber": [
+            "jianpu2-auto"
+        ],
+        "status": "ocr",
+        "source": [
+            "qupu123-336107"
+        ]
+    }
+}
