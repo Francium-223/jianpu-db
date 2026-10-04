@@ -11,5 +11,5 @@ todo=complete transcription
 %---
 KeepLength
 0c 0 1q 2 3 5 6c - - 5q 6 '1 7 6 5 6c 3q 5 6c - - 7q '1 '2 '3 '3c - ~ '3q '2 '1 7
-6c - - 5q 6 '1 7 6 5 6c 5q '2 6c 5q '2 6c 5q '2 6c - - -
+6c - 5q 6 '1 7 6 5 6c 5q '2 6c 5q '2 6c 5q '2 6c - - -
 %END
