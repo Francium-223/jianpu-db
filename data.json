@@ -6648,17 +6648,10 @@
         "alias": [
             "献给已逝公主的七重奏"
         ],
-        "copyright": [
-            "Baka94",
-            "Ezequiel-TM",
-            "rongns_2",
-            "ryoya1295",
-            "sweetmusic",
-            "unknown",
-            "yoimutu",
-            "ZUN"
-        ],
-        "status": "midi"
+        "status": "ok",
+        "transcriber": [
+            "Francium-223"
+        ]
     },
     "th06_14.txt": {
         "file": [
@@ -10390,17 +10383,13 @@
         "alias": [
             "少女觉　～ 3rd eye"
         ],
-        "copyright": [
-            "Bessem",
-            "Hisaraito",
-            "icebhm23230",
-            "Kitaichi Rei",
-            "rongns_2",
-            "sweetmusic",
-            "Unknown",
-            "yoimutu"
+        "status": "ok",
+        "transcriber": [
+            "Francium-223"
         ],
-        "status": "midi"
+        "todo": [
+            "fix xxxx"
+        ]
     },
     "th11_10.txt": {
         "file": [
