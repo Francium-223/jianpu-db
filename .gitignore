@@ -18,3 +18,7 @@ jianpu2/
 _m.txt
 # 数值元数据误建的 by_* 链接树(2026-09-30 移出主树; 符号链接, 可再生, 不入库)
 misc/_nolink_quarantine/
+
+# 渲染产物（jianpu-ly / LilyPond / MIDI）不进仓库: *.mid
+*.ly
+*.pdf
