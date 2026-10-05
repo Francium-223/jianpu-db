@@ -25,8 +25,11 @@ for i in a:
 	#   ocr  = 由图片机器转写(OCR)来的    -> **也进**(2026-09-23 用户决定:
 	#          导入的 OCR 谱必须进 data.jsonl, 否则 data.json 有而 data.jsonl 没有 -> 静默丢数据)
 	#   midi = 由 MIDI 硬转过来的(自动)   -> 不进(它是硬转, 不是本仓库要的简谱记录)
+	#   converted = 由 **ABC 等记谱格式机械转换**来的(自动) -> **进**(2026-10-04 作者定:
+	#           ABC 这类转换与 `midi` 区分开 —— 它带完整音高记录, 且转换器已按本仓库首调口径
+	#           (大调 Do-based / 小调 La-based, 主音 `,6`)写出来源与调号)
 	# 用白名单而不是"排除 midi": 以后再加等级(比如两条自动线各自再分档)也不会漏进数据集。
-	OK_STATUS = ('ok', 'ocr')
+	OK_STATUS = ('ok', 'ocr', 'converted')
 	_r = i.to_record()
 	# status 的形态由 schema 决定(现在是字符串, 也可能是列表) -> 统一成列表再判断
 	_s = _r['status'] if isinstance(_r['status'], list) else [_r['status']]
