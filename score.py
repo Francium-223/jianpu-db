@@ -34,26 +34,80 @@ except ImportError:                            # pragma: no cover - 只在独立
 		⚠ 2026-09-28 又同步一次: 末尾只允许 `]`。jianpu-ly 的三连音写作 `3[ 5 3 4 ]`,
 		  那个 `3[` 的 3 是连音数、`[`/`]` 是分组记号, **都不是音符**; 原来允许 `[` 结尾,
 		  于是 `3[ 5 3 4 ]` 被算成 4 个音(实测语料 66 处、手抄 GT 46 处)。
+		⚠ 2026-10-05 **第三次同步(和弦 token)**: 语料里 223 首用和弦写法 —— 多个音**连写成一个**
+		  token, 八度/变音写在**各自音级左边**(实测全库 11,876 份: 和弦 token 261,647 个、
+		  有音高 646,710 个音)。`_TOK` 一个都匹配不上 -> 它们原来**整批丢掉**。
+		  ⚠ 这里必须同步, 不是为了好看: CI(`.github/workflows/parse.yaml`)显式设
+		  `JIANPU_ALLOW_FALLBACK_JTOK=1`(runner 只 checkout 本仓库, 兄弟 jianpu2 拉不到),
+		  跑完**自动 git add -A 提交** —— 兜底与 jptok 一漂, CI 就按旧口径改写这 223 首的数据。
+		  2026-09-28 那次 3044 首重复小节线正是这么来的。`check_jptok_parity.py` 每次都拿全语料
+		  逐 token/逐音/逐首证明两份一致(它现在比的是 `parse_token_all`)。
 		"""
 		BEAT = {"h": 0.0625, "c": 1.0, "": 1.0, "q": 0.5, "s": 0.25, "d": 0.125}  # h=64分音符, 见 jptok.py 里的定案说明
 		_TOK = re.compile(
 			r"^(?P<pre>[cqsdh]*)(?P<oct1>[,']*)(?P<acc>[#b♯♭]?)(?P<dig>[1-7x0])"
 			r"(?P<oct2>[,']*)(?P<acc2>[#b♯♭]?)(?P<post>[cqsdh]*)(?P<dot>[.]*)(?P<mark>\]?)$")
+		# 和弦 token(**只在 _TOK 匹配不上时才试它**): 与 jptok.CHORD 逐字同口径。
+		# `{2,}` 是硬性的 —— 只有一个音级的写法归 _TOK 管, 于是单音 token 的判定永远不变。
+		_CHORD = re.compile(
+			r"^(?P<pre>[cqsdh]*)(?P<body>(?:[,']*[#b♯♭]?[1-7x0]){2,})"
+			r"(?P<oct2>[,']*)(?P<acc2>[#b♯♭]?)(?P<post>[cqsdh]*)(?P<dot>[.]*)(?P<mark>\]?)$")
+		_NOTE = re.compile(r"([,']*)([#b♯♭]?)([1-7x0])")
+
+		@staticmethod
+		def _acc_join(*marks):
+			s = "".join(x for x in marks if x)
+			return 1 if ("#" in s or "♯" in s) else (-1 if ("b" in s or "♭" in s) else 0)
+
+		@staticmethod
+		def _oct_join(*marks):
+			s = "".join(marks)
+			return s.count(",") - s.count("'")
+
+		@classmethod
+		def _sound(cls, dig, acc, octs, acc2="", oct2=""):
+			a, off = cls._acc_join(acc, acc2), cls._oct_join(octs, oct2)
+			return (None, a, off) if dig in "0x" else (int(dig), a, off)
+
+		@classmethod
+		def parse_token_all(cls, t):
+			"""token -> [每个音 (音级|None, 变音, 八度)]; 不是 token 返回 []。与 jptok 同口径。
+
+			单音 token **先**走 _TOK(命中就直接返回, 输出不可能变); 只有匹配不上(说明有
+			≥2 个音级连写)才走和弦分支, 逐音产出 —— 这正是"和弦 token 不再丢音"的落点。
+			"""
+			m = cls._TOK.match(t or "")
+			if m:
+				g = m.groupdict()
+				return [cls._sound(g["dig"], g["acc"], g["oct1"], g["acc2"], g["oct2"])]
+			m = cls._CHORD.match(t or "")
+			if not m:
+				return []
+			g = m.groupdict()
+			parts = cls._NOTE.findall(g["body"])          # [(八度记号, 变音, 音级), ...]
+			out = []
+			for i, (octs, acc, dig) in enumerate(parts):
+				last = (i == len(parts) - 1)
+				out.append(cls._sound(dig, acc, octs,
+				                      g["acc2"] if last else "", g["oct2"] if last else ""))
+			return out
 
 		@classmethod
 		def parse_token(cls, t):
-			m = cls._TOK.match(t or "")
-			if not m:
+			"""-> (音级,变音,八度) | [(...), ...](和弦, ≥2 项) | None。与 jptok.parse_token 同口径。"""
+			got = cls.parse_token_all(t)
+			if not got:
 				return None
-			g = m.groupdict()
-			acc, acc2 = g["acc"], g["acc2"]
-			a = 1 if (acc in ("#", "♯") or acc2 in ("#", "♯")) else (-1 if (acc in ("b", "♭") or acc2 in ("b", "♭")) else 0)
-			off = (g["oct1"] + g["oct2"]).count(",") - (g["oct1"] + g["oct2"]).count("'")
-			return (None, a, off) if g["dig"] in "0x" else (int(g["dig"]), a, off)
+			return got[0] if len(got) == 1 else got
 
 		@classmethod
 		def is_note(cls, t):
-			return cls.parse_token(t) is not None
+			return len(cls.parse_token_all(t)) > 0
+
+		@classmethod
+		def is_pitch(cls, t):
+			"""是音符(有音高), 排除休止/念白; 和弦里只要有一个有音高的音就算真。"""
+			return any(p[0] is not None for p in cls.parse_token_all(t))
 
 		@classmethod
 		def seq(cls, score, merge_ties=True):
@@ -67,24 +121,25 @@ except ImportError:                            # pragma: no cover - 只在独立
 
 			⚠ 2026-09-28: **连音线 `X ~ X` 并成一个音**(用户口径; 判据=音级+变音相同, 忽略八度),
 			与 jptok.pitched 同一份逻辑。想要"记谱上有几个音头"就传 merge_ties=False。
+			⚠ 2026-10-05: **一个和弦 token 产出它包含的每个音**(以前整批丢掉)。连音线只可能并
+			**第一个**音头(`~` 后面紧跟的那一个); 和弦内部同时发声、互不相并。
 			"""
-			out, tie, prev_key, last_note = [], False, None, False
+			out, tie, last_note = [], False, False
 			for t in (score or "").split():
 				if t == "~":
 					tie = last_note
 					continue
 				if t == "-" or re.match(r"^[cqsdh]+-$", t or ""):
 					continue              # `-` 是延长, 不打断连音线(与 jptok.pitched 同口径)
-				q = cls.parse_token(t)
-				if not q or q[0] is None:
-					tie, prev_key, last_note = False, None, False
+				notes = [p for p in cls.parse_token_all(t) if p[0] is not None]
+				if not notes:
+					tie, last_note = False, False
 					continue
-				key = (q[0], q[1])
-				if merge_ties and tie and prev_key == key:
-					tie, last_note = False, True
-					continue
-				out.append(q)
-				tie, prev_key, last_note = False, key, True
+				for i, p in enumerate(notes):
+					if merge_ties and i == 0 and tie and out and (out[-1][0], out[-1][1]) == (p[0], p[1]):
+						continue          # 并掉这个音头(时值由前一个音承担)
+					out.append(p)
+				tie, last_note = False, True
 			return out
 
 		@classmethod
@@ -156,18 +211,21 @@ except ImportError:                            # pragma: no cover - 只在独立
 						# 详见 jptok.py recover_bars 里的定案说明(2026-09-28)。
 						acc += cls.beat(t) * ratio
 						continue
-					p = cls.parse_token(t)
-					if not p:
+					p_all = cls.parse_token_all(t)
+					if not p_all:
 						tie, last_note, prev_pitch = False, False, None
 						continue
-					if p[0] is not None:
-						if tie and prev_pitch and prev_pitch[:2] == (p[0], p[1]):
+					# ⚠ 2026-10-05: 和弦 token 要**逐音**推进"第几个音符"(与 jptok.recover_bars 同口径),
+					#   否则前端按音符下标插的小节线在这 223 首里会整体错位。时值只在 token 上加一次。
+					pitches = [q for q in p_all if q[0] is not None]
+					for i, p in enumerate(pitches):
+						if i == 0 and tie and prev_pitch and prev_pitch[:2] == (p[0], p[1]):
 							pass              # 连音线的第二个音头: 不推进"第几个音符"
 						else:
 							n += 1
 						prev_pitch = p
 					acc += cls.beat(t) * ratio
-					tie, last_note = False, (p[0] is not None)
+					tie, last_note = False, bool(pitches)
 					if left > 0:
 						left -= 1
 						if left == 0:
