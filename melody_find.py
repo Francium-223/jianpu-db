@@ -87,8 +87,11 @@ SECTION_W = {
 SECTION_CN = {"chorus": "副歌", "verse": "主歌", "intro": "前奏", "outro": "尾奏",
               "pre-chorus": "预副歌", "bridge": "桥段", "interlude": "间奏",
               "layer": "叠加层", "crazy-piano": "钢琴华彩", "score": "整曲"}
-STATUS_W = {"ok": 1.30, "midi": 0.75, "ocr": 0.75}
-STATUS_CN = {"ok": "已校对", "midi": "MIDI转", "ocr": "OCR转"}
+# 状态权重。2026-10-06 作者定: `converted`(ABC 等记谱格式**机械转换**来的)记 **0.90** ——
+#   "有些转写的不那么精确", 所以夹在 `ocr`(0.75)与 `ok`(1.30)之间。
+#   ⚠ 未登记的状态仍走 `STATUS_W.get(status, 1.0)` 的**默认 1.0**, 不要顺手改成 0.90。
+STATUS_W = {"ok": 1.30, "midi": 0.75, "ocr": 0.75, "converted": 0.90}
+STATUS_CN = {"ok": "已校对", "midi": "MIDI转", "ocr": "OCR转", "converted": "机械转换"}
 
 
 def section_weight(name):
