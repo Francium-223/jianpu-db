@@ -1,4 +1,8 @@
 %Hamilton_House._Ru2.067__abcgh-39eedda77182.txt
+%1=D  原调=D  调号=C# F#  拍号=(未给)  L:1/8  ABC-X:67  展开:2  La-based:否
+%八度归一=+0  八度记号 40->40  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/RutherfordVol1-2249.abc
+%源里没写 M: -> 按 ABC 标准默认 4/4 写出
 title=Hamilton House. Ru2.067
 tag=
 usertag=
@@ -6,10 +10,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-39eedda77182
-%1=D  原调=D  调号=C# F#  拍号=(未给)  L:1/8  ABC-X:67  展开:2  La-based:否
-%八度归一=+0  八度记号 40->40  和弦 0 个(0 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/RutherfordVol1-2249.abc
-%源里没写 M: -> 按 ABC 标准默认 4/4 写出
 %--
 4/4
 subtitle=score

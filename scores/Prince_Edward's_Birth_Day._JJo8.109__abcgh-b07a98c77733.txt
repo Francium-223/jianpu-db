@@ -1,4 +1,7 @@
 %Prince_Edward's_Birth_Day._JJo8.109__abcgh-b07a98c77733.txt
+%1=G  原调=G  调号=F#  拍号=6/8  L:1/8  ABC-X:109  展开:2  La-based:否
+%八度归一=+0  八度记号 26->26  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/JohnsonVol8%20dance2.abc
 title=Prince Edward's Birth Day. JJo8.109
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-b07a98c77733
-%1=G  原调=G  调号=F#  拍号=6/8  L:1/8  ABC-X:109  展开:2  La-based:否
-%八度归一=+0  八度记号 26->26  和弦 0 个(0 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/JohnsonVol8%20dance2.abc
 %--
 6/8
 subtitle=score

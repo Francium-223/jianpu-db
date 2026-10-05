@@ -1,4 +1,7 @@
 %Oxford_Act__abcgh-5bbbcb33a495.txt
+%1=D  原调=D  调号=C# F#  拍号=2/2  L:1/8  ABC-X:183  展开:2  La-based:否
+%八度归一=+0  八度记号 32->32  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/WrightsVol1.abc
 title=Oxford Act
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-5bbbcb33a495
-%1=D  原调=D  调号=C# F#  拍号=2/2  L:1/8  ABC-X:183  展开:2  La-based:否
-%八度归一=+0  八度记号 32->32  和弦 0 个(0 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/WrightsVol1.abc
 %--
 2/2
 subtitle=score

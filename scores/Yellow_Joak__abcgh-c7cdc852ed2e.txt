@@ -1,15 +1,15 @@
 %Yellow_Joak__abcgh-c7cdc852ed2e.txt
-title=Yellow Joak / Longways &c.
-alias=Longways &c.
-tag=
-usertag=
-tagroute=
-transcriber=abc2jianpu
-status=converted
-source=abcgh-c7cdc852ed2e
 %1=D  原调=Dmix  调号=F#  拍号=3/2  L:1/8  ABC-X:(无)  展开:2  La-based:否
 %八度归一=+0  八度记号 34->34  和弦 0 个(0 音)
 %ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/WrightsVol1.abc
+title=Yellow Joak / Longways &c.
+tag=
+usertag=
+tagroute=
+alias=Longways &c.
+transcriber=abc2jianpu
+status=converted
+source=abcgh-c7cdc852ed2e
 %--
 3/2
 subtitle=score

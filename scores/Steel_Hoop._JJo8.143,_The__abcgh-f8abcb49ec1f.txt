@@ -1,4 +1,7 @@
 %Steel_Hoop._JJo8.143,_The__abcgh-f8abcb49ec1f.txt
+%1=G  原调=G  调号=F#  拍号=2/4  L:1/8  ABC-X:143  展开:2  La-based:否
+%八度归一=+0  八度记号 70->70  和弦 2 个(4 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/JohnsonVol8%20dance2.abc
 title=Steel Hoop. JJo8.143, The
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-f8abcb49ec1f
-%1=G  原调=G  调号=F#  拍号=2/4  L:1/8  ABC-X:143  展开:2  La-based:否
-%八度归一=+0  八度记号 70->70  和弦 2 个(4 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/JohnsonVol8%20dance2.abc
 %--
 2/4
 subtitle=score

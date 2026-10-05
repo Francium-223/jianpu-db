@@ -1,15 +1,15 @@
 %Huzza__abcgh-8976b2d364f6.txt
-title=Huzza / Longways for as many as will.
-alias=Longways for as many as will.
-tag=
-usertag=
-tagroute=
-transcriber=abc2jianpu
-status=converted
-source=abcgh-8976b2d364f6
 %1=F  原调=Dm  调号=Bb  拍号=2/2  L:1/8  ABC-X:(无)  展开:2  La-based:是
 %八度归一=+0  八度记号 54->54  和弦 0 个(0 音)
 %ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/WrightsVol1.abc
+title=Huzza / Longways for as many as will.
+tag=
+usertag=
+tagroute=
+alias=Longways for as many as will.
+transcriber=abc2jianpu
+status=converted
+source=abcgh-8976b2d364f6
 %--
 2/2
 subtitle=score

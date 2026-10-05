@@ -1,4 +1,7 @@
 %Office_of_Ordnance._JJo8.009,_The__abcgh-9543978345e7.txt
+%1=A  原调=A  调号=C# F# G#  拍号=2/2  L:1/8  ABC-X:9  展开:2  La-based:否
+%八度归一=+0  八度记号 22->22  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/JohnsonVol8%20dance1.abc
 title=Office of Ordnance. JJo8.009, The
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-9543978345e7
-%1=A  原调=A  调号=C# F# G#  拍号=2/2  L:1/8  ABC-X:9  展开:2  La-based:否
-%八度归一=+0  八度记号 22->22  和弦 0 个(0 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/JohnsonVol8%20dance1.abc
 %--
 2/2
 subtitle=score

@@ -1,4 +1,7 @@
 %the_Post_Coach__abcgh-0e0b7c27ae3b.txt
+%1=G  原调=G  调号=F#  拍号=2/4  L:1/16  ABC-X:(无)  展开:1  La-based:否
+%八度归一=+0  八度记号 17->17  和弦 2 个(4 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Thompson1767.abc
 title=the Post Coach
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-0e0b7c27ae3b
-%1=G  原调=G  调号=F#  拍号=2/4  L:1/16  ABC-X:(无)  展开:1  La-based:否
-%八度归一=+0  八度记号 17->17  和弦 2 个(4 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Thompson1767.abc
 %--
 2/4
 subtitle=score

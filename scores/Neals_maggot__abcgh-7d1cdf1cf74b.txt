@@ -1,4 +1,7 @@
 %Neals_maggot__abcgh-7d1cdf1cf74b.txt
+%1=G  原调=G  调号=F#  拍号=6/4  L:1/8  ABC-X:119  展开:1  La-based:否
+%八度归一=+0  八度记号 37->37  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/WrightsVol1.abc
 title=Neals maggot
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-7d1cdf1cf74b
-%1=G  原调=G  调号=F#  拍号=6/4  L:1/8  ABC-X:119  展开:1  La-based:否
-%八度归一=+0  八度记号 37->37  和弦 0 个(0 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/WrightsVol1.abc
 %--
 6/4
 subtitle=score

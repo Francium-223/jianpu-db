@@ -1,4 +1,7 @@
 %the_Installation__abcgh-0b4c36b7300e.txt
+%1=D  原调=D  调号=C# F#  拍号=6/8  L:1/8  ABC-X:189  展开:2  La-based:否
+%八度归一=-1  八度记号 92->72  和弦 3 个(6 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Thompson1780.abc
 title=the Installation
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-0b4c36b7300e
-%1=D  原调=D  调号=C# F#  拍号=6/8  L:1/8  ABC-X:189  展开:2  La-based:否
-%八度归一=-1  八度记号 92->72  和弦 3 个(6 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Thompson1780.abc
 %--
 6/8
 subtitle=score

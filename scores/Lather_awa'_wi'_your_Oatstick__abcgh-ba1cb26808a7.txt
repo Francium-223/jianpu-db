@@ -1,15 +1,15 @@
 %Lather_awa'_wi'_your_Oatstick__abcgh-ba1cb26808a7.txt
-title=Lather awa' wi' your Oatstick / John Malchair's Third Collection of Tunes
-alias=John Malchair's Third Collection of Tunes
-tag=
-usertag=
-tagroute=
-transcriber=abc2jianpu
-status=converted
-source=abcgh-ba1cb26808a7
 %1=G  原调=G  调号=F#  拍号=6/8  L:1/8  ABC-X:(无)  展开:0  La-based:否
 %八度归一=+0  八度记号 25->25  和弦 0 个(0 音)
 %ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Malchair.abc
+title=Lather awa' wi' your Oatstick / John Malchair's Third Collection of Tunes
+tag=
+usertag=
+tagroute=
+alias=John Malchair's Third Collection of Tunes
+transcriber=abc2jianpu
+status=converted
+source=abcgh-ba1cb26808a7
 %--
 6/8
 subtitle=score

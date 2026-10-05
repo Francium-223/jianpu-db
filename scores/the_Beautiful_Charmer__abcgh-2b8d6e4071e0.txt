@@ -1,4 +1,7 @@
 %the_Beautiful_Charmer__abcgh-2b8d6e4071e0.txt
+%1=C  原调=C  调号=(无升降)  拍号=6/8  L:1/8  ABC-X:(无)  展开:2  La-based:否
+%八度归一=-1  八度记号 166->16  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Thompson1780.abc
 title=the Beautiful Charmer
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-2b8d6e4071e0
-%1=C  原调=C  调号=(无升降)  拍号=6/8  L:1/8  ABC-X:(无)  展开:2  La-based:否
-%八度归一=-1  八度记号 166->16  和弦 0 个(0 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Thompson1780.abc
 %--
 6/8
 subtitle=score

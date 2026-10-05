@@ -1,4 +1,7 @@
 %the_Ballest_Heavers__abcgh-9632e874f30f.txt
+%1=Bb  原调=Bb  调号=Eb Bb  拍号=4/4  L:1/8  ABC-X:(无)  展开:2  La-based:否
+%八度归一=+0  八度记号 98->98  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Straights1779.abc
 title=the Ballest Heavers
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-9632e874f30f
-%1=Bb  原调=Bb  调号=Eb Bb  拍号=4/4  L:1/8  ABC-X:(无)  展开:2  La-based:否
-%八度归一=+0  八度记号 98->98  和弦 0 个(0 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Straights1779.abc
 %--
 4/4
 subtitle=score

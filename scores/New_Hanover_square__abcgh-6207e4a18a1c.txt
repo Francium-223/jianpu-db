@@ -1,4 +1,7 @@
 %New_Hanover_square__abcgh-6207e4a18a1c.txt
+%1=F  原调=Dm  调号=Bb  拍号=6/8  L:1/16  ABC-X:131  展开:2  La-based:是
+%八度归一=+0  八度记号 58->58  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/WrightsVol1.abc
 title=New Hanover square
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-6207e4a18a1c
-%1=F  原调=Dm  调号=Bb  拍号=6/8  L:1/16  ABC-X:131  展开:2  La-based:是
-%八度归一=+0  八度记号 58->58  和弦 0 个(0 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/WrightsVol1.abc
 %--
 6/8
 subtitle=score

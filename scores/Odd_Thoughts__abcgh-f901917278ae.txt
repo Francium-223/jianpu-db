@@ -1,4 +1,7 @@
 %Odd_Thoughts__abcgh-f901917278ae.txt
+%1=F  原调=Dm  调号=Bb  拍号=6/8  L:1/8  ABC-X:(无)  展开:2  La-based:是
+%八度归一=+0  八度记号 56->56  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Straights1783.abc
 title=Odd Thoughts
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-f901917278ae
-%1=F  原调=Dm  调号=Bb  拍号=6/8  L:1/8  ABC-X:(无)  展开:2  La-based:是
-%八度归一=+0  八度记号 56->56  和弦 0 个(0 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Straights1783.abc
 %--
 6/8
 subtitle=score

@@ -1,4 +1,7 @@
 %Whistling_Billy._Ru2.038__abcgh-6e47448d8934.txt
+%1=Bb  原调=Bb  调号=Eb Bb  拍号=6/8  L:1/8  ABC-X:(无)  展开:2  La-based:否
+%八度归一=+0  八度记号 34->34  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/RutherfordVol1-2249.abc
 title=Whistling Billy. Ru2.038
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-6e47448d8934
-%1=Bb  原调=Bb  调号=Eb Bb  拍号=6/8  L:1/8  ABC-X:(无)  展开:2  La-based:否
-%八度归一=+0  八度记号 34->34  和弦 0 个(0 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/RutherfordVol1-2249.abc
 %--
 6/8
 subtitle=score

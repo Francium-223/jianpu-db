@@ -1,4 +1,7 @@
 %the_Artillery_Rout__abcgh-73f25ba00433.txt
+%1=D  原调=D  调号=C# F#  拍号=6/8  L:1/8  ABC-X:177  展开:2  La-based:否
+%八度归一=+0  八度记号 50->50  和弦 19 个(38 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Thompson1780.abc
 title=the Artillery Rout
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-73f25ba00433
-%1=D  原调=D  调号=C# F#  拍号=6/8  L:1/8  ABC-X:177  展开:2  La-based:否
-%八度归一=+0  八度记号 50->50  和弦 19 个(38 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Thompson1780.abc
 %--
 6/8
 subtitle=score

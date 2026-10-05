@@ -1,4 +1,7 @@
 %Walley_Honey__abcgh-ba64ef876ac0.txt
+%1=C  原调=C  调号=(无升降)  拍号=9/8  L:1/8  ABC-X:17  展开:2  La-based:否
+%八度归一=-1  八度记号 74->52  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/WrightsVol1.abc
 title=Walley Honey
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-ba64ef876ac0
-%1=C  原调=C  调号=(无升降)  拍号=9/8  L:1/8  ABC-X:17  展开:2  La-based:否
-%八度归一=-1  八度记号 74->52  和弦 0 个(0 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/WrightsVol1.abc
 %--
 9/8
 subtitle=score

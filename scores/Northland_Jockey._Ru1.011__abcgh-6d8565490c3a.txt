@@ -1,4 +1,8 @@
 %Northland_Jockey._Ru1.011__abcgh-6d8565490c3a.txt
+%1=F  原调=F  调号=Bb  拍号=(未给)  L:1/8  ABC-X:11  展开:2  La-based:否
+%八度归一=+0  八度记号 52->52  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/RutherfordVol1756_with%20z.abc
+%源里没写 M: -> 按 ABC 标准默认 4/4 写出
 title=Northland Jockey. Ru1.011
 tag=
 usertag=
@@ -6,10 +10,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-6d8565490c3a
-%1=F  原调=F  调号=Bb  拍号=(未给)  L:1/8  ABC-X:11  展开:2  La-based:否
-%八度归一=+0  八度记号 52->52  和弦 0 个(0 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/RutherfordVol1756_with%20z.abc
-%源里没写 M: -> 按 ABC 标准默认 4/4 写出
 %--
 4/4
 subtitle=score

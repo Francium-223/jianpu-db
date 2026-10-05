@@ -1,4 +1,7 @@
 %the_Magick_Lanthern__abcgh-58a494930a84.txt
+%1=A  原调=A  调号=C# F# G#  拍号=6/8  L:1/8  ABC-X:(无)  展开:2  La-based:否
+%八度归一=+0  八度记号 24->24  和弦 1 个(2 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Thompson1767.abc
 title=the Magick Lanthern
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-58a494930a84
-%1=A  原调=A  调号=C# F# G#  拍号=6/8  L:1/8  ABC-X:(无)  展开:2  La-based:否
-%八度归一=+0  八度记号 24->24  和弦 1 个(2 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Thompson1767.abc
 %--
 6/8
 subtitle=score

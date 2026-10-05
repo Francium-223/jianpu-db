@@ -1,15 +1,15 @@
 %Lord_Hereford's_Delight__abcgh-ade6a916aaf2.txt
-title=Lord Hereford's Delight / John Malchairs Third Collection of Tunes
-alias=John Malchairs Third Collection of Tunes
-tag=
-usertag=
-tagroute=
-transcriber=abc2jianpu
-status=converted
-source=abcgh-ade6a916aaf2
 %1=D  原调=D  调号=C# F#  拍号=6/4  L:1/8  ABC-X:(无)  展开:0  La-based:否
 %八度归一=+0  八度记号 35->35  和弦 0 个(0 音)
 %ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Malchair.abc
+title=Lord Hereford's Delight / John Malchairs Third Collection of Tunes
+tag=
+usertag=
+tagroute=
+alias=John Malchairs Third Collection of Tunes
+transcriber=abc2jianpu
+status=converted
+source=abcgh-ade6a916aaf2
 %--
 6/4
 subtitle=score

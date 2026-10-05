@@ -1,15 +1,15 @@
 %Blue_Joak__abcgh-ffe16cf47661.txt
-title=Blue Joak / Longways for &c.
-alias=Longways for &c.
-tag=
-usertag=
-tagroute=
-transcriber=abc2jianpu
-status=converted
-source=abcgh-ffe16cf47661
 %1=G  原调=G  调号=F#  拍号=6/8  L:1/8  ABC-X:(无)  展开:2  La-based:否
 %八度归一=+0  八度记号 26->26  和弦 0 个(0 音)
 %ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/WrightsVol1.abc
+title=Blue Joak / Longways for &c.
+tag=
+usertag=
+tagroute=
+alias=Longways for &c.
+transcriber=abc2jianpu
+status=converted
+source=abcgh-ffe16cf47661
 %--
 6/8
 subtitle=score

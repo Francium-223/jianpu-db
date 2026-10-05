@@ -1,4 +1,7 @@
 %New_Dutch_Skipper__abcgh-e3c59f796594.txt
+%1=D  原调=D  调号=C# F#  拍号=6/4  L:1/4  ABC-X:75  展开:2  La-based:否
+%八度归一=+0  八度记号 74->74  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/WrightsVol1.abc
 title=New Dutch Skipper
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-e3c59f796594
-%1=D  原调=D  调号=C# F#  拍号=6/4  L:1/4  ABC-X:75  展开:2  La-based:否
-%八度归一=+0  八度记号 74->74  和弦 0 个(0 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/WrightsVol1.abc
 %--
 6/4
 subtitle=score

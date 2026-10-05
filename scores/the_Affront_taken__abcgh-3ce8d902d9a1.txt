@@ -1,4 +1,7 @@
 %the_Affront_taken__abcgh-3ce8d902d9a1.txt
+%1=F  原调=F  调号=Bb  拍号=2/2  L:1/8  ABC-X:(无)  展开:4  La-based:否
+%八度归一=+0  八度记号 88->88  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Straights1779.abc
 title=the Affront taken
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-3ce8d902d9a1
-%1=F  原调=F  调号=Bb  拍号=2/2  L:1/8  ABC-X:(无)  展开:4  La-based:否
-%八度归一=+0  八度记号 88->88  和弦 0 个(0 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Straights1779.abc
 %--
 2/2
 subtitle=score

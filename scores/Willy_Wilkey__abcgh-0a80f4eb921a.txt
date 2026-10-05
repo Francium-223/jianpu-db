@@ -1,15 +1,15 @@
 %Willy_Wilkey__abcgh-0a80f4eb921a.txt
-title=Willy Wilkey / Longways for as many ...
-alias=Longways for as many ...
-tag=
-usertag=
-tagroute=
-transcriber=abc2jianpu
-status=converted
-source=abcgh-0a80f4eb921a
 %1=F  原调=F  调号=Bb  拍号=2/2  L:1/8  ABC-X:(无)  展开:1  La-based:否
 %八度归一=+0  八度记号 30->30  和弦 0 个(0 音)
 %ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/WrightsVol1.abc
+title=Willy Wilkey / Longways for as many ...
+tag=
+usertag=
+tagroute=
+alias=Longways for as many ...
+transcriber=abc2jianpu
+status=converted
+source=abcgh-0a80f4eb921a
 %--
 2/2
 subtitle=score

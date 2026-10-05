@@ -1,4 +1,7 @@
 %New_Year's_Day_in_the_Morning._JJo8.144__abcgh-3b5cb321ab93.txt
+%1=A  原调=A  调号=C# F# G#  拍号=6/8  L:1/8  ABC-X:(无)  展开:2  La-based:否
+%八度归一=+0  八度记号 46->46  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/JohnsonVol8%20dance2.abc
 title=New Year's Day in the Morning. JJo8.144
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-3b5cb321ab93
-%1=A  原调=A  调号=C# F# G#  拍号=6/8  L:1/8  ABC-X:(无)  展开:2  La-based:否
-%八度归一=+0  八度记号 46->46  和弦 0 个(0 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/JohnsonVol8%20dance2.abc
 %--
 6/8
 subtitle=score

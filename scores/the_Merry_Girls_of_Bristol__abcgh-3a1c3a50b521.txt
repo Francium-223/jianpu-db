@@ -1,4 +1,7 @@
 %the_Merry_Girls_of_Bristol__abcgh-3a1c3a50b521.txt
+%1=G  原调=G  调号=F#  拍号=2/4  L:1/8  ABC-X:7  展开:2  La-based:否
+%八度归一=+0  八度记号 46->46  和弦 1 个(2 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Thompson1765.abc
 title=the Merry Girls of Bristol
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-3a1c3a50b521
-%1=G  原调=G  调号=F#  拍号=2/4  L:1/8  ABC-X:7  展开:2  La-based:否
-%八度归一=+0  八度记号 46->46  和弦 1 个(2 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Thompson1765.abc
 %--
 2/4
 subtitle=score

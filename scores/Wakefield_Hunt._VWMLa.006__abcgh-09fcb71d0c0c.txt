@@ -1,4 +1,7 @@
 %Wakefield_Hunt._VWMLa.006__abcgh-09fcb71d0c0c.txt
+%1=A  原调=A  调号=C# F# G#  拍号=6/8  L:1/8  ABC-X:6  展开:3  La-based:否
+%八度归一=+0  八度记号 82->82  和弦 10 个(20 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Anon2.abc
 title=Wakefield Hunt. VWMLa.006
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-09fcb71d0c0c
-%1=A  原调=A  调号=C# F# G#  拍号=6/8  L:1/8  ABC-X:6  展开:3  La-based:否
-%八度归一=+0  八度记号 82->82  和弦 10 个(20 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Anon2.abc
 %--
 6/8
 subtitle=score

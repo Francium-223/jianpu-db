@@ -1,4 +1,8 @@
 %the_New_Academy__abcgh-a7d1cc13906c.txt
+%1=Eb  原调=Eb  调号=Eb Ab Bb  拍号=(未给)  L:1/8  ABC-X:15  展开:2  La-based:否
+%八度归一=+0  八度记号 40->40  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Straights1779.abc
+%源里没写 M: -> 按 ABC 标准默认 4/4 写出
 title=the New Academy
 tag=
 usertag=
@@ -6,10 +10,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-a7d1cc13906c
-%1=Eb  原调=Eb  调号=Eb Ab Bb  拍号=(未给)  L:1/8  ABC-X:15  展开:2  La-based:否
-%八度归一=+0  八度记号 40->40  和弦 0 个(0 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Straights1779.abc
-%源里没写 M: -> 按 ABC 标准默认 4/4 写出
 %--
 4/4
 subtitle=score

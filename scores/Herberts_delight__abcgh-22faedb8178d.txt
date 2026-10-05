@@ -1,4 +1,7 @@
 %Herberts_delight__abcgh-22faedb8178d.txt
+%1=A  原调=A  调号=C# F# G#  拍号=6/8  L:1/8  ABC-X:19  展开:2  La-based:否
+%八度归一=+0  八度记号 66->66  和弦 4 个(8 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Straights1779.abc
 title=Herberts delight
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-22faedb8178d
-%1=A  原调=A  调号=C# F# G#  拍号=6/8  L:1/8  ABC-X:19  展开:2  La-based:否
-%八度归一=+0  八度记号 66->66  和弦 4 个(8 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Straights1779.abc
 %--
 6/8
 subtitle=score

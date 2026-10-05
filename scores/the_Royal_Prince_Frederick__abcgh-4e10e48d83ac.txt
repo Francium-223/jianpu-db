@@ -1,4 +1,7 @@
 %the_Royal_Prince_Frederick__abcgh-4e10e48d83ac.txt
+%1=G  原调=G  调号=F#  拍号=6/8  L:1/8  ABC-X:(无)  展开:2  La-based:否
+%八度归一=+0  八度记号 66->66  和弦 6 个(12 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Thompson1765.abc
 title=the Royal Prince Frederick
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-4e10e48d83ac
-%1=G  原调=G  调号=F#  拍号=6/8  L:1/8  ABC-X:(无)  展开:2  La-based:否
-%八度归一=+0  八度记号 66->66  和弦 6 个(12 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Thompson1765.abc
 %--
 6/8
 subtitle=score

@@ -1,4 +1,7 @@
 %the_Lady_of_the_Manor__abcgh-f45271246fe8.txt
+%1=D  原调=D  调号=C# F#  拍号=6/8  L:1/8  ABC-X:169  展开:2  La-based:否
+%八度归一=-1  八度记号 112->58  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Thompson1780.abc
 title=the Lady of the Manor
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-f45271246fe8
-%1=D  原调=D  调号=C# F#  拍号=6/8  L:1/8  ABC-X:169  展开:2  La-based:否
-%八度归一=-1  八度记号 112->58  和弦 0 个(0 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Thompson1780.abc
 %--
 6/8
 subtitle=score

@@ -1,15 +1,15 @@
 %Women's_dance_in_the_Ombres_Chinoises__abcgh-b487aaddce1d.txt
-title=Women's dance in the Ombres Chinoises / John Malchair's Third Collection of Tunes
-alias=John Malchair's Third Collection of Tunes
-tag=
-usertag=
-tagroute=
-transcriber=abc2jianpu
-status=converted
-source=abcgh-b487aaddce1d
 %1=G  原调=G  调号=F#  拍号=6/8  L:1/8  ABC-X:(无)  展开:0  La-based:否
 %八度归一=+0  八度记号 12->12  和弦 0 个(0 音)
 %ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Malchair.abc
+title=Women's dance in the Ombres Chinoises / John Malchair's Third Collection of Tunes
+tag=
+usertag=
+tagroute=
+alias=John Malchair's Third Collection of Tunes
+transcriber=abc2jianpu
+status=converted
+source=abcgh-b487aaddce1d
 %--
 6/8
 subtitle=score

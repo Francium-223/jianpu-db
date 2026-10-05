@@ -1,15 +1,15 @@
 %Lady_Spellor__abcgh-ee5855452833.txt
-title=Lady Spellor / John Malchair's Third Collection of Tunes
-alias=John Malchair's Third Collection of Tunes
-tag=
-usertag=
-tagroute=
-transcriber=abc2jianpu
-status=converted
-source=abcgh-ee5855452833
 %1=G  原调=Gmix  调号=(无升降)  拍号=4/4  L:1/4  ABC-X:(无)  展开:0  La-based:否
 %八度归一=+0  八度记号 1->1  和弦 0 个(0 音)
 %ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Malchair.abc
+title=Lady Spellor / John Malchair's Third Collection of Tunes
+tag=
+usertag=
+tagroute=
+alias=John Malchair's Third Collection of Tunes
+transcriber=abc2jianpu
+status=converted
+source=abcgh-ee5855452833
 %--
 4/4
 subtitle=score

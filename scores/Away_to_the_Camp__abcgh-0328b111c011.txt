@@ -1,4 +1,7 @@
 %Away_to_the_Camp__abcgh-0328b111c011.txt
+%1=C  原调=C  调号=(无升降)  拍号=6/8  L:1/8  ABC-X:(无)  展开:2  La-based:否
+%八度归一=-1  八度记号 144->16  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Thompson1782.abc
 title=Away to the Camp
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-0328b111c011
-%1=C  原调=C  调号=(无升降)  拍号=6/8  L:1/8  ABC-X:(无)  展开:2  La-based:否
-%八度归一=-1  八度记号 144->16  和弦 0 个(0 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Thompson1782.abc
 %--
 6/8
 subtitle=score

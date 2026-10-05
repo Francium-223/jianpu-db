@@ -1,4 +1,7 @@
 %the_Glass_house__abcgh-a5a62d52bffa.txt
+%1=G  原调=G  调号=F#  拍号=6/8  L:1/8  ABC-X:15  展开:2  La-based:否
+%八度归一=+0  八度记号 32->32  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Skillern1781.abc
 title=the Glass house
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-a5a62d52bffa
-%1=G  原调=G  调号=F#  拍号=6/8  L:1/8  ABC-X:15  展开:2  La-based:否
-%八度归一=+0  八度记号 32->32  和弦 0 个(0 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Skillern1781.abc
 %--
 6/8
 subtitle=score

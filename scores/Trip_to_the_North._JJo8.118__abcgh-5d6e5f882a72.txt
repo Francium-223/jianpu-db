@@ -1,4 +1,7 @@
 %Trip_to_the_North._JJo8.118__abcgh-5d6e5f882a72.txt
+%1=D  原调=D  调号=C# F#  拍号=2/2  L:1/8  ABC-X:(无)  展开:2  La-based:否
+%八度归一=-1  八度记号 72->56  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/JohnsonVol8%20dance.abc
 title=Trip to the North. JJo8.118
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-5d6e5f882a72
-%1=D  原调=D  调号=C# F#  拍号=2/2  L:1/8  ABC-X:(无)  展开:2  La-based:否
-%八度归一=-1  八度记号 72->56  和弦 0 个(0 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/JohnsonVol8%20dance.abc
 %--
 2/2
 subtitle=score

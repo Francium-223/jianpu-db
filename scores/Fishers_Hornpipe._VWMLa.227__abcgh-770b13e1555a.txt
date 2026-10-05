@@ -1,4 +1,7 @@
 %Fishers_Hornpipe._VWMLa.227__abcgh-770b13e1555a.txt
+%1=F  原调=F  调号=Bb  拍号=2/2  L:1/8  ABC-X:227  展开:2  La-based:否
+%八度归一=+0  八度记号 74->74  和弦 3 个(6 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Anon2.abc
 title=Fishers Hornpipe. VWMLa.227
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-770b13e1555a
-%1=F  原调=F  调号=Bb  拍号=2/2  L:1/8  ABC-X:227  展开:2  La-based:否
-%八度归一=+0  八度记号 74->74  和弦 3 个(6 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Anon2.abc
 %--
 2/2
 subtitle=score

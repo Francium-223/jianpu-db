@@ -1,4 +1,7 @@
 %Irish_Brogues._Ru2.123,_The__abcgh-169c9636a99c.txt
+%1=F  原调=F  调号=Bb  拍号=6/8  L:1/8  ABC-X:123  展开:2  La-based:否
+%八度归一=+0  八度记号 62->62  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/RutherfordVol1-2249.abc
 title=Irish Brogues. Ru2.123, The
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-169c9636a99c
-%1=F  原调=F  调号=Bb  拍号=6/8  L:1/8  ABC-X:123  展开:2  La-based:否
-%八度归一=+0  八度记号 62->62  和弦 0 个(0 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/RutherfordVol1-2249.abc
 %--
 6/8
 subtitle=score

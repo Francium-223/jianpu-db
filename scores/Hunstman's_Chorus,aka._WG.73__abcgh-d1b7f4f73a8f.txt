@@ -1,4 +1,8 @@
 %Hunstman's_Chorus,aka._WG.73__abcgh-d1b7f4f73a8f.txt
+%1=D  原调=D  调号=C# F#  拍号=(未给)  L:1/8  ABC-X:73  展开:2  La-based:否
+%八度归一=-1  八度记号 116->4  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/WG1.abc
+%源里没写 M: -> 按 ABC 标准默认 4/4 写出
 title=Hunstman's Chorus,aka. WG.73
 tag=
 usertag=
@@ -6,10 +10,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-d1b7f4f73a8f
-%1=D  原调=D  调号=C# F#  拍号=(未给)  L:1/8  ABC-X:73  展开:2  La-based:否
-%八度归一=-1  八度记号 116->4  和弦 0 个(0 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/WG1.abc
-%源里没写 M: -> 按 ABC 标准默认 4/4 写出
 %--
 4/4
 subtitle=score

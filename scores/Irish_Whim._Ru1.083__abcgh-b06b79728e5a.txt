@@ -1,4 +1,8 @@
 %Irish_Whim._Ru1.083__abcgh-b06b79728e5a.txt
+%1=F  原调=Dm  调号=Bb  拍号=(未给)  L:1/8  ABC-X:3  展开:2  La-based:是
+%八度归一=+0  八度记号 42->42  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/RutherfordVol1756_with%20z.abc
+%源里没写 M: -> 按 ABC 标准默认 4/4 写出
 title=Irish Whim. Ru1.083
 tag=
 usertag=
@@ -6,10 +10,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-b06b79728e5a
-%1=F  原调=Dm  调号=Bb  拍号=(未给)  L:1/8  ABC-X:3  展开:2  La-based:是
-%八度归一=+0  八度记号 42->42  和弦 0 个(0 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/RutherfordVol1756_with%20z.abc
-%源里没写 M: -> 按 ABC 标准默认 4/4 写出
 %--
 4/4
 subtitle=score

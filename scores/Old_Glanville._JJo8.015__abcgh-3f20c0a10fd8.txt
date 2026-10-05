@@ -1,4 +1,7 @@
 %Old_Glanville._JJo8.015__abcgh-3f20c0a10fd8.txt
+%1=G  原调=G  调号=F#  拍号=6/8  L:1/8  ABC-X:15  展开:2  La-based:否
+%八度归一=+0  八度记号 52->52  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/JohnsonVol8%20dance1.abc
 title=Old Glanville. JJo8.015
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-3f20c0a10fd8
-%1=G  原调=G  调号=F#  拍号=6/8  L:1/8  ABC-X:15  展开:2  La-based:否
-%八度归一=+0  八度记号 52->52  和弦 0 个(0 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/JohnsonVol8%20dance1.abc
 %--
 6/8
 subtitle=score

@@ -1,4 +1,7 @@
 %Warley_Common__abcgh-5cdebf464824.txt
+%1=D  原调=D  调号=C# F#  拍号=6/8  L:1/8  ABC-X:145  展开:2  La-based:否
+%八度归一=-1  八度记号 82->56  和弦 1 个(2 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Thompson1779.abc
 title=Warley Common
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-5cdebf464824
-%1=D  原调=D  调号=C# F#  拍号=6/8  L:1/8  ABC-X:145  展开:2  La-based:否
-%八度归一=-1  八度记号 82->56  和弦 1 个(2 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Thompson1779.abc
 %--
 6/8
 subtitle=score

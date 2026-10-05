@@ -1,4 +1,8 @@
 %Warman's_Fancy._Ru2.043__abcgh-d5acd83c8729.txt
+%1=F  原调=F  调号=Bb  拍号=(未给)  L:1/8  ABC-X:43  展开:2  La-based:否
+%八度归一=+0  八度记号 24->24  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/RutherfordVol1-2249.abc
+%源里没写 M: -> 按 ABC 标准默认 4/4 写出
 title=Warman's Fancy. Ru2.043
 tag=
 usertag=
@@ -6,10 +10,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-d5acd83c8729
-%1=F  原调=F  调号=Bb  拍号=(未给)  L:1/8  ABC-X:43  展开:2  La-based:否
-%八度归一=+0  八度记号 24->24  和弦 0 个(0 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/RutherfordVol1-2249.abc
-%源里没写 M: -> 按 ABC 标准默认 4/4 写出
 %--
 4/4
 subtitle=score

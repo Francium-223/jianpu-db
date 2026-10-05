@@ -1,4 +1,7 @@
 %Lady_Elizabeth's_Delight._Ru2.122__abcgh-7de9a9fa1adc.txt
+%1=F  原调=F  调号=Bb  拍号=2/4  L:1/8  ABC-X:(无)  展开:2  La-based:否
+%八度归一=+0  八度记号 28->28  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/RutherfordVol1-2249.abc
 title=Lady Elizabeth's Delight. Ru2.122
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-7de9a9fa1adc
-%1=F  原调=F  调号=Bb  拍号=2/4  L:1/8  ABC-X:(无)  展开:2  La-based:否
-%八度归一=+0  八度记号 28->28  和弦 0 个(0 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/RutherfordVol1-2249.abc
 %--
 2/4
 subtitle=score

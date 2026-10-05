@@ -1,15 +1,15 @@
 %Love_and_Honour_or_Love_in_a_Hop-Yard__abcgh-9c10cb4b5c4b.txt
-title=Love and Honour or Love in a Hop-Yard / John Malchairs Third Collection of Tunes
-alias=John Malchairs Third Collection of Tunes
-tag=
-usertag=
-tagroute=
-transcriber=abc2jianpu
-status=converted
-source=abcgh-9c10cb4b5c4b
 %1=G  原调=G  调号=F#  拍号=6/4  L:1/4  ABC-X:(无)  展开:0  La-based:否
 %八度归一=+0  八度记号 43->43  和弦 0 个(0 音)
 %ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Malchair.abc
+title=Love and Honour or Love in a Hop-Yard / John Malchairs Third Collection of Tunes
+tag=
+usertag=
+tagroute=
+alias=John Malchairs Third Collection of Tunes
+transcriber=abc2jianpu
+status=converted
+source=abcgh-9c10cb4b5c4b
 %--
 6/4
 subtitle=score

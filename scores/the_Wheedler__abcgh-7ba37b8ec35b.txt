@@ -1,15 +1,15 @@
 %the_Wheedler__abcgh-7ba37b8ec35b.txt
-title=the Wheedler / Longways for &c.
-alias=Longways for &c.
-tag=
-usertag=
-tagroute=
-transcriber=abc2jianpu
-status=converted
-source=abcgh-7ba37b8ec35b
 %1=F  原调=F  调号=Bb  拍号=2/4  L:1/8  ABC-X:(无)  展开:2  La-based:否
 %八度归一=+0  八度记号 26->26  和弦 0 个(0 音)
 %ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/WrightsVol1.abc
+title=the Wheedler / Longways for &c.
+tag=
+usertag=
+tagroute=
+alias=Longways for &c.
+transcriber=abc2jianpu
+status=converted
+source=abcgh-7ba37b8ec35b
 %--
 2/4
 subtitle=score

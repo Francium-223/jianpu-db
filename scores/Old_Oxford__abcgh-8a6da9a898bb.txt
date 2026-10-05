@@ -1,4 +1,7 @@
 %Old_Oxford__abcgh-8a6da9a898bb.txt
+%1=F  原调=Dm  调号=Bb  拍号=2/2  L:1/8  ABC-X:89  展开:2  La-based:是
+%八度归一=+0  八度记号 46->46  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/WrightsVol1.abc
 title=Old Oxford
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-8a6da9a898bb
-%1=F  原调=Dm  调号=Bb  拍号=2/2  L:1/8  ABC-X:89  展开:2  La-based:是
-%八度归一=+0  八度记号 46->46  和弦 0 个(0 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/WrightsVol1.abc
 %--
 2/2
 subtitle=score

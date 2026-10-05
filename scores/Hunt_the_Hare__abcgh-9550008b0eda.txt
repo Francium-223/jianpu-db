@@ -1,15 +1,15 @@
 %Hunt_the_Hare__abcgh-9550008b0eda.txt
-title=Hunt the Hare / Dance
-alias=Dance
-tag=
-usertag=
-tagroute=
-transcriber=abc2jianpu
-status=converted
-source=abcgh-9550008b0eda
 %1=D  原调=D  调号=C# F#  拍号=6/8  L:1/8  ABC-X:87  展开:2  La-based:否
 %八度归一=+0  八度记号 66->66  和弦 0 个(0 音)
 %ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/John%20Moore%20Bk2%204494.abc
+title=Hunt the Hare / Dance
+tag=
+usertag=
+tagroute=
+alias=Dance
+transcriber=abc2jianpu
+status=converted
+source=abcgh-9550008b0eda
 %--
 6/8
 subtitle=score

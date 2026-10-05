@@ -1,4 +1,7 @@
 %Virgin's_Wish._JJo8.032,_The__abcgh-db47d8e21ee7.txt
+%1=C  原调=C  调号=(无升降)  拍号=6/8  L:1/8  ABC-X:(无)  展开:2  La-based:否
+%八度归一=-1  八度记号 104->32  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/JohnsonVol8%20dance1.abc
 title=Virgin's Wish. JJo8.032, The
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-db47d8e21ee7
-%1=C  原调=C  调号=(无升降)  拍号=6/8  L:1/8  ABC-X:(无)  展开:2  La-based:否
-%八度归一=-1  八度记号 104->32  和弦 0 个(0 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/JohnsonVol8%20dance1.abc
 %--
 6/8
 subtitle=score

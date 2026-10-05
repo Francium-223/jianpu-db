@@ -1,4 +1,7 @@
 %Irish_Invasion__abcgh-c4a2c67f64ce.txt
+%1=C  原调=C  调号=(无升降)  拍号=6/8  L:1/8  ABC-X:(无)  展开:2  La-based:否
+%八度归一=-1  八度记号 150->38  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Skillerns1799.abc
 title=Irish Invasion
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-c4a2c67f64ce
-%1=C  原调=C  调号=(无升降)  拍号=6/8  L:1/8  ABC-X:(无)  展开:2  La-based:否
-%八度归一=-1  八度记号 150->38  和弦 0 个(0 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Skillerns1799.abc
 %--
 6/8
 subtitle=score

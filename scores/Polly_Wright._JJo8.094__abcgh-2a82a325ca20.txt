@@ -1,4 +1,7 @@
 %Polly_Wright._JJo8.094__abcgh-2a82a325ca20.txt
+%1=C  原调=C  调号=(无升降)  拍号=2/2  L:1/8  ABC-X:(无)  展开:2  La-based:否
+%八度归一=-1  八度记号 82->28  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/JohnsonVol8%20dance.abc
 title=Polly Wright. JJo8.094
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-2a82a325ca20
-%1=C  原调=C  调号=(无升降)  拍号=2/2  L:1/8  ABC-X:(无)  展开:2  La-based:否
-%八度归一=-1  八度记号 82->28  和弦 0 个(0 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/JohnsonVol8%20dance.abc
 %--
 2/2
 subtitle=score

@@ -1,4 +1,7 @@
 %Mrs_Bakers_Fancy__abcgh-5d06ca65d14b.txt
+%1=D  原调=D  调号=C# F#  拍号=2/4  L:1/16  ABC-X:21  展开:2  La-based:否
+%八度归一=+0  八度记号 42->42  和弦 1 个(2 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Straights1779.abc
 title=Mrs Bakers Fancy
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-5d06ca65d14b
-%1=D  原调=D  调号=C# F#  拍号=2/4  L:1/16  ABC-X:21  展开:2  La-based:否
-%八度归一=+0  八度记号 42->42  和弦 1 个(2 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Straights1779.abc
 %--
 2/4
 subtitle=score

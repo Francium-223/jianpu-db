@@ -1,4 +1,7 @@
 %Rose._Ru2.014,_The__abcgh-32f9cf301576.txt
+%1=Eb  原调=Eb  调号=Eb Ab Bb  拍号=6/8  L:1/8  ABC-X:(无)  展开:2  La-based:否
+%八度归一=+0  八度记号 52->52  和弦 2 个(4 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/RutherfordVol1-2249.abc
 title=Rose. Ru2.014, The
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-32f9cf301576
-%1=Eb  原调=Eb  调号=Eb Ab Bb  拍号=6/8  L:1/8  ABC-X:(无)  展开:2  La-based:否
-%八度归一=+0  八度记号 52->52  和弦 2 个(4 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/RutherfordVol1-2249.abc
 %--
 6/8
 subtitle=score

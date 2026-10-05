@@ -1,4 +1,7 @@
 %the_Namure__abcgh-48f82370d8de.txt
+%1=D  原调=D  调号=C# F#  拍号=6/8  L:1/8  ABC-X:135  展开:2  La-based:否
+%八度归一=-1  八度记号 78->62  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/WrightsVol1.abc
 title=the Namure
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-48f82370d8de
-%1=D  原调=D  调号=C# F#  拍号=6/8  L:1/8  ABC-X:135  展开:2  La-based:否
-%八度归一=-1  八度记号 78->62  和弦 0 个(0 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/WrightsVol1.abc
 %--
 6/8
 subtitle=score

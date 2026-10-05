@@ -1,4 +1,7 @@
 %Lorrain's_Delight__abcgh-f9469b7cc879.txt
+%1=Bb  原调=Gm  调号=Eb Bb  拍号=4/4  L:1/8  ABC-X:(无)  展开:0  La-based:是
+%八度归一=+0  八度记号 23->23  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/WrightsVol1.abc
 title=Lorrain's Delight
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-f9469b7cc879
-%1=Bb  原调=Gm  调号=Eb Bb  拍号=4/4  L:1/8  ABC-X:(无)  展开:0  La-based:是
-%八度归一=+0  八度记号 23->23  和弦 0 个(0 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/WrightsVol1.abc
 %--
 4/4
 subtitle=score

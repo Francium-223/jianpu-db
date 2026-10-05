@@ -1,4 +1,7 @@
 %Old_Ways_best__abcgh-13fee01f72fd.txt
+%1=Bb  原调=Gm  调号=Eb Bb  拍号=2/2  L:1/8  ABC-X:(无)  展开:2  La-based:是
+%八度归一=+0  八度记号 48->48  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/WrightsVol1.abc
 title=Old Ways best
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-13fee01f72fd
-%1=Bb  原调=Gm  调号=Eb Bb  拍号=2/2  L:1/8  ABC-X:(无)  展开:2  La-based:是
-%八度归一=+0  八度记号 48->48  和弦 0 个(0 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/WrightsVol1.abc
 %--
 2/2
 subtitle=score

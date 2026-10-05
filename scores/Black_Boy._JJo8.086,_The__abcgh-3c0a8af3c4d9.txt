@@ -1,4 +1,7 @@
 %Black_Boy._JJo8.086,_The__abcgh-3c0a8af3c4d9.txt
+%1=A  原调=A  调号=C# F# G#  拍号=2/4  L:1/8  ABC-X:(无)  展开:2  La-based:否
+%八度归一=+0  八度记号 18->18  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/JohnsonVol8%20dance2.abc
 title=Black Boy. JJo8.086, The
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-3c0a8af3c4d9
-%1=A  原调=A  调号=C# F# G#  拍号=2/4  L:1/8  ABC-X:(无)  展开:2  La-based:否
-%八度归一=+0  八度记号 18->18  和弦 0 个(0 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/JohnsonVol8%20dance2.abc
 %--
 2/4
 subtitle=score

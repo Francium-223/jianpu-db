@@ -1,4 +1,7 @@
 %Keeths_Reel__abcgh-466e299f3bdd.txt
+%1=G  原调=Gmix  调号=(无升降)  拍号=6/8  L:1/8  ABC-X:13  展开:2  La-based:否
+%八度归一=+0  八度记号 10->10  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Straights1779.abc
 title=Keeths Reel
 tag=
 usertag=
@@ -6,9 +9,6 @@ tagroute=
 transcriber=abc2jianpu
 status=converted
 source=abcgh-466e299f3bdd
-%1=G  原调=Gmix  调号=(无升降)  拍号=6/8  L:1/8  ABC-X:13  展开:2  La-based:否
-%八度归一=+0  八度记号 10->10  和弦 0 个(0 音)
-%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Straights1779.abc
 %--
 6/8
 subtitle=score
