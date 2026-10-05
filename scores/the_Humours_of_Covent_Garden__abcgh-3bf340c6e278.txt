@@ -1,0 +1,18 @@
+%the_Humours_of_Covent_Garden__abcgh-3bf340c6e278.txt
+title=the Humours of Covent Garden
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-3bf340c6e278
+%1=D  原调=Dmix  调号=F#  拍号=6/8  L:1/8  ABC-X:(无)  展开:2  La-based:否
+%八度归一=-1  八度记号 68->18  和弦 4 个(8 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Straights1779.abc
+%--
+6/8
+subtitle=score
+q1 | q2 q3 q4 q4 q5 q4 | q2 q3 q4 q4 q5 q4 | q2 q3 q4 q5 q6 q4 | 3. 1 q1 | q2 q3 q4 q4 q5 q4 | q2 q3
+q4 q4 q5 q4 | q2 q3 q4 q5 q6 q4 | 3. 1 | q22 | q,7 q,6 q,5 22 q1 | q,7 q,6 q,5 22 q1 | q,7 q,6 q,5
+22 q2 | 3. 1 | q22 | q,7 q,6 q,5 22 q1 | q,7 q,6 q,5 22 q1 | q,7 q,6 q,5 22 q2 | 3. 1
+%END

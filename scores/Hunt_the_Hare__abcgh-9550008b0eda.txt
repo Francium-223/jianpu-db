@@ -1,0 +1,22 @@
+%Hunt_the_Hare__abcgh-9550008b0eda.txt
+title=Hunt the Hare / Dance
+alias=Dance
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-9550008b0eda
+%1=D  原调=D  调号=C# F#  拍号=6/8  L:1/8  ABC-X:87  展开:2  La-based:否
+%八度归一=+0  八度记号 66->66  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/John%20Moore%20Bk2%204494.abc
+%--
+6/8
+subtitle=score
+s5 s6 s7 | 1' q1 q3 q4 q5 | q6 q2' q1' q7 q6 q5 | 1' 1 q3 q4 q5 | q6 q2' q7 1' s5 s6 s7 | 1' q1 q3
+q4 q5 | q6 q2' q1' q7 q6 q5 | 1' 1 q3 q4 q5 | q6 q2' q7 1' q1' q2' | q3' q2' q1' q3' q2' q1' | q3'
+q2' q1' q3' q2' q1' | q7 q2' q1' q7 q2' q1' | q6 q4' q3' 2' | 1' q1 q3 q4 q5 | q6 q2' q1' q7 q6 q5 |
+1' q1 q3 q4 q5 | q6 q2' q7 1' q1' q2' | q3' q2' q1' q3' q2' q1' | q3' q2' q1' q3' q2' q1' | q7 q2'
+q1' q7 q2' q1' | q6 q4' q3' 2' | 1' q1 q3 q4 q5 | q6 q2' q1' q7 q6 q5 | 1' q1 q3 q4 q5 | q6 q2' q7
+1'
+%END

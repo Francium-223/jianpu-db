@@ -1,0 +1,21 @@
+%An_Adventure_at_Margate__abcgh-f4354d597f12.txt
+title=An Adventure at Margate
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-f4354d597f12
+%1=C  原调=C  调号=(无升降)  拍号=6/8  L:1/8  ABC-X:21  展开:2  La-based:否
+%八度归一=-1  八度记号 164->4  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Skillern1780.abc
+%--
+6/8
+subtitle=score
+q5 q3 q1 q5 q3 q1 | 6 q5 5. | q5 q3 q1 q5 q3 q1 | 4 q3 3. | q5 q3 q1 q5 q3 q1 | q6 q4 q1 q6 q4 q1 |
+q3 q4 q5 q5 q4 q3 | 1. 1. q5 q3 q1 q5 q3 q1 | 6 q5 5. | q5 q3 q1 q5 q3 q1 | 4 q3 3. | q5 q3 q1 q5 q3
+q1 | q6 q4 q1 q6 q4 q1 | q3 q4 q5 q5 q4 q3 | 1. 1. q2 q3 q4 q4 q2 q,7 | q5 q3 q1 q5 q3 q1 | q2 q3 q4
+q4 q2 q,7 | q5 q3 q1 q1 q3 q5 | q6 q4 q6 q6 q4 q6 | q5 q3 q5 q5 q3 q5 | q6 q5 q4 q3 q4 q2 | q1 q1 q1
+1. q2 q3 q4 q4 q2 q,7 | q5 q3 q1 q5 q3 q1 | q2 q3 q4 q4 q2 q,7 | q5 q3 q1 q1 q3 q5 | q6 q4 q6 q6 q4
+q6 | q5 q3 q5 q5 q3 q5 | q6 q5 q4 q3 q4 q2 | q1 q1 q1 1.
+%END

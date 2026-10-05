@@ -1,0 +1,20 @@
+%Palatine_Lass._JJo8.017,_The__abcgh-4c8d1d26ffbf.txt
+title=Palatine Lass. JJo8.017, The
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-4c8d1d26ffbf
+%1=D  原调=D  调号=C# F#  拍号=2/2  L:1/8  ABC-X:17  展开:2  La-based:否
+%八度归一=-1  八度记号 96->26  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/JohnsonVol8%20dance1.abc
+%--
+2/2
+subtitle=score
+s3 s4 | q5 q3 q1 q3 2 q,7 q,5 | q1 q1 q3 q5 q2 q2 q,5 s3 s4 | q5 q3 q1 q3 2 q,7 q,5 | q1 q1 q4 q3 2.
+s3 s4 | q5 q3 q1 q3 2 q,7 q,5 | q1 q1 q3 q5 q2 q2 q,5 s3 s4 | q5 q3 q1 q3 2 q,7 q,5 | q1 q1 q4 q3 2.
+s2 s1 | q,7 q2 q,5 q5 q4 q3 4 | q5 q,5 q5 q,5 q5 s4 s3 q2 s3 s4 | q5 q,5 5 q4 q,4 4 | q3 s2 s1 q,5
+q,7 1 s2 s1 | q,7 q2 q,5 q5 q4 q3 4 | q5 q,5 q5 q,5 q5 s4 s3 q2 s3 s4 | q5 q,5 5 q4 q,4 4 | q3 s2 s1
+q,5 q,7 1
+%END

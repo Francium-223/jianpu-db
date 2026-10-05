@@ -1,0 +1,24 @@
+%Swades_Hornpipe__abcgh-9a940d17906d.txt
+title=Swades Hornpipe / Swede's Hornpipe
+alias=Swede's Hornpipe
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-9a940d17906d
+%1=D  原调=D  调号=C# F#  拍号=2/2  L:1/8  ABC-X:22  展开:2  La-based:否
+%八度归一=+0  八度记号 62->62  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/John%20Moore%20Bk2%204494.abc
+%--
+2/2
+subtitle=score
+q1 q,7 | q,7 q,6 q,5 q,4 q4 q6 q5 q4 | 3 1 1 q1' q7 | q6 q1' q4 q6 q5 q7 q3 q5 | 6 4 q4 q6 q5 q4 |
+q3 q5 q7 q2' q5' q3' q1' q5 | q5 q4 q1' q2' q4' q2' q7 q4 | q3 q1' q6 q4 q3 q5 q,7 q2 | 1 1 1 q1 q,7
+| q,7 q,6 q,5 q,4 q4 q6 q5 q4 | 3 1 1 q1' q7 | q6 q1' q4 q6 q5 q7 q3 q5 | 6 4 q4 q6 q5 q4 | q3 q5 q7
+q2' q5' q3' q1' q5 | q5 q4 q1' q2' q4' q2' q7 q4 | q3 q1' q6 q4 q3 q5 q,7 q2 | 1 1 1 q1 q,7 | q,6 q1
+q4 q6 q1' q6 q4 q3 | 1 ,7 ,7 q2 q1 | q,7 q2 q5 q7 q2' q7 q5 q4 | 3 1 1 q4 q3 | q4 q1 q6 q4 q3 q1 q7
+q5 | q6 q4 q1' q6 q4' q1' q6 q4 | q2 q,7 q2' q4' q1' q6 q5 q7 | 6 4 4 q1 q,7 | q,6 q1 q4 q6 q1' q6
+q4 q3 | 1 ,7 ,7 q2 q1 | q,7 q2 q5 q7 q2' q7 q5 q4 | 3 1 1 q4 q3 | q4 q1 q6 q4 q3 q1 q7 q5 | q6 q4
+q1' q6 q4' q1' q6 q4 | q2 q,7 q2' q4' q1' q6 q5 q7 | 6 4 4
+%END

@@ -1,0 +1,19 @@
+%Love_and_the_Gout_Reel__abcgh-96e92e83672c.txt
+title=Love and the Gout Reel
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-96e92e83672c
+%1=D  原调=D  调号=C# F#  拍号=2/4  L:1/8  ABC-X:37  展开:2  La-based:否
+%八度归一=-1  八度记号 72->28  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/John%20Moore%20Bk2%204494.abc
+%--
+2/4
+subtitle=score
+1 q1 q,5 | 1 q1 q,5 | q1 q2 q3 q4 | q5 q3 q4 q2 | 1 q1 q,5 | ,6 q,6 q,4 | q,3 q,5 q,6 q,7 | 1 1 1 q1
+q,5 | 1 q1 q,5 | q1 q2 q3 q4 | q5 q3 q4 q2 | 1 q1 q,5 | ,6 q,6 q,4 | q,3 q,5 q,6 q,7 | 1 1 2 q2 q,7
+| 3 q3 q1 | 4 q4 q2 | 5 q5 q4 | 3 q3 q2 | 1 q1 q,7 | q,6 q1 q,7 q2 | 1 1 2 q2 q,7 | 3 q3 q1 | 4 q4
+q2 | 5 q5 q4 | 3 q3 q2 | 1 q1 q,7 | q,6 q1 q,7 q2 | 1 1
+%END

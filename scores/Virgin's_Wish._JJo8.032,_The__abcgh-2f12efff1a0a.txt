@@ -1,0 +1,21 @@
+%Virgin's_Wish._JJo8.032,_The__abcgh-2f12efff1a0a.txt
+title=Virgin's Wish. JJo8.032, The
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-2f12efff1a0a
+%1=C  原调=C  调号=(无升降)  拍号=6/8  L:1/8  ABC-X:(无)  展开:2  La-based:否
+%八度归一=-1  八度记号 104->32  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/JohnsonVol8%20dance.abc
+%--
+6/8
+subtitle=score
+q,5 | 1. q3 q1 q3 | 5. 3. | 1 q3 2 q1 | q,7 q2 q1 q,7 q,6 q,5 | 1. q3 q1 q3 | 5. 3. | q4 q5 q6 q2 q5
+q#4 | 5. ~ 5 q,5 | 1. q3 q1 q3 | 5. 3. | 1 q3 2 q1 | q,7 q2 q1 q,7 q,6 q,5 | 1. q3 q1 q3 | 5. 3. |
+q4 q5 q6 q2 q5 q#4 | 5. ~ 5 q5 | 5. q3 q4 q5 | 4. q2 q3 q4 | q3 q5 q4 q3 q2 q1 | q,7 q2 q1 q,7 q,6
+q,5 | 1. q,6 q,7 q1 | ,7. q,5 q,6 q,7 | q1 q2 q3 q4 q2 q,7 | 1. ~ 1 q5 | 5. q3 q4 q5 | 4. q2 q3 q4 |
+q3 q5 q4 q3 q2 q1 | q,7 q2 q1 q,7 q,6 q,5 | 1. q,6 q,7 q1 | ,7. q,5 q,6 q,7 | q1 q2 q3 q4 q2 q,7 |
+1. ~ 1
+%END

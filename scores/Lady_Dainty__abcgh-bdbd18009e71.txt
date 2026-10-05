@@ -1,0 +1,20 @@
+%Lady_Dainty__abcgh-bdbd18009e71.txt
+title=Lady Dainty. / John Malchair's Third Collection of Tunes
+alias=John Malchair's Third Collection of Tunes
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-bdbd18009e71
+%1=F  原调=Dm  调号=Bb  拍号=2/2  L:1/8  ABC-X:(无)  展开:0  La-based:是
+%八度归一=+0  八度记号 45->45  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Malchair.abc
+%--
+2/2
+subtitle=score
+q3 q2 | q1 q,7 q,6 q1 ,7 ,#5 | ,6 - ,7 - | 1. q3 q2 q1 q,7 q,6 | q,#5 q,6 q,7 q1 ,7 q3 q2 | q1 q,7
+q,6 q1 ,7 ,#5 | ,6 1 3 q6 q1' | q7 q6 q5 q4 q3 q2 q1 q,7 | ,6 - - | q3' q2' | q1' q7 q6 q1' 7 #5 | 6
+- 7 - | 1'. q3' q2' q1' q7 q6 | q#5 q6 q7 q1' 7 q3' q2' | q1' q3' q1' q3' q7 q2' q7 q2' | q1' q6 q7
+q1' q#5 q3' q#4 q#5 | q6 q7 q1' q2' 3' q2' q1' | 7 - 6 - |
+%END

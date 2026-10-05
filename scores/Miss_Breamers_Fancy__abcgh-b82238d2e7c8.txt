@@ -1,0 +1,22 @@
+%Miss_Breamers_Fancy__abcgh-b82238d2e7c8.txt
+title=Miss Breamers Fancy
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-b82238d2e7c8
+%1=A  原调=A  调号=C# F# G#  拍号=4/4  L:1/16  ABC-X:1  展开:2  La-based:否
+%八度归一=+0  八度记号 42->42  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Straights1783.abc
+%--
+4/4
+subtitle=score
+s5 s4 s3 s2 q3 q1 | q5 1' s7 s6 | s5 s4 s3 s2 s1 s,7 s1 s2 | s3 s4 s5 s6 2 | s5 s4 s3 s2 q3 q1 | q5
+1' s7 s1' | s2' s1' s7 s6 s1' s7 s6 s5 | s#4 s5 s6 s4 5 s5 s4 s3 s2 q3 q1 | q5 1' s7 s6 | s5 s4 s3
+s2 s1 s,7 s1 s2 | s3 s4 s5 s6 2 | s5 s4 s3 s2 q3 q1 | q5 1' s7 s1' | s2' s1' s7 s6 s1' s7 s6 s5 |
+s#4 s5 s6 s4 5 s2 s1 s,7 s,6 q,7 q,5 | q1 5 s4 s3 | s4 s3 s2 s1 s2 s1 s,7 s,6 | s,5 s,6 s,7 s1 ,6 |
+s4 s3 s2 s1 q,7 q2 | q5 q3 q6 s6 s7 | s1' s7 s6 s5 s4 s3 s2 s1 | s,7 s1 s2 s,7 1 s2 s1 s,7 s,6 q,7
+q,5 | q1 5 s4 s3 | s4 s3 s2 s1 s2 s1 s,7 s,6 | s,5 s,6 s,7 s1 ,6 | s4 s3 s2 s1 q,7 q2 | q5 q3 q6 s6
+s7 | s1' s7 s6 s5 s4 s3 s2 s1 | s,7 s1 s2 s,7 1
+%END

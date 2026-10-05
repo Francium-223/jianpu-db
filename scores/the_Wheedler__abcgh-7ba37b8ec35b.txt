@@ -1,0 +1,22 @@
+%the_Wheedler__abcgh-7ba37b8ec35b.txt
+title=the Wheedler / Longways for &c.
+alias=Longways for &c.
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-7ba37b8ec35b
+%1=F  原调=F  调号=Bb  拍号=2/4  L:1/8  ABC-X:(无)  展开:2  La-based:否
+%八度归一=+0  八度记号 26->26  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/WrightsVol1.abc
+%--
+2/4
+subtitle=score
+q5 | 1' 7 | q1' s7 s6 q5 q6 | 5 4 | 3. q2 | q3 q4 q3 q2 | q3 q4 q3 q2 | 3 #4 | q5 q6 q7 q1' | q2'
+q#4 q5 q3 | #4. q5 | 5. q5 | 1' 7 | q1' s7 s6 q5 q6 | 5 4 | 3. q2 | q3 q4 q3 q2 | q3 q4 q3 q2 | 3 #4
+| q5 q6 q7 q1' | q2' q#4 q5 q3 | #4. q5 | 5. q5 | qb7 q5 q3 q1 | qb7 q5 q3 q1 | qb7 q5 q1 qb7 | 6.
+q7 | q1' q6 q#4 q2 | q1' q6 q#4 q2 | q1' q5 q2 q1' | 7. q4' | q3' q7 q1' q6 | 7. q1' | 1'. q5 | qb7
+q5 q3 q1 | qb7 q5 q3 q1 | qb7 q5 q1 qb7 | 6. q7 | q1' q6 q#4 q2 | q1' q6 q#4 q2 | q1' q5 q2 q1' | 7.
+q4' | q3' q7 q1' q6 | 7. q1' | 1'.
+%END

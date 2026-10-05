@@ -1,0 +1,18 @@
+%Tunbridge_Frisk__abcgh-032af81597d2.txt
+title=Tunbridge Frisk
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-032af81597d2
+%1=G  原调=G  调号=F#  拍号=2/2  L:1/8  ABC-X:(无)  展开:0  La-based:否
+%八度归一=+0  八度记号 15->15  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/WrightsVol1.abc
+%--
+2/2
+subtitle=score
+,5 | 1 - 1 3 | q2 q1 q2 q3 2 4 | 3 1' 2 1 | q2 q1 q,7 q,6 ,5 ,5 | 1 - 1 3 | q2 q1 q2 q3 2 1' | 7 q6
+q5 6 #4 | 5 - - | 2 | 5 - 1' 4 | 3 - 1' 3 | 2 4 3 1 | q2 q1 q,7 q,6 ,5 2 | q3 q2 q3 q4 3 3 | q4 q3
+q4 q5 4 1' | 3 q2 q1 ,5 ,7 | 1 - - |
+%END

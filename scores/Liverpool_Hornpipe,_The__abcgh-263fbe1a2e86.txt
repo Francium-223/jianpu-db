@@ -1,0 +1,25 @@
+%Liverpool_Hornpipe,_The__abcgh-263fbe1a2e86.txt
+title=Liverpool Hornpipe, The
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-263fbe1a2e86
+%1=D  原调=D  调号=C# F#  拍号=4/4  L:1/8  ABC-X:7  展开:2  La-based:否
+%八度归一=+0  八度记号 120->120  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/John%20Moore%20Bk3%2044945.abc
+%--
+4/4
+subtitle=score
+q5 q4 | q3 q1 q3 q5 q1' q3' q5' q3' | q4' q3' q2' q1' q1' q7 q6 q5 | q4 q6 q4 q6 q3 q5 q3 q5 | q2 q3
+q4 q5 q4 q3 q2 q1 | q3 q1 q3 q5 q1' q3' q5' q3' | q4' q3' q2' q1' q1' q7 q6 q5 | q3' q2' q3' q4' q5'
+q3' q1' q3' | q3' q2' q1' q7 1' q5 q4 | q3 q1 q3 q5 q1' q3' q5' q3' | q4' q3' q2' q1' q1' q7 q6 q5 |
+q4 q6 q4 q6 q3 q5 q3 q5 | q2 q3 q4 q5 q4 q3 q2 q1 | q3 q1 q3 q5 q1' q3' q5' q3' | q4' q3' q2' q1'
+q1' q7 q6 q5 | q3' q2' q3' q4' q5' q3' q1' q3' | q3' q2' q1' q7 1' 5 | q1' q3' q1' q3' q7 q2' q7 q2'
+| q6 q7 q1' q2' q1' q7 q6 q5 | q4 q6 q4 q6 q3 q5 q3 q5 | q2 q3 q4 q5 q4 q3 q2 q1 | q3 q1 q3 q5 q1'
+q3' q5' q3' | q4' q3' q2' q1' q1' q7 q6 q5 | q3' q2' q3' q4' q5' q3' q1' q3' | q3' q2' q1' q7 1' 5 |
+q1' q3' q1' q3' q7 q2' q7 q2' | q6 q7 q1' q2' q1' q7 q6 q5 | q4 q6 q4 q6 q3 q5 q3 q5 | q2 q3 q4 q5
+q4 q3 q2 q1 | q3 q1 q3 q5 q1' q3' q5' q3' | q4' q3' q2' q1' q1' q7 q6 q5 | q3' q2' q3' q4' q5' q3'
+q1' q3' | q3' q2' q1' q7 1'
+%END

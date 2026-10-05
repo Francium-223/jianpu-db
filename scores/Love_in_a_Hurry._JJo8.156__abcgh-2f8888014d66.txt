@@ -1,0 +1,23 @@
+%Love_in_a_Hurry._JJo8.156__abcgh-2f8888014d66.txt
+title=Love in a Hurry. JJo8.156
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-2f8888014d66
+%1=C  原调=Am  调号=(无升降)  拍号=6/8  L:1/8  ABC-X:(无)  展开:2  La-based:是
+%八度归一=+1  八度记号 130->102  和弦 10 个(20 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/JohnsonVol8%20dance2.abc
+%--
+6/8
+subtitle=score
+q'6 q6 q7 q'1 q7 q6 | q'3 q3 q3 3 q3 | q#4 q#5 q6 q5 q6 q7 | q6 q,6 q,6 ,6 q,6 | q,7 q1 q2 q1 q2 q3
+| q4 q3 q2 q'4 q'3 q'2 | q'1 q7 q6 q3 q#4 q#5 | q6 q,6 q,6 ,6. q'6 q6 q7 q'1 q7 q6 | q'3 q3 q3 3 q3
+| q#4 q#5 q6 q5 q6 q7 | q6 q,6 q,6 ,6 q,6 | q,7 q1 q2 q1 q2 q3 | q4 q3 q2 q'4 q'3 q'2 | q'1 q7 q6 q3
+q#4 q#5 | q6 q,6 q,6 ,6. q'6 q'3 q'4 q'5 q'4 q'3 | q'4 q'66 q'55 q'44 q'33 q'22 | q'5 q'2 q'3 q'4
+q'3 q'2 | q'3 q'55 q'44 q'33 q'22 q'11 | q'4 q'1 q'2 q'3 q'2 q'1 | q7 q'1 q6 q#5 q3 q'3 | q'6 q'3
+q'2 q'1 q7 q6 | q3 q#4 q#5 6. q'6 q'3 q'4 q'5 q'4 q'3 | q'4 q'66 q'55 q'44 q'33 q'22 | q'5 q'2 q'3
+q'4 q'3 q'2 | q'3 q'55 q'44 q'33 q'22 q'11 | q'4 q'1 q'2 q'3 q'2 q'1 | q7 q'1 q6 q#5 q3 q'3 | q'6
+q'3 q'2 q'1 q7 q6 | q3 q#4 q#5 6.
+%END

@@ -1,0 +1,23 @@
+%the_Parting_lovers__abcgh-2ab9e7a6f3c3.txt
+title=the Parting lovers
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-2ab9e7a6f3c3
+%1=G  原调=G  调号=F#  拍号=6/8  L:1/8  ABC-X:95  展开:2  La-based:否
+%八度归一=+0  八度记号 34->34  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Thompson1776.abc
+%--
+6/8
+subtitle=score
+1 q3 2 q4 | 3 q5 4 q6 | q5 q6 q7 q1' q7 q6 | q5 q4 q3 q2 q1 q,7 | 1 q3 2 q4 | 3 q5 4 q6 | q5 q4 q3
+q2 q1 q,7 | 1. ,1. 1 q3 2 q4 | 3 q5 4 q6 | q5 q6 q7 q1' q7 q6 | q5 q4 q3 q2 q1 q,7 | 1 q3 2 q4 | 3
+q5 4 q6 | q5 q4 q3 q2 q1 q,7 | 1. ,1. 1' q6 7 q5 | 1' q6 7 q5 | q1' q7 q6 q2' q1' q7 | q6 q7 q5 q#4
+q3 q2 | 1' q6 7 q5 | 1' q6 7 q5 | q6 q1' q7 q6 q5 q#4 | 5. ,5. | 1 q3 2 q4 | 3 q5 4 q6 | q5 q6 q7
+q1' q7 q6 | q5 q4 q3 q2 q1 q,7 | 1 q3 2 q4 | 3 q5 4 q6 | q5 q4 q3 q2 q1 q,7 | 1. ,1. 1' q6 7 q5 | 1'
+q6 7 q5 | q1' q7 q6 q2' q1' q7 | q6 q7 q5 q#4 q3 q2 | 1' q6 7 q5 | 1' q6 7 q5 | q6 q1' q7 q6 q5 q#4
+| 5. ,5. | 1 q3 2 q4 | 3 q5 4 q6 | q5 q6 q7 q1' q7 q6 | q5 q4 q3 q2 q1 q,7 | 1 q3 2 q4 | 3 q5 4 q6 |
+q5 q4 q3 q2 q1 q,7 | 1. ,1.
+%END

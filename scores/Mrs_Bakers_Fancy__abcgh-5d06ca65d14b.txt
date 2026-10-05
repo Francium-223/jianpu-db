@@ -1,0 +1,20 @@
+%Mrs_Bakers_Fancy__abcgh-5d06ca65d14b.txt
+title=Mrs Bakers Fancy
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-5d06ca65d14b
+%1=D  原调=D  调号=C# F#  拍号=2/4  L:1/16  ABC-X:21  展开:2  La-based:否
+%八度归一=+0  八度记号 42->42  和弦 1 个(2 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Straights1779.abc
+%--
+2/4
+subtitle=score
+s5 d6 d7 | s1' s5 s3 s1 s1' s5 s3 s1 | s1' s5 s3 s1 2,5 | s1 s,5 s2 s,5 s3 s,5 s4 s,5 | s5 s4 s3 s2
+q1 s5 d6 d7 | s1' s5 s3 s1 s1' s5 s3 s1 | s1' s5 s3 s1 2,5 | s1 s,5 s2 s,5 s3 s,5 s4 s,5 | s5 s4 s3
+s2 q1 q1' | s7 s5 s1' s5 s2' s5 s3' s5 | s4' s5 s3' s5 s2' s5 s1' s5 | s7 s5 s1' s5 s2' s5 s3' s5 |
+s2' s1' s7 s6 q5 q1' | s7 s5 s1' s5 s2' s5 s3' s5 | s4' s5 s3' s5 s2' s5 s1' s5 | s7 s5 s1' s5 s2'
+s5 s3' s5 | s2' s1' s7 s6 q5
+%END

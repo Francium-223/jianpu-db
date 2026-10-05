@@ -1,0 +1,21 @@
+%I_wish_I_may_die_if_I_do__abcgh-2f14f3f2e634.txt
+title=I wish I may die if I do. / John Malchair's Third Collection of Tunes
+alias=John Malchair's Third Collection of Tunes
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-2f14f3f2e634
+%1=D  原调=D  调号=C# F#  拍号=6/8  L:1/8  ABC-X:132  展开:0  La-based:否
+%八度归一=-1  八度记号 93->42  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Malchair.abc
+%--
+6/8
+subtitle=score
+q,5 | ,3 q,5 1 q3 | q2 q1 q2 1 q,5 | ,3 q,5 1 q3 | 1 0. q,5 | ,3 q,5 1 q2 | q3 q2 q1 q5 q4 q3 | q2
+q1 q,7 ,6 q2 | ,5 0. | q1 | q4 q5 q4 4 q2 | q3 q4 q3 3 q1 | q2 q3 q4 q,6 q,7 q1 | 1. ,7 q,5 | q5 q3
+q5 q4 q2 q4 | q3 q1 q3 2 q,5 | q1 q,7 q1 q2 q1 q2 | q3 q2 q3 4 q2 | q3 q4 q5 q2 q3 q4 | q3 q4 q5 q2
+q3 q4 | q3 q4 q3 q2 q1 q2 | 1. ~ 1 | q,5 | q,3 q,4 q,5 q,2 q,3 q,4 | q,3 q,4 q,5 ,2 q4 | q3 q4 q3 q2
+q1 q2 | 1 q,5 ,3 q,5 | q,3 q,4 q,5 q,2 q,3 q,4 | q,3 q,4 q,5 ,2 q4 | q3 q4 q3 q2 q1 q2 | 1. ~ 1 |
+%END

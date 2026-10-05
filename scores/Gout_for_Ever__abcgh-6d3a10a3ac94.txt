@@ -1,0 +1,19 @@
+%Gout_for_Ever__abcgh-6d3a10a3ac94.txt
+title=Gout for Ever
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-6d3a10a3ac94
+%1=D  原调=D  调号=C# F#  拍号=4/4  L:1/8  ABC-X:19  展开:2  La-based:否
+%八度归一=-1  八度记号 98->16  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Button1810.abc
+%--
+4/4
+subtitle=score
+q1 q3 q3 q4 5 q3 q5 | q4 q2 q3 q1 q2 q,7 ,5 | q1 q3 q3 q4 5 q3 q1 | q2 q4 q,7 q2 1 ,1 q1 q3 q3 q4 5
+q3 q5 | q4 q2 q3 q1 q2 q,7 ,5 | q1 q3 q3 q4 5 q3 q1 | q2 q4 q,7 q2 1 ,1 q,7 q1 q2 q3 q5 q4 q3 q2 |
+q3 q2 q3 q4 q5 q3 q2 q1 | q,7 q1 q2 q3 q5 q4 q3 q2 | q3 q5 q,7 q2 1 ,1 q,7 q1 q2 q3 q5 q4 q3 q2 | q3
+q2 q3 q4 q5 q3 q2 q1 | q,7 q1 q2 q3 q5 q4 q3 q2 | q3 q5 q,7 q2 1 ,1
+%END

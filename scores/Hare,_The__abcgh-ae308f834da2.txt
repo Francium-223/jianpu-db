@@ -1,0 +1,20 @@
+%Hare,_The__abcgh-ae308f834da2.txt
+title=Hare, The
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-ae308f834da2
+%1=G  原调=G  调号=F#  拍号=6/8  L:1/8  ABC-X:121  展开:2  La-based:否
+%八度归一=+0  八度记号 42->42  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/John%20Moore%20Bk2%204494.abc
+%--
+6/8
+subtitle=score
+q3 q1 q1 1. | q4 q2 q2 2. | q1' q7 q6 q5 q6 q4 | q3 q1 q1 1. q3 q1 q1 1. | q4 q2 q2 2. | q1' q7 q6
+q5 q6 q4 | q3 q1 q1 1. q3' s1' s2' q3' 1 q2' | q1' s7 s1' q2' ,7 q2' | q1' q7 q1' q6 q2' q1' | q7 q5
+q5 5. | q6 q4 q6 s1' s2' q3' q3 | q5 q3 q5 s1' s2' q3' q3 | q4 q3 q4 q2 q5 q4 | q3 q1 q1 1. q3' s1'
+s2' q3' 1 q2' | q1' s7 s1' q2' ,7 q2' | q1' q7 q1' q6 q2' q1' | q7 q5 q5 5. | q6 q4 q6 s1' s2' q3'
+q3 | q5 q3 q5 s1' s2' q3' q3 | q4 q3 q4 q2 q5 q4 | q3 q1 q1 1.
+%END

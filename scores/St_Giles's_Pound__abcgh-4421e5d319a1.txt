@@ -1,0 +1,20 @@
+%St_Giles's_Pound__abcgh-4421e5d319a1.txt
+title=St Giles's Pound
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-4421e5d319a1
+%1=G  原调=G  调号=F#  拍号=2/2  L:1/8  ABC-X:35  展开:2  La-based:否
+%八度归一=+0  八度记号 24->24  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/WrightsVol1.abc
+%--
+2/2
+subtitle=score
+1 1 5 - | 6 7 1' - | 1' q7 q6 5 q4 q3 | 2 q3 q4 3 q2 q1 | 1 1 5 - | 6 7 1' - | 2' q1' q7 6 5 | 2 #4
+5 - 1 1 5 - | 6 7 1' - | 1' q7 q6 5 q4 q3 | 2 q3 q4 3 q2 q1 | 1 1 5 - | 6 7 1' - | 2' q1' q7 6 5 | 2
+#4 5 - q7 q1' 2' 2' q1' q7 | 1' q7 q6 7 q6 q5 | 4 4 4 6 | q5 q4 q3 q2 3 q2 q1 | q1 q2 q3 q4 5 1 | ,7
+1 2 - | q1 q2 q3 q4 5 1 | 2 q1 q,7 1 - q7 q1' 2' 2' q1' q7 | 1' q7 q6 7 q6 q5 | 4 4 4 6 | q5 q4 q3
+q2 3 q2 q1 | q1 q2 q3 q4 5 1 | ,7 1 2 - | q1 q2 q3 q4 5 1 | 2 q1 q,7 1 -
+%END

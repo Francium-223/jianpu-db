@@ -1,0 +1,19 @@
+%Welch_March__abcgh-de98d6a2e368.txt
+title=Welch March
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-de98d6a2e368
+%1=D  原调=D  调号=C# F#  拍号=2/2  L:1/8  ABC-X:105  展开:2  La-based:否
+%八度归一=-1  八度记号 102->14  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/WrightsVol1.abc
+%--
+2/2
+subtitle=score
+q1 s1 s1 q1 q1 1 ,5 | q1 q,5 q,3 q1 q,5 q,3 q,1 s1 s2 | q3 s3 s3 q3 q3 3 2 | s3 s4 s5 s6 #4 5 - q1
+s1 s1 q1 q1 1 ,5 | q1 q,5 q,3 q1 q,5 q,3 q,1 s1 s2 | q3 s3 s3 q3 q3 3 2 | s3 s4 s5 s6 #4 5 - q2 s2
+s2 q2 q2 2 5 | q3 q1 q3 q5 q3 q1 q,5 s3 s4 | q5 s5 s5 q5 q5 5 4 | s3 s4 s5 s6 2 1 - q2 s2 s2 q2 q2 2
+5 | q3 q1 q3 q5 q3 q1 q,5 s3 s4 | q5 s5 s5 q5 q5 5 4 | s3 s4 s5 s6 2 1 -
+%END

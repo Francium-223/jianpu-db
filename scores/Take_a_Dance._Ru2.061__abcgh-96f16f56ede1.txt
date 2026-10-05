@@ -1,0 +1,21 @@
+%Take_a_Dance._Ru2.061__abcgh-96f16f56ede1.txt
+title=Take a Dance. Ru2.061
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-96f16f56ede1
+%1=A  原调=Amixolydian  调号=C# F#  拍号=(未给)  L:1/8  ABC-X:61  展开:2  La-based:否
+%八度归一=+0  八度记号 10->10  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/RutherfordVol1-2249.abc
+%源里没写 M: -> 按 ABC 标准默认 4/4 写出
+%--
+4/4
+subtitle=score
+2 q3 4 q5 | q6 q5 q4 3. | 2 q3 4 q5 | 6 q7 q6 q4 q2 | 2 q3 4 q5 | q6 q5 q4 3. | 1 q2 3 q4 | 5 q1' q5
+q3 q1 2 q3 4 q5 | q6 q5 q4 3. | 2 q3 4 q5 | 6 q7 q6 q4 q2 | 2 q3 4 q5 | q6 q5 q4 3. | 1 q2 3 q4 | 5
+q1' q5 q3 q1 1' q6 7 q5 | 6 q4 3. | 2 q3 4 q5 | 6 q7 q6 q4 q2 | q1' q1' q6 q7 q7 q5 | q6 q6 q4 3. |
+1 q2 3 q4 | 5 q1' q5 q3 q1 1' q6 7 q5 | 6 q4 3. | 2 q3 4 q5 | 6 q7 q6 q4 q2 | q1' q1' q6 q7 q7 q5 |
+q6 q6 q4 3. | 1 q2 3 q4 | 5 q1' q5 q3 q1
+%END

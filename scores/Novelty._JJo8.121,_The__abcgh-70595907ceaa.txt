@@ -1,0 +1,22 @@
+%Novelty._JJo8.121,_The__abcgh-70595907ceaa.txt
+title=Novelty. JJo8.121, The
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-70595907ceaa
+%1=D  原调=D  调号=C# F#  拍号=6/8  L:1/8  ABC-X:121  展开:2  La-based:否
+%八度归一=-1  八度记号 160->22  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/JohnsonVol8%20dance.abc
+%--
+6/8
+subtitle=score
+q4 | q3 q1 q1 q1 q2 q3 | q4 q2 q2 q2 q3 q4 | q3 q1 q1 q1 q2 q3 | q2 q,7 q,5 ,5 q4 | q3 q1 q1 q1 q2
+q3 | q4 q5 q4 q3 q5 q4 | q3 q1 q3 q2 q,7 q,5 | 1. ,1 q4 | q3 q1 q1 q1 q2 q3 | q4 q2 q2 q2 q3 q4 | q3
+q1 q1 q1 q2 q3 | q2 q,7 q,5 ,5 q4 | q3 q1 q1 q1 q2 q3 | q4 q5 q4 q3 q5 q4 | q3 q1 q3 q2 q,7 q,5 | 1.
+,1 q4 | q3 q4 q5 q5 q6 q5 | q6 q4 q4 q4 q5 q4 | q5 q3 q3 q3 q4 q3 | q4 q2 q2 q2 q3 q4 | q3 q4 q5 q5
+q6 q5 | q6 q4 q4 q4 q5 q4 | q3 q1 q3 q2 q,7 q,5 | q1 q,5 q,3 ,1 q4 | q3 q4 q5 q5 q6 q5 | q6 q4 q4 q4
+q5 q4 | q5 q3 q3 q3 q4 q3 | q4 q2 q2 q2 q3 q4 | q3 q4 q5 q5 q6 q5 | q6 q4 q4 q4 q5 q4 | q3 q1 q3 q2
+q,7 q,5 | q1 q,5 q,3 ,1
+%END

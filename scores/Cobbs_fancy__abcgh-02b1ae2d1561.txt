@@ -1,0 +1,21 @@
+%Cobbs_fancy__abcgh-02b1ae2d1561.txt
+title=Cobbs fancy / Longways for as many as will.
+alias=Longways for as many as will.
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-02b1ae2d1561
+%1=Bb  原调=Gm  调号=Eb Bb  拍号=2/4  L:1/8  ABC-X:(无)  展开:2  La-based:是
+%八度归一=+0  八度记号 24->24  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/WrightsVol1.abc
+%--
+2/4
+subtitle=score
+q3 | q1 q,6 q,7 q1 | q,#5 q,6 q0 q5 | q3 q1 q4 q2 | q,7 q1 q0 q3 | q3 q4 q5 q6 | q4 q3 q0 q,7 | q1
+q2 q3 q4 | 3. q3 | q1 q,6 q,7 q1 | q,#5 q,6 q0 q5 | q3 q1 q4 q2 | q,7 q1 q0 q3 | q3 q4 q5 q6 | q4 q3
+q0 q,7 | q1 q2 q3 q4 | 3. q3 | q3 q1 q4 q2 | q,7 q1 q0 q5 | q5 q3 q4 q2 | q#1 q2 q0 q6 | q6 q5 q4 q3
+| q2 q1 q0 q,7 | q1 q,6 q,7 q,#5 | ,6. q3 | q3 q1 q4 q2 | q,7 q1 q0 q5 | q5 q3 q4 q2 | q#1 q2 q0 q6
+| q6 q5 q4 q3 | q2 q1 q0 q,7 | q1 q,6 q,7 q,#5 | ,6.
+%END

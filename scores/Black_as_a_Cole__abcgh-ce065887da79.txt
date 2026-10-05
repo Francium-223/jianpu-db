@@ -1,0 +1,24 @@
+%Black_as_a_Cole__abcgh-ce065887da79.txt
+title=Black as a Cole / Longways for &c.
+alias=Longways for &c.
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-ce065887da79
+%1=D  原调=Dmix  调号=F#  拍号=9/8  L:1/8  ABC-X:(无)  展开:2  La-based:否
+%八度归一=-1  八度记号 130->96  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/WrightsVol1.abc
+%--
+9/8
+subtitle=score
+q,1 q,2 q,3 q,1 q,2 q,3 ,,5. | q,1 q,2 q,3 q,1 q,2 q,3 ,6 q,2 | q,1 q,2 q,3 q,1 q,2 q,3 ,,5 q,,5 |
+q2 q3 q2 2 q,4 ,3 q,2 q,1 q,2 q,3 q,1 q,2 q,3 ,,5. | q,1 q,2 q,3 q,1 q,2 q,3 ,6 q,2 | q,1 q,2 q,3
+q,1 q,2 q,3 ,,5 q,,5 | q2 q3 q2 2 q,4 ,3 q,2 q1 s3 s4 s5 s3 q1 s3 s4 s5 s3 1 q,5 | q1 s3 s4 s5 s3 q1
+s3 s4 s5 s3 4 q2 | q1 s3 s4 s5 s3 q1 s3 s4 s5 s3 1 q,5 | q2 q3 q2 q2 q,2 q,4 ,3 q,2 | q5 q3 q1 q1
+q,6 q,4 q,5 q,3 q,1 | q5 q3 q1 q1 q2 q3 4 q2 | q5 q3 q1 q1 q,6 q,4 q,5 q,3 q,1 | q2 q3 q2 2 q,4 ,3
+q,2 q1 s3 s4 s5 s3 q1 s3 s4 s5 s3 1 q,5 | q1 s3 s4 s5 s3 q1 s3 s4 s5 s3 4 q2 | q1 s3 s4 s5 s3 q1 s3
+s4 s5 s3 1 q,5 | q2 q3 q2 q2 q,2 q,4 ,3 q,2 | q5 q3 q1 q1 q,6 q,4 q,5 q,3 q,1 | q5 q3 q1 q1 q2 q3 4
+q2 | q5 q3 q1 q1 q,6 q,4 q,5 q,3 q,1 | q2 q3 q2 2 q,4 ,3 q,2
+%END

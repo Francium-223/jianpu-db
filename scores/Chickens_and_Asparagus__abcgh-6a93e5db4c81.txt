@@ -1,0 +1,20 @@
+%Chickens_and_Asparagus__abcgh-6a93e5db4c81.txt
+title=Chickens and Asparagus
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-6a93e5db4c81
+%1=F  原调=F  调号=Bb  拍号=3/4  L:1/8  ABC-X:81  展开:2  La-based:否
+%八度归一=+0  八度记号 36->36  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/WrightsVol1.abc
+%--
+3/4
+subtitle=score
+q3 q2 1 1 | q3 q4 5 5 | q4 q3 2 2 | q4 q5 6 6 | q3 q2 1 1 | q3 q4 5 3 | 6 4 5 | 1 - - q3 q2 1 1 | q3
+q4 5 5 | q4 q3 2 2 | q4 q5 6 6 | q3 q2 1 1 | q3 q4 5 3 | 6 4 5 | 1 - - q1' q2' 1' 5 | 5 - 6 | q2'
+q3' 2' 6 | 7 - 5 | q6 q1' q7 q2' q1' q3' | q6 q1' q7 q2' q1' q3' | q4' q3' 2'. q1' | 7 - - q1' q2'
+1' 5 | 5 - 6 | q2' q3' 2' 6 | 7 - 5 | q6 q1' q7 q2' q1' q3' | q6 q1' q7 q2' q1' q3' | q4' q3' 2'.
+q1' | 7 - -
+%END

@@ -1,0 +1,24 @@
+%New_Sailors_Hornpipe,_The__abcgh-3b3782bd8089.txt
+title=New Sailors Hornpipe, The
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-3b3782bd8089
+%1=Bb  原调=Bb  调号=Eb Bb  拍号=4/4  L:1/8  ABC-X:106  展开:2  La-based:否
+%八度归一=+0  八度记号 104->104  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/John%20Moore%20Bk2%204494.abc
+%--
+4/4
+subtitle=score
+q1 q,6 q,5 q,4 q,3 q,1 q,3 q,5 | q,6 q,4 q,6 q1 q,7 q,5 q,7 q2 | q3 q1 q4 q2 q5 q3 q2 q1 | ,7 2 2 q1
+q,7 | q1 q,6 q,5 q,4 q,3 q,1 q,3 q,5 | q,6 q,4 q,6 q1 q,7 q,5 q,7 q2 | q3 q1 q4 q2 q3 q1 q2 q,7 | 1
+1 1 0 q1 q,6 q,5 q,4 q,3 q,1 q,3 q,5 | q,6 q,4 q,6 q1 q,7 q,5 q,7 q2 | q3 q1 q4 q2 q5 q3 q2 q1 | ,7
+2 2 q1 q,7 | q1 q,6 q,5 q,4 q,3 q,1 q,3 q,5 | q,6 q,4 q,6 q1 q,7 q,5 q,7 q2 | q3 q1 q4 q2 q3 q1 q2
+q,7 | 1 1 1 0 q1' q5 q3 q1 q1 q3 q5 q1' | q5 q3 q2 q1 q,7 q1 q2 q3 | q4 q3 q2 q1 q,7 q1 q2 q3 | 2 ,5
+,5 0 | q1 q,5 q,5 q,6 q,b7 q,6 q,5 q,4 | q,3 q,4 q,5 q,6 q,b7 q,6 q,5 q,4 | q,5 q5 q5 q4 q3 q2 q1
+q,7 | 1 1 1 0 q1' q5 q3 q1 q1 q3 q5 q1' | q5 q3 q2 q1 q,7 q1 q2 q3 | q4 q3 q2 q1 q,7 q1 q2 q3 | 2 ,5
+,5 0 | q1 q,5 q,5 q,6 q,b7 q,6 q,5 q,4 | q,3 q,4 q,5 q,6 q,b7 q,6 q,5 q,4 | q,5 q5 q5 q4 q3 q2 q1
+q,7 | 1 1 1 0
+%END

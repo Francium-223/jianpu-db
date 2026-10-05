@@ -1,0 +1,19 @@
+%Topsy_Turvy__abcgh-0909f3b65e99.txt
+title=Topsy Turvy
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-0909f3b65e99
+%1=F  原调=F  调号=Bb  拍号=4/4  L:1/8  ABC-X:20  展开:2  La-based:否
+%八度归一=+0  八度记号 30->30  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Kitty%20Bridges%201745.abc
+%--
+4/4
+subtitle=score
+q1' q5 q1' q5 q1' 3' s2' s1' | q7 q5 q7 q5 q7 2' s1' s7 | q1' q5 q1' q5 q3 5 s4 s3 | q4 6 s5 s4 3 1
+q1' q5 q1' q5 q1' 3' s2' s1' | q7 q5 q7 q5 q7 2' s1' s7 | q1' q5 q1' q5 q3 5 s4 s3 | q4 6 s5 s4 3 1
+q4 6 s5 s4 q3 q1 s3 s4 s5 s3 | q4' 2' q1' 7 5 | q4 6 s5 s4 q3 q1 s3 s4 s5 s3 | q3' 1' q5 3 1 q4 6 s5
+s4 q3 q1 s3 s4 s5 s3 | q4' 2' q1' 7 5 | q4 6 s5 s4 q3 q1 s3 s4 s5 s3 | q3' 1' q5 3 1
+%END

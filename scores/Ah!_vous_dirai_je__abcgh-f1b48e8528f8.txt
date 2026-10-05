@@ -1,0 +1,18 @@
+%Ah!_vous_dirai_je__abcgh-f1b48e8528f8.txt
+title=Ah! vous dirai je / John Malchair's Third Collection of Tunes
+alias=John Malchair's Third Collection of Tunes
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-f1b48e8528f8
+%1=G  原调=G  调号=F#  拍号=2/4  L:1/8  ABC-X:3  展开:1  La-based:否
+%八度归一=+0  八度记号 2->2  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Malchair.abc
+%--
+2/4
+subtitle=score
+1 1 | 5 5 | s6 q7 s1' q6 | 5 - | 4 4 | 3 3 | 2 2 | 1 - 1 1 | 5 5 | s6 q7 s1' q6 | 5 - | 4 4 | 3 3 |
+2 2 | 1 - 5 5 | 4 4 | 3 3 | 2 2 | 5 5 | 4 4 | 3 3 | 2 - |
+%END

@@ -1,0 +1,22 @@
+%Haran's_Waltz__abcgh-0a3b57d3be74.txt
+title=Haran's Waltz
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-0a3b57d3be74
+%1=A  原调=A  调号=C# F# G#  拍号=3/8  L:1/16  ABC-X:17  展开:2  La-based:否
+%八度归一=+0  八度记号 36->36  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Skillerns1799.abc
+%--
+3/8
+subtitle=score
+s1 s2 | q3 q3 q3 | s3 s2 s3 s4 s5 s3 | q4 q4 q4 | 2 s2 s1 | q,7 q,7 q,7 | q,7 s,7 s1 s2 s,7 | q1 q1
+q1 | 1 s1 s2 | q3 q3 q3 | s3 s2 s3 s4 s5 s3 | q4 q4 q4 | 2 s2 s1 | q,7 q,7 q,7 | q,7 s,7 s1 s2 s,7 |
+q1 q1 q1 | 1 q5 | s1' s5 s3 s5 s1' s5 | s7 s5 s2 s5 s7 s5 | s1' s5 s3 s5 s1' s5 | s7 s5 s2 s5 s7 s5
+| s1' s7 s6 s5 s4 s3 | s2 s1 s,7 s,6 s,5 s,4 | s,3 s,5 s1 s3 s2 s,7 | 1 q5 | s1' s5 s3 s5 s1' s5 |
+s7 s5 s2 s5 s7 s5 | s1' s5 s3 s5 s1' s5 | s7 s5 s2 s5 s7 s5 | s1' s7 s6 s5 s4 s3 | s2 s1 s,7 s,6 s,5
+s,4 | s,3 s,5 s1 s3 s2 s,7 | 1 q5 | 5 q3 | q3. s4 q5 | q5 q4 q2 | 2 q4 | q3. s4 q5 | q5 q4 q3 | q3
+q2 q2 | 2 q5 | 5 q3 | q3. s4 q5 | q5 q4 q2 | 2 q4 | q3. s4 q3 | q2 q1 q2 | q1 q1 q1 | 1 |
+%END

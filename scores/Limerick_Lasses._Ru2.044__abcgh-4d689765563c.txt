@@ -1,0 +1,22 @@
+%Limerick_Lasses._Ru2.044__abcgh-4d689765563c.txt
+title=Limerick Lasses. Ru2.044
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-4d689765563c
+%1=A  原调=A  调号=C# F# G#  拍号=6/8  L:1/8  ABC-X:(无)  展开:2  La-based:否
+%八度归一=+0  八度记号 22->22  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/RutherfordVol1-2249.abc
+%--
+6/8
+subtitle=score
+s6 s7 | q1' q5 q4 q3 q2 q1 | q1' q5 q4 q3 q2 q1 | q4 q5 q6 q5 q1' q3 | q4 q2 q2 2 s6 s7 | q1' q5 q4
+q3 q2 q1 | q4 q5 q6 q5 q6 q7 | q1' q7 q6 q5 q3 q1' | q5 q3 q1 1 s6 s7 | q1' q5 q4 q3 q2 q1 | q1' q5
+q4 q3 q2 q1 | q4 q5 q6 q5 q1' q3 | q4 q2 q2 2 s6 s7 | q1' q5 q4 q3 q2 q1 | q4 q5 q6 q5 q6 q7 | q1'
+q7 q6 q5 q3 q1' | q5 q3 q1 1 s5 s4 | q3 q1 q3 q4 q2 q4 | q6 q4 q6 q5 q6 q7 | q1' q7 q6 q5 q4 q3 | q4
+q2 q2 2 s6 s7 | q1' q5 q3 q4 q6 q4 | q5 q7 q5 q6 q2' q7 | q1' q7 q6 q5 q3 q1' | q5 q3 q1 1 s5 s4 |
+q3 q1 q3 q4 q2 q4 | q6 q4 q6 q5 q6 q7 | q1' q7 q6 q5 q4 q3 | q4 q2 q2 2 s6 s7 | q1' q5 q3 q4 q6 q4 |
+q5 q7 q5 q6 q2' q7 | q1' q7 q6 q5 q3 q1' | q5 q3 q1 1
+%END

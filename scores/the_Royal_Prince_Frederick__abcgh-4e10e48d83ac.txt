@@ -1,0 +1,21 @@
+%the_Royal_Prince_Frederick__abcgh-4e10e48d83ac.txt
+title=the Royal Prince Frederick
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-4e10e48d83ac
+%1=G  原调=G  调号=F#  拍号=6/8  L:1/8  ABC-X:(无)  展开:2  La-based:否
+%八度归一=+0  八度记号 66->66  和弦 6 个(12 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Thompson1765.abc
+%--
+6/8
+subtitle=score
+q3 q4 q5 q5 q6 q5 | q5 q4 q3 q2 q3 q4 | q5 q3 q1 ,7 q1 | 2. ,5. | q3 q4 q5 q5 q6 q5 | q5 q4 q3 q2 q3
+q4 | q5 q3 q1 ,6 q,7 | 1. ,1. q3 q4 q5 q5 q6 q5 | q5 q4 q3 q2 q3 q4 | q5 q3 q1 ,7 q1 | 2. ,5. | q3
+q4 q5 q5 q6 q5 | q5 q4 q3 q2 q3 q4 | q5 q3 q1 ,6 q,7 | 1. ,1. q,1 q,3 q,5 q,1 q,3 q,5 | ,6,4. ,6,4.
+| q,5 q,7 q2 q,5 q,7 q2 | 31. 31. | q,1 q,3 q,5 q,1 q,3 q,5 | ,6,4. ,6,4 q,3 | q,2 q4 q3 q2 q1 q,7 |
+1. ,1. q,1 q,3 q,5 q,1 q,3 q,5 | ,6,4. ,6,4. | q,5 q,7 q2 q,5 q,7 q2 | 31. 31. | q,1 q,3 q,5 q,1 q,3
+q,5 | ,6,4. ,6,4 q,3 | q,2 q4 q3 q2 q1 q,7 | 1. ,1.
+%END

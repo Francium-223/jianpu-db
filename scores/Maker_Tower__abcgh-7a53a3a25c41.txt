@@ -1,0 +1,21 @@
+%Maker_Tower__abcgh-7a53a3a25c41.txt
+title=Maker Tower
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-7a53a3a25c41
+%1=D  原调=D  调号=C# F#  拍号=6/8  L:1/8  ABC-X:7  展开:2  La-based:否
+%八度归一=-1  八度记号 126->46  和弦 5 个(10 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Skillern1780.abc
+%--
+6/8
+subtitle=score
+q1 q3 q4 q5 q3 q1 | q4 q2 q,7 1 q1 | q,3 q,4 q,5 ,4 q,6 | q,5 q,6 q,4 ,3 q,1 | q1 q3 q4 q5 q3 q1 |
+q4 q2 q,7 1 q1 | q3 q4 q3 2 q1 | q,7 q1 q2 ,5. q1 q3 q4 q5 q3 q1 | q4 q2 q,7 1 q1 | q,3 q,4 q,5 ,4
+q,6 | q,5 q,6 q,4 ,3 q,1 | q1 q3 q4 q5 q3 q1 | q4 q2 q,7 1 q1 | q3 q4 q3 2 q1 | q,7 q1 q2 ,5. 5,5 q5
+q4 q3 q2 | 4,5 q4 q3 q2 q1 | 3,5 q3 q2 q3 q1 | q,7 q1 q,6 ,5 q,5 | 5,5 q5 q4 q3 q2 | 4,5 q4 q3 q2 q1
+| q3 q2 q1 q2 q3 q4 | q3 q4 q2 1. 5,5 q5 q4 q3 q2 | 4,5 q4 q3 q2 q1 | 3,5 q3 q2 q3 q1 | q,7 q1 q,6
+,5 q,5 | 5,5 q5 q4 q3 q2 | 4,5 q4 q3 q2 q1 | q3 q2 q1 q2 q3 q4 | q3 q4 q2 1.
+%END

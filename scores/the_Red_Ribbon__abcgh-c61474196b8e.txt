@@ -1,0 +1,21 @@
+%the_Red_Ribbon__abcgh-c61474196b8e.txt
+title=the Red Ribbon / Longways for &c.
+alias=Longways for &c.
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-c61474196b8e
+%1=G  原调=Em  调号=F#  拍号=6/8  L:1/8  ABC-X:(无)  展开:2  La-based:是
+%八度归一=+0  八度记号 24->24  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/WrightsVol1.abc
+%--
+6/8
+subtitle=score
+6 q3 3 q2 | q1 q,7 q1 ,6 q3 | q6 q7 q1' 7 q6 | q#5 q6 q7 3. | q1' q7 q6 5 q4 | 3. 1'. | q5 q4 q3 q2
+q1 q,7 | 1. ~ 1. 6 q3 3 q2 | q1 q,7 q1 ,6 q3 | q6 q7 q1' 7 q6 | q#5 q6 q7 3. | q1' q7 q6 5 q4 | 3.
+1'. | q5 q4 q3 q2 q1 q,7 | 1. ~ 1. q3 q2 q1 3 q4 | q5 q6 q#4 5. | q2 q1 q,7 2 q3 | q4 q3 q2 3 q7 |
+q1' q7 q6 q#5 q6 q7 | 2. q2 q3 q4 | q3 q2 q1 ,7 q,6 | ,6. ~ ,6. q3 q2 q1 3 q4 | q5 q6 q#4 5. | q2 q1
+q,7 2 q3 | q4 q3 q2 3 q7 | q1' q7 q6 q#5 q6 q7 | 2. q2 q3 q4 | q3 q2 q1 ,7 q,6 | ,6. ~ ,6.
+%END

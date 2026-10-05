@@ -1,0 +1,21 @@
+%Enfield_Wash._JJo8.106__abcgh-ae4d6b2a03ee.txt
+title=Enfield Wash. JJo8.106
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-ae4d6b2a03ee
+%1=G  原调=G  调号=F#  拍号=6/8  L:1/8  ABC-X:(无)  展开:2  La-based:否
+%八度归一=+0  八度记号 32->32  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/JohnsonVol8%20dance2.abc
+%--
+6/8
+subtitle=score
+q1 q2 q3 4 q2 | 3 q1 q2 q,7 q,5 | q1 q2 q3 4 q6 | q5 q4 q3 2. | q1 q2 q3 4 q2 | 3 q1 q2 q,7 q,5 |
+,6. q1 q2 q3 | q4 q2 q,7 1. q1 q2 q3 4 q2 | 3 q1 q2 q,7 q,5 | q1 q2 q3 4 q6 | q5 q4 q3 2. | q1 q2 q3
+4 q2 | 3 q1 q2 q,7 q,5 | ,6. q1 q2 q3 | q4 q2 q,7 1. q1 q2 q3 4 q2 | q5 q6 q7 1'. | q5 q6 q7 q1' q2'
+q1' | q7 q5 q3 4 q6 | q5 q6 q7 q1' q2' q1' | q7 q5 q3 q4 q2 q,7 | ,6. q1 q2 q3 | q4 q2 q,7 1. q1 q2
+q3 4 q2 | q5 q6 q7 1'. | q5 q6 q7 q1' q2' q1' | q7 q5 q3 4 q6 | q5 q6 q7 q1' q2' q1' | q7 q5 q3 q4
+q2 q,7 | ,6. q1 q2 q3 | q4 q2 q,7 1.
+%END

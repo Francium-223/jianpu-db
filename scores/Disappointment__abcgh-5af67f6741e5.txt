@@ -1,0 +1,19 @@
+%Disappointment__abcgh-5af67f6741e5.txt
+title=Disappointment. / John Malchair's Third Collection of Tunes
+alias=John Malchair's Third Collection of Tunes
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-5af67f6741e5
+%1=Bb  原调=Gm  调号=Eb Bb  拍号=2/2  L:1/8  ABC-X:30  展开:0  La-based:是
+%八度归一=+0  八度记号 24->24  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Malchair.abc
+%--
+2/2
+subtitle=score
+1 ,6 1 3 | q2 q1 q,7 q,6 ,#5 3 | q2 q1 q,7 q,6 ,#5 1 | q,7 q,6 q,#5 q,#4 ,3 - | 1 ,6 3 6 | q5 q4 q3
+q2 1 1' | q7 q6 q5 q#4 3 #5 | 6 - - - | 1 3 1 5 | q4 q3 q2 q1 ,7 4 | q3 q2 q1 q,7 ,6 3 | q2 q1 q,7
+q,6 ,#5 3 | 6 3 6 1' | q7 q6 q#5 q#4 3 q6 qb5 | q4 q3 q2 q1 ,7. q,6 | ,6 - - - |
+%END

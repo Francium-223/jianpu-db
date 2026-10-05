@@ -1,0 +1,21 @@
+%Prince_Edward's_Birth_Day._JJo8.109__abcgh-5d43eed2b93e.txt
+title=Prince Edward's Birth Day. JJo8.109
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-5d43eed2b93e
+%1=G  原调=G  调号=F#  拍号=6/8  L:1/8  ABC-X:109  展开:2  La-based:否
+%八度归一=+0  八度记号 26->26  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/JohnsonVol8%20dance.abc
+%--
+6/8
+subtitle=score
+q,5 | 1 q2 3 q4 | q5 q6 q4 q3 q2 q1 | q2 q3 q4 q3 q2 q1 | ,7 q1 q2 q,7 q,5 | 1 q2 3 q4 | q5 q6 q7
+q1' q2' q3' | q2' q1' q7 q6 q5 q#4 | 5. ~ 5 q,5 | 1 q2 3 q4 | q5 q6 q4 q3 q2 q1 | q2 q3 q4 q3 q2 q1
+| ,7 q1 q2 q,7 q,5 | 1 q2 3 q4 | q5 q6 q7 q1' q2' q3' | q2' q1' q7 q6 q5 q#4 | 5. ~ 5 q6 | q6 q5 q4
+q3 q2 q#1 | 2 q3 q4 q5 q6 | q5 q4 q3 q2 q1 q,7 | 1 q2 q3 q4 q5 | q6 q7 q1' q5 q4 q3 | q6 q4 q2 ,7 q7
+| q1' q6 q4 q3 q4 q2 | 1. ~ 1 q6 | q6 q5 q4 q3 q2 q#1 | 2 q3 q4 q5 q6 | q5 q4 q3 q2 q1 q,7 | 1 q2 q3
+q4 q5 | q6 q7 q1' q5 q4 q3 | q6 q4 q2 ,7 q7 | q1' q6 q4 q3 q4 q2 | 1. ~ 1
+%END

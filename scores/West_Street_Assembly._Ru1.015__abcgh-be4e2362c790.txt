@@ -1,0 +1,22 @@
+%West_Street_Assembly._Ru1.015__abcgh-be4e2362c790.txt
+title=West Street Assembly. Ru1.015
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-be4e2362c790
+%1=F  原调=F  调号=Bb  拍号=(未给)  L:1/8  ABC-X:15  展开:2  La-based:否
+%八度归一=+0  八度记号 42->42  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/RutherfordVol1756_with%20z.abc
+%源里没写 M: -> 按 ABC 标准默认 4/4 写出
+%--
+4/4
+subtitle=score
+q1' q5 q3 q5 q3 q1 | q1 q3 q5 6. | q5 q6 q7 q1' q7 q6 | q5 q4 q3 2. | q1' q5 q3 q5 q3 q1 | q1 q3 q5
+6 q1' | q5 q6 q7 q1' q7 q6 | q5 q3 q1 1. q1' q5 q3 q5 q3 q1 | q1 q3 q5 6. | q5 q6 q7 q1' q7 q6 | q5
+q4 q3 2. | q1' q5 q3 q5 q3 q1 | q1 q3 q5 6 q1' | q5 q6 q7 q1' q7 q6 | q5 q3 q1 1. 1' q3' 3' q2' | 1'
+q1' q1' q5 q3 | q1 q3 q5 1' q6 | q5 q4 q3 2. | 1' q3' 3' q1' | 2' q1' q1' q5 q3 | q1 q3 q5 1' q6 |
+q5 q3 q1 1. 1' q3' 3' q2' | 1' q1' q1' q5 q3 | q1 q3 q5 1' q6 | q5 q4 q3 2. | 1' q3' 3' q1' | 2' q1'
+q1' q5 q3 | q1 q3 q5 1' q6 | q5 q3 q1 1.
+%END

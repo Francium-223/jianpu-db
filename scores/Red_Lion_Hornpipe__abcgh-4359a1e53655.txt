@@ -1,0 +1,21 @@
+%Red_Lion_Hornpipe__abcgh-4359a1e53655.txt
+title=Red Lion Hornpipe
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-4359a1e53655
+%1=Bb  原调=Bb  调号=Eb Bb  拍号=3/2  L:1/8  ABC-X:26  展开:2  La-based:否
+%八度归一=+0  八度记号 70->70  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/John%20Moore%20Bk2%204494.abc
+%--
+3/2
+subtitle=score
+q1 q3 q1 q3 q,3 q,4 q,5 q,3 ,4 ,2 | q1 q3 q1 q3 q,5 q1 q,7 q2 1 ,2 | q1 q3 q1 q3 q,3 q,4 q,5 q,3 ,4
+q6 q5 | q4 q3 q2 q1 q,5 q1 q,7 q2 1 ,1 q1 q3 q1 q3 q,3 q,4 q,5 q,3 ,4 ,2 | q1 q3 q1 q3 q,5 q1 q,7 q2
+1 ,2 | q1 q3 q1 q3 q,3 q,4 q,5 q,3 ,4 q6 q5 | q4 q3 q2 q1 q,5 q1 q,7 q2 1 ,1 q1 q3 q5 q3 q1 q3 q2 q1
+,7 ,5 | q,3 q,5 q1 q,5 q,6 q,5 q,6 q,4 ,3 ,1 | q1 q3 q5 q3 q1 q3 q2 q1 ,7 ,5 | q,3 q,5 q1 q,3 q,2 q1
+q,7 q2 1 - q1 q3 q5 q3 q1 q3 q2 q1 ,7 ,5 | q,3 q,5 q1 q,5 q,6 q,5 q,6 q,4 ,3 ,1 | q1 q3 q5 q3 q1 q3
+q2 q1 ,7 ,5 | q,3 q,5 q1 q,3 q,2 q1 q,7 q2 1 -
+%END

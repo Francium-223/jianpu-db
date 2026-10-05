@@ -1,0 +1,24 @@
+%St_Patricks_Day_in_the_Morning__abcgh-42899343dba2.txt
+title=St Patricks Day in the Morning
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-42899343dba2
+%1=D  原调=D  调号=C# F#  拍号=6/8  L:1/8  ABC-X:102  展开:2  La-based:否
+%八度归一=-1  八度记号 210->42  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/John%20Moore%20Bk2%204494.abc
+%--
+6/8
+subtitle=score
+q,5 | q1 q2 q1 q1 q2 q3 | q5 q6 q5 q4 q3 q1 | q3 q4 q3 q3 q1 q,5 | q,6 q,7 q,6 ,6 q,5 | q1 q2 q1 q1
+q2 q3 | q5 q6 q5 q5 q3 q1 | q3 q4 q3 q3 q1 q,5 | ,6. 1 q,5 | q1 q2 q1 q1 q2 q3 | q5 q6 q5 q4 q3 q1 |
+q3 q4 q3 q3 q1 q,5 | q,6 q,7 q,6 ,6 q,5 | q1 q2 q1 q1 q2 q3 | q5 q6 q5 q5 q3 q1 | q3 q4 q3 q3 q1 q,5
+| ,6. 1 q5 | q5 q6 q7 1' q6 | 7 q5 q6 q5 q4 | q5 q6 q7 1' q6 | 7 q5 6. | q5 q6 q7 q1' q7 q6 | q7 q6
+q5 q6 q7 q1' | q1 q2 q1 q1 q2 q3 | q5 q6 q5 q5 q3 q1 | q3 q4 q3 q3 q1 q,5 | q,6 q,7 q,6 ,6 q,5 | q1
+q2 q1 q1 q2 q3 | q5 q6 q5 q5 q3 q1 | q3 q4 q3 q3 q1 q,5 | ,6. 1 q5 | q5 q6 q7 1' q6 | 7 q5 q6 q5 q4
+| q5 q6 q7 1' q6 | 7 q5 6. | q5 q6 q7 q1' q7 q6 | q7 q6 q5 q6 q7 q1' | q1 q2 q1 q1 q2 q3 | q5 q6 q5
+q5 q3 q1 | q3 q4 q3 q3 q1 q,5 | q,6 q,7 q,6 ,6 q,5 | q1 q2 q1 q1 q2 q3 | q5 q6 q5 q5 q3 q1 | q3 q4
+q3 q3 q1 q,5 | ,6. 1
+%END

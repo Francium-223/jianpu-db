@@ -1,0 +1,22 @@
+%Morgan_of_Pentley._Ru2.055__abcgh-71c72ce02bc0.txt
+title=Morgan of Pentley. Ru2.055
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-71c72ce02bc0
+%1=G  原调=G  调号=F#  拍号=(未给)  L:1/8  ABC-X:55  展开:2  La-based:否
+%八度归一=+0  八度记号 22->22  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/RutherfordVol1-2249.abc
+%源里没写 M: -> 按 ABC 标准默认 4/4 写出
+%--
+4/4
+subtitle=score
+q4 | q3 q1 q3 s3 s4 q5 q3 | q2 q,7 q2 s2 s3 q4 q2 | q3 q1 q3 s3 s4 q5 q3 | q4 q2 q,7 1 q4 | q3 q1 q3
+s3 s4 q5 q3 | q2 q,7 q2 s2 s3 q4 q2 | q3 q1 q3 s3 s4 q5 q3 | q4 q2 q,7 1 q1' | q7 q5 q7 s7 s1' q2'
+q7 | q6 q#4 q6 s6 s7 q1' q6 | q7 q5 q7 s7 s1' q2' q7 | q1' q6 q#4 5 q4 | q3 q1 q3 s3 s4 q5 q3 | q2
+q,7 q2 s2 s3 q4 q2 | q3 q1 q3 s3 s4 q5 q3 | q4 q2 q,7 1 q1' | q7 q5 q7 s7 s1' q2' q7 | q6 q#4 q6 s6
+s7 q1' q6 | q7 q5 q7 s7 s1' q2' q7 | q1' q6 q#4 5 q4 | q3 q1 q3 s3 s4 q5 q3 | q2 q,7 q2 s2 s3 q4 q2
+| q3 q1 q3 s3 s4 q5 q3 | q4 q2 q,7 1
+%END

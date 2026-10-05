@@ -1,0 +1,22 @@
+%Syngogue._JJo8.039,_The__abcgh-cc039d9d6b1a.txt
+title=Syngogue. JJo8.039, The
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-cc039d9d6b1a
+%1=G  原调=G  调号=F#  拍号=2/2  L:1/8  ABC-X:39  展开:2  La-based:否
+%八度归一=+0  八度记号 34->34  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/JohnsonVol8%20dance.abc
+%--
+2/2
+subtitle=score
+q1' q5 q3 q1 q3 q1 q3 q1 | q6 q5 q4 q3 2 ,5 | q1' q5 q3 q1 q3 q1 q3 q1 | q6 q5 q4 q3 2 - | 3' - 2'
+1' | q7 q1' q6 q7 q5 q#4 q3 q2 | 3' - 2' 1' | q7 q1' q6 q7 5 - q1' q5 q3 q1 q3 q1 q3 q1 | q6 q5 q4
+q3 2 ,5 | q1' q5 q3 q1 q3 q1 q3 q1 | q6 q5 q4 q3 2 - | 3' - 2' 1' | q7 q1' q6 q7 q5 q#4 q3 q2 | 3' -
+2' 1' | q7 q1' q6 q7 5 - q5 q4 q3 q4 q5 q4 q3 q4 | 5 b7 6 4 | q6 q5 q4 q5 q6 q5 q4 q5 | 6 1' 7 5 |
+1' - 5 4 | q3 q4 q2 q3 q1 q,7 q,6 q,5 | 1' - 5 4 | q3 q4 q2 q3 1 - q5 q4 q3 q4 q5 q4 q3 q4 | 5 b7 6
+4 | q6 q5 q4 q5 q6 q5 q4 q5 | 6 1' 7 5 | 1' - 5 4 | q3 q4 q2 q3 q1 q,7 q,6 q,5 | 1' - 5 4 | q3 q4 q2
+q3 1 -
+%END

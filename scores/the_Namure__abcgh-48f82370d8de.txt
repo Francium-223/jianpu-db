@@ -1,0 +1,21 @@
+%the_Namure__abcgh-48f82370d8de.txt
+title=the Namure
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-48f82370d8de
+%1=D  原调=D  调号=C# F#  拍号=6/8  L:1/8  ABC-X:135  展开:2  La-based:否
+%八度归一=-1  八度记号 78->62  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/WrightsVol1.abc
+%--
+6/8
+subtitle=score
+q,1 q,2 q,1 ,3 q,5 | 1. 3. | 4 q5 q6 q,6 q1 | ,7. ,5. | q,3 q,5 q1 q,4 q,6 q2 | q,5 q,7 q3 q,6 q1 q5
+| q3 q4 q5 q2 q,5 q,7 | 1. ~ 1. q,1 q,2 q,1 ,3 q,5 | 1. 3. | 4 q5 q6 q,6 q1 | ,7. ,5. | q,3 q,5 q1
+q,4 q,6 q2 | q,5 q,7 q3 q,6 q1 q5 | q3 q4 q5 q2 q,5 q,7 | 1. ~ 1. q3 q1 q3 4 q5 | q6 q5 q4 4. | ,6
+q4 q2 q,6 q2 | ,7. ,5. | q,3 q,5 q1 q1 q,6 q,4 | q,4 q,6 q2 q2 q,7 q,5 | q3 q1 q3 q2 q,5 q,7 | 1. ~
+1. q3 q1 q3 4 q5 | q6 q5 q4 4. | ,6 q4 q2 q,6 q2 | ,7. ,5. | q,3 q,5 q1 q1 q,6 q,4 | q,4 q,6 q2 q2
+q,7 q,5 | q3 q1 q3 q2 q,5 q,7 | 1. ~ 1.
+%END

@@ -1,0 +1,23 @@
+%Irish_Man's_Choice._JJo8.139,_The__abcgh-cb96bd2fb91c.txt
+title=Irish Man's Choice. JJo8.139, The / My Mind Will Never Be Easy,aka. JJo8.139 / Woo'd and Married and a',aka. JJo8.139
+alias=My Mind Will Never Be Easy,aka. JJo8.139,Woo'd and Married and a',aka. JJo8.139
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-cb96bd2fb91c
+%1=F  原调=F  调号=Bb  拍号=9/8  L:1/8  ABC-X:139  展开:3  La-based:否
+%八度归一=+0  八度记号 24->24  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/JohnsonVol8%20dance2.abc
+%--
+9/8
+subtitle=score
+q6 | q5 q3 q3 q3 q2 q3 q1 q2 q3 | 5 q5 q5 q6 q5 q5 q5 q6 | q5 q3 q3 q3 q2 q3 q1 q2 q3 | ,6 q6 q6 q7
+q#5 6 q6 | q5 q3 q3 q3 q2 q3 q1 q2 q3 | 5 q5 q5 q6 q5 q5 q5 q6 | q5 q3 q3 q3 q2 q3 q1 q2 q3 | ,6 q6
+q6 q7 q#5 6 s6 s5 | 3 q1' q1' q2' q1' q1' q1' q3 | q5 q5 q5 q5 q6 q5 q5 q5 q6 | q5 q3 q3 q3 q2 q3 q1
+q,7 q1 | ,6 q6 q6 q7 q#5 | q6 q5 q6 s6 s5 | 3 q1' q1' q2' q1' q1' q1' q3 | q5 q5 q5 q5 q6 q5 q5 q5
+q6 | q5 q3 q3 q3 q2 q3 q1 q,7 q1 | ,6 q6 q6 q7 q#5 | q6 q5 q6 3 q3 q3 q2 q3 1. | q3 q4 q5 q5 q5 q5
+q6 q7 q1' | q3 q2 q3 q3 q2 q3 q1 q,7 q1 | ,6 q6 q6 q7 q#5 6 3 q3 q3 q2 q3 1. | q3 q4 q5 q5 q5 q5 q6
+q7 q1' | q3 q2 q3 q3 q2 q3 q1 q,7 q1 | ,6 q6 q6 q7 q#5 6
+%END

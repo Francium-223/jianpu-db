@@ -1,0 +1,23 @@
+%Hornpipe__abcgh-aa24f4c63c3a.txt
+title=Hornpipe
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-aa24f4c63c3a
+%1=G  原调=G  调号=F#  拍号=4/4  L:1/8  ABC-X:100  展开:2  La-based:否
+%八度归一=+0  八度记号 54->54  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/John%20Moore%20Bk2%204494.abc
+%--
+4/4
+subtitle=score
+5 | q#4 q5 q6 q5 1' q5 q3 | q5 q4 q2 q,7 1 q,7 q1 | q2 q4 q6 q5 q4 q3 q2 q1 | 3 2 2 q3 q4 | q#4 q5
+q6 q5 1' q5 q3 | q5 q4 q2 q,7 1 q,7 q1 | q2 q6 q5 q3 q4 q,5 q,6 q,7 | 2 1 1 5 | q#4 q5 q6 q5 1' q5
+q3 | q5 q4 q2 q,7 1 q,7 q1 | q2 q4 q6 q5 q4 q3 q2 q1 | 3 2 2 q3 q4 | q#4 q5 q6 q5 1' q5 q3 | q5 q4
+q2 q,7 1 q,7 q1 | q2 q6 q5 q3 q4 q,5 q,6 q,7 | 2 1 1 1 | q,7 q,5 q,7 q2 q5 q4 q2 q,7 | q1 q3 q5 q3
+1' q7 q6 | q6 q7 q1' q7 q2' q3' q4' q3' | q2' q1' q7 q6 q5 q4 q3 q4 | q#4 q5 q6 q5 1' q5 q3 | q5 q4
+q2 q,7 1 q,7 q1 | q2 q6 q5 q3 q4 q,5 q,6 q,7 | 2 1 1 1 | q,7 q,5 q,7 q2 q5 q4 q2 q,7 | q1 q3 q5 q3
+1' q7 q6 | q6 q7 q1' q7 q2' q3' q4' q3' | q2' q1' q7 q6 q5 q4 q3 q4 | q#4 q5 q6 q5 1' q5 q3 | q5 q4
+q2 q,7 1 q,7 q1 | q2 q6 q5 q3 q4 q,5 q,6 q,7 | 2 1 1
+%END

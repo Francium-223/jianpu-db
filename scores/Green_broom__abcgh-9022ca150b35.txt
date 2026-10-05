@@ -1,0 +1,18 @@
+%Green_broom__abcgh-9022ca150b35.txt
+title=Green broom / Taken down from Jas. Ellis, Chaddlehanger, Lamerton.
+alias=Taken down from Jas. Ellis, Chaddlehanger, Lamerton.
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-9022ca150b35
+%1=G  原调=G  调号=F#  拍号=6/8  L:1/8  ABC-X:(无)  展开:0  La-based:否
+%八度归一=+0  八度记号 5->5  和弦 1 个(2 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/SBG_PC_VOL_1.abc
+%--
+6/8
+subtitle=score
+q1 | q1 q3 q3 q3 q2 q1 | q3 q5 q5 5 s6 s7 | q1' q7 q6 q5 q3 q1 | 5 q5 5 q1' | q1' q7 q6 q7 q7 q7 |
+q1' q7 q6 5 q1 | q1 q3 q5 q5 q6 q7 | q1' q7 q6 5 q13 | q3 q4 q5 q6 q5 q4 | 3 q2 1 |
+%END

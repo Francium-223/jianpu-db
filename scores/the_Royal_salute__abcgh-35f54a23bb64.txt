@@ -1,0 +1,22 @@
+%the_Royal_salute__abcgh-35f54a23bb64.txt
+title=the Royal salute
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-35f54a23bb64
+%1=D  原调=D  调号=C# F#  拍号=6/8  L:1/8  ABC-X:7  展开:2  La-based:否
+%八度归一=+0  八度记号 32->32  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Straights1779.abc
+%--
+6/8
+subtitle=score
+q1 | q1 q3 q5 q5 q3 q1 | q4 q6 q6 6 s5 s4 | q3 q4 q5 q5 q3 q1 | q4 q2 q2 2 s3 s2 | q1 q3 q5 q5 q3 q1
+| q4 q6 q6 6 q1' | q5 q3 q1 q4 q2 q,7 | 1. 1 q1 | q1 q3 q5 q5 q3 q1 | q4 q6 q6 6 s5 s4 | q3 q4 q5 q5
+q3 q1 | q4 q2 q2 2 s3 s2 | q1 q3 q5 q5 q3 q1 | q4 q6 q6 6 q1' | q5 q3 q1 q4 q2 q,7 | 1. 1 q5 | 1'
+q1' q1' q5 q3 | q4 q6 q4 q5 q3 q1 | 1' q1' q1' q5 q3 | q6 q2' q1' q7 q6 q5 | 1' q1' q1' q5 q3 | q4
+q6 q4 q5 q3 q1 | q2 q3 q4 q6 q4' q2' | q7 q5 q7 1' q5 | 1' q1' q1' q5 q3 | q4 q6 q4 q5 q3 q1 | 1'
+q1' q1' q5 q3 | q6 q2' q1' q7 q6 q5 | 1' q1' q1' q5 q3 | q4 q6 q4 q5 q3 q1 | q2 q3 q4 q6 q4' q2' |
+q7 q5 q7 1'
+%END

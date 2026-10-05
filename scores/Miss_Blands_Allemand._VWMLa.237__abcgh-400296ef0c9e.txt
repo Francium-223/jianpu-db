@@ -1,0 +1,22 @@
+%Miss_Blands_Allemand._VWMLa.237__abcgh-400296ef0c9e.txt
+title=Miss Blands Allemand. VWMLa.237
+tag=
+usertag=
+tagroute=
+transcriber=abc2jianpu
+status=converted
+source=abcgh-400296ef0c9e
+%1=Bb  原调=Bb  调号=Eb Bb  拍号=2/4  L:1/16  ABC-X:237  展开:4  La-based:否
+%八度归一=+0  八度记号 64->64  和弦 0 个(0 音)
+%ABC 源文件=https://raw.githubusercontent.com/Gubbledenut/ABC_TuneBooks/main/Anon2.abc
+%--
+2/4
+subtitle=score
+q,5 | q1 s,5 s,5 q2 s,5 s,5 | q3 s3 s4 q2 s1 s2 | s3 s4 s5 s6 s5 s4 s3 s2 | q1 q1 q1 q,5 | q1 s,5
+s,5 q2 s,5 s,5 | q3 s3 s4 q2 s1 s2 | s3 s4 s5 s6 s5 s4 s3 s2 | q1 q1 q1 q5 | q5. s4 q3 q4 | q3. s2
+q1 q,5 | s,6 s1 s,7 s2 s1 s3 s2 s,7 | q1 q1 q1 q5 | q5. s4 q3 q4 | q3. s2 q1 q,5 | s,6 s1 s,7 s2 s1
+s3 s2 s,7 | q1 q1 q1 s,3 s,4 s,5 s,6 s,5 s,4 s,3 s,2 | s,1 s,2 s,3 s,4 s,5 s,6 s,7 s1 | s,7 s1 s2 s3
+s2 s1 s,7 s,6 | q,5 q,5 q,5 q0 s,3 s,4 s,5 s,6 s,5 s,4 s,3 s,2 | s,1 s,2 s,3 s,4 s,5 s,6 s,7 s1 |
+s,7 s1 s2 s3 s2 s1 s,7 s,6 | q,5 q,5 q,5 q0 q4. s3 q2 q2 | q5. s4 q3 q,5 | s,6 s1 s4 s6 s5 s4 s3 s2
+| q1 q1 q1 q0 q4. s3 q2 q2 | q5. s4 q3 q,5 | s,6 s1 s4 s6 s5 s4 s3 s2 | q1 q1 q1 q0
+%END
