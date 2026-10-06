@@ -3,6 +3,7 @@ import json
 import re
 import os
 import shutil
+import hashlib
 import warnings
 import schema
 from pathlib import Path
@@ -263,6 +264,62 @@ def _rel(target, link_path):
 	CI(Linux) 再生一次, 同一批链接的文本内容就不同, 每次提交都在改它们。
 	"""
 	return os.path.relpath(target, start=os.path.dirname(link_path)).replace(os.sep, '/')
+
+
+# ---- by_* 链接路径的跨平台清洗 -------------------------------------------------
+# 2026-10-06: by_* 的目录名直接拿属性值(曲名/标签/别名…)当文件名, 而 ABC 那批曲名里
+#   有 Windows 上根本无法落盘的字符 —— 实测 `by_title/L/A/la Beaut\`e/`(曲名含反斜杠,
+#   见 abcgh 那批)与 88 处"段尾带空格"的目录(如 `A Chinese Aire `)。前者 mkdir 直接炸,
+#   后者 Windows 会静默吃掉尾随空格 -> 于是本机 `py -3.13 parse_scores.py` **永远跑不完**,
+#   而 CI(Linux)反斜杠合法、只报尾随空格, 两边产出的 by_* 树根本不是同一棵。
+#   清洗**必须放在这里**: 本地与 CI 跑的都是这一份 score.py, 名字才两边一致;
+#   "只在本机把非法字符换掉"的补丁会让本地 by_* 与 CI 的 by_* 对不上(语料与站点错位)。
+_BAD_CHARS = set('<>:"\\|?*') | {chr(_c) for _c in range(32)}   # Windows 禁用字符 + 控制字符
+_RESERVED = ({'CON', 'PRN', 'AUX', 'NUL'}
+             | {'COM%d' % _i for _i in range(1, 10)}
+             | {'LPT%d' % _i for _i in range(1, 10)})           # Windows 保留设备名
+_SEG_MAX = 255                                                  # Windows 单段上限
+_LINK_SEEN = {}                                                 # 清洗后的链接路径 -> 原路径
+
+
+def _safe_seg(seg):
+	"""清一段路径名。**本来就合法的段逐字节原样返回**(两边都跑, 保证不动大多数名字)。"""
+	s = ''.join('_' if _c in _BAD_CHARS else _c for _c in seg)   # 非法字符 -> `_`
+	s = s.rstrip(' .')                                          # 段尾空格/点: Windows 会静默吃掉
+	if s.split('.')[0].upper() in _RESERVED:                     # CON / CON.txt / NUL… 都要绕开
+		s = '_' + s
+	if s in ('', '.', '..'):                                     # 全空格/全点 -> 空名兜底
+		s = '_'
+	if len(s) > _SEG_MAX:                                        # 超长: 截断 + 原名的短哈希(可复现)
+		s = s[:240] + '-' + hashlib.sha1(seg.encode('utf-8')).hexdigest()[:8]
+	return s
+
+
+def safe_path(filename):
+	"""by_* 链接的相对路径: 逐段清洗, 并解决清洗后的撞名。
+
+	约定(三条都是硬性的, 本地/CI 必须给出同一个名字):
+	  1. 本来就不含非法字符的路径 **一个字节都不改** —— 否则历史 by_* 会满树重命名;
+	  2. 清洗是纯函数式的逐段替换, 与平台无关 —— 同一个属性值在两边得到同一个目录;
+	  3. 幂等: safe_path(safe_path(p)) == safe_path(p) —— make_link 对同一个 filename
+	     会走两遍(内层循环一遍、末尾兜底一遍), 第二遍不能又给名字加一次哈希。
+
+	撞名(如 `a\\b` 与 `a_b` 清成同一个名字): 后来的那个在**最后一级目录**上加原名的
+	短哈希; 叶子(曲谱文件名)保持不动 —— 链接名与曲谱名同名是别处的约定。
+	"""
+	if not filename:                                  # 空路径原样返回, 别凭空造出一个 `_`
+		return filename
+	cleaned = '/'.join(_safe_seg(_s) for _s in filename.split('/'))
+	if cleaned == filename:                           # 不需要清洗 -> 原样返回(第 1 条)
+		_LINK_SEEN.setdefault(cleaned, filename)      # 登记, 供后来的清洗结果查撞名
+		return filename
+	_prev = _LINK_SEEN.get(cleaned)
+	if _prev is not None and _prev != filename:       # 第 3 条: 同一个原路径走两遍不算撞名
+		_head, _, _leaf = cleaned.rpartition('/')
+		cleaned = (_head + '-' + hashlib.sha1(filename.encode('utf-8')).hexdigest()[:8]
+		           + '/' + _leaf)
+	_LINK_SEEN.setdefault(cleaned, filename)
+	return cleaned
 
 
 def get_meta_lines(s):
@@ -660,7 +717,7 @@ class Score():
 					for j in _vals:
 						filename = f'by_{i}/' + j + '/' + self.score.split('/')[-1]
 						filename = ('').join(filename.split('.')[:-1]) + '.' + filename.split('.')[-1]
-						filename = filename.replace('?', '')
+						filename = safe_path(filename)      # 见 safe_path: Windows 上非法就换成合法名
 						dest = Path(filename)
 						Path(filename).parent.mkdir(parents=True, exist_ok=True)
 						dest.unlink(missing_ok=True)
@@ -670,7 +727,7 @@ class Score():
 						# 统一用正斜杠: Windows 生成的反斜杠与 Linux(CI) 不同, 会来回改。
 						dest.symlink_to(_rel(self.score, filename))
 				filename = ('').join(filename.split('.')[:-1]) + '.' + filename.split('.')[-1]
-				filename = filename.replace('?', '')
+				filename = safe_path(filename)          # 同上; 幂等, 走两遍不会二次改名
 				dest = Path(filename)
 				Path(filename).parent.mkdir(parents=True, exist_ok=True)
 				dest.unlink(missing_ok=True)
