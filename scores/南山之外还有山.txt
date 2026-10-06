@@ -1,0 +1,16 @@
+%南山之外还有山.txt
+confidence=0.997
+conf_p10=0.983
+title=南山之外还有山
+tag=
+usertag=分类/通俗歌曲
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=qupu123-329263
+% 出处 https://www.qupu123.com/
+%--
+4/4
+subtitle=score
+1' q2' q1' 6 - q6 q6 5 3 5 6 -
+%END

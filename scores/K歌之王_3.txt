@@ -1,0 +1,15 @@
+%K歌之王_3.txt
+title=K歌之王
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=qupu123-352307
+% 出处 https://www.qupu123.com/
+todo=add tags
+%--
+4/4
+subtitle=score
+q1 7 6 3 4 2 4 5 6 5 4 4 4 3 1' 2 5
+%END

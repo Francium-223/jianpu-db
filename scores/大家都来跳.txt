@@ -1,0 +1,16 @@
+%大家都来跳.txt
+confidence=0.993
+conf_p10=0.969
+title=大家都来跳
+tag=
+usertag=分类/儿歌
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=qupu123-331497
+% 出处 https://www.qupu123.com/
+%--
+2/4
+subtitle=score
+3 6 6. 5 q1' q6 6 0 0 1' 6 6. 5
+%END

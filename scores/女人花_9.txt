@@ -1,0 +1,17 @@
+%女人花_9.txt
+confidence=0.783
+conf_p10=0.489
+title=女人花
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-135690
+% 出处 http://www.jianpu.cn/
+%--
+4/4
+subtitle=score
+1 x qx x x' 3 0 0 5' 3 5' 5 1' 6 2' 3' 5' 1 1' ,,1' 0 6 0 3' q1 2' q5 5 ,1 ,5 6 6' 7 1 1 ,3 2 5 0 1
+0 0 q1 3 1 5 3' 6' 1 q2 1' 6 1 5' 6' 1 1
+%END

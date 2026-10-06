@@ -1,0 +1,18 @@
+%拔萝卜.txt
+confidence=0.990
+conf_p10=0.987
+title=未命名-jianpujia-22150
+tag=
+usertag=分类/儿歌
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-22150
+% 出处 https://www.jianpujia.com/
+todo=refine the filename
+%--
+4/4
+subtitle=score
+x q,5 q,6 1 q3 q2 1 q5 q5 q5 s3 s2 q1 q2 1 q,5 q,6 1 q3 q2 1 q5 q5 q5 q5 q1 q2 1 q5 q5 q5 q5 q1 q2 1 q5 q5 1 q5 q5
+1 q5 q5 q5 q3 q2 q1 q2 1
+%END

@@ -1,0 +1,25 @@
+%向前走_2.txt
+confidence=0.975
+conf_p10=0.944
+title=向前走
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=qupu123-334702
+% 出处 https://www.qupu123.com/
+%--
+4/4
+subtitle=score
+1 - - qx - - 1 1 0 x. q3 q6 q6 q6 q7 q6 q6 q5 6 - - 0 q6 q1' q6 q5 q6 q5 q3 q2 3 - - 0 q3 q6 q6 q6 q1' q6
+q1' q2' 2' - - 0 q1' q3' q2' q1' q7 q3 q5 q6 6 - - 0 q3 q6 q6 q6 q7 q6 q6 q5 6 - - 0 q6 q1' q6 q5 q6 q5 q3 q2 3 -
+- 0 q3 q6 q6 q6 q1' q6 q1' q2' 2' - - 0 q1' q3' q2' q1' q7 q3 q5 q6 6 - - 0 q3'. s3' q5' q3' q5' q3' q5' q6' 6' - - 0 q7'. s7'
+q7' q6' q5' q6' q5' q4' 3' - - 0 q2' q2' q2' q6 q2' q6 q2' q3' 3' - - 0 q7 q7 q7 q3' q3' q2' q3' q5 6 - - 0 q3'. s3' q5' q3' q5' q3'
+q5' q6' 6' - - 0 q7'. s7' q7' q6' q5' q6' q5' q4' 3' - - 0 q2' q2' q2' q6 q2' q6 q2' q3' 3' - - 0 q7 q7 q7 q3' q3' q2' q3' q5 6 -
+- 0 0 - - - 0 - - - 0 - - - 0 - - - 0 - - - 0 - - - 0 - - - 0 - - - q3'. s3' q5' q3' q5' q3'
+q5' q6' 6' - 0 0 q7'. s7' q7' q6' q5' q6' q5' q4' 3' - 0 0 q2' q2' q2' q6 q2' q6 q2' q3' 3' - 0 0 q7 q7 q7 q3' q3' q2' q3' q5 6 -
+0 0 q3'. s3' q5' q3' q5' q3' q5' q6' 6' - 0 0 q7'. s7' q7' q6' q5' q6' q5' q4' 3' - 0 0 q2' q2' q2' q6 q2' q6 q2' 3 3' - 0 0 q7 q7
+q7' q3' q3' q2' q3' q5 6 - 0 0 0 - - - 0 - - - 0 - - - 0 - - - 0 - - - 0 - - - 0 - - - 0 -
+- -
+%END

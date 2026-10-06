@@ -1,0 +1,18 @@
+%相亲相爱.txt
+title=22相亲相爱
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=qupu123-316598
+% 出处 https://www.qupu123.com/
+%--
+4/4
+subtitle=score
+qx - - 1 2 0 x x x x x x x 0 s5 s5 q5 q5 q5 q5 q5 q5 q0 s7 s7 q7 q5 q5 q5 q5 q5 q0 s5 s5 q5 q5 q5 q5 q5 q5
+1'. 2 2' - 5 3 3 q2 q1 1' - 5' 5 7 q5 q7 7 q7 q1 7 6. 2 3 5' 4' 4 q6 q1 1 - 6 5 q1 5 q1 q1 2 q3 q3 2.
+1 2 1 2 3' - 2'. s3 s2' 1' - 1' - - 1' - q0 s5 s5 q5 q5 ~ q5 q5' q5' q5 q5' qx' 3 - 1 2 q2 s1' q1 1 q1' q2' 2 q1'
+q1 1' q7 q1' 7 7 q7 1 q6 ~ 6 - 2 3 3 2' q2' ~ 2' q2' q3' 3' q2 q2 ~ 2' q7 1 q7 7. q7 1' q2 ~ 2 - 1' 2' 2' q1'
+q1 ~ 1' q1 q2 3 2' 2 ,1' q1' 7 7 q7 1' 6 ~ 6 - 2' 3' 3 q2' q2 hx 1 1 h2 hx h1 h2 0 x x hx h,x' x
+%END

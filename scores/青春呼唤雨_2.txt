@@ -1,0 +1,18 @@
+%青春呼唤雨_2.txt
+confidence=0.945
+conf_p10=0.815
+title=青春呼唤雨
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=qupu123-332995
+% 出处 https://www.qupu123.com/
+%--
+4/4
+subtitle=score
+1 1 4 x x x x x x x 6' 2' q4' 6'. 5' - 2' 5 q1' q2' 6 5 - - - 5' 2' 2' q1' q6 0 0 0 0 5' 2' 2' q1' q2' 0
+0 0 0 q2' q2' q5 q5 0 0 q5 q6 q1' q2' 0 0 2' 5' q1' 2'. 5' - - - 5' - 2'. q5' 1' q7' q6' 5 - 6. q5 q1' q2' q3' q1' 2' -
+- - 2' 5' 1' q2' q1' q6 q5 6 0 0 6' 2' q4' 6'. 5' - - 2' 5 q1' q2' 6
+%END
