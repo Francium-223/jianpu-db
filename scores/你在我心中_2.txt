@@ -1,14 +1,14 @@
 %你在我心中_2.txt
-confidence=0.977
-conf_p10=0.968
+% 出处 https://www.qupu123.com/
 title=你在我心中
 tag=
 usertag=
 tagroute=
+confidence=0.977
+conf_p10=0.968
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-334918
-% 出处 https://www.qupu123.com/
 %--
 4/4
 subtitle=score

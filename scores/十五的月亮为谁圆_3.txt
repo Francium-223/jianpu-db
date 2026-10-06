@@ -1,14 +1,14 @@
 %十五的月亮为谁圆_3.txt
-confidence=0.949
-conf_p10=0.886
+% 出处 http://www.jianpu.cn/
 title=十五的月亮为谁圆
 tag=
 usertag=
 tagroute=
+confidence=0.949
+conf_p10=0.886
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-87559
-% 出处 http://www.jianpu.cn/
 %--
 4/4
 subtitle=score

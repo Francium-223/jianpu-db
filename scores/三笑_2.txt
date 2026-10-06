@@ -1,14 +1,14 @@
 %三笑_2.txt
-confidence=0.965
-conf_p10=0.891
+% 出处 https://www.qupu123.com/
 title=三笑
 tag=
 usertag=
 tagroute=
+confidence=0.965
+conf_p10=0.891
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-330860
-% 出处 https://www.qupu123.com/
 %--
 4/4
 subtitle=score

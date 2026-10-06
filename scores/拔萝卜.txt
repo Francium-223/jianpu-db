@@ -1,14 +1,14 @@
 %拔萝卜.txt
-confidence=0.990
-conf_p10=0.987
+% 出处 https://www.jianpujia.com/
 title=未命名-jianpujia-22150
-tag=
+tag=分类/儿歌
 usertag=分类/儿歌
 tagroute=
+confidence=0.990
+conf_p10=0.987
 transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-22150
-% 出处 https://www.jianpujia.com/
 todo=refine the filename
 %--
 4/4

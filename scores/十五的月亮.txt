@@ -1,14 +1,14 @@
 %十五的月亮.txt
-confidence=0.954
-conf_p10=0.894
+% 出处 http://www.jianpu.cn/
 title=十五的月亮
 tag=
 usertag=
 tagroute=
+confidence=0.954
+conf_p10=0.894
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-35054
-% 出处 http://www.jianpu.cn/
 %--
 4/4
 subtitle=score

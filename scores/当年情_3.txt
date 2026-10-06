@@ -1,4 +1,5 @@
 %当年情_3.txt
+% 出处 http://www.jianpu.cn/
 title=当年情
 tag=
 usertag=
@@ -6,7 +7,6 @@ tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-44076
-% 出处 http://www.jianpu.cn/
 %--
 4/4
 subtitle=score

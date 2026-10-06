@@ -1,14 +1,14 @@
 %那句话.txt
-confidence=0.974
-conf_p10=0.937
+% 出处 https://www.qupu123.com/
 title=那句话
 tag=
 usertag=
 tagroute=
+confidence=0.974
+conf_p10=0.937
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-334707
-% 出处 https://www.qupu123.com/
 %--
 4/4
 subtitle=score

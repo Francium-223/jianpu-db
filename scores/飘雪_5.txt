@@ -1,14 +1,14 @@
 %飘雪_5.txt
-confidence=0.957
-conf_p10=0.865
+% 出处 http://www.jianpu.cn/
 title=飘雪
 tag=
 usertag=
 tagroute=
+confidence=0.957
+conf_p10=0.865
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-69987
-% 出处 http://www.jianpu.cn/
 %--
 4/4
 subtitle=score

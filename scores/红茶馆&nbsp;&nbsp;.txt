@@ -1,14 +1,14 @@
 %红茶馆&nbsp;&nbsp;.txt
-confidence=0.884
-conf_p10=0.538
+% 出处 http://www.jianpu.cn/
 title=红茶馆
 tag=
 usertag=
 tagroute=
+confidence=0.884
+conf_p10=0.538
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-51398
-% 出处 http://www.jianpu.cn/
 %--
 4/4
 subtitle=score

@@ -1,14 +1,14 @@
 %让爱永久.txt
-confidence=0.987
-conf_p10=0.975
+% 出处 https://www.qupu123.com/
 title=让爱永久
 tag=
 usertag=
 tagroute=
+confidence=0.987
+conf_p10=0.975
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-335031
-% 出处 https://www.qupu123.com/
 %--
 4/4
 subtitle=score

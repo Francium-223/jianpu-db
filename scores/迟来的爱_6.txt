@@ -1,14 +1,14 @@
 %迟来的爱_6.txt
-confidence=0.920
-conf_p10=0.754
+% 出处 http://www.jianpu.cn/
 title=迟来的爱
 tag=
 usertag=
 tagroute=
+confidence=0.920
+conf_p10=0.754
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-69563
-% 出处 http://www.jianpu.cn/
 %--
 4/4
 subtitle=score

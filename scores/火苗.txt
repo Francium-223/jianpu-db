@@ -1,14 +1,14 @@
 %火苗.txt
-confidence=0.985
-conf_p10=0.984
+% 出处 https://www.qupu123.com/
 title=火苗
 tag=
 usertag=
 tagroute=
+confidence=0.985
+conf_p10=0.984
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-331312
-% 出处 https://www.qupu123.com/
 %--
 2/4
 subtitle=score

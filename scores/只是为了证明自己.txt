@@ -1,14 +1,14 @@
 %只是为了证明自己.txt
-confidence=0.953
-conf_p10=0.880
+% 出处 https://www.qupu123.com/
 title=只是为了证明自己
 tag=
 usertag=
 tagroute=
+confidence=0.953
+conf_p10=0.880
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-331242
-% 出处 https://www.qupu123.com/
 %--
 2/4
 subtitle=score

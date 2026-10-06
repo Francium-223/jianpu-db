@@ -1,14 +1,14 @@
 %春之歌_2.txt
-confidence=0.975
-conf_p10=0.988
+% 出处 https://www.qupu123.com/
 title=春之歌
 tag=
 usertag=
 tagroute=
+confidence=0.975
+conf_p10=0.988
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-333532
-% 出处 https://www.qupu123.com/
 %--
 4/4
 subtitle=score

@@ -1,14 +1,14 @@
 %恋人未满&nbsp;&nbsp;.txt
-confidence=0.930
-conf_p10=0.706
+% 出处 http://www.jianpu.cn/
 title=恋人未满
 tag=
 usertag=
 tagroute=
+confidence=0.930
+conf_p10=0.706
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-37008
-% 出处 http://www.jianpu.cn/
 %--
 4/4
 subtitle=score

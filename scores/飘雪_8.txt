@@ -1,4 +1,5 @@
 %飘雪_8.txt
+% 出处 http://www.jianpu.cn/
 title=飘雪
 tag=
 usertag=
@@ -6,7 +7,6 @@ tagroute=
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-60958
-% 出处 http://www.jianpu.cn/
 %--
 4/4
 subtitle=score

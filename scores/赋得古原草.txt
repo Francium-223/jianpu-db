@@ -1,14 +1,14 @@
 %赋得古原草.txt
-confidence=0.969
-conf_p10=0.945
+% 出处 https://www.jianpujia.com/
 title=赋得古原草
 tag=
 usertag=
 tagroute=
+confidence=0.969
+conf_p10=0.945
 transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-22113
-% 出处 https://www.jianpujia.com/
 %--
 4/4
 subtitle=score

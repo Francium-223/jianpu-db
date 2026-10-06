@@ -1,14 +1,14 @@
 %冰雪情_2.txt
-confidence=0.962
-conf_p10=0.872
+% 出处 https://www.qupu123.com/
 title=冰雪情
 tag=
 usertag=
 tagroute=
+confidence=0.962
+conf_p10=0.872
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-331850
-% 出处 https://www.qupu123.com/
 %--
 4/4
 subtitle=score

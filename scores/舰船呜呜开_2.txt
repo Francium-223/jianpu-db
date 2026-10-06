@@ -1,14 +1,14 @@
 %舰船呜呜开_2.txt
-confidence=0.998
-conf_p10=0.993
+% 出处 https://www.qupu123.com/
 title=舰船呜呜开
 tag=
 usertag=
 tagroute=
+confidence=0.998
+conf_p10=0.993
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-319955
-% 出处 https://www.qupu123.com/
 %--
 4/4
 subtitle=score

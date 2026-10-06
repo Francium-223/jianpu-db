@@ -1,14 +1,14 @@
 %忠孝东路走九遍_&nbsp;&nbsp;.txt
-confidence=0.943
-conf_p10=0.760
+% 出处 http://www.jianpu.cn/
 title=忠孝东路走九遍_
 tag=
 usertag=
 tagroute=
+confidence=0.943
+conf_p10=0.760
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-124037
-% 出处 http://www.jianpu.cn/
 todo=refine the filename
 %--
 4/4

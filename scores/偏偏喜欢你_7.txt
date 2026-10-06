@@ -1,14 +1,14 @@
 %偏偏喜欢你_7.txt
-confidence=0.876
-conf_p10=0.776
+% 出处 http://www.jianpu.cn/
 title=偏偏喜欢你
 tag=
 usertag=
 tagroute=
+confidence=0.876
+conf_p10=0.776
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-85294
-% 出处 http://www.jianpu.cn/
 %--
 4/4
 subtitle=score

@@ -1,14 +1,14 @@
 %相思风雨中_5.txt
-confidence=0.970
-conf_p10=0.906
+% 出处 http://www.jianpu.cn/
 title=相思风雨中
 tag=
 usertag=
 tagroute=
+confidence=0.970
+conf_p10=0.906
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-84946
-% 出处 http://www.jianpu.cn/
 %--
 4/4
 subtitle=score

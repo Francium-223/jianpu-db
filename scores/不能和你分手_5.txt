@@ -1,14 +1,14 @@
 %不能和你分手_5.txt
-confidence=0.947
-conf_p10=0.830
+% 出处 https://www.qupu123.com/
 title=不能和你分手
 tag=
 usertag=
 tagroute=
+confidence=0.947
+conf_p10=0.830
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-904
-% 出处 https://www.qupu123.com/
 %--
 4/4
 subtitle=score

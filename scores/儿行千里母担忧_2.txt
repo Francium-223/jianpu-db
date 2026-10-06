@@ -1,14 +1,14 @@
 %儿行千里母担忧_2.txt
-confidence=0.983
-conf_p10=0.974
+% 出处 https://www.qupu123.com/
 title=儿行千里母担忧
 tag=
 usertag=
 tagroute=
+confidence=0.983
+conf_p10=0.974
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-331962
-% 出处 https://www.qupu123.com/
 %--
 4/4
 subtitle=score

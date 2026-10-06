@@ -1,14 +1,14 @@
 %追光者_2.txt
-confidence=0.845
-conf_p10=0.347
+% 出处 https://www.qupu123.com/
 title=追光者
 tag=
 usertag=
 tagroute=
+confidence=0.845
+conf_p10=0.347
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-339803
-% 出处 https://www.qupu123.com/
 %--
 4/4
 subtitle=score

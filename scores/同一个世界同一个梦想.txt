@@ -1,14 +1,14 @@
 %同一个世界同一个梦想.txt
-confidence=0.980
-conf_p10=0.961
+% 出处 https://www.qupu123.com/
 title=同一个世界同一个梦想
 tag=
 usertag=
 tagroute=
+confidence=0.980
+conf_p10=0.961
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-325739
-% 出处 https://www.qupu123.com/
 %--
 4/4
 subtitle=score

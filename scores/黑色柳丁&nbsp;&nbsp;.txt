@@ -1,14 +1,14 @@
 %黑色柳丁&nbsp;&nbsp;.txt
-confidence=0.881
-conf_p10=0.508
+% 出处 http://www.jianpu.cn/
 title=黑色柳丁
 tag=
 usertag=
 tagroute=
+confidence=0.881
+conf_p10=0.508
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-36173
-% 出处 http://www.jianpu.cn/
 %--
 4/4
 subtitle=score

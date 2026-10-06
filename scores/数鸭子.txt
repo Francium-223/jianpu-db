@@ -1,14 +1,14 @@
 %数鸭子.txt
-confidence=0.971
-conf_p10=0.903
+% 出处 https://www.jianpujia.com/
 title=数鸭子
-tag=
+tag=分类/记谱
 usertag=分类/记谱
 tagroute=
+confidence=0.971
+conf_p10=0.903
 transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-15778
-% 出处 https://www.jianpujia.com/
 %--
 4/4
 subtitle=score

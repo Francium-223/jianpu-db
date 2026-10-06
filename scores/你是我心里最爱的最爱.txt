@@ -1,14 +1,14 @@
 %你是我心里最爱的最爱.txt
-confidence=0.952
-conf_p10=0.912
+% 出处 https://www.qupu123.com/
 title=你是我心里最爱的最爱
 tag=
 usertag=
 tagroute=
+confidence=0.952
+conf_p10=0.912
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-334175
-% 出处 https://www.qupu123.com/
 %--
 2/4
 subtitle=score

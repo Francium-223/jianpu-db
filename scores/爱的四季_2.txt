@@ -1,14 +1,14 @@
 %爱的四季_2.txt
-confidence=0.986
-conf_p10=0.979
+% 出处 https://www.qupu123.com/
 title=爱的四季
 tag=
 usertag=
 tagroute=
+confidence=0.986
+conf_p10=0.979
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-334472
-% 出处 https://www.qupu123.com/
 %--
 4/4
 subtitle=score

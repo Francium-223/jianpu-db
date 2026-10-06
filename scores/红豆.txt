@@ -1,14 +1,14 @@
 %红豆.txt
-confidence=0.943
-conf_p10=0.832
+% 出处 https://www.jianpujia.com/
 title=红豆
 tag=
 usertag=
 tagroute=
+confidence=0.943
+conf_p10=0.832
 transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-15415
-% 出处 https://www.jianpujia.com/
 %--
 4/4
 subtitle=score

@@ -1,14 +1,14 @@
 %等一分钟_3.txt
-confidence=0.905
-conf_p10=0.563
+% 出处 http://www.jianpu.cn/
 title=等一分钟
 tag=
 usertag=
 tagroute=
+confidence=0.905
+conf_p10=0.563
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-86877
-% 出处 http://www.jianpu.cn/
 %--
 4/4
 subtitle=score

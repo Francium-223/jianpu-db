@@ -1,14 +1,14 @@
 %相逢何必曾相识_2.txt
-confidence=0.908
-conf_p10=0.583
+% 出处 http://www.jianpu.cn/
 title=相逢何必曾相识
 tag=
 usertag=
 tagroute=
+confidence=0.908
+conf_p10=0.583
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-43748
-% 出处 http://www.jianpu.cn/
 %--
 4/4
 subtitle=score

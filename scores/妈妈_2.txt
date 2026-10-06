@@ -1,14 +1,14 @@
 %妈妈_2.txt
-confidence=0.949
-conf_p10=0.826
+% 出处 https://www.qupu123.com/
 title=妈妈
 tag=
 usertag=
 tagroute=
+confidence=0.949
+conf_p10=0.826
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-332672
-% 出处 https://www.qupu123.com/
 %--
 4/4
 subtitle=score

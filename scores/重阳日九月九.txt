@@ -1,14 +1,14 @@
 %重阳日九月九.txt
-confidence=0.981
-conf_p10=0.951
+% 出处 https://www.qupu123.com/
 title=重阳日
 tag=
 usertag=
 tagroute=
+confidence=0.981
+conf_p10=0.951
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-332353
-% 出处 https://www.qupu123.com/
 %--
 2/4
 subtitle=score

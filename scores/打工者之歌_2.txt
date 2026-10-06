@@ -1,14 +1,14 @@
 %打工者之歌_2.txt
-confidence=0.988
-conf_p10=0.969
+% 出处 https://www.qupu123.com/
 title=打工者之歌
 tag=
 usertag=
 tagroute=
+confidence=0.988
+conf_p10=0.969
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-335104
-% 出处 https://www.qupu123.com/
 %--
 4/4
 subtitle=score

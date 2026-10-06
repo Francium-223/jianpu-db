@@ -1,14 +1,14 @@
 %指纹_2.txt
-confidence=0.976
-conf_p10=0.959
+% 出处 http://www.jianpu.cn/
 title=指纹
 tag=
 usertag=
 tagroute=
+confidence=0.976
+conf_p10=0.959
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-159882
-% 出处 http://www.jianpu.cn/
 %--
 4/4
 subtitle=score

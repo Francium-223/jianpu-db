@@ -1,14 +1,14 @@
 %你是风儿我是沙.txt
-confidence=0.922
-conf_p10=0.641
+% 出处 http://www.jianpu.cn/
 title=你是风儿我是沙
 tag=
 usertag=
 tagroute=
+confidence=0.922
+conf_p10=0.641
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-35769
-% 出处 http://www.jianpu.cn/
 %--
 4/4
 subtitle=score

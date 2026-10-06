@@ -1,14 +1,14 @@
 %万里长城.txt
-confidence=0.957
-conf_p10=0.813
+% 出处 http://www.jianpu.cn/
 title=万里长城
 tag=
 usertag=
 tagroute=
+confidence=0.957
+conf_p10=0.813
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-35138
-% 出处 http://www.jianpu.cn/
 %--
 4/4
 subtitle=score

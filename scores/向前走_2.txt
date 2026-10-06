@@ -1,14 +1,14 @@
 %向前走_2.txt
-confidence=0.975
-conf_p10=0.944
+% 出处 https://www.qupu123.com/
 title=向前走
 tag=
 usertag=
 tagroute=
+confidence=0.975
+conf_p10=0.944
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-334702
-% 出处 https://www.qupu123.com/
 %--
 4/4
 subtitle=score

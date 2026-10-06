@@ -1,14 +1,14 @@
 %次次心动次次落空.txt
-confidence=0.970
-conf_p10=0.941
+% 出处 https://www.qupu123.com/
 title=次次心动
 tag=
 usertag=
 tagroute=
+confidence=0.970
+conf_p10=0.941
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-394702
-% 出处 https://www.qupu123.com/
 %--
 2/4
 subtitle=score

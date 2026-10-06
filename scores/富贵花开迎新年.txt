@@ -1,14 +1,14 @@
 %富贵花开迎新年.txt
-confidence=0.964
-conf_p10=0.915
+% 出处 https://www.qupu123.com/
 title=富贵花开迎新年
 tag=
 usertag=
 tagroute=
+confidence=0.964
+conf_p10=0.915
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-394898
-% 出处 https://www.qupu123.com/
 %--
 4/4
 subtitle=score
