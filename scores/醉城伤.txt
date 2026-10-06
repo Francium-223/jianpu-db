@@ -1,0 +1,26 @@
+%醉城伤.txt
+% 出处 https://www.jianpujia.com/
+title=醉城伤
+tag=
+usertag=
+tagroute=
+confidence=0.953
+conf_p10=0.855
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-11686
+%--
+4/4
+subtitle=score
+1 - - - x x x 1'. x q2. s3 ~ q3 q2 ~ 2 - s6 s5 s1 s3 ~ q3 s1 s5 ~ ,5 - s3 s5 s1 s3 ~ q3 q1 s3 q2 s1 ~ 1
+4 - - - s5 s3 s5 s3 s5 q1 s5 q,5. s5 s1 q,7 s3 ,5 - 0 0 s5 s3 s5 s3 s5 q1 s1 q0 s5 s3 s2 q2 s6 q1. ~ 1 0 q0 s1 q,6
+q3 q2 s1 s,6 ~ s,6 q3 s2 ~ 2 q2 s,5 s2 ~ s2 q3. q2 q1 ~ 1 q1 s,6 s1 ~ 1 q0 s,6 s1 q,6. s,3 q,5. ~ ,5 0 0 s,5 s,3 s,5 s,3 s,5
+q1 s,5 q,5. s,5 q1 s,7 s,3 ,5 - 0 0 s,5 s,3 s,5 s,3 s,5 q1. q1. s,5 q3 s2 s2 q,6 q1 ~ 1 0 q0 s,6 q3 q2 s2 s1 s1 s2 ~ 2 - q2 s5
+s2 ~ q2 s3 s2 ~ s2 q1. s0 s6 s6 s7 1 q0 s1 s1 s6 s6 s1 ~ s1 q5 s1 1 ~ s1 s2 s3 s2 2 s0 s5 s6 s1 q2 s1 s2 ~ s2 q3.
+q2 s1 s2 ~ s2 q3. q2 s1 s2 s1 s1 s5 s,6 q1 s2 s2 ~ s2 q1 s3 s2 s1 s1 s1 ~ s1 q,6 s3 s2 s1 s1 s1 ~ s1 q,5 s3 s2 s1 s1 s6
+q1 s2 s3 ~ s3 q2. s0 s5 s6 s1 q2 s1 s2 ~ s2 q3. q5 s3 s2 ~ s2 q3. q6 s3 s2 s1 s1 s2 s1 q2 s3 s5 ~ s5 q3. q2 s1 s1 ~ s1
+q,6 s3 s2 s1 s1 s1 ~ s1 q,5 s3 - s2 s1 s1 s6 q1 s2 s3 - q2 q2 ~ 2 q0 s5 s3 s2 s6 q,6 1 - 0 0 s3 s,7 s2 s5 s3 s,7 s2
+s5 s3 s,7 s2 s5 s3 s,7 s2 s5 s1 s,5 s2 s5 s1 s,5 s2 s5 s1 s,5 s2 s5 s1 s,5 s2 s5 s3 s,7 s2 s5 s3 s,7 s2 s5 s3 s,7 s2 s5 q0 d1' d2'
+3. 3' - q4'. s3' q1' q1' 2' - 3. q3'. s2' ~ q2' q7 1' - q1' s2' s3. s3' q4' s3' s4' 5'. d4' d2' 5 - x. q2 q2 ~ 2 q0 s5 s3 q2 s6 s1
+~ 1 - 0 0
+%END

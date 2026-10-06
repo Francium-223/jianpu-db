@@ -1,0 +1,23 @@
+%迷谷尘浪.txt
+% 出处 https://www.jianpujia.com/
+title=迷谷尘浪
+tag=
+usertag=
+tagroute=
+confidence=0.938
+conf_p10=0.808
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-12472
+%--
+4/4
+subtitle=score
+1 - - - x x ,1 ,x x 1 x 5. s6 s5 3. s6 s7 q1'. s7 q6 q3 5 - 6. s5 s6 q5 q3 ~ q3. s2 q2 q1 s6 q1 1 - 1 - 0
+0 0 0 s5 s6 s1 ~ q1 s2 s1 q3 s5 s5 ~ 5 q6 s6' s1' q6 s3 s5 ~ 5 q0 s5 s6 s1' q2' s1' ~ s1' q6 s1' s5 q6 s5 5 q2 q1 s6
+q5 s2 s3 q2. ~ 2 s5 s6 s1 ~ q1 s2 s1 q3 s5 s5 q0 s3 s5 q6 s6' s1' q6 s3 s6 ~ s6 q5. q0 s5 s6 s1' s1' s2' s1' ~ s1' q6 s1' s5
+q6 s5 q0 s3 s5 q6 q5 s1 q2 s1 ~ s1 q1. ~ 1 0 q0 s1 s2 q2 s1 q2 s1 s2 s3 q5 s6 q5 s3 s5 s6 q6 s5 s1 q5 s3 3 q0 s5 s6
+s1' q2' s1' q6 s1' x 1 qx. x. qx x x 1 1. q5 s5 s6 q5 s3 s5 q6 q5 s1 q2 s1 s1 q1. ~ 1 1 - s5 s6 s1 ~ q1 s2 s1 q3 s5
+s5 q0 s3 s5 q6 q1' q6 q3 5 q0 s5 s6 s2' s1' s1' ~ q1' s6' s1' q5 s6 s5 q0 s3 s5 q6 q5 s1 q2. 1 - 1 - 0 0 0 0 s1 q1. ~
+1 1' - q7 s1' s7 ~ q7 q5 6 - 5 q0 s1 s1 q1. 1 ~ 1 q0 s5 s6 s1' q2' s1' ~ s1' q6 s1' q5 s5 s6 q5 s3 s5 q6 q5 s1 q2. q2
+0 q1 1 1' 1 - q2' s7 s5 5 3 - 2 - 3 - 3 -
+%END

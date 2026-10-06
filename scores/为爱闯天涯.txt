@@ -1,0 +1,21 @@
+%为爱闯天涯.txt
+% 出处 https://www.jianpujia.com/
+title=为爱闯天涯
+tag=
+usertag=
+tagroute=
+confidence=0.904
+conf_p10=0.598
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-10339
+%--
+4/4
+subtitle=score
+x q1 s1 q1 q2 q3 q2 1 s5 s1 s5 q,3 - q2 s2 s1 q2 q3 s5 s5 q3 1 - x q,5 s,5 s,3 q,5 q,6 1 q2 q3 s3 s5 s1 s,6 s1 s2 3 -
+s2 s3 s2 s1 q2 q3 q,7 q,6 ,5 s,6 s1 s,6 s1 s2 s3 q,6 1 - x 1 - - - - - 2 2 0 3 - - - - - - 5' 5' 5' - s3
+q3 s3 s3 s2 q1 q2 q2 ~ 2 s2 s3 s2 s1 s2 s1 s1 s6 1 - s3 s5 s3 s2 s1 s6 s1 s2 3 - s2 s3 s2 s1 s2 s1 s1 s6 1 - -
+- - - - - x x x x x - - qx 1' hx' 0 qx - qx x qx x. q2 s2 s1 q2 q2 q3 q,7 q,6 q,5 s,5 s,6 s,5 s,6 s2 s3 q,6 1 -
+- s,5 s,6 s,5 s,6 s2 s3 q,6 1 - - s,5 s,6 s,5 s,6 s2 s3 q,6 1 - s,5 s,6 s,5 s,6 s2 s3 q,6 1 - s,5 s,6 s,5 s,6 s2 s3 q,6 1 - s,6 s1
+s,6 s1 2 3 - ,6 - 1 -
+%END

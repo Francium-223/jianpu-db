@@ -1,0 +1,18 @@
+%属于.txt
+% 出处 https://www.jianpujia.com/
+title=属于
+tag=
+usertag=
+tagroute=
+confidence=0.872
+conf_p10=0.639
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-14872
+%--
+4/4
+subtitle=score
+s,6 s6'. 0 6. - s6'. 0 q4' 0 0 q6 - 0 6' 6 6. 6'. 0 q4'. s6' 0 0 0 q6 0 0 0 q,6 0 q,4 0 0 4 q,6 q,4 ,6 - - - -
+0 6 q4 0 0 4 ,6 ,4 0 - s3'. 0 - 0 - 0 0 0 - 0 0 - 0 - 0 0 0 0 ,6 ,4 ,4 q4 ,4 q4 0 ,4 q4 0 - 6.
+0 6. ,6 ,1' q4 6'. 0 6. ,6. 2. 0 0 0 0 0 0 0 0 0 0 0 0
+%END

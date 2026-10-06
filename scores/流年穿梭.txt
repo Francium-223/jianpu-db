@@ -1,0 +1,23 @@
+%流年穿梭.txt
+% 出处 https://www.jianpujia.com/
+title=流年穿梭
+tag=
+usertag=
+tagroute=
+confidence=0.983
+conf_p10=0.990
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-10994
+%--
+4/4
+subtitle=score
+x 2 q1 ~ 1 q1 2 q1 q1 q2 3 q5 q1' q2' 2' q3' 2' q1' q1' s1' 2' q3' 2' q1' 1' q1' 2' q1' 3' 3' q2' q2' q1' 1' 1' - - - q3 q3
+q3 q3 ~ 3 q2 q1 q2 q3 q5 q3 ~ 3 - q1 q1 q1 1 q1 1 q1. s2 q1 s6 ~ ,6 - q4 q4 q4 q4 ~ 4 q3 q2 q4 q4 q4 5 q4 ~
+4 q2 q2 q2 q1 q3 q2 ~ 2 q2 q2 q2 s1 s2 q2 q1 ~ 1 q3 q3 q3 q3 ~ 3 q2 q1 q2 q3 q5 q3 ~ 3 - q1 q1 q1 q1 q1 q1 1
+q1 2 s6 ~ ,6 - q4 q4 q5 q4 ~ 4 q3 q2 q4 q4 q5 q4 ~ 4 - q2 q2 q2 q2 q2 q1 3 q2 1 q1 ~ 1 - q3 q3 q3 q3 q5 q3
+~ 3 q3 q3 q3 q3 q5 q3 ~ 3 q1 q1 q1 q1 1 q1 q2 ~ q2 s6 ~ ,6 - 0 q4 q4 q5 q4 ~ 4 q3 q2 q4 q4 q5 q4 ~ 4 - q2
+q2 q2 q2 2 q2 q1 q2 q3 ~ 3 - - q3 q3 q3 q3 q5 q3 ~ 3 q3 q3 q3 q3 q5 q3 ~ 3 q1 q1 q1 q1 q1 q1 q1 q2 ~ q2 q,6 ~
+,6 - - q4 q4 q5 q4 ~ 4 q3 q2 q4 q4 q5 q4 ~ 4 - q2 q2 q2 q1 q3 q2 ~ 2 q2 q2 q2 s2 s2 q3 2 q1 1 - - - 1 -
+0 - - - 1 - - - 5 - - - 1 - - - 5 - - - 5 - - - 1 - - -
+%END

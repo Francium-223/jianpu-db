@@ -1,0 +1,25 @@
+%如果的事.txt
+% 出处 https://www.jianpujia.com/
+title=如果的事
+tag=
+usertag=
+tagroute=
+confidence=0.858
+conf_p10=0.595
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-15173
+%--
+3/4
+subtitle=score
+s2 s2 s2 s2 s2 s1 q3 q3 q5 q1. s3 q3 s2 s1 q1 s1 s1 q5 s5 s5 q7 s1 s1 q6 s5 5 q,7. s5 s3 s2 s1 s7 s1 s1 q1 q5 s1 s7 s1 s1
+q1 s6 s5 s1 s7 s3 s5 s7 s3. ,5 s6 s1 q,3 s5 s2 q,5 s4 s1 s4. s3 s5 s7 s3. ,5 s4 s2 s4 q,2 ,,5 - s4 s1 s4 s7 s2 s5 s6 s1 s3 s1
+,1 s1'. q7' s1'. s5'. 5 s3'. s2' s1' s7 q1' q5' s1' s7'. s1'. q1' s6'. s1' s1' s7 s1'. s3'. s1'. s1' q1 s5'. s3'. s2' s1' s7 q1' q5' s1' s,7'. s1'. q1' s6'. s1' s1' s7
+x 6 6 s4 s1 s4 s5 s7 s2 s5 s1 s5 s2 s3 0 s4 s1 s4 s7 s2 s5 s6 s1 s3 s1 ,1 s4 s1 s7 s2 s5 s1 s5 s2 s3 0 s4 s1 s4 s7
+s2 s5 s6 s1 s3 s1 ,1 s1'. q7' s1'. s5'. 5 s3'. s2' s1' s7 q1' q5' s1' s1'. s1'. q1' s6'. s1' s1' s7 s1'. s3'. s1'. s1' - ,5 1' sx'. s7'. s6'. s5'. q5 s3'. s3'.
+s5' x 6 5 ,3 ,1 ,3 s4 s1 s4 s7 s2 s5 s1 s5 s2 s3 0 s4 s1 s4 s7 s2 s5 s6 s1 s3 s1 ,1 s4 s1 s7 s2 s1. ,,1 ,1 s4 s1 s4 s1.
+,,5 s6 s1 q,3 ,6 5' q3'. s2' 5 - s1' s7'. s1'. s5'. ~ s5 s7'. s1'. s5'. ~ s5'. q6' s5'. ~ q5' s4' q3'. s4'. s3'. q2' 1' - s5'. s2'. s5'. s3'. s3'. s2'. q2' s1'.
+s1'. s2' s1'. q2'. s,5' s4 s1 s4 s1. ,,5 s1 s5 s2 s3 q,5 q1 s4 s1 s4 s5 s7 s2 s5 s6 s1 s3 ,6 ,3 s4 s1 q,4 ,,5 s1 s5 s2 s3 q,5 q1 ,1 -
+- - s1'. s3'. s1'. s1'. q1'. s5'. s3'. s2' s1' s7 q1' q5' s1' s1'. s1'. q1' s6'. s1' s1' s7 s1' s1'. q7' s1'. s5'. 5 s3'. s2'. s1' s7 s1' q1' q5' s1' s,1'. s1'. q1' s6'.
+s1' s1' s7 5 6 6 ,1 ,3 ,3 ,3 s4 s1 s4 s5 s7 s2 s1. ,,1 ,1 ,,4 ,,5 ,,6 ,1 ,,4 ,,5 s1 s5 s2 s3. ,5 ,,4 ,,5 ,,6 ,1
+%END

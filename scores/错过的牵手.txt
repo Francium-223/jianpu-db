@@ -1,0 +1,22 @@
+%错过的牵手.txt
+% 出处 https://www.jianpujia.com/
+title=错过的牵手
+tag=
+usertag=
+tagroute=
+confidence=0.983
+conf_p10=0.990
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-11087
+%--
+4/4
+subtitle=score
+x 1 q1 q2 q3 5 - - - 3 q2 q1 q1 q3 2 - - q2 q3 5 q5 q3 q2 q1 q2 q3 - - - - 1 q2 q1 q,6 ,5 q3 q5 q6 q1' q6
+q5 3 q2 q2 q2 q1 q2 q5 q5 q,6 ,5 - 0 0 q1 q,6 q,6 q1 q2 q3 5 q5 q3 q3 q7 6 - q6 s6 s6 q6 q5 q6 1' q6 5 - 0 0 1
+q1 q2 q1 q,6 ,5 q3 q5 q6 q1' q6 q5 3 q2 s2 s2 q2 q1 q2 5 q,6 ,5 - 0 0 1 q,6 q1 2 q0 q3 q5 q3 q3 q7 6 - q6 q6 q6 q5
+q6 q1' q1' q6 5 - - - 0 0 0 q5 q6 1' q2' q3' q5' s3' s2' q1' 6 - - q6 q1' 2'. q3' q2' q1' q1' q6 5 - - q3 q2 3 q5 6 q1'
+q6 6 q2' q3' 2' - q2' s2' s2' q2' s2' s1' q1' 6 q3' 2' - - q5 q6 1'. q2' q3' q5' s3' s2' q1' 6 - - q6 q1' 2'. q3' q2' q1' q1' q6 5 -
+- q3 q2 3 q5 6 q1' q6 6 q2' q3' 2' - q2' s2' s2' q2' s2' s3' 2' q1' q6 q1 q1 1 - - - - - - - - q1' q1' 1' - q5 q6 q1'
+q1' 1' - 0 q2' s2' s2' q2' s2' s3' q2' q1' q6 q1' 1' - - -
+%END

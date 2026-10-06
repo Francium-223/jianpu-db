@@ -1,0 +1,21 @@
+%一条小船飘四方.txt
+% 出处 https://www.jianpujia.com/
+title=一条小船飘四方
+tag=
+usertag=
+tagroute=
+confidence=0.930
+conf_p10=0.718
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-8957
+%--
+4/4
+subtitle=score
+1 1 x. sx qx q4 q1 5 6 2 - x. x. x qx x x 1 6 x x 1 qx - - 1 1 0 x 1' x. x x. 1' q6 q5 q3. s5 6 q6
+q5 3 - - 5 6 q6 q5 q5 q3 2 - - - 5 q2 q3 5. q3 q2 q5 q3 q2 1 - ,7. q2 q,6 q,7 q,6 q,5 5 - - 3 2 q5 q3 q2 q1
+,6 1 - - - q1 1 q2 q,6. s1 q,5 q,6 1 - - 2 3 6 q6 q5 q5 q3 q,3 2 - - - 5 q5 q3 2 1 q,6. s1 q,5 q,6 1 - ,6 q2
+q3 q2 q1 q1 q,6 s6 ,5 - - - ,6. q1 ,6 1 q1 q2 q2 q,7 ,6 - q,6 q1 q,6 q1 q2 q3 q5 q6 5 - 5. q3 2 q5 q3 q2 q1 d6 s1 q,6
+1 - - 0 1' q6 q5 3 6 q6 q5 3 - - 2 q3 q5 1 q5 q3 2 - - - q5 5 q3 q2 q3 1 s6 q1 q2 q3 q2 q1 ,6 5 - -
+q5 q3 2 q5 q3 q2 q1 ,6 1 - - -
+%END

@@ -1,0 +1,25 @@
+%早开的长途班.txt
+% 出处 https://www.jianpujia.com/
+title=早开的长途班
+tag=
+usertag=
+tagroute=
+confidence=0.965
+conf_p10=0.909
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-12300
+%--
+4/4
+subtitle=score
+1 - - - x'. x x. x x' x x ,1 x 1 q1' q1' q1' q7 q7 6. q1' q1' q1' q7 q7 6. q7 q7 q7 q6 q6 5. q7 q7 q7 q6 q6 5. q4 q4
+q4 q3 q3 2. q4 q4 q4 q3 q3 2. q2' q2' q2' q1' q1' 7. q2' q2' q2' q1' q1' q7 7 1' 3 3 - q3 q3 q3 q3 q2 q2 q2 q3 0 3 3 - q5
+q5 q5 q6 q2 q3 q2 q1 0 2 2 - q2 q2 q2 q2 1 q2 q3 3 q,7 q,7 ~ ,7 0 q,7 q,7 q,7 q1 ,7 0 0 3 3 - q3 q3 q3 q3 q2 q2
+q2 q3 0 3 3 - q5 q5 q5 q6 q2 q3 q2 q1 0 2 2 - q2 q2 q2 q2 1 q2 q3 3 s7 s7 ~ ,7 0 q3 q3 q3 q4 3 3 4. q3 4.
+q3 q4 q3 q2 q4 ~ 4 2 3. q2 3. q2 q3 q2 q1 q3 ~ 3 q2 q3 2. q,7 2. q,7 q2 q1 q,7 q2 ~ 2 4 3 3 q3 q2 q1 q3 ~ 3 -
+6 7 1' q6 q6 ~ 6 - q1' q1' q1' q1' 2' 1' 7 q5 q5 5 - q7 q7 q7 q7 1 7 6 q4 q4 4 - q6 q6 q6 q6 7 6 x 5. q3 3
+- x 5 q5 6 q7 q7 q1 1' q6 q6 ~ 6 - q1' q1' q1' q1' 2' 1' 7 q5 q5 ~ 5 0 q2' q2' q2' q2' 3' 2' 1' q6 q6 ~ 6 - q6 q6
+q6 q6 7 6 5. q3 ~ 3 q0 q5 5 q5 6 q7 q7' q1' 1' - - - 4 5 - 6 6 - 1' - 1' - - - 3'. q5' ~ 5' - 3'. q2' ~
+2'. q1' 7 - q7 5' q7 0 0 0 0 5 q3 6 q7 q7' q1' 1' - - - 1' - q0 2' q1' q7 5 q3 3 0 0 0 q0 2 q1 x q4 q4 q4
+3 q2 2 q4 q4 q4 3 q2 2 q2 q2 q2 1 q7 7 q2 q2 q2 1 q7 7 1 - - - 1 - - - x - q1 q1 - x' 1
+%END

@@ -1,0 +1,23 @@
+%说苏.txt
+% 出处 https://www.jianpujia.com/
+title=说苏
+tag=
+usertag=
+tagroute=
+confidence=0.941
+conf_p10=0.869
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-13695
+%--
+4/4
+subtitle=score
+1 - - - x'. x x x qx. x q1 x ,,x q,3 q,5 ,6 q,6 q1 q,7 s1 s7 q,6 q,5 ,3 q,2 s3 s2 ,1 q,3 q,5 ,6 q,6 q1 q,7 s1 s7 q,6 q,5 ,3 -
+- q,3 q,5 ,6 q,6 q1 q,7 s1 s7 q,6 q,7 1 2 3 q2 q1 ,6 q,6 q1 q,7 s1 s7 q,6 q,5 ,6 - - q,3 q,5 ,6 q,6 q1 q,7 s1 s7 q,6 q,5 ,3 q,2 s3
+s2 ,1 q,3 q,5 ,6 q,6 q1 q,7 s1 s7 q,6 q,5 ,3 - - q,3 q,5 ,6 q,6 q1 q,7 s1 s7 q,6 q,7 1 2 3 q2 q1 ,6 q,6 q1 q,7 s1 s7 q,6 q,5 ,6 -
+- q,6 q,1 ,2 q,2 q,3 ,,6 q,6 q,1 q,2 q,2 q,2 q,3 q,1 q,2 q,3 q,5 ,6 q,6 q,5 q,3 s5 s3 q,2 q,5 q,3'. 0 q,3 ~ ,3 - s,6 q,1 ,2 q,2 q,3 ,,6 s,6 q,1 ,2
+q,2 q,3 ,5 q,3 q,5 ,6 q,6 q1 q,7 s1 s7 q,6 q,5 ,6 - - q,3 q,5 ,6 q,6 q1 ,7 q,6 q,5 q,3 q,5 q,2 q,3 ,1 q,3 q,5 ,6 q,6 q1 q,7 s1 d7 q,6 q,5 ,3
+- - q,3 q,5 ,6 q,6 q1 q,7 s1 d7 q,6 q,7 1 ,7 ,6 q,5 q,6 1 q,6 q1 ,7 q,6 q,5 ,6 - - q,3 q,5 ,6 - - q,6 q1 2 q2 q3 ,6 q,6 q1 2
+q2 q3 q1 q2 q3 q5 6 q6 q5 q3 s5 s3 q2 q5 q5'. 0 0 q3 ~ 3 - s6 q1 2 q2 q3 ,6 s6 q1 2 q2 q3 5 q3 q5 6 q6 q1' q7 s1'
+s7 q6 q5 6 - - - 0 0 0 s3 s5 ,6 - - -
+%END

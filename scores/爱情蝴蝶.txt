@@ -1,0 +1,19 @@
+%爱情蝴蝶.txt
+% 出处 https://www.jianpujia.com/
+title=爱情蝴蝶
+tag=
+usertag=
+tagroute=
+confidence=0.979
+conf_p10=0.965
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-11114
+%--
+4/4
+subtitle=score
+- - - - q,5 q,6 ,5 3 q3 q2 q1 s,6 s,5 ,5 q1 q2 3 3 q5 s1 s2 q3 q3 2 ~ 2 - 0 q5 q5 q5 s3 s5 q3. s3 q3 s2 s3 q2 q1
+,6 q,5 s,5 s,6 ,5 3 q3 q2 1 - 0 0 0 q,5 q,6 ,5 3 q3 q2 q1 s,6 s,5 ,5 q1 q2 3 3 q5 s1 s2 q3 s3 s2 2 ~ 2 - 0 q5 q5
+q5 s3 s5 3 q3 s2 s3 q2 q1 ,6 q,5 s,6 s,6 ,5 3 q3 s2 s1 1 - 0 0 0 q4 q4 4 6 q6 s5 s3 5 - q1 q2 3. q4 q3 s2 s1 1
+- q1 q2 3. q2 q1 q,6 q1 q,6 ,5 q3 s3 s6 5. q,7 1 - - 0 0 - - - - - 1 - - 0 0 - - - 1 - - 0 0 - -
+%END

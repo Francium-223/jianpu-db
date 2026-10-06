@@ -1,0 +1,23 @@
+%画堂春.txt
+% 出处 https://www.jianpujia.com/
+title=画堂春
+tag=
+usertag=
+tagroute=
+confidence=0.980
+conf_p10=0.984
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-11077
+%--
+4/4
+subtitle=score
+s0 s2 s5 s2 s2 s1 s1 s2 ~ s2 s1 s3 s3' ~ s3' s2 s2 s1 s0 s2 s,5 s2 s2 q2 s1 s2 q3 s3' ~ s3' s2 s2 s1 s0 s2 s,6 s2 q2 s,6 s3
+~ s3' s2 s2 s2 ~ s2 q1 s,7 s,7 s,7 s,7 s,7 s,7 s,7 q1 2 0 s0 s2 s,5 s2 s2 q2 s2 ~ s2 s1 s3 s3' ~ s3' s2 s2 s1 s0 s2 s,5 s2 s2
+s1 s1 s2 ~ s2 s1 s1 s3' ~ s3' s2 s2 s1 s0 s2 s,6 s2 s2 s1 s1 s3 s3 s2 s2 s2 s1 q1 s,7 s,7 s,7 s,7 s,7 s,7 q1 s2 ~ s2 q1. ~ 1
+0 0 q1 q5 q5 s3 s2 s1 s5 q5 q5 s3 s2 q2 s6 s1 ~ 1 0 0 q1 q5 q5 s3 s2 s1 s5 q5 q5 s3 s2 q2 s3 s2 2 0 q0 s3 s2 q2.
+s,6 q,6 s3 s2 q2. s,6 q0 s,7 s,7 s,7 q,7 s1 q2. s2 1 - 0 0 q1 q5 q5 s3 s2 s1 s5 q5 q5 s3 s2 q2 s,6 s1 ~ 1 0 0 q1 q5 q5 s3
+s2 s1 s5 q5 q5 s3 s2 q2 s3 s2 ~ 2 0 q0 s3 s2 q2. s,6 ~ q,6 s3 s2 q1. s,6 q0 s,7 s,7 s,7 q,7 s1 q2'. s2 s1 q1. ~ 1 0 0 - -
+s1 q1. 1 0 0 s0 s1 s1 s1 s1 s,5 s,5 s1 s1 s1 s1 s1 s1 s1 s2 s1 s0 s1 s1 s1 s1 s,5 s,5 s1 ~ s1 d1 d1 s1 s1 q1 q2 s1 q1. ~
+1
+%END

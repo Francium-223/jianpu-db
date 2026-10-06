@@ -1,0 +1,24 @@
+%一段情缘一场梦.txt
+% 出处 https://www.jianpujia.com/
+title=一段情缘一场梦
+tag=
+usertag=
+tagroute=
+confidence=0.960
+conf_p10=0.908
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-14203
+%--
+4/4
+subtitle=score
+qx - 6 q4 x. x s0 s5 s6 s5 3 s3 s2 s3 s5 3 q0 s3 s5 q6 q5 s5 s6 s5 s2 3 q0 s3 s5 2 s2 s3 s5 s6 ,6 q0 s1 s3 q2. s5
+s5 s1 s1 s6 ,5 q0 s5 s6 q1' q6 s5 d6 d5 s3 s2 3 q0 s3 s5 q7 q5 s3 s5 s1' s1' 6 s0 s,6 s1 s3 2. q6 q5 q3 q2' s1 s,6 1 - -
+q0 s,5 q3 q3 q2 q3 5 q0 s3 s2 q1 q1 q2 q3 ,5 q0 s3 s5 q6 q1 q1 s5 s6 3 q0 s2 s1 q2 s2 s3 q2 q1 2 q0 s5 q3 0 - q3 q2
+q3 5 q0 s3 s2 q1 q1 q2 q3 ,5 q0 s5 s5 q6 q1 q1 s5 s6 3 q0 s2 s1 - q2 s2 s3 q6 s1 s2 - 1 - 0 q0 s5 s6 q1' q1' q1' q6
+1' q0 s5 s6 q1' q2' s2' s1' s6 s5 6 q0 s6 s6 q6 q6 q6 s5 s4 4 q0 s6 s1 q2 q2 q6 s1' s1' 5 q0 s5 s6 q1' q1' q1' q6'. 1' q0 s5 s6
+q1' q2' s2' s1' s6 s5 6 q0 s6 s6 q6 q6 q6 q5' 4 q0 s6 s1 q2 q2 ~ 2 - q2 s6 1 - - x q0 s1 s2 q6 q6 s6 s5 s3 s2 3 q0
+s2 s3 q5 q5 s5 s3 s2 s1 q2 q2 q0 s5 s6 q1 q1 s1 s2 s3 s5 q6 s5 s3 q0 s3 s5 q1' q1' q6 s5 s3 3 q0 s3 s5 q1' q1' s1' d1' d6 s5
+s3 q2 q5 s2 d3 d2 s1 s6 1 - - q0 s5 1 - - q0 s5 s6 1 - - q0 s6 s1 q2 q2 2 - s4' q2' s2' q6' 1 1 - - - - -
+- q6' q1' q6 s5 s3 3 q0 s5 s3 q2 5 q3 2 s2 d3 d2 s1 s6 1 - - -
+%END

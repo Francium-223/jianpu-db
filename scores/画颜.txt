@@ -1,0 +1,21 @@
+%画颜.txt
+% 出处 https://www.jianpujia.com/
+title=画颜
+tag=
+usertag=
+tagroute=
+confidence=0.970
+conf_p10=0.934
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-12123
+%--
+4/4
+subtitle=score
+1 - - - x ,1 ,x 1. x 1 3. ,3 ,7 - ,6 ,5 ,3 - 1'. s2' s1' 7. q5 6 0 q5 q3 6 - - - 1 q1 q1 s7 q7 3 ,6 q,5 q,6
+,3 - ,4 q,4 q,4 q,3 q,3 ,6 q1. s1 ~ q1 q2 ,7 - 1 q1 q1 q,7 q,7 3 ,6 q,5 q,6 ,3 - ,4 q,4 q,4 q,3 q,3 ,6 - q1 q3 q,7 s1 s7 - ,6
+- 0 q0 q2 q3 s3 s2 q3 q1' q7 s6 s5 5 q6 s6 s5 q3 q2 3 - q4 s4 s3 q4 q5 q3 s2 s1 1 q1 s1 s6 q1 q2 3 q0 q2 q3 s3 s2
+q3 q1' q7 s6 s5 5 q6 s6 s5 q3 q2 3 - q4 s4 s3 q4 q5 q3 q2 1 q1 q3 q7 q1 ,6 x - - q7 1' q2' 7 - 6 5 3 - 1'. q2'
+7 - 6 5 6 - x. q1 q3 q7 q1 ,6 - - 3. q1' 7 5 6 0 5 3 - 6. q4 3 3' 2'. q6 7 q0 q2 - q1 q3 s7 q1 - ,6 -
+- 0 x q3 4 q5 3 - 1 ,7 - - ,6 - - - ,6 - - - 0 0 0
+%END

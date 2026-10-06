@@ -1,0 +1,23 @@
+%一叶轻舟渡花雨.txt
+% 出处 https://www.jianpujia.com/
+title=一叶轻舟渡花雨
+tag=
+usertag=
+tagroute=
+confidence=0.952
+conf_p10=0.922
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-13433
+%--
+4/4
+subtitle=score
+1 - - - - - - x x qx. q1 x ,,x 3' q3'. 3'. q6 q1' q3'. q3' 2' - - - 2'. q5 ~ q5 q7 2' qx'. q1' ~ 1' - q3 q5 6 - -
+q5 q3 q3 q2 ~ 2 - q2 q,6 ,7 - - q,6 q,5 q,6 q1 q,7 q,5 ,6 - ,6 q1 q2 3 - 3 q2 q1 ,6 - 3 x 1 x q,6 q1 q1 q,6 1 q2
+q4 3 - - 0 q2 3 q,6 2 - q3 s4 s3 q2 s3 s2 1 - ,7 q2 q3 2. q,7 ,6 - - 0 q2 q3 q2 q3 3 - 2 q2 q3 ,6 - s6 q1
+q1 s6 q1 q2 q5 q4 3 - - 0 q3 6 q5'. 6 - q5 q,6 q4 q3 2 - q,7 q3 q2 q3 2. q,5 ,6 - - 0 q6 q5 q6 q1' 7 q5 q7 6 -
+- 0 q6 q5 q6 q3 2 q5 q4 3 - - 0 q2 3 s6 2 - q2 q3 q2 q3 1 - s6 q1 q1 q3 2. s7 ,6 - - - q3 q5 q6 q1' 7 5
+6 - - 0 q6 q5 q3 q2 1 5 3 - - 0 ,6 q2 q3 2 5 3 q2 q3 1 - q,6 q,7 q1 q3 2. q,7 ,6 - - 0 5'. 6 - q6 q3 q6
+q3 2' - - - 5. q6 q7 q6 5 3 - - - q3 q5 q6 q1' 7. q5 6 - - q6 q7 1'. q3' 2'. q7 6 - - - ,6 - - 0 ,6 - -
+0 s6 s7 q1 q3 2. q5 6 - - - 6 - - -
+%END

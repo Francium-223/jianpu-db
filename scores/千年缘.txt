@@ -1,0 +1,18 @@
+%千年缘.txt
+% 出处 https://www.jianpujia.com/
+title=千年缘
+tag=
+usertag=
+tagroute=
+confidence=0.950
+conf_p10=0.801
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-14596
+%--
+4/4
+subtitle=score
+x ,4' - - 6 - 6 - - 0 0 0 0 0 0 - q,6 q6 0 0 0 ,6' - - 6 q4 q4 2. q,6 q4 4 - 0 0 - q,6 q4 6 - 0
+0 - 1. x - - ,6. 0 6' 0 0 0 0 0 0 0 0 0 - 0 0 0 0 1. x 4' 4' 4' q4' 0 q4' 0 q4' 0 q4' 0 - - - -
+6 2. q,6 0 4 -
+%END

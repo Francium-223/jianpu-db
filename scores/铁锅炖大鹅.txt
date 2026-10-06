@@ -1,0 +1,25 @@
+%铁锅炖大鹅.txt
+% 出处 https://www.jianpujia.com/
+title=铁锅炖大鹅
+tag=
+usertag=
+tagroute=
+confidence=0.962
+conf_p10=0.898
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-12305
+%--
+4/4
+subtitle=score
+1 1 1' 1 1 5 5 6 6 5 - 4 4 3 3 - 2 2 - 1 - - s0 s2' s2' 3'. q2' 3'. q2' 3. q3 q3' q3' q2. q2' q3' q3. q5' x x
+6'. q5' q5' 6'. q5' 6'. q5' q6' q5' q4' q3' 2'. s2' s2' 3'. q2' 3'. q2' q3' q2' q3'. q5' 6'. q5' q6' q5' q1' q1' 6' 3' 5' - - - q3. s2 q3 q2 q2 q3
+q3. s6 q1 q1 q1 q,6 1 - q2 q2 q2 q,6 q2 q3 2 q5 q5 q5 q6 2 - q3. s2 q3 q2 q3 q5 5 q6 q6 q6 q5 3 - q2. s2 q2 q6 q2 q3
+q2. s2 q5 q5 q5 q3 5 - q3 q3 q3 q2 q3 s3 s2 q3. s6 q1. s1 q1 q6 1 - q2 q2 q2 q6 q2 q3 2 q5 q5 q5 q6 2 - q3. s2 q3 q2
+q3 q5 5 q6 q6 q6 q5 3 - q2. s2 q2 s6 q2 q3 q2. s2 q5 s5 s5 q5 q3 5 - 5 5 5 - q3 q5 q6 q1' 6 - q2. s2 q2 q6 q2 q3
+q2. s2 q5 q5 q5 q6 2 - q3 q3 q3 s3 s2 q3 q5 5 q1' q1' q1' q7 6 - q2. s2 q2 q6 q2 q3 2 q5 q5 q6 q3 5 - 5 5 5 - q3
+q5 q6 q1' 6 - q2. s2 q2 q6 q2 q3 q2. s2 q5 q5 q6 q3 5 - q3. s3 q3 q2 q3 q5 5 q1' q1' q1' q7 6 - q2. s2 q2 q6 q2 q3 2 q5
+q5 5 - q2 q3 1 - x q0 s5 s6 q1' q2' 1'. q5' q1' q1' q1' q7 q7' q1' q7 3' q7 q7 q5 6. s5 s3 q5 q3 q2 q,6 s7 s1 s7 s6 q,7 s1 s2
+s3 s4 s3 s2 s3 s4 q5 5. q2' q1' q1' q1' q5' q1' q1' q1' q6' q6'. q5' 5' 4' - - - q3 q1 q7 q2 2 - x. 1 - - 0 1 - - - q2.
+s2 q2 q6 q2 q3 2 q5 q5 5 - q2 q3 1 - - - 1 - - - - q1 q1 - x' 1
+%END

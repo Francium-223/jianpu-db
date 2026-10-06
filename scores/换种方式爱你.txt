@@ -1,0 +1,22 @@
+%换种方式爱你.txt
+% 出处 https://www.jianpujia.com/
+title=换种方式爱你
+tag=
+usertag=
+tagroute=
+confidence=0.960
+conf_p10=0.925
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-12337
+%--
+4/4
+subtitle=score
+1 - - - x x x' ,1 ,x x 1 x q0 s1 s2 q5. s3 ~ q3 q6 5 s0 s5 s3 s2 q1. s2 ~ q2 q5 3 - 0 3. s6 s5 q5. s3 ~ q3.
+s6 q,6. s3 s3 s2 s1 s2 q2. s3 ~ s3 q2. 2 q0 s5 s6 s1 q1 s1 s2 q3 s6 ,6 q0 s6 s1 s2 q2 s1 s2 q3 s6 ,5 - s6 s6 s6 s5 s6 q5
+s3 s2 s1 q,6 q0 s6 s3 s2 q2 s1 q,6 q3 2 q0 s5 s6 s1 q1 s1 s2 q3'. s1 ,6 q0 s6 s1 s2 q2 s1 s2 q3 s6 ,5 - s6 s6 s6 s5 s6 q5
+s3 s2 s1 q,6 q0 s6 s3 s2 q2 s1 q2 q3 1 q0 s1 s2 q5 3 s5 s6 5 - q6 q6 q5. s2 3 q0 s6 s1 s3 s2 2 s2 s3 ,6 - q6 s1' s1'
+~ q1' q3 5 q0 s1 s2 q5 3 s5 s6 5 - q6 q6 q5. s2 3 q0 s3 s5 s3 s2 2 s2 s3 ,6 q0 s6 s5 q6 s5 s5 ~ q5 s2 s3 1 - 1
+x q0 s1 s2 q5. s3 ~ q3 q6 5 q0 s3 s2 q1. s6 q,6 q5 3 0 - 3. s2 3 s3 q1. 2 q1 q,6 1 - 1 x q0 s5 s6 1 - 1 q0 s1
+s2 1 - 1 q0 s6 s5 q6 s5 s5 5 0 3 1 - 0 0
+%END

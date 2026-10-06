@@ -1,0 +1,20 @@
+%请以我姓名.txt
+% 出处 https://www.jianpujia.com/
+title=请以我姓名
+tag=
+usertag=
+tagroute=
+confidence=0.954
+conf_p10=0.909
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-12748
+%--
+4/4
+subtitle=score
+1 - - - x q1 1 1. ,x x q5 q6 q1' q5 6 q5 q6 1'. q2' q2'. s1' q6 q5 3' - - q5' q6' 2' - - 6 5' - 3' - 2'. q3' 3' q1'
+q2' 6 - - q6 q1' 2' - - - q2 q5 q3 q5 2 q2 q1 2. q3 ,6 - q2 q6 q5 q6 2 q2 q1 ,6. q3 2 - q2 q3 q5 q2 3 q3 q2 3.
+q5 6 - q6 q5 q5 q3 2 q6 q3 2. q6 5 - q2' q1' q1' q6 1' q7 q1' 2'. q3' 6 - q3' q2' q2' q6 2' q2' q1' 6. q3' 2' - q3' q7 q7 q5
+5. q3 2'. q3' 3' q0 s1' s2' q3' q1' q2' q6 7. q1' 1' - - 0 s2' s3' s2' s3' s2' s3' s2' s3' s5' s6' s5' s6' s5 s6 1. q2 q3 q5 q6 q3 2 -
+- - 2' - - 0 1' - - 0 q3' q7 q7 q5 5 q5 q3 2'. q3' 3' q0 s1' s2' q3' q1' q2' q6 7. q1' 1' - 0 0 0 0 0 0
+%END

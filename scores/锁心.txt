@@ -1,0 +1,24 @@
+%锁心.txt
+% 出处 https://www.jianpujia.com/
+title=锁心
+tag=
+usertag=
+tagroute=
+confidence=0.963
+conf_p10=0.928
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-12184
+%--
+4/4
+subtitle=score
+1 - - - x x ,1 ,x 1. x 1 x 0 s6 s7 q1' q1' q6 7 s6 s5 q6 q5 q2 3 s6 s7 q1' q1' s7 s6 q7 q7 q5 6. 0 s1 s2 s3 s2
+s3 s2 q1 2 s2 s3 s2 s1 s2 s1 q,7 1. s1 s7 s1 s7 q,6 q,7 q,7 q,5 ,6. ,6. ,6. ~ ,6. q3 q2 q1 2. 3. 0 s6 s7 q1 1 q2 q1 q,7 ,6. 0
+q3 q2 q1 2 q1 3. 0 s6 s7 q1 1 q2 q5 q2 3. 0 q6 q6 q6 5. 2. 0 s1 s2 q3 5 q2 q3 q2 1. 0 s6 q1 1 s6 3 2. 0 s2 s3
+q5 q5 q5 5. 6. 6. 6. 0 s6 s7 1. q1' q7 q5 6 s6 s6 q5 q3 q2 3 s6 s6 q6 q6 q6 5 q6 3. 0 s2 s3 q4 q3 q2 4 s2 s4 q3 q2
+q3 1 s6 s6 q6 q6 q6 q5 q6 q5 3. 0 s6 s7 q1' q7 q5 6 s6 s6 q5 q3 q2 3 s6 s6 q6 q6 q6 q5 7 3. 0 s2 s3 q4 q3 q2 4 s2
+s4 q3 q2 q3 1 s6 s6 q6 q6 q6 q5 q3 q5 6. ~ 6. x q3 q6 q1' q7 q7 q5 q2 q5 q5 6. q3 q1' q1' q7 q5 q6 3 s3 s2 3. q0 s1 s7
+s1 s2 s3 s4 s5 s6 s7' s1' q2' q2' q5 6 s6 s7 q7 q6 q7 q7 q5 6. 6. 6. ~ 6. 6. ~ 6. q2 q2 q4 q3 q3 s2 s4 q3 q2 q3 1 s6 s6
+q6 q6 q6 q5 q6 q5 3. 0 s2 s3 q2 q2 q3 q4 q5 q4 q3 q2 q3 1 s6 s6 q6 q6 q6 q5 q3 q5 6. 6. 6. 0 s6 s7 6. 6 s6 s6 q6 6
+q7 q1 q7 q6 6 6. 6. 6. 0 - q1 q1 - x' 1
+%END

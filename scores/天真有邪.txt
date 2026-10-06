@@ -1,0 +1,23 @@
+%天真有邪.txt
+% 出处 https://www.jianpujia.com/
+title=天真有邪
+tag=
+usertag=
+tagroute=
+confidence=0.896
+conf_p10=0.709
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-11712
+%--
+2/4
+subtitle=score
+3'. s5 s7 ~ s7 q2. q1 q,7 q,6 q,7 1 1 - q0 q,6 x 7' q1 - 0 q0 s6 s5 x' q,5 q,7 q,3 q,7 ,3 - q,6 q,1 q,3 q,1 ,3 - q,5 q,1 q,3 q,1
+,5 ,1 q,4 s3 s4 q4 q1 q1 s7 s1 q1 q2 2 2' - - q1 q3 - - q2 q,6 6 0 q,6 q,7 q1 q3 x q,2 q,6 ,1 - - q,5 q,2 q,5 q,2 ,5 ,,5
+5 q,4 q,1 q,4 q,1 q,6 q,1 q,4 q,1' q,1 q,2 q,6 q,2 q,6 q,4 q6. q,6 q,2 q,6 - - 4 q3 1. 2 - 0 0 q7 s5 s5. s3 3' 1 s1 s3. 0 s5. 7 s5
+q5 d3 s3. s0 3 s4 5. q,4 q,1 q,4 q,1 q,6 q,1 q,4 q,1 q,5 q,2 q,5 q,2 ,7 - q,1 q,5 q,1 q,3 q,5 q,3 q,1 q,5 q,3 q,7 q,3 q,5 q,7 q,5 q,3 q,7 x q6 s6
+s6 s6. q5 s1' s6 d5. 0 q3 x s3 q1 q1 q,6 1. x. q1 1 q1 s2 s2. x q2 q1 5 4 q,7 q,2 ,5 q,6 q,1 ,3 q,4 q,1 q,4 q,1 q,4 q,1 q,4 q,1 q,4
+q,1 q,6 q,1 q,7 q,2 q,4 q,7 q3 x q5 q5 x s5 s6. ~ q6 q5 x. s3 s1 q1 6. s6 ~ 6 q0 q,6 x 7'. q1 q1 s2 s2. 0 3 4 ,3 ,4 q,3 q,7
+q,5 q,7 q,6 q,1 q,3 q,6 q,4 q,1 q,4 q,1 q,4 q,1 q,4 q,1 q,5 q,2 q,5 q,2 ,,6 ,,7 x q7 x s5 d5. s3 d3 q3 s1 s3 x 3' q5. q7 d5 s5 s3 s3 4 3
+s0 s3 s4 s5 q6 s6 s6 s6 s5 h1' s6 s5 s5 q3 s3 ,,,3 q,1 q,5 q,1 q,5 q,3 q,5 q,1 q,5 q,3 q,7 q,3 q,7 q,5 q,7 q,3 q,7 q,7 q,2 ,5 ,,6 q,3 q,6
+%END

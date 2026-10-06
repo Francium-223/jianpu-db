@@ -1,0 +1,23 @@
+%爱情路.txt
+% 出处 https://www.jianpujia.com/
+title=爱情路
+tag=
+usertag=
+tagroute=
+confidence=0.950
+conf_p10=0.849
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-11963
+%--
+4/4
+subtitle=score
+1 - - x - x x x 1. x s5 s1' s1' s2' s1' s1' s3' s6' 5' - 0 - s3' s2' s1' s3' s2' s1' s6 s3 q5 s2 s3 ~ 3 5 - q5 q3 q2
+s7 q1 q2 q4 q6 5 - s5 s6 s1 s2 3 s3 s2 s1 s6 q,5. s5 s6 s1 s1 s6 q1 q2 3 - s1 s2 s3 s5 6 s6 s5 s5 s3 q5. s5 s2 s2 s2
+s1 s2 s3 q,6 2 - s5 s6 s1 s2 3 s3 s2 s1 s6 q,5. s5 s6 s1 s1 s6 q1 s5 s3 3 - s1 s2 s3 s5 6 s6 s5 s5 s3 q5. s5 s2 s2 s2
+s3 s2 s1 q1 q,6 q5 5 5 q0 s1 s2 3 q3 s5 s6 q5. s5 q3 s2'. s2 q1. s5 s6 s1' s1' s6 s6 s5 q3 5 q0 s3 s5 q6 s6 s1' s1' q6 s3 q5
+s5 s6 s5 q3 s5 s2 s2 s2 s3 s3 s2 q1 2 q0 s1 s2 q3 s5 s6 q5. s5 q3 s2'. s2 q1. s5 s6 s1' s1' s2' s1' s6 q3 5 q0 s3 s5 q6 s6 s1'
+s1' q6 s3 q5 s5 s6 s5 q3. s6 s1 s2 s6 s5 s3 s2 s3 ~ s3 q1. x q0 s1 s2 q3 q5 q4 q3 5 q4 q1 6 4 5 - 4 q5 q4 3 1 2
+s7 q1 2 - x. s3 q1. 1 s3 q1. q0 s3 s5 q6 s6 s1 s1 q6 s3 q5 s5 s6 s5 q3. s6 s1 s2 s6 s5 s3 s2 s3 s3 q1. 1 s5 s6 s1 s2 s3
+s1 s3 s6 5' - 0 - s3' s2' s1' s3' s2' s1' s6 s3 q5 s2 s3 ~ 3 5 - q5 q3 q2 q7 ,6 - ,6 - 5 - 5 -
+%END
