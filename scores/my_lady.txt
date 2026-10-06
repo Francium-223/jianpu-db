@@ -1,0 +1,21 @@
+%my_lady.txt
+% 出处 https://www.jianpujia.com/
+title=my_lady
+tag=
+usertag=
+tagroute=
+confidence=0.920
+conf_p10=0.779
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-14925
+%--
+3/4
+subtitle=score
+0 q0 q5 q1 q1 1 1 q1' q1 q7 q4 q2 4. 2. q6 q3 q2 3. 2. q5 q4 q2 4. 2. q2 q6 q5 0 0 2' 7 5 5' 4' 2' 7 ,6. q,7 q,5 7
+5 q,6 q,7 0 0 0 0 ,3 q0 q4 0 0 ,2 0 0 0 ,4' ,4' 2' q0 q3' q3 q3' 3' q6 q6' q2 q6 q5 q5 q7' q2 7 q1' q5' q2' q4 5. 2. 4.
+q2' q7' q5 2 7 5 0 0 4. q4' q2' q7' q5 q7 q2 q7' q5' q4 0 ,6 q0 q1 q1 q1 0 0 ,7 0 0 0 ,3 q0 q4 q2 4 2 0 ,3 0 ,2
+0 ,6 ,5 6 5 ,6 4 2' 4 2' q0 q,3 q,1 q1 q1 q,7 1. q,6 q,6 q,4 q,2 q0 q,5 ,7. q,6 6. q,7 q,5 7 5 0 0 ,7 ,5 ,4' ,5' ,6' ,6 0 0
+0 ,7 ,7 0 0 ,3 0 0 0 ,3. q,3 ,2 0 6 ~ 6 ,4 q0 q,6 q6 q,6 q6 q,5 q,5 q,4. q,4 q,2 ,4. ,4 ,2 q,5 q2 q2 q3 0 0 q0 q,7 q,5 0
+0 ,5 ,2 0 q,4 q,2 q,5 0 ,6 ,6 0 q0 q,7 0 0 0 0 ,3. q,4 0 q0 q,3 0 0 ,2 0
+%END

@@ -1,0 +1,18 @@
+%We_Are_The_World.txt
+% 出处 https://www.jianpujia.com/
+title=We_Are_The_World
+tag=
+usertag=
+tagroute=
+confidence=0.860
+conf_p10=0.564
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-14771
+%--
+4/4
+subtitle=score
+2. 0 0 6. q1 1. 0 ,4'. 0 1. 0 0 0 0 0 0 0 0 0 q,4 q,6 q,4 0 0 x 5'. s,6 0 q6 s3. 0 q6 s6 s4 sx. 0 1. 0 0 0
+- 0 0 0 0 0 0 0 0 1. 0 0 s4. 0 0 0 0 0 0 x. ,,6 ,4 ,,6 ,4 q,4 ,,4 ,,6 ,,4 ,,6 ,4 ,,6 0 0 x q6' 0 ,6' ,6' q,4 ,6
+,4 q6 ,x. 0 ,6' q6' - 0 1. 0 - 0 - 0 - 0 - - 0 - 0 - 0 - 0 0 0 - 0 - 0 -
+%END

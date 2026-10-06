@@ -1,0 +1,21 @@
+%history.txt
+% 出处 https://www.jianpujia.com/
+title=history
+tag=
+usertag=
+tagroute=
+confidence=0.929
+conf_p10=0.728
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-14937
+%--
+4/4
+subtitle=score
+1 0 0 0 qx - - 2 q1 0 q2 q2' q2 q2' q2 q2' q2 q2' q2 q2' q2 q2' q4 q4' q4 q4' q6 q6' q6 q6' q5 q5' q5 q5' q4 q4' q4 q4' 0 0
+6'. ,6 ,6 - - ,6 ,6 ,6 ,6 - ,6 ,6 - ,5 ,5 - ,5 ,5 - ,6 ,6 - 0 0 x 5 x 4 4 0 0 0 2 5 q5 q5 ~ 5 4 0
+0 0 0 1 2 ,,2' ,,2 0 0 ,,2' ,,2 0 0 ,,6 ,,6 0 ,2 ,,2 0 ,1 ,,1 q,1 q,1 q,,7 q,7 ,1 ,7 ,,7 ,,7 ,,1 ,,7 ,,6 ,,6 x x 4 4 0 0 0
+2 5 q5 q5 ~ 5 4 0 0 0 0 q1 2. ,2 ,2 0 0 ,2 ,2 0 0 q,6 q,6 0 ,2 ,2 0 0 ,2 ,2 ,2 ,2 ,2 ,2 q,1 q,1 ,2. ,2. 1 3
+4 4 0 0 0 2 5 q5 q5 5 4 0 0 0 0 q1 2. ,,2' ,,2 0 0 ,,2' ,,2 0 0 ,6 ,,6 0 ,2 ,,2 0 ,1 ,,1 q,1 q,1 q,7 q,7 ,7 ,7 ,7
+,,7 ,1 ,,7 ,6 ,,6
+%END

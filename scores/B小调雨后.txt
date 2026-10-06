@@ -1,0 +1,19 @@
+%B小调雨后.txt
+% 出处 https://www.jianpujia.com/
+title=B小调雨后
+tag=
+usertag=
+tagroute=
+confidence=0.953
+conf_p10=0.896
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-13601
+%--
+4/4
+subtitle=score
+1 - - - - - x. x qx. 1. 0 q,6 4. 3. 3. q3 q3 q3 q2 q1 q,7 2. 0 q,3 2 1. 1. q,6 q,7 q1 q1 q2 q4 s3 s4 s3 s4 s3 s4 3
+q3 7 6. 6. q6 q6 q6 q5 q4 q3 5. q5 q0 s5 5 4. 4. q4 q3 q2 q3 q,7 q,5 ,6 q,6 4 ,6 q0 s6 s7 s1 s2 q3 q7 q7 q7 q7 q6 q5 6.
+q6 0 q7 q1' q2' q2' q1' q7 1'. ~ q1' 0 q1' q1' q1' q1' q7 q6 q3 q6 q3 ~ q3 q7 q3 6. q6 0 q,x. 0 s6 4. q7 q7 q7 q7 q6 q5 6. q6
+0 q7 q1' q2' q2' q1' q7 1'. q1' 0 q1' q1' q1' q1' q7 q6 q3 qx q6 q3 q3 q7 q3 6. q6 0
+%END

@@ -1,0 +1,23 @@
+%万水千山永相伴.txt
+% 出处 https://www.jianpujia.com/
+title=万水千山永相伴
+tag=
+usertag=
+tagroute=
+confidence=0.968
+conf_p10=0.932
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-12460
+%--
+4/4
+subtitle=score
+x q5 q6 1'. q2' q3' q2' q3 5 - - q7 6. q5 q6 q5 s6 q3 2 - - q2 q3 q5 q6 q5 q3 5 - q2 s2 s3 q2 q,7 ,6 q,6 q1 2. q3 2
+q,6 q,5 1 - - - q,5 q,6 q1 q2 q3 q5 q6 q3 5 - 0 0 - q6 q1' q6 q5 q3 q5 q1 q,6 2 - - 0 q3 q5 q5 q3 q2 q3 q1 q,7 ,6
+- 0 0 q2 s2 s3 q2 q3 q2 3 q,6 ,5 - 0 0 q,5 q,6 q1 q2 q3 6 q3 5 - 0 0 q6 q1' q6 q5 q3 q5 q1 q,6 2 - - 0 q3 q5
+q5 q3 q2. s3 ~ q3 q1 ,6 - 0 0 q2 q2 q2 q1 q2. s2 ~ q2 q3 5 - 0 q5 q6 1'. q2' 1' - q1' q2' q7 s6 s5 5 - q6 q1' q6 q5
+q6 5 s6 2 - - q2 q3 5. q6 5 - s6 q5. q3 q2 ,6 - q5 q5 q5 q3 q3 q2 q1 s6 1 - - q1' q2' 3' - q3' q2' q3' q6' 5' - -
+q3' q5' 6'. q5' q6 q1' q5' q3' 2' - - q2 q3 q5 s5 s6 q5 q3 5 - q3 q5 q2' q7 6 q6 q1' 2'. q3' 5' q3' q2' 1' - - - x. 1 - -
+q5 q6 1 - - q5 q6 1'. q2' q3' q2' q1' q3 5 - - q1' q7 6. q5 q6 q5 s6 q3 2 - - q2 q3 q5 q6 q5 q3 5 - q2 s2 s3 q2 s7
+,6 - 2'. q3' 2' q6 q5 1' - - - 1' - 0 0
+%END

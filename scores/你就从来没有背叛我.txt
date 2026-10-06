@@ -1,0 +1,26 @@
+%你就从来没有背叛我.txt
+% 出处 https://www.jianpujia.com/
+title=你就从来没有背叛我
+tag=
+usertag=
+tagroute=
+confidence=0.968
+conf_p10=0.936
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-13078
+%--
+4/4
+subtitle=score
+1 - - - - x 1 1 x. ,1 x 1. ,,x 3' q3' q6' q6' q5' 6' - q6' q5' q1' q5' 3' - 2'. q2' 2' q6' q5' 3' - q0 s1 s1 q2 q3 q3 q6
+q6 q5 6 q6 s7' s1' 2'. q3' 2' s2' s3' q4' 5'. s5' s3' q6' q5' q5' q3' 6'. q6' 6' - 6' - 0 - q,6 q3 q3 q2 3 - q2 q2 q2 q,5 ,6 - q,6
+q1 q1 q1 q1 q,6 q6 q5 3 - 0 0 q3 q6 q6 q5 6 - q2 q2 q2 q3 2 q0 s1 s2 q2 q3 q2 q3 q5 q5 q5 s5 s6 ,7 - 0 0 q,6 q3
+q3 q2 3 - q2 q2 q,5 q,7 ,6 - q1 s1 s1 q1 q,6 q,6 q1 q6 q5 3 - 0 0 q3 q6 6 q6 q5 3 q2 s6 q2 q3 2 - q2 q2 q2 q3 q5
+q5 q5 q6 q1' q7 6 - 0 q3 q6 q6 q5 6 - q6 q5 s5 q5 3 - q2 q2 q2 q2 q2 q2 q6 q5 3 - 0 0 q3 q6 q6 q5 6 q3 q6 q3
+2 q1 2 - q5 s5 s5 q5 q6 7 q7 q7 q7 q6 7 - 0 q3 q6 q6 q5 6 - q6 q5 q1 q5 3 q0 s2 s2 q2 q2 q2 q2 q5 s5 s6 q7 q5
+3 - 0 0 q3 q6 q6 q5 3 q3 s6 2. q3 2 q0 s7 s7 q7 q3 q5 q3 q5 6. 0 0 q5 3 q1 6 - 0 0 q6 s5 s5 q5 s1 s2 3 -
+q0 s2 s2 q2 q1 q1 s2 s2 q2 q3 s6 s5 d3 d2 d3 d2 d3 d2 d3 d2 s1 d2 d1 s2 d1 d2 s1 d3 d5 s3 d5 d3 d2 d1 s2 q1 s6 s6 q,6 q,5
+q,5 q,6 q,6 q,5 q,3 q,2 q,2 q,1 q,1 s6 s1 ,2 s2 s2 q2 q3 q5 q5 q3 q6 q5 3'. q3' q3' s3' s3' 3. q3' s2' s1' 6 - - - 6 - - - 6 -
+- 0 6 - - 0 q1 q,5 q1 q2 3 - 2 q2 q3 q3 q5 q6 q5 3 - - q1 q,7 ,6. q,5 ,6 - q3 s6 s6 q3 2 - q2 q3 q3 q5 q6 q5
+q5 s5 s6 7 - - ,5 ,6 - - - ,6 - - -
+%END

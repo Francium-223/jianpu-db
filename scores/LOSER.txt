@@ -1,0 +1,26 @@
+%LOSER.txt
+% 出处 https://www.jianpujia.com/
+title=LOSER
+tag=
+usertag=
+tagroute=
+confidence=0.918
+conf_p10=0.796
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-14624
+%--
+2/4
+subtitle=score
+x q4 5 x s3 s3 s3 s3 s3 s3 q2 s3 s3 ~ q3 s4 s1 q4 q5 q6 q6'. 6 0 q0 s2 s1 s1 q2 s0 s2 s1 s1 s2 s0 s1 s2 s1 s2 s2 s2
+s1 q3 s1 s2 s2 s1 q2 ,5 ,5 - q,5 q,5 q,5 q,5 ,6 ,,6 - q,6 q,6 q,6 q,6 ,,6' ,,2 - - - ,,4 ,1 - - - x 4 x q2 q0 q2 s2 s2 s2
+s2 s2 s2 s2 s1 s2 s0 s2 s2 s2 s2 q5 6 q0 q6 q5 s6 s6 s6 s6 q6 s2 ,,2' ,,5 - - - ,,3' ,,6 - - - ,,6' ,,2 - - - ,,4 ,,1' -
+- - x 5 3 x q4 s2 s4 s2 s4 s2 s4 s0 s2 s4 s4 s2 s0 s5 q5 q5 s6 6 q2' s6 s6 q5 q5 q5 s5 q4. q2' s2' s6 s5 s6 q6 q5 s5
+q4. ,,5 ,2 - - - ,3 ,,6 - - - ,,6' ,,2 - q,6 q2 q,6' q,2 s2 q,2. ,,4 ,1 - q4 q1' q,4 q,1 s1' q,1. x 5 7 x q2' s2' s2' q6 q6 q5 s5
+q4 s2 s2 s2 s2 s2 q2 s2 s2 q4 q3 q2 0 2 q2 s1 s1 ~ s1 q2. q2 s2 s2 ~ s2 q6. s2 s2 s2 s2 ~ s2 q6 s1 ,,2' ,,5 - q,2 q5 q,2'
+q,5 s,2 q,2'. ,,3' ,,6 - q,3 q6 q,3' q,6 s,3 q,3'. ,,6 ,,2 - q6' q2 q,,6 q,2 s2 q,2. ,,4 ,,1' - q4 q,1 q,4 q,1' s,1 q,1'. x 6 1 x s2 s1 s2 s1 s2 s1
+s2 s1 s2 s1 s2 s1 s2 s1 s0 s1 q2 q1 q0 s2 s5 s6 q4. 0 s2 s2 q5 ~ q5 q4 q3 s3 q2. s6 s6 q6 q6 q5 s6 s5 ,5 ,2 - q,2' q,5 q,2
+q,5 s2' q,2. ,3 ,6 - q,6 q,3' q,3 q,6 s3' q,3. ,6 ,2 - q,6 q,2 q,6 q,2 s2 q,2. ,4 ,1 - q,4 q,1' q,4 q,1 s1' q,1. s5 q4. q3 q4 q5 6. 6 0 0 s2
+q2 s5 ~ q5 q4 q3 s3 q2. q6 s6 q6 q6 q5 ,5 ,2 - q2' q5 q,2 q,5 s2' q,2. ,3 ,6 - q6 q3' q,3 q,6 s3' q,3. ,3 ,2 - q,3 q2 q,6 q,2 s2 q,2.
+,4 ,1 - q4 q1' q,4 q,1 s1' q,1.
+%END

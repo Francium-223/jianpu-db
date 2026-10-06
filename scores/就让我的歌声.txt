@@ -1,0 +1,24 @@
+%就让我的歌声.txt
+% 出处 https://www.jianpujia.com/
+title=就让我的歌声
+tag=
+usertag=
+tagroute=
+confidence=0.964
+conf_p10=0.905
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-12167
+%--
+4/4
+subtitle=score
+1 - - - x x x q6 q6 q6 q7 1' q2' q1' 7 5 3 - q4 q4 q4 q5 s6 s5 q6 q1' q3' q7 q6 q5 q6 7 3 q6 q6 q6 q7 1' q2' q1'
+7 5 3' - 4 q4 q1' q7 6 q5 6 - - - 0 0 0 0 q6 q3 3 q3 q5 q5 q6 q3 q1 q2 q1 ,6 - q6 q2 2 q2 q1 ,6 q5 q2 q3
+q4 3 - q3 q6 6 q6 q7 q7 q1' q7 q6 q5 q6 3 - q6 q2 2 q4 q3 2 q,5 q,6 q2 q1 ,6 - q0 3 q2 q2 q5 q2 q1 q,6 q3 3 q3 q5
+q5 q6 q3 q1 q2 q1 ,6 - q,6 q2 2 q2 q1 ,6 q5 q2 q3 q4 3 - q3 q6 6 q6 q7 q7 q1' q7 q6 q5 q6 3 - q6 q2 2 q2 q3 1' q7
+q6 q5 q6 6 - 6 - - 0 q6 q6 q6 q7 1' q2' q1' q7 q6 q5 q2 3 - q3 q3 q3 q5 6 1' q7 q6 q5 q6 7 - q6 q6 q6 q7 1' q2'
+q1' q7 q6 q5 q6 3 - q4 q4 q4 q1' q7. s6 q6 s5 s6 6 - x - - - - 6. s3' s2' 3' q2' q1' q7 q6 q5 q2 3. s2 s1 2. q5 6 1'
+q7 q6 q5 q6 7 q3 q5 6. s3' s2' 3' q2' q1' q7 q6 q5 q2 3. s2 s1 q2 q3 1' q7 q6 q6 q5 6 - - - 0 0 0 0 x. 6 - - -
+6 0 0 0 6 - - - 6 - - - q4 q4 q4 q1' q7. s6 ~ q6 s5 s6 6 - - - q4 q4 q4 q1' 7 6 ~ 6 - 0 q5 q6 6 -
+- - 6 - - - 6 - - - x - q1 q1 - x' 1
+%END

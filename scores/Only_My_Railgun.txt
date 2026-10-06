@@ -1,0 +1,20 @@
+%Only_My_Railgun.txt
+% 出处 https://www.jianpujia.com/
+title=Only_My_Railgun
+tag=
+usertag=
+tagroute=
+confidence=0.822
+conf_p10=0.554
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-14786
+%--
+4/4
+subtitle=score
+1'. 0 0 0 0 0 0 0 0 0 0 q,4 s,4. s,1 q,4 q,6 q,6 q4' 0 0 0 0 0 q,6 q,6 q,6 q,6 q,6 q,6 q,4 q,4 q,4 q,4 q,4 q,4 ,6' ,6'. ,6'. ,6' ,6'.
+,6' ,6' ,6'. ,6' ,6' 1'. ,4 q,6 0 0 0 0 0 0 0 0 0 0 0 0 q,1 s,4. s,1. q,4 q,6 q,6 0 0 0 0 0 0 - - 0 0 0 0 0 0
+0 ,2'. ,6'. ,6'. 1'. 0 0 0 0 0 0 0 0 q,4 ,4. ,1 q,1 q,6 q,6 q4' 0 0 0 0 0 q,6 q,6 q,6 q,6 q,6 q,6 q,4 q,4 q,4 q,4 q,4 q,4 x ,,6' ,4'
+q,6' q,4' s,1'. s,4'. q,6' q,4' sx'. q,1. ,4. ,4. ,4 ,6 2. 0 0 0 0 0 0 0 0 - ,,4 0 - - - - - - - 1'. 0 ,x'. - ,6' ~ ,6' - q1.
+q6 ,6' - q,6'. 0 0 0 0 0 - - - 1' - - - s,4 q,4 q,6 q,6 q,4 0 0 0 0
+%END

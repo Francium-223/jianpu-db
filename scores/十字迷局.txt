@@ -1,0 +1,23 @@
+%十字迷局.txt
+% 出处 https://www.jianpujia.com/
+title=十字迷局
+tag=
+usertag=
+tagroute=
+confidence=0.952
+conf_p10=0.864
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-11795
+%--
+4/4
+subtitle=score
+1 - - - x x ,1 ,x 1. x 1 ,,6 ,6 q,7. s1 ~ q1 q,5 q,6 d5 s1 q1' s1' s7 5 s1' s1' q7 ,,6 ,3 q,7. s1 q,6 q,5 q,6 d5 s1 q5' s1' s7
+s5 q6. s0 s1' s7 s5 s0 d5 d6 s6 s7 s0 d7' s1' s2' s0 d2' d3' s1' s1' s7' s1' s2' s3' 6 - 7 - 7 - q3 s6 s7 ~ s7 q1. q3 s2 s2 ~
+s2 q1. s1 s7 s6 s7 q1 q2 ,7 - q3 s6 s7 ~ s7 q1 s5 q5 s3 s2 ~ s2 q1 s6 q4 s3 s4 ~ s4 q5. 3 q0 s1 s7 q,6 s7 s1 s2 s1 s2
+s1 s2 s3 s4 s3 q0 s3 s2 q1 s5 s6 ~ s6 s3 s2 s1 s2 q3. q0 s1 s7 q,6 s3 s2 ~ s2 q3 s3 s3 s2 s2 s1 q0 s1 s4 s3 s4 s5 q6 s1'
+s7 7 - 0 q0 s1' s1' s3 s3 s6 q1' s1' s3' s3' s2' s2' s1' q1'. s6 s7 s1' s2' s1' s7 s5 s5 s2 q2 s3 s4 s3 q3 s1 s2 s1 s1 s3 ~ s3 s3
+s3 s1' s7 s6 s6 s1' q0 s1' s2' s1' s7 s5 s5 s5 s5 s3' q3' s4' s3' q0 s1' s3 s3 s6 q1' s1' s3' s3' s2' s2' s1' q1'. s6 s7 s1' s2' s1' s7 s5 s5
+s2 q2 s3 s4 s3 q3 s3 s1' s7 s7 s1' s1' s1' s3' q3' s4' s6 q0 s6 s7 s1' s7 s1' s7 ~ s7 s3 s7 s7 q7'. 0 0 q6 6 0 0 q,7. s1 ~ q1
+q,5 q,6 s5 s1 q1' s1' s7 5 s0 s1' s7 s5 ,6 3 q,7. s1 q,6 q,5 q,6 s5 s1 q1' s1' s7 s5 q6. x q0 s1 s7 s1' s7 s1' s7 s7' s1' s7 s7 6 -
+%END

@@ -1,0 +1,17 @@
+%面向国旗敬个礼.txt
+% 出处 https://www.jp114.com/jianpu/1313798.html
+title=面向国旗敬个礼
+tag=
+usertag=
+tagroute=
+confidence=0.895
+conf_p10=0.677
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1313798
+%--
+4/4
+subtitle=score
+1 - - s2 q2 x x q1 x x 1 - - 1 q1 2 - - 0 1 x. q5 q6 5 q3 q3 q5 s6 5 - 5 q6 q5 3 q3 q1 q2 q3 2 -
+3. s3 q3 q2 q1 q3 q3 q5 q6 6 - q5. - q5 q6 q5 3 q5. - s6 q3 q2 q1 - q5. - q5 q6 q5 3 q3 5 q6 2' 2' q1' - -
+%END

@@ -1,0 +1,24 @@
+%Someone_Like_You.txt
+% 出处 https://www.jianpujia.com/
+title=Someone_Like_You
+tag=
+usertag=
+tagroute=
+confidence=0.934
+conf_p10=0.850
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-14097
+%--
+4/4
+subtitle=score
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 s1 s3 s5 s3 s1 s3 s5 s3 s1 s3 s1 s3 s5 s3 s7 s3 s5 s3 s7 s3 s7 s3 s7 s3
+s5 s3 s6 s3 s6 s3 s6 s3 s6 s3 s6 s3 s6 s3 s1 s4 s1 s4 s1 s4 s1 ,1 ,1 - - - ,5 ,,7 - - - ,3 ,,6 - - - ,,4 ,1 - -
+- q5 3. 0 s2 q1. s6 q0 s3 ~ 3 s2 q1. s6 q0 s3 ~ 3 s2 q1. s6 q0 s3 ~ q3. s2 ~ q2. s1 s1 s3 s5 s3 s1 s3 s5 s3 s1 s3 s1
+s3 s5 s3 s7 s3 s5 s3 s7 s3 s7 s3 s5 s3 s7 s3 s5 s3 s6 s3 s6 s3 s6 s3 s6 s3 s6 s3 s6 s3 s6 s4 s6 s4 s6 s4 s6 s4 ,5 ,5 ,3
+,1 - - - - - - - - - - - - q1. s5 ~ q5. s3 ~ 3 q2 q1 6 3 q1 q0 s0 q2 s1 q,6 s6 s1 ~ q1 q,6 0 s0 s2 s1 2
+- q3 ~ 3 q0 s5 s1 s3 s5 s3 s1 s3 s5 s3 s1 s3 s1 s3 s5 s3 s7 s3 s5 s3 s7 s3 s7 s3 s7 s3 s5 s3 s6 s3 s6 s3 s6 s3 s6 s3
+s6 s3 s6 s3 s6 s4 s6 s4 s6 s4 s6 s4 ,5 ,5 ,3 ,1 - - - - - - - - - - - - 5 3 q0 s5 q5 s5. q5. s3 0 s3 q3. q,6
+s6 s1 q1. s6 q6 q0 s0 s5 q,6 - 0 2 s2 s2 s1 s2 q2 q3 q0 s1 s1 s1 s1 s3 s7 s3 s5 s3 s7 s7 s7 s6 s3 s6 s3 s6 s3 s6 s3 s6
+s3 s6 s1 s6 s1 s6 s1 s6 s1 s6 s1 s6 s1 s6 s1 s6 s1 ,5 ,5 ,3 ,1 - - - - - - - - - - - -
+%END

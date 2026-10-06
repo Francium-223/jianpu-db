@@ -1,0 +1,22 @@
+%怀念你.txt
+% 出处 https://www.jianpujia.com/
+title=怀念你
+tag=
+usertag=
+tagroute=
+confidence=0.952
+conf_p10=0.866
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-13257
+%--
+4/4
+subtitle=score
+1 - - x - x. x x 1. x q6 s1' s1' s1' q6 s3 q2. s2' s2' q6 s4 q2 s1' s1' s1' q6 s3 q2. s2' s2' q6 s4 q2 s1 s1' q1' q6 q4. s3' q3'
+q1' q5'. s2' ~ q2' q7 ~ 7 q0 q7 q6 s1' s1' ~ s1' q6 s3 q2. s2' ~ s2' s6 s5 s4 q6 s1' s1' ~ s1' q6 s3 q2. s2' ~ s2' q6 s4 q4 s1' s1'
+~ q1' q6 q1'. s1' ~ q1' q7 q7 s1' s1' ~ q1' q7 6 q,6. s3 3 - q0 s2 s3 q2 s1 s2 ~ q2 q2 3 - q,6. s3 x q2 s1 s2 ~ q2 0 q3
+~ 3 - x 2 - q1 q,7 s6 q,7. q,6 q,5 ,5 - q,6. s3 2 - q2 q1 s2 q1 s2 3 - - s5 q6 s3 q2' 1. q1 q,7 d6 q,5 d6 ,6 - - 0
+- 0 q3 q5 - 6 - - q0 s3 s3 7 - q0 q6 q7. s6 s6 s5 q3 q0 s5 s6 4 q0 s2 s1 q2 s2 s2 q2 s2 s3 s2 s1 q6 s0 s6 s1 s6
+1 s2 s3 q2 ~ 2 0 x x x - x q5 6 s3 s2 s3 s2 1. q1 q1 q1 q1 q2 1 s1 s2 ,7 q0 s5 ,5 ,3 ,6 - - x q3 q5 6 -
+- - 2' - - - 5. q6 7. q3 6 - - 6 s6. s3 ,6 - - q3 q5 6 - - q0 s3 s3 ,6 - - -
+%END

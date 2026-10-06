@@ -1,0 +1,27 @@
+%寻梦的蝶.txt
+% 出处 https://www.jianpujia.com/
+title=寻梦的蝶
+tag=
+usertag=
+tagroute=
+confidence=0.963
+conf_p10=0.913
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-12477
+%--
+4/4
+subtitle=score
+1 - - - x q1 x. x 5' - - q0 s5 2 q2 q1 3 q0 s5 2 q2 q3 2 q0 s3 s5 6 q6 q5 6 q5 q3 2 - - - q1' q2' q3' s2'
+s3' ~ 3' - q5' s3' s2' ~ q2' q6 ~ 6 - q1' q2' q3' q2' 2'. s2' s3' 1' - - - q1 q2 q3 s2 s3 3 0 q5 q6 q3 s2 s3 ~ 3 0 q2
+q3 q2 s1 s2 2 0 q2 s1 s6 s2 s3 q2 2 0 q3 q5 q5 s3 s2 3 - q5 3 s1 s2 ,6 - s6 s1 s6 s2 s3 q2 ~ 2 q2 s1 s6 1 -
+0 0 q1 q2 q3 s2 s3 3 0 q5 q6 q3 s2 s3 ~ 3 0 q2 q3 q2 s1 s2 2 0 q2 s1 s6 s2 s3 q2 2 0 q3 q5 q3 s2 s3 3 0 q5.
+s3 ~ q3 s1 s2 ~ q2 ,6. q,6 s1 s6 s2 q3 s2 ~ 2 q2 s1 s6 5 - - q1' q7 q7. s6 ~ q6 q5 q6. s5 ~ q5 q3 5 - - q6 q6 q6
+s5 s6 ~ q6 q5 q2 1 s5 s6 q6 3. 0 q1' q7 q7. s6 ~ q6 q5 q6. s5 ~ q5 q3 s2 s3 2. 0 q2 q2 q3 2 q1 q2 q2 s2 q6 s5 5 -
+- q1' q7 q7. s6 ~ q6 q5 q6. s5 ~ q5 q3 5 - 0 q6 q6 q6 s5 s6 ~ q6 q5 q2 1 s5 s6 ~ q6 3. 0 q1' q7 q7. s6 ~ q6 q5 q6.
+s5 ~ q5 s2 s3 s2 s3 2. 0 q2 q2 q3 2 q1 2 q2 s6 s1 q1 q1 ~ 1 - 0 x q1 s2 s1 q2 s1 s3 ~ 3 s0 s2' s2' s1' q3' s2' s1'
+q1' s6' s1' 2' s2' s3' s2' s1' 6. s6' s6' q6' s5' s3' q3' s2' s1' s2' s1' s1' s1' q3'. d2' d1' 0 5'. d5' d5' s5' s4' s3' s4' q5'. s5' s5' s4' s3' s4' q5' s3'
+s5' 6' q5' s3' s2' 2'. s1' s2' s3' d1' d1' s6 s5 s3 s2 s1 s6 s5 s6 s1 s3 s5 s3 s5 s6 1' - - - x. q1 q1 ~ 1 - 0 x q1 q2 q3
+q2 3 1 q5 s3 s2 q2 q,5 ,7 ,5 q6 q5 q6 q6 6 - q5 q3 q3 q2 2 - q1 q2 q3 q2 3 1 q5 q2 q2 s6 4 2 s5 q1 q2 q5 7 q3
+q2 1 - - -
+%END

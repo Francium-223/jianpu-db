@@ -1,0 +1,18 @@
+%剑网三·非鱼.txt
+% 出处 https://www.jianpujia.com/
+title=剑网三·非鱼
+tag=
+usertag=
+tagroute=
+confidence=0.977
+conf_p10=0.963
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-11198
+%--
+4/4
+subtitle=score
+q,6' q,6 q,5' q,5 ,6 q,6 q3 2 q1 q,7 q,6 q,7 q,6 q,5 ,3 q,6 q,5 ,6 q,6 q3 q2 q1 q1 q2 3 - - q,6 q,5 ,6 q,6 q3 2 q1 q,7 q,6. s,7 q,6 q,5 ,3
+q,6 q,5 ,6 q,6 q3 q2 q1 q1 q,5 ,6 - - q3 q5 6 q6 q3 2 q2 q5 q3 q3 ~ 3 - q3 q5 6 q6 q5 3 s2 s3 q5 3 - - q,6 q,5 q,6
+q3 q2 q1 ,6 q,6 q,5 q,6 q3 q2 q5 3 q,6 q,5 ,6 q,6 q3 2 q1 q,5 - - - - q,6 q,5 q,5' q,6 ,6 - q3 q5 q,5 q,6 ,6 - - - -
+%END

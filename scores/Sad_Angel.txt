@@ -1,0 +1,20 @@
+%Sad_Angel.txt
+% 出处 https://www.jianpujia.com/
+title=Sad_Angel
+tag=
+usertag=
+tagroute=
+confidence=0.910
+conf_p10=0.719
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-12287
+%--
+3/4
+subtitle=score
+3 - - - q1 q2 q1 q6 6 q,1 q,7 q,7 q6 6 - - q,1 q,5 q,2 q,3 q,7 q,5 q,2 q,3 q,4 q,1 q,4 ,6 - q0 q,7 q,4 q,7 ,2 - q0 q6 q6 0 4
+q4 0 0 1 0 q,6 - q,6 q,6 0 q,6 q,6 q,1 0 q,1 2. qx 0 0 0 4. q,4 q,4 q,6 q,4 q,6 0 0 0 0 0 0 4. x q6 0 0 q4' 4' q4
+0 4. q,4 q,4 q,6 q,4 q,6 q,4 - 0 0 0 0 0 x q0 ,5 ,6' ,6 q6 q,7 q0 q6 q6 q5 q6 q5 6 - 6 q0 q3 q6 q7 q7 x 0 0 0 0
+q,,6 q,3 q,,6 q,3 q,1 q,3 q,1 q,,6 q,3 q,6 q1 q,3 q,7 q,7 q,3 q,7 x 5 0 7 6 7 6 7' s4' 4' - q4 q4 - 6. q,6 q,6 0 0 q,6 q,6 q4 q,6 0
+0 0 0
+%END

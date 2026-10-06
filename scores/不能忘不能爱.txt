@@ -1,0 +1,25 @@
+%不能忘不能爱.txt
+% 出处 https://www.jianpujia.com/
+title=不能忘不能爱
+tag=
+usertag=
+tagroute=
+confidence=0.957
+conf_p10=0.883
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-12065
+%--
+4/4
+subtitle=score
+1 - - - x x x 1. q1. s1 ~ s1 q2 s5 q5. s4 2 q4. s3 ~ s3 q2 s1 2 s5 s4 s3 s2 1. q,6 7 6 5 - - - q0 s5 s6 q,5.
+s6 q1 s2 s3 s0 s3 s2 s1 q2 q1 q,6 s5 s6 ~ ,6 0 q0 s5 s6 q,5. s6 q1 s2 s3 q0 s2 s1 q2 q1 q1 s6 s2 ~ 2 0 q0 s1 s1 s1 q1
+s1 s1 q,6. q0 s6 s5 q,5 q6 ~ s6 q5 s2 3 - q0 s2 s2 q2 s2 s1 q3 q2 ~ s2 s1 s6 s5 ,5 - 0 0 q0 s5 s6 q,5. s6 q1 s2 s3 s0
+s3 s2 s1 q2 q1 q,6 s5 s6 ~ ,6 0 q0 s5 s6 q,5. s6 q1 s2 s3 s0 s3 s2 s1 q2 q1 q1 s6 s2 ~ 2 0 q0 s1 s1 s1 q1 s1 s1 q,6. q0
+s6 q5 q6 ~ s6 q5 s2 3 - q0 s2 s2 s2 q2 s1 s3 s2 q2 s0 s1 s6 s5 5 - q0 s5 s1' s6 s5 s6 1' - q0 s5 s3' s2' s1' s2' q1' q6
+~ 6 - 0 q0 s2' s2' s2' s2' s2' s1' q2' s1' s1' s6 s5 5 - q0 s5 s1' s6 s5 s6 1' - q0 s5 s3' s2' s1' s2' q1' q6 ~ 6 - q0 s3 s5
+s6 s6 s6 s6 ~ q6 s6 s6 q5 s3 s3 ~ s3 q2 s1 1 - - 0 7 0 - q3 q5' ~ 5 s3 s5 s5 s6 q2 q1 ~ s1 s6 s5 s3 ~ 3 q0
+q,3 ,7 0 q,3 q,5 ~ ,5 - 0 0 0 s0 s1' s1' s5 3'. s2' s1' s2' s3' s2' s2' s1' q5 q6. s5 ~ q5 q1 1. s2 s3 s4 s3 s4 s5 s6 s5 d6 d7'
+s1' 6 q7' s1' s2' 2' s2' s1' s1' s5' 5' - 1 - q0 s5 s1' s6 d5 s6 1 - q0 s5 s1' s6 d5 s6 1' - q0 s5 s3' s2' s1' s2' q6 ~ 6 -
+q0 s3 s5 s6 s6 s6 s6 ~ q6 s6 s6 q5 s3 s3 q2' q1' 1 - - - 0 0 0 0
+%END

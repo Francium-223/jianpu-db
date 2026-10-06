@@ -1,0 +1,23 @@
+%Walk_on_Water.txt
+% 出处 https://www.jianpujia.com/
+title=Walk_on_Water
+tag=
+usertag=
+tagroute=
+confidence=0.917
+conf_p10=0.775
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-13279
+%--
+4/4
+subtitle=score
+q2 q2 q0 1 1 q1 q1 q0 q5 q2 q5 q2 5 2 1 1 1 1 q1 q1 q1 q1 q1 q1 q0 4 1 1 1 q1 q1 q4 q1 q4 q1 q0 2 2 q2 q,7
+q,5 q,7' q,5 q,5 ,,1' ,,1 q0 q,1' q,1 q,6' q,6 q,6 q,6 ,6 ,,6 ,6 q,6 q,6 q,6 q,6 ,,1 ,,2 ,6 q,6 q,6 q,6 q,,x q,2 ,,5 ,,5 ,7 ,5 q,7 2. 1 q1 q0 q2 q2 q2
+q0 1 1 1 1 q1 q1 q1 q1 1 1 1 q1 q0 q2 q2 q2 q2 0 1 1 1 1 q1 q1 ,6 ,7 ,7 ,6 ,7. ,,1 ,4 q,6 q,4 q,4 q0 q,5 q0 q5 q,5
+q,5 q,5 ,,6 ,6 ,6 q,5 q,1 q,1 q1 ,5 ,,1 ,4 q,6 q,4 q,4 q,7 q,5 q,7 q5 ,7 ,5 ,,6 ,6 ,6 q,5 q,1 1 1 5 q1 q1 1 1 q1. s0 1 q0 0 q0 1
+1 1 1 q0 0 q0 s0 1 - s1 1. s1 2 - s2 q,5 q,1 ,5 q,6. q,4. q,4. ,6 q,5 q,,5 q,5 q,5 q,x q,5 ,7 ,5 ,,6 ,6 ,6 s,3 s,,3 s3 s5 q,5. ,7 ,5
+,3 ,6 ,4 ,4 - s,6 s,4 s4 ,6. ,4. ,4. s,6 ,7 - s,7 s,5 s5 x 1 0 x 5 2. s2 1 1 - s5 s2 2. s5 s2 1 - s1 1. s1 s1 0 q0
+0 0 0 0 ,7. ,5'. ,5. s,7 s5' s5 ,1 ,1 - 6'. s,6 s6 ,6'. ,6. s6' s6 s,x ,6' ,4 ,4 - s,6 s4' s4 ,6. ,4. ,4. d,6 d,4 d4 s0 ,1 ,1 ,1 - ,1
+,1 ,1 - - -
+%END

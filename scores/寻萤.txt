@@ -1,0 +1,26 @@
+%寻萤.txt
+% 出处 https://www.jianpujia.com/
+title=寻萤
+tag=
+usertag=
+tagroute=
+confidence=0.939
+conf_p10=0.814
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-13846
+%--
+4/4
+subtitle=score
+qx q1 - - - 3 3 - x'. x. x. x q1 1. x. x x q0 q6 q1' q2' s3' s2' s2' s3' s1' s1' s2' s6 s2' s1' s1' s1' s1' s6' s1' s1' s3' s2' s2'
+s3' s3' s5' s3' s3' s5' s3' s3' s5' s1' s6' s1' s1' s3' s2' s2' s3' s1' s1' s2' s6 s2' s2' s1' s1' s1' s6' s1' s1' s3' s2' s2' s3' s3' s5' s3' s3' q5' q6' q1'
+q2' s3' s2' s2' s3' s1' s1' s2' s6 s2' s1' s1' s1' s1' s6' s1' s1' s3' s2' s2' s3' s3'. s5' s3'. s3' s5' s3' s6 s6 s1' s6' s2' s1' s3' s2' s2' s3' s3' s2' s2'
+s6 s1' s6' s2' s1' s1' s6 s5 s6 6 0 0 0 q1 s7 s1 ~ q1 q,7 q1 q,7 q,3 q,6 q,6 s5 s5 ~ ,5 0 q,3 q,5 q,6 q,6 q,6 q1 q,7 q,6 q,5 q,6 ,3
+- 0 0 q1 s7 s1 ~ q1 q1 q3 q2 q1 q,7 ~ q,7 ,5. 0 q,3 q,5 q,6 s6 s6 ~ q,6 q,7 q2 q1 q,7 q,6 ,6 - q0 q,6 q,7 q1 q3 q2 q2 s3 s6
+~ q,6 q,6 q,7 q1 q1 s7 s7 ~ ,7 q,7 q,7 q1 q2 q2 s,5 s,5 ~ ,5 q,5 q,5 q,5 q2 q1 s,7 s,6 ~ ,6 - q0 q,3 q,4 q,3 q,4 q1 2 q1 q,7 ~ ,7
+q,7 1 q2 q1 q1 1 q0 q6 q5 s3 s3 ~ q3 q2 ~ q2 q3 q0 q6 q5 q3 q3 q2 3 5 6 - q0 s5 s6 q5 q3 3 - 0 q0 q6 q3 q2 q2
+q3 ,5 q0 q,5 q3 q2 q2 q3 q3 q2 q0 s2 s2 q4. s3 q3 q,7 2. q1 1 q0 q,5 q,6 q,5 q,6 q3 q2 q1 q,7 q,5 ,6 q0 q3 q2 q1 s7 s5 s3'. ,6 -
+- - - - - 0 - - s3' s2' s2' s3' s3' s5' s3'. s3' s5'. s3' s6 s6 s1' s6' s2' s1' s3' s2' s2'. s3' s3' s2' s2' s6 q7' s1' s7 q7 s7' s1' 6 -
+- - ,6 - - - 3 3 - 0 3 3 - 0 3 3 - 0 3 3 - 0 3 3 - 0 3 3 - 0 3 3 3 0 0 q0 q6 q5 s3 s3
+q3 q2 ,6 - - 0 x.
+%END

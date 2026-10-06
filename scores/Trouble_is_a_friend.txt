@@ -1,0 +1,23 @@
+%Trouble_is_a_friend.txt
+% 出处 https://www.jianpujia.com/
+title=Trouble_is_a_friend
+tag=
+usertag=
+tagroute=
+confidence=0.946
+conf_p10=0.847
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-14559
+%--
+4/4
+subtitle=score
+0 0 0 0 0 0 0 0 s6 s6 s6 s6 q,7 s7 s7 s7 s6 s5 s6 s0 s6 s0 q,6 s1 q,3 s5 s0 q,6 s1 s1 q,3 s5 s0 q,6 s1 s1 q,3 s5 s0 q,6
+s1 s1 q,3 s5 s0 q,6 s1 s1 q,3 s5 s0 q,6 s1 s1 q,3 s5 s0 ,6 0 0 q0 s6 s5 s6 s6 s6 s6 q,7 s7 s7 s1 s7 s6 s5 s6 s0 s6 s0 ,6 0
+0 q0 s5 q,6 s1 q,3 s5 s0 q,6 s1 q,3 s5 s0 q,6 s1 s1 q,3 s5 s0 q,6 s1 s1 q,3 s5 s0 q,6 s1 s1 q,3 s5 s0 q,6 s1 s1 q,3 s5 s0 q,5 s5 s5
+q,7 s7 s7 q2 s2 s2 s4 s0 s4 s0 3 0 0 q0 s5 q,5 s5 s5 q,7 s7 s7 q2 s2 s2 s4 s0 s4 s0 ,5 ,7 2 ,3 ,1 ,5 ,7 2 q,1 q,5 q,5 q,2
+q,7 q,4 q,2 q,6 q,6 s1 s1 q,3 s5 s0 q,6 s1 s1 q,3 s5 s0 q,5 q,5 q,2 q,7 q,4 q,2 q,6 q3. s2 3 s2 s3 s4 s3 s2 s3 s2 s3 q3 s3 s2 1 q2 s2
+s1. ,7 q1 s1 7 q,6 s6 s1 s7 s6 s7 s6. ,5 s6 s6 s6 s5 x ,3 ,3 ,6 ,1 ,5 ,5 ,5 ,,5 ,5 ,5 ,5 ,,6 ,6 ,,6 ,6 ,,7 ,,7 ,,4 ,4 ,,5 ,,1 s0
+s1 s2 s1 s7 q,1. q,1 q,3 q,3 q,3 q,5 q,7 q,7 q,7 q,6 q,3 q,6 q,3 ,,5 ,,3 q,4 q,6 q,6 q4 s3 s3 s3 s2 q1 q3 q2 q,7 ~ q7 5 ~ 5 6 3' 0 0
+q4 q6 1 1 ,1 ,4 ,1 ,5 ,5 ,5 ,5 ,4 ,3 ,5 q,6 q,6 q,1 q,3 q,3 q,3 q,7 q,5 q,7 q,2 q,1 q,5 ,,5 ,,1 q,6 s1 s1 q,3 s5 s0 q,6 s1 s1 q,3 s5 s0
+%END
