@@ -1,0 +1,21 @@
+%为生命祝福歌唱.txt
+% 出处 https://www.jianpujia.com/
+title=为生命祝福歌唱
+tag=
+usertag=
+tagroute=
+confidence=0.947
+conf_p10=0.734
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-10816
+%--
+4/4
+subtitle=score
+1. x x x x 1. - - - - - - - - 1. - 0 - - - - - - 5 q5 q4 q3 q2 q1 3 - - - 1 q1 q2 q2 q4 q3 2
+- - - 5 q5 q3 2 q1 3 - - - q,6 q,7 q1 q3 2 q2 q3 1 - - - 1 q,7 q1 2 q3 2 q,7 ,5 - q,6 q,7 q1 q3 2 ,6 2 q2
+,7 q0 q1 s4 s5 q6 6 - q0 q1 - 6 q6 q5 q4 q5 5 - q0 q1 q5 q4 4 - q0 s5 q2 q1 ~ 1 - q0 q2 - 4 q3 3 - - q0
+q5 q1 q1 q1 q2 q3 q3 1 2 q2 5 - 4 3 1 q3 2 - - q0 q,5 q1 q1 q1 q2 q3 q5 5 4 q3 4 - q2 2 q,6 q,7 ,5 q4 0 0
+3 - - - q2 q2 q2 q,6 q,7 ,5 q4 3 - - q0 q,5 q2 q2 q2 q,6 q,7 ,5 q4 3 - - - q2 q2 q2 s,6 q1 ,5 q5 5 - - - 5 -
+- 0
+%END
