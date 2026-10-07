@@ -1,0 +1,17 @@
+%五只小鸭.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48409
+title=五只小鸭
+tag=
+usertag=
+tagroute=
+confidence=0.967
+conf_p10=0.850
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48409
+%--
+4/4
+subtitle=score
+q5 5 q3 3 3 3 4 3 2 2 3 4 5 4 2 3 4 3 2 1. 0 ,5 3 3 3 3 q4 3 2 2 0 ,5 2 2 2 3 2 1 1 0
+5 3 3 3 4 3 2 2 5 5 2 2 2 2 2 3 2 1 0
+%END

@@ -1,0 +1,23 @@
+%如果寂寞了.txt
+% 出处 https://www.jianpujia.com/
+title=如果寂寞了
+tag=
+usertag=
+tagroute=
+confidence=0.953
+conf_p10=0.870
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-10321
+%--
+4/4
+subtitle=score
+x 2 1 x 2 0 0 0 0 q,7 q,7 q,7. s6 ~ q,6 q,5 ,6 0 0 0 0 0 q3. s6 ~ q6 q3 ,2 q,6 q,2 q0 q,6 q,2 q,6 ,,5 q,2 q,5 0 ,,5 ,,6
+q,3 q,6 q0 q,3 q,6 q,3 ,,6 q,3 q,6 ,,3 q,6 q,1 2 5 q3 2. 0 0 0 q,7 q,7 q,7. s1 q1 q4 q4 3. 3 - 0 ,3 1 ,7 ,2 q,6 q,2 q0 q,6 q,2 q,6
+,5 q,2 q,5 q0 q,2 q,5 q,2 ,3 q0 q,3 q,5 ,7. ,3 - - - x 2 x q1 q1 q,6 q1 q1 q1 q,6 q1 q2 q2 q1 q2 ~ 2 0 q5 q5 q5 q2 q5 q5
+q5 q2 q3 q2 q1 q3 ~ 3 0 ,6 0 q0 q,3 q,6 q,3 ,2 0 q0 q,2 q,6 q,2 ,5 0 q0 q,5 q,1 q,5 ,1 0 q0 q,1 q,5 q,1 x 3 3 x 4. q2 ~
+2 0 5. q1 ~ 1 q0 q,6 q4 q3 q2 q1 q,7 q1 q,7 q3 ~ 3 q0 q,3 1 ,7 ,,4. q,5 ~ ,,5 - ,,3. q,6 ~ ,,6 - ,,2 0 q0 q,2 q,6 q,2 ,,3 -
+0 0 x 3 7 x q1 q1 q,6 q1 q1 q1 q,6 q1 q2 q2 q1 q2 ~ 2 0 q5 q5 q5 q2 q5 q5 q5 q2 q3 q2 q1 q3 ~ 3 0 ,6 0 q0 q,3
+q,6 q,3 ,2 0 q0 q,2 q,6 q,2 ,5 0 q0 q,5 q,1 q,5 ,1 0 q0 q,1 q,5 q,1 x 4 1 x 4. q2 ~ 2 0 5. q1 ~ 1 q0 q,6 q4 q3 q2 q,7 ~
+q,7 q1 q,7 s6 s7 ,6 - 0 0 ,4. q,5 ~ ,5 - ,3. q,6 ~ ,6 - ,2 0 q0 q,2 0 ,6 - 0 0
+%END

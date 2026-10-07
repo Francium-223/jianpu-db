@@ -1,0 +1,22 @@
+%又唱天路.txt
+% 出处 https://www.jianpujia.com/
+title=又唱天路
+tag=
+usertag=
+tagroute=
+confidence=0.989
+conf_p10=0.978
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-10152
+%--
+4/4
+subtitle=score
+3' - - s3' s2' q3' s1' s2' q3' 3' - - q3' s2' s1' s2' q3' s2' ~ 2' q3' s1' s2' q2' s1' s6 q1' q6' ~ 6' - q1 q1 q1 s,6 s1 q2. s3 q5 s6
+s1' q6. s6 s5 s6 s5 s3 q2. s3 s1 s2 s1 s,6 ,5 - 0 0 s5 s3 s3 s5 q2 s3 s5 q3. s3 s2 s3 s2 s1 q,3. s,5 s,6 s1 s2 s1' q1' q,6 ~ ,6
+~ ,6 0 q1 s1 s1 q1 s,6 s1 q2. s3 q5 s6 s1' q6. s6 s5 s6 s5 s3 q2. s3 s1 s2 s1 d6 q,5 q,5 ~ ,5 ~ ,5 0 s5 s3 s3 s5 q2 s3 s5
+q3. s3 s2 s3 s2 s1 q,3. s,5 s,6 s1 s2 s1 q1' q,6 ,6 ,6 0 2 s1 s2 s3 s6 3 q5 q6. s1' s2' s3' s1' s6 6 - q6. s6 q6 q5 q6 s1' s1' s2'
+s3' q1' q2' q2' 2' 2' q2' s2' s3' 6 q1' q2' s2' s3' q6 q5 q5' q3 3 3 q5 q3 2 q3 q5 q6 s1' s2' q1' q2' q2' 2' 2' s1' s2' s3' s5' 2' q1' q6
+q5 s2' s3' q1' q6' 6. ~ 6 - s2' s1' q2' q2' s1' s2' q3' q2' s1' q1' q1' q2' s2' s3' s1' s2' s1' q2' s2' s1' s1' s2' q3' q2' s1' - q6' 6. 6 - q6.
+s6 q6 q5 q6 s1' s1' s2' s3' q1' q2 q2 2 2 q2 s2 s3 q6 - 6. 6 s1 s2 s3 s5 2. q1 q6 q5 5 q2 q3 s2 s3 s2 s1 6 q5 s1 s6
+%END

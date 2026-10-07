@@ -1,0 +1,26 @@
+%哭三变.txt
+% 出处 https://www.jianpujia.com/
+title=哭三变
+tag=
+usertag=
+tagroute=
+confidence=0.980
+conf_p10=0.974
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-11536
+%--
+4/4
+subtitle=score
+0 0 3' 5 - - 6 1' - 0 0 0 6 - - 3. s2' 3' - 3' 0 3'. q2' 3' q2' 3' 1' 5' 3' 6 q5' q3' q2' 7 1' 6 - - 0 0
+0 0 0 0 q0 s3 s6 s6 s3 s5 ~ 5 q0 s1 s2 q3 s3 s3 ~ s3 q6 s5 ~ q5 q4 q3 s2 s1 1 q0 s3 s2 ~ q2 q1 q,7 q1 q,7. d6 ,6
+0 0 q0 s3 s6 s6 s3 s5 ~ q5 q6 q0 s3 s4 q5 s5 s5 ~ s5 q6 s5 ~ q5 q4 q3 s2 s1 ~ 1 q2 s3 s5 ~ q5 q3 s5 s3 s3 s5 s5
+q6. ~ 6 0 0 q0 q6 q6 s5 s6 ~ s6 q5. ~ 5 q0 q7 q7 s1' s7 ~ s7 q6. ~ 6 q0 q6 q6 s6 s5 q5 q6 q7 q3 q7. s6 q1' ~ s1' s6
+~ 6 0 q0 q6 q6 s5 s6 ~ s6 q5. ~ 5 q0 q7 q1' s1' s7 s7 s6 q6 q0 s6 s7 1' q0 s6 s7 1' q2' q1' q1' q1' q1' q1' q1' q1' q1' q1' 7
+- 0 q3 q5 6 q3' q2' q1' s7 s6 q6 q7 q1' s2' s7 q1' s1' s6 6 q3 q5 q6. s5 q5 q6 7 q6 q7 q1' q7 q6 q3 1 q3 q5 6 q3' q2' q1' s7
+s6 q6 q7 q1' s2' s7 q7 s1' s6 6 q3 q5 q6. s5 q5 q6 q7 s1' s7 s6 s5 q5 6 - 6 0 q,3 - 6 - 6 q3 q5 6 - 6 q3 q5 q6 q6
+q3'. q2' q1' s7 s6 q6 q7 q1' s2' s7 q1' s1' s6 6 q3 q5 6 q5 q6 7 q6 q7 q1' q7 q6 q3 1 q3 q5 q6 q6 q3' q2' q1' s7 s6 s6 q7. s2' q2'
+s7 s1' q1' s6 6 q3 q5 6 q5 q6 q1' s1' s7 s6 s5 q5 6 - 6 q3 q5 q6 q6 q3' q2' q1' s7 s6 q6 q7 s1' q2' s7 s7 q1' s6 6 q3 q5 6
+q5 q6 7 q6 q7 q1' q7 q6 q3 1 q3 q5 q6 q6 q3' q2' q1' s7 s6 q6 q7 s1' q2' s7 s7 q1' s6 6 q3 q5 6 q5 q6 q7 s1' s7 s6 s5 q5 6
+- 6 -
+%END

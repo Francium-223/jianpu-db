@@ -1,0 +1,23 @@
+%再来一杯.txt
+% 出处 https://www.jianpujia.com/
+title=再来一杯
+tag=
+usertag=
+tagroute=
+confidence=0.928
+conf_p10=0.728
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-13898
+%--
+4/4
+subtitle=score
+1 - - - x. x x' 1. q1. x. x x x x 0 0 x 1 x' x x' 3' 3' s3' s1' q1' 2' 5 1' - 1' q0 s1' s2' 3' s3' s1' q1' 2' 5'
+1' - - q1' q7 6 q7' q1' q1' q1' q5' q3' q4' q3' q2' q1' 2' 1' 1' - - q0 s7' s1' 2' - - q0 q,5 q,5' x' 3 s3 s2 q1 q2 q,5 ,5 1 q1
+q2 ,5 q0 s1 s2 3 q3 q6 q5 q3 q3 q1 q4 q3 q4 q5 2 q0 q,5 3 s3 s2 q1 q2 q,5 ,5 1 q1 q2 ,5 q0 s1 s2 3 q3 q6 q5 q3 q3 q1
+q4 q3 q4 q5 2 q0 q,1 q,6 q,5 q,6 ,5 q,5 q,4 q,3 q,4 q,3 q,2 q,1 ,1 q0 q,1 q,6 q,5 q,6 q,5 q0 q,5 q,6 q,7 q1 q,7 q,5 q,6 ,6 - q0 q0 qx s4 s4'
+s1 s3' s3 ,x q,4 s6 s5 q,5 s1 s1 q0 q,5 q,5 s4 s3 q,3 s4 s5 q,5 s2 s2 q0 q,5 q4 q3 q1 1 q,5 q3 q2 2 - - - 0 0 0 0 0 0
+0 q0 s1 s2 q3 s5 s5 ~ q,5 s7 s1 q2 s5 s5 q0 s5 s5 q,4 q,5 q,6 q1 q1 q,5 ,5 q,4 s3 s4 ~ q,4 q,6 q,5 q,3 q,5 q1 q1 q,7 q1 q3 2 q0
+s1 s2 q3 s5 s5 ~ q,5 s7 s1 q2 s5 s5 q0 s5 s5 q,4 q,5 q,6 q1 q1 q,5 ,5 q,4 s3 s4 ~ q,4 q,6 q,5 q1 q3 q5 q4 q3 q1 q3 q3 q2 2 q0
+q1 q1 s7 s1 ~ q1 q,5 q,5 q1
+%END

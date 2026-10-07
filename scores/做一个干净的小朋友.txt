@@ -1,0 +1,17 @@
+%做一个干净的小朋友.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48433
+title=做一个干净的小朋友
+tag=
+usertag=
+tagroute=
+confidence=0.928
+conf_p10=0.484
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48433
+%--
+2/4
+subtitle=score
+q5 q1 q1 2 0 3 1 ,5 3 5 q5 q5 1 3 2 1 q3 2 q5 q1 q1 1 q1 q2 0 x x - - - - - 7 x 3 1 ,5 q3 5 q5
+q5 2 3 1 q2 3 1 3 5 5 2 q4 4 4 3 2 q3 1
+%END

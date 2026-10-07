@@ -1,0 +1,22 @@
+%何日与君长相守.txt
+% 出处 https://www.jianpujia.com/
+title=何日与君长相守
+tag=
+usertag=
+tagroute=
+confidence=0.977
+conf_p10=0.991
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-10216
+%--
+4/4
+subtitle=score
+x 3' - - s1' 3' - q0 s1' 2' 1' x 5 - 2 s3 s5 q3 3 - - - - x - - - - - - q3 q5 6 q6 5 q3 q2 3 - 0
+q3 q5 6 q1' 7 q5 q6 6 - - 0 q2 q3 q2 q1 2 - q3 5 s2 s3 ,6 - q2 q3 q5 q6 5 q2 3 - - q6 q5 6 q6 5 q3 q2 3
+- - q3 q5 6 q1' 7 q5 q6 6 - - 0 q2 q3 q2 q1 2 - q6 5 s2 s3 ,6 - q2 q3 q5 q6 5 q3 6 - - q1' q2' 3' - - q2'
+q1' 2' - - q2' q3' 2' q1' 6 s5 s6 q5 3 - - - q2 q3 q2 q1 2 - q3 q5 q3 q2 3 - q3 q5 q1' q1' 2'. q6 7 - - q1' q2' 3'
+- - q2' q1' 2' - - q2' q3' 2' q1' 6 s5 s6 q5 3 - - 0 q2 q3 q2 q1 2 - q3 q5 q3 q2 3 - q3 q5 q6 q1' 2'. q5 6 - -
+- - - - - - - q6 q5. 6 - - - q2 q3 q2 q1 2 - q3 q5 q3 q2 3 - q3 q5 q6 q1' 2' q5 6 - - - q3 q5 q6 q1' 2'
+- 5 - - - 6 - - - 6 - - 0
+%END

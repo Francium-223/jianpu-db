@@ -1,0 +1,24 @@
+%依山观澜.txt
+% 出处 https://www.jianpujia.com/
+title=依山观澜
+tag=
+usertag=
+tagroute=
+confidence=0.958
+conf_p10=0.938
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-10696
+%--
+4/4
+subtitle=score
+x s2'. s3' s2'. s3' s1' s2'. s3' s2'. s2'. s3' s2'. s5 s1' s2' s1' d1' d1' d5 d3 d2 s2 s3 s2 s1 q0 s,5 ~ s,5 s,6 s1 s,6 q,5. s,5 ~ s,5 s,6 s1 s,6 s1
+s2 q2 s,5 s,6 s1 s,6 q,5. s,5 x' x' x x x x x x x s,5 s,6 s1 s,6 s1 s3 q3 s,5 s,6 s1 s,6 q,5 s,5 s,6 s2 s3 s2 s1 ,6 s2 s3 s2 s1
+q,6. s1 2 s3 s2 s2 s1 s1 s,6 s,6 s1 ~ q1 s,6 s1 s1 q5 s5 ~ 5 q2 s3 s2 ~ q2 s1 s2 ~ s2 s1 s,6 s,6 q0 s1 q2 s1 s,6 q0 s2 ~
+s2 s3 s5 s3 s3 q2 s1 3 - 3 0 s1 s,6 s,6 s1 ~ q1 s,6 s1 ~ s1 q5 s5 q0 s5 s6 q7 s7 s7 ~ s7 s5 s3 s3 ~ 3 q3 q5 q6 s5
+s5 q0 s3 ~ s3 s2 s2 s1 q,6 s,6 s1 1 - 0 s3 s2 s3 s5 q6. s3 s3 s2 s3 s4 5 s2 s1 s2 s3 q5 s5 s6 s5 s2 s2 s3 ~ s3' s,6 q,6
+q,5 q,6 q2 s1 s,6 s0 s,5 s,6 s1 q2 s3 s5 3 d6 s3 s2 s1 q,6. s1 2 s3 s2 s3 s5 q6. s3 s3 s2 s3 s4 5 s2 s1 s2 s3 q5 s5 s6 s5 s2
+s2 s3' s3 s,6 q,6 q,5 q,6 q2 s1 s,6 s0 s,5 s,6 s1 q2 s3 s5 6 s5 s3 s2 s1 q,6. s1 2 q3 s2 s1 q1 q1 1 s2 s3 s1 s2 s3 1 q2 s2 h6
+d1 s2 s3 s2 s3 s1 s,6 q2. q3 1 q0 d3 s5 s6 s3 q3 s2 s3 s2 s1 2 q1 s2 s5 s2 s3 1 - s2 s3 s2 s1 ,5 q1 ~ 1 1 x q0 s,5
+2 s3 s2 s3 s5 2 q3 s2 s1 1 -
+%END

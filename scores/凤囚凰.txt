@@ -1,0 +1,24 @@
+%凤囚凰.txt
+% 出处 https://www.jianpujia.com/
+title=凤囚凰
+tag=
+usertag=
+tagroute=
+confidence=0.935
+conf_p10=0.788
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-14037
+%--
+4/4
+subtitle=score
+1 - - - ,x x x x x 1 x' x x' qx - - 6 7 x. x. x 1. x q,6 q3 q6 q1' q2' q3' q5' q6' 5' 3' 1' q0 q3' 2' 1' 6 q0
+q3' 2' 7 5 - q,6 q,3 q,6 q1 ,7 q0 q,6 q,6 q,4 q,6 q2 1 - 0 1 3 6 5 3 1. q,6 2. q1 ,6 - ,7 - - q,7 q,5 ,6 - - - ,6
+- 0 0 q1 q,7 q,6 s,5 s,3 ,3 q,2 q,1 ,2 ,5 ,3 - q1 q,7 q,6 s,5 s,3 ,3 q,2 q,1 ,2 ,5 ,6 - q,6 s3 s6 3 q,6 s3 s6 3 q2 q1 q,7 s5 s3
+,3 q,5 q,6 ~ q,6 ,2. q0 q,3 1 s7 s6 q,6 ~ ,6 - 0 q1 q,7 q,6 s5 s3 ,3 q,2 q,1 ,2 q,5. s3 ,3 - q1 q,7 q,6 s5 s3 ,3 q,2 q,1 ,2 ,5 ,6
+- q,6 s3 s6 3 q,6 s3 s6 3 q2 q1 q,7 s5 s3 ,5 q,5 q,6 ~ q,6 ,2. q0 q,3 1 s,7 s6 q,6 ~ ,6 - 0 ,6 ,7 1 q2 s1 s2 q3. s4 ~ q4
+q3 2 q0 s,7 s1 q2. s3 ~ q3 q2 1 q0 s6 s7 q1 q,4 q,6 q1 q,7 q,3 q1 q2 q3. s2 ~ q2 q1 3 q0 s1 s2 q3. s4 ~ q4 q3 2 q0 s7 s1
+q2. s5 ~ q5 q2 1 q0 s6 s7 q1 q,4 q,6 q1 ,7 q,5 q,3 q2 q1 q,7 q,5 ,6 q0 s6 s7 q1 s4 s6 ~ q,6 q1 ,7 s5 s3 q,3 x 0 0 q2. s1 ~
+q1 q,7 ~ ,7 q0 q,5 ~ q,5 q,6 ~ ,6 - 0 q,x. q2 1 q,7 ~ ,7 ,5 ~ q,5 q,6 ~ ,6 - 0 s7 s1 q1 s1 s7 q,6 s7 s6 s5 s6 s7 d3 d4
+d5 d6 d7 d1 s2 s1 s3 s4 s5 s7 s3 s2 4 q0 s1 s2 q2. s1 q1 q,7 ,7 q0 q,5 q,5 q,6 ,6 - 0
+%END

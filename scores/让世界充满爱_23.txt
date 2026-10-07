@@ -1,0 +1,19 @@
+%让世界充满爱_23.txt
+% 出处 http://www.jianpu.cn/
+title=让世界充满爱
+tag=
+usertag=
+tagroute=
+confidence=0.968
+conf_p10=0.919
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-304709
+%--
+4/4
+subtitle=score
+q3 q3 q,3 5 q5' 5' - q6 3 q5' 5' - q1' 2' q7 6 q5' ~ 5' - 6 6 6 q7 q7 6 q5 0 q,4' ~ 4' - 4 3 q,2 1. 2 - - -
+q3 5 q5' ~ 5' - q6 3 q5' ~ 5' - q1' q1' 1' 2' q7 6 ,5' ~ 5' - 6 6 6 q7 q7 6 q5 q4' ~ 4' - 4 3 q2 3' q1' 1 -
+- - 3' - q3' q6 2'. q5' ~ 5' - 2' 2' 2' q1' q2' - 6 7. q5 ~ 5 - 6 6 6 q6 q7 6 - q6' 1' q6 5. q5' ~ 5' - 4 4
+4 q3 q2'
+%END

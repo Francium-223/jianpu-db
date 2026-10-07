@@ -1,0 +1,22 @@
+%女孩的心思你别猜.txt
+% 出处 https://www.jianpujia.com/
+title=女孩的心思你别猜
+tag=
+usertag=
+tagroute=
+confidence=0.968
+conf_p10=0.944
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-8764
+%--
+4/4
+subtitle=score
+qx - - 1 1 6 x. 5 1' q6 q1' q5 q3 s2 s3 s2 s3 q5 q1 q,6 q3 2 5 1' q6 q1' q5 q3 s2 s3 s2 s3 q5 q1' ~ q1' s6 s5 s6 s1
+s2 s3 q5 q5 q5 q5 q5 q5 q5 q5 q5 qx q5 q1' q6 q5 q3 q2 q1 ,6 q2 q3' ~ q3' qx q2 q3 q2 q3' q3. q5 q1' q6 q5 q3 q2 q1 ,6 q3 q2'
+~ q2' q1 q2' q3' q2 qx q2 q2 q3 q2 q1 q6 q1 3 q5 q3' ~ q3' qx q3 q3' q5' q3 qx q2 q2 q3 q5 q3 q2 q1 ,6 q3'. q1' ~ q1' s6 q3' q2'
+q1 q5 q1' q6 q5 q3 q2 q1 1 0 0 0 5 - 1'. q6 5 - 3 0 2 1 s6 2 q3 q0 qx qx qx qx qx x 5 - 1'. q6 5 - 3 0
+2 1 s6 3 q2 q0 qx qx qx qx qx x 2 - 2. q3 5 3 2 1 ,6 1 q3 3 q5 ~ q5 qx qx qx qx qx x 2 - 2. q3 5'. 3 2
+1 ,6 1 q2 6 q5 q5 x qx qx qx x q0 q5 q1 q6 q5 q3 q2 q1 - 1 - 0 0 x 5 1' q6 q1' q5 q3 s2 s3 s2 s3 q5 q1 q,6 q3
+2 5 1' q6 q1' q5 q3 s2 s3 s2 s3 q5 q1' ~ q1' s6 s5 s6 s1 s2 s3
+%END

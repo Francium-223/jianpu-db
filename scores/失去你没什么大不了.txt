@@ -1,0 +1,21 @@
+%失去你没什么大不了.txt
+% 出处 https://www.jianpujia.com/
+title=失去你没什么大不了
+tag=
+usertag=
+tagroute=
+confidence=0.985
+conf_p10=0.982
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-11239
+%--
+4/4
+subtitle=score
+x s5 s5 s1 s2 ~ s2 s1 s2 s5 s1 s2 ~ 2 s1 s2 ~ s2 s5 s1 s2 1 - s5 s1 s2 ~ s2 s1 s2 s1 s2 ~ 2 s0 s1 s1 s,6 q1 q1
+q1 s2 s2 ~ 2 s0 s,7 s,7 s,5 q,5 q,5 q2 s,7 s1 ~ 1 s0 s,6 s,6 s,7 q1 q,4 q,4 q3 q2 q1 q2 s1 s3 ~ 3 - 0 s0 s3 s2 s1 q1 s1 s,6
+q1 s3 s1 2 s0 s,5 s,5 s,5 q3 s3 s4 q5 q2 3 q0 s,5 s,5 q4 s3 s2 q0 s2 s1 q,7 s1 s2 ~ q2 q,7 q2 1. 0 s0 s5 s3 s1 q1 s1 s,6 q1
+q2 2 s0 s,5 s,5 s,5 q3 s3 s4 s3 s2 q2 3 q0 s1 s1 s5 q3 s2 q0 s2 s1 q,7 s1 s2 s0 s,5 s,5 s,5 q4 s3 s5 ~ q5 q2 3 s0 s5 s3 s1
+q1 s1 s,6 q1 s3 s1 2 s0 s,5 s,5 s,5 q3 s3 s4 q5 q2 3 q0 s,6 s,6 q4 s3 s2 q0 s2 s1 s,7 s,7 s,7 s1 q2 q,7 q2 1. ~ 1 0 - - x
+s0 s1 s1 s,6. 2 q1 1 s0 s5 s3 s1 q2 1. 1 q0 s3 s4 q3 s,6 s1 s1 s,6 q,5 ,5 q,7 s1 s1 -
+%END

@@ -1,0 +1,26 @@
+%剩女的诱惑.txt
+% 出处 https://www.jianpujia.com/
+title=剩女的诱惑
+tag=
+usertag=
+tagroute=
+confidence=0.981
+conf_p10=0.986
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-11272
+%--
+4/4
+subtitle=score
+1 - - - qx x x x. x 1' q1' q3' q2' q1' 2' s1' s2' q1' q3 q1' s1' s1' q5 1' q1' q3' q1' q1' - q3 q6 q6 q7 q1 q7 q6. s5 q6 q5 q3
+q2 3 - q3 q6 q6 q7 q1' q7 q6. s6 q3' q2' q7 s1' s7 6 - q2' q2' q2' s1' s1' q1' q2' q0 s6 s6 q1' q1' q1' q7 6 - q7 q7 q7 q1' q2' q2'
+q5 q3 q1'. s7 ~ q7 q5 6 - q3 q6 q6 q7 q1' q7 q6. s5 q6 q5 q3 q2 3 - q3 q6 q6 q7 q1' q7 q6. s6 q3' q2' q7 s1' s7 6 - q2' q2'
+q2' s1' s1' ~ q1' q2' q0 s6 s6 q1' q1' q1' q7 6 q0 s6 q7 q7 q7 q1' q2' q2' q5 q3 q1' q7 q6 q5 6 - 0 0 0 q1' q2' x. q3 q3 q5 s3
+s2 2 q1 q7 q1 q7 q1 q2 3 q1 q2 q3 q3 q2 q1 7 q5 q3 q3 s1 s7 q6 q5 6 q1 q2 q3 q3 q5 s3 s2 2 q1 q7 q1' q7 q1' q2' 3' q1'
+q2' q3' q3' q2' q1' 7 q5 q3 q1' s1' s7 q6 q5 6 q1' q2' q3' q3' q5'. s3' s2' 2' q1' q7 q1' q7 q1' q2' 3' q1' q2' q3' q3' q2' q1' 7 q5 q3 q1' s1'
+s7 q6 q5 6 q1' q2' q3' q3' q5'. s3' s2' 2' q1' q7 q1' q7 q1' q2' 3' q1' q2' q3' q3' q2' q1' 7 q5 q3 q1' s1' s7 q6 q5 6 - qx' qx' sx' sx qx
+sx sx sx sx sx sx qx qx sx sx sx sx qx sx sx sx sx sx sx qx qx sx sx sx sx qx qx sx sx sx sx qx qx sx sx sx sx qx qx qx
+sx sx qx qx qx sx sx sx sx sx sx sx sx sx sx qx qx sx sx sx sx qx sx sx sx sx sx sx qx qx qx sx sx qx sx sx sx sx sx sx
+qx qx qx sx sx qx sx sx qx qx x q1' s1' s7 q6 q5 6 q1' q2' q1' s1' s7 q6 q5 6 x 1' q1' q3' q2' q1' 2' s1' s2' q1' q3 q1' s2' s1' -
+x
+%END

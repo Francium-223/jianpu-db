@@ -1,0 +1,18 @@
+%做饭饭.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48435
+title=做饭饭
+tag=
+usertag=
+tagroute=
+confidence=0.998
+conf_p10=0.998
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48435
+%--
+2/4
+subtitle=score
+5 - s3 s5 s6 q5 q1 q5 q6 q5 s3 q5 q6 q5 q1 q5 q6 q7 ,1 0 q7 q6 q5 q6 q4 3 q2 q1 q1 q5 q5 q1 q1 5 q5 5 3 5 2 2
+1 0 6 6 6 3 5. 0 3 3 6 6 5 5 3 0 5 3 2 1 2. 0 3 2 3 q1 q2 q3 q0 q5 q5 3 5 6. q0 q3 q3 q6 6 q5
+5 q3 0 q5 q1 3 2 1
+%END

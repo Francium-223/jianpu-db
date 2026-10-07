@@ -1,0 +1,21 @@
+%女人的执着.txt
+% 出处 https://www.jianpujia.com/
+title=女人的执着
+tag=
+usertag=
+tagroute=
+confidence=0.979
+conf_p10=0.970
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-11170
+%--
+4/4
+subtitle=score
+- - - q3 q2 q2 q3 q0 q3 q2 s3 s6 q6 q5 ~ 5 - 0 0 q4 q4 q4 q3 q2 q3 q0 7 q5 5 q3 s2 s3 q2 ~ 2' 0 0 0 q6 s6
+s6 q6 q6 q7 q1' q7. s5 ~ q5 q3 1' s0 s5 s5 s5 q6 s5 s6 q6. s5 q6 s5 s5 q5. s3 s2 s3 q2 ~ 2' 0 0 q3 q2 q2 q3 q0 q3 q2 q3
+q6. s5 ~ 5 - 0 0 q4 s4 s4 ~ q4 q3 q2 q3 q0 7 q5 5. q3 s2 s3 q2 ~ 2' 0 0 0 q6 s6 s6 ~ q6 q6 q7 q1' q7. s5 ~ q5
+q2' 1' s0 s5 s5 s5 q6 s5 s6 ~ 6 q0 q1' s1' s6 q6 2' - - q5 q5 3' - q0 3' q2' q2' q2' q2' q2' s2' q3' s2' 2' q3' q2' q2' s1' s1' q1'
+q7 q6 q7 q6 q5 ~ 5' 0 0 q6 q1' s1' q1'. 1' q0 q5 3' q2' q3' 1' q0 q6 q3' q2' q2' q1' q2' q2' s2' q3'. q2' q1' - q1' 1' s2' ~ q2' q3' s2'
+q2' s3' 1' - - - - - - 1' - - q5 q5 1' - - q0 q6 q3' q2' q2' q1' q2' q2' s2' q2' s3' 1' - - -
+%END

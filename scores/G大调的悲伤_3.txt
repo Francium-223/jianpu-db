@@ -1,0 +1,20 @@
+%G大调的悲伤_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=46782
+title=G大调的悲伤
+tag=
+usertag=
+tagroute=
+confidence=0.988
+conf_p10=0.993
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-46782
+%--
+4/4
+subtitle=score
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 q2 s1 s2 q2 q3 q4 q3 q2 q3 q3 s,5 ,5 - - q2 s1 s2 q2 q3 q4 q3 q2 q1 3.
+q3 q4 q3 q2 q4 3 - q1 q2 q3 q6 6 q3 q2 2 q3 q4 5. q1 q2 q1 q2 q3 q3 q,6 q,7 1 q,7 q1 q2 2 - - - q3 q,6 q,7 q1 q6 q3
+q1 q5 5 q3 q5 q4 q3 q2 q1 6. q5 5. q3 3 q3 q5 q4 q3 q2 q1 6. q7 7. q1 1. 1 q7 q5 q6 q6 6. q6 q5 q2 q3 q3 3. s2 s1 q1
+q2 q3 q1 q6 q5 q5 6. q5 q2 2 q3 q5 q4 q3 q2 q1 6. q5 5. q3 3 q3 q5 q4 q3 q2 q1 6. q7 7. q1 1. q1 q7 q6 q5 q4 5. 0 q7
+0 q6 q5 q4 q3 q4 q3 q4 q5 4 3 1 - - - 0 0 0 0 3 - - - 0 0 0 0
+%END

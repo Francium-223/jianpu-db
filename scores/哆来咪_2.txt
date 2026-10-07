@@ -1,0 +1,20 @@
+%哆来咪_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49892
+title=哆来咪
+tag=
+usertag=
+tagroute=
+confidence=0.978
+conf_p10=0.985
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49892
+%--
+2/4
+subtitle=score
+q,5 q5 q,5 q5 q,5 q5 5 5 5 q5 6 7 5 5 5. 5 5 5 5 6. 7 5 - 5' q5 q5 4 q4 q4 4 5 3 3 3 q3 q5 4 q4 q4 3
+2 1 2 3 - 1 2 3 - 1 2 3. q1' 7 6 5 4 q3 q3 4 5 - 1 2 3 - 1 2 3 - q1 q2 q3 q4 q5 q6 q7' q0 x q0
+q1' q7 q6 q5 q4 q3 q2 1. q2 3. q1 3 1 3 - 2. q3 q4 q4 q3 2 4 - 4 - 3. 4 5. 3 5 3 5 - 4. 5 6 6 5 4 6
+- 6 - 5. 1 2 3 4 q5 6 - 6 - 6. q2 q3 q4 q5 q6 7 - 7 - 7. 3 x q4 qx q5 q6 7 1' - 1' q7 q7 6 4 7 5
+1' 5 3 2 1' - 1' - 0 1 2 3 4 q5 6 q7 1' - -
+%END

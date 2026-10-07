@@ -1,0 +1,17 @@
+%嘀哩哒哒.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=50002
+title=嘀哩哒哒
+tag=
+usertag=
+tagroute=
+confidence=0.930
+conf_p10=0.579
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-50002
+%--
+4/4
+subtitle=score
+,5 - ,3 ,5 1 - 2 3 ,5 - ,6 ,3 ,5. ,5 ,5 ,5 ,5 ,5 ,3 ,5 1 - 2 3 4 - 3 1 2. q2 2 2 2 1 2 3 4 - - 4
+3. 2 1 2 3 - 5 - 5 1 1 ,7 ,6 - ,7 1 2 - ,6 ,7 1. 1 1 1 1 0 0 0
+%END

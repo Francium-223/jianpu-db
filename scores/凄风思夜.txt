@@ -1,0 +1,20 @@
+%凄风思夜.txt
+% 出处 https://www.jianpujia.com/
+title=凄风思夜
+tag=
+usertag=
+tagroute=
+confidence=0.987
+conf_p10=0.965
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-7347
+%--
+4/4
+subtitle=score
+,5 ,6 - - ,5 ~ q,5 q,2 ,3 - ,5 ,6 - 1 ,6 ,5 - - - ,6 - - ,5 q,5 q,2 ,3. q,5 ~ ,5 ,6 - ,3 ,5 ,6 - - - ,6. q1 q2
+q3 q5 q3 2. q3 2 1'. 0 ,6. q1 q,6 q1 q2 q3 0 ,5 - - 0 ,6. q1 q2 q3 q5 q3 2. q3 0 2 0 1 ,6. q1 q6 q1 q2 q3 0 ,6 -
+- q3 q5 6 - 1' 0 q6 q5 0 3. s5 s6 5 0 3 q2. s3 q5 q6 0 q1' s2' s1' s6 s1' s6 s5 q5 3 q2 3'. s3 s5 6. s5 s6 1' q6 q5
+0 3. s5 s6 5 0 3 q2. s3 q,6 0 q3 q2 q3 s2 s3 s2 s1 x q6 q3 q6 q1 3 - x 0 q1 ,6 q,5 ,6 - ,6 - 0 0 6. s5 s6 1'.
+0 0 q6 q5 0 3. s5 s6 5 3 q2. s3 q,6 0 q3 q2 q3 s2 s3 s2 s1 q1 ,6 q,5 ,6 - ,6 - - -
+%END

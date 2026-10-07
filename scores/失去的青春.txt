@@ -1,0 +1,22 @@
+%失去的青春.txt
+% 出处 https://www.jianpujia.com/
+title=失去的青春
+tag=
+usertag=
+tagroute=
+confidence=0.983
+conf_p10=0.954
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-14409
+%--
+6/8
+subtitle=score
+q1 q2 s3 0 q3 q2 s2 0 q1 q1 s1 s6 q1 1 0 0 q1 q2 q3 0 s,5 q3 s3 s1 q2 2 s1 s1 q,6 s1 1 - - 0 q3 q4 s5 0 q3 s6
+s6 s3 q5 q5 q3 s0 d,6 q1 s1 s6 s3 q3 - - 0 q1 q2 q3 0 q3 q3 q3 q2 q4 4 q1 q1 q1 q6 q1 1 - - 0 0 0 q1' q6 q5 6
+q1' q7 q5 q5 q6 q5 q5 q4 q4 q4 q4 q1 q1 q1 3 0 q4 q4 q4 4 q1' 7 7 q5 q4 q4 q4 q3 q1 q2 1 - - q1' q6 q5 6 q7 q5 q5
+q6 q5 q5 q4 q4 q4 q4 q1 q1 q5 3 0 q4 q4 q4 4 q1' 7 7 q5 q4 q4 q4 q3 q1 q2 1 - - 0 0 0 0 q1 q2 q3 0 q3 q2 q2
+0 q1 q1 q1 q6 1. 0 0 q1 q2 q3 0 q5 q3 q3 q3 2. q1 q1 q6 q2 1 - - 0 q3 q4 q5 0 q6 q6 q6 q3 q5 4 q1 q1 q1 q6 q3
+3 - - 0 q1 q2 q3 0 q3 q3 q3 q2 q4 q4 q5 q5 q5 q1 q2 1 - - 0 0 0 q1' q6 q5 6 q7 q5 q5 q6 q5 q5 q4 q4 q4 q4 q1
+q1 q1 3 0 q4 q4 q4 4 q1' 7 7 q5
+%END

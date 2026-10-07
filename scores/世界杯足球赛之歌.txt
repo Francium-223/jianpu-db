@@ -1,0 +1,21 @@
+%世界杯足球赛之歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49971
+title=世界杯足球赛之歌
+tag=
+usertag=
+tagroute=
+confidence=0.965
+conf_p10=0.950
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49971
+%--
+2/4
+subtitle=score
+- - x' x x x 3'. q4' q5' q4' q4' 3' 2' q1' q7 6 6' - 7. q1' q2' q1' q7 q6' q5 q4' 3' - 3' - 3 q5 q7 3 q5 q7 6 q1' q7 6
+q5 q4 3 q5 q7 3 q5 q7 6 q1' q7 6 q5 q4 3 - 3. q5 3' q4' q3' 2' q1' 7 q6 5. 5. q6 q6 q5 q0 q6 q6 q5 q0 q6 q1' 7. 7. q5
+4' 5' 4' 3' q2' q1' q1' 7. 7. q6 q6 q5 q0 q6 6 5 q0 q7 q4' 3'. ~ 3'. q5 3' q4' q3' 2' q1' q7 q6 5. 5. q6 7 q1' q2' 3' q2' q1' q7
+6. ~ 6. q1' 1' q1' q1' 1' 7 q6 q6 5. 5. q5 q3'. s4' q3' q2' q2' q1' q7 q7 q1' 2'. 2' - 3' - 3' 7 6' - 6'. q3 q5 q5 q5 q5 q6 q6
+q6 1 7 5 4 - 4 - 4 1 7 - 7. q5 q6 q6 q6 q6 q7 q7 q7 q2 1' 6 5 - 3' - 3' 7 6 - 6. q3 q5 5 q5 q6 7 7
+7 2' 1' 7 6 - 4' - 4' 5' 3' - 3'. q5 q2' q2' q2' q3' q4' q4' 4' qx x x 3' 2' 1' -
+%END

@@ -1,0 +1,21 @@
+%啊中国的土地_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=44315
+title=啊中国的土地
+tag=
+usertag=
+tagroute=
+confidence=0.966
+conf_p10=0.895
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-44315
+%--
+4/4
+subtitle=score
+1 - - 1 4 4 x x x 5 - q5 1 6 5 4 5 - q5 6 q5 q1 s4 q5 6. 6 - q6. q6 4 q3 2 6. 7 5 2 q3 - - 1
+- 1 x q1 3 2 q3 5 - q5 1 3 2 3 5 - 5 1 q2 3 3 q0 4 3 q1 2 - q2 q1 q3 q2 q3 6 - q6 1 q3 q2 q3 6
+- 6 5 6 q3 2. 6 7 7 q6 5 1 - 1 6 5 6 4 4. 4 6 5 2 4 - q4 3 6 3 5 6 5. 5 q6 4' 5 3' - 3 3
+2 3 q2 3 7. q7 2 q1 7 6 - 6 1 7 q6 2 2' 6 7 7 6 7 5 - 5 - 5 1 6 5 4 5 - 5. 6 q5 1 4 5 6.
+6 - 0 6 q6 q4 3 2 6. 7 5 2 3 1 5 6 7 1 2 3 4 5 2 3 3 - x 0 1 3 5 x' 3 5 0 6 1' 1 - -
+1' 1 0 0 x 0
+%END

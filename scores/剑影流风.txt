@@ -1,0 +1,19 @@
+%剑影流风.txt
+% 出处 https://www.jianpujia.com/
+title=剑影流风
+tag=
+usertag=
+tagroute=
+confidence=0.990
+conf_p10=0.969
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-11401
+%--
+4/4
+subtitle=score
+0 q1 q,3 ,7 q,6 q,5 ,6 - - - 0 q1 q,3 q,7 q1 q2 q,5 ~ q,5 q3 ~ 3 - - 0 q,6 q3 q3 q2 s1 d6 q,6 ,5 ,3 1 - 0 q,6 q1 q2
+q3 s,7 s,5 q,5 ,6 q,7. s,6 ,6 q3 q5 6 q6 q3 q2 q2 s2 s1 q1 2 q5. s3 3 q3 q5 6 q6 q3 q2 q2 s2 s1 q1 q2. s1 1 3 q3 q5 6 q6
+q3 q2 q2 q2 q1 q7. s5 q5. s3 3 s1 q2. 1 q1 q3 q2 q5 q5 q5 1' q7 6 q6 ~ 6 - - - - - - - - - - - 1' q7 6 q6
+~ 6 ~ 6 - 0 q3. s5 2 s1 s2 q3. s5 2 q1 - - - - - - 0 0 x
+%END

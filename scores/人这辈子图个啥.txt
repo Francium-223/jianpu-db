@@ -1,0 +1,24 @@
+%人这辈子图个啥.txt
+% 出处 https://www.jianpujia.com/
+title=人这辈子图个啥
+tag=
+usertag=
+tagroute=
+confidence=0.970
+conf_p10=0.933
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-12511
+%--
+4/4
+subtitle=score
+x 5. q6'. 1'. q2' q2' q1' q6 q5 5 - q6. s6 q6 q5 q6 6 q1' q6 q5 q5 q3 2 - 1 q2 q3 5. q3 q2 3 q2 1 - q2. s2 q2 q3 5. q3
+q2 q3 q3 q2 1 1' q3 3 q2 3 q3 q5 q2 q3 q3 q2 1 - q,6 1 q1 1 q,6 q,5 q3 q2 q1 q,6 2 - q3 5 q5 q6 q5 3 q2 q1 q,6 s2
+s1 1 - q,6 1 q1 1 q,6 q,5 q3 q2 q1 q,6 2 - q3 3 q2 3 q3 q5 q2 q3 q3 q2 1 - q,6 1 q1 1 q,6 q,5 q3 q2 q1 q,6 2 - q3
+5 q5 q6 q5 3 q2 q1 s6 s2 s1 2 - q2 2 q1 2 3 q6 q6 s6' s1' q6 5 - q5 5 q6 1'. q6 q6 q6 q5 5 - q6 6 q5 6 q6 q6
+q5 q5 q3 2 - q2 q1 q2 q3 5. q3 q2 3 q2 1 - q2. s2 q2 q1 q2 2 q3 6 s1' s1' q6 5 - q5 5 q6 1'. q1' q2' q1' q6 q5 5 -
+q6 6 q5 6 q6 q1' q6 q5 q5 q3 2 - q2 q1 q2 q3 5. q3 q2 3 q2 1 - q2. s1 q2 q3 q5 5 q3 q2 q3 q3 q2 1 - x 5. q6 1'.
+q2' q2' q1' q6 q5 5 - q6. s6 q6 q5 q6 6 q1' q6 q5 q5 q3 2 - q2. s2 q2 q3 q5 5 q3 q2 3 q2 1 - q2 q1 q2 q3 q5 5 q3 q2
+q3 q2 s1 s6 1 - x. q2 q3 q3 q2 1 - q2 q3 q3 q2 1' - x 1' - - - 0 6' 1' q6 q5 5 - q6. s6 q6 q5 6 1' q6 q5 q5
+q3 2 - q2 q1 q2 q3 5. q3 q2 3 q2 1 - q2. s2 q2 q3 5. q3 q2 q3 q3 q2 1 1'
+%END

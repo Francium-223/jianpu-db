@@ -1,0 +1,23 @@
+%但愿余生都是你.txt
+% 出处 https://www.jianpujia.com/
+title=但愿余生都是你
+tag=
+usertag=
+tagroute=
+confidence=0.960
+conf_p10=0.890
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-14769
+%--
+4/4
+subtitle=score
+q0 s5 d1 d2 s3 d2 ~ 2 ~ q2 d1 d7 s1 s7 s6 q,6 q,7 q,5 - q0 s6 s6 s7 s1 s5. ,5 q0 s5 s5 q4 s3 s2 q2 s1 s2 2 - q0 s5 s1
+s2 s3 s2 ~ 2 ~ q2 s1 s7 q1 s7 s1 q1 q5 5 - 0 s6 s7 s1 s5 q,5 q1 q1 s1 s1 q4 q3 q2 q2 q1 q2 2 - q0 q7 q6 q7 q7 q6
+q7 q6 q7 q7 q7 q2 q2 q3 q1 q7 q1 1 - q0 s7 s6 q,7 s7 s6 s,7 s6 d,7 q,7 s7 s2 q2 s3 q1 s,7 d1 1 - q0 s2 d3 q4 d3 s1 s1 q,6.
+q0 d,6 s6. s5 5 - s5 s4 s3 d4 q5 s6 d6 q6 q1 ,7 d5 s4 s3 s4 q5 d6 s5 q5 s7 s1 1 s1 s2 s3 s4 q5 q4 q4 q0 q5 q3 q2 q2 q4
+q3 3 - - q5 q4 q3 q4 q5 q6 q6 q6 q1 ,7 q5 q4 q3 q4 q5 d6 s5 q5 d,7 s1 1 d1 d2 s3 s4 q5 s4 s4 q4 s,7 q,5 s7 q2 s1 1 -
+- - 0 0 0 d5 s4 d3 d4 q5 s6 d6 q6 q1 ,7 d5 s4 s3 s4 q5 d6 s5 q5 s7 s1 1 s1 s2 s3 s4 s5 s4 s4 q0 s5 q3 q2 s2 q4 s3
+3 - - q5 q4 q3 q4 q5 q6 q6 q6 q1 ,7 q5 q4 q3 q4 q5 q6 q5 q5 q7 q1 1 q1 q2 q3 q4 q5 s4 s4 q4 s,7 q,5 s7 q2 s1 1 - -
+- 1 1' 1
+%END

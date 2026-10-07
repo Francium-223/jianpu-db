@@ -1,0 +1,21 @@
+%回忆里的那个人.txt
+% 出处 https://www.jianpujia.com/
+title=回忆里的那个人
+tag=
+usertag=
+tagroute=
+confidence=0.979
+conf_p10=0.961
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-10778
+%--
+4/4
+subtitle=score
+1 - - - x. x x. x. - - - s,5 s,6 s1 s,6 s2 q3. ~ 3 q0 s,5 s3 s2 s2 s1 q1 s,6 s1 ~ 1 - s,5 s,6 s1 s,6 q,6 s1 s2 ~ 2
+0 s,5 s,6 s1 s2 3. s2 s3 2 s,5 s,6 s1 s,6 s2 q3. ~ 3 q0 s,5 s3 s2 s2 s1 q1 s,6 s1 ~ 1 - s,5 s,6 s1 s,6 q,6 s1 s2 ~ 2 0 s,5
+s,6 s1 s2 3. s2 s3 2 s,5 s,6 q1 q2 s3 s3 q3. s3 q5 s6 s3 q0 s3 s5 s6 s7 s6 s7 s6 q5 s5 3 q0 s3 s2 q3 q5 s5 q3 s2 s,6 q1. q0
+s1 s2 s3 s2 s2 s1 s1 q1 s,6 2 s,5 s,6 q1 q2 s3 s3 q3. s3 q5 s6 s3 q0 s3 s5 s6 s7 s6 s7 s6 q5 s5 3 q0 s3 s2 q3 q5 s5 q3 s2
+s,6 q1. q0 s,6 s,5 q,6 q1 s1 q1 s3 q2. s,6 q,6 s1 s2 q2 q1 1 - - - - - s,5 s,6 s1 s,6 q,6 q1 s1 q1 s3 q2. s,6 q,6 s1 s2 q2 s1 s2
+1 0 s,5 s,6 q1 q,6 q1 s1 q1 s3 q2. s,6 q,6 q1 q2. s1 1 - q0 s,6 s,5 q,6 q1 s1 q1 s3 q2'. s,6 s,6 q1. q2. s1 ~ 1 - -
+%END

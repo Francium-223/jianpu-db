@@ -1,0 +1,22 @@
+%半城烟沙.txt
+% 出处 https://www.jianpujia.com/
+title=半城烟沙
+tag=
+usertag=
+tagroute=
+confidence=0.990
+conf_p10=0.987
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-7843
+%--
+2/4
+subtitle=score
+s0 s,6 s,6 s,7 s1 s3 s2 s1 ,7 s0 q1 s,7 q,6 q,6 s,5 q,6 s,6 ,6 0 s0 s,6 s,6 s,7 s1 s3 s2 s1 ,7 s0 q1 s,7 q1 q,6 s,6 q,5 s3 ~ 3 0 s0
+s4 s4 s4 s4 s4 s4 s5 qx'. s3 s2 q0 s1 s2 q6 q5 q2 s3 s2 ~ s2 q1. q0 s,6 s,7 q1. s,6 q0 s1 s1 q2 q1 s1 q2 s,7 ~ s,7' s1 s,7 s,7 ~
+,7' 0 0 s0 s,6 s,6 s,7 s1 s3 s2 s1 ,7 q0 s1 s,7 q,6 q,6 s,5 q,6 s,6 ~ ,6 0 s0 s,6 s,6 s,7 s1 s3 s2 s1 ,7 s0 q1 s,7 q1 q,6 s,6 q,5 s3
+~ s3' s4 q3 ~ s3 s2 q1 s0 s4 s4 s4 s4 s4 s4 s5 qx'. s3 s2 q0 s1 s2 q6 q5 q2 s3 s2 ~ s2 q1. q0 s,6 s,7 q1. s,6 q0 s1 s1 q2 q1
+s1 s2 s1 s3 s3 s4 3. 0 q0 s5 s3 q1' s6 s6 q0 s5 s6 q3 s2 s2 q0 s2 s3 q7. s5 s0 s2 s2 s3 q2 s1 s1 q0 s,6 s1 s3 q2 s1 s2 q1
+s,6 q6 q5 s5 q3 s,5 3 - 0 q0 s5 s3 q1 s6 s6 q0 s5 s6 q3 s2 s2 q0 s2 s3 q7. s5 ~ q5 s2 s3 q2 s1 s1 q0 s,6 s1 s3 s2 s2 s1
+q2 s1 s,6 q6 q5 s2 q1 s,6 1 - q6 q5 s2 q1 s,6 1 - 0 q0 s5 s3 q6 q5 q2 s1 s,6 s,6 q1. ,1 ,1 -
+%END

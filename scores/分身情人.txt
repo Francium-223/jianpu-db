@@ -1,0 +1,24 @@
+%分身情人.txt
+% 出处 https://www.jianpujia.com/
+title=分身情人
+tag=
+usertag=
+tagroute=
+confidence=0.973
+conf_p10=0.973
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-10691
+%--
+4/4
+subtitle=score
+1 - - x. 1. x. x 1 q1 x q3 q5 q3' q1' q5 q1' q2' q3' q5' q5' q2' q1' q2' q3' q5' q1' q2 q1' q3' q1' 5. q1 q3 d5 q1 q1 3 - - -
+0 q0 s5 s1' s2' s3' s5' s5' s3' s1' s2' 2' s5 s1' s2' s3' s7 ~ s7 s3' s1' s2' 2' q0 s5 s1' s2' s3' s1' s2' 2' s1' s1 s1 ~ q1 s2 s1' q2' s1'
+s3' s3' s1' s2' q2' s1' 2' s1' s2' s3' s5' s5' s3' s1' s2' 2' s1' s7 s1' s2' s3' s5' s3' s1' s2' 2' s3 s1 - - x q0 s,5 s,5 s3 s4 q3 q2 s2 s2
+s2 s3 s,7 s1 q0 s,5 s,5 s3 s4 q3 q2 s2 s2 s2 s3 s,7 s1 q0 s,6 s,6 s,6 s,7 s1 s,5 q0 s,5 s,5 s2 s1 s,7 s1 q0 s,6 s,6 s,6 s,7 q1 q4 s3 s2
+s2 s1 s2 s1 q0 s,5 s,5 s3 s4 s3 s2 q0 s2 s2 s2 s3 s,7 s1 q0 s,5 s,5 s3 s4 q3 q2 s2 s2 s5 s3 s2 s1 q0 s,6 s,6 s,6 s,7 s1 s,5 q0 s,5
+s,5 s2 s1 s,7 s1 q0 s,6 s,6 s,6 s,7 q1 q4 s3 s2 s1 s,7 q2 q2. s1' ~ 1' 0 s1 s2 s3 s5 q5. s4 q3. s1 2 s1 s2 s3 s5 q5. s4 q3. s2 1
+s1 s,7 q1 6 s1 s,7 q1 q5 s3 s2 ~ q2 q3 4 - 0 s1 s2 q3 q5. s4 q3. s1 q3 q2 s1 s2 q3 q5 s4 s4 q3. s2 1 s1 d7 q1 q6 s1 s1
+q,7 q1 q5 s3 s2 ~ q2 q3 4 - q0 s3 s2 1 x q0 s1' s2' s3' s5' s3' q2' s3 s1 s2 s5 ~ q5 q1' s5 q1 s5 s3 q1 q2 1 q0 s7 s1 ~
+1 0 0 0 q0 s3 s2 q2 s2 s1' ~ 1' - 0 0 q0 s1 s1' q5 s6 5.
+%END

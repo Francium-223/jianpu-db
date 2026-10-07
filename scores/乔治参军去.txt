@@ -1,0 +1,19 @@
+%乔治参军去.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=45842
+title=乔治参军去
+tag=
+usertag=
+tagroute=
+confidence=0.937
+conf_p10=0.708
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-45842
+%--
+2/4
+subtitle=score
+1 0 0 q,2 x. x x x 5 6 5. q4 3 2 q1 q,5 q1 q3 5 - 5 - 1 2 3 q5 q4 3 2 1. q,7 ,5 ,6 ,6 ,6 - q5 6 6 6
+- 5. q0 6. q0 5 - 5 - 5 - - 5 - - 5 - q,6 q,6 q,6 q,6 q2 q2 q1 q,7 q2. s2 q1 q2 q3 q2 q1 q,7 q,6 q,6 q,6 q,6 q2 q2 q1
+q2 q3. s2 q1 q2 3 q3 q0 ,6 q,6 q,6 q,6 q2 q2 q1 ,7 2. s2 q1 q2 3 q2 1 q,7 q,6 q,6 q,6 q,6 q2 q2 q1 q2 q3. s2 q1 q,7 ,6 0 4. x'
+,x' 1' -
+%END

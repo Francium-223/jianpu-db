@@ -1,0 +1,18 @@
+%向往绿色的春天.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=45383
+title=向往绿色的春天
+tag=
+usertag=
+tagroute=
+confidence=0.995
+conf_p10=0.989
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-45383
+%--
+2/2
+subtitle=score
+0 1 1 1 5 5 6 7 1' - 5 - 4 - 5 3 2 - 1 - - 1 1 1 5 5 6 7 1 - 5 - 4 - 5 3 2 - 1 -
+0 5 5. q4 3 1 3 4 5 - 1' 2' 7 6 - 5 - 0 5 5 6 7 5 1' 6 5. q5 6 1' 7 6 5 - 3 - 2 - 1 - 3
+- 5 3 2 - 1 - 0 0
+%END

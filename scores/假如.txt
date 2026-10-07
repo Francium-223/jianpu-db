@@ -1,0 +1,23 @@
+%假如.txt
+% 出处 https://www.jianpujia.com/
+title=假如
+tag=
+usertag=
+tagroute=
+confidence=0.963
+conf_p10=0.953
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-8366
+%--
+4/4
+subtitle=score
+qx - - 2 - x. qx x x 2' 1' - 6 4 - 5 - - - 4 - q4 q2 q7 q6 5 - - - 2' 1' - q1' q4' q3' q2' 3' q1' q5 5
+- 4' q3' 2' q1' q7 q3' 2' - - - 5 - q5 q6 q5 q4 3 - q3 q2 q4 s7 1 - - - 1 - q1 s5 s5 q1 q2 3 q1 1 q1 q2 q1
+3 q5 5 s5 q1 q2 3 q5 5 q3 q2 q1 2 2 - q3 q4 5 q6 5 q3 q2 q1 1 q,6 ,6 q,5 q3 q4 q3 2. ,5 q3 q2 ~ q2 q1 ~ 1 -
+- ,7 q,7 q1 q2 q2 q1 q,7 1 q,5 q,5 ~ ,5 - ,7 q,7 q1 q2 q2 q1 q2 3 q5 q5 ~ 5 - q6 6 q6 q5 3 q5 q4 q3 q2 q1 ,6 - ,5
+q3 q4 q3 q2 q1 s7 1 - - - s3 s4 5 q6 5 - s3 s4 5 q6 5 - s2 s3 4 q3 q4 q3 s2 q1. 0 2 - - - s3 s4 5 q6 5
+- s3 s4 5 q6 5 - s2 s3 4 q3 q2 q1 s7 q2. 1 - - - x q6 6 q6 q6 q6 s6 s5 q4 q5 q5 s5 s6 q5 q5 q5 s4 s3 q2 s4 s3
+q4 s5 s4 q5 s6 s5 q6 s1' s7' q1' 1' - 7 q6 q5 5 - - - 5 - q5 qx s5 q1 q2. s3 s4 5 q6 5 - s3 s4 5 q6 5 - s2 s3
+4 q3 q4 q3 s2 q1. 2 - - - s3 s4 5 q6 5 - s3 s4 5 q6 5 - s2 s3 4 q3 q2 q1 s7 q2. 1 - - -
+%END

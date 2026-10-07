@@ -1,0 +1,17 @@
+%同坐小竹排.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48470
+title=同坐小竹排
+tag=
+usertag=
+tagroute=
+confidence=0.996
+conf_p10=0.991
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48470
+%--
+2/4
+subtitle=score
+3 6 2 6 2 2 q6 2 q1 q6 ,6 ,6 3 q3 q1 q3 2 2 q6 q2 q1 q6 ,6 ,6 q3 q6 q6 q1 s3 s3 s3 q1 2 2 q1 2 1 q6 ,6 q6
+q0
+%END

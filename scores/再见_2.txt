@@ -1,0 +1,20 @@
+%再见_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=46780
+title=再见
+tag=
+usertag=
+tagroute=
+confidence=0.998
+conf_p10=0.995
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-46780
+%--
+4/4
+subtitle=score
+0 0 3 5 5. q5 5 6 q5 q3 3 q2 q3 q2 q1 1. q1 1 q,6 q,5 ,5 - ,5 ,6 1 - 1 2 3 q3 q3 q2 q1 q3 q2 2 - - - 0
+0 3 5 3 q3 q3 q2 q1 q2 q1 1 - - - 0 0 3 5 q6 q6 q6 q6 q6 q5 q5 q3 3 - 2 3 1 q1 q1 q1 1 2 3 - 3 5
+q6 q6 q6 q6 q6 q5 5 q3 q3 q3 q3 q2 q1 q3 q2 2 - - - 0 0 3 5 5 - 5 q6 q5 q5 q3 3 q2 q3 q2 q1 1. q1 1 q,6 q,5
+,5 - ,5 ,6 1 - - 2 3 q3 q3 q2 q1 q2 q1 1 - - - 0 0 ,5 ,6 1 - - 2 3 q3 q3 q2 q1 q2 q1 1 - - - 0 0
+0 0
+%END

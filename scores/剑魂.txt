@@ -1,0 +1,22 @@
+%剑魂.txt
+% 出处 https://www.jianpujia.com/
+title=剑魂
+tag=
+usertag=
+tagroute=
+confidence=0.955
+conf_p10=0.841
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-12972
+%--
+4/4
+subtitle=score
+1 - - 2 0 1 7 x x x x x x x q3 6. q3 7. 6 - 6 - q3 ,6. q2 3 q1 ,6 - ,6 - q6 s5 s3 5 q5 s3 s2 3 q3
+s1 s6 q1 q5 3 0 q6 s5 s3 5 q5 s3 s2 3 q3 s1 s6 q1 q5 3 q0 s6 s1 q2 s2 s1 q2 s1 s2 q3 s3 s5 q3 s2 s1 q2 s2 s1 q2 s2
+s3 3 q0 s6 s1 q2 s2 s1 q2 s1 s2 q3 s3 s5 q3 s2 s1 q2 s2 s1 q2 s2 s3 3 - q0 s3 s1' s7 s6 s5 q3 s5 s6 6 q3 s6 s7 q7 s6
+s7 q1' s7 s6 s5 s6 s5 s3 q3. s3 s1' s7 s6 s5 q3 s5 s6 6 q3 s6 s7 q7 s6 s7 q1' s7 s1' q2' s3' s7 q7. s3 s1' s7 s6 s5 q3 s5 s6 6
+q3 s6 s7 q7 s6 s7 q1' s7 s6 s6 s5 s5 s3 q3. s3 s1' s7 s6 s5 q3 s5 s6 q6. s3 q3 s6 s7 q7 s6 s7 q1' s7 s1' q2' s3' s7 q7. s3 q1' s5
+s7 sx s3' s7 q6. 6 6 3' - ,7 - ,7 q4 q3 ,6 - ,6 2 ,7 - ,7 - x. q7. s3 q1'. s5 ~ s5 s6 s7 s6 ~ 6 6 - 6 - 0 0
+,7 1 2 4 s3 q4 s2 s3 q4 s2 3 - q7. s3 q1'. s5 s6 s7 6. 6 -
+%END

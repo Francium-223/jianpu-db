@@ -1,0 +1,24 @@
+%全国各地.txt
+% 出处 https://www.jianpujia.com/
+title=全国各地
+tag=
+usertag=
+tagroute=
+confidence=0.986
+conf_p10=0.967
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-10757
+%--
+4/4
+subtitle=score
+q0 s1 s2 s2 s3 s3 s2 s2 q1 s5 s6 s5 s3 s5 q0 s5 1' s1' s1' s1'. s3' s3' s4'. s3' s2' s2' q6. q1' s1' s2' s2' q1'. ~ 1' - 1' 0 s0 s,5 s,5
+s,4 q,3 s,4 s,5 ~ ,5 q0 s,5 q1 s,7 s,6 s,6 q,7 s,6' ~ s,6' q,5. ~ ,5' q,6 s,7 s1 ~ q1 q,6 s,5 q,3 s,5 q0 s,3 q,4 q,3 q,1 s,6 s,2 ~ ,2 0 s0 s,5
+s,5 s,4 q,3 s,6 s,5 ~ ,5 q0 s,5 q1 s,7 s,6 s,6 q,7 s,6 s,6 q,5. ~ ,5 q,6 s,7 s1 ~ q1 q,6 s,5 q,3 s1 q0 s,5 s,5 q4 s3 s1 q1 s,7 s2 ~ s2' q1.
+~ 1' 0 s0 s,5 s1 s2 s2 s3 s3 s2 s2 q1 s5 s6 s5 s3 s5 q0 s5 q1'. s6 s6 s5 s3 s5 ~ s5 q5. s0 s,5 s1 s2 s2 s3 s3 s2 s2 q1. s2
+q,6 s1 q0 s3 q,6. s1 q4 s3 s1 s1 q2. s0 s,5 s1 s2 s2 s3 s3 s2 s2 q1. s3 q5 s5 q0 s5 q1'. s6 s6 s5 s3 s5 ~ s5 q5. s0 s5 s1 s2 s2
+s3 s3 s2 s2 s1 s1 s1 s2 s1 s1 s,6 q0 s1 s,6 s3 q2. ~ 2' q0 q3 q,6 q2 q1 q1 ~ 1 0 0 0 0 0 0 0 0 0 0 q0 s,5 s,5 s,5
+q,5 s,5 q,6 q,5 q0 s,5 q1 q,7 s,6 q,6 s,7 q,6. s,5 q0 s,5 s,5 q,6 s,7 s1 ~ s1 q,6 s,6 s,5 q,3 s,5 q0 s,3 q,4 q,3 s,1 q,6 s,2 ~ ,2 0 q0 q,3 q,3 s,4
+s,5 ~ ,5 q0 s,5 q1 s,7 s,6 s,6 q,7. q,3 q,5 s0 s,5 s,5 s,5 q,6 s,7 s1 ~ s1 q,6. s,5 q,6 s,5 s,5 s,3 s,5 s,5 q4 s3 s1 s1 q,7 s2 1 - q1. s2 2
+q0 q3 q,6 s2 s1 1 - 0 s0 s,5 s1 s2 q0 q3 q,6 s2 s1 ~ 1 - 0 0 0 q0 d5 q3 s4 s3 s2 q1. q,6 s1 s2'. ~ q2 q1' ~ 1' -
+%END

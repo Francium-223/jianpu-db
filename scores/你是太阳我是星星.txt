@@ -1,0 +1,22 @@
+%你是太阳我是星星.txt
+% 出处 https://www.jianpujia.com/
+title=你是太阳我是星星
+tag=
+usertag=
+tagroute=
+confidence=0.970
+conf_p10=0.940
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-13015
+%--
+4/4
+subtitle=score
+1 - - - x x 1. 1' q1' q5 q3 q1 q2 q3 4. q,6 q1 q,7 2. q1 q2 q2 q3 q,5 q1 2. q1' q5 q3 q1 q2 q3 4. q,6 q1 q,7 2. q,7 q3 q2
+1. 1. q3 q3 q3 q3 q2 q1 2 q1 1. q,7 q,7 q,7 q,7 q,6 q,5 1 q2 3. q6 q6 q6 6 q6 q5 q5 s5 s2 1. q2 q2 q2 q2 q2 q,5 5 q3 2. 2.
+0 q3 q3 q3 q3 q2 q1 2 q1 1. q,7 q,7 q,7 q,7 q,6 q,5 1 q2 3. q6 q6 q6 6 q6 q5 q5 s3 s2 1. q2 q2 q2 q2 q2 q1 5 q6 5. 5. 0
+1 q1 5 q5 6 q6 5. 7 q7 7 q5 1' q2' 3'. q6 q6 q6 6 q5 5 q5 1. q2 q2 q2 q2 1' q7 q7 q1' 2'. 1 q1 5 q5 6 q6 5. 7 q7
+q7 q5 q5 1 q2 3. 6 q6 6 q6 q5 q5 s3 s2 1. q2 q2 q3 q4 1 1. q7 q6 q7 1. 1. 1'. 1'. q1' q5 q3 q1 3 4. q4 q1 q3 2 s5 q2
+q1 q2 q3 s5 q1 5. q1' q5 q3 q1 q3 q5 q4 6 q4 q3 q2 5. q2 q3 q2 q1 s5 q2 5. x. 1'. 1'. 1'. 1'. 1'. 1'. 1'. 1'. 1' q1' q5 q3 q1 q2
+q3 4. q,6 q1 q,7 2. q1 q2 q2 q3 q,5 q1 2. q1' q5 q3 q1 q2 q3 4. q,6 q1 q,7 2. q,7 q3 q2 1. 1. 1. 1.
+%END

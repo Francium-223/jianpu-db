@@ -1,0 +1,20 @@
+%出阁引.txt
+% 出处 https://www.jianpujia.com/
+title=出阁引
+tag=
+usertag=
+tagroute=
+confidence=0.981
+conf_p10=0.982
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-10928
+%--
+4/4
+subtitle=score
+- - - ,6 q,5 q,6 1 - q2 3 q,5 ,5 - q,4 q,3 q,4 q1 ,7 ,5 ,3 - 0 0 ,6 q,5 q,6 1 - q2 3 q6 2 - q,6 q,5 q,6 q1 1 q,7. s,5
+,5 - 0 0 3 q3 q2 3 q3 q6 5 q5 q3 2 - 1 q1 q,6 1 q1 q3 2 q2 q3 2 - 3 q3 q2 2 q2 q3 5 q7. s6 6 q0 q5 q6 q6
+q6 q5 q3 q3 2 q1 q1 ~ 1 - 0 x q3' 1' q2' q1' q3' 3' s1' s2' q3' q1' q1' q1' q2' - - - x. 5 q3 q2 3 q0 q3 q2 q3 q2 q1 q1
+q1 ,6 1 - - 0 3 q3 q2 3 q3 q6 5 q5 q3 5 - 6 q6 q5 6 q5 q3 2 q5 q6 q5 q5 ~ 5 3 q3 q2 2 q2 q3 5 7 1' q0
+q5 q6 q6 q6 q5 q3 q3 q2 q3 1 1 - - x q3' 1' q3' q2' q1' q3' s1' s2' q1' q1' q1' q2' q5' - - - x
+%END

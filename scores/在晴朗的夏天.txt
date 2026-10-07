@@ -1,0 +1,18 @@
+%在晴朗的夏天.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=45834
+title=在晴朗的夏天
+tag=
+usertag=
+tagroute=
+confidence=0.994
+conf_p10=0.984
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-45834
+%--
+4/4
+subtitle=score
+5 3 q5. s4 3 q1. q7 6 - 4 4 2 4. s3 2 q7. s6 5 - 3 5 1' 1'. s1' 3' 1'. q1' 4 - 6 4' 3' 1' 2' 7 q1'. q1' 1'. s1' q1'.
+q5 q5. q4 q3. q5 q5. q4 q3. s1' q1'. s7 q6. s6 q6. 5 q4. q4 4. s3 q2. s4 q4. s3 q2. s7 q7. q6 q5. q5 q5. q4 3 5 1' q1'. s1' 3' q1'. s1' 4
+- 6 4' 3' 1' 2' 7 q1'. q1' q1'. s1' 1'
+%END

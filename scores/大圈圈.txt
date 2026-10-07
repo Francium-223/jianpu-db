@@ -1,0 +1,27 @@
+%大圈圈.txt
+% 出处 https://www.jianpujia.com/
+title=大圈圈
+tag=
+usertag=
+tagroute=
+confidence=0.975
+conf_p10=0.960
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-12379
+%--
+4/4
+subtitle=score
+x q0 q7 q2' q2' 3' 3' 3' - q3' 2' q2' ~ 2' q7' q1' 2' 2' 2' q2' q3' q2' 1' q1' ~ 1' q2' q2' 3' 3' 3' - q3' 2' q2' ~ 2' q7' q1' 2'.
+q5' ~ 5' 7 1'. q7 ~ 7 5 ~ 5 0 0 - 0 0 0 q1 q2 3 3 q3 q3 q3 q4 q3 q2 q2 q2 ~ 2 q7 q1 2 2 2 q2 q3 q2 q1
+q,7 q1 ~ 1 q1 q2 3 3 3 4 q3 q2 q1 q2 ~ 2 q,7 q1 2 q2 q2 2 q2 q3 q2 q1 q,7 q1 ~ 1 0 1 - - q1 q2 2 - - q,7
+q1 2 2 q2 q1 q,7 q1 ~ 1 - 0 0 1 - - q1 q2 ~ 2 - - q,7 q1 2 2 q2 q2 q5 q3 ~ q3 q2 ~ q2 q3 0 1 3 - -
+q4 q3 ~ q3 q2 ~ 2 - q,7 q1 2 2 q2 q1 q,7 q1 ~ 1 - 0 q,6 q,7 1 1 q1 1 q2 ~ 2 - ,7 ,7 2 2 q2 q1 q,7 q1 1 -
+0 q1 q2 3 q3 q3 q3 q3 q3 q4 q3 q2 q2 q2 ~ 2 s7 q1 2 q2 q2 2 q2 q3 q2 q1 q1 q1 ~ 1 q1 q2 3 3 3 4 q3 q2 q1 q2
+~ 2 q,7 q1 2 2 2 q2 q3 q2 q1 q,7 q1 ~ 1 q1 q2 3 3 q3 q3 q3 q4 q3 q2 q2 q2 ~ 2 q,7 q1 2 2 2 q2 q3 q2 q1 q,7 q1
+~ 1 q1 q2 3 3 3 4 q3 q2 q1 q2 ~ 2 q,7 q1 2 q2 q2 2 3 q2 q1 q,7 q1 ~ 1 0 q,6 q1 1 q1 q1 q1 q2 ~ 2 q2 q1 1
+q2 q,7 q,7 q,7 ,7 q,7 q,7 q,7 q1 ~ 1 q1 q1 2 1 1 q,7 q1 q1 q1 1 2 q2 1 q2 ~ q2 q,7 q,7 q,7 ,7 q,7 q,7 ,7 1 q1 2 q1 1 3
+- - q4 q3 ~ q3 q2 ~ 2 - - 2. q2 ~ q2 q1 q,7 q1 ~ 1 - - q,6 q,7 1 1 q1 1 q2 2 - ,7 ,7 2 2 q2 q1 s7 q1 1
+- 0 q1 q2. q2 q1 s7 q1 1 0 x 3 3 3 - q3 2 q2 2 q7 q1 2 2 2 q2 q3 q2' q1' 1' q2' q2' 3' 3' 3' q3' q4' q3' 2' q2' 2'
+q7' q1' 2'. q5' 5' 7 1'. q7 7 q1 q2 q2 q1 s7 q1 1 0
+%END

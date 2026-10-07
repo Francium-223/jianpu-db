@@ -1,0 +1,22 @@
+%别让我一个人醉.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=40440
+title=别让我一个人醉
+tag=
+usertag=
+tagroute=
+confidence=0.798
+conf_p10=0.392
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-40440
+%--
+4/4
+subtitle=score
+1 - - x 0 - x 1 x ,1' - - - x' 1 2. q5 q5 q2 3 2 3 2 - - - s3 6 2 3 q5 q6 3. q,5 q6 5 q3 5 5 3
+2 3 3 2 3 5. 5 q6 6 5 0 3 q5 q6 1 - ,1 q1 3 q3 2 - - - s3 q3 s3 s5 5. s2 2 2 q6 1 1 s1 q6 q5 3 -
+3 3 3 5 5. q2 q2 2 ~ 2 6' 6' 1. 1'. 1'. 5. 1' 5 1 x q1. 1' x. q,x qx 3' 3' h,,1 s1' s1 q1' s1 s6' d1' x' 5 5' 3. 5. 5
+3 5' 1' 6' 6' 3 h1' 5' q1 1' 5' h1 h,x s,,1 s1 q1. d1' 1 6 6 q1' 1' 6 q,1' qx' q2'. qx' 6 q2 s1 s1' q1 6 6. q1 q0 qx' 6 s1' s5
+2 5 h3' d,2. q3 q3 q2' q3' q3 3' x 1 2 1 x 5' 5 s3 q3' d3 q1' q6'. qx. x'. 6'. q1' 1. 6' q6' 1' 5' x s3 q,1' q,5 qx. q5' q5 q5 1'
+q6 5 5 q,2 q,6. q,6 q6 q6 q6 q5' q3' 3' 0 3 5 5' 1' 5' 5 6' 5 3 x 3 3' x 3' q2 s2 q3 s2 s1 q1 2 - q6 q1 q1 q1 ~
+1 - q2. s3 s,2 q1 - -
+%END

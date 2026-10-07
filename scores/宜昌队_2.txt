@@ -1,0 +1,16 @@
+%宜昌队_2.txt
+% 出处 http://www.jianpu.cn/
+title=宜昌队
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=jianpucn-475898
+%--
+4/4
+subtitle=score
+1 2 3 2 1 6 5 1 2 3 2 1 6 5 1 2 3 2 1 6 5 1 2 3 5 6 5 1 5 5 6 5 3 3 2 1 5 5 6 5
+3 3 2 1 5 5 6 5 3 3 2 1 5 5 6 5 3 3 2 1 5 6 5 1 2 2 3 2 1 6 5 2 2 3 2 1 6 5 1 2
+3 5 6 5 1 1 2 3 5 6 5 1
+%END

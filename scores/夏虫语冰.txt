@@ -1,0 +1,23 @@
+%夏虫语冰.txt
+% 出处 https://www.jianpujia.com/
+title=夏虫语冰
+tag=
+usertag=
+tagroute=
+confidence=0.977
+conf_p10=0.965
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-10919
+%--
+4/4
+subtitle=score
+x q1' q1' q1' q1' q1' q1' 1' q1' q1' q1' q1' 3' - - 3' - q2' q1' - - 3 - - 3 - x s5 q2 3 - - 3 - - 3' - 3' - 4'
+s5' q2' q1' q1' - 1' - s1' - - - - - ,6 3 q3 q6 5 3 q2 q3 ~ 3 ,6 - 0 0 0 ,6 3 q3 q6 5 q3 q2 q2 q3 q5 q6 6
+- 6 0 0 q5 q6 ~ 6 5 2 - q1 q2 3 5 3 ,6 - q,6 q,7 1 q2 3 2 ,7 ,5 q,7 q1 ,6 - 0 0 0 ,6 3 q3 q6 5 3 q2
+q3 ~ 3 q,6 ~ ,6 0 0 0 ,6 3 q3 q6 5 3 q2 q3 q5 q6 6 - 6 0 0 q5 q6 ~ 6 5 2 - q1 q2 3 5 3 ,6 - q,6 q,7
+1. q2 3 2 ,7 ,5 q,7 q1 ,6 - 0 0 q,6 q,7 1 q2 3 2 ,7 ,5 q,7 1 q,6 ~ ,6 0 0 0 6 1. q7 5 q1 q7 7 6 - q5 q4 q3
+q5 5 q2 q3 x 4 5 6 6 - q7 q1 2 3 x 4 3 - - 6 1'. q7 5 q1' q7 7 6 - q5 q4 q3 q5 ~ 5 q2 q3 x 4 5 6
+6 - q1' q1' 2' 3' 4' 4' 3' - - 1 q7 6 5 4 3 7 q6 5 4 3 2 2. q3 4 3 - - 4 q5 6 5 - - 4. q5 6 7 1'
+2' 2' - - - 2' 0 0 - 2' 0 0 0 0 x - - 2' - - 2' - - 6 1'. q7 5 q1' q7 7 2' - - 2' - -
+%END

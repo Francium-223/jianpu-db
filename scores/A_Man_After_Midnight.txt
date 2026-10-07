@@ -1,0 +1,19 @@
+%A_Man_After_Midnight.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=46370
+title=A Man After Midnight
+tag=
+usertag=
+tagroute=
+confidence=0.992
+conf_p10=0.988
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-46370
+%--
+4/4
+subtitle=score
+6 5 3 q2. q1 2 q2. s1 q2 q2 s3 ,6 q1 2 q2. s1 q2 q,6 q,6 q1 q2 q2 q2 s3 2 q2 q1 q,6 q,5 ,6 - - 0 6 5 3 q2. q1 2 q2.
+s1 q2 s2 s3 q,6 q1 q2 q2 q2. s1 q2 q,6 q,6 q1 q2 q2 q2 s3 s2 q2 q1 q,6 q,5 ,6 - - 0 q0 q,7 q,7 q,7 ,7 q1 q2 ,7 - - 0 1 x.
+x q0 ,7 q,7 q,7 ,7 q1 q2 2 - - - 2 - - - 2 - - 0 q,6 q1 q,6 q1 q,6 q1 q3 q2 q2 q1 q,6 q1 q1 ,6 q2 q2 q2 q1 s6 s1
+q1 q,6 q,6 q,6 q,5 3 q1 q,6 ,6 -
+%END

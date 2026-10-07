@@ -1,0 +1,17 @@
+%你好.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48427
+title=你好
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.998
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48427
+%--
+2/4
+subtitle=score
+7 6 5 0 6 5 0 q4 q3 2 0 5 3 0 q1 7 6 5 0 6 5 0 q4 3 q2 0 q2 q1 0 5. 5 6 5 4 3 2 1 5 q5 q5
+1 1 0
+%END

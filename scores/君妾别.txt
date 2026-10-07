@@ -1,0 +1,21 @@
+%君妾别.txt
+% 出处 https://www.jianpujia.com/
+title=君妾别
+tag=
+usertag=
+tagroute=
+confidence=0.978
+conf_p10=0.974
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-11332
+%--
+4/4
+subtitle=score
+1 - - - 1 x. 1 x - - - ,6 q,6 q3 3 q2 q3 2. q3 ,6 - ,5 q,5 q,6 ,7 - 5. q2 3 - q6 q6 q6 q5 q3 q1 1 q2 q1 q2
+q3 2 - q,7 q,7 q,7 q,6 ,5 1 q,7 ,6 q,5 ,6 - ,6 q,6 q3 3 q2 q3 2 q3 ,6 - ,5 q,5 q,6 ,7 q,7 q1 5 q6 3 - q6 q6 q6 q5 q3 q1
+1 q2 q1 q2 q3 2 - q,7 q,7 q,7 q,6 ,5 1 q,7 q,6 q,6 q,5 ,6 q3 q3 6 q6 q6 q1' q6 q5 q6 5 q5 q6 3 q,6 q3 2 q2 q1 q2 q3 q6 q5
+2 q2 q1 3 q3 q3 6 q1' q6 5 q5 q6 q7 q7 q7 q5 3 s,6 q3 2 q1 q2 q3 q6 q5 2 - 7 q1' q6 6 - - - 6 - 0 x ,3 ,5.
+q3 ~ 3 q3 q2 ~ 2 q2 q1 - 2 - q2 q3 3 - q5 q3 ~ 3 1 - 1 - - - - - 2 - 7 q1' q6 6 - - q3 q3 2 -
+7 q1' q6 q6 6 - - 6 - - - -
+%END

@@ -1,0 +1,17 @@
+%刨洋芋.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=45274
+title=刨洋芋
+tag=
+usertag=
+tagroute=
+confidence=0.992
+conf_p10=0.991
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-45274
+%--
+4/4
+subtitle=score
+q6 q3' q3' s2' s1' 2' 6 6 1' 7 q6 q5 q6 q3 s5 6 - q6 q3' q3' s2' q1' q2' q3 3 q5 5 5 6 q3 q2 q1 q6 2 - q6 q3 q3 q2 q1
+2 6 6 1 q7 s6 s5 s6 s3 s5 6 - q1 x q0 s1 s1 s1 s1 q1 q3 0 s5 q5 q5 6 q3 q2 q1 q6 2
+%END

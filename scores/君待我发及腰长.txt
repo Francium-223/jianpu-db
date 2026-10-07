@@ -1,0 +1,19 @@
+%君待我发及腰长.txt
+% 出处 https://www.jianpujia.com/
+title=君待我发及腰长
+tag=
+usertag=
+tagroute=
+confidence=0.988
+conf_p10=0.957
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-11416
+%--
+4/4
+subtitle=score
+x 3 3 q3 q2 2 2 3 q5. s3 1 d7 1 - 3 ~ 3 q1 ~ 1 1 5 q3. s3 q3 q3 q3 q2 2 q2. s2 q3 q5 q2 q1 1 q,6. s1 q1 q,6
+q1. s6 5 q5. s3 q3 q3 q3. s1 2 q1. s3 q5 q6 q6 q5 5 q5. s5 q3 q2 q3 s6 ,6 q1. s2 q3 q2 q3. s6 5 q6. s5 q5 q3 q3. s,6 1 q3. s3
+q3 q3 q3 q2 2 q2. s2 q3 q5 q2 q1 1 q,6. s1 q1. s,6 q1. s6 5 q6. s5 q5 q3 q3 q1 2 q1. s3 q6 q6 q6 q5 5 q5. s5 q3 q2 3 ,6 q1.
+s2 q3 q2 q3 q6 5 0 q6. s5 q5 q3 q3. s6 1 q6. s5 q5 q3 3 ,6 1 - - -
+%END

@@ -1,0 +1,20 @@
+%光阴.txt
+% 出处 https://www.jianpujia.com/
+title=光阴
+tag=
+usertag=
+tagroute=
+confidence=0.961
+conf_p10=0.890
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-13526
+%--
+4/4
+subtitle=score
+1 - - - ,x' x x x ,x. x. 1'. q7 q1' q3 5 - - 6. q5 q6 q1 3 - - 4. q3 q2 q1 5 - 3 1' - - 1' - 0 s5 q1 1.
+q2 q3 q5 q1' q6 5 q6 q1 1 2 3 - - q3 q6 5. q6 q1' q6 q5 q6 q5 q3 q5 q3 q1 q3 q2 q1 1 - - q5 q1 1. q2 q3 q5 q1' q6
+5 q6 q1 1 2 3 - - q3 q6 5. q6 q1' q6 q5 q6 q5 q3 q5 q3 q1 q3 q2 q1 1 - - 1'. q7 q1' q3 5 - - 6. q5 q6 q1 3 -
+- 4. q3 q2 q1 5. q3 q2 q1 6 - - 5 - - 0 0 0 1 - - q3 q6 5. q6 q1' q6 q5 q6 q5 q3' q5 q3 q1 q3 q2' q1 1 - -
+1 - - q6' q1' 1' 2' 3' - - q3 q6 5. q6 q1 q6 q5 q6 q5 q3 q5 q3 q1 q3 q2 q1 1 - - 1 - - x
+%END

@@ -1,0 +1,21 @@
+%哪里是吾家.txt
+% 出处 https://www.jianpujia.com/
+title=哪里是吾家
+tag=
+usertag=
+tagroute=
+confidence=0.964
+conf_p10=0.933
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-12414
+%--
+4/4
+subtitle=score
+- - - 7 - - - 6. q5 3 2 1 2 - - - 6. q6 5 q6 q5 3 - - 0 5. q5 q3 q5 q2 q1 2 - - 0 q2 2 q5 q3 q2
+q1 q,6 1 - - 0 q3 2 q3 q2 q1 q,7 q,6 5 - - 0 6. q6 5 q6 q5 3 - - 0 5. q5 q3 q5 q2 q1 2 - - 0 q2 2 q5 q3
+q2 q1 q,6 1 - - 0 q3 2 q3 q2 q1 q,7 q,5 ,6 - q0 q3 q6 q5 6 - - - q0 q3 q1' q7 q7 q6 q5 q6 3 - - - 3 - q0 q3
+q6 q5 2 - - - 0 q5 q5 q3 q2 q3 q5 6' - - - 6' - - x q0 q5 6. q5 3 2 1 2 - - - 6. q6 5 q6 q5 3 - -
+- 5. q5 q3 q5 q2 q1 2 - - - q2 2 q5 q3 q2 q1 q,6 1 - - - 3 q2 q3 q2 q1 q,7 q,5 ,6 - q0 q3 q6 q5 6 - - - 6
+- - - q0 q3 q1' q7 q7 q6 q5 q6 3 - - - 3 - q0 q3 q6 q5 2 - - - 0 q5 q5 q3 q2 q3 q5 6 - - - 6 - - -
+%END

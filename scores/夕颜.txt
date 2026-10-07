@@ -1,0 +1,23 @@
+%夕颜.txt
+% 出处 https://www.jianpujia.com/
+title=夕颜
+tag=
+usertag=
+tagroute=
+confidence=0.991
+conf_p10=0.975
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-11487
+%--
+4/4
+subtitle=score
+x q1' q3 q1' q7 q3 q5 q2 q3 6 q0 s7 q1 q,3 q1 q,7 q,3 q,5 q,7 - - q3 q5 1' 7 6 - - - - - q,6 q1 2 q2 q1 q2 s3 s2 q1
+q2 q3 q5 q5 q6 3 q3 q5 2 q2 q1 q2 q1 q1 q2 3 - 0 q,6 q1 2 2 q2 s3 s2 q1 q2 q3 q5 q5 q6 3 q5 q3 q2. s2 q5 q3 q2 q,6
+q,6 q1 1 - 0 q,6 q1 q2. s1 q2 q3 2 q1 q2 q3 q5 q5 q6 3 q3 q5 2 q2. s1 q2 q1 q1 q5 s3 s5 q3' ~ 3' - s6 q1 q2. s1 q2 q3
+2 q1 q2 q3 q5 q5 q6 3 q5 q3 2 q5 q3 q2 q,6 q,6 q1 1 - 0 q3 q5 6 - q0 q6 q6 q3 5 - - 0 5 q4 q3 q2 q1 q1 q2 q4
+3 q3 ~ 3 q3 q5 6 - q0 q6 q6 q6 q7 3 q5 ~ 5 q0 q5 6 q1 q1 q2 s6 q1 q6 s5 s6 q5 ~ 5' - - 0 0 0 q,6 q1 q2. s1
+q2 q3 2 q1 q2 q3 q5 q5 q6 3 q3 q5 2 q2 s2 s1 q2 q1 q1 q2 3 - - q,6 q1 q2. s1 q2 q3 2 q1 q2 q3 q5 q5 q6 3 q5 s3 s2
+2 q5 q3 q2 q,6 q,6 q1 1 - 0 - - - - - - q,6 q1 1 - 0 0 q3 q5 1' q7 q6 6 - 6 5 3 - 2. q3 q2 q,6 q,6 q1 ~
+q1 q1 ~ 1 - 0
+%END

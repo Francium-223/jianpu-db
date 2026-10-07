@@ -1,0 +1,24 @@
+%从别后.txt
+% 出处 https://www.jianpujia.com/
+title=从别后
+tag=
+usertag=
+tagroute=
+confidence=0.924
+conf_p10=0.724
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-13838
+%--
+4/4
+subtitle=score
+1 - - - x x x x qx. q1 x 1. ,x x 0 0 0 s3' s6 s7' s1' s1' s6 s7' s1' 7 q3 q,7 ,6 - ,5. q,7 1 - 2 q1 d7 s6 - ,7.
+q,6 - ,5 - - - q0 s6 s5 q,6. s5 s6 q3 s7 ~ ,7 s0 s6 s6 s5 s6 q1 s2 3 0 s0 s6 s2 s3 s4 q3 s6 q2. s5 q0 s5 q,4 s7 s7 ~
+q,7 s1 s7 ~ ,7 0 q0 s6 s5 q,6. s5 s6 q3 s7 ~ ,7 s0 s6 s6 s5 s6 q1 s2 5 ~ s5 q2 s1 q0 s6 s2 q3 s6 q,7. s5 q0 s3 ,7. s1 s1
+~ s1 q,7. s0 q1 s7 q,6. s6 ~ q6 s5 s2 ~ 2 q0 s7 s1 q,5. s5 ~ q5 q,7 q1 s7 s6 q0 s1 s7 q,6. s6 ~ q6 s5 s5 ~ q5 q3 s2 q1 s7
+x - x ,1 x qx x' x ,7 s0 q4 s3 ~ 3 q0 s1 s2 q6. s3 ~ q3 s2 s5 ~ 5 q0 s1 s7 s6. s1' ~ q1' q7 3 q0 s2 s1 s6 s1 s2
+s3 s2 s6 s5 s3 q2. s3 ~ s3 q5. 4 ~ s4 q6 s5 ~ 5 q0 s1 s2 q6. s3 ~ q3 s2 s5 ~ 5 q0 s1 s7 s6. s1' ~ q1' q7 3 q0 s2 s1
+,6 3 ,7 5 q4 s3 s1 1 2 q,7. s6 ,6 - 0 0 s5 s7 s1 s7 s5 s7 s1 s7 s5 s7 s1 s7 s5 s7 s1 s5 s5 s4 s4 s3 s3 s1 s1 s5 s5
+s4 s4 s3 s3 s3 s6' s3' 2' - 7 - ,6 3 ,7 5 s4 s3 1. 0 ,7 ,6 - 0 0 s6. s1' ~ q1' q7 3 q0 s2 s1 s6 s1 s2 s3 s2 s6 s5
+s3 q2. s3 ~ s3 q5. 4 ~ s4 q6 s5 ~ 5 q0 s1 s2
+%END

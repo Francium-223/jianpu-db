@@ -1,0 +1,20 @@
+%喊和唱.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=45899
+title=喊和唱
+tag=
+usertag=
+tagroute=
+confidence=0.977
+conf_p10=0.979
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-45899
+%--
+4/4
+subtitle=score
+2 3 0 q2 q1 q2 3 q2 2 q1 q6 x q0 s6 s6 s6 s6 s6 s6 s5 s5 q6 0 x 6 2 q6. s5 q3 q2 q2 2 q2 2 q1 q6 x q0 q6 q6
+q6 6 q6 q6 q0 s5 s6 0 x 2' 3' 0 2' 1' 2' q3' q2' q2' q1' 6 x q0 s6 s6 q6 q6 q6 q6 s5 s5 q6 0 6 2 q6. s5 q3 q2 5 5
+q3 q5 6 2 q6. s5 q3 q2 - q0 5 q5 q0 3 q5 6 - - - 6 - - 1 q6 1 q2 2 - 2' - - - 2' 2' 2' q1' q6 2' q1' 6.
+0 q2 q2 q5 q5 1 7 6 2. q5 5 0 6 2 2 q1 q2 6 q5 4 q5 5 6 q2 q2 2 1 q2 6 q5 4 5 6 q6 q2' q6 q5 4 q3 q2
+5. q6' 6' 5 6 2 - - - 2 0 0 0
+%END

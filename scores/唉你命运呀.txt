@@ -1,0 +1,17 @@
+%唉你命运呀.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=45337
+title=唉你命运呀
+tag=
+usertag=
+tagroute=
+confidence=0.997
+conf_p10=0.992
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-45337
+%--
+3/4
+subtitle=score
+q,6 q1 3. q2 1 q,7 ,6 q1 q2 ,6 q,5 ,5 5. q3 q5 6 3 3 0 q3 q3 1'. q7 6 3 q5 s4 q3 2 4 q6 3. q2 q1 q,7 1 ,6 - q3 q3
+1'. q7 q6 q3 q5 s4 q3 2 q4 q6 3. s2 s1 q,7 q1 ,6 -
+%END

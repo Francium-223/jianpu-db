@@ -1,0 +1,22 @@
+%一条路.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=6082
+title=一条路
+tag=
+usertag=
+tagroute=
+confidence=0.974
+conf_p10=0.963
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-6082
+%--
+4/4
+subtitle=score
+- - q1 q4 x' x x. 1 3 - q3 q5 s4 s3 s2 s1 q3 q2 2 - s6 s7 q1 2 - q2 q4 s3 s2 s1 s2 3 - - s5 s6 s1 s2 3 -
+q3 q5 s4 s3 s2 s1 3 2 2 6 6 7 1 2 2 4 3 2 1 2 1 1 2 1 3 0 5 4 3 2 1 1 1 1 2 3 2 - - s6
+q,6 s1 ,5 - - q1 s2 s1 3 - q0 q5 q4 q3 q2 q1 1 - q1 s2 s1 2 - q0 q,6 q,7 q1 2 - - - 2 - - q6. s5 5 - - q5.
+s4 4 - - s6 s3 q4 3 - q3 q5 q2 q1 2 - - q6. s5 5 - - q5. s4 4 - - s6 s3 q4 3 - q3 q5 q2 s1 s2 1 - - q1
+s2 s1 3 4 3 2 3 1 2 6 6 7 1 3 2 3 2 7 1 2 3 1 1 2 1 1 7. 6 5 - - q5. s4 4 - - s6 s3 q4 3
+- q3 q5 q2 q1 2 - - q6. s5 5 - - q5. s4 4 - - s6 s3 q4 3 - q3 q5 q2 s1 s2 1 - - q6. s5 1 - - - x 3 -
+q3 q5 s4 s3 s2 s1 3 2 2 6 7 1 2 2 4 3 2 1 2 3 - - - - - -
+%END

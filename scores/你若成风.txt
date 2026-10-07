@@ -1,0 +1,25 @@
+%你若成风.txt
+% 出处 https://www.jianpujia.com/
+title=你若成风
+tag=
+usertag=
+tagroute=
+confidence=0.994
+conf_p10=0.993
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-10626
+%--
+4/4
+subtitle=score
+- - q6 q5 q5 q3 5 - q6 q5 q3 s2 s1 1 - s6 q1 q2 q3 5 - q3 q2 q1 s3 s2 2 - q6 q5 q5 q3 5 - q6 q5 q3 s2 s1 1
+- q,6 q1 q2 q3 5 - q3 q2 q1 q,6 q1 q2 q1 q1 sx sx qx qx qx sx sx sx sx sx sx sx sx sx sx qx sx sx sx sx sx sx sx sx qx
+qx s0 sx sx sx qx sx sx sx sx sx sx qx qx q5 q1 q1 s2 s3 q4 q3 q2. sx sx sx qx qx sx sx qx sx sx sx sx sx sx sx sx qx qx
+sx sx sx sx sx sx qx qx q3 q5 q5. s3 q2 q5 5 q1 q3 q3 s1 s1 s1 s1 q3 3 q4 q4 q4 q6 s5 s5 s5 s6 q5 q1 q2 s2 s2 q2 q3 q5
+q6 5 q6 q5 q5 q3 5 - q6 q5 q3 s2 s1 1 - s6 q1 q2 q3 5 - q3 q2 q1 s3 s2 2 - q6 q5 q5 q3 5 - q6 q5 q3 s2 s1 1
+- q,6 q1 q2 q3 5 - q3 q2 q1 q,6 q1 q2 q1 q1 qx qx sx sx qx qx sx sx sx qx sx qx sx sx qx qx sx sx qx qx sx sx qx qx sx
+sx sx sx sx qx sx qx sx sx sx sx sx sx sx sx sx sx sx sx qx x q2 s3 s3 3 q2 s3 s5 s5 q3. q2 s3 s3 q3 s2 s3 s2 s3 q3 q1
+s3 s3 s2 s3 q3 q1 s3 s3 s2 s3 q3 q1 s3 s3 s2 s3 q3 s1 q6 q5 q5 q3 5 - q6 q5 q3 s2 s1 1 - s6 q1 q2 q3 5 - q3 q2 q1
+s3 s2 2 - q6 q5 q5 q3 5 - q6 q5 q3 s2 s1 1 - q,6 q1 q2 q3 5 - q3 q2 q1 q,6 q1 q2 q1 q1 x q1 q3 q1 q2 q2 q1 q3 q3
+q1 q1 q1 q3 q1 q1 q2 1 q1 q1' q2 q2 q,7 q7 q2 q1 q3 q,5 q,7 q3 q5 q1 q1 q,5 q,5
+%END

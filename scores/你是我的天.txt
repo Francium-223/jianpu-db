@@ -1,0 +1,22 @@
+%你是我的天.txt
+% 出处 https://www.jianpujia.com/
+title=你是我的天
+tag=
+usertag=
+tagroute=
+confidence=0.943
+conf_p10=0.770
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-12520
+%--
+4/4
+subtitle=score
+q3 q6 q6 q5 6 q1' q2' 7 q6 q5 ~ 5 q1' q7 6 q6 q6 q5 q6 q5 q2 q3 3. 0 0 q3 q6 q6 q5 6 q1' q2' 7 q1' q7 5 q1' q7 6 -
+5 q7 6 - - 0 6. q5 6 q1' q2' q7. s1' q7 q6 5 q1' q7 6 - q5. s6 q5 q2 3 - - 0 q3. s6 q6 q5 6 q1' q2' q7. s1' q7 q6 q5
+q3 q1' q7 6 3' 2' q1' q7 6 - - - q3 q6 q6 q5 q6 q3 3 q5 5 q3 5 q3 q2 q1 q1 q1 q1 2 q2 q1 2 q5 q3 ~ 3 - q3 q6
+q6 q5 6 q1' q2' 7 q6 q5 ~ 5 q1' q7 q6 q6 q6 q1' 7 q6 q5 q6 q6 ~ 6 - 0 q6 q6 ~ 6 - 0 q3 q6 q6 q5 6 q1' q2' x x.
+x. - 7 q6 q5 ~ 5 q1' q7 6 q6 q6 q5 q6 q5 q2 q3 3. 0 0 q3 q6 q6 q5 6 q1' q2' 7 q1' q7 5 q1' q7 6 - 7 q6 q5 1' 6
+- - 0 6' 6 1 - - - 0 6 - - q1' q7 6 - - - 7 - 6 5 6 - - - 6 - 0 0 x 6. q5 6 q1' q2' q7. s1' q7
+q6 5 q1' q7 6 - q5. s6 q5 q2 3 - - 0 q3. s6 q6 q5 6 q1' q2' q7. s1' q7 q6 5 q1' q7 6 3' 2' q7 6 - - -
+%END

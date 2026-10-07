@@ -1,0 +1,24 @@
+%地球你好吗.txt
+% 出处 https://www.jianpujia.com/
+title=地球你好吗
+tag=
+usertag=
+tagroute=
+confidence=0.953
+conf_p10=0.885
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-11895
+%--
+4/4
+subtitle=score
+1 - - - x x x 1. x q3 q4 q5 q6 5 - q1 q2 q3 q4 3 - q6 q7 q1 q3 q4 q3 q2 q1 ,5 - - - q3 q4 q5 q6 5 - q1
+q2 q3 q4 3 - q,6 q,7 q1 q3 q4 q3 q2 q1 5 - - - 5 - - 5. ,5 1. q1 1 q2 q3 5. q3 3 q3 q2 1. q1 1 q,4 q,6 ,5 - -
+,5 1. q1 1 q2 q3 5. q3 3 q3 q2 1. q1 1 s6 s5 2 - - q3 q4 5. q5 5 q4 q3 q2 1 ~ q1 1 q3 q2 1. q1 1 q,4 q,6 ,5 -
+- ,5 1. q1 1 q2 q3 5. q3 3 q3 q2 1. q1 1 q,6 q,5 ~ q,5 q1 ~ 1 - ,5 q,5 q1 ~ 1 - 0 x q3 q4 q5 q6 5 - q1 q2 q3
+q4 3 - q,6 q,7 q1 q3 q4 q3 q2 q1 ,5 - - - q3 q4 q5 q6 5 - q1 q2 q3 q4 3 - q,6 q,7 q1 q3 q4 q3 q2 q1 5 - - - 5
+- - q0 q,5 q,5 q1 ~ 1 - q0 s5 q,6 q,6 s6 s6 s6 s7 q1 q,6 ~ ,6 q,7 q,7 s7 s7 s7 s1 q,7 q,5 q0 s5 q,6 q,6 q,6 s6 s7 q1 q,6 ~ ,6
+q2 q2 s2 s2 s1 s2 q1 2. 5 - 6 q3 q4 5. q5 5 q4 q3 q2 1 q1 1 q3 q4 5. q5 5 q4 s3 s2 ~ q2 q2 ~ 2 - q3 q4 5. q5
+5 q4 q3 1 x 0 1 x 0 1 x 0 q2 1. 1 q3 q2 1 - q7 q6 ,6 1 - - q3 q4 1 - 1 ,6 1 - - q3 q2 1 - 1 ,6
+1 - - -
+%END

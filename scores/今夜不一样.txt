@@ -1,0 +1,25 @@
+%今夜不一样.txt
+% 出处 https://www.jianpujia.com/
+title=今夜不一样
+tag=
+usertag=
+tagroute=
+confidence=0.960
+conf_p10=0.883
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-8830
+%--
+4/4
+subtitle=score
+x x x x x x x x x x x x x x x x 3 q3 q5 6 q6 q5 q3 q5 q6 q5 3 - 1' - 7 - 6 - 6 - 3. q3 6 q6
+q6 q3' q5' q6' q5' 3 - 3 3 q2' q3' q2' q,5' ,6 - ,6 - 3. q3 6 q6 q6 1 q3' q5' q5 q6' q5' 3 ,,3 - x s6 q6 6 6 q5 1 q3' q5'
+q1' q2' 3 - 3 - 3. q3 6 q6 q6 x q6 q5 6 q6 q5 6 x q3' q5' q6' q5' 3 - q3 q3' 3' q2' q3' q2' q,5' q,5' q1 ,6 1. 0 1 1 2
+- 2 q5 3 0 x q3 q5 q6 q5 q3 q5 q6 q5 q3 q5 q6 q1 x q3 5 q6 6 - 6 - 6 0 6 3 6 0 q1' q1' q6 q5 6 0 3 ,6
+3 0 q5 q5 q3 q2 3 - 0 3 3 ,6 ~ ,6 q3' q5' 3 q3 q2 q1' q2' 1 0 q,6 q,6 1 q2 q3 0 0 ,6 2 q1. q,6 ,6 - ,6 - ,6 0
+0 0 1' ,6 2 q1. q,6 x q3 q5 q6 q5 q3 q5 q6 q5 q3 q5 q6 q1' x ,6' - ,6 - ,6 ,6 0 q0 q0 q0 q0 q0 qx qx qx qx qx qx qx
+qx qx qx qx qx qx qx qx qx x q3 q5 q6 q5 q3 q5 q6 q5 q3 q5 q6 q1 6 5 qx qx qx qx qx qx qx qx qx qx qx qx qx qx qx qx
+q3 q5 q6 q5 q3 q5 q6 q5 q3 q5 q6 q1' 6 5 q3 q5 q6 q5 q3 q5 q6 q5 q3 q5 q6 q1' 6 5 0 ,6 2 q1. s6 ,6 - ,6 - ,6 0 q0
+q0 q0 q0 x. x qx q3 q5 q6 q5 q3 q5 q6 q5 q3 q5 q6 q1 6 5 x q3 q5 q6 q5 q3 q5 q6 q5 q3 q5 q6 q1' 6 5 3 q3 q5 6 q6
+q5 q3 q5 q6 q5 3 - 3' - 3' - 2' - 6 5 6' -
+%END

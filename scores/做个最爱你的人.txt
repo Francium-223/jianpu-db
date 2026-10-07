@@ -1,0 +1,23 @@
+%做个最爱你的人.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=41991
+title=做个最爱你的人
+tag=
+usertag=
+tagroute=
+confidence=0.985
+conf_p10=0.989
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-41991
+%--
+4/4
+subtitle=score
+1 - - x. ,x x'. x 0 5 6 1' 1 1 1' 6 5 3 5 0 3 5 6 6 5 2 3 2 3 0 5 6 2' 3 2' 1' 2' 1' 6 6 0
+6 5 s6 s1 s2 s3 q2 s1 s6 1 x q0 s5 s5 s3 s3 s3 s3 q2 s3 s2 1 q0 s6 s1 s2 s3 s2 s1 q1 s6 s5 ,5 q0 s6 s7 s1 s1 s1 s6
+q6 q5 3 q0 s6 s1 s2 s2 s2 s3 q2 q1 2 q0 s5 s5 s3 s3 s3 s3 q2 s3 s2 1 q0 s6 s1 s2 s3 s2 s1 q1 s6 s5 ,5 q0 s6 s7 s1 s1
+s1 s6 q6 q5 3 q0 s2 s1 s2 s2 s2 s3 s2 s3 s2 s1 1 q0 s5 s6 s1 s1 s1 s1 s6 s5 q3 5 q0 s3 s5 s6 s6 s6 s6 q5 s3 s2 3 q0
+s2 s1 s2 s3 s2 s1 q2 s1 s6 ,6 q0 s1 s1 1 1 1 6 6 5 5 3 2 0 5 6 1 1 1 1 6 5 3 5 0 3 5 6 6 6 6
+5 3 2 3 0 2 1 s2 s3 s2 s1 q2 s1 s6 ,6 q0 s6 s5 s3 s3 s3 s3 s2 s3 q2 1 0 s2 s3 s2 s3 q2 s1 s6 5 0 2 3 2 3'
+5' 6 5 3' 0 2 3 2' 1' 6 5 6 5 2' 3 2 3' 2 1' 6 2 6 1' 0 5 5 - - - - - - - - - - - - - -
+1 s3 s3 s3 s3 q2 s3 s2 1 q0 s5 s6 s3 s3 s3 s3 q2 s3 s2 1 q0 s6 s5 s3 s3 s3 s3 q2 s3 s2 2 0 - - 1 - 0 0
+%END

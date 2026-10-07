@@ -1,0 +1,22 @@
+%何夕.txt
+% 出处 https://www.jianpujia.com/
+title=何夕
+tag=
+usertag=
+tagroute=
+confidence=0.977
+conf_p10=0.971
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-10771
+%--
+4/4
+subtitle=score
+q,6 q3 q2 s1 s,7 ~ q,7 s1 s,6 ~ q,6 q,5 ,6 0 0 q0 s,6 s,5 q,6 q3 q2 s1 s,7 ~ q,7 s1 s,6 ~ q,6 q,5 3 - ,6 q0 q2 q3 q,6 q3 s2 s3
+~ q3 q,6 q3 q2 q2 s1 s,6 ~ q,6 s,5 s,6 ~ ,6 q0 s,6 1 q0 s,6 q1. s,6 q,6. s1 ,7 0 0 q0 s,6 s,5 q,6 q3 q2 s1 s,7 ~ q,7 s1 s,6 ~ q,6
+q,5 ,6 0 0 q0 s,6 s,5 q,6 q3 q2 s1 s,7 ~ q,7 s1 s,6 ~ q,6 q,5 3 - ,6 q0 q2 q3 q,6 q3 s2 s3 ~ q3 q,6 q3 q2 q2 s1 s,6 ~ q,6 s,5
+s,6 ~ ,6 q0 s,6 s,5 s,6 q1. q0 s,6 q1. s2 q2. s1 3 0 q0 s1 ~ q1 q2 q3. s6 ~ q6 q5 q6 s5 s6 q5 q5 q6 s5 s3 ~ q3 s2 s3 ~ 3
+s5 s3 q3 q2 s1 s2 ~ q2 q1 q2. s3 ~ q3 q5 3 - q0 s1 q1 q2 q3. s6 ~ q6 q5 q6 s5 s6 q5 q5 q6 s5 s3 ~ q3 s2 s3 ~ 3 s5
+s3 q3 q3 s2 s2 q0 q3 q3 s3 s5 ~ s5 q5 s6 ~ 6 0 0 0 - - - 6 0 0 q1 q2 6 0 0 q5 q3 q3 s2 s2 ~ 2 q3 s3 s3
+~ s3 q5 s6 ~ 6 0 0 0 q6 s5 s3 ~ q3 q2 q3 s2 s3 ~ 3 0 0 0
+%END

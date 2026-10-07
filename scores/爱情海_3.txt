@@ -1,0 +1,21 @@
+%爱情海_3.txt
+% 出处 https://www.qupu123.com/
+title=爱情海
+tag=
+usertag=
+tagroute=
+confidence=0.992
+conf_p10=0.980
+transcriber=jianpu2-auto
+status=ocr
+source=qupu123-322976
+%--
+4/4
+subtitle=score
+q,6 q,6 q,6 q,3 ,6 1 ,7 q,6 q,5 ,6 - ,6 q5 6 q5 q2 q3 q2 q1 3 - q3 3 q6 5 - ,6 s2' s3 2' - q2 q2 q2 q5 3 q2' q3' ,6 -
+0 0 ,6 q,6 q,3 ,6 ,7 q,6' q,5' ,6 - 1 ,6 q5 6 q5 q2 q3 q2' q1' 3 - q3 3 q6 5 - q1 ,6 s2' s3 2 - q2 q2 q2 q5 3 q2 q3'
+,6 - 0 0 q6 q6 q6 q5 7 s6 s7 s6 s5 6 - - - q6 q6 q6' q5' q7' q6' q5 s6 s7 ~ 7 ~ q7 q3 - 2. q1 2 3 q5 s6 s5 q3
+q2 3 - q2 q2 q2 q5 3 q2 q3' ,6 - 0 0 q6 q6 q6 q5 7 s6 s7 s6 s5 6 - - - q6 q6 q6 q5 q7 q6 q5 s6 s7 ~ 7 ~ q7
+q3 3 - 2. 2 3 q5 s6 s5 q3 q2 3 - q2 q2 q2 q3 5 q7 q6' 6 - 0 0 q2 q2 q2 q3 q5 q0 7' 7 - 6 6 - 6 - - -
+0 0 0 0
+%END

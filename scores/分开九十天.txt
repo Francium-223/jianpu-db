@@ -1,0 +1,23 @@
+%分开九十天.txt
+% 出处 https://www.jianpujia.com/
+title=分开九十天
+tag=
+usertag=
+tagroute=
+confidence=0.962
+conf_p10=0.922
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-10533
+%--
+4/4
+subtitle=score
+- - - x. x. x. x. x. x s1' s1' s5' s5' s7' s1' q1' 0 q0 5 - - 2' s1' - - - x s3 s2 s1 s2 q3 q5 s3 q2. s,7 s,6 s,5 s,6 ~
+,6 0 0 0 s,6 s,5 s,6 s,5 q,6 s,6 s1 s2 q,5 s,5 s1 s,7 s,5 s,3 ~ s,3 q,6. ~ ,6 0 0 s3 s2 s1 s2 q3 s5 s2 q2. s,5 s1 s,7 s,5 s,6 ~ ,6
+0 0 0 s,6 s,5 s,6 s,5 s1 q,6 s,5 s2 q,7 s,5 s1 s,7 s,5 s,3 ~ s,3 q,6. ,6 0 q1 q2 s3 s2 s3 s2 s3 q5 s1 s2 q,5 s2 q0 s2 s3 s2 s1 s1
+s6 s6 s5 s2 s3 3 q0 s3 s2 s1 q,6 s1 q0 s,6 s,5 s,5 q,3 s,5 ,5 s,6 s,5 s,6 s,5 q,6 s1 s2 s2 q,5. q0 s,3 ,6 - - 0 s,6 s,5 s,6 s1 s1 s1
+s1 s,5 s,6 q,5. q0 s1 s2 s3 s2 s3 s2 s3 q5 s1 s2 q,5 s2 q0 s2 s3 s2 s1 s1 s6 s6 s5 s2 s3 3 q0 s3 s2 s1 q,6 s1 q0 s,6 s,5 s,5 q,3
+s,5 ,5 s,6 s,5 s,6 s,5 q,6 s1 s3 s3 q2. q0 s3 6 - 0 3 d2 d1 2 s1 1 - q1 s,3 s1 s2 3 d2 d1 2 s1 - - q1' s2' d2' d1' 1' -
+q1' s1' d1' d1' 2' s1' - - x s,6 s,5 s,6 s,5 q,6 s1 s2 ~ s2 q,5. q0 s,3 ,6 - 0 0 s,6 s,5 s,6 s,5 q,6 s1 s3 ~ s3 q2. q0 s3 6 - -
+0
+%END

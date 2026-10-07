@@ -1,0 +1,24 @@
+%写过的情诗.txt
+% 出处 https://www.jianpujia.com/
+title=写过的情诗
+tag=
+usertag=
+tagroute=
+confidence=0.966
+conf_p10=0.911
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-10471
+%--
+4/4
+subtitle=score
+x q1' s1' s2' 3' s3' q6'. s5' s2' 2' q3'. q3' q2'. s1' s1' s1 s2 q3 q,6 q,6 s1 q2 - x ,5 x q0 s1 s2 q3 q,6 s1 q3. q5 s3 s2 ~ s2 q1. s,6
+s,5 q,5 q,6 s1 s,6 ~ ,6 q0 s1 s2 q3 q,6 s1 q3. q6 s5 s5 s2 q1 s1 s1 s,6 q,6 s1 q2 s3 ~ 3 q0 s2 s3 q4 q4 s4 q4. q4 s3 s2 q0 s1
+s2 q3 q3 s3 q3. q3 s2 s1 s0 s,6 s3 s1 q2 q,6 ~ ,6 0 s1 q1 s2 q1 s,7 s,7 ~ ,7 - q0 s1 s2 q3 q,6 s1 q3. q5 s3 s2 ~ s2 q1. s,6
+s,5 s,5 s,5 q,6 s1 s,6 ~ ,6 q0 s1 s2 q3 q,6 s1 q3. q6 s5 s2 ~ s2 q1. s1 s,6 q,6 s1 q2 s3 ~ 3 q0 s2 s3 q4 q4 s4 q4. q4 s3 s2 q0
+s1 s2 q3 s3 s3 s3 q3. q3 s2 s1 s0 s,6 s3 s1 q2 s2 s2 s2 s3 q2 ~ 2 q,7 s,7 s1 q,7 s,6 s,6 ~ ,6 - q3 q5 q,6. s6 q6 s5 s2 ~ 2
+s2 s1 q1 q3. s3 s2 q3 s,6 ~ ,6 q3 q5 q6 s6 s6 s6 q5 s2 q0 s2 s2 q1 s,5 3 - - q3 q5 q6. s6 q6 s5 s2 2 s2 s1 q1 q3 s3 s3
+s2 q3 s,6 ,6 s,6 q3 s1 q2. s2 q2 s1 s2 2 q1 s,7 s,6 ,6 - - q3'. s3' s2' 2' s1' q2'. s1' s1' 1' s1' s1' q3 x - - - - q0 s1 s2 q2.
+s2 q2 s1 s2 2 q1 s,7 s,6 ,6 - - q3 q5 q2. s2 s2 s2 s1 s2 q2. s,3 s,7 q,7 s,6 ,6 - 0 s,6 s,6 s3 s1 2' s2 s2 s1 s2' q2'. s,3 q,7. s,5
+q,7' q,6' ,6 - - - 0 0 3'. 5' 3' 2'. 1' 1' 0 1 2 3 1 2 x x
+%END
