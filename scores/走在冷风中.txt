@@ -1,0 +1,22 @@
+%走在冷风中.txt
+% 出处 https://www.jianpujia.com/
+title=走在冷风中
+tag=
+usertag=
+tagroute=
+confidence=0.953
+conf_p10=0.872
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-15067
+%--
+3/4
+subtitle=score
+x 1 7 x ,6. ,5. q1 q6 q7 q1 q6 q1 3 q2 2 q0 q7 q5 q6 q6 q5 q7 ,7. ,3. ,3. ,6. q,4 q,1 q,4 q,6 q,4 q,1 q,7 q,2 q,5 q,7 q,5 q,2 q,3 q,7
+q,3 q,5 q,3 q,7 2 1 5' 3' 6 q4' q1' q3' q3' q2' q1' q1' q0 q3' q3' q2' q1' q1' 1'. q3' q3' q3' q3' q4' q3' q,6 q,3 q,6 q1 0 q,2 q,6 q,2 q,4 q,2 q,6
+q,3 q,1 q,3 q,5 q,3 q,1 q,4 q,1 q,4 q,6 q,5 q,1 3' q2' 2'. q,5 q,7 q2 1'. 0 0 0 q4' q6 q3' q3' q6' q3' q,5 q,3 q,5 q,7 q,5 q,2 q,5 q,2 q,5 ,7. 0 0
+0 q,4 q,1 q,4 q,6 q,4 q,1 x 2 x 3' q4' 2'. q7 q5 q7 q7 q5' q2' 4' q4' s3' s1' 1' q6 q7 q1' q1' q7 q1' q,5 q,7 q,2 q,5 q,2 q,7 q,3 q,7 q,3 q,5
+q,3 q,7 q,6 q,1 q,3 q,6 q,3 q,1 q,4 q,1 q,4 q,6 q,4 q,1 3 3 ,3' 3' 4' 3' 3' 1 q5 q5 q3 q2 5 q3 q3 q3 q4 q7 7 7 q0 q3 q5 q3 q3 q7
+q3 q,4 q,1 q,4 q,6 0 q,3 q,5 q,7 q,3 q,1 q,5 q,2 q,6 q,3 q,5 q,3 q,7 q,4 q,1 q,4 q,6 q,4 q,1 x 3 7 x 3' q4' 2'. q7 q5 q7 q7 q5' q2' 4' q4' s3'
+s1' 1' q6 q7 q1' q1' q2' q3' q,5 q,7 q,2 q,5 q,2 q,7 q,4 q,7 q,3 q,5 q,3 q,7 q,5 q,3 q,6 q1 0 q,2 q,6 q,2 q,4 q,2 q,6
+%END

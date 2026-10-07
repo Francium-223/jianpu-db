@@ -1,0 +1,19 @@
+%红颜劫.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=42611
+title=红颜劫
+tag=
+usertag=
+tagroute=
+confidence=0.990
+conf_p10=0.991
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-42611
+%--
+4/4
+subtitle=score
+x ,6 3 6 7 1 2 5 7 ,6 3 6 7 1 2 5 7 ,6 3 6 7 1 2 5 7 ,6 3 6 7 1 2 5 7 2 3 ,6 1 - 2 -
+3 ,6 ,7 - - 0 2 3 ,6 2 1 4 4. 5 4 - 6 q5 6 5 6 2 3. 5 3 - 4 - 4 3 4 6 ,7 2 - 1 1 q1 2 ,6
+,7 - - - ,7 - 7 - 6 7 2 5 - 4 4 6 2 3 - - - 1. 2 - 2 - 3 ,6 1 - ,7 ,7 2 ,5 ,6 - - - ,6 -
+- - ,7 - ,7 - 2 - ,5 - ,6 - - - ,6 - - -
+%END

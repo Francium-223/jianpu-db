@@ -1,0 +1,22 @@
+%长城守卫军.txt
+% 出处 https://www.jianpujia.com/
+title=长城守卫军
+tag=
+usertag=
+tagroute=
+confidence=0.931
+conf_p10=0.818
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-15162
+%--
+4/4
+subtitle=score
+q4 s4 s4 s4 s4 q4 s4 s4 s4 s4 s5 s5 5 s4 s3 s4 s5 s4 s2 q2. q2. q2 2 2. s4 s3 s4 s5 s4 s2 6'. ,6. ,5. ,6 - - q,2. q,2. q,2 ,2
+,2. s4 s3 s4 s5 s4 s2 q3. q3. q3 3 s4 s3 s4 s5 s4 s2 s4 s3 s4 s5 s6 s6 q6. q6. q6 q6 s6 s6 6. s4 s3 s4 s5 s4 s2 q,3. q,3. q,3 ,3
+s4 s3 s4 s5 s4 s2 s4 s3 s4 s5 s,6 s6 q,6. q,6. q,6 q,6 s6 s6 ,6. s4 s3 s4 s5 s4 s2 q5. q5. q5 5 s4 s3 s4 s5 s4 s2 s4 s3 s4 s5 s6
+s6 2. 2. q2 q2 q6 q,6 q2 q2 3. 3. q3 q3 q2 q2 q3 q3 q5. q5. q5 ,5 s4 s3 s4 s5 s4 s2 s4 s3 s4 s5 s,6 s6 ,2 ,2 - - ,1 ,1 -
+- 4 4 q3 q3 q3 q3 4 4 2'. 2. ,6'. ,6. 2'. 2. q2 q2 q,6 q,6 q2 q2 3'. 3. q3 q3 q2 q2 q3 q3 6'. ,,6 ,,6 - - ,,5 ,,5 - - ,2' ,2
+- - ,1' ,1 - - q4 q4 q5 q5 q4 q4 1. 1. 2. 2. 4. 4. 4'. 4. 4 4 q4 q4 5. 5. q5 q5 q4 q4 q5 q5 6'. ,,6' ,,6 - - ,2 ,,2 -
+- ,,6'. ,,6. 1' ,,1'. ,,1. ,2 ,,2 - -
+%END

@@ -1,0 +1,21 @@
+%丝海梦.txt
+% 出处 https://www.jianpujia.com/
+title=丝海梦
+tag=
+usertag=
+tagroute=
+confidence=0.960
+conf_p10=0.847
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-14523
+%--
+2/4
+subtitle=score
+1 - - - x x x x x x ,6 q3 q1 2. s1 d7 ,6. q,7 ,5. q4 2 - 2 - q6 q3' s2' s3' s2' s1' 2' q3' q1' 6 5 s1' s7 6. ~ 6
+- q6 s3 s6 s1'. d2' s1' s7 6 - q6 s1' s7 s6 s7 s5 s4 3 - q3. s6 q5 s4 s3 s2 s3 q1 2 q5. s3 s5 s6 q7 6 - q2. s6 q1 q2 s3
+s2 3. 5. s7 s6 s7 s5 s4 3 - q1. s2 q5 s4 s3 s2 s3 q1 2 q,7 q3 s2 s3 q,5 ,6 - ,6 s5 s2 s3 s5 q6 q3' s2' s3' s2' s1' 2' - q7.
+s2' s7 s6 q5 6 - q2. s3 q5 q4 s3 sx s4 s3 s2 1 s6 q5 s1' s1' s6 s1' ~ s1' 2' - q6' s3' s3' s2' s3' s1' s1' s2' s1' 6. q7 s3 s3 s5
+s6 s6 s4 q3 3. q2. s3 q5 q6 s2 s3 q1 2 q3 q2 q2 q3 5 3 6 - 6 - x 6 q3' q1' 2' - 6 5 q5 q3 3 x. q3 q2 q2 q3 q5
+q6 7 2' 3' 3' - q3' q0 0 5 - 6 - 6 - q6 q0 0
+%END

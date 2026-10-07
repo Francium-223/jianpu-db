@@ -1,0 +1,20 @@
+%心缘.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15809
+title=心缘
+tag=
+usertag=
+tagroute=
+confidence=0.937
+conf_p10=0.690
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15809
+%--
+4/4
+subtitle=score
+1 1 4 4 0 ,x' x q1'. x. x ,x x' 1. ,,x' x s,6 s,7 s1 s2 q3 q,6 q1 s2 s3 2 - q2. s,5 q2 s1 s2 q1 ,6. 1. s2 s1 ,7 q,6 q,5 ,6
+- - - q1 s1 s,6 q1 q2 s3 s2 3. q5. s3 s2 s3 q,6 ,5 - q1 s1 s,6 q1 q2 s3 s2 3. q6. s5 s3 s2 q1 2 - q3 s3 s2 q3 q5 s6 s5
+6. q5. s6 q5 q2 s3 s2 3. q2 s2 s3 5 q2 s2 s1 ,6 s2 s3 5 q3 q2. s3 q,6 s,5 s,6 1 - - - 1 q1'. s1' q7 s6 s5 6 - q7. s7 s6
+s5 q6 5 - q6 q5 6 q5 s6 s5 3 q5. s5 s3 s2 q1 2 - q1'. s1' q7 q5 6 - q7. s6 q5 q6 3 - q2. s3 5 q6 q5 3 q2. s3 q,6 s5
+s,6 1 - q2. s3 5 q6. s5 3 6. q3 5 6' 6' - - - 5' - - - 5' - - 0
+%END

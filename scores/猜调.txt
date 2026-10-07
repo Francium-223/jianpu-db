@@ -1,0 +1,17 @@
+%猜调.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=43102
+title=猜调
+tag=
+usertag=
+tagroute=
+confidence=0.993
+conf_p10=0.994
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-43102
+%--
+2/4
+subtitle=score
+5 1 1 6 5 5 5 6 5 5 5 7 7 7 1 2 s2 q5 q,7 q,7 s1 q2 s4 s2 s,7 s,7 s1 s2 q2 s2 s5 s,7 q,7 s5 s,7 s1 s2 s4 s2 s,7
+s,7 q1 q2 q2 1 q,6 - ,5 -
+%END

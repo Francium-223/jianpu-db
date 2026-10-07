@@ -1,0 +1,17 @@
+%小医生.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48568
+title=小医生
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.999
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48568
+%--
+2/4
+subtitle=score
+5 q6 5 1 3 3 3 6 5 q1 2 3 5 3 5 6 5 3 5 2 3 2 5 5 5 5 6 3 q2 5 3 q5 2 - 2 3 5 2 q2 q3
+1 -
+%END

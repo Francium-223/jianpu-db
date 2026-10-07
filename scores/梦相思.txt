@@ -1,0 +1,22 @@
+%梦相思.txt
+% 出处 https://www.jianpujia.com/
+title=梦相思
+tag=
+usertag=
+tagroute=
+confidence=0.987
+conf_p10=0.984
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-11304
+%--
+4/4
+subtitle=score
+x q5' q3' q2' s3' s2' q2'. q5' q3' q2' q3'. - s1' s5 q3' q2'. s3' s2' q2' q5 q2. s3 ~ 3 - s3 s2 s1 - - - q3. s3 q3 q2 1 q,7 s1 d7 ,6
+- 0 0 q6. s6 q6 q5 6 q5 s6 s5 3 - 0 0 q3 6 q5 5 q3 q2 2 - 0 q,5 q,6 ,7 ,7 ,7 q2 q3 ,6 - 0 0 q3. s3 q3 q2 1
+q,7 s1 d7 ,6 - 0 0 q6 q6 q6 q5 6 q5 q2 3 - 0 0 q3 6 q5 6 q5 s3 s2 2 - 0 q,5 q,6 ,7 q,7 q,7 q2 3 q,5 ,6 - 0 q3
+q5 6 q1' ~ q1' 7 q6 q5 6 - 0 q3 q5 q6. s6 q6 q1' 7 q6 s5 s3 3 - 0 0 q6 q6 q6 s3 s2 2 0 q3 q6 q6 s3 s2 1 0 q,7.
+d7 q,7 q3 q2 q3 q3 q,5 ,6 - 0 q3 q5 6 q1' ~ q1' 7 q6 q5 6 - 0 q3 q5 6 q1' ~ q1' q7. s6 q6 q5 3 - 0 0 q6 q6 q6 s3
+s2 2 0 3 q6 s3 s2 1 0 q,7. d7 q,7 q3 q2 q3 3 2 q3 q,5 ,6 - 0 0 0 - 2 q3 q,5 ,6 q3 q5 2 q3 q,5 ,6 - 0 0 0 0
+q6 q6 q6 s3 s2 2 0 3 q6 s3 s2 1 0 q,7. d7 q,7 q3 q2 q3 ~ 3 2 q3 q,5 ,6 - 0 0 0 -
+%END

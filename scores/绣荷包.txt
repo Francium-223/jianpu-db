@@ -1,0 +1,18 @@
+%绣荷包.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=43145
+title=绣荷包
+tag=
+usertag=
+tagroute=
+confidence=0.972
+conf_p10=0.904
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-43145
+%--
+2/4
+subtitle=score
+6 6 qx 3 3 1 6 1 6. 7 6 5 3 6 5 3 5 3 2 3 5 2 x q6 q6 q5 x 6 1 6 5 6 6 5 6 5 3 3 2 3
+3 2 5 3 3 2 1 5. 5 5 2 3 2 6 6 1 - x q5 q6 q3 s5 s3 x x q2 q3 x 6 5 6 q2 q3 q2 x q3 q5 q6 s3 s5
+x
+%END

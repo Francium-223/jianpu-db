@@ -1,0 +1,22 @@
+%七夕.txt
+% 出处 https://www.jianpujia.com/
+title=七夕
+tag=
+usertag=
+tagroute=
+confidence=0.975
+conf_p10=0.970
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-11007
+%--
+4/4
+subtitle=score
+1 - - - x x. x - s,5 s,6 s1 s,6 q3 q3 s2 s1 s,6 d1 h6 ,5 s,5 s,6 s1 s,6 q3 q3 s2 s1 q5 3 s,5 s,6 s1 s,6 q3 q3 s2 s1 s,6 d1
+h6 ,5 q1 q,6 s1 q2 s1 ~ 1 - s1 s,6 q1 s1 s,6 q1 s1 q3 s3 s2 ~ s2' s1 q5 3 - - x s1 s,6 s1 s,6 3 s1 s,6 q1 s1 s,6 q1 5
+- s1 s,6 q1 s1 s,6 q1 s1 s,6 s1 s,6 3 s1 s,6 q1 s1 s,6 q1 5 - s,5 s,6 s1 s,6 q3 q3 s2 s1 s,6 d1 d6 ,5 s,5 s,6 s1 s,6 q3 q3 s2 s1
+q5 3 s,5 s,6 s1 s,6 q3 q3 s2 s1 s,6 d1 d6 q,5 s1 s,6 q1 s6 q1 q2 1 - 0 0 0 0 s2 s3 q5 s2 s3 q5 s2 s3 s5 s6 2 s2 s3 q5
+s2 s3 q5 s2 s3 s5 s6 1 s,6 s1 s2 s3 2 s,6 s1 s2 s3 s5 s3 s2 s,6 3 - 3 0 s2 s3 q5 s2 s3 q5 s2 s3 s5 s6 2 s2 s3 q5 s2
+s3 q5 s2 s3 s5 s6 1 s,6 s1 s2 s3 2 s,6 s1 s2 s3 s5 s3 s2 s,6 1 - 1 0 - - s,6 s1 s2 s3 s5 s3 s2 s,6 1 - 1 0 s,6 s1
+s2 s3 q5 q3 q2 s,6 s1 1 1 -
+%END

@@ -1,0 +1,19 @@
+%北方的狼.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=20424
+title=北方的狼
+tag=
+usertag=
+tagroute=
+confidence=0.914
+conf_p10=0.622
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-20424
+%--
+4/4
+subtitle=score
+1 - - 1' q1' x x x. x 6 - - 6 7 7 - - 7 q3 5 6 - - 6 q7 7 ~ 7 - q7. s1' 3' - - q3' 5' q6' 7' - -
+q7 q5 6 ~ 6 - - 6 - - 3 5 6 6 q6 7 5 6 - - 0 q3 q5 6 7 q7 6 6 3' - - 0 3' 2'. q2' 1' 2' q0 q6 3'
+- - 0 qx' 7. 7 q6 6 q0 q5 q6 6 0 0 0 3 5 6 0 q0 7 6 6 q7 q1' 2' 2' 3' - - 0 q3' 2'. 2' 0 3' 7 - - q0
+s3' s2' 3' 6' x' 6' - - - s0 s6 s7 2' 1' 7 6 5 s5 ,,7 6 - - -
+%END

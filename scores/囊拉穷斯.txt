@@ -1,0 +1,17 @@
+%囊拉穷斯.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=25904
+title=囊拉穷斯
+tag=
+usertag=
+tagroute=
+confidence=0.976
+conf_p10=0.990
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-25904
+%--
+4/4
+subtitle=score
+1 - q6 q1 q6 q5 q2 q3 q6 q1 q6 q5 q5 5 - 1. q2 q1 q6 q1 q6 q5 q6 q6 q5 q3 q2 q3 q2 q1 ~ q1' q2 q2 q2 q6 q5 6 q2' q2'
+q1' q2' q6' q1' q6 q5 3 q2 q3 q2 q1 2 s1 s2 s3 s5 s6 s1 s6 s5 q3 s1 s3 s2 s1. q1 1 - - -
+%END

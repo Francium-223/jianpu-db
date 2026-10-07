@@ -1,0 +1,22 @@
+%不想再为你去哭.txt
+% 出处 https://www.jianpujia.com/
+title=不想再为你去哭
+tag=
+usertag=
+tagroute=
+confidence=0.979
+conf_p10=0.973
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-10148
+%--
+4/4
+subtitle=score
+1 - - - - x. x x x x x q,1 q1 - 3' - 1' - - 1 - - q2' q1' q2 - - - - q,5 q,5 q,5 q3 3 - 2. s1 s,5 ,5 q0
+s,6 q1 1 q1 q1 q,6 q0 d6 q1 1 q3 2 - q3 q4 q5 q6 5 q0 s3 s2 q2 q2 q2 q1 ,6 - q,5 s,5 s,5 q,5 q3 2 - q2 s2 s2 q1 q,6 1
+- q,5 q,5 q,5 q3 3 - q2 s2 s2 q2 q1 ,6 q0 q,6 1 q1 q1 q,6 ~ ,6 q1 q1 s1 q3 s2 2 - q3 q4 q5 q6 q6 q5 ~ 5 2 q2 q1 ,6
+- q,5 q,5 q,5 q3 2 - q2 s2 s2 q1 q,6 1 - q3 3 q3 q3 5 q6 5 - - q3 q2 q1 1 q1 q1. s1 q1 s,6 s,5 ,5 - - 0 q1 1 q1
+q1 q,6 ~ ,6 q3 q2 q2 q1 2 - q3 3 q3 q3 5 q6 q5 q5 ~ 5 - q3 q2 q1 1 q1 q1. s1 q1 s,6 s,5 ,5 - - 0 q1 q2 q1. s1 q1
+q,6 ,6 q3 q2 q1 q,6 1' - 1' - - 0 - 0 0 q1 q1 q1. s1 q1 q,6 q0 s,5 q3 q2 q1 q,6 1 - q1 q1 q1. s1 q1 q,6 q0 s,5 q3 q2 q1
+q,6 1 - q1 q1 q1. s1 q1 q,6 q0 d5 3' 3' 2 - q1 q,6 1 - - -
+%END

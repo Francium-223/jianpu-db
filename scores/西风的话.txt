@@ -1,0 +1,17 @@
+%西风的话.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12671
+title=西风的话
+tag=
+usertag=
+tagroute=
+confidence=0.859
+conf_p10=0.537
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12671
+%--
+4/4
+subtitle=score
+,5 ,5 q,5 q1 3 q5 5 - 4 - 3 3 q3 q2 q1 ,7 ,6 - - 0 5 6' 6' 5 5 6' s6 s6 s6' q5 s,7 4. q1 q3 1 2 4 2 - -
+,6 x ,5 1. - 1 4 5' 4 5' 3. ,2 ,6' 2 q7' q3. q1 q5 qx q2 2 2. 3 - - - - 0 0
+%END

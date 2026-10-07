@@ -1,0 +1,18 @@
+%打靶归来.txt
+% 出处 https://www.jianpujia.com/
+title=打靶归来
+tag=
+usertag=
+tagroute=
+confidence=0.892
+conf_p10=0.553
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-15302
+%--
+2/4
+subtitle=score
+qx 1 - - 0 4' - 1 x' 2 5 2 5 q3 q2 q1 q,6 2 - q2 q5 q2 q5 1 q,7 q,6 ,5 q,6 q1 ,5 - 1 q,7 q,6 q,5 q,6 1 5 q6 q5
+1 - 5 q6 q5 q3 q5 2 ,5 q,6 q1 ,5 - q3 q5 q6 q3 5 - q6 q5 q3 q1 2 - 0 0 0 0 x. 0 1 0 0 1 0 x. 2 q2 q3
+5 5 q5 6 q3 5 - 5 - qx q0 qx q0 x 0 x 0
+%END

@@ -1,0 +1,17 @@
+%爱护小树苗.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48893
+title=爱护小树苗
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.997
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48893
+%--
+2/4
+subtitle=score
+q1 1 2 3 q5 3 2 1 q2 1 q6 ,5 1 1 2 3 5 3 q2 1 2 1 6 ,5 x - 5 q6 5 6 q5 3 2 5 6 1 2 - 5 3
+2 3 q5 q3 2 1 6 5 3 2 1 1
+%END

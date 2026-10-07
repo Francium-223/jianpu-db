@@ -1,0 +1,25 @@
+%被雨伤透.txt
+% 出处 https://www.jianpujia.com/
+title=被雨伤透
+tag=
+usertag=
+tagroute=
+confidence=0.940
+conf_p10=0.823
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-15224
+%--
+4/4
+subtitle=score
+x 2 1 x s1' q1' s5 s7' s3'. s5' q7' s4 s1 s3 s1' s1' s5 s2 s1' s1 s5 s1' s1' s2' s3'. q5' s7'. s5'. s3' s1' s1' s7 s5 s1 s7 s5 s1' s1' s2' s3'.
+q5' s7'. s5'. s3' s1' s1' s7 s5 s7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 x 2 5 x s1' q1' s5 s7' s3'. s5' q7' s4 s1 s3 s1'
+s1' s5 s2 s7' s2'. q5' s6 s1' q1' s5 s3 s5 s7' s3'. s5' q7' s2 s6 s2 s4 s1' s1' q4' s1 s,2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 2 7 7 0 0 0 5 2 5 2 - - - 3 ,7 ,7 3 3 ,7 3 ,7 3 ,7 3 ,7 3 ,7 ,7 3 s2 s1 s,,5 s1 ,5 ,5 - - - ,4.
+,1. q,4 ,1. q,4 ,1. q,5 ,1. ,1. q,1 3 3 ,3 ,3 ,3 ,3 q,3 q,7 s6 s3 s6 s3 s7 s6 s3 s6 s6 q6 s3 s7 s6 s6 s3 s7 q,6 ,3 ,7 ,3 ,7 ,3 ,7
+,3 ,7 s3 s7 q1 s3 s7 q1 s3 s7 s1 q1 s3 s7 s1 s1 q,3 q,7 s6 ,6 ,6 ,6 q,6 s7 s6 ,,4 - - q,4 q,4 ,1 ,,1 - q,1 q1 ,5 q,1 ,,4 q,4 ,1.
+q,1 q,4 ,,1. ,1 ,1 - q,1 q1 x' 3 ,7 3 ,7 3 ,7 s3 s7 q1. ,7 ,6 ,7 ,6 q,7 q,6 q,7 q,7. q,6. s7 3 ,7 ,7 3 3 ,7 s3 s7 q1 s6 3 ,7
+,7 ,5 3 - ,,4. ,1. q,1 q,4 ,,1. ,,1 ,1 q,1 ,,4. ,1. q,1 q,4 ,,1 - - - 4 1 1 1 1 1 7 7 3 7 3 7 6 1 1 1 1 1 1 1
+7 2 7 3 7 3 7 3 7 3 ,6 q,6 q,4 ,5 ,5 ,5 ,5 q,3 q,5 q,6 s6 s5 ,6 ,6 ,5 ,5 ,5 ,5 q5 q,5 q,7 q,5 ,2 - ,5. ,2. q,5 ,1 ,1 -
+,6 - ,2 ,2 - ,2. ,5. q,5 ,1. ,1. q,1 ,1 -
+%END

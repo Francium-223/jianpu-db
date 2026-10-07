@@ -1,0 +1,25 @@
+%为我转身.txt
+% 出处 https://www.jianpujia.com/
+title=为我转身
+tag=
+usertag=
+tagroute=
+confidence=0.955
+conf_p10=0.917
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-12628
+%--
+4/4
+subtitle=score
+1 - - - 1 x x ,1 1 1. ,x x s5' s1' s6 s5 s5 s5 s6 s3 5 - s1' s1' s6 s5 q6 s5 s2 3 - s3 s5 s6 s5 q3 s2 s3 ,6 -
+s2 s3 s2 s3 q1 s6 ,5 - ,5 q0 s5 s6 s1 s1 s1 s2 q3 s2 s1 ,5 - s3 s5 s5 s3 s2 s3 s1 s3 2 - q3 s5 s3 q2 s3 s5 s3 s2 s1
+s1 ,6 s5 q,5 s6 s3'. q1 s1 2 q0 s5 s6 s1 s1 s1 s2 q3 s2 s1 ,5 - s3 s5 s5 s3 s2 s3 s1 s3 2 - q3 s5 s3 q2 s3 s5 s3 s2 s1
+s1 ,6 s5 q5 s3 s6 s5 s3 s2 s3 q5. ~ 5 0 q0 s5 s6 s1' s2' s2' s1' s6 s5 s6 s5 s3 q5. q0 s1 s1' s6 s6 s6 s1' s6 q5 s3 2 q0 s2
+s3 s5 s6 s6 s5 s5 q6 s5 3 q0 s6 s5 s6 s1' s1' s6 q2' s1' s6 5 q0 s5 s6 s1' s2' s2' s1' s6 s5 s6 s5 s3 q5. q0 s1 s1' s6 s6 s6 s1'
+s6 q5 s3 2 q0 s2 s3 s5 s6 s6 s5 s5 q6 s5 3 q0 s6 s5 s6 s1' s1' s6 s5 q6 s5 3 q5 q2' 1 - 1 0 x s5 s1' s6 s5 s5 s5 s6
+s3 5 - s5' s1' s6 s5 q6 s5 s2 3 - s3 s5 s6 s5 q3 s2 s3 ,6 - s2 s3 s2 s3 q1 s6 ,5 s5 s6 s1 s2 q3 s2 s3 ~ s3 q5. q6 s5
+s5 5 q1 s7 s1 s1 q7 s5 5 - q6 s5 s6 s6 q1 s2 q2 s1 s6 6 s4 q3 s2 q2 s1 s2 5 x q0 s5 s6 1 - 1 q0 s5 s6 1 - 1
+q0 s6 s5 s6 s6 s1' s1' s6 s5 q6 s5 3 q5 s2' s1' x x' 1 1' 1 - - s5' s1' s6 s5 q6 s5 s2 3 - s3 s5 s6 s5 q3 s2 s3 ,6 -
+s2 s3 s2 s3 q1 s6 ,5 - ,5 - 1 - 1 -
+%END

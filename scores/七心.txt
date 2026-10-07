@@ -1,0 +1,19 @@
+%七心.txt
+% 出处 https://www.jianpujia.com/
+title=七心
+tag=
+usertag=
+tagroute=
+confidence=0.917
+conf_p10=0.566
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-13128
+%--
+4/4
+subtitle=score
+1 - - - x x 1' x q1 x ,x 5' 5' 3' q2' q3' q2' q1' 7 - - - 1' 7 q6 q7 q6 q5 3 - - - ,6 s7 q1 2 ,6 ,7 - 0
+0 1 q,6 q,7 1 q,6 q,5 ,3 - 0 0 q2 q3 4 - q3 q2 q1 q2 1 - q,7 q,6 1 ,6 - q1 s5 ,3 - - 0 ,6 s7 q1 2 ,6 2 - 0
+q1 q2 3 q5 q4 3 1 - 2 - 0 q1 q6 1 q2 q1 3 q2 q1 q3 q5 1 - 0 s7 q2 ,7 3 - - - qx q5 q6 q3 q2 2 q1 q2 3
+q2 q1 3 q5 q1 ,6 - - 0 ,6 - - 0 3' q3' q4' 5' q1' q3' 6' 2' - - - q1' q2' 3' - q3' q1' 2' - - q1' q7 6 - - -
+%END

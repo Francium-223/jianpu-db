@@ -1,0 +1,19 @@
+%花儿为什么这样红.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=41776
+title=花儿为什么这样红
+tag=
+usertag=
+tagroute=
+confidence=0.944
+conf_p10=0.676
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-41776
+%--
+2/4
+subtitle=score
+0 q5 q6 7. q1' q1 q6. s1 q7 q6 q5 q6 q5 q4 q3 q2 q0 s4 s3 3 - 3 - 6 q5 q6 q7 1' 1 q1 q6. s1 q7 s5 s6 6 - 6 q1 s7
+s6 q5 q6 q5 q4 q3 s0 s2 3 3 - 2. s1 s2 3. q4 q2. s4 q3 q2 q3' q2. s1 1 q1 s3' s3 q3 s2 s3' q2 q1 q1'. s7 - - q7 q0 x q5
+q6 7. q1' q6. s1' q7 q6 5. q5 q6 q5 0 0 q4 q3 q2 q0 s4 s3 3 - 3 - q3 q2 q0 s4 s3 3 - 3 - 2. s1 s2 3. q4' q2'. s4' q3'
+q2' q3' q2'. s1' 1' q1' s3 s3' q3' s2' s3 q2 q1' q1' q1'. s7 q7 q0 q5 q6 7. 1' 1' 6. 1' 7 6 5 6 5 4 3 2 0 4 3 3 - 3 -
+%END

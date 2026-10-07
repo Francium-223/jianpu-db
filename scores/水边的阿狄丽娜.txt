@@ -1,0 +1,26 @@
+%水边的阿狄丽娜.txt
+% 出处 https://www.jianpujia.com/
+title=水边的阿狄丽娜
+tag=
+usertag=
+tagroute=
+confidence=0.988
+conf_p10=0.979
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-14810
+%--
+4/4
+subtitle=score
+qx q1 - - - - 7 7 0 - x. q0 q5 q1' q2' q0 q5 q1' q2' q0 q5 q1' q2' q0 q5 q1' q2' q0 q5 q3' q5 q0 q5 q3' q5 q0 q5 q3' q5 q0
+q5 q3' q5 3' 3' - q3'. s4' 4' 4' s4' s4' s4' s4' s4' s4' s4' s5' 5' 5' - q5'. s6' 3' - - - 3' 3' s3' s3' s3' s3' s3' s3' s3' s4' 4' 4' s4'
+s4' s4' s4' s4' s4' s4' s5' 5' 5' - q5'. s6' 3' - - - q0 q3' q2' q1' q0 q7' q6' q5' 6' q5' q4' q3' q2' q1' q7 q0 q3' q2' q1' q0 q7 q6 q5 6
+q5 s4 s5 s5 s5 s1 s2 s5 s1 s2 s4 s5 s5 q1 q2 s5 s5 q1 q2 s5 q1 q2 q4 s5 q1 q2 q4 s5 q2 q4 q5 s5 q2 q4 q5 s5 q4 q5 q2' s5
+q4 q5 q2' - d5 d2' d4' d5' d5 d2' d4' d5' d5 d4' d5' d2' d5 d4' d5' d2' - 3' 3' - q3'. s4' 4' 4' s4' s4' s4' s4' s4' s4' s4' s5' 5' 5' - q5'.
+s6' 3' - - - 3' 3' s3' s3' s3' s3' s3' s3' s3' s4' 4' 4' s4' s4' s4' s4' s4' s4' s4' s5' 5' 5' - q5'. s6' 3' - - - q0 q3' q2' q1' q0 q7'
+q6' q5' 6' q5' s4' s5' q5' q1 q1 s,7 q0 q3' q2' q1' q0 q7 q6 q5 6 q5 q4 q5 s5 s5 q1 q2 s5 q1 q2 q4 d5 d5 d1 d2 d5 d5 d1 d2 d5 d1
+d2 d4 d5 d1 d2 d4 d5 d2 d4 d5 d5 d2 d4 d5 d5 d4 d5 d2 d5 d4 d5 d2 - d5 d2' d4' d5' d5 d2' d4' d5' d5 d4' d5' d2' d5 d4' d5' d2' -
+3' 3' - q3'. s4' 4' 4' s4' s4' s4' s4' s4' s4' s4' s5' 5' 5' - q5'. s6' 3' - - - 3' 3' s3' s3' s3' s3' s3' s3' s3' s4' 4' 4' s4' s4' s4' s4'
+s4' s4' s4' s5' 5' 5' - q5'. s6' 3' - - - 3' 3' s3' s3' s3' s3' s3' s3' s3' s4' 4' 4' s4' s4' s4' s4' s4' s4' s4' s5' 5' 5' - q5'. s6' 3' -
+- q5'. s6' 3' - - q5'. s6' 3' - - -
+%END

@@ -1,0 +1,17 @@
+%叫侬唱歌侬就唱.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48356
+title=叫侬唱歌侬就唱
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.997
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48356
+%--
+2/4
+subtitle=score
+6 1 2 6 1 6 6 2 5 2 6 1 2 2 5 6 2 3 2 1 6 ,1 2. 1 6 1 2 1 2 6 5 - q2 q2 1 6 6 2 5 2
+6 1 2 2 5 q6 q2 q3 q2 q1 q6 q1 q2. s1 6 1 q2 1 2 6 5 -
+%END

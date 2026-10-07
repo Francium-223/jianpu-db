@@ -1,0 +1,17 @@
+%老黑奴.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49917
+title=老黑奴
+tag=
+usertag=
+tagroute=
+confidence=0.997
+conf_p10=0.993
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49917
+%--
+4/4
+subtitle=score
+1 3. q4 5. 5 5 q6 q1' 7 6 5 - 1 q3. s4 5. 5 q5 q6 q5 q4 q3 2 - 1 3. q4 5. q5 q5 6 1 7 6 5. q1 q7. s1 2 7
+q1 q6 q5 6 3 2 1. 5 3 5 q0 q5 3 5 0 5 5 q6 1' 7 6 5. 7. q1' 2' q7 q1' 6 5 6 3 2 1 -
+%END

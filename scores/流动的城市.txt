@@ -1,0 +1,24 @@
+%流动的城市.txt
+% 出处 https://www.jianpujia.com/
+title=流动的城市
+tag=
+usertag=
+tagroute=
+confidence=0.916
+conf_p10=0.787
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-14965
+%--
+4/4
+subtitle=score
+s4' s3'. s2' s1' s7 s6 s5 s6'. s3' s7'. s1'. s1' q1' s1' s1' s3' s6 s6. s4' s3' s2' s1' s7 s6 s5 s6 s1' s1' s2' s3' s6' s3'. s2' s1' s7 s6 s1' s1' s2' s3'
+s7' s5' s6' s7' s1' s2' s2' ,4 ,4 3 3 3 3 3 3 3 3 ,7 q,6 q,6 q,3 ,5 ,5 ,,4 q,6 q,2' ,2' ,6 ,5 ,7 3 3 ,7 q,,6 ,6 ,1' ,6 ,1 ,5 ,6
+,1 q,6 q,1 ,5 ,6 ,1 ,6 ,1 ,,4 q,6 q,1 q,6 q,1 1' 6' 1' 7' 6' 5' q3' s1' s1' s6' s4' s3' s4' s5' s6' s1' s1' q2' s2' s7' s5'. s3' s2'. s3' s4' s5' s6'
+s7' q3' q3' q2' q1' q7 q5 s1' s7' s1' s2' q3' s6' s7' s1' s2' 1 2 1 1 ,7 ,4 3 ,6 ,4 ,5 7 ,3 5 ,7 ,,6 ,3 ,5 ,2 4 ,6 ,5 ,2 ,4 ,1
+,3 q1 ,1 ,2 3 1' 6' 1' 7' 7' 5' 7' 6' s3' s1' s6' s4'. s3' s4'. s3' s4'. s5' s6'. s1' s1' s2'. s7'. s5'. s3'. s2'. s3'. s2'. s3' s4'. s5' s6'. s7' q3' q1' q3'
+q2' s3' s4'. s5' s6' q2' q7 q2' q1' s2'. s3' s4'. s5' 1 1 ,7 ,7 2 2 1 1 1 1 1 ,7 ,7 6 q4 q,6 q,6 q,4 q,5 q,5 q,3 q,7 q,7 q6 q,6 q,6 q,2
+q,4 q,6 q5 q,2 q,4 q,1 q,3 q,5 q,4 q,1 q,3 q,6. q2'. q3' q4' q5' s2' s1' s1' s1' ,7 2' - q3' q7' ,6'. 1'. q6' s,6 s,7 s1 s2 s3 4 q4 6 q6 ,6 ,7 5
+q,7 q,2 q,4 q,3 q,3 q,5 q,,6 q,3 q,7 q2 q,3 q,3 q,,6 q,3 1 - q,2 ,6 q,4 1 q5 s4 s3 s2 s3 4 q3 2 q2 3 q1 q,6 s5 s,4 s3 s,3. q,3 q,6 q3 4
+q4 6 q6 q,1 ,5 q,2 ,6 q,,6 ,4 q,1 ,5 ,,4. ,,6. q,2 ,6 q,4 1
+%END

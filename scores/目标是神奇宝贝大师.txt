@@ -1,0 +1,25 @@
+%目标是神奇宝贝大师.txt
+% 出处 https://www.jianpujia.com/
+title=目标是神奇宝贝大师
+tag=
+usertag=
+tagroute=
+confidence=0.942
+conf_p10=0.843
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-14564
+%--
+2/4
+subtitle=score
+q,1' q1' q5' q,1' q1' q3' q6 q5 q1' q6 q4 q2' 6 5 1 6 5 3 7 6 5 6 5 ,1 ,4' 2' - q7. q7'. s4' s7 q4' q7 q,2' q1' x 5 4. q,6 q,6
+s6 q1 q1 q,6 ,5 2 2 ,4 s0 q,4 s1 s4 q4 q1 q,3 s1 s3 q3 q1 q,2 s6 s1 s1 s6 q1 q,7. q,5. s5 s5 s5 q,2 3 1 3'. 7. 7 3'. 7 3' 2'
+2' 2' 2' ~ 2' 3' 3' 2' 2' 2' 2 7 q5. q3. s5 s3 5 3 q6 q4 q6 q4 s6. s4'. q3' s6 s4 q6 q4 s2 s3 s5 s3 s5 s6 s5 s6 s7 s6 s7'
+s2' s7'. s2' q3 q5 q2' q5 q3 q3' q6 q4 q6 q4 s6. s4' q3' s6 s4 x ,5 ,5 ,6 ,5 ,5 ,2. ,6 q,1 s2 s3 s3 s1 q,1 q,2. s2 q,4 q,2 q,3 q,7 q,2 q,4
+q4 q,2 q,3 q,2 q,6. s3 q3 q,6 q,2. s3 ,4 3 4 7 2 2' 3' 7 2' 7 3' 6 2' 2' 6 2' 2' 2' 7 2' 7 2 7 6 4 2 - q0 q5 q2
+q5 q3 q5 q2 q5 q3 q5 q2 5 2 q5 q2 q5 q2 q5 q3 q5 q3 q5 q3 q4 q3 4 3 q4 q3 q2 q3 q,5 s2 s5 q5 q,2 s0 s5 q,2 ,5 q,1. s2 q,3
+q,5' q,7 s,5 s7 s,5 s7 q,7 q7 q,5 q,7 q,5'. q,6. s6 q,5 q,2 s2 q,2 s4 q,6 q,1 3 7 3' 2' 3' 6 2' 6 2' 5' 4. ,4' ,4' 4 2 7 4 q5 q3 q3
+q5 q5 q3 q5 q2 5 2 q7 q5 q6 q2 2 6 - - - ,7 1 - ,7 2 - q,5. q,1. s,1 s1 q,7 q1 q,6 q,7 s,6 s7 s,5 s7 q,6 q7 q,5 q7 q,,1 q7
+q,6 q7 q,2 q,4 q,6 q,7 q1 q2 q3 q,,1 q,7 q,7 q,2 q,4 0 ,7 4 0 q1 0 0 5 5 0 0 0 0 0 0 0 0 q1' q5' q1' q5' q,1 q5' q,1 4' q3'
+q,1 q,5 q1 q2 q2 q3 q2 q1 q,1 q,5 q1 q2 q2 q2 3 q1 q5 q1 q3 q3 q1 3
+%END

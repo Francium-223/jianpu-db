@@ -1,0 +1,22 @@
+%林中漫步.txt
+% 出处 https://www.jianpujia.com/
+title=林中漫步
+tag=
+usertag=
+tagroute=
+confidence=0.936
+conf_p10=0.824
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-14522
+%--
+3/4
+subtitle=score
+3' - - ,7 1 2 4 2 4 3' - - 3' - q,7 q4. q,1' ,5 q,3 q,5 q,1 q,5' ,7' q,4 q,2 q,4 q,7 ,4' q,5' q,2 q,7 q,2 q,5 q,2' q,3 q,7 q,4 q,3 q,7 q,4
+,3 ,7 ,4 ,3' ,3' 6' 3' 6' 4' - 2' 5'. q6' q5' q2' 3' - - 7' 1' 2' q,6' q3 q1 q3 ,6 q3' q2' q6 q4 q6 q2 q6' ,5' q2 ,7 q2 q,5 q2' q1'
+q5 q3 q5 q1 q5' ,7' q4 q2 q4 7 q4' 4' 2' 4' 3' - 7 1'. q6 q1' q3' 6' 3' 6' 4' - 2' q,5' q2 ,7 q2 ,5 q2' q,3' q2 q,5 q2 q,3 q2' ,6'
+q3 q1 q3 q1 q3' ,6' q3 q1 q3 q,6 q3' q2' q6 q4 q6 q2 q6' 5'. q6' q5' q2' 3' - - 7' 1' 2' 4' 2' 4' 3' - 7 x q,5' q2 ,7 q2 q,5 q2'
+q1 q5 q3 q5 q1 q5' q,7' q4 q2 q4 q,7 q4' q,5' q2 q,7 q2 q,5 q2' ,3' q2 1 q,5 q2 q,3 q2' 6. q,6' q6'. q3 q1 d6 q3 q,6 q3' s3' 1. ,6' 6'. q3 q1
+q3 d6 ,6 s6' q3' s3' q,6' q,6' q3 s1' q1 q3 q6' q,6 q3' q4' q2' q6 q4 q6 q2 q2' q6' ,5' 5'. q2 ,7 d6' q2 q,5 s5' s2' q2' 3' - - 7' 1' 2' 4'
+3' 2' 1' 7' 1' 4' 4' - q1 q5 q3 q5 q1 q5' 0 ,7' q4 q2 q4 ,7 q4' q,5' q2 ,7 q2 q,5 q2' ,6 q5 q1 q5 q,6 q5 - -
+%END

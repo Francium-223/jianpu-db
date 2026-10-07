@@ -1,0 +1,19 @@
+%中国，中国，鲜红的太阳永不落.txt
+% 出处 https://www.jianpujia.com/
+title=中国，中国，鲜红的太阳永不落
+tag=
+usertag=
+tagroute=
+confidence=0.964
+conf_p10=0.921
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-9256
+%--
+4/4
+subtitle=score
+1 1 x 1. 1. 1 x 5 5' - - q3'. s4' 5' - q5' q4' q3' q1' 2' 6 5 q3'. s2' 1' - - 0 1' 5 q3. s4 5 1' q2'. s1' 6 5 2 q2.
+s3 4 6 q5. s4 q3 q2 3 - q1. s1 5 q3 q4 q5. s5 5 q1. s2 3 1 q2. s2 q5 q4 q3 q2 q1 q7 6 q7 q1 2 5 5 - - q3. s4 5
+- q5 q4 q3 q1 2 6 5 q3. s2 1 - - - 2' 6 5 q3'. s2' 1' - - x 5 5' - - q3'. s4' 5' - q5' q4' q3' q1' 2' 6 5 q3'. s2'
+1' - - 0 2 6 5 q3. s2 1 - - 5 5 - - q3. s4 5 - q5 q4 q3 q1 2 6 5 q3. s2 1 - -
+%END

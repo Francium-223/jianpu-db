@@ -1,0 +1,22 @@
+%不如笑归去.txt
+% 出处 https://www.jianpujia.com/
+title=不如笑归去
+tag=
+usertag=
+tagroute=
+confidence=0.954
+conf_p10=0.867
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-15109
+%--
+2/4
+subtitle=score
+x 3 7 x q0 q,6 q1 s2 s3 ~ q3 q5 q6 q3 2 - q0 q3 q2 q1 ,6 0 q0 q1 q2 q5 3 - 0 0 q,6 q,3 ,6 - - q,3 q,7 ,3 - -
+q,2 q,6 ,2 - - q,1 q,5 ,1 - - x 4 1 x q0 q,6 q1 s2 s3 ~ q3 q5 q6 q3 2 - q0 q3 q2 q1 ,6 q0 q1 2 3 ,6 - 0 q1 q2
+q,6 q,3 ,6 - - q,2 q,6 ,2 - - q,4 q,1 ,4 q,5 q,2 ,5 q,6 ,3. ,3 - x 4 5 x q3 q2 q3 q5 3 q1 q2 q3 q2 q3 q6 3 q1 q2 q3 s2
+s3 q1' q1'. q7 s6 s5 6 - 0 q6 q5 q,4 q,1 q,4 q,1 ,4 - q,4 q,1 q,4 q,1 ,4 - q,6 q,3 q,6 q,3 q,5 q,2 q,5 q,2 q,6 q,3 q,6 q,3 ,6 - x q4 x
+6. q1' q7 q6 q5 q6 ~ q6 3. q0 q3 q5 q6 q3 2 q1 q2 q3 q5 q6 ~ q6 3. 0 q6 q5 q,4 q,1 ,4 q,5 q,2 ,5 q,6 q,3 q,6 q,7 1 - q,4 q,1
+,4 q,5 q,2 ,5 q,1 q,5 1 - - x 5 3 x 6. q3 3. q6 q5 q6 q7 q1 6 q6 q5 2. s2 s3 q1 q7 q6 q6 6 - - q6 q5 q,4 q,1 ,4 q,5
+q,2 ,5 q,3 q,7 ,3 q,6 q,3 ,6 q,4 q,1 ,4 q,5 q,2 ,5 q,6 q,3 q,6 q,7 1 -
+%END

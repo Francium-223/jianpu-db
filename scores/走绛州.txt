@@ -1,0 +1,18 @@
+%走绛州.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=43169
+title=走绛州
+tag=
+usertag=
+tagroute=
+confidence=0.998
+conf_p10=0.993
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-43169
+%--
+2/4
+subtitle=score
+1 ,5 q1 d7 d6 ,5 q5. s1 q5 q4 q5 2 q1 2 - s5 s0 s1 s0 s5 s0 s1 s0 5 0 1 0 5 0 1 0 5 2 1 2 - 5 2 2 5
+2 1 7 1 2 1 ,5 - q1 q,7 q1 q2 q,5 s,5 s,5 s,4 ,5 1 q,7 q1 q2 q,5 s,6 s,5 s,4 ,5 q,5 q,4 q,5 q,4 s2 s1 s2 s1 q2 q1 q1 q2 q5 q1
+5. s2 s2 q1 ,7 q1 q2 q1 ,5 -
+%END

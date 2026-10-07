@@ -1,0 +1,17 @@
+%结婚歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48361
+title=结婚歌
+tag=
+usertag=
+tagroute=
+confidence=0.997
+conf_p10=0.994
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48361
+%--
+4/4
+subtitle=score
+q2 q6 q6 q1 q6 2' - q2 q3 q2 q2 6 - q6 q6 q3 q1 q6 2 - q2 q3 q2' q2 6 q6 q3' q2' q2' 2' - q2' q2' q2' q3' 6 - q2' q6 q6
+q3' 2' -
+%END

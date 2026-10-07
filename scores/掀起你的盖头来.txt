@@ -1,0 +1,17 @@
+%掀起你的盖头来.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=43342
+title=掀起你的盖头来
+tag=
+usertag=
+tagroute=
+confidence=0.998
+conf_p10=0.997
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-43342
+%--
+2/4
+subtitle=score
+q5 s1 s1 q1 s4 s3 q2. s4 3 q5 s1 s1 q1 s4 s3 q2. s4 3 s3 s2 s3 s2 q3 s3 s2 s3 s4 s3 s2 q1 q1 q2 s2 s4 q3 s3 s2 q1 q5 5
+s3 s2 s3 s2 q3 s3 s2 s3 s4 s3 s2 q1 q1 q2 s2 s4 q3 s3 s2 q1 q1 1
+%END

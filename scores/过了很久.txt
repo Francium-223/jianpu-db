@@ -1,0 +1,18 @@
+%过了很久.txt
+% 出处 https://www.jianpujia.com/
+title=过了很久
+tag=
+usertag=
+tagroute=
+confidence=0.912
+conf_p10=0.758
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-15006
+%--
+4/4
+subtitle=score
+q,5. q3'. s5' s1' s2' q3' ,3 6' q,2 q5' s6' s7' q3'. q,1. s5' s1' s2' q3' q6' q,2 s,5 s5' q3' q,3 q1'. q,1. 1 - ,7 3 s6 s3 s7 s1' 1 ,1 s0 1. ,1. ,5
+s,1 s,1' s,2 s2' s,3 s3' q,2 q2' q,1. s,1 s,2 s2' s,3 s3' q,2 q2' q,1 s5 s5 q4' q4 s1' s2' q,3' ,2 - ,4 ,3 ,2 ,5 s4 s1 s3 s6 6 s3 s1 s3 s5 s2
+s6 s1 s6 s1 s6 q1 ,,5 - 2 - s1' s5 s2' s3' s3' s2' q2' 3' 5 s7 s1' s5 s2' s3' s6' - 1 1 1 - ,7 5 2 ,3 ,6 -
+%END

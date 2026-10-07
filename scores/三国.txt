@@ -1,0 +1,21 @@
+%三国.txt
+% 出处 https://www.jianpujia.com/
+title=三国
+tag=
+usertag=
+tagroute=
+confidence=0.975
+conf_p10=0.974
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-11347
+%--
+4/4
+subtitle=score
+- - - 3 q3 s2 s1 q2 s,7 s,7 ~ ,7 1 q1 s,7 s,6 q,7 s,5 s,5 ~ ,5 q,6 q,4 q,6 q1 q,7 s,5 s,5 ~ ,5 q1 q,6 q1 q2 q2 s3 s3 ~ 3 3
+q3 s2 s1 q2 s,7 s,7 ~ ,7 q1 q1 q1 q,6 q,7 s,5 s,5 ~ ,5 q,6 q,4 q,6 q1 q,7 s,5 s,5 ~ ,5 q1 q,6 q1 q2 q2 s3 s3 ~ 3 1. q1 q2 q2 q2
+q3 q1 q,6 ~ ,6 - 0 1. q1 q2. s2 ~ q2 q,5 q2 q3 ~ 3 - 0 1 q1 q2 q2 q2 q3 q1 q,6 ~ ,6 - 0 1 q1 q2 q2 q2 s3 s4 q3
+q3 ~ 3 - q1 q,7 q,6 s,4 s,6 ~ q,6 q1 2 q2 q,5 q2 s3 s3 ~ q3 q,7 ,6 q1 q,7 q,6 s,4 s,6 ~ s,6 q3. 2 q2 q1 q2 s1 s2 ~ s2 q1. 3
+q1 q,7 q,6 s,4 s,6 ~ q,6 q3 2 q2 q3 q5 s5 s5 ~ q5 q3 1 q1 q,7 q,6 s,4 s,6 ~ s,6 q3. 2 q2 q1 q,7 s1 d7 ~ q,7 q,5 ,6 - - - -
+- q,7 s1 d7 q,7 q,5 ,6 q1 q,7 q,7 s1 d7 q,7 q,5 ,6 - 0 q1 q1 q1 q2 1 q,7 q1 q,7 q,5 ,6 -
+%END

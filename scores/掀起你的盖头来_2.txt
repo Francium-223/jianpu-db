@@ -1,0 +1,20 @@
+%掀起你的盖头来_2.txt
+% 出处 https://www.jianpujia.com/
+title=掀起你的盖头来
+tag=
+usertag=
+tagroute=
+confidence=0.963
+conf_p10=0.898
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-15251
+%--
+4/4
+subtitle=score
+q1 q1 q1 s4 s3 q2 q4 3 q1 q1 q1 s4 s3 q2 q4 3 ,5 ,5 ,6 ,5 ,5 ,5 ,6 ,5 q,1 q,3 s,5 q,3 q,2 q,4 q,1 q,3 q,1 q,3 s,5 q,3 q,2 q,4 q,1 q,3
+q3 s3 s2 q3 s3 s2 s3 s4 s3 s2 q1 q1 q2 s2 s4 q3 s3 s2 q1 q5 5 ,5 ,5 ,5 ,5 ,6 ,5 ,5 ,5 q,1 q,3 q,5 q,3 q,1 q,3 q,5 q,3 q,2 q,4 q,1
+q,3 q,1 q,3 q,5 q,3 q1 q1 1 q1' q1' q1' s4' s3' q2' q4' 3' q3' s3' s2' q3' s3' s2' ,5 ,5 ,5 ,5 ,6 ,5 ,5 ,5 q,1 q,3 ,3 q,1 q,3 q,5 q,3 q,2 q,4 q,1
+q,3 q,1 q,3 q,5 q,3 s3' s4' s3' s2' q1' q1' q2' s2' s4' q3' s3' s2' q1' q5' 5' q1' q1' 1' ,5 ,5 ,6 ,5 ,5 ,5 ,5 ,5 q,1 q,3 s,5 q,3 q,2 q,4 q,1 q,3 q,1
+q,3 q,5 q,3 q,1 q,3 ,3
+%END

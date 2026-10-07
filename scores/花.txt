@@ -1,0 +1,24 @@
+%花.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49767
+title=花
+tag=
+usertag=
+tagroute=
+confidence=0.974
+conf_p10=0.974
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49767
+%--
+2/4
+subtitle=score
+- - x. ,1 ,,x 1 ,x q,5. ,5 q1 0 q1 2' 1' 7' q6' ,5 s,3 5 s1 2 3 5 2. q0 q,5. 5 q1 q0 q1 s2' q1' ,7' 6' ,5 q2. 2 q2 3 1.
+0 q,5. q,5 q,3 q0 q3 q4 q,6 q5 q,4 ,3 ,3 3 ,5 1 1 ,7. 0 ,5. 5 ,3 0 ,3 q4 6 5 ,4 ,3 ,2. ,7 ,7 ,6 5 4 ,3. 0 q5. q5 q5 q0
+3 4. q4 4 0 2 3 ,6 2 ,5. 0 ,5. s,5 1 q1 q2 q1 ,7 q6 ,5 q2 2. s3 4 2 1. 0 1. s2 3 q0 q1 2. 1 ,7 0 ,7 ,5 ,5 q,4
+,5. q0 q,5. s,5 q,3 q,3 q,4 q6 5 q,4 ,3 ,2 ,5 ,5 ,6 ,7 1. q0 q,5. ,5 1 0 ,1 2 ,1 q,7' q,6' ,5 s,3 q,5 q1 s2 q3 q1 2. 0 ,5. ,5 1 0
+q1 2 q1 q,7 q,6 ,5 q2. q2 q2 3' 1. 0 q5. q5 q5 q0 q3 q4. 4 q4 0 2 3 q,6 q2 ,5. 0 ,5. q,5 q1 q1 q2 q1 q,7 ,6 ,5 2 q2'. s3' 4'
+2' 1. 0 ,5. 5 1 q0 q1 q2 1 q7 q,6 ,5 s,3 q5' s1 2 q3 5 2. 0 ,5. ,5 q1 1 2 1 q7 s,6 ,5 q2. s2 q2 q3 1. 0 1. q,5. q,5 q,3
+0 ,3 ,4 ,6 ,5 q,4 ,3 3. q5 q1 1 ,7. 0 ,5. 5 ,3 ,3 4 ,6 ,5 ,4 ,3 ,2. 7 ,7 s,6 q,5 s,4 ,3. 0 1 5. q5 5. q3. 4 4 4 0 q2
+3 ,6 2 ,5. 0 q,5. s5 q1 qx q1 q2' 3' q4' q5' 6 q5. 5 2 3 1. 0 1. s2 3. q1 q2 q1 q,7 q0 q7 ,5 q,5 q,4 ,5. 0 ,5. ,5 ,3 ,3 q,4
+q,6 q2 s3 4 q3 2 s1 ,7 6 ,5 4 ,3. 0
+%END

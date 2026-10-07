@@ -1,0 +1,18 @@
+%草原上升起不落的太阳.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=42134
+title=草原上升起不落的太阳
+tag=
+usertag=
+tagroute=
+confidence=0.935
+conf_p10=0.711
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-42134
+%--
+2/4
+subtitle=score
+1 - - - x x 1' 6 ,6 - ,6 q2 q1 2 - 2 q1 q2 6 - 6 q6 q5 3 - 3 3 6 - 6 6 2 - 2 3 ,5 - q,5 q,6 q2
+q1 ,6 - ,6 - x ,6 q,6 q,6 2. q3 3 q2. s1 ,6 - q2 q2 q1. s2 3 q5 q3 6 - 6 - 3 q1 q2 3. q6 3 q2. s1 ,3. q,5 ,6 q,5. s6
+2 q3. s1 ,6 - ,6 - 3 q1 q2 3. q6 3 q2. s1 3. 5 6 5. 6 2 3. 5 6 - 6 - - - - - - 1 1 x 1
+%END

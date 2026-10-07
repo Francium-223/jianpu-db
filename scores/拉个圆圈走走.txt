@@ -1,0 +1,16 @@
+%拉个圆圈走走.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48790
+title=拉个圆圈走走
+tag=
+usertag=
+tagroute=
+confidence=0.932
+conf_p10=0.554
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48790
+%--
+2/4
+subtitle=score
+q1 q1 q2 q3 1 ,5 q1 1 q2 q3 1 ,5 1 2 3 4 3 2 1 7 5 6 7 1 1 - - - - - - 1
+%END

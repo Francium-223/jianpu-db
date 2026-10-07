@@ -1,0 +1,22 @@
+%连名带姓.txt
+% 出处 https://www.jianpujia.com/
+title=连名带姓
+tag=
+usertag=
+tagroute=
+confidence=0.963
+conf_p10=0.888
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-15168
+%--
+4/4
+subtitle=score
+q7 q1 q0 q3 q3 q2 q2 q1 0 q0 q,6 q1 q2 q3 q2 q3 q5 q2 q1 1 q5 q5 q5 q4 q3 q4 q4 q5 q5 q3 q,6 q,3 ,7 - ,5 q,4 q,1 ,4 - ,4
+q,3 q,3 q,5 q,7 ~ ,7 - q,2 q,2 q,6 q1 ~ 1 - q3' q3' q3' q3' q2' 1' q1' 1'. q3 q6 q7 q7 q1' q1' 7 q6 ~ q6 q7 q6 q5 0 q0 q5 q7 q1'
+q2' q2' 1 1 2 ,7 q,5 q,2 q,6 q1 1 - ,4 - - - ,4 - - - q,3 q,3 q,5 q,7 2 - q2' 1' q7 ~ q7 q1' q7 q6 6. q6 q1' q2' q3' q3'
+0 q0 q5 q1' q2' q3' q3' 3' q0 q3' q3' q2' q1' q2' q,6 q,3 ,6 - ,5 q,4 q,4 q,6 q3 ~ 3 - q,3 q,3 q,5 q1 ~ 1 - q,2 q,2 q,4 q3 ~ 3 -
+2' - - - 0 q0 q3 q3 q4 q5 q2' 2' q2' q2' 2' q1' q3' 3'. q3 q3 q4 q5 q2' q,5 q,5 1 - 4 ,5 ,5 - - - q,1 q,5 2 3 - q,1 q,1
+q,1 ,1 ,1 - ,7 q2' q2' q2' q2' 4' q3' q2' q2' q1' q0 q1' q1' q2' q3' q6 q0 q3' q3' q3' q3' q2' q0 q2' q2' q2' q2' q1' q3' 1'. q,6 q,3 q,7 q1 ~ 1
+- q,6 q,3 q,6 q1 3 ,5 q,4 q,4 q,6 q1 3 - q,3 q,7 q,3 q,5 ,7 -
+%END

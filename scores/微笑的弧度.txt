@@ -1,0 +1,22 @@
+%微笑的弧度.txt
+% 出处 https://www.jianpujia.com/
+title=微笑的弧度
+tag=
+usertag=
+tagroute=
+confidence=0.934
+conf_p10=0.850
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-14603
+%--
+4/4
+subtitle=score
+q7' sx' s7' 6' 5' 2' 3' 4' 3' - - 0 q3' q6' q1' q,4 q,1 q,4 q,6 q1 q,6 q,5 q,2 q,5 q,7 q2 q,7 q,1 q,1 q,5 q1 q,7 q,5 q,6 q,3 q,6 q1 q3 q1 q7'
+s1' s7' 6' 5' 2' 3' q4' s5' s4' 3' - q3' q4' q5' q1' q1' q1' q1' q1' q,4 q,1 q,4 q,6 q1 q,6 q,5 q,2 q,5 q,7 q2 q,7 q,1 q,5 q1 q,5 q,7 q,5 q,3 q,1 q,5
+q1 3 q5' q1' q1' q1' q1' q1' q2' q3' q4' s3'. s1'. q1' q4' 3' - q3' q4' q5' q1' q1' q1' q1' q1' ,4 ,5 ,3 q,4 q,1 q,4 q,6 q1 q,6 q,5 q,2 q,5 q,7 q2 q,7
+q,1 q,5 q5 q4 q3 q2 q,3 q,1 q,5 q1 3 q5' q1' q1' q5 q1' q2' q3' q4' s3'. s1'. q1' q2' 1' - q3' q4' q5' q1' q1' q1' q1' ,4 ,5 ,3 q,4 q,1 q,4 q,6 q1
+q,6 q,5 q,2 q,5 q,7 2 q,1 q,5 q4 q3 q2 q1 q,3 q,1 q,5 q1 3 q5' q1' q1' q5 q1' q2' q3' q4' s3' s1' q1' q4' 3' - q3' q4' q5' d1' d1' d1' d1' s1' ,4
+,5 ,6 3 ,4 q,4 q,1 q,4 q,6 q1 q,6 q,5 q,2 q,5 q,7 q2 q,7 q,6 q,3 q,6 q1 q,5 q,6 q,4 q,1 q,4 q,6 5 d5' d1' d1' d1' d1' d1' d2' d3' q4' d3'. d1'. q1' 1
+- 2' 1'. q7 q1' q3' q,5 q,2 q,5 q,7 5 5 - - 5 - - ,6 3 -
+%END

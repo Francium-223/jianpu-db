@@ -1,0 +1,19 @@
+%月亮走我也走.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=43356
+title=月亮走我也走
+tag=
+usertag=
+tagroute=
+confidence=0.975
+conf_p10=0.996
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-43356
+%--
+2/4
+subtitle=score
+1 - - - 1' 1 x' 1' x x' 5 6 6 5 5 2 2 1 5 6 6 5 5 2 2 1 0 1 6 5 1 2 1 2 5 4 5 1 6 5
+- 5 6 6 5 5 2 2 1 5 6 6 5 5 2 2 1 0 7 1 2 2 5 2 5 2 1 2 5 2 1 1 - 5. 6 1 4. 3 2 5
+1 5 1 5 1 4 3 2 5 1 7 1 7 1 2 4 3 2 0 1 2 2 1 1 1 0 5 1 1 2 2 1 1 1 0 4 5 0 1 6
+5 s5 s1 s5 s1 q4. s3 s2 s4 s2 s1 s2 s1 s,7 s,6 ,5 - 4. s5 q1 q6 - 5 -
+%END

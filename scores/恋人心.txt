@@ -1,0 +1,21 @@
+%恋人心.txt
+% 出处 https://www.jianpujia.com/
+title=恋人心
+tag=
+usertag=
+tagroute=
+confidence=0.943
+conf_p10=0.846
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-14671
+%--
+2/4
+subtitle=score
+7 q6 q5 q6 q1' q7 q5 6 q6 q7 1' q3 q1' 7 q6 q5 q,5 q,2 q,5 q,2 ,,4 ,,5 q,6 q,3 q,6 q,3 q,6 q,3 q,6 q,3 q,5 q,2 q,5 q,2 3 1 6 q5 q6 3
+q6 q7 1' q2' q3' 7 q6 q5 q6 q1' q7 q5 ,4 ,5 q,4 q,1 q,4 q,1 q,1 q,5 q,1 q,5 q,6 q,3 q,6 q,3 q,5 q,2 q,5 q,2 ,4 ,5 3 6 x 6 q1' q2' q3' q5'
+q3' q1' 2' q7 q6 q5 q3 q2' q3' 1' q6 q7 q,6 q,3 q,6 q,3 q,6 q,3 q,6 q,3 q,5 q,2 q,5 q,2 q,3 q,7 q,3 q,7 q,6 q,3 q,6 q,3 1' q2' q3' 7 q6 q7 q1' q1'
+q1' q2' 3' q1' q2' q3' q5' q3' q1' q,4 q,1 q,4 q,1 q,5 q,2 q,5 q,2 q,1 q,5 q,1 q,5 q,3 q,7 q,3 q,7 q,6 q,3 q,6 q,3 2' q7 q6 q5 q3 q2' q3' 1' q6 q7 1'
+q2' q3' 7 q6 q5 q5 q2 q5 q2 q3 q7 q3 q7 q6 q3 q6 q3 q4 q1 q4 q1 q5 q2 q5 q2 5 1 x q5 q6 6 6 - 3 - q3 q2 q3 q5 3
+- q,6 q,3 q,6 q,7 1 2 q,6 q,3 ,6 q,5 q,2 ,5 q,4 q,1 ,4
+%END

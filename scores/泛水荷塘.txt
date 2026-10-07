@@ -1,0 +1,21 @@
+%泛水荷塘.txt
+% 出处 https://www.jianpujia.com/
+title=泛水荷塘
+tag=
+usertag=
+tagroute=
+confidence=0.969
+conf_p10=0.948
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-11138
+%--
+4/4
+subtitle=score
+- - - x - 1 1. 1. x 1 - 1 - - q3 s1' 1' - q2' q3 - s1' - - s5 s5 s5 s6 s5 s3 q2 q2' q1 q0 d6 s1 s2 s2 s2 s3
+s1 s2 q,6 ,5 - q1 1 s1 s2 q5 s6 s5 q3 s3 s5 q6 s5 s6 q1 s,6 s,5 2 - q3 s5 s6 s6 s5 s3 s2 q2 q1 q0 s,6 s1 q2 s2 s3 s2 q3
+s1 ,6 - q,6 q,5 q5 s6 s5 3 q0 s2 s3 s6 s5 s5 s3 s3 q2 s1 1 - 0 0 q5 s5 s3 q5 s6 s6 q1' q1' q0 s6 s1' q2' s2' s1' s6 s5 s6
+s5 5 - q6 s6 s1' q6 s5 s3 q2. s1 ,6 s5 s5 s6 s6 s5 s5 s3 2 - q5 s5 s3 q5 s6 s1' 1' q0 s6 s1' s2' s2' s2' s3' s1' s1' s1' s6 6
+- q5 s6 s1' q6 s5 s3 s2 s3 q5 q0 s3 s5 q6 s5 s3 s3 s2 s2 s1 1 - - - - - 1 - 0 0 1 - q5 s6 s1 q6 s5 s3 s2 s3
+q5 q0 s3 s5 s6 s5. s3 s3 s3 s2 s2 s1 1 1 1 -
+%END

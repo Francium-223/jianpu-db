@@ -1,0 +1,17 @@
+%拍拍手.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48795
+title=拍拍手
+tag=
+usertag=
+tagroute=
+confidence=1.000
+conf_p10=0.999
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48795
+%--
+4/4
+subtitle=score
+5 5 5 3 5 1 5 5 5 4 3 2 3 4 4 2 4 7 - - 6 5 4 3 2 3 - 5 5 5 3 5 1 5 5 5 4 3 2 -
+3 4 4 2 4 7 - 6 5 4 3 2 1
+%END

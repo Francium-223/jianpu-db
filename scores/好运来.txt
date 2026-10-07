@@ -1,0 +1,19 @@
+%好运来.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=43336
+title=好运来
+tag=
+usertag=
+tagroute=
+confidence=0.984
+conf_p10=0.994
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-43336
+%--
+4/4
+subtitle=score
+q6. s6 q1 q1 6. q6 q5 q3 q5 q1 6 0 q6 q1 q1. s1 1 5 q6 q5 q2 q5 3. q2 q3 q2 q1 q3 2. q3 q6 q5 q3 q6 q6 5. q6 q1 q1. s6
+q2 q2 q2 q1 6 q5 q1 6 - 6 - - 6 q3. s2 2' q1 q6 5 1 6 - 6 2 1 6 5 2 5 6 5 3. 3 6. 5 6 6 5 6 2.
+1 2 - 1. 1 1 2 3 3 2' 1 5 1. 6 6 - 6 - - - 1. x 2 - - - 3 - - - 6 - - - 6 - - - 0 5
+5 6 -
+%END
