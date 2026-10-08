@@ -1,0 +1,21 @@
+%黄土黄，黄沙黄.txt
+% 出处 https://www.jp114.com/jianpu/1217525.html
+title=黄土黄，黄沙黄
+tag=
+usertag=
+tagroute=
+confidence=0.980
+conf_p10=0.979
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1217525
+%--
+4/4
+subtitle=score
+6 - - - x q,6 1 q,6 q5 6. 6'. q3 q1 2 s2 s3 2 - - - q2 5 q5 5 - 5. q3 q5 q3 q2' q3' 3' - 5 - 6 - - - 6
+- - 6' 6'. q3' q2' s3' s2' q1' s2' s3' q3 s2' 3' q5 q6 s3' s5' 6' q,6 q,6 3 s3 s5 q1 ,6 q,6 q,6 q3 s3 s5 s3 s5 q1 ,6 q,6 q,6 3 s3 s5
+q1 ,6 s3 s5 q1 s1 s,7 q,6 s5 q3 s5 q1 q,5 ,6 - 0 0 q,6 q3 q3 q,6 s3 s5 q1 q2 s2 s,6 q2 s2 s3 q1 q,6 q1 q2 3 q3 q6 q6. s3 s2
+s3 q1 2 s2 q2 s1 q2 q3 q5 3 s1' s7 6 - - - q5 q3 3' q2' 2' s3' 6 s6 q2' s6 q5 q3 s5 q7 s5 3 q6 q3 q1'. s6 s6 s2' s3' q2'
+s2' s6 s2' q2' s6 q1' s2' s3' 7 - - - q5 q3 3' q2' s2' s3' 6 s6 q2' s6 q5 q3 s5 q6 s7 0 3 q6 q3 q1'. s6 s6 s1' s2' s3' q2'. s2' s6
+q2' 3'. 3' - 3' q0 5 3 3 q5 6 7 6 7 2' 6 - - - x 6 - - - q6 1' q2' 3' 3' 5' 5 6 - - - 6 - - 0 1
+%END

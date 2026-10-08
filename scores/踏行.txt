@@ -1,0 +1,17 @@
+%踏行.txt
+% 出处 https://www.jp114.com/jianpu/1217340.html
+title=踏行
+tag=
+usertag=
+tagroute=
+confidence=0.756
+conf_p10=0.394
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1217340
+%--
+4/4
+subtitle=score
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6. 0 0 0 0 0 0 0 0 q6 0 0 0 0 0 0 0 0 0 q6 1 0
+1. 0 0 0 0 0 0 5. 0 0 0 5 6 0 0 0 0 0 0 0 0 0 0 0 0 0 q6 0 0 0 0 0 0 0
+%END

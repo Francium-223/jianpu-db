@@ -1,0 +1,18 @@
+%三江渔歌.txt
+% 出处 https://www.jp114.com/jianpu/819540.html
+title=三江渔歌
+tag=
+usertag=
+tagroute=
+confidence=0.955
+conf_p10=0.935
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-819540
+%--
+4/4
+subtitle=score
+0 x'. x'. 1' q6 s5 s3 s5 q2 q2 s6. d6 s6 s3 s5 s2 s3 5 - q3 q5 s6 s5 3 s5. d5 s5 s6 s3 s5 2 - q5 s5 s6 s3 s5 q2 1 -
+q3 q5 q5 s6 s5 3 q0 q6 q5 q3 s5 q5 q3' 2' - - - q2'. s6 s2' - q3' 3' s2' s2' s3' 2'. q2' q6 q2' - s6 q5 s6 s5 3 s5 s5 s3' s2'
+2' - 3 q2 6. s3. d5 s6 s5 s2 3' - q0 q3 q5 q6 s5 q5 q3' 2' - q2'. s6 q2' 0 1' - - 0
+%END

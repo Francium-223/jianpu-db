@@ -1,0 +1,17 @@
+%二月你好.txt
+% 出处 https://www.jp114.com/jianpu/1631345.html
+title=二月你好
+tag=
+usertag=
+tagroute=
+confidence=0.912
+conf_p10=0.723
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1631345
+%--
+4/4
+subtitle=score
+q5 5 2 1. ,6 5 - - 1 4 4 5 2 5 6 6 - 2 ,1 6 2 2 5 5 2 1. 6 5 2 - - 3 3 5 6 6 - 2 1 q6
+- 5 5 3 5 5 6 6 - 2 3' 1 ,6 2 1 2 1 1 q,1
+%END

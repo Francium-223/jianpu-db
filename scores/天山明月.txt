@@ -1,0 +1,22 @@
+%天山明月.txt
+% 出处 https://www.jp114.com/jianpu/1535178.html
+title=天山明月
+tag=
+usertag=
+tagroute=
+confidence=0.960
+conf_p10=0.882
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1535178
+%--
+4/4
+subtitle=score
+5 q5 q5 6 7 1' - - q7 q1' q2' 2' q1' q7. s1' q7 q6 5 - - - 4 q4. s6 q5. s6 q5 q4 3 - - 5 q4 4 q3 q2. s3 q2 s7 1
+- - - qx sx sx sx sx sx sx sx sx sx sx sx sx sx sx q5. s1' q7 q1' q2' q7 q1' q7 q6 q7 5 - q4 q4 q4 q6 q5. s6 q5 q4 q3 s3
+s2 q3 q4 5 - q5. q1' q7 q2' q7 q1' q7 q6 q7 5 - q4 q4 q4 q6 q5. s6 q5 q4 q3 q1 q2 q,7 1 - q,5 1 q2 q3. s4 q5 q6 5 - -
+3 q4 4 q3 q2. s3 q2 q,7 1 - - - q1 4 q4 q4 q5 q6 q1' 5. q4 3 - q2 2 q3 4 q3 q1 2 - - 4 q3 3 q1 q2. s3 q2 q7
+1 - - - 5 - - q6 q7 1' - - q2' q1' 7. q1' 7 6 7 5 - - q5. q7 q2' q7 q1' q7 q6 q7 5 - q4. s4 q4 q6 q5. s6 q5 q4
+q3 s3 s2 q3 q4 5 - q5. s1' q1' q1' q7 q1' q2' q7 q1' q7 q6 q7 5 3 q4. s4 q4 q6 q5. s6 q5 q4 q3 s1 ~ s1 q2 s7 1 - q4. s4 q4
+q6 q5 q6 5 4 - - 0 q2' s1' s1' q2' q7 1' 0
+%END

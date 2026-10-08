@@ -1,0 +1,17 @@
+%杜鹃_2.txt
+% 出处 https://www.jp114.com/jianpu/1096948.html
+title=杜鹃
+tag=
+usertag=
+tagroute=
+confidence=0.985
+conf_p10=0.939
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1096948
+%--
+4/4
+subtitle=score
+5 5 3 5 5 3 q2 q3 q4 q4 q3 q4 5 - - 1 1 3 3 1 3 3 1 q,7 q1 q2 q2 q1 q2 3 - - 1 1 1 1 1 - 1 1
+- ,5 ,5 ,5 1 - -
+%END

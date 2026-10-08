@@ -1,0 +1,20 @@
+%春雨妈妈谢谢你.txt
+% 出处 https://www.jp114.com/jianpu/1260728.html
+title=春雨妈妈谢谢你
+tag=
+usertag=
+tagroute=
+confidence=0.972
+conf_p10=0.989
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1260728
+%--
+4/4
+subtitle=score
+q5 q5 q5 q5 s6 s6 s6 s6 5 q1' 1' q1' s2' q2' s2' q2' 1' 1' q5 q6 q5 q3 q5 6 5 x ,x x q3 q4 q5 q6 q7 q5 q6 q7 1 s1 ~ ,1
+~ s1 ~ s1 1 0 x q5 q5 q5 q5 6 5 q1 q5 0 q6 q5 0 x x x x x q5 q5 q5 q5 6 5 q1 q5 0 q4 q2 0 q3 q3 q3 q3
+5 3 q4 q2 0 q6 q2 0 q3 q3 q3 q3 5 3 q4 q2 0 q3 1 3 5 1 2 2 1 5 3 4 0 0 q6 q5 5 - - - 3 5 1' 2'
+2' 1' 5 3 4 3 0 q5 q6 2 - - - 3 3 q0 q1 q3 q3 q0 q1 q3 q4 q5 q6 5 - 3 3 q0 q1 q3 q3 q0 1 3 q4 q5 q6 5
+q3 q4 5 - 1' 0 q5 q4 q3 q1 1 - q3 q4 q5 q6 7 5 1' - - -
+%END

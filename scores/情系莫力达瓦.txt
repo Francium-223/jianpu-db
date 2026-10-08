@@ -1,0 +1,21 @@
+%情系莫力达瓦.txt
+% 出处 https://www.jp114.com/jianpu/806243.html
+title=情系莫力达瓦
+tag=
+usertag=
+tagroute=
+confidence=0.992
+conf_p10=0.986
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-806243
+%--
+6/8
+subtitle=score
+x 6 q6 6 q7 q6 q5 q6 q,6 q1 q3 2 ~ 2 3 q6 q3 q2 q3 q,3 q,5 q,6 2 q1 q,6 s,6 s,6 q,6 q,3 q,6 q,6 q1 s,6 s,6 q,6 q,3 s,6 s,6 x 3
+q3 q3 q2 q1 q,6 q1 q2 q3. s3 s2 s1 ,6 ~ ,6 3 q3 q3 q2 q1 q,6 q1 q2 5 s6 s5 3 ~ 3 6 q6 6 q7 q6 q5 q6 q,6 q1 q3 2 2
+3 q6 q3 q2 q3 q,3 q,5 q,6 2 q1 ,6 ,6 q3 q5 s3 q6 6 6 ~ 6 7 5 q7 6 6 ~ 6 ~ 6 7 7 7 7 7 6 7 s6 s5 3 6
+q6 6 7 6 5 6 s5 s3 2 q3 q3 q3 3 q3 3 q2 q3 1 6 q3 2 3 s5 s3 q5 q6 7 ~ 7 q1' q1' q6 q7 q6 q7 6 q3 q6 q5 q6
+7 q1' 2' ~ 2' q3' q2' q3' q7 s7 6 ~ 6 q3 q2 q3 q1 q2. s1 ,6 ~ ,6 q3 q2 q3 q5 q7 s6 6 6 q1 q1 q1 1 q6 q7 q6 q7 6 q3
+s6 s3 q5 q6 q1 q7 q1 2 2 s3 s1 q2 q3 q1 q2. s7 6 6 6 q6 q0 q0
+%END

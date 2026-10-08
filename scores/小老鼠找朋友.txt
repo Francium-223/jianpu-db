@@ -1,0 +1,18 @@
+%小老鼠找朋友.txt
+% 出处 https://www.jp114.com/jianpu/1074485.html
+title=小老鼠找朋友
+tag=
+usertag=
+tagroute=
+confidence=0.993
+conf_p10=0.985
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1074485
+%--
+4/4
+subtitle=score
+q5 q1 q1 s1 q3 qx q1 1 q5 q1 q1 s1 q3 qx q1 1 q5 q1 q1 q1 q3 q1 q1 q1 q5 q1 q1 q1 q3 q1 q1 q1 5. x q1 q1 q0 s2 s1 q6
+1 - 1 - qx x q5 q5 q5. q5 q6 6 q5 q5 q5 s1 q2 q3 3 qx x q5 s5 s6 q5 s5 s6 q5 q4 q3 q1 q5 s5 s6 q5 s5 s6 q5 q4 q3
+q1 q,5 q1 1 q1 q0 s2 s1 q6 1 - 1 - qx x
+%END

@@ -1,0 +1,17 @@
+%垃圾箱.txt
+% 出处 https://www.jp114.com/jianpu/1506349.html
+title=垃圾箱
+tag=
+usertag=
+tagroute=
+confidence=0.945
+conf_p10=0.642
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1506349
+%--
+4/4
+subtitle=score
+1 - - 1 0 0 6 0 1' q5 q6 q5 s3 q5 q6 5 q1' s1' s1' q6 q3 q5 q6 5 q3 s5 q6 q6 q5 s5 s3 2 q2 s2 s3 q5 q3 q2 s2 s3
+1
+%END

@@ -1,0 +1,17 @@
+%吓老鹰.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47684
+title=吓老鹰
+tag=
+usertag=
+tagroute=
+confidence=0.991
+conf_p10=0.978
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47684
+%--
+2/4
+subtitle=score
+3 3 1 2 5 5 6 3 3 1 2 5 5 6 1 1 6 5 3 3 1 2 6 - - - 1 - - 1 0 1 - - - - 1 - 1 2
+,6 6 1 q2 3 q1 2 q1 s6 q,5 s6 q3 ,5 x x
+%END

@@ -1,0 +1,20 @@
+%China-X.txt
+% 出处 https://www.jp114.com/jianpu/1216280.html
+title=China-X
+tag=
+usertag=
+tagroute=
+confidence=0.952
+conf_p10=0.858
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1216280
+%--
+4/4
+subtitle=score
+0 q,6 0 0 0 0 0 0 0 q7 q6 2 q3 0 0 0 q3' 0 0 q3 q3' q3' q1 q2 ,7 q1 q3 q1 q5 2 q3 q5 q3' q3' q1 2 q,1 q2' q2' q1
+q5 2 q1 q2 0 0 0 0 0 sx. 0 0 - sx. 0 0 0 0 - sx. 0 0 s6' q,6' 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 s6 0 0 0 0 0 0 0 0 0 s6 ,3 0 0 ,3 0 ,3 q0 ,,5 0 ,,6 0 ,1 0 ,3 0 0 ,3 0 ,3 q0 ,5 0 ,1 0 ,2 0 q3 q5
+q2' ~ q2' q3 q5 q3' q3' q1 q,5 q2' ~ 2' q,7 q3 q1 q,5 q2 q2 q3 q5 q3' q3' q1 q2 q,7' ~ q,7' q1 5 q3 q1 q5 q2' ~ q2' q3 q5 q3' q3' q1
+2. q1 q5 q2' q2' q1 0 2 q1 q1 q5 q2 q1 q5
+%END

@@ -1,0 +1,19 @@
+%小脏手.txt
+% 出处 https://www.jp114.com/jianpu/903108.html
+title=小脏手
+tag=
+usertag=
+tagroute=
+confidence=0.976
+conf_p10=0.949
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-903108
+%--
+2/4
+subtitle=score
+1 - - x - x x x x s1 s,6 s,5 s,6 1 q1 q1 q1 q0 s2 s1 s,6 s1 2 q2 q2 q2 q0 s3 s5 s3 s2 s1 s3 s2 s1 s6 s2 s1 s6 s5
+s1 s6 s5 s3 s,5 s,3 s5 s,6 s1 s5 s6 q1 s,5 s6 1 0 q,5 s3 s2 q1 q,6 q,5 q,6 ,5 q1 s1 s,6 q1 q2 3 - q,5 s3 s2 q1 q,6 q,5 q,6 ,5 q1
+s,6 s1 q3 q,6 ,5 - q1 q,6 1 q1 q,5 ,6 q1 q,6 1 q,5 q1 ,6 q3 q2 3 q1 q3 2 q3 q2 3 q5 q3 2 3. q,7 ,6 - q3 q,7 ,6 q3 q,7 ,6
+q1 q,6 q1 d6 q,5 q1 ,6 q1 q,6 q1 q,5 ,6 0 q3 q2 q3. s2 q5 q3 2 q3 q2 q5 q3 2 0 q5 q3 q2 q5 1 0 sx sx x. q1 s1 s1 q1 q0
+%END

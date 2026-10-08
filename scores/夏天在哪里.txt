@@ -1,0 +1,18 @@
+%夏天在哪里.txt
+% 出处 https://www.jp114.com/jianpu/1515423.html
+title=夏天在哪里
+tag=
+usertag=
+tagroute=
+confidence=0.998
+conf_p10=0.994
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1515423
+%--
+4/4
+subtitle=score
+5 3. q1 q2 q3 ,5 - - - ,6 1. q6 q5 q6 q1 q2 3 - - q2 q1 q2 q3 5. q3 q2 q3 q3 q,6 2 - q,5 5 q6 q2 q2 q4 q3 q2 1
+- - - 6 4 1 6 4 5 - - - 5 5 6 1 3 2 - - - 2. q2 2 3 5. q5 5 3 7 7 6 5 3 5 2 2 1 - -
+7 7 6 5 3 5 2 1 1 - - 1 - - 0
+%END

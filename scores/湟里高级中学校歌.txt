@@ -1,0 +1,19 @@
+%湟里高级中学校歌.txt
+% 出处 https://www.jp114.com/jianpu/1290610.html
+title=湟里高级中学校歌
+tag=
+usertag=
+tagroute=
+confidence=0.985
+conf_p10=0.969
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1290610
+%--
+2/4
+subtitle=score
+0 q5 q6 1' - 1' q5 q6 1' q5 q6 ~ 6 - q5. s5 q5 q6 q5 q4 3 q2 5 q6 q5 q4 q3 q2 1 - 1 - q1 2 q3 5 - q1 2 q3
+q5 q6 5 q2 2 q3 q2 q2 q1 q2 ,5 - ,5 - q1 2 q3 5 - q1 2 q3 q5 q6 5 q2 2 q3 q3 q2 q2 q1 2 - 2 q5 q6 1' - 1'
+q5 q6 1' q5 q6 ~ 6 - q4 4 q4 q4 q5 q6 q3 5 - 5 - 5 q4 q5 4 - 5 q4 q5 2 - q,5. s,5 q1 q2 q3 3. q2 q2 q2 q3 q5
+q6 5 q4 4 q3 q2. s2 q2 q,6 q,5. s,5 q,5 q3 2 3 1 - 1 qx q5 q6
+%END

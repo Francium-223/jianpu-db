@@ -1,0 +1,18 @@
+%我们手拉手.txt
+% 出处 https://www.jp114.com/jianpu/1081231.html
+title=我们手拉手
+tag=
+usertag=
+tagroute=
+confidence=0.900
+conf_p10=0.597
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1081231
+%--
+4/4
+subtitle=score
+5 6 5 s5 q2 3 q4 s5 3 1 q2 q2 q3 q3 2 s1 ,6 ,7 1 2 3 3' 1 3 q5 5' 1 1 5 1' 5' 6 3 1 3 2 6 6 1 3
+5 1' 1 3 ,1 4 4 5 4 1' ,6' 3 ,1 2' 2 2 q1 q2 2 3 2 5 ,5 1 q1 2 2 2 q3 5. 5 q6 q4 q3 2 0 3 4 5 0
+4 5 6. ~ 6 7 - q2' q2' ,,2' 2' 2' 2' - - x' - - - 0 x
+%END

@@ -1,0 +1,20 @@
+%远方的炊烟.txt
+% 出处 https://www.jp114.com/jianpu/1220051.html
+title=远方的炊烟
+tag=
+usertag=
+tagroute=
+confidence=0.987
+conf_p10=0.967
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1220051
+%--
+4/4
+subtitle=score
+x ,6 - ,6 s1 s2 s3 s5 6. q3 q1' s1' s1' 6 q5 q3 q5 q6 6 - 6 q5 q6 3. q6 q3. s2 s2 s3 s1 s6 ,6 - ,6 - q,6 q,6 q5 q6 3.
+q6 q3. s2 s1 s2' q1' ,6 - q2 s2 s3 q1' q,6 q6 s3 s3 q5' q6' q5 3. ~ 3 - q5 q3 s3 6. q5 q6. s3 s1 s2 2. q3 q,3. s5 q,6 q3 s2 s3
+5' q6' q3. s2 s1 s2 q1' q,6 q0 3 - - q3 q5 q6 s5 s6 2'. 6. ~ 6 - q3 q5 q6 s5 s6 2 q5 s5 s6 q5 3. 3 - q6 q6 q5' q6' 5.
+q3 q,6 q5 q5' q6' 2. q3 q,3. s5 q,6 q3 s2 s3 5 q6 q3. s2 s1 s2 q1' ,6 x s1 s2 s3 s5 6 3 1' - 1' - q3. s2 q2 q3 3 - 3 5
+6 - 6 - 6 - 6 -
+%END

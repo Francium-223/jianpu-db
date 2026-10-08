@@ -1,0 +1,20 @@
+%燃灯之歌.txt
+% 出处 https://www.jp114.com/jianpu/1220660.html
+title=燃灯之歌
+tag=
+usertag=
+tagroute=
+confidence=0.970
+conf_p10=0.954
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1220660
+%--
+4/4
+subtitle=score
+1 0 - - - 0 1. x' x 1 1 - q,5 q,6 q1 q2 3 - q,5 q,6 q1 q2 ,6 - q1 q,6 q1 q2 q3 q5 q6 q5 q3 q2 q1 q,6 2 - 0 0
+q,5 q,6 q1 q2 3 - q,5 q,6 q1 q2 ,6 - q3 q5 q6 q5 q3 q2 q1 q,6 2 - q2 q3 q2 q3 5 - q2 q3 q2 q1 ,6 - ,5 5 q3 q2 q1 q,6
+1 - 1 - q,5 q,6 q1 q2 3 - x q2 q3 q2 q3 5 - q2 q3 q2 q1 ,6 - ,5 5 q3 q2 q1 q,6 1 - 1 - 0 0 q,5 q,6 q1 q2 q,5
+q,6 q1 q2 ,6 - q1 q,6 q1 q2 q3 q5 q6 q5 q3 q2 q1 q,6 2 - q2 q3 q2 q3 5 - 3 - q,5 q,6 q1 q2 ,6 - q3 q5 q6 q5 q3 q2 q1
+q,6 2 - q2 q3 q2 q3 5 - q2 q3 q2 q1 ,6 q,6 ,5 5 q3 q2 q1 q,6 1 - 1 -
+%END

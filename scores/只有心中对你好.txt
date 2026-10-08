@@ -1,0 +1,20 @@
+%只有心中对你好.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=13918
+title=只有心中对你好
+tag=
+usertag=
+tagroute=
+confidence=0.994
+conf_p10=0.980
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-13918
+%--
+4/4
+subtitle=score
+q2 q5 q4 q5 ~ 5 - q2 q6 q4 q5 ~ 5 s6 s1 s6 ,5 - - - q5 q5 q5 q5 5 q4 q3 2. q5 1 - q,6 q,6 q1 q2 q5 q4 q3 2 -
+- - q5 q5 q5 q5 5 q4 q3' 2. q5 1 - q,6'. s1' q,6 2 q,6 q,5 ,5 - - - q,5 q,5 q,5 q,6 2 q3' q2 1 q,7 q,6 ,5 - q,6 q1 q,6 q1 q2
+q5 q4 q3 2 - - - q,5 q,5 q,5 q,6 2 q3 q2 1 q1 q,7 ,6 q,6 q1 2 q2 q5 1 q,7 q,6 ,5 - - - ,5 - - q1 q2 5 - - q6 q5
+4 - - q4 q5 6. q1' q6 q5 q4 q3' 2 - - q1 q2 5 - - q6 q5 4 - - q4 q3 2. q,6 1 q2 q,6 ,5 - - q1 q2 ,5 - - q4
+q3 2. q6 1 - 2' - 4 - 5' - - - 5 - - -
+%END

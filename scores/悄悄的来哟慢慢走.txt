@@ -1,0 +1,21 @@
+%悄悄的来哟慢慢走.txt
+% 出处 https://www.jp114.com/jianpu/1215939.html
+title=悄悄的来哟慢慢走
+tag=
+usertag=
+tagroute=
+confidence=0.936
+conf_p10=0.782
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1215939
+%--
+4/4
+subtitle=score
+1 - - 4 q,,x. 1. x'. x'. ,,x. 1 x x 1. - x 0 0 0 0 5. s1 s2 5 - q5 s6 s1' q5 s3 s2 s2 q1 1' 2. s5'. s3 2 - s5 s6
+s5'. s6 5 - x - - q,5 - s5 q,6 ,6 s1 s1 s1 s2 q1 s1 s6 ,6 - s6 s2 s3 s1 s2 2. s1 s2 s2 q3. s2 q,6. s1' s1' 2 - s5 q5 -
+5 - q6 s6 s1 q3 s3 s2 s2 q1 1 - s2 q5. s2 s,6 ,6 q2. s1 s1 s2. s6 s5 5 x s1 s6 s6 q1 q,6 s1 s6 1 - q2 q2 s1 s6 ,5 s1
+s6 q1 q3 s5 s1 ,6 s2 q2' q2 s5 s6 - - 0 q,5 q,5 q,,6 s1' s2 2 - q5 q2 s1 s1 s6 ,6 - q,5 q,5 q,6 s2 s,6 1 - q2. s1 q1 s,6 s,5
+,5 - q,5 q,5 q,1' s1' s2 2 - q5 q2 qx s1 s,6 ,6 - q,5 q,5 q,6 s2 s,6 1 - q2. s1 q1 q2 5 - x 5. s6 s1' 5. s6 s1' 5. s3 - 1
+- 2. s3 s5 2. s3 s5 ,6. s1 s3 2 - q2. s1 q1 q2 5 -
+%END

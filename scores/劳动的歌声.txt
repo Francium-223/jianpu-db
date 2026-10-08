@@ -1,0 +1,17 @@
+%劳动的歌声.txt
+% 出处 https://www.jp114.com/jianpu/1468503.html
+title=劳动的歌声
+tag=
+usertag=
+tagroute=
+confidence=0.994
+conf_p10=0.987
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1468503
+%--
+4/4
+subtitle=score
+2 q2 s3 q5 q5 s1 s2 s3 s5 q6 q3 q7 s5 6 0 q6 q3 q3 s1 ,6 0 q3 q6 q6 s5 3 0 q2 s2 q2 q3 q5 q3 q6 q3 2 q5 3 - q6
+q3 q5 q6 6 - q6 q3 q5 q1 2 - ,6 q6 s1 q2 q2 0 5 q5 ,6 0 2 q2 s3 q5 q5 0 q6 q3 q7 s5 6 0
+%END

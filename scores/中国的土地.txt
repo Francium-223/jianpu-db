@@ -1,0 +1,21 @@
+%中国的土地.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=31701
+title=中国的土地
+tag=
+usertag=
+tagroute=
+confidence=0.988
+conf_p10=0.971
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-31701
+%--
+2/4
+subtitle=score
+q1' q1' q6' q5' q4' 5' - q1' q1' q6' q5' q4' 5' - - q4'. q5' q6' 3' - q1' q1' q4'. q3' 2' - - q3' q2' q3' 6 - - q3' q2' q3' 5 - - q5
+q6 q3' 2' - - q6 q7 q5 1' - - - q1' q1' q3' s2'. s3' 5 - q1' q1' q3' s2'. s3' 5 - q1' s1' s2' q3'. q3' q0 q4' q1' ~ q1' 2' - q1' s1'
+~ s1' q3' s2' s3' 6 - q1' q1' q3' s2' s3' 6 - q6 q5 q6'. q3' 2'. q6 7 q7 q6 q5 1' - q1' q6' q5' q6' q4' 4'. q4' q6' q5' q2' 4' - q4'. q3'
+q6'. q3' s5' s6' 5'. q5' q6 q4' q5' 3' - q3'. q3' q2'. q3' s2'. s3' 7. q7' q2' q1' q7 6 - q1' q1' q7 q6 q2' 2' q6 7 q7 s6 s7 5 - 5' - q5'
+q1' q6' q5' q4' 5' - q5' q6' q5' q1' s4' s5' 6'. ~ 6' - q0 q6 q4' s3' s2' 6. q7 5 q2'. q3' 1' - 5 q2'. q3' 3' - 1' - - - 1' - q1'
+q0 0 s5 s6 s7 s1' s2' s3' s4'.
+%END

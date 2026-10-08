@@ -1,0 +1,19 @@
+%我们荡起月亮船.txt
+% 出处 https://www.jp114.com/jianpu/1094058.html
+title=我们荡起月亮船
+tag=
+usertag=
+tagroute=
+confidence=0.995
+conf_p10=0.992
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1094058
+%--
+4/4
+subtitle=score
+q3 5 5 6 5 6 3 q2 q1 ,6 - ,5 ,6 q1 2. ,6 1 - - - x q,5 q,6 q3 q2 3 - 2. q,6 1 - q3 q5 q5 q6 5 - q1 q,6 3
+2 - q3 5 5 6 5 q6 3 2 1 ,6 - ,5 ,6 1 2. q,6 1 - - - ,5 q,6 q1 2. q3 5 - - - q6 q5 q3 q5 q6 q5 q3 q5 6
+5 3 q6 5 - q2 q3 q5 q3 2 q1 q,6 3 - - - q6 q5 q3 q5 q6 q5 q3 q5 q6 q5 q3 q6 5 - q2 q3 5 q3 2. 6 1 - - -
+2 3 q5 q3 2 - 5 6 5 - 5 - - 0
+%END

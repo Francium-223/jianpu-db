@@ -1,0 +1,21 @@
+%梨花湾.txt
+% 出处 https://www.jp114.com/jianpu/926996.html
+title=梨花湾
+tag=
+usertag=
+tagroute=
+confidence=0.950
+conf_p10=0.757
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-926996
+%--
+2/4
+subtitle=score
+1 1' q1 q1 - - 5 5 q2 s2 q4 1 1 x' x q1' q,1 q1 2 s3 s5 s3 s2 ,6 - 2. q5 6 - q5 q5 s2 q3. q,6 q0 q,5. s7 ,6' - ,6'
+- q2 q2 s3 s5 s3 s2 ,6 - 2. q5 6 - q5 q5 q2 q3 q2 q0 q,5. s,7 ,6 - ,6 - q2 q2 6 6 - s5 s6 s5 s4 2 2 - q3 q3 q3
+q5 q1 s2 s3 2 q2 q2 6 6 - s5 s6 s5 s4 5 5 - q3 q3 q3 q5 1. q3 2' - 2' - x 2 ,6 - 2. q5 6 - q5 q5 s2 q3. q,6
+q0 q,5. s,7 ,6 - ,6 - q2 q2 s3 s5 s3 s2 ,6 - 2. q5 6 - q5 q5 q2 q3 q2 q0 q,5. s,7 ,6 - ,6 - q2 q2 6 s5 s6 s5 s4 2 q3
+q3 q3 q5 q1 s2 s3 2 q2 q2 6 s5 s6 s5 s4 5 q3 q3 q3 q5 1. q3 2' - 2' - q2 q6 6 q5 q4 2 q3 q3 q3 s3 s5 q1 s2 s3 2
+q2 q6 6 q5 q4 5 q3 q3 q3 q5 1. q3 2 - 2' - 2' - s1 s2 q3 2
+%END

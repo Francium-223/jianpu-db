@@ -1,0 +1,22 @@
+%好一朵美丽的茉莉花.txt
+% 出处 https://www.jp114.com/jianpu/1214967.html
+title=好一朵美丽的茉莉花
+tag=
+usertag=
+tagroute=
+confidence=0.966
+conf_p10=0.914
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1214967
+%--
+4/4
+subtitle=score
+q3 q3 s3 sx s5 s6 s6 s1' s1' s6 4 q5 q5 s5 s6 5 q3 s3' s5' s6 s1' s1' s6 q5 q5 s5 s6 5 q5 q5 q5 s3 s5' q6 s6' s5' 5 q3 s2 s3
+q5 s3 s2 q1 s1 s2 1 s3 s2 s1 s3 q2. s3 q5 s6 s1 5 q2 s3 s5 s2 s3 s1 s6 ,5 q,6 s6 s1 q2. s3 s1 s2 s1 s6 ,5 - q3 s3 s5 s6
+s1 s1 s6 q5 s5 s6 5 q3 s3 s5 s6 s1 s1 s6 q5 s5 s6 5 q5 q5 q5 s3 s5 q6 s6 s5 5 q3 s2 s3 q5 s3 s2 q1 s1 s2 1 s3 s2 s1
+s3 q2. s3 q5 s6 s1 5 x qx x q5 s6 s1 q2 q3 q2 s3 s5 s2 s3 s1 s6 ,5 q,6 s6 s1 q2. s3 s1 s2 s1 s6 ,5 - ,5. - q2 q1 q2 q4
+q3 s3 s3 s3 s5 s6 s6' s1' s1' s6 3 x q5 s5 s6 5 q3 s3 s5 s6 s1' s1' s6 q5 s5 s6 5 q5 q5 q5 s3 s5 q6 s6' s5' 5 q3 s2 s3 q5
+s3 s2 q1 s1 s2 1 s3 s2 s1 s3 q2. s3 q5 s6 s1 5 q2 s3 s5 s2 s3 s1 s6 ,5 q,6 s6 s1 q2. s3 s1 s2 s1 s6 ,5 q,6 s6 s1 2. q3 q1
+q2 q1 q6 5 - 5 -
+%END

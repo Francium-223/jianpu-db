@@ -1,0 +1,17 @@
+%老师您早.txt
+% 出处 https://www.jp114.com/jianpu/1364480.html
+title=老师您早
+tag=
+usertag=
+tagroute=
+confidence=0.933
+conf_p10=0.749
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1364480
+%--
+2/4
+subtitle=score
+1 3 2 1 4 1 ,1 x 1 ,5 0 1. q2 3 - ,5 0 1. q2 3 - q2. - q2 2 1 2 5 0 5 - 5 - 6. 6 4 6 5. 6 4
+3 2 - ,5 1 - 3 1 - 2 5 - 6 4 - 2. 3 5 - 1. 3 2 ,6 ,5 1 -
+%END

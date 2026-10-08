@@ -1,0 +1,18 @@
+%卖绒线.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47945
+title=卖绒线
+tag=
+usertag=
+tagroute=
+confidence=0.983
+conf_p10=0.993
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47945
+%--
+2/4
+subtitle=score
+3 3 2 3 2 3 5 - ,6 6 q2 ,7 ,6 ,5 - q,5 1 q2 q5 q3 2 q2 q2 q5 q6 ,6 q6 q2 q,7 ,6 ,5 - x x x x x x x 0
+x q3 q3 q2 q3 q2 5 - q,6 q6 q2 q,7 q6 5 - 5 1 2 5 3 2 2 2 5 6 6 6 2 7 6 5 - x x x x x x x 0
+x - - - 1 - - - - 0 1 - - - 1 1
+%END

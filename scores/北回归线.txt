@@ -1,0 +1,17 @@
+%北回归线.txt
+% 出处 https://www.jp114.com/jianpu/1216619.html
+title=北回归线
+tag=
+usertag=
+tagroute=
+confidence=0.949
+conf_p10=0.666
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1216619
+%--
+4/4
+subtitle=score
+2 3 3 3 3 3 3 3 2 3 2 q1 1 1 q2 2 x 1 q3 q2 q1 x q3 q2 q1 1 1 q3 q1 1 q1 2 q2 q2 3 q1 - - - x
+x - - - - - - - - - - - 1 - - - - - - - - - - - - - - - - - - - - - - -
+%END

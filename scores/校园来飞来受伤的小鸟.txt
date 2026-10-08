@@ -1,0 +1,20 @@
+%校园来飞来受伤的小鸟.txt
+% 出处 https://www.jp114.com/jianpu/1400544.html
+title=校园来飞来受伤的小鸟
+tag=
+usertag=
+tagroute=
+confidence=0.960
+conf_p10=0.871
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1400544
+%--
+2/4
+subtitle=score
+x q3 6 q6 3 1' 1' 0 2 5 5 5 q2 q7 0 3 1 0 1 7 q,,6 q,3 ,6 ,6 q,3 ,6 x 2 q2 ,6 3 q2 ,6 1 s1 1 ,7 ,5 ,6 -
+2 ,6 3 2 ,6 q2 2 2 1 2 3 - 3 6 6 3 6 3 2 5 5 2 5 - 1 q2 q3 2 3 0 1 q7 ,6 - ,6 q6 5 6 - 6
+6 5 3. 7 6 7 5 6 - 6 3 5 6 6 6 5 q3 q,,2 q1 2 - 2 q2 1 q2 3 5 6 q6 6 q2 3 - 3 q6 q5 6 - 6 6
+5 3. 7 6 7 5 6 - 6 q3 5 q0 6 5 3 2 1 6 2 - 2 2 1 q2 3 3 5 q3 0 7 q5 1 2 1' 6 - - x 0 q7
+q6 5. 6 7 5 6 - 6 - 6 0
+%END

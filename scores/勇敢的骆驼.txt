@@ -1,0 +1,21 @@
+%勇敢的骆驼.txt
+% 出处 https://www.jp114.com/jianpu/1083905.html
+title=勇敢的骆驼
+tag=
+usertag=
+tagroute=
+confidence=0.977
+conf_p10=0.938
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1083905
+%--
+4/4
+subtitle=score
+x' s5 s5 s5 s5 s5 s1 s1 s,5 s,5 3. s,5 s6 q1 s3 s3 q,5 q3 q1 s3 s3 q,5 q3 1 q0 s5 s6 q1' q1 q1 q0 q,5 q1 q1. ,1 2' 3 q1 q0 q1
+q3 q5 q5. s5 s3 s1 q2' ~ 2' q5 q1 q1. s1 s2 s3' q1 q0 q1 q3 q5 q6. s5 s2 s2 q5' ~ 5' 0 q6 q5 q0 q5 q6 q5 q0 q5 q6 q5 q5' q6'
+6 q2 s2 s3' ,6 - q6 q5 q0 q5 q6 q5 q0 q5 q6 q6 q5'. s6' 6 q2 s2 s1' 5 - ,5 q2' s1 s2' 3. s5' s6' 5. s5' s6' 5 - 5 q5'. s6' 2.
+s1' s3' 2. s2' s3' 2 - 5 - 5 s5 s5 s5 s5 s5 s5 s5 0 6 - s6 s6 s6 s6 s6 s6 s6 s6 s5 q5 s3 q5 q6 - 6 q0 s5 s6 7 -
+7 - s1 s1 s5 s5 s5 s5 s3 s3 s5 s5 s3 s3 s1 s1 s5 s5 3. s5' s,6' 1 - s5 q5 s3 q6' s5 s6' 5 q0 q5 - - s5 s5 s5 s5 s3 s3
+s5 s5 s3 s3 s1 s1 s,5 s,5 1 - 1 x q0 q,5' q1 q0 0
+%END

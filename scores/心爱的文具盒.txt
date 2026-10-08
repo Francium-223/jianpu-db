@@ -1,0 +1,17 @@
+%心爱的文具盒.txt
+% 出处 https://www.jp114.com/jianpu/1096043.html
+title=心爱的文具盒
+tag=
+usertag=
+tagroute=
+confidence=0.996
+conf_p10=0.989
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1096043
+%--
+4/4
+subtitle=score
+q5 q1 q5 q5 q5. s4 q3 q4 q2 q0 0 q5 q7 q6 q5 q4 q5. s6 5. 0 q5 q1 q5 q5 q5. s4 q3 q4. s3 q2 2 q5 q7 q6. s5 q4 q3. s2 1 0
+q0 1 q3 q1 q0 q6 5 q2 q2 q0 q5 q7 q6 q5 q4 q5. s6 5. 0 q0 1 q3 q1 q0 q6 5 q2 q2 q0 q5 q7 q6 5 q4 q3. q2 1. 0
+%END

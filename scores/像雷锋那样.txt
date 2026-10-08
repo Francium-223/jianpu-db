@@ -1,0 +1,18 @@
+%像雷锋那样.txt
+% 出处 https://www.jp114.com/jianpu/908244.html
+title=像雷锋那样
+tag=
+usertag=
+tagroute=
+confidence=0.993
+conf_p10=0.984
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-908244
+%--
+2/4
+subtitle=score
+0 5 5 3. 2 1 5 3 q2 ,1 6. 0 5 1 6 5 3 1' 2' 1' 5 3 6 1 5 3 6 5 3 5 2 6 1 5 3. 3 5 2 - 3.
+2 3 5 6 6 0 5 1' 1' 1 7 6 q1' 2 - 3 2' 1. 2 6 6 2. 3 2 q1 6. 6 2 5 0 5 5 3. 2 1 5 3' 2'. ,1 6
+0 5 3 5 6 1 2 3 2 2' 3 1 2' 6 5' 5' 3' 2. ,1 2' 3 1 1'
+%END

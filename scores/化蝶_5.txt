@@ -1,0 +1,17 @@
+%化蝶_5.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=37932
+title=化蝶
+tag=
+usertag=
+tagroute=
+confidence=0.990
+conf_p10=0.969
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-37932
+%--
+4/4
+subtitle=score
+1 q2 q1 ,5 q1' 2 - - - 2 q2 q3 1 2 ,3 1 q1 - - - ,3 - - q,5 - - q2'. q3' q2'. - - q2 q3 q2 ,3 - 1 q2 q1 q1'
+q3 q5 2 - - - 2. q3 1 2 ,3 1 q1 2 ~ q2 - - q,3 - - - - 1 q2 q1 q1' q3 2 - - - 2 1 2 ,3 1 q1
+%END

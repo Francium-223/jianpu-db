@@ -1,0 +1,18 @@
+%白雪公主的小马车.txt
+% 出处 https://www.jp114.com/jianpu/1400338.html
+title=白雪公主的小马车
+tag=
+usertag=
+tagroute=
+confidence=0.958
+conf_p10=0.818
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1400338
+%--
+2/4
+subtitle=score
+q5 q5 q3 q5 x q5 q5 q3 q5 x q4 q4 q2 q4 x q4 q4 q2 q4 q3 q3 q1 s2 s2 q3 q3 q3. d5 q1 3. ~ 3 - 5 5 q3 q5 x q5 q5
+q3 q5 q4 s4 s4 q2 q4 1 1 1 1 1 1 1 1 1 1 7 x q4 q2 q4 x q3 q3 q1 q3 q2 q,5 q,6 q,7 q2 1. ~ 1 0 q2 1. 1 q3
+q4 5 - 4 - 3 - 3 - 3 0 1 1 1 1 ,6 x x 1 1 ,6 1 1 ,6 1
+%END

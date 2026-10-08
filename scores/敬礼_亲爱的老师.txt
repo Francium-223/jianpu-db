@@ -1,0 +1,22 @@
+%敬礼_亲爱的老师.txt
+% 出处 https://www.jp114.com/jianpu/1301711.html
+title=敬礼 亲爱的老师
+tag=
+usertag=
+tagroute=
+confidence=0.979
+conf_p10=0.979
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1301711
+%--
+2/4
+subtitle=score
+1 - - 0 1 x x 1 1' x x' x' q6 6 q1 q6. s5 3 q2. s1 q2 q5 3 - q,6 q,5 q6. s5 q3 q2 q3 q5 q2 s5 q2 q3 1 - q5 q3
+q5. s6 3 - q5 q3 q5 q6 5 - q5 6 q6 q5. s6 3 q1 q,6 q5 q3 2 - q5. s3 q5 q6 3 - q2 s2 s3 q2 q,5 ,6 - q,6. d5 q6 q5 q2
+q2 3 q2 s1 s1 q2 q6 5 - q5 q3 q5. s6 3 - q5 q3 q5 q6 5 - q5 6 q6 q5. s6 3 s6 q5 q3 2 - q5. s3 q5 q6 3 - q2 s2
+s3 q2 q,5 ,6 - q,6. d5 q6 q5 q2 q2 3 q2 s1 q,5 q,6 1 - q6 q1' 6 - q2 s2 s3 q1 s7 s6 5 - q6 6 q1 q6. s5 3 q2. s1 q2 q5
+3 - q3 s5 s5 q6 q5 3 - q2 s2 s3 q2 q,5 ,6 - q,6 q,5 q6 q5 q3 q3 q3 q5 q2 q2 q3 5 - q6 q1 6 - q2 s2 s3 q1 s7 s6 5
+- q6 6 q1 q6. s5 3 q2. s1 q2 q5 3 - q3 s5 s5 q6 q5 3 - q2 s2 s3 q2 q,5 ,6 - q,6 q,5 q6 q5 q3 q3 q3 q5 q2 q1 q2 q3 1
+- q,6 q,5 q6 q5 q3 q3 q3 q5 2'. - - - -
+%END

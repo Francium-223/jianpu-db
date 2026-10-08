@@ -1,0 +1,25 @@
+%贵州恋歌_2.txt
+% 出处 https://www.jp114.com/jianpu/1216035.html
+title=贵州恋歌
+tag=
+usertag=
+tagroute=
+confidence=0.978
+conf_p10=0.995
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1216035
+%--
+4/4
+subtitle=score
+1 - - q1 - x x qx x' qx - - 7 2 x 1 x - x q6 q1' q2' q3' q3' q2' q1' q6 q6 q1' q2' q3' 2' - q6 1' q6 2' q1' q6 5
+q6 q5 3 - q6 q1' q2' q3 q3' q2' q1' q6 q6 q1' q2 q3' 2' - q5 q6 q1' q6 2' q1' q6 6 - - - q3 q2 q3 s2 s2 q1 q6 q3 q2 2. q1
+6 - - - q1 q1 q6 q2 1 q6 q5 q5 q3 3 - - q3 q2 q3 q2 q1 6 q1 q3 2 q1 2 - - - q5 s5 s3 5 2 q1 q6 3 - -
+- q3 q2 q3 q2 q1 q6 q6 q1 q3 2 q1 6 - - - q1 q1 q6 q2 1 q6 q5 q5 q3 3 - - q3 q2 q3 q2 q1 q6 q6 q1 q3 2 q1 2
+- - - q5 s5 s3 5 2 q1 q6 6 - - - q3 q2 q3 s2 s2 q1 q6 q3 q2 2 q1 6 - - - q1 q1 q6 q2 1 q6 q5 q5 q3 3 -
+- q3 q2 q3 q2 q1 6 q1 q3 2 q1 2 - - - q5 s5 s3 q5 q2 2 q1 q6 3 - - - q3 q2 q3 q2 q1 q6 q6 q1 q3 2 q1 6 -
+- - q1 q1 q6 q2 1 q6 q5 q5 q3 3 - - q3 q2 q3 q2 q1 q6 q6 q1 q3 2 q1 2 - - - q5 s5 s3 q5 q2 2 q1 q6 6 - -
+- s6 s3 s1 s7 s7 s5 s7 s2 s6 s1 s2 s3 3 5 - - q3 q5 q6 6 q6 5. s6 s5 - 3 - - q3 q5 q6 6 q5 3 q6 q1 2 - -
+3 5 - - q3 q5 q6 6 q6 5. s6 s5 - 3 - - q6 q1 2' q2' q1' q2' q3' q7 q7 q7 q5 q6 q1' 2' q1' q6 6 - - - 6 - - -
+x. 6 - - 5' 6' - - - 6' - - - 6' - - - 6' 0 q6 6 6
+%END

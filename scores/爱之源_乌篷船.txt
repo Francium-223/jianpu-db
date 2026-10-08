@@ -1,0 +1,23 @@
+%爱之源_乌篷船.txt
+% 出处 https://www.jp114.com/jianpu/1217109.html
+title=爱之源 乌篷船
+tag=
+usertag=
+tagroute=
+confidence=0.982
+conf_p10=0.974
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1217109
+%--
+4/4
+subtitle=score
+x q5 s5 s5 s6 s5 s6 s1' q5 s5 s3 5 s3 s5 s3 s5 s6 s1' s1' s6 q5 s5 s3 q5 s5 s3 q2 s2 s3 q5 s6 s1' - - s5 s3 5 q6 s3 s5
+s3 s2 1 q2 s3 s5 s1 s2 q,6 ,5 - q1 1 s2 s3 s3 s5 s6 s5 - 3 q5 s6 s1 s6 s5 s5 s3 2 - s3 s2 3 q5 q2 s3 s2 1 q1 s2
+s3 q2 q,5 ,6 - q1. s,6 q1 q2 q3 q1 q6 q5 q2 s3 s5 s1 s2 q,6 ,5 - s3 s5 s3 s5 s6 s5 q3 5 s6 s5 s3 s5 s3 s5 s6 s5 q3 5 -
+q5 5 s6 s3 q2 s2 s3 q5 s6 s1 - q5 5 q6 q1 s1 s6 1 q6 q2 s1 s2 q6 5 - q2. s3 q5 s6 s1 q6 s5 s6 1 q2 s3 s5 s1 s2 s6
+s1 2 - q5 5 q6 q1 s1 s6 1 q6 q2 s1 s2 q6 5 - q2. s3 q5 s6 s1' q6 s5 s6 1 q2 s3 s5 s1 s2 s,6 ,5 - - q5 s3 5 s3 s5
+s3 s5 s6 s1 s1 s6 q5 s3 5 q2 s2 s3 q5 s6 s1 q6 s5 s6 1 q2 s3 s5 s1 s2 s6 s1 q2 q2 s3 s5 h5 s1 h3 s2 h5 s6 d6 s6 ,5 s1'
+s7 s6 ,5 s6 s1' x. 1' 5. s6 q6 d2' s2' 1' s1' qx' q6 q6 q2' q5' h3 s1' s2' s5' q6 5 5 - s5 d6 q2. s1 s3 q5 s6 s6 s1' s1' q6 s5 s6
+1 q2 s3 s5 s1 s2 s6 s1 2 - 5. q6 1 - q6 q2 s1 s2 q6 5 - q2. s3 q5 s6 s1 q6 s5 s6 1 q2' s2' s3' s1' s2' q6 5 -
+%END

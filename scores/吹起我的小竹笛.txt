@@ -1,0 +1,18 @@
+%吹起我的小竹笛.txt
+% 出处 https://www.jp114.com/jianpu/1086145.html
+title=吹起我的小竹笛
+tag=
+usertag=
+tagroute=
+confidence=0.970
+conf_p10=0.917
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1086145
+%--
+4/4
+subtitle=score
+x ,3 6 ,5 4 3 2 q1 q1' q1' 7 ,6 q5 q7 q7 7 ,2' 7 ,6 5 3 4 5 s6 s5 s4 s3 s2 q1 q7 q7 s6 s6 q5 s4 s4 q3 q2 1 -
+x q1 s1 s2 q3 q4 q5 5 6 5 q6 q7 q1' s7 s,6 q5 s,5 s,6 5 q4 s4 s3 q4 q6 q2 s2 s3 4 q2 q3 q4 s5 s4 q3 s3 sx s2 3 1 2
+3 4 5 6 7 - s7 s6 q5 q4 3 2 1 - 1 - 1 q5 s6 s7 0
+%END

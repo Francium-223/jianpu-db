@@ -1,0 +1,23 @@
+%微笑.txt
+% 出处 https://www.jp114.com/jianpu/807089.html
+title=微笑
+tag=
+usertag=
+tagroute=
+confidence=0.976
+conf_p10=0.956
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-807089
+%--
+3/4
+subtitle=score
+1 - - x - x x q,5 q5 q4 q3 q2 q3 1 3 ,6 q,5 q5 q4 q3 q2 q3 ,6 - - q,6 q6 q5 q4 q3 q4 2 4 ,6 ,5 - - 5 - -
+,5 q1 q,7 ,7 ,5 1 ,7 ,5 q1 q,7 ,7 ,6 4 3 q2 q3 q4 q5 q6 2'. q6 q4 2 - - ,5 - - ,5 ,6 3 2 - - 1 ,6. q,5 1 - -
+3 5 5 6 q5 q6 5 1. s,6 3 2 - - 1 2 q3 q5 3 - - q2 q2 3 ,5 ,6 - - q1 q1 q2 q3 2 1 q2 q3 2 1 2. s6 ,5
+- - 1 - ,6 6. q5 6 5 - - 5 - - 5 5 6 3 - 5 6 6 q6 5 - - 6 6 5 6 - q6 1. q,6 3 2 - - 5 5
+6 - 7 6 5 q5 q6 3 - - ,5 ,6 3 2 - 1 2 - - 1 ,6. s,5 1 - - 1 - - q2 q3 q3 q4 q6 q3' 2'. q6 q5 q5 q,7 q,7
+q1 q1 q3 5 - - q4 q2 q2 q4 q5 q7 q6 q4' q4' q6' 5' - - 5 - - x 1 - - 1 - - 5 5 6 3 - 5 6 6 q6 5 -
+- 6 6 5 6 - q6 1 q,6. d,6 3 2 - - 5 5 6 - 7 6 5 q5 q6 3 - - ,5 ,6 3 2 - 1 2 - - 1. q,6 ,5 1 -
+- 1 - - ,5 s,6 q,6. 1 2 3 5 2 - - 2 - - 1. q,6 ,5 1 - - 1 - - qx' 1 - - 1 - - 1 0 0
+%END

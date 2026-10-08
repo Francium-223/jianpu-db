@@ -1,0 +1,23 @@
+%我们站在雨中.txt
+% 出处 https://www.jp114.com/jianpu/1216387.html
+title=我们站在雨中
+tag=
+usertag=
+tagroute=
+confidence=0.963
+conf_p10=0.919
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1216387
+%--
+4/4
+subtitle=score
+1 - - - x x x qx - - 1 2 0 x x x x 1 q1 q1 1 0 7. q3 3 - q2. s2 q2 q2 2 5 3 - - - q2. s2 q2 q3
+6 - 6. q1 1 - 2 2 2 5. 3 - - - q1. s1 1 0 0 7. q7 7 0 q6. s6 q6 q6 q6 3 q2 2 - - - q1 q1 q1 q2 3 3
+3 - - - 3 - 3. q7 6 - - - 1 1 - - 7. q3 3 - q2. s2 q2 q2 6 5 3 - - - q2. s2 q2 q2 q2 q6 6 6. q1 1
+- 2 2 q0 5 q4 3 - - - 1 q1 q1 1 - 7 7 - - q6. s6 q6 q6 q6 3 q2 2 - - - q1 q1 q1 q2 3. q3 3 - - -
+3 - 3 - 6 - - - q6. s5 q6 q5 q6. s5 q6 q6 6 6 q0 q3 q3 q2 q2 q2 2 - - 2 - 0 0 q7 s7 s6 q7 7 q7 q7 q7 q7
+2. q2 2 - 1 2 q3 3 - 3 - - - q6 s6 s5 q6 q6 q6 s6 s5 q6 q6 6 1 q0 q3 q3 q2 q2 q2 2 - - 2 - 0 0 q7 q7
+q7 q7 q7 q7 q7 q7 q7 2' q2' 2' - 2' 0 3' - q7 6. 6 - 6 - - - q7 6. 6 - 6 - - - 6 - - - 6 - - - x.
+x'. -
+%END

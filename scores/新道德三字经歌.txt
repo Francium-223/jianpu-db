@@ -1,0 +1,18 @@
+%新道德三字经歌.txt
+% 出处 https://www.jp114.com/jianpu/1440718.html
+title=新道德三字经歌
+tag=
+usertag=
+tagroute=
+confidence=0.934
+conf_p10=0.683
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1440718
+%--
+4/4
+subtitle=score
+1 - - 1' x x x - - - x. 3 q5 q1 6. q5 3 q2 q3 1 - q3 q3 q3 q1 7 q6. s1 5 - 5 - 6. q1 4 6 5 q3 q1 2
+- q3 q3 q3 q1 ,7 q,6 q,5 1 - 1 q3 q5 1 - 7 q6. s1 5 - 5 q3 q5 6. q5 4 q2 q4 3 - 3 - 1 1 4 - q3 2 q1 2
+- q3 q3 q3 q1 ,7 q,6 q,5 1 q3 q5 1 -
+%END

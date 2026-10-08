@@ -1,0 +1,17 @@
+%一只鸟仔_3.txt
+% 出处 https://www.jp114.com/jianpu/1451910.html
+title=一只鸟仔
+tag=
+usertag=
+tagroute=
+confidence=0.987
+conf_p10=0.940
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1451910
+%--
+4/4
+subtitle=score
+2' 3' q2' q3' q2' q1' q2' q0 q5 q5 q2' q0 0 6 2'. 0 q6 q1' q6 q5 2 q5 q6 q5 q0 0 1' 2' q1' q2' q1' q6 1' q5 q5 q1'. q0 0 2'. 2'.
+q6 q1' q6 q5 2 q5' q6' 5 5 x q5. s6 q1' q2' q6 q5 q2 q3 q5 q5 q2' q1' 5 5 x
+%END

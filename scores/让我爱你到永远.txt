@@ -1,0 +1,19 @@
+%让我爱你到永远.txt
+% 出处 https://www.jp114.com/jianpu/1217107.html
+title=让我爱你到永远
+tag=
+usertag=
+tagroute=
+confidence=0.973
+conf_p10=0.978
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1217107
+%--
+4/4
+subtitle=score
+- x 1 1 x q5 5 q3 q5. s6 1 s2 q2 s3 q1 s6 s5 5 - q3. s5 q5 q5 q1 s6 s3 q2 s6 s1 2 - - - 3. s2 s3 q5 s6 s5 q3
+q2 q1 s6 s3 s2 s1 s6 s5 3 - q3 5 s5' s3' s2' q2' s5' q3' q2' 1' - - - 2' 2' q2' q1' 2' 5 q5. s5' q5' q6' 5' 3. s5 s6 5. s5 s3
+s2 q2 s3 q1 s6 s1 6 - s5 s5 s3 s6 q5 q3 5 q3 s3 s2 2. s2 s1 s2 q2 s1 q2' q3' 5 - - - q6' 6 q0 q5' s6' s5' 5' q3'. s2' q1'
+s6 s5 q5 3 q3 5. q3' s2' q2' s5' q3' d2' d3' d2' q1' q1' 1' - -
+%END

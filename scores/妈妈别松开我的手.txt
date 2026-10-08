@@ -1,0 +1,20 @@
+%妈妈别松开我的手.txt
+% 出处 https://www.jp114.com/jianpu/1217322.html
+title=妈妈别松开我的手
+tag=
+usertag=
+tagroute=
+confidence=0.931
+conf_p10=0.719
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1217322
+%--
+4/4
+subtitle=score
+1 0 0 0 0 6 6 2 2 q1 4 x 1' x' q,1 x 0 x x 1' x ,6 0 q1 q2 3 5 - - - x q,3. s6 ,6 - q,6. s7 q1 2. q1
+q1. s2 3. q2 q4 - 1' q2 1. s,6 s5 ,5 1' 2 3. s2 2 4' s3 q1. s1 2 - - q2. s3 4. q3 q3 q5 1. q,6 q1 q2 3. q1. s1 2 - 0
+q3'. s1 2 q1 - - - 1 0 s1 s2 3' - - q3' q,6 q3. s5 q3 q2 2 - q1. s1 q2 q3 ,5 q5. s4 q3 q2 3. s3 s3 6 - - q6 q3 q5.
+s6 q3 q2 2 - q,6. s1 2. q3 3 q2 s1 s,6 ,6 - q,6 q,6 3. q2 3. q,6 3. q2 2. q,6 3. q2 5 - x 6 - - q,6 q1 q5. s3 q2 q1 ,5.
+q,6 q1 q2 3 - q3 q6 q3 6 q5 6 - q5. s3 2. q3 q1 q,7 ,6 - - - x
+%END

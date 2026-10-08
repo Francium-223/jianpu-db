@@ -1,0 +1,16 @@
+%桃花溪.txt
+% 出处 https://www.jp114.com/jianpu/1290432.html
+title=桃花溪
+tag=
+usertag=
+tagroute=
+confidence=0.970
+conf_p10=0.849
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1290432
+%--
+4/4
+subtitle=score
+q6 - s6 q3. - q1 s7 s6. q6. s1 q3. - 6 0 - q3. q6 q3'. q6 3 - 3' - - q3 6 q3 - q3'. 1 - q3 q1 q7 6. - 6 - 6' -
+%END

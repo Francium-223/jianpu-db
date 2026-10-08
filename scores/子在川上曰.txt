@@ -1,0 +1,21 @@
+%子在川上曰.txt
+% 出处 https://www.jp114.com/jianpu/1075255.html
+title=子在川上曰
+tag=
+usertag=
+tagroute=
+confidence=0.942
+conf_p10=0.711
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1075255
+%--
+4/4
+subtitle=score
+qx - 6 0 1. x x 1 ,5 5. q5 5 - - - 2 1 2. q5 5 - - - 1 ,5 5. q4 3 - - - ,7 ,5 ,6 ,7 1 - - - q3
+q3 q4 5 q3 q5 1 q5 q3 q5 q1' 5 0 q3 q4 5 q3 q5 1 q2 q3 q,5 q2 1 q0 q,5 1 - 1. q1 1 ,5 q5 q5 5 5 - - q0 q,5 1
+- 1. 1 1 ,6 q6 q6 ~ 6 ~ 6 - - 0 q5 1'. q5 3 q3 4 5. q3 1 q,6 q,7 q1 1 q1 q3 2 q1 q1 1 2 3 3 - x 3 -
+- q0 q5 1'. q5 3 q3 q4 5. q1 x q3 1 1 q,6 q,7 q1 1 q1 s3 q3 2 q1 q1 s1 ,6 q6 ,7 1 - 1 - s1 q1 s0 q0 5. q3 1 q,7
+q1 2. q,7 ,5 q,6 ,7 1 ,7 1 3 2 - - - 6. q4 2 q3 q4 5. q3 1 q2 q3 2 6 5 q0 s,5 2 1 - - - 5. q3 1 q,7 q1 2.
+q,7 ,5 q,6 q,7 1 ,7 1 3 2 - - - 6. q4 2 q3 q4 5. q3 1 q2 q3 2 6 5 0 ,5 2 1 - - -
+%END

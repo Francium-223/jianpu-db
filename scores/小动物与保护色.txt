@@ -1,0 +1,19 @@
+%小动物与保护色.txt
+% 出处 https://www.jp114.com/jianpu/1322476.html
+title=小动物与保护色
+tag=
+usertag=
+tagroute=
+confidence=0.954
+conf_p10=0.906
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1322476
+%--
+4/4
+subtitle=score
+q1'. q1 q1 q1 sx 1 x x ,x. x x q3 q6 q6 q3 2 - q3 q3 q,6. s5 3 q2 q2 q2 q3 q1 q,6 q,5 q,6 6 - 6 - x q,3 q,6 q6 q6 q,3
+0 q2 q3 q1 q2 3 - q6 q6 q6 q5 q3 q5 q3 3 - 3 - q3 q6 q6 q3 q2 q3 1 ,3 q3 q2 2 - q3 q3 q2 q1 q2 ,6 q,5 q3 q2 ,6
+- q3 s6 s6 q6 q5 q3 q3 q1' q1' 6 - 6 - q3 q6 q6 q5 1 q5 q3 3 - 3 - q3 q6 q6 q3 q2 q3 1 ,3 q3 q2 2 - q1 q1 q2
+q3 5 q3 q5 q6 q6 6 0 3 - 1. q6 6 - 6 0
+%END

@@ -1,0 +1,20 @@
+%摇篮_2.txt
+% 出处 https://www.jp114.com/jianpu/1094086.html
+title=摇篮
+tag=
+usertag=
+tagroute=
+confidence=0.958
+conf_p10=0.813
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1094086
+%--
+4/4
+subtitle=score
+1 - - x x x 5. ,5 q1 q1 1 1 2 q4 3 q1 2 1 - - - q3 5 q5 5 5 6 7 q6 5 5 - - - x ,5 q1 q1 1 1
+2' q4' 3 q1 2 1 - - - q3 5 q5 5 5 6' q1 7 q6 5 5 - - - 7 q6 5 3 q1' 7' q6' 5 3 q2 q3 4 q3 q4 6 q5 5
+q,5 q2' 3'. 1 - - - x q2 q3 4 q3 q3 4 6 q5 5 q,5 2 3 1 - - - x - - - q3 q1 q7 q6 q5 q5 4 q3 q3 4 5 -
+- - 4 - - - q2 q2 4 q3 q2 q1 q,7 q1 q2 3 - - - q2 3 q4 3 2 q1 1 q1 ,7 ,6 q3 5 q5 5 5 6 q1 7' q6' 5 5
+- - - q2 q2 3 4 q3 q4' 6' q5 5 q,5 q2' 3'. 1 - - - q5 5 q5 7 - 2' - - -
+%END

@@ -1,0 +1,17 @@
+%塞下曲(1).txt
+% 出处 https://www.jp114.com/jianpu/1290125.html
+title=塞下曲(1)
+tag=
+usertag=
+tagroute=
+confidence=0.998
+conf_p10=0.995
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1290125
+%--
+4/4
+subtitle=score
+3 q6. s3 5 - 3 q1. s2 ,6 - q2 2 q1 2 6 5 q5. s5 5 0 5 q6 q5 q3 q6 6 q5 q5 q6 q3 q5 q0 0 3 5 q3 q5 q1 q2 q5
+q3 q2 q1 q2 q0 0 5 q6 q5 q3 q6 6 q6 q6 q5 q3 q6 q0 0 q6 q1 q5 q6 q3 q0 0 q2 q3 q2 q1 q1 q0 0
+%END

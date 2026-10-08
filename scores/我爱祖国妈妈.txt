@@ -1,0 +1,20 @@
+%我爱祖国妈妈.txt
+% 出处 https://www.jp114.com/jianpu/807080.html
+title=我爱祖国妈妈
+tag=
+usertag=
+tagroute=
+confidence=0.944
+conf_p10=0.815
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-807080
+%--
+4/4
+subtitle=score
+q1 x q1 4 1 1'. x x x - - q7 q6 q5 q6 q7 q5 q6 q7 3' 2' - 1' - 1' - x ,5 3 3. q5 x - 1 q,7 q,6' ,5 - ,5 q,6'
+q,7 1. q6' 5 q4 q3 2 - 2 q3 q4 5 q6 5 q3 q2 1 - 1 q2 q3 4. q6 7' q6 q7 5 - 5 0 1' - 1'. q2' 1' q7 q5 6' - 6
+- 7 - 7. q6 5 q6 q3 5' - 5 - q6 5 q6 7 6 7. 2' 3' 2' - 2' - 1' - 1' - x 0 q0 q7 q6 q5 q6 q7 q5 q6 q7 3'
+2' 1' - 1' - 1' - x ,5 3 3. q5 1 q,7 q,6' ,5 - ,5 q,6' q,7 1. q6 5 q4 q3 2 - 2 q3 q4 5. q6 5 q4' q3' q2 q3 4' ~ q4
+q6 5 ~ 5 - 2 - 2 0 q3 q4 5 ~ q5 q6 5 3' - 2' - 7 - 5 - 6' - 7 - 1' - 1' - -
+%END

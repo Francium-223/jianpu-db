@@ -1,0 +1,22 @@
+%怕黑_2.txt
+% 出处 https://www.jp114.com/jianpu/750728.html
+title=怕黑
+tag=
+usertag=
+tagroute=
+confidence=0.954
+conf_p10=0.851
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-750728
+%--
+4/4
+subtitle=score
+q1 0 0 7 7 2 q4 4 1 x' x 0 0 0 s0 s5 s5 s5 q2 q1 q1 s1 s7 q,7 q1 s0 s5 s5 s5 q2 q1 q1 s1 s7 q,7 q1 s0 s5 s5 s5
+q,6 q,6 s6 q,6 s6 q,5 q,6 s0 s6 s6 s3 q,5 q,5 q,5 s5 s6 q,6 q,5 s0 s5 s5 s5 q2 q1 q1 s1 s7 q,7 q1 s0 s5 s5 s5 q2 q1 q1 s1 s7 q,7 q1
+s0 s5 s5 s5 q,6 q,6 s6 q,6 s6 q,5 q,6 s0 s1 s1 s1 q2 s2 s2 q2 q1 q3. s2 2 q1. s2 2 q4 q3 q3 s3 s2 q2 q3 3 s2 q1 s1 q1 s1 s7
+q,7 q1 1 s4 q4 s4 q4 s4 s3 q3 q4 s0 s3 s3 s1 q2 q2 q2 q1 q3. s2 2 q4 q3 q3 s3 s2 q2 q3 s0 s1 s1 s1 q6 q5 q5 s6 s5 q5' q3
+s3 s1 s1 s1 q6 q6 q6 s6 s6 q5 q6 s0 s3 s3 s1 q2 s2 s2 q2 q2 2 q3 s2 s3 s2 s1 q1 1 - q3 s2 s3 s2 s1 q1 1 - - 0 0
+0 0 0 0 0 q0 s3 s3 s4 q4 s4 q4 s4 s3 q3 q4 s0 s4 s4 s2 q3 s3 s3 q3 s3 s5 q5 q3 q0 s3 s3 s4 q4 s4 q4 s4 s3 q3 q4 s0
+s4 s4 s1 q2 s2 s2 q2 q1 q6. s5 q5 s3 s3. s2 s2 s2 q2 q1 q6 q5 5 q4. s5 5 x x. x. x 1 x
+%END

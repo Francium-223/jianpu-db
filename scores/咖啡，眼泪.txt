@@ -1,0 +1,19 @@
+%咖啡，眼泪.txt
+% 出处 https://www.jp114.com/jianpu/1217360.html
+title=咖啡，眼泪
+tag=
+usertag=
+tagroute=
+confidence=0.921
+conf_p10=0.693
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1217360
+%--
+4/4
+subtitle=score
+qx q1 1. 1. s,3 x' q3 x ,,x 0 x 1 x x 1 q2 3 q5 6 q5 q3 q2 s3 s5 6. 5 q6 1'. 1'. x q1' 1' q5 q3. s5 q6 6. q1' q1' q6
+q3'. q1' q1' 2'. 2'. 3'. q3' 3'. s1' s1' 1' q1' 5. 3 q5 2 q3 5. 5. 3 q2 3 q5 q6. q1' 1'. q1'. q1' q1' 3'. 3'. 1. 3. 4. 2. 0 q5'. q3'. q3' q3'.
+q2' q1' 2'. 2'. q3'. q3'. q3' q3'. q1' s1' s6 q5'. q5'. s3'. s2' 3'. q5'. q3'. q3' q2'. s1' s5 s6 1'. 1'. 1'. 1'. x 1 q2 3 q5 6 q5 q3 q2 s3 s5 6. 5
+q6 1'. 1'. x. q5' q3' q3' q2'. s1' s5 s6 1'. 1'.
+%END

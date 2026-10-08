@@ -1,0 +1,16 @@
+%种葵花.txt
+% 出处 https://www.jp114.com/jianpu/1323800.html
+title=种葵花
+tag=
+usertag=
+tagroute=
+confidence=0.933
+conf_p10=0.552
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1323800
+%--
+4/4
+subtitle=score
+x q1' s3 s2 q1 1 x q1 1 q3
+%END

@@ -1,0 +1,17 @@
+%小猫你别怕.txt
+% 出处 https://www.jp114.com/jianpu/1266214.html
+title=小猫你别怕
+tag=
+usertag=
+tagroute=
+confidence=0.949
+conf_p10=0.734
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1266214
+%--
+2/4
+subtitle=score
+1 - - q2 4 x x' x x' q3. s5 q5 q5 q5 q6 5 q1. s2 q3 q3 q2 q1 ,5 q,6. d7 q1 q2 q3 q1 2 q2. s2 q2 q3 q5 q6 5 q6. s7 q1'
+q1' q7 q5 6 q6. s7 q1' q1' q7 q5 3 q2. s2 q2 q6 q5 q5 3 q5. q5 q5 q6 q7 q5 6 q2'. s2' q2' q1' 5 6 1' - 1' -
+%END

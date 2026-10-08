@@ -1,0 +1,19 @@
+%绿水青山我的家.txt
+% 出处 https://www.jp114.com/jianpu/1215235.html
+title=绿水青山我的家
+tag=
+usertag=
+tagroute=
+confidence=0.993
+conf_p10=0.984
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1215235
+%--
+4/4
+subtitle=score
+,6 q3 q3 2 q1 q2 3 - 6 q6 q6 5 2 3 3 3 2 q3 q3 5 q3 q1 2 - q1 q6 q6 q,5 q5 q3 3 - q3 q6 q6 q1 q7 q5 q6 q6
+6 q6 q2 q2 q1 q2 q2 q3 q2 2 1 2 q2 3 5 6 1 1 3 2 2 3 5 3 6 6 6 6 - 6 3 3 3 q1 2 3' 3' 3' 6 q3'
+q3' 3' q2' q1' 2' 2' 2' 6 q3' q3' 3' q2' q3' 1' 1' q2' q3' q2' q2' q2' q3' 5 q3 q3 3 6 6 6 q2' 2' q3' 5 3 5 7 7 7 - 6 -
+6 - 6 - 6 0
+%END

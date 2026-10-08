@@ -1,0 +1,18 @@
+%小豆芽.txt
+% 出处 https://www.jp114.com/jianpu/1278426.html
+title=小豆芽
+tag=
+usertag=
+tagroute=
+confidence=0.944
+conf_p10=0.787
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1278426
+%--
+4/4
+subtitle=score
+1 - - 4 4 1 x 0 1'. x 1 x' x' x x - q6 q6. - q3 q2 - - - q6. - 0 - q6 q6. - q3 q2 q1 q1' q1' q2' 1' 0 x
+- 6. - q3' q2' q6 - 0 - 6 q3 q2' q6 0 q6' 1' 1' q0 q3 q3 - 6 0 - q6 1' q3 q2' q3 q2 1 0 q6 1' q6 q6' 1' q6 - q6.
+- q3' - - q6 1 q6 q6' 1' q6 - q6. - q3 2 - - q6 q1' q6 q6 1' 1' q3 q3 q3 q2 1. q2 1 - 0 0
+%END

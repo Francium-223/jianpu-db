@@ -1,0 +1,26 @@
+%一天一天等下去.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=40404
+title=一天一天等下去
+tag=
+usertag=
+tagroute=
+confidence=0.702
+conf_p10=0.387
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-40404
+%--
+4/4
+subtitle=score
+1 - - x - ,1. - 1' 1 1' 6' 6' h6 3' 6' 6' 6' 1' h3' h5' h5 q1 s5' h3' q1' h1' h5 d1 d1' 1' 1' 1' 1' 1' d1 d1' d1 d1 q6 d1
+q1' 6 d5' d1' q1' s6' h6. h5 s6. d3 q6 1' s1' 1' 1' 1' 1' d6. h5 d1'. h5 s6 h1' s6' 2' 3' 2' 3' 3' 3' 3' 3' q3' 3 3 4' 1'. x d1' d1
+1'. 2 s1' q6' d6' 2. 2'. 6'. 2 2' 1' q,5. 6' q3 1' q3'. 2 6 2 s3. q5' q6 5 5' s5' d6 h,1 0 6 0 1' 0 q5 q1 1' 1' 1' 1' 1' 1
+x' s5 sx s5 s5' s5 x' h,,,2' 2' 2' 2' d2'. 1 d2' ,3' ,3' d2' h,1' d1. d1. d1' 1' h1 h1 h1 3' h,2' d1' h1' x h3 h1' h1' h1' 3' h1 d1' s1' 1 h1
+3. 1' ,1' 3 h5' q6 6' 1' h6 h1 q1' 6' 1' x' 3' 2' 6' d1' h1' h5 h1 h1 h1' x' 1' 1' 1' 1' 1' 1' x' x' h1 h6. h1. q1' h1 hx 5' q7.
+q3. q1' q7 q6 ,,1' x' 3' 1 3' d6 q3 s3 s3' d1. q0 q5' 3' h3' h1. s3 s0 h3 s,5. q5' d,5 q5' s1' h5' q3' q1'. h1' q2 h5 d6 h2 h5' s2' h3 q6 h3
+h1 q1' q5 1' 2' s3' 2' x 1' x ,,2' 3' 1' 6 6 5 6 1' 1 1' 1' s1' x. 0 6 1' 2' s2' 3' 5 q5 5 6 3' 1' 3' 3' 3' 1' s2'
+s2. s1'. s2' 2' h1' s2'. h1 2'. 2' 2' 1' h1 ,3' ,1' x q6 5' 5 5 q6 s6 1. x. 1' s6 6' 6 1' q6 s6. 1. x' 1' 1' 2'. x s6 6' 6' s5
+x q1 5' 6. 1. 6 s6 1. 6' s1' 1' 6' s1. 6 h1. 1. h6 1' 1' h1. 1' h1' 1' 1'. q0 s1 0 s1' q0 0 6' 6' 0 s1' q1 sx' 1' d1' s2' d1'
+s2' 2' s1 s2' 2' 2' d3' s3 s3' 3' q1 ,5 5' q5. 5 s3' q5. 5' q5 5 q5' q5. q5 q5 q1 q5 1 3' 2' q2' q3' 5. q6 1' - - - 1' 0 0
+0
+%END

@@ -1,0 +1,21 @@
+%神奇的满洲里.txt
+% 出处 https://www.jp114.com/jianpu/1220103.html
+title=神奇的满洲里
+tag=
+usertag=
+tagroute=
+confidence=0.965
+conf_p10=0.938
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1220103
+%--
+4/4
+subtitle=score
+1 q4 x 0 x 1 x q3 q5 6. q1' 5. q6 3 q2. d3 d2 1 q,6 q1 2. q1 ,7 q1 q,7 ,6 - - - 4. q3 2 - 3. q5 1 - 2 0 ,7
+q1 q,7 ,6 - - - x q1 q1 s1 q,6 s3 q,3 q1 s1 s2 s1 s2 ,7. s6 s7 ,6 - q1 q1 q1 q,6 q2. s1 2 q3 q4 s4 s3 s2 s3 q2 3. q5 s5
+s5 q5 q4 s4 s3 2 s1 s2 q3 q4 q4 q4 s3 s4 q3 s2 q1 s2 1 - q3 s4 s3 q2 s1 s2 2. s3 s4 q3 q2 s1 q,6 s7 ,6 - q3 q4 q3 q3
+2 q2 q3 q4 1. q,7 ,6'. q1 3' s3 s4 s3' s2 2 - 2. s1 s2 q2' q3 q3' q5 3 - - - 1. q,7 ,6. q5 4. s3 s2 2. s3 s5 q6 3 s2 s3
+2. s3 s2 1 - q1 s0 s1 q,7 s6 s6 ,6 - - - 1. q,7 ,6. q1 3 s3 s4 s3 s2 2 - 3. s6 s6 3. s7 s6 7 - - - 3. q6 q6 7
+q3 3. s1' s7 q6 7 s6 s1' q2' 5 s3 s5 3 q0 s5 s5 q3 q7 s7 s2' s1' s6 6 - 6 - - - 6 0 0 0 x 2 0 1 0 1 2. q4
+%END

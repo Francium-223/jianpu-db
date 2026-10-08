@@ -1,0 +1,20 @@
+%我幸福我生在明月山.txt
+% 出处 https://www.jp114.com/jianpu/815138.html
+title=我幸福我生在明月山
+tag=
+usertag=
+tagroute=
+confidence=0.963
+conf_p10=0.885
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-815138
+%--
+4/4
+subtitle=score
+x 5 5'. q6' q5' q6' 5' - - - 6 4'. q3' q2' q3' 2 - - - q5' s5 s5 q6 q5 q2 q5 q6 q5 q5' s5 s5 q6 q5 q2 q5 q6 q5 x q0 s2'
+sx q1 5 - q5 q6 q5 q3 5 q6' q3' 2' - - - q0 s2' s3' q2' q1' 4' - q4' q6' q5' q3' q2' 3' q2' s2 6 4'. q3' 2' q6' q5' 5' - 5' -
+x q5'. q5' q5' q5'. q5' q5' q5 q5 q6 q5 q2 q5 q6 q5 5 q5 q6 5 q2 q5 q6 q5 5 5 q5 q6 5 q2 q5 q6 q5 5 5 - 3 6 - 2'. 5
+- - 6 6' 7' q7 q6' 5 4'. q3' q2' q6' 2' - - 3 3' 2 q2' q3 5' 6'. q7' q6' q5' - - 2 q6' q5' 3 q1' - - 5 5. q6 q5 q6 5
+- - - 6 4. q3 q2 q3' 2 - - - q5 5 5 - - - q5' 5' q6' 5' q4' q3' 2' - - - q7 6 5 q7 6 5 q2' 2' 7 6
+%END

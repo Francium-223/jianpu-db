@@ -1,0 +1,17 @@
+%加威加呼威.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48253
+title=加威加呼威
+tag=
+usertag=
+tagroute=
+confidence=0.990
+conf_p10=0.985
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48253
+%--
+2/4
+subtitle=score
+x q1. q2 3 - - 5 5 q3 q7 0 6 1. 1. 6 1 1 3. 2 1 2. 2 - 3. 5 3 2. 2 - 6 1 1 6 1 1 x q1. q1 q2 q2
+3 q5 q5 q3 q2 q1 q6 q1. q6 q1. 1 0 3. 2 1 2 3 5 2 1 6 1. 6 1. 1 0
+%END

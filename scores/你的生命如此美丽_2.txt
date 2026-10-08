@@ -1,0 +1,24 @@
+%你的生命如此美丽_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=31783
+title=你的生命如此美丽
+tag=
+usertag=
+tagroute=
+confidence=0.934
+conf_p10=0.807
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-31783
+%--
+4/4
+subtitle=score
+- - q1 x' x qx. 0 qx. 1 1. x 1. q1. q5 q6 1'. q2' s6 s7 s6 s5 3 3 q5 q6 1'. q2' s6 s7 s6 s5 2 2 q3 s3 s6 s5 s6 q4 s3
+d3 d4 s3 s2 s2 s3 q1 s7 s1 s2 s5 s5 q7 s6 q5 s0 q,6 s7 s6 ,5 q5 q4 q3. s2 s3 s3 s5 1. s2 s7 s7 s7 s6 d7 d6 s5 s6 ,5 - q0
+s6 q1 q2 q5 s6 s5 3 q2 s3 s5 q1 q6 q5 2 - q5 q4 s3 d4 s3 s2 s5 1. - - 0 - 0 - 0 0 s2 q7 s7 s6 s7 q5 ,6 - q0
+q1 q2 q3 q5 s6 s5 q3 s2 q5 s5 s6 d7 d6 s5 s6 5 - s6 s6 s5 q6 q6 q0 3 q1 q2. s6 s5 q6 6 - 6 0 0 0 q5 q4 s3. d4 s2
+s3 s5 1. s1 q2 q3 q5 ,7 q6 ,5 - - q0 s5 s6 q1' s1' 1' - q0 s5 s6 q1' s7 s1' 1' s5. d6 s5 s6 q2'. s7 s2 q6 6 - q0 s5 s6 q1.
+s1 1 - q0 s5 s6 q1 s7 s1 1 q7 q2 s2 s2 s7 s6 q6 s7 s6 5 - - q4 q2 s3 s5 q5 q1 0 q,5 q4 s3 d4 q3 q2 s3 s5 q1 q0 s2
+s7 q,6. s7 q2 q5 q5 ,7 q6 q6 s7 s6 ,5 - - s1' s6 s1' s2' s3' s5' s1' s1' s1' q1' q2' s6' s7' s6' s5' q3' q3' 3' 3' q5' q6' s1' q2' s6' s7' s6'
+s5' s2' s3' q2' 2' q3' s3' s6' s5' s6' q4' q3' s3' s4' s3' q6' q1' q7' q1' q2' q5' q5' q7 q6 s7 s6 5 5 - q5 q6 q0 q5 x ,5 - - q0 s5 s6
+s6 x x x 1 ,5 - - q0 s2 s7 q,6. s7 q2 q5 q5 ,x. ,6 - - - q,6 s7 s6 ,5 - - ,5 - - -
+%END

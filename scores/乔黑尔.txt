@@ -1,0 +1,17 @@
+%乔黑尔.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=45426
+title=乔黑尔
+tag=
+usertag=
+tagroute=
+confidence=0.906
+conf_p10=0.484
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-45426
+%--
+4/4
+subtitle=score
+1 - - 4 1 x x x x x x' 5 3 5 5 5 3 5 5. q5 6 1' 1' 6 1' - 0 5 1' 1' 1' 5 7 6 5 3 2 2 7 7
+5 - - 3 5 5 6 5 1 - 0 5 1 - - 3 5 5 6 5 1' - -
+%END

@@ -1,0 +1,18 @@
+%歌剧打击侵略者选曲1首.txt
+% 出处 https://www.jp114.com/jianpu/843652.html
+title=歌剧打击侵略者选曲1首
+tag=
+usertag=
+tagroute=
+confidence=0.857
+conf_p10=0.545
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-843652
+%--
+2/4
+subtitle=score
+q5 5. q1' 5 q5 4. 6 5 s,4 q2 1 1 1. s2 1 s1' ,1' q6 4 5 6 4 5 6 5 1 ,1 1 2 5. q5 5 x qx 1 1 1 x 5 5'
+s4. s4 5 ,x 5 ,x q1 1 2 4. 6 5 5 1 2 2 3 2 3 2 q1 q1 q2 q5 1 x x 1 1 ,1 ,1 1 1 1' 2. 2 x x x. 5.
+1' 6 s1' 6 5 6 1' 5 q2 5 - 1 2 7.
+%END

@@ -1,0 +1,18 @@
+%我的朋友真不少.txt
+% 出处 https://www.jp114.com/jianpu/1088250.html
+title=我的朋友真不少
+tag=
+usertag=
+tagroute=
+confidence=0.955
+conf_p10=0.786
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1088250
+%--
+4/4
+subtitle=score
+1 - - 1 x' 5 x 6 x x' x 1 q3 q3 q3 1 5 6 5 0 q6 6 q6 q5 3 1 2 0 q5 q5 q5 q3 1' 5 6 0 q6 6 q6 q5
+2 3 5 - q6 q6 5 6 6 6 - q2 3 q5 q3 2 3 1 - 1 q1 3 3 - 1' 6 5 0 6 q6 q5 6 5 3 2 - 1 q1 q3 3
+5 5 5 1' 5 6 - q5 s5 q5 q1' 6 q5 6 3 2 3 1 - q5 s5 s5 q1' q6 q5 q6 3 5 q6 q5 1' - 1' 0
+%END

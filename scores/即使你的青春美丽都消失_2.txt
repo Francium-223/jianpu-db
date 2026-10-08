@@ -1,0 +1,18 @@
+%即使你的青春美丽都消失_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49849
+title=即使你的青春美丽都消失
+tag=
+usertag=
+tagroute=
+confidence=0.994
+conf_p10=0.997
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49849
+%--
+6/8
+subtitle=score
+q3 2 q1. 2 q1 q1 q3 q5 q4 q6 q1' 1' q7 q6 q5. q4 3 q2. 1 q2 3. 3 s3 2 q1. q2 q1 q1 q3 5 q4 q6 q1' 1' q7 q6 q5 q1' 3 q2.
+1 q2 1. 1 s5 q4 q3 5 q1' s5 s5 q6 q4 1' 1' 7 6 5. s4 q3 q2. q1 q2 3. 3 3 q2 1. q2 1 1 3 5 4 6 1 1 q7 q6 5
+1 3 2. s1 q2 1. 1
+%END

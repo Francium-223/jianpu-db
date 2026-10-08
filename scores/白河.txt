@@ -1,0 +1,17 @@
+%白河.txt
+% 出处 https://www.jp114.com/jianpu/1219565.html
+title=白河
+tag=
+usertag=
+tagroute=
+confidence=0.950
+conf_p10=0.755
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1219565
+%--
+4/4
+subtitle=score
+s3 q1 s5 q5 5 s3 s2 1 s5 s1 s2 2 - q3 s3 q2 s3 s5 q1 1 q2 q2. s3 s1 s1 s1 q3 s3 s3 q2 s1 q3 s1 q1' ~ 1' - - 5 -
+- - - - - qx. qx. 1'. 1
+%END

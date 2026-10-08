@@ -1,0 +1,18 @@
+%轻轻的脚步.txt
+% 出处 https://www.jp114.com/jianpu/1091034.html
+title=轻轻的脚步
+tag=
+usertag=
+tagroute=
+confidence=0.997
+conf_p10=0.988
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1091034
+%--
+4/4
+subtitle=score
+q3 q0 ,6 0 1 q2 q5 4 3 q2 2 q3 q1 ,6 1 2 3 3. ,6 0 2 0 3 q5 q2 s3 2 s,7 ,7 2 ,5 ,6 q1 q7 ,6 ,6. 6 3 5 6
+q1' q7 6 - q3 5 q2 q3 q1 q2 q5 q4 3 - 2. q3 6 q7 q1 q2 2 - 3 q5 2 3 5 ,6 q1 q7 ,6 - 6. 3 5 6 - 1'. q3 q7
+6 - q3 q5 s2 3 q,5 s,6 s1 q,7 ,6 - 3 5 q2 3 q5 s6 q6 2 1 7 6 - 6 - 6 -
+%END

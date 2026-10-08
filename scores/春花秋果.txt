@@ -1,0 +1,18 @@
+%春花秋果.txt
+% 出处 https://www.jp114.com/jianpu/1092151.html
+title=春花秋果
+tag=
+usertag=
+tagroute=
+confidence=0.877
+conf_p10=0.525
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1092151
+%--
+4/4
+subtitle=score
+q1 q,5 q1 q3 5. q5 6 5 q4 q6 5 - 6 4 q6 5 3 q4 q3 q2 1 2 - q1 q,5 q1 q3 5. q5 q3 q2 2 ,6 - q2. q3 q4 q6 q5 1
+q3 q2 1 - 1 0 4 q4 q5 6. q7. q7 q7 q5 6 - q5. q6 q5 q4 q3 q4 q3 q1 2. q3 2 0 3. 4 q5 q6 5. q3 q4 q3 q1 q2 ,6 -
+5. q6 q5 q4 q3 q1 2 1 - 1 0
+%END

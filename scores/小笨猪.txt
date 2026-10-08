@@ -1,0 +1,17 @@
+%小笨猪.txt
+% 出处 https://www.jp114.com/jianpu/1392287.html
+title=小笨猪
+tag=
+usertag=
+tagroute=
+confidence=0.893
+conf_p10=0.500
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1392287
+%--
+2/4
+subtitle=score
+1 - - 1 q4 x q1 x x' 1' x x' x' x 1 5 3. q1 2 q2 q3' 1 2. q1 3 q,6' q1' 2 q5 5' q6' q3 q2 1 2 5 1 q5 5 q6
+q3 q2 1 6 q2' q3' 5 q6 q6 5
+%END

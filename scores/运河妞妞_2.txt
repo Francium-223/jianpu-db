@@ -1,0 +1,21 @@
+%运河妞妞_2.txt
+% 出处 https://www.jp114.com/jianpu/1379676.html
+title=运河妞妞
+tag=
+usertag=
+tagroute=
+confidence=0.965
+conf_p10=0.887
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1379676
+%--
+2/4
+subtitle=score
+qx 1 0 0 7 6 q6 ,x x 4 2' x q1 x 1. 1'. x' s1' s6 s6 s6 s5 s3 s3 s3 s5 s3 s3 s3 s1 s1 q1 s3 s6 s1 s3 s6 s1 s3 s5
+q6 s6 s6 6 s1' s6 s6 s6 q6 q6 q5 s6 s6 0 s1' s6 s6 s6 q6 q6 s2. d3 s3 s3 0 q5 q3 s3 s3 s3 s3 q1 s2 s2 0 s5 s3 s3 s3 q3
+q3 q5 s6 s6 0 q3 q3 q1' q6 ~ 6 - q2 q2 q5 q3 ~ 3 - q,6 s6 s6 s3 s3 s3 s3 q2 s1 s2 0 0 0 0 s5. d6 s5 s6 0 0 0
+s2. d3 s2 s3 0 0 0 0 q5 q2 q6 s5 s3 0 0 q3 q3 q1' q6 ~ 6 - q2 q2 q5 q5 ~ 5 - 0 0 0 0 0 0 0 s5. d6 s5 s6
+0 0 0 s4. d5 s4 s5 q3 s3 s3 s6 s6 s6 s6 q2 s1 s2 0 q5 q2 q1 s6 s6 0 0 q5 q3 q1' q6 s1' s6 s6 s6 s5 s3 s3 s3 q6 q0 s5
+s5 s5 s5 6 0
+%END

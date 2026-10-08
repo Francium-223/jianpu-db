@@ -1,0 +1,22 @@
+%战友兄弟.txt
+% 出处 https://www.jp114.com/jianpu/1215432.html
+title=战友兄弟
+tag=
+usertag=
+tagroute=
+confidence=0.976
+conf_p10=0.963
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1215432
+%--
+4/4
+subtitle=score
+1 0 - 1 x. x' 1' 1. 1. 1' s1' s1' q7 q7 s6 s5 6. q5 q3. s6 q5 s3 s2 3 - s1' s1' q7 q7 s6 s5 6. q5 q,6. q5 s6 s3 2 q0 3
+- 5. q6 q,6 s5 s6 q3 q2 1 - 1 - q,5. s,5 q3 s3 s3 q2 s1 s7 ,6 s,6 q6 s6 s5 s5 q2 3 - q6 s6 s5 q6 q3 q2 s2 s3 s2 s2 s2
+s3 s,6 s5 ,6. q0 q,6. s,6 q3 q3 s2 s3 s7 ,6 q3. s3 q6 q6 s5 s5 q2 3 s6 s6 q5 q6 q3 q2 s2 s3 1 q2 s2 s1 q2 q6 5 - s2 s2 s2
+s3 1 s1 q7 q7 s6 s5 6. q5 q3. s6 q5 s3 s2 3 - q2. s3 q6 q5 q3 s2 s3 s5 s5 q3 q7 q5 - 6 - 6 - q,6. d6 q3 s3 s3 q2 d7
+,6 s6. d6 s6 s6 q5 q2 3 - q6 s6 s5 s6 s3 q0 s2. d2 s2 s3 1 s2. d2 s2 s3 q1 s,6 s,5 ,6 - q6. s6 q3 q3 q2 s1 s7 ,6 s6. d6 s6
+s6 q5 q2 3 - q6 s6 s5 q6 q3 q2 s2 s3 1 q2 s2 s1 q2 q6 5 - s2 s2 s2 s3 1 q7 q7 s6 s5 6. q5 q3. s6 q5 s3 s2 3 - q2.
+s3 q6 q5 q3 s2 s3 5. q3 7 - 7 7 0 5 6 6 - 6 0
+%END

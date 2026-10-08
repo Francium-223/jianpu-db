@@ -1,0 +1,27 @@
+%侧脸_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49067
+title=侧脸
+tag=
+usertag=
+tagroute=
+confidence=0.912
+conf_p10=0.611
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49067
+%--
+4/4
+subtitle=score
+1 - - ,4 1 x x 1 0 - - 6 4 x x x x s,6 s1' s1' s1' s1' q1' q1' q1' q1' q1' q1' s6' s2' s1' s1' s6 s,4 s4' s1' s4' s1' s4' s1'
+s4' s1' s4' s1' s4 s2' s4 s1' s4 s1 s5' s3' s5' s3' s5' s3' s1' s1' s5 s1' q5' q3' q1' q5 s,7 s5' s2' s5' s2' s5' s2' q5 s7 q5 q7 s5' s2' q7 q5 q3
+q3 s1 s,,2 s2' q3. 0 q5 q3 q3 s1 q3. 0 q5 3. q3 s1 q3. 0 q3 q2 q2 s1 s,3 s3' q2. 0 q5 q3 q3 s1 q3. 0 q5 q3. q3 s1 s2' q3. 0 6
+5 5 s3. s6' q5. q0 s5 q7' q1' q1' q7' q1' s1' s1' s7 q7. s5 s6 q7 q7' q1' q7' q1' q1' s1' s2' q2' q3' q7' q1' q7' q1' q7' q1' q1' s2' 3' 0 q5 q5'
+q3' q3' q5 5' 2' q0 qx' q3' q2' q1' q2' q2' q2' s1' q7 q0 q7' q1' q1' q1' q7' q1' s1' s2' q2' q3' 7. q0 q7' q1' q1' s1' s2' q3' q0 q5 q5' q3' 3' 5
+q5' q2' q0 q2' q3' 2' 1' q2' q2' s2' q7 s0 q5' s5' q5' s5' s3' s3' s3' s3' s3' q2' s2' s2' sx' s3' s2' s2' s1' s0 s5' s5' s5' s5' s3' s3' s3' sx' s3' s2'
+s2' s2' s2' s3' q2' q2' s0 s2' q3' s2' q3' s2' q3' s2' s3' q3' q1' qx' q3' q2' q3' s2' q1' - s2' 2' x' 0 0 q5' 5' s5' s5' s3' s3' s3' s2' s3' 2' q2'
+q2' q2' q3' s2' s2' s1' s0 s5' q5' s5' s5' s3' q3' q3' s2' s3' s2' s2' s2' s2' s3' s2' s2' q1' s0 s2' q3' s2' q3' s2' q3' s2' s3' q3' q1' q2' q3' q2' q3' s2'
+s1' 7. s7 x s,6 q1' s1' s1' s1' s1' s1' q1' s1' q6' q1' s6' s2' s1' s6 1' - - - d4 s1' s1' s4' s1' s4' s1' s4' s1' s4' s1' s4' s2' s4' s4 s1 s5'
+s3' s5' q3' q5' q3' s1' s1' s1' s1' s5 s3' s1' s5 2' - - - x. q3' q3' s2' q1' s1' 7 0 x s,6 q1' q1' s1' s1' q1' q1' s1' s1' q1' q1' q6' q2' q1'
+q1' s6 s,4 s4' s1' s4' s1' s4 s1' s4 s1' s4 s1' s4 s2' s4 s1' s4 s1 s5' s3' s5 s3' s5 s3' s5 s1' s5 s1' s5 s3' s5' s1' s5 s,7 s5' s2' q5' q2' s5'
+s2' -
+%END

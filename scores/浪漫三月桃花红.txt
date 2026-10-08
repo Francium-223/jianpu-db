@@ -1,0 +1,21 @@
+%浪漫三月桃花红.txt
+% 出处 https://www.jp114.com/jianpu/1218130.html
+title=浪漫三月桃花红
+tag=
+usertag=
+tagroute=
+confidence=0.972
+conf_p10=0.972
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1218130
+%--
+4/4
+subtitle=score
+1 - - - 1' qx' 1' ,x 5 - - - s6 s1' s6 s5 5 - - 1' 1' - - - s2' s3' s2' s1' 1' - - 5 - - - s6 s1 s6 s5 s3
+s5 s2 s3 s1 s,6 ,5. 1 - - - s2 s3 s2 s1 s1 s6 q5 5 - q5 q3 q5 q6 1 q6 q5 q3 s3 s5 q2 q3 5 - q5 q3 q5 q6 q1 s1 s1
+q6 q5 q3 s3 s3 q5 q1 q3 2. q2. s1 q3 q2 q5. s1 q6 q5 q3. s1 q6 q5 6 - q2. s3 q5 q3 q5 q3 2 q2 s2 s3 s2 s1 q,6 1 - q5 s5
+s3 q5 q6 1 q6 q5 q3 q3 q2 q3 5 - q5 q3 q5 q6 q1 q1 q6 q5 q3 s3 s3 q3 s5 s3 2 - q2. s1 q3 q2 q5. s1 q6 q5 q3. s1 q6 q5
+6 - q2. s3 q5 q3 q5 q3 2 q2 s2 s3 s2 s1 q,6 1 - q5 5 q3 q5. s6 1 q2 s2 s3 q3 s1 s6 5 - q6. s1 q6 q5 q6. s1 q6 q5 q5
+q5 q1 q3 2 - q2. s1 q2 q3 q5. s1 q6 q5
+%END

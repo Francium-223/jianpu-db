@@ -1,0 +1,19 @@
+%兵团农场.txt
+% 出处 https://www.jp114.com/jianpu/1221343.html
+title=兵团农场
+tag=
+usertag=
+tagroute=
+confidence=0.940
+conf_p10=0.732
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1221343
+%--
+4/4
+subtitle=score
+x s1' s1' s1' s1' s1' q1' s1' s1' s1' s1' s2' q1' q3 s1' s1' s1' s1' s1' s1' s1' s1' s5 q5 s5 d5 s5 s3 s3 s3 s1 s2 s2 s2 q1 q1 s5 q1 s1 q1
+q1 s1 s2 1 q5 s5 q3 q1 s1' s1' s3 d2 d3 s2 1 s1' q1' ~ s1' 1' s1' ~ d1' s3 d2 d3 s2 1 x s2 s1 q1 s1 s3 d2 d3 s2 q1 q1 x
+d1 d1 s1 s1 s1 s2 s1. s3 s2 s1 s2 q1 s3 s1' q1' ~ s1' s1' 3 x x s1 s1 s1 q3 s3 s1 d2 s2 1 s1 q1 1 s1 d1 s1' s1' s1' d2 1
+s1' q1' s1' q1' s1' q1' s1' s1' s1' s1' s1' x 3' 1' x x
+%END

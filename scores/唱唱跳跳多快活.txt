@@ -1,0 +1,17 @@
+%唱唱跳跳多快活.txt
+% 出处 https://www.jp114.com/jianpu/1078053.html
+title=唱唱跳跳多快活
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.997
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1078053
+%--
+4/4
+subtitle=score
+1 2 3 4 5 5 5 5 5 5 6 5 4 3 2 2 2 2 2. 2 1 2 3 5 6 6 6 6 6 6 6 6 6 6 5 4 3 2 3 1
+1 1 1 0
+%END

@@ -1,0 +1,21 @@
+%关羽之歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=493
+title=关羽之歌
+tag=
+usertag=
+tagroute=
+confidence=0.931
+conf_p10=0.700
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-493
+%--
+4/4
+subtitle=score
+1 qx qx q4 q1 4 6 q,x' x x x q1 qx x x - - x. x qx - - 1 1 2 x 1. x x x q3 q5 6 - - q5 q3 2 3 -
+5 ,6'. q1' q2' q3 q1 q,7' ,6 - - q,6 q1 2 2' 2 3 - - - 6 - 3' - 3' q2' q6 1' - q7 7 q6 q5 q3 5 6 - - q6 q3 q2
+q2 0 q0 2 q1 2 0 0 q3 q5 q6 3 q2' 1 2 3 0 0 q5'. s3' s5' 6 - 6 2' - - q1' q2' q3 1. q7 q6 5 6 - - - 6. q3
+3 q2 q3 2 q2 q6 1 0 7. q7 7 q6 q7 q6' q3' 5 5 0 6'. q5' 6 - 6 q3' q2'. 1 - 2 2 5 q,7' q2' 3 - - - q2 2 q2 q2
+q1 q2 q3 q5 1 s1' s7' ,6 0 q5 5 q5 q5 q3 q5 q6 q1' 1' s1' s7 6 q6 q1' 2' - - q2' q2' q3' 1'. q6 5. 3. q2 3 5 - 6 1' -
+2' - - - 1' - 7 - 6 - - - 6 - - - 6 - - - 6 0 0 1 x q1
+%END

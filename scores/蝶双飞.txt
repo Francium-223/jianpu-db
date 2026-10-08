@@ -1,0 +1,23 @@
+%蝶双飞.txt
+% 出处 https://www.jp114.com/jianpu/1215292.html
+title=蝶双飞
+tag=
+usertag=
+tagroute=
+confidence=0.929
+conf_p10=0.728
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1215292
+%--
+4/4
+subtitle=score
+s3' s2' s7 s6' s1' - - s3' s2' s7 s6 s7' 7' - 2 1. q3 2 5 3 - - q3' q5' 7' - 6' - 5'. q4' q6 q1' q3' q2' q1' q4 1' - 1' q2'
+q7 q5 7 6 - - - q6 q3 q6 q7 1' - 6 q3' 2' q1' q7 6. q5 3 - q2 q3 q1 q2 3 q6 q5 3 - - q3 q5 6 - 2' 5' 3'. 2'
+- q2' q6 q1' q3' 2' 6 7 - - - 1' 6 q3' 2' q7 6. q5 3 - q2 q3 q1 q2 3 q6 q5 3 - - q3 q5 6 - 2' 5' qx 3'. 2' -
+q2' q3' q2' 6 1' 7 - - q2' q5 3 5 - q6 q7 6 - - - 3' 5' 6' - 7'. q6' 2' - q3' q6' q6' q5' 3' x q2' q5' 3' - - - 6
+1' q2' 3'. 5'. q3' 2' - q2' q3' q2' q5' 6' 7' 6' - - - q1' q7 q1' q2' 3' - q1' q7 q1' q3' 7' - q2' q1' q6' q1' 6' - q6' q5' q3' q5' 2'
+- q1 q,7 q1 q2 3 6 3 - 2 - q3' q2' q4 1' 7 6 - - - q2' q3' q2' q5' 6' 1' 7' - - - 3' 5' 6' - 7'. q6' 5' - q3' q6'
+q6' q5' 3' x q2' q5' 3'. s2' 7 - 6 1' q2' 3'. q3' q3' q2' q1' q3' q4 2' 1' - - q3' 2' q7 q4 2' ,x' 5' - 5' 1' - 7. 2' 7' q1'. q7
+q1 q5 1' s1 - 6 1' 6' d,1 ,x' d,x' - s0 q6 6' x 0 - q0 q1' 0 0
+%END

@@ -1,0 +1,16 @@
+%我的小城_3.txt
+% 出处 https://www.jp114.com/jianpu/1216741.html
+title=我的小城
+tag=
+usertag=
+tagroute=
+confidence=0.992
+conf_p10=0.995
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1216741
+%--
+4/4
+subtitle=score
+1 1 3 - - 1 1 1 1 3 1 x - 1 3 1 3 q3 2 1 1 1 1 1 - - -
+%END

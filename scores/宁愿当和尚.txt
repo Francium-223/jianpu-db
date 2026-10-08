@@ -1,0 +1,20 @@
+%宁愿当和尚.txt
+% 出处 https://www.jp114.com/jianpu/1221703.html
+title=宁愿当和尚
+tag=
+usertag=
+tagroute=
+confidence=0.968
+conf_p10=0.970
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1221703
+%--
+4/4
+subtitle=score
+1 - - 1. x' x 1 x x q3 s2 s1 s,6 s1 s2 s3 q1 1 q1 s,6 s,5 s,3 s,5 s,6 s1 q,5 ,5 q,6 s,5 s,3 s,5 s,6 s1 s2 q3 3 s5 s3 s2 s1
+s,6 s1 s2 s3 q1 1. q,5 q,5 s,5 s,5 s,5 s,5 q,5 q,5 s,5 s,5 s,5 s,5 q5 ~ q5 q3 q2 ~ 2 - q3 q3 q2 q1 1 - q1 s2 s2 s3 s2 q3 ~ 3
+- q1 ~ q1 q,6 q,5 ,5 - q3 s2 s1 s,6 s1 s2 s3 q1 1. q1 s,6 s,5 s,3 s,5 s,6 s1 q,5 ,5 q,6 s,5 s,3 s,5 s,6 s1 s2 q3 3. s5 s3 s2 s1 s,6
+s1 s2 s3 1 - q,5 q,5 s,5 s,5 s,5 s,5 q,5 q,5 s,5 s,5 s,5 s,5 q5 q5 q3 q2 2 - q3 q3 q2 q1 1 - q1 s2 s2 s3 s2 q3 3 - q1 q1 q,6
+q,5 ,5 - q1 q1 q,6 q,5 ,5 - q,5 ,5. q,5 ,5. q,6 q1 q,6 q,5 q,3 q,6 ,5 q1 q2 q3 q3 q3 s2 s1 2 q3 s2 s1 d6 s1 s2 s3 q1 q,5 q1 q0
+%END

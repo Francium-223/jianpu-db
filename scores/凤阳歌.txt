@@ -1,0 +1,18 @@
+%凤阳歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=44825
+title=凤阳歌
+tag=
+usertag=
+tagroute=
+confidence=0.931
+conf_p10=0.549
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-44825
+%--
+4/4
+subtitle=score
+q5 q3 2 q3 5 - 3 q5 6 q1' 5 - 5 5 q1' 6 q5 q3 q2 q5 q3 q2 1 - 1 1 ,6 5 q5 q3 q2 2 q2 q3 5 - q5 5 q1' 6
+q5 3 q2 5 3 q2 1 - 5 q5 3 q2 q1 2 3 q5 q2 q1 q,6 q2 1 - 5 3 2 1 ,6 1 5 q3 2 q1 q,6 1 5 1 5 1 5 1
+5 1 1 q1 q,6 q2 q1 q1 1 q,6 1 - x x q,1 q1 - q1 q,x - x.
+%END

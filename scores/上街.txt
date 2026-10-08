@@ -1,0 +1,16 @@
+%上街.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48384
+title=上街
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.998
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48384
+%--
+2/4
+subtitle=score
+5 5 5 5 6 3 5 5 3 2 5 3 1 2 2 3 2 1 2 5 3 2 3 2 3 2 1 0
+%END

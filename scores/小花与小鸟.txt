@@ -1,0 +1,22 @@
+%小花与小鸟.txt
+% 出处 https://www.jp114.com/jianpu/1090801.html
+title=小花与小鸟
+tag=
+usertag=
+tagroute=
+confidence=0.939
+conf_p10=0.750
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1090801
+%--
+4/4
+subtitle=score
+1 x 4 4 qx - - 1 1 1 1 x 6 - 7. q2' 1' 7 q6 6 3 q6 6 q1' 6 q2 q4 3 - - - 1. x 7 x x x x x x
+x x x x x x x x x ,x q3 q6 6 6 3 2 2 q3 q6 q6 q6 q3 q2 2 3 3 3 1 q7 q6 5 x 6 - - - ,6 1 2 3.
+q5 3 q,6 1 q2 q3. q5 3 ,6 1 2 3. q6 q2 q4 3 - - - 3 6 q5 q3 q2 2 q3 6 q5 q3 q2 2 q3 6' q5 q3 q1 2 3' ,6 -
+- - q,6 1 2 3 - 3 6 q5 3 - q,6 1 2 3 - 3 6 5 2 - 3 - 6. q1 6 3 ,2 s3 q2 1 1. 2 3 7 5 6 - -
+- 6 - 7. 2 1 q7 q6 6 3 q6 6 q1 6 2 q4 x x x x x ~ x x x x x x x' ~ x' x 1 x x x ,x 3 - -
+- 3 6 6 6 3 2 2 q3 6 6 6 3 2 2 3 3 3 q1 q7 q6 5 6 - - - 3 6 6 6 q3 q2 2 3 6 q6 q6 q3 q2 2
+3. 3 3 1' 7 6 5 - 6' - - - 6 - - -
+%END

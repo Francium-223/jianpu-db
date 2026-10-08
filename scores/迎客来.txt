@@ -1,0 +1,21 @@
+%迎客来.txt
+% 出处 https://www.jp114.com/jianpu/1217605.html
+title=迎客来
+tag=
+usertag=
+tagroute=
+confidence=0.964
+conf_p10=0.907
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1217605
+%--
+4/4
+subtitle=score
+- - q1 - x 1 x 2 q2 s3 s5 s,6 s,7 s1 s2 s3 s4 q5. s6 q1 s2 s1 s6 s1 q6 q5 s6 s5 3 - qx - - 1 0 4. x. x q3 q5
+q6 q1' 2' 3' q1' q2' 1' 6 - q2. s3 6 q2 q3 6 q5 q3 q6 s5 s3 2 2 q5. s6 2' q5 q6 2' q1' q6 q2' s1' s6 6 6 q2 s2 s3 6 q2
+s2 s3 2 q5. s3 q6 s5 s3 2 2 q2 s2 s3 6 q2 s2 s3 2 q5 q3 q6 s5 s3 q2 q2 0 q2 s2 s3 6 q2 s2 s3 2 q5. s3 q6 s5 s3 5
+6 q2 s2 s3 6'. q2 s2 s3 2 q5 q3 q6 s5 s3 q2 q2 0 q2 s2 s3 6'. q2 s2 s3 2 q5. s3 q6 s5 s3 5 6 q2 s2 s3 6 q2 s2 s3 2
+q5 q3 q6 s5 s3 q2 q2 0 6 5 - q0 s3 s3 q3. s1 s2 s3 q2 2. s2 s5 q3. s,6 s1 s2 q2 1 - s,5 s,6 s1 s3 q2 s0 s3 x q1 q2' q1'
+q2 q1' ~ 1' - x
+%END

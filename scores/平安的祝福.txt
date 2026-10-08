@@ -1,0 +1,18 @@
+%平安的祝福.txt
+% 出处 https://www.jp114.com/jianpu/896204.html
+title=平安的祝福
+tag=
+usertag=
+tagroute=
+confidence=0.946
+conf_p10=0.693
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-896204
+%--
+4/4
+subtitle=score
+qx 1 q1. q1. q7 7 0 q0 4 x 1 x 1. 1 q3 q5 q6. s7 5 - q6 q5 q3 q2 1 - q2 q1 q2 q3 q5 q6 5 q2 q1 s3' 2 - q3 5
+q6 5 q5 q6 s5 s6 q3 q2 1 - q,6 q1 q2 q3 q5'. s6' 5 q3 2 q,6 1 - 0 0 0 0 q3 q5 q3' q2' qx' 1' - 2' q2' s3' q7 q6 5 -
+q6 q5 q6 q5 q6 3 q6 3' q1' 2' - q3 q5 q3' 2' 1'. q1' q2' 3' q7 6 - 5. q3 q5 q6 3 q2 s2 s3 q5 q2 q2 q1 1
+%END

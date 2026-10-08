@@ -1,0 +1,18 @@
+%我跟爷爷学儿歌.txt
+% 出处 https://www.jp114.com/jianpu/877548.html
+title=我跟爷爷学儿歌
+tag=
+usertag=
+tagroute=
+confidence=0.962
+conf_p10=0.935
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-877548
+%--
+2/4
+subtitle=score
+1 1 2 x x 5 5 6 6 5 5 6 q5 q3 q2 q3 q5 q3 q2 q3 q1 q1 q1 q0 q3 q3 q2 q3 q1 q2 q1 q,6 ,5. s6 ,5 0 q1 q1 q,6 q1
+q5 q6 q5 q1 2. q3 2 0 3 3 2 3 5 - 6 q5 q6 q3 q2 1 q,6 q1 q2 q3 q2 q1 ,6 ,5. s6 ,5 0 q,6 q1 q2 q3 q2 q1 ,6 1. q2
+1 0
+%END

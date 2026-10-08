@@ -1,0 +1,17 @@
+%我爱雪莲花.txt
+% 出处 https://www.jp114.com/jianpu/1297713.html
+title=我爱雪莲花
+tag=
+usertag=
+tagroute=
+confidence=0.933
+conf_p10=0.623
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1297713
+%--
+4/4
+subtitle=score
+x q5 q5 s6 s5 s6 s7 q3 q0 q2 s2 s3 q2 q7 s3 s5 q0 x q2' q2 q7 s7 q2 q7 q0 q5 q5 q6 q5 q3 q0 q2 s2 s3' q2 s7 - q5 q6 3
+0 q6 7 2 - -
+%END

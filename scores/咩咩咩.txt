@@ -1,0 +1,16 @@
+%咩咩咩.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48477
+title=咩咩咩
+tag=
+usertag=
+tagroute=
+confidence=0.947
+conf_p10=0.697
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48477
+%--
+2/4
+subtitle=score
+q5 q5 2 1 1 ,5 2 q5 2 5 3 2 1 2 3 1 2 5 3 5 3. q2 5 2 5 3 2 1 q2 q1 q6 q1 ,5 3 q1 2 2
+%END

@@ -1,0 +1,22 @@
+%你只在乎他.txt
+% 出处 https://www.jp114.com/jianpu/942211.html
+title=你只在乎他
+tag=
+usertag=
+tagroute=
+confidence=0.986
+conf_p10=0.986
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-942211
+%--
+4/4
+subtitle=score
+- - q3 q5 6 q3 q5 6 q3 q5 q6 q5 q3 q2 3 q,6 q1 2 q,6 q1 2 q,6 q1 q2 q1 q2 q5 3 - q0 q2 q2 q3 6 q3 q3 q5 q3 q2 q3
+1 q,6 q,7 q1 q1 q1 q3 q2 q5 q1 q,7 ,6 - 0 q3 q5 6 q3 q5 6 q3 q5 q6 q5 q3 q2 3 q,6 q1 2 q,6 q1 2 q,6 q1 q2 q1 q2 q5 3
+- q0 q2 q2 q3 6 q3 q3 q5 q3 q2 q3 1 q,6 q,7 q1 q1 q1 q3 q2 q5 q1 q,7 q,6 q,6 ~ ,6 0 q3 q5 q6 q5 q6 q3' q2' 2' q5 q6 q1' s1'
+s6 6 q3 q5 q6 q5 q6 q1' q7 q6 q5 q2 3 - - q3 q5 q6 q5 q6 q3' q2' 2' q5 q6 q1' s1' s6 6 q3 q5 q6 q5 q1' q1' q7 q6 q5 q3 6
+- - q3 q5 q6 q5 q1' q1' q3' q2' 2' q5 q6 q1' s1' s6 6 q3 q5 q6 q5 q6 q1' q7 q6 q5 q6 q3 q3 ~ 3 - q3 q5 q6 q5 q6 q1' q3' q2'
+2' q5 q6 q2' s1' s6 6 q3 q5 q6 q5 q6 q1' q3' q2' q1' q1' - x s1 q1 q1 2 q1 s1 q1 s1 q1 2 q1 q2 3 - s3 s3 q2. q1 q1 q3 2
+,5 q,5 q1 s3 s2 s1 q1 s1 q1 q3 q2 s5 q3 q5 q6 q6 6 - s1 q2 3' 2' q2' q1' s3 s5 s2 s3 q2 s1 s1
+%END

@@ -1,0 +1,22 @@
+%心有灵犀.txt
+% 出处 https://www.jp114.com/jianpu/1345583.html
+title=心有灵犀
+tag=
+usertag=
+tagroute=
+confidence=0.948
+conf_p10=0.696
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1345583
+%--
+3/4
+subtitle=score
+1 - - x 1' 1 x' x x. x x ,,x. x x 6 3 3 2 q3 q2 2 q1 q2 3 2 q1 q7 ,6 - - 0 6 3 3 2 5 5 q7 q6 q5
+q6 q5 3 - - ,,4 3 4 q3 q2 3 7 q6 q5 q6 q5 q1 2 3 - - q4 q3 4 1 q1 7 1' 6 0 6 6 q5 q1' q7 q6 q5 7 6 6
+- - x 3 5 3 3 q6 3 q6 q3 q3 q2 q3 q5 3 - - q6 q3 q3 q2 q3 q5 3 - - 2 2 2 2 q2 q2 q2 q2 q1 q2 3 4 3
+q4 3 3 0 0 6 3 3 q2 q3 q5 q5 q3 3 - 6 3 3 q2 q3 q1' q1' 1' - 7 7 7 7 7 1' 2' 2 q1' q7 q7 q6 6 - 6 -
+0 0 3 q4 q3 q4 3 - - 0 0 0 1 0 0 0 6 q5 5 - q7 q7 q7 6 - 6 - - 1. x 7 - ,,6 q7 - q7 q6 7 - q6
+,5 6 - q6 q5 5 - q6 q7 1 - 7 6 7 - q6 q5 6 - q6 q5 5 - - 6 - q6 q7 q1 s2 s1' 7 1' 2' q1' q2 6 - q6 q7
+q1 s2 q1 q7 q1 2 q3 s2 q1 2 6 - - 6 - - 6 1 0
+%END

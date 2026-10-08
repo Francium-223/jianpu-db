@@ -1,0 +1,24 @@
+%冰雪梅花.txt
+% 出处 https://www.jp114.com/jianpu/1466367.html
+title=冰雪梅花
+tag=
+usertag=
+tagroute=
+confidence=0.956
+conf_p10=0.848
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1466367
+%--
+4/4
+subtitle=score
+- - - qx ,1' - x 1 6 3' - - q1' 7 5 - - - - - 3 - - - 3' - - - 2' - - - - 7 - 6 - - q0 s6
+s7 3 s3 q7 q6 s5 s6 q7 6 - - q0 s6 s7 q3 q3' s2' 2' - s5 s3 s5 s6 q2' s7 6 s6 s5 q6 s2' s3' 2' s2' q3' s7 s7 ~ q7 s2' s3'
+2'. s1' s7 6 - - q0 s6 s7 3 s3 q7 q6 s5 s6 q7 6 - - q0 s6 s7 q3 s2' s3' s2' 2' - s5 s3 s5 s6 q2' s7 6. s6 s5 q6 1' s2'
+s3' 2' s1' s2' s2' s3' s7 s7 ~ q7 s2' s3' 2'. q5 6 - - q0 s1' s2' 3' 6 s2' s3' s2' s1' 2' s7 s7 s7 s2' q2' s7 6. s6 s7 q6 s2' s3' s2'
+2' s2' s3' s5' s5' s5' s5' q3' q2'. 3' s2' s3' s6 s7 6 q5 6 s1' s2' 3' 6 s2' s3' s2' 2' s7 s7 s7 s2' q2' s7 6 s6 s7 1' q6 3' q2' q1' s6
+s2' s3' s2' 2'. s2' s3' s5' s5' s5' s5' s3' s5' s3' s2' q2'. 3' s2' s3' s1' 6 q5'. 6 - 6 - 0 0 7 5 - - 5 q6 q6 q5 q5 q4 3 - -
+q3 q3' q2' q3' s2' s2' s3' 6 - 5 - q3 q2' s2' s1' 6 - 7 s6 s7 6 - - q0 s6 s7 s6 s1' 6 q5'. 6 s1' s2' 3' 6 s2' s3' s2' s1' 2'
+s7 s7 s7 s2' q2' s7 6. s6 s7 s6 s2' s3' s2' 2' s2' s3' s5' s5' s5' s5' s3' s5' s3' s2' q2'. 3' s2' s3' s6 6 q5 6. s2' s3' s6 s1' q6 ~ 6 -
+5 6 - - - 6 0 0 0 x x
+%END

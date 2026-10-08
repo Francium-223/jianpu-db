@@ -1,0 +1,19 @@
+%布谷在叫.txt
+% 出处 https://www.jp114.com/jianpu/1305673.html
+title=布谷在叫
+tag=
+usertag=
+tagroute=
+confidence=0.985
+conf_p10=0.991
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1305673
+%--
+5/8
+subtitle=score
+1 - - 1 x. x 3' s3' s4' s5' s3' s2' s1' q3' q0 s2' s3' s4' s3' s2' s1' q2' q0 s1' s2' q3' q2' 1' q7 q1' s1' s1' q1' q5 s1' s1' q1' x q1' q5
+q6 q5 q0 q3' q1' q2' q1' q0 q6 q6 q7 q7 q0 q2' q1' q6 q5 q0 q3 q4 q5 q6 q0 q6 q7 q1' q2' q0 6 q6 q4 q6 q6 1 q1 7 q5 3. 3 q0
+6 q6 q4 q6 q6 1 q1 7 q5 2. 2 q0 s3 s4 q5 q3 q3 q1 q0 s4 s5 q6 q4 q4' q2' q0 s3 s4 q5 q6 q7 q0 q1' q2' q0 q3' 4'. 4' q0 q1'
+q5 q6 q5 q0 q3' q1' q2' q1' q0 q5 q3 q5 6 q4' q3'. s1' q2' 1'. 3' q3' 2' q3' 1'. 1' q0
+%END

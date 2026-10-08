@@ -1,0 +1,18 @@
+%滑滑梯.txt
+% 出处 https://www.jp114.com/jianpu/1304813.html
+title=滑滑梯
+tag=
+usertag=
+tagroute=
+confidence=0.997
+conf_p10=0.992
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1304813
+%--
+2/4
+subtitle=score
+q5 q4 q3 q4 q5 q5 q6 q5 4 q4 s3 q2 s3 q4 q4 q5 q4 3 q5 q4 3 q4 q3 2 s5 s4 s3 s4 q3 q2 q1 q1 q1 0 q5 q3 3 q4 q2 2
+q3 q1 1 q2 q,5 ,5 q1 q2 3 q2 q3 4 q3 q4 5 q4 q3 2 q5 q3 3 q4 q2 2 q3 q1 1 q2 q,5 ,5 q1 q2 3 q2 q3 4 q3 q4 5 q4
+q2 1 6 q6 6 - 5. q5 5 - q5 q4 q3 q5 4 2 1 - 1 -
+%END

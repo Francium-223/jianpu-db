@@ -1,0 +1,18 @@
+%阿凡提和孩子.txt
+% 出处 https://www.jp114.com/jianpu/1410449.html
+title=阿凡提和孩子
+tag=
+usertag=
+tagroute=
+confidence=0.955
+conf_p10=0.929
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1410449
+%--
+3/4
+subtitle=score
+5 7 1 2 3 4 5 5 6 0 5 4 6 5 5 7 1 2 q3 q,4 q5 q5 4 q0 q5 q4 q3 2 - - q1 q2 3 3 4. q5 q4 q2 x. x
+1 s1 x' 3 0 0 0 0 0 q2 q3 2 1 q1 ,7. q2 ,6 ,5 - - ,5 - - q6 6 6 5. q7 6 5. q4 q5 q7 6 - - q4 q5 4 3
+q1 q7 q1 2 - - 0 0 0 6 6 6 5. q7 6 4. q3 q4 q5 6 - - q5 q7 5 4 q3 q,4 3 1 2. q3 q2 1 1 - -
+%END

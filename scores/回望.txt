@@ -1,0 +1,19 @@
+%回望.txt
+% 出处 https://www.jp114.com/jianpu/1398169.html
+title=回望
+tag=
+usertag=
+tagroute=
+confidence=0.983
+conf_p10=0.950
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1398169
+%--
+4/4
+subtitle=score
+q,5. s1 s1 q,6 s,5 q5 s6 s5 5 q2 s2 s3 s1 q,6 s,5 ,5 - q,5. s1 s1 q,6 s,5 q5 s6 s5 5 q2 s2 s1 s0 s,6 s2 s3 2 - q3 s3 s3 q2 s3
+s5 q1 ,6. q2 q2 q2 s3 s5 s1 ,5 ,6. q,5. s1 s1 q,6 s,5 q5 s6 s5 5 q2 s3 s5 s1 q,6 s,5 1 - - - 1 - s3 q5 s3 q5 q6. 1 - s6
+q2 s3 s1 q6 s3 q6 5. q,5. s1 s1 6 s,5 q5 s6 s5 5 q2 s3 s5 q1 s6 s,5 s2 s3 2. s3 q5 s3 q5 q6. 1 - s6 q2 s3 q2 q1 6 - q,5.
+s1 s1 q,6 s,5 q5 s6 s5 5 q2 s3 s5 s1 q,6 s,5 1 - - - 1 - 5 - 6 q0 - - - 0 0 0
+%END

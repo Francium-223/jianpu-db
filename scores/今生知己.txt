@@ -1,0 +1,21 @@
+%今生知己.txt
+% 出处 https://www.jp114.com/jianpu/1529610.html
+title=今生知己
+tag=
+usertag=
+tagroute=
+confidence=0.970
+conf_p10=0.924
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1529610
+%--
+4/4
+subtitle=score
+q0 s5 s3 q5. s6 q1'. s6 s6 s5 q5 q0 s3 s5 s6 s6 s6 q6. s5 s3 s2 q2 q0 s2 s3 q5 q5 q5 6 q1' q2' q6 q5 q3 q2 1 6 q1 q2 q2 q2
+q3 5 q5 q3 q2 2 1. 0 q5 q3 q5. s6 s1' s6 s5 s6 q5. ~ q5 s3 s5 s6 s6 s6 q6 s5 s3 s3 q2. ~ q2 s2 s3 q5 q5 q5 q6 q2' q6 q5
+q3 q2 1 6 q1 q2 q2 q2 q3 5 q5 q3 q2 2 1. 0 1' q2' s3' q3' s2' s3' s2' s6 s6 q5. q0 s3 s5 s6 s6 s6 s2' s6 s5 s6 q5. q0 s2 s3
+q5. q6 q2' q3' q2' q5 q6 q6 q2' q2' q2' q3' q3' q2' q2' q3' q2'. q2' q1' q2' s3 q3 s2 s3 s2 s1 s6 s6 q5. q0 s3 s5 s6 s6 s6 s1 q2 s1 s6 s6
+q5. q0 s2 s3 q5. q6 q2' q3' q2' q5 q6 q6 q2' q2' q2' q3' q2' q2' q2' q3' q2'. q2' q6 q1' s2' s2' s2' s3' s2' s1' s1' s6 1' - x q2' q6 - - 0
+0
+%END

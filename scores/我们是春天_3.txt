@@ -1,0 +1,19 @@
+%我们是春天_3.txt
+% 出处 https://www.jp114.com/jianpu/1293026.html
+title=我们是春天
+tag=
+usertag=
+tagroute=
+confidence=0.924
+conf_p10=0.677
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1293026
+%--
+4/4
+subtitle=score
+x 2 0 0 3 x x x x 1 - - - 4 - - - 0 7 - - - 7 - - - q1 s5 s5 q5 q1 q5 q3 1 q2 s2 s2 q2 q5 1
+,5 q5 s5 s5 q5 q6 q5 3 1 q4 q4 q4 q6 5 - q5 q5 q5 q5 6 5 q3 1 q4 q4 q4 q3 2 - q3 3 q4 5 1 4 3 4 5 6 -
+7 q7. s7 q6 5. 2 4. q4 3 5. 7 q7. s7 q6 5. 2 q4. q4 q3 1. 7 - 6 5 q2 q4 q3 q2 q1 s0 q3 q,5 x x 1 - 6 6 7 1
+6 - 6 6. q6 5 ,7 1 q2 1. 1 - q,,x'. 5 q5 q5 q5 q5 q5 q5 qx q5 q5 q5 q5 5 5 5 6
+%END

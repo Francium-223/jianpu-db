@@ -1,0 +1,20 @@
+%没有你哪有我.txt
+% 出处 https://www.jp114.com/jianpu/1334485.html
+title=没有你哪有我
+tag=
+usertag=
+tagroute=
+confidence=0.957
+conf_p10=0.892
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1334485
+%--
+4/4
+subtitle=score
+1 - - - - - 1 ,x x x q4 5 q6 q6 q6 q6 q6 q5 q4 3 5 4 2 q2 q2 q5 q5 q4 q3 2 1 - - s1' 2 s3' s4' x 5 q5
+q5 5 4 4 q2 2 2 q1 q2 q3 q0 5 5 5 5 q4 q4 q2 q2 2 2 q2 5 0 2. x x x. 1 1' q1' q1' 7 q6 q6 q5 q5 5 q4 q5
+q6 q0 5 1' q5 q4 3 q2 q2 q5 q5 q4 q3 q2 q2 1 - - 4. 5 1' 7. 6 - - 5 3 4' 3' 2 - - q4 q5 q6 q6 q6 q6 q6 q6
+q5 q4 3 5 4 2 q4 q5 q6 q6 q6 q6 q5 q4 3 4 5 - q5 1 q5 q5 4 q3 q4 3 q4 2 - q2 q2 q5 q5 q4 q3 2 1 - - x
+4 5. 2 2 5 5 6 6 7 1' - - - 0 0 0
+%END

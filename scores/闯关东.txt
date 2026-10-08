@@ -1,0 +1,19 @@
+%闯关东.txt
+% 出处 https://www.jp114.com/jianpu/1221526.html
+title=闯关东
+tag=
+usertag=
+tagroute=
+confidence=0.976
+conf_p10=0.951
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1221526
+%--
+4/4
+subtitle=score
+q7 q6 q6. q5 q4 q1 q1 q5 5 - q7 s6 q6. s5 q1 3. 2 q1 q,7 1 - - - x q,5 q,5 q,5 q,6 q1 q2 q2 q,6 q,6 ,5 ,6 ,5 - 3 s3 s5
+q5 3 6. q5 q4 q5 q3 q3 2 q1 2 - 2 q2 3 5 5 3 q6 q6 q3 q2 1. q7 q,6 q,5 ,6. s1 q2 q2 q2 q5 q5 q,6 0 ,5. s,6' ,5 - 6
+6 q6 5 6 q6 q5 q6 q5 q3 q6 5 - q5 q5 q5 3 q3 q2 q1 q,6 2. 2 - q5. s5 q5 q3 q2 q3 q3 q2 1. q,7 ,6 ,5 q,6. s1 q,6 q1 q,6
+q,5. q,4 q,3 ,5 - - - 2 q2 q1 q,6 ,5.
+%END

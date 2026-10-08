@@ -1,0 +1,16 @@
+%月儿歌.txt
+% 出处 https://www.jp114.com/jianpu/900389.html
+title=月儿歌
+tag=
+usertag=
+tagroute=
+confidence=0.958
+conf_p10=0.504
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-900389
+%--
+4/4
+subtitle=score
+2 1 q1 q2 q1 q2 x 1 2 1 q1 q2
+%END

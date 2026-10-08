@@ -1,0 +1,19 @@
+%妈妈教我唱歌曲.txt
+% 出处 https://www.jp114.com/jianpu/1088670.html
+title=妈妈教我唱歌曲
+tag=
+usertag=
+tagroute=
+confidence=0.971
+conf_p10=0.937
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1088670
+%--
+4/4
+subtitle=score
+1 - - q2 1'. x' x q3' s3' s2' 1' q3 q5 6 q2' s2' s1' 7 q6 s5 s6 2 q6 q6 q5 q3 q2 q1 2 q7 q7 q6 q5 q6 q2' 1' q3' q3' q3' q2'
+q1' q7 6 q7 q1' q2' q1' q3' q2' 1' s5' s3' s3' s2' 1' s6 s1' s6 s1' 2' s2' s1' s2' s1' 7 s6 s5 s6' s3' 2 s5 s6 s1' s6 2' s2' ~ s2' s1' s7
+6 s5 s6 q1' s1' s7 q6 s5 s6 s3' s2' 1' s3' s5' s2' s3' 5' s3' s5' s3' s2' 1' s6 s1' s5 s6 s3' s2' s1' s2' 3' - s3' s5' s2' s3' 5' s3' s5' s3'
+s2' s6 s1' s5 s6 s3' s2' s1' s2' 1' q0 x
+%END

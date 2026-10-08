@@ -1,0 +1,17 @@
+%呷金呷.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48286
+title=呷金呷
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.996
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48286
+%--
+2/4
+subtitle=score
+2 3 2 1 0 3 2 1 5 5. 1 1 2 3 2. q1 2 - 2. 1 5 5. 1 1 3 2 1 0 3 2. 1 5 5. 1 1 2 1 2 0 3
+2 1 0 5 5. 1 1 5 q3 2. 3 2 1 5 5. 1 q1 q2 q3 q2 q0 q1 q2 q1 q5 q5. 1
+%END

@@ -1,0 +1,25 @@
+%最远的你最近的爱.txt
+% 出处 https://www.jp114.com/jianpu/1217739.html
+title=最远的你最近的爱
+tag=
+usertag=
+tagroute=
+confidence=0.959
+conf_p10=0.898
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1217739
+%--
+4/4
+subtitle=score
+1 - - q1 qx 0 0 - x' x x x q3 q5 6 - - q5 q3 2 q2 q3 1 1 6 s6 s1 s6 s3 2 q4 q6 5 - - q3 q5 6 - -
+- x q3 q6 q1' s6' s1' 6 - q5 s6 sx' q7' s5' s3' 3 - q2 s2 s2 q2' q3' q1' s6' q1'. s6 q7 s6 s7' ~ q7' q5'. 6' - 6' sx sx q0 q,6 s3
+s3 s1' s2 s3 s5' 3 - q5 5' s6' s2' s3 q1' 2 - q1 s1 s1' ~ q1' d6' d5' q2'. s3' 2 q,5 s,6 s,6 s2' s3 s1 s,6' ,6 s,6' s,7' 1 - - s5' s6
+s5 s3' 3 - - q0 s,6' s1' 2 q2 s1' s,6' ,6 q3' q1' s5 s2' s3' s6' 3' 7 - - - q3' s6 s5' q6 s1' s2' 1'. s6 s1' q2' q1' q6 s5' s6' q5 3.
+q3 6' q5' q3' s1 s2' q2. s2 q1 s6' s1' s2' s3' s6 s5 q2 3. q3' s6 s5' q6 s1' s2' 1' s6 s1' q2' q1' s7 s6 s5 s6 5 - q1. s1 q1 s,6 s,6 s3'
+s2 s1 s2' q2. s2 x' q3 q,7 5 ,7 s5' s,7 s3' s,3 3 ,3 s3 s3 s5 s2 s5' s2 s6' s3 6 3 - qx q0 s2 3' - - - 3 - - q0 q,5 ,6
+- - - ,6 - - - x. 3 - - - q3 s6 s5 q6 s1 s2 1 s6 s1 q2' q1' q6 s5' s6' q5 3. q3 6 q5 q3' s1 s2' q2. s2 q1 s6' s1' s2'
+s3' s6 s5 q2 3. q3' s6 s5' q6 s1' s2' 1' s6 s1' q2' q1' s7' s6 s5' s6 5 - q1. s1 q1 s6 s6 s3' s2 s1 s2' q2. s2 3 5 5' 3' 3 3 5
+5' 6' 6 3 5 5' 3' 3' q,7 ,7 s,7 s,3 ,3 s3 s2 s2 s3 3 - - - q1. s1 q1 s,6 s,6 s3 s2 s1 s2 q2. s2 q,7 ,7 s,7 s,3 ,7 - 7 -
+s3 s2 s2 s3 3 - - - 3 - - 0
+%END

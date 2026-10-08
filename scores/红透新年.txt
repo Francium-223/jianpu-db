@@ -1,0 +1,21 @@
+%红透新年.txt
+% 出处 https://www.jp114.com/jianpu/1217722.html
+title=红透新年
+tag=
+usertag=
+tagroute=
+confidence=0.944
+conf_p10=0.761
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1217722
+%--
+4/4
+subtitle=score
+x 5 5 s5 s5 s5 s5 q5 q5 q5 q5 q5 q2 q2 q2 q5 q5 q5 q5 q5 s4 s5 q6 q5 q5' q1' sx' s1' q6 q5 5 q0 q2 q2 q1 q1 6 ,5 q0 6
+q1 q2 s4 s5 q6 q5 q5 q5 q5 q5 q5 q5 q5 5 q0 s1 s2 q4 q,6 ,5 x 5 x q2 q2 5 q6 q5 5 - 5 - 2 x 1 x q,6 q1 2' 2'
+2' q2' q2' q2' q2' qx' q2' q1' q2' q2' 0 0 6 q5 q2 2 - 2 - 0 0 5 x q2 q1 ,6 q,5 q,6 ,6 - ,6 - 2 5 ,7 q,7 q1 2 q1 q2
+2 - qx q2' 2 s5' s5' s5' s5' q4' q5' s0 0 sx' 0 s0 q5 q0 1 1 x 5 ~ 5 1 2 5 - 5 - 6 5 4 q4 q5 2 q1 q2 2 -
+5 x q3 q2 1 2 6 q,5 ,6 ,6 1 5 x 2 6 q6 q5 4 5 5 - 1'. 5 q2' - 6. q6 6 5 4 q5 q2 2 - 2 q5 q5 2 q5 q5
+6. q2' q6 2'. q2' 2' q2' 1' x q5 5 - 5 - 5 - 2'. q2' 2' - 2' - 2' q2' 1' x q5 5 - 5 - 5 - 5 - 5 0 1' 1.
+%END

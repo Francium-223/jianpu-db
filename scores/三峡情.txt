@@ -1,0 +1,21 @@
+%三峡情.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=44752
+title=三峡情
+tag=
+usertag=
+tagroute=
+confidence=0.965
+conf_p10=0.945
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-44752
+%--
+2/4
+subtitle=score
+x ,6 q,6 q,3 s5 q,6 s6 q,6 q,3 ,6 ,6 ,3 s5 ,6 s6 q,6 ,3 x 1' 1'. q6 6. s3 s6 1'. q6 6 - 7 q7. s6 6 s7 s6 q5 q3 q3. q2 q2 s1
+s6 ,6 - 2. s1 s6 2. s1 q2 x 6 6 3 5 6 6 6 3 x q3. s2 q2 s1 d6 ,6 - 0 0 3 q3 q2 q1 s1 q6 ,6. 3 q3 s2 q1 s1
+s6 ,6. 3 q6 7 6 s7 s6 5 3 3. q2 q2 s1 q6 ,6 - s6 q2 s2 q2 s1 s6 s6 q2 s2 2 s1 q3 s3 q3 q2 q1 s1 q3 s3 3 s3 q5 s5
+q5 q3 s3 q5 s5 5 s3 q6 s6 q6 q3 6 q1. 6 q7 7. 7 - 1' q7 s6 s5 q6 1' q6 1' q7 s6 s5 q6 6. q7. s6 q6 s5 q3 q2 3 q2 q3.
+s2 q2 s1 s6 q,6 2. 3 q6 q7 q6 s7 s6 q5 q3 3. s2 q2 s1 s6 ,6 - 2. s1 q6 ,6. 0 3. s2 s1 ,6. q0 3 q6 q7 q6 s7 s6 q5 q3 q3.
+q2 q2 s1 6 ,6 - 2. s1 s6 ,6. q0 3. s2 s1 ,6. q0 6. q6 x 6 - 6 - 6 0 ,x ,x
+%END

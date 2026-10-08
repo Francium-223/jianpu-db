@@ -1,0 +1,21 @@
+%依然在一起.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47314
+title=依然在一起
+tag=
+usertag=
+tagroute=
+confidence=0.995
+conf_p10=0.994
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47314
+%--
+4/4
+subtitle=score
+q0 s6 s1 q1 s1 s1 s1 q1. q7 q5 q2 q3 3 - - q0 s6 s1 q1 s1 s1 s1 q1. q7 q5 q7 s6 s6 6 - - q0 s6 s1 q1 s1 s1 s1 q1. q7
+q5 2 3 - - q0 s6 s1 q1 s1 s1 s1 q1 s2 q7 q5 q7 q6 6 - q1 q2 q3 q2 s3 s3 q6. s3 s2 s2 s2 s0 q7 s7 s1 s2 s5 s5 q3 s5
+s2 s2 s1 s2 s1 s7 s1 s0 s6 q6 s7 1 s0 s6 s1 s2 2 s0 s1 q2 3 3 - - q1 q2 s3 s2 q3 s2 q3 s6 s3 3 s0 q6 q7 s1 s2 s1
+s2 s1 q2 q5 s2 s2 q3. q3 s1 s2 s3' s2' s3' s2' q3' s6' s3' ~ 3' s0 s6' s5' s3' q2'. s3 ~ 3 - q1' q2'. s3' q3'. 3' - - x 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 q0 s3 s6 s7 s1 s2 q3 s3 s2 s2 s3 s3 s3 q3. s3 s6 s7 s1' s2' s3 s2 s1 s7 s2 s1 s7 s6 q6. s3 s6
+s7 s1 s2 q3 s3 s2 s2 s3 s3 s3 3 q3 s4 s5 s4 s3 s2 s2 s2 s2 s1 q1 3 q1 q2
+%END

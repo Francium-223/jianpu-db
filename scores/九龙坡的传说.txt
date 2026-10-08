@@ -1,0 +1,16 @@
+%九龙坡的传说.txt
+% 出处 https://www.jp114.com/jianpu/1216973.html
+title=九龙坡的传说
+tag=
+usertag=
+tagroute=
+confidence=0.996
+conf_p10=0.944
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1216973
+%--
+4/4
+subtitle=score
+x s1. d1 s1 s1 s1 s1 s1 s1 1 5 3 2 d1 s1 s3 s5 s3 s5 -
+%END

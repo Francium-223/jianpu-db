@@ -1,0 +1,20 @@
+%唱吧，跳吧_2.txt
+% 出处 https://www.jp114.com/jianpu/1315761.html
+title=唱吧，跳吧
+tag=
+usertag=
+tagroute=
+confidence=0.893
+conf_p10=0.541
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1315761
+%--
+2/4
+subtitle=score
+s1 q1 q7 q7 q1 q3 q2 q2' q4 s1' s1 s1 1' 3 7 7 4 1 6 6 1 6 4' 4 1' 6 3 5 6 1 5 q6 q5 7 1 q2 6 4 q3 q,1'
+q2' q1' 5 x x ,1 2 3 2 4 7 ,1 1 1 1 1 ,1 1 1 1 1 x 2 1 q5 q6' q6 1 2 q5 q6 q1 2 q5 q6' q6 1 2 5' 6
+1 2 ,5 ,6 1 2 ,5 ,6 ,6 5 6' 4'. 4 3 4 - - 3 4 5 6 5 4 3 5 6 4 5 3 3 4 5 0 5 4 3 q5 6 4 5
+3 - q4 5 6 1 7 6 5 q7 q1 q7 6 5 - 4 5 6 7 5 7 1' 7 6 5 q1. 1' - 6 7' 5 6 7 4 5 6 q3 4 5 2
+3 4 q1 q2 q3 2 4 7 1 q1. q0 ,5' ,5 1' 1 0 1 0 5' 1' - 1' - 1' x 0 5 5 1' x 0
+%END

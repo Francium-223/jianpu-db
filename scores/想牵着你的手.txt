@@ -1,0 +1,20 @@
+%想牵着你的手.txt
+% 出处 https://www.jp114.com/jianpu/1339546.html
+title=想牵着你的手
+tag=
+usertag=
+tagroute=
+confidence=0.981
+conf_p10=0.990
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1339546
+%--
+2/4
+subtitle=score
+- - 1 x 1 1' x x x s6 s5 q6 6 s2 q3 3 q2 s2 q6 q4 3 - q2 s3 s2 q2 s6 s2 s1 q2 3 q2 s2 s3 s5 s6 q3 s2 s1 ,6
+q1 ,6 s5 s3 q6 s5 s6 3 q2 3 s2 s3 s2 s7 ,6 q1 q1 s1 q1 q,6 q5 s4 s3 q5 s6 s5 3 - 3 - q1 6 s5 s6 q5 s4 s3 2 s2 s3
+3 s2 s3 q1 s2 s7 ,6 q3. s5 q5 q3 6 - q2. s3 q1 s2 s7 ,6 - 6 - 6 - s6 s5 q6 6 s1 s2 q3 3 q2 s3 s2 q1 q7 6 - s6
+s5 q6 6 s1 s2 q3 3 q2 s1 s2 q6 q4 3 - q2 s3 s2 q2 s6 s2 s1 q2 3 q3 s2 s3 s5 s6 q3 2 - q2 s3 s2 q2 s6 q6 s4 s3 2
+s2 s1 ,6 ,6 - 6 q4 q3 2 - q2' 6 6 - 6 - 6 - 6 0
+%END

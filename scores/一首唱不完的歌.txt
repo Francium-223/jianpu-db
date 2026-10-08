@@ -1,0 +1,17 @@
+%一首唱不完的歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48377
+title=一首唱不完的歌
+tag=
+usertag=
+tagroute=
+confidence=0.992
+conf_p10=0.997
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48377
+%--
+2/4
+subtitle=score
+5 - 5 2 q3 2 1 2 2 2 2 ,7 1 5 5 q5 5 5 5 2 5 2 2 1 1 6 ,5 2 2 1 2 5 3 2 2 3 1 6 2 2
+2 1 2 5 3 2 2 3 1 q,6 2 5 - 5 2. 3 2 2 1 ,5 0
+%END

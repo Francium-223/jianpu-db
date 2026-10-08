@@ -1,0 +1,17 @@
+%三天.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49576
+title=三天
+tag=
+usertag=
+tagroute=
+confidence=0.903
+conf_p10=0.527
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49576
+%--
+2/4
+subtitle=score
+1 - - 2 1' ,,1. x' x x' x q6 q6 q3 q3 6 q6 3 3 6 6 7 5 5 4 3 x 4 q5 6. q5 1 q4 3 3 5 6 3 6 5 3
+1 ,6 2 2 3 1 1 q,7 ,6 ,7 q1 q2 q1 q,7 ,6 q,6
+%END

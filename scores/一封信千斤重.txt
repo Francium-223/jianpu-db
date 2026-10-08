@@ -1,0 +1,19 @@
+%一封信千斤重.txt
+% 出处 https://www.jp114.com/jianpu/822958.html
+title=一封信千斤重
+tag=
+usertag=
+tagroute=
+confidence=0.949
+conf_p10=0.816
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-822958
+%--
+4/4
+subtitle=score
+1 - - ,1 x x x x x q6. q1 q5 q6 q4 q3 q2 q3 5. 6 3 q1 2 q3 5 7 3 5. 6 7' q6 q7' q7 6 5 2' 3 q5 7 q7 6
+5 q6 2 7 7 7 3 5 2. q1 0 q7 0 6 x 6 5 1 7 3' q,,5 3 5 ,6. 0 ,6 x 1 1 1' 5 6' q0 2 q3 2' 6 q7' 3. q5
+2 ,,1 q2 6 7 6 x 3. 5 2 1 7 6 q5 0 0 q5 x 3 ,2' 3 1 2' 6 7' 6 q5 q7 2 q5 3 2 7 - 0 ,7' 7 6 7' 5
+6' 7 ,3 ,5 6 x 6 7 x 3. 5 2 1 6 5 x x 6 7 q6. s7 6 5 ,4 ,5' 2 7 6' q5 3' 5 q6' 1 1. 1 1. 1 6 x.
+%END

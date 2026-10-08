@@ -1,0 +1,20 @@
+%美丽的家园.txt
+% 出处 https://www.jp114.com/jianpu/1218531.html
+title=美丽的家园
+tag=
+usertag=
+tagroute=
+confidence=0.992
+conf_p10=0.995
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1218531
+%--
+4/4
+subtitle=score
+q3 q3 q6 q6 q6 q7 q5 s6 s7 6 - - - q7 s6 s7 q5 s6 s7 q6 q2 q5 qx q4 3 - - - q5 s5 s5 q3 q5 q6 q6 q1 s2 s3 2 -
+- - q3 q3 q1 s2 s3 q2 s5 s5 q1 s7 s6 6 - - - q3 q3 q6 q6 q6 q7 q5 s6 s7 6 - - - q7 s6 s7 q5 s6 s7 q6 q2 q5 q4
+3 - - - q5 q5 q3 q5 q6 q6 q1 s2 s3 2 - - - q3 s3 s3 q1 s2 s3 q2 q5 q1 s7 s6 6 - - - 0 0 0 0 6. q7 6 -
+6 q2 q4 3 - 6. q3 2. q1 q7 q7 q7 q5 3 - 6. q7 6 - 6 q2' q4' 3' - 6. q3' 2'. q1' q7 s7 s7 q7 q5 6 - - - q7 q7 7
+- 5 6 - - - 6 - - - 6 0 0 0
+%END

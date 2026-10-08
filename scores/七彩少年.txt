@@ -1,0 +1,18 @@
+%七彩少年.txt
+% 出处 https://www.jp114.com/jianpu/1096152.html
+title=七彩少年
+tag=
+usertag=
+tagroute=
+confidence=0.997
+conf_p10=0.996
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1096152
+%--
+4/4
+subtitle=score
+6 6 5 6 3 5 - 1 1 1 6 6 6 5 6 3 2 - - 6 6 5 6 1 3 - 1 1 1 1 6 6 5 6 3 2 3 1 - 0
+5 3' 5 3 3 6 5 6 5 - 3 3 5 5 6. 2 6 3' 1 2 3 5 6 1 1 6 2 2 2. 1 6 7 5 6 7 2 0 1 - 0
+1 - -
+%END

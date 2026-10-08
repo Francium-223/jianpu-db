@@ -1,0 +1,21 @@
+%晴雯歌.txt
+% 出处 https://www.jp114.com/jianpu/1214510.html
+title=晴雯歌
+tag=
+usertag=
+tagroute=
+confidence=0.994
+conf_p10=0.985
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1214510
+%--
+4/4
+subtitle=score
+1 - q7 q6 q3 q5 6 - - - 3 q6. s1 q6 q5 q3 q2 q3 q5 2 - q2 q3 5 5 0 q3 q2 q3 q5 1 0 q,5 q,6 q,7 q,6 q2 q3 q,5 q,6
+q,7 q2 ,6 - - q,5 q,6 q,7 q,6 q2 q3 q,5 q,6 q2 q3 1 - - - 6. q1 q6 q5 q3 q2 1. q3 q2 q3 1 0 q3 q5 q2 q3 q,6 q1 2 - -
+q2 q3 q5 q3 5 - q3 q5 6. q1 q5 q6 q5 q2 3 - - q,7 q2 ,6 ,6 0 q,7 q,6 q,7 q2 ,5 0 q,5 q,6 1. q2 3 q6 q1 5. q6 q7 q6 s7
+s2 q7 6 - - q2 q3 5 5 0 q3 q2 q3 q5 1 - q,5 q,6 q,7 q,6 q2 q3 q,5 q,6 q,7 q2 ,6 - - q,5 q,6 q,7 q,6 q2 q3 q,5 q,6 q2 q3 1
+- - - 1 - q7 q6 q3 q5 6 6 - - 3 q6. s1 q6 q5 q3 q2 q3 q5 2 - q2 q3 5 5 0 q3 q2 q3 q5 1 0 q,5 q,6 q,7 q,6 q2
+q3 q,5 q,6 q,7 q2 ,6 - - q,5 q,6 q,7 q,6 q2 q3 q,5 q,6 q2 q3 1 - - - 5 3 q5 q3 5 6 - - - 6 - - - 6 0 0 0
+%END

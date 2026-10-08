@@ -1,0 +1,18 @@
+%吉祥的哈达.txt
+% 出处 https://www.jp114.com/jianpu/858998.html
+title=吉祥的哈达
+tag=
+usertag=
+tagroute=
+confidence=0.815
+conf_p10=0.493
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-858998
+%--
+4/4
+subtitle=score
+1 1 4 - x qx' 1' x 1' - sx' d2' s2'. s1'. s2' s2' - - s1' s1'. d2 d2' d2' s1' s6'. x x s6' 0 s6. 0 s,,2. s,2 - 1 - d2'. sx s2. 0
+- - 0 s5' q,3 s2. s6 s1 0 s2 s6 s,2. x 6 6 s0 s6'. d2 q2. d2' q6' s0 s,3'. q0 d2'. ~ d2 s2 - - s6. s2'. s2'. d2' - s0 q6 s2' s6. d2.
+s2. s2 s1 d2 q2. 0 0 s1' 0 0 d2 1 - - s3. s6' qx - -
+%END

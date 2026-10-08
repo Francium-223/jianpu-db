@@ -1,0 +1,17 @@
+%实验新星.txt
+% 出处 https://www.jp114.com/jianpu/1084437.html
+title=实验新星
+tag=
+usertag=
+tagroute=
+confidence=0.955
+conf_p10=0.868
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1084437
+%--
+4/4
+subtitle=score
+1 2 x 4 5 5 0 0 q2 6 5 - 5 q5 3' q2' 0 7 0 6 s6. s6 q5 6 q5 q3 0 q3 - 3 q2 q7. s2' q7 6 - q6 q5 q4 q3
+0 - 2 4 q4 6 q7 q5 q7 q2' - 0 q3' 3' s7' q2' q7 5 6 4 q4 6 q7. 2' q5 3' q7 s2' q3' - 0 x.
+%END

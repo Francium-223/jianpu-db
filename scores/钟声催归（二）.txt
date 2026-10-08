@@ -1,0 +1,18 @@
+%钟声催归（二）.txt
+% 出处 https://www.jp114.com/jianpu/1217513.html
+title=钟声催归（二）
+tag=
+usertag=
+tagroute=
+confidence=0.950
+conf_p10=0.862
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1217513
+%--
+4/4
+subtitle=score
+- - - x 1 x x - - - 0 q2 q3 q1 q2 q,6 q,5 q,6 d5 q0 s6 0 q1 q,6. q,5' s6' s1 q0 q2 q3 ,1 1 q2. s3 q1 q2 ,5. q,5 q,7 ,7
+q,5 1 q,5 q1 q,6 ,5 q5 q4 s5 s4 q3 q2 s3 s2 s1 s6 s5 s3 q,5 s5 s2 s5 s3 s2 s3 q1 s1 s5 s1 s2 q,6 q,5 s0 s2 s2 s2 s1 s6 q,5 s1
+s6 q1 s2 s3 q1 s0 s3 s3 s3 q2 q2 q1 q2 q,6 q0 s1 q,6 s1 q2 q3 q5 q3 q2 q5 q5 q2 q3 q2 q1 s2 s3 s2 s1 q,6 ,5 -
+%END

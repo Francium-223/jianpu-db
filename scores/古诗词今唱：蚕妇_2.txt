@@ -1,0 +1,17 @@
+%古诗词今唱：蚕妇_2.txt
+% 出处 https://www.jp114.com/jianpu/1068973.html
+title=古诗词今唱：蚕妇
+tag=
+usertag=
+tagroute=
+confidence=0.990
+conf_p10=0.971
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1068973
+%--
+4/4
+subtitle=score
+x ,6 3 3 1 ,6. q,5 ,3 ,6 1 1 ,5 ,6 ,6 3 3 1 ,6. ,5 ,3 ,6 1 1 ,5 ,6 ,6 3 3 1 ,6. ,5 ,3 ,6 1 1 ,5 ,6 3 q6 6
+q5 3 1 ,6 5 2 3 ,6 3 3 1 ,6. ,5 ,3 ,6 q1 q1 ,5 ,6 ,6 q1 1 q,5 ,6
+%END

@@ -1,0 +1,20 @@
+%懒孩子.txt
+% 出处 https://www.jp114.com/jianpu/1477207.html
+title=懒孩子
+tag=
+usertag=
+tagroute=
+confidence=0.991
+conf_p10=0.986
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1477207
+%--
+4/4
+subtitle=score
+1'. q2' q1' q2' q1' q6 5. q6 q5 q2 5 q2 q2 q5 q5 q1 q2 q1 q,5 1 - - 2 q2 q2 q2 q5 1 q,7 q,6 ,5 - - - 5 2 q1'. s2' q7 q6
+5 - - 2 1' q5 q1' q4 2 5 - - - 5 1' - q5 q6 4 2 5 - 2 5 q2 q3 q2 q,6 ,5 - - - ,5 1 - 2 5 q2 q3 q2
+q5 q1 q0 5 q2 q3 q2 q1 ,5 1 - - q2 q0 5 q6 q1' 5 4. q2 5 - 2 5 q5 q6 q5 q2 5 1' 2 5 q5 q6 q5 q0 q1' ~ 1' q6
+q5 q6 q2 q0 q2 q2 q2 q5 q2 q3 q2 q,5 1 - - 2 q2 q2 q2 q5 q2 q3 q2 q,6 ,5 - - - q2 q2 q2 q5 q4 q5 6 5 - - - 5
+- - 0
+%END

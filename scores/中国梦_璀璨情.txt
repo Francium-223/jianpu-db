@@ -1,0 +1,20 @@
+%中国梦_璀璨情.txt
+% 出处 https://www.jp114.com/jianpu/1087636.html
+title=中国梦 璀璨情
+tag=
+usertag=
+tagroute=
+confidence=0.932
+conf_p10=0.738
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1087636
+%--
+4/4
+subtitle=score
+1 - - 4 4 x x x 0 x x' 1' x x 3 q5 q6 6 - q6 q5 q3 q6 5 - q5 q6 q5 q3 q,6 q,5 q2 q3 1 - - - x 1 q,5
+q,5 q,6 q1' ,5 q1 s2 s3 q6' 5 - q5 q6 q3 q2 q3 q2' q1 s,6 s,5 q3 s1 q2 - 3 s3 q5 q6 s5 q3 s2 s1 q3 q3 q2 ,6 1 6 5 q3 q5
+q3 q1 q2 q,6' 1 q1 q2 q3 q1 2 q1 q2 q3 q1 2 q2 q3' q5 q6' q3 q5 q3 q2' q,6 6 q3 5 - 5 q6 5 - 1 q5 q2' 3 - 3 q5 q1
+q2 q,6 q,5 q1 q2 q3 q1' 2 - 3 q5 q6' 6 q6 q5 q3' q6' 5 - q5 q6' 3 q1 q2 q3' q5' 2 - - - 3 q5 q6' 6 q6 q3 5 - s5 s6
+q5 q3' s,6 q,5 s2 q3' q1 - - -
+%END

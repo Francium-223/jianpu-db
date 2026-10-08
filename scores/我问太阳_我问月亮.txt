@@ -1,0 +1,20 @@
+%我问太阳_我问月亮.txt
+% 出处 https://www.jp114.com/jianpu/1071354.html
+title=我问太阳 我问月亮
+tag=
+usertag=
+tagroute=
+confidence=0.971
+conf_p10=0.905
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1071354
+%--
+4/4
+subtitle=score
+x q5. q5 q5 q5 q6 5. q5 q4 q3 q5 2. q2 q3 4 q3 q4 5 q5 q,5 q3 q2 1 0 x ,5 5 q5 3. 5 3 q6 5. 3. q3 q2 3 q1 ,5 -
+- - ,5 q1 q1 3 6 5. q4 3 - 3 q,6 q,6 3. q1 2 - - - q5. 5 q5 q5 q6 5. q5 q4 q3 q5 2. q2 q3 4 q3 q4 5 q5 6 q5
+3 - 2. 4 3 2 1 - - - x. x 5. ~ 5 5 6 5 - 5 6 5. 6 ~ 6 ~ 6 6 6 5 6 3 3 q5 q1 q,6 q3 2 - q5.
+5 q5 q6 5 - q5 5 q6 5. q6 6 6 q6 q6 q5 q6 q3 q3 q5 q1 q,6 q3 2 - 1 5 6 7 5 - 5. 6 7 5 - - - x 5. ~
+5 0 x 1
+%END

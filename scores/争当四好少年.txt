@@ -1,0 +1,20 @@
+%争当四好少年.txt
+% 出处 https://www.jp114.com/jianpu/1408929.html
+title=争当四好少年
+tag=
+usertag=
+tagroute=
+confidence=0.977
+conf_p10=0.953
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1408929
+%--
+1/4
+subtitle=score
+x q5. s5 1' q2' 3'. 5 - 5 q3. q3 6 q6 q7 6. q5 3 - 3 q6 q5 q2. 2 q2 q3 1 q,5. 5 1 q1 q2 3. q5 2 q1 q2 3 3 q5 q2
+3 q1 ,5 - ,5 q,6. s6 2 q2 q3 6. 5 q3 q5 6 q6 q5 6 q2 3 - 3 q,5. q5 1 q1 q2 3. q5 2 q1 q2 3 q3 q5 2' q5 6 - 6
+5. q5 5 6. 5 3 2 3 q5 5 3 6 q2 q3 1 - 1 0 q5 5 q3 7 q6 q5 1' - - 1' 0 1' q5. q5 q2' 0 q3. q3 q6 q7 6 0
+q1. q1 q5 q6 3 0 0 0 5. q5 q1' 2' 0 q3. q3 q6 q7 6 0 1. q1 5 6 q6 6 5 2 1 5 - 5 0 2 3 1 - 1 q5. q5 3
+q2 3 ,7 ,5 2 - 2 0 ,7 ,5 1 - 1 0
+%END

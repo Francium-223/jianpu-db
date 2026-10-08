@@ -1,0 +1,17 @@
+%茉莉花开.txt
+% 出处 https://www.jp114.com/jianpu/1215708.html
+title=茉莉花开
+tag=
+usertag=
+tagroute=
+confidence=0.899
+conf_p10=0.383
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1215708
+%--
+4/4
+subtitle=score
+1 - - - 5 1 - x - - - - - - - - - - - - - - - - - - q2 q1 2 - q2 q3 q,3 q,5 1 q1 2 2 q2 q1
+1 - - - 1 - - - - - - - - - - - - - - - - - - - - - - - - x
+%END

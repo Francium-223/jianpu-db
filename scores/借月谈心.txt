@@ -1,0 +1,20 @@
+%借月谈心.txt
+% 出处 https://www.jp114.com/jianpu/829249.html
+title=借月谈心
+tag=
+usertag=
+tagroute=
+confidence=0.993
+conf_p10=0.995
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-829249
+%--
+4/4
+subtitle=score
+q3 s6 s6 q5 s6 s7 6 - q5 q6 s6 q7 s5 3 - q3 s6 s6 q5 q3 s2 s3 2. q5 s3 s3 s2 q3 s5 ,6 - q3 s6 s6 q5 s6 s7 6 - q5
+q6 s6 q7 s5' 3 - q3 q6 q5 q3 s2 s3 1 s2 s2 s2 s3 s5 s3 s3 s5 6 - q6 s3' s3' q1' q6 s2' s3' 2' q1' 7. s5 s6 6 - q6 q3' q1'
+q6 s2' s3' 2' q1' 7. s5 s6 3 - q6 q6 q6. s5 3 q5 q6 ~ s6 q1 s2 s3 q2 2 q2. s3 q5 q3 q5 q6 0 q2' s2' s3' q7 s5 s7 6 - q3
+s6 s6 q6 s6 s1' q6 6. q3 s6 s6 q6 s6 s1' q2 2. q1. s6 q1 q2 q3. s5 3 6. s3 s5 3 - q6 q6 q6. s5 3 q5 q1. s6 q1 s2 s3 q2 2.
+q2. s3 q5 q3 q5 q6 0 q2' s2' s3' q7 s5 s7 6 - q2. s3 q5 q3 q5 6 2' q2' q3' q7 q6 q5 q7' 6 - - - 6 - 0 0
+%END

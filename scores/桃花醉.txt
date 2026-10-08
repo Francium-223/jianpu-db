@@ -1,0 +1,20 @@
+%桃花醉.txt
+% 出处 https://www.jp114.com/jianpu/1215886.html
+title=桃花醉
+tag=
+usertag=
+tagroute=
+confidence=0.995
+conf_p10=0.996
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1215886
+%--
+4/4
+subtitle=score
+q0 q6 q5 q6 3 6 q0 q6 q5 q6 3'. - - 0 2 q0 q2 q5 q2 3 - 2 q3 q1 1 - q0 q6 q5 q6 3 6 q0 q6 q5 q6 3 2 q0 q2
+q1 q2 1 3 - 7 - 1 - 2 - 2 - q0 q6 q5 q6 1 - 2 - 2 - 0 q1 q7 6 - - q0 s5 s7 3 - - q1 q7 6 - -
+q0 s5 s7 6 - q0 q5 q1 q3 3 5 - q0 s6 s7 3 - - q2 q1 6 - 5. q3 6 - - q1 q7 6 - - q0 s5 s7 6 - - q1 q7
+6 - - q0 s5 s7 6 - q0 q5 q1 q3 3' - - q0 s6 s7 3 - - q2' q1' 6 - 5. q3 6 - - - 6 - q0 q6 q5 q6 1 - 2
+- 2 - - -
+%END

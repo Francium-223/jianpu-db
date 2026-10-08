@@ -1,0 +1,18 @@
+%英台眼力不一般.txt
+% 出处 https://www.jp114.com/jianpu/1218665.html
+title=英台眼力不一般
+tag=
+usertag=
+tagroute=
+confidence=0.970
+conf_p10=0.960
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1218665
+%--
+4/4
+subtitle=score
+q5 q3 q5 q6 q1' s2'. s2' q6 q5 q5 s5 s6 q5 q1 2 - s6 q1 ,5 q1 s6 s1 2 q5 q6 q5 q2 3 - q5 q3 q5 q6 q1' s1'. s2' q6 q5 q5 s5
+s6 q5 q1 2 - q,6 q1 ,5 q1 s6 s1 q2 q6 q5 q3 s2 s1 s2 s3 1 - s1' s2' q6 q5 q5 3. q3 q5 s6 s5 s6 s1' 5 - q2. s3 5 q6 s1'
+s1' q6 q5 q5 s5 s6 q5 q1 2 - s1' s2' q6 q5 q5 3. q3. s5 s6 s5 s1' ~ s1' 5 - q2. s3 5 q6 s1' q6 q5 q5 q2 q3 q2 1 -
+%END

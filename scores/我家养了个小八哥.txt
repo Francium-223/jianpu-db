@@ -1,0 +1,20 @@
+%我家养了个小八哥.txt
+% 出处 https://www.jp114.com/jianpu/1487640.html
+title=我家养了个小八哥
+tag=
+usertag=
+tagroute=
+confidence=0.985
+conf_p10=0.964
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1487640
+%--
+2/4
+subtitle=score
+x 3 6 3 6 3 6 6 3 6 3 6 3 q6 6 2 2 1 2 q3 6 3 2 q2 q3 q5 q6 ,7 ,6 6 q6 ,6 ,6 ,6 ,6 ,6 x ,6 ,6 2
+q2 q2 2 q2 q3 ,6 2 q5 q5 3 1 1 q2 q3 2 3 3 6 6 5 6 q7 6 2 2 5 3 2 s1 q7 ,6 3 3 5 7 6 q5 s5 q2 q3
+q4 3 0 q2 s3 4 3 0 2 2 5 3 2 3 q5 q6 ,7 q,6 0 q5 q6 ,7 ,6 0 3 q3 q3 6 3 6 7 q5 q6 3 6 0 q5 q6 3 6
+0 2 2 5 3 2 3 q1 q2 ,7 ,6 0 1 2 ,7 ,6 0 3 3 3 6 6 7 7 5 3 7 7 5 6 3 6 - 7 7 7 5 3 7 7
+7 5 3 3 7 7 5 3 7 7 5 3 7. 7 5 6 7 6 -
+%END

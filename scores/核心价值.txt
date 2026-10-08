@@ -1,0 +1,18 @@
+%核心价值.txt
+% 出处 https://www.jp114.com/jianpu/954692.html
+title=核心价值
+tag=
+usertag=
+tagroute=
+confidence=0.942
+conf_p10=0.756
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-954692
+%--
+4/4
+subtitle=score
+3 q5 q5 q5 s5 s6 5 3 2 q1 q1 3 - - - 3 5 5' 6 5 3 2 1 2 - - 1 2 3 3 3 2 3 5 3 q5' 5' 7 6 -
+q,1' 6 5' 5' 3 2 s1 q2 2 2 ,,6 - 1. q1' 6 5' 5' 3 2 1 2. 2 2 6 - - - - q2' 3' q2' q3 - q6 6 q5 q6 q5 q1 3
+2 - 3 - 6 - - 2'. 5 - - - 1. - - - - 2. 2'. q2' 2' 3' 1' - - - 1' - - - 1' 0
+%END

@@ -1,0 +1,20 @@
+%驾起飞船去航天.txt
+% 出处 https://www.jp114.com/jianpu/1303536.html
+title=驾起飞船去航天
+tag=
+usertag=
+tagroute=
+confidence=0.968
+conf_p10=0.863
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1303536
+%--
+2/4
+subtitle=score
+1 0 0 q,2 x x s3 s5 q6 q5 q6 5 q1 s6 s1 q5 q3 q1 q3 2 s3 s2 q1 2 q3 q5 6 q5 s5 s6 q5 q3 q5 s5 s6 q5 q3 x 0 q2
+5 s3 s2 1 - x 5 5 q3 q6 5 q2 3 q2 1 - s3 s2 s3 s2 1 x q1' s1' q6 q5 x 0 x 0 q2 3 q1 2 - s6 s5 s3 s1 2
+x 5 5 q3 q6 5 q6 q5 6 - s7 s6 s5 s7 6 x q6 q5 q3' 2' q3 5 - s2 s1 s2 s3 5 x 1' s5' s6 q1 1 q2' 3 q6' q5' 6 -
+q5 s6 q5 q3 2 q2' q3 1 - 2 q2 q3 5 q6' s3 s5 q6 q5 q1' q6 5 q1 s6 s1 q5 q3 q1 q3 2 s3 s2 2 q3 q5 6 q5 s5 s6 q5 q3
+q5 s5 s6 q5 q3 2 3 5 x s5 s6 q1' q5 x s5' s6 q1 1' q2' 3 q6 q5' 6' - q5 s6 q5 q3 5 - 6 7' -
+%END

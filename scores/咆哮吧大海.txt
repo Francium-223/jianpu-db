@@ -1,0 +1,21 @@
+%咆哮吧大海.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49640
+title=咆哮吧大海
+tag=
+usertag=
+tagroute=
+confidence=0.958
+conf_p10=0.881
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49640
+%--
+4/4
+subtitle=score
+0 1 1. ,x x 0 0 q1 q1 s,7. s6 2 - - - 0 6 - 5 4 4 3 - - - 0 5 - q3 q1 ,7 2 - - 2 - - 1 q,7 ,6
+- - - 0 0 1 ,7 q,6 2 - - - 0 6 - 5 4 3 - - - 0 5 - q3 q1 ,7 2 - - 2 - - q1 q,7 ,6 - - - 6
+- 5 - 4 - 3 3 - 2 - 1 1 2' 2 q1 1 1 ,7 2 q2 q2 q1 q,7 1 q1 ,6 - - - 0 0 0 s0 ,6 ,7 1 0 0 q0 ,6'
+,7' q3 1 1 0 0 ,6 ,6 q,7' q,5' ,3 - - 1 1 0 0 0 q,7 q1 2 - - 3 q4 3 - - q1 q2 3 - - q0 ,6 q7 1 0 0 q0
+q,6 s7 1 1 q0 0 ,6 ,6 ,7 q,5 ,3 - - 1 0 0 0 ,7 1 2 - - q3 q4 3 - - q1 q,7 ,6 - - - 3 - - q0 q1 q,7 ,6
+- - 0 q1 s,7 ,6 - - q0 q1 q,7 ,6 - - 0 1 ,7 ,6 - - -
+%END

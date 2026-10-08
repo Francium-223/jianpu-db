@@ -1,0 +1,19 @@
+%去寻觅那春天故乡.txt
+% 出处 https://www.jp114.com/jianpu/1411472.html
+title=去寻觅那春天故乡
+tag=
+usertag=
+tagroute=
+confidence=0.992
+conf_p10=0.991
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1411472
+%--
+4/4
+subtitle=score
+x 0 ,5 5 0 ,5 q6 1 2 3 6 5 0 ,5 q6 1 2 3 6 5 ,5 ,6 1 3 2 1 1 0 1 1 x 0 ,5 1 ,7 q2 1 ,7 q2 1
+,5 ,5 3 2 4 3 2. 4 3. 1 5 x q3 6. 5 4 3 5. 4 3 2 1 3 ,6 2. q3 2 3 2 3 ,5 0 5 ,7 1 4 1. q6 2 4
+0 1. 7 6 1 3 2 0 4 q1 q6 q1 q4 q0 1. 7 6 1 6 5 0 6 q5 q4. q3 q2 q1 ,7 6 1 2 6 0 5 5 5 6 5. q3 6
+5 3 2 1. 6 3 5 1 0 5. 1 0
+%END

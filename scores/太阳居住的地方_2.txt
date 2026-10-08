@@ -1,0 +1,17 @@
+%太阳居住的地方_2.txt
+% 出处 https://www.jp114.com/jianpu/960654.html
+title=太阳居住的地方
+tag=
+usertag=
+tagroute=
+confidence=0.975
+conf_p10=0.916
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-960654
+%--
+2/4
+subtitle=score
+,6 1 1 q6 1 2 3 3 2 1 2 2 2 ,6 1 1 0 3 5 5 3 5 6 6 1 1. 6 5 5 0 3 3 2 1 1 2 2 1 6 1
+0 0 q2' q2' q2' q3' q2' 2' 3' q5 2' 2' qx' 1' 1' 0 2. q2 2 3 3. 2 3 2. 2 2. 2
+%END

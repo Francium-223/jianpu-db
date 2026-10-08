@@ -1,0 +1,20 @@
+%我想听你说.txt
+% 出处 https://www.jp114.com/jianpu/1271645.html
+title=我想听你说
+tag=
+usertag=
+tagroute=
+confidence=0.971
+conf_p10=0.968
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1271645
+%--
+4/4
+subtitle=score
+- q0 q,4 ,,x ,x 1' q,6 ,6 q,6 q3 q3 q3 q2 q3 ,6 - - - q1 q1 q1 s1 s1 q2 q2 q2 q1 q2 3 - - - 3. q3 q6 6 q3 q3 q1 2.
+q3 q3 q2 q3 1 q2 q3 - - - q,6 ,6 q,6 q3 s3 s3 q2 q3 ,6 - - - q1 s1 s1 q1 q1 q2 s2 s2 q1 q2 3 - - - 3. q3 q6 6
+q3 q3 q3 q1 2. q3 q3 q2 q3 ,5 ,6 - - - q3 q6 q6 q5 6. q3 q5 6 - q2 s2 s2 q2 q6 s5 s5 s5 s5 q5 q6 3 - - q0 q3 q6
+q6 q6 q1. s1 q6 2' - - q0 q1 q5 q5 q5 q5 q3 6 - - - q3 q6 q6 q5 6. q3 q5 6 - q2 q2 s2 s2 s2 s6 q5 s5 s5 q5 q6 3
+- - - q6 q6 q6 s6 q1. s1 q6 2' - - q0 q1 q5 q5 q5 q5 q3 6 - - -
+%END

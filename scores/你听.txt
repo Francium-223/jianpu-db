@@ -1,0 +1,19 @@
+%你听.txt
+% 出处 https://www.jp114.com/jianpu/1091420.html
+title=你听
+tag=
+usertag=
+tagroute=
+confidence=0.961
+conf_p10=0.891
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1091420
+%--
+4/4
+subtitle=score
+1 - - 2 x 4 x ,1 1 1 x q,6 q3 q3. s3 q2 s1 s,7 ,6 s6 q6 s6 q5 q4 3 0 q,6 q3 q3. s3 q4. s3 2 q2. s1 q,7 s1 q7 ,6 0
+3 3. 6 2 1' 7' 6 6 6 6 5 4 3 - 6' 3' 3. 3 4 3 2 6 2 2 1 7 6 6 - 6 3. 4 3 1 7 6 6 7 1 7
+6 - 6 q3. s1 q4. s3 2 q2 q2 q1 q,7 ,6 - 6 q2. s2 q1 q7 6 s3 q6 s6 q5 q4 3 - 6 q2. s2 q1 q7 6 s2 q2 s3 q2 s1 s7 ,6
+- ,6 0 6 q3. s4 s3 q1 s7 6 q6 q3 q1 q7 6 - 2 q3 2 - 1 - 0 6' 6 0 6 - 6 -
+%END

@@ -1,0 +1,19 @@
+%家乡四季好风光.txt
+% 出处 https://www.jp114.com/jianpu/966701.html
+title=家乡四季好风光
+tag=
+usertag=
+tagroute=
+confidence=0.963
+conf_p10=0.943
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-966701
+%--
+4/4
+subtitle=score
+q,5 ,5 q1' q1 q,6 qx q,5 q5 ,3 3 ,5 - q3 3 q5 q6 q5 q3 q1 2 - q3 q3 q2' q2 qx q3 q3 x 2. q1 ,6 - q6 q6 q6 q5 3 q2 q3
+5 - q6 5 3 5 - q6 q6 q6 5 3 2 - 3 q2 q3 5 q6 q5 3 - q2 q2 q2 q3 ,5 ,6 1 - 1 q2' 1'. q6 q5 q5 q6 q3 5 -
+q6 q6 q6 6. q5 q3 q5 q5 q1 2 - 3 q2 q3 ,5 ,6 2. q3 1 - q3 q5 q6 q3 5 - 1 q6 q5 3 6 5 - q6 q6 q5 q6 q6 q5 3
+2 3 - q2 q2 q2 q3 ,6 2 1 - q2 q2 q2 q3 q6 ~ q6 q5 q6 - - -
+%END

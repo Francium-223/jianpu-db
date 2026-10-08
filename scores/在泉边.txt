@@ -1,0 +1,17 @@
+%在泉边.txt
+% 出处 https://www.jp114.com/jianpu/1217255.html
+title=在泉边
+tag=
+usertag=
+tagroute=
+confidence=0.969
+conf_p10=0.883
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1217255
+%--
+4/4
+subtitle=score
+x q3' q2' 3' q2' q1' 0 2' q1' q2' q1' q5 0 q1' q5 q1' q5 q3 q5 q3 q2 5 q3 q2 q1 x - - q1' q1' 2' - 0 1 - - x. x s3 q5
+s5 q1 q,3 q1 q3 q5 1' 1 - x -
+%END

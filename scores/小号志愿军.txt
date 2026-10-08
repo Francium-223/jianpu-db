@@ -1,0 +1,22 @@
+%小号志愿军.txt
+% 出处 https://www.jp114.com/jianpu/1217860.html
+title=小号志愿军
+tag=
+usertag=
+tagroute=
+confidence=0.979
+conf_p10=0.965
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1217860
+%--
+4/4
+subtitle=score
+x. x. 1. x. qx. x. x. x. x x 2 0 1 1. 1 1. 2 1 q1 s3 q2 s1 s2 q3. s4 q3 q2 q1 q2 q3 s2 2 - s3 q2 s1 s2 q3. s4 q3
+q2 s1 s2 s1 s2 q3. s1 1 - q3. s5 q4 s3 s4 q5. s6 q5 q4 q3 s1 s1 q,5 q1 q,5 s,1 s,3 s,5 q3. s5 q4 s3 s4 q5. s6 q5 q4 q3 s1 s1 s2
+s3 s4 2 - 3 q4 s3 s4 q5. s6 q5 q4 q3 s1 s1 q1 q,5 q1 q,5 q,3 q,5 q3. s5 q4 s3 s4 q5. s6 q5 q4 q3 s1 s1 s1 s2 s3 s4 2 - q1.
+s3 q2 s1 s2 q3. s4 q3 q2 q2 q3 s2 2 - s3 q2 s1 s2 q3. s4 q3 q2 s1 s2 s1 s2 q2. s1 1 - q,5 s,3 s4 q,5 q1 q,5 s,3 s,4 q,5 q1 q,5
+s1 s2 q3 q1 q,7. s,6 ,5 q5 s3 s4 q5 q6 q5 s3 s4 q5 q5 s4 s3 q2. s1 1 - q1 s3 q2 s2 q3. s4 q3 q2 q1 q2 q3 s2 s1 2 - q1. s3
+q2 s1 s2 q3. s4 q3 q2 s1 s2 s1 s2 q2. s1 - q1 s3 q2 s2 q3. s4 q3 q2 q1 q2 q3 s2 2 - q1. s3 q2 s1 s2 q3. s4 q3 q2 s1 s2 s1
+s2 q2 1 -
+%END

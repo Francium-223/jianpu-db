@@ -1,0 +1,21 @@
+%我用生命守护美丽的你.txt
+% 出处 https://www.jp114.com/jianpu/849680.html
+title=我用生命守护美丽的你
+tag=
+usertag=
+tagroute=
+confidence=0.896
+conf_p10=0.638
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-849680
+%--
+4/4
+subtitle=score
+s0 q0 s1 q4' q4' q5' q4 q1' 0 q,,4' q,,6' q4 q,4' q,4' d2' s2 d5' q2 3 q4 5 s6 h0 s5 s1 s5 q1 5 d3 q1 qx q,1. q1 q,5' q,5' q1. - - q0 s0
+s5 s5' s5' s5' d5. - s5 h6 q,6 q,6 sx q3 5' 5' q5. 5 3. x' - s3 s5 d0 s6 q2 s1 q1 ,1'. 1 1 1' 1 x 1' 2 x' 0 1' x' q2 3
+s5 s1 ,6 - q7 7 s6 s7 3 - q2 q3 q5 q6 q7 7 s6 s3 6 5 5 - q2 q3 q5 q6 q5 q6 q5 q3 2 3 1 - q5 q3 q2 q1 q2 2
+q,5 5 2 3 - q2 q3 q3 s5 q6 q7 q7' 7. 1. 2' 2 ,6 6 5 1. q1' q7 q1' q6 q3 5. q5 q6 5 5' q6 q2 q2 q5 q5 qx q6 q7 q6 5
+q2 q5 q5 q6 q7 q5 3 q5 q6 q7 q5 q6 q7 5 q1 q7 q6 q3 5 7 q6 q5 5 - - q2 q3 q5 q6 q5 q3 q2 q3 3 - - - q5 6 q3
+2 3 1 - - - s5 6 q3 2 3 5 - - - q2 q3 q5 q6 q1' q7 q6 q7 3 - - - q5 6 q3 5 6 1' - - -
+%END

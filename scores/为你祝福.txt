@@ -1,0 +1,21 @@
+%为你祝福.txt
+% 出处 https://www.jp114.com/jianpu/764890.html
+title=为你祝福
+tag=
+usertag=
+tagroute=
+confidence=0.973
+conf_p10=0.937
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-764890
+%--
+4/4
+subtitle=score
+1 - - 0 - x x 0 x s6 s1 s2 q3 q5 q6 s3 s5 q3 q3 q5 q3 s2 s3 s1 s2 q3 q3 q3 q0 q2 s2 s3 q5 q3 q5 q3 q6 q7 6 -
+- - 6 - - - 5 6 7 q6 q7 q5 q3 3 - - 3 - q3 q3 q6 q1 2 - - - 2 - - - 3 q2 q3 1 q,3 q,3 q2 q3 ,6 -
+- q,6 s1 s2 q3 q5 q6 q6 q6 q0 qx sx sx qx qx qx qx qx q0 q,6 q6 q6 q6 q6 s5 s6 q5 q3 q2 q2 q3 q5 s5 s6 q2' 3 q,6 q6 q6 q6
+q6 s5 s6 q5 q3 q2 s1 s2 q3 s5 s6 q,6 q,6 q,6 q0 qx. sx qx qx qx qx qx q0 ,6 q6. s1 q6 6. 6 - - - 5 q5 q6 7 q6 q7 5 3
+- - 3 - - - ,6 q6. s1 2 2 - - - q1. s2 q3 q3 q2 q3 q1 s6 ,6 0 0 q5 q5 6 - - - 6 - - - 1 - - 2 3
+- - - 3 - - - 3' - 0 q6 6 0 0 0 x x
+%END

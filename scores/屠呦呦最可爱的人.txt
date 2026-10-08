@@ -1,0 +1,20 @@
+%屠呦呦最可爱的人.txt
+% 出处 https://www.jp114.com/jianpu/900499.html
+title=屠呦呦最可爱的人
+tag=
+usertag=
+tagroute=
+confidence=0.972
+conf_p10=0.939
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-900499
+%--
+4/4
+subtitle=score
+3. q3. s3 s3 q3 q2 1 - q6. s6 q6 q5 4 q2. s2 q2 q1 ,7. q,5 q5. s6 q5 q4 3 - 2. q1 q,7 q1 q2 q3 1 - - - q3' 5' q3 1 ,6
+q4' 6' q4 2 ,7 q,5. s5 q,6 q,7 q1 q2 q3 q4 5'. q6' 5 - 6. q7' 1' 7 q6' q5' q4' q3' 2 - q2 q3 q4 q4 q4' q1' 4 q6 6' q7' 1' q2' q1'
+7 - - - 6. q7 6 3 1 q2' q3' 2 - q2 q2 q2 q3 4 q5' q6' 5 - - - 1'. q7 6 5 4 q3 q2 6 - q2 q2 q2 q3 q4. q5 q7
+q7 6' q5' q5' 3 - 4. q4 3 2 3 q1' q,7' ,6 - q2 q2 q2 q3 4 q3' q2' q7' q7 q6 q7 5 - 4. q4 3 2 3 q1 q,7 ,,6 - q2 q2 q2
+q3 4 q3' q2' q7' q7' q1' q2' 1' - 1' - - -
+%END

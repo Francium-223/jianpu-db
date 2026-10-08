@@ -1,0 +1,20 @@
+%爱唱歌的小卓玛.txt
+% 出处 https://www.jp114.com/jianpu/1374994.html
+title=爱唱歌的小卓玛
+tag=
+usertag=
+tagroute=
+confidence=0.986
+conf_p10=0.981
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1374994
+%--
+2/4
+subtitle=score
+q,6. s1 s2 s3 s1 s2 ,6 - q3 s3 s5 s6 s7 s5 s6 6 - q1. s2 q6 s5 s6 s5 s3 s3 s2 2 q2 s2 s3 s5 s6 s3 s5 3 - q3. s5 q2 q3
+s1 s2 s2 s1 ,6 q6. s1 q5 q6 s5 s3 s3 s2 3 q3. s5 s6 s5 s6 s1' 2'. q1' q5. s3 s5 s6 s2' s1' 6 - x s6 s1' s1' s2' s6 s6 s5 s6 s6
+s5 q5 s3 s3 q2 s2 s3 s5 s6 s2 s1 q6 s6 s6 q6 q0 q6 s6 s6 q1 s6 s6 s5 s6 s1 s2 6 q5 s3 s5 q6 s5 s6 s5 s3 s2 s5 3 q3 s3
+s5 q6 q5 s5 s3 s3 s2 2 q1 s6 s1 s2 s3 s5 s6 3. q5 q2 s2 s3 s2 s1 s5 s1 ,6 - q1 s6 s1 s2 s3 s5 s3 2. q3 q6 s5 s6 s2 s3
+s1 s2 6 - 6. s3 s5 q6 q6 6
+%END

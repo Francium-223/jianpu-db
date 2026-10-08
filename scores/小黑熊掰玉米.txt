@@ -1,0 +1,17 @@
+%小黑熊掰玉米.txt
+% 出处 https://www.jp114.com/jianpu/1090971.html
+title=小黑熊掰玉米
+tag=
+usertag=
+tagroute=
+confidence=0.940
+conf_p10=0.699
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1090971
+%--
+4/4
+subtitle=score
+1 1 1 ,5 3 6 6 5 x 5 5 x 5 5 5 6 3 2 1 2. 3 2 x 2 2 x 3 2 3 5 5 3 2 3 2 1 ,6 2 2 2
+3 2 1 ,6 ,5. ,6 ,5 x q,5 ,5 x 1 q,5 q,6 1 1 ,6 3 5 0 5 x q5 5 x 5 5 5
+%END

@@ -1,0 +1,19 @@
+%追风的女儿.txt
+% 出处 https://www.jp114.com/jianpu/1218448.html
+title=追风的女儿
+tag=
+usertag=
+tagroute=
+confidence=0.633
+conf_p10=0.465
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1218448
+%--
+4/4
+subtitle=score
+0 0 0 0 q1'. 0 q1 0 q1. 0 0 x'. 0 q5. 0 q1 0 0 0 0 0 q,6. 1. 0 1. 0 0 q1. 0 q1. 3. 0 0 q6. 0 q5 q1 0 0 q1.
+0 q1. x. 0 q6. 0 0 q1'. 0 q5 0 qx. 0 q2'. 0 q5 0 q5 0 q5. 0 0 q1. 0 q6. 0 qx' 0 q5 0 qx. 0 qx. 0 q5 0 q5 0 0 q6.
+6. 0 6' 0 0 0 0 0 0 0 ,7. 0 0 q4. 0 0 q1. q1. 0 q7. 0 0 q5 0 q5 0 0 q6. 0 q2'. 0 qx'. 0 qx'. 0 qx'. 0 0 0 0
+0 q2' 0 q7 0 qx' 0 q2'
+%END

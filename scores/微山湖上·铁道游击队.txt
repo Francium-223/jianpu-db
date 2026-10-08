@@ -1,0 +1,25 @@
+%微山湖上·铁道游击队.txt
+% 出处 https://www.jp114.com/jianpu/1218336.html
+title=微山湖上·铁道游击队
+tag=
+usertag=
+tagroute=
+confidence=0.938
+conf_p10=0.869
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1218336
+%--
+4/4
+subtitle=score
+5. q6 5. q2 q5 s3 s2 s1 s6 1 q,6 q1. s2 q3 q5 q2 s2 s3 q2 q,7 q,6 s3 s5 q,7 q,6 ,5 - ,5 - q2 s5 s3 s2 s3 q1 0 2 - q3 s3
+s5 s,7. d6 1. q,6 q2 q2 q5 s5 s3 q2 s2 s3 q2 q,7 q,6 s,3 s,5' q,7 q,6' ,5 - q1 q1 q1 s,3 s,5 q,6 q,6 q0 q3 q2 q,7 s,6 s1 q,5 ,6 - s2 qx.
+q3'. q5 q3 s2 s3 s7 s2 q,6 q,3 s2 s7 s6' s,5 q,6' ,5 - 3 q3 q6 5 q5 q3' q2. s1 q3 q2 1'. q,6' 2 q2' q5' 2 q2 q,7 q,6. s,5 q,7 q,6 ,5 -
+1 q1 q,6 q3 s3 s5 q2 q,7 ,6 - q,6 q2 q2. s2 5 q,7. s,6 q,5'. s,6 q,7 q,6' ,5 - ,5 0 q1. s,6 q3 s3 s2 q1 q1 q0 q3 q6 q5 q3 s3 s5 q2
+q2 0 1 q1. s2 q3 s3 s5 q2 q,7' ,6 - q,6 q2 q2. s2 5 q,7 q,6 q,5. s,6 q,7 q,6 ,5. s,5 s5 q3 s3 s,6 q1 s1 s1 q3 s2 s3 q0 q3 s3 s6 q5
+s5 s3 q2 s2 s1 q2 q0 q0 q2 q,7 q,6 q5 5 q3 q3 q2. 5 q7 q6 1 x'. q3' qx q2 q2. 5 q2 q2 ,1 2 ,2 7 s,x q,6 q,5 q,7 q,6 ,5 5. ,5'
+qx qx qx ,5 0 0 2 0 5 - 5 - q2 q5 q,7 q,6 q,5. s6 q,7 q,6 ,5 - 3 q3 q6 5 - q2 s5 s3 s2 s3 q1 2 - 3 q3 q6 5 -
+q3 s3 s5 s7 s6 s5 s6 1 - q2 q2 q5 s5 s3 q2 s2 s3 q2 q,7 q,6 s3 s5 q,7 q,6 ,5 - 1 q1 q,6 q3 s3 s5 q2 q,7 ,6 - q1. s2 q3 q5
+q3 s2 s3 s7 s2 q,6 q,3 s2 s7 s6 s5 q,6 ,5 - 5. q6 5. q2 q5 s6 s5 s3. d4 s2 s1 s6 1. q2 s5 s3 s2' s1 q2 s7. s3 s2 s7 s6 s5 q,6
+q0 q3 q2. s3 q5 s5 s7 q0 q3 q2. s6 q,7 q2 q,6 s3 s5 q,7 q,6 ,5. q,6 ,5 - 0 2 - 0 5 - 5 -
+%END

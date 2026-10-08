@@ -1,0 +1,17 @@
+%到外边.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48241
+title=到外边
+tag=
+usertag=
+tagroute=
+confidence=0.978
+conf_p10=0.981
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48241
+%--
+2/4
+subtitle=score
+1 x x 4 2 3 5 2 2 3 5 2 3 5. q6 3 5 3 2 3 2 1 q,6 2 2 3 5 q3 2. q3 5. 6 5 3 2 3 2 1 ,6 2
+3 5 3 2. 3 5 5 6 5 3 2 3 2 1 ,6 2 3 5 3 2 -
+%END

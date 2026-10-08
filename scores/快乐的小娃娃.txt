@@ -1,0 +1,21 @@
+%快乐的小娃娃.txt
+% 出处 https://www.jp114.com/jianpu/1488837.html
+title=快乐的小娃娃
+tag=
+usertag=
+tagroute=
+confidence=0.971
+conf_p10=0.950
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1488837
+%--
+4/4
+subtitle=score
+- - x x x 0 - - qx x q3 q5 q1' 1' q4 q5 q6 q6 q6 q6 6 5 - - 3 5' - q5' q4' q3 q2 1 q1 q1 1 0 q1 q1 q3. s5
+q1 q1 3 q5 q5 q5 q3 5 0 q2 q2 q4. s5 q2 q2 4 q3 q3 q3 q2 3 0 q1 q1 q3'. s5' q1 q1 3 q5 q5 q5 q3 5 0 q2 q2 q4. s5 q2
+q2 4 q3 q3 q3 q2 1 q3 q5 1' 1' 1' q4 q5 6 6 6 q4 q5 6 - 5. q3 q1 q2 3 0 q3 q5 q1' q1' q1' q1' 1' q4 q5 q6 q6 q6 q6
+6 q4 q5 6 - 5. q3 q2 q3 q4 q6 5 q3 q5 q1' q1' q1' q1' 1' q4 q5 q6 q6 q6 q6 6 q4 q5 - 6 - 5. q,3 q3 q2 q4 q3 q2 1 x
+q3 q5 q2 q4 q3 q2 1 q3 q5 q1' q1' q1' q1' 1' q4 q5 q6 q6 q6 q6 6 q4 q5 6 - 5'. q3' q2 q4 q3 q2 1 0 q5 q5' q6 q7 1' q5 q5
+0 0 0
+%END

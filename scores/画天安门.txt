@@ -1,0 +1,17 @@
+%画天安门.txt
+% 出处 https://www.jp114.com/jianpu/1340278.html
+title=画天安门
+tag=
+usertag=
+tagroute=
+confidence=0.914
+conf_p10=0.471
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1340278
+%--
+2/4
+subtitle=score
+1 - - q1 x. 1. x. 5 6 q5 q6 5 q2 q1 q2 q3 2 - 5 6 q5 q6 5 q2 q1 q1 q2 3 - 5 0 q5 q5 q5 q6 5 - q5 q5 q5
+q6 1 - 0 0 0 0 0 0 0 0
+%END

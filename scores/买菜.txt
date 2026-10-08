@@ -1,0 +1,18 @@
+%买菜.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12564
+title=买菜
+tag=
+usertag=
+tagroute=
+confidence=0.885
+conf_p10=0.580
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12564
+%--
+2/4
+subtitle=score
+1 q,5 q,,5 1 ,5 q3. 0 q,,2 q3 q5 1 - ,5 1 ,5 1 q3 q3 q3 1 2 q,1 q1 q1 q3 ,5 ,5 q1 q1 q1 q3 ,5 ,5 qx 0 qx qx qx qx qx
+x 1 q,5 q,5 1 q,,5 0 q,5 q3 q2 q3 0 q5 1 - x 0 1 ,5 q,5 1 q,5 q,5 q1 1 ,5 q,5 1 - x 0 1 4. x. x q1. ,1 1 x. x
+1 q,5 q,5 1. 1. 1. 5. ,5 1 x' 1 1 1 x. x q1 q1 q1 q3 ,5 ,5 x 1 1. x.
+%END

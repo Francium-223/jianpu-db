@@ -1,0 +1,19 @@
+%月亮出来了.txt
+% 出处 https://www.jp114.com/jianpu/1371984.html
+title=月亮出来了
+tag=
+usertag=
+tagroute=
+confidence=0.966
+conf_p10=0.905
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1371984
+%--
+2/4
+subtitle=score
+0 0 2 4' x x. x 5 3 q5 1' q5 3 3 5' 1 - 1' 5 q0 q1 q2 s3 s5 s6 5 q3 q5 1 - 1 - 5 q3 5 1 3 q3 q5 5
+q3 q5 q3 q5 3 3 q5 q3 1 q5 s3 s5 1 q3 3 q5 1. q5 s3' q5' q3 q5 1 - q5 q3 q5 1 3 q3 q5 1 q5 s3' s5' q5 q1 q3 s3 s2
+1 3 q5 q3 5 q3' q5' q5' 3' 1 q3 q5' q3' 5 1 q3 s5' q3' 1 5' q3 q5 1' 3 q3' s5' 1 5 q3 q5' 5 1' q3 q3 s3 s2 1 1 5 q1'
+q1 1
+%END

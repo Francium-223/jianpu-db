@@ -1,0 +1,19 @@
+%Casablanka.txt
+% 出处 https://www.jp114.com/jianpu/821695.html
+title=Casablanka
+tag=
+usertag=
+tagroute=
+confidence=0.856
+conf_p10=0.538
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-821695
+%--
+4/4
+subtitle=score
+1 4 x' x' 1' x 0 0 3 1' ,1' 7 7' 7' 7 7 6 5 5 5 5 6 - - 1 q1 x' ,x. x' 1 0 x x x' qx. 1. 1 1 ,1 x'
+,1 1' 1. 1' 0 x 0 x x x' x 1 x x ,x'. ,x. 1 1 4 4 4 q1' q1' 3 7 3 5' 5' 5' - 0 0 0 0 3 3 q3 3 q3 3.
+x 4 x 5 6 7' 7' 0 0 0 3 ,1' 7 2 2 7 6 0 0 7 7 7 7 7 7 6 5' 5' 6 - 0 0 0 0 0 3' 3' 4'. 3' 2.
+7. 2' 2'. 2' 2'. 3' - 0 0 0 3' 3' 3' 4'. 3 2'.
+%END
