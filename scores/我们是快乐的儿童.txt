@@ -1,0 +1,19 @@
+%我们是快乐的儿童.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48736
+title=我们是快乐的儿童
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.999
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48736
+%--
+3/4
+subtitle=score
+5 6 7 2 3 1 1 4 2 2 5 3 3 5 6 7 1 2 5 4 3 4 5 6 6 6 7 7 7 1 1 5 4 3 4 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 3 1 1 2 4 3 2 1 1 5 6 q5 4 3 4 5 ,5 ,6 ,6 ,4 ,6 q5 q4 ,3 ,3 3 4 3
+2 1 2 3 0 0 0 0 0 0 0 0 0 1 ,5 1 ,5 2 4 q3 q2 3 4 5 5 6 q5 q4 3 4 5 2 4 3 2 1 - 1 ,7 2
+1 q7 1 2 3 3 4 3 2 1 2 3 ,7 1 q7 q6 ,5 ,5 ,7 - ,5 1 - 1 ,5 1 ,5 ,7 ,6 5 4 ,3 ,3
+%END

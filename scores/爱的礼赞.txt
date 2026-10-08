@@ -1,0 +1,21 @@
+%爱的礼赞.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49819
+title=爱的礼赞
+tag=
+usertag=
+tagroute=
+confidence=0.986
+conf_p10=0.975
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49819
+%--
+4/4
+subtitle=score
+q,5 ,4 ,3. q,3 q,3 ,5 q,7 2 1 - - q,6 q,5 ,4. q,4 ,4 q,6 q1 3 2 - - q3 q4 5 - 1. q1 d7 ,6 4 - 5 4 3. q1 4. q3 2 -
+- q,5 q,4 ,3. ,3 q,3 q,5 q,7 q2 1 - - q,6 q,5 ,4. q,4 q,4 ,6 q1 3 2 - - q3 q4 5 - 1. s1 s,7 ,6 4 - q5 q4 3. 1 ,5 1 2
+- 3 - 1 - 0 q,3 ,3 q,6 ,6 ,7 ,7 1 ,3 ,3 ,6 q,6 q,7 q,7 1 q,6 q,6 q1 q1 q,6 q,6 q,7 0 q,5 ,5 1 1 q2 2 3 ,5 q,5 q1 q1 q2
+q2 3 q3 q3 q4 4 q2 2 3 q0 ,3 ,3 q,6 q,6 q,7 q,7 1 q,3 ,3 ,6 q,6 ,7 q,7 1 q,6 q,6 q1 q1 ,6 ,6 ,7 q0 q3 3 q4 4 q2 q2 3 1
+1 2. 1 - 1 - - 7 q2 q2 q,7 q,7 1 q1 q1 q2 q2 q1 q2 q3 q0 q,5 q,4 1 - - q,5 q,4 ,3. q,3 q,3 q,5 q,7 q2 1 - - q,6 ,5 ,4.
+q,4 ,4 ,6 q1 3 2 - - x q3 q4 5 - 1. q1 s7 ,6 4 - q5 q4 3. 1 ,5 1 2 - 3 - 1 - - - 1 0 0
+%END

@@ -1,0 +1,19 @@
+%雪莲.txt
+% 出处 https://www.jp114.com/jianpu/1203203.html
+title=雪莲
+tag=
+usertag=
+tagroute=
+confidence=0.606
+conf_p10=0.309
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1203203
+%--
+4/4
+subtitle=score
+qx' qx' x x 3 6 1. 5. ,6 q,1 1 qx' x' q1' 7' 7 ,6' ,,6 ,6' 6' ,6 1' ,1' x' ,1' 1' 1' 5' 1' 7' 1 q0 q0 q1 q1 q1' q,1' q1' 3 ,2'
+1 q1' 1 5' 3 3 3 ,,3 x 6 6 q1 5 1' 5 ,1' ,1 1' q1 3 q1 3 s1' ,1' 5 1' 1' 1' 6' 1' 1' 1' ,1 6' 6 ,3 6 6' 1' qx'
+1 s,,5' q,,6' q,,6 ,1' 6 q1' q1' 1' q1 q1' q1 q1' 5' s1 5' 1 6 0 ,6 q6 ,,1' 1' 1' 1 x 5 3 3' 1' ,1' 1' 1' q1'. 1' 1 q1 1' 1' 1'
+1' 1' 1' 1' 1' 1 0 6 3 3 5 3' 3 3' 6 1' x 3 3 ,3' x' 3 1' 3 5 3' ,1
+%END

@@ -1,0 +1,20 @@
+%藏秋词.txt
+% 出处 https://www.jp114.com/jianpu/1202915.html
+title=藏秋词
+tag=
+usertag=
+tagroute=
+confidence=0.759
+conf_p10=0.393
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1202915
+%--
+4/4
+subtitle=score
+1 qx - - 0 6 q2. 1' x' x' 1 1 x ,6' - q6' sx q2 s6 q3 ,5 - - - 6' qx q2 s6 q2 5 2 q2 q2 q4 4 x s2 sx qx 2
+- 2 s4 q2 sx 1 6. 6 q2 x q6 q6 2 2 s6 q5 s3 qx 2 q0 6 q2 1 1 q5 5 s5 q5 2 s2 0 qx s2 h1 3 q0 q2 q,2 x q5
+,5 q,6 6 ,1 1 x 2 5 5 5 6 q3 q2 q3' - q,3 q,3 ,2 q0 6 s2 q2 x 2 qx x q0 s2 qx 5 6 5 q2 q2 q0 x s2 0 6 3
+5 3 5' 7 1' 4' x' 6 s,1 7 1' 6 x q3 q1' q,3 q1 q,1 q,1 2 1 2 x 1 1' q1 q1' q5 q5 qx q5 2 s2 q6 q3 q,3 q3 q6 x' 1.
+s0 2 ,5 2. q,2 q1 q5 q5 5 q5' q,5 5 1' x'. ,,,1 ,6. s,x'. q,2 ,6 s1' ,2 1' 0 2'. 6. q,6 q3 6 ,x 5. 5 5 q0 s0 6 qx q5'
+%END

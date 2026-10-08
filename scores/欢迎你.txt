@@ -1,0 +1,16 @@
+%欢迎你.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48863
+title=欢迎你
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.994
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48863
+%--
+2/4
+subtitle=score
+3 5 3 5 4 3 2. 6 6 5 - 4 3 2 1 2 5 4 2 3 -
+%END

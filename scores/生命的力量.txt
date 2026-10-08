@@ -1,0 +1,18 @@
+%生命的力量.txt
+% 出处 https://www.jp114.com/jianpu/1202004.html
+title=生命的力量
+tag=
+usertag=
+tagroute=
+confidence=0.757
+conf_p10=0.375
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1202004
+%--
+4/4
+subtitle=score
+,6 ,6 3 q1. 3 x' 3 ,6 - - ,6 ,6 ~ 6 1 6 x 5 6 3 - - 3 - - ,6' ,6 ,,,1 6' 6 6 6 6 6 3 1' x 3 ,,x 5
+x 1 qx ,6 ,5 ,6 0 ,1 3 0 3 - - 3 3' x x q6 3 3 1 q,1 ,,,6 6' 1 q6 6 5 qx q3' 3 0 q,6' 3 6 ,6 - - x' 1'
+1' 1' ,1 ,3 1 s3 3 1' 2'. q1 1' 3 q6 5 x 1 3' 6 q6 x 1' 6 - -
+%END

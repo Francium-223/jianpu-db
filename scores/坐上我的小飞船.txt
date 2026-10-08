@@ -1,0 +1,17 @@
+%坐上我的小飞船.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48495
+title=坐上我的小飞船
+tag=
+usertag=
+tagroute=
+confidence=0.986
+conf_p10=0.997
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48495
+%--
+2/4
+subtitle=score
+q5 5 5 q3 q3 3 1. 2 3 5 4 q3 2 2 2 2 7 2 ,5 q2. s2 5 4 q3 q2 1 1 1 6 - q5 4 3 q2 3 - 1. q2 q2 q5
+q4 3 4 5 - 3 2 1 -
+%END

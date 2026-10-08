@@ -1,0 +1,19 @@
+%夏天热热烤太阳.txt
+% 出处 https://www.jp114.com/jianpu/1201679.html
+title=夏天热热烤太阳
+tag=
+usertag=
+tagroute=
+confidence=0.628
+conf_p10=0.333
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1201679
+%--
+4/4
+subtitle=score
+q1 - 0 q1 0 ,,2 qx x ,x. x x x x' 1 q5 x q2' - 0 5 q6 2 qx q2 qx q4 q1 0 x q1' q2' 1' q5 6 - 0 6 q2' s,,1' h5
+h1 h5 h5 h,1. h1' h1 ,1 q,1' q,1 sx q1 1' 5 1' 5' 2' q5' s,1 ,2' s1' s1' s,1' s,1' s1 s1 1 s2 q1 q,1 s,1 s,3' s,x q,5' s,x q5' s1' s1. h0 s,1' d1'
+d1' d1' d1' h2' s2' q5' ,5' q5' q,1' q,5' q,5 q,5' q,5' q5' q1' q1' q,1 q,2 s5' s5' h0 s1 s1 1' 1 ,,1'. 1' 1 ,,1 1 2. 1' s5' s5 q,5' qx' s,x'. 1' 1 2
+q1 q,1' q,1' q1' s1' 0 q,x' s1 q,x q1' q,,1 q,1' qx' q1' q,1 q,2 q1 0 s1' s1 s1 1' 1' 1' ,1' 5 5 x' 2' d1 s,1
+%END

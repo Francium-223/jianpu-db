@@ -1,0 +1,19 @@
+%春天的夜莺.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=45874
+title=春天的夜莺
+tag=
+usertag=
+tagroute=
+confidence=0.991
+conf_p10=0.977
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-45874
+%--
+3/4
+subtitle=score
+,6 3 - 3 3 - 4 4. q5 3 - - 2 2 - ,6 1 - 1 1 - 2 2. 3 1 - - ,7 ,7 - 2 q1 q,7 ,6 ,7 q1 ,7 q,6 ,5 ,6
+- - 2 2 - 1 1 - q2 q3 4 2 ,7 q,6 q,5 ,4 ,3 ,6 ,5 q,4 ,3 ,6 - - ,7 ,7 - ,6 ,6 - ,7 1 2 ,7 3 - - 2 2 -
+2 1 ,7 ,6 ,7 1 q,7 q,6 q,5 ,6 - - 3 - - 1 - - ,7 ,7 - ,7 q,6 q,5 ,6 ,3 q,6 q,5 q,4 q,3 ,6 - - 1 - - 4 - 5 3
+- - 3 - - ,7 - - 1 - ,5 ,6 - - 2 - 3 1 - - 1 - - ,5 - - ,6 - ,5 ,6 - -
+%END

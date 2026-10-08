@@ -1,0 +1,17 @@
+%小小公鸡.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48578
+title=小小公鸡
+tag=
+usertag=
+tagroute=
+confidence=0.988
+conf_p10=0.995
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48578
+%--
+2/4
+subtitle=score
+5 5 1 q1 1 2 3 2 5 q5 3. 2 1 q2 q3 6 1 6 1 q5 5 ,5 3. 2 3 2 1 6 1 1 6 1 5 5 5 3. 2 3 2 1
+1 1 - - - - - - - - - - - - - x
+%END

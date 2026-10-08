@@ -1,0 +1,16 @@
+%游公园.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48886
+title=游公园
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.996
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48886
+%--
+4/4
+subtitle=score
+5 q5 q6 q5 q3 q1 q2 q3 q3 q2 2 1 q0 q1 1 q1 q1 1 0 3. s3 3 3 3. 0 5 5 6 5 3 q1 q2 3. q3 2 q2 1 0
+%END

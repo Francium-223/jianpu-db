@@ -1,0 +1,19 @@
+%把我带回弗吉尼亚故乡.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49908
+title=把我带回弗吉尼亚故乡
+tag=
+usertag=
+tagroute=
+confidence=0.977
+conf_p10=0.986
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49908
+%--
+4/4
+subtitle=score
+1 - - q3 q3 3 4 3 q4 3. q2 1. q,6 q,5 1. ,5 q1. q2 3 3 q4 3 q3 q1 q,7 q1 1 2 2. 2 q0 q0 q0 x x 1 3 4. q3 3
+q2 q1 2 1. d,6 q,5 1 q0 ,5 q1 2 3 4 3 q3 2 q1 ,7 1. q0 2 2. q3 4 5 4 3 6 4 5 3. 5 q4. s3 3 q2 q1 q1 q1 q,7
+1 2. 0 3 q4. q3 3 q2 q1 2 q1. s6 q,5 1 q0 ,5 q1 q2 q3 4 3 q3 2 q1 ,7 1. 0 q3 3 q4 3. q2 1. q,6 q,5 1. ,5 q1. s2 q3
+q3 q4 q3 3 q1 ,7 1 2. 0 3 4. q3 3 q2 q1 2 q1. q,6 q,5 1 0 ,5 q1 2 3 4 3' 3 q2 1 q,7 1 -
+%END

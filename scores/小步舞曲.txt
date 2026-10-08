@@ -1,0 +1,22 @@
+%小步舞曲.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=41567
+title=小步舞曲
+tag=
+usertag=
+tagroute=
+confidence=0.969
+conf_p10=0.915
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-41567
+%--
+3/4
+subtitle=score
+1 4 q3 - - x x ,1. 1 x' 1 1 5 q1 q2 q3 q4 5 1 1 6 q4 q5 q6 q7 1' 1 1 4 q5 q4 q3 2 3 - 2 3 - - 4
+- - 3 - - 2 - - 1 3 4 q3 q2 1 ,7 1 q2 q3 q1 2 - - 5 1 q2 q3 4 5 1 1 1 - - 5 3 1 5 ,5 4 3
+2 1 - 2 1 3 1 6 5 q4 6 q7 1 1 1 4 5 4 3 2 3 4 q3 2 q1 2 3 q2 q1 q,7 4 - 3 4 q3 q2 q1 2 - ,7
+1 - 3 4 5 q,5 q,5 1 - - 3' 1' q2' 3' 1' 2' 5 6 7 5 6 7 1' 5 4 q3 q4 2 2 q3 4 q5 q6 q7 1 - - 1 - -
+,7 - - ,6 1 ,6 2 - 2 2 - - 1' 7 6 7 2 4' 5 - - 5 q1 q,7 1 6 q1 ,7 1 5 4 3 5 5 - 6 6 - 3 2
+1 1 3 5 4 5 ,7 2 5 ,5 4 3 3 1. 3 4 4 1. 4 3 3 2 2 1 1 q2 1 ,7 q1 2 ,5 ,6 ,7 q1 2 q3 4 3 2 q3
+5 1 ,7 1 - - ,5 - - ,5 - ,7 ,6 1 ,7 1 ,3 ,5 1 ,5 1
+%END

@@ -1,0 +1,17 @@
+%夏天的雷雨.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48500
+title=夏天的雷雨
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.998
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48500
+%--
+2/4
+subtitle=score
+5 5 q5 q6 q6 5 1 1 6 3 5 - q1 1 q1 q5 q5 3 5 q5 q4 3 2 - 5 5 q5 6 q6 5 q1 q1 q6 q3 5 - q2 q3 5 q5
+q6 q5 6 3 2 1 -
+%END

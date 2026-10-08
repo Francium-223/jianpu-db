@@ -1,0 +1,17 @@
+%小放牛_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=45276
+title=小放牛
+tag=
+usertag=
+tagroute=
+confidence=0.985
+conf_p10=0.988
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-45276
+%--
+2/4
+subtitle=score
+q5 q3 5 q0 6 5 3. 5 q6 q1 q5 q3 2 q5 q3 5. 3 q2 q5 q3 q2 q1 2 q1 q,6 ,5. q,6 q1 q,6 1 q0 6 q5 q3. 5 6 q1 q5 3 2
+q5 q3 q5. s3 q2 q5 3 q2 q1. q2 q3 q5 q2 q1 q,6 q1 ,5 - 1
+%END

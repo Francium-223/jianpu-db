@@ -1,0 +1,22 @@
+%杵歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=42155
+title=杵歌
+tag=
+usertag=
+tagroute=
+confidence=0.977
+conf_p10=0.973
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-42155
+%--
+4/4
+subtitle=score
+1 - - - x x 1 1' s6 s1 s6 s1 q2 q3 5. q1' s6 s1 s2 s1 q6 q5 6 - s1' s2 s1 s6 q5 q6 s5 s6 s5 s3 q2 q3 s2 s3 s2 s3
+q2 q1 ,6 q3 q5 6 - - - 6 - - q3 q5 6 - - - 6 - - - x q,6 q,6 ,6 q1. s2 q3 q5 6. s5 s3 5 q6 s6 s1 6 q5 s3
+s2 q3 s5 s5 q5 s3 s2 q3 s2 s1 ,6 q3. s3 q2 q3 q5 2 q1 q,6. s1 q1 q,6 ,6 - - - 6. 6 6 6 6 1 2 1 6 5 3 6 5'. -
+- 6 6 5 3 2 3 5 5 3 2 3 2 1 6 3 5 3 2 3 5 2 2 1 6 1 1 6 5 6 - - - 6 - - - - - -
+- - - - - - - 1 x q3. q2 q3 q2 q1 q,6. q1 q2 q3 q1. q2 q1 s6 s5 q,3. s3 q,5 q,6 1. 6 1 2 1 6 5 3 5 6 6 6 -
+x 6 - - - - - - - - - 1 s6 s1 s6 s1 q2 q3 5. q1' s6 s1 s2 s1 q6 q5 6 - s1 s2 s1 s6 q5 q6 s5 s6 s5 s3 q2 q3
+s2 s3 s2 s5 q5 q1 6 - x 3 5 6 - 6 - - - 6 - - 0
+%END

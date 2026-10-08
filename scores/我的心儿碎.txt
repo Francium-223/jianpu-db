@@ -1,0 +1,23 @@
+%我的心儿碎.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=19291
+title=我的心儿碎
+tag=
+usertag=
+tagroute=
+confidence=0.906
+conf_p10=0.541
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-19291
+%--
+4/4
+subtitle=score
+q1 1 - - 6 6 6 - x 1 x. x x. qx. ,x x x 0 0 0 0 q2 q5 5 - - q4 s3 s2 2 - - q2 q5 5 - - q1 s7 s,6
+,6 - - - q,5 s6 s2 q,4 q,3 ,2 q1 q,7 1 - - - q,5 q,6 q,4 q,3 ,2 q,3 q,1 ,2 - - - x q,6 s,6 s,6 s,5 s,6 s,4 ,3 - q1. s2 q4 q3
+2 q2. s2 q5 q5 q5 q2 1 q2 s1 s7 ,6 - - - q,6 s,6 s,6 q,4 q,3 q1 q2 ,5 - - - q,5 s6 s6 q2 q,6 ,5 s5 s6 s4 s3 ,2 - - -
+q,6 s6 s6 s5 s6 s4 s3 1'. q1. s2 q4 q3 2 q2. s2 q5 s5 s5 q5 q2 1 q2 s1 s7 ,6 - - - q,6 s6 s6 q,4 q,3 ,2 q1. s2 q2 q,5 ,5 -
+- q,5 s6 s6 q2 q,6 q,5. s5 s5 s6 s4 s3 x ,2 - - q2 s6 s5 5 - q5. s5 q4 s3 s2 2 - - q2 s6 s5 5 - q5. s5 q1 s,7 s,6 ,6
+- - - q,5 s6 s2 q,4 q,3 ,2 q1. s2 q2 q,5 ,5 - - q,6. s2 q,4 q,3 ,2 q,3 q,1 - - q2 q5 5 - - q4 s3 s2 2 - - q2 q5 5 -
+- q1 s7 s,6 ,6 - - - q,5 s6 s2 q,4 q,3 ,2 q1 q,7 1 - - - q,5 q,6 q,4 q,3 q,3 q,1 ,2 - - x. ,2 - - q2 s6 s5 ,2 - - -
+q,6. s2 q,4 q,3 q3 q1 2 - - - x. x x x x
+%END

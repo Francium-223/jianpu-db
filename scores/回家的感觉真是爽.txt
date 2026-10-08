@@ -1,0 +1,20 @@
+%回家的感觉真是爽.txt
+% 出处 https://www.jp114.com/jianpu/1202158.html
+title=回家的感觉真是爽
+tag=
+usertag=
+tagroute=
+confidence=0.656
+conf_p10=0.335
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1202158
+%--
+4/4
+subtitle=score
+q1 q0 q,6 q0 q1 - s6 h6 qx q6' hx 1 q6 s1' x - s1' d1' dx s5'. d1' qx s1' d1 d2' d5. d5 d2 s6 s,1 q,1 d1 s1 2 s6 s6 h1' s5' d0 q5
+s3' 1' 2 s2 s1' s,7 s6 d1' q1 1 1 s1' x 1' 1'. q1 q1' s1' s1 q1 q,2 q2' q1' qx' q2 1 1' ,1' s1' 1' 1' 1' s1 s1 q1 q1 x' qx' q1' h,1
+q5' 1' 1' 1 1 x q1 q1' q1 1' 1 1' sx x' 0 2 1' x' d,1 d,1 d,1 q1 h1 s2 s0 d0 q,5'. q,5' q5 q1 q5' q,6' q1' q1' q,2' q1' q1' 1' s1 1'
+1' 1' q,1 ,6 s,1' h1 q1' q1 q1 q1 q1' q1' q1' q1' qx q,,x ,1 q1' q1' 1' 1' 1 q1' q,1' 1. 1. 1 ,1 x 2' q1 q1 q1 2 s,5 q1' q1' 1' 1 ,1'
+,1' q1 h1 d1' q1' q0 s1'. q5 s5 s1'. q,2 0 2' ,6 1' sx q2' q2' d1 d1' q1 s5' s0 q2' qx' ,x' q5' 5. q,5' q5' x ,1 1. x 1'. 6'
+%END

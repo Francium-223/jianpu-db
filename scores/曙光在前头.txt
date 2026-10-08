@@ -1,0 +1,18 @@
+%曙光在前头.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=44365
+title=曙光在前头
+tag=
+usertag=
+tagroute=
+confidence=0.954
+conf_p10=0.811
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-44365
+%--
+2/4
+subtitle=score
+0 ,6 1. q2 3 0 ,6 2. 2 1 2 3. q3 2 3 1 ,7 ,6 - 0 6 q5 6 2. x x x x x qx x 3 0 q3 6. q6 6 7 q1. q1
+q1 q1 7 6. 5 3 - 3 3 6 - 7 1 6 - 6 6 3 ,6 1 2 3 - 3 0 6 q3. q3 q2. s2 q1 3 2 - 2 - 1 3 2 1
+q2 ,6 - ,6 0 6 3. 3 2. 2 q1 q3 2 - 2 - 3 1 7 5 6 - q6 q0 0
+%END

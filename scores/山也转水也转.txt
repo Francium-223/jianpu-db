@@ -1,0 +1,17 @@
+%山也转水也转.txt
+% 出处 https://www.jp114.com/jianpu/1201549.html
+title=山也转水也转
+tag=
+usertag=
+tagroute=
+confidence=0.869
+conf_p10=0.527
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1201549
+%--
+4/4
+subtitle=score
+qx q6 4 q1 ,2. ,6 6 - 1 - - 5 q1 - x 1 - ,,1 ,6'. - 6 - - - 6 - q6' - - - - - - - q6' s6. ,6 x x -
+,6 6 ,6 - 6 - 6 ,5 - - - - - - - - - - - -
+%END

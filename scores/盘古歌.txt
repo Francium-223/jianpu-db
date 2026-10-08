@@ -1,0 +1,19 @@
+%盘古歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48062
+title=盘古歌
+tag=
+usertag=
+tagroute=
+confidence=0.984
+conf_p10=0.991
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48062
+%--
+5/8
+subtitle=score
+q5 6 1 2 1 1 5 2 5 1 2 5 1 1 5 1 2 5 1 1 5 6 1 6 5 1 5 1 6 q1 2 1 q1 1 2 5 q5 q6 q1 6
+1 6 1 6 1 1 2 5 q1 q5 1 2 1 1 6 5 q1 1 1 6 5 1 2 5 6 1 5 1 2 5 6 1 6 1 4 1 6 5 5 q5
+q6 q1 2 6 q6 q1 q1 2 0 6 5 q6 s5 6 1 5 5 3 1 5 1 2 6 5 4 1 5 2 5 1 1 6 6 1 5 5 6 5 6 5
+1 2 ,6 1 2 2 0 6 6 5 1 1 1 6 5 1 5 1 2 6 5 1 1 1 2
+%END

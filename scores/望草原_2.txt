@@ -1,0 +1,19 @@
+%望草原_2.txt
+% 出处 https://www.jp114.com/jianpu/1201413.html
+title=望草原
+tag=
+usertag=
+tagroute=
+confidence=0.604
+conf_p10=0.320
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1201413
+%--
+4/4
+subtitle=score
+s,6' s,6. s,6' hx q,2' qx' q,2 q,1 6' 2'. q,,x' x' x' 2' h1 - x' 1' s2' s1' s6 d1 h,1 d1' d1' d1 dx' sx' s,1' s,1' 0 2'. q6. q6. s,,x' qx' - dx q,,x q0
+q1 qx' s5 s,,5'. sx' s1' sx' sx q1. s6' s0 d6 s0 d1' qx' q1 h1 q1 1' q1' q1' hx s1'. s,5 s,1 d,1 h1 - d1 h1'. d,x d1 d1 dx' d1'. q1' x. 1' 1' 1
+1 h,1' 1 x 1' 5' q1' 1' 1 1 ,1' q6' s0 d0 q1' 1 2 1 x 2 q1 q1' d1 q1 q1 d1 q,,1' q,,1' q6' q6 q6 h3 h3' 2 2' x' s2 dx dx' dx'
+q1' q6 q1' q6 q,6 q6' s,,,5' 0 q2' 1' q1'. q1' q1' h1' h,x' qx' q1 q1' q1' q,2' qx q1' x' 1' 1
+%END

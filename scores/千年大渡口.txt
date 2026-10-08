@@ -1,0 +1,19 @@
+%千年大渡口.txt
+% 出处 https://www.jp114.com/jianpu/1201201.html
+title=千年大渡口
+tag=
+usertag=
+tagroute=
+confidence=0.593
+conf_p10=0.306
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1201201
+%--
+4/4
+subtitle=score
+q1 qx s1 s1 s1 q1 q1 q1 ,6 6' 6' q1 1 d1 s1. q1 q,1 s1 - ,,1. 0 - s,,1 s,1 s,5' q3 q5' q5' q6 q1' q1' s1' 1 ,6'. h3 h6 3 3 s0 h0
+x' 1 1 1' q,1' q6 q,,1' q1' h6' q3' 6 h5 x' 0 x' q0 h1 h1' s1' q1' h0 s0 d0 s0 q0 q1 q1' qx q6 q,1' q1' q1 ,6' hx 6' s0 d,5 q1' s1' s1
+s,1 q1 1' s1' 1' s1' s,1. sx' ,,1' ,x' s0 ,,x' d1 0 d,1 h5 h0 h1 h1 s1' q1' h1 s5' x' 1' 1' x' x' d1 d1' 1' 1'. 1 ,1' q1'. q1' q1' s1 qx q1'
+h0 h0 s0 s2 d0 h0 h0 h0 h0 d0 s1'. d1' h,x'. hx s1'. s3' d1' q1' h1' q1'. qx d1 d1' d1 d1 hx q1 qx' sx' q0 sx s0 s1 d,5.
+%END

@@ -1,0 +1,17 @@
+%多么美丽我的国家.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=45843
+title=多么美丽我的国家
+tag=
+usertag=
+tagroute=
+confidence=0.987
+conf_p10=0.983
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-45843
+%--
+2/4
+subtitle=score
+q5 q5 q6. s5 q5 q6 q7 q1' q1' q1' q1' q5. s4 q3 q2 q2 q1 2 q2 q5. q4 q3 q2 5 q5 q5 5 q4 q3 q2 1 x 2 3 q4 q5 3 q3 s1 2
+s2 q1 q3 q3 s2 s3 s4 q5 q3 q3 1 q2 2 7 1 0 x.
+%END

@@ -1,0 +1,21 @@
+%最后一个梦.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=45622
+title=最后一个梦
+tag=
+usertag=
+tagroute=
+confidence=0.952
+conf_p10=0.853
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-45622
+%--
+4/4
+subtitle=score
+6. qx' q6' 3' 3' q4' q4' q4' 2' 2' 3' - 6' 6' q3' q3' q4' q4' q4' q2' q2' 3' - q3' 6 6 6 6 q2' 5 5 5 5 q,5 q5 q2 q2 q6 q6 6'
+- q6 q6' q2' q2' 6' - q3 ,6 q1 q6 5 ,6 - q,6 q2 q1 q,5 ,6 - q6 3 3 q4 q2 2 ,6 q2 q2 1 2 - x q6 q2' q2' q1' 2' - q3
+q6 6 q7 q3 3 q2 q5 q5 q2 5 - q3 q,6 q1 q,5 ,6 - x'. q7' qx' 3' 3' 5' 5' q2' q2' 3' 3' - q6 q6 q6' q6' q2' q2' q2'. q2' 6' 6' -
+3 3 3 q,6 q1 6 s5 ,6 - q,6 q2 1 ,5 ,6 - q6 q3 3 1 4 2 2 q,6 q2 2 q1 2 - x q6 q2' 2' 1' 2' - 3 q6 6 q7 q3
+3 q2 5 5 q2 5 - - 1' 6 1'. q6 1'. 7. q7 7 q6 q5 q6 q3 3 q6 3 q3 q2 3 - q6 1'. 6 1'. 7. 7 7 q6 q5 6 3 3 q2
+q5 q5 2 5 - 3 q,6 q1 q,5 ,6 - 6 3 4 2 3 - 7 3 5 2 - 6 - - - 6 - - -
+%END

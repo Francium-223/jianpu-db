@@ -1,0 +1,18 @@
+%小小运动员.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=28088
+title=小小运动员
+tag=
+usertag=
+tagroute=
+confidence=0.934
+conf_p10=0.638
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-28088
+%--
+2/4
+subtitle=score
+- - 2 2 4' 1. x x 1' x 1 ,5 x 3 3 3 1 3 1 5 5 3 5. q5 6 5 - 3'. q5 2 3 - 2. 2 5 2 - 3'. 5 2
+1 0 1 1 6 - 5 - 1' 5 q6 6 0 5. 2 3 3 0 3 3 5. q5 6 6 0 5 5 ,1' 0 5. 5 5 5 1' - 5 5 5 0 1
+0 6 2'. 2' 2' 2' 5. 6 1' 0
+%END

@@ -1,0 +1,20 @@
+%愚公移山.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=42829
+title=愚公移山
+tag=
+usertag=
+tagroute=
+confidence=0.995
+conf_p10=0.994
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-42829
+%--
+4/4
+subtitle=score
+0 1 1 1 5 4 4 q2 q3 2 2 2 - - 0 4 4 3 2 1 6 q5 ,5 - - - 0 1 1 ,6 ,5. q1 1. 2 5 4 q3 q2 2. 2
+2 4 5 q5 6 4 3 2 q2 s3 1 - - 2 - - - 5 0 5 0 0 5 4 4 - - 5 5 - - 5 - - - 5 2 5 2 q5
+q6 q5 4 3 2 1 2 4. 3 2 1 1 2 5 7 6 - - - 1 q1 7 6 1 2 3 q1 1 6 1 2. 2 2 2 2. q6 6 2 4 -
+4. 3 2 5 2 5 2 5 6 5 q4 q3 2 1 2 4. 3 2 1 2 2 5 7 6 - - - 1 1 7 6 1 2 3 1 1 q1 2 4 4
+4 4 - 4 - 5 5 1 2 - - - 2 - - - 2 0 0
+%END

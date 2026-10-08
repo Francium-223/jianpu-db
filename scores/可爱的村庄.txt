@@ -1,0 +1,18 @@
+%可爱的村庄.txt
+% 出处 https://www.jp114.com/jianpu/1203083.html
+title=可爱的村庄
+tag=
+usertag=
+tagroute=
+confidence=0.943
+conf_p10=0.672
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1203083
+%--
+4/4
+subtitle=score
+2' 2 6. 2' 5 5. 1'. 3. 5 2 2 2 3. 5 2' 1 5 6 5. - 3 1. 2 1. 2 3 2. 2. 3 5 5 6 1 0 5 - - x'. 6 6
+- 2' 2 - - 6 2 2 6 q1 5 0 2. 5 6 q1 6 2 - 5 6 2 ~ 2 3 3. 2 q1 6. 6 2 2 6 5 3 3 - 7 6 6
+- - - 6 0 0 0
+%END

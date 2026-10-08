@@ -1,0 +1,19 @@
+%雄鹰.txt
+% 出处 https://www.jp114.com/jianpu/1201318.html
+title=雄鹰
+tag=
+usertag=
+tagroute=
+confidence=0.561
+conf_p10=0.270
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1201318
+%--
+4/4
+subtitle=score
+1 q1 s6 s2 s3 s4. s1 q1. 4'. q,4. q1' x 1 x x s1 - 1' - q6 ,,1 0 q,1' ,6' s1'. 1' 1'. 6'. 6'. 2' s1 s1 s1' s1 s0 s1' 1' h1' s1 q7
+x' q,6' qx h6. h1 s1' s0 q1' 1 hx' s1 h1 h3 d3 1' s1' s1' h,,1 s1' d,1' 6' 1 1' 1' 1' h0 s1' s1 s1' d,,1'. ,1' h1 h1' h1' h1 s5' s5 s5' q6'. 6'.
+q1' qx' q1' h3'. d1' d3 h3' h,,1 ~ h,1 ~ h1 s,1' s,1' s,1' s,x' s,6 hx' h3 h3' 0 0 0 1' 0 1' d1' d1 d1' h1 h1 h1 q1' q1 s1' s1 hx s2' h1' h1
+sx' h1' h1' h1' h1' h,1 q1' q1 sx' s,x d1 qx x hx s0 s0 sx' q3 q2 d3 d1' d1' 3 3' 3' 3' 3' 6' 1
+%END

@@ -1,0 +1,19 @@
+%美丽夏津.txt
+% 出处 https://www.jp114.com/jianpu/1202068.html
+title=美丽夏津
+tag=
+usertag=
+tagroute=
+confidence=0.664
+conf_p10=0.387
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1202068
+%--
+4/4
+subtitle=score
+q5' q5' q6. q5' q6'. q5' 2'. q1 q6 q6 h7 h7 q1' d1 s5' s5' s2' s2' s2' s4' s1 s1 s,1 s1 sx q6 q6 q6' q6' q5' s1 s1 s1 5 5 2' 5 5' 1 1
+q2'. q7' q2'. s5 q2 h6 q,1 ,5' ,5 5 5 q5 5 2' ,2 ,6' ,6' d6 s6 s6 1' 5. 5. s,5 2 q,,1 1' 4' ,,4' 2 ,2 ,2' ,5' 3' d1 h,6' s6' s5' s5' 6'
+s6' s,7 h2 s,2 s6 s1 s5' x 4 2 1 6' 5' 2 ,4' 2' s4 5' s6' s6 ,5 ,2' ,5' ,,6' 6'. ,1 4 ,1 x 1'. 1' 1. 4 5 q2' q2' q2 h1 q6 q1
+d1 1 5 2' q5' q,1' s1. q2' q1' qx s,2' s,7' s,1 q,7 d6' s1. q4' d2' q1' d6' 5' 3' ,1' 5' 6 5 6 ,5 q2 q,4 q1 1 1' 6'
+%END

@@ -1,0 +1,22 @@
+%四海流芳.txt
+% 出处 https://www.jp114.com/jianpu/1201978.html
+title=四海流芳
+tag=
+usertag=
+tagroute=
+confidence=0.792
+conf_p10=0.458
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1201978
+%--
+4/4
+subtitle=score
+1 - - 1' x 1 x x' x' 2' x' 2' x 6. x 6 2' x 7 6 5 6 x x 2 x x' 6 x 6 2' 0 6 x x 2 x 6 2 1
+0 x x 6 x q5 s5 3 q2 q6 sx q3 6 5 - q1 q1. qx q1 6 5 x q2 s5 s5 q6 2 - q5 q,5' q5 s5 q5' q5 q5' q5' q5 q3 q2 d1
+d1 s1' q1 sx q1 q7 q1 x 1' q1' q1. q,6 q6 q6 q,1 s,1' s3 q3 s3 q2 q2 q6' q6 q6' qx' 5 5 q5 q6 5 s1 d1 q,1 q1. ,,1'. q1 q,,,1 q,,1 qx q1
+s1 q1. q1 q1'. q6'. q1 q0 q0 q0 5 3 ,3 3 3' 3 sx q1 s1 q2 q5. q,5 q5 q5' q5'. q,6 q5 q1 s1' q1' q1 q5 x' 2 0 1 1 5'. s,5 1' 5
+,,5' ,5 ,5' q1' x 2' q6' q2 1' 1'. q2 1'. 1 1 6 5 1 3 2 q5 6' 1 2 1 5 5 2' s,,x 1 q2 0 x s1 3 1 x. 1 q1 6'. q0
+,1' 5 1 qx q2 x x. ,x 5 x x. 5 0 1' 2 - - - 1 q1. q2 s2 hx s5 q6 s1 5' s3 d2 qx s5 d1 d5 s6 s1 q5 h5 d5 q5 x
+1' 0 0 0
+%END

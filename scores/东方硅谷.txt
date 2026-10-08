@@ -1,0 +1,20 @@
+%东方硅谷.txt
+% 出处 https://www.jp114.com/jianpu/1201922.html
+title=东方硅谷
+tag=
+usertag=
+tagroute=
+confidence=0.694
+conf_p10=0.400
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1201922
+%--
+4/4
+subtitle=score
+1 ,5 ,1 ,1 q5 5. q5' 5 - 1' 6' ,5 6 x' q3'. q,x' 5' x qx q1 q5. q5. q5 s1. x 5 1 3 q3. qx' ,6. 6 qx x x 5 qx q,2 qx q,x
+,x'. - qx qx q1 7 3 6 x q2 ,2 6 5 - 0 x 2 x - 5 q2 - 2 q2 q3 q6 q6 ,5. - 1 1' q,x q5' q4 ,6 ,1 1 1 ,2 x
+x' - 1 x - x x' 5 5 x x' x 1 x 3 x' 5' 3 2 2 5' 5 q1' 5 q1 1' 3 5 1 1 1 1 2 1' 1' q4 q1 q,1' qx x'
+0 x ,1' 1' 1 1 1' q1' ,x qx x 1 q5 qx 1' q4 2' 1 1 1' q1 qx q,x q6' qx 1 x 2 1 5 1. 5' ,6 ,1 1'. 4 2'. ,x 1 0
+0 2 1 1. x x. q,x x. x 0 x x
+%END

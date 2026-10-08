@@ -1,0 +1,22 @@
+%月满西楼.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=44545
+title=月满西楼
+tag=
+usertag=
+tagroute=
+confidence=0.995
+conf_p10=0.991
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-44545
+%--
+4/4
+subtitle=score
+x q3 q2 q3 q2 q1 q2 q2 q,6 ,7. q2 q,7 q,6 q,5 q,6 q3 q2 q3 q2 q1 q2 q2 q,6 ,7. q,5 ,6. q,5 ,6 - - - s6 s3 s5 s6 s2 s3 s6 s5 3
+- q6 q6 s5 s6 q7 6 - 6 s5 q6 2 3 - q3 q3 s2 s3 q1 2 - q2 q2 s2 s3 q4 3 - q6 q6 s5 s6 q7 6 - 6 s7 s6 s5 s2
+3 - q3 q3 s2 s3 q1 2 - q5. s3 q7 s6 5 6 - x s6 s7 s6 q7 s6 s7 s2 s7 s6 s7 s6 s7 s6 s7 s6 s5 s3 s2 s3 s2 s3 s2 s5
+s3 s6 s7 s6 s7 s6 s7 s5 s7 q6 q6 s1 s2 s7 s6 1. q7 q6 q2 s2 s7 q6 5 - q2 s0 s3 s2 s3 q5 q6 q6 s3 s4 s3 s2 1. s2 s3 5.
+s3 s5 q6 q6 s1 s2 s7 s6 1. q7 q6 q2 s2 s7 q6 5 - q2 s0 s3 s2 s3 q5 q6 q6 s3 s4 s3 s2 1. s2 s3 5. s3 s5 q2. s3 s7 s6 q,5
+,6 - x 6 7 q6 q7 q6 q5 q3 q2 q5 q6 3 6 7 q2 q7 q6 q5 q3 q2 q5 q6 6 1. s2 s3 5. s3 s5 q2. s3 s7 s6 q,5 ,6 - 1. s2
+s3 5 - 5. q6 1. q7 6 -
+%END

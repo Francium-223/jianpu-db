@@ -1,0 +1,23 @@
+%火车.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=40792
+title=火车
+tag=
+usertag=
+tagroute=
+confidence=0.757
+conf_p10=0.381
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-40792
+%--
+2/4
+subtitle=score
+1 - - x 0 x x' 1' 1 x' x 1 qx q0 q1 q3 2 0 q3 q3 3 q6 q1 ,6 q6 3 ,3 - q0 q,2 q2 q1 2 q6 q1 ,6 q6 3 qx 1'.
+1'. 1' 1' 5' 5'. 1 5'. 5. 1' 5'. q5' 1' 1' 1' 1' x q,1 x' s6 q6 q,6 q6' q6 0 q1 q,1. q3'. sx' q3'. 3'. q,6' q6' q1. q1'. q3'. q3' q6' q3 h3 h,3
+h1' q6. s,1 q6'. q6'. 1 x 6 ,3. x' ,x' 3' x ,x' q,x' qx' q,3' qx' q5 hx' s,,3' 5' 1. s,x 5' 1'. q3 1' q,5 1 ,1' ,1' 1 ,x' 1'. ,1' ,x' 1' 1 s,,1'
+q1' q1' s,1' q3' qx q,x qx' q1 ,1' ,1' ,1 hx' q1'. q1'. 1' 3 1' 1' q1 3 x ,3' 3'. ,3'. 2 3 q3' 2 ,3 3 ,,3' q1' q1' q,,,1 q,1' x' 1'. ,,,1' q1' q,1'
+q,1' q,x' q,1' 1 1 1 s3 6 q5 q6 1' 1 1 1' q1' 1 2 1 q1 1 3' q3 q0 1 0 3 q5. d0 2' 2' 2 s,2' 6 1 6' 6 1' q6 6 1'
+q6' 1' q6' 6 ,1 1 1 1' ,1 1 1'. 1' s,6 q1 6' q6' 6 3' 3 q,3' q3 s,,1 q,,1' ,1' q1' 1 1 6 q,1' q,1' q,1'. q,,6. q6 q6 q6' s1' s6 5 q6 q1'.
+q1 q1 q1. s,,6' q1' q1 q1' q5 s3' s1 q1. q1' q1 q3 q2 6 6 1' 1 q1 1. q6 1 q5 5. 3. ,x 5. q6 q6 1 3 3 6 5 1. q1 1 q3 3
+q2 1 q6 q,,x q5 1 1 -
+%END

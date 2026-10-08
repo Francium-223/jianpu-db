@@ -1,0 +1,18 @@
+%山妹子_2.txt
+% 出处 https://www.jp114.com/jianpu/1202005.html
+title=山妹子
+tag=
+usertag=
+tagroute=
+confidence=0.675
+conf_p10=0.364
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1202005
+%--
+4/4
+subtitle=score
+2 s1. - - 1 ,3 - - 3. - - qx - - 1' x x q1'. x. 6 - - qx. q1' 5' x. q2' - q2'. s2 x' 6' 1' - - 0 - 2' - -
+- qx q1 q2 q6' q2 - q6 q6' - 0 q6 q6 q6 q2 - - - - - - q3'. s5 - 6 0 2' 2' - q1' 6 - 2' ,6' q1 6 s1 q,1. sx' d5'
+d1 s5 s5' q,6 q,5 q,5' q,5' s2 s2 q2 ,1 5 x 6' q6 6 x' - qx q,,1' ,x' 3 d,,1 q6 - - - - 2'
+%END

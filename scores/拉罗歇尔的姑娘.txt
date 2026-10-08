@@ -1,0 +1,19 @@
+%拉罗歇尔的姑娘.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=45815
+title=拉罗歇尔的姑娘
+tag=
+usertag=
+tagroute=
+confidence=0.989
+conf_p10=0.992
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-45815
+%--
+6/8
+subtitle=score
+1 q2 3 q4 q3 2 q3 q4 5 q3 1 q2 q3 q4 q3 2 q3 1 q0 5 q6 1. 1. 1. 1. ,5. 1. ,7. 1 q0 1. 4. q2 q3 q4 3 q3 5 q6 4.
+q2 q3 q4 3. 5 q6 4. 2 q3 q4 2. ,7. 1. 3. 2. ,7. 1. 3. 2. 5. 3 q0 1 1 q2 3 q3 3 q3 5 q5 1 2 3 q3 q3 q2 q1 x 5.
+1. 1. 1. 3. 1. 1. 1. 2 q0 1 q2 q3 q3 q3 q3 q3 q3 5 5 1 q2 q3 q4 q3 2 q3 1 q0 ,5 q0 1 q,5 1 q1 q1 q1 1 q1 ,7 q,7
+1 q1 q1 q2 q3 5 q5 ,1 ,1 0 0
+%END

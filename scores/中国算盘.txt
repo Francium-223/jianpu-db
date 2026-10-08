@@ -1,0 +1,17 @@
+%中国算盘.txt
+% 出处 https://www.jp114.com/jianpu/1202114.html
+title=中国算盘
+tag=
+usertag=
+tagroute=
+confidence=0.968
+conf_p10=0.772
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1202114
+%--
+4/4
+subtitle=score
+5 3 5 6 q6 q6 q6 - 6 5. 6 5 3 5 3 5 6 q5 q6 x' 3 3 5 6 3' 5 - - 3 6. 6 q1'. - 5 3 - - - 0 q5'
+6 5 3 3 3 q6 q6 q6 - - - 5 5 q5 3' 3 6 5 5 6 - - - - - - - -
+%END

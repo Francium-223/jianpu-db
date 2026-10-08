@@ -1,0 +1,23 @@
+%有没有人告诉你_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47280
+title=有没有人告诉你
+tag=
+usertag=
+tagroute=
+confidence=0.993
+conf_p10=0.988
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47280
+%--
+4/4
+subtitle=score
+x 0 s0 q6. q6 q5 q2 q2 2 q3 s3 s2 s1 2 - s0 s1 s1 s7 6 q6 q7 q1 3 3 s1 s2 s1 q7 7. s0 s3 s6 s6 s6 s6 q6 s6 s6 s6
+q6. s3 q5 s4 4 - - q0 s2 s5 s5 s5 s5 q5 s5 s5 s5 q6. s1 q7 s3 3 - - q0 s3 s6 q6 s6 s6 q6 s6 s6 s6 q6. s3 q3 s2 2 -
+- - q0 s7 s7 q7 s1 s7 s7 q3. s7 q1 s7 7 - - q0 s3 q0 s7 s7 q7 s1 s7 s7 q5. s7 q1 s6 6 - - q0 s3 s6 s3 s3 s3 q3 s1
+s6 q6. s3 s3 q3 s2 2 - - q0 s2 s5 s5 s5 s5 q5 s5 s5 q5 q6 s7 q1 s3 3 - - q0 s3 s6 q3 s3 s3 q3 s1 s6 q6. s3 s3 q3 s2
+2 - - - q0 s2 s2 q2 s2 s2 q2 q3 s7 q1 s6 6 - - x q0 q3 q3 s5 s3 s5 s3 s5 s3 s5 s3 s5 s3 s5 s3 q3 q3 q2 d2 d1 s6
+q1 s2 2 - s0 s5 q6 s1 q7 s5 5 - 6 3 - - - s0 s3 s5 s7 q1. s2 s2 q5. s3 2 s3 d1 d6 q1. s1 s5 q0 s5 q5. s5 q2. 2 s3
+s2 s1 s6 s1 s2 2 q0 q,7 q1 q2 q1 q1 q1. d,7 ,7 q,7. qx s3 3 - - q3 s2 s4 4 - - - 5 - q5 q6 7 3 - - - 3 - -
+q3 q2 s4 4 - - - 2 - - q2 q1 ,7 - - -
+%END

@@ -1,0 +1,17 @@
+%洗手擦脸.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48880
+title=洗手擦脸
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.997
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48880
+%--
+2/4
+subtitle=score
+3 3 q1 q3 q5 q5 3 s5 s6 q5 s6 q5 q6 q5 q5 3 q3 q3 q1 q2 3 3 2 s1 s2 q1 q2 q1 3 q3 q4 q1 q1 0 q6 q1 0 4 6 5
+- q5. s6 q5 q3 4 2 1 - 1 0
+%END

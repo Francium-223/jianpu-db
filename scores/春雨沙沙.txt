@@ -1,0 +1,17 @@
+%春雨沙沙.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48843
+title=春雨沙沙
+tag=
+usertag=
+tagroute=
+confidence=0.997
+conf_p10=0.998
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48843
+%--
+2/4
+subtitle=score
+x q5 3 q3 3 q1 q3 q3 q3 q2 q2 q1 q2 q3 q1 q1 1 5 3 5 3 q1 q1 1 5 3 5 3 2 q2 2 5 3 3 5 3 5' 6' 5 5
+3 3 2 q1 q2' q3' 1
+%END

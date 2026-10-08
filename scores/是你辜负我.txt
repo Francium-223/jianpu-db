@@ -1,0 +1,24 @@
+%是你辜负我.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=1365
+title=是你辜负我
+tag=
+usertag=
+tagroute=
+confidence=0.972
+conf_p10=0.962
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-1365
+%--
+4/4
+subtitle=score
+1 1 x qx q1 q1 3 2 1 x - - x 6 x. x q0 s3 s5 6 q1' s1' s1' 6. s6 s1' 2' q3' s3' s2' 2'. s3 s5 6 q1' s1' s1' 5. s3 s5
+q6 s3' s2' q1' s2' s1' 6. s6 s1 2. q3 q5 s6 s5 q3 q2 q1. s3 q2 q1 2 - q3 s3 s2 q3 q5 1' s6 s1' s6 s5 6 q1'. s1' s6 s5 q6 q6 q0
+,6. q1 ,3. s3 s3 q2' q1' s6' s1 s6 s5' ,6 - q3 s3' s5' q6 q5 q3'. s5' q2' s3 s5' 3 - - - 2. s2 s3 s2' s3 s2 s1' q2' q1' q,6 s6 s1 q,6
+q,5' ~ s5' q,3'. ~ ,3' q,3 q3 q3 s3 s2 1 s6 s1 s6 s5 ~ q,5 q,6' ~ ,6' - - 3. q5 q1 s6 s1 6 q5 s6 s5 s3 s5 s3 s2 3 - q3 s3
+s5 q6 s6 s1 q5. s6 q2 s3 s5 - - 3 - - - ,6. d6' s1' q2 s3' s2' 2 q1 s2' s1' q,6 q,5' q,3' ,3. q1 q1 q1 q2 q3. s6 q5 s5' s3' 2 -
+- - ,6. s6' s5' ,3 q,5 q,6 q,6'. s1' s2' s1 s6 s5' ,6 - q6. s5 q6 q1' q5'. s6' s5' q3 s2' 3 - - - 2. s2' s3' q6' s5 s6' q5. s1 q2 q3 s2'
+s3 s2 s1' 2 - s3 q2. q3 q5 1' s6' s1' s6 s5 6 - - - x 6 q6 q1' q6 s6 s1' q6 s5 s6 q5. s5 s3 s5 s3 s2 3 - 6 q6 q1' 6.
+s5 s3 q2. s3 s2 s3 s2 s1 2 - q3 s3 s2 q3 q5 1' s6 s1' s6 s5 6 q1'. s1' s6 s5 q6 q6 q0 x. x s6 s1' s6 s5 s6 s1' s6 s5 s6 s1'
+s6 s5 q6 q3 s5 s6 s5 s3 s5 s6 s5 s3 s5 s6 s5 s3 q5 q3 q3 s3 s2 q3 q5 1' s6 s1' s6 s5 6 - - -
+%END

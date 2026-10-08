@@ -1,0 +1,19 @@
+%洗菜心.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47990
+title=洗菜心
+tag=
+usertag=
+tagroute=
+confidence=0.991
+conf_p10=0.995
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47990
+%--
+4/4
+subtitle=score
+x 1 3 5 1. 1 1 6 5 5 6 1 6 3 5. 5 3 3 5 6 6 1 3. 5 3 1 6 q5 q5 q6 q1 q6 q3 q5. q5 3 q3 q5 q3. q5
+q1 q6. q5 q3 3 6 q3 q0 q3 - q6 3 q1 q6 q5. q3 q3. q5 6. 6 0 3 5 3 0 2' 3 3 3. s3 5 q1 q3 q0 q6 3 q6 1 6 s3
+s3 q6 1 6 q0 6 3 3 6 1 1 1 3 6 - 3. 5 6 6 0 3 5 3 0 - 6 5 0 3 3 5 3 0 5 3 - 1 6 6 3
+3 6 1 1 3 1' 3. 5 6 6 0 3 5 3 0
+%END

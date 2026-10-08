@@ -1,0 +1,18 @@
+%广州，向阳之州.txt
+% 出处 https://www.jp114.com/jianpu/1201950.html
+title=广州，向阳之州
+tag=
+usertag=
+tagroute=
+confidence=0.705
+conf_p10=0.395
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1201950
+%--
+4/4
+subtitle=score
+q4' q1 q4 q1 5' 4. s1 s1 d1' d1 5 ,6 1 s5 d5 1 x x' 6 2 1' 1' q,6' qx' q1 q1' q5' q2 q3 q,4 q1 q4 q4 q1 q1 x q6 q1 1 x'
+5 x 1' q1 qx q1' 1 1 1' ,,1 ,,1 ,1 ,1 q,1 q1 6' 1 1' q2' 0 1 ,5 5 1' 7 1'. ,,5' 2' ,2 ,,2' ,,x' q1' q2' - s1' s,1 q3 d,,5' s,,3 1'
+x q5' q,5' 1 5' 1' 1 1 1 1 x ,,x' x' x x 1 0 2' 0 x' x x ,5 ,5 q,6 q2 qx 5 x x x x - x 0
+%END

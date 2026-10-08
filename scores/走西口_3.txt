@@ -1,0 +1,17 @@
+%走西口_3.txt
+% 出处 https://www.jp114.com/jianpu/1203223.html
+title=走西口
+tag=
+usertag=
+tagroute=
+confidence=0.786
+conf_p10=0.360
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1203223
+%--
+4/4
+subtitle=score
+qx q0 2 x' x 1 1 x' - 3' 2 2. 2 5 q1. q2 x ,2 1' 2 x 0 2 q1' 0 x 0 2 7 0 q1 2 3' 7 0 - 2 0 0 qx
+,2 q2' s1 ,2 - x 3 5 5 - q5 - x'. x. x
+%END

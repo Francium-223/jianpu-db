@@ -1,0 +1,17 @@
+%大鞋和小鞋.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48517
+title=大鞋和小鞋
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.999
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48517
+%--
+2/4
+subtitle=score
+5 5 6 6 3 5 6 5 5 q5 q1 2 3 - 4 4 3 3 1 2 3 2 6 5 4 3 2 2 q2 q2 1 - q5 q5 5 4 4 4 6 6
+6 q5 q5 5 4 3 2 2 2 q2 1 -
+%END

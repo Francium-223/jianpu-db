@@ -1,0 +1,21 @@
+%高歌向未来.txt
+% 出处 https://www.jp114.com/jianpu/1202461.html
+title=高歌向未来
+tag=
+usertag=
+tagroute=
+confidence=0.755
+conf_p10=0.445
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1202461
+%--
+4/4
+subtitle=score
+qx - x' 0 q7' q1' q2'. ,x q5 q5 q6 q4 x - 5. 0 q3. qx q1 6 qx q2 qx 2' 5. 5 q4 x 2 3' q2 5 5 q2 x x q3 q2' qx q5
+q3 q4 q5 ~ q5 q4 qx q2 ~ q2 5 q2 q5 q2 3 q4. x' 2 q3 q5 5. 2 x q1 6' x' sx sx' sx h1 6 s6 s6' d1 q1. d1 d3 ,1 q1 1'
+,2 ,1 1' 1' s5 q1. 1 5 ,3 q3. x q1 1 6 x ,1. 6' 6 5 q,5 s5 ,,5 q1' q1' q6' q1 q3' d6 qx s,1 s,,1 q3' q5' q4' q5 q6 s2 q1 q5 q1'
+1' 1'. 5 5' 2 q1 2' 2' 7 q5' 5 q1 q1 x 5 1' 1' q1' q1' q1' q1' q2' q2 x 1 3 q3 q4 sx q2 q3 q6 6 q1' s1' q,2 q2 q5 q3 q2
+q2'. q,,x q5 q3 q2 qx 1. qx 1 q2. s5 q3 q,x q2 1 2 x 3 4 q3. q3 q3 qx 2 q1 x d1 5' d5 5 0 x s5 hx s6 h1 s7 sx d1. s2'
+s6' sx' 4 s1 x'. q1 5' 5 sx s1 q1 5 x h5 h6 s3 h1 sx s2 ,,x
+%END

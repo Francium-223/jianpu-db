@@ -1,0 +1,21 @@
+%强军战歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=9152
+title=强军战歌
+tag=
+usertag=
+tagroute=
+confidence=0.990
+conf_p10=0.982
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-9152
+%--
+4/4
+subtitle=score
+x q1' q2' 3' 3' 2' q2' q3' 1'. q6 5 q1' q2' 3' 3' q3'. s1' q2' q3' 2' - - q1' q2' 3' 3' 2' q2' q3' 1'. q6 5 q5 q1' 2' q2'. s3' q2' q5 2'
+q1'. s1' q1' q1' 1' q1' q2' 3' 3' 2' q2' q3' 1'. q6 5 q1' q2' 3' 3' q3'. s1' q2' q3' 2' - - q1' q2' 3' 3' 2' q2' q3' 1'. q6 5 q5 q1' 2' q2'.
+s3' q2' q5 2' 1' - - 0 3' 2' 1' 0 q3'. s3' q2' 1' 0 3'. q2' 3' 2' q2'. s1' 6 5 - 6. q7 q1' q6 0 5 q3' 3' 0 q3' 2' q3' q2' q5
+2' 1' 1' - - 0 q5' s5' s5' 5' q4' s4' s4' 4' q5'. s4' q3' q2' 1' q1' q2'. 1' - - x q1' q2' 3' 3' 2' q2' q3' 1'. q6 5 q5 q1' 2' q2'. s3'
+q2' q5 2' q1' s1' s1' q1' q1' q1' q1' s5 s6 s7 s1' q5' s5' s5' 5' q4' s4' s4' 4' q5'. s4' q3' q2' 1' x' q1' q2'. 1' 1' - - 0 1' - - 5' 5'
+5' 6' 1' - -
+%END

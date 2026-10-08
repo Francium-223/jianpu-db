@@ -1,0 +1,17 @@
+%家乡酒.txt
+% 出处 https://www.jp114.com/jianpu/1201470.html
+title=家乡酒
+tag=
+usertag=
+tagroute=
+confidence=0.938
+conf_p10=0.847
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1201470
+%--
+4/4
+subtitle=score
+1 6 ,1 ,1 ,1 6 5 6 5 3 5 q1 ,1' ,1 6 ,x 6 6 5 5 3 q2 - 3 ~ 3 3 5 5 6 5 3 3 - 6 3 ,5 - 3 3
+1 5 3 ,6 5 3 ,6 3 3 ,6 ,5 ,6 q,6
+%END

@@ -1,0 +1,18 @@
+%除草歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48352
+title=除草歌
+tag=
+usertag=
+tagroute=
+confidence=0.969
+conf_p10=0.890
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48352
+%--
+2/4
+subtitle=score
+1 1 4 3 4 x 0 0 0 0 1 3'. 2 1 6 3 3 2 1 1 6 6 3 1 3. 2 4 q3 1 6 6 1 2 6. 5 6 0 0 5 5
+5 5 3 5. 5 5 5 6 4 - 3. 2 1 5 3 3 2 4 1 1 - 6 - 6 - 0 0 0 0 0 0 0 0 q4 q1 1 qx - ,6 -
+,6 - 0 1 3. 2 1 ,6 0 1 3 3 2 5 3 4 3' 0 0 0 4 q1 0 0 4 3 3 3 q2 1 x 4 2 ,6
+%END

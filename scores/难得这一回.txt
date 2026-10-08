@@ -1,0 +1,19 @@
+%难得这一回.txt
+% 出处 https://www.jp114.com/jianpu/1203283.html
+title=难得这一回
+tag=
+usertag=
+tagroute=
+confidence=0.974
+conf_p10=0.940
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1203283
+%--
+4/4
+subtitle=score
+x x ,5 ,5 ,5 5. 6 q5 ,5 5 q6 5 - q5 5 5 q6 q6 q6 q5 ,6 5 5 3 5 3 ,3 ,6 x 0 x 5 5' q6' ,5 5. 5 q6 3 5
+- 5 5 5 3 5 ,5 ,5 q,6 3 5 5 5 5 ,6 ,5 5 5 5 5 5 3 5' q6 - q6' q6' ,1' 6 q6' 5 ,3 q2' ,5 q,6 sx q4 4 4 4
+4 6 4 6 - 5 5 q2 5 ,,7 ,5' 5 5 ,1 q2 - 5. 5 3' 5 5 5 6' q6 - q6 q6 5 q6' 3 - ,5 q,6 q5. q6 x - - 5. q6
+q6 5' q6' 3 6 5 5. q6 - - - x' - - - x x 0
+%END

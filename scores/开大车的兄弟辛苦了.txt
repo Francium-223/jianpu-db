@@ -1,0 +1,20 @@
+%开大车的兄弟辛苦了.txt
+% 出处 https://www.jp114.com/jianpu/1201838.html
+title=开大车的兄弟辛苦了
+tag=
+usertag=
+tagroute=
+confidence=0.704
+conf_p10=0.406
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1201838
+%--
+4/4
+subtitle=score
+x 1 qx' 5 5 5 5 q6 1. ,1' sx q0 sx q2 0 0 x s1 s2 s3 q,1. q,,1. sx q1 1. x 1. x x ,7 6 qx qx 5 5 0 1. 0 x' 2
+2 1 1' ,x x. q1 q1 s1 0 1' 1 1 x qx 2 x 1 5 5' 1 1 q,1 1' q,1' q1' q,1' q2 s5 q,3 q1' ,6 5' 5 q,2 1 q,,,1'. 1'. ,,1 1 ,,1
+1 1 2 q1 x x 2 s1 q1 5 1 2 ,2 6 ,6 6 2' 1' ,,,1. ,,,1 ,,,1 1 1' q1' 1' ,,1 2 1 1 q1 q1' q1 q1 sx s1' x 1' 1 1' 1
+qx q1 q0 1' q,,1 ~ q,1 ~ ,1 q1' q0 s1 s1 x qx x ,,,1' 1 5 5 s5 s1' q,2 q2 qx x 2 x' 3' q2'. q2. q1 1 1' x s1 q1 sx q1. x
+s1 d2 s1 q1' x 1' 0 0 0
+%END

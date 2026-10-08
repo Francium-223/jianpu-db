@@ -1,0 +1,21 @@
+%新流浪歌.txt
+% 出处 https://www.jp114.com/jianpu/1201589.html
+title=新流浪歌
+tag=
+usertag=
+tagroute=
+confidence=0.667
+conf_p10=0.372
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1201589
+%--
+4/4
+subtitle=score
+q0 q0 s0 q0 s0 s0 s2 h,,6 d,,x h1 h,,1 h1 h1 h1 s,1' h1 s,2 h,x q,1 q,1 ,x q2 s0 s0 qx' s1 s6 1' h1 d0 1' h0 q1' 1 q6' - h1 s0 sx sx'
+s6 h1 h1 0 s,1 d6' d2 s,2 q,2 s6 s0 s1' s1' s,1' s,1 s3 1' ,1' 0 6' 6 s2 0 ,1 d0 s0 d0 q0 q1' q1' x 1 q,1' q1' q0 q,1' qx' qx' q1' qx
+qx s1 s,1' q,x' q1 qx'. q2 qx' qx' 6 q0 s0 s0 q,,1 q1' sx' s1 q1' qx' s0 6 q6' q6' q6' s6 q2' s,1' x h1 h2' - h2' hx h,,1 d1' d4' d1' h1' h,,1' q1'
+s1' q5 d1' h6 h,x q,6 d6 d0 h2 s1' sx s2' dx 0 x 6' 1' 0 sx q,2 q,1' s1 s1 2. s2' h1 h6' d1' q4 h1' s,,1. sx. h,3' h,3' h1 q4'. d4 d1' d1 dx
+1' q2' q1' 2' ,x qx' q2 q1 q2 x ,1 1. q0 q1 q,,2 d2 q1 q2 0 2 d1. 6. ,,,x q0 d0 d2 h1 h1 d,2 q,6 s2 1 q6 1' q6 s1' q2' sx 2 q2
+s0 s2 q2' s1 s2 s1' q2 q6 q6 d0 q2 q2 h0 q0 q2' s1 h1' s1' s2 h2 q1 6' 1' 1. x q0 q0 s2 s2 q2
+%END

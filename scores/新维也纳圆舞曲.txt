@@ -1,0 +1,20 @@
+%新维也纳圆舞曲.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49653
+title=新维也纳圆舞曲
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.998
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49653
+%--
+3/4
+subtitle=score
+5 5 0 5 5 - 3' 1' 0 1' 1' 0 6 1' 0 6 1' 0 6 q1' q0 7 7 7 0 0 6 0 6 6 - 4' 7 0 7 7 0 6 2' 0
+6 2' 0 6 1' q0 5 5 5 - 5 5 0 5 5 - 3' 1' 0 1' 1' 0 6 1' 0 6 1' 0 6 1' q0 q7 7 7 - - 6 0 6 6
+0 4' 4' - 3' 2' - 1' 1' 7 3' 2' 1' - - 1' - - 2 - - 3 - - 4 0 4. q7 6 - - 3 - - 4 - - q5 q0 5.
+q1' 6 - - 2 - - 3 - - 4 0 4. 7 6 - 6 5 1' 6 4 7 5 3 6 4 2 0 0 5 3' 2' 1' 7 6 5 0 5 5 0
+5 5 0 5 5 0
+%END

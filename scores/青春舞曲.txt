@@ -1,0 +1,21 @@
+%青春舞曲.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=41833
+title=青春舞曲
+tag=
+usertag=
+tagroute=
+confidence=0.983
+conf_p10=0.979
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-41833
+%--
+4/4
+subtitle=score
+x q,6 s6 s7 q1 q,7 q1 q,7 q,6 q,3 q,6 s6 s7 q1 q,7 q1 q,7 q,6 q,3 q,6 s6 s7 q1 q,7 q1 q,7 q1 q2 3 - - - q2 s2 s3 q4 q3 q4 q3 q2
+q,7 q1 s1 s2 q3 q2 q3 q2 q1 q,6 ,7 q,7 q2 1 ,7 ,6 3 6 3 q6 q3 q6 q3 6 0 x q3 q2 q,7 q1 q3 q2 q1 q,7 ,6 q,6 q4 3 - q3
+q2 q,7 q1 q3 q2 q1 q,7 ,6 q,6 q,6 ,6 - q,6 q,7 q1 q2 3 q6 q4 3 q3 q2 3 - 3 2 7 1 3 2 1 7 6 6 4 3 - 3 2 7
+1 3 2 1 7 ,6 ,6 ,6 - q,6. d7 q1 q,7 1. q,7 q,6. s1 q,7 q,6 ,7 - q,7 q1 q2 q4 q3 q2 q1 q,7 ,6 ,6 ,6 - 6 ,6 q,6 q,7 1 q1 q2
+3 q3 q2 3 - q4 q3 q2 q1 ,7 q1 q,7 ,6 3 6 3 q6 q3 q6 q3 6 0 x q,6. d7 q1 q,7 1. q,7 q,6. s1 q,7 q,6 ,7 - q7 1 2 4 3
+2 1 q7 ,6 ,6 ,6 -
+%END

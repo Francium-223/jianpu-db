@@ -1,0 +1,20 @@
+%把心留住.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=43848
+title=把心留住
+tag=
+usertag=
+tagroute=
+confidence=0.993
+conf_p10=0.987
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-43848
+%--
+4/4
+subtitle=score
+x 3 q3 q2 3. q,5 q,6 q1 q1 q,6 2 1 q3 q5 q5 q6 q3 2 s1 d7 1 - - q0 q,5 3 q3 q2 1. q,5 q,6 1 s1 s2 1 - q3 3 q2 q3
+5. 6 s5 s6 s5 s3 3 - q2 2 q1 ,6 1 q2 2 q1 q3 q2 2 1 q1 q,6 ,5. q,6 q1 q,6 q1 q,6 q2 q1 1 0 q,6 q1 2 q2 q1 q3 5. 5
+- 6. q5 6 d6 s7 s6 q5 5 - - q0 q,5. 5 - - - 5 q5 q4 3. s3 s4 q3 q3 q3 q2 1 - q1 1 q1 q2 2 q1 q3 5. 5 - 5
+q5 q4 3. q3 3 3 q2 1. s6 s6 4 - q4 q3 q4 q2 2 - q3 q2 s1 2. 1 - - - x 3 q3 q2 3. q,5 q,6 q1 q1 ,6 2 1 q3 q5
+q5 q5 q6 q5 s3 s2 q1 q3 q2 q2 q2 2 - q4 q3 q1 q,6 ,6. s1 s2 q3 q2 q1 q,5 ,5 - q,5 q5 q5 s4 q3 q2 q1 q3 q2 1 - - - x
+%END

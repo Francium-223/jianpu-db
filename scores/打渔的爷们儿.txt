@@ -1,0 +1,26 @@
+%打渔的爷们儿.txt
+% 出处 https://www.jp114.com/jianpu/1202448.html
+title=打渔的爷们儿
+tag=
+usertag=
+tagroute=
+confidence=0.786
+conf_p10=0.437
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1202448
+%--
+4/4
+subtitle=score
+1 qx 0 0 x 2 x. s,,1. x 1 1 1 x ,1 x. 1 s,,5' s,5 s,5 ~ s,5 s5 5 s,5' s5 s,5'. ~ s5 s5 h1 d5 h5 d5 h5 d5 d5 hx d5 d5 q5
+x 2 5 s1 x q1 x 1'. 5. q6 4 s4 5 s5 q2 q5 5 1. q5 x q2 5 ,5 5' 1 q5' qx q,5 q5. s,5' q5'. q5 q,1 q1 q5'. q1 2 q2 4 q2
+4 q6 6 0 6' 0 q5' q2 5' q5 2 5 x q2. d3 s2 q3 q5 q5 5 q5 q5 qx sx s3 q2 q1 q2' q,x x q1 q1 q2 x x s2. d3 q,2 sx q5
+q5 5 5 q1' qx qx' s2 q,x qx q2 x q1 qx 2 ,x q2. sx q2 q3 q2 q3 q2 q3 q5. s3 q2 q3 q5 q6' 5 q,x q2. qx q2 3 q2 q3 q2 q3 q5.
+s3 q2 q3 q1 q5 q5 q6'. q6'. q6 5' 5 5' 5' x x x 1 q2 4 4' - q1 ,1' q6 sx s1 q1 1' 6 6' s1'. d1' d1' s1' 6' 0 4 2 1. 1
+1' 4 6 qx s1. x - 1. x' d1 1'. 4'. s5 s5 s5' 6 6 q6 q2. q2 q5 5 q,,x q4. q,4. q1'. s5 6 1 q6 q2 5' ,5' x. q,,x' q1 q,,x - ,,1' 1'
+0 - q1 - - x d,,5. s,5'. d4 s,5 s5 d5' d4' h4' h5' s,5 d5' h5' s,5 d5' d5 d5 d,5 s5 d1 h1 s5 s0 q1' q5' q5 ,5' 5 s5' 1' 1' q,5' q,5 d5' d5'
+s5' s5 q,5 s5'. q1 q1' q1 q1 1 q1' q5 h1 q1' qx q1' q2 2 q2 q1' h1. s1 s1 1 s1 s1' d1' s1' s1' q1 s1' s5' s5' s5' h5 5 s,1 s1'. q1' q1 s1'
+q5 h,1'. d,2 q,2 q1 q1 1' 1 s1' s1 s1' d1' 0 s2 h1 q1 h1' q2 h1' h1' q5 h5' h1 h1 q1 h5 s5 h5' d1 q,x q2 h1 sx d7' q5 q5 q,5' q1' q,5' q,1'
+d5 5 s1. s,5 s4 s1 ,5 ,5 q5' q5 s1 d5 5 h5 d5 q5 h5 d,5. h4 5 5' s5 s5 s5 s5 x'. d,5 d1' q3'. q2'. h5 h3 h,5' h1' h1. h1. h,1' h5'. h5' h5'.
+q5 q5' q5' h2 q2 h2'
+%END

@@ -1,0 +1,17 @@
+%音阶歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49030
+title=音阶歌
+tag=
+usertag=
+tagroute=
+confidence=0.962
+conf_p10=0.899
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49030
+%--
+2/4
+subtitle=score
+1 3 5 6 6 5 1 1 7 6 5 ,1 3 5 6 6 5 4 4 3 3 2 1 3 5 1 7 6 5 1 3 5 4 3 2 1 1. 2 3 4
+5 6 7 1 7 6 5 4 3 2 1 0 1' 0 1'. 0 1' 0 1' 0
+%END

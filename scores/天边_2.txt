@@ -1,0 +1,20 @@
+%天边_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=44376
+title=天边
+tag=
+usertag=
+tagroute=
+confidence=0.995
+conf_p10=0.984
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-44376
+%--
+2/4
+subtitle=score
+1 2 3 5. q6 1 q2 q3 ,6 2 ,5 - ,3. q5 ,5 ,6 1 q2 q3 q6 q5 q3 2. q3 2 - q3. q5 q5 q6 5. q6 ,6 1 2 q3 q5 3 - 0
+2 3 5 ,6 2 2 q3 1 - 1 - 1 2 3 1 6 - 1 2 3 q6 5 - 5 q,6 q1 q6 q5 q1 q1 q3 5 2. q3 2 - q1 q2 3 1
+6 - 1 2 3 6 5 - ,5 ,6 1 6 5 q1 q1 3 5 2. 3 5 - 5 q,5 q,6 1 - 1 - q1 q2 q3 q1 6 - q1 q2 3 6 5 -
+,5 q,6 q1 q6 q5 q1 q1 q3 q5 2. q3 2 - 1 2 q3 1 6 - 1 2 q3 6 5 - ,5 q,6 q1 q6 q5 q1 q1 q3 q5 2. q3 5 - 5 q,5
+,6 1 - 1 -
+%END

@@ -1,0 +1,19 @@
+%我的太阳_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=44324
+title=我的太阳
+tag=
+usertag=
+tagroute=
+confidence=0.972
+conf_p10=0.954
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-44324
+%--
+2/4
+subtitle=score
+1 - - ,x 1' x 1 0 5 4 3 2 1 1 2 3 1 ,7 ,6 ,6 ,7 1 2 q,7. 6 ,6 ,6 q,7 q1 2 q,6. q5 ,5 ,5 5 q4 q3 2 1 1
+2 3 1 ,7 ,6 ,6 4 3 q2 q5 3 2 1 2. q3 q2 3 q2 1. q1 q1' q1 q7 5 5 q5 q7 q7 6 4 - 4 7 7 6 4 4 4 q2 q3
+4 5 - 5 q0 5 5 6 - 6 4 q1 6 5 5 5 q3 2 1 5 - 5 3 2. q1 1 - q1 1 q1 q7 q5 q3 2 1 5 - q5 2 q2
+q3 2 q3 s2 1 - 1 0 0
+%END

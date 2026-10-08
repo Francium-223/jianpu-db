@@ -1,0 +1,21 @@
+%故乡的土地.txt
+% 出处 https://www.jp114.com/jianpu/1202926.html
+title=故乡的土地
+tag=
+usertag=
+tagroute=
+confidence=0.909
+conf_p10=0.663
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1202926
+%--
+4/4
+subtitle=score
+d5' d2 d5 d3 d3 q5 s5 3 3' s5 1'. s,5 d6 q1'. q6' s5' s6 d3' s2' s2' s3' s,6 s1'. s2' d3' h2' s2' s3' s6' s2' d6 q6 s6. 5 6 d5 d3 q5'. q2 s5
+s6' q5. q3' s3 d6 q6 d2 s6' d2 d2 s3 q3 q6 d2. s5 d3 d3 s6 d2 q,6 q6 s2 s3 q5' 2 - q6 s2 q3 q2 s3' s2 q3 q5 q3 q5. s6 s6' s5' q6
+q5 q5' q6' q5 s3 s2'. q3' 2'. 3' q6 s6 s5' s3 s5 s6' 3'. s2'. s3' s6. q6 6. 2'. q6 5 - 2' x x s2 x 1 3 q5 5 s6 s2 s2 2 0 3
+q2. d3 q5 q6 0 q1' 2' 2'. 2' - x. 3' ,x 3 s2' 3. 2 x x q2 x 2 qx q2' q3' 5 - 5 x. q,6 2 s1 q5 q5' q3 q5' q6 q5 s5' q3
+q5 q6 s6 - 0 6 s6' s5 q6' 2 0 5 x 3' x 3' - 2' x' q2 2' 6 1 5 3. q2 2 q3 5 5' 2 q2 q2 q3 q2' q,6' q2' 2' 2' 2'.
+1. q3' q2' 6 - - 2 0 1 3 2 3 1
+%END

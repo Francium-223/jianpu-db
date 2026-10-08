@@ -1,0 +1,19 @@
+%草原，我可爱的家乡.txt
+% 出处 https://www.jp114.com/jianpu/1202207.html
+title=草原，我可爱的家乡
+tag=
+usertag=
+tagroute=
+confidence=0.704
+conf_p10=0.399
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1202207
+%--
+4/4
+subtitle=score
+q1' q1 q6 ,6 ,6' q6 0 q,1 q,1 q1 1 6 ,6' - - 6 - - q3'. s2 s1 2 - - - 6 2 s1. d2 qx 1' 1' x 2' - - q1' q1 q6 q,6
+q6 s2 s2 dx d1 s2 d5 d0 s0 s0 s3 0 6 0 q,1' q1 qx s1'. s6'. qx s6 q6 s,6. sx sx q2 q2' qx' s5 sx' qx dx. s5 h1 hx x s6 s6 3' s6
+d1 qx s1 h3. d3. qx' 1 s2' s5' h5' s2' s5' h3' h6. q2 q,6' q,6' hx' h1 h1 d2 sx' h1 d1 d1 q6 d5 s5 q6 - h1 h1 d6 d1 d6 sx h0 q6 s1' x
+3 1' 0 x.
+%END

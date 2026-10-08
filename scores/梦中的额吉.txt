@@ -1,0 +1,21 @@
+%梦中的额吉.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=41831
+title=梦中的额吉
+tag=
+usertag=
+tagroute=
+confidence=0.980
+conf_p10=0.984
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-41831
+%--
+4/4
+subtitle=score
+x 3 q2 q3 3 - 3 ,6 - - q6 q3 q3 q6 5 2 q2 q,6 q,6 q2 1 q2 q,6 6 - - - 6 6 6 6 3 2 - 7 7 7 1 6 6
+- 6 6 6 3 2 2 - 1 0 0 - - 0 - - - 0 - - - q5 q5 s5 q6. 3 - q3 q3 q6 s5 s6 6 - q5 q6 q5 s3 s2 2
+- q1 q1 s1 q5. q3 q5 s2 q3. ,6 - - - q3 s3 s3 q3 q1 6 - q5. s6 q5 q3 2 - 1 1 1 5. 3 5 2 3. 6 - - - 6 -
+- - x 3 6 6 3 2 - - - - - - - - - q6 q5 q5 q2 3 q2 q1 ,6. q3 2 q6 q5 q5 q3 3 - - q6 q3 q3 q6 5 2
+q2 q,6 q,6 q2 1 q2 q,6 6 - - - 6 - - - 3 3 3 3 1 6 - 5. 6 5 3 2 - q1 q1 s1 q5. q3 q5 s2 q3. ,6 - - -
+q1 q1 s1 q5. q3 q5 s2 - - q3. 6 - - -
+%END

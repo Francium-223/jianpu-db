@@ -1,0 +1,21 @@
+%银色的毡房.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=9053
+title=银色的毡房
+tag=
+usertag=
+tagroute=
+confidence=0.961
+conf_p10=0.911
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-9053
+%--
+4/4
+subtitle=score
+1 x q1' q1 qx q2 q2 q2 q2 6 0 5 5 1 - - q2 q3 6 - - q5 q6 2' - - 6 5 - - - 1 q,5 5 q6 q6' q6. 5'. q5 5
+q3. q3 q,3. x q2. s2 q3 q5 ,5 - q1 1 q2 q3 s3 q6 d6 s1' s6 d6 d5 s2 q3 q5 - q6 1' q1' q2 s2 s3 q6 s6 s1' q6. s5 q5 s3 s2 q2.
+q3 q,5 q3 s,5 s,6 d,6 s1 q1 s2 s3 q2 s2 s1 q,6 s1 s2 ,5 - q5 5 q6 1'. q6 2' s2' s1' s6 s5 5 - q6 1' q6 q5 5 q3 q2 q2 q3. s5
+2 - q3 5 q3 2 q3 q5 q,5 d5 s3 q,5 q,6 1 - q,6. s1 q2 q3 q5 2 q1 0 q,6 s,6 s,5 s1 s,6 s,5 q,5 - s,6 s,6 s,5 q1 s,6 s,5 q,5. s5 s6
+2'. q1' 3'. q2' 1' q2' q3' 5 - q5 q3 q5 q1' q6 q5 q5 q3 2 s2 s3 q2 s1 2 - 2'. q1' 3'. q2' 1' q2' q3' 5 - q5 q3 q5 q1' q6 q5 q3
+q2 1 q,5 q,6 1 - 1 1 q,6 s,6 q5 q1 s,6 q5 ,5 - q2 2 q1 2 3 5 - 5 - 5
+%END

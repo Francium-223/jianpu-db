@@ -1,0 +1,20 @@
+%最美南海湾.txt
+% 出处 https://www.jp114.com/jianpu/1202079.html
+title=最美南海湾
+tag=
+usertag=
+tagroute=
+confidence=0.810
+conf_p10=0.460
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1202079
+%--
+4/4
+subtitle=score
+1 x q0 5 5 ,5. 1 1 s1 s1 5 1 s1 2 2 0 ,1' 5 ,x 1 q1 6 5 6 6 6 6 5 3 5 5 ,x x 6 1 ,6 x q5' 5' s,,5'
+q,,3 5' x 2 1 2 q2 q5 5 s1 2' x s5 qx 2 x q2 s2 q2 ,x' ,6 q6 5 5 ,3 ,,6 s3 q6. ,5 ,2 2 2 q2 1 x 3 2 x 5 q2
+,6 5 - 6 6 5 6' x - q7 5 5 qx 2 - 6 q,1' q,6 q,2 q7 s2 2 q2 6 ,5 5 x q1 6 0 s6 s5 3 5 x x - q5 6 q5
+q3' 2 - 3 5 d7 s6 6 x q5 qx qx q2 6 1 q2 x ,7 2 ,6 5 - q6 q6 5 x - q2 q7 s6 2 1 6 q1 q6 5 ,2 q,,2 ,2 1.
+,5 5 x' q2 q,2 q2 s2 1 sx q6 ,5' 1' 1 q1 q4 ,1. x q2 ,6 x 2 1' 1 5 -
+%END

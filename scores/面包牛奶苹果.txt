@@ -1,0 +1,16 @@
+%面包牛奶苹果.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49026
+title=面包牛奶苹果
+tag=
+usertag=
+tagroute=
+confidence=0.998
+conf_p10=0.990
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49026
+%--
+2/4
+subtitle=score
+1 q1 q1 q1 3. 0 1. 0 2 2 2 2 4. 0 2. 0 3 q3 q3 q5 7. 5 q6 6. 4 4 4 5 4 3 q2 1
+%END

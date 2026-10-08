@@ -1,0 +1,17 @@
+%渴望春天.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=45665
+title=渴望春天
+tag=
+usertag=
+tagroute=
+confidence=0.998
+conf_p10=0.996
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-45665
+%--
+6/8
+subtitle=score
+q1 1 3 5 1 5. q5 q3 q1 4 q4 q4 q5 q4 3. 0 1 1 3 5 q1 5. q5 q3 q1 2 q2 q2 q3 q2 1. 0 q3 4 q1 q2 q3 q4 5 q3
+q1 q0 q1 q1 7 6 q6 5 q4 5. 0 q1 1 3 5 q1 q1 q6 q4 2 q6 q5 q3 q5 q4 3 q2 1 q0 0
+%END

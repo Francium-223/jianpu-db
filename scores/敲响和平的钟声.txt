@@ -1,0 +1,21 @@
+%敲响和平的钟声.txt
+% 出处 https://www.jp114.com/jianpu/1202246.html
+title=敲响和平的钟声
+tag=
+usertag=
+tagroute=
+confidence=0.618
+conf_p10=0.333
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1202246
+%--
+4/4
+subtitle=score
+1 x qx x 1 s,,,1. s7 s2' s3' s3 s6 h2 s2 s2 d,1 s,x s5. qx s1 s1 s1' s2 s,x sx qx qx 1' dx sx s1'. sx s1'. s1 s2 q1 sx d1. s1 s,x sx
+d6 d1'. d,,1. d6 sx d1 sx d,x qx q5' s5 d5' h,x h5 s5' h1 d5. s4. s7 d1 s3 d2 dx d2' s5 5 1' q1 q1 q1 qx d1 dx d1 s,x qx q3 d0 s1 2
+q2 q,1 q1 q1 s6 s6' s6. s5' 5' ,x 1 ,x ,1' ,1' 5. ,5' 5'. 1. s1' s3 s3' qx' 1' 0 h1' 1 1' 5' 1 5 ,1 x' q,2 h1 h1' q1 q,1' qx d1 sx
+s1' s1 sx s1 q2 q,2' q2' s2' q1 q3' x' dx d1' d1 ,5 ,1 q3 h5 q1' q2. h,x s6 h1 h1' h1 h1' h,,1 h2 qx h2 h6' s1 qx h,x h,2 ,5 h,2 h,2 q,,5' d,6
+d,6 h,1' d,2 x 6' dx d,1' d3 dx' s5 q1 qx q1 q5 q2. q5 q2 s5' x s1'. s,5' d,1 h1 qx d,1 d5 d2 s6 sx' h1 h0 d5' d,,2 h5 h,5'. h1 h5' h,5 h,1 h6'
+hx h6' h,x q,,x' qx' q1' q1 qx 3 x q3 q2' qx' qx q1 3 3 x 3. - - ,x - - - - 0 0 0
+%END

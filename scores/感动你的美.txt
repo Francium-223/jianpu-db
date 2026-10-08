@@ -1,0 +1,17 @@
+%感动你的美.txt
+% 出处 https://www.jp114.com/jianpu/1203299.html
+title=感动你的美
+tag=
+usertag=
+tagroute=
+confidence=0.796
+conf_p10=0.367
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1203299
+%--
+4/4
+subtitle=score
+x 7 2' q6 x 6 1. 4 3 s3 3 3 5 2 - - qx 2 2 1 q6 3 x 6 q3 ,3 3' 5' 7 - - q3 q5. 6 q3 3 6 ,6 - 6
+~ 6 - 3 7 6 q,x'. - 6. 6 6 3 q7 q6 6. - 6 3 1. s2 3 x - - -
+%END

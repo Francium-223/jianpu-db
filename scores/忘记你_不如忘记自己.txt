@@ -1,0 +1,22 @@
+%忘记你_不如忘记自己.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=40753
+title=忘记你 不如忘记自己
+tag=
+usertag=
+tagroute=
+confidence=0.856
+conf_p10=0.498
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-40753
+%--
+4/4
+subtitle=score
+1 - - - x x. ,x x 1 0 s1 s7 s6 ,x - 6 - q5 3. ,1 2. 0 - 3' 3' 2' 1' q6 3 5 - - q1 q7 s6 ,6 1 - - -
+sx - - 6 6 s,6 s,,5 3 3 - - - q0 s6 q0 q5 q5 6 s0 s,6 s5 q3 - 5 - 0 sx q,,3 s,1 s1 1. 1 q1 q1 3 ,x 0 q1. s2 q1
+q7 s7 q7' q6 q1' s1 s1' 5 q2 q1' q6 d0 d3. q6. q6 d3 q6' d3'. d1. d1'. s,,7 s7 q7 ,7. ,,7 6 1. q1 d1' s6 6' 6 6' 6 q0 q5' q0 q,5 q5 q,5'
+d1 q1 q5 q3 3 q1 q,5 q,1 q2 5 2 5 ,1 q0 q3 q6 s7 ~ 7 q6. 6 q0 6 s5 5 5 - 0 6 6 3. q2 q1 q1 6. q3 q2 ,,,1 q1 1
+2 0 s6 s,7 ~ 7 6. 6 q0 q5 s5 s5 q6 q5. 5 x q2 q1 q,1 q1 q1 q1 q1 1' 1 ,x x 0 0 x 5 s5 q5 q5 q5 q5 6. q6 5. 5.
+6 s6 q,1 q1' 7 7 6 s6. s1' s6 s7 s6 q5 1 3 0 0 s3. q1. q2 s1 s2 5 q7 x 6' 6' 6 1 6 0 s3 q2 q2 s,1 s1 q2. q2 5 5.
+1 5. 5 - 1 4 qx' 6 - - -
+%END

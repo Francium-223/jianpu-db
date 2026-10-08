@@ -1,0 +1,18 @@
+%感恩的红玫瑰.txt
+% 出处 https://www.jp114.com/jianpu/1203098.html
+title=感恩的红玫瑰
+tag=
+usertag=
+tagroute=
+confidence=0.613
+conf_p10=0.323
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1203098
+%--
+4/4
+subtitle=score
+q1 q6 x - - q2 q2' q3' - 0 ,x' - x. x' 1 - x. 6' 6' 1 - x' - 7 6 - - - qx' 0 x' - - - - - - x - 6'
+1 6 - 3' - 0 1 x. 6' 5 ,,4'. 3' ,1 ,2' 1 ,2' x' q,,3 q,,3' q,,1' qx qx q2 x x' 6 3 - 1'. x' - q6' - qx 3 q6' x 6 5' ,1
+4 q1 1' ~ 1 q1. 1 0
+%END

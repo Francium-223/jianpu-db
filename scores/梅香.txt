@@ -1,0 +1,18 @@
+%梅香.txt
+% 出处 https://www.jp114.com/jianpu/1202811.html
+title=梅香
+tag=
+usertag=
+tagroute=
+confidence=0.849
+conf_p10=0.482
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1202811
+%--
+4/4
+subtitle=score
+- - 4 x x x. 6 ,6 3. 3 - 6 - q2 3 5 q5 s3 q5 s6 1 q,7 q7 q5 q,3 q,5 ,6 - x ,3 3 2 1 q4' 3 - 3 q,6 - q,7
+s5' 3 - 3 3 - 6 2. - 3 5 q5' s,3 s5' 1 x'. s7 - 6 3. ~ 3 - - - q5'. s5' - - q3 5' q3 s5 q5 s3 1. ,,1' ,6 - q,6
+x' q,6 s3' s1 q1' s3 d3 - q,2 s2' s2 sx q6. s1 s6 q,x - q1
+%END

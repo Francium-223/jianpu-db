@@ -1,0 +1,17 @@
+%猎人要去打猎.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=45391
+title=猎人要去打猎
+tag=
+usertag=
+tagroute=
+confidence=0.991
+conf_p10=0.989
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-45391
+%--
+6/8
+subtitle=score
+q5 5 q5 q5 6 7 1'. 5 q5 6 q6 q1' q7 q6 5. 3 q5 5 4 2 q7 1' q3' 3' q1' 2' q2' q7 q6 q7 1'. q1' 0 5 5 3 5 5 q3 q5
+q5 3 5 5 q5 5 q1 7 q2 1. q1 q0
+%END

@@ -1,0 +1,23 @@
+%卓玛的歌声.txt
+% 出处 https://www.jp114.com/jianpu/1202980.html
+title=卓玛的歌声
+tag=
+usertag=
+tagroute=
+confidence=0.824
+conf_p10=0.475
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1202980
+%--
+4/4
+subtitle=score
+q1 q1 h1 s5 s5 d2 d2 h,2 q6' q3 s,1. q2 q2 2' 2 - 0 s1' - q1' s1 0 d6 d0 qx q1 6'. ,6 6 0 0 0 0 0 0 s5 s,x s1 s1 s2
+s2' sx' s,6 s,1' q2 q1' 6 2 s1 s0 q1' q1 q1 q0 d1 d,6'. q,6 q,,x' qx 0 q0 0 q0 0 1'. s6. qx q2 q,1 x q5 q5 q6 q6 s,1 q,,x'. ,6 2 ,x'. q0
+q0 q0 q6 q5 q0 q0 q1 s1 6. s5 q3 s,2. s3 s,6 s2 qx 6 s2 s3 qx s0 s1. sx d6 s5 s1 q,6 0 q,6 q6 q,6 q,,6 ,6 x q0 q0 s6 s6 q0 q0
+q,6 q0 q0 q6 q,6 qx' q0 q0 q,6 s,6 s,6 ,6. q,6 q,6 sx sx q2 qx q5' 6 6 - - q5 q6 s2 q2. q2 q6 q5 q5 6 s5. sx s2 s5 q1 q1 d0 h6'
+d1' q,6 q0 h0 d6' d6' s6' s6 h1 h6' d6' q2 d2 h,1' h0 q6 q6' s2 h1 h1 s3 d1 s6'. d1 q2 q6 s,1 d0 s,3 s2 d1 qx' d0 d0 q0 q1 q,6 s5' d1 s1'
+s1' q2 s2 sx s,6' q2 s3 d6 s2 d1 d1' s1' h0 h0 h0 s0 s1. d6' s6 d5' s6 s,,5 h6' h6 s,1. q1 s6' ,1 s3 s6 s6 d6 d6' d6 s6 s2 3 q1' q6 q6
+d0 d0 s6 s6 h1 d5 d1' q3. s6' q6 q3 q,5'. q5 q3 0 q6 q1. s6 s6' s5 s2 q,,6' q6 s6 sx s,6 s,6 ,6. q,6' q,6 q1 qx qx 3 q5 q5 6 q5 q6 q2
+2. 2. q2 q,6 s5 q5 s6 s5. s2 q5 x - - q,6 q,6 ,6. ~ q,,6 s1 s2' q3 q6 2 q2 3 s5 q,5. q,5 s6 s,6 qx q3. d6 d,5 0 0 6 6 6 0
+%END

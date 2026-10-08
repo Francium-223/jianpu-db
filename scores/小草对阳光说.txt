@@ -1,0 +1,17 @@
+%小草对阳光说.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48653
+title=小草对阳光说
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.998
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48653
+%--
+3/4
+subtitle=score
+q5 3 1 q3 q1 ,6 ,5 2 q2 q2 0 3 2 q1 5 5 - 3 q6 5. 6 5 3 2. 3 3 3 0 2 3 1 2 2 5 - 7 2 6 2 4
+- 3 5 - 6 - 6 5 3 2 3 6 5 1 2 3 - 2 2 3 6 5 5 3 2 4 3 2 2 q5 5 6 5 5
+%END

@@ -1,0 +1,21 @@
+%龙津风雨桥.txt
+% 出处 https://www.jp114.com/jianpu/1202939.html
+title=龙津风雨桥
+tag=
+usertag=
+tagroute=
+confidence=0.652
+conf_p10=0.341
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1202939
+%--
+4/4
+subtitle=score
+qx d1 d5 s5 dx d6 s6 q,5 d6 d6 h6 d5 d0 h0 s5 s5'. ,1 d1 d6 h1 h0 h1' s1. qx. q6 d1 1. q1' q1' s1' s2' sx' 1' 1 1 1' 0 qx' qx s1'
+s1' s1' s1 s1' s,1 s1 h1 1' 1' q,3 s6' h1 h1 q1 x' 1' 1 d1 1 sx 2' 3 q3 x' d1 x' 0 6' 6 d1 s1 d1 s,x h1 1' 1' 6' 1' 1' 5'
+s1' d1 h,1 x 2 1' d1' 1' 1' 1 1 qx' - 5' q,x' 1'. q1 6. 1' qx' q1 q1' q1 x 6' 6 6' 6' ,6'. 1' d1 q1 q1 q1' q1 1' s,1 3' 3' 1'
+x' x h1 6 1' 6 q6 6' q1' ,1' 1 ,1 1' 5' 5 5 5 q5 2' q1 q5' q5 2 q5 5' 1' q,5 q,5 q,5 q,5. q,3 3. 5' ,x' q1' q4 qx h,1' s5' s2'
+d,1' d,2'. 2 qx q5 s1 q1 5. q5 qx qx q5 ,6 1 x 6 6 ,3' 3' 1' 3'. s3' ,3' x' d3. 3' 3' 0 0 1 - q1' q2' q,6' h1 q,1 0 q,1 x x
+1' 1'
+%END

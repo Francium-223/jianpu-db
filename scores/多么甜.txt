@@ -1,0 +1,17 @@
+%多么甜.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48502
+title=多么甜
+tag=
+usertag=
+tagroute=
+confidence=0.998
+conf_p10=0.994
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48502
+%--
+2/4
+subtitle=score
+3. 5 3 2 3 5 3 3 2 1 1. 6 1 1 3 6 6 1 2 ,6 ,5 3. 2 1 3. 2 1 2 7 6 5 ,6 6 0 3. 2 1 3 2 2
+q0 q3 ,5 5 6 1 1 3. q2 1 3 2 2 0 q3 ,5 5 6 1 1 0
+%END

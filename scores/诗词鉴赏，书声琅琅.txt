@@ -1,0 +1,20 @@
+%诗词鉴赏，书声琅琅.txt
+% 出处 https://www.jp114.com/jianpu/1201492.html
+title=诗词鉴赏，书声琅琅
+tag=
+usertag=
+tagroute=
+confidence=0.740
+conf_p10=0.411
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1201492
+%--
+4/4
+subtitle=score
+qx q1 5 x q0 qx x 1 s5 3 q0 1. 2 qx q2 sx sx qx q2 x x ,x x 1'. 6 ,2 1 x 0 1 q0 q1 1 x 7 5 q1 2 0 2
+,7 q2 q1 s2 2 4 2 2 x 1 1 1 0 5. 2 5' 1' 1 1 x ,2 ,1 1' 1 q1 1 1' 0 1'. 1 0 3 x ,x 1 q5 q5' q1' q1' 2'
+,2 q0 ,2 ,2 0 1' q1 1' 7 s,1 ,1' ,1' q1 1 s1 1 q,3' 1 1 1' q0 q0 4 4 q1. q1 1 q1 1' 1' 4 4 ,2 0 x 0 0 2 1' 4
+2 ,2 1 1' q,1' q,1' 1 ,1' ,1' 1' q4' q6 s1 s3 s,1 q1 1' 4' 4 s1 4 q,,,4 4 4' q1 ,2 x x x x q0 q1' x x ,x ,,2 q1 - - 2
+- - - - 1. x' - q,1 q5 1 1 ,1 0 1 0 1 x 1 ,x 1 q1 - - - x q1 0 0 0 0 0 0
+%END

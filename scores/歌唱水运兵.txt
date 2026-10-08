@@ -1,0 +1,20 @@
+%歌唱水运兵.txt
+% 出处 https://www.jp114.com/jianpu/1201578.html
+title=歌唱水运兵
+tag=
+usertag=
+tagroute=
+confidence=0.683
+conf_p10=0.399
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1201578
+%--
+4/4
+subtitle=score
+q1 x qx d1 d1 d1 d6 s1' s1' s,1 dx s2 s,3 s1. sx q1 q1 d1 d6 h1 dx h1 h1 d,1 1. - q4 x 1' 2 2 x' 2 x q1 4 x 0 qx 5.
+s,,5. s1 s1 s1 s1 q,,,1 d1 d,1 d,2 s1 q1 h1 1' 1 1 dx q2 d1. d1 qx q1 q1 s1 qx x 0 x 0 1' 1 ,1' sx' q1' q1 1' 1' 5' 5 q4. q1
+q1' q1 d2 s,2 x q1' q,1 1' q5' q,2' q,1' q1 ,1 q2' 1' 1' 2' qx q1' 6 6 1 x' 1 1' 1. q,x'. 1' d1' s,1' d,,,1' s2'. s2. s2' s,1 q2' s0 d,1' 1'. q,1'
+qx q1' qx 1' 1 ,1 0 2' 1' 2 ,2 2' 2 s1 q2 q,1' q2' x sx qx 1' 6 0 1 6 6. qx. q1 q6' x 1' 2. 1' 1' 1 1 1' x x' 0
+x' - q1 q0 ,1'. q,2' 1 ,1 6 6' 6 1' 1' ,,1'. x 0 - q0 qx q3 ,2 0 0 x x x x - x' x' x' ~ x' 0
+%END

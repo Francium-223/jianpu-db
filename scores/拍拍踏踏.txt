@@ -1,0 +1,18 @@
+%拍拍踏踏.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48796
+title=拍拍踏踏
+tag=
+usertag=
+tagroute=
+confidence=0.996
+conf_p10=0.998
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48796
+%--
+2/4
+subtitle=score
+q5 s5 q5 5 5 5 3 q4 q4 s4 4 4 4 1' 2 ,1 1 q2 q3 4 5 5 5 3 4 4 q3 2 q1 q0 3 4 x x 0 q5 5 5 5 5
+3 5 - 3 0 x x 0 q4 q4 4 4 4 2 4 2 - 5 5 3 5 3 q4 q4 2 x 4 2 1 q2 3 4 5 5 5 5 5 5 q4 q4
+q3 q2 1 q1 0
+%END

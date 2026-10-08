@@ -1,0 +1,20 @@
+%白鸽.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=42410
+title=白鸽
+tag=
+usertag=
+tagroute=
+confidence=0.998
+conf_p10=0.995
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-42410
+%--
+4/4
+subtitle=score
+1 7 6 - 0 6 5 7 3 3 - - 5 3 2 - 0 2 3 1. 2 3 - - 1 7 q6 6 0 0 6 5 7 7 3. 0 5 3 6 2.
+0 2 3 1 7 6 ,6 - 0 0 0 0 0 1 7 6 6 0 6 5 7 3 3 - - 5 3 2 - 0 2 1 2 q3 3 - 0 1 7 6
+6 - 0 6 5. 7 7 3. 0 0 5 q3 6 2. 0 2 3 1 7 6 ,6 - 0 0 0 0 0 1 1. 7 7 6. 0 6 5. 7 7 3. 0 0
+5 3 6 2. 0 2 q1 2 3 3 - 0 3 1. 7 7 6. 0 6 5. 7 7 3. 0 0 5 3 6 2. 0 2 3 1 7 6 ,6 0 3 5 6.
+1 7 5 7 6. 5 3 0 3 5 6. 1 7 5 7 6 - - -
+%END

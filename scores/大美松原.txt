@@ -1,0 +1,22 @@
+%大美松原.txt
+% 出处 https://www.jp114.com/jianpu/1202053.html
+title=大美松原
+tag=
+usertag=
+tagroute=
+confidence=0.653
+conf_p10=0.328
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1202053
+%--
+4/4
+subtitle=score
+qx 1 qx ,x. q,x' x s1 x' x x' ,1 x q2 q7 q,6 q5 ,1 q4 5 6 ,x. x. x' ,1 1' ,1. 1' 5' 5 5 0 q2 3 q6 q5 q1 q2 x 2 q,,1
+5 q5' q5 s2 x s0 s4 s0 s7 s1. d1 h1 s1' d1' s1' s1' d2 s1 s1' s4' s1 s1' d2 h6' sx h1 h1 q1' 4 4 2 4 4 q1' q6' h1'. q2 q5' q2 5
+q5' 5 d,5 s1 h,1 s5 s6 d,5 q5' d5' s1' s1' q6' q1' q,1' q6 s5 s6' q6. h1 d1' h1' h6 q1' ,5 5 q,5 h1 s,1 1' d,6 d,6 d0 h1' s1 s2' q2 q1' q1' s,1
+s,x' s,1' q5' q5' q5' q5' q5 q,5' s,1' d5 q5 q5 q5 q5' s5' s5' q1' q6 q6' qx q1 q,5' q,1' q,1 q,,x' q,6' q6' h1 q2 q2 q6 5'. h1 h1' d1' 5' ,1' ,2' 5 q,x'
+h1 q1' q2 q6 ,6 ,6 6' q1' ,,,6' ,1' d1' d1 1 1 2' x' 7 1' 1' 1' s3 3' 1 1 3' q1' qx' d,,x' d,,3' s1' dx' q1' q1' dx' s2' s2 s2' ,x'. x' s2
+s1' s1'. x x' x' ,x' ,,1' h1' h1' 0 1 1' h1 h1 1'. 2'. h2' h1 h1' h1' 1 1' h1' h1' h1' x q,1' q,2 q,2 ,1 d,x' 5' 5 5 1' 4 4 ,6' s,x' d5'
+q6' q1' q,1 q5' q2' h5 h6' q,x' q,1. q,1' s1' q,1' q,1' q,1 q1' d1 q1 q,1' q1' q1' s2 s5' q2 s2' q2 s2' q1' qx 6' qx'. 5' 6' 6 s5' 6 x' s3' 1' 1 x'
+%END

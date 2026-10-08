@@ -1,0 +1,21 @@
+%奔跑_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=44069
+title=奔跑
+tag=
+usertag=
+tagroute=
+confidence=0.990
+conf_p10=0.985
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-44069
+%--
+2/4
+subtitle=score
+x - x q1 s5 s1 s3 q5. 5 s5 q5 s1 q1. s1 s3 q5 s5 q5. s5 s6 q5 s1 q1. s1 s6 q5 s5 q5. s3 q3 q3 q2. s1 q3 s3 s2 2 q3 q5 q1.
+s1 s3 q5 s5 5 q5 s5 s1 q1. s1 s3 q5. q5. s5 s6 q5. q1. s1 s6 q5 s5 q5. s3 s3 q3. q2. s2 q5 2 s3 2 - 0 s2 s3 s2 s1 q1 q1 q1
+s6 s5 5. s3 s3 q3. q2. s5 q5. s5 x q2. 2. qx 5 s2 s3 s2 s1 q1 q3 s3 q3 s2 2 s2 s3 s2 s1 q1 q6 s6 q5 s3 q3. q2 s2 s3 s2 s1
+q1 q1 q1 q6 q5 q5 3 s2 s3 s2 s1 q2 s2 s3 q5 - - q3 2 s2 s3 s2 s1. s5 q1 s1 s1 s6 s5 q3 s3 q2 s2 s1 s3 q2 s1 1 0 s5
+s3 q3 s3 s2 s2 s1 q2 q2 s3 q5 - - q3 2 s2 q3 s2 s1. s5 s1 s1 s1 6 s2 s3 s2 s3 s5 s5 s5 s6 6 - 6 - 0 s2 s3 s2 s1
+s5 s1 s1 s1 q6 s3 s3 q2 s2 s2 s3 q2 q1 1 - 1 -
+%END

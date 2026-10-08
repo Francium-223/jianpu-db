@@ -1,0 +1,17 @@
+%小警狗狗.txt
+% 出处 https://www.jp114.com/jianpu/1201198.html
+title=小警狗狗
+tag=
+usertag=
+tagroute=
+confidence=0.910
+conf_p10=0.615
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1201198
+%--
+4/4
+subtitle=score
+x 3 5 - 5 - 5 - 5 - x 5 3 1 x 3 3 5 x 3 0 x - 3 x 3 3 5 5 3 3 3 3 0 0 0 ,5 - 0 -
+- - 1
+%END

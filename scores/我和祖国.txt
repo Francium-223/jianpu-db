@@ -1,0 +1,20 @@
+%我和祖国.txt
+% 出处 https://www.jp114.com/jianpu/1201397.html
+title=我和祖国
+tag=
+usertag=
+tagroute=
+confidence=0.864
+conf_p10=0.525
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1201397
+%--
+4/4
+subtitle=score
+1 x x ,,x x' q,1'. 4' 4'. 4 x' x x 6 5 5' x qx 1 x x x 1'. ,x q1' qx ,x. x' x' 0 2. 3' 6' 5' 3'. 5' 3' 6' 5 - -
+- - - - x 3 3' 5' 3' 6 - 3' q,1' 6 - - - 3 5 3' 3' ,3 1 6 - 3 q2' 3 q6 q5 q6 - - - ,x 6. q6 5 3 -
+- 5 0 6. q6 3 - - - 6 q6' 7 q6 - - - 3 3 5' 7 7 q6. 7 6 3 5' - - - 7 q6 x' x' 6 0 3 6 - - -
+x' 7 6 ,x 6. 5 3 q,6 - - - 3' - - q6 1 3' - - - 3 3' 6 q5 q6 - - 6. 3' 5 q6' 3 3. 5' 6 5 - - q2. 3'
+6' 3'. - 3' 6' q5' - - - - - - qx. 3' 6' 5'
+%END

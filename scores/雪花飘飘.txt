@@ -1,0 +1,18 @@
+%雪花飘飘.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49797
+title=雪花飘飘
+tag=
+usertag=
+tagroute=
+confidence=0.917
+conf_p10=0.622
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49797
+%--
+4/4
+subtitle=score
+1' 1' 1' x x' 3 3. 2 ,6 4 3 - - 3 ,6. q,7 q2 q1 q1 q,7 ,6 - - 6 6. x q3 1' q7 q5 7 6. q3 3 7 7. q6 q2' 1' q1'
+q7 s6 7 - - 2 2. 3 4 6 3. 2 1 3 ,6. ,7 q2 q1 q1 q,7 ,6' ,6 2. - - 3 ,6 - - 3 6. q7 q2' q1' q1' q7 6 - - -
+6 0 0
+%END

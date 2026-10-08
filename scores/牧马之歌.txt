@@ -1,0 +1,18 @@
+%牧马之歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=44316
+title=牧马之歌
+tag=
+usertag=
+tagroute=
+confidence=0.984
+conf_p10=0.986
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-44316
+%--
+2/4
+subtitle=score
+5 5 5 5 6 2 5 6. qx q4' 5 - 5 q5 5 q5 6 2 5 6. x q4 5 - 4 4 q4 q5 q4 3 q3 3 2 q2 q2 s1 q2 3 5 4
+4 4 5 q4 3 3 3 2 q2 s3 s2 s1 q2 1 q0 5 5 - q4 s4 s5 q4. q2 q3 s3 s4 3. q1 2 s2 3 q2. s7 1 - q2 q2 s3 q2 s2
+s7 1 - 1 0
+%END

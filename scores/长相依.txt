@@ -1,0 +1,19 @@
+%长相依.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=41851
+title=长相依
+tag=
+usertag=
+tagroute=
+confidence=0.975
+conf_p10=0.975
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-41851
+%--
+4/4
+subtitle=score
+0 - - 7 7 6 6 - 6. 7 6 5 4 5 3 - - 6 1 2. 3 6 6 3. 4 3 2 1 - 2 2 2 3 5 6 1 7 6 - -
+- 3. 3 3 3 6 1 q2 q1 ,6 - q6 6 q1 q6 q6 q5 q4 3 - - - 2. q3 6 6 q3. s4 q3 q2 1 - q2 q2 q2 q3 q,5 q,6 q1 q,7
+,6 - - - ,6 - - - 6 - 6 3 6 7 1 7 6 6 - 6. 7 6 1 4 6 - - 3 - - 6 1 2. q3 6 6 q3. s4 q3 q2
+1 - 2. q3 q,5 q,6 q1 q,7 ,6 - - - x. ,6 - - - ,6 - - - q2 2 q3 q,5 q,6 q1 q,7 ,6 - - -
+%END

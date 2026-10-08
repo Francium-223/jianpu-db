@@ -1,0 +1,17 @@
+%小绵羊.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48636
+title=小绵羊
+tag=
+usertag=
+tagroute=
+confidence=0.946
+conf_p10=0.612
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48636
+%--
+4/4
+subtitle=score
+1 - - 1 1 x 1 2 x x ,5 1 q1 2 3 5 q4 4 3 2 4 3 q2 2 2 3 3 3 2 2 1 ,7 2 1 - 3 1 0 3 1
+0 3 0 3 0 1 -
+%END

@@ -1,0 +1,17 @@
+%红歌唱中国.txt
+% 出处 https://www.jp114.com/jianpu/1203063.html
+title=红歌唱中国
+tag=
+usertag=
+tagroute=
+confidence=0.953
+conf_p10=0.683
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1203063
+%--
+4/4
+subtitle=score
+,5 ,6 ,5 3 - 5. 3 q,6 q,5 - 1. - - 3. - 5' - - - 6 6 5 q6 3 0 0 6 3 5 - x - - q6. 6 5 3 5 5 0
+3 - - 3 q3 q5 6 ~ q6 3 5 6 - 5. 5 6 - - - 5 6 - -
+%END

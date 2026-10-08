@@ -1,0 +1,17 @@
+%鼓上的小米粒.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49054
+title=鼓上的小米粒
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.999
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49054
+%--
+2/4
+subtitle=score
+q1 q1 1 q6 q6 6 q3 5 6 5 6 - 5 1 1 5 6 1' 6 5 q5 q1 q3 q2 1 6. 6 1' 6 5 6 6 1 6 5 - 3. 3 5 3
+2 3 3 q5 q3 2 q5 q1' q1' q5 6 1 q6 5 5 1 3 2 1 qx qx x x 0
+%END

@@ -1,0 +1,18 @@
+%阿瓦日古里.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=45840
+title=阿瓦日古里
+tag=
+usertag=
+tagroute=
+confidence=0.985
+conf_p10=0.986
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-45840
+%--
+3/8
+subtitle=score
+qx - - 1 7 6 2 s2 s2 2 q5 q6 q1'. s6 q7 q5 q6 q4 q3 q2 q4 q3. s1 2. 2 q0 2 q5 q6 2 q1 q7 q5 q1. s1 q7 6. 6 0 1
+s6 q6 7 5 q6 4 q3 q2 q4 q3. s1 2. 4 q2 q3 1 2 q4 s3 q4 q3 2. 2 q0 2'. q2' 1' q7 q6 q5 6 q7 q2' - 7 6. q6 q5 4 q3
+4 q5 6 q5 q4 q3 s4. s4 q3 2. 2 q0 1 q2 3 s4 s3 2. 2. 2. 2 q0
+%END

@@ -1,0 +1,18 @@
+%睡魔.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49694
+title=睡魔
+tag=
+usertag=
+tagroute=
+confidence=0.944
+conf_p10=0.780
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49694
+%--
+4/4
+subtitle=score
+- - 1 1 x x x. x x 1 ,5 1. 2 3 2 1 - ,7 1 q2 q3 4 q3 2 1 2 - 0 ,5 1. 2 3 2 2 1 - ,7 1 q2 q3
+4 q3 q2 1 2 - 0 3 q4' 5 3 4 5 6'. q5' 4 2 3 4 4 3 5 2 - - 0 5'. q3' 2 - 3. 2 1 2 q3 q4 5 1 2 3
+2 1 - -
+%END

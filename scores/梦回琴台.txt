@@ -1,0 +1,19 @@
+%梦回琴台.txt
+% 出处 https://www.jp114.com/jianpu/1202687.html
+title=梦回琴台
+tag=
+usertag=
+tagroute=
+confidence=0.846
+conf_p10=0.472
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1202687
+%--
+4/4
+subtitle=score
+,5 ,5 q,6 - x - 1' 5. - ,6' 5 3 5 0 0 3 5 q2 - 1. ,5. q,6 - 3' - - 3 0 0 ,7 q,6' q2 3 5' q6' q6' 5 3 ,6 -
+1 6' q6 - 3 6 5' 5 - 0 q,6 q6 5 3. - 7 q6' 6 - 3 5 q6 6 - 0 q,6' 6 5' 2. - ,x x x. 1 4. ,x 7' x' x x.
+1' 1' x. x 3 5 q6 q6' - ,5 6' - s3 q2' ,6 q2' ,5. - ,5 4' 5' 6' 6' 6' 5 3 - 3' 3 5'. ,6. 0 - - x' 1 x. x 4 x
+x x - x' 1' q1 1' q5' q5 6 0 - - - - - - 0
+%END

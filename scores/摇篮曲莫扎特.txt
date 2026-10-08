@@ -1,0 +1,18 @@
+%摇篮曲莫扎特.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=45596
+title=摇篮曲莫扎特
+tag=
+usertag=
+tagroute=
+confidence=0.967
+conf_p10=0.979
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-45596
+%--
+6/8
+subtitle=score
+1 - - 6 x x x x x 3 q4 q3 q2 q1 q2 1 q0 0 q1 q4 q4 q4 q5 q6 5 q0 0 2 1 2 2 1 2 4 0 0 q3 q3 q3 4
+3 4 5 q0 0 q6 6 6 6 6 1 q0 0 q5 q5 q5 q5 q4 q5 1 q0 0 q4 q5 q4 q3 q4 q5 2 q0 0 q3 q4 q3 q2 q1 q2 1 q0 0
+q3 5. s5 s4 s4 s3 s4 s2 1 q0 0
+%END

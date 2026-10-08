@@ -1,0 +1,20 @@
+%姑娘你要听我说.txt
+% 出处 https://www.jp114.com/jianpu/1201482.html
+title=姑娘你要听我说
+tag=
+usertag=
+tagroute=
+confidence=0.677
+conf_p10=0.329
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1201482
+%--
+4/4
+subtitle=score
+1 - 0 x 1 x x x x 6 x sx s,x qx 2 6 - q2 0 2 q0 q2 q0 q2 q0 0 - 2 - s2 q,x q6 q6 q2 x s6 s6 sx qx q6
+s5 qx sx x ,3' 0 3' 6 q6' s1 q0 q1 q1 q1' qx 1 1 s1' d1 dx s1' s1 s1 s0 s0 s0 s2' s,,1'. q1' q6 h1 h1 h1 - q1 q2 s1 d0 s0 s1
+s1' s1' s1' s1' x' 1' x' q,,1' q,,1' s1 qx' qx' q2 d1' qx' sx' q2 q1 s,3' s,x' q1 q0 s0 s0 q1 1 q0 q2 q0 q0 q0 s2' q2'. qx q2 q,5 ,1 q,1 2 q,x'
+d0 d1 q5 5' q1' h1 q,5'. q,x. q2 q1 s1' s,,x' s,,x' d0 h1' d1' q2' q2 d0 h0 q6 d1 q6 q0 s0 d5' s5 ,1 d0 d1' d1' qx. d1 q,,5 s6 h6 h5 h1. qx sx'
+d1 qx h1' d6' qx h,1 h1' h1 q,2' s2 q2 q2 x 2 2. 2 6 0 x q1' x - dx d1' 1' 1' - - sx - - h6 q6 1 0 0 0 0
+%END

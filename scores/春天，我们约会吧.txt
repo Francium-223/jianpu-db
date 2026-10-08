@@ -1,0 +1,23 @@
+%春天，我们约会吧.txt
+% 出处 https://www.jp114.com/jianpu/1202122.html
+title=春天，我们约会吧
+tag=
+usertag=
+tagroute=
+confidence=0.683
+conf_p10=0.342
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1202122
+%--
+4/4
+subtitle=score
+1 qx 0 - - 6 6 0 x. ,x. x'. x 1 x sx ,x q,1' q1 5' q1' 1' x' s1' q,x s1' q1' q1' q1'. 5' x 5 5 q,2' qx' x 2' s7 6 x 6
+qx q1 q1 q2 q2 q1 3 5 2 q2 s7 s6 q5 s2 q2 q7 q6 q5 - 5 qx s2 x s6'. s5'. s5'. s5 s1 q,1' s,6' s0 d1' d1' d1 s2' s2' s1' s2 s1'. s1'.
+qx sx'. q1 q1' q5 q1 q1 q1' q1 q1' q1' q,,1' q,,1' q3'. q,1' qx d,x' d,1' d,1' d,5' s,1' s6'. q2 ,,1 5 x q6' ,1' ,1' q,1' q2 q1 1'. q1 h3 qx q2' q3' q5 q1'
+q1' q1' q4 q1 q1' q1 q,1' q,1 q5 qx q1 q5' q6 s1' ,1' ,1' q0 s,5' sx s1' q5. s5' s5 - s,1' s,1' s1' h2' s7 h,,5 h1' h5' h5' d5' h5' h,5 d2' d5 d2' d2'
+q3 q5 d5' qx' s1' s1' 1' 5 q5' q3 q2' q2' 6 ,6' s,6' 6 s,6 s1' s0 s5' s,1' d,1' 1' h,1' d1 d1' d5' d2 q5' s6 s1 d1 d5 q5 q,5. h5 d5 d5' s,2 q5
+q,5' q5 q1' 1' s5 d,1' d,1 sx q2 q5 s3' q1' q,1' q1' q,1' ,,,2' q1' q1' q6 q1' 1 1 q1 1' x' x' q1 q,x. 3' q5 s1' s,,1'. q1' q1' 1'. 1' sx' s,,1'. q1 x'
+x 1' x sx s1' d5 q5 h6' d6 dx' qx' 7' d2 q2' h1 dx dx d1 s1 7' s1 s5 q5 s6' d6' sx sx' 5' 1' q5 d2 2 sx sx hx hx sx dx q1 s,x
+x' s2 s2 sx q5 q1 q1 0 x
+%END

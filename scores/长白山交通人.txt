@@ -1,0 +1,19 @@
+%长白山交通人.txt
+% 出处 https://www.jp114.com/jianpu/1201767.html
+title=长白山交通人
+tag=
+usertag=
+tagroute=
+confidence=0.622
+conf_p10=0.330
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1201767
+%--
+4/4
+subtitle=score
+x ,,6 q,,2' q,6 ,x s1 ,2 x 2 q2 6 q,6 q,,2 ,2 sx ~ qx sx 1 ,2 x 0 q,x sx x - s,2 sx q1 x s2 qx q5' 2 1' 2 1 1' 7 1'
+s1 s3' s1 s1 d,,1 1' x 1' 1' 1 1' 1' q1' q1' q,1 1 1 ,1 ,1 q,1 q1' q,1 q1' q1' x 1' q1' q5' q1' s1' s1 s0 s0 q1' q1' q1 s2' sx' q7 s1'
+q1 q1' q5' s,1' s,1 x s1 s1 q,,3' ,1' 1' q1' 1 ,x q1'. 1' x' q1' q1 q1 q1 0 2 x 1' s1' s5' q1' 1 q1' 1 1' 1' q5 1' x' ,1 1 ,1' 0
+qx' q,2 1'. q1 q1 1 ,6 q1' q1' q2' 2 q5 h1' 2 q5' q1'
+%END

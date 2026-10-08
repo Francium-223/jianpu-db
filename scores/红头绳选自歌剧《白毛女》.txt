@@ -1,0 +1,20 @@
+%红头绳选自歌剧《白毛女》.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=43500
+title=红头绳选自歌剧《白毛女》
+tag=
+usertag=
+tagroute=
+confidence=0.997
+conf_p10=0.995
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-43500
+%--
+4/4
+subtitle=score
+q5 q2 q6 q5 q4 3 2 5 2 6 5 4 3 2 2 5 6 2 ,6 5 4 2 3 5 2 1 ,7 ,6 ,5 5 2 6 5 4 3 2 5 2 q6 q5
+q4 q3 2 2 q5 q6 q2 q6 q5 q4 q2 q3 q5 q2 1 q7 q6 - ,5 - 2 5 5 6 6 1 6 5 4 3 2 2 5 6 q6 q1 6 5 q4 q3
+2 2 5 6 5 4 3 2 5 2 3 5 2 1 2 3 ,6 ,5 1. q6 q5 q6 4 4. 2 q1 2 6 - 5 - 2 3 5 2 1 7 q6 q5 5
+1 6 5 4 2 2 1 - ,5 - 2 q5 q5 6 q6 q1 q6 5 q4 q3 2 q2 q5 q6 s6 s1 6 5 q4 q3 2 2 q5 5 6 5 4 3 2 5
+2 3 5 2 1 2 5 6 5 1. 6 5 6 4 4. 2 1 2 6 5 - - - - - - - - - - - - - - -
+%END

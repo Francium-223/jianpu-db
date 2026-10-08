@@ -1,0 +1,17 @@
+%小蜜蜂.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48655
+title=小蜜蜂
+tag=
+usertag=
+tagroute=
+confidence=0.931
+conf_p10=0.556
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48655
+%--
+2/4
+subtitle=score
+1 - - 4 q1 x' 1. 5 4 3 0 q2 q3 4 q2 1 0 q3 q4 q5 q3 q2 q3 q4 q2 3 q4 5 3 q2 3 q4 q2 5 4 3 0 q2 3 q4
+q2 1 0
+%END

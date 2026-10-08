@@ -1,0 +1,19 @@
+%快乐地跳幸福地唱.txt
+% 出处 https://www.jp114.com/jianpu/1203145.html
+title=快乐地跳幸福地唱
+tag=
+usertag=
+tagroute=
+confidence=0.955
+conf_p10=0.827
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1203145
+%--
+4/4
+subtitle=score
+5 1 3 5 5 3 3 5 5 6 6 1 3 5 5 6 5 1 3 5 1 ,5 3 2 x 2 ,1 5 3 2 ,x 5 6 3 5 - ,5 ,,5 ,5 q,5
+q3 ,2 q1 x - 5 5 q1 3 1 5 3 2 2 ,x ,x q5 q5 5 5 ,,4 q5 ,,6 - q,5 ,3 5 ,3 q2 q2 q,1 ,,5 6 6 5 6 3 2 ,1 -
+,6 ,6. 3 5 6 ,,5'. q2 1. q2 q2 3' 1. 7 q,6 q,5 q6 ,,3 5' ,6 ,6 5 - 6 ,6' 3 5' 5. q2 ,,1 ,2 ,2 3' q2 3'. 1. q,6 ,5 ,5 3. q2
+3 x' q2 - x 0 5 5 0
+%END

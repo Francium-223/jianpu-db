@@ -1,0 +1,24 @@
+%草原抒怀.txt
+% 出处 https://www.jp114.com/jianpu/1202529.html
+title=草原抒怀
+tag=
+usertag=
+tagroute=
+confidence=0.662
+conf_p10=0.331
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1202529
+%--
+4/4
+subtitle=score
+q0 s6 ,3 q0 q6 ,3 q0 q,6 ,3 q0 q,6 ,3 ,6 q,6 0 ,6 0 q0 q,6 ,3 ,6' ,6 0 ,6 0 0 q,6 3'. s0 s2 s6' q,6 q6 sx s3' q2 s2. s6. q,6 q0
+0 s0 ,3 s3 s1 q5 q5. q,6 q,1 q0 1 s6' 2' d3 d1 d3' x 6' 6 7 s0 6' sx x sx 1'. 1' 7' 6' 2' x' s0 s1 1' q,6 q,6 s0 s3' s6 s,6
+q0 q0 q6 q0 qx' q1 q0 q0 q6' q6 q6' q0 qx' q0 q6 6 q2 0 q1' q1 q1 q0 qx sx' qx. q2 x' x' qx' qx' qx q0 q1 q1' qx' q1' q1 q0 q3' qx.
+0 2 2 1' 1 s1 s1' s1 1'. x' x. 1' 1'. ,1'. x' x' x' qx' x 1 1 1 q1 h0 q0 h0 h1 q1' q2 q1. q1' q1'. q1'. q1' qx' s2' s1 6 6 6
+d6 h1' h1 d1 d1'. d1'. d1' d1 q1'. q1 q1'. 1. q0 q1 q1' q1'. 1'. qx' s0 qx'. s1' q6' q0 q1 q6' q1'. q0 sx' sx sx sx s,x' s1 s1 s1 d3 d1 q,,1 s1' q1
+q1 q2 qx. q1' q1 q1' q1' q2 1' d1' d1' d0 d,1' q0 q0 q1 q1' 1' q1 q1'. 1' 1' 2 d2 d2' s1 s1'. s1. d2 2 q1' q1' q1' q1' q1' q0 q0 q0 d0 q0
+d0 q0 d0 q2 h1 s,1' s,1 s,1 s1' s0 s0 s1' s0 q2 q1 q6 q0 h1' h1 h1 h1 d1' s,6'. s6' s2 s6' q2'. 2 q2 q1' q1 s1 q1 q2 x q1 x 1' 1' 0
+0 0 q1 q0 sx s1' s1' q6 6 q5' q,6'. q6' q6'. q5'. q6'. q,x s,6'. s,,,6' q6' s,x' s,,x' s1' q1' q3' q1 s1 q,3' s5 q,5' 1' ,1' s1' s1' s1 h1 h1 d1 d1 s,1 s,1
+q,1 s1' d1 d,1' s1' s1' s1' d1 s1' s1' q1 s1 s1 s1 s1 qx' ,6 q0 ,1' q,1' q0 q0
+%END

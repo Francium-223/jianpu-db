@@ -1,0 +1,19 @@
+%夏艳.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=45891
+title=夏艳
+tag=
+usertag=
+tagroute=
+confidence=0.997
+conf_p10=0.993
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-45891
+%--
+2/4
+subtitle=score
+x q0 q2' q2' q2' 5' 5' q0 q4' 4' q4' 5' 5' q0 q2' q2' q2' 5' 5' 5 4' 5' 0 qx qx sx sx qx qx x qx qx qx x qx sx sx qx qx qx
+5. ,5 5 - 5 - 4. q3 2 q1 q2 3 1 q1 ,5. ,5 - ,5 ,5 5 - 5 - 4. 3 2 q1 q2 3 1 1' - 1 - 0 q5 0 0 3 3.
+s5 q5 q5 0 2 q2. q5 q5 5 0 3 q3. s5 q5 q5 0 6 6 5 0 3 q3. s5 q5 q5 0 2 q2. s5 q5 q5 0 q3 3 q5 3 1 q2 q0 q2
+q0 1 0 1 ,5 5 - 5 - 4. q3 2 q1 q2 3 1 q1 ,5. ,5 - ,5 ,5 5 - 5 - 4. q3 2 q1 q2 3 1 1 - 1 -
+%END

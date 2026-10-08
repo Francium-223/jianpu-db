@@ -1,0 +1,16 @@
+%请酒歌.txt
+% 出处 https://www.jp114.com/jianpu/1202905.html
+title=请酒歌
+tag=
+usertag=
+tagroute=
+confidence=0.959
+conf_p10=0.919
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1202905
+%--
+4/4
+subtitle=score
+q1 q6 q6 q2 3 - - - - q5 q3 q2 q1 ,6 x 0 3 3 3 q5 q5 q,6 ,5 2 q,6 ,5. ,6 x 0 1' 1
+%END

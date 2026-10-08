@@ -1,0 +1,23 @@
+%海南岛是个美丽的地方.txt
+% 出处 https://www.jp114.com/jianpu/1201454.html
+title=海南岛是个美丽的地方
+tag=
+usertag=
+tagroute=
+confidence=0.627
+conf_p10=0.321
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1201454
+%--
+4/4
+subtitle=score
+q6 q6 6' ,5 s5 s5 q5'. d,,5 s7 q,2 q,2'. q6 q6 q0 s0 s6 q5. s6 s4 s5 s5. s5. s3 q1 d2 q1'. q2. 1' 6 5 5 q5 1' 5 ,5' ,5. 6 ,5' h,1' hx'
+s,1' ,1' q,5' 1' 1 3' q1' q1' q6'. q6' q6' s1' s3' q6'. h1'. h,x' s1 d3' h,3 d6' d1' s1'. s1 h,1' d,1' q1' s,1' 1 1' 3' 1' 1' h1' 1' 1 h1 5 1' 1' 5
+6' 1' 6' d1' s,1' s,x' s3' q1' q3' q3' q3 s3' q1' s3' h,3' 0 1' hx' h1 h1 1'. x q,,5' ,5' ,2' q3' 5' 5' 5' q5' d,3 hx' s,1 s1 q1' q1' q1' d,1' 1' 1
+h1' 5' h1' ,x 3' 6' 5' 5' x 1' 1' h1' hx' h1' h,1 h1' h,1' h3 h,,1 h5' - h5' h5' h3 s5' q2. q5 h3' h2 h2' x h3 h5' q6 h3 h3' h3' q1' h3' h3'
+h3' h2' x' h1' h1 q1' q5' 3' 1' h1' d1'. d2'. q2' q2 1' 1' q6 1 h6 d6 h,6 h1' x' 1 h1' 2' 1' hx' h6' 1 h3 q3 d6'. h3' h1' h3 h5 1' h5' q1'
+1' h1 h1' h1' h1' d1' h,1' h6 q6' 6'. s6' s6' 6' 7'. 6' 7'. x. 7'. s6' h3' x 6' d1' 3' 1' h1' h1' h1' h1' h1. h1' s,3' s,3' s1' h7' h1' h,6' q7 s7' h6'
+h6 h,6' h,2 h3' h1' q2 h2' h1' q2. h,,7' q5' h,6 6 h6' h5 q5 h6' 6' h6 q1' q1' 3' x q3' 5 s3' h5' d5 q0 hx' h1' q1' s1' s1' q1' s,5' s,6' q1' s5' h,1'
+h5 h,1' h1 q1' h,1' d,1 q1 q1 q1 5 h2' 5. h2' 2' 5' q,5' s3 s,3' h3 d0 q2' x' q3' q5 q3' q1' dx s2 q2 h,1' d,1' h,,x' h1' - h6
+%END

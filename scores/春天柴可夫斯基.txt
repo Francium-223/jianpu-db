@@ -1,0 +1,19 @@
+%春天柴可夫斯基.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=45613
+title=春天柴可夫斯基
+tag=
+usertag=
+tagroute=
+confidence=0.978
+conf_p10=0.987
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-45613
+%--
+3/4
+subtitle=score
+1 - - 4 q3 x x 1 qx ,5. q,6 q,7 q2 3 1 0 ,6. q,7 q1 q3 5 - - 6. q3 3 0 q3 3 6 5. 2 2 q2 2 - - ,5. q,6 ,7
+q2 3 1 0 ,6. q,7 q1 3 5 - - 5 q5 1' 7 6 5 4 3 q4 2. 5 5 - - q5 q5 1' 7 6 5 4 q3 4 2. q3 1 - 0 3.
+q3 q3 q5 4 3 0 0 2 q3 4 q2 3 - 0 0 q3 3 q3 q5 4 3 q3 q3 6 - 4 3 - 0 0 q4 q4 q4 q6 6 - 3 0 q2 2
+6 6 - 6 2 - - 2 0 0
+%END

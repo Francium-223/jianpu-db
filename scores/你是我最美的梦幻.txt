@@ -1,0 +1,21 @@
+%你是我最美的梦幻.txt
+% 出处 https://www.jp114.com/jianpu/1202740.html
+title=你是我最美的梦幻
+tag=
+usertag=
+tagroute=
+confidence=0.688
+conf_p10=0.344
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1202740
+%--
+4/4
+subtitle=score
+1 x q1 x 1 1 q1. d1 s,1. q1. q1' s1 q1' q5' q0 s1 d1 s5 s5'. qx x - q5' ,5 q1 sx x sx sx d5 d,5 q5 s5' q5' q5 q,5 q1 1 x s2
+s2 q5 s1 q,5 s1 q,5 q1' q,5 x s1 s0 s2 ,,x q2 q2' s1' qx' s,,1 d1' qx q5' s5 q,5. s4'. s1' s,1' s2 s,1' h1' 5' 1 q1 q1' dx' s1' s1 hx' 2' q5. s,5.
+s5' d5' h1 qx' d1' ,1' q,5 h1 h1 x s,1 h5' s1 s1 d1' s1 s1 q,2. s1 1'. 2. q2 1' s1 s1' s1 1 x. 1' q1 1' q2 1' 1' q,1' 1. ,1 1' qx' qx
+q1' q1 q1' q,,4 q1' q1' d1' 1' q1' q5' q2 s,1' q1' 1 1 1'. x' 1' 1 q1' s1' q2 s,,1 s,1' ,x' 1' ,3 ,1' ,1' q1 s1' q,2 q,2 q,1' q1 q1 q1' 1' s1 6
+s1' s1' s1 sx' 1 2 1 q,1 1' ,,x 6. q1' q2 2 x q4' 4 x 1. 0 x' 5. 5 1 ,,1' q1 ,,1' 1' q1' q0 1' d1' 2' 1' x - - - x 0
+0
+%END

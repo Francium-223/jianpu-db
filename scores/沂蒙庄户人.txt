@@ -1,0 +1,25 @@
+%沂蒙庄户人.txt
+% 出处 https://www.jp114.com/jianpu/1202498.html
+title=沂蒙庄户人
+tag=
+usertag=
+tagroute=
+confidence=0.633
+conf_p10=0.326
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1202498
+%--
+4/4
+subtitle=score
+q1 q1 q1. 0 q2 q2 q0 q5. q7 q6 q,1 s4 d5 1 x dx d,,1 d1 q2'. d2 d2' q1 q2' q5' qx' 5' q5' 5 s5 q1 5 s1 dx h,1 h,1 dx'. q2' d2 d2 2
+,,2' ,,2' 6 5 5 6 q0 q0 q2' ,,1. s,1 ,x q6' d6 q2' - x' 5 q2' 6 q1'. 5 h2 q2 6 s5 s5 q5 q7 5 6 q,5 q5 q,5'. d5 6 6' x 0 0
+0 q1 q1 x 1 q1' 1'. q,5' q1' q1' s0 s1' qx 0 0 5 qx' q0 h3 sx' x sx qx' h,,1 h,,1 sx' 0 0 0 d0 0 0 d0 0 q1' q6'. q2 q2 q1' q1'
+x' 1' 0 0 0 0 0 1' 1' x' 1' h,5' q5'. h5' sx'. d,1' d,x' qx' q5 h,x' s5 h0 0 s0 q0 0 5 ,5' h5 h5 q1' q,,1' ,1' ,1' ,1 h,1 s5 h5' q1 q,1
+s,x'. d1' d5' 6 5 1 h1 h1 h1' 0 x 1' d0 d5 d5' h1 s6 d1 h,5 h,5' h,5' q,5' h,1' h,1' h,1' h1' sx' h1' dx' ,2' h1' 2' ,1' h1 x 1' s1' s1' q1' 1'
+1' 1 s,1' ,1' ,1' ,1' d,1' d,1' 6' 0 2' x' q1' q1 s6' q1' s0 s0 q0 q0 h,1 d5 d1 h,1 d1 hx h1 s1' h1 h1 h1' d1' q1' h1' d5 h6 s6 s1' h3 s1'
+s1' sx h,,1' s1' qx' qx' s,1'. s,1' s,2 h,1' h,1' d6' d1' d5' ,5 s1' h1' h,1' 1 0 0 5' 0 0 q2' q5' ,5' s,1' h1 d5 q1' q1 qx 0 s1' s1' 0 0 h1 h,,1
+1' x' x' d1' h3 s1' ,x q0 0 0 0 0 0 0 ,x' q5' 0 x' x' 0 d,2 0 s0 0 s,,1 q5' s,,x' h,6 h6' h6 h6' sx sx 1' 5' 0 0 ,3' 0 ,5'
+q5 h,5' q0 q0 h0 h,1' s1 h,1 0 0 d1 s0 q0 q0 0 q0 q0 0 2 3' d1 1' hx q1' 0 0 q0 d,1' d,1' q1' 0 q1' 0 0 0 0 0 0 0 s5'
+sx' dx' s5'. q0 q0 q0 s0 s0 d0 q0 q5 q0 0 0 0 0 0 5' 0 0
+%END

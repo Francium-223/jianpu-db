@@ -1,0 +1,21 @@
+%爱的人间.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12651
+title=爱的人间
+tag=
+usertag=
+tagroute=
+confidence=0.907
+conf_p10=0.600
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12651
+%--
+4/4
+subtitle=score
+1 - - - ,1' x' x x qx - - 6 0 x x. x. x 3 - 2 q6. s5 ,5 - - - 3 - 2 q6. s5 5 - - - 6. q4 q3 q2 2
+,1' q6 q4 4 q3 q2 2 3 - 2 1. s,6 1 - - - q3 5 5 3 q2 1 1. ,6 1 0 q,5 q,6 ,5 1 3 q5 q3 2 - - 0 s2 3 q5.
+s5 s5 s6 5. 3 2 ,1 s2 ,6 0 s6 q,6 q,5 0 1 q3 2. q2 q2 1. 1 - 6. q6 6 q6. s3 5 5 s6 s5 5 0 6. 6 6 q6. 3 2 q2
+q1 2 0 x ,x x x 5 6 ,3 q3. s3 q3 q2 3 5. 6. 6 q6 5 3 q2. 2 q2 q3 2 s1 ,6. 3. q2 2 q1 ,6 qx 5' 5. - - - qx.
+q1 x - 3. 3' x q5 5 5. 5' 5' x' x' 3' x s2 1' x 1 1' ,6 1 x' 0 q,5 ,6 ,5 q1 q3 q5 q3 2 - - q0 s2 3 5. s5 q5
+q6 5. q3 2 q1 q2 ,6 q0 q6 q,6 q,5 0 q1 q3 q2. q2 2 1. 1. q,6 q,6 q,,5 0 0 0 q1 q3 q2. s2 q2 1. 1 - - - 1 - - 0
+%END

@@ -1,0 +1,20 @@
+%海西之翼.txt
+% 出处 https://www.jp114.com/jianpu/1202568.html
+title=海西之翼
+tag=
+usertag=
+tagroute=
+confidence=0.618
+conf_p10=0.304
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1202568
+%--
+4/4
+subtitle=score
+x. 0 ,x' 0 x. s6 1' 5' 5. 2' x 1' d1 q1' s,1 q1 qx' ,,1 ,,1' ,1. 1' 1 ,2 q1' ,x' 5' 2 h1 h,1 q,1 x q4 d1' s1 q1 d1'. d1'. h1' 5 d1
+s1' d1 h1' s5 s0 s5' s5' d1' q,x' qx q1' s1' s1 q1 s1 sx s3' 1. q,1 q,1 q,2' q,1 q,5' q,1' 1' s1' s1 s1 s1'. s1. h1' q,2. h6 d6 h2' d0 hx hx' h1 qx
+h1 h6' q2 s2 s1 s1' s1 s6 s1 s1 q1' x s2' s1 d1' q4 q5' q5. q1 q2' q2 q2 q2' q5' q5' 6 5 5 5 5 q1 q1 h,1 h,1 q5' q5 h1' q6 h1 h,1'
+h1 d5'. q1 dx s1 d5' - dx' d6'. d,1 d1 d,5' s1' s1' h1' h0 d5' d5 d5'. d3 h5' x s2'. s2. s2'. h,5 qx d2'. d2. d2' hx' h5 hx x h5' h3 s6 s6 h5' dx
+q,1' q1 q,1 s2 s2 s,2' s2 s1' q5 5. 5' 5' q5' qx' 5' x q,2 2. 5. q,2 2. q5 5. qx - x - - - x 0 0 0
+%END

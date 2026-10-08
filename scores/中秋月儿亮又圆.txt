@@ -1,0 +1,20 @@
+%中秋月儿亮又圆.txt
+% 出处 https://www.jp114.com/jianpu/1201907.html
+title=中秋月儿亮又圆
+tag=
+usertag=
+tagroute=
+confidence=0.671
+conf_p10=0.367
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1201907
+%--
+4/4
+subtitle=score
+q1 1' qx h5' ~ d5 q1 q6 s1 q1 q4' q2 q1 qx x s2 0 x' d1 d1 q1 s2 s2' 0 s1 dx dx s0 ,,1' ,,1' qx 6 q4 q1 x q1 d1 d1 q2' x'
+q0 sx'. qx x sx q3 sx' q,1' 5 q6 0 d3 s6 x 1 q4 x 0 qx 1' sx s6 2 x h4 d1 q2 d4 s2 2 1' s1 s2 q1 q3' x' 1 2' 1' x
+1' x' x 5 5 1' 1 2 1 2 s2 s1 3' x 3 q2 x 1. ,5' 3 x' 1 - - x x 1' 1 x' 2 ,x s,1 q1 s1 q2' ,2 q2. d1 s2 6
+2' 1' q1 1'. 1' 1 1 ,1' ,1 x' x 2 1 qx 4 0 - 1 q0 6 2' - 0 qx qx x sx 1 0 2 qx. q0 qx q2 sx 1 0 q3. q2 qx
+q2 q1 2 2 q3 x 2 ,x 2 2 2. 2 2 2 1. 0 0
+%END

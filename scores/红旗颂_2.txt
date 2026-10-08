@@ -1,0 +1,22 @@
+%红旗颂_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=44608
+title=红旗颂
+tag=
+usertag=
+tagroute=
+confidence=0.942
+conf_p10=0.642
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-44608
+%--
+4/4
+subtitle=score
+5 - 7 - 6. q1 2 q3 q5 1 - - q2 q3 q5 q6 6 q5 q3 7 0 x ,x 1 x ,x' x ,x 6 - - q5 q3 2. q3 5 q3 q7 6 -
+- - 6 q6. s3 s6 s7 6. q5 q6 q7 s6 s5 6 6 q7 s0 s7 q6 s6 s5 q6 3. q2. s3 q5 q2 3 3 q,6. s6 q2 q3 q5 5 q3 q6 q5 s2 q3
+s2 1 - q2. s2 q2 s2 s3 q5 5 q6 q7 2 q2 q1 s7 s6 6 - 6 - - 6 q2 q3 s3 s2 q1 1 q2 q5 s5 s6 q7 6 - s1 q1 s7 q6
+s6 s5 q6 3. q2 ,6 q,6 s2 s3 q3 3 3 q5. s3 s5 s6 6. q6 1 q6 q1 q2 2 q5. s5 q5 s6 s6 q2. s2 q3 q3 q1 q6 6 - - 1 0 -
+6 - - 1 1 q2 q1 q7 q2 6 q5. s3 q5 q6 q1 q6 q1 q3 5 q5 s7 s4. s4 s7 5 q5 s7. s4 s7 5 - - - x ,x 0 ,x' 0 ,x' 1
+4 2 2 7 6 2 7. q7 q7 7 - - 7 - - 0 0 0 3 - 4. q3 2. q3 6 - 0 ,x 0 x ,x 1. q6 2 1 2 - 3 - 7
+q5. s3 s5 s6 6. 7 q5. s3 s1 s2 2. q5. s5 q5 s6 s6 q2. s2 q2 q3 q1 q7 6 - - q2 2 q6 q1 q1 2 3 - - - 3 - - -
+%END

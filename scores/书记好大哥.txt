@@ -1,0 +1,21 @@
+%书记好大哥.txt
+% 出处 https://www.jp114.com/jianpu/1202208.html
+title=书记好大哥
+tag=
+usertag=
+tagroute=
+confidence=0.550
+conf_p10=0.311
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1202208
+%--
+4/4
+subtitle=score
+1 qx q1' - q5' q2 q2 s2 - ,5'. d,,4 q,,1' - qx 0 ,,1 - 1 qx' 6 qx. s,,x q0 q,1 q3'. s2 s6 x qx' q2 q,5'. q5 q5 5 q5' ,,1' ,,1 0 x x
+s6 6' q6' sx' 1' 1' x' x' 2' 1' s5' 2' 1' d6'. d1 d1' s,x' sx qx' q1' q1' q5 5' 5' q6' 1 1 1' dx' s1' sx' s,6 s6 6' 1' s,1' s,5 d2 d2 2
+x'. 1'. qx h1'. d1' hx d1' h1' h1 h6 h1' q1' - 0 s5 d3 q1 1 q6' q3' ,1 s1' x sx sx' d1' qx h1. q0 h2'. h0 h2' h1' x h1 x'. x ,,x' q1 q1
+,1' 5' ,5' 5' 5' 5' 1' q2' q2 x' 1' h1 h1 s5 s3 s3 s5 s6 s6' h1 s2' h1 2' x x s1' 1' sx s,1' s,x h6 s,,x' s1' s1' 1' 1' ,1' s1' s1 s1
+s,1 1' h1'. s,,1' h1 s1' s1 h1' d1' d,1' d,1' h1' s,1 h1 q1' h1' d,1' h1 s1 h1 h1' h,1' q1 q1' q1' q1' q1' q1 q1' q1'. h1 h1' h1' d1' h1' hx' sx' s1' q,1' q1'
+s2. s2' d1' hx' d,5'. q1' q1' qx q1 q1 h2 q2' d,x'. q1' q5' d,5' d,,x' qx d,,2' qx' h3'. h,x h6' d,1' hx' d,1' d,1 h,6' q,,,x s,3 q1' qx q,5' q,3' q,3' q,3'
+%END

@@ -1,0 +1,19 @@
+%草原的味道_5.txt
+% 出处 https://www.jp114.com/jianpu/1201764.html
+title=草原的味道
+tag=
+usertag=
+tagroute=
+confidence=0.618
+conf_p10=0.338
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1201764
+%--
+4/4
+subtitle=score
+q1 1' 1' 1 ,6'. 0 6 1 1' 1' s6 ,1'. 6' 1 q1' 1' ,1 q1' 1 ,1' q1' q1 q1' 1' 1 q1' q1 q1 q1'. q5' q5' q1' q5 q5' s1' d1' s1' h1' h1 s,1'
+h1 q1 q3 q1 q5 q1 q3 1 d1' qx q5 s5' 5 5 5 q,1 s1' q1' s5 s5 h,1' qx' 1' d6' d1 s,x' s1' 1 ,1 1' 1 x x' x 1 ,,,1' 1 1' 1' 1'
+1 1' 1 1' x q1'. 1' d5 q1. 1 1' q1 x q1 1 1 1' 1' 1 ,,5 q5' s,,6' s5' s,5 s5' s1' h6' h0 h1 h,,1 1' 1' qx q,1 q,x' q2. s1' dx' s1' d1
+dx' x q,1' s,1 ,1 1
+%END

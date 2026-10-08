@@ -1,0 +1,20 @@
+%爱之旅.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=11873
+title=爱之旅
+tag=
+usertag=
+tagroute=
+confidence=0.896
+conf_p10=0.586
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-11873
+%--
+4/4
+subtitle=score
+1 1. - x. x x x 5 - - 3 5 6 1 6 5 4 5. 2 4 4 q5 ,5 3 2 1 1 - - 6 - ,1 3 1 2 - 1 5 3 2
+1 - - 0 ,5 ,,x x 5 ,1' ,5 q4 3 2 1 1 3' 5 x 1' 2' 2' 1' 1' 5 6 5 - 6 3 5 1' 7 6 5. 4 3 2 1 3 5
+6 1' q6 5 - 1' 0 x 2' 1' 7 6 6 7 6 5 0 4 5 6 6. ,,1. 6 5 3 3 q0 1 2' 1' 7 1. 1' q6 ,7 1 6 5 0 d5
+x 6 5 5 1' 1 ,,2 1 x qx 2 1'. 1'. 6' 6' 6. 2' ,1' 2' 1' 6 2. 6 q5 5 ~ 5 5 3 2 3 4 ~ 4 4 ~ ,4 ,7 ,7 3
+2 2 2 1 x 1 - 0 x 1 - - ,x 5 - - -
+%END

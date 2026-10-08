@@ -1,0 +1,21 @@
+%往事如风.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47353
+title=往事如风
+tag=
+usertag=
+tagroute=
+confidence=0.993
+conf_p10=0.991
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47353
+%--
+4/4
+subtitle=score
+x q,6 q2 q3 q1 q7 q5 q6 q3 q,6 q2 q3 q1 q7 q5 6 q,6 q2 q3 q1 q7 q5 q6 q3 q,6 q2 q3 q1 7 - x q6 q3 q3 q3 q2 q1 q2 q3 3
+- 0 q1 q2 5 q3 q3 q3 q3 q2 q3 3 - 0 0 q,6 q3 q3 q3 q2 q1 q2 q,6 ,6 - 0 q,7 q1 q,7 q,7 q,7 q,6 q,5 q,5 ,5 - 0 0 ,6 -
+1. q,7 ,7. q,6 ,6 - ,6 0 0 0 q,6 q,7 q1 q1 1 - 0 0 0 q1 q2 ,7. q,6 ,7 q,6 q,5 ,5 - 0 0 q,6 q,7 q1 q1 1 - 0 0 1. q,6
+2 - - - 2 - - q1 q2 q3 q6 q6 q6 q6 q3 q3 q3 q3 q2 q2 q2 q2 q2 q1 q,6 2 - - q,6 q,5 ,5 0 0 q1 q2 q3 q6 q6 q6 q6
+q3 q3 q1 q1 q7 q7 q7 q7 6 q5 - - 3 - - - 0 0 0 q1 q2 q3 q6 q6 q6 q6 q3 q3 q3 q3 q2 q2 2 q2 q2 q1 q6 2 - -
+q5 q2 2 0 0 q,1 q2 q3 q6 q6 q6 q6 q3 q3 q1 q1 q7 q7 q7 q7 6 q5 6 - - -
+%END

@@ -1,0 +1,21 @@
+%心中有一双大眼睛.txt
+% 出处 https://www.jp114.com/jianpu/1202210.html
+title=心中有一双大眼睛
+tag=
+usertag=
+tagroute=
+confidence=0.754
+conf_p10=0.408
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1202210
+%--
+4/4
+subtitle=score
+q1 1 q1 qx q5' d1 q1' q1 q1' d1 d,1 s6' q,1 q6 s6 s1 q,5 q5 ,5 5' 5' s1 1 x ,5 ,5 q1 q5 q1 5 ,6 q,5' q,5 q,1 q1 q5 q5 q,5 q1 6
+q1 s5 q5 q3 1' 5 5 q0 0 x q,1 1 qx q5 qx 6 1 1 3 ,6 s5 q5 q5 q5 ,2 q1' q1 q1' q1 qx s,2 6 q6 5 ,5 3 - q1 1' ,6
+1 q1 3 q1 2 x 0 0 0 s5' s5' s5 s5' s5 h,5 s5 h3 d5' s1' 1' 1' s1 x 1' q1' q1 q1' q1' q1' q1' qx' d3' h5 d5 d5' d6' s5 d5 s,5 d,,5'
+h3' h3 q,,6 q,6' s3 s1 s1' sx q1 q,6 q1' q1 q2 s1 q1 q1 q1 s1 q1 1 q1' q1 q5 q5 q5' 0 sx s,2 d1 x d,1 1' q1' q6 q5 q5 q5 q1' 5 s1
+q5 s3 q6 s3 s3 q1' - 1 1' s1' s1 0 q1' q1 0 sx 0 x q,x sx q,1 q,,5 q1 q1' d1 q5 qx q0 q1 3 1 q6 d1' d1' h1'. d1 q5 qx' q,1 s1'
+q3 q3 q,x q1 - q5 q5 q6' q5 q1 s,5 s,3 s3 s1' qx qx x h,1 s3 s1 d1 q2' 2 q5 s5 q,5 q5' s3 6
+%END

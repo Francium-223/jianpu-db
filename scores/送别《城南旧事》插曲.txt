@@ -1,0 +1,18 @@
+%送别《城南旧事》插曲.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=43426
+title=送别《城南旧事》插曲
+tag=
+usertag=
+tagroute=
+confidence=0.967
+conf_p10=0.972
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-43426
+%--
+4/4
+subtitle=score
+1 - - - x' q,1 ,x 5 3 5 1 - 6 1 5 - 5 1 2 3 2 1 2 - 0 0 5 q3 q5 1. 7 6 1' 5 - 5 2 q3 4. q,7
+1 - 0 0 6 1 1 - 7 6 7 1 - 6 7 1 6 6 5 3 1 2 - - 0 5 3 5 1. 7 6 1 5 - 5 2 3 4 7 1
+- - 0 - ,x
+%END

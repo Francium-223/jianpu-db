@@ -1,0 +1,18 @@
+%我.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=46993
+title=我
+tag=
+usertag=
+tagroute=
+confidence=0.995
+conf_p10=0.983
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-46993
+%--
+2/4
+subtitle=score
+0 0 0 0 0 0 0 0 0 0 0 q0 q,6 3. q2 3. q1 q2. s3 q2 q1 ,6 q0 q,6 1. q,6 2 - q3. s2 q1 q2 3 q0 q,6 3. q2 3 - q6.
+s5 q3 q2 3. q1 2. q1 3 - q5 5 q3 6 - 6 - 6 0 6. s3 s6 5. s3 s5 q6 q6 q6 q3 5 0 2. s1 s2 3 0 s1 s6 s6 s6 q,6
+s5 s6 6 0 6. s3 s6 5. s3 s5 s6 q6 s1 q1 s3 s5 5 0 2. q5 s3 2 0 s3 s3 s3 s3 q3 q5 ,6 q0 q,6. 6 - 6 0 q3 q5
+%END

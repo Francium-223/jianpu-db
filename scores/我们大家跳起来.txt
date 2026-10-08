@@ -1,0 +1,17 @@
+%我们大家跳起来.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48734
+title=我们大家跳起来
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.998
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48734
+%--
+3/4
+subtitle=score
+5 q1 q2 q3 4 5 1 1 6 q4 q5 6 q7 1 4 q5 4 3 q2 3 q4 3 2 1 ,7 q2 q3 q1 2 - - 5 q1 q2 3 4 5 1 1 6
+q4 q5 6 7 1 1 1 4 q5 q4 3 2 3 q4 3 q2 2 q3 q2 1 7 1 - -
+%END

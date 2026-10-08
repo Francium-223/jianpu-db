@@ -1,0 +1,18 @@
+%欢迎你到桂湖来.txt
+% 出处 https://www.jp114.com/jianpu/1201197.html
+title=欢迎你到桂湖来
+tag=
+usertag=
+tagroute=
+confidence=0.626
+conf_p10=0.349
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1201197
+%--
+4/4
+subtitle=score
+q1 q1 1 5. 1 q1 1 d1' s6. s6. 1' qx' s1' q,1 q,1' s,x q1 q1 1 q,1 d1 dx q1 1' 1 1. q5' qx'. s1 1 s6 ,x 6 q5 q6 q1' qx q1 x q,1
+s1 s1' h1 d1' s,1 d6 d1' s1' h1' h1' h1 s1' h5' s1' 7 q2' q2 ,1' h1 h,,1 q1'. h5. h,,3. 1' 0 s1 s1' s1'. sx' q,,x s1 h,,,1 2' 2 h0 h,6' s2 s0 d0 d6'
+dx' qx x 6'
+%END

@@ -1,0 +1,20 @@
+%月之故乡.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=44336
+title=月之故乡
+tag=
+usertag=
+tagroute=
+confidence=0.978
+conf_p10=0.977
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-44336
+%--
+4/4
+subtitle=score
+1 - - 1 ,1 x x 3. 5 6 7 5 6 - 3 - 5. 3 2 3 4 3 - - - 2 2 3 ,6 1 2 4 3 2 3 1 ,7 ,7 ,6 ,5
+2 1 ,7 ,6 q,5 ,6 - 3. 5 q6 q7 5 6 - 3 - q5 5 3 2 3 4 3 - - - 2 2 ,1 2 4 3 2 3 1 2 - ,7 ,7 ,6
+,5 2 1 ,7 ,6 ,5 ,6 - 3. 5 6 7 5 6 - 3 - 5 5 q3 2 3 4 3 - - - q2 2 3 ,6 1 2 4 3 q2 3 1 ,7 ,7
+,6 ,5 2 1 ,7 ,6 ,5 ,6 - 6. q5 6 q1 7 q6 q7 5 6 - q5 5 q3 q2 q3 4 3 q4 3 2 3 - q2 2 3 ,6 1 2 4 3 2
+3 1 q,7 ,7 ,6 ,5 2 q1 q,7 q,6 q,5 ,6 - 1 7 q6 q5 6 - 6 - - 0
+%END

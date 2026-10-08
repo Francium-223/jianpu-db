@@ -1,0 +1,19 @@
+%波兰圆舞曲.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49837
+title=波兰圆舞曲
+tag=
+usertag=
+tagroute=
+confidence=0.965
+conf_p10=0.907
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49837
+%--
+3/4
+subtitle=score
+5 - 1' 3' - 2' 1' - 7 1' - 6 5 - 5 3 - 4 5 - - 5 - - 4 - 6 2 - 3 4 - - 4 - - 5 - 5 3
+- 4 5 - - 5 - - ,5 - - 3 3 3 4 - 6 2 - - 2 - - 4 6 q6' q0 3 5 5 q0 2 4 q4 q0 1 3 3 q0 2
+3 2 1 - 2 3 - - 5 - - 4 6 6 q0 1 2 1 3 5 q5' q0 2 4 q4 q0 1 3 q3 q0 2 3 2 ,6 ,7 1 - - ,6 -
+,7 ,1 1 1 ,5 1 1 ,1 1 1 ,5 1 1 x. ,1 1 1 ,5 1 1 ,1 1 1 1' 0 0 x
+%END

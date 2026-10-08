@@ -1,0 +1,20 @@
+%苗族飞歌.txt
+% 出处 https://www.jp114.com/jianpu/1201555.html
+title=苗族飞歌
+tag=
+usertag=
+tagroute=
+confidence=0.618
+conf_p10=0.329
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1201555
+%--
+4/4
+subtitle=score
+- 0 4 4 4 x ,5' q3 ,,,x 6' x qx q6' q6 q6 qx' sx dx x. 1 x' x' qx' x. q,6'. q6' q6 5' 6' - ,1' qx q6 6'. 6' x' q6'. x x x'
+x' 7' 1' 1' x' ,6' q,1 q1' q1' q,1' x 1'. 1'. 4 3' 4 1' 1' ,6' ,1' dx qx' q,1 qx' s,,x' s,1' x x' 1' 1' 1' x' x ,1' q1' 2 s1' s2' s1' s1
+h1 q1' 1' 1' 1' 6' 6' 6' 6 x' 1' x' 1' q1 1' 1' 2' 7' 1' x' 4 qx' 2' q1 qx 1' s1' s,1 x. d1 d3' d,x' d5 1' 1. x' 5' 5' 6' q1
+q6' 1' x' x 1' x' h1' - s5' q2' 5' x 3 2 qx 1' s4' q3 s1 q6' q6' q6. s6 s6 s6 x 1 ,x' 6' 6' 6' 6' 6' q3' 2' s1' 1 s,1' 1' s6
+s6 6 6 q,,x q1 x' q1' q1 6 1' ,x' 1' 1 ,x x 1' 1 2 q1 q1 s,6' s,1' d1 q1' qx q3 x q6
+%END

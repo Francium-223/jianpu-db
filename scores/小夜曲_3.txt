@@ -1,0 +1,20 @@
+%小夜曲_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49713
+title=小夜曲
+tag=
+usertag=
+tagroute=
+confidence=0.980
+conf_p10=0.977
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49713
+%--
+3/8
+subtitle=score
+3. 5 q5 s6 q7 s6 q5 q3 5. 5 q6 5 q4 q3 3 q2 q2 q1 1 1 q0 3. 5 q5 s6 s7 s6 q5 q3 1'. q1' s3 s4 s5 s7 7 4 s6 s7 s7
+s6 5 5 q0 q5 q4 3 q4 q5 q6 6' s3' 3 q3 q5 q4 3 q3 q2 q,6 ,7 q2 q,6' s,7' ,5' ,5' q0 5 q4 3 q4 q5 q6 q6' q3' 3 3. ,7 q2 q3
+,5 q4' s3' 4 4' 4. s7 q3 q4 q5 q4 5 5. 5 q5 s4 5 5. 1'. 1' 7' s7 s6 s7 s1' 7 q6. 3 6. 7. q7 q6 s6 q5 s6 s7 q6 q5. s2 5
+q4 3'. 3' 3 q3 q2 q3 q4 q3 2 ,6 q1 2 1 ,7 ,6 q,5' q5' s,6 s1 s,7 4 q3 3 s2' 1 1 q1' q0 q0 q1 q6 q5 5 5 4. q1 3 q4' 5'
+5' 0 0 0 0 0 q0 q6 1'. 1'. 1'. 1'. 1' 0 0
+%END

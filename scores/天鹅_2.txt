@@ -1,0 +1,16 @@
+%天鹅_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48155
+title=天鹅
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.996
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48155
+%--
+4/4
+subtitle=score
+3 q1 6 ,5 - 5 q6 q1 6 - 6 q5 q3 q1 q2 q5 q3 2 5 6 q1 6 q2 q3 1 6 ,5 - 3 1 6 5 6 3 ,6 - -
+%END

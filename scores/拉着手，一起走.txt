@@ -1,0 +1,18 @@
+%拉着手，一起走.txt
+% 出处 https://www.jp114.com/jianpu/1201460.html
+title=拉着手，一起走
+tag=
+usertag=
+tagroute=
+confidence=0.675
+conf_p10=0.335
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1201460
+%--
+4/4
+subtitle=score
+,6 ,1'. 2' 5 1 3 6' 5' 1 2 ,5 - x ,5 1 5' 5 2' 2' 6' 1 1 ,1' 2 2' - - 5 ~ 5' ~ 5 ~ 5' 3 ,5' 1' ~ 1' 6'
+1' 5' 5' 6' 1 1' 5 5' 5 1' ,1' 5 2' 2' 6' 6 x 3' 3' ,5' 5 1' 1' 1 q,1' ,3' ,6 6' 6' 1 1' q6' q6' 6' ,,5' s2' q2 6' 6 q,1'
+2 2 2 6' 6' 3' 3' 3' 3' 3' 1' 1' 1' 5' s,1' 5 ,1 6' 2' x q,5' q6' q5' q5' q5 5 5 ,6 6' 6 1 1 1' q5'. q5' x qx.
+%END

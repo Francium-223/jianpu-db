@@ -1,0 +1,19 @@
+%雕塑了所有的缘.txt
+% 出处 https://www.jp114.com/jianpu/1201334.html
+title=雕塑了所有的缘
+tag=
+usertag=
+tagroute=
+confidence=0.656
+conf_p10=0.347
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1201334
+%--
+4/4
+subtitle=score
+x 6. q0 q6 q6 6. q0 q6 q6 6' qx' q2 - 7 - x. x. qx qx q2 6 2. 2' ,2 ,1 qx' x'. 2 2' ,1 0 1' 1 3'. 2'. x' 2'. 7 0 q1'
+qx s1 q3' q,6' q1' q3 2' x' x 1' x' x' q,,x' 1 q1 s,x sx' d,,x'. s,3' s,,6' ,x' 2' 6 5' 3' q1' q5' q2' q,1 qx q,3' q3' s6' s1' s1 s1' s1 h,1 h,6' 1
+q1' q1 q,3' qx' q1 1 1 3'. 1 1 ,1 s1' d1' s,1' s2 s,x'. s2 h,2' h,2 s2'. s1 q2 q3' qx q2 q1' q,2 s3 s3' sx' 3 q,3. q,x' s1' q1' ,,4 ,3 q5'. x q0
+q2 q2 q3 q2' q0 q0 x ,,,2. 2'. - q0 q0 q0 q0 q0
+%END
