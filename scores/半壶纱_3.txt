@@ -1,0 +1,23 @@
+%半壶纱_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=6792
+title=半壶纱
+tag=
+usertag=
+tagroute=
+confidence=0.976
+conf_p10=0.942
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-6792
+%--
+4/4
+subtitle=score
+q0 q6 q1' q3' 3' q2' q6 5 q2 s5 s6 3' q2' q5 6 q6 q7 q6 q3' q3' q2' q2' q5' q5' q2' 3' q2' q7 1' q3 q5 3' q3' q6' 2' q2' q5 q6 5' q2'
+q7' 1' q6 q7 q6' q3' q3' q2' q2' q5 q5 q7 6 q0 q6 q1 q6 3 q0 q2 q3 q5 q6 q,6 ,6 q0 q1 q1 q3 q3 2. q0 q2 q5 q2 q3 s4 s3 3 q0
+q3 q5 q3 q5 6. q0 q3 q5 q6 s2 s3 2 s1 s6 q0 q,6 q,7 q3 1 q2 s1 s2 q,7 s1 s7 q,5 s3 s5 ,6 - q0 q6 q1 q,6 3 - q0 q2 q3 q5
+q6 ,6. q0 q1 q1 q3 q3 2. q0 q2 q5 q2 q3 s4 s3 3 q0 q3 q5 q3 q5 6. q0 q3 q5 q6 s2 s3 2 s1 s6 q0 q,6 q,7 q3 1 q2 q1 q,7 s1
+s7 q,5 s3 s5 ,6 - q0 q3 q3 q5 q6 q6 q5 q6 2 q0 q3 q5 q5 q3 q2 3 - q,6 q3 q,6 q3 q2 q3 q5 q6 3 - q0 q3 q3 q5 q6 q6 q5
+q6 2 - q5 q5 q3 q5 ,6 - q,6 q3 q,6 q3 q2 q3 q5 q1 ,6 - q0 q3 q6 q7 1' q3 q1' 7 q2 q7 6 q6 q7 q1' q2 q3 q5 1' q3 q1' 2'
+q5 q2' 3' q7 q5 q6 q7 q1' q2' 3' q2' q6 2' q0 s5 s6 q3' q7 q2' q5 6 q6 q5 q6 q3' q3' q2' 2'. q5 6 x q0 q6 q1 q6 ,6 q0 q3 q3 q5
+,6 - q0 q3 q3 q5 q6 q6 q5 q6 2 - q5 q5 q3 q5 ,6 - q,6 q3 q,6 q3 q2 q3 q5 q1 ,6 - - -
+%END

@@ -1,0 +1,23 @@
+%加州阳光.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=40521
+title=加州阳光
+tag=
+usertag=
+tagroute=
+confidence=0.902
+conf_p10=0.586
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-40521
+%--
+4/4
+subtitle=score
+1 - - - x 0 x x 1 0 0 q1' 7 5 q6 6 - q0 6 3 1 2 q3 q6 ,6 - ,6 - - - 0 0 3' 2' q7 1' 1' - 0 5
+q3 1 2 q3 q6 ~ ,6 - ,6 0 6 7 q1 1 - q1 s2 q1 1 - q0 q1 7 q6 q6 q6 6 q6 q6 ,5 5 ,6 - 0 6 7 1 q4 q3 q3
+q2 q2 q1 1 q1 1 q1 s2 2 ,,2. - - 6 5 5 5 3 x 5 5. 5 5 5' 6 3 - 0 3 2 2 2 2 x. 1 1 1 1 ,6 q2 q1
+2 2 2 2 1 1 1 1 0 0 q0 0 0 1. 1 1 1 1. 6 1 1 2 1 1 1 1 1 q3 5 5. q,3 q,3 q1 q3 1 5 - q5 q5 3
+3 3 5 7 7 7 6 1 6 6. q6 3 2 3 3 - 3 q,,6 3 q5 5 - 5 5 3 3 5. 5 1' 7 7 6 6 - 6 3 2 3 3 1'
+7 6 6 q3 1 1 2 4 2 2 s1 d1 1. 1' 1 1' 4 3 q1 q2 0 q3 0 2 0 6. 2 6 1. 2 1' q1 6 3. 3 6' x' 2 2 5
+2 2 5 1 1 1 q2 q2 q5 1 1 1 1' 1' 1 1 2 q1. - x 3 2 2. 2. 2 1 q2 1 2 3 2 2 q5 1 5 ,5 5 1 ,6 ,1
+1. 1
+%END

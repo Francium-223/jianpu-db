@@ -1,0 +1,21 @@
+%世上最美是妈妈.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=16626
+title=世上最美是妈妈
+tag=
+usertag=
+tagroute=
+confidence=0.938
+conf_p10=0.698
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-16626
+%--
+6/8
+subtitle=score
+1 x 6 q6. x x qx 1 ,,,x 3. 6. q2 q3 ,1 ,6. 3. q6. s5 s3 s5 3'. 3'. q1' q7 q6 q1' q7 q6 2' q1' 6. 3' x q3 q2' q1' q5 6'. 6'. ,6
+q,6 3 q1 q,7. s1 q3 2. 3 q,7 ,5 q1 ,6'. ,6'. q2 q2 q,6 q2 q2 q,6 q1. s2 q1 3 q,5 5 q2 5 q2 3. 3. 3 q6 6 q3 5 q6 2. 6 q2 3
+q2 1. 1. q,7 q,7 q,6 ,7 q,6 q2 q2 q3 5. 3 q,5 q,5 q,6 6 s2 s3 2 2. 2. 3 q1 ,6'. ,6'. s,6 s,7 s1 s,6 s,7 s1 s2 s3 s1 s2 s3 s5 q1' q7
+q6 q1' q7 q6 1' q7 6. 5 q6 7 q6 6'. 6'. q1' q7 q6 q1' q7 q6 1' q7 6. 5 q6 7 q5 3. 3. 3. 6 q3 5 q6 2. 6. 3 q2 2 q3 1.
+q,7 q,7 q,6 ,7 q,6 q2 q2 q3 5. q,5 q,5 q,6 s2 s3 2 2. 3 q1 ,6. ,6. 0 q3 q5 q3 7'. 7. 5 q6' 1' q7 6'. 6'. q,7 q,7 q,6 2 q3 5. 5'. 5
+q6 7'. 7'. 7'. q5 q5 q6 1'. 1'. 7. 6'. 6'.
+%END

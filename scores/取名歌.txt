@@ -1,0 +1,17 @@
+%取名歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47632
+title=取名歌
+tag=
+usertag=
+tagroute=
+confidence=0.963
+conf_p10=0.768
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47632
+%--
+3/8
+subtitle=score
+2 5 2 4 3 3 2 q3 2. 2. 2 2 4 3 3 2 q3 2. 2. 1 2 2 5 3' 3 2 2 4 2 - 3' q2 q2 q5 4 3 - x q3 3
+2 2 2. 2.
+%END

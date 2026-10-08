@@ -1,0 +1,21 @@
+%像雾像雨又像风_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=50357
+title=像雾像雨又像风
+tag=
+usertag=
+tagroute=
+confidence=0.993
+conf_p10=0.995
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-50357
+%--
+4/4
+subtitle=score
+x 0 q3 6 q6 q7 7 7 q5 q5 6 q,6 q4 4 - 3 q,3 q4 4 2 2 3 q3 q3 3 - x q0 q6 q7 q1 s1 s1 q1 q1 q,7 q,7 q2 q2 ,6
+q0 q1 2 q3 q3 3 q3 q3 q2 s2 q5 5 q5 3 3 0 3 q1 s1 s1 q1 q1 q7 q7 q5 q5. 4 - - q0 s6 s7 1 s1 s1 q1 q1 ,7 q2 q2
+,6 - - q0 q6 q7 ,6 - - - q3. q2 2 1. 7 ,7 q,7. 6 ,6 - - q3. q2 2 1. 7 ,7 5 q5 q2 3 - - q3. s2 2 q1. s7 ,7 q,7.
+s6 ,6 - - 3. q2 2 1. q7 ,7 ,6 - 0 s3 q6 s6 s7 q7 q7 q5 q5 s6 q6 q6 q6 q4 4 q0 q2 q3 s4 s3 q3 q3 q2 q2 s3 q3 q3 q3
+q3 3 - 0 q3 q6 s6 s7 q,7 q7 q5 s5 s6 q6 q,6 q,6 q4 4 - q0 q2 q3 q4 s3 q3 3 q2 s2 q3 q,3 q3 q3 q3 3 - 3. 2 2 1. 7
+7 7. 6 6 - 0 6 7 7. 6 6 - 0 3 - - - - - - 0 0 1 0 - - - 1
+%END

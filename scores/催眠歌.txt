@@ -1,0 +1,19 @@
+%催眠歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47528
+title=催眠歌
+tag=
+usertag=
+tagroute=
+confidence=0.988
+conf_p10=0.985
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47528
+%--
+6/8
+subtitle=score
+3 5 1 3 3'. q3' q2 1 q1 q2 q1 q3 q2. s3' q2' q3' s2' 1 5 q1 q3 q5 1' 5 1 5 1 2 1 3 3 q5 1 3 3 1 2 3 2 1
+5 1 1 3 2 1 3. q2 q3 q1 2 q0 1 3 q5 1 q2 1 q5 1 3 5 5 7 7 6. 6 7 3 3 5 3 5 5 2 1 7 3 3 q2
+1 6 q5 1 2 1 3 3 q2 1 1 3. 2 3 3 2 3 2 1 5 1 1 3 5 7 7 7 6. 7 3 3 5 7 6 7 5 3 5 6. 6
+3 5 1'. 3. 3' 2' 1'
+%END

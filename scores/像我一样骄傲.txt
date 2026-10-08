@@ -1,0 +1,22 @@
+%像我一样骄傲.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=21431
+title=像我一样骄傲
+tag=
+usertag=
+tagroute=
+confidence=0.977
+conf_p10=0.946
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-21431
+%--
+4/4
+subtitle=score
+x s,,1. x - x x x q3. s1 q3 q2 q1 2. q0 s1' q1' s1' s1' q1' s1' q7 s2 s7 s5 q5 q0 q6 q6 s6 s1' s6 s1' 1' 0 s6 s5 s6 s6 q6 q6
+q6 q6 q4 s2 s1 q1' 1 - - - q3 q2 q3 s3 s3 q2 q1 q2 s3 s5 5 - - q0 q3 q3 s2 q1. q1 s0 s2 2 q2 q2 q1 3 - - q0 s7
+q7 q7 q7 q1 q7 q5 q5 q3 6 - - q0 s6 s5 6 1' q0 q6 q5 s1 q2. 3 - - 0 q3 q2 q3 s3 s3 q2 1 q2 q3 5 - - q0 s3 s3
+s2 s1 1 s0 s1 q2 2 q1 3 - - 0 7 7 7 q1' 7 q5 q5 q3 6 - - q0 s6 s5 q6 1' s0 s1 1' s1' s1' q1' q6 2' - - - q3.
+s1 s3 q2' s1 2. q0 s1 q1' s1' s1' s1' q7 q2 s7 s5 q5 q0 q6 q6 q6 q1 q6 q1' 1' 0 s6 s5 s6 s6 6 q6 s6 6 q4'. s2' s1 q1 s3 q3 s3
+q3 q2' q1' 2'. q0 q1 q1 q1 q1 q0 q2 q1' q7 q5 q5 q0 q6 q6 q6 q6 q6 q1' q6 q1 1'. 0 0 q6 q5 q6 q6 q0 q6 q4 q2' 1' - - - 1'
+- - - 1' 0 0 0 1 - 1' - - -
+%END

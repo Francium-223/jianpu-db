@@ -1,0 +1,17 @@
+%一根竹棍十二节.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47968
+title=一根竹棍十二节
+tag=
+usertag=
+tagroute=
+confidence=0.956
+conf_p10=0.771
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47968
+%--
+2/4
+subtitle=score
+1 x 2 4 3 4 1 x 2 2 6 1 6 2 1 2 1 6 q2 s2 s3 q2 q2 q1 6 2 q1 q6 6 5 q3 s5 s6 q6 q6 s1 q2 q1 2 1
+1 6 6 6 q3 5 q3 5 6 q5 q6 q2 q1 6 2 3 3 2 1 6 1 6 6 6
+%END

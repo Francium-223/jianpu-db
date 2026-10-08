@@ -1,0 +1,22 @@
+%信仰_6.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=8263
+title=信仰
+tag=
+usertag=
+tagroute=
+confidence=0.932
+conf_p10=0.735
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-8263
+%--
+4/4
+subtitle=score
+qx' 1 - 6 6 6 q4 x 1 x x x x x x 3 5 6 3' 2' ,1' 6 0 6 5 3 3 5 6 3' 2' q1' q7 6 - - x q0 q0 q2
+x s6 s5 s5 s3 q5 q6 6' - q0 s0 s2 3. x x q,1' q7 q7 q6 q1 q6 q6 q5 6 6 q5 q5 q4 ~ q4 q5 6 ~ 6' - 0 q0 q2 q7 q7
+q6 q7 q6 q6 q5 6 s6 s7 s3' x 6 7 1' 6' x - 3' 2' 3' 3' - 0 2' s3' q2' s3' s6 ~ 6' s3' q2' s3' 6. q6 q7 q,1' q3' 3' q2' q5
+5 - 0 q0 q5 6 5 6 5 6 q6 q5 q6 q5 q6 q0 q6 q5 6 - 0 q0 0 q2 q6' q5' q2' q3' 3' - 0 0 3' 6' 5' 6' q5' q6' q6' s5'
+s6' s5' s6' s3' q6' q5' 6' - - q3' q5' 6'. q6' q5' q5' q3' q6' q5 q5 q3' 6' 5 2' - 3 q5' 5. q,1 q7 q6 q1 q7 q7 q6 q1 qx q7 6 0 0
+3 6 5 6 5 6 6 5 6 5 6 5 6 q5 q6 6' q5 s3' 3' - s3' s2' q2' s1' 3' q6 0 q6' q5' s1' d7' d7' d6' d6' s1' s1' q6' 6' - -
+s2 q1' q6' 6'. 1' x' 0 0 6' - - 3' 5' 1 7' 6' 6' - 3' 2' 2' ,1' 3' q6 5' q1' q7 q7 q6' q7 q6' 6' - - 6' 0 0 0
+%END

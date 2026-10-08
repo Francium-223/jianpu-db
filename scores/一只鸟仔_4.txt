@@ -1,0 +1,17 @@
+%一只鸟仔_4.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47506
+title=一只鸟仔
+tag=
+usertag=
+tagroute=
+confidence=0.905
+conf_p10=0.553
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47506
+%--
+2/4
+subtitle=score
+2 3 2 2 3 2 1 2 0 ,6 ,6 2 0 0 ,6 2 ,6 1 ,6 ,5 ,2 ,5 ,6 ,5 x 0 0 x x - - 1 x x x x 1 2 q1 s1
+s2 q1 q6 1 x ,5 ,5 1 0 0 2 2 x ,6 1 ,6 5 ,2 5 ,6 ,5 5 0
+%END

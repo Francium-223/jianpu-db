@@ -1,0 +1,17 @@
+%假如你要身体好.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14652
+title=假如你要身体好
+tag=
+usertag=
+tagroute=
+confidence=0.926
+conf_p10=0.604
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14652
+%--
+2/4
+subtitle=score
+q1 q1 x x. x x x q,5 q,5 1 1 0 q,5 q,5 q1. s,5 q2 3 q,6 q,6 q4 q1 7 q6 5 q4 3 2 2 2 0 q,6 q,6 q2. s6 q2 q3 q4 q2 5
+4 3 5 ,5 ,5 q1 q0 q,5 q,5 1 - 1 q,5 q,5 1 q0
+%END

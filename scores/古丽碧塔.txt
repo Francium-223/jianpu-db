@@ -1,0 +1,17 @@
+%古丽碧塔.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47639
+title=古丽碧塔
+tag=
+usertag=
+tagroute=
+confidence=0.911
+conf_p10=0.613
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47639
+%--
+2/4
+subtitle=score
+x 3 6 x 5 6 7. 1. 1' 7 6 1' 7 6 x 6 x 5 4 3 1 7 6 x 6 5 4 3 4 2 3 - x 3 6 x 5 6 7. 1'
+7 6 1. 1' 7 6 x 6 x 5 4 3 q1' 7 6 x 6 x 5 4 3 4 2 3 -
+%END

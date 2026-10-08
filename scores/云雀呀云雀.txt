@@ -1,0 +1,19 @@
+%云雀呀云雀.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47538
+title=云雀呀云雀
+tag=
+usertag=
+tagroute=
+confidence=0.928
+conf_p10=0.612
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47538
+%--
+2/4
+subtitle=score
+0 3 6 - 6 - 4 3 3 3 6. q1 5 4 q4 s3 q2 q3 4 q6 4 3 q3. q3 1 s7 ,6 2. x x x. qx 1 x 0 1 4 2 3 2
+3 4 6 3. q2 1 ,7 6 7 1 2 1 ,7. 5 ,6 ,6 - 4 3 ,6 6 7 q1 q2 q1 7 ,6 4 q1 ,6 6 7 1 2 1 q7 ,6 3. 3 6
+- 4 1 6 - 4 3 3 3 6. 1' 5 4 2 4 3 2 3 4 6 3. 2 1 1 ,7 6 7 1 2 q1 4 q3 7. q5 ,6 - ,6 0 3 4
+q3 ,7. q5 ,6 - 4 1 6 -
+%END

@@ -1,0 +1,20 @@
+%世界在你面前.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=46032
+title=世界在你面前
+tag=
+usertag=
+tagroute=
+confidence=0.990
+conf_p10=0.991
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-46032
+%--
+4/4
+subtitle=score
+x q3 q4 q3 q1 q1 5. 4 q3 q4 q5 5 - q7 q1 q7 q5 q5 4 3 q3 1. 1 - q0 q5 q1 q3 q3 q3 q1 q5 x 3 q3 q3 q0 3 3 q4
+3 2 0 1 1 2 2 2 3 2 0 2 q1 q6 q5 0 0 q,6 q1 q1 q1 2 q1 q0 2 q1 q2 q3 0 q5 q5 q5 q5 q6 5. 1. 2. 3. q3 q2
+q1 q2 0 0 q3 q2 q2 q1 1 - 0 1' 1' 1' q1' 2' q1' 1' - 0 6 6 6 q4 5 q4 4 - 0 1 2 6 5 - - - 0 4 q6 5
+5 5 - - - 0 1' 1' 1' 1' 2' q1' 1' - 0 6 6 6 q4 5 q4 4 - 0 1 2 6 5 - 4 5 1 - - - - - - - -
+- - - -
+%END

@@ -1,0 +1,23 @@
+%中华恋.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=36799
+title=中华恋
+tag=
+usertag=
+tagroute=
+confidence=0.971
+conf_p10=0.939
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-36799
+%--
+4/4
+subtitle=score
+1 - - - 5 1. 1. x x 1 x x q0 q,3 ,5. q,5 q,6 q,3 q,6 q3 2 s3 s5 1 q,7 ,7. q,7 ,7 q2 ,5 - - q0 q,3 ,6. q,6 q,7 q2 q,5 ,5.
+s5 s6 3. q3 4. q4 q4 q3 q4 q5 2 - - q0 q3 5. q5 6 q5 q3 q3 6 q5 3 - 4 q5 q4 q3 q2 q,6 q,7 1 s2 ,7 q0 q3 6 q6 6
+q3 q3 q6 6 - q0 q6 q4 q3 q2 q6 5 2 - - - q3 q7 q6 6 - q4 q5 q0 q,3 q,5 q,6 q2 s3 s5 q,7 ,6 - - - 3 - q1 q,7 q,5
+,5 - - - 5 - q4 q3 q4 q2 2 - - - 6 - q0 q4 q3 q4 2 - q0 q,6 q,7 q1 q2 q3 q4 q6 3' 2' 5 - - - 6 - q4 q3
+q4 q6 6 - q0 q4 q3 q4 ,7 - - - 7 - q0 q6 q5 q6 1 - - - 2 - q0 q1 q2 q3 ~ 3 - q3 q4 5 5 - - - 5 -
+- q0 q,3. ,6 - - q0 q3 5 - q0 q1 q,7 q1 ,5 - - q0 q3 6 - q0 q4 q3 q4 2 - - - 7 - q7 q6 q5 q6 - - 4 4 3
+,6 7 3 - - - 5 - q0 q6 q5 q6 5 - - 3 6 - q0 q7 q6 q7 3 - - - q2 q3 q4 q4 q2 q,6 2 q5 q6 q7 q6 q5 q6 3
+q6 q7 1' - q0 q6 q6. s4 1' - q0 q6 q6. s4 2' - - - 2' - - - 2' 0 0 0 1' - 7 5 6 - - - 6 0 ~ 0 ~ 0
+%END

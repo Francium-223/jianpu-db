@@ -1,0 +1,22 @@
+%世界需要热心肠_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=40352
+title=世界需要热心肠
+tag=
+usertag=
+tagroute=
+confidence=0.746
+conf_p10=0.394
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-40352
+%--
+4/4
+subtitle=score
+1 - x. x' ,x x'. 1. ,x ,1 1' x x' x q3. s1 5 - 3 3 1 2. q3 4 4 3 2. 1 0 0 0 1. 1 1 2 q3 1 x. 3. 1'. q3
+q4 q1 5 q2 ~ 2 0 0 x' x' q4 - 3 - 3 2' 1 2' - 4 4 2 1 1 0 0 0 1 q1 s,1 2 2 3 q1 3 q3 s1 q1 ,6 q4
+q2 ~ 2 0 0 q3 q4 5 - 3 5 q3 qx 1 4 1 q3 q3 q2 3 1 6 3 4 q3' q1' 3 s0 q3. 4 4 q0 q,3' q,3' q,3' q,7. q,3' q,3 q,3' q,1'
+q,,3' 5' s2 2 5 1' 2' 5' s1' h1' 1' 1' x d1 d1' x sx' 1 1' 1' d1 q1 1 ,1 1 q1' ,x ,1 0 1' q0 q0 0 0 q0 q5 q0 q0 q0 q0
+s0 q0 q0 q3' q1' d,,,1 d1' s3 ,,3 q,,x q3 h3 h1 h1 h1' d1 s5 4 1 2' 1' d1 h,2. h,1 d1 s1 1' q5' q1 q5 q1 d1' d1' d2 q1 2 s0 s0 1' 1
+0 0 0 0 q1' q3. s3 s1' q1' q1 q1 q1 1' 6' s,,x s,,5 s5' q2 s5' q5 q5. q5 q2 q5' ,1' q1 5 ,,3. 3 3' 0 0 5' 1' 2' 2 s0 q1 q3' q3
+0 3' s2'. d2 d2 ,1' s1 q1 q1' qx s1 q0 0 q1' q1' q1' 1' q1 q1' q6 6 q2 q1' q1' s1' d1' s2
+%END

@@ -1,0 +1,20 @@
+%不是诺言的诺言.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=19112
+title=不是诺言的诺言
+tag=
+usertag=
+tagroute=
+confidence=0.948
+conf_p10=0.848
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-19112
+%--
+4/4
+subtitle=score
+,5 5 q1 2 s3 3. s5 s,,,6 s1 s1 s1 q1 0 s,6 ,6 ,6 ,5 ,5 ,5 ,5 q,5 s1 2 s3 3. q3 s4 s,4 s4 s4 q4 s,4 q,4 s3 s2 q,2 2 s5 s5 s,5
+q5 5 s5 s,,x 3 3 1 q1 q,3 q3 s1 s,6 s5 - q,3 q,3 s3 s3 q3 s2 q1 ,1 q2 s2 qx 1 1 - 1' - 7 ~ 7. s,5. s,6 s7 6 - q3 4
+q5 4 3 4 2. 3 1 - - - x. q2 q1 q1. ~ 1 - 0 0 0 0 s1 qx s1 s1 q6. 0 - q,1 ,,1 s,1 q6 s,3 - s1 ,,1 s,1 s1 6. 5
+s,,3 s,2 q1 2 s2 q1 3 - q1 s1 s1 q6. 5 s,3 s2 ,1 1 q1 q1 q6. 5. ,3 q4 q2 q1 s1 1 q3 q2. q,1 q1 - - 1'. - q1' q7 s6 6 -
+- q2' 1' - - - 1' 0 0 0
+%END

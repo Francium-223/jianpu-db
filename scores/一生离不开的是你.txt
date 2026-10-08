@@ -1,0 +1,19 @@
+%一生离不开的是你.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=50359
+title=一生离不开的是你
+tag=
+usertag=
+tagroute=
+confidence=0.989
+conf_p10=0.992
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-50359
+%--
+4/4
+subtitle=score
+6 5 6 1 7 6 5 6 6 5 3 3 5 6 1 7 6 5 6 7 6 5 3 6 5 6 1 7 6 5 6 6 5 3 2 3 2 3 5 6
+2 3 5 3 2 3 2 3 3 2 1 1 1 ,7 ,6 3 2 3 2 3 3 2 1 1 1 ,7 ,6 ,6 2 ,5 ,6 ,6 2 ,5 ,6 ,6 ,6 ,6 2 ,5
+,6 ,6 2 x ,5 ,6 ,6 5 6 3 5 6 1 1' 6 5. 3 5 0 3 2 3 ,6 1 2 3 3 2 1. ,6 1 0 ,6 ,5 ,6 1 ,6 1 1 ,6
+5 6 3 2 1 2 2 2 3 5 5 5 6 5 3 2 0 2 2 2 3 5 5 5 6 3 2 1 1 1 7 6 5 6 6 6 6 1
+%END

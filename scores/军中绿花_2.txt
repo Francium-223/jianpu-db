@@ -1,0 +1,20 @@
+%军中绿花_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=33238
+title=军中绿花
+tag=
+usertag=
+tagroute=
+confidence=0.978
+conf_p10=0.955
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-33238
+%--
+4/4
+subtitle=score
+x 6. q3' q2' q3' q1' q7 6 - - - 3'. q6 q1' q2' q3' q2' 2' - - q3' q5' 6'. q5' 5' q5' q3' q2' q3' q3' q6 1' q5 q6 7. q6 q5 q6 q3 q5
+6 - - - 0 0 0 0 x 1 6. q3' q2' q3' q1' q7 6 - - - 3' q3' q6 q2' q3' q2' 2' - - - 3' q3' q6 1' q1' q2' 3' q3' q6 1'
+- 7 q7 q6 q5 q6 q3 q5 6 - - - 1' - 1' q7 q6. s1' q6 q5 3 - q3' 3' q6 q1' q2' q3' q2' 2' - - - q3' q3' q3' q6 1'. q2' q3'
+q3' q3' q6 1' - q7 q7 q7 q6 q5 q6 q3 q5 6 - - - q3' q3' q3' q6 q2' q3' ~ q3' q3' q6 - 7 q7 q6 q5 q6 q3 q5 6 - - x q3'
+q5' 6' q5' 5' q5' q3' q2' q3' q3' q6 1' q5 q6 7 q6 q5 q6 q3 q5 6 - - - 0 0 0 0 x
+%END

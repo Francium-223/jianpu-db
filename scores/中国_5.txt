@@ -1,0 +1,17 @@
+%中国_5.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48399
+title=中国
+tag=
+usertag=
+tagroute=
+confidence=0.971
+conf_p10=0.925
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48399
+%--
+3/4
+subtitle=score
+1 - - 1' x x q3 5 1 5 3 q5 1 5 q3 q5 q1 5 q3 q5 4 - - q2 3 4 2 q2 q3 4 2 2 q3 q4 q2 q7 q6 5 - -
+3 5 1 5 q3 q5 1 5 q3 q5 q1' q5 3 q5 4 - 2 3 4 q3 q2 q2 q2 q3 q4 3 2. 7. 7 q6 q5 1 - -
+%END

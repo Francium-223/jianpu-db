@@ -1,0 +1,20 @@
+%人间西湖.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=9098
+title=人间西湖
+tag=
+usertag=
+tagroute=
+confidence=0.985
+conf_p10=0.974
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-9098
+%--
+4/4
+subtitle=score
+1. q2 q3 q5 q1 q3 ,6 - - 5 6 1. q2 q3 q5 q1' q7 6. s7 s6 5 - 3. q5 q6 q1' q5 q6 1 - - q5 q3 2 - ,6 5 6 1 -
+- - 5 5 6 q1 q2 3 q2 6 1' - - - 5 6 q1 q2 q3 q5 q5 q3 2 - - - q3 q3 q2 q5 2 q2' 7 ,6 - - - q2 q2 q2
+q3' 2 q1 q2 1 - - - ,5 5' q5 q6 5 - 6 q6 q5 5 - q3 q5 q6 q6 q5. q6 q5 q2 3' - - - q3 q3 q2 q1 ,6 - q3 2 q1
+,6 - 5 6 q1 q2 3 q5 q3 2 - - q0 2. q2 3 - 1 - - 5 6 q1 q5 q2 q1 2 5 - - 2. q2 3 - 1 - - - 1 -
+- - q3 q3 q2 q1 ,6 - q3 2 q1 ,6 - 5 6 q1 q2 3 q5 q3 2 - - - 2. q2 3 - 1 - - - 1 - - -
+%END

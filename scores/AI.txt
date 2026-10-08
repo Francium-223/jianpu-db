@@ -1,0 +1,18 @@
+%AI.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=50590
+title=AI
+tag=
+usertag=
+tagroute=
+confidence=0.772
+conf_p10=0.386
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-50590
+%--
+4/4
+subtitle=score
+0 0 5 0 1. 0 0 1'. 0 2 q3 - q2 q3. d2 q3 q3 0 q2 3 q3 q3. 0 0 0 q3. 0 0 0 q2 0 0 0 2 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+%END

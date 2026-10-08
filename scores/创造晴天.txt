@@ -1,0 +1,19 @@
+%创造晴天.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=42855
+title=创造晴天
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.998
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-42855
+%--
+4/4
+subtitle=score
+0 5 1 2 3 - 2 - - q3 q5 q2 q1 1 q0 q2 4 6 3 2 2 0 1 7 1 2 1 0 2 3 5 q5 q4 q3 q2 2 q3 q5 q2 q1
+1 q0 q2 q4 q6 q3 q2 2 q3 ~ q3 5. q2 q3 1 q0 q5 6 3 4 2 2 1 2 3. 4 3 2 1 7 7 1 3. 1 2 3. 4 3 2 1
+7 7 1 1. 5 7 1. 2 2 1' 7 6 7 0 5 4 4 4 3 2 3 3 q4 q3' q2 3 q4 q5 q6 6 4 4 0 4 q3 2 2 q3 4 q5
+1 5 q7 q1 q6 5. q1 q2 3 4 3 2 2 - 0 1 7. 1 1 - 1 0 0 0
+%END

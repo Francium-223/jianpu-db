@@ -1,0 +1,25 @@
+%五哥放羊_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=20088
+title=五哥放羊
+tag=
+usertag=
+tagroute=
+confidence=0.955
+conf_p10=0.865
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-20088
+%--
+2/4
+subtitle=score
+q1 1' qx qx s1' s1' s1' s6 s5 2 s2 s2 s1 s2 q5 1 s6 s1 2 - q5 2 q5 q1. s2 ,6 q6 q2 s2 s2 s1 s6 ,5 - 5' - s3. s5 d1' q1'
+s6 d5 s3 5 q3 0 0 d6. d1' d1' s6 s5 d3 d6' s5 q,6 d1 d1' s6 s6' 1 1' q,6 s2. s3 s5 d1' s1' q6 d5 s6 q3 q,6 s3 s5 q1 d3 d5 s5 s6
+s1 d6 s1 ,5. s2 q2 d3 s5 q2 2 s3 s5 q5 s6 s1 s,6' q,5 q,5 1 q5 s3 s5 5 x x s2 2' 1 2' x 2' 2' 3' 1' 1' 6' s1 q,5 1 s5
+q3 q3 s1' q6 q6' d5 s5' d6 s1 ~ s1' q1 q1' d3 d3' s5 s5' s2 ~ s2' ~ q2 ~ q2' s2' s3' s3 s5 q1 d3 s5 s6 s1 q,6 q1 ,5 q2 q2 d3 s5
+q2 2 s3 s5 q1' s1 q,6 q,5 q5 s3 s5 5 s5 q3 0 0 s1' q6 q6' s5 s5' s6 q1 ~ q1' 1 1' s3 s3' s5 s5 q2 2 s2 s3 s3 s5 q1 s3 s5
+s6 s1 1 ,5 5 s1' s1' s6 s5 2 ~ s2 s2 s1 s2 5 s1' s1' s6 s5 5 - q5 q2 q2 q5 q1. s2 q,6 q,5 q,6 q2 ~ s2 s2 s1 s,6 ,5 - 5'
+- 5' - s1'. d2' s6 s5 s5 d1 d2 s1 s,6 s,5. d6 s1 s2 ~ 2 s5 q2 s5 s1. d2 q,6 q,6 2 q,6 ,5 - s1 d6 d1 s6 s5 q,6 q1 2 - s1' d1'
+d1' s6 s5 s5 q2 s6 5 - q3. s5 q1' q6 s5'. s6 q1' q2' q6 q4 q3 q,6 q1 s6 s1 ~ q1 q,6 s2. s3 s5 s1' s1' q6 s5 s6 q3 q,6 s1 d1 s6 s1.
+d2 s3 d5 s2. s3 d2. h3 d2 d3 d3 s5 q1 d3 s5 s6 s1 q,6 q1 ,5 q2 q2 d3 s5 q2 q2 d3 s5 q1' s1 s6. d1 s6 s1 q2 - s3. s1' q6 s5 d6
+s1 d1 s6 s1. d2 s3 s5 s2. d3 d2. d3 d2 d3 s3 s5 q1 d3 s5 s6 s1 1 ,5 d3 s5 q1 d3 s5 s6 s1' 1' 5 ~ 5 - 5 -
+%END

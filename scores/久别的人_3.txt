@@ -1,0 +1,21 @@
+%久别的人_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=19796
+title=久别的人
+tag=
+usertag=
+tagroute=
+confidence=0.980
+conf_p10=0.985
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-19796
+%--
+4/4
+subtitle=score
+x q,6 q1 q2 q1' q6 q5 q6 1 - q,6 q1 q1 q,6 q6 - q3 2 0 - - q2 q2 q2 q3 s6 s5 q2 q3 q2 q1 5 - q6 q3 q2 q,6 1 - -
+- x q1 q1 q1 q1 1 q2 q3 q2' 1' q,6 5' - q3 q3' q6 q7 0 5 - - - q3 - - q6 q1' q6 q6 1 - q2 q2 q2 q3 q3 q2 q1 -
+2 - - - q1 q1 q1 q1 1 q2 q3 q2 1 q,6 5' - q3 q5 - q3 q6 q7 6'. - - - q3 q6 1 q6 q6 q5 q6 1 - q2 q2 q2 q3 q2
+q1 q1 q,6 1 - - - 3 q2 q,6 1 - 3 q2 q,6 1 - q3 q2 q2 q1 q3 q2 q2 q,6 1 - - - 5 q5 q6 1' - q6 q,6 q,5 q5 q5' q6'
+1 - q3 q6 1 q6 s6 0 - - q5 q6 1 - q6 - q6 1 - q2 q2 q2 q3 q3 q2 q1 2 0 - - 2 q2 q2 q2 q3 q2 q,7 6 1 -
+- - q2 q2 q2 q3 q2 q1 6 1' - - - 1' - - -
+%END

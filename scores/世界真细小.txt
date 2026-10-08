@@ -1,0 +1,19 @@
+%世界真细小.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=34240
+title=世界真细小
+tag=
+usertag=
+tagroute=
+confidence=0.924
+conf_p10=0.678
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-34240
+%--
+4/4
+subtitle=score
+,3 ,4 ,5 - 3 - 1 - 2 1 1 - ,x - - ,2 ,3 q,4 - 2 - 1 x - 1 ,6 - ,5 - ,5 ,3 q,4 1 ,5 - 1 2 3 - 2
+1 ,6 - 2' 3 4 - 3 2 ,5 - 4 - 3 2 - 1 - - 1 - - - 1 - 1 3'. 3'. 3'. 3'. 3 - x' 1 - 2 - - 2 2
+- - - 2 - - 2 4 - 2 - 3 - - 3 3 - - 3 - 3 5 3 - 4 - - 4 1 - 3 2 ,5 - - - ,x - - -
+1 - - - 1 -
+%END

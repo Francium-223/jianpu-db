@@ -1,0 +1,21 @@
+%中华大家园.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=9097
+title=中华大家园
+tag=
+usertag=
+tagroute=
+confidence=0.949
+conf_p10=0.839
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-9097
+%--
+4/4
+subtitle=score
+- - 6 1 qx - - 0 x 0 5 5 5 5 4 4 3 2 5 5 5 ,1 3 2 2 - 0 5 5 5 5 q5 q5 q4. 3 2 2 s2 s1 2
+s2 s5 5 - q0 q1 q1 s1 q5 q1. s2 2 q5 q5 q5 q6 q5 q1 s6 1 0 q2 q2 q2 s2 s1 q2. s5 4 q2 s2 s2 q5 6 ,5 - x 5 - s5
+s5 s5 q5 q0 4 s4 q5 q5 qx q5 q5 5 5 q5 5 4 3 2 5 4 4 3 2 - q2 ,1 1 2. q3 ,7 6 5 - 0 ,1 ,7 2 2 3 q2
+5 0 2 q2 5 5 2' 1 0 2 ,1 q2 q4. s4 q4 q2 q0 6 q6 q6 2 s5 s6 5 - - - 5 - - - x 2' 7 7 6 5 - 6 6'
+1' 6 q2 5 - 4. 4. q5 q6 q6 5 4 q3 2 q3 3 ,5 3 2 q1 2 - x' 7 6 5 - 6 6 6 2 5 - 5 5 q6 5 4 q3 2
+5. ,6 5 q2 q2 q1 1 5. ,6 5 q5 q2 1 - ,5 5. 5 5 s2 1 - x'. 1 q1 q6 2' 5 - - - 5 - - - 5 0 0 0
+%END

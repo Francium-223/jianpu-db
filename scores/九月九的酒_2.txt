@@ -1,0 +1,19 @@
+%九月九的酒_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=27870
+title=九月九的酒
+tag=
+usertag=
+tagroute=
+confidence=0.984
+conf_p10=0.943
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-27870
+%--
+2/4
+subtitle=score
+2 q5 s6' q,6' q,6 ,5 q1 q1 6 q1 3 2 2 5'. q6' ,6 ,5 1' q1 q1 ,6 ,6 ,5 - 5 5 q5 5 q5' q6' 5 q5'. q6' q5 q1 q2' q3' 2 q3 3
+q3 q3 q2 s1 ,6 q2 2 2 5 - 2 q2 s1 q,6 q,6 ,5 - 2 q5'. q6' q,6 q,6 5 1 ,6 1' 3' 2 2 q5' s6' ,6 q,5 q1' s1 s1 q,6 q,6 ,5 -
+q,,5 q5 5 q5 5'. s6' 5 q5. q6 5 1 2 3 2 3. q3 3 3 q2. ,1 ,6 q2 2 q2 5 - q5 5 5 5 5'. q6' 5 5. s6 5 1 2'. q3 2
+3. q3 3 3 2. 1 ,6 2 2 q1 ,6 ,6
+%END

@@ -1,0 +1,20 @@
+%七月初七.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=27020
+title=七月初七
+tag=
+usertag=
+tagroute=
+confidence=0.996
+conf_p10=0.992
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-27020
+%--
+4/4
+subtitle=score
+- - - - - q5 q6 1' q7 q6 q7 q6 q5 3 - 0 q2 q3 5. q6 q5 q3 q2 q1 ,6 - 0 0 ,6 q1 2 - q3 q5 q1' q7 6 - q3 2
+q2' q6 q7 q6 q3 5 - 0 q5 q6 1'. q7 q6 q7 q6 q5 3 - 0 q2 q3 5. q6 q5 q3 q2 q1 ,6 - 0 0 ,6 q1 2 - q3 q5 q1' q7 6
+- q3 2 q3 q5 q3 q2 q,6 1 - 0 q1 q2 3 - 0 q6 q5 3 - 0 q3 q5 6 q5 1 q2 q5 3 - 0 q3 q5 6 - 0 q1' q7 q6 5.
+0 q3 q5 6. q7 q2' q7 q6 q3 5 - 0 q5 q6 1'. q7 q6 q7 q6 q5 3 - 0 q2 q3 5. q6 q5 q3 q2 q1 ,6 - 0 0 ,6 q1 2 - q3
+q5 q1' q7 6 - q3 2 q3 q5 q3 q2 q,6 - - - - q5 q6 q3 2 q3 q5 q3 q2 q,6 1 - - -
+%END

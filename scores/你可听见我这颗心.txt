@@ -1,0 +1,18 @@
+%你可听见我这颗心.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14710
+title=你可听见我这颗心
+tag=
+usertag=
+tagroute=
+confidence=0.967
+conf_p10=0.949
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14710
+%--
+4/4
+subtitle=score
+q,6 q,7 q1 q,6 3 - q2 q3 q2 ,7 - q,6 q3 q6 5 q2 q4 3 - - 0 q2 q3 q4 q2 6 - 5 q2 q3 4 - 3. q2 1 q,7 q1 ,6 - -
+0 3 q1' q6 7 - q3 qx q5 q7 q1' 6 - 4. q3 2 q6 q4 3 - - 0 q2 q3 q4 q2 6 - 5 q2 q3 4 - 3. q2 1 q,7 q1 ,6 -
+- 0
+%END

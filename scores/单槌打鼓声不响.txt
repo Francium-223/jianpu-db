@@ -1,0 +1,17 @@
+%单槌打鼓声不响.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47966
+title=单槌打鼓声不响
+tag=
+usertag=
+tagroute=
+confidence=0.972
+conf_p10=0.918
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47966
+%--
+2/4
+subtitle=score
+1 - - 1 4 3 4 q3 q3 q2 q1 6 1 2 3 1 2 - q3 q3 q2 q1 q6 1 2 3 1 2 2 3 ,5 5 5 q,5 ,5 1 2 3 5 2
+3 5 q2 0 5 6 q6 q5 ,3 x ,2. q3 q5 q6 1 5 6 q6 q5 ,3 x ,2 -
+%END

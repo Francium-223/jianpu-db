@@ -1,0 +1,19 @@
+%中国功夫_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=10947
+title=中国功夫
+tag=
+usertag=
+tagroute=
+confidence=0.973
+conf_p10=0.934
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-10947
+%--
+4/4
+subtitle=score
+6. q1' 5 6 7 6 - - - 6. q5 q6 q4 q5 - - - 3 3 2 5 q5 q6 q3 q4 q3 2 1 - 2. 3 q,5 q,6 1 q,7 ,6 - 0 0 2.
+3 5 6 1 1 6 - - - 6. ,1 5 3 6 0 6. ,1 5 4 3 0 3. 2 5 6 3 2 1 2. q3 q5 q6 1 q7 ,6 0 q6. q5 q3 6
+0 q6. q5 q4 3 0 3. s2 5 6 3 2 1 q2. q3 q5 q6 q7 6 - 0 0 x 0 2'. 3' q5 6' 7' 6 - - - 6 - - - 6 0 0
+0
+%END

@@ -1,0 +1,21 @@
+%七律长征_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=16117
+title=七律长征
+tag=
+usertag=
+tagroute=
+confidence=0.919
+conf_p10=0.721
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-16117
+%--
+4/4
+subtitle=score
+x x 2 - 0 q2. 2 q2 s3 s2 s1 s1 - x q1 1 q2 q3 q2 q5' x s3 s5 q5 ~ q5 q5 ~ q5 x 2' 5. - - - 5' 4. 5' - x
+q0 q2' 3' - x - - d2'. - x - x s1' s2' x - x q1' s2' s5'. q2' q2' 2' 2' s2'. d3' d2' q5' s3' s2'. d3' d5' d5 5 x d2'. d3' q3 s5 s1
+x q2 q2 q2 q1 s1 s1 s2 s3. d5 s2 s3 s1 x s1 s2 s3 s5 s2 s3 x q1 s7 s7 q2 qx. q2'. q2' s3' s2' s7 x 0 s5 s3 s5 s7 s2' x q2'
+s2' - - - - s3. d5 s2'. s3' s7 s2' s7 s3 s5 - s2' 0 q5 s3 s2 s1 q2'. 5. 2 q1 x s1 q1 d1 s1 q1 s1 s1 q1 q1 s1 s1 s1 s1 s1
+s1 s1 s1 x s1 s2 x x 3' 0 q2' q3' 2' - s2' x s3' s2' q2' 1' q5' s2'. s2' - q1' 1' q0 s2' s1' 2' q3' q1' q1' 2' 0 s3' q2' q3'. q5 q5'
+5' q5' x q3' x q3'. q2' q3' d2'. s3' s5' x q3' qx s2' s1' - x s2'. s3' s2'. s3' s2'. s2'. s3' x 1' 1' q5'. q5' q2' q1' s2' s5' - 1' - -
+%END

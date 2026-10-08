@@ -1,0 +1,17 @@
+%儿童游戏歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47631
+title=儿童游戏歌
+tag=
+usertag=
+tagroute=
+confidence=0.996
+conf_p10=0.982
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47631
+%--
+2/4
+subtitle=score
+2 2 q2 1 2 1 ,6 - ,6 q1 q,6 2 - 1 2 1 ,6 ,6 - ,6 ,6 ,6 1 2 6 0 1 2 1 ,6 ,6 - ,6 ,6 ,6 1 2 ,6 1 ,6
+1 1 2 1 2 ,3 ,3 ,5 ,3 ,5 0
+%END

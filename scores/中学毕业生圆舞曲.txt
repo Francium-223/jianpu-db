@@ -1,0 +1,19 @@
+%中学毕业生圆舞曲.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14645
+title=中学毕业生圆舞曲
+tag=
+usertag=
+tagroute=
+confidence=0.974
+conf_p10=0.994
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14645
+%--
+3/4
+subtitle=score
+1 0 3 5 3' - 1' 2'. q1' q7 q6 q1' q7 4 - 0 2 4 7 - 6 5. q4 q3 q2 5 - - 0 3 5 3' - 1' 2'. q1' q7 q6 q1' q7
+4 - 0 2 4 7 - 6 5. q4 q3 q2 3 - - 1 0 4 6 q4 q3 2 1 7 - 6 q1 q7 3 - 3 - 0 q2 q4 6 2 0 4 4
+q6 q5 4 3 x 2 - 2 q3 qx q2 1 - 1 - 0 q2 q2 4 2 x 1' q7 q6 q7 5 - - 1' - - 1' 0 0 x 4. q4 x q4 q4
+3 - - 3 - - 3 0 0 3. q3 q2 q2 3 - - 1 - - 1 0 0
+%END

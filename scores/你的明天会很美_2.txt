@@ -1,0 +1,20 @@
+%你的明天会很美_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=46958
+title=你的明天会很美
+tag=
+usertag=
+tagroute=
+confidence=0.995
+conf_p10=0.994
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-46958
+%--
+4/4
+subtitle=score
+x q0 s3' s3' q3' q3 q2' q2' 5' q0 s1' s1' q1' q1' q7 q7 3' q0 s6 q6 q6 q6 q5 q5 1 6 7 1' 2' 1 - - - 1 - - - x 0 q,5
+q1 q,7 s1 s2 q2 q,7 1 q,5 q1 q,7 s1 s2 q2 q,7 1 q,5 q1 q,7 s1 s2 q2 q,7 1 - q1 q,7 q,6 q,5 q,5 q0 q,5 q1 q,7 s1 s2 q2 q,7 1 q,5 q1
+q,7 s1 s2 q2 ,7 1 q,5 q1 q,7 s1 s2 q2 q3 1 - q1 q,7 q1 q2 q0 s3 s3 q3 q3 q2 q2 5 q0 s1 s1 q1 q1 q,7 q,7 3 q0 s6 s6 q,6 q,6
+q,5 q,5 1 ,6 ,7 1 q2 q1 q0 s3 s3 q3 q3 q2 q2 5 q0 s1 s1 q1 q1 q,7 q,7 3 q0 s6 s6 q,6 q,6 q,5 q,5 1 q0 s1 s1 q1 q2 3 2 1
+- - - 0 0 0 0
+%END

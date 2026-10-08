@@ -1,0 +1,23 @@
+%原来你什么都不要.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=22179
+title=原来你什么都不要
+tag=
+usertag=
+tagroute=
+confidence=0.957
+conf_p10=0.890
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-22179
+%--
+4/4
+subtitle=score
+q0 q3 q2 q1 q2 2. q0 5 s1 ~ 1' s0 s3 s2 s1 q2 2 q2 2 q5 q6 5 q1' ~ q1 q,1 s1 s1 6 q5 q6 ~ q6 1'. 0 q,1' q,1' 1'. q1' q1'
+q3 2' ~ 2 0 q0 q3 q2 q1 q2 q2 s2 q5 s2 ~ s2 q1. s0 s3 q2 s1 q2 q2 q2 q1 q2 q5 q5 q6 q,1' 6' ~ q6 q6 q6 q5 q1' s1' s6 ~
+6 s0 q1' s1' s6 s6 q6 q5. ~ 5' 0 0 q5 q6 - q,1' 6 1' - q0 3 2 1 2 1 q2 s2 3 5 q5 q6 q6' 7 q3 2' 1' d1' 7 7 6
+7 q1' d3 ~ 3' 2' q,1 2 2 1 6 q5 1 q6 q6' 5' q6. s6 s1' s1' s6 s1' q6 qx 2' 6 q,3. q3' q,x' q,1 2' 5 5 ,1 3' 2' q2' q2' q1' q2'
+q1' q1' 5 q5 s5 s5 s5 s5 s6 q7 s3 2 ,1 1 ,,1 7 7 6 q7 q1 s3 q3 q2 q1 s1 s2 s2 s1 s2 q1 s6 q5 s6 s6 q5 s6 s1' s1' s6 s1'
+q6. q0 3' q2' q2' 1' q6 q2' 1' q1 1 - - 3' 3'. q3' 3' q6 q5 ~ 5 - q1' s1' q1'. s6 q7. s5 ~ 5 3 q2 q3 3 q6 s5 q5 s3 s2 q2
+s2 s1 s1 s6 s6 s1 s1 s6 q1 q0 s7 s0 s4 s4 q6. q0 s7 s7 7 6 s6 s1 s5 s6 s6 q7. s3 q3 q3 q3 s2 s2 2 0 0 q1 q7 s7 q,7 s6
+s7 1 - 0 q0 s5 s1' q1' s5 s5' q5. s5 5 x s0 s3 s2 q1. 0 0 0 0 q2' 2' 1
+%END

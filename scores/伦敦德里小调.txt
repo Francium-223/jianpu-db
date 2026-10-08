@@ -1,0 +1,18 @@
+%伦敦德里小调.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=13693
+title=伦敦德里小调
+tag=
+usertag=
+tagroute=
+confidence=0.987
+conf_p10=0.961
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-13693
+%--
+2/4
+subtitle=score
+0 0 q,7 q1 q2 3. q2 q3 q6 q5 q3 q2 q1 6. q1 q3 q4 5. q6 q5 q3 q1 q3 2 - q2 q,7 q1 q2 3. q2 q3 q6 q5 q3 q2 q1 q,6 q,5 q,6
+q,7 q1 q2 3. q4 q3 q2 q1 q2 1 - q1 q5 q6 q7 1. q7 q7 q6 q5 q3 q5 q3 1 ~ q1 q5 q6 q7 1'. q7 q7 q6 q5 q3 2 - q2 q5 q5
+q5 3'. q2' q2' q1' q6 q1' q5 q3 1 q1' q7 q1 q2 q3 q6 q5 q3 q2 q1 q,6 q,7 1 - 0 0
+%END

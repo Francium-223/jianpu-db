@@ -1,0 +1,22 @@
+%世纪清晨.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=31172
+title=世纪清晨
+tag=
+usertag=
+tagroute=
+confidence=0.946
+conf_p10=0.815
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-31172
+%--
+4/4
+subtitle=score
+1 - - x. 1 - q1 x x. x 0 - 0 0 3 q3' q2' q4' q3' 3' - - q0 q5 2' ~ q2' 2' q4' q2' 3' - - q0 1'. q7 6 - - q0
+q6 q5'. 4' 4' - 3' 2' q1' 2' - - - 3' - 3' 1' q4'. s3' 3' - - 0 q5 2' q2' q1' 2' q4' q2' 3' - - q0 3 1'. 2' 2' 1'. 6'. q5'
+q4' 4' q3' q,4' 5' 4' q3' q4'. 4' 2' - - q0 5 q5' q3' 2' 2' - q0 q5' 5'. s3' q2' - q1' q2' 3' q1' 4' q4'. q5'. 2' - - q0 q5' ,3' 2' 2'
+- q0 q5' 5'. 1' ,1' 1' - q1' q2' 3' q1' 6' q6' 5' 4' 4' 4' 5' 5' - 5 - - - s3' q3' s3' 3' 3' q2' 4' 4'. 5 5 2' 2'. q2' q1' 3'
+q3' 2' q1' q1' 1' q2' q3' 3' q1' 1' q3 q4' q4' q4' q4' 4' q5'. 5' - 3' q3' 3' 3' q3' q,,2' 4' 4' - q2' q2' 2' ,2' q2' q5'. q3' q,2' - 1' q2' q1'
+0 q7 q6 7 ,1' q2'. 2' q2' q1' 2'. 5 1' q3' 5 q6 6. q4' 4' q4' ,1' 7 s7' s6 5. 3'. 2' 2' q3' 6 ,6 ,7 1'. q7 6 1'. q2' q3' q3' q2' q1
+q2' 2' q1' - - - q0 q5
+%END

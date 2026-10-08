@@ -1,0 +1,21 @@
+%共和国的旗帜.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=20488
+title=共和国的旗帜
+tag=
+usertag=
+tagroute=
+confidence=0.964
+conf_p10=0.891
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-20488
+%--
+4/4
+subtitle=score
+5 q2 q5 q4 q3 q2 q3 1 - - - q1 q4 q5 q6' q7 q6 5 - - - 5 q1 q2 q5 q4 q3 q2 q1 2 - - - q2 5 q6 q7 q6 q5 q6
+- - - q5 q1 q2 q5 q4 q3 q2 q3 - - - q1 4 q5 q6 q1' q7 q6 5 - - - q5 q1 q2 q5 q4 q3 q2 q1 2 - - - q2 5 q6
+q7 q7 q6 q5 3 - - - q2 5 q6 q7 q6 q5 q6 1 - - - x 2 1'. q2 q1' q4 q5 6 - - - 2. q2 q6 q7 q6 5 - - - 1'.
+q2 q7 q5 6 - - - q7. q1' q2' q2' q1' 2' - - - q7. 2' q2'. s1' q1' - - 0 x 5 x x q5 q2' q5' q4' q3' q2' q3' - - - q6 q2'
+q4' q6' q5' q4' q3' s4' s3' 2' - - - q5 q2' q5' q4' q3' q2' 2' - - - ,5 2 2. q2 q4 q3 q5' q2 1 - - - 7 - - 7 x x 3'
+- - - 3' - - - 3' - - - 3' 0 0 0 1 - 2 - x x' - - - - - - - - - 1' 0 0 0
+%END

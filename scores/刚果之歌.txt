@@ -1,0 +1,20 @@
+%刚果之歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49579
+title=刚果之歌
+tag=
+usertag=
+tagroute=
+confidence=0.956
+conf_p10=0.742
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49579
+%--
+4/4
+subtitle=score
+3. q3 q1 q1 q2 q3 5. q4 4 - 3. q5 4 q2 3 q1 1. 2 2 - 1 q3 s3 s1 ~ q1 s1 q1 2 3 5. q4 ~ q4 q0 q5 q4 q3 q,5 q,6
+,7 q3 q2 q,7 q1 1 - - 0 q1 q3 ~ 3' - - q2 q4 ~ 4' - q5 q4 q3 q,5 q,6 q,7 s3 q2. ,7 1 1 - - 0 1 3' ~ 3 - -
+q2 q4 4 - q5 q4 q3 ,5 q,6 q,7 q3 q2. q,7 q1 1 - - 0 q5 q1 q7 q6 5 6 q5 q2 4 3 3 - q5 q6 q5 q4 q3. q4 q3 2 q3 2
+q1 ~ 1 - q5 1' q7 q6 5 q6 q5 q2 4 q3' ~ 3 - q5 q6 q5 q4 3. q4 3 2 q1 4' 3 2' 1 q1 1 1 - - - 1 - 0 0
+3 3 - 2 - 1 - - - 1 - - 0
+%END

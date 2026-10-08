@@ -1,0 +1,19 @@
+%一天一点爱恋.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=40683
+title=一天一点爱恋
+tag=
+usertag=
+tagroute=
+confidence=0.956
+conf_p10=0.861
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-40683
+%--
+4/4
+subtitle=score
+1 - - - 1. 1 x 3 q3 q4. q5 q3. q,4 q2 5 5 sx s3 - 7. s,6 ,5 3 q3 q4 5 q3. s4 q2 q5 3 3 q6 s5 3 x q0 s5 s6 1
+s1 s1 q1 s2 s3 - ,1 - 1 - q1 q1 q,1 s2 3 3 s2 q3 q5 q,5 5 s5 6 3 q3 3 q3 s6 5 s2 q2 2 q6 q7 q1 s1 s6 s6. s2 2
+0 q5 q6 1 q1' q1 q6 6 s5 q6 ,6 - 1 s3 q3 s3 3 q6 q5 6 - s7 q7 s7 6 s5 s2 3 s3. s2 q1. s1 s1 s1 s1 q6 q6 s6 s5 s6
+s5 q6 s5 s6 6 5 q2. d3 ~ q3 - q3'. q3 q3 s6 q5 6 - s7 q7 s7 6 q2 3 s3 s2
+%END

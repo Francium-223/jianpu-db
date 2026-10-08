@@ -1,0 +1,23 @@
+%会过去的.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=19447
+title=会过去的
+tag=
+usertag=
+tagroute=
+confidence=0.961
+conf_p10=0.925
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-19447
+%--
+4/4
+subtitle=score
+q1 q1 q4 x'. x' 1 1'. 1' 2. q1 2 ,5 2. q1 2 ,5 2. q3 5 2 3. q2 1 ,7 q0 2 q1 2 ,5 2. q1 2 ,5 2. q3 5 2 3. q0 q2
+3 q5 3. q2 2 1 1 - q0 2 q3 5 - q0 3 q2 s2 q3. 1 q2 q3 5 2. q1 2 1 1. q6 1 2 3. q2 2 1 2 - - q1 1' 2.
+2' q1 2 5 5 1 2 3 5 - q3 q5. q5 1' 5 2 3 5 6 - x 1 - q3 q3' q5 5 5 5 - 6 1' 1'. q6 1' 6 5. q3 5 q3
+q2 1 q5 q5 5 q2 q3' 2 1 2 3 5 - - q3 q5 5 3 5 6 7 - - q6 q5 5 3 5 6 1'. q6 1' 6 5. q3 5 q3' q2' 1 -
+- q0 s3 s5 6 5 3 2 1 q1 - - 0 1 1 qx'. - - q3 q5 6 q3 q5' 5' - 5 0 0 q3 q5 6 5 3 q2 q1 1 - - q3 q5
+6 3 6 6 6 6 5 - 0 1 2 3 5 - - q3 q5 5 2 3 5 6 - - q7 q5 5' 3 5 6 1'. q6 1' 6 5. q3 5 q3' q2' 1
+q5 q5 5 6 s3' q2'. 1 2 3 5 - - q3 q5' 5' 3 5 6 7 - - q6 q5 5' 3 5 6 1'. q6 1' 6 5. q3 5 q3' q2' 1 - - -
+1 q3 q5 6 5 3 2 1. s2 s3' 3' - 6 5 3 2 1 2 2' - - q1 q1' 1' - - -
+%END

@@ -1,0 +1,17 @@
+%中国人民志愿军战歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12780
+title=中国人民志愿军战歌
+tag=
+usertag=
+tagroute=
+confidence=0.991
+conf_p10=0.972
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12780
+%--
+2/4
+subtitle=score
+q1 q1 1 q,5 q,6 5 q3. s2 q1 q,6 2 - q3 q3 3 q5 q5 5 q6. s5 q1 q3 2 - 3 - 5 - q3. s2 q1 q2 6 - 6 1 5. q3 1 3
+5 - q6 q0 q5 q0 q3 q0 q5 q0 1. q6 q5 q0 q3 q0 q5 q0 q2 q0 1 0 q1' q0 q5 q0 1' 0
+%END

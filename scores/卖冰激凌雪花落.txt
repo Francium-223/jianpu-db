@@ -1,0 +1,17 @@
+%卖冰激凌雪花落.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47500
+title=卖冰激凌雪花落
+tag=
+usertag=
+tagroute=
+confidence=0.998
+conf_p10=0.992
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47500
+%--
+2/4
+subtitle=score
+0 1 2 3' 2' 2' 1 q2 3 q0 3 q2 1 2 q3 q2 q1 7 1 0 5 5 1' 1 q1 3 q1 3 2 q0 3 q2 1 q2 q3 q2 q1 q7 q7 1
+-
+%END

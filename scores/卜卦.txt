@@ -1,0 +1,17 @@
+%卜卦.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=19032
+title=卜卦
+tag=
+usertag=
+tagroute=
+confidence=0.874
+conf_p10=0.457
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-19032
+%--
+4/4
+subtitle=score
+7. 0 q6 s6 6 - - 0 0 q6 q6 - - 0 0 q5 q6 0 q6 s6 6 - q6 q6 0 0 q6' q4 q6 x 1 - x x x. x. x - 0 0
+s6 - 0 q6 0 0 0 - 0 0 s6 - q6 0 q6' q6' q5'. - q6 0 q6' q6'
+%END
