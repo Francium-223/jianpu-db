@@ -1,0 +1,22 @@
+%东方西方.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=51981
+title=东方西方
+tag=
+usertag=
+tagroute=
+confidence=0.978
+conf_p10=0.959
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-51981
+%--
+2/4
+subtitle=score
+q,3 q,3 1 q,7 s,6 s7 1 q,7 2 q,5 ,3 - q,6 q,6 2 q3 s3 s,6 2 q,7 q,7 q,7 s,5 s,3 ,6 - q,3 q,3 1 q,7 s,6 s7 1 s2. d2 s2 s3 q,7 s,6 s,5
+,3 - s7. h6 s,5 s,6 q1. s2 s3. d5 s3 s,6 1 s7. h7 s7 s,6 s,5 s,6 s,3 s,5 ,6 - q3. s3 q6. s6 s7 q6 s5 6 s3 s3 s6 s6 q1 s2 s5 3 -
+q6. s3 s2 s3 q2 q3. s,7 ,6 s,7 s,7 s,7 s,7 q,5 q,6 ,6 - s,3 s,6 s,6 s,6 s,3 s,6 s,6 s,6 s,7 s2 s,5 s,6 ,6 s6. d6 s6 s6 s5 s3 s2 6. q5 s6. d6
+s6 s1' s6 s5 s5 s3 2 - s7 q7 s6 q5. s6 s3 s5 s7 s6 5 s,6 s,6 s5 s3 s2 q3 s,6 1. q3 s2 s2 s2 s3 s7 s,6 s,5 s,3 ,6 - s6. d6 s6
+s6 s5 s3 s2 6. q5 s6. d6 s6 s1' s6 s5 s5 s3 2 - s7 q7 s6 q5. s6 s3 s5 s7 s6 5 s,6 s,6 s5 s3 s2 q3 s,6 1. q3 s2 s2 s2 s3 s,7
+s,6 s,5 s,3 ,6 - s,7. d6 s,5 s,3 ,6 q,3 q,3 1 q,7 s,6 s,7 1 q,6 q,6 2 q3 s3 s,6 2 q3. s3 q6 q6 s6 q3 s2 q1 q,6 q3. s3 q6 q6 s6 q3 s2
+q1 q,6 q0 q,6 q,6 q1 q3 2 q3 5 - q3 7 s7 6 - 6 - x x
+%END

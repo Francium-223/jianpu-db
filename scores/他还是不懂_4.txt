@@ -1,0 +1,22 @@
+%他还是不懂_4.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=9214
+title=他还是不懂
+tag=
+usertag=
+tagroute=
+confidence=0.940
+conf_p10=0.710
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-9214
+%--
+2/4
+subtitle=score
+1 - - - x. x. x. x 1' 1' 0 3 q4 5' q5' 6 0 3 4 q5 5 5' ~ 5' 2' q3 q2' 2' 1'. 0 0 3 4 5 q5 5 q1' 7' ~ 7'
+5 5' q4' q4 0 6 6 6 6' q6' 5 5 0 s7 s6 s6' 6' 5 5 q0 5 6 q5 5' ~ 5' q1 q2' q3' 5 0 q3 4 q3 q4' 4' 6 x 5 q5
+6' 6' 7 6 6 0 6 7 1' 2' 1 7' q6' 6 6' 5' 0 q5 4 3 4' ~ q4' 1' q7. 6 6. 5 x 5 6 7 ,1' 6 7 q1' 1' ~ 1' 6
+7 1' 2' ,1' s7' s6' q6 q6' 6' 5 0 q0 q6 qx q5 6 q5 q5' x 4' 4 q4 4. 7 7 q7 7 q7' q6 q6 6' 7' q6 q7 q1 q1' ~ 1' 6 q7
+s1' s1' q6 q7 1' 2' q1' q7' 6' 6 q6' 6 5' 5 0 3 4 q3 4' ~ 4' 7 x q5. 6 6 - 0 6 q7 1' 1' ,1' 1' 7 7 7' 4 6' 6
+5 0 7' q1' q2 2' 2' ~ q2' q3' 2' 2' 1. 0 6 ,1 6 7' 7' 1'. 1'. q6 6 7 ,3' 7 0 q6 s7 q1' 0 0 q3 4 q3 s4' ~ q4' 7 5.
+5. 6' 6 -
+%END

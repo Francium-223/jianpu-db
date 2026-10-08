@@ -1,0 +1,19 @@
+%你幸福我快乐.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=34278
+title=你幸福我快乐
+tag=
+usertag=
+tagroute=
+confidence=0.976
+conf_p10=0.959
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-34278
+%--
+4/4
+subtitle=score
+x x. x. ,1 6. q7 6 5. q6 5 - 4. q5 q4. s3 ~ q3 q2 5 - - x q0 s5 1 q1 q,7 1 s,5 s,5 s1 ~ q1 s,7 s,6 ,6. s0 s,6 2 q2
+q1 2. q,6 q,7 q,7 ~ s,7 s,7 s,6 s,5 ,5. s,5 s,5 q5. s5 ~ q5 s6 s5 5. s3 s3 q4. s4 ~ q4 s4 d6 ,6 - q,7 ,7 q1 q2 q0 s2 s3 s2 s1 1
+- - - q,5 q3 q3 s2 s1 q,5 q,6 q4 q4 s3 s2 2 - q,7 q5 q5 s4 s3 3 q4 q5 q4 q4 q3 q2 2. q,5 q,5 q3 q3 s2 s1 1 q1 q,6 q4 q4
+s3 s2 2. q1 q,7 q5 q5 s4 s3 3. s5 s4 4 q3 s2 s1 1 - 4 - - q3 s2 s1 1 - -
+%END

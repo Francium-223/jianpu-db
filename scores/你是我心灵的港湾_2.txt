@@ -1,0 +1,24 @@
+%你是我心灵的港湾_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=50786
+title=你是我心灵的港湾
+tag=
+usertag=
+tagroute=
+confidence=0.960
+conf_p10=0.917
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-50786
+%--
+4/4
+subtitle=score
+qx 3 0 1 1 ,x' ,1' 1. 1'. 1'. x'. 1 q,,x' q2 q3 q5 5 q6 q5 q3 q5 q6 1' - - q2'. q1' q2' 2' q3' q3 q6 q6 q3 5 - - q2 q3 5.
+q3 5 q5 q6 6 q5 q6 1' - q2' 2' q3' q5 q3 q5 q6 1' - - q5 q6 1 q2 q3 s3 s5 q2 q6 1 - - q3 q5 q6 q6 q6 q5 q3 s3 s5
+q2 q1 2 - - q2 q3 5 q5 q6 q1' s1' s2' q1' q7 6 - - q1' q6 q5 q5 q5 q6 q5 q3 q2 q1 2 - - q,5 q6 1 q2 q3 s3 s5 q2 q,6
+1 - - q3 q5 q6 q6 q6 q5 q3 s3 s5 q2 q1 2 - - q2 q3 5 q5 q6 q1' q2' q1' q7 6 - - q1' q6 q5 q5 q5 q6 q5 q3 q2 q,6 1
+- - q5 q6 1' q1' q6 q6 s5 s6 q3 q5 6 - - q5 q6 1' q1' q6 q6 s5 s6 q3 q6 5 - - q2 q3 q5 q5 q5 q3 q2 3 q1 ,6 - -
+q3 q5 q6 q6 q6 q1' q2' q2' q1' q6 5 - - q5 q6 1' q1' q6 q6 s5 s6 q3 q5 6 - - q5 q6 1' q1' q6 q6 s5 s6 q3 q6 5 - - q2
+q3 q5 q5 q5 q3 q2 3 q1 ,6 - - q,6 q1 q2 q2 q2 q3 q5 q5 q3 q2 1 - - q5 q6 3'. q3' q3'. s2' q1' q2' 1' - - q1' q1' q2'. s2' q2'
+q3' q2'. s1' q6 q3 5 - - q2 q3 5. q3 5 q5 q6 6 q5 q6 1' - q2' 2' q3' q5 q3 q5 q6 1' - - q,5 q,6. 1 - - q5 q6 1 - -
+q2 q3 q5 q5 q5 q3 q2 q3 q3 q1 ,6 - - q,6 q1 q2 q2 q2 q3 q5 q5 q3 q2 1 - - - 1 - 0 0
+%END

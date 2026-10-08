@@ -1,0 +1,20 @@
+%六月茉莉花_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=9914
+title=六月茉莉花
+tag=
+usertag=
+tagroute=
+confidence=0.931
+conf_p10=0.677
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-9914
+%--
+4/4
+subtitle=score
+1 - - 1 4 1. x 3' q3' q2' s2' s3' q2' q6 q1' q2' q1' q6 5 q6 q5 q6 q1' 5 - x 5 q6 q5 1' q2' q3' 5 q6 q1' 2' - 3' q2' q6
+q1' q6 q2' 6 5 - 2 5 q6 q6 q5 q2 ~ q2 q2 s3 s5 3 - 6 q6 q1' s2' s3' q2' 5 q6 5 - 2' q2' q3' 5 q5 q6 2' q2' q3' 2' -
+3' q2' q1' q6 q1' q1' q6 q2' q1' q6' q5' 5 - 2 5 q6 q1' q6 q5 2 q2 q5 3 - 6 q1' q6 q1' s2' s3' q2' q1' 5 q6 q1' 5 - 2' q2' q3'
+5 q5 q6 2' q2' q3' 2' - 3' q2' q6 q1' q1' q6 q2' q1' q6' q5' 5 - 2 5 q6 q1' q6 q5 2 q2 q5 3 - 6 q1' q6 q1' s2' s3' q2' q1' 5
+q6 q1' 5 -
+%END

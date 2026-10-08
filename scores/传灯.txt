@@ -1,0 +1,21 @@
+%传灯.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=32613
+title=传灯
+tag=
+usertag=
+tagroute=
+confidence=0.979
+conf_p10=0.985
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-32613
+%--
+4/4
+subtitle=score
+q1' q1' q1' q7 6 - q6 q6 q7 s6 s7 6 q6 q4 q3 3 q4 6 7 q1' s2' s1' 7 - 0 q1' q1' q1' q7 6 - q6 q6 q7 s6 s7 6 q6 q4 q3
+3 q4 6 7 q1' s2' s1' 7 - 0 q1' q1' q1' q7 6 - q6 q6 q4 q7 6 - 0 q2 q3 q4 q5 q6 q1' 6 - 0 0 0 q2 q3 q4 q5 q1' q1'
+6 - 0 0 q0 1' q6 1' 6 q0 2' q1' q1' ~ q1' 6 q0 1' q6 1' q6' q2' 7 - - - 0 0 3 5 6 3' 6 3' 6 2' 6 2' q1' q1'
+q2' q1' 7 q6 q5 6 - - q3 q5 6 3' 6 3' 6 2' 6 2' q1' q1' q2' q1' 7 q6 q5 6 - - 0 x q3 q2 q3 x q2 3 - 2 1 q,5
+q1 ,3 - - - 6 - - 0 0 0 3 5 6 - - 0 6 3' 6 3' 6 2' 6 2' q1' q1' q1' q1' 7 q6 q5 6. q7 q1' q2' q7 q5 6 3'
+6 3' 6 2' 6 2' q1' q1' q1' q1' 7 q6 q5 6 q7 q1 q7 q6 q5.
+%END

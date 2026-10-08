@@ -1,0 +1,18 @@
+%丈夫歌《三国演义》插曲.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=13853
+title=丈夫歌《三国演义》插曲
+tag=
+usertag=
+tagroute=
+confidence=0.842
+conf_p10=0.475
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-13853
+%--
+4/4
+subtitle=score
+qx q1 - - - - 1. x x ,x 7 x'. x. x x' q5 q6 5 6 1' 2. ,1' 6 ,1' 2' ,1' 2 5' - - q5' ,4' 3' - 5' - x x' 6 0
+- 5' q3'. q4' q3' q2'. - 2' - 3' 5 6 - - - - 2' 3' 2' 3' - 5' 6' q6' qx' 5' 3' - - - 5' 6' - 3' q6' 5'. 6' - 3' 7'
+- 7' 6' 6' 5' - - 6' 6' - 2'. 3' 5' 0
+%END

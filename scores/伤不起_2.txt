@@ -1,0 +1,27 @@
+%伤不起_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=30513
+title=伤不起
+tag=
+usertag=
+tagroute=
+confidence=0.986
+conf_p10=0.997
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-30513
+%--
+4/4
+subtitle=score
+- - - x q1 1 x. 6 q6 5 q3 ~ 3 6 q6 5 q3 ~ 3 6 3 q5 ~ 5 3 q2 q3 3 - 6 q6 5 q3 ~ 3 6 q6 5 q3 ~
+3 5 q3 5 q7 ~ 7 7 q5 q6 ~ 6 - 6 q6 5 q3 3 6 q6 5 q3 3 6 3 q5 5 3' q2' q3' 3' - 6 q6 5 q3 ~ 3 6 q6
+5 q3 ~ 3 5 q3 5 q7 ~ 7 1 q7 q6 6 - q5 q6 6 6 q5 q3 q5 q6 6 6 0 q5 q6 q6 q6 1 q6 q6 q5 q6 q5 q3 3 0 q6
+q6 q2 q3 2 q2 q1 ,6 q2 q3 2 0 q5 q5 q5 q5 5 q5 q6 7 6 7 0 q5 q6 6 6 q5 q3 q5 q6 6 6 0 q5 q6 q6 q6 1 6 q5
+q6 q5 q3 3 0 q6 q6 q2 q3 2 q2 q1 ,6 q2 q3 2 0 q5 q5 q5 q5 5 6 q7 q7 6 7 0 q7 q6 6 q5 q3 5 q6 q7 6 q6 q6 q1'
+q6 q1' q6 q2'. q2' q3 q3 q3 q2 3 0 q2' q2' q1' 2' q1' q2'. q3' q1' 2' q7 q7 q7 q7 q7 q2'. q2' q2'. q3' q7 q3 q5 q6 6 0 1' q7 q6 6 q5
+q3 5 q6 q7 6 q6 q1' q6 q1' q6 q1' q6 q2'. q2' q3 q3 q3 q2 3 0 q2' q2' q1' 2' q1' q2'. q3' q1' 2' q7 q7 ~ q7 ~ q7 ~ q7 q2'. q2' q2'.
+q3' q7 q3 q5 q6 6 0 qx sx sx qx sx sx sx sx qx x qx sx sx qx qx qx qx x qx qx qx sx sx sx sx qx x qx sx sx qx qx qx
+qx x qx sx sx qx qx qx sx sx qx qx qx qx qx qx sx sx qx x qx sx sx qx qx qx qx x qx qx sx sx sx sx qx qx x qx qx qx
+qx qx qx x qx qx qx qx qx qx x qx qx qx qx qx qx qx sx sx qx qx qx qx qx qx x qx qx qx qx qx qx qx qx qx qx qx qx qx
+qx x qx qx qx qx qx qx qx qx qx qx qx qx x 0 q7 ~ q7 ~ q7 ~ q7 q2' q2' q2'. q3' q7 q3 q5 q6 6 0 q7 ~ q7 ~ q7 ~ q7
+q2' q2' q2'. q3' q7 q3 q5 q6 6 0
+%END

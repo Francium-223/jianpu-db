@@ -1,0 +1,24 @@
+%一切都值得.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=29371
+title=一切都值得
+tag=
+usertag=
+tagroute=
+confidence=0.982
+conf_p10=0.982
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-29371
+%--
+4/4
+subtitle=score
+x 5' q5' q3' q2' ~ 2' q2' 3' q2' ~ q2' q5 q5 q3 q2 - - - - q1 q2 q3 q5 ~ 5 - q5 q6 q7 q1' 1' q7 1' q5 ~ q5 q6 ~ 6
+- q0 q1 q1' q7 6 q5 q5' q4 4 5 - q0 q1 q1' q7 6 q5 4 q4 q3 2 - - 0 0 0 q1 q2 q3 q5 ~ 5 - q5 q6 1' 4' 3' q1'
+~ q1' q1' q3' ~ 3' 0 q1' ~ q1' q1' q6 6 2' q0 q6 q1' q2' 3' 6 q1' 2' q2' 2' - - - 0 0 0 q0 q5 q3' q6 q6 3' q6 q6 q2' q2'
+q5 q5' q2' q5 q5 q0 q5 q1' q7 q6 q5 6 q3 q5 ~ 5 - 0 q0 q5 q5'. q5' q5' 3' q3' q3' q2' q2' q2' q2' 3' q2' 1' 0 q6 q7 q1' 1'. 4' 3'
+2' 1' 2' - - - 0 0 0 5 5' - q5' q4' q3' q2' ~ 2' - 0 q2' q2' q4' 3' q2' q1' q1' q6 q6 ~ 6 - 0 5 5' - q5' q4' q3' q2'
+~ 2' - 0 q2' 3' q1' q1' q6 6 q1' 1' - 0 5 q6' q5' ~ 5' q4' q3' q2' ~ 2' - 0 q2' q2' q1' ~ q1' q1' 2' q3' ~ q3' q6 ~ 6 -
+0 q5 q5 q1 q1 q5 q5 5 q0 q5 4 3 q2 q1 1 1 - - - 1 - - q5' q3' q2' ~ 2' - - q2' 3' 2' 1' - - - ,1 - ,2 -
+,3 q,1 q,3 ,1 0 0 q1 q2 q3 q5 1 - - - 1 - 0 q5 q5 q1 q1 q5 q5 5 - 4 3. 1 1 1 - - - 1 - 0 0 - 4' 3'
+1' q1' q1' 1' - - -
+%END

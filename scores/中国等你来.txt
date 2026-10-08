@@ -1,0 +1,21 @@
+%中国等你来.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=33815
+title=中国等你来
+tag=
+usertag=
+tagroute=
+confidence=0.982
+conf_p10=0.977
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-33815
+%--
+4/4
+subtitle=score
+q3'. s1' q1' q6 q6 3. q3'. s1' q1' q6 q6 3. q3 q7 q7 q6 7 7 q6 q2 q2. s1 q2 2. q3. s1 q1 q6 q6 3. q3. s1 q1 q6 q2 3. q6 q2' q2' q1'
+2' q2'. s3' q5 q5 q5. s3 s1' s2' s1' 6. 6 - - q5' q2' 3' - - q5' q2' 2' - - q6. s3' 1' 1' - - q2' q3' 4. 4' - - q2' q6' x 1
+x 0 6 0 0 5 x 6' - - - 0 0 0 0 s5' s3' s3' s3' q3'. s1' s1' s5 s5 s5 5 s3 s5 s5 s3 q5. s1' s2' s2' s2' s1' 2' s3' s1 s1'
+s1' q1'. s3' s5 s1' s1' s5 q3. s5 q1 s1 s1 q6 s5 s6 6 - q6 qx s5 s6 s6 s5 q6 s5 s6 s0 s5 q6 qx q5 2' - - q2' q2' 5' - - -
+q3'. s5 q5 q1' 1'. q0 q3'. s5 q5 q3' 3' q3'. s5 q5 q1' 1'. q2' 5' - - - 5' - - - s5 s3 s3 s3 s3 s1 s1 s1 s1 s5 s5 s5 s5 s3 s3
+s3 q5. s1 q2 s2 s1 1 0
+%END

@@ -1,0 +1,25 @@
+%九九女儿红_6.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=23136
+title=九九女儿红
+tag=
+usertag=
+tagroute=
+confidence=0.959
+conf_p10=0.899
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-23136
+%--
+4/4
+subtitle=score
+0 s1' s1' s5 s6'. 5 - s5 s6 s3 s5 s2 s3 s2 s3 1. q,6 s2 s3 s1 s2 s2 s3 s6 s3 ,6 - s6 s3 s2 s3 s2 s3 s2 s3 ,5. q,6 s6 d6 d5
+d3 d5 d6 d1 s1' s1' s5 s6'. 5 - s5 s6 s3 s5 s2 s3 s2 s3 1. q,6 s2 s3 s1 s2 s2 s3 s2 s3 ,6 - s6 s3 s2 s3 s2 s3 s2 s3 ,5 s5
+s3 s2 s1 x - - - - - s5 d5 d3 s2 s6 q,5 q0 q,6 q0 q1 q0 1. s1 s1 q1 4 1 q1 s1 s6 q1 s1 s6. ,5 q5 s6 s1 s6 s5 s5 s3
+q5. s3 q2. s2 q2 s2 s3 q5 q5 s2 s3 s2 s1 q,6. s6 s2 s2 s2 s1 s6 s5 s1 s6. ,5 - 5 q5 q5 s3 s2 s1 s6 q,5 q5 s5 s5 s6 s5 s5 s3
+q5. s6 q5. s5 q5 s5 s6 q1' q1' s6 s1' s6 s5 s3 s2 q1 q2 s2 s3 s2 s1 ~ s1 s6. 1 - 1' 1' s6 s5 s5 s3 5 q1' s1' s1' s6 s5 s5 s3
+q5. s6 5 q2. s3 5 q,5 s5 s6 1 q1 s1 s3 s2 s1 s1 s6 q,5. s6 ,5 1' 1' s6 s5 s5 s3 5 q1' s1' s1' s6 s5 s1' s6 q5. s6 5 q2. s3 5
+0 q,5 s5 s6 1 s2 s2 s2 s1 s6 s5 s1 s6'. - s5 s6 s5 s2' q1' s1' s6 s5 s1' s1' s2' q1'. s6 s5 s6 s5 s2' q1' s1' s6 s5 s6 s6 s5 q6. s3
+s2 s3 s5 s3 q5. s3 s5 s6 s6 s3 3 s2 s3 s5 s3 q5. s6 s5 s6 s6 s5 ,5 x - 0 0 0 0 - ,5 ,6 1 1 q2. s3 5 q,5 s5 s6 1
+q2' q2' q2' q1' q6 q5 q1' q6 5 - - - 5 - - - 5 - - - s6 s3 s2 s3 s2 s3 s2 s3 ,5 1 1 q2 q3 5 - 5 - - - 5
+- - -
+%END

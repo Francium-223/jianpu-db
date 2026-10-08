@@ -1,0 +1,18 @@
+%可爱的家庭.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=11634
+title=可爱的家庭
+tag=
+usertag=
+tagroute=
+confidence=0.924
+conf_p10=0.679
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-11634
+%--
+4/4
+subtitle=score
+q1' q1 q1 1 4 4 5 qx. - x x x 1. q1 q2 3. q4 4 5 5 - 3 5 4. q3 4 2 3 - - q1 q2 3. q4 4 5 5 - 3 5
+4. q3 4 2 1 - - q5 q5 1'. q7 6. q5 5 - 3 5 4. q3 4 2 3 - - q5 q5 1'. q7 6. q5 5 - 3 5 4. q3 4 2 1 -
+- - 5 - - - 4 - 2 - 1 - - - 2 - - - 3 - 0 5 q7 6. q5 5 0 3 5 4. q3 4 2 - 0
+%END

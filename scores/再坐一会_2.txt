@@ -1,0 +1,22 @@
+%再坐一会_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=36033
+title=再坐一会
+tag=
+usertag=
+tagroute=
+confidence=0.740
+conf_p10=0.423
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-36033
+%--
+4/4
+subtitle=score
+x' q3' 1 2 x' 5 0 4 4 6 qx' x 1 7 x x x 4 x ,,x' q5' q,5 q5' q,5 h,6 s,5 s,3 s,6 q2' q,7 3' ,3 d,2 q,5 q1' ,5 1 q,6 q1 s2
+,3 s,6 s,2 s,3 s,2 s1 s1 s,1 q1 q1' q1 1 1 q,2 q2 q2 6' ,6 d,7 s1 s1' s1 h,1 s1 h,7 s,7 s1 s,1' s1 s5' s2 q5' q,6 s0 x' x' x x x' x
+x' x x x x x ,x' ,x' x' x x x' x' x' x' 1 ,x 1 1' 1 7' q,1' s1 q1 dx' 7' 1' h1 x' q1' qx' q1' dx dx' d7' s7' q7' 7' s1' 1
+h1' s1 1 1 1' h1' 1' 1 s1' q1' q1' q1 h1' x' 6' 7' x' 6' h1 d5 d3 s6' 7' h1' h1' 1 1 6' h1 d1' d1 h1 1 5' h0 0 0 7' 7' 5'
+1 h6' h1 h1 h1' h1 d1 h1 h7' h1' h1' h1' h1' d1' q2 s2 h,2 h1' s7' q6' ,6 q6' d5 h1' h1' s6' 1' 6' h6 s6' s,1 d3' h1' h1' s,1 ,7 h2 s7' q7' q1'
+7' q,,1' h,1 6' ,6 h,3' h3' q5' s,7' q5 5' x 1' h1' h,7' q7' 1 h1' 3' h1' h,,5' h,,5' s1' h1' h1' s,7 h1' h1' h,6 h6' h6' q6' q6' h,6 6' h1' 1' h6' h6' h3'
+h6' s5' h2 s,5. s1' h1' h1' s1' s1 1' 1 d7' h6 x x x
+%END

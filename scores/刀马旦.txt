@@ -1,0 +1,24 @@
+%刀马旦.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=25639
+title=刀马旦
+tag=
+usertag=
+tagroute=
+confidence=0.979
+conf_p10=0.949
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-25639
+%--
+2/4
+subtitle=score
+0 - q0 s5 s5 s5 s3 s3 s2 q2 s3 s2 ~ s2 q1. q2 s2 s2 ~ s2 q,7 s,6 ~ ,6 - q0 s,6 s,6 s,6 q3 s2 ~ q2 s3 s2 ~ s2 q1 s1 q2
+s3 s5 ~ s5 s2 s3 s3 ~ 3 - q0 s4 s4 s4 q6 s6 s5 q3 s2 ~ s2 s2 s1 s2 q5 s3 s3 ~ s3 q2' s1 ~ 1 s3 s2 s1 s2 ~ q2 q,6
+q0 s,6 s,6 q,7 s,7 s,7 ~ s,7 q1 s,6 ~ ,6 - 0 0 q0 s5 s5 s5 q3 s2 s1 q1. s0 s1 s1 s1 q2 s2 s2 ~ s2 q,7 s,6 ~ ,6 - q0 s,6 s,6
+s,6 q3 s3 q2 s3 s2 ~ s2 s1 s1 s,6 q2 s3 s5 ~ s5 s2 s3 s3 ~ 3 - q0 s4 s4 s4 q6 s6 s5 q3 s2 ~ s2 s2 s1 s2 q5 q3 q3 sx'
+d1 ~ 1 s3 s2 s1 s2 ~ q2 s1 s2 q0 s2 s2 q4 s4 s3 s3 q2 s3 q2 3 0 s0 s3 s3 s2 x s2 s3 q6 s2 s3 s2 s3 s1 s6 q1 s0 s1
+s1 s1 s2 s2 s2 s2 s2 s1 s6 s5 3 s0 s3 s3 s2 s2 s3 q6 s2 s3 s2 s3 s1 s2 q1 s0 s1 s1 s1 s2 s2 s2 s2 s2 s1 s7 s1 ,6 s0 s3
+s3 s2 s2 s3 q6 s2 s3 s2 s3 s1 s,6 q1 s0 s1 s1 s1 s2 s2 s2 s2 s2 s1 s,6 s5 s3 s2 s1 s,6 s0 s3 s3 s2 s2 s3 q6 s2 s3 s2 s3 s1
+s2 q1 q0 s1 s1 s2 s2 s2 s2 s2 s1 s,7 s1 ,6 q2 s3 s2 ~ s2 q,6. q2 s3 s3 ~ 3 - q6 s6 s3 s2 ~ 2 s2 q3 q3 s2 s3 ~ 3 -
+- ,6 s0 s3 s3 s2 ,6 - - s5 s3 s2 s3 s2 s1 s,6 s,5 - s2 s3 s3 s2 s3 s3 2 - s3 s2 s3 5 ~ 5 - 6 - -
+%END

@@ -1,0 +1,23 @@
+%两颗心四行泪.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=30983
+title=两颗心四行泪
+tag=
+usertag=
+tagroute=
+confidence=0.915
+conf_p10=0.666
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-30983
+%--
+4/4
+subtitle=score
+- - - - - - 5 - - s5 s4 s3' s4' 5 - - q5' s2' s7 1' - - s1' s7 s1' s1' q7. s5' ~ 5' - q0 q5 6 - q6. s5 ~ q5 q4
+5 - - q0 q6 1 - q3 q2 s2 s1 q2 2 - - 0 5 - - s5 s4 s3 s4 5 - - s5' q2'. s1' q1'. ~ 1' - s1' s7 s1' s1' q7 q5 5
+- q0 q0 s3 s5 6 - - - - q6 s3 s5 s4 s2 3' 5' q7' q5' 1' q0 q0 s6 s7 s5 q1' q1' q1' q1' q3' q2' q1' s2' s1' s1' s1' q2' q2' 2' 2'
+- - q0 q5 s1' q2' q2' q3' q3' 6' 3' s3' s2' s2' 2' 2' s1' s2' s1' s1' s1' d1' d1' q2' q2' q5 s5' q2'. q2'. 1' 1' s1' s1' d7 s6 d7 q1' q1' d4 d4
+q0 s1' s1' q1'. q2' s7 s7' q7' q5 ~ 5' q0 q5 q1' q1' q2' q3' 6' 3' s3' s2' 2' 2' sx' s1' s1' s1' s1' q2' qx' q2' q2' s2'. sx'. q5'. s3'. s2' s2' q1' q1'
+s1' s1' s7 s6 s7 q1' q2' s2' s2' s6 q0 s1' s1' s1' s1' q7. q6 s6 s7 q1' q7' q1' q1' 1' 1' - - x s1 - s1 s2 2 - q2. q1' q7' 1'. q0 q5
+q2' q2' q2' q7' q1' ~ q1' ~ 1' ~ 1' - - - - 1' - - q1' s7 s6 7 - - q0 q5 6 - - q0 s5 s6 5 - - x s3 s3 2 -
+- - - q2 q1 q1 q,2 q1 1 - - - x
+%END

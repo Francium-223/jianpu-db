@@ -1,0 +1,21 @@
+%今夜你是谁的情人.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=33683
+title=今夜你是谁的情人
+tag=
+usertag=
+tagroute=
+confidence=0.955
+conf_p10=0.841
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-33683
+%--
+2/4
+subtitle=score
+x q1' s1' s2' q1' 2' - q1' s2' q1' 2' s1' - q3 q5 s5 q5 s3 5 q0 s3 s2 1 q1 q2 3 - q3 s5 s5 q5 q5 q1 6 q6 s6 s6 s6 q5 s3
+5 - q3 s5 s5 q6. s3 5 q0 s3 s2 1 q1 q2 3 - q3 s5 s5 q5 q5 q1 6 q6 s6 s6 s6 q5 s3 5 - s3 s5 s5 s5 s5 q6 s3 5 q0
+s3 s2 q1 q1 s1 q1 s2 3 - s3 s5 s5 s5 s5 q1' s1' 6 q0 s5 s3 q2 s2 s3 s2 q1 s6 s1 s2 1 s3' s3' s5 s5 s5 s5 q6 s3 5 q0 s3
+s2 q1 q1 s1 q1 s2 3 - s3 q5 s5 s5 q5 s6 s1' s6 q6 q0 s5 s3 s3 s2' s1 s1 s1 s1 q1 s3 2 - q2 s2 s3 s2 q1 s6 s1 s2 1 s3
+q5 1' s1' q1' s2' 3' s2' s2'. s3' q3'. s3' q3' s2' s1' - x. q,x q3 q3 d2 s1 s1 s2 1 s1 s2 1 q6 q5 s3 s2 s1 s6 s1 s2 1 q1 s1 ~ q1
+s3 s1 s1 s3 s1 s1 ~ q1
+%END

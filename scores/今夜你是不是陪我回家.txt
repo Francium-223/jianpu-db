@@ -1,0 +1,20 @@
+%今夜你是不是陪我回家.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=35239
+title=今夜你是不是陪我回家
+tag=
+usertag=
+tagroute=
+confidence=0.934
+conf_p10=0.785
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-35239
+%--
+4/4
+subtitle=score
+q0 q1' q1. q,1 2. q1 3. s1 1 - 4 6 0 1'. q1' 2'. q1' q3. s1' 1 - 4 6 q0 q0 q7 q7 q6 q7 q7 q1 q6 q6 q0 q4 0 q7. 6 7 7
+4 4 - - q0 q4 q7 q6 7 q4' q4' ~ 4' - - 4 4 4 4 4 4 4 4 4 4 4 4 q4 q4 q6 q4 q4 q6 q4 4 4 4 q4' q4' q4'
+q4' q4' q4' q4' q0 q4' q4' q4' q4' 0 6. 4 q4. q4 q6. q4 0 q6. q4 q4. q4 q6. q4 q4. q4 q6. q4 q4. q4 q0 q4 q4. 4 x 0 0 3 s6 5 s2
+,1 ,6 - 5' 5' 3 6' ,1 ,1 2 - 2' 2' 3 5 6 6 - - 3 2 q3 1 ,6 - 6 6 3 6 q6 6 3 6 6' 6 3 6' 6 6 3
+q6 q3 q3 q2 q1 6 q5 q3 6 - 3 s3 3 2 3 3 2 s1 q7 5 s5 ,6 - - - x
+%END

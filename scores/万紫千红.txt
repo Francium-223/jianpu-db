@@ -1,0 +1,22 @@
+%万紫千红.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=5759
+title=万紫千红
+tag=
+usertag=
+tagroute=
+confidence=0.969
+conf_p10=0.969
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-5759
+%--
+2/4
+subtitle=score
+1 - - - x' x ,1 - - 1 0 4 x 1 5 - s1 s5 5. d1 d5 d1 d2 q3 d1 d2 d3 d5 q1' d1 d5 d1 d2 q3 d1 d2 d3 d5 q1' 5
+- s5 s3 s1' s5 s3 s1 s6 s5 s4 s3 q1 q6 q5 s3 s1 5 s6 s1 s1 s2 3. s3 s1 q6 q5 s3 s5 s4 s3 2 s1 s2 3 - 5 - q1. s1 q1
+q2 q3 s5 s6 q1' s6 s6 5 - 0 0 q1. s1 q1 q2 q3 s5 s6'. q6 s3 s3 2 - 0 0 s6 s6 s6 s5 q6. s1' s6 s5 6 q0 s6 s6 s6 s1' s1'
+s6 s6 s5 5 - 5 0 s3 s3 s3 s2 q3 s5 s6 1 - s6 s6 s6 s5 q3 s5 s3 2 - s6 s6 s6 s5 q6. s1 s6 s5 6. s1. d1 s1 s1 s1 s6
+s6 s5 5 - 5 - - 3 - 3 - 3 - q5. s5 q3 q3 s1 q6 s5 6 s1 q1 s2 q3 q5 q1. s6 5 q3. s3 q3 s2 s2 - 3 - q1'. s1' s1'
+s6 s6 s5 6 - s3 q3 s5 q6 q1' 2' - q5 3'. 3' q0 s2' s1' 1' - 1' - 1' 0 s1 s2 s3 s4 q2'. s1' s7 s1' 2 s1 s2 s3 s1 6 s1 s2
+s3 s4 5. d1 d2 d1 d2 d3 d5 d3 d5 d2 d4 d2 d4 d6 d1' d6 d1' 5 - 5 - q5 3. 3 - 3 q2 q1 1 - 1 - 1 - 1 0
+%END

@@ -1,0 +1,20 @@
+%与君书.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=24425
+title=与君书
+tag=
+usertag=
+tagroute=
+confidence=0.965
+conf_p10=0.910
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-24425
+%--
+4/4
+subtitle=score
+- ,6 q,6 q1 2 q2 q3 5 q5 q3 3 0 ,6 q,6 q1 2 q2 q3 3 - - 0 ,6 q,6 q1 2 q2 q3 5 q5 q6 3 - 6 q5 q3 2 q1 1 -
+- 0 ,6 q,6 q1 2 q2 q3 5 q5 q3 3 - ,6 q,6 q1 2 q2 q3 3 - 0 0 ,6 s6 q1 2 q2 q3 5 q5 q6 3 - 6 q5 q3 2 q3 5
+- - 0 5 q3 5 q6 2 - - q2 q3 q1 ~ 1 q,6 1 q1 q2 3 - - 0 6 q3 2 - 5. q2 1 - ,6. q3 2. q5 5 - - 0 6.
+q3 2 - 5. q2 1 - 4. q1 ,7 - 3 q,7 ,6 - - - - - - - ,6 - - - ,6 - - - - x q6 s6' s6 q1 q2' q2 q3 x ,6
+- - -
+%END

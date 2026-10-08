@@ -1,0 +1,18 @@
+%划船歌_4.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=31754
+title=划船歌
+tag=
+usertag=
+tagroute=
+confidence=0.944
+conf_p10=0.839
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-31754
+%--
+2/4
+subtitle=score
+1 0 - x x ,1'. x' x'. q5. s5 5 3 q3 q5 q6 q5 5 4 4 q4. s6 4 2 q2 q6 q5 q4 5 3 3 q5. s6 5 3 q0 q1 q7 q1 2 -
+1 q7. s6 q6 5. q7 q6 q4 q2 1 - q1 q0 x q5. s5. 1 - q0 q3 q3 q3 q3 q3 q3 q3 q3'. q2' q1' q7 q7 6. 6 - 3' q2' q1' q7 q6 q1'
+q1' 1' q7 q6 5 q5. s6 5 3 q0 q1' q7' q1' 2' - 1' q7. s6 q6 5. q7 q6 q4 q2 1 - 1
+%END

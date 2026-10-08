@@ -1,0 +1,23 @@
+%共度好时光.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=6617
+title=共度好时光
+tag=
+usertag=
+tagroute=
+confidence=0.964
+conf_p10=0.908
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-6617
+%--
+4/4
+subtitle=score
+q1' q,1 q1 q2' q0 2 q3' q3' q3' q6 5 q1' q2' q3' q3' q3' q6 5 - q5 q6 q5 q3 2' 3' 2' - - q1' q2' q3' q3' q3' q6 5 q1' q2' q3' q3' q3'
+q6 5 - q5 q6 q5 q3 2' 3' 1' - - q2' q2' 1' 0 q0 sx sx sx sx qx 1' q2' q3' q2' q1' q6 q5 1' q2' q3' q2' q1' q6 q5 q3 q5 q5 q6
+q1' q2' q6 s5 s6 5 - - 0 1' q2' q3' q2' q1' q6 q5 1' q2' q3' q2' q1' q6 q5 q3 q5 q6 q1' q6 q5 5 q6' q6 q5 q5 q1 2 - x'. q3 q1
+s2 s3 s2 s1 q1 q1 1 q1' q2' q3' q3' q2' q1' q6 s5 s6 q1' q2' q3' q3' q2' q1' q6 q5 q3. q3'. s5 q6 q6 q1' q6. q6 q5 q0 q5 q3 q1 q1 q2 q1
+1 3 q3 q5 5 q5 q6 q5 q3 q2 q1 1 - q3 q5 q5 q6 q1' q2' q6 q5 5. q6 6 q5 q6 q1' 1' q6 q5 q0 q1' q6 q5 q6 q1' 3 - - -
+1. - - q5 q5 q5 q3 q5 q5 q5 q6 q1 s2 s3 q2 q1 2 q1 q2 q3 q3 q3 q6 5 q1 q2 q3 q3 q3 q6 5 - q5 q6 q5 q3 2 3' 1' -
+- q2' q2' 1' - 0 q1' q2' 1' - - q1' q2' 2' - - q1' q2 1' - - q2' q2' 1' q1' q3 q5 q6 q2' q3' 2' - 3' 5' 5' - - - 1' -
+- - 1' - - q2' q2' 1' 0 0
+%END

@@ -1,0 +1,23 @@
+%今夜不一样_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=752
+title=今夜不一样
+tag=
+usertag=
+tagroute=
+confidence=0.904
+conf_p10=0.620
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-752
+%--
+2/4
+subtitle=score
+qx - - 1 0 x x x x x x x x x x x x x x x x x x x x 3 q3 q5 6 q6 q5 q3 q5 q6 q5 3 - 1' - q7
+- q6 6 qx 3. q3 6 q6 q6 q3' q5' q6' q1' q5' x 3 1 3 3 3 q2' q3' q2' q,5' 1 ,6 ,6 x q6 q5 6 q6 q5 6 q3' q5' q6' q5' 3 -
+q3 q3' 3' q2' q3' q2' q5 q,5' 6. ,6 1. 0 0 1 1 2 - 2 q5 3 0 x q3 q5 q6 q5 q3 q5 q6 q5 q3 q5 q6 q1' x q3 5 q6 6 -
+6 - 6 0 6 3 6 0 q1' q1' q6 q5 6 0 1 1 q6' q6 q2 q3 1 3 3 0 0 q0 ,6 q5 s5 q2 2 s3 q1 q1' d2 q,6 s1 s3' ,6 s0
+s3 q3 ,6 s6' s6 s,6 d3' s5' ,6 q3 q3 0 q3 1 2 s1 0 0 s1' 1' sx s2' ,6 q1 2 q0 q1'. d,1 q,6 d,6 x q3 q5 q6 q5 q3 q5 q6 q5 q3
+q5 q6 q1 6 5 dx q3 dx q5 sx q6 qx 5 x x 3 dx q5 dx 6 x' x' sx 6 sx 5 x 1 x x. 0 x ,x' ,6 ,x' 2 2 x' q1'. d1
+q,6 q5 qx q,6' q,6 q3 q5 d5 q6 d3 q5 s5 q,6' q,6 q3 d5 q5 d3 q6 q5 d5 d6 q,6 q3 d1' q5 q6 q0 q6 s5 q3 q0 6 q5 q0 q6 q0 5 0 0
+x q3 q5 q6 q5 q3 q5 q6 q5 q3 q5 q6 q1' 6 5 3 q3 q5 6 q6 q5 q3 q5 q6 q5 3 - - - - - x
+%END

@@ -1,0 +1,20 @@
+%亲朋好友_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=8990
+title=亲朋好友
+tag=
+usertag=
+tagroute=
+confidence=0.977
+conf_p10=0.971
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-8990
+%--
+4/4
+subtitle=score
+x q2 q3 q5 q6 1' - - 3' 6. q3 q2 q3 q5 q6 1' - - 3' 6. q3 q2 q3 q5 q6 1' - - 3' 6. q3 q2 q3 q5 q6 1' - - 3' 6.
+q3 q2 q3 q5 q6 qx sx sx qx qx sx sx qx 0 5 q1' q6 1' q6 q5 q5 q3 q2 q3 5 q5 q6 1' q6 q5 q0 q5 q2 q3 5' 5' 0 0 q2 q3
+q5 q3 q5 q3 q5 q6 1' q2 q3 5' 0 q2 q3 q5 q3 5 q5 q3 x q2 q3 q5 q1 1. q0 0 0 0 0 q3' q3' q3' q2' 3' q2' q1' q1' q6 q1' q2'
+5 - x 5' x 3 q3 q2 q3 q3 q2 q1 q1 q6 q2 q3 5 - q5 q6 q1 q6 1 q6 q5 q5 q3 q2 q3 5 q5 q6 1' q6 q5 q1' q1' q6 q5 q3
+q2 5 1 0 q2' q1' q6 q5 1' - 1'. q3 q2 q3 q5 q6 q2' s2 qx q1' q6 q5 1' - 1' - - - 1' -
+%END

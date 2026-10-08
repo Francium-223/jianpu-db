@@ -1,0 +1,25 @@
+%假情真爱.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=25666
+title=假情真爱
+tag=
+usertag=
+tagroute=
+confidence=0.982
+conf_p10=0.968
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-25666
+%--
+4/4
+subtitle=score
+q0 q3 q1' q1' q7 s6 s5 q3 q5 6 - - - q0 q6 q2'. s2'. s3' q2' s1' s1' q1' q1' 2' - - - q1' q1' q2' s2'. s3' q5'. q3' q1' q1' 2' - - -
+q0 q3' q1' q1' q1' q1' q6 q5 q6 q6 q1' q5 6 q0 s3 q3 q5 q1' q1' 6 q0 s6 q1' q1' q2'. q3'. 3' - q3 q5 q1' q1' 6 - q5 s5 s6 q6 s5 s3
+3 - q3 q5 q1' q1' 6 - q5 q6 q6 s5 s3 3 - q6 q6 s2' q2'. 2' q0 s7 q7 q6 q5 q6 6 - q1' q6 q5 q3 q5 q3 q2 q1 0 q3 q5 q1'
+q1' 6 - q5 q6 q6 s5 s3 3 - q1' q1' q2' s2'. s3' 2' - q7 q7 q6 q6 6 - q3 q5 q1' q1' 6 - q5 q6 q6 s5 s3 3 - q1' q1' q1' q1'
+2' - 7 q6 q5 q6 6. sx sx sx sx sx sx qx sx sx sx sx x sx sx sx sx sx sx sx sx qx qx x sx sx sx sx sx sx sx sx qx qx
+x sx sx sx sx sx sx sx sx qx qx x q1' q1' q1' q1' 2' - q1' q1' q2' s2'. s3' 6 - q3'. q3' q3'. q3' q3' s2' s1' 1' q2' q2' s2'. q3' s2' 2' -
+q1' q1' q2'. q3' 2' - q7 q7 q7 q5 3 - q7 q7 q7 q5 q5 q3 q3 q3 q5 q3 q5 q6 6 - q1' q1' q1' q1' 2' - q1' q1' q2' s2'. s3' 6 - q3'.
+q3' q3'. q3' q3' s2' s1' 1' q2' q2' s2'. q3' s2' 2' - q1' q1' q2'. q3' 2' - q7 q7 q7 q5 3 - q7 q7 q7 q5 q5 q3 q3 q3 q5 q3 q5 q6 6 -
+q1' q1' q2'. q3' 2' - q7 q7 q7 q5 3 - q7. s7 q7 q5 q5 q3 7 q3'. q3' q3' q5' 6' - sx sx sx sx qx qx qx qx x sx sx sx sx qx qx
+qx qx x sx sx sx sx qx qx qx qx x sx sx sx sx x qx q5 s5 q6 qx s1 qx - 5 3 s2 1 s3 s2 s1 s,6 s,5 s,3 s,5 s,5 ,6 0
+%END

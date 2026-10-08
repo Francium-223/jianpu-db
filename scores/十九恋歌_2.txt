@@ -1,0 +1,22 @@
+%十九恋歌_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=768
+title=十九恋歌
+tag=
+usertag=
+tagroute=
+confidence=0.887
+conf_p10=0.579
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-768
+%--
+4/4
+subtitle=score
+qx - - 1 0 2 q3. s1' 3' q6 q3. q5 s3' s5 s1' q6 q6' q1' s5 6 3 s1' 3. q6 q5' q1' 3' 2' q0 q6 q3 q5 q0 q7 s5 q7 q5 q7 s5 q2'
+q5 6 5 q5 3 q5 5 ~ 5'. ~ s5 q6 q6 5 1 - - 3. q1' q6. s6 q6' q5' s6. s1' q3' s1' 2' - 3. q1' q6 q6 q6' q5' s6. s1' q3' q2' 2'
+- q3. s1' q6 q5 q3'. s1' q6 q5 q3 1' q5 6 6 q2' q2' q2' q3' q3'. q2' 3' - - q2' q3' 5' 5' s5' s5' q5' s5' 5'. s6 1' - x 0 0 0 1'
+q1' q6 5 - s3 q3 q3 q2 3 q6 5 - - - 1' q1' q6'. 5 - s3 q3 q3 q2 1 q5 q3 2 - - - q6. s5 q3 q2 q6 q5 q3 q2 q6. s5
+q3 q2 q6 q5 q3 q2 3. q2 3 - q5. q,6 1 1 5 q3 q5 3 5 q6 q1' q6 q3 5 - q6 q6 q5' q6' q5 q3 q2' q,6' 1 - q1 0 x qx 1
+1 q0 q0 q0 q5 q2' q5' 6 q6' q1' q6 q6' q2' q5' 1' 3'. 6 q3' s1 h2' s1' q2' q3 q5' q3 3' 5 3. 3' 6 2' 6'. 3. 0 q3 s3 q3' sx s2' d,6
+s,3' s6' q3' s5 d2' q3 q3' s3' 5' 6 s5' q5 s5' s3 d6 s3 q6 q1' 6 1' 1' q5 s6 0 6 0 0 6 1.
+%END

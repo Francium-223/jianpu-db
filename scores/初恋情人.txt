@@ -1,0 +1,24 @@
+%初恋情人.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=1253
+title=初恋情人
+tag=
+usertag=
+tagroute=
+confidence=0.954
+conf_p10=0.874
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-1253
+%--
+4/4
+subtitle=score
+1 1 x 1 qx q1 1 2 1 x qx. 1 1' x. x x' qx - - 1 0 4 x x. x 3 - 2 q1 q,6 ,6 - q,3 q,5 q,5 q,6 ,4 q6 q5 q5
+q3 q3 q2 q2 q1 q1 q,6 q,3 q,5 q,6 q1 3 - 2 q1 q,6 ,6 - q,3 q,5 q,5 q,6 q,4 s4 s3 q,4 q,5 q,6 1 q3 q3 q2 q1 q6' 6' - q,3 q,5 q,6 q1
+3 q2 q1 2 q5 q3 3 - q,3 q,5 q,6 q1 3 q2 q1 1 - - - q,3 q5 q,6 q1 3 q2 q1 2 q5 q3 3 - q6 q5 q3 q1 q2 q7 q5 q,6 ,6
+- - - ,6 - - q3 q2 q2 3 q3 q2 3. q2 3 q3 q1 s6 q0 s6 s1 q2 q2 q2 q2 q2 q2 q2 q1 q2 q3' ~ 3' - q3 q2 q2 3 q3 q2
+3. q2 3 q3 q1 q,6 q0 d6 s1 q2 q2 q2 q2 q2 q2 q2 q3 q,5 q,6' ~ ,6' - - 2 - q2 q2 q2 q3 q1 q,6' ~ ,6' - 0 q,7 q,7 q,7 q,7 ,5
+q,3 q,5 ,6 - - - 2 - q2 q2 q2 q3 q1 q,6' ~ ,6' - 0 q6 q6 q6 q6 q5 q3 q2 q3 3 - - - 3 0 x q,3 q,5 q,6 q1 q,3 q,5 q,6
+q1 3 q2 q1 2 q5 q3 3 - q,3 q,5 q,6 q1 3 q2 q1 1 - 1' 7 q,3 q,5 q,6 q1 3 q2 q1 2 q5 q3 3 - q,3 q,5 q,6 q1 q3. s2 q2 q,5
+q,5 ,6. x q,3 q,5 q,6 q1 q,3 q,5 q,6 q1 3 2 q5 q6' ~ 6' - - 6 - - - x 3 - 2 q1 q,6 ~ ,6 - q,3 q,5 q,5 q,6 ,4 q6 q5 q5
+q3 q3 q2 q2 q1 q1 q6' ~ ,6' - 3 - 2 q1 q6 ,6 - q3 q5 q5 q6 q4 s4 s3 q4 q5 q6 1 q3 q3 q2 q1 - ,6 - - -
+%END

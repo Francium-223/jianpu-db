@@ -1,0 +1,17 @@
+%万里异国寻知音.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14865
+title=万里异国寻知音
+tag=
+usertag=
+tagroute=
+confidence=0.915
+conf_p10=0.463
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14865
+%--
+4/4
+subtitle=score
+1 - - ,x x x q3 q1 q1 q,2 q1 q1 x q2' q1' s1' - - 1' - - - q1' q1' q1' s1' q3 q1 q2 3 q2 s1 s2 1 - - - q1 1 q2
+1 - 1 - 3 s3 q1 x q2 - - 1' - - - 1' - -
+%END

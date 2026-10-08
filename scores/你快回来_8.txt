@@ -1,0 +1,21 @@
+%你快回来_8.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=9354
+title=你快回来
+tag=
+usertag=
+tagroute=
+confidence=0.936
+conf_p10=0.768
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-9354
+%--
+4/4
+subtitle=score
+q1' q1 q1. q1. sx 1 0 0 0 x x x 1. - - - q,7 q1 1 1 q,7 1 - - - q,7 q1 1 1 q2 q1 1 - - - 7 q1' q1' ~ 1'
+- 7 q1' ~ 1' - q6 7 q1' q3'. s4' ~ q4' q3' 2' - - - 1 0 ,5 5. q4 q4 q3 q2 q2. s5 q5 q4 3 - q0 q5 q5 q4 q4 q3 q2 q1
+q2. s5 q5 q,7 0 5 3. q2' q2' q1' q7 q6 q7. s1' q2' 3' - q0 q5 q7 q2' q2 q1' q7 q6 q7. s3' q3' q7 1 6 - q0 q,6 q6 q5 q5. s4 ~ q4
+q3 2 - q4. s3 ~ q3 q2 1 - q,6. s7 q,7 q1 q2. s3 ~ q3 q4 - - - 0 0 q,7. s1 q1 q2 2'. q2' q3'. s7 q7 q5 q6. s7 q7 q2. s3 q3
+q4 q3 q2 2 q0 q,5 q5 q4. q3 q2 2 - - 0 0 q2. s3 q3 q4 5 - - - q3 q2 ~ 2 - - q3 q2 2 - - 0 0 q7. s1' ~ q1'
+q2' 3' - - - 1 5 1 3
+%END

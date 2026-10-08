@@ -1,0 +1,23 @@
+%你和太阳一同升起.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=8805
+title=你和太阳一同升起
+tag=
+usertag=
+tagroute=
+confidence=0.964
+conf_p10=0.929
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-8805
+%--
+4/4
+subtitle=score
+1 7 x x' x' x' x 0 q,5. s,7 2. s2 s2 x q3 2. 0 2 - - 2 q1. s3 5. s5 s5 q6 5. 0 5. s5 s5 q6 q5 q4 5 q6 q5 q4 5
+q6 q5 q4 q6 q5 q4 q6 q5 q4 q6 q5 q4 5 6 7 - 7 - q3 q4 5. q3 q1 q1' q7. s1' 5 - - q6 q7 0 q6 q4 5 s6 s5 2 - -
+q3 s2 s3 q2 q3 q0 q5 q3 q7 6. 6 q6 q6 q2' 6 q7 q6 2 s7 s6 5 - - q3 q4 5. q3 q1 q1' q7. s1' 5 - - q6 q7 q6 q4 5 s6
+s5 2 - - q3 s2 s3 1. q2 q3 q0 q5 q3 q7 6. 6 q6 q5 q6' q4 4 q3 q2 2 q3 - - 5 - - - - 0 - - - q7. s1 7. q5
+3 q4 q4 q5 s6 s5 5. 5 5 - - q7. 7. q5 3 q4 q4 q5 s6 s5 2. 2 q3 s2 s3 q1 1 q2 q3 q3 q5 q6 7. 0 6 q6 q6 q2' 2' q3'
+7 q7 q6 q7 7 - - x 5 3'. q1' q5 q3 q1 q7 6. s6 s5 6 q6 q1' q2' 6 q1' q2' q3' 2' - q2' q7 q6 q3 q5 2 q4 3 q3 s2 s3 -
+0 q3 q4. 7 - - 5 3'. q1' q5 q3 q7 6. s6 s5 6 q6 q2' 2' q6 q3' q2' q2'. s1' 2' - - 5 3'. q1' q5 q3 q7 6. s6 s5 6 q6 q1' q2'
+2' q3' q2' 5. 2' 4' - 3' - - - - - - - - -
+%END

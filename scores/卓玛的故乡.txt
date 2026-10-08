@@ -1,0 +1,21 @@
+%卓玛的故乡.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12567
+title=卓玛的故乡
+tag=
+usertag=
+tagroute=
+confidence=0.965
+conf_p10=0.924
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12567
+%--
+2/4
+subtitle=score
+1 - - x. x. x x x q6 s,3' q2' 3' - - q2' s3' s1' s2' 6 - - q3 s7 s,6 7 - - s6 s7 s5 s6 3 - - s6 s1 s2 s3 2 s3
+s5 s2 s3 1 ,3 ,6 - - - x q3 s7 s7 s6 s7 s5 s6 q3. s5 q2 q2 s3 s7 s2 s7 s2 3 - - - q3 s6 s6 s5 s6 s3 s5 q2. q3 q,7
+q3 s3 q5 s2 s7 ,6 - - q,6 s1 s2 q3. s3 q3 s,6 q5 s4 s5 s4 q3. s3 6 s6 s,7 q6 3 q5 s4 q5 s4 3 q6 s6 s6 q7 s,6 s7 q3 7 5
+2 s2 s3 q1 q2 q5 s5 s6 s2 s3 s1 - s2 q,6 - - q3 7 6 7. 7 q3 s7 s6 6 - - - 3 s6 q6 s5 6 q3 q,,,5 2 ,7 q,7 6 s7
+q,6 s7 s2 3 3 q6 5 s6 q7 7 - - - 6 3' 2' x 7 q6 s7 q6 q2 q5 q5 q6 s3 q,5 2 s3 1 s7 q6 7 q5 ,6 - - - - 1
+q5 q5 q6 s3 5 2 ,3 1 s7 6 q7 5 ,6 - - q3 q7 6 7. 7 ,,3 7 6 6 - - -
+%END

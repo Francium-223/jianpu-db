@@ -1,0 +1,23 @@
+%临别一眼.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=23471
+title=临别一眼
+tag=
+usertag=
+tagroute=
+confidence=0.975
+conf_p10=0.953
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-23471
+%--
+2/4
+subtitle=score
+q0 s6 s6 s6 s5 q3 s6 s6 s6 s5 s6 s5 q3 s5 s5 s5 s3 s5 s3 q3 s5 s5 s5 s6 s5 s3 q3 s2 s3 s2 s3 s2 s1 s6 s2 s3 s2 s3 s2 s1
+s,6 s1 s1 s,6 q,6 0 0 0 q0 s6 s6 s6 s5 q3 s6 s6 s6 s5 s6 s5 q3 s5 s5 s5 s3 s5 s3 q3 s5 s5 s5 s6 s5 s3 q3 s2 s3 s2 s3 s2
+s1 q,6 s2 s3 s2 s3 s2 s1 s,6 s1 s1 s,6 q,6 0 0 q0 s3 s3 3 s3 q6 s6 q6 s6 s7 q1' s7 s6 ~ s6 q6 s5 s5 q3 s3 q0 s6 s5 s5 q3
+s3 q0 s3 s3 s3 q6 s6 q0 s6 s7 q1' s7 s6 ~ s6 q1' s1' q2' s1' s1' s2'. q3'. s3' q0 q3' s1' s1' s1' s6 q0 q3' s1' s1' s1' s6 q0 q6 s5 s3 q3
+q5 s3 s5' ~ s5' q6 s5 q0 q3' s1' s1' s1' s6 q0 q3' s1' s1' s1' s6 q0 q5 s6 s5 s5 s6 ~ 6 - q0 q3' s1' s1' s6 q0 q3' s1' s1' s6 q0 q5
+q1' s1' s6 ~ 6 - q0 q5 q6 s1 s6 6 - 0 0 s6 s6 s5 s5 q3 q0 q5 q3 5 s2 s3 s2 s1 s0 s6 s5 q2'. s6 - 0 q0 s3 s3 q0 q5
+q6 q1' s6 q6. ~ 6 q0 q3' s1' s1' s1' s6 q0 q3' s1' s1' s6 q0 q5 q1' q1' 6 - 0 0 3 - s3 s5 s3 3. s2 2. s1 3 - 3 s1 q3 q2
+q1 0 2
+%END

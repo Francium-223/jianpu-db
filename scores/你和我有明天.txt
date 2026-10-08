@@ -1,0 +1,19 @@
+%你和我有明天.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=19811
+title=你和我有明天
+tag=
+usertag=
+tagroute=
+confidence=0.981
+conf_p10=0.984
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-19811
+%--
+4/4
+subtitle=score
+,5' ,6' ,7 1 2. 3 2' - 1 5 - - 4 3' 4 3 2 q1 1' 2 - 3 5 - - ,6 ,7 1 2. 3 2 2 - 3 2 - - 3 2 3
+2 3 2 2 - 3' 1 - - 1 - - x 4 4 4 6 6 0 6 5 - 3 5 - - 3 3 3 3 2 1 5 - - 5 - - 4 4
+4 6 6 6 5 - 5 3 - - 3 3 2 3 2' 2 1 - - 1 - - 1. q4 4 4 6 0 6 5 - 5 3 - - 3 2 3 2' 3'
+2 - - - -
+%END

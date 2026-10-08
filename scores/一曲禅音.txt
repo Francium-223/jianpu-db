@@ -1,0 +1,23 @@
+%一曲禅音.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=50842
+title=一曲禅音
+tag=
+usertag=
+tagroute=
+confidence=0.967
+conf_p10=0.955
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-50842
+%--
+4/4
+subtitle=score
+1 - - - 1 1 1' x'. x'. 1 qx 0 0 6 1. x x q5 q3 q3 q2 3 ,6 q1 q,6 q5 q3 2 - q2 q2 q2 q1 2 q2 q3 6 q5 s6 s5
+3 - q5 q3 q3 q2 2 ,6 q1 q,6 q5 q3 2 - q3 q2 q2 q1 2 2 q,5 q,5 ,6 - - x q,6 q,6 q,6 q1 q1 s6 s1 ,3 q,6 q,6 q,6 q1 q1 s6
+s1 ,3 q1 q1 q1 q,6 q1 q2 2 q2 q2 q2 q2 q2 3 q,5 ,6 - - - q,6 q,6 q,6 q1 q1 s6 s1 ,3 q,6 q,6 q,6 q1 q1 s6 s1 ,3 q1 q1 q1 q,6
+q1 q2 2 q2 q2 q2 q2 q2 3 q,5 - - ,6 - - - q5 q3 q3 s2 s3 3 ,6 q1 q,6 q5 s3 s5 2 - q2 q2 q2 q3 2 q2 q3 6 q5 s6
+s5 3 - q5 q3 q3 s2 s3 3 ,6 q1 q,6 q5 s3 s5 2 - q2 q2 q2 q2 q2 q2 q2 q3 q3 q,6 ,6 - - q5 q3 q3 s2 s3 3 ,6 q1 q,6 q5
+s3 s5 2 - q2 q2 q2 q3 2 q2 q3 6 q5 s6 s5 3 - q5 q3 q3 s2 s3 3 ,6 q1 q,6 q5 s3 s5 2 - q2 q2 q2 q2 q2 q2 q2 q3 ,6
+- - - q5 q3 q3 q2 3 ,6 q1 q,6 q5 q3 2 - q2 q2 q2 q1 2 q2 q3 6 q5 s6 s5 3 - q5 q3 q3 q2 2 ,6 q1 q,6 q5 q3 2 -
+q2 q2 q2 q1 2 2 1 ,6 - - q2 q2 q2 q2 q2 q2 q2 q3 ,6 - - -
+%END

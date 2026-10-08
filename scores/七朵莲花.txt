@@ -1,0 +1,18 @@
+%七朵莲花.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=23208
+title=七朵莲花
+tag=
+usertag=
+tagroute=
+confidence=0.994
+conf_p10=0.984
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-23208
+%--
+4/4
+subtitle=score
+,5 3 2 1 ,6 - - - ,5 3 2 1 5 - - - ,5 q,6 q,5 q1 s2 s2 s3 q5. q3 q2 q1 s,6 s,5 ,5 - ,5 q,6 q,5 q1 q2 s3 s3 q5 q3
+q2 ~ q2 s1 s2 2 - ,5 q,6 q,5 q1 s2 ~ s2 s3 q5. q3 q2 q1 q,6 ,6 - ,5 q,6 q,5 q1 q2 s3 q6 s5 s5 s3 q3 s2 s1 q1 1 - ,5 q,6
+q,5 q1 q2 s3 q6 s5 q5 q3 s2 s1 s1 s2 1 -
+%END

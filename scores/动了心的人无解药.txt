@@ -1,0 +1,22 @@
+%动了心的人无解药.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=19584
+title=动了心的人无解药
+tag=
+usertag=
+tagroute=
+confidence=0.978
+conf_p10=0.960
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-19584
+%--
+4/4
+subtitle=score
+qx - - 6 1 x. 1. q2 q3 q5 q6 q1' 6. q3 5 - 3. q5 q6 q5 q3 2 - - q2 q3 5. q6 q5 q3 q2 s1 s2 ,6 - - q,5 q,6 5. q6
+q5 q3 q2 q,6 1 - - - ,5. q,6 q3 s2 s3 1 q2 s2 s3 s2 s2 q,6 ,5 - q,6 q,6 q6 q5 3 q5 q3 q,6 q3 2 - q3 q3 q2 q3 5 q5 q3
+q2 3 s1 s2 ,6 - q,5 s5 s6 q,6 q,5 q5 s6 s5 3 q2 q3 q,5 q,6 1 - ,5. q,6 q3 q2 1 q2 s2 s3 q2 q,6 ,5 - 1. q,6 q6 q5 3 q5 q3
+q3 s6 s1 2 - q3 q3 q2 q3 5 q5 q3 q2 3 q1 ,6 - q,5 s5 s6 q,6 q,5 q5 s6 s5 q3. s3 q2 3 q,6 1 - q5 q3 q5 q6 1'. q7 q6 s6
+s7 q6 q3 5 - q6 s6 q6 q5 q6 q5 3 q5 s5 s6 q5 2 - q3 q3 q2 q3 q5 5 q3 q2 s2 s3 q2 q1 ,6 - q,5 q,6 q,6 q,5 q5 s6 s5 3
+q2 s2 s3 q,5 q,6 - q5 q3 q5 q6 1'. q7 q6 s6 s7 q6 q3 5 - q6 s6 s1' q6 q5 q6 q5 3 q5 s5 s6 q5 2 - q3 q3 q2 q3 5 q5 q3
+q2 s2 s3 q2 s1 s2 ,6 - q,5 ,6 q,5 q5 s6 s5 q3 q3 q2 q0 q,5 q,6 1 - q,5 ,6 q,5 q5 s6 s5 q3 q3 q2 q0 q,5 q,6 1 - 1 - - -
+%END

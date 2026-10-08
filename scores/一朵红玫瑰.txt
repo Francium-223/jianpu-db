@@ -1,0 +1,20 @@
+%一朵红玫瑰.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=38091
+title=一朵红玫瑰
+tag=
+usertag=
+tagroute=
+confidence=0.952
+conf_p10=0.777
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-38091
+%--
+4/4
+subtitle=score
+q5 q3 1'. 2'. 3' q6' 1'. 5. q3 5. q5' 4'. 3' 3'. 2' - q5' q4' 3' 5'. 6 q7' 5 3 4 5 6 7 - - q5 q3 2 3 q7 6 q6 q5 6. q5
+q6' 4 2 - - q1' q2' q3' 1. q1 2 3 1'. q7 6 q5 q5 6. q5 q6 7. 1' - - q5 q3 q1' 2' 3' q6 1' 5 q3 q3 5. q5 4' 3' 3' 2'
+0 q5' q4' 3' 5' 3' 1' 6 q7 q1' 5 q3 q3 5. q5 6 7 - - q3 q2 1 q1 2 3 1' q7 6 q6 q5 6. q5 q6 q1' 4 2 - - q1' q2'
+q3' 1. q1 2 3 q7 6 q6 q5 6. q5 6 7 1' - - q5 q3 3' 2' 1' q6 1'. 5 q3 q4 5. q5 4 3 2 - - q5 q4 3 5 3' 1' 6.
+s7 5 q3 q3 5. q5 6 7 1' - - q5 q3. 6. q5 6 7 1' - - q3 q2 1 q1 2 3 1'. q7 6. q5 6. q5 6 7 - - 0
+%END

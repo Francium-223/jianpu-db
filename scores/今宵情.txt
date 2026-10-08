@@ -1,0 +1,19 @@
+%今宵情.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=40711
+title=今宵情
+tag=
+usertag=
+tagroute=
+confidence=0.796
+conf_p10=0.457
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-40711
+%--
+4/4
+subtitle=score
+4 1 1' 1' 1' 1 1' 2 2 2' 3 3' 4' 1' 4 3' - q2 q2 q3 3 4' ,2' ,1' 5 4 4 q1' sx q1' q6 q1 3 1' 7 7 4 6 5 3
+x 5 5 1 3 5 1 q3 1 4 3 ,,4 ,4 q5 5. 5 6 1' q1' 1 q1' q,1 ,1' 2' 2' 3 3' 4' 4 1 3 5 3' 5 3' 1' 1' 1 2'. 1
+3 3 2 1' 4 3 q0 2 1' 3. 1' q4 5 1' 5 2' 6. 5 5' q3' 1 5 3' 5 - - 2' 1' q1 1 1' 1 1' 1' q1 1' q1' 6 q2' q,2
+,5 3' ,1 q5 3' - - - - q2' 1' 1' ,,5 q,,1 6 6 6 1' ~ 1 ~ 1 ~ 1' ~ 1' 6. 6 4 5 4 5 - - - 5 3
+%END

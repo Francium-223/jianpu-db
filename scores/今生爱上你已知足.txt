@@ -1,0 +1,25 @@
+%今生爱上你已知足.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=50682
+title=今生爱上你已知足
+tag=
+usertag=
+tagroute=
+confidence=0.986
+conf_p10=0.987
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-50682
+%--
+4/4
+subtitle=score
+1 - - - x 1 x' x'. x'. ,6 - 3 - 2 - - - 1 - q,7 q1 q,7 q,5 ,6 - - - 6 - 1' q3 q2 3 - 2 - ,5 - 1 ,7
+,6 - - - x q,6 q3 q3 q3 q3 q3 q3 q6 q2 q2 q2 q1 3 0 q2 q3 q2 q1 q,5 q,6 q1 q2 ,6 - 0 0 q,6 q2 q2 q2 q2 q3 2 q3 q2
+q1 q,6 2 0 q2 q2 q2 q3 q5 q5 q6 q7 3 - 0 0 q3 q6 q6 q7 1' q7 q6 q5 q6 q6 q6 6 0 q2 q2 q2 s2 s3 q2 q2 q1 q2 3 -
+0 0 q2 q2 q2 q1 q2 q2 q2 q3 q5 q5 q5 q3 6 0 q2 q3 q2 q1 q,5 q,6 q1 q2 ,6 - 0 0 q,6 q3 q3 q3 3 q5 q6 q2 q3 q2 q1 3
+0 q2 q3 q2 q1 q,5 q,6 q1 q2 ,6 - 0 0 q,6 q2 q2 q2 q2 q3 2 q3 q2 q1 q,6 2 0 q2 q2 q2 q3 q5 q5 q6 q7 3 - 0 0 q3 q6
+q6 q7 1' q7 q6 q5 q6 6 6 0 q2 q2 q2 q3 q2 q2 q1 q2 3 0 0 q2 q2 q2 q1 q2 q2 q2 q3 q5 q5 q5 q3 6 0 q2 q3 q2 q1 q,5
+q,6 q1 q2 ,6 - 0 q3 q5 q6 q1' q1' q6 q6 q5 q5 q6 6 - 0 q3 q5 q6 q6 q5 q6 q5 q3 q2 q3 3 0 0 q3 q5 q2 q2 q2 q1 q2 q3
+q2 q1 q3 q2 q3 q5 5 q3 q5 q2 q2 q2 q3 q,7 q,6 q,5 q,5 ,6 - 0 q3 q5 q6 q1' q1' q6 q6 q5 q5 q6 6 - 0 q3 q5 q6 q6 q5 q6 q5
+q3 q3 q2 0 - 3 - 0 q3 q5 q2 q2 q2 q1 2 q1 q2 q3 q2 q3 q5 ~ 5 q3 q5 q2 q2 q2 q3 q,7 q,6 q,5 q,5 ,6 - 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 x. ,6 - 0 q3 q5 q2 q2 q2 q3 q,7 q,6 q,5 q,5 ,5 ,6 - 0
+%END

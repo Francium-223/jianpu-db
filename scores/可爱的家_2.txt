@@ -1,0 +1,20 @@
+%可爱的家_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12571
+title=可爱的家
+tag=
+usertag=
+tagroute=
+confidence=0.941
+conf_p10=0.755
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12571
+%--
+4/4
+subtitle=score
+q1 q1 q2 q2 q2 x 1 3. q4 4 5 5 q,1 3 5 4. q3 4 2 3 x q1 0 0 x q,1. q1'. q1 q1 q2' q2' q2 q,2 3. 4 4 5 5 - 3
+5 4. q3 4 2 1 - 0 q5 q5 1'. q7 6 5 5 - 3 5 4. q3 4 2 3 - 0 q5 q5 1'. q7 6 5 3. q5 4 2 3 - 1 3 2.
+q1 2 1 - 0 q3 q3 3. q5 4 2 5 - 3 5 4. q3 4 2 1 - - 0 5 - 4 2 1 - 2 - 3 - 1 3 2. q1 2 ,7 1
+- - 0 3 - 1 ,7 1 - - 3 - 0 5 q7 6 5 5 - 3 5 4. q3 4 2 1 - - 1 - 0 3 3. q5 4 2 3 - 1 3
+2. q1 2 1 - -
+%END

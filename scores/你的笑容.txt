@@ -1,0 +1,25 @@
+%你的笑容.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=31164
+title=你的笑容
+tag=
+usertag=
+tagroute=
+confidence=0.982
+conf_p10=0.971
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-31164
+%--
+3/4
+subtitle=score
+1 1 q0 d1' d1' 5' - - 4' 5' 6' 3' - q0 s5 6 - 4' 3' - 1' 2' - 2' 1' - - 1' 0 q0 s,5 1 1. q3 5 5 0 4 5 q6.
+s5 5 - q0 s,5 1 1 q0 s3 5 5 - 6 4 q3 q2 2 - q0 s5 1' 1'. q1' 7 7 q0 s5 6 - q1' ~ q1' 5 - q0 s3 s3 4 - q4
+q5 3 - 1 2 q2 q2 ,7 1 - - 1 0 q0 s,5 1 1. q3 5 5 0 4 5 q6. s5 5 - q0 s,5 1 1 q0 s3 5 5 - 6 4 q3 q2
+2 - q0 s5 1' 1' q1' 7 7 q0 s5 6 - q1' ~ q1' 5 - q0 s3 s3 4 - q4 q5 3 - 1 2 q2 q2 ,7 1 - - 1 0 q0 s5 1'
+1'. q1' 3' 7 q5 q5 q6 q6 q6 q6 q6. s1' s5 s4 q3 ~ 3 - 2 2 6 5 4. q3 2. q2 q3 q4 5 - q0 s5 1' 1' q1' q1' 3' 7 q5 q5
+q6 q6 q6 q6 q6. s1' s5 s4 q3 ~ 3 - 2 2 6 5 4 3 2 q3 q3 s2 s1 1 - - 1 0 ,5 1 - q,7 q1 5 - - 6 1 2 3
+- q0 s,5 1 - q,7 q1 5 - - 6 1 1 2 - q0 s5 1 - - 1 0 q0 s5 1' 1'. q1' 3' 7 q5 q5 q6 q6 q6 q6 q6. s1' s5 s4 q3
+~ 3 - 2 2 6 5 4. q3 2. q2 q3 q4 5 - q0 s5 1' 1'. q1' 3' 7 q5 q5 q6 q6 q6 q6 q6. s1' s5 s4 q3 ~ 3 - 2 2 6 5
+4. q3 2. q3 q3 s2 s1 1 - - 2 2 6 5 4 3 2. q3 q3 s2 s1 1 - - 1 0 0 1 - q,7 q1 5 - - 6 1 2 3 - 0
+2' - 4' 3' - 1' 2' - - 1' - - 1' - 0 x x
+%END

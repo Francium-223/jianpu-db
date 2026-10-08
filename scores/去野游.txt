@@ -1,0 +1,18 @@
+%去野游.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12568
+title=去野游
+tag=
+usertag=
+tagroute=
+confidence=0.878
+conf_p10=0.496
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12568
+%--
+4/4
+subtitle=score
+q1 1 x 1' x x s1 1 x x. x' x 1 q1 q2 3 0 5 q,5 q6 5 0 3 q3 q2 1 ,,1 ,2 3 q2 q1 2 0 3 3 0 q,5 6 0 1
+q6 q1' 5 0 6. q6 5 q3 q5 6 - 6 0 1' - 6 1 5 q6 q5 3 1 3 2 ,1 2. q5 5 - - 4 1' - 6 1' 5 q6 q5 3 1
+2 q1 q2 3. 2 1 - - 0
+%END

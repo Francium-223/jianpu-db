@@ -1,0 +1,17 @@
+%三十岁以后.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=32631
+title=三十岁以后
+tag=
+usertag=
+tagroute=
+confidence=0.931
+conf_p10=0.611
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-32631
+%--
+4/4
+subtitle=score
+1 - - x qx x q2 q5. s5 s2 x s2 x q5. s5 s2 s5 s1 q1 s1 q1 q1 s5 s1 q1 q1 s2 s3 q2. s1 2 q3 q5 ~ s5 s1' s5 s2 2 2
+q1 q2 q2. d3 d2 q1 s1 s1 q1 2 - 2 q1 q2 q3 q2. d2 q1 s1 s1 ,2 x - - q1 2. q3 2 s1 - - -
+%END

@@ -1,0 +1,25 @@
+%HOLD不住的爱.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=25765
+title=HOLD不住的爱
+tag=
+usertag=
+tagroute=
+confidence=0.956
+conf_p10=0.861
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-25765
+%--
+4/4
+subtitle=score
+- - q5'. 3' - - q1' q2' 3' - - q5'. s3'. s2' 6 - - - q3 q3 q1'. q1' 1' q7'. q1' q7 q7 5 q0 s3 q7 6 q2 q5 q5 s6 s5 3 - q3
+q3 q1'. q1' q2'. q2' q1'. q1' 7 q3 - q,6 q,6 q,6 q3 3 q2 s2 s2 q3 q,6 q,6 q,5 ,6 - q1 q1 q1 q,6 q1 q3 q2 s2 s2 q3 q3 s2 s1 q2 3 -
+q3 q3 q3 q6 5 q3 q5 q3 q3 s3 s2 q1 2 - s2 q2 q2 q3 q5 q6 q5. d3 q5 q5 q5 s5 s3 6 - q3 q3 q3 q6 6 q5 q6 q7 q7 q6 q5
+6 - q,6 q,6 q,6 q3 2 q1 q2 q3 q3 s2 s1 q2 3 - q3 q3 q3 q6 2 q1 q2 q3 q5 q5 s5 s3 q6 q5 5 q7 q7 q1' q1' q2' q2' q1' q1' q5
+q5 q5 q3 q7. s6 6 2. q3 q3 q1' q1' 1' q1' q1' q7 q7 q7 q6 5 - q6 q6 q6 q7 6 q5 q2 q5 q5 q5 q6 3 - q3 q3 q1' q1' 1' q1' q1'
+q2' q2' q1' q1' 7 - q5 q5 q5 q6 7 q1' q1' q2' q5 q5 q3 6 - s6' sx' sx sx sx qx sx sx' sx q2' qx sx sx' sx qx q2'. qx s7' sx sx sx
+sx s7' sx sx qx s5' sx sx qx qx' qx qx' qx sx sx qx qx qx qx' sx sx sx s5' sx sx s2'. sx qx hx dx s5' sx dx sx d5 qx dx qx sx s3
+sx dx sx qx qx sx hx' dx qx q6' qx sx d1' sx sx' sx dx s7' sx sx d1' sx dx' sx dx sx s2' sx qx d1' sx sx sx sx qx qx dx sx sx s5'
+sx sx s6' qx sx sx s7 sx sx d2' qx qx dx dx sx sx qx qx dx dx sx sx qx qx q2 q5 q5 q3 6 0 - - - - - - - - 0 0
+- - - q2' q5 q5 q3 6 q2' q5 q5 q3 6 -
+%END

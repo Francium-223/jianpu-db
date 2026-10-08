@@ -1,0 +1,24 @@
+%傻爱_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=2145
+title=傻爱
+tag=
+usertag=
+tagroute=
+confidence=0.952
+conf_p10=0.849
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-2145
+%--
+2/4
+subtitle=score
+1 - - - x x x 1. x q0 q5 q1' q1' 2' 3' 5' s5' s3' s2'. s3' q1' q1' q6 s3 s5 ~ 5 s2 s3 s1' s1' q2' s1' s2' q2'. q3' q5' s6' s5' q5'
+q3' 1'. s6' s3' 2 5 1 - 1 - x 0 s3 s5 s5 s3 q5 s6 s5 q0 s3 s2 q1 s6 q1 s2 s3 3 0 0 s3 s5 s5 s5 q6 s1' s6 q0 s5 s3
+s2 q2 s3 s2 s2 s1 s2 ~ 2 0 0 s3 s5 s5 s3 q5 s6 s5 q0 s3 s2 s1 q1 s1 s2 s3 s5 s3 q0 s5 s6 s3 s2 s1 s3 s2 s1 s6 ~ ,6
+0 q0 s5 s5 q6 s1' s1' ~ q1' s6 s6 5 - 0 s0 s5 s6' s1' s3' s3' s2' s3' ~ 3' s2' s2' s3' s5 q0 s5 s6 q1' s6 s5 s5 s6 s3 ~ 3 q0
+s2 s3 s5 s5 s3 s5 q0 s3 s5 s1' s1' s7 s6 q0 s6 s5 s6 q1'. s1' s6 s1' s2' ~ 2' s0 s5 s1' s1' s3' s3' s2' s3' q0 s5 s2' s2' s3' s5 q0 s5
+s6 q1' s6 q5 s2 s3 ~ 3 q0 s2 s3 s5 s5 s6 s5 ~ q5 s3 s5 s1' s1' s7 s6 s0 s5 s6 s1' s3' q2'. 2'. 0 0 0 s6 s1' s2' s1' ~ 1' -
+q0 q5 q1' q1' 2' 3' 5' s5' s3' s2' s3' q2' q1' q6 s3 s5 5 s2 s3 s5' s1' q2' s2' s2' q2' q3' q5' s6' s5' q5' q3' 1' - 1' 0 0 s6 s1' s2' s1'
+1' - 0 s0 s5 s6' s1' 0 s6 s1' s2' s1' 1' - 0 s0 s5 s6 s1' s3' q2'. 2'. 0 0 0 s6 s1' s2' s1' x 1' - - 2' 3' 5' s5' s3' s2' s3'
+q2' q1' q6 s3 s5 ~ 5 s2 s3 s5 s1' q2' s1' s2' ~ q2' q3' q5' s6'. s5' ~ q5' q3' 1' - 1' -
+%END

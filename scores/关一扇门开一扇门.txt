@@ -1,0 +1,24 @@
+%关一扇门开一扇门.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=50843
+title=关一扇门开一扇门
+tag=
+usertag=
+tagroute=
+confidence=0.973
+conf_p10=0.973
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-50843
+%--
+4/4
+subtitle=score
+1 - - x 1 ,x. x'. 1'. x. x' qx 0 0 7 6 x ,x. q,5 q,6 q1 q1 q1 q2 3. s3 s5 q6 q5 q5 q3 5 - q6 q1' q1' q6 q6 q5 q5 q3
+5 - q0 q3 q5 q3 6 - - q3 q6 5. q3 1' - q,6 q6 q5 q3 2 q,6 1 - - - 1 q1 q2 0 - 3 q2 q1 2 q1 ,6 - q2 q2 q2
+q3 q5 q3 s2 s3 q1 2 - 0 0 q3 s5 s3 q2 q3 0 - 5 - q6 q5 q5 q6 3 q,6 q,5 q,6 q1 q1 q,6 1 q2 q3 2 - 0 0 1 q1 q2
+0 - 3 q2 q1 2 q1 ,6 - q2 q2 q2 q3 q5 q3 s2 s3 q1 2 - 0 0 q3 s5 s3 q2 q3 0 - 5 - q6 q5 q5 s5 s6 3 q,6 q,5 q,6
+q1 q1 q,6 1 q5 q6 5 - - q,5 q,6 q1 q1 q1 q2 3 q3 q5 q6 q5 q5 q3 5 - q6 s6 s1' q1' s6 s6 s5 s6 q5 q5 q3 0 - 5 - -
+q3 q5 q6 s6 s5 q6 s6 s1' 6 q5 q3 q5 s5 s5 q5 s5 s6 3 q,6 q,5 q,6 q1 q1 q,6 q5 q3 q2 q1 2 - - q,5 q,6 q1 q1 q1 q2 3 q3 q5
+q6 q5 q5 q3 5 - q6 s6 s1' q1' s6 s6 s5 s6 q5 q5 q3 0 - 5 - - q3 q5 q6 s6 s5 q6 s6 s1' 6 q5 q3 q5 s5 s5 s5 s6 q5 3
+q,6 q,5 q,6 q1 q1 q,6 q5 3 q2 1 - - 0 q6. s5 q6 q1' 6 - q5. s3 q5 q6 3 - ,6. q1 q2 q3 q5 q6 5 - - 0 x. 1 - - q,5
+q,6 1 - - q3 q5 q6 s6 s5 q6 s6 s1 6 q5 q3 q5 s5 s5 s5 s6 q5 3 q,6 q,5 q,6 q1 q1 q,6 q5 q3 3 3 s2 s3 q2 1 - - 0
+%END

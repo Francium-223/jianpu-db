@@ -1,0 +1,21 @@
+%为了这片土地.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15618
+title=为了这片土地
+tag=
+usertag=
+tagroute=
+confidence=0.994
+conf_p10=0.989
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15618
+%--
+4/4
+subtitle=score
+s1 s2 s3 s5 3 - 6 - q7 q6 6. q3 5 - 7 5 3. q4 3 1 2. q3 5 3 q6. s5 q6 q7 ~ 7 - 7 q1'. s7 6 - 6 s3 s2 s1
+s7 ,6 ,3 ,6 ,6 1 ,6 q1. s2 3 ,6 - 1 1 1 ,5 q1. s1 2 3 - 3 q3 q3 6 q3 q3 5 q4 q3 2 - q,7. s7 q,7 q1 q2. s2 3 ,6
+- - - ,6 ,6 1 ,6 q1. s2 3 ,6 - 1 1 1 ,5 q1. s1 2 3 - 3 q3 q3 6 q3 q3 5 q4 q3 2 - q,7. s7 q,7 q1 q2. s2 3 ,6
+- - - 6 q6. s3 6 7 q5 q7 6 - q5 5 q3 6 7 3 - - - 2 3 4 2 3 6 2 - 2 3 5 6 3 - - - 6 q6. s3
+6 7 q5 q7 6 - q5 5 q6 7 6 3 - - - 2 3 4 2 3 6 2 - q3 q7 5. q3 6 - - - q6 3. 1 2 1 2 6 - -
+- 6 - - - 2 3 4 2 3 6 2 - 3 7 5 - 3 - 6 - 6 - - 0
+%END

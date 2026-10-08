@@ -1,0 +1,21 @@
+%两个人的地球.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=20590
+title=两个人的地球
+tag=
+usertag=
+tagroute=
+confidence=0.968
+conf_p10=0.965
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-20590
+%--
+4/4
+subtitle=score
+q0 2 q2 2 q1 q2 2 2 s1 1 q,6 0 0 2 2 s1 s2 2 3 2 ,1 0 2 2 q1 q1 2 q2 2 q3 0 0 q1 q1 1 q2 s3 3 ,1 ,7
+1 0 2 2 q1 q2 2 1 q1 ,6 0 2 2 q,1 q2 q2 3 2 q1 q0 2 2 1 2 ~ q2 ~ q2 3 0 6 s7 q,1 q1 1 2 2 q1 ,1 5
+4 q4 ~ q4 1 q4 q4 3 3 - - ,5 ,5 ,6 1 ,1 q1 1 2 1 q3 3 - - 3 2 1. q6. ~ ,6 0 1 1 q,7 ~ ,7 q5 ~ 5 -
+- 5 4 4 3 q3 4. 2 - - 3 2 2 q,1 q,1 5 q1 q1 ,7 1 7 5 5 q3 q3 4 5 q5 q1 1 q1 ,7 q1 7 5 5 3 3 4 5
+3 3 q2 1 q1 s6 q1 1. 2 q2 q1 ,1 ,6 1 q1 ,5 0 q4 4 3 3 q2 q2 2 1 q3 q3 2 1 q1. 1 q1 q1 ,5 q,5 ,5 q4 q4 q4 4
+4 3 1 5 5 5 4 3 q2 q1 1 - - x 1 x
+%END

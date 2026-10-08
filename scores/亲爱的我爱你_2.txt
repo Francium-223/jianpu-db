@@ -1,0 +1,21 @@
+%亲爱的我爱你_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=22736
+title=亲爱的我爱你
+tag=
+usertag=
+tagroute=
+confidence=0.966
+conf_p10=0.915
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-22736
+%--
+6/8
+subtitle=score
+x 3 ~ 3 3. q2 3. ~ q3 q2 q1 3. 3. ~ 3. 3. 2' q6 q6 q5 3 q2 q1 ,6 0 q6 q6 q5 q5 q1 q2 3. 0 q3 q6 q6 q6 q5 q3 q3
+q2 q1 2 q2 q2 q2 q3 q5 q6 q5 3 0 q6 q6 q5 3 q2 q1 ,6 0 q6 q6 q5 q5 q1 q2 3. 0 q3 q6 q6 q6 q5 q3 q3 q2 q1 2. q2 q2
+q3 1' q7 6. 0 3. q3'. q3' q2' 1' q5 6. 0 q3 3' q2' 1' q6 5. 0 q3 q6 q6 q6 q1' q1' q3' q1' q1' 2' q3 q2' q2' q2' q1' q1' q1' 3'. 0 q3'.
+q3' q2' 1' q5 6. 0 q3 3' q2' 1' q6 5. 0 q3 q6 q6 q6 q1' q1' q3' q1' q1' 2' q3 q3' q1' q1' q1' q1' q7 6. 6. x 3 q2 q1 q3 q2 3. 3.
+q3 q1' q1' q2'. q2' 2' q1' q3 6. x 3. ~ 3. 3. 3'. ~ 3'. 3'. 3' s2'. s3' s3. s3'. s2'. s2'. s3 s3 2. sx s1 s2 sx s2 s3 2'. q3' qx. q1' q2' 3'.
+3'. 6. ~ 6. q3 q6 q6 q6 q1' q1' q3' q1' q1' 2' q3 q3' q1' q1' q1' q1' q7' 6. 6.
+%END

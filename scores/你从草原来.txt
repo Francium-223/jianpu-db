@@ -1,0 +1,20 @@
+%你从草原来.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=29024
+title=你从草原来
+tag=
+usertag=
+tagroute=
+confidence=0.994
+conf_p10=0.979
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-29024
+%--
+4/4
+subtitle=score
+6 q6 q2' q3' q1' q7 6 - 3 - 2. q3 q5 q6 q1' q7 6 - - - ,6. q,6 2 q2 q3 1 q,7 q,6 ,6 - q2 q2 q2 q3 q5 q3 q6 q5' q5 q3
+~ 3 - - q2 3 q3 6 q6 q1' q6 q3 q5 q6 2 - q,5 q,5 q,5 q,6 q2 q3 q1 q,7 ,6 - - - q5 6 q3 q6 q7 6 q5 q6 q6 q5 3 -
+q5 6 q3 q6 q7 6 1' q7 q1' 6 - q2 q3 q,6 3 - q2 q3 q1 q,7 ,6 - q2 q2 q2 q3 q5 q6 7 3 - - - q5 6 q1' q2' q3' q1' q7
+6 - 3 - q2 q2 q2 q3 q5 q6 q1' q7 6 - - - q5 6 q1' q2'. q3' q1' q7 6 - 3 - q2 q2 q2 q3 q5 q6 q1' q7 6 - - - q2
+q2 q2 q3 q5 q6 q1' q7 6 - - -
+%END

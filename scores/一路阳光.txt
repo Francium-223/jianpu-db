@@ -1,0 +1,25 @@
+%一路阳光.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=51258
+title=一路阳光
+tag=
+usertag=
+tagroute=
+confidence=0.978
+conf_p10=0.974
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-51258
+%--
+4/4
+subtitle=score
+q6 q6 q6 ~ 6 - q6 q6 q6 ~ 6 - q2' q1' q1' q1' q2' q2' 3' - - - 3' - q6 q5 q5 6 - qx qx sx sx qx q3 q2 q1 q,6 ,6 -
+q3 q2 q1 q,6 ,6 - 1 q1 q,6 q2 q2 q2 q3 q5 q3 q3 q2 3 - q6 q5 q3 q2 3 - q5 q3 q2 q1 2 - q1 q1 q2 q3 q5 q3 3 q3 q2
+q1 q,6 ,6 - q3 q2 q1 q,6 ,6 - q3 q2 q1 q,6 ,6 - 1 q1 q,6 q2 q2 q3 q3 q5 q3 q3 q2 3 - q6 q5 q3 q2 3 - q5 q3 q2 q1 2
+- q1 q1 q2 q3 q5 q3 3 q5 q5 q6 q5 6 - - - q1' q6 q6 q6 q1' q6 q6 q6 q5 q5 q6 q5 6 - q5 q3 q3 q3 q5 q3 3 q2 q2 q1
+q5 3 - q1' q6 q6 q6 q1' q6 q6 q6 q5 q5 q6 q5 3 - q3 q2 q2 q2 q3 q2 2 q5 q5 q5 6 - 6 - - 6 q6 q6 3 - s6 2' 6
+- 0 s6 2' s2' q3'. s3' q2' q3' 3' - - - q5 q5 q5 6 - q6 q6 q6 q6 q6 q6 q5 q5 q6 q5 6 - q5 q3 q3 q3 q5 q3 3 q2 q2 q1
+q5 3 - q1' q6 q6 q6 q1' q6 q6 q6 q5 q5 q6 q5 3 - q3 q2 q2 q2 q3 q2 2 q5 q5 q5 q1 6 - q5 6. s5 q6 s6 s5 q6 s6 s5 s6
+6 s5 q6 s6 s5 q6 s6 s5 s6 6 s5 s6 q6 - q1' q6 q6 q6 q1' q6 q6 q6 q5 q5 q6 q5 6 - q5 q3 q3 q3 q5 q3 3 q2 q2 q1 q5 3
+- q1' q6 q6 q6 q1' q6 q6 q6 q5 q5 q6 q5 3 - q3 q2 q2 q2 q3 q2 2 q5 q5 q5 6 - 5 5 5 - - - - 6 - - - 6 -
+- - 6 0 0 0
+%END

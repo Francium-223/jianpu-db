@@ -1,0 +1,21 @@
+%不能忘.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=30751
+title=不能忘
+tag=
+usertag=
+tagroute=
+confidence=0.917
+conf_p10=0.617
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-30751
+%--
+2/4
+subtitle=score
+q1' q1 q1 q1 1 0 q2 ,4 2 x. x x x' 0 x 1 1'. x 0 q3 q5 q6 s6 s5 q3 q3 3. q1 q2 s2 s1 q,6 q,6 ,6 - ,6 q,6 q1 3 q1'
+q6. s5 q3 q5 3 - q6. s5 q3 q3 3. q1 q2. s1 q,6 q,6 ,6 - ,6 q,6 q1 3 q1' q6 q5 q3 q5 6 6 x 0 q1. s6' ~ q,6 q,5 ,6. q,5 q,6 s6
+s5 q3 q2 3 - q2. s2 ~ q2 q,6 2. q3 q2 q1 q,6 q,5 ,6 - q,6. s6' q,1 s1 s6 ,6. q,5 q,6 s6 s5 q3 q2 3. q3 q2 2 q3 q2 q1 q,6 q1 q1
+q,6 ,6' ~ ,6 - q6' q6 q5 6' - 6 - 7 6. q5 3 - 3 - 3 0 q0 q2 q2 q1 2 2 q0 q6 q3 q2 1 q2 s1 s2 3 - 3 - x
+x' x' qx x' 3 - 3 0 q1' q6 q5 6' - 6 - 7 6. q5 3 - 3 - 3 0 q0 q2 q2 q1 2 2 q0 q6 q3 q2 3 q5 q5 6 - 7
+x. 6' - 6' - 6' - 6 x q3 q5. 7 6' - 6 - q7 6' - 6' q5 s5 6 6 q7 6'. x'. 6' - 6 q5 s5
+%END

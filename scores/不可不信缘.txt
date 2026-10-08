@@ -1,0 +1,22 @@
+%不可不信缘.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=37207
+title=不可不信缘
+tag=
+usertag=
+tagroute=
+confidence=0.845
+conf_p10=0.538
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-37207
+%--
+2/4
+subtitle=score
+x x' 1' x' x' x' 0 0 2' 2 - - 2 1 5 4 6 s3 3 ,5 q,4 3 2 5 3 2 1 - q0 q3 s6 s7 s7 s7 s6 d3 3. 3 6 q7
+q7 q7 6' d4' 4' - q0 4 4 q5 s6 6' q6 q5 q4 q1 q,7 s,6 s3 3 - q0 s3 s6 q7 q7 q7 s6 s3' 3'. s3 s6 q7 q7 q7 s6 s4 4 - 3
+s0 q2 3 ,3 s4 q1 h1 1. s6 s1 s1 d1 d1 7' s6 s1' h0 h0 h6 s2' h0 s,6 d6' h,7 q,1' h5 s1' q7' h1 q7 q4' s1' s7 s1 1' d7 7' q,7 7 d1
+h,7 d,6 s,6' s,6 ,1 1' d3. d3 q0 q0 s0 s1' d0 h,6 s1' h2 s7 s1' s3' q3. q3. s3 q1 q1' s3 s3 3' d2 s2 d2 q0 h0 q0 h2' q1' h0 h2 s1 s1' h1
+s2' h,6 2' q1' q1' d0 h0 d0 s7 h,6' h,6 s1' h3. d2' q1. h3 d2 4' ,6 4. q3 q3 d2 q3 h0 d,6 h3 q0 q0 h0 q7 h7. h7'. h6' s7 s3 s3 h2 s7 s1'
+q,6 q7 d3 h2 sx h2 h2 h2 s7 d3' s3 h5 q7 q7. q7 h5 d7 q7 s5 d4 s6 ,5 h3 q5 q5' s6 q5. h2 q7 d3 2 - - d3 d2 d4 d3 d7 d1' d1'
+d7 2. q2'. s3' 3' q4'. s3' 3'
+%END

@@ -1,0 +1,20 @@
+%《寒山令片尾曲》.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15236
+title=《寒山令片尾曲》
+tag=
+usertag=
+tagroute=
+confidence=0.971
+conf_p10=0.924
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15236
+%--
+2/4
+subtitle=score
+s3. d2 s3 s5 s3. d2 s3 s5 q5 2 - s3. d5 s2 q,7 s,6 s,7 ,5 q3 q2 s3 q3 s5 2 - s3. d5 s2 s3 q5. s6 q,6 q1 2 q,6 s5 s5 s3. d5 q2
+1 - 3 s2 s3 q5 ,5. q5 q2 s3 2 - s2 s3 s3 q5 ,6 - q,6 s5 s5 s3. d5 q2 q2 q,6 q2 q3 5 - s2 s3 s5 s5 q6. s6 ~ ,6 - 2
+- s1 s2 s3 s5 ~ q5 q3 ~ 3 - s2 s3 s5 s5 q6. q,5 ,6. s,5 s,6 s1 s1 s,6 s,6 s2 s3 q2 2 - 5 - s5 s2 s3 s5 q6 q,6 ~ ,6 d5
+d6 s2 s3 2 q,6 s,6 s,6 s2 s3 q2 q2. s,6 s2 s3 s2 s2 2 s2 s3 q2 q2 q,6 q,6 - 1 s3. d5 s2 s1 q,7 s,6 ,5 q2 q3 q5 2 - s3. d5 s2
+s3 q5. s,6 q,6 2 q,6 q5 s3 s5 s2 s3 - q5 3. ~ 3 - x. x 2 0 1 6 1 1 1
+%END

@@ -1,0 +1,19 @@
+%今生共相伴_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=11353
+title=今生共相伴
+tag=
+usertag=
+tagroute=
+confidence=0.920
+conf_p10=0.654
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-11353
+%--
+4/4
+subtitle=score
+1 - - x 4 4 x x x x q1 q2 3. 4 2 1 3. q4 ,6 - q1' q7 q6 q5 6. 5 5 - - ,1 2 3 2 q3 q5 q5 2 q2 1 q,1
+s1 2 ,5 ,5. q5 s6 s7 q1 2 3 5 5 3 2 1 q,6 2 - 3 2 q3 q5 5 2' 2 ,1' 7 6 q3 5 1 3 4 3 2 5. 1 q4 4 3
+1 5. 1 1' 2 ,1' 7 6 - 5. q1' 1 2 3 4 3 4 6 5 - q4 3 4 5 6 7 1' 7 6 5 7 1' 1 2 4 3 q2 5. q1 4
+3 2 1 2. 3 q1 1 1' - -
+%END
