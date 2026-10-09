@@ -1,0 +1,18 @@
+%东岸西岸_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=36470
+title=东岸西岸
+tag=
+usertag=
+tagroute=
+confidence=0.952
+conf_p10=0.835
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-36470
+%--
+4/4
+subtitle=score
+q1 s1 7 2 4 4 1 x'. q,6 q3 q3 q2 q1 2. q,6 q2 q2 q3 q1 ,6. q3 q6 q6 q5 3 1 q4 q3 q2 x 4 q2 3 - q,6 q3 q3 q2 q1 2
+q3 q,6 q1 s2 s3 2 - 3. q3 q2 q1 q,6 q,7. s6 q,5 s6 s7 ,6 - - - q3 q1' q7 q6 5. s6 s7 6 - - - q3 q1' q7 q6 5. s6 s7 3
+- - - q,6 q3 q3 q2 q1 2. q3 q6 q5. s1 s2 s3 2. 2 q2 q3 ,5 - ,5 q1 q,6 ,6 - - -
+%END

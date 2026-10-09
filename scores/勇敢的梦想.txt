@@ -1,0 +1,24 @@
+%勇敢的梦想.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=19782
+title=勇敢的梦想
+tag=
+usertag=
+tagroute=
+confidence=0.956
+conf_p10=0.893
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-19782
+%--
+4/4
+subtitle=score
+3. q3' q3' 3' q3' q3' 3' q3' q5' q1' q2' 3' - q4' q4' q4' q4' q3' q3' 3' q3' q2' q2' q3' 2' 5' q5 q1' q3' q4' q3' q5 q7 q6 q1' q3' q4' q3' q1' q5
+q6 q5 q1' q3' q4' q3' q1' q5 q5' q4' q3' q6' q3' q6' 5' - - - q3' q5 q3 ,7 - x q3 q1 q3 2 q5 ~ 5 q1 q,7 q1 ,7 q3 3 q,6 q1 q1
+q5 q3 s2 s3 q2 q1 q3 q2 q3 2 q2 ~ 2 q3 q,5 q3 2 q5 ~ 5 q6 q7 q1' q5 q5 ~ q5 q5 - q6 q7 q3' ~ q3' q5 q6 q7 q1' q1' q5
+5 q3 q3 q2 q2 q2 q1 q1 ~ 1 q3 q3 q1 q3 4 q5 q5 q3 q1 q,5 q,3 ,7 q,6 q,7 q6 q7 q1' 5 q1' q2' q1' ~ 1' 1' q6 q1' q2' ~ 2' -
+- 2' - - q3 q3 1 q3 q3 q3 q3 q3 q5 q5 q5 q5 q2' q2' q1' q6 q1' 1' q1 q2 3 5 5 q3 q5 q4 q3 q2 q1 q2 q1 q1 q2 3 5 5
+2' q2' q3' q4' q3' q1' 1' s6 s7 1'. s6 s7 q5 q5 q3 q3 q5 q6 q3' 2'. s1 s2 q3 q3 q3 q5 q5 q5 q5 q2' q2' q1' q6 q1' ~ 1' q1 q2 3 5
+5 q3 q5 q4 q3 q2 q1 q2 q1 q1 q2 3 5 5 2' q2' q3' q4' q3' q1' 1' s6 s7 1'. s6 s7 q1' q5 q5 q3 q3 q5 q6 q3' q2' q2' ~ q2' q7 1'
+- - - q3' q5 q3 q7 q5 q6 q7 1' 1' q3' q5' q2' 3' - q4' q4' 4' q3' q3' 3' q3' q2' q2' q3' 2' x q3 q3 q1' - - - q1' q5 q1' q3' q4'
+q3' q1' q5 q6 q5 q1' q3' q4' q3' q1' q5 q5 q4 q5 q1' q3' q1' q1' q3' 2' - - - 2' - - 0
+%END

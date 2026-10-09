@@ -1,0 +1,18 @@
+%勘探队员之歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=36938
+title=勘探队员之歌
+tag=
+usertag=
+tagroute=
+confidence=0.946
+conf_p10=0.654
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-36938
+%--
+4/4
+subtitle=score
+1 1 s,1 x x'. x'. x' 5 - 1 - q3 q5 q2 q3 1 1 6. q6 q5 s6 s6 q5 q3 5 - - 0 1 - 1. q6 s1' s1' q5 q3 2 6. q6. q5
+s2 s2 q3 q2 1 - - 5 1'. q6 q5 q3' q2' q1' 2' - 2'. 3' 2'. q1' q7 q6 q7 q2' 1'. q6 5 0 5 q3 q2 q1 q2 q3 q6 5 5 0 6 6
+q5 q6 q5 q3 2 2 0 q1 q2 3 5 7 q6 q5 1' - 2'. q5 3'. q2' 1' q3 q5 7 q6. s6 5 - 1' - - -
+%END

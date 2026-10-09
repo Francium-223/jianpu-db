@@ -1,0 +1,22 @@
+%北方飞来的天鹅.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=34870
+title=北方飞来的天鹅
+tag=
+usertag=
+tagroute=
+confidence=0.919
+conf_p10=0.639
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-34870
+%--
+2/4
+subtitle=score
+1 - - 4 x ,,x 0 x 1 x' q1 q5 s5 q5 s6 s4 s5 s4 s3 x 1 s1 s5 s5 s5 s5 s5 s4 s6 - q1 s5 s5 s5 q5 s6 s4 s5 s4 s3
+x 1 q,7. s1 s2 s3 s2 s1 q1. s5 s2 s3 s1 s2 x' 1 - s0 q1' s1' q1'. q2' 3' s2'. s3' q5 s0 q7' s1'. q1' s1' s6 s5 s6 s6 s5 5 s5. q1'. q2'
+q3'. s3'. s3' s0 s5'. s3'. s2' s1'. d1' s1' s1'. q1' s1' s6 q5. s1' q1' q3 s0 q1 s5 s5 s3 s2 s1 q2. s3 s2 s3 s1 s2 qx 1 - 1'. s1' s1' s6. d1' s6
+s5 s3 s1 s2 s3 q5 s0 s1' s6. d1' s6 s5 q3 s0 s1 s2. d3 s1 s5 qx 3 - s5. d1' s1' s1' q1'. q2' q3'. s3'. s3' s0 s5'. s3'. s2' s1'. d1' s1' s1'. q1'
+s1' s6 q5. s1' q1' q3 s0 q1 s5 s5 s3 s2 s1 q2. s3 s2 s3 s1 s2 x' 1 - q5 s0 s1' s6 s5 q3 q1 s5 s5 s5 s3 s3 s1 q2. s3 s2 s3 s1
+s2 x' 1 - s1'. d1' s1' s1'. q1' s1' s6 q5. s1' s6 s5 q3 q1 s5 s5 q5 s3 s1 q2. s3 s2 s3 s1 s2 qx 1 - 5. s6 s5 3'. s3'. s2'. s3'. s2' q1'
+5'. q5'. q3' q3'. q3' 3' s2'. s3' s7'. s2' 1' 1' - 1' - 1' - x' x qx. q0 x 1. 1
+%END

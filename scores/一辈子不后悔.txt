@@ -1,0 +1,24 @@
+%一辈子不后悔.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=34847
+title=一辈子不后悔
+tag=
+usertag=
+tagroute=
+confidence=0.958
+conf_p10=0.901
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-34847
+%--
+2/4
+subtitle=score
+1 - - x. x x. x 1 x x s2'. s1'. s3'. 5' - 5' s3'. s5' q1'. d2'. 3' 1' s2' s1' q3' q5' - - - q0 s1 s2 3 q1 2 q0 s1 s7 1 q2
+q3 ~ 3 q0 s3 s5 6 q0 q5 q5. s2 ~ q2 q1 3 - 0 q0 s3 s6 q6 s5 s3 ~ 3 q5 s3 s2 ~ 2 3 q5. s2 3 q0 s6 s3 q3. s2 ~
+2 q3. s2 ~ q2 q1 ~ q1 ,6. 0 q0 s1 s2 3 q1 2 q0 s1 s7 1 q2 q3 ~ 3 q0 s3 s5 6 q0 q5 q5. s2 ~ q2 q1 3 - 0 q0 s3
+s6 q6 s5 s3 ~ 3 q5 s3 s2 ~ 2 3 q5. s2 3 q0 s6 s3 q3. s2 ~ 2 q3. s2 ~ q2 q1 ~ q1 ,6. 0 q0 s1 q2. s1 s2 q3 s2 ~ 2
+q0 s1 s2 q3 q7 q5 s2 s5 q3 q3 q0 s1 s6 q3. s2 ~ q2 s1 s,6 s1 s,6 s2 s3 q0 s1 s2 s3 q6 s5 s3 q2 s3 5 - 0 s1 s2 s1' s1' s6
+q6 s5 s3 q5 s2 2 s1 s2 s3 s7 s5 q5 s3 s2 q5 s3 ~ 3 s3 s2 s2 s3 ~ s3 q,6. s,6 s6 s6 s5 s3 q3. q0 s1 s,6 s3 q2 s1 s1 s,6 s6
+s5 1. x 3 x - x' - 5'. 5 s1 s2 s1' s1' s6 q6 s5 s3 q5 s2 ~ 2 s1 s2 s3 s7 s5 q5 s3 s2 q5 s3 ~ 3 s3 s2 s2 s3 ~ s3
+q,6. d6 s6 s6 s5 s3 q3. q0 s1 s6 q3 s2 s2 ~ 2 q3. s2 ~ q2 q1 ~ q1 ,6 - q0 s1 s2 q3. s2 ~ q2 q1 ~ q1 ,6 0 s1' s7 s7 s5
+q3. s5 q3 q3 6 - 6 - x q1'. 3' 1' s1' q3' q5' s6' s3' s2' s1' s7 s3 s2 1 ,6 - - - - x
+%END

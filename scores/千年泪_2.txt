@@ -1,0 +1,19 @@
+%千年泪_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=27565
+title=千年泪
+tag=
+usertag=
+tagroute=
+confidence=0.960
+conf_p10=0.895
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-27565
+%--
+4/4
+subtitle=score
+0 0 3 3 q3 3 2 2 2. ,1 2 ,2 2 2 3 5 ,5 - q0 3 3 q5 5 5 5 q3 q3 ,3 2 2 ,1 ,1 2 2 2 - 3 3 2 3
+2 3 3 5 2 2 2 ,1 2 3 2 2 ,2 q3 5 ,5 - 3 4 4 q2 2 2 1 0 ,1 6 q6 6 5 5 5 5 2 2 ,2 ,2 1 4 4
+3 - - - ,1 ,6 - - 0 0 0 q3 2 7 5 0 0 0 0 0 6 6 3 3 6 6 5 4 4 - - x ,1 7 ,6 ,6 - 3 3 3
+2 2 3 3 2 3 q5 5 5 3 3 2 2 3 3 2 3 5 5 5 3 3 3 2 2 3 3 2 ,3 q1' 7 0 6 7 - - -
+%END

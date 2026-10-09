@@ -1,0 +1,26 @@
+%乌拉玛雅.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=35194
+title=乌拉玛雅
+tag=
+usertag=
+tagroute=
+confidence=0.961
+conf_p10=0.909
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-35194
+%--
+2/4
+subtitle=score
+q3'. s3' q2' q3' q2' 3'. 3' - q3'. s3' q2' q3' q2' 3'. 3' - q3'. s3' s1' s2'. q3' s1' s2' s6 6 6 - q6. s5 q3 q1' 6 - s1' s2' s6 s5 s3 s2 s1
+s5 q3 3. q6. s5 q3 q1' 6 s5 s3 s2' s6 s5 s3 s2 s1 s2 q1 ,6. 2 ~ s2 s2 s3 2 s3 s5 6 ~ s6 s6 s1' ~ s1' 6 - s3 s6 s6 s5
+s3 s2 s1 s2 3 s0 s5 s6 s5 6 s0 s5 s6 s5 6 - q6. s5 q3 q1' 6 - s1' s2' s6 s5 s3 s2 s1 s5 q3 3. q6. s5 q3 q1' 6 s5 s3 s1'
+s2' s6 s5 s3 s2 s1 s2 q1 ,6. s0 s3' s2' s3' s1' s6 s6 s5 6 - s1' s1' s6 s1' s6'. s2'. s3' 2' s0 s5 s6 s5 6 s0 s5 s6 s5 6 s0 s5 s6
+s5 6 s0 s5 s6 s5 6 - q3 s3 s5 s1' s1'. s2'. s3' 2' - q3'. s2' q1' s6 s5 3 - q2. s3 s5 s1' s1' s3' 2' - q3'. s2' s1' q6. 1' - 3' -
+3' s2'. s3' s2' s3' s2'. s3' s2'. s3' ~ 3' ~ 3' - q6. s5 q3 q1' 6 - s1' s2' s6 s5 s3 s2 s1 s5 q3 3. q6. s5 q3 q1' 6 - s1' s2' s6 s5
+s3 s2 s1 s2 q1 ,6. s0 s3'. s2' s3' q1' s6 s5 6 - s1' s1' s6 s2' s1'. s2'. s3' 2' s0 s5 s6 s5 6 s0 s5 s6 s5 6 s0 s5 s6 s5 6 s0 s5
+s6 s5 6 - 6 - 0 0 3' - 2' - 1'. 6 6 - 3' 6' s3'. s2'. s2'. s3'. 3' 3' - s0 s1' s1' s1' s1' d6' s5' s6 q3'. q2' q3'. s2' s3' 1' -
+s0 s1' s1' s1' s0 d1' d6' s5' s6 s0 s1' s1' s0 d1' d6' s5' s6 6' - s0 s1' s0 s1' s0 d1' d6' s5' s6 s0 s0 s1' s1' d1' d6'. s5' s6 s1' s1' s1' s1'
+s0 d1' d6'. s5' s6 q3'. q2' q3'. s2'. s3' 1' - s0 s1' s1' s1' s1' d1' d6' s5' s6 s0 s1' s1' s1' s1' d1' d6' s5' s6 6' - 3' q2' q3' q2'. q3' q1' ~ q1'
+6 - q3'. q2' q3'. s2'. s3' - 3' 2' q1' 6. 6' -
+%END

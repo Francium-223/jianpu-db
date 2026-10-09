@@ -1,0 +1,20 @@
+%冬夜之歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15046
+title=冬夜之歌
+tag=
+usertag=
+tagroute=
+confidence=0.938
+conf_p10=0.762
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15046
+%--
+4/4
+subtitle=score
+1 - - x q,1' q,1 qx. x' x' x 3 7. 6 7 q5 3 6. q5 q6 q3 2 q0 q3 q1 q,6 q,7 q,5 ,3 2 q0 q1 q,5 q,6 ,7 ,6 - - x ,6 3
+- 5 6 3'. 2 1' - 2. 1 q,7' q,6' q,5' q,6' ,3 - - ,6 2'. q3' q1' 2' q4' 3 2'. q1 - ,6 q0 ,7 q,5' q,3' q,5' ,6' ,6 - - 3 7 q,6 7
+5 3 6. q5 6 q3 2 2 q3 2' 1 3. q5 6 q5' q7' 6'. q5' 3 q0 q2 q1' q,6' 2' 4' 3 - - - 0 5 3 5 6. ,6 q2' q4 q3 2' q0
+1' ,7 q,6 ,7 q,5' q,6' ,3 2' 0 1' q,5' q,6 q,7'. s6 ,6 - - x 7. q6 7 5 3 6. 5 q6 3 2 0 3 1 ,6 q,7 q,5 ,3 2 ,6 - - ,6.
+1 ,6 - - x 3 7. 6 q,7 q,5 3 6'. q5 q6 q,3 2' q0 x q3 q1 q,6. q,7. q,5 ,3' 2 2 q0 q,,1 ,5 ,,6 ,7 ,6 0 - - -
+%END

@@ -1,0 +1,21 @@
+%儿女的好榜样.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=8658
+title=儿女的好榜样
+tag=
+usertag=
+tagroute=
+confidence=0.955
+conf_p10=0.887
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-8658
+%--
+4/4
+subtitle=score
+1 0 - 1 x x. q5 q1' q2' s1' s2' 1' - q1' q4 q5 s1' s6 5 - q5 q1' q2' s1' s2' 1' - q1' q5 q4 s3 s5 2. q6 s1 2. q,6 1 q,7 q,6
+,5 - - - q5. s5 q5 s2 s1 2. q,5 q1 q1 q1 s3 s2 2 - q2. s1 q2 q5 5 - s2 q2 s1 q1 s,6 s,5 ,5 - q1. s1 5 q1 q2 2. q5 5
+s4 s5 2 - q1. s1 q1 s,7 s1 q2 q2 q4. s5 q6 s6 s6 q6 q2 5 - 5 - q5 q5 q1'. s1' q6. s1' 2' 2' q1' s6 s5 5 - q1 q1' q5 q5 q1
+q1 q5 s6 s5 4 q5 q2 q2 q1 2 - q5 q5 q1. s1 q6. s1 2 2' q1' q6 q5 q5 4. q2 q2 q5 q5 q5 q4. q5 6 q6 q2 q1' q6 q5 5 - 5
+- q4 q5 q1' q1' s6' s6' s6 s1' s6' s1' 2' - ,2. q2' q6 q6 q1' s6 s6 s5 s5 5 5 5' q2 q5 q5 q1 2 q1 6 ,5 - - - 1'. x. x' 0
+6. q2 2' q6 q5 1' - - - 1' - - 0
+%END

@@ -1,0 +1,24 @@
+%冰糖葫芦_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=6350
+title=冰糖葫芦
+tag=
+usertag=
+tagroute=
+confidence=0.953
+conf_p10=0.882
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-6350
+%--
+4/4
+subtitle=score
+1 - - x x x 0 x ,x x' x 1. x q1 0 5 5 ,,x. x. 0 0 1 - d5 d5 d5 d5 s3 s2 d5 d5 d5 d5 s3 s2 d1 d1 d1 d1 s1
+s6 s6 s5 q,5 d5 d5 d5 d5 s3 s2 d5 d5 d5 d5 s3 s2 d1 d1 d1 d1 s6 s5 q2 q0 d5 d5 d5 d5 s3 s2 d5 d5 d5 d5 s3 s2 d1 d1 d1 d1
+s5 s6 q2 q0 d5 d5 d5 d5 s3 s2 d5 d5 d5 d5 s3 s2 1 - q1 q1 s1 s6 q,5 q5 s5 s3 5 s5 s5 s5 s6 s3 s2 q1 2 - s5 s3 q2 s5
+s3 q2 s5 s3 s3 s2 q1. s1 x s5 q1 s1 d2 d2 h2 d2 s3 d1 s6 s6 s6 d5 ,5 q1 1 1. q6 d6 s5' s5 s5' q6 s6 s1' d6 d6 s5 d5 s3 5
+d6 s1' s6 s5 s5 s3 s2 q2 3. 3 - s2 s1 s2 s1 q2 s2 s3 s5 s3 s3 s5 6 s6 s1' s6 s5 q6 q3 5 - 1. q1 s1 s1 s5 q1 qx s1 q5
+s5 s3 5 s5 s5 s5 s6 s3 s2 q1 2. q2 s5 s3 s3 s2 s5 s3 q2 s5 s3 s3 s2 1 s2 s2 s2 s3 s1 s6 s6 s5 1 - d1 d2 d2 d2 s2 s1
+s0 s1 q2 d1 d2 d2 d2 s2 s1 s0 s5 q6 d5 d6 d6 d6 s6 s5 s0 s6 q5 d5 d6 d6 d6 q5 s5 s6 s5 s6 ,6. s5 s6 2 - 1. s6 s1 q0 s5
+s5 s5 s5 q0 1. q1' q1 q1 s1 s6 q,5 q5 s5 s3 5 s5 s5 s5 s6 s3 s2 q1 2 - s5 q1 s1 x s5 s3 q2 s5 s3 q2 s5 s3 s3 s2 q1. s1
+d2 d2 d2 s3 s1 s6 s6 d5 ,5 - d2 s2 s2 s3 s1 s6 s6 s5 1 -
+%END

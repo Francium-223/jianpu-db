@@ -1,0 +1,19 @@
+%一条小河弯又弯.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=18206
+title=一条小河弯又弯
+tag=
+usertag=
+tagroute=
+confidence=0.995
+conf_p10=0.992
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-18206
+%--
+4/4
+subtitle=score
+5 - 5 - 2' - - q1' q2' 5' - - q0 d1' d2' d3' d4' 5'. q2' q6' 5'. q1' q2' q2' q5 2' - q6. s1' q2' q5' q1' q0 0 s6 s5 5 - - -
+q2 q5 q1' q2' 3' q2' q3' 2' - - - q2' q5' q2' q1' 2' s2' s1' q6 6 - - - q2' q5 q6 q1' 2' q3' q2' 2' - - - q6 q6 q6 q2' q1' q6
+q6. s5 5 - - - 5'. q2' 5' 5' 6' q5' q6' 5' - 5'. q2' 5' 5' 1' q6 q1' 2' - q6 q2' q2' q2' s1' s2'. s2' s1' 6 q2 q5 q6 q1' 2' q1' q6
+5 - - 2 4 6 5 5 - - - 1 q6 q1 2 - 2 - - - q2 q5 q2 q5 q6 q2 q1 q6 5 - - -
+%END

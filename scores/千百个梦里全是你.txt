@@ -1,0 +1,23 @@
+%千百个梦里全是你.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=37973
+title=千百个梦里全是你
+tag=
+usertag=
+tagroute=
+confidence=0.807
+conf_p10=0.456
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-37973
+%--
+4/4
+subtitle=score
+q6 s6 s1'. s6 s1' s2' s,6' s2' q3'. q3 q,1 s3' s6 s1' s5 s,1' 6 5 s6 s2 s6 s3 s1'. s2 d6 d6 s3 h2' 5 3' s1' s,,1 s,1. s1' s6 s6. 1'. s5 q,1' q5
+d6' d1 s5 s3' h5. h5 q5 d6 q1' s6 2'. q3' q6' d1' q2' q2' s1 s1' s6' h1' s5 d1' d1 5 s6 q,6' q,6 q5' q,5' q,6' q6' s1' s1' 5' d,5' h,6 s1' h,6 h6 q1'
+1' 3' h1' s1' h1 s3' 2' 1' 1' h,2 h2 h,,2' s2' h,2' h3'. q,1' h3 h,3 h5 h3 q1'. q3'. q,1' h1' d1' hx' 1 2' ,2. h1' h1' 2' ,6 6' ,6 6 1' q5 q0 s1'
+q5' q3' q,5 q6' q6' d,,5'. s,5 s,5 s5'. 5 s5' s,2' 5' d3' s,3 h,3' s3 s3' 6' d6 ,1' 5'. h6 s1' h1 h1 3' ,1' ,1' h6 q,5 q,5' q,2' q5 s,1' h1' h,,2 2'. 3' 2'
+2' h1' s5 2 s1' h2' q2' q2' 2' 6 ,1' 1' q1' ,6 s,5' s,x' h,,5 d,6' dx'. h2 q5 h5' d2' h,6 h,3' h3' h3' h3' q5 s5' 6'. q1 q1' ,1' q6 q1' h1' q1' q2' q3'
+,1' h6 s2' q,,5' h1' q1'. q2'. q1' 3' ,3' d2' s2' 2. 2' 2' q1. q1' q1' q1' s6 q1' s1' q2' q5 s6 s1 q6 q1' s1' s6 q5 q5 s6 s1 s2'. s3' 2' q1' q6 q6
+s1' s1' s6 s5 q5' 5. d2' 0 d,,3' s2' d,5 s,2' s5' s5' s3' s1' s3' s2' s2' q1' q1' s3'. q1' d1. 2' s2' 1' q6 q5' s6 h5 s5'. s6' h3 s3' h1 h1' 2' d2' q3'.
+q1'. q,5' h6 d1 s2' h5 1' d6 2' 1' 1' s1' 0 q,2' q,6' q5 s3' s5' s5' s5' s6' h,1 h1' s5' h6 s6' s3' s1' q5' s3' s,,3 s,2' s5' s2' h2' d1 q2' s6 s6 s6
+%END

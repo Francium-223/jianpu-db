@@ -1,0 +1,23 @@
+%一定要爱你_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=35233
+title=一定要爱你
+tag=
+usertag=
+tagroute=
+confidence=0.976
+conf_p10=0.994
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-35233
+%--
+4/4
+subtitle=score
+- - - x. x'. x. 6 3 3 2 6 6 4 q1 1 s7 3 q0 s1 s2 q3 q3 q2 q2 s2 s3 q5 1 q1 q1 q1 1 - x q3 q5 q6 q5 q5 q5
+q5 q3 q3 q2 q3 q5 q5 q5 5 q5 q6 q1' q6 q6 q5 q5 q3 q3 q2 3 - 0 q3 q5 q1' q6 q6 q5 q5 q3 q3 q2 q3 q5 q5 q5 5 q5 q3 q3
+q2 q2 q1 q2 q2 q2 q5 ~ q5 2. q0 q3 q3 q5 q6 q5 q5 q5 q5 q3 q3 q2 q3 q5 q5 q5 5 q5 q6 q1' q6 q6 q5 q5 q3 q3 q2 3 - 0
+q3 q5 q1' q6 q6 q5 q5 q3 q3 q2 q3 q5 q5 q5 5 q5 q6 q1' q1' q1' q1' q1' q6 q1' q1' 2' - - - 0 0 q1' q1' q2' q3' q2' q1' q1' q1' q6
+q6 q5 q6 q5 q5 q3 5 q5 q6 q1' q6 q6 q5 q5 q3 q3 q2 3 - 0 q3 q5 q1' q6 q6 q5 q5 q3 q3 q2 q3 q5 q5 q5 5 q5 q6 q1' q1' q1'
+q1' q1' q1' q1' q2' 2' - q0 q1' q1' q2' q3' q2' q2' q1' q1' q6 q6 q5 q6 q5 q5 q3 5 q5 q6 q1' q6 q6 q5 q5 q3 q3 q2 3 - 0 q3 q5 q1'
+q6 q6 q5 q5 q3 q3 q2 q3 q5 q5 q5 5 q5 q6 q1' q1' q1' q1' q1' q2' q2' q1' 2' - q1' q6 q6 q1' - - - - - - - - - - q0 q3
+q3 q5 1 - - - q0 q1 q1 q2 0 1 - - - 1
+%END

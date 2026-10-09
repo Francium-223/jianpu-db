@@ -1,0 +1,22 @@
+%伤感2010.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=33236
+title=伤感2010
+tag=
+usertag=
+tagroute=
+confidence=0.955
+conf_p10=0.837
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-33236
+%--
+2/4
+subtitle=score
+s,7 q1 s3 s3 s2 2 - s2 s1 s2 s3 s5 ~ q5 q3 ~ s3 s,5 s,6 s1 q3 q1 q1 s5'. s5 s3 s3 s2 q2 s1 q,6. s,7 s1 s3 s2 s1 q3 s2 s2 q0
+s1 q2 q,5 s,5 s,4 s,3 s,3 ~ ,3 0 q0 s,3 s1 s1 s,7 s,6 q,7 s,6 s1 ~ s1 q,6. q4 s4 s4 s2 q2 s3 ~ 3 0 q,6. s,7 s1 s3 s2 s1 q3 s2 s2
+q0 s1 q2 s,5 s,5 ~ s,5 q4 s3 3 q0 s2 s1 1 q0 s3 s4 s4 q3 s2 s2 q3 s4 s0 s3 s3 s2 s3 s4 s3 s3 ~ 3 q0 s3 s6 s6' s5 s6 s7
+q1'. s3 s5 s4 s4'. s4 4 s6 s5 s5 s6 q7 s2 s4 s4 q3. q0 s2 s3 4 s0 s4 s4 s2 s3 s3 s2 s1 1 q2 s3 s4 ~ s4 s2 s3 s4 3 q0 s3
+s6 s5 s6 s7 q1'. s3 s5 s4 s4'. s4 4 s6 s5 s5 s6 q7 s2 s4 s3 q3. q0 s2 s3 4 s0 s4 s4 s2 s3 s3 s2 s1 1 q2 s3 s4 s4 s2 s3 s4
+3 ,5 ,6 0 - - 0 - s2 s3 s3 s3 q1' q1' s3 s2'. s3'. s2'. q2'. q3'. s2' d3'. d1'. d1' d3 d2 d1 - 3 ,5 ,6 - 0 q0 s3 3' x ,5 ,6 -
+q1' q1 s1 ~ s1 q2 s3
+%END

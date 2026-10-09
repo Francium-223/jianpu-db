@@ -1,0 +1,21 @@
+%匹夫.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=28025
+title=匹夫
+tag=
+usertag=
+tagroute=
+confidence=0.971
+conf_p10=0.889
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-28025
+%--
+4/4
+subtitle=score
+s3 s3 s3 s3 q3 q2 3 q1 q2 s5 s5 s5 s5 q5 q2 3 - s6 s6 s6 s6 s6 s5 q5 s3 s3 s3 s3 q2 q1 s,7 s,7 s,7 s1 q,7 q,5 ,6 - s3 s3
+s3 s3 q3 q2 3 q1 q2 s5 s5 s5 s5 q5 q2 3 - s6 s6 s6 s6 s6 s5 q5 s3 s3 s3 s3 q2 q1 s,7 s,7 s,7 s1 q,7 q,5 ,6 - q6 q6'. s1' q6
+q5 q3 s2 s5 q3 q2 q2. s1 q2 s5 s3 3 - q6. s1' q6 q5 q3 s2 s5 q3 q2 q2 s2 s1 q2 q5 6 - 0 q2 s2 s1 q2 q5 6 - q6. s1 q6
+q5 q3 s2 s5 q3 q2 q2. s1 q2 s5 s3 3 - q6. s1' q6 q5 q3 s2 s5 q3 q2 q2 s2 s1 q2 q5 6 - - - - - - - - - q6. s1' q6
+q5 q3 s2 s5 q3 q2 q2. s1 q2 s5 s3 3 - q6. s1' q6 q5 q3 s2 s5 q3 q2 q2 s2 s1 q2 q5 6 - q6. s1' q6 q5 q3 s2 s5 q3 q2 q2. s1
+q2 s5 s3 3 - q6. s1 q6 q5 q3 s2 s5 q3 q2 q2 s2 s1 q2 q5 6 -
+%END

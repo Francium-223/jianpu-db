@@ -1,0 +1,23 @@
+%一望风月_一蓑烟雨.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=25705
+title=一望风月 一蓑烟雨
+tag=
+usertag=
+tagroute=
+confidence=0.979
+conf_p10=0.951
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-25705
+%--
+4/4
+subtitle=score
+1 - - x x. x' x - - - q0 q,3 q,6 q1 ,7 q,7 q,3 q,5 q,6 ,5 - 0 q0 q,3 q,6 q1 ,7 q,7. d6 q,5 q,2 ,2 - 0 q0 q,3 q,6 q,7 1 q,6
+q2 3 q,6 ~ ,6 q0 s,6 s,5 ,6. s,7 s1 ,7. q,6 ~ q,6 q,7 ~ ,7 - 0 q0 q,3 q,6 q1 ,7 q,7 q,3 q,5 q,6 ,5 - 0 q0 q,3 q,6 q1 ,7 q,7. s6 q,5
+q,2 ,2 - 0 q0 q,3 q,6 q,7 1 q,6 q2 3 q,6 ,6 q2 q3 2. q5 q3. s2 q2 s1 s6' q,6' q,6 ,6 - q2 q3 q5 q3 2 q2 q3 q,7 q,5 ,6 - - q2
+q3 x q5 q3 2 q7 q5 q3 q2 q2 q3 ~ 3 - q0 q3 q4 s4 s4 ~ s4 q3. q3 s2 s2 ~ 2 q3 s3 s3 ~ s3 q2. q2 s1 s1 q0 q,3 2 q1
+q,7 q1 q2 q,6 q,6 q,7 ~ ,7 - q2 q3 q5 q3 2 q2 q3 q,7 q,5 ,6 - - q2 q3 q5 q3 2 q7 q5 q3 q2 ~ q2 q3 ~ 3 - q0 q3 q4 s4
+s4 ~ s4 q5. q5 s2 s2 ~ 2 q3 s3 s3 ~ s3 q6. q6 s1 s1 ~ 1 q,6 q,7 q1 q2 ,7 ,5 ,6 - - 0 0 - - - - - ,6 - - 0
+3. q2 q2 q1 1 q,6. s5 q,5 q,3 ,5 - 3 q3 q2 2 q5 q3 q3' q3 ~ 3 - - 3 q2 q2 q1 1 q,6. s,5 ~ q,5 q,3 ,5 q,5 q,6 1 ,7 ,7 q1
+s,7 s,6' q,6' q,6 ~ ,6 - q2 q3 ,6 - - 0 q,6 q,7 q1 q2 ,7' ,3' ,6 - - -
+%END

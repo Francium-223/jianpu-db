@@ -1,0 +1,21 @@
+%动心_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=21249
+title=动心
+tag=
+usertag=
+tagroute=
+confidence=0.984
+conf_p10=0.971
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-21249
+%--
+3/4
+subtitle=score
+q5 q6 q1 q6 q3 q2 3 - q3 q3 7 q6 7' q2 3 - - 2 q2 q2 q1 q2 q6 2 - q3 q3 4 2 q4 3 - - q3 q6 q4 q3 q4 q2 3
+- q3 q3 7 6 q7 1 - - q2 q2 q2 q1 q6 q3 2 - q3 q2 ,7 ,5 q7 ,6' - - 6' - - 2 2 s6 2 - q2 q4 4 4 q2 3 -
+- q6 q6 6 5 q3 q6 q6 q6 q5 q5 q6 3' - - 3' - - 2 2 6 2' - q2 q4 4 4 q2 3 - - 5 q5 q3 q5 q6 q7 q7 q7 3
+q5 q6 7' - - 7' - - q1' q7 q6' q7 q6 q1 q7 q6 7 q6 q3 6 - - - q1 q7 q6' q1 q7 q6' q7 q6 q7 q6 q3' 3 - - x 6 -
+- - 3 - q3 q0 q3 q0 2 - 5 - 1 - q1 0 6 0 2 - 3 - 6 - q6 0 q6 q0 5 2 - 4 - 5 - 6 - - - q1
+q7 q6 q7 q6 q1 q7 q6 q7 6 q3 6 - - - x q1. q1 q1 q7 q6' 1 q7 q6 q1 q7 q6 q7 q6 q3 3 - - -
+%END

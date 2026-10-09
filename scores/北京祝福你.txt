@@ -1,0 +1,20 @@
+%北京祝福你.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=21054
+title=北京祝福你
+tag=
+usertag=
+tagroute=
+confidence=0.944
+conf_p10=0.791
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-21054
+%--
+4/4
+subtitle=score
+q1 q1 1 0 6 x 1 1 s,x' sx x. x 4 4 5 3 q2 q1 q1 q2 q1 2 3. q3 q5 q3 q2 q1 q2 q1 1 q3 q2 q2 q1 q1 - 5 3 q2
+q1 1 q2 q1 2 3. q6 q5 q3 q2 q1 q2 q1 q1 q3 q2 q2 q1 q1 - 0 0 3 5 6. q5 3 - q6 q5 q5 q3 3 - q1 q2 q3 q6 q5 q5
+q3 3 - 3 5 6. q5 6 - q6 q6 q5 6 - q6 q5 q6 q5 q6 q5 5 - - - - q1 - - q6 q5 5 - q6 q5 q6 q5 q3 q2 q1 3
+- - - q1 - - q6 q5 q6 6 - 6 q2' q5 5 - - - q1'. q6 6. q5 6 q6 - 2'. 3' q2' - - - 2' - - 3' - 2' - - -
+1' - - - - - -
+%END

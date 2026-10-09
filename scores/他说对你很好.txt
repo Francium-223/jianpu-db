@@ -1,0 +1,21 @@
+%他说对你很好.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=3111
+title=他说对你很好
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-3111
+%--
+4/4
+subtitle=score
+q1 - - 6 7 x x 1. x s1 s1 s7 s1 q5. s7 s1 s2 s3 s4 5 s1 s1 s7 s1 q5. s1 q7 q5 q2 3 s1 s7 s5 s3 q3. s7 s1 s2 s3 s4
+q5 q1 q6 s6 q5 d2 d1 2. s3 s4 5. s2 s1 2 - - - q0 s5 s3' q3'. q5' s2' s2 q0 s6 q1'. s1' q7 s1' s5 ~ 5 0 x x x' - q0 s5
+s2 q2. q2 s3 s1 q0 s6 q5 s4 s4 s4 q3 s2 2 0 q0 s5 s3 q3. q5 s2 s2 q2. s7 q1. s1 s1 q,6 s3 3 q0 s2 s3 q4 q4 s4 q3 s1 1 q0
+s6 s7 q1 s1 s1 s1 q3 s2 2 0 q0 s6 s6' s6' s6' s5' q5' s2' s2' s2' q1' s6 q3' q4' q3' s7 s1' 1' q0 s6 s7 q1' s1' s1' q1'. s7 q1' s2' s3' q3'
+s4' s5' 5' - q0 s1 s1 s1' s7 s1' q5. s1 ~ s1 s1' s7 s1' q5. s1 ~ s1 s1' s7 s1' q6 s5 s5 ~ s5 q2 s3 q0 s1 s1 s6 s5 s6 q6. s6 s6
+s5 s5 s6 s6 s1 q1 q0 s6 s1 q4 s5 s6 s6 q3 s2 q2. s1 s1 s1 s7 s1 q5. s1 s1 s1 s7 s1 q5. s1 s1 s1 s7 s1 q6' s5' s5' s5' q7' s1' 1'
+q0 s5' s5' q6' s5' s5' s5' q7' s1' q1'. s2' q3' s2' s1' 5' - q0 s5 s3' q1'. s7 q2' s1 1' - 0 s7 q2' s1' 1' - 0 - q0 s1 s1 s1' s7 s1' -
+s7 q2' s1' 1' - 0
+%END

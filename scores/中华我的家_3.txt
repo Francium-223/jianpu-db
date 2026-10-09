@@ -1,0 +1,22 @@
+%中华我的家_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=10973
+title=中华我的家
+tag=
+usertag=
+tagroute=
+confidence=0.938
+conf_p10=0.743
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-10973
+%--
+2/4
+subtitle=score
+q3 q,1 q5 q5 q5' q5 q3 5 s1 s2 q3 q3 q0 q1 q2 q2. 1 1 q4 4 1' q4 s1 s1 s1 s,,1 s1 q1 6 q5 s5 s3 s3 s3' s3 x 2 2 1 q1'
+x' x'. 1 2 2' q2 1' - s3 d5 5 s5 s5 q2 q6 1 q,1 s2 3 - s4 d3 2 q6 q5 5 s2 s3 q2 1 - s3. d5 q5 q5 q3 5 s1 s2 q3
+q3 q0 q2 1 - q4 4 q1 s1 q5 3 s5 s3 2 - 2 - s3. s5 s5 s5 q5 q,1 s1 q2 1. q1' 1 s1 s2 3 - s4 s4 s3 s2 q2 q6 q5 5
+q2 s3 q2 1. ,x 1 - q1' s6 s5 q3 q5. 6 5 q6 6 1' 2 - q1 1' s6 s5 q3 5 q6 q1' q1' q6 7 - q1' q1 s6 q,5 q3 q5 s6 5 q6
+0 q6 q5 s1 s,2 3 - s1' s1' s1 q1 s6 s5 q3 5 q6 q1 d1 s6 q7 - 3 - - 3 - q3 q5 q5 q3 5 s1. s1 s2 x q3 qx q3' q3 0
+q2 1 1 1 1 - q4 4 s1 s1 q1 6 s5 s3 - 2 - s3 d5 5 s5 s5 q2 1 q6 1 s1 s,2 3 - s4. d3 2 q6 q5 5 q2 s3 q2 1.
+1 - s4. d3 2 q6 q5 5 s2 s3 q2 1. - 1 -
+%END

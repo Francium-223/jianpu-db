@@ -1,0 +1,16 @@
+%割草歌_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=28208
+title=割草歌
+tag=
+usertag=
+tagroute=
+confidence=0.928
+conf_p10=0.624
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-28208
+%--
+2/4
+subtitle=score
+q3. s2 q3. s2 q3 q2 q1 q1 q1 q1 s2 s1 6 ,5 ,5 q1 q1 s2 s1 6 ,5. ,5 q5 s5 s5 d6 d5 q3. 5' 5 q1 q1 s2 6 ,5' ,5
+%END

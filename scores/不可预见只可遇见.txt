@@ -1,0 +1,20 @@
+%不可预见只可遇见.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=34953
+title=不可预见只可遇见
+tag=
+usertag=
+tagroute=
+confidence=0.955
+conf_p10=0.833
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-34953
+%--
+2/4
+subtitle=score
+x q1 q1 q1 q3 2 q1 s,2 s,5 s1 s2 q1 q1 q1 q3 2 s1 q,5. - - q1 q1 q1 q3 q2 q,7 ,5 q,6 q,6 q,7 q1 q,7 q,5 ,3 q,4 q,5 q,6 q,4 q,3 q,5
+1 q,6 q,7 q1 q3 q2 q,7 ,5 q1 q1 q1 q3 q2 q,7 ,5 q,6 q,6 q,7 q1 q,7 q,5 ,3 q,4 q,5 q,6 q,4 q,3 q,5 1 q,6 q,7 q1 q3 2 q2 q1 1 - 0 q3
+q4 q5' q5' q4 q3 q2 q3 q2 q0 s1 d7 q1 q,7 q,6 q1 ,5 q0 q,5 q,6 q,7 q1 q6 q5 q3 q4'. s3 q2 q1 q,6 q3 2 q3 q4 q5 q4 q3 q2 q3 q2 q0
+s1 s7 q1 q3 q3 q6 5 q0 q5 q6 q5 q4 q3 q2'. s1 q2 q3 4 3 1 q0 q,7 1 - s5 3 2 x. x 1 s5 - - s1' 5 - s5 s1' s1' sx'.
+s3' q3 q4 q6 q5 q4 q3 q2'. s1 q2 q3 4 3 4 q0 q4 5' - 5' - 2 - q3 s3 ~ s3 q1 ,5 ,3 - ,3 - x x 7 x.
+%END

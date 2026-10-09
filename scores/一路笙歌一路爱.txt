@@ -1,0 +1,24 @@
+%一路笙歌一路爱.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15749
+title=一路笙歌一路爱
+tag=
+usertag=
+tagroute=
+confidence=0.983
+conf_p10=0.983
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15749
+%--
+4/4
+subtitle=score
+3 - - - 3 3 3 q3 q3 q3 q,6 s1' s1' s6 s5 q3 q,6 1 2 q2 q,5 q,6 q,5 q2 q5 3 - - q5 q1 2 - - q1 q6 1 - - - 2
+- - - q1 q5 q5 q1 q2'. 3. q1 q5 q5 q1 q2'. 3. q1 q5 q5 q1 s2 s3 q2 q2 q1 q1 q6 ~ ,6 - - q1 q5 q5 q1 q2'. 3 q1 q5 q5 q1
+s2 s3 2 q1 q,6 q1 q3 2 q1 q,6 q2 q1 1 - - sx sx sx sx sx sx qx sx sx sx sx sx sx qx sx sx sx sx sx sx qx sx sx sx sx
+sx sx qx 6 q5 q1 q2 q1 x q4 q3 1 - q5 s1 s1 q2 q1 q2 q3 3 q2 q3 q3. s1 q2 q3 3 q5 s1 s1 q2 q1 q2 q3 2 q1 q,6 q,6. s1
+q2 q3 2 q1 s5 s5 q5 q1 q2 q1 ,6 q2 q1 q,6. s1 q2 q1 ,6 q3 s1 s1 q2 q3 2. q3 q5 s1 s1 q2 q5 3 3 s,6 d3 d3 s2 s1 s,5 s,5 q1
+s2 s3 2 q1 ,6 s,5 s,6 ,5 - q5 s1 s1 q2 q5 3 3 q1 q5 q5 q1 q5 q1 q2 q3 q5 q3 3 - - q1 s1 s5 q5 q1 q2 q1 q2 q3 ,6 -
+- - q2 q2 q2 q3 1 q1 q2 q5 q3 ~ 3 - - q2 q1 q2 q3 2 1 2 - - - q1 q5 q5 q1 q5 q1 q2 q3 q5 q5 ~ 5 - - s5
+s6 q5 s5 s6 q5 q5 q3 q3 q1 s2 s3 q2 ~ 2 - q2 q2 q1 s6 ,6. q1 q5 s5 s6 3 - - - q2 q2 q2 q1 2 3 1 - - - q2 q2
+q2 q1 2 3 ~ 3 - 5 - 5 - - - 5 0
+%END

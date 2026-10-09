@@ -1,0 +1,22 @@
+%北方的天空下_5.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=9618
+title=北方的天空下
+tag=
+usertag=
+tagroute=
+confidence=0.948
+conf_p10=0.761
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-9618
+%--
+4/4
+subtitle=score
+x q6' d3' q7' q6' 3' 5' q5 q7 q5' 5' 7' 7' q6' q1' q3' q1' x q7' q1' x ,1' ,1' x 0 6' ,,1 q0 3. 3' qx. 1 x 1 1 1 q5' 5 7 5'
+~ 5' 7' ~ 7' q,4 4 6 1' q5'. 4' ~ 4' 1' q,1 3 5 3' ,1' 5 q2 q4 q6 3' q6 5' q7' q4 5 2 3' 3' 4' 5' 3' 3' 4' 5' 3' 3'
+4' 5' 3' 3' 4' 5' 5 q5 3' ~ 3' 0 0 3 q3 q4 3 4 q3 4 5 q5 q3' ~ 3' 0 q0 4 4 5 q6 4 q4' q3 3 - 0 0 0 s2
+s2 2 2 2 4. 4. 0 q2 s2 2 2 q2 3 4 7 3 - 0 0 q0 2 s2 q2 3 4 4 q,7 1 - 0 0 1 7 6 q6. s5 5' 0 0 7
+6 q6 q5' 5' - 0 0 4 4 5 q4' q3' 3 - 0 0 2 q4 q4 4. 5 - 0 0 1 7 6 6 5' 5' - 0 0 1' 7 6 q6 5' 5' 0
+0 4 4 5 q4' q3' 3 - 0 0 2 4 q4 4. 5 0 0 5 - 0 0 q0 s2 s2 q2 q3 q4 4 q,7 1 - 0 0 5 5 3' 3' 0 3 4
+4 3' 3' 0 0 0
+%END

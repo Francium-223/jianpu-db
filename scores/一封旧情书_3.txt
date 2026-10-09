@@ -1,0 +1,25 @@
+%一封旧情书_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=1329
+title=一封旧情书
+tag=
+usertag=
+tagroute=
+confidence=0.984
+conf_p10=0.977
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-1329
+%--
+4/4
+subtitle=score
+qx - - 0 x x. x s5 6. s6 s3 3. s2 s3 s2 s1 6 - - sx sx x. x - q3 3. s3 s6 6. q1 s2 s5 3 - - sx sx x. x -
+2 1 6 2 1 6 1 6 5 6 6 6 q6 s6 s5 q6 s6 s5 s6 s1' s6 s5 q6 q6 q5 s5 s3 q2 q1 ,6 - q3 q6 5 q5 q3 q2 q1 q1 s2
+s1 ,6 - - 0 0 2 3 2 1 6 1 2 6 5 3 2 3 - ,6. q3 3 q2 q1 ,6 - - - q3 s6 s6 q6 q6 2 s3 s5 s3 s5 3 -
+- - q3 q3 q3 q3 q2 q1 ,6. 2. s1 s2 q3 s2 s1 ,6 q,5 s5 s3 q,5 s6 s1 ,6 - 2. s2 s1 q2 q3 s2 s3 s2 s1 ,6 - - - 6. q5 q5
+q3 3 q5 q3 s3 s2 q1 ,6 - q1 s1 s6 q1 q2 3 s5 s6 s5 s6 3 - - - s,6. s3 q3 q3 q5 s3 s2 3 q1. q3 q2 q1 q2 q1 ,6. q1 s6
+q1 s2 s1 ,6 - 5. q3 2 q1 s2 s1 ,6 - - - - - 6. q5 3 q5 q3 q2 q3 q1 s2 s1 ,6 - q2 x 3 2 1 2 1 6. 2 3 2
+1 6 1 2 5. q3 2 q1 s2 s1 ,6 - - - ,6. q3 3 s2 s3 s2 s1 ,6 - - - q3. s6 q6 q6 2 s3 s5 s3 s5 3 - - - 2. s1
+s2 q3 s2 s1 ,6 q,5 s5 s3 q,5 s6 s1 ,6 - 2 q2 s2 s1 q2 q3 s2 s3 s2 s1 ,6 - - - q3 q2 q1 q2 q1 ,6. 5. q3 2 q1 s2 s1 ,6
+- - - - - 6. q5 3 q5 q3 q2 q3 q1 s2 s1 ,6 - q3 q6 5 q5 q3 q2 q1 2 1 6 2 1 6 1 6 5 6 6 6 q1 s2 s1 ,6
+- - - 0 0 - 0 ,6 ,6 ,6 ,6 - - -
+%END

@@ -1,0 +1,22 @@
+%世外桃源_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=35332
+title=世外桃源
+tag=
+usertag=
+tagroute=
+confidence=0.959
+conf_p10=0.871
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-35332
+%--
+4/4
+subtitle=score
+1 - - - x x qx' ,,x x 1 0 6 4 4' 7 7 1 1 4 4 6 6 3 3 x q,6 q3 q3 s2 s1 s2 s1 q,6 ,6 q,6 q3 q3 s2 s1 s2
+s1 q,6 ~ ,6 q3 q6 q6 s5 s3 s5 s3 q5 3 q3 q6 q6 s5 s3 s5 s6 q6 ~ 6 x ,6 s,3 s,3 s,3 s,5 q,6 s2 s3 3 q3 s3 s2 q2 s1 s2 q2.
+s1 ,6 s2 s2 s2 s3 q6 q6 q5 s3 s2 2 s2 s2 s2 s3 q,5 s,6 s1 s,6 ,6 - q,6. s,5 q,3 s,3 s,3 q,6 s2 s3'. 3 q3 s3 s2 q2' s1 s2 q2. s1 q,6.
+s,6 s2 q2 s3 q6 s6 s6 q5 s3 s2 2 q2 q2 q,5 s,6 s1 s,6 ,6. s,5 s1 s1 s1 s1 q1 s3 s2 2 - s2 q2 s2 q2 s1 s2 q1 ,6 s,5 s,5 s1 q1
+s1 s1 s1 d2 d3 s2 q2 s2 s2 s2 s2 q6 6 - - - x q2 s2 s6 q6. s6 q5 s3 s2 2 s2 s2 s2 s2 q2 s5 s6 6 - q2 s2 s6 q6. s6
+q5 s3 s2 q2 s2 s1 q2 s2 s3 q1 s,7 s,6 ,6 - q,6 q3 q3 s2 s1 s2 s1 q,6 ,6 q,6 q3 q3 s2 s1 s2 s1 q,6 ~ ,6 q3 q6 q6 s5 s3 s5 s3
+q5 3 q3 q6 q6 s5 s3 s5 s6 q6 ~ 6
+%END

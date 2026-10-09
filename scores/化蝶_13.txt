@@ -1,0 +1,18 @@
+%化蝶_13.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=37509
+title=化蝶
+tag=
+usertag=
+tagroute=
+confidence=0.890
+conf_p10=0.641
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-37509
+%--
+4/4
+subtitle=score
+q1 q1 4 ,1 x. ,,2 1. ,7 ,,4 1 0 x. 0 x. ,7 2 0 1 q,3 q5. s6 1 s2 q,6 s1 q5 q5. q,6 s5 s,3 s5 2 - q2. s3 7 s6 q5. s6 1
+q,3 q1 s,6 s,5 s6 s1 ,5 - q3. s,5 ,7 q2 s,6 s1 q,5 ~ ,5 s,3 s5 q,3 q,5 s6 s7 s2 ,6 5 q6 1. s2 q5 q3 q2 s3 s2 1 q6 s5 3 1 s6.
+s1 s6 s5 s3 s5 s6 s1 5 - 0 0
+%END

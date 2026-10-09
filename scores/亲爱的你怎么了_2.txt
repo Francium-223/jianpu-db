@@ -1,0 +1,22 @@
+%亲爱的你怎么了_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=24244
+title=亲爱的你怎么了
+tag=
+usertag=
+tagroute=
+confidence=0.981
+conf_p10=0.949
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-24244
+%--
+4/4
+subtitle=score
+- - 0 - - - q0 s3 s3 3 q3 s2 s1 ~ 1 q,7. s,6 ~ q,6 s,5 s,6 ,6 - q0 s6 s6 6 q6 s5 s2 ~ 2 q2 q2 s2 q5 s3 3 - q0
+s6 s6 s6 q6. q5 s6 s5 ~ q5 q2 3. s3 s5 1 - q0 q2 q2 s3 s5 ~ q5 q3 s2 q3. q3 q2 s1 s7. ,6 - - 0 q0 s3 s3 3 q3 s2 s1
+~ 1 q,7 q,6 s,6 s,5 q,6 ,6 - q0 s6 s6 6 q6 s5 s5 ~ q5 q2 2 q2 s5 s3 ~ 3 - q0 s6 s6 s6 q6. q5 s6 s5 ~ q5 q2 3. s3 s5
+1 - q0 q2 q2 s3 s5 q5 q3 s2 q3. - q3 q2 s1 s7. ,6 - - q3 q6 x 6 - q0 q6 q6 s6 s5 5 - q0 q5 6 q5 s2 s3 3' - s3
+s2 q1 2 q0 s1 q2 q2 s2 q5. 3 - - q3 q6 6 - q0 q6 q6 s6 s5 5 - q0 q5 6 q5 s2 s3 3' - s3 s2 q1 2 q0 s2 s2 q3 q2
+s1 s7'. ,6 - - - q0 q2' q2'. q3'. s2'. s3' - - q1' q2'. q1' s2'. s2'. s2' 0 0 0 - - - ,6 - - q3 q6 ,6 - - s3 s2 q1 2 q0 s2
+s2 q3 q2 s1 s7. ,6 - -
+%END

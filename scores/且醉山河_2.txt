@@ -1,0 +1,20 @@
+%且醉山河_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=22578
+title=且醉山河
+tag=
+usertag=
+tagroute=
+confidence=0.944
+conf_p10=0.723
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-22578
+%--
+4/4
+subtitle=score
+- - - - - - ,6 3 2 q0 d7 s1 q2 q,7 q,5 q,3 ,6 - q0 s1 s1 q1 q,6 q2 q2 q2 q5 3 - - - ,6 3 2 q0 d7 s1 q2 q,7 q,5
+q,3 ,6 - q0 s1 s1 q1 q2 ,7 q1 q,7 ,6 - - q0 s,6 s,7 s1 s,6 s,7 s1 ~ q1 s,7 s1 s2 s,7 s1 s2 q0 s1 s2 q2 q,7 q,5 q,3 ,6 q0 s,6 s,7
+q1 s1 s1 ~ q1 s1 s,6 q2 s2 s2 ~ q2 q3 qx - - x. x. s1 s6 s,1 q1' s1 q2. s2 s2' q2' q3 6 - - 0 q1' q1' q7 q5 3 q2 q5 3
+- - - q1' q1' q1' q1' 7 q5 q2 3 - - - q1' q1' q7 q5 3 q2 q5 3 - - - q1' q1' q1' q1' 7 q3 q5 6 - - - - - - 0
+- - - - - - q6 - - - - - -
+%END

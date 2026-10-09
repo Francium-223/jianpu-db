@@ -1,0 +1,20 @@
+%前浪后浪.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=11486
+title=前浪后浪
+tag=
+usertag=
+tagroute=
+confidence=0.956
+conf_p10=0.844
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-11486
+%--
+4/4
+subtitle=score
+1 q,1 - 1 ,1' 1 1' 1' x x ,6 6 q5 q6 q5 q6 3 3 q2 q1 q1 q,7 ,6 6 5 6 5 6 2 2 1 ,7 ,6 6 3' q3' q6 6 6 5
+3 - q1' 1' 1' 6 5 6 2' 2' q3' 7 6 - x 6 3' q3' q6 6 6' 5 3 - 2' 2' 2' 1' 2' 5 6 2' 2' 3' 7 6 2 1 2 2'
+1' 7 6 - - - 6 - - x q6 7 1' 1' 1' 1' 7 6 5 3 - - q5 q6 7 7 7 7 7 6 5 5 6 0 0 6 7 1' 1 7
+6 5 3 - - 5 6 7 7 q7 q7 q7 q6 q5 q5 6 0 0 6 7 q1' q7 q6 5' 3 - - 5 6 7 q7 q7 q7 q7 q6 q5 5 6 0 0
+6 7 1' 7 6 5 3 - - q5 q6 7 7 7 7 q7 q6 q5 q5 6 0 0 0 3. x 6 7
+%END

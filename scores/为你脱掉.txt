@@ -1,0 +1,26 @@
+%为你脱掉.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=26440
+title=为你脱掉
+tag=
+usertag=
+tagroute=
+confidence=0.954
+conf_p10=0.839
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-26440
+%--
+2/4
+subtitle=score
+1. 1. x x s0 q,3 q,6 q,7 q1 s,7 s1 s1 q,3. s,3 q,4 s1 q0 s,7 q,7 s1 s,7 s,7 q2. ,5 q,5 q,5 q,6 s,5 s,6 s,6 q,7. q1 s,4 s,4 s,4 q1 s1 q,7 s,7 s,7
+~ s,7 q,6 s,5 ,5 q,6 q,7 q1 s,7 s1 ~ s1 q,3. s,4 q,4 s1 q0 s,7 q,7 s,5 s,5 ~ s,5 q4. 3 q3 q2 q2 s1 s,7 ~ s,7 q1. q2 s1 s,7 ~ s,7 q1. 3'.
+q0 s,3 s,3 q,3. s1 ~ q1 q,7 q,7 ,6. q0 s,3 q3 s2 s1 q1'. s,3 q3 s2 s1 q1'. s1 s2 s1 s2 s1 q2 s1 s2 ~ s2 q,5 s3 q3'. s,3 q3 q2 q2 s1 s,7
+~ s,7 q1. q2 s1 s1 ~ s1 q1. q,7 s,7 s,7 ~ s,7 q,6. q,5'. s,3 q3 s2 s1 q1. s,3 q3 q2 q1'. s1 q2 s2 s1 q2 s1 s2 ~ s2 q,5. q3'. s,3 q3 q2 q2
+s1 s,7 ~ s,7 q1. q2 s1 s,7 ~ s,7 q1. q,7 s,7 s,7 ~ s,7 q2. q3'. s,3 q3 s2 s1 q1. s,3 q3 s2 s1 q1. s1 q2 q1 q2 s1 s2 ~ s2 q,5. q3'. s,3 q3
+s2 s1 1. q1. s,6 q,6 q,7 q1 s,7 s1 s1 q1. ,7 2 2 3 - x. q0 s,3 q3 s2' s1' q1. s,3 q3 s2 s1 q1'. s1 q2 q1 q2 s1 s2 s2 q,5. q3'. s,3 q3
+q2 q2 s1 s,7 s,7 q1. q2. s1 s1 q2. 3 - q0 q,3 q,6 q,7 1 q1 s,7 s1 s1 q,3. s,3 q,4 s1 q0 s,7 q,7 s1 s,7 ~ s,7 q2. ,5 q,5 q,5 q,6 s,5 s,6 ~
+s,6 q,7. q1 s,4 s,4 ~ s,4 q1 s1 q,7 s,7 s,7 ~ s,7 q,6 s,5 ,5 q,6 q,7 q1 s,7 s1 ~ s1 q,3. s,4 q,4 s1 q0 s,7 q,7 s,5 s,5 ~ s,5 q4. 3 q3 q2 q2
+s1 s,7 ~ s,7 q1. q2 s1 s,7 ~ s,7 q1. q0 s,3 s,3 q,3. s1 ~ q1 q,7 s7 ,6. x 3 q3 s1' s1'. s1' s3 s1' s1'. s1' s5 q1' q5 q3'. s1'. q1' s1' s7'. q1'
+s7 s7'. q1' 0 x s5 q1'. q1' 0 q1' s3 s1'. s1' s3 q7'. s1' s2' s1'. s1' s7 q1' q3'. s3'. s2' q1' q1' q1' s7 s7'. 0 x s5 q2'. s1' ~ q1' s1' s7'. s3' s1'
+s3 0 0 q0 d3 q3 s2 s1 q,7 ,6. q0 q,3 q,6 q,7 q,7 ,6.
+%END

@@ -1,0 +1,21 @@
+%凉山的月亮.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=16589
+title=凉山的月亮
+tag=
+usertag=
+tagroute=
+confidence=0.979
+conf_p10=0.961
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-16589
+%--
+2/4
+subtitle=score
+x 1 q2 s2 s5 3. s1 s2 q3. s5 q2. s,6 1 - 1 q2 s2 s5 3. s1 s2 q3. s5 q2 s2 s,6 1. s7 s,6 1 - 1 - x 5 q3'. s2' q2 s2 s2
+q2 s3 s5 q1 q1 q3 q2 2 s2' s1 q,6' ,5 q1' s2 s3' q1 s2 s3 1 - q,5 s,5 s,5 q3 s3' s2 q2 s2 s2 q5 q5 s,6 s1 s1 s2 q3' q2' 2 s2' s1
+q,6' ,5 q1 s2 s3' s1 s1 s2' s3 1. 5 5 q5 5 5 q6. ,1 6' 5 ,5 6 ,1 q1 ,1 ,1 q2. 3 2' ,1 2 2 3 0 q5 5. 5. 3' 5 q6 s5
+s6 q1 q5 3. s2 s3 q2 s2 s1 s6 s5 s2 s3 1 - 6 q4. s6 q5 5. 1 q,5. s3 q2 2. 5 2 3 2 ,2' ,1 2' 3 3. 2 q2. ,1 q2 5. 6'
+,1 q1 q1 ,1 ,1 q6 6. q5 q5 2' 3 2' ,1 2 3 3. q5 q6 q1 3 3 q2 2 q2 3 q6 q5 6 ,1 1. ~ 1 0 q1 1 s2 s3 s3 x' x.
+x.
+%END

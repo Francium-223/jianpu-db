@@ -1,0 +1,22 @@
+%三年又三月.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=33180
+title=三年又三月
+tag=
+usertag=
+tagroute=
+confidence=0.981
+conf_p10=0.961
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-33180
+%--
+2/4
+subtitle=score
+x s1 s2 q3. q1 2 s1 q2. 1 s3 q1 s3 ~ q,3 - - - - - q1 s3 s3 q3. s1 q4 s4 s4 ~ 4 q4 q4 s1 q4 s3 3 0 q4 s4 s4 ~
+q4 s4 s4 q5 s4 s3 ~ 3 q4 q3 q2 s1 s2 ~ 2 0 s6 q6 s6 q6 q5 q6 s5 s4 ~ 4 q3 5 s2 s1 2 x q1' q5 q1 s1 ~ q1 s3 2
+- x q3. s3 q2 q1 s2 q3 s3 ~ 3 s4 q4 s4 q4 q4 s5 q3 s3 ~ 3 q6 s6 s6 ~ q6 q5 s5 q5 s3 q0 d,5 q3 q5 ~ s5 q2 s1 2 -
+s6 q6 s6 q6 q5 q6 s5 s4 q0 s4 s4 q6 q6 s0 q1' s1' 2' - 2' 0 0 0 q3'. q3' q3' s5 s2' 2' - q7 q7 s7 q3 s1' 1' - q1' s6 s6 ~
+s6 q6. q1' s1' s1' s5 q5. q6 q7 s1' q2' s2' 2' - q3'. q3' q3' s5 s2' 2' - q7 q7 s7 q3 s1' 1' - q1' s6 s6 ~ s6 q6. q1' s1' s1' s5 q5. q6
+q7 s1' q2' s2' 2' - q3'. q3' q3' s5 s2' 2' - q7 q7 s7 q3 s2' s2' q1'. 0 q1 s6 s6 s6 q6. q1 s2 s1 s5 q5. q4 q3 s1 q2 s2 2 q0 q7 1
+- 1 0 - q2' q1' s1' d2' d1' s1' 3' q3'. q3' ~ q3' 3' q3'. d1' d1' - - x. 1 - 1 0 1 - 1 - - - 2 ~ s2 s3 q1 q2' 3' x
+%END

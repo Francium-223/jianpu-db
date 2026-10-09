@@ -1,0 +1,25 @@
+%一心一意.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=7382
+title=一心一意
+tag=
+usertag=
+tagroute=
+confidence=0.936
+conf_p10=0.758
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-7382
+%--
+4/4
+subtitle=score
+q,x q3 q5 6 q5 q6 q5 q3 5 0 x q3 q5 6. q5 q3 ,6 q3 2 2 q1 q,7 ,6 q3 q5 q6 q5 3 - q,6 q1 s2 s3 q1 q1 2 q3 q5 s5 s6
+q5 3 q2 s2 s3 q2 q1 ,6 q,5 q,6 q5 q3 q2 s2 s3 q2 q1 s2 s3 q2 q,6 s2 s1 1 q,5 q3' q3 q,3 q3' q,5 q5 q5 q,6 q6. q,6 1. 1' q2 q2 q1
+q,3 q6. q,6 q6 ,5 ,5'. q6 q,6 q6 q1 q3 q6 q6 q6 q6 q5. q5 q5. q3 q2 d2 q1 1 q2' q1. q2 q1 q1 s2 s2 s3 s3 q1 q1 2 2 2. x q3 q3
+q6 q5 q6' q6' q6 sx'. q2 s2 s3 q2 q1 ,6 - q,5 q,6 q5 q3 q2 s2 s3 q2 q1 q2 q1 q,6 s2 s1 1 q3 q5 q5 6 q6 q5 s5 s6 q5 q3 q3 5.
+5 q3 q5 6' q6'. q0 q3'. q2'. 2. q,6 q2 q3 2 q2 s2 s3 q2 q1 0 - q1' q3 q5 q5 s5 s6 3 - d,2 d2 s3 q1 q,6 s1 q1 qx s2 q2 q1 q,6
+s6 d1 q1 s2 d2 s3 q1 q2 q3 0 5 q3 q5 q2 q3 q5 q3 q1 q2 s3 q3 q5 q3 q2 q1 q,6 s2 d1 s1 1 q3 q5 q5 6 s6 s6 q5 s5 s6 q5
+s2 s3 q5 q6 q5 q3 5 q3 q5 q5 6 s6 s6 q6 q5 q,6 q3 s1 q2. q,6 q2 q3 2. q2 s2 s3 q2 q1 ,6 q1' q7 q3 q5 q5 q6 q5 3 q2 q2 q3
+q5 q3 q6 q1 q2 q1 q5 q7' 1' q2 q3 q5 q3 q2 q3 q5 q3 q2 q1 q6 q2 q1 1 q3 q5 q2 q3 q5 q3 q2 q3 q5 q3 q2 q1 q6 q2 q1 1 q1'
+q2' 3' 2' q1' q7 5 q6 q7 1' 7 q5 q3 2 - - - q2 q3 q5 q6 3 - q2 q3 q5 q3 ,6 - q,6 q3 q2 q3 5 q2 q,6 1 - - - 1
+- -
+%END

@@ -1,0 +1,21 @@
+%为你流干了泪.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=32809
+title=为你流干了泪
+tag=
+usertag=
+tagroute=
+confidence=0.982
+conf_p10=0.960
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-32809
+%--
+2/4
+subtitle=score
+x s3 s1' q1' q2' s5 s1' s5 s3 s1' 1' 0 - q0 s,3 q,6 s,6 s,6 q,6 q1 q,7 s,6 s,6 q,5. s,5 q,6 s,6 s1 q,7 s,6 s,5 ,6 q0 s,3 q,6 q,6 q,6 s,6 s1 q2
+s,7 s,6 q,5'. s,5 q,6 q1 q2 s3 s3 ~ 3 q0 s3 s3 q2 q2 q2 s2 s3 q1 s,6 s,6 q0 s,3 q2 s2 s2 q1 q2 3 - q,7 s,7 s,7 q,7 q2 q3. s2 q2 s1
+s,7 ,6 - 0 q0 s,3 s3 s2 q3 q0 s1 q,7. s,7 q,7. s1 q,7 q,6 s,5 q,3 s,3 ,6 - ,6 q0 s3 q6' q6' s6' s6 q6 s3 s1 s2 s3 s2 s2 q0 s3 q5 q5
+q6 s5 s2 3 q0 s,6 q2 s1 s2 q0 s2 q3 s2 s1 s,6 q,6. s2 s2 s2 s2 s2 q1 s5 3 q0 s3 q6 s6 s6 q6 s3 s1 s2 s3 s2 s2 q0 s3 q5 q5
+q6 s5 s2 3 q0 s6 q2 s1 s2 q0 s2 q3 s2 s1 s,6 q,6. q,7 s,7 s,7 q,7 q1 ,7 q,6 s,5 s,6 ,6 - ,6 - q0 s,3 ,6 - ,6 q0 s3 ,6 - ,6 0
+q,7 s,7 s,7 q,7 q1 ,7 q,6 q,5 ,6 ,6 ,6 - -
+%END

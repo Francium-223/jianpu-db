@@ -1,0 +1,25 @@
+%不爱我放了我_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=33432
+title=不爱我放了我
+tag=
+usertag=
+tagroute=
+confidence=0.982
+conf_p10=0.957
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-33432
+%--
+2/4
+subtitle=score
+0 q,6 q,3 q2 q3 - q3 q2 q3 3 - x'. q3 q1 q2 3 s2 s1 2 q5 q2 1 s2 s1 ,7 ,5 ,3 q,5 q2. s,7 ~ q,7 s1 - - 1 - 0 - q0
+s,6 s,7 q1 s,7 s1 ~ q1 s,7 s1 ~ s1 q,7. s,7 q1. q,5 ,6 0 q0 s,6 s,7 q1 s,7 s1 ~ q1 s,7 s1 ~ s1 q,7. q,7 q1 q2. s,6 ~ ,6 0 q0 s1 s2
+q3. s3 s3 q5 s3 2 q0 s2 s1 q2. s2 q2 q3 s,6 q1. q0 s,6 s,7 q1 s,7 s1 ~ q1 s,7 s,7 s1 q,7. q,7 s1 s2 q2 ,6 0 q0 s,6 s,7 q1 s,7 s1 ~
+q1 s,7 s1 ~ s1 q,7. s,7 q1. q,5 ,6 0 q0 s,6 s,7 q1 s,7 s1 ~ q1 s,7 s1 s1 q,7. q1 q1 q3. s2 ~ s2 q,6. 0 q0 s1 s2 q3. s3 s3 q5 s3 2
+q0 s2 s1 q2. s2 s2 q5 s3 ~ s3 q1. q0 s,6 s,7 q1 s7 s1 ~ q1 s7 s1 ~ q1 s7 s7 ~ s7 q1 s2 ~ q2 ,6. 0 0 0 q5 s6 s3' s3' q2.
+2' 0 q6 s5 s3 ~ 3 q0 s3 s2 q1 s,6 s1 ~ q1 s,6 s1 ~ s1 q,6. s0 q1 s2 3 - 3 0 0 q5 s6 s3' s3' q2. 2' 0 q6 s5 s3 ~ 3
+q0 s3 s2 q1 s,6 s1 ~ q1 s,6 s1 ~ s1 q2. s3 q5. q3. s,6 ~ ,6 0 1 q2 3 q5 6 q1 3 q1 q7 q5 q3 q2 1 q2 q5 3 q5 2. q3 5
+q7 s5 - q0 s6 s7 q3. s6 ~ ,6 ~ ,6 0 q0 s6 s6 q6 s5 s5 q5. s5 q5 q6 q5 s2 s3 ~ 3 ~ 3 0 q0 s6 s6 s6 q7 s6 s6 s5 q5
+q5 q5 q3 6. ~ 6 0 q0 s5 q5 s6 s3 ~ s3' q2. ~ 2' 0 q6 s5 s3 ~ 3 q0 s3 s2 q1 s,6 s1 ~ q1 s,6 s1 ~ s1 q,6. s0 q1 s2 3
+- 3 0 0 q5 s6 s3 s3' q2. 2' 0 q1' s7 s6 ~ 6 q0 s6 s7 q1' s1' s1' ~ s1' s7 q6 q5. s5 5 q3 6. ~ 6 - 0 0 0 0 0
+%END

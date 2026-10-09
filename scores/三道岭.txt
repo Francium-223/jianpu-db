@@ -1,0 +1,19 @@
+%三道岭.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=33249
+title=三道岭
+tag=
+usertag=
+tagroute=
+confidence=0.954
+conf_p10=0.804
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-33249
+%--
+4/4
+subtitle=score
+1 x x x qx. x qx x 1 x x 5 5 6 q6 q5 q5 q3 q3 q2 1 1 q2 q2 q2 q3 q2 q3 q2 q1 2 - - - 5 q5 q5 6 q6 q5
+q5 q3 q3 q2 1 1 q2 q2 q2 q3 q2 q3 q2 q1 1 - - - 4 - - 5 6 - - - q6 q6 q6 q6 q6' 5 q4' 5 - - - 5 q5 q5
+6 q6 q5 q5 q3 q3 q2 1 1 q2 q2 q2 q3 q2 q3 q2 q1 1 - - - 5 q5 q5 6 q6 q1 3 q3 q2 1 1 q2 q2 q2 q3 q2 q3 q2 q1
+1 - - -
+%END

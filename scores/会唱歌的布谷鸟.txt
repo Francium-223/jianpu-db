@@ -1,0 +1,23 @@
+%会唱歌的布谷鸟.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=27748
+title=会唱歌的布谷鸟
+tag=
+usertag=
+tagroute=
+confidence=0.938
+conf_p10=0.732
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-27748
+%--
+4/4
+subtitle=score
+q,6 s1 s2 s3 s5 q3 3. q5 q3 s2 s1 s2 s3 q2 2. q3 q,6 s1 s2 s3 s5 q3 s3 s2 2 s1 s2 q,3 s,5 s,6 s1 s2 q1 1. q2 s1 s1 s,6 s,5 ,6'
+s,3 s,3 s,5 s,6 s1 s2 q1 s1 s,6 q,6 ~ ,6 - - s5 s6 q6 ~ 6 - s2 s3 s5 s6 5 - q5 q1 q5 q6 4 - q4 q6 q1' q1' 7 - 6 -
+q,6 s1 s2'. 3 q3 s2 s1 2 q,6 s1 s2 3 q3 2 s1 s2 q,3 s,5 s,6'. 1 q,6 s,6 s,5 ,6 q,3 s,5 s,6 1 s1 s,6 ,6. q,6 s1 s2'. 3 - - 3 s3 s2
+s1 s3 2. q3 q1. q1 q6. q5 q,3 s,5 s,6'. 1 q,6 s,6 s,5'. ,6 q,3 s,5 s,6'. 1 s1 s,6 ,6. q,6 s1 s2 3 q3 s2 s1 2 q,6 s1 s2 3 q3 2 s1 s2 q1.
+q1 s6. q5 q,3 s,5 s,6'. 1 q,6. s,5 q,6 q,6 q,3 s,5 s,6 1 s1 s,6 ,6. q,6 s1 s2'. 3 - - 3 s3 s2 s1 s3 2' q3 q1. q1 qx q1 q6. q5'. - 6 ,6
+q,3 s,5 s,6'. 1 q,6. s,5 q,6 q,6 q,3 s,5 s,6'. 1 s1 s,6 ,6 q,6 s1 s2'. 3 - - 3 s3 s2 s1 s3 2' q3 q1. s1 s6. s5. ,6 q,3' q,3 s,5 h,5 s,6'. s,6 1
+s,1' s1 s1 h1 s6 s,6 x q,6. x ,6. s,5'. q1 6' q,3 s,5 s,3' s,6'. s,5 s,1'. 1 s1. s1 s,1 s,6 h1 s,6 ,6. s,6. ,6 3' s,5 s,6 0 1' s1 6' s,5'. 6' s,3 s,5
+s,6'. q1 x q1 s,6 1. 6' x
+%END

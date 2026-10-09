@@ -1,0 +1,23 @@
+%不想让你再为我流泪.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=32723
+title=不想让你再为我流泪
+tag=
+usertag=
+tagroute=
+confidence=0.969
+conf_p10=0.920
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-32723
+%--
+2/4
+subtitle=score
+x q0 s1 sx s2 s1 qx q3. q,3 1' - 2 q2 1' 1. 1 x' 1. 1 1 1 1 x q0 s,5 s,6 sx x s1 q1 s1 q1 s1 s2 s3 s3 s3 s2 s3 q5
+s5 q2 q2 s2 q1 s6 ,5 q0 s1 s2 q3 s3 s3 q3 q1 q7 s6 s5 0 q2 q2 s2 q1 s,6 2 q0 s,5 s,6 s1 q1 s1 q1 s1 s2 s3 s3 s3 s2 s3 q5
+s5 q2 q2 s2 q1 s,6 ,5 q0 s1 s2 q3 q3 q1' q1' q1' s7 s6 q0 s5 s5 q6'. q1' q7 q6 s5 s6 5. 0 0 s1' s1' s1' s1' s1' s7 s7 s6 s7 s6 s6
+s5 s3 q5. s6 s6 s6 s6 s7 s6 s6 s5 s6 q6 s5 3 q4 s4 s4 q4 s5 s6 ~ 6 q0 s6 s7 q1' s1' s1' s1' q7 s6 q6 2'. 2' - s5' s5' s1' s1'.
+s5' q3'. s3' s3' s1' s1' s6 2' s5 s1' s1'. s3' s2' s2' s1' s1' s1' q1' s3 5 s6 s6 s6 s6 s6 s6 s1' s1' q5 q3 q0 s1' s1' q3' s2' s2' q1' s1' s2' 2'
+- s5 s1' s1' s5' q3'. s3' s3' s1' s1' s6 2' s5 s1' s1'. s3' s2' s2' s1' s1' s2' q5'. s3' 3' s6 s6 s6 s5 q6 s6 s1 q6 s5 s3 q0 s6 s1 2 - 2
+q0 s2 s3 q3 q2 s2 q2 s1 1 - 1 - x s1' q1' s1' s2' 2' s1 - s1' 1' s3' s2'. s1' - q0 s,5 s,6. 1 - 1 - 1 - 1 q0 s2 s3 q3.
+s2 2 2' 2' - q2' 2' q1' 1' - 1' -
+%END

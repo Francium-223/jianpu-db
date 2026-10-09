@@ -1,0 +1,20 @@
+%今日一别两茫茫.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15330
+title=今日一别两茫茫
+tag=
+usertag=
+tagroute=
+confidence=0.979
+conf_p10=0.972
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15330
+%--
+4/4
+subtitle=score
+- - 2 x x x x q3 5 q6 3' q2' q1' 1' - - - q3 5 q6 1' q6 q3 5 - - - q6 q1 q1 q6 6 - 3 2 1 - q6 q1 q2
+q3 2 6 5 - - - q,3 ,5 q,6 3 2 1 - - - q2. s2 q2 q,7 ,6. q,3 ,5 - - q,3 q,5 ,6. q1 2 q2 q,7 ,6 q,6 q,5 ,6. q1 2 q2 q,7
+q,6 1. ~ 1 - q3 3 q2 1 q3 q5 ,7. q,5 ,6 - q1 1. ,3 1 ,7. q,6 ,5 - ,6. q,5 ,6 1 q2 3 q1 2 - q3 3 q5 q3 q2 1 q3. s5
+q3 q,7 q,6 s,7 s,6 ,5 q,3. s,5 q,6 q3 ~ s3 s2 ~ 2 q,6 1 - - - 2. q3 5 q3 q5 5 - - - q1 2 q3 5 q3 q2 5 - - - q,6
+q1 q1 q,6 6 - 3 q2 q3 1 - q,6 q1 q2 q3 2 1 5 - - - q,3. s,5 q,6 q3 s3 s2 2 q,6 1 - - - - 5 - - - 1.
+%END

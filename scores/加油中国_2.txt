@@ -1,0 +1,19 @@
+%加油中国_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=28209
+title=加油中国
+tag=
+usertag=
+tagroute=
+confidence=0.921
+conf_p10=0.586
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-28209
+%--
+4/4
+subtitle=score
+x x. x x' x'. 1 x' ,6 6 3 6 q3 3 q2 q2 q2 q1 ,6 - ,6 6 3 6 q1 1 6 5 5 6 ,3 - ,6 6 3 6 q3 3 q2 2 q1
+2 - 7 ~ 7 7 q2 ,5 3 5 q1 ,6 5 ,6 - 1 1 ,6 ,5 ,6 - - - ,6 - - - 6 6 q6 q5 3 q5 q5 q5 q6 6 - q6 q6
+q6 q6 q6 q5 3 q2 5 q6 3 - 2 2 q2 q1 2 q5 q5 q5 q6 q3 q2 1 q2 q2 q2 q3 q5 q5 q5 q6 6 - - - 6 - - - 6 0
+0 0 0 0 0 0 q5 q5 q0 q6 6 0
+%END

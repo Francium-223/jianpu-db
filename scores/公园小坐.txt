@@ -1,0 +1,20 @@
+%公园小坐.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=13324
+title=公园小坐
+tag=
+usertag=
+tagroute=
+confidence=0.906
+conf_p10=0.606
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-13324
+%--
+4/4
+subtitle=score
+1 - - - q1 s1 x ,1 1' x 1 x x 5. 6 1' 6 5 3 2 1. 2 3 ,6 ~ ,6. 5. 6 1'. q6 q5 3 2 2. 1 2 3. 2 1 ,6
+2 1 q6 ,5 - q,5 ,6 3 2 1 2 1 - - - x 1. 5 6 1' 6 5 ,2 2 1 x' ,1' x x' 1. 1. x s1' 5 x q6 6 5 3 ,2
+x 0 7 7. 7 7 0 6 1 2 1 6 5 5 5 1. - - 1 - - 1' 2. x 1 5 q5 6 5 5 6 3 2 - - 1 5 6 5 q3
+2 1 6 1 - - - 2. 1 2 5 6 3 - - 6. 5 6 1 6 1 2 - - 3'. 2' 1' 2' 6 2' 6. 1' 6' 5 6 5 2 - - -
+2. 3' 2' 2' 6 5 - - - 6 2' 6 5 3 5 ~ 5. 2' 3' 2' 3' 2' 6 5 1' - - -
+%END

@@ -1,0 +1,23 @@
+%伊犁河情歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=18019
+title=伊犁河情歌
+tag=
+usertag=
+tagroute=
+confidence=0.958
+conf_p10=0.910
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-18019
+%--
+3/4
+subtitle=score
+1 - - 1 ,1. x' 1 1 1 5 - q7' 2' - q7 1' - - 1' - - 5 - q7' 2' - q6 q7 5 - - 5 - - q4 q6 6 6 5. q4
+3 ,7 ,6 ,5 5 - q2 q4 3 - - 3 - - 2 - ,7 ,6 - q,5 q,6 1 - - 1 - - 1 1 ,5 1. q2 q3 q4 5 - 1' 5 - -
+4 4 3 2. q3 q2 q,7 ,5 - - ,5 - - ,6 ,6 ,5 2 - 3 5 - 4' 3 - - 2 2 1 ,7. q,5 q2 q3 2 - - 2 - - 1 1
+,5 1 - q3 q5 6 - q6 q5 4 - q4 q5 6 - - 6 - - q,5 q,6 q1 q2 q3 q5 7 7 6 5 - 4 3 - 5 2 2 ,5 ,7 2 q2
+q1 1 - - 1 - - q2. s3 q4 q5 6 q7. s6 q7 q6 q5 q4 3 - ,5 2 - q2. s3 1 - - 1 - - 3 5 6 - q6 q7 1' - -
+1' - - 5 6 2' - q6 q7 5 - - 5 - - - 7 6 - 5 4 - q3 q2 6 - - 2 2 2 7 - 6 5. q2 4 3 - - -
+7 6 - 5 2 4. q5 2 - - 5 5 q5 q6 5 - 2 4 - q3 q2 1 - - 1 - - 5 5 6 7 - 2' - q2' q1' 1' - - 1'
+- - 1' - 0
+%END

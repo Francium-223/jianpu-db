@@ -1,0 +1,18 @@
+%凡间.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=36698
+title=凡间
+tag=
+usertag=
+tagroute=
+confidence=0.902
+conf_p10=0.600
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-36698
+%--
+4/4
+subtitle=score
+q,6. s3 q3 q,7 q,4. s3 q3 q,7 q,5. s3 q3 q,7 ,6. q1 q,6. s3 q3 q,7 q,4. s3 q3 q,7 q,5. s3 q3 q,7 ,6 - q,3 s,6 q,7 s1 q,4 s,6 q,7 q1 q,7 q,6 q,5 q,2
+,2 ,3 q,3 q,6 q,7 4 q,6 ,7 q,7 q,6 q,5 ,6 ,7 - q,3 q,6 q,7 q,4 6 ,7 x. x. q,7 q,6 s,5 s,2 q,2 ,3 s,3 s,6 s,7 s1 q,4 s,6 q,7 s1 q,7 q,6 s,6 s,5
+q,6 - ,6 s1 q2 3 q6 q5. d3 q3 q2 x. 0 3 - - q1 q2 q3 q6 q6 q7 q6 q5 q2 q2. q3 3 - q2 3 6 q5. q3 q3 q2
+%END

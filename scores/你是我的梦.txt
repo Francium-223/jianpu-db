@@ -1,0 +1,20 @@
+%你是我的梦.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=35329
+title=你是我的梦
+tag=
+usertag=
+tagroute=
+confidence=0.992
+conf_p10=0.992
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-35329
+%--
+4/4
+subtitle=score
+3 6 1' q7 q6 q5 q6 ~ 6 - 0 3 6 5 q5 q3 q2 q3 ~ 3 - 0 ,6 3 6 q5 q3 2 q1 2 - 5 q6 7 q5 q4 3 - 0 0
+3 6 1' q7 q6 q5 q6 ~ 6 - 0 3 6 5 q5 q3 q2 q3 ~ 3 - 0 ,6 3 6 q5 q3 2 q1 2 - 5 q6 7 q1' q6 7 - - 0
+q6'. q3' q2' 1'. q7 q6 q7 q3 ~ 3 - q1' q1' 2' - q2' q2' q1' q6 2' 3' - - q6 q3' q2' 1'. q7 q6 6 2' - q2' q1' 7 - q5 q5 q4' q3'
+q2'. q3' 3' - - q6'. q3' q1' q1' 7 q6 q5 7 3 - q1' ~ q1' 2' - q2' q2' q1' q6 q2'. q3' q4'. q3' 3' - q6 q3' q1' q1' 7 q6 q5 6 2' -
+q1' q1' 7. q6 q5 q5 q1' q7 6 - -
+%END

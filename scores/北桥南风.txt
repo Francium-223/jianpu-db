@@ -1,0 +1,21 @@
+%北桥南风.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=16873
+title=北桥南风
+tag=
+usertag=
+tagroute=
+confidence=0.963
+conf_p10=0.927
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-16873
+%--
+4/4
+subtitle=score
+q3 q3 q3 q2 q4 q4 q0 q0 q3. q3 q4 q4 s3 q3 q3 q3 q1 q2 2 2 - q0 s5 s5 q2 2. q0 q,5 q,1 q,7 q,7 q,6' ,6' - q0 q0 q,6 q6 q6 q1
+1 1 q6 ~ 6 - - - q5 q5 q5 q5 q0 q1 q5 q3 ~ 3 - - q0 q6 q1 q0 q1 q1 6. 6 - - x q2 q2 q2 q,6 q0 q,6 q4 q3 ~
+q3 q2' ~ 2' - q0 q,3 q1 q1 q1 q1 q0 ,3 q,3 q2 q1 ~ 1 - - q,7 q,5 q,5 q,5 q,5 ,7 q,7 x q0 4 q3 2 2 - x 2 - 1. q6 6
+- - - q1 q1 1. 6. 6 q0 q5 q5 q5 q5 q1 q1 5 q3 3 - x q2 q7' ~ ,7' - 1. q6' ~ ,6' q1 q1 1. 5. ~ 5 q0 q4 q4 q4 q4
+q3 q2 1 q3 ~ 3' - q1 q1 1. 1'. q0 q2' q1' q7 q2' q7 6. ~ 6 6 q1 q1 1. q5 ~ 5 q0 q3 q5 q4' q3 q4 q5 q7 q2 1. ~ 1' 1
+- - -
+%END

@@ -1,0 +1,18 @@
+%十字路口.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=25244
+title=十字路口
+tag=
+usertag=
+tagroute=
+confidence=0.945
+conf_p10=0.820
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-25244
+%--
+4/4
+subtitle=score
+3 5. 3 5. 1 2 q3 q1 ~ 1 - q7 2' q2' 2'. 0 7 6 5 5 - 3 5. q3 6. 7 q5 3 ~ 3 - q2 3 q4 4 5 5. 0 3 2
+1 - 1 - - - 3' 3' 3'. q5 q7 q7 2' 6 ~ 6 - 1' 3 5 6 q5 ~ 5 - 3 5. 3 5 - 6 6 7. 2' 6. 6 x' 3' - q2'
+- - -
+%END
