@@ -1,0 +1,21 @@
+%仲尼.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=24419
+title=仲尼
+tag=
+usertag=
+tagroute=
+confidence=0.960
+conf_p10=0.913
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-24419
+%--
+4/4
+subtitle=score
+- - - x x x x x qx - - 1 0 0 x x x x q5 q3 ~ 3 - - q,6 q1 ~ 1 - q1 q2 3. q5 q5 3 q,6 ~ ,6 - -
+0 q2 q3 q2 q3 ,6 - q2 q5 q3 q1 ,6 - ,5 q,6 q,5 q,6 3 q5 2 - - - q5 q3 ~ 3 - - q,6 q1 ~ 1 - q1 q2 3. q5 q5 3
+q,6 ~ ,6 - - 0 q2 q3 q2 q3 ,6 - q2 q5 q3 q1 ,6 - ,5 q,6 q,5 q2 3. 1 - - - q5 q6 q5 q6 5 - q6 q7 q6 q7 6 - q7
+q7 q7 q1 q7 q5 q3 q7 6 - - - q5 q6 q3 q5 1 - q2 q3 q1 q2 ,6 - ,5 q,6 q,5 q,6 3 q5 2 - - - q5 q6 q5 q6 5 - q6
+q7 q6 q7 6 - q7 q1' q7 q1' q7 q5 q3 q7 6 - - - q5 q6 q3 q5 1 - q2 q3 q1 q2 ,6 - q,5 q,6 q,6 q,5 q,6 3 q5 2 - - q3
+q5 q5 q1 1 - - 2 - - q3 q5 q5 q1 ~ 1 - - 2 - - q3 q5 q5 q1 1 - - 1 - - - qx.
+%END

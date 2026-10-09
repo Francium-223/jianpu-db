@@ -1,0 +1,23 @@
+%不会分离_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=32651
+title=不会分离
+tag=
+usertag=
+tagroute=
+confidence=0.975
+conf_p10=0.966
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-32651
+%--
+4/4
+subtitle=score
+q1 q1 x x 1 1' x 1'. ,x. 0 0 0 0 0 0 0 0 0 0 q3 q3 q4 q5 q5 q1 1. q,6 ,6 - 0 q3 q3 q4 q5 q5 q1 q1. s2 q2 q2
+q2 q2 q3 q2 q1. s6 q6 6 q6 q7 q1 q1 q5 q5 5 q6 q7 q1 q1 4 q3 q4 q3 q2 q6 q6 q5 q3 q3 q2 q2 2 x q1 4 ,4 ,5 q6 q1 q6
+q1 q1 2 q2 2 - q5 q3 q5 q2 q7. ,1 1 q5 q3 q5 q2 q7 ,1 ,1 1 q5 q3 q5 q3 q3 q2 q1 q1 q1 q6 q5 3 q2 2 x q1 q2 q3 q3
+q2 q2 q1 q2 q2 q5 q3 q2 q1 q5 q3 q2 q1 q5 q3 q2 q1 q6 q5 q2 q2 q1 1 - - q0 q3 s4 s3 q1 q5 q1 q2 q1 q1 q2 3 q2 q1 3
+q1 q2 5 q6 q2 5 q1 q5 q1 q5 2 3 q2' q1' 1' - - q2' q1' 1' - - 0 0 0 0 0 0 0 0 q5 q3 q5 q2 q7. ,1 1 q5 q3 q5
+q2 q7 ,1 ,1 1 q5 q3 q5 q3 q3 q2 q1 q1 q1 q6 q5 3 q2 2 x q1 q2 q3 q3 q2 q2 q1 q2 q2 q5 q3 q2 q1 q5 q3 q2 q1 q5 q3 q2
+q1 q6 q5 q2 q2 q1 1 - - q0 q3 s4 s3 q1 q5 q1 q2 q1 q1 q2 3 q2 q1 3 q1 q2 5 q6 q2 5 q1 q5 q1 q5 2 3 q2' q1' 1' -
+- q2' q1' 1' - - 0 0 0 0 0 0 0 0
+%END

@@ -1,0 +1,21 @@
+%《誓言永恒》片尾主题曲.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=31876
+title=《誓言永恒》片尾主题曲
+tag=
+usertag=
+tagroute=
+confidence=0.980
+conf_p10=0.969
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-31876
+%--
+2/4
+subtitle=score
+0 ,3 ,6 ,7 1 2 3 q0 q,3 q,6 q,7 q1 q2 3 0 3 3 2 3 4 3 0 0 0 0 0 0 q3 q3 q2 q3' 3' - q3 q3 q2 q3' 3' - 0
+0 2 3' 2' q1' q,7 ,7 - q1 q1 q,7 1' - q1 q1 q,7 q1' 1' - q,7 q1 3 4 3 2 1 2 q3 q4 q3' q2 q1 q,7 ,6 - 5' 4' 0 0 3'
+2' 0 0 0 0 0 0 0 0 2 - ,6 - 1 1 q,7 q1' 1' - q1 q1 q,7 q1' 1' - ,7 1 2 4 3 2 1 ,7' 1' ,6' ,6' 0 ,6 3' 4'
+3 q2 4 q3 q2 3 qx'. q2' 2' - 2 3 4 3 3' 4' 3 q2 q3 q2 q1 q,7' ,7' 0 ,3 2 q1 q,7 2 q1 q,7 ,6 ,7 1 - 2 3 4 - 3'
+- 3' - ,7 ,7 q,7' 1' ,6' ,6' - ,6 q0 q,3 ,6 - q1 q1 2 1 q3 4 5 6 7 1' - 7 - q6 q7 q7 q7 q1 q7 q6 q5 6 7 3 -
+q2 3 4 3 4 4 3 2 6' 6' - 5 q4 q4 3 2 1 2 3 4 3 3 - q2 3 2 1 q1 q1 1 1 0
+%END

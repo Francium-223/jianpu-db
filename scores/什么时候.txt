@@ -1,0 +1,25 @@
+%什么时候.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=26417
+title=什么时候
+tag=
+usertag=
+tagroute=
+confidence=0.973
+conf_p10=0.916
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-26417
+%--
+2/4
+subtitle=score
+q5. s6 6 5 - q3. s4 3 2 - q2. s3 4 q2 q7. s6 5 - q5. s6 6 5 - q3. s4 3 2 - q2. s3 4 q,5 0 0 0 q2. s3 4. q,5 q3.
+s2 1 - 0 0 0 0 0 0 s,7 0 - 0 - - 0 0 0 0 0 0 0 0 0 - 0 - 0 - q,5. s1 q1. s,5 q,5. s,7 q0 s,3 q,4. s3 ~
+s3 q2 s1 q,7 q3 q,7 q1 s,6 q,7 s2 ~ s2 q1 s,5 ~ ,5 0 q,5. s1 q1. s,5 q,5. s,7 q0 s,3 q,4. s3 ~ s3 q2 s1 q,7 q3 s,7 q1. q,6 s,7 s2 ~ s2
+q1. ,5 0 0 0 q1 s1 s,7 ~ s,7 q1 s1 s1 q2 s3 ~ s3 q1 s,6 q0 s,6 s,6 q,5 s1 ~ 1 0 q1 s1 s,7 ~ s,7 q1 s1 ~ s1 q2 s3 ~ s3
+q1 s,6 q0 s,6 s,6 s,6 q,5. 1 ,7 0 0 s2 s2 s2 s3 3 s0 s2 s2 s3 s3 s7 s7 s5 s2 s2 s2 s3 3 s0 s2 s2 s3 s5 s4 s3 s2 s2 s2 s2
+s3 s3 q1. s0 s1 s6 s5 s5 s4 s1 s4 3 s0 s2 q3 2 s0 d5 s1 s2 s2 s2 s2 s3 3 s0 s2 s2 s3 s3 s7 s7 s5 s2 s2 s2 s3 3 s0 s2
+s2 s3 s5. d4 s3 s2 s2 s2 s2 s3 s3 q1. s0 s1 s6 s5 s5 s4 s1 s2 s1' s1 s,6 s1 s,6 q1 s1 s,6 q2 s1 s,7 ,5 s2 s,5 s2 s,5 s2 q,5. s0 q3
+s2 s2 q1 s,7 ,6 0 0 q0 s,6 ,7 - 0 0 x s1 s1' s1 s5 s1 s5 s1 s5 s1 s5 s1 s1 s5 s1 s5 s1 s5 s1 s1 s5 s1 s5 s1 s1 s5 s1
+d1 d2 d3 q5 q5 s1 s5 s1 s5 s3 s2 s1. q,6 s5 s7. s5 s7 s5 - ,7 0 0 0 q,5. s1 q1. s,5 q,5. s,7 q0 s,3 q,4. s3 s3 q2 s1 x 0 0 0
+- q,7 q3 q,7 q1 s,6 q,7 s2 s2 q1 s,5 ,5 0 q0 1 q,7 1 - - -
+%END

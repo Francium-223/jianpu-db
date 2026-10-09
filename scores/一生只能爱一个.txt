@@ -1,0 +1,22 @@
+%一生只能爱一个.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=30671
+title=一生只能爱一个
+tag=
+usertag=
+tagroute=
+confidence=0.948
+conf_p10=0.798
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-30671
+%--
+4/4
+subtitle=score
+1 - - - x. x. x x x x x s3 s5 s1 q1 s1 q1 s5 s2 ~ s2 q2. q0 s1 s2 s3 s2 s2 s5 ~ s5 s3 q,5 ~ ,5 q0 s1 s2 s3 s5
+s1 s2 - - - q0 s3 s5 q5 s5 s6 q5 q5 q0 s3 q2 s5 s5 ~ q5 s3 s5 ~ 5 0 q0 s4 s4 q4 s3 s3 ~ q3 q1 q0 s6 q1 s1 s1 ~
+s1 q3 s2 2 0 q0 s3 s5 q5 s3 s6 s6 s5 q5 q0 s5 q5 s3'. s3' q3' s1' ~ s1' 1' q0 s5 q1' s1' s2' s2' q1'. s5'. q3' s2' s1' q1'. q3' s4'. s5' s1'
+s1' s6 s2' 2' - 0 0 0 0 q5'. q3' q1' q1' q2'. s3'. d3' q0 d2' q1' s1' d1' s1' q2' d3' 3' q0 s5 q1' s1' s2' s1' q1'. s1' q1' s6 q5'. s3' q3' s1' s1'
+s1' s1' s2' s2' 2' q5 q5 q5'. q3' q1' q1' q2'. s3'. s3' q0 s1' q6' s5' s5' ~ s5' q6'. s1' q1'. q0 s5 q1' s1' s2' s1' q1'. s5'. q3'. s3' q0 s3' q3' s1' s1' ~
+q1' s7 s1' s1' q1'. ~ 1' x s3 q2'. s5 ~ 5 q5. q1' s5 s1 q2 d3 q1' q7 q5 - q3 s6 s1 q1 s7 s1 q2 1 0 s0 q2 s1 q7' s2' s6' ~ s6'
+q5. ~ 5' 0 5' - 5'. s6' s5' ~ 5' - 0 0 0 0 0 0 q3 s6 s1 q1. d2 d1 7 - 0 0 1 1 1 - q,x.
+%END

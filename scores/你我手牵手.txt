@@ -1,0 +1,23 @@
+%你我手牵手.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=23969
+title=你我手牵手
+tag=
+usertag=
+tagroute=
+confidence=0.954
+conf_p10=0.883
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-23969
+%--
+2/4
+subtitle=score
+q1' q1 3 s1 3 2' 4' q3 3. 3 3 2 q1 q,7' x q,7 q,7. q2 dx x 2 2 1 0 0 0 0 0 0 x 0 0 q4 4 qx' qx' - 4. 4 4'
+x 4' 4 4 1' 1' 5 q2' qx. q3' q3 3 0 0 0 0 0 3 4 5 5 5 6 5 5 5 0 5 5 4 3 1' 1' 1' 1' 1' 0 1 2 3
+q5 q5 ~ q5 q6' q3 q2 1 q3 3 q2' 1 1' - 0 0 0 0 0 0 0 0 0 q0 q,5 3 3 q3 3. 3 3 2 q1 q,7' ~ q,7 q2 ~ 2 0
+0 0 0 0 0 4 4 q4 4. 4 4 5 q2 q3 ~ 3 - 0 0 0 0 0 q3 q4 5 5 q5 6 q5 5 - 5 q0 q5 5 4 3 q1' q1' 1'
+- 1' - - 1 2 3 q5 q5 ~ q5 q6' q3 q2 1 q3 3 q2 1 - 1 0 0 0 0 0 0 0 ,5 q,6 q,6 3 q3. q3 ~ 3 q0 q3 3 q3
+q2 ~ 2 q1 q,7' ~ q,7 q2 ~ 2 2 0 0 0 0 0 q4 4 q4 4 q0 q4 4 4 5 q2 q3 3 - 3 0 0 0 0 q3 q4 5 5 q5 6
+q5 ~ 5 - 0 q5 q5 5 4 3 q1' q1' 1' - 1' - - 1 2 3 q5 q5 ~ q5 q6' q3 q2 1 q3 3 q2 1 - 0 0 0 0 0 0 0
+0 5 1 0 0 0 0 0 0 0 0 1 0 0 1 2 3 5 5 5 6' q3 q2 1 q3 3 q2 1 - 1 0 0 0 0 0 0 0
+%END

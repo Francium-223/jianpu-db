@@ -1,0 +1,23 @@
+%亲人_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=32502
+title=亲人
+tag=
+usertag=
+tagroute=
+confidence=0.981
+conf_p10=0.987
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-32502
+%--
+2/4
+subtitle=score
+x q1 q2 3 - - q2. s1 ~ q1 s1 ~ 1 q1 q2 3 q1 q1 s3 s1 ~ q1 1 q1 q2 3 q2 - s5 q3 s1 s2 s3 q3 s1 s1 ~ q1 ,5 -
+- - 0 q,5 s1 s2 ~ 2 0 q2 s3 s2 ~ q2 q,6 ,5 0 q,6 s,7 s1 ~ s1 q2. q1 s,5 s,5 ~ ,5 q3 s4 s2 ~ q2 s1 s2 ~ 2 - 0 q,5
+s1 s2 ~ 2 0 q2 s3 s2 ~ q2 q,6 ,5 0 q,6 d,7 s1 ~ s1 q4. q3 s2 s2 q2. s1 1 - 0 q0 q,7 1 q0 q1 q1 q2 q3 q5 6 s5 s5 ~
+5 q0 q3 q5 q6 s5 s3 q3 q3 q2 q2. s3 3 - 0 q3 s2 s2 1 q0 q1 q1 q2 q3 q5 6 q5 q5 3 q0 q3 s2 s1 s1 s1 q0 s5 q1 s2 s3
+~ q3 q2 2 - 2 0 0 0 0 q1 q2 3 - 5 - q3 s4 s3 ~ q3 s1 s1 ~ 1 q1 q2 3 - 5 - q4 s3 s2 ~ q2 s1 s2 ~ 2
+q1 q2 3 - 5 - q6 s5 s5 ~ s5 q3 s2 2 s1 s2 s3 s4 q3 1 s,6 s,5 ,5 s1 s2 s3 s4 q3 s1 s1 1 q1 s2 s3 q3 s2 s1 q2 1 -
+- - q1 s2 s3 ~ q3 q1 1 - x x x. x 0 - 0 0 0 0 0 q1 q2 q1 s2 s3 3 0 q2 q1 1 - 1 - x 0 s1 s2 s3 -
+5 q2 s1 s2 - q1 q2 3 - 3 - x
+%END

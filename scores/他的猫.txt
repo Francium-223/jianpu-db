@@ -1,0 +1,23 @@
+%他的猫.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=23613
+title=他的猫
+tag=
+usertag=
+tagroute=
+confidence=0.980
+conf_p10=0.962
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-23613
+%--
+2/4
+subtitle=score
+q0 q,5 q5 s4'. q3' q3 s3 s4 ~ s4 q5. q5 s6 s4 ~ s4 q3. q2 s2 s1 ~ s1 q2 s3 q0 q,5 q5 s4 s3 q3 s3 s4 ~ s4 q5. q5 s6 s4 ~ s4
+q3. q2 s2 s1 ~ s1 q2 s1 1 q0 s1 s2 3 q3 s3 s4 ~ q4 s3 s,6 ~ q,6 q1 q,7 s1 s2 ~ q2 s1 s3 ~ 3 q0 s1 s2 3 q3 s3 s4 ~
+q4 q3 q,6. s1 q,7 s1 s2 ~ s2 q1 s1 x. x - 0 q0 d1 d2 q3 s3 s3 s4 ~ q4 q3 q,6. s1 s,7 d1 d2 ~ q2 s1 s5 3 q0 s2 d2 q1 q1
+s1 d5 ~ q5 q3 s1. d1 s,7 s1 s2 ~ s2 q1 s1 0 q0 q1 q1 q1 q,6 q0 q1 q1 q1 q1 q3 q1 q0 q1 q1 s3 q3 q3 q3 q3 q2 s2 q1 q2 q1
+s,6 q1 q0 q1 q2 q3 q1 q1 q1 s1 q1 s2 q3 s1 s1 s1 s1 s1 s2 s2 s2 s2 s2 s2 s2 s2 s2 s2 s1 s,6 s1 1 q0 q,5 q5 s4 s3 1. q3' s3
+s4 s4 q5. q5 s6 s4 s4 q3. q2 s2 s1 ~ s1 q2 s3 q0 q,5 q5 s4 s3 q3 s3 s4 ~ s4 q5. q5 s6 s4 ~ s4 q3. q2 s2 s1 ~ s1 q2 s1 q0
+q,5 q5 s4 s3 q3 s3 s4 ~ s4 q5. q5 s6 s4 s4 q3. q2 s2 s1 s1 q2 s3 q0 s5 q5 s4 s3 q3 s3 s4 s4 q5. q5 s6 s4 s4 q3. q2 s2 s1 s1
+q2. 1 - q0 s1 s2 1 - q0 q5 q5 s4 s3 1 - q0 q0 q,5 q5' s4 s3 1 -
+%END

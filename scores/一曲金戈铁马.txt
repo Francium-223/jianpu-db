@@ -1,0 +1,20 @@
+%一曲金戈铁马.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14339
+title=一曲金戈铁马
+tag=
+usertag=
+tagroute=
+confidence=0.932
+conf_p10=0.684
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14339
+%--
+4/4
+subtitle=score
+1 - - q1 x x q1 x x ,,x 0 x x x x 1 x x 2 - - - 0 0 0 0 2 - - - 0 0 2 - 3 - - - 0 0
+0 0 ,6 6 3 q3 q2 q2 q2 q3 q2 1 2 q,3 q,3 q1 q1 q2 1. q,7 q,6 ,6 ,6 - q6 q4 2 q2 3 q2 q2 q2 q2 q4 4 - q1 s1 q2 q3
+q5 q3 q5 q,6 ,6 - - - 6. q3 3 q7 q6 q5 q3 5 - - q2 q2 q3 q5 1 2 2 - - - q5 5 q6 3 - q3 s4 q3 q2 1 - s2
+q2 q3 q5 ,6 ,6 - - - 3. q5 6 q7 q6 q5 q6 q5 - - q2 s2 q3 q5 1 2 2 - - - q5 5 q6 3 - q3. s4 q3 q2 1 - q2
+q2 q3 q5 ,7 ,6 6 - - - q2 q2 q3 q5 7 6 6 - - -
+%END

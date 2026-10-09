@@ -1,0 +1,25 @@
+%你比春天还美丽.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=50675
+title=你比春天还美丽
+tag=
+usertag=
+tagroute=
+confidence=0.958
+conf_p10=0.926
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-50675
+%--
+2/4
+subtitle=score
+qx q1 3 3'. 0 - 1. x. x 1 1 x. x. 1. 1. 1'. 1'. x. x' x' ,x ,x' ,x' q6 s6 s5 q6 q1 q1 s2 s1 ,6 q3 s2 s1 q2 s5 s3 3 -
+q3. s5 q6 q5 q1 s3 s2 2 q5. s6 q1 s2 s1 ,6 - q3 s5 s6 6 q3 s1' s6 6 q3 s1'. s1' q6 s5 s5 q6 s5 s2 3 q3 s1' s1' q6 s5 s3 2
+- q5 s5 s6 q1' s2'. s1' q1' q6 6 q,6. s5 q,6 q1 q1 s2 s1 ,6 q3 s2 s1 q2 s5 s3 3 - q3. s5 q6 q5 q1 s3 s2 2 q3. s5 q1 s2 s1 ,6
+- q,6. s5 q,6 q1 q1 s2 s1 ,6 q3 s2 s1 q2 s5 s3 3 - q3. s5 q6 q5 q1 s3 s2 2 q3. s5 q1 s2 s1 ,6 - q3 s5 s6 6 q3 s1' s6 6
+q3 s6 s1' q6 q5 q6 s5 s2 3 q3 s6 s1' q6 s5 s3 2 - q5 s5 s6 q1 s2 s1 q1 ,6. q3 s5 s6 6 q3 s1' s6 6 q3 s6 s1' q6 q5 q6 s5
+s2 3 q3 s6 s1' q6 s5 s3 2 - q5 s5 s6 q1 s2 s1 q1 ,6. q5 s5 s6 q1' s2' s1' q1' 6. q3 s5 s6 6 q3 s1' s6 6 q3 s1'. s1' q6 s5 s5
+q6 s5 s2 3 q3 s1'. s1' q6 s5 s3 2 - q5 s5 s6 q1 s2 s1 q1 q,6 ,6 q5 s5 s6 q1' s2'. s1' q1' q6 6 q3 s5 s6 6 q3 s1' s6 6 q3 s6
+s1' q6 q5 q6 s5 s2 3 q3 s6 s1' q6 s5 s3 2 - q5 s5 s6 q1 s2 s1 q1 ,6. q3 s5 s6 6 q3 s1' s6 6 q3 s6 s1' q6 q5 q6 s5 s2 3
+q3 s6 s1' q6 s5 s3 2 - q5 s5 s6 q1 s2 s1 q1 ,6. q5 s5 s6 q1' s2' s1' q1' 6. q3 s5 s6 6 q1' s1' s6 6 q3 s1' s1' q6 s5 s5 q6 s5
+s2 3 q3 s1'. s1' q6 s5 s3 2 - q5 s5 s6 q1 s2 s1 q1 q,6 ,6 q5 s5 s6 q1' s2'. s1' q1' q6 6
+%END

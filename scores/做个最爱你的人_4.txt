@@ -1,0 +1,21 @@
+%做个最爱你的人_4.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=7203
+title=做个最爱你的人
+tag=
+usertag=
+tagroute=
+confidence=0.957
+conf_p10=0.881
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-7203
+%--
+2/4
+subtitle=score
+q0 q0 s5 s6 s1' s1' s1' s1' s6 s5 q3 5. s3 s5 q6 s6 s5 q2 s3 s2 3. s5 s6 s2' s3' s2' s1' q2' s6 0 6. s6 s5 s6 s1 s2 s3 q2 s1 s6
+1. s5 s5 s3 s3 s3 s3 q2 s3 s2 1. s6 s1 s2 s3 s2 s1 s6 s1 s6 s5 ,5. s6 s7 s1 s1 s1 s6 q6 q5 3. s6 s1 s2 s2 s2 s3 q2 q1 2.
+s5 s5. s2 s2 s2 s3 s2 s3 s2 s1 1. s5 s6 s1 s1 s1 s1 s6 s5 q3 - 5. s3 s5 s6 s6 s6 s6 q5 s3 s2 3. s2 s1 s2 s3 d2 s1 q2 s1
+s6 ,6. s1 s1 s1 s1 s1 s6 s6 s5 s5 s3 2. s5 s6 s1' s1' s1' s1' s6 s5 q3 0 5. s3 s5 s6 s6 s6 s6 q5 s3 s2 3. s2 s1 s2 s3 s2 s1
+q2 s1 s6 ,6. s6 s5 s3 s3 s3 s3 q2 s3 s2 1 - s2' s3' s2' s3' q2' s1' s6 5 - q2' q3' q2' q3' q5' q6' q5' 3' q2'. q3' q2' q1' 6 q5 q6 q5'
+q2' 3' q2' q3' q2' q1' q6 q2' q6 1'. q5 q5 1. s5 s6 1. s6 s5 s3 s3 s3 s3 q2 s3 s2 q,6 1. ~ 1 - 0
+%END

@@ -1,0 +1,21 @@
+%丰收.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=21638
+title=丰收
+tag=
+usertag=
+tagroute=
+confidence=0.962
+conf_p10=0.843
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-21638
+%--
+4/4
+subtitle=score
+1 - - 4 x x. x ,x 6 ,6 - 1 - 5 - 3 1 2 - - ,7 ,5 - - - 6 0 0 0 x 3 q3' q2' 1 q,6 q1 2 x 2 x
+2 q,x 0 2 5 5 q2' q3' 3 - - - 3 q3' q2' 1 q,6 q1 2 qx 2 x 2 qx 0 2 5 5 q2' q3' ,6 - - - 3 q3' q2' 1 q,6 q1
+2 x 2 x 2 q,x 0 2 5 5 q2' q3' 3 - - - 3 q3' q2' 1 q,6 q1 2 x 2 q,x 2 q,x 0 2 5 5 q2' q3' ,6 - - - q3. s2
+q1 q2 q3 q2 3 q2 s2 s2 q2 s2' s3' 2 - q2. s1 6 q1 q2 q1 2 q,6 q,6 q,6 q1 ,6 - q3. s2 q1 q2 q3 q2 3 q2 s2 s2 2 s2' s3' 2
+- q2. s1 q,6 q1 q2 q1 2 q3. s3 q3 q2 3 qx qx 6 6 6 6 q3. s5 q6 q5 q6'. s5 3' q5. s6 q5 q3 2 2 2. s3 q2 q1 ,6 - 6 6
+6 6 3. s5 q6 q5 q6'. s5 3' q5. s6 q5 q3 2 2 0 q5 q6 7 q5' q6' 6 - - - 6 - - - x x.
+%END

@@ -1,0 +1,21 @@
+%不要让我知道_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=13790
+title=不要让我知道
+tag=
+usertag=
+tagroute=
+confidence=0.971
+conf_p10=0.940
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-13790
+%--
+2/4
+subtitle=score
+x q0 s1'. d2' s3' s1' s3' s2' s5 s2' s3 s3 d5 s2 q1' q2' d2' 3' 2' - - s1 q1 s1 q1. s,7 ,6 q0 s,6 s,6 s2 s2 s2 s1 q,3 s,7 s,6 ,5 q0 s,3
+s,5 q1 s,7 s1 q,3 q,7 ,6 q0 s,6 s1 q2 s2 s2 q1 s1 s,6 ,5 - s1 q1 s1 q1. s,7 ,6 q0 s,6 s,6 s2 s2 s2 s1 q,3 s,7 s,6 ,5 q0 s,3 s,5 q1 s,7
+s1 q,3 s,7 s,6 ,6 q0 s,6 s1 s2 q2 s3 s2 s3 s2 s,6 s2 s1 q1 ~ 1 ~ 1 q0 s1 s2 q3 s2 s1 q,3 s1 s,6 ,5 q0 s,5 s,5 s,6 q1 s,6 s3 q2
+s1 2 q0 s1 s2 s3 q5 s3 s3 q2 s1 ,6 q0 s1 s,6 s2 s3 s2 s1 s1 s,6 s,6 s,3 ,5 q0 s1 s2 q3 s2 s1 q,3 s1 s,6 ,5 q0 s,5 s,5 s,6 q1 s,6
+q3 s2 s1 2 q0 s1 s2 s3 q5 s3 s3 q2 s1 ~ s1 q,6. q0 s1 s,6 s2 s3 q2 q0 s2 s3 s5 s3 s3 s5 q2. d6 ~ q,6 q1 ~ 1 ~ 1 - s6
+q1. 1 1 q0 s1 s2 q,6 q1 1 0 x s1' d2' s3' s1' s3' s2' s2' s1' s3 s3 s2 q2' s1' d2' 3' 2'
+%END

@@ -1,0 +1,23 @@
+%一生痴心.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=24955
+title=一生痴心
+tag=
+usertag=
+tagroute=
+confidence=0.985
+conf_p10=0.972
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-24955
+%--
+4/4
+subtitle=score
+- - q0 s,5 s,5 q,6 s,6 s,6 q,6 s,6 s1 q3 s3 s3 q0 s3 s5 q6 q6 q1 q2 3 q0 s3 s5 s3 s2 s2 s2 q2 s3 s2 s1 s,6 s,6 s,6 q0 s,6 s,7 q1
+s2 s1 s1 q2. 3 q0 s,6 s,5 q,6 s,6 s,6 ~ q,6 s,6 s1 q3 s3 s3 q0 s3 s5 q6 q6 q1 q2 3 q0 s3 s5 s3 s2 s2 s2 ~ s2 q3 s2 s1 s,6 s,6
+s,6 q0 s,6 s,7 - q1 q2 s,7 q,6. q,5 q,6 ~ ,6 - q0 s,6 s1 s2 s2 s2 s1 s2 q3. 2 q0 s1 s2 s3 s3 s3 s2 s1 q2. 3 q0 s3 s5 s6 s6 s6
+s5 q6. s5 q5 q3 q0 s3 - s2 s1 s2 s1 s2 q1. q,6 q5 ~ 5 q0 s,5 s,5 s,6 q1 s3 s3 s3 s2 q3 q6 5 q0 s3 s5 s6 s6 s1' s1' q6 s5 s3
+~ s3 q5. q0 s5 s6 s6 s1' s1' s6 q5 s3 ~ s3 s5 s5 s3 s2 q1. s2 s2 s2 s1 s1 s6 s1 2 - s3 s3 s3 s2 q3 q6 5 q0 s3 s5 s6 s6
+s1' s1' q6 s5 s3 5 q0 s5 s6 s6 s1' s1' s6 q5 s3 ~ s3 s5 s5 s3 s2 q1. s2 s2 s2 s1 q1 s6 s1 2 s2 q1. q,6 q1 1 - - - - -
+- - - - q0 s,6 s,5. q,6 q1 1 - q0 s5 s6 s6 s6 s1 s6 q5 s3 s3 s5 s5 s3 s2 q1. s2 s2 s2 s1 q1 q,6 q1 q2 2 - q0 q2 q1 q,6
+1 - -
+%END

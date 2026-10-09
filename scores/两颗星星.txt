@@ -1,0 +1,19 @@
+%两颗星星.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14814
+title=两颗星星
+tag=
+usertag=
+tagroute=
+confidence=0.938
+conf_p10=0.702
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14814
+%--
+4/4
+subtitle=score
+1 - - q1 4 q,1 q1'. q1' ,1' q1. x' x. x. x q,x' 1 q6 3'. q6' q3' q6' 2' ~ 2' q6 q2' 2' q6' q2' q6 1' - q7 5 q3 q6 q6 6' q6' q0
+0 q3 s6 s1 q2 q3 q3 q2. s3 q2 s1 s6 q1. s2 2 q7 s7 s6 q5 s0 s6 6 - q5. s2' q1' s7 s6 s5 s3 s6 1' q1' q2' s4'. s3' d2' d1' s1' s2'
+2' - q1' 4 s4 q6 q2' q1'. s0 q7. s6 s7 s3 s5 s6 6 - s7 q0 s6 q7 q5 q5 3. q6 3. q6 q3 q6 2 2 q6 q2 2 q6 q2 q6 1' - q7
+5 q3 q6' 6'. ~ 6' - q6' q0 0 0 0
+%END

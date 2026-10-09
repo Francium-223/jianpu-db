@@ -1,0 +1,20 @@
+%你是我心中的太阳.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=23823
+title=你是我心中的太阳
+tag=
+usertag=
+tagroute=
+confidence=0.953
+conf_p10=0.773
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-23823
+%--
+4/4
+subtitle=score
+- - - x x x x x 2 q2 q4 5 q5 q6 4. q6 q5 q6 q5 s4 s2 2 - - - 2 - - - q2 2 q4 5 q5 q6 1'. q2' q1' s6 s1'
+q6 q5 6 - - - 6 - - - q5 q5 q5 q4 5 - q5 q5 q5 q4 2 q1 q2 4. q5 6 1' 2' q1' q6 6 q5 s6 s1' 6 - - - 6 -
+- 0 6. q6 3'. q2' 2' - - q1' q6 q5 5 q6 1' q2' q3' 1' - - - q5 q2 q2 q4 5. q4 q6 q6 q6 q1' 5 q6 q1' 2'. q3' 3' 2' 3' -
+- - 6. q6 3'. q2' 2' - - q1' q6 q5 5 q6 1' q2' q3' 1' - - - q5 q2 q2 q4 5 q0 q4 q6 q6 q6 q1' 6 q6 q1' 2'. q3' q1' q6 q6
+q5 6 - - - 6 - - - 2' - 3' 5' 6 - - - 6 - - -
+%END

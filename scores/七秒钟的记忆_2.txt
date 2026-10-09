@@ -1,0 +1,22 @@
+%七秒钟的记忆_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=25075
+title=七秒钟的记忆
+tag=
+usertag=
+tagroute=
+confidence=0.975
+conf_p10=0.939
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-25075
+%--
+4/4
+subtitle=score
+- - - q0 q1 q1 s1 s,7 ~ q,7 q,5 q0 s,3 s,5 q,6 q,1 q,2 s,1 s,3 ~ q,3 q,5 ~ ,5 q0 q1 q1 s1 s,7 ~ q,7 q,5 q0 s,3 s,5 q,6 q1 q2 s1 s,6
+~ q,6 q1 ~ 1 q0 q1 q1 s1 s,7 ~ s,7 q,5. q0 s,3 s,5 q,6 q,1 q,2 s,1 s,3 ~ s,3 q,5. ~ ,5 q0 q1 q1 s2 s,7 s,7 q,5. q0 s,3 s,5 q,6 q1 q2 s3
+s2 s2 q1. q1 q2 q3 s6 s6 s6 q3 s3 s2 q5 s5 q0 s,7 s1 s2 d5 s5 ~ s5 q2 s2 s1 q3 s3 q0 s2 s3 q4 s3 s2 ~ s2 q1 s3 s4 s3 s2
+~ s2 q1. q3 s3 s3 ~ s3 q2. q3 q3 q2 q1' q1' s2 s3 s3 q1 s,7 s,7 q,5. q0 s,5 s,5 q,6 s1 s2 s2 q1 s,6 q,6 q1 q0 s3 s2 q1 s2 s3 s3 q1
+s,7 q,7 q,5 q0 s,5 s,5 q,6 q1 q2 s1 s,6 ~ q,6 q1 s0 s3 s2 q1 s2 s3 ~ s3 q1 s,7 ~ s,7 q,5. q0 s,5 s,5 q,6 s1 s2 ~ s2 q1 s,6 ~ s,6 q1.
+q0 s3 s2 q1 s2 s3 s3 q1 s,7 s,7 q,5. q0 s,5 s,5 q,6 s1 s2 s2 q1. q,6 q,6 ,6 0 0 0 0 0 0 0 q,6 s1 s2 s2 q1. q,6 q,6 q0 s3 s2 q,6'
+q,6 s1' s1 s2' s2' s2' s2' q1 q1' q1. q,6 q,1' q,6' q,1' ,6' ,1'
+%END

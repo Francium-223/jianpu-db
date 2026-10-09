@@ -1,0 +1,21 @@
+%一条路伸向天边.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=11715
+title=一条路伸向天边
+tag=
+usertag=
+tagroute=
+confidence=0.874
+conf_p10=0.477
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-11715
+%--
+2/4
+subtitle=score
+1 1. 4 x. 1 0 ,x. 1' qx x x x ,6 ,1. q,6 ,6 0 q,7 q,7 ,,5 ,3 ~ ,3 - 0 ,6 q,6 q,6 1 1 q1 q,,6 2 ,,1 q2 3 ,3 - ,6 3.
+q,,3 3 0 3 1 3 2 2 - q0 ,6 ,6 0 ,6 q1 1 1 ,6 1. - - - q,,,7 ,5 ,,,7 ,6 ,6. ,6 2. 2 q3 4 x 0 5 5 4 q3 q2 q,1
+3 3. ,6 4. 4 2 x. 2 2' 1 1' 1' q,,,2 q,,,2' 1' 3 - 3 - 1 1 1. 1 q5 q5 q5 q5 q6' s4 s5. s5 1 6 6. 6 5 6 x q5 1
+4 1 5. 0 2 3 1 4 x. s,3 s3 q4 0 2. 3 q,x'. x' ,4 ,,,4. x. ,,,4' ,,,1' ,2' - 0 x'. 6 3 5 6 - 6 - 6' x ,6 ,6 q6 q0 ,6
+,3 ,3 ,6 ,6 ,6 q0 q,,6 ,3 q,3 1. ,1' ,7 q,5 q,7 ,6 ,6 - q0 q,,6 ,6 q,,6 1 1. q1 q,6 q,7 q,5 q,1 ,,6 ,6 - q0 q,6 0 q,6 ,,6 s1 1 q1 ,,6
+s,7 q,5 q,7 q,,,6 ,6 - q0 ,6 ,6 q,,6 q1 q1 q1 q,6 q,7 q,,5 q,,7 q,6 ~ ,6 - q,7 q,5 q,7 q,6 ~ ,6 -
+%END

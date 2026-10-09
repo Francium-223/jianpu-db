@@ -1,0 +1,20 @@
+%俏夕阳.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=51834
+title=俏夕阳
+tag=
+usertag=
+tagroute=
+confidence=0.967
+conf_p10=0.885
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-51834
+%--
+6/8
+subtitle=score
+s5 s6 s1 q3 s3 s2 q1 q2 s3 s2 q1 q3 q2. s1 2. q2 s2 s1 q7 q1. s7 q6 q5 q6. s7 1. 1. q5 q5 q3 5 q6 1'. 1'. q2' q2' q3' q6 5. 5.
+q6 q6 q1' q6 5' q6' 3'. q5' q5' q3' 2' s2' s3' 2'. 2'. q5 q5 q3 5 q6 1'. 1'. q2' q2' q3' 2' 6' 6. 6. q5 q5 q3 5 q6 2'. 3'. 0 s5' s5' 2'
+q3' 5' q3' 5' s5' s6' 5' 5' q6' q6' q6' 5' q3' 2' q1' 2' 2' q3' q6 q6 2' q3' 5'. 2' 2' s6' s1' 5'. 5'. q3' q3' q5' 5' q6' 6'. 6'. q1' q6' 5' q6'
+5' 5' q6' q6' q6' 5' q3' 2'. 2'. 5' q3' q2'. s5 q2' s5 s3 s5 s6 s2' s3' s2' s1' s2' s3' s5' 3' q7 7. 1'. q5'. s3' q7 q7. s5 q7 3. ~ 3 2' 3'
+5' 6' 5' s2' 0
+%END

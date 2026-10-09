@@ -1,0 +1,19 @@
+%他曾是一个兵.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=35875
+title=他曾是一个兵
+tag=
+usertag=
+tagroute=
+confidence=0.988
+conf_p10=0.981
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-35875
+%--
+4/4
+subtitle=score
+q,5 5 q3 3 - 3 q,7 q1 q5 5 q5 5 q1 q1 1 - 1 - - 0 q,5 5 q3 3 - 3 q,7 q1 q5 5 q5 5 q1 q1 2. q2 2 - - -
+3. q5 q5 q5 q5 q5 ,7. q,6 ,6 - q,6 q,7 q1 q2 q2 q2 q1 q,6 3. q2 2 - 3. q5 q5 q5 q5 q5 ,7. q,6 ,6 - q,6 q1 q3 q2 q2 q,6 q3 q2
+2 3 6. q3 5 - - - 5 - - - 1 - q1 1' q6 6 - - ,7 6. q5 5 - 5 q,5 q1 q4 3 q3 3 - 2 3 1 - - - 1
+- - - q3 q5 q5 q5 5 - 5 - 5 - 5 - - - 5 - - -
+%END

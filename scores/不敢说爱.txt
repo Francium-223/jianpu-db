@@ -1,0 +1,21 @@
+%不敢说爱.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=30750
+title=不敢说爱
+tag=
+usertag=
+tagroute=
+confidence=0.925
+conf_p10=0.659
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-30750
+%--
+4/4
+subtitle=score
+q1 0 0 q4 x. x qx' x x qx 0 0 1 q1 2 1 x x. x 6 q6 q5 6 q6 q7 q2'. q2' q7 6 q1' 2' q2' 7 5' 3' - - - 6 q6
+q5 6 q6 q7 q2'. q2' q7 6 q6 q5 3. q2 3 q3 q5 6 - - - x 6 q6 q5 6 q6 q7 q1'. s2' q7 6 q6 s6 s5 3 q3 q2 q3 q2 q3 q5
+x' - - - 2 q2 q1 2 q2 q3 q3. s5 q3 q2 1 q,6 q1 2. s3 s2 1 q2 q1 ,6 - - - q2 q2 q2 q1 2 q1 q2 q3. s5 q3 q2 3 q3
+q5 6 1' 7 q5 q3 6 - - - q2'. s2' q1' q1' 6 q1' q5. s5 q6 q5 3 q3 q5 x' 7 q5 q3 6 - - x q6' q6' q2' q2' q2' 6 q1' q6 q5
+q6 q5 3 q1' q1' 3'. q2' 3' q3'. q5' 6' - - - x 6 - - - 6 0 0 0 6 x q1' q1' q2'. q2' q2' 6 q1' q6 q5 q6 q5 3 q1' 3'. q2'
+3' q3'. q5' 6' 0 s1' d1' s1' d7 6 - - x
+%END

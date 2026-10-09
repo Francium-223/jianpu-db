@@ -1,0 +1,19 @@
+%九十九个日夜.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=29588
+title=九十九个日夜
+tag=
+usertag=
+tagroute=
+confidence=0.967
+conf_p10=0.910
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-29588
+%--
+6/8
+subtitle=score
+0 3 q3 3 q1 5. 0 6 q5 6 q3 5 0 q6 q6 q6 1' q5 6 q5 3 q4 q4 q4 ,6 q1 2 0 3 q3 3 q1 5. 0 6 q5 6 q3 5 0
+q6 q6 q6 1' q5 6 q5 3. 4 q,6 q1 q2 1 0 1' q1' 1' q2' 3' 5 1'. q1' q1'. s3' s2' 2' 0 q1' q1'. q2' q3' q1' q1' 2' 6 7 q3 q7 q6 5
+0 3 q3 3 q1 5 0 3 q5 7 q2' 6 0 5 q5 6 q1' 3' q2' 2' 2' q6 2'. q1' 1'. 1'. x 3. 3. 3. 3. 3. 3. 3 q5 q2' 1' q1' q2' 3'.
+3' q2' 3'. 2' 1' x. 1'. 1'. 1'. 1'. ,x.
+%END

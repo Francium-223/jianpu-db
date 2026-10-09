@@ -1,0 +1,19 @@
+%从头做起.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=40595
+title=从头做起
+tag=
+usertag=
+tagroute=
+confidence=0.944
+conf_p10=0.686
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-40595
+%--
+4/4
+subtitle=score
+1 - - x 0 x ,,,x 1' x 1 1 q2 3 5. q6 5' 4 3 2 2 2 1 2 - q2 3 5 q6 1 3 5 2 2. 3 q7 2 6 1 ,5 -
+,6 1. 2. 3 2 7. ,6 6 6. 5 6 q6 q4 3 - 2 2 s3 q5 5. q3 5 q6 q1 7. 2 s6 q5 6 1 ,5 5 q6 s1'. q2' 1' q7 6. q5 3
+q6 1 q5 q4 3 - 2 2 3 s5 6 q1 q7 6. ,,1 2 s3 1 2 - 5 q6 q1'. q2' 1' q7 6 1' q7 q3 5 q6 q7 s2' 6. ,5 qx 3 2 3
+,5 5. 6 1 q1 1. - 1 q1' 1 1 7 2. 6 5 6 q1 ,5 - 7 2 q6. 5 q6 1 ,5. - x. ,5 - - 0
+%END

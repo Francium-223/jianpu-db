@@ -1,0 +1,21 @@
+%依然把你放心里.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=27991
+title=依然把你放心里
+tag=
+usertag=
+tagroute=
+confidence=0.971
+conf_p10=0.935
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-27991
+%--
+4/4
+subtitle=score
+- - - - - q1 q2 3 q3 q2 q3 q5 q6 q5 3 - - q2 q1 2 q2 q3 q2 q1 q1 q,6 ,5 - - q1 q2 3 q3 q2 q3 q5 q6 q5 3 -
+- q2 q1 2 q3 2 q1 q2 1 - - q1' q2 3 q3 q2 q3 q5 q6 q5 3 - - q2 q1 2 q2 q3 q2 q1 q1 q,6 ,5 - - q1 q2 3 q3 q2
+q3 q5 q6 q5 3 - - q2 q1 2. q3 2 q1 q2 1 - - q5 q6 1' q5 q6 1' q6 q3 5 - - q5 q6 1' q5 q6 1' q6 q3 2 - - q3
+q4 5 q3 q4 q5 q5 q2'. q3' 1' - - q3 q3 2 q3 2 q1 q2 1 - - x q1 q2 3 q3 q2 q3 q5 q6 q5 3 - - q2 q1 2. q3 q2 q1
+q1 ,5 - - q1' q2' 3'. q2' q3'. q6'. 3' - - q2' 2' q3' 2' q1' q2' 1' - - x q1 q2 1 - - x s2 s3 q7 q7 q6 q6 q5 q5 q3 q3 q2
+q2 q1 2 q1 s1 s2 1 - - x q5 q6 1 - - x q1 q2 q2' 2'. ,2 2' q2' 1' 1' x
+%END

@@ -1,0 +1,22 @@
+%人面桃花_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=36302
+title=人面桃花
+tag=
+usertag=
+tagroute=
+confidence=0.979
+conf_p10=0.972
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-36302
+%--
+4/4
+subtitle=score
+x q1' 2 q1 q2 1 q2 q1 1 - - - x ,5 - ,6 q1 2 q1 q2 3 - 5 q6 q1' q5 q6 q4 q3 2 - - 0 2. q3 5 6 q3 q5 q2
+q1 ,6 - 2 q5 q,7 q,6 q,5 q,6 ,5 - - 0 3 - 5 1' 6 q5 q6 3 - q2 q3 q2 q3 q5 q6 q4 q3 2 - - 0 2 q2 q3 5 6 q3
+q5 q2 q1 ,6 - 2. q5 q,7 q,6 q,5 q,6 1 - - 0 1 q1 q2 3 q2 q1 q,6 q1 q2 q3 q6 q5 q3 2 - - 0 3 q3 q5 6 q5 q3 q2 q,6
+q1 q2 3 q2 q,6 1 - - 0 1 q2 q3 2 1 ,7. q,6 q,5 q,6 q,7 q2 ,6 - - 0 ,6 q5 q3 2 1 ,7 q2 q,7 q,6 q,5 q,6 ,5 - - 0 ,5
+- ,6 q1 2 q1 q2 3 - 5 q6 q1' q5 q6 q4 q3 2 - - 0 2. q3 5 6 q3 q5 q2 q1 ,6 - 2. q5 q,7 q,6 q,5 q,6 ,5 - - 0 3
+- 5 1' 6 q5 q6 3 - q2 q3 q2 q3 q5 q6 q4 q3 2 - - 0 q2 q2 s3 5 6 q3 q5 q2 q1 q,6 - 2. q5 q,7 q,6 q,5 q,6 q1 - -
+0 - - - 1 - - 0 6 q1 q5 q6 2 1 - - -
+%END

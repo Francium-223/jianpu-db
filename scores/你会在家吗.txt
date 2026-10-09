@@ -1,0 +1,23 @@
+%你会在家吗.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12136
+title=你会在家吗
+tag=
+usertag=
+tagroute=
+confidence=0.615
+conf_p10=0.306
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12136
+%--
+4/4
+subtitle=score
+1 qx 0 d1 q1 q1 q2' q2' - 2' q7 1' - - 1' 1' 1' x' x 1' 1' 5 1 6. ,x 7. 4'. q3' 1' 2 2' 2 2' x 5 x. q,,,2 s1 q6 q,,,1'
+s,,,1' d,,1' q1' q1' 1' s0 0 q1' d1 dx s0 s0 s0 s0 d1 s0 s0 0 q0 q0 q0 h1. q6 q1' q1' q1' h1. hx' h,1 s1' q1' s,1 q1 q1' d1 s7 h7 h0 q6 d0
+h1' h2' s1 q1' q1' q1' d1 s1 q1 q1' q1 q,1 1' 1' 1' 5 1 6. h,,,3' h,,,6' q7' h,1' q7 3' 5' 6 q6' 1 1' 3' 1' 5 s0 s1' 1' 1' s1' 1' 1' 1'
+6 q1' 1' x 1' 1' sx' s,1' 1' 1' q,1' 6 q,,,1' 1' x' 7 1' 1' 2' 2' 1' q,,,1' 1' q,,1' s0 s0 5 q1 q1 q1 s,,,1' s1 h1 d1' d1' h,,,1' h0 q1' q0 q0
+0 q0 q0 h2 d3' d7' h1' d1' h3' 6 s1' d1 q,7 1' s1 h,1' 1' h1 d,3' d,,1' d,,1' s,1 q1. sx' d1' 1 1. s1'. s1' 1' d1 q1' d,1' q1' s1 q1' 2' d1' d1' s1
+q2' q1' q1 qx' sx' s1' qx' q5' s1 d1' q1 s0 s1' s1' s1 q2' d1' d1' s1' s1' s1' 1' q1' 1 1' 1' 1' q3' 0 d1' q1' d1' d1 6 d1' s1' h1 h1 s5 h1
+q0 d1' q1. s1'. h1 1' 3' q1' q1 s1' q2' d1 6 1' 1' q1' q1 q1' d0 q0 d0 h2 q1' ~ d1 ~ h1 ~ ,1' ~ h1 h,,1. q2' h1 h1 s2' s2' q2' s1' s1
+s,x qx' 1' 1'
+%END

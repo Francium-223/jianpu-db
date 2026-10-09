@@ -1,0 +1,21 @@
+%不依不饶.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=27326
+title=不依不饶
+tag=
+usertag=
+tagroute=
+confidence=0.988
+conf_p10=0.986
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-27326
+%--
+4/4
+subtitle=score
+6 q3 q5 q1 q2 3 q1 q2 q3 q3 q2 q1 ,6 q,6 q5 3 q2 q1 ,6 q,6 q5 q3 q5 q1 q2 q3 q5 6 q3 q5 q1 q2 3 q1 q2 q3 q3 q2 q1 ,6
+s,6 q5 3 q2 q1 ,6 q5 q2 3 q2 q1 ,6 q5. s6 q5 q3 q2 q5 q3 q5 q2 q1 6 - - - 6 - - - 3 q3 q3 3 ,6 3 - ,6 - q3
+q2 q1 q2 3 - - - 3 - - - 3 q3 q3 5 3 3 - ,6 - q2 q1 q1 q,6 ,6 - - - ,6 - - - q,6 q,6 q3 q3 3 q1 q2 q2
+q1 ,6 q,6 q,6 q5 q5 3 q1 q2 q2 q1 ,6 q,6 q,6 q1 q1 q2 q1 q2 q3 3 - - - 3 - - - q6 q6 q6 q6 q3 q5 6 q6 q6 q6 q6 q6
+q5 3 q6 q6 q6 q6 q3 q5 6 q6 q6 q6 q6 q6 q5 3 q6 q5 3 q6 q5 3 q,6 q5 3 q6 q5 3 6. q6 5 3 5 1 - q2 q3 ,6 - -
+- ,6 - - - ,6 - - - ,6 - q6 q6 q6 q5 6 0 0 0 qx. x.
+%END

@@ -1,0 +1,22 @@
+%为你失魂魄_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=34018
+title=为你失魂魄
+tag=
+usertag=
+tagroute=
+confidence=0.996
+conf_p10=0.994
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-34018
+%--
+4/4
+subtitle=score
+s6 s6 s6 s6 q6 s5 s5 q6 q1 6 s6 s6 s6 s6 s6 s1 s1 s1 q6 q5 3 q5 s5 s6 q5 s5 s6 s5 s6 s5 s6 q1 q3 2 - - - q3 s3 s1
+q6 q5 3 q5 q3 q1 s1 s3 q2 q1 ,6 q1 q6 5 q3 5 s6 s1 6 - - - q6 ,6 s3 s5 3 - q5 s5 s5 s3 s2 q1' ,6 - q6 q6 q5 q6
+q5 s6 s5 3 s2 s3 2 s6 s1 2 - 3 q6 q5 q3 q2 s3 s5 q1 s3 q2 q1 ,6 - q2 q3 q5 q6 q5 q3 q5 s6 s1 q6 q6 6 - - s6 q6
+s5 q3 s1 s6 6 q5 1 q1 s6 s1 q6 s5 s3 3 q5 q5 q5 q6 1 q5 q3 2 - - - s2 q2 s1 q2 s3 s5 q3 s2 s1'. ,6 s1 q6 s5 6 -
+- q1 s6 s5 3 - - - 0 0 3. 1 6 5 3 2 2 3 2 1 6 6 5 5 6 5. 6 5 3 5 5 6 1 q1 q6 ~ 6 - - q1
+q6 6 - - s6 s6 s6 s6 q6 s5 s5 q6 q1 6 s6 s6 s6 s6 s6 s1 s1 s1 q6 q5 3 q5 s5 s6 q5 s5 s6 s5 s6 s5 s6 q1 q3 2 - -
+q1 q2 3 2 3 5 6 - - - 6 - - 0
+%END

@@ -1,0 +1,18 @@
+%一只小船海中荡.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14995
+title=一只小船海中荡
+tag=
+usertag=
+tagroute=
+confidence=0.981
+conf_p10=0.989
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14995
+%--
+4/4
+subtitle=score
+x q1 q2 s3 s5 3 ~ q3 q1 q3 s2 s3 2 ~ q2 q3 q2 1 - - - 3 - - - q3 s3 s5 s3 1 s1 s5 - - - x q3 q1 q1 s3
+s1 s3 s1 q1 s1 q3 s3 q1 3 3 s3 s1 - - - q1 q2 q2 q1 q3 2 1 s1 s1 s5 - - - q3 s3 q3 q2 1 2 q1 q,5 - - - s1
+s2 s3 s3 s2 s2 s1 s1 s5
+%END

@@ -1,0 +1,23 @@
+%上善若水.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=27646
+title=上善若水
+tag=
+usertag=
+tagroute=
+confidence=0.918
+conf_p10=0.641
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-27646
+%--
+2/4
+subtitle=score
+q1 2 x 4 3 x 4 4 x 4 x 4 q3 q5 q2 q3 q2. s1 ~ s1 s0 q6 3 - - 0 q3 q5 q2 q3 qx'. q6 ~ s6 s0 q3 5 - - q5
+q5 6 5 0 q5 q5 5 q1' q1' - 6 5 - q3. s3 q3 q5 2 - - q5 2'. - q2' q6 6 - x q5 q6 q7'. 6 - - q6 1' - q7 q6 q7
+q6'. 7 5 - q4 q6 6 - q5 q4'. 1'. q3 2 - q1 q2 q3 5. 0 q3 q5 q6'. 7. 0 q6 6 q0 4 q2' ~ 2' - - - q3 q5 q2' q3' q2' 1'
+q5 q2' q5 q6 q6' q3' q6 q1' d3' s2'. s2' s3' 2 3' 2' - - q6 q3 q6 q5 q3' q5 q1' q5' 2' 2' 3' q2' ,x 1' 1' q2' q3' ~ q3' 1' 6 5' 0
+3' q6 s2'. q5 s3' q6 q5 q5' q5 q6 q5 q0 q1' q7 6 3' 2 7 2' 6 3' 6 5' 0 q6 6 q0 x'. q2' ~ 2' - - - - q3 q5 q2' q3' q2'
+q2'. s3' ~ q3' q2' 3' - q3 q5 q1' q2' q3' q2' q2'. s3' ~ q3' q6 5' - q3' q2'. q3'. 1' 0 q7 q6 q7 q6 ~ 6 0 q5 q6 q1' s2'. s3' 2' - q6
+q3' q5' 2' - 1' - - - 1 1 s1' s2 s3 s5 s1' s1'. s2' s3' s5' d0 d1 s1' s1' 5' 3' s1' s1' s1' 4' - 5' 5' q6 q1' q3 q3' q5' 2' - -
+5' 5' - - - 5' - - - 5' - - 0
+%END

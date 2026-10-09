@@ -1,0 +1,20 @@
+%Take_Care_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12545
+title=Take Care
+tag=
+usertag=
+tagroute=
+confidence=0.808
+conf_p10=0.420
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12545
+%--
+4/4
+subtitle=score
+1 qx - - q1 0 - x x x' x. x'. x x'. x' q2 3 ~ 3 0 0 0 0 3 6 3 6 7. ~ 7 - 7 - 0 0 0 0 6 6 q6
+q6 7' x' 7 1' 2' x 6 ,6' 6 6' 6' x 5 5 x'. ,5 5 5 x' ,x 1. 5' 5' q,,x 5 x 6 6 1 1 x' x x x x' x x 1 ,1
+1 0 0 0 0 0 0 0 0 0 0 q0 0 0 0 0 x x' qx ,1' x x - - x 0 - 5 0 2. 3. q2 q0 2'. 2'. 3 d3 1' 2 1
+3 1 1' 1 q1 1 q1 q1 q,,1' 2'. 2 2 2 x'. 3 2 2' 1 1 2'. 2 ,1 1 0 0 2 0 2 0 q,3 3 q2 q,3 3 0 5 0 2 0 3
+,1' ,3' 2' 2 q1' 1' 1 1 ,,1 1 ,,,1 ,,1 ,1' 1' 1 1
+%END

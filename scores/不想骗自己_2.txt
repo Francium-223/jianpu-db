@@ -1,0 +1,21 @@
+%不想骗自己_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=10169
+title=不想骗自己
+tag=
+usertag=
+tagroute=
+confidence=0.933
+conf_p10=0.726
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-10169
+%--
+4/4
+subtitle=score
+1 - - - x x' x qx' x x x x x x x x qx' x x 1 x 1 x 0 2' 2' 1' 2'. ,1' 7 1' 0 2' q2' q2'. s1' q7 q0 q2' q2'
+q1' q2'. q7 1' - - - x. 0 ,1' ,1' 7 0 5' 0 7 6 6 7' ~ 7' 5 6 q5' ~ 5' 0 0 0 0 0 0 q1' q7 q0 1' 7 q7' q5 6
+0 0 0 x 0 0 0 0 q0 q5' q5' q5' q5' 4' q3' 0 0 0 5' 5' 5' 5' q4' 3' q2' ~ q2' q4' 0 3' 3' 3' q4' 3' 1' 2' 3' ~ 3' 4'
+q3' 2' 1' 1'. 7' 7' 1' ~ 1' 5' q4' q5' ,,4' q0 q3' q1' 0 q4' q4' q4' 3' q3 0 q3 q3. q4' 2 q2' 2' - q2' q2' q2' 0 3' 2' ,1' 2' 2' 2'
+0 2' 2' q2' 6' 0 q2. q2' s2' 1' 0 q3' q2' s2' s1' ~ 1' 0 3' 2' ,1' 2' 2' ~ 2' 0 q3' 2' q2 q6' 6' 0 3' 2' 1' 2' 1' 0 0 0
+1' 0 0 0 0 0 3' 2' s2'
+%END

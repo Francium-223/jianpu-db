@@ -1,0 +1,24 @@
+%伤心带笑.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=29667
+title=伤心带笑
+tag=
+usertag=
+tagroute=
+confidence=0.984
+conf_p10=0.981
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-29667
+%--
+4/4
+subtitle=score
+qx q1 - - 1 1 1 - x x 1 1' x x x' q1' q1' 0 q7 q7 0 q0 1' q1' q7 7. q1' q1' 0 q7 q7 0 0 0 0 0 ,6 6 5 q5
+q6 q1' q1' q7 q1' q2' q1' q7 q6 ,6 6 5 q5 q6 q1' q1' q7 q1' q2' q1' q7 q6 ,6 6 5 q5 q6 q1' q1' q7 q1' q2' q1' q7 q6 ,6 6 5 q5 q6
+q1' q1' q7 q1' q2' q1' q7 q6 0 6 5 q3 q6 ~ 6 0 0 q3 q6 ~ 6 0 0 q2 q3 4 4 5 q3 q6 ~ 6 0 0 0 0 6 5 q3 q6
+~ 6 0 0 q3 q6 ~ 6 0 0 q2 q3 4 4 5 q3 q6 ~ 6 0 0 q5 q6 1' q1' 6. q5 q6 1' q1' 6. q5 q6 1' q1' q6 q7 q5 q5 q3
+3 0 0 q5 q6 1' q1' 6. q5 q6 1' q1' 6. q5 q6 1' q1' q6 q7 5 q6 6 - - 3 1 q3 2. 0 q,6 q1 q1 ,6. 0 q,6 q1 q3 2 q2 q1
+q2 1 q1 ,6. 0 3 q3 2. 0 q,6 q1 q1 ,6. 0 q,6 q1 q3 2 q2 q3 5 q6 ~ 6 - - 3 q3 2. 0 q,6 q1 q1 ,6. 0 q,6 q1 q3 2 q2
+q1 q2 1 q1 ,6. 0 3 q3 2. 0 q,6 q1 q1 ,6. 0 q,6 q1 q3 2 q2 q3 5 q6 6 - - - q4 q4 q4 4. q4 q3 q4 q4 q3 2. 0 3 q3.
+s3 q3 5 q3 ~ 3 - 0 q0 q3 q4 q4 q4 q4 0 q4 q3 q4 q4 q3 2. 0 3 q3 q3 q3 5 q6 6 - - - 6 0 0 0 0 0 0 ,6
+q3 2 q2 q3 5 q6 6 - - - ,6 6 5 q5 q6 q1' q1' q7 q1' q2' q1' q7 q6. 6 - 5 - 6 - - -
+%END

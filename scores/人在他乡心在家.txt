@@ -1,0 +1,24 @@
+%人在他乡心在家.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=50715
+title=人在他乡心在家
+tag=
+usertag=
+tagroute=
+confidence=0.966
+conf_p10=0.932
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-50715
+%--
+4/4
+subtitle=score
+- - - 1 1 x' x'. x'. s,1 q1 - - 1 1 6 x q3 q6 q6 q1' q7. s6 ~ q6 q5 6 - - - q3 q6 q6 q1' q7 q6 q5 q6 3 - -
+- q3 q6 q6 q1' q7. s6 q5 q6 2 - - - q5 q5 q5 q6 q7. s6 ~ q6 q5 6 - - - q3 q6 q6 q1' q7. s6 ~ q6 q5 6 - 0 0 q1'
+q1' q1' q6 q5 6 q2 3 - 0 0 q3 q3 q,6 q3 q3 2 q1 2 0 0 q2 q3 q5 q5 0 7 q5 q2 0 - 3 - 0 0 q3 q6 q6 q1' q7. s6
+~ q6 q5 6 - 0 0 q1' q1' q1' q6 q5 6 q2 3 - 0 0 q3 q3 q,6 q3 q3 2 q1 2 0 0 q2 q3 q5 q5 0 7 q6 q5 0 - 6 0
+0 0 0 q6 q3' q3' q2' 3' q3' q6 1' 0 q2' q3' q5 q5 q5 q3 2' q1' q2' 0 - 6 0 0 q3 6 q5 6 q6 q1' q1' q3 q3 q2 1 q2' q2' q2'
+q1' 2' q6 q3' ~ q3' - q2' ~ 2' 0 q6 q3' q3' q2' 3' q3' q6 1' 0 q2' q3' q5 q5 q5 q3 2' q1' q2' 0 - 6 - - 0 q3 6 q5 6 q6
+q1' 1' q6 q1' 2' q2' q3' 5' q3' 2' q1' q2' 0 - 6 - - - 6 0 q3 q5 6 q5 q6 7 5 6 3' q5' 6' 6' q3' q2' 1' 6 2'. q3' q2' q3'
+q1' q7 6 - - - 0 - 6 - - 0 0 - 6 - 0 0 q3 6 q5 6 q6 q1' 1 q6 q1 2 q2 q3 5. q3 2 - 2 0 0 q1 q2 -
+- 6 - - - 6 - 0 0
+%END

@@ -1,0 +1,23 @@
+%一生一世只爱你.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=36568
+title=一生一世只爱你
+tag=
+usertag=
+tagroute=
+confidence=0.948
+conf_p10=0.800
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-36568
+%--
+2/4
+subtitle=score
+1 - - x x x. x x. 1. x 1 x x 5 s1 s2 s2 q1 1 s3 s1 s1 s5 q3. 2 - s2 s3 - - q3 s5 s5 ~ s5 q3. 5 q0 s6 q1'
+q1' q7 s3 s6 q6 q5 0 q6 s5 s5 ~ s5 q4. 4 s0 s1 s1 s2 q3. s3 ~ s3 s3 q4 2 q0 s6 s7 q1' s1' s1' s1' s1' s2'. s3' q7 s6 s5 ~ 5
+q1' s1' s1' q6 s5 s5 ~ s5 q3. q0 s2 s3 q2. s1 ~ q1 q,6 q3. s2 s0 s2 s1 d6 q6 q6 q1' q1' q6. s5 5 ~ 5 q0 s5 s3'. s3'. s3'. s3' s2'. q3'.
+5 q0 s5 s1' s1' s1' s1' q1' s1' s3 ~ s3 q5. q0 s5 1 x. - q6 q7 q1'. s6 q5 q7 q1'. s5 s1' s1' s1' s1' q1' s6 s1' s1' q2'. q0 s5 s3'. s3'. s3'.
+s3' s2'. q3'. 5 q0 s6 s7 q1 s1 s1 q1 q2 q5 q3 q0 s2 s3 q2. s1 q1 s1 s2 q3. s2 q2 q3 2 q2 s1 s6 q2 q1 1 1 - x s5 s1 s3 s2'
+s2' 2' s2' 1' s5 - s1 s3 s1' q2 ~ s2 q1 3 s3 s1' s3' q3'. s5' s5'. s3' d2' - - q3' q2' q1' s1' s6 q1' ~ s1' s1' 1' 1' - q0 s6 s6 q6
+s5 s3 6 q0 s1' s1' q7 q5 s5 q5 s3 q6 s5 s5 ~ 5 q0 s6 s6 s6 q1' s1' 6 s6 s1' s1' s2' x x - - q3 s3 s3 q3 s5 s3 s3 q2. 2
+3 - 3 q0 s5 q3 q2 q2 s1 s6 q2 s1 s1 1 1 q0 s2 s3 q1' q1' q0 s5 s5 q3' s2' s2' s1' q2'. 1' - 1' -
+%END

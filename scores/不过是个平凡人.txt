@@ -1,0 +1,24 @@
+%不过是个平凡人.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=50931
+title=不过是个平凡人
+tag=
+usertag=
+tagroute=
+confidence=0.976
+conf_p10=0.941
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-50931
+%--
+4/4
+subtitle=score
+1 - - - x. x 1 x'. x'. qx 0 0 2 x qx q0 q,3 ,6. q1 ,7 q,5 q,3 ,6 - - - q,3 ,6 q1 q,6 ,5 q,2 ,3 - - - q2. s3 q2 q1
+2 - q5 q3 q3 q2 1 - q2. s2 q2 q3 q5 q3 q3 q5 6 - - x q,6 q3 q2 s2 s3 q3 q1 q,6 q,5 s6 s7 q,6 ,6 - 0 q,6 q2 q1 q2 q2
+q0 q1 q,6 q5 q3 q2 q3 3 - 0 s5 s6 6 q5 6 q1 q1 q1. s6 q,6 q3 2 - q,7. s7 q,7 q,6 q,5 q,6 q1 q,7 ,6 - 0 q,6 q3 q2 s2 s3 q3
+q1 q,6 q,5 s5 s6 q,7 ,6 - 0 q,6 q2 q1 q2 q2 q0 q1 q,6 q5 q3 q2 q3 3 - 0 s5 s6 6 q5 6 q1 q1 q1. s6 q,6 q3 2 - q,7. s7 q,7
+q,6 q,5 ,3 q,5 ,6 q,7 ,6. q3 q6 q6 q6 q1' q7 q6 q5 q3 0 - 6 - 0 0 q3 q6 q6 q1' q6 q5 q2 q5 3 - 0 0 q2 q2 q2 q1 2 -
+q3. s5 q3 q2 1 - q,7. s7 q,7 q,6 q,5 q,5 0 q,5 ,6 q,7 ,6. q3 q6 q6 q6 q1' q7 q6 q5 q3 0 - 6 0 0 q3 q6 q6 q1' q6 q5 q2 q5 3
+0 0 q2 q2 q2 q1 2 x q0 q3 q5. s3 q3 q2 1 - q,7. s7 q,7 q,6 q,5 q,3 0 q,5 ,6 q,7 ,6 - 6. q1 7 q5 q3 6 - - - q3 6 q1'
+q6 5 q2 3 - - - q2. s3 q2 q1 2 - q5 q3 q3 q2 1 - q2. s2 q2 q3 q5 q3 q3 q5 6 - - q,6 q3. q,5 ,6 q,7 ,6. q3 q,5 ,6 q,7
+,6 - q2 q2 q2 q1 2 - q5. s3 q3 q2 1 - q,7. s7 q,7 q,6 q,5 q,3 0 q,5 ,6 q,7 ,6 - q,7. s7 q,7 q,6 q,5 q,3 0 q,5 ,6 q,7 ,6 -
+%END

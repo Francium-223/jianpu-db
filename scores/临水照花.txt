@@ -1,0 +1,21 @@
+%临水照花.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=29578
+title=临水照花
+tag=
+usertag=
+tagroute=
+confidence=0.975
+conf_p10=0.904
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-29578
+%--
+4/4
+subtitle=score
+x q3 q1' q1' q1' - q1' q2' q2'. s2' q1' q2' 3' - - q1' q2' 3' q1' q1' q1' q1' 2 q1 q2 q3 q1' 2 x 1 - 1 - - x q3 q5 q1' q1' q6
+q5 6 q3 q5 q1' q1' q6 q5 q6 q3 q6 q5 ~ q5 q2 q3 5 q2 q3 q6 ~ q6 5 q3 ~ 3 q3 q5 q6 q1 q6 q5 6 q3 q5 q6 q1 q6 q5 q6
+q3 q6 q5 q5 q2 q3 5 q2 3 6 - 0 q3 q5 6 - 0 0 3 q6 5 q0 q2 q3 q5 q2 q3 q1 q,6 q1 q2 3 q6 5 q0 q2 q3 q5 q1' q1'
+q7 q7 q6 q5 3. q6 5 q0 q2 q3 q5 q2 q3 q1 q,6 q1 q2 3. q6 5 q0 q2 q3 q5 q6'. q3' q1' q1' q7 q5 6 - 3' - 2' 1' 7 5 3 -
+- - 0 0 0 q7'. q3' 3' - - - 2' 1' 7 5 6 - - - 0 0 0 q7'. q3' 3' - - q6'. q3' 2' 1' 7 5 3 - - 0 0 0 0
+q7'. q3' 3' - - q7'. q3' 2' 1' 7 5 6 - - - 0 0 0 0
+%END

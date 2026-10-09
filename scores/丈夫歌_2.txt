@@ -1,0 +1,18 @@
+%丈夫歌_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=8447
+title=丈夫歌
+tag=
+usertag=
+tagroute=
+confidence=0.930
+conf_p10=0.622
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-8447
+%--
+4/4
+subtitle=score
+1 - - - x x x 1. x q6 q5 q6 q5 q1' q1' q2. q1' q6 q1' q1' q1' 5' - - q5' q,,4' 3' - 5' - 6' 6' - 5' q3' q4' q3' q2' 1' -
+2' - 3' 5 6 - - - 1' 1' - 2' q3' q2' 3' - 5' 6' q6' q7' 5' 3' - - - q6' q5' 6' - 3' q6' q5' 6' - 3' 7' - 7' 6' 6'
+5' - - 6' 6' - 2'. q3' 5' 0 3' - - - 5' - - - 6' - - -
+%END

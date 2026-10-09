@@ -1,0 +1,22 @@
+%乡下人.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=26906
+title=乡下人
+tag=
+usertag=
+tagroute=
+confidence=0.967
+conf_p10=0.936
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-26906
+%--
+2/4
+subtitle=score
+qx 1 - - - 1 1 1 4 q2 x x x x q,5. s2 q5 q2 1 - q,5. s2 q5 q2 1 - 1' 1' q5. s1' q4 q3 s2 s3 s2 s1 d7 s1 q2 1
+- q,5. s2 q5 q2 q,5. s2 q5 q2 q,5 ,5 q5 1 - q,5. s2 q5 q2 q,5. s2 q5 q2 q2 2 q3 2 - 5 5 5 q4. s4 5 q1' q5 q5 s6 s5 4 q2.
+s3 q2 q1 q2. s3 q2 s1 ~ s1 ,5 q2. s1 1 - 1' q1'. s1' q5 1'. ~ 1' s6 s5 q6 s6 s5 q6 q4 4. s4 s5 q6 s6 s5 q6 q4 q4 s1 s2 q4
+q4 1' q1'. s1' q5 1'. ~ 1' s6 s5 q6 s6 s5 q6 q4 4. s4 s5 q6 s6 s5 q6 q4 q4 s1 s2 q4 q4 5 q2 q1 ,5 q1 q2 5 1 0 q2 q4 5
+- 5' - q2. s3 q2 s1 s1 5 q2 q1 1 - 1 - x s5 q1 q2 q1 q5 q1 q2 q1 1 - 0 0 q2. s5 q4 q5 6 q6. s5 5 - 5 - q2.
+s5 1 q2. s5 1 q2. s5 q1 q1 q2. s5 1 q2. s3 q2 q1 q5 s7 1 q2. s3 q2 q1 q5 s7 1 1 - ,6 - x. q2. s5 q4 q5 6 q6. s5 5 -
+5 - 5 - 5 - 5 - 5 - 5 - qx. x 1. - -
+%END

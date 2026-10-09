@@ -1,0 +1,21 @@
+%一曲相思到永远.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=17866
+title=一曲相思到永远
+tag=
+usertag=
+tagroute=
+confidence=0.967
+conf_p10=0.919
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-17866
+%--
+4/4
+subtitle=score
+1 - - - - x ,7 - x x s6 s5 s3 s5 s6 - q3. s5 s2 s1 s2 s3 5 - 5 q6 s1' s6 s5 s5 s3 q2. s3 q5 q,5 s3 s2 s,7 s,6 ,5
+- q1 s1 s2 s3 s2 s3 s5 q1. s6 ,5 q3 s6 s6 s3 5 - q5. s6 s6 s5 s5 s3 2 q6 ~ q6 s5 s2 s3 s2 2 - q1. s2 q3 q5 s2 s3 s1
+s5 ,6 q3 s2' s7 s6 s5 6 - s5 q5 s6 s6 s5 s5 s3 2 q5 q5 s5 s2 s3 s2 1 - q5 s6 s1' s6 s3 5 - q6 s6 s5 q1 s5 s3 2 -
+s2 q2 s3 q5 q5 s2 s3 s1 s5 ,6 s2. d2 s2 s3 s6 s1 s6 s5 5 - q5 s6 s6 s3 q5. s6 5 q6 s6 s6 s5 s5 s3 q2. s3 2 s2 q2 s3 q5
+q5 s2 s3 s1 s5 ,6 s6. d6 s6 s5 s2 s3 s2 1 - q1'. s6 s5 s3 s5 s6 1'. q6 q3. s5 s2 s1 s2 s3 q5. s6 5 q6. s5 q6 s6 s1' s6 s5 s5
+s3 2 q2 s2 s3 s5 s6 s5 s3 2. q3 5 - - 0 5 q3 q5 5 - q5 q6 q3 q5 ~ 5 - 1 - - - 1 - - 0
+%END

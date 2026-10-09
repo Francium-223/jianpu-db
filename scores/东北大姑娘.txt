@@ -1,0 +1,19 @@
+%东北大姑娘.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=29660
+title=东北大姑娘
+tag=
+usertag=
+tagroute=
+confidence=0.991
+conf_p10=0.981
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-29660
+%--
+4/4
+subtitle=score
+0 5 5 2 q1 6 6 - - 2 1 6 6 6 6 q1 2 2 5 0 5 5 3 5 3 3 2 3 2 1 2 2 2 5 q2 q3 q2 1 1 -
+- 2 4 q4 q2 4 2 5. 6 5 1 2 q5 q3 q5 q5 5 5 q3 2 q3 2 q1 2 0 4 4 q2 4. q2 5. 6 5 q1 2 - 5 5 2 5
+2 3 2 ,5 1 1' 6 0 6 6 2 6 6. 6. 2 4 2 6 6 6 2 2 4 6. 5 6 5 5 6 2 4 0 1 6 5 6 5 1 2 2
+2 q5 5 2. 3 2 q1 2 ,5 1 1 2 q4 2
+%END

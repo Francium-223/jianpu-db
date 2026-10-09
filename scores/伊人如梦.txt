@@ -1,0 +1,21 @@
+%伊人如梦.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=7640
+title=伊人如梦
+tag=
+usertag=
+tagroute=
+confidence=0.875
+conf_p10=0.611
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-7640
+%--
+6/8
+subtitle=score
+1 0 0 0 - - x x x x x x - 3. 3. - - 4. 4. 0 - 3. q2 q1 q,7 1. 6 q7 1'. ~ q1' q1' q1' 3'. 3'. 2'. 5. 5 q3' 5'.
+5'. 5'. ,6. ,6. ,6. ,6. x ,6. ,7 q1 q1 5 5. 4. 5 q4 q4 3 3. 3. ,6 q3 q3 ,7 ,7. ,x. q,6 q,5 q,5 ,3 ,3. ,6. ,7 q1 q1 5 5. x. 5 q6
+~ q6 3 3. 3. 5 q,6 ,5 q,5 q,6 q,7 q,6 q0 ,6 ,6. 0 0 q0 ,6 ,6. ,6. ~ q,6 q3 q5 6 q6 5 q6 7. q0 5 ~ q5 3 3. 3. q3 q3 q5
+6 q0 5 q6 7 6 5 q5 6 6. 6. 6 q3' 2'. q2' - q2' q3' 5. 3 - q5 6. 7. x q1 1'. x 6 q3' 2' q3' 5 q5 q6 q7 q6 6. 6. 6.
+q6 q3 q5 6. 6. 6. 6. q1' q7 q3 q1' q7 q3 7. 7. q1' q7 q3 q1' q7 q3 6. q6 q7 q1' 2'. 3'. 7. q0 5 5. 5. 5. 5. 6. 6. 6. 6 q3' 2'.
+2' q3' 5 q5 5. 5. 5. 7. ~ 7 q6 6. 6.
+%END

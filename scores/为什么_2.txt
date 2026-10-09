@@ -1,0 +1,20 @@
+%为什么_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12005
+title=为什么
+tag=
+usertag=
+tagroute=
+confidence=0.903
+conf_p10=0.585
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12005
+%--
+4/4
+subtitle=score
+1 x 1. x 4 x 1 qx x. qx x x x' 1' x x 1 x 5 0 3 0 4 - 2 0 5 0 3 q4 - 2 - 5 - 3 - 4 - 2
+- 5 3 0 4 - 2 0 x q3 q3 q3 3 3 q3 0 q4 q4 4 4 4 4 0 q3 3 3. 3 3 q3 3 q3 3 4 q4 q4 2 ~ 2 q3 q3
+3 q3 3 q3 0 4 q4 q4 q4 q4 q4 0 3 3 q3 q3 q3 3 3 3 4 4 4 2 ~ 2 - q4 q4 q4 2 0 - 0 - 2'. 2' q1' q1' 2'
+q1' 2 q1' q1' q1' q1' q1' - - - 2' - - - x q4 q4 q4 q4 q2 2 - 2 - - - - - 2 - 0 2. 2' 1' 1' ,1' qx' q1' q1' 2'
+q1' q1' q1' q1' 2'. q1' q1' q1' q1' 1' q1' q1' q1' 1' - 0 - 2' 0 - 1 1 3' 3' 1. 0 3' 0 0 0 x
+%END

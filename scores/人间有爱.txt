@@ -1,0 +1,19 @@
+%人间有爱.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=29990
+title=人间有爱
+tag=
+usertag=
+tagroute=
+confidence=0.996
+conf_p10=0.988
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-29990
+%--
+4/4
+subtitle=score
+q,5 q,6 1 q1 s2 3 q2 q1 q1 q,6 1 - q,5 q,6 q1 q3 5 q6. s5 q5 3. ~ 3 q3 q5 6 q6 q5 1 q2 q3 1 q2 q3 ,6 - q2 q1 q2 q3
+2 - q2 q1 q2 q3 5 - q,5 q,6 1 q1 s2 3 q2 q1 q1 q,6 1 - q,5 q,6 q1 q3 5 q6. s5 q5 3. ~ 3 q3 q5 6 q6 q5 1 q2 q3 1
+q2 q3 ,6 - q2 q3 q2 q1 1 ,6 - q0 q1' q1' q7 6 q6 q5 q6 s6 s7 q6 q5 q3 5. ~ 5 q3 q5 q6 q6 q6 q5 q6 q5 q3 q2 3 - -
+q,6 q1 q2 q1 q2 q3 5 q3 q5 q6 q5 q5 q6 1' - q6 s6 s1' q6 q5 5 q3 q2 1 - - -
+%END

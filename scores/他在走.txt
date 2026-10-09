@@ -1,0 +1,20 @@
+%他在走.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15184
+title=他在走
+tag=
+usertag=
+tagroute=
+confidence=0.923
+conf_p10=0.714
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15184
+%--
+2/4
+subtitle=score
+1 q5' 5' q5'. s6' s5' 4'. q5' q6' 2' 5' s5'. d1' s6' s5' 4' s0 3' 2' q5' s5' s2' q1' q0 7 q6 q2' q2'. s6 q5 5 0 0 - - - - - q2' q5'
+q5' s2'. s1' 1' - q2' q5' q5' 2. 2' ,1' 1' s2' 6 5 5 q,,4 s5 s6 5 q6 q1' 2. ,4' q3' 1' 2' - 2' q5' q5' q2'. q1' 1' - - q,2' q5' q5' 2.
+2' - 2' q6 q5 5 q4 q5 s1' s6 5 q6 q1' q2 qx q4 5 q5' q5' 4'. q3' q5' q5' q6'. s5' q4' q3' 3' 2' - q5' q1' q1' q1' q1' q1' q0 2' q6 5
+4. q5 q6 q2' q2' q6 5 5 - q5' q5' q6' s5' 6' 5' 4'. 3' q5' q5' s,6'. s5' s4' s3' 2. 2' q5' s2. ,1' 1' 2' 6 5 4. s5 6 2 x q4 5 -
+q5' sx 1. 1' 2' q6 s5 4. 5 6 x q2 x 4 5 - 5 - - - - 1' 1' 5 - 5 0
+%END

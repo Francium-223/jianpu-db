@@ -1,0 +1,21 @@
+%你别走.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15185
+title=你别走
+tag=
+usertag=
+tagroute=
+confidence=0.972
+conf_p10=0.962
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15185
+%--
+4/4
+subtitle=score
+qx - - 6 2 x x x x q3 6 q3 2 1 ,7. q,6 ,3 ,5 ,6 - - - 3 3 q2 q2 q1 q,6 q3 6 q2 s3 s5 s2 s3' ~ 3' 6 q6. s1'
+q1. s2 3 6. q3 2 - 3 3 q2 q2 q1 s6 q3 6 q2 s3 s5 s2 s3' ~ 3' q1. s2 q3 q5 5. q,7 ~ s,7 s,6 s,7 s,6' ,6' - - 3 3 q2 q2
+q1 q,6 q3 6 q2 s3 s5 s2 s3' ~ 3' 6 q6. s1' q1. s2 3 6. q3 2 - 3 3 q2 q2 q1 s6 q3 6 q2 s3 s5 s2 s3' ~ 3' q1. s2 q3 q5
+5. q,7 ~ s,7 s,6 s,7 s,6 ,6 - - q3 q3 q5 s3 s5 6. q5 q6 1' s6 s5 s3 s2 3. q1 ,6 s5 s3 2 - q1 3 s2 s1 s6 s1 ,6. q3 q3 q5
+s3 s5 6. q5 q6 1' s6 s5 s3 s2 3. q1 ,6 s5 s3 2 - q1 3 s2 s1 s6 s1 ,6. q1 ,6 q1 2. s1 s2 3 - - - 5 q3 q5 d6 s1' s5
+s6' 6' ~ 6' - - - qx. x.
+%END

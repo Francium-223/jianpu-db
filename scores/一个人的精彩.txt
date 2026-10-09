@@ -1,0 +1,21 @@
+%一个人的精彩.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=37785
+title=一个人的精彩
+tag=
+usertag=
+tagroute=
+confidence=0.952
+conf_p10=0.789
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-37785
+%--
+4/4
+subtitle=score
+qx - - 1 2 0 x x x 1 - - - ,7 - - - ,6 - - - ,6 - ,7 - 1 - - ,7 - - - ,6 - - - ,6 - - 0
+0 1 ,7 1 6 ,7' 1 ,7 1 6 1 ,7 1 2 2' 1 ,7' ,7' ,6 q,5' ,3' ,3 1 ,7 1 q6 ,7' 1 ,7 1 6 ,7' 1 ,7 1 2 q2 1 2' 2'
+3 q3' 3' - 0 2 q3 q2 3 0 2 q3 q2' q1' q1' 1' 0 0 q0 q1 ,7 q1 q6 ,7' ,5' q,3' q,3 ,3 0 q0 q2 q3 q2 3 q0 q2 q3 q2' q1' q1'
+1' 0 q0 q2' q2 q1 q1' q7' 7' 1 2' q3 q3 3 3 q6 q1' ,1' 2 3 3 - 4 4 4' 3' 4 4 3 1 1 3' 2' 2 - 3 3 3 3 3
+6' ,6 qx 1' q1' 2 3 3' 3' 3 1 ,7 ,6'. ,6' 0 q0 1. 1. 1 x ,7 1 6 q,7' ,5 ,6' ,6' x 6 x' - 5 7' 7' - ,7' 5 6' 6' -
+6 0 2 x 1 x. x. ,7 ,1 x ,5' ,5 ,3 ,6 x ,6 0 0 0
+%END

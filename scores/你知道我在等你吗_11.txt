@@ -1,0 +1,21 @@
+%你知道我在等你吗_11.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=6999
+title=你知道我在等你吗
+tag=
+usertag=
+tagroute=
+confidence=0.968
+conf_p10=0.932
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-6999
+%--
+4/4
+subtitle=score
+4' - - 3' 1' - - 5 q1' q5 q1' q5' q4' q3' q2' q1' q1' q6 q1' q2' 3' - q2' q6 q2' q6' q4' q3' q2' q1' q1' q7 q7' q1' 2' - 1' - - -
+1' - - - s5 q5. s5 s4 s3 s4 5 - q3 s3 s3 s3 q3' s2' 1' q1'. s6 q4' q4' 6 q4' q4' q6 q1' 2' - - - s5 q5. s5 s4 s3 s4 5 -
+q3 s3 s3 s3 q3' s2' 1' q1'. s6 q4 q4 q6. s6 q4 q4 q6 q1 2 - - - 0 0 0 q0 s5 s3 s3 s3 s3 s2 s3 q5 3 q3. s5 s2' s2' s2' s1'
+s1' s7 q3 6 q6. s6 s4' s4' s4' s3' q4'. s4' s4' s3' q4' q6 q1' 2' - - q0 s5 s3' s3' s3' s3' s2' s3' q5 3' q3'. s5 s2' s2' s2' s1' s1' s7 q3 6
+q6. s6 s4' s4' s4' s3' q4'. s4' s4' s3' q4' q6 q1' q2 s3 s2 2 - - 0 0 0 0 s5 q5. s5 s4 s3 s4 5 - q3 s3 s3 s3 q3 s2 1 q1. s6
+q4' q4' 6 q4' q4' q4' q3' q2' q1' 1' - x q0 s5 q2' q1' 1' - -
+%END

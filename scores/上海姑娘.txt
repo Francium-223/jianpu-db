@@ -1,0 +1,24 @@
+%上海姑娘.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=33332
+title=上海姑娘
+tag=
+usertag=
+tagroute=
+confidence=0.988
+conf_p10=0.990
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-33332
+%--
+4/4
+subtitle=score
+q5' q2' q3' q1' q2' q6 q1' q5 q6 q3 q5 q2 3 2 q5 q6 q1' q2' s6 s2' s1' s2' q5 q6 6 - 5 - q5 q6 q1' q3 5 - q5 q6 q1' q6 5 -
+q5 q6 q1' q3' 2'. q1' 2' - - - 5 - - - q5 q6 q1'. s3'. 5 - q5 q6 q1' q3'. 1 - q6 q1' s2' q3' s5 5 - q6 q1' q6. s3 5 - q5
+q6 q1'. s3 5 - q5 q6 q1' q3 1 - q6 q1' q2' q3' q2'. s1' q1' q6 1' - - - q5 q6 q1'. s3 5 - q5 q6 q1' q3'. 1 - q6 q1' s2' q3' s5
+5 - q6 q1' q6. s3 5. ~ q5 q5 q6 q1'. s3 5 - q6 q1' s2' q2' s3'. 1' - q6 q1' q2' q3' q2' 1' q6 1' - - - 0 0 0 0 q5 q6 q1
+q2 q5 q2 q3 s2 s1 1. q3 q2 q3 q2 q1 6 - q1 q2 q3. s1 5 - - q6 q1 q2'. s3' q3' q2' q5' s2' s3' q2'. s1' 2' - - - q5 q6 q1' q2'
+q5' q2' q3' s2' s1' 1'. q1' q1' q2' q3'. s5' q5' 1' q1' q1' q2' q3'. s1' 5 - - q6 q1' 2' q5' q3' 2' q5' q3' 2' - 2' q3'. s6 1' - - - q,5 q,5
+q,6 q,5 2 - 5 q6 q1' q6 q5 3 2' - - 3' 5 q6 q1' q6 q5 q3. s5 5 - - - 1 q2 q3 q2 q1 q,6 q1 5 - 2 q6. s1' 5 q6 q1'
+q2' q1' 6 1' - - - 7 - - - 7 q1' q2' 3' q2' q1' 7 - 0 s5 s6 s7 s1' x. 1'. q7 s1' s7 5. x. s6 s1' s2' s5' s1' s2' s1' s2' s5'
+s1' s2' s5' 5' 2' - - - q5' q2' q3' q1' q2' q6 q1' q5 q6 q3 q5 q2 3 2
+%END

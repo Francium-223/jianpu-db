@@ -1,0 +1,20 @@
+%一个师傅仨徒弟_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=10430
+title=一个师傅仨徒弟
+tag=
+usertag=
+tagroute=
+confidence=0.983
+conf_p10=0.963
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-10430
+%--
+4/4
+subtitle=score
+x q3' q4' q3' q4' q3' q4' q1' 7 - 3 - q3' q4' q3' q4' q3'. q2' q1' q7 3' - - - 3' - - - 3 3 ,6 - 1 q,6 q,5 ,6 0 q,6 q1 q1
+1 q1 q,6 1 2 3 ~ 3 3 5 6 6 6 5 3 2 2 2 3 5 7 ,6 - - - q6 q6 q6 q6 3 s5 q5. q5 q5 q5 q3 q6 q5 0 q4
+q4 q4 q4 4 s1 q1. q1 q2 q1 q2 q3 3 q6 q6 q6 q6 3 s5 q5. q5 q5 q5 q3 q6 q5 0 q6 q6 q6 q6 1' 1' s6 q5. q5 q5 q5 q5 q3 q5
+~ 5 q2 q2 q1 q2 q3 q2 s2 s2 q3 q2 q3 q5 ~ 5 - q1 q2 q3 q5 5 ,7 ,6 - - - q1 q2 q1 s2 s2 q3 q2 q3 q6 ~ 6 - -
+-
+%END

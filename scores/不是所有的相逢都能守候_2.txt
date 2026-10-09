@@ -1,0 +1,20 @@
+%不是所有的相逢都能守候_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=30531
+title=不是所有的相逢都能守候
+tag=
+usertag=
+tagroute=
+confidence=0.981
+conf_p10=0.961
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-30531
+%--
+2/4
+subtitle=score
+q0 s5 s5 q2 q1 2 3 q,5 q,5 q2 q1 2 0 2 q5 q2 s3 q0 s2 q3 q2 q1 2 q,6 s6 q1 1 - q1 s1 q1 q6 ,6 3 q2 2 q0 s5 q5 q2
+q1 2. q3 q0 q5 q2 q1 q2 q2 q5 q2' q3' q0 s2 s3' q2 q1 q2 q1 q,6 s6 q1 ,2 q1. 1 q0 q1 s1 d6' q,6 s5 q6' ,5 ,5 s0 q5. 5' 5' - -
+- q3 q5 q5 q3 3 s6'. s5' 5 q1 q2' 3 q5 q2 q3 3' - q0 q2 s2 q2 2 q3 2 q2 1 6'. q3' 5 - q3 ,5 q5 q5 q3 ,6 ,5 q5 q5 ,3
+s5 q6 s6 q6 q6 q5 q3 s2 1 x 1 q0 s2 q2 2 q6 q3 q2 0 s2 s3 q2 1 q1 ~ 1 - - q0 0 q2 s3 q2 q1 2 q,6 ~ ,6 6 q1
+q1 - 1 s1 s6 s3 q2 q2 2. q3 2. s1 2 1 - - -
+%END

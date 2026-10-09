@@ -1,0 +1,20 @@
+%为你打开的雨伞.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=21414
+title=为你打开的雨伞
+tag=
+usertag=
+tagroute=
+confidence=0.971
+conf_p10=0.892
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-21414
+%--
+4/4
+subtitle=score
+x q6 q3 q3 q6 6 - 5 3 q3 q5 5 - 6 3 3 6 - 5 - - - q6 3 q6 7 2' q3' 2'. 7 0 q3 2 6 6 5 3 - - -
+q6 q3 q6 q7 q2' q3' 2' - 3' 3 7 7 5 6 - - - x 3 ,6 2 q1 ,6 s6 q7 q1 5 3 - 6 3 q2 q1 2 q6 q6 q6 q5 3 -
+3 q6 q6 q5 6 - q6 q3 3 q1 2 - ,7. s7 q3 3 2 2 q,5 q,7 ,6 - - - 6 1' - 7 6 q6 q5 6 - 5 5 6 5 1 5 6
+5 3 - 6. q5 6 q3 q3 2. 1 2 - 2 2 q2 q3 5 3 3 - 7 5 q7 6 - - - q2 q2 q2 q3 5 3 3 - - - 7. 7 5
+3' 6 - - - 6 - - - 6 0 0 0
+%END

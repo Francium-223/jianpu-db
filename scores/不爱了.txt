@@ -1,0 +1,21 @@
+%不爱了.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=29441
+title=不爱了
+tag=
+usertag=
+tagroute=
+confidence=0.991
+conf_p10=0.993
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-29441
+%--
+2/4
+subtitle=score
+- - - q3 q2 q2 q5 ~ 5 - q3 q2 q2 q5 ~ 5 - q0 q2 q2 q3 q2 q1 0 1 q,6 q1 0 0 q3 q2 q2 q5 ~ 5 - q3 q2 q2 q5
+~ 5 - q0 q2 q2 q3 q2 q1 0 q1 q,6 q3 q3' q3' q2' 2' - 0 0 q5 q5 q5 q3 q7 s6 s7 6 - - 0 q0 q5 q5 q5 q5 q3 q7 q6 q6
+s5 s3 ~ 3' q0 q3 q3 q1 q5 q3 q1 q2 ~ 2 - q0 q6 q5 q5 q6 q1' q6 q6 5 - q5 q6 q3 q6 q6' 5 3 q2' q1' 1' - q5 q3 q2' q1'
+1' - q0 q6 q6 q5 q1' q6 q6 q5 q6 q5 q5 q3 3 - 3 q2 q1 ~ 1 - q1' q6 s5 s3 q3 ~ 3 - q0 q3 q2 q5 q0 q5 q5 q3 q6 q5
+q6 q6 5 - 3 q1' q1' 1' - q5 q3 q1' q1' 1' - q0 q6 q6 q5 q1' q6 q6 q5 q6 q5 q5 q3 0 0 3 q2 q1 ~ 1 - q1' q6 s5 s3 q3
+~ 3 - q0 q3 q2 q5 q0 q5 q5 q3 q6 q5 q6 q6 5 - - - q0 q3 q2 q5 3 q2 q1 1 - - - - q3 q2 q2 q5' 1' - 0 0
+%END

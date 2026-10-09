@@ -1,0 +1,23 @@
+%一定有个你_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=22798
+title=一定有个你
+tag=
+usertag=
+tagroute=
+confidence=0.971
+conf_p10=0.936
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-22798
+%--
+4/4
+subtitle=score
+q1 s7 s2 q1 - - 1' 2' - q2'. q1' 5 0 q7 q1' q1' q2'. q2' q5'. q5' q3'. q3' - - - - - - - q3 q2 q,6 3 q2 ~ 2 q2 q1 q,5 2
+q3 ~ 3 q3 q2 q,6 q3 q2 q,5 5 q2 q3 ~ 3 0 0 q3 q2 q,6 3 q2 q0 q5 q5 s6 s7 q7' s1' s3 ~ 3 q2 s3 s1 ~ 1 q0 q3 2 q1
+1 - q1 q,7 q1 q,5 ,6 q3 ~ 3 q1 q,5 ,6 q5 ~ 5 q1' q7 ~ q7 q5 ~ 5 - q1' q7 ~ q7 q2 ~ 2 q1 q,7 q1 q,5 ,6 q3 ~ 3 q1
+s5 ,6 q5 ~ 5 q1' q7 ~ q7 q5 ~ 5 - q5 q1' 7 - q1' q7 q2' q1' q5 q5 q0 q5 q1' q1' q3' s2' s2' 2' - q1' s7 q2' q1' q3 s3 q0 s2
+s2 s1 s6 s6 5 - q1' s7 q1' s5 6 s3' s2' q0 q7 d7 s6 s6 d5 s3 s3 s2'. s3' q0 q1 q3 q4 q0 q4 q4 q3 qx' q1' s7 s5 q5 ~ 5 - q1'
+q7 q2' q1' q5 q5 q0 q5 q1' q1' q3' s2' s2' ~ 2' - q1' q7 q2' q1' q3 q3 q0 q2 q2 q1 q6 q6 5 - q1' q7 q1' q5 6 q3' q2' q0 q7 s7 s6
+q6 s5 s3 q3 q2'. q3' q0 q1 q3 q4 q0 q4 q6 q5 1 q2 q2 1 - 7 2' 7' 5' - q5'. q2' q3'. q5' 5' - s5' s3'. s2' s5 q3' q5'. 1' 1' - 2'
+- q1 q,7 q1 q,5. q0 q4 q6 q5 1 q2 q2 1 - q1' q7 q1' q1' q0 q4 q6 q5 1 -
+%END

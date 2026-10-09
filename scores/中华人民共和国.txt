@@ -1,0 +1,18 @@
+%中华人民共和国.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=31895
+title=中华人民共和国
+tag=
+usertag=
+tagroute=
+confidence=0.981
+conf_p10=0.943
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-31895
+%--
+2/4
+subtitle=score
+x q1 s3 q5 5 q3. s1 q5' q3' q5' 3 1 q,5' q,5 q,3' q,5' q,5 q,3' 1 x q0 q,5 1. q1 q1. s1 q,5 s,6 s,7 1 1 q0 q3 q1 s2 s3 5 5 q3. s3
+q1. s3 q5. s3 2 2 - 6 5 2 3 q5 q3 q0 q5 q3 s2 s3 1 3 0 q,5. s,6 q1 q1 q3. s3 q5 q5 q2 s2 s2 ,6 2. q,5 1. ~ q1 3. q3
+5 - q1. s3 q5 q5 6 5 q3. s1 q5 q5 q5 q3 q0 q1 q0 ,5 1 q3. s1 q5 q5 q5 q3 q0 q1 q0 ,5 1 ,5 1 ,5 1 1 0
+%END

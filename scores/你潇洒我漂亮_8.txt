@@ -1,0 +1,21 @@
+%你潇洒我漂亮_8.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=23970
+title=你潇洒我漂亮
+tag=
+usertag=
+tagroute=
+confidence=0.910
+conf_p10=0.647
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-23970
+%--
+4/4
+subtitle=score
+q1' q1 q1 q1 6 4 x. x x qx' 0 x 1 1'. 1 1. 1 x 1' 1' 1' s1'. s2' s6 5 5' 5 s5 s6 s5 s3 2' 2 2 s5 s6 s5 s6 1 -
+- x s3 s2 s3 s5 1 q,6 q,5 ,5 s3 s2 s3 s5 1 q,6 q,5 ,5 q1' 3 q5 q6 q2. s3 s1 s2 s1 s6 0 ,5 - - s3 s2 s3 s5 1 q,6 q,5 ,5
+s3 s2 s3 s5 1 q6 q5 5 q1' 3 q5 q6 q2. s3 s5 s6 s5 s6 1 - 0 q3 q5 6 s1' s1' s6 s5 x' 6 q3 q6 q5. s5 s5 s6. s5 s3 5 q5
+q6 s2' s1' s1' s1' s6 5 - 0 q3 q5 x' s1' s1' s6 s5 6 q3 q6 s5 s6. s5 s3 q5 q6 2. q3 q1. s2 s1 s2 s1 s6 0 ,5 - - s3 s2. s3
+s5 1 q,6' q,5 ,5 s3 s2 s3 s5 1 q6' q5 5 q1' 3 q5 q6 q2. s3 s5 s6 s5 s6 0 1 - - 0 0 0 1 - - 0 1' 1 - 0 0 0
+0 0 0 0 0 0 x'. s1'. s2' s6 5 5 5 s5 s6 s5 s3 2 2 2 s5 s6 s5 s6 1 - - q1' q0 x
+%END

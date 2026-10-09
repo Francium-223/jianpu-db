@@ -1,0 +1,19 @@
+%偶尔.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=11828
+title=偶尔
+tag=
+usertag=
+tagroute=
+confidence=0.929
+conf_p10=0.660
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-11828
+%--
+4/4
+subtitle=score
+1 qx - - 0 - x x. x x' 0 3 3 ,6 ,6 3 4 2 1 2 ,2 0 ,5 ,5 5 5. 5 5 ,5. 4 4 3 3 4 3 3 3 q3 ,6 ,6
+q6 ,6 4 2 q1 1 2 - 0 q5 ,,,5 5 5. 5. 5 2 3 6 - - - 0 0 0 0 ,6 3 - q,6 q,7 q1 q3 3 2 2 2 - - ,5 2
+,5 ,6 ,7 2 ,1 2 1 1 - ,6 3 - q0 ,7 1 q3 3. 4 ,2. ~ 2 2 5 q2 q2 q2 q1 2. 3 ~ 3 2 1 ~ 1 0 3. 0 3 3
+q6 ,,6. q6 q6 3 3 2 1 2 2 - s,,5. dx 1' ,5 2 2' 2 2 3 3 3 2 1 ~ 1 1 - -
+%END

@@ -1,0 +1,19 @@
+%你是我所有的回忆_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=35993
+title=你是我所有的回忆
+tag=
+usertag=
+tagroute=
+confidence=0.930
+conf_p10=0.676
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-35993
+%--
+4/4
+subtitle=score
+q1 0 0 4 x 4 x x x 4 x. 1' 1. q1. q1 q1 ,3 ,6 ,7 ,3 ,5 q,4 ,3 q,3 ,3 0 0 0 0 ,3 ,5 ,7 ,3 q,4 q,3 q,3 q,2 ,3 ,3 0
+0 0 0 ,3 3 2. q3 3 - - - 2 ,7 ,7 2 s3 s2 q1. 0 0 0 0 q,1 q,1 ,7 ,6 - - 0 0 0 ,3 q3 q4 3 ,6 q,7 q,7 q,7 ,7.
+0 0 0 ,7 q1 2 3 - 3 - 0 ,6 ,7 q1 2 q1 ,7 ,6 - ,3 - 0 ,3 ,5 ,6 - ,7 - 0 q1 2 q1. q2 q2 4. 3 - - - 0
+q1 5. q4 q3 q2 3 - - 0 ,5 3. q2 q2 q1. 0 0 0 q1 ,7 ,6 5 - q5 q4 q5 q4 3 - - ,6 ,7 - ,6 - ,6 - - -
+%END

@@ -1,0 +1,22 @@
+%不字书.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=27830
+title=不字书
+tag=
+usertag=
+tagroute=
+confidence=0.989
+conf_p10=0.982
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-27830
+%--
+4/4
+subtitle=score
+5 q3 q2 ~ q2 q1 q2 q3 3 q1 5 1' 1' - - - - q0 q1 q1 q1 q2 s1 s1 q0 q1 q,7 q,7 q,7 q2 q2 q1 1 q0 q1 q1 q1 q2 s1 s1
+q0 q3 q2 q1 q1 q,7 1 - q0 q1 q1 q1 q2 s1 s1 q0 q1 q,7 q,7 q,7 q2 q2 q1 1 q0 q1 q1 q1 q2 s1 s1 q0 q3 q2 q1 q1 q,7 1 - 0
+0 0 q,6 q,6 q,6' q,6 s,6 s,7 q,7 q,7 ,7 q0 1 q,7 q,7 q,6 q0 q,6 q,6 q,6 q,6 ,7 q,7 ,7 q0 ,7 q,7 ~ q,7 q1 q0 q,6 q,6 q,6 q,6 ,7 q,7 ~ ,7 q0
+1 q,7 ~ q,7 q,6 q0 q,6 q,6 q,6 q,6 ,7 q,7 ~ ,7 q0 q3 q2 2 q3 q0 q0 q1 q1 q1 q1 6 q5 q2 2 q2 q1 1 q3 q0 q1 q1 q1 q1 6 q5
+q2 2 q2 q2 4 q3 q0 q1 q1 q1 q1 6 q5 q2 2 q2 q1 1 q3 q0 q1 q1 s1 q1 6 q5 q2 2 q2 q1 1 s3 ~ 3 - - q0 - - -
+q0 q1 q1 q1 q2 s1 s1 q0 s1 s1 q,7 q,7 q,7 q,7 q2 q1 1 q0 q1 q1 q1 q2 s1 s1 q0 q3 q2 q1 q,7 q,7 q2 q1 1 q6 q2' 2 q1 ~ q1 1
+q3 q2' ~ 2 q2 ~ q2 1 q3 ~ 3 - - -
+%END

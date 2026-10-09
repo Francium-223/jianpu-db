@@ -1,0 +1,18 @@
+%五月的鲜花_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=8801
+title=五月的鲜花
+tag=
+usertag=
+tagroute=
+confidence=0.980
+conf_p10=0.983
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-8801
+%--
+4/4
+subtitle=score
+1 q7. s6 5 5 q0 q6 q5 s4 s4 q3 q2 1 1 - 6 q5 q6 1' q7. s7 q2' q1' q7 q6 5 - q5 q0 q6 q7 1' q7 q6 1' q7 q6 1' - 3
+q4 q3 2 - 6 q5 q5 1' q3'. s3' 2' - 1' - - 0 1' q7 q6 1' q7 q6 1' - 3 4 5 4 3 2 1 - - 0 1' q1' q1' 1' 1' q0
+q1' q1' q1' 1' q1' q1' 1' - 7 - 6 q6. s6 5 - 1' 3' q1' q3' 0 2' - 1' -
+%END

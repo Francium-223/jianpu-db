@@ -1,0 +1,19 @@
+%人生啊是一个海.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=21051
+title=人生啊是一个海
+tag=
+usertag=
+tagroute=
+confidence=0.986
+conf_p10=0.964
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-21051
+%--
+4/4
+subtitle=score
+q3 3. x d5 d6 5. ~ q5. s5 q6 1 q6 ,5 - q3 q5 q6 q6 5 3 2 2 - - - q3 5 q3 5 - q3 2 q1 ,6 - q2 s2 s3 q2 q1
+~ q1 x ,5 q6 1 - - - q3 q5 q7 s7 q7 q7 s6 s5 5 3 3. q4 q4 q2. q7 6 5 q5 2. 2. 2 - q3 q6 q5 q3 5 - q3 2 q1
+,6 - q2 s2 s3 q2 q1 q6 ,5 6 1 - - - q3 3. q3 ,5. q6 1. q6 ,5. q3 q5 q6 q3 q2 q6 1 ,7 - ,5 0 0 3. q5 q6 2 1 -
+- - 1 - - q2 s2 s3 q2 1. ,5. q6 1 - - - 0 0 0 0
+%END

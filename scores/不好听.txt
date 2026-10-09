@@ -1,0 +1,26 @@
+%不好听.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=29434
+title=不好听
+tag=
+usertag=
+tagroute=
+confidence=0.986
+conf_p10=0.979
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-29434
+%--
+2/4
+subtitle=score
+q0 s,3 s3 s3 s4 s5 q5 s4 s4 s4 q3 s2 q0 s,3 s2 s2 s3 s4 q4 s3 s3 s3 q2 s1 q3 s2 s1' ~ q1' s2 s1 q0 s3 s3 s3 s4 s5 1'. q5 q2'
+s4 s4 s4 q3 s2 q0 s3 s2 s2 s3 s4 q4 s3 s3 s3 q2 s1 q0 s3 s1 s1 s2 s3 q3 s2 s2 s2 q1 s7' ,7 ,7 q3 s2 s1 q1 q2 q0 s,3 s3 s3
+s4 s5 q5 s4 s4 ~ s4 q3 s2 q0 s,3 s2 s2 s3 s4 q4 s3 s3 ~ s3 q2 s1 0 q0 s,3 s1 s1 s2 s3 q3 s2 s2 s2 q1 s,7 ,7 ,7 q3 s2 s1
+q1 q2 q2 1 q0 q1 s1 s1 q,5 s1 s1 q,5 s,5 d1 d1 s1 s1 s1 s1 q,5 s0 s,5 s,5 s,5 s,5 q1 s1 s1 s1 s1 s2 q2 q1 s0 s1 s1 s1 s1 d1 d1
+s1 s,6 s0 s1 s1 s1 s1 d1 d1 s1 s,7 s0 s,7 s,7 s,7 s,6 q,7. s,7 s,7 q,7 s2 s1 q,7 s1 s1 q,5 s1 s1 q,5 s,5 s1 s1 d1 d1 s1 s1 q,5 s0 s,5 s,5
+s,5 s,5 q1 s1 s1 s1 s1 s2 q2 q1 1 s0 s1 s1 s1 s1 d1 d1 s1 s,6 s0 s1 s1 s1 s1 d1 d1 s1 s,7 s0 s,7 s,7 s,7 s,6 q,7 s,6 s,7 s,7 q,7 s3
+s1 s,7 s1 ~ 1 0 x x 1. q3 s2 s1' s1' s2 q0 s,3 s3 s3 s4 s5 q3 s2 s1 q1 q2 q2' q1 - q,7 s1 s1 q,5 s1 s1 q,5 s,5 s1 s1 d1 d1
+s1 s1 q,5 s0 s,5 s,5 s,5 s,5 q1 s1 s1 s1 s1 s2 q2 q1 s0 s1 s1 s1 s1 d1 d1 s1 s,6 s0 s1 s1 s1 s1 d1 d1 s1 s,7 s0 s,7 s,7 s,7 s,6 q,7
+s,6 s,7 s,7 q,7 s2 s1 s,7 s1 q0 s,3 s3 s3 s4 s5 q3 s2 s1 s1 q2 q2 1. q0 qx sx sx qx sx dx dx sx sx s0 sx sx sx sx dx dx sx sx
+s0 sx sx sx sx qx sx sx sx sx sx sx sx sx sx s0 sx sx sx sx qx sx sx sx sx sx sx sx sx sx s0 sx sx sx sx qx sx sx sx sx
+sx sx sx sx sx s2 s1 s2 q0 s,3 s3 s3 s4 s5 q3 s2 s1 x q1 q1' d1 1' s1 s2 s3 q3 q2. s1 - q2 q1 - s1
+%END

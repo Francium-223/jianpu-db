@@ -1,0 +1,22 @@
+%上紧发条_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=19971
+title=上紧发条
+tag=
+usertag=
+tagroute=
+confidence=0.906
+conf_p10=0.603
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-19971
+%--
+4/4
+subtitle=score
+1 - - x x. x x 2. 1 - 2 2 q2 1 0 2. 1 1 - 2 2 2 1. 0 3. q2 2 - 3 q3 0 3. q2 2 - 3 q,3 q3 2. 0
+x. x' - 7 - 6 - - 7 - q0 q5 3 5 q5 6 ,3 q2 q1 2 q0 3. 0 0 0 0 0 0 q1 q,x. 4 q4 4 4 3 4 qx q0 q4 q3
+2 1 3. ,2 2 0 0 0 0 0 q0 5 q5 5 5 5 q3 5 q5 q5 q6 q2 1 2 q0 3. 0 0 0 0 0 x q0 q4 4 4 4 x q4 q3
+q4 q4 q0 q4 4 q3 q4 6 q5 q5 ~ 5 - 5 - 0 0 q2. q1 1 - 2 q,2 2 1. 0 2. q1 1 - 2 2 q2 1 0 3. q2 2 - 3
+3 q3 2. 0 3. 2 - q,,3 3 3 2. 0 2. 1 1 q,2 2 q2 1. 0 - 1' 2. q1 1 - 2 q2 q2 1 0 3. q,2 2 - 3 3 q3 2. 0
+3. q,2 2 - q3 - 2. 0 x 0 5'. 7 q3' q2' q1' x' 7. ,x q7 q6 ~ 6 - 0 0 0 2' 6' 5' 5' q1' x' q4' q4' 2' - - - 0 0
+0 x
+%END
