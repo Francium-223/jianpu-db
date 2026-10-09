@@ -1,0 +1,20 @@
+%剪窗花_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=23197
+title=剪窗花
+tag=
+usertag=
+tagroute=
+confidence=0.956
+conf_p10=0.898
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-23197
+%--
+2/4
+subtitle=score
+qx 1 - - - - 6 0 q2 x x' x q,,,1' 1 1 x ,x x x' 2'. q6' 5'. s4' s3' s2' s5' s2' s5' q1' s7 s6 2' - 2' q2' q5' q1' s7 s6 q5.
+s6 q2' s4 s3 s6 s5 s4 s3 2'. q1' 2' - 2' s1' s2' q3' 2' - s1' q6 s3 s2' s0 s1' s7 6 - q6. s2' q2' s1' s6 q5. s7 6 s5 d3 d5 s3 s5
+s6 s1' q3 2 - s6 q6 s5 q4 s4 s5 s3 s2 q1 2 s2' q2' s5' q2' s1' s2' s7 s6 q5 6 2'. s1' s2' 5' - s3'. d3' s3' s2' q1' s7 s6 2' - s4'.
+d4' s5' s4' s3' s2' s1' s3' 2' - s2'. d1' s2' s5' q5' s2' s1' s6 s2' s4 s5 6 s6. d6 s6 s1' q2' s6 s5 5. q6 q2' s6' s2' s6 s5 s4 s3 q5 2 q1
+2 - q5 2 q1 2 - x q5 2. 1'. q6 q1' q2' 3' 3' - 2' - 2' - 2' - 2' - x
+%END

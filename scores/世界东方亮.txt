@@ -1,0 +1,20 @@
+%世界东方亮.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=19721
+title=世界东方亮
+tag=
+usertag=
+tagroute=
+confidence=0.961
+conf_p10=0.852
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-19721
+%--
+2/4
+subtitle=score
+1 - - qx 1 2. x 5 5 q6 q7 q1' q2' 3' - 2' 3' 5' - 3' q2' q1' 1'. q6 1' - 1' q1' q1' 1' 0 x 5. q5 q5. 6 6 1' - 1'
+- 6. q6 1' - 2'. q3' 3' - 3' - 1'. q1' 2' 1' - q6 1' q0 6 7 1' 2' - 2' - q5. 6 q1' q6 ~ 6 q5 q6 q6 5 q6 1 q2 q3
+1. 1. q0 q3 q3 q2 q2 q1 q2 3 q3 q3 q5 6. q1 6 q5 q6 1' - 5 6 6 1'. q2' 3'. q1' 2' - q6 q6 q5 3 q2 q3 q2 1. 1 - 5.
+q5 5 6 7 1 - 5. q6 5 5 6 1' 2' - 5. q6 2'. q3' 1' - 1' - 0 1'. q1' 2' 2' 3' - x 5' 3' 3' q2' q1' 1' - 1' - 1'
+-
+%END

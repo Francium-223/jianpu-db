@@ -1,0 +1,17 @@
+%冬天已经过去.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=45382
+title=冬天已经过去
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.999
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-45382
+%--
+4/4
+subtitle=score
+,5 1 1 2 5 3 - 3 4 2 1 2 ,7 1 - 0 ,5 1 1 2 5 3 - 3 4 2 1 2 ,7 1 - 0 q1 q2 3 3 3 2 q3 4
+- 4 4 3 1 2 4 q3 2 - 0 ,5 1 1 2 5 3 - 3 4 2 1 2 ,7 1 - 0
+%END

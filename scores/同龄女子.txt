@@ -1,0 +1,21 @@
+%同龄女子.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=11493
+title=同龄女子
+tag=
+usertag=
+tagroute=
+confidence=0.830
+conf_p10=0.511
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-11493
+%--
+4/4
+subtitle=score
+1 0 x ,x' ,x' 2. 3 x 3'. 3. 3' 1' x q0 2' x 1' 1' 1' 1' x' 3' 2' 4' h1 s2 h1 3' 1' 3' 3' 4' q3' q1 1 3' x' 1' 2 x
+s1 s2 3'. 1' s0 x 0 3' 2 1' 1' 1 2' 1' 1' s,,2 h1' d3' 3' 3' h4' 3' 3' 2 1 x 1 1. 2' 2 1' 1 s2 s1' 3'. 0 q0 q4' 6' 5'
+2 0 1' 1' 1' 1 h1' s1 5' 2' 2' 2' 5' 1' x 1' 1' 1' q1' q1 5'. 1' 6' 7' x' 6' 6' s6 q2 2 - 0 s6 5. 5 - 0 q4 s3 s4
+s,4 q5. q6 q5 s2 s2 5. q4 s,,,3 s4 s4 5. 3' - q4 3 q4 q4 5. q6 5 q2 q2 5' 4 3 4 5 q,5 5 0 5. ,1' 2' 7 0 5 6 q,,,7 7
+q,1' ,,1' s1' q1' q5 5 0 s4 s,3 q4 q,1' q2' 2' - - - x q1' q1 q4 q6 q7 7 ,1 q2 q4 5 - - - x x 6' - - - x 1 s6' s6
+q,2. 2 - - 0 q1 q1 2 1 1 - - - 0 0 0
+%END

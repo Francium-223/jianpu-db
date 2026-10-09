@@ -1,0 +1,19 @@
+%古老的故事_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=23187
+title=古老的故事
+tag=
+usertag=
+tagroute=
+confidence=0.955
+conf_p10=0.842
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-23187
+%--
+4/4
+subtitle=score
+3 5 1' ,1' 6 5 3 2 3 x 3 2 1 ,6 ,1 2 3 5 3 2 ,1 ,6 ,5 ,6 - - - ,6 - - - x 6 ,6 3 3 2 3 5 5
+q5 q6 3 - 2 2 3 5 3 q2 3 - 6 ,6 q3 3 q2 3 5 q5 q6 3. q1 2 q2 q3 2 q2 q,5 q,5 ,6. ,6 - 0 0 0 0 x. 6 6
+6 q3 q5 5 5 6 3 - 2 2 3 2 3 2 3 - - - ,6 ,6 3 3 2 ,1 2 2 3 ,6. ,6 1. q1 2 q2 q,5 ~ q,5 6. ~ 6 -
+q,5 6. ~ 6 - 0 q,6 q3 3 q2 q1 2 q2 q3 6. q,6 1. q1 2 q2 ,5 ~ q,5 ,6. ~ 6 -
+%END

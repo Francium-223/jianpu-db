@@ -1,0 +1,22 @@
+%单人旅途.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=35749
+title=单人旅途
+tag=
+usertag=
+tagroute=
+confidence=0.987
+conf_p10=0.990
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-35749
+%--
+4/4
+subtitle=score
+0 q5 q5 q5 q2 q2 q3 q2 q1 q1 q,6 3 q0 q3 q2 q1 q1 q,6 3 q0 q3 q2 q1 q1 q,6 5 s3 s2 s1 d6 0 q3 q4 q3 q2 2 q2 q2 q2 q3
+q4 q3 3 q3 q3 q3 5 q3 q2 q3 ~ 3 q3 2 q3 0 0 q5 q5 q5 q2 q2 q3 q2 q1 q1 q,6 3 q0 q3 q2 q1 q1 q,6 3 q0 q3 q2 q1 q1
+q,6 5 s3 s2 s1 d6 0 q3 q4 q3 q2 2 q2 q,6 q2 q,6 q2 q3 q4 q3 q3 q3 q3 q6 q6 q7 q6 q7 ~ 7 q0 1' q7 0 1 7 6 q6 q3 q4
+q5 q5 4 s3 s2 q0 s2 s2 q5 q5 q5 q6 q7 q6 q5 q2 q3 q3 q3 3 s2 s3 q0 s3 s5 q6 q6 q6 q3 2 ~ q2 s3 s5 q6 q6 q6 q3 2 ~
+q2 q0 s3 s7 q3 s3 s7 q3 q3 q3 q3 q2 3 q3 2 q3 0 1' 7 6 q6 q3 q4 q5 q4 4 s3 s2 q0 s2 s2 q5 q5 q5 q6 q7 q6 q5 q2 q3
+q3 q3 3 s2 s3 q0 s3 s5 q6 q6 q6 q3 2 ~ q2 s3 s5 q6 q6 q6 q3 2 ~ q2 q0 s3 s7 q3 s3 s7 q3 q3 q3 q3 q2 3 q3 q2 q2 q1
+q1 q1 s1 d7 q,6' 0 0 0 0 0 0 0 - q3 s3 q2 s2 q1 q1 s,7 3 q3 q2 q2 q1 q1 q1 s1 d7 q,6 q0 q1 ,7 0 qx.
+%END

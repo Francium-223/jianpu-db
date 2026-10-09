@@ -1,0 +1,22 @@
+%叹浮沉.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=26175
+title=叹浮沉
+tag=
+usertag=
+tagroute=
+confidence=0.950
+conf_p10=0.831
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-26175
+%--
+4/4
+subtitle=score
+x q,3 q1 ,7 q,5 q,5 q,3 q,3 q1 ,7 q,5 q,5 q,3 q,1 q,3 q,2 q,2 0 q,3 q,6 q,3 q1 q,7 q,5 q,3 q3 q5 6 1' 2' - q7 s5 s3 q3 q7 1' q0 s6 s7
+q1' s1' s1' s1' q2'. q7 s5 s5 ~ s5 q6 s3 3 - 0 q3 q5 q6. s6 s6'. q3' s2' 2' - q7 s5 s3 ~ s3 q7. q1' s1' s1' q0 s6 s7 q1' s1' s1' s1'
+q2'. q7 s5 s5 ~ s5 q7 s6 6 - 0 q2' q2' q3'. s3' q3' s4' s2' 2' - q7 s5 s3 ~ q3 q7 1' q0 s6 s7 q1' s1' s1' s1' q2'. q7 s5 s5 ~ s5
+q6 s3 3 - 0 q2' q2' q3'. s3'. s3' s3' q4' s2' 2' - q7 s5 s5 ~ s5 q3 s7 q1' s1' s1' q0 s6 s7 q1' s1' s1' s1' q2'. q1' s1' s1' s1'. q2'. 3' -
+q1' q1' q3' q5' 6' q3'. s2' 2' - q7 s5 s5 ~ s5 q3 s7 q1' s1' s1' q0 s6 s7 q1' s1' s1' s1' q2'. q7 s5 s5 ~ s5 q6 s3 3 - 0 q2' q2' q3'.
+s3'. s3' s3' q4' s2' 2' - q7 s5 s5 ~ s5 q3 s7 q1' s1' s1' q0 s6 s7 1' q2' q7 s5 s5 ~ s5 q7. q7 s6 s6 6 - q3' q2' 6' 6 q0 s1' s1'
+q2'. q3' q7 q5 6 - - -
+%END

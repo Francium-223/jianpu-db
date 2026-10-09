@@ -1,0 +1,16 @@
+%不倒翁01.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48386
+title=不倒翁01
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.999
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48386
+%--
+2/4
+subtitle=score
+5 6 5 - 3 2 3 - 5 3 2 1 q3 q5 q1 q3 2 - 5 6 5 - 3 2 3 5 3 2 1 q2 q1 2 3 1 -
+%END

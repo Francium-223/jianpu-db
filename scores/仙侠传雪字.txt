@@ -1,0 +1,20 @@
+%仙侠传雪字.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=27197
+title=仙侠传雪字
+tag=
+usertag=
+tagroute=
+confidence=0.987
+conf_p10=0.970
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-27197
+%--
+4/4
+subtitle=score
+- - - - - q,5 q,6 q1 s2 q3 d5 s6 q5 q3 2 - 0 0 q,5 q,6 q1 s2 s3 2 ,6 ,5 - - 0 q,5 q,6 q1 q2 q3 s5 s6 q5 q3 2 -
+0 0 q,5 q,6 q1 s2 s3 2 ,6 1 - - - 0 0 0 0 q,5 q,6 q1 q2 q3 s5 s6 q5 q3 2 - 0 0 q,5 q,6 q1 q3 2 q,6. s,5 ,5 - 0
+0 q,5 q,6 q1 q2 q3 s5 s6 q5 q3 2 - - 0 q,5 q,6 q1 s2 s3 2 ,6 1 - 0 q3 q5 6 q1' q5 5 q5 q6 3 q2 q5 3 q5 q6 1' q6
+q5 q3 q2 q1 q3 q2' 2' - q3 q5 6 q1' q1' 5 q6 q5 q6 q5 q1' q1' 1' - q1' q6 q5 q3 2 q1 1 - - 2 - - 1 q3 2 1 - q2
+q3 q2' q3' q6' q3' 2' - - - - - 1 - - q3 d5 1 - - 0
+%END

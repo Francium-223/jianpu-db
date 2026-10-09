@@ -1,0 +1,21 @@
+%冲绳之恋.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=46453
+title=冲绳之恋
+tag=
+usertag=
+tagroute=
+confidence=0.979
+conf_p10=0.987
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-46453
+%--
+4/4
+subtitle=score
+x q1 q2 q1 1' 6 q5 q3 3 5 q3 q6 ~ q6 q3 q2 q1 2' - q2 1 q,6 q3 2'. q2 1 q,6 1. q4 5 - 3 - q0 q1 q,7 q1 2 2 q2
+q1 q,5 q3 3 - q0 q,5 q,6 q3 2 q2 q1 q2 q1 q,6 q,6 ,6 - q0 q,6 q6 q3 2 q2 q2 q2. s1 q1 q,6 3 - q0 q,5 q,6 q3 2 q2 q2 q2. s3
+q3 q,6 ,5 - q0 q,5 q,6 1 2 2 q2 q1 q,6 q3 3 - q0 q,5 q,6 q3 2 q2 q2 q2. s3 ~ q3 q,6 1 - q0 q,5 q,6 q3 2 2 q2 q1 q1 q,6
+q3 2 q2 q2 q3 q2 q1 2 2 q2 q1 q,6 q5 5 q0 q5 q6 q5 q3 q5 5. q3 2 q5 5 q2 2. 2 q1 q1 1. q6. s5 q5 q3 3 - - 1 1.
+7 q6 q3 q3 q5 5. q3 2 q1 q2 2. q1 q1 6 s5 s2 2. q5 q6 q5 q3 q5 1 6 q5 q3 3 5 q3 q6 q6 q3 q2 q1 2 - q2 1 q,6 s3
+s2 q2 2 q0 1 q,6 1 - - - x q0 q1 q7 q1 x x'
+%END

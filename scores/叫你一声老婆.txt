@@ -1,0 +1,22 @@
+%叫你一声老婆.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=26871
+title=叫你一声老婆
+tag=
+usertag=
+tagroute=
+confidence=0.955
+conf_p10=0.813
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-26871
+%--
+2/4
+subtitle=score
+s2. 1. s6 s5 s3 q0 s5 s5 s2 s1 s2 s1 q2 s2 s1 s2 q3 s3 q0 s5 s5 s2 s1 s2 s1 s2 q3 s3 ~ 3 q0 s5 q6 s5 s6 q6. s6 s5 s5 s5
+s1 q3 s2 s3 s2 s2 s2 s1 q2. s1 q3 s2 s2 q0 s5 s2 s1 s2 s1 q2 s2 s1 s2 q3 s3 q0 s,5 s,5 s2 s1 s2 s1 s2 s3 s5 s5 ~ 5 q0 s5
+q6 s5 s6 q6. s6 s5 s5 s5 s1 q3 s2 s3 s2 s2 s2 s1 q6. s1' q6 s5 s5 5 q0 s5 q1' q1' 2. s1' s1' s1' s1' q2' s1' s1' s2'. q3' s5 q0 s3 s5
+s1' s1' s1' s1' q2'. s2'. s3' s6 s5 s3 s5 q0 s5 s5 q1' s6 s6 q0 s2' s2' s7 s5 s5 s3 q6 s2 s3 s4 s4 s4 s3 q4'. s3' s3' s2' q2' s5 q2' q1' s1'
+s2' s1' s1' q2' s1' s1' 2'. 3' 5 0 3 5 2' 2' 1' 1' 2' 2'. 3' 6 5 3 5 0 5 5 1' 6 6 0 2' 2' 7 5 5 3 6 2 3 4
+4 3 4'. 3' 3' s2' q2'. q0 s7 s7 q1' - 0 x q0 d5 s2' q2' s5 q1' q1' s2' q2'. q0 s7 s7 1' - s2'. q3' q0 s6 q6. s3 s,1. s,6 ~ ,6 q3 s2
+q2. s2 s1. s2 s6
+%END

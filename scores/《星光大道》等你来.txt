@@ -1,0 +1,23 @@
+%《星光大道》等你来.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=7540
+title=《星光大道》等你来
+tag=
+usertag=
+tagroute=
+confidence=0.961
+conf_p10=0.878
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-7540
+%--
+2/4
+subtitle=score
+1 - - - x x x' x x x' q5. s5 q5 q6 q1' q6 1' s2' s2' s1' s2' q1' q3 5 - q6. s6 q1' q1' q6 q5 3 s2 s2 s2 s3 q5 q3 2 s2
+s1 s2 s3 q5. s5 q5 q6 q1' q6' 1' s2' s1' s1' s2' q7 s6 s5 q6 q6 6 q6. s5 q1' q1' s6 s5 q3 2 s2' s2' s2'. s3' s5 s3 s5 s6 q1' q0 q1' q0
+q0 q1 q0 q1 q1 q1 q2 s2 s3 1 0 q2 s2 s3 q1 q,6 ,5 0 q1 q1 q2 q3 q6 q5 3 q1 s1 s6 s3 s5 s5 s3 2 0 q1 q1 q2 s2 s3 1
+0 q2 s2 s3 q1 q,6 ,5 0 q1 q1 q2 q3 q6 q5 3 q3 q3 s5 s3 q2 1 1 - q5 q5 q5 s5 s6 q1' s1' s1' 1' s2' s2' s1' s2' q1' q3 0 5
+- q6 s6 s5 q6 q1' q6. s5 3 s2 s2 s2 s3 s5 s6 s5 s3 2 - q5 q5 q5 s5 s6 q1' s1' s1' 1' s2' s2' s1' s2' q1' s6 s5 0 6 - q6. s5
+q6 q1' s6 s5 ~ s5 s3 2 s2' s2' s2' s3' s5 s3 s5 s6 0 1' - 0 1' - qx q1' q0 q1' q0 q5 q5 q5 s5 s6 q1' s1' s1' 1' s2' s2' s1' s2'
+q1' s6 s5 0 6 - q6. s5 q6 q1' s6 s5 s5 s3 2 s2' s2' s2' s3' s5 s3 s5 s6 0 1' - q6. s5 q6 q1' s6 s5 ~ s5 s3 2 s2' s2' s2' s3'
+s5 s3 s5 s6 0 1' - 1' - 1' q1' q0
+%END

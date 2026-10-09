@@ -1,0 +1,17 @@
+%一个家.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15789
+title=一个家
+tag=
+usertag=
+tagroute=
+confidence=0.924
+conf_p10=0.649
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15789
+%--
+3/4
+subtitle=score
+q6' - 0 6 - 0 6 0 q6 0 q6 0 2 0 0 6 0 q6 6 s6 s6 0 0 6 s6 s6 6 0 q6 s6 s6 0 s6 6 q6 0 6 s6 s6 s6
+0 0 s6 6 0 q6 0 s6 6 0 6 0 q6 0 q6 0 0 0 6 q6 0 0 - -
+%END

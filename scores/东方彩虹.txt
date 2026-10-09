@@ -1,0 +1,21 @@
+%东方彩虹.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=27630
+title=东方彩虹
+tag=
+usertag=
+tagroute=
+confidence=0.946
+conf_p10=0.774
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-27630
+%--
+4/4
+subtitle=score
+1 qx - - - - 6 6 3 - x. x' q,,x' x x x' x x' q1'. s1' q6 s3' s2' 1' - q6 s2' s3' s2' s7 s6 s3 5 - q5. s6 q1' q2' s1' q6
+s5 6 q5. s6 q1' s3' s2' 2' - q3' q3' q2' s1' s2' 1' - q2'. s3' q1' s7 s2' 6 - q5. s6 q1' q1' q6 s5 s6 q5 q3 q7 s7 s6 q5 q6 1' - q1
+q3 q5 q6 5 - q4. s3 q2 s2 s3 1 - ,6 q1 q,6 q5. s6 q5 q3 q2 s2 s1 q,6 s3 s2 2 - q3 q5 q6 s5 s6 5. q3 q2 s3 s5 q2 s,7 s2
+,6 - q,5. s,6 q1 q2 q6 s5 s6 q5 q3 x 0 x 1 - - x x x q2 s2 s3 q3 s2 s1 1 - q1'. s1' q6 s3' s2' 1' - q6 s2' s3' s2' s7
+q6 5 - q5. s6 q1' q2' s1' q6 s5 q6 q6 q5. s6 q1' s3' s2' 2' - q3' q3' q2' s1' s2' 1' - q2'. s3' q1' s7 s2' 6 - q5. s6 q1' q1' q6 s5 s6
+q5 q3 q7 s7 s6 q5 q6 1' - 0 5 3' - 3' - - 2' 1' - - - 1' - - 0 x.
+%END

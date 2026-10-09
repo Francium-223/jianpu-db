@@ -1,0 +1,24 @@
+%一坡坡糜子一坡坡谷.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=16476
+title=一坡坡糜子一坡坡谷
+tag=
+usertag=
+tagroute=
+confidence=0.934
+conf_p10=0.781
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-16476
+%--
+4/4
+subtitle=score
+1 - - 0 1 - qx x ,1 0 0 2 - - - - - - - - 0 - 1 0 0 2 - - - 0 1 - - 1 0 0 2 q2 q2' q5
+q5 q6 q1 1' x 2. s5 ,5. q,5 x q,5 q1 q1 q2' ~ 2' - 2. s5 ,5. q,5 x ,5 ,6'. ~ ,6' q0 q2 2. s5 ,5. q,5 x s,4 s,5 ,6'. ~ ,6' s,6 s,1
+s,6 s0 q0 s,6 s1 q2 0 0 q2 q2 q2 q,6' q,5 ,5 - - 0 x 0 s0 s2. s2 s5 s5 s,5 s,6 s,2 s2 s5 s,6 s2 s0 s2 s5 s,6 s2 s5 s,6 s2 s0
+s2 s5 s,6 s2 s5 s,6 s2 s0 s2 s5 s,6 s2 s5 s,6 s2 q0 q2 q2 s1. d2 s5 q5 s6 s1 s7 q,6 q0 q2 s,4 q,4 s5 s,6 s1 2. q0 q2 q2 s1. d2 s5
+q5 s6 s1 s7 q,6 q0 s,6 s1 q2 q2 s2 d6 d7 s,6 s5' ~ ,5' s0 s,6 s,6 s,6 q,6 s5 s,4' s,4' d6 d1 d,6 s5 q,6 s5 s,4 s0 s,6 d1 d6 s1 q3 s2 s1
+s1' d6 d1 s,6 s1 q3 s2 s1 s0 s2 s1 s2 s4. d5 s6 s5' 5'. s4 s5 s6. d6 s6 s5 s6 q1' s2 s4. d5 s3 sx'. 0 2 s6. d6 s6 s5 s6 q1' s2 s4.
+d5 s3 s2 1 q0 q2 q1 q2 s,4 q,4 s,5 q,6' q,6' s0 s5 s4 s5 6' - - s6' d1' d1' s6 s5 s1'. d1' s3 s2' s2' d1' d1' s6 s5 s1'. d1' s3 s2' s2' d1'
+d1' s6 s5 s6. d1' s3 s2 - s2 s,6 s5 s,4 s5 s,6 s,5 s,6 s1 s2 s,6 s1 s2 4. q5 s0 s6 s5 s6 1' q4' 4' ~ s4' s5 s3 s2 2 - - - q6.
+d6 d6 q1 q1 q1 2 - - - 5 - - - 5 0 0 0
+%END

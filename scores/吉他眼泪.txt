@@ -1,0 +1,26 @@
+%吉他眼泪.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=51753
+title=吉他眼泪
+tag=
+usertag=
+tagroute=
+confidence=0.954
+conf_p10=0.865
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-51753
+%--
+4/4
+subtitle=score
+1 - - - x x'. x x x 1'. q3 q7 q3' q2'. s1' q1' 7 q3 q7 q2' q1' q7 s7' d1' d7 6 q3' q2' q1' q2' q1' 2' - 5 q0 q3 2' - q2' q1'
+s7' d1' d7 q6 3 s3 s4 s3 s2 3 - s7' s1' s7 s6 q7 s7' d1' d7 6 - 7 s1' q1' s2' 3' - - - x q,6 ,6 q3 q2 s3 s2 q1 q2 3 -
+- - q,3 ,3. q2 s3 s3 s7 s6 q,6 ,6 - - - q,6 ,6 s6 s1 s2 s3 3. q3 s6 s6 s3 s6 s3 s2 1 - q,3. s3 q,3 q3 q2 q3 s7 s6 q5 ,6
+- - - 6. ~ s6 6 q5 s6 s5 3 - - - 6. ~ s6 6 q3 s4 s3 2 - - - q3 3 q6 s6 s5 3. q3. s6 q1 s2 s5 3 - q,3. s3
+q,3 s3 s3 q2 s2 s3 q1 q,6 ,6 - - - q,6 ,6 s,6 s3 q2 s3 s2 q1 q2 3 - - - q,3 q,3 q,3 s3 ~ s3 q2 s2 s3 q1 q,6 ,6 - - -
+q,6 ,6 s6 s1 s2 s3 3. q3 s6 s6 s3 s6 s3 s2 1 - q,3. s3 q,3 q3 q2 s2 s3 s7 s6 s5 s6 ,6 - - - 6. ~ s6 6 q5 s6 s5 3 -
+- - 6. ~ s6 6 q3 s4 s3 2 - - - q3 3 q6 s6 s5 3. q3. s6 q1 s2 s5 3 - q,3 s3 s3 q,3 s3 s3 q2 s2 s3 q1 q,6 ,6 - -
+- x 6 - - s6 d7 d6 s5 d6 d5 3 - - s1 s2 s3 s7 s6 d7 d6 q6 ~ 6 - s6 s7 s5 s6 2 - - - 3. s5 s6 s6 s5 3. q,6.
+s6 q1 s2 s5 3 - 3. s2' s3' 3' s7 s6 s5 s7 6 - - - 6. ~ s6 6 q5 s6 s5 3 - - - 6. ~ s6 6 q3 s4 s3 2 - - -
+q3 3 q6 s6 s5 q3 q3. s5 q3. s6 q1 s2 s5 3 - q,3 s3 s3 q,3 s3 s3 q2 s2 s3 q1 q,6 ,6 - - - q,3 s3 s3 q,3 s3 s3 q2 s2 s3 q1
+q,6 ,6 - - -
+%END

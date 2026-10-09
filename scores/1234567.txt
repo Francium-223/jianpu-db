@@ -1,0 +1,18 @@
+%1234567.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=35038
+title=1234567
+tag=
+usertag=
+tagroute=
+confidence=0.756
+conf_p10=0.424
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-35038
+%--
+4/4
+subtitle=score
+2 ,5 s,5 s1 q2 q2 q2 q1' q1' q1' q3 3' 1 4' 4. s2 s2 q2 s1 q3 q1 s1 q1' q1 s3 q4 q,3 q4 qx' q,x 5 5. 4 q5' q1' q1 s1 5' 5 1
+1' 1' q5 q2 q3 q2 s3 h3 d2 s1 d1 2 q1' q1' q1 q1. 4 4 s1' s1' s1 d1 s1 s7' s,7 q3 q3 q3 q6' 6' q4 s4 q3 q4 x 1 1 q5 s1 d6'
+d,6 d5 d5' d6' d,5 q5 x' x' x x' 1 x x x' 1 0 - x qx 1 2 1' 0 0 1' x
+%END

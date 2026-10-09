@@ -1,0 +1,20 @@
+%古茶.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=31964
+title=古茶
+tag=
+usertag=
+tagroute=
+confidence=0.973
+conf_p10=0.938
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-31964
+%--
+4/4
+subtitle=score
+1 - - - x x x ,6 ,6 3 2 1. q,6 ,6 q1 q,7 ,5 q,2 ,3 - - - ,6 ,6 3 2 2. q1. ,1 q1 q2 q3 5 q2 3 - - - 2 2
+q3. s1 q,6 3 2 1 q1 q2 q2 3' q1 ,7. q,3 q,6 q,6 q,6 ,7 ,1 2 - - q0 2 ,1 ,6 - - - 3. q,3 ,3 q,2 ,3 - q,6 ,6 q,2 ,3 - q,6
+s,3 s,6 q,6 q3 s3' s2' 1. q,6 s,3 s,6 q,6 q3 s1 s2' 2. q,3 ,3 q,2 ,3 - q,6 ,6 q,2 ,3 - q,6 s,3 s,6 q,6 q3 s3 s2' 1 q,7 s,7 s,7 s,7 q,5 s,3 ,6
+- q3 3 q2 3 - q3 6 q2 3 - q2. s2 q2 q,6 q2 q3 q0 s5. ~ d5 q5 2 q3 3 - q3 6 q5 6 - q6 3 3' 2' 1 - ,6 q,6 s1
+q2 q2 q3 2. q,7 ,5 ,5 ,6 ,6 - s,6 q,6 s1 q2 q2 q3 2 ,7 ,5 - q,5 q,6 ,6' - - -
+%END

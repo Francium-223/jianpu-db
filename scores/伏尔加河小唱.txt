@@ -1,0 +1,18 @@
+%伏尔加河小唱.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49567
+title=伏尔加河小唱
+tag=
+usertag=
+tagroute=
+confidence=0.921
+conf_p10=0.558
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49567
+%--
+2/4
+subtitle=score
+1 q1 q0 q1 qx q1 q2' q3' q3' 5. 5' 1 1' 7 2' 1' 6 - q6' q2 q4 q6 7 6 6 5 3 3' 1. 1. ,1. 1. 1' x' q3 q,6 q1 q3 6 5
+5 4 q4 6. q6 ,6 2 q3 4 2 6 5 1 - q1 3 q5 q1 3 2 2 1 6 - q6 2 q4 6 2 1 1 q7. q6 5 q5 q1 q3 q5 6 5
+5 4 q4 6. q6 q,6 q2 q3 4 2 6 5 1 -
+%END

@@ -1,0 +1,17 @@
+%只怕虚度了好年华.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14817
+title=只怕虚度了好年华
+tag=
+usertag=
+tagroute=
+confidence=0.955
+conf_p10=0.761
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14817
+%--
+2/4
+subtitle=score
+x s3 s2 s1 2 q3 d1 q2 q1 s3 q2 s3 s2 s1 x s2. d3 s3 s2 s1 q1 s1 s2 s3 s2 s2 s1 2 d3 s2 s3 s3 s2 1 q1 s2 q1 1 d1 ,3
+s3 s2 d3 s3 s1 q2 x q3 s2 sx s1 q2 x s2 x s3
+%END

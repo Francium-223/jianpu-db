@@ -1,0 +1,21 @@
+%只要人间真情在.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=40801
+title=只要人间真情在
+tag=
+usertag=
+tagroute=
+confidence=0.725
+conf_p10=0.400
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-40801
+%--
+4/4
+subtitle=score
+1 - - x - x x 0 x q2 s1 s2 q3 s5 q5 3 q5 2' 3' 5 0 5 q7 s6 s6 q5 s3 q3 s6 s1 3 3 q,3 q1 x q3 s3 q5 s,2 2
+2 - 3 s2 2 s1 q2 q3 q,5 s5 q3 q1 s5 s1 1 2' s1 sx' 6 6 6 6 - d3. 1' 3' 2' 2' 3' h0 s1' h1' 2' h1' h1 2' 1' h1' s3' s1
+s3' s3' s1 s3' d1 - d1 3' s3' s3' 1' ,1' ,1 ,3' h3 ,3' 1' s1' hx' s2' s2 2' 6 h6' h1 h6 s1' h2 d1 h1 s1 s3' 1' s1' s2' s2' q3' q1' q1' q1
+h,1 h3 d5' q3' h3 s1 d2 d2' d2' 2' 2' 2' 1 q1 q1' q1 q6 q6 q5 s5' d3' d3' 6 x 2' s5 d6 d3 h,3 q3' 2' 3'. q3' q3' h3 s5' d7 h1 1' h,1
+2' 2' 2' s1 s1' 1 1 2' 6 1' 3' 6' 1 s1 q1 2 q,1' 2' 2' 2' s5 1' 1' 3' d5 d5 d,6' 6 ,3' ,3' q1 1 3 6 1' 1' 1 1 q1 q1'
+d2' s1' 6 6 0 1' 1' 6 1' d2 2'. 0 d3 q2' q1 ,5' h5 h1' q2' q6 d2' d2'
+%END

@@ -1,0 +1,21 @@
+%利剑.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=35276
+title=利剑
+tag=
+usertag=
+tagroute=
+confidence=0.990
+conf_p10=0.991
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-35276
+%--
+2/4
+subtitle=score
+1 - - 4 qx 4 2 x 4 1 - - - 1'. s1' s1' 1'. s1' s1' s1' s5 s3 s5 s3 s5 s1' s1' s1'. s1' s1' s2' q3' q0 q1' q1 5 - - - q6'
+q1 q6 q6'. s3 3 - s2 q5 s3 q2 s5 s6 ~ ,6 - q,6 q1 q,6 q6. s7 7 - s5 q6 s7 q6 s2 s3 3 - q3 q5 q3 q1' s6 s1' 1' - s5 q6
+s7 q6 s5 s2 2. s6 s7 q1. s1 q1 q2 q3 q5 q3 q7. s6 7 - - q7 q5 q3 6 - - 0 q1'. s6 q3' s2' s3' s2' q1'. 1' s7 q7 s7 q7 s6. d7
+s5 q3. 3 q6. s1 q5 q6 s1 q,6. q,6. s6 q2. q3 q5 q6 q3 q6 5. q1. q6 q3 q2 q3 q2 q1. 1 s7 q7 s7 q7 s6. d7 s5 q3. 3 q6. s1 q5 q6 1.
+q6 q2. s2 q1 q6 3 - 3 q3 q2 q6 1 - - - q7. s7 q7 s5 s3 3 - q6. s6 q6 q1' q6 7 - q7 q3 q5 q6 q1'. s1' q1' q7 q6 2' -
+- q3' q5 6 - - 0 6 - - - 6 - - - 6 0 0 0
+%END

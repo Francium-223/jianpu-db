@@ -1,0 +1,24 @@
+%南飞雁_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=6737
+title=南飞雁
+tag=
+usertag=
+tagroute=
+confidence=0.965
+conf_p10=0.896
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-6737
+%--
+4/4
+subtitle=score
+- 6. q1' 1' 6 3 q7' q1' q7 q5 7 3 q3 q5 1 ,4 ,3 - q3 q6 q7 q5 6 q1' q1' q3 q6 q6 q5 q2 q3 q4 q6 2 4 ,5 q3 5 q7 q5
+,6 - - - q,6 q3 q3 q3 q3 q3 0 q5 q2 3 - - - q6 q6 q6 q6 q6 qx q4 - - q3 q2 0 3 - - - q6 q6 q6 s3 s2 2 -
+q3 q6 q3 s2 s1 1 - q,6 q3 q3 q2 q,7 q1 q,7 q,5 - - 0 q,6 q3 q3 q2 q3 q2 0 q5 q2 3 - - 0 q6 q6 q6 q6 q6 q4 q3 q2 0
+3 - - 0 q6 q6 q6 s3 s2 2 - q3 q6 q3 s2 s1 1 - q,6 q3 q3 q2 q,7 q1 q,7 q,5 ,6 - 1' q1' q7 1'. q6 q7 q7 q6 q5 3 - 0
+q3 q5 6. q6 q6 qx q4 q3 q2 0 q3 - - 0 q6 q6 q6 s3 s2 q2 - q3 q6 q3 s2 s1 1 q,6 q3 q3 q2 q,7 q,7 q1 q1 q,7 q,5 0 ,6 -
+- 0 q6 q6 q6 s3 s2 2 - q3 q6 q3 s2 s1 1 - q,6 q3 q3 q2 q,7 q1 q,7 q,5 ,6 - 0 q3 q5 6 0 7 5 3 0 q3 q5 6. q1' 7
+q5 q7 6 - - - ,6 - 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 q1' q7 ,6 - - 0 q6 q6 q6 s3 s2 2 - q3 q6
+q3 s2 s1 1 - q,6 q3 q3 q2 q,7 q1 q,7 q,5 q,5 q,6 ,6 - q3 q5 6 - 5. q2 3 - - q3 q5 6 - 7 5 6 - - q3 q5 6. q1' q7
+q6 q5 q2 3 - - q3 q5 6. q1' 7 - 7 - 6 - 6 - - - 6 - - -
+%END

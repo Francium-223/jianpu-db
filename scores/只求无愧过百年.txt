@@ -1,0 +1,23 @@
+%只求无愧过百年.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14141
+title=只求无愧过百年
+tag=
+usertag=
+tagroute=
+confidence=0.957
+conf_p10=0.876
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14141
+%--
+2/4
+subtitle=score
+1 - - q1 x x 1' 1' x 1 0 x 1 1 x x q1' s2' s3' d2' d3' s7 s6 s5 s3 5 q6 s1' s6 s5 s5 s3 2 - q2'. s5' q3' s3' s2' -
+s0 q3'. s7 q6 q5 s6. d3 s3 s2 1 x q0 s0 s7 s6 s5 d3 d5 d6 d3 s5 s0 q0 x s0 s3 s3 s2 q7 s6 s3 q0 q5 0 s0 q6 s3 s6. d2 s7
+s6 s6 q5 s6 q1 s1 d6 x q0 q0 q5 q3 q2 q3 d6 q1 q2 q0 q0 x s0 s3 s5 s3 q3. s1 q2 q0 0 s0 q2 s2 q1 q2 s5 s3 s2 s3 q1 s6
+q5. s3 s5 s6' s2' s7' s7' q6 s5 6' q5. s6 q1' q7 q6 q5 3 s2 s2 s3 s5 s2' s1 s6 s1 x 1' 1' 1' 1' 1' 1' 1' x 1 0 q1' s2' q3' s7
+s6 s5 s3 5'. s3 s5 s3 s1' q6'. q3' ~ q3' 5. s0 s6 s5 s6 q1' q6 s5 s6 3 s6 s6 s5 s6 q1' s6 s2' 2' - q1' s2' s3' q3' s7 s6 s5 s3 5'.
+s6 s1' s3 q6'. q3' ~ q3' 5. q5. s6' s1' s7 s6 q5 s6'. 3 s6 q5 s6 d1' s7 s6 2'. s1'. d6 3' - 3' - s0 s6 s5 s6 s2'. d2' s1' s6 1' - x
+q1' s2' s3'. d5' s7 s6 s5 s3 s5 s6 q1' s2' q3' s6' d1' s6' s5' s5' s3' s2' s1' 2' s2'. d3' s2' s3' q5' s5' s6' q3' s3' s2' q1' q6 q0 s3' s5' q7 q6 5'
+- 5' - x
+%END

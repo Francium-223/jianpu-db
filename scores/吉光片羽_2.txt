@@ -1,0 +1,24 @@
+%吉光片羽_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=1787
+title=吉光片羽
+tag=
+usertag=
+tagroute=
+confidence=0.936
+conf_p10=0.747
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-1787
+%--
+4/4
+subtitle=score
+x x x' x. x x - 1 1 - - - x x x. ,1 ,x 1. x 1 5'. s5' s7' q1' ~ 1' - - 4. s4' s6' q2' ~ 2' - - s5' s7' q1' ~
+1' - q0 s2 s3 4 - - - s1 s2 q3 q1'. s7 s7' q1' s5 ~ s5 q4 s3 3 q0 s2 s3 q4 s3 s2 s2 q7 s1 1 q0 q5 5 - q0 s3 s4 s5
+s6 s7 s1 s2 s3 s4 5 - x 3 - q0 q7 q1 q3 q2' s1' s7 ~ 7 q0 q3 q7 q2' q1' s7 s6 ~ 6 q0 q5 q6 q1' q7. qx s5 5 6 7 3'
+- q0 q3' q4' q5' q2' s1' s7 ~ 7 q0 q4' q3' q7 q2' 1' q7 q7' q1' q0 q4' s3' s7 q7 q1' 3'. q1' q7 6 q3'. s2' 2' q1' s7 s1' ~ 1' 0 0 q1'
+s7 s6 6 q3'. s2' q2'. s5 q3' s4' s3' 3' - 0 q6 q7 1' s7 q1' s2' ~ 2' q0 s7 s1' q2' s2' s4' q4' s3' s2' s1' q1'. q7 s1' s1' ~ 1' - - q0
+q4' s3' s7 q7 q1' 3'. q1' q2' q3' s6 s6 s6' q3'. q2' s1' s7 ~ s7 q6. q5 s5 s2' ~ s2' q7 s1' ~ 1' q6 q7 q1' s4 s4 s4' q1'. q2' s1' s7 s5 q5
+s3' ~ 3' - 0 q1' q2' q3' s6 s6 s6'. q3'. q2' s1' s7 s7' q1'. q2' s2' s5' ~ s5' q7 s1' ~ 1' s6 q7 s1' ~ 1' q0 s2' s3' s1' ~ s1' q1' q7 s1'
+s7 q6 6. q0 s1' s1' s1' q2' s3' 3' - - - q6 6. q0 s1' s1' s1' q2' s3' 3' - - - q,x. q6 q7 q6' 6. q0 s7 s1' ~ s1' q2'. q6 6. q0 s7
+s1' ~ s1' q2' s3' ~ 3' - - - 0 0 0 0 x q,1.
+%END

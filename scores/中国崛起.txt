@@ -1,0 +1,22 @@
+%中国崛起.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=43517
+title=中国崛起
+tag=
+usertag=
+tagroute=
+confidence=0.995
+conf_p10=0.995
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-43517
+%--
+4/4
+subtitle=score
+3 4 q5 6 5 1 6 6 4 5 6 5 6 7 6 1 3 2 6 5 4 3 2 3 4 5 5 1 1 1 2 1 7 6 - 7 1 2 2 2
+6 6 7 q1 q2 5 3 4 5 6 5 q1 q6 q6 q4 5 q6. 5 - - 6 7 6 1 3 2 6 5 4 3 2 - - 3 4 5 5 1 1 1
+2 q1 q2 6 - - 7 1 2 2 6 7 6 5 7 2 1 - - 4. 4 6 - - 5 1 2 3 - - 2. 3 2 - 2 3 2 6 1 7
+- - 1. q2 1 - 1 3 7 6 7 6 - - 5. 6 5 - 5 6 7 1 q3 2 - - q4. q4 2 - - q1 2 4 3 - - - 3 -
+- 1. 2 qx - - 1 0 6 1 3 1 2 2 6 5 6 5 - - 4. 5 6 6 1 7 6 5 1 3 2 - - 1. 2 1 1 3 4 q3
+2 q1 6 - - 5. 6 q7 7 q4 q3 q3 q1 q2 q1 1 - - 1. 2 1 - - 5. 6 7 1 7. 4 3 1 3 2 - 5 - 3 - - -
+3
+%END

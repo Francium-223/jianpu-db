@@ -1,0 +1,17 @@
+%假如我是小鸟.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48432
+title=假如我是小鸟
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.995
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48432
+%--
+3/4
+subtitle=score
+1 q1 1 1 3. q2 1 q3 q3 3 3 5. q4 3 5 q4 q4 3 2 - - 2. q2 q1 q7 1 2 3 4. q4 q3 2 3 4 5 5 q4 q3 q3 2
+1 - -
+%END

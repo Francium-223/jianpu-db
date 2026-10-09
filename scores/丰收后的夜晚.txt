@@ -1,0 +1,19 @@
+%丰收后的夜晚.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48343
+title=丰收后的夜晚
+tag=
+usertag=
+tagroute=
+confidence=0.998
+conf_p10=0.992
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48343
+%--
+2/4
+subtitle=score
+,6 ,6 ,6 ,6 1 2 3 5 6. 5 3 6 6 6 1 6 5 3 2 3 5 5 3 2 3 2 1 ,6 3 2 3 5 2 1 q6 1 1 6 5 ,6
+- ,6 3. 2 3 2 ,1 ,6. 1 2 2 3 1 2 1 6 5 ,3 ,3 5 6 1 2 ,1 6. 5 ,6 - 6 6 6 6 6 6 1 2' 1 6 5 3
+5 6 5 6 1 6 5 3 2 3 3 5 5 3 2 3 2 1 ,6 3 2 3 5 2 1 ,6 6 1 2 1 6 5 ,6 ,6 - ,6 1 1 6 5
+,6 3 2 3 5 2 1 6 1 1' 6 5 6 6 -
+%END

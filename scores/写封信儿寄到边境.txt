@@ -1,0 +1,21 @@
+%写封信儿寄到边境.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=41516
+title=写封信儿寄到边境
+tag=
+usertag=
+tagroute=
+confidence=0.968
+conf_p10=0.965
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-41516
+%--
+4/4
+subtitle=score
+1 4 q1 4 2 4 q3 x x 1 1' x 1 q3 q4 5. s5 s6 q5 s4 s3 q2 q1 q2 q3 q2 q1 q,6 q,6 3. q2 q2 s1 d7 q,6 q,5 q5 q4 3 -
+q1 q2 3. s3 s4 q3 s2 s1 q,7 q,6 q,7 q1 q,7 q,6 q,6 q,6 1. q,7 q2 s1 d7 q,6 q,5 q,6 q,7 1 ,7 q1 q6 q6 q5 6 3 q5 q3 q3 q2 q3 q,6 q1
+q2 3. q,6 q2 q2 q1 q,7 q,6 q,5 ,6 ,6 0 q,6 q1 q,7 q,7 1 q2 q,7 q1 q1 q3 q2 q1 q,6 q1 q2 3. q,6 q2 q2 q1 q,7 q,6 q,5 ,6 ,6 0 x q1
+q6 q6 q5 6 3 q5 q3 q3 q2 q3 q6 q1 q2 3. q6 q4 q4 q4 q4 3 2 q3 q3 q3 q2 q1 q,6 q,6 q,7 1. q,6 q,6 q1 q,7 q2 1 ,7 q1 q1 q1
+q,7 q,6 q,6 q,6 q,6 ,6. q,6 x q2 q2 q1 q,7 q,6 q,5 ,6 ,6 q3 q4 q2 q2 q1 q2 q6 q5 6 6 0 q2 q2 q1 q7 q6 q5 q6 q6 q1 q2 q2 q2 q1
+q2 q3 q2 1 1 0 1 q2 q2 q1 q,7 q,6 q,5 ,6 ,6 q1 q2 q2 q2 q1 q,7 q1 q,7 ,6 ,6 0
+%END

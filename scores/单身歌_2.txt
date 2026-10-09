@@ -1,0 +1,26 @@
+%单身歌_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=36174
+title=单身歌
+tag=
+usertag=
+tagroute=
+confidence=0.989
+conf_p10=0.985
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-36174
+%--
+2/4
+subtitle=score
+x q0 s6 s6 q1 q6 q3 q3 q6 q3 q0 s1 s1 q3 q1 0 0 q3 q6 q6 q5 q6 q7 6 q3 q6 q6 q3 q2 s3 s2 2 q2 2 q3 5 q6 s5 s6 s5
+3 - 3 - 5 q5 q7 6 - 6 - x q,6. s3 q3 q2 3 - q,6 q,7 q,6 q,5 ,6 - q,6. s1 q1 q,6 s6 s1 s1 s1 q1 q,6 q1 q2 q3 s3 s2 2
+- q3. s6 q6 q5 6 - q2 s2 s3 q2 q1 x q6 q1 2 - q2. s1 q2 q2 s2 s2 s2 s1 q2 s2 s3 q6 s6 s6 q6 q1 ,6 - q2 s1 s2 q3 q5
+6 - x q,6 s6 s1 q3 q2 3 - q,6 s6 s1 q,6 q,5 ,6 - q,6. s1 q1 q,6 s1 s1 s1 s1 q1 q,6 q1 s1 s2 q3 s3' s2' 2 - q3. s6 q6 q5 6
+- q2 s2 s3 q2 q1 2 - q2. s1 q2 q2 s2 s2 s2 s1 q2 q2 d6 d6 d6 d6 q,6 q1 ,6 - q,6. qx d5 q,6 q1 q2 s1 s2 q3 q5 x q3. s6 q6
+q3 q6. s1 q6 q5 q5 s5 s6 q7 q5 6 - q3. s6 q6 q3 q6 q7 q6 q5 s2 s2 s2 s3 q5 q5 6 6 7 2 2 3 5 s4 3 - q2. s2 q2 q1
+q2 q2 q3 q1 q2 q2 q3 q2 1 q6 q1 q2. s2 q6 q1 q2 q3 q5 q4 3 - q2 q2 q3 3 - q2 q2' d,1 q3 q,7 s7 q,5 ,6 - ,6 q5 q6 6 -
+6 - qx qx qx sx sx sx sx sx sx x qx sx sx qx sx sx sx sx qx x sx sx sx sx qx sx sx sx qx sx x qx sx sx sx sx sx sx
+sx sx sx sx x qx sx sx qx sx sx qx qx qx qx x qx qx qx sx sx sx sx qx qx qx qx sx sx sx sx sx sx qx x sx sx qx qx qx
+sx sx qx x x q3 q6 q6 q5 q6. s7 6 q3 q6 q6 q3 q2. s3 2 q2. s2 q2 q3 q5 5 q7 6 - 6 6 0 6 - x q3 q6 q6 q5 q6 q7
+6 q3 q6 q6 q3 q2 s3 s2 2 q2 2 q3 5 q6 q5 3 - 3 - q5 q6 q3 q5 6 - 6 - 0 0 0 0 x
+%END

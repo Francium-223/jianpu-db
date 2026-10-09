@@ -1,0 +1,18 @@
+%人民公社颂.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14786
+title=人民公社颂
+tag=
+usertag=
+tagroute=
+confidence=0.920
+conf_p10=0.563
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14786
+%--
+2/4
+subtitle=score
+1 - - ,x x x x x x 1' - q1' s1' q1' q2 1 - 1' 1' - 1' - 1' - q1' q1' s1' - q3 q2 q2 q3 s3 q2 1 - 1 - x q1
+q2 q3 2 q3 s3 q2 q1 q1 1 - s1' 1' - 1' - x q1 q2 q2 q2 1 - x 1' 1' - 1' - 1' q1' s1' - 1 - 1 1' 1' 2' q1' q1'
+q1' s1' 2'
+%END

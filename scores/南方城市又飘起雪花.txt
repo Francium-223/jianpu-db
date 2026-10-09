@@ -1,0 +1,24 @@
+%南方城市又飘起雪花.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=18484
+title=南方城市又飘起雪花
+tag=
+usertag=
+tagroute=
+confidence=0.968
+conf_p10=0.958
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-18484
+%--
+4/4
+subtitle=score
+1 - - 4 x. x x x 1 ,1' x. ,1' 1' q,x' - x 0 0 0 6 q7 q7 1 q1 q1 1. s7 s6 1. q1 1. - s6 7 q7 7 6 - 3 -
+q0 q,6 q1 q2 2 - - q2' s1 s6 3 q1 q2 ~ 2 q0 q6 q1' q2' q3'. s2' ~ q2' s1' s7 3' ~ q3' q3' ~ 3' q3 - 6 6 - 1' q7 q7 6
+- q6 6 - q7 q7 q7 q6 - q6 - q2 3 - - q,6 q1 2 2 - q3 q2 q1 q2 2 - - - q3 s6 q2' q1' 6' - - - 6' - - -
+q,6 - q,6 q3 q2 q1 q,6 6 - 0 0 q,6 q1 q1 q,6 q1 q,6 q1 q2 2 0 0 0 q3 q6 q6 q3 q3 q2 q1 q2 2 0 0 0 q2 - q2 q2 q1
+q1 q2 3 0 0 0 q,6. q,6 q3 q2 q1 q,6 - 6 0 0 0 q,6 q1 q1 q,6 q6 - q2 2 0 0 0 q3 q6 q6 q3 q3 q2 q1 q2 2 0 0 0
+q2 q5' q3 - q6 q2' q1' q6 q6 x 6' 0 6' 0 0 0 6' q3 q3 6 q1' q1' q7 q6 - q6 6 0 - - q6 - q3 q2 3 - 0 0 2 q,6
+q,6 2. q3 q2 q1 q2 2 - - - q6 q7 q7 q6 - q3 3. 0 0 6 q3 q3 6 q1' q1' q7 q6 q6' 6 - q5 q6 - - q3 q2 3 - 0 0
+2 q,6 q,6 2 q3 q2 q1 q2 2 - q3 - q6 q2 q1 q6 q6 6 0 - 0 0 0 0 - - - q3 q6 q2 q1 q6 q6 6 0 - 0 0 0 0
+- - - q3 - q6 q2 q1 q6 q6 6 0 - - - - q3 - q6 q2 q1 q7 q0 6 0 0 0 0 0
+%END

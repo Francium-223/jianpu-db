@@ -1,0 +1,18 @@
+%又是黄昏_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12192
+title=又是黄昏
+tag=
+usertag=
+tagroute=
+confidence=0.969
+conf_p10=0.895
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12192
+%--
+4/4
+subtitle=score
+x 1 4 x 4 x x x x 6 q3' q2' q1 2 s1 s7' 6 - - - 1. q,6 q1 q2 q3 q5 3 - - - 0 q3 q5 q6' q5 q3 q2' 1 - -
+- 6. q,5 q,3 q,5' q,6' q1' 6 - - - 6 - - - 0 3 5 7 q6 s6 s7 q6 q3 q5' s5 s6' 5 q5 s5 s6 q5 q2 q3' s3 s5' 3 q6 s6 s7
+q6 q5 q3' q5' q1 q2 3 - - - q0 5 q3 6 3' 2 q3 1 6' 1 q2 q3 q2 q3' 6 - - -
+%END

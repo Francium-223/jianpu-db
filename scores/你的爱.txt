@@ -1,0 +1,19 @@
+%你的爱.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=31297
+title=你的爱
+tag=
+usertag=
+tagroute=
+confidence=0.938
+conf_p10=0.620
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-31297
+%--
+4/4
+subtitle=score
+q1 q1 1 1 6 6 4 x x 1' x 1 x q1 s1 s1 q1 q2 q3 5 q,6 ,5 - - - q1. s1 q1 s1 s2 q3 5 q6 5 - - - q1 s1 s1
+q1 q2 q3 5 q6 ,5 - - - q1. s1 q1 q2 q3 s5 s5 s5 q6 s5 5 - - - 1 - - - q3 q5 q5 s6 s5 1 - q6 q5 q3 s5 s6 5
+- q3 q5 q5 q6 q1 s6 s1 6 q5 q1 q3 q5 2 - q3 q5 q5 q6 s1. 1' - q1' q1' s1' s1' q5 6 - q5. s1' q1' q1' q6 s5 d6 d5 3 q2 q2
+q0 q1 q,5. s5 q,6 q1 1 - - - qx. x x.
+%END

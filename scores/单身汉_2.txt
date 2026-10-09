@@ -1,0 +1,18 @@
+%单身汉_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49832
+title=单身汉
+tag=
+usertag=
+tagroute=
+confidence=0.954
+conf_p10=0.775
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49832
+%--
+4/8
+subtitle=score
+- - x q,x. x x q5 q5 q1' q1' q5 s5 s6 s7 q5 q5 q7 q7 q7' s5' q7 1' q1' q0 q1' 2' 3' 3' q2' s1' s7 s6 s5 q2' q2' x q0 q0 q0 q0
+0 0 0 0 q1' 2' q3' 3' q2' s1' q7 q6 q5 q2' q2' 7 q6 7 q1' q6 5 q5 q0 q7 q6 q7 q1 q6 5 q5 q0 q3 q5 q1 q1 q2 s1 s7 q6 q5
+q5 5 q5 q6 q6 5 q5 q0 0 q0 q0 q0 q0 q0 q0 q0 q0 q1 q2 q3 q3 s4 s3 s2 s1 q,7 q,7 3 q3 2 q3 q4 5 5 0
+%END

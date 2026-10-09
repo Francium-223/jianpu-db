@@ -1,0 +1,18 @@
+%南阳有隐居_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=9514
+title=南阳有隐居
+tag=
+usertag=
+tagroute=
+confidence=0.921
+conf_p10=0.631
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-9514
+%--
+4/4
+subtitle=score
+1 - - - x x x. qx x. x' x 6 6 3 1' x qx' q6. s,1' q6 q,5 6 - - - q3 q5 q6 q1 3 2 q2. s3 q2 q1 2 - - - 3
+3 5 q5 q3 1' 6 - 5 3 - - - q2 q,3 ,6 6 q5 3 2 0 q2 q1 q6 q,5 ,6 - - - 6 6 q6 q5 q,,6 6. 6 - ,6 ,6 6 5
+x q4 q3 3. 3 - 2 q2 q3 q1 q6 q1 2 2 - - 3 5 - - x 3 5 1' 7 - 6 - - -
+%END

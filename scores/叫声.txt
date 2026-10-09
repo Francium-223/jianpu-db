@@ -1,0 +1,16 @@
+%叫声.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48466
+title=叫声
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.999
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48466
+%--
+2/4
+subtitle=score
+q1 2 q3 q2 3 1 5 5 5 - q5 q6 q5 q4 3 1 2 2 2 - 1 2 3 q2 3 1 6 6 6 - q5 6 5 q4 3 1 2 2 1 -
+%END

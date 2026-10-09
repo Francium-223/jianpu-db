@@ -1,0 +1,19 @@
+%只问你对我心.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=13351
+title=只问你对我心
+tag=
+usertag=
+tagroute=
+confidence=0.871
+conf_p10=0.522
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-13351
+%--
+4/4
+subtitle=score
+1 1. 4 1' x. x. x' x 1 x 1 q1 x x x 1'. 1 x x 2 1 1 q,7 x. 6' 0 6' x' 1' ,6 ,,,x 1 2' ,3 x' ,,,3. 2 1' ,2 -
+5. 3 2 3 q1 ,7 ,6 - - 6. 3 6 1' 1' ~ 1' 6' q1' 6 5 6 - 2. ,,,6 2 5 3 5 q3 q5 q,3 q2 3 - s,5 ,6 q1 s6. d5 ,6
+6' 5 3 5 ,2 ,3 2. ,3 5 3 2 2 1 1 ,6 q1 q,,7 ,,6 0 ,5 ,6 6 6 6 q,3 q,,,6 ,1' 1 0 2 2 ,6 2 5 3 5 3 2 s,5 q,6
+q,6 q1 s,,,6 ,5 ,6 6 3 5 3 2 3 3 0 6 0 0 7 7 6 1'. 7 6 5 3 ,5 1 ,6. -
+%END

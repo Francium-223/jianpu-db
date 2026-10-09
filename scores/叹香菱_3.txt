@@ -1,0 +1,20 @@
+%叹香菱_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14568
+title=叹香菱
+tag=
+usertag=
+tagroute=
+confidence=0.975
+conf_p10=0.902
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14568
+%--
+4/4
+subtitle=score
+x 6 - - 0 5 6 - - ,6 3 ,7 q,6. ,7 q,6 q2 1 - - 2 3 5 ,5. 6 ,7 ,7 ,6 - 2 - x 1 ,5 ,7' ,6' ,5 - ,6 3' ,7
+,6' ,5 1. 2 3 5 6 3 6 5. 6 5 - 6. 3 2 - 2. 3 2 3 5 - 1. q7 q6. 7 q6 q5 q6 s3 q5 3. q2 1 - 1 ,6 1 2.
+3 2. 3 2 3 ,5 - ,6 3 ,7 ,6. q,7 ,6 2 1 - - - 1. 1 6 - 7 7 2 7 6 5 - 6 1 q3. q5 q6 q6 5 - - - 6.
+3 2 0 3 2. 3 2 3 ,5 - ,6 3 ,7 ,6. q,7 ,6 2 1 - - 2 3 5 ,5. q,6 ,7 ,7 ,6 - - - 3 5 q5. q6 q7 q7 6 - -
+- 6 - - - 6 0 0 0
+%END

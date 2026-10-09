@@ -1,0 +1,23 @@
+%别处再好不是我家.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=19691
+title=别处再好不是我家
+tag=
+usertag=
+tagroute=
+confidence=0.906
+conf_p10=0.648
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-19691
+%--
+4/4
+subtitle=score
+q1 - - 6 4. - x q0 s6 s1' q2'. s6' q4' s3' s2' q1' s7 s6 5 s6 s1' s6 s1' q5' q3' 2' - q2'. s5' s5' d3' d5' s3' s2' q1' s7 s6 5 q6 s5
+s6 q1' q3 2. s5' s3' 2' - - - q6 q2' q2' q6 q1' 2'. q2' s6 s7 q6. s5 5 - h6 1' q1' q2' d6 d6 q6 s1' s,x h5 h2 q2' d7 sx h4 d6 d6
+q2' d5 q6 q5' q6. s1' q6 2' s1' q1'. d6 s1' 3'. s5 q1 q1' h6 s6 q6 s6 h4 h3 s5 2' s6 d5 - 1' 2 d6 q5 q1' 5' 5' s1 d5 s5 d6' q2' h5
+d6 s4' s4 q3' d4 d3 d2 d3' s3' h2 h6 s2' s2' s2 s5 2 q1'. q6. s7 q3'. s3' q3' q6 q1'. s1' q1' q6 1'. s2' s3' 2' - - - 1 q2' s2' s1' s1' s1'
+q2' q2' s5' s6' 5'. s4' s5' 6'. q4' s4' s3' 2'. q2' 4' q5' q6' 5' s4' s3' q2' 6 s1' s2' s1' s7 6. q6 2' q6 s7 s6 5. q2' 5' s3' s2' s1' s6 1' q2'
+s3'. d3' ~ q3' q2' q1'. s2' q3' s3' s6 q0 s1' s2' q3' s5' s3' 2'. s4' s5' 6'. q2' 5' s4' s5' s4' s3' 5' 2' - - - q2'. s6' q4' s3' s2' q1' s7 s6 5
+q6 s5 s6 q1' q3 2. s5' s3' 2' - - - q0 s1' s2' q3' s5' s3' 2' - q0 q0 s1' s2' q3' s5' s3' 2'. s4' s5' 6'. q2' 5' s4' s5' s4' s3' 5' 2' -
+- 2' - - x. - 1 1' 1' x' 2 0 2 0 0 4. 2 6.
+%END

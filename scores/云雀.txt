@@ -1,0 +1,20 @@
+%云雀.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49552
+title=云雀
+tag=
+usertag=
+tagroute=
+confidence=0.992
+conf_p10=0.989
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49552
+%--
+4/4
+subtitle=score
+3 6 5 4 3. 1 2 3. 0 2. q1 q,7 3. 3 ,6. q,7 1 0 3 6 5 4 3. q1' 2' 3. q0 5. q3 s1 5. s4 s2 1. q2 3 0 3 6 5
+3 1 5 4. q0 3 7 6. q3 5 - 4 0 3 6 5 4 3. 2 1 0 ,7. s1 s2 1 ,6 3 - ,6 0 3 6 5 4 3. q2 1 0 q,7. s,7
+q2 q4 3 - 3 - ,6 0 3 6 5 4 3. s1 2 3. 0 2. q1 q,7 q3 q0 0 q3 ,6. q,7 1 0 3 6 5 4 3. q1 q2 3. 0 5. 3 1
+5. 4 q2 1. 2 3 0 q3. s6 6 5 3 1 5 4. 0 3 7 6. 3 5 - 4 0 3 6 5 4 3. q2 1 0 ,7. q1 q2 1 ,6 3 - ,6
+0 3 6 5 4 3. q2 1 0 ,7. q,7 2 4 3 - 3 - ,6 0
+%END

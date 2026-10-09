@@ -1,0 +1,17 @@
+%卓玛拉_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=37155
+title=卓玛拉
+tag=
+usertag=
+tagroute=
+confidence=0.922
+conf_p10=0.686
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-37155
+%--
+2/4
+subtitle=score
+s3 q2. ~ 2 s1 s1 q5 2 s1 s2 s1 s2 s1 d2 d1 s5 - 3 s2 s1' 2' - s1' q2 2 s2'. s1' d2' - - - s3 q1' 1' s1' s1' s5 q3. ~ 3
+s1 q2 2 s5 s2'. s1' d2' d1' - - -
+%END

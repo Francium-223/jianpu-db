@@ -1,0 +1,21 @@
+%一路寻梦.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=26990
+title=一路寻梦
+tag=
+usertag=
+tagroute=
+confidence=0.957
+conf_p10=0.898
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-26990
+%--
+4/4
+subtitle=score
+x 3 q5 6 q1' s5 6 - s5 q1'. q1' 2' q1' q1' s5 s5 s5 s5 s2 q2 2 q1 2 q1 q3 q2 ~ 2 - q0 q3 q5 q3 q5 q3' q5 s5 - - -
+x q3 3 q3 5 q6 q3 3 - 0 q2 q1 q2 2 q2 q2 q5 q5 q6 3 - 0 0 q3 3 q3 3 6 7 q5 q5 ~ 5 q1 q1 q2 2 q3 2 q,5
+q,5 ,6 - 0 0 q3 3 q3 5 q5 q6 3 - 0 q2 q1 q2 2 q2 q2 q5 q5 q6 3 - 0 0 q3 3 q3 3 6 7 q5 q5 ~ 5 q1 q1 q2
+2 q3 2 q5 q5 6 - - - 6 - 0 q3 q3 6 q5 6 q1' q1' 3 q2 3 q3 q5 2 q1 2 q1 q2 q5 5 q5 1' q7 q6 6 q5 6 q1' q1'
+1 x. 2 x - 0 sx - - - - - x 3. q2 3 q3 q5 2. q2 2 q1 q2 q5 q5 ~ 5 - - 0 q0 q3 1' q7 q6 6 - - - 6
+- 0 0 q7 q6' 6' - - 0 0 0 q3 q3 q7 q6' 6 - - 6' 0 0 q3' q3 q3
+%END

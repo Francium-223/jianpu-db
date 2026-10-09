@@ -1,0 +1,21 @@
+%倾城之雨.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=29882
+title=倾城之雨
+tag=
+usertag=
+tagroute=
+confidence=0.988
+conf_p10=0.967
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-29882
+%--
+4/4
+subtitle=score
+q6 q6 q5 s3 s5 q5 6. q6 s5 s6 q2 s5 s6 3 - 3 6 s6 q5 s3 2 q5 s3 s2 s,5 s,6 s1 s,7 ,6 - 2 s3 s2 s1 s,6 s1 s2 ,6 q2 s2
+s3 s1 s,6 s1 s2 s3 s5 s5 s3 3 q3. s5 6 q6 s3 s2 q1'. s2 q5 s3 s2 s,5 s,6 s1 s,7 ,6 - - q2. s1 q1 q,6 s1 s,6 s1 s2 ,6 q2 s2 s3
+s1 s,6 s1 s2 3 - q3. s5 ,6 s2 s3 s5 s6 3 q6 q6 s3 s4 s3 s2 1 - q5 s5 s3 q2 s2 s1 q,5. s,6 s2 s3 s1 s,7 ,6 - 0 0 q6. s7
+q5 s3 s5 q5 6. q6. s7 s6 s5 s3 s2 1 q0 s1 s2 q5. s3 q2. s1 q,5. s,6 s2 s3 s1 s,7 ,6 - 0 0 - - - - - q,6 - - 0 q6 q6
+s5 s6 s3 s5 s5 6. q6 s5 s6 s2 s3 s5 s6 3 - s5 q3 s5 6 s6 s5 s3 s2 1 q2. s3 s,5 s,6 s1 s,7 ,6 - q3. s5 6 q6 s3 s2 1 q2.
+s3 s,5 s,6 s1 s,7 ,6 - q2. s3 s,5 s,6 s1 s,7 ,6 - - 2 q3 q5 q6 q1' 6. 5 q5 q6 6' - -
+%END

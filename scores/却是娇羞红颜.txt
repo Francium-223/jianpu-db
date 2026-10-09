@@ -1,0 +1,19 @@
+%却是娇羞红颜.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15169
+title=却是娇羞红颜
+tag=
+usertag=
+tagroute=
+confidence=0.931
+conf_p10=0.614
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15169
+%--
+4/4
+subtitle=score
+1 - x qx x x' 1 q2 q5 1 q7 q6 ,6 ,5 - - - q5 q1' 4 q3 q2 q2 q5 5 - - ,6. q1 2 6 5 q4 q3 q2 q1 ,6 - q6 q1'
+4 q3 q2 q2 q5 ~ 5 - - - q4 q3 q2. s3 q2 q1 ,6 q6 q5 q4. s5 q3 q2 1 q1 q7 q6. s7 q6 q5 4 q4 s2 s4 5 - - q6 q3 2.
+q6 6 - - q4 q5 5 - - - q2 q5 1 q7 q6 ,6 ,5 - - - q5 q1' 4 q3 q2 q2 q5 ~ 5 - - ,6. q1 2 6 5 q4 q3 q2 q1
+,6 - q6 q1' 4 q3 q2 q2 q5 ~ 5 - - -
+%END

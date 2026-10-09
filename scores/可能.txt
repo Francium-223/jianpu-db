@@ -1,0 +1,23 @@
+%可能.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=51841
+title=可能
+tag=
+usertag=
+tagroute=
+confidence=0.947
+conf_p10=0.847
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-51841
+%--
+4/4
+subtitle=score
+q1 q1 - - - - x x. x x'. x. qx - 6. q7 2' 6 - - - 5. q6 7 5 6 - - - 6. q7 2' 6 - - - 5. q6 7 5 6
+- - - x 0 0 0 q,6 q,6 q3 3 q2 q3 q,6 q,6 q3 q2. q2. q1 2 q,5 q2 q2 2 q1 q2 q,5 q,5 q1 q1 ,6 q,5 ,6 q,6 q,6 q3 3 q2 q3 q,6
+q,6 q3 q2 2 q1 2 q,5 q2 q2 q1'. 2 q1 q2 q,5 q,5 q1 q1 ,6 q,5 ,6 - 0 0 0 q,6 q,6 q,6 3 q2 q3 qx q,6 q,6 q3 q2'. 2 q1 2 q,5 q2
+q2 2 q1 q2 q,5 q,5 q1 q1 ,6 q,5 ,6 q,6 q,6 q,6 3 q2 q3 q,6 q,6 q3 2 q1 q3 2 q,5 q2 q2 qx 2 q1 q2 q,5 q,5 q1 x 1 - q1 ,6 q,5
+,6 - 0 0 0 q,6 q,6 q6 6 q5 q6 q1 q1 q6 q5 5 q3 5 q3 q5 q2 2 q1 q2 qx q,5 q,5 q,5 q5 5 q3 5 q1 q1 q6'. 6 q5 q6 q1 q1
+q6 q5 5 q3 5 q3 q5 q2 2 q1 3 2 ~ 2 - 0 s5 q1 q1 ,6 ,5 ,6. q2 2 q1 3 2 ~ 2 - 0 q1 q1 q6'. 6 q5 q6 q1 q1 q6
+q5. q5. s6 s5 5 q3 q5 q2 2 q1 q2 qx q,5 q,5 q,6 q5 5 q3 5 q1 q1 q6 6 q5 q6 q1 q1 q6 q5 5 q3 5 q3 q5 q2 2 q1 q3 2 ~
+2 - 0 q5 q1 q1 ,6 ,5 ,6
+%END

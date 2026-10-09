@@ -1,0 +1,19 @@
+%去延安.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=31859
+title=去延安
+tag=
+usertag=
+tagroute=
+confidence=0.985
+conf_p10=0.956
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-31859
+%--
+4/4
+subtitle=score
+q2 q5 5 - q3 q2 q2 q1 q,6 q,6 ,6 - q4 q5 q6 q3 2 q1 q7 ,6 - - - q2 q5 5 - - q2 q1 q6 q5 ,5 - ,5 - q4 q5 q6 q2
+,5 q4 q3 ,2 - ,2 - q2 q5 5 5. s5 s6 q4 q3 2 2 - q1 q2 q3 q1 ,5 q5 q2 ,5 - ,5 - q2 q5 5 5. q3 q3 q2 1 q1 q3 ,6
+- - q5 q6 q6 q2 ,5 - q4 q3 ,2 - - q2 q6 q6 q2 q2 q5 q5 q2 4. q3 q4 q2 2 q2 q6 q6 q2 q2 q5 q5 q2 1 q6 q1 ,5 - q4
+q5 q6 q3 2 q1 q7 ,6 - - - q4 q5 q6 q2 ,5 q4 q3 ,2 - - -
+%END

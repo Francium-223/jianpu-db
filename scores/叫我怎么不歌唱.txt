@@ -1,0 +1,25 @@
+%叫我怎么不歌唱.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=28221
+title=叫我怎么不歌唱
+tag=
+usertag=
+tagroute=
+confidence=0.975
+conf_p10=0.962
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-28221
+%--
+4/4
+subtitle=score
+1 - - ,1'. 1 1' x 6 - 3 2 ,6 - q6 q3 q5 6 - - - 3 - - - q2 q1 q6 q5 q3 q6 q5 q3 2. q3 q2 q3 ,6 2 q1 q2
+q1 6 5 6 ,2 ,6 6 ~ 6 ,6 6 ~ 6 ,6 0 ,6 6 q1 q2 q3 2 q2 q3 q5 q6 q3 q2 ,6 q1 q2 3 q5 q7 6 - x q6' q1' q6 q5
+x 3 q3 q5 6 q5 q6 1' q6 q1' 5 3 2 q2 q3 q5 q6 q3 q5 3 - - - 6. q1' 2' q2' q1' q6 q1' q6 q5 3 5 q3 q5 q2 q0 2. q3
+5 3 q6 q1 q6 q5 q2 q3 q5 q6 3 - q2 q3 q2 q1 5 6 q1 q2 ,6 - q,6 q1 q3 q5 2. q3 5. q6 q1' q2' qx' 6 - 3 q2 q3 q5 q6
+q3 q5 3 - - - 0 0 0 0 6. q1 2. q3 5 6 6 - 5 q3 q3 2 q1 q2 3 - - - 2. q3 q5 q5 q3 q5 6. q1' q6 q5 q3 q5
+2 q2 q1 5 6 q1 q2 ,6 - - - 2. q3 q5 q5 q3 q5 6. q6 q5 q3 q5 2. q3 5 - 6. 2' q2' q1' 6. s1 q3 q5 6 - 3' - - -
+q2' q6 q5 q3 q6 q5 q3 2. q3 q5 q5 q3 q5 q5 q6 q1' q2' 6 - q6. s1' q6 q6 1'. q3' q2' q1' q6 q5 q3 q6 q5 q3 2. q3 q5 q5 q3 q5 6.
+q1' q6 q1' 3' 2' q2' q1' q5 q6 q2' 6 x q3 q2 6 2' q1' q2' q1' q6 q5 q6 q1' q2' 6. q1 q6 q5 3 2 q2 q3 q5 q6 q3 q5 6 - - -
+0 0 0 0 6 q6 q6 6 0 x. 6. q1' q6 3' 2' q2' q1' q5 q6 q1' q2' 6 - - - 0 0 0 0 6. q1 q6 q5 3 2 q2 q3 q5 q6 q3
+q5 6 - - -
+%END

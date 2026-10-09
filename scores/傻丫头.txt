@@ -1,0 +1,22 @@
+%傻丫头.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=30510
+title=傻丫头
+tag=
+usertag=
+tagroute=
+confidence=0.977
+conf_p10=0.981
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-30510
+%--
+4/4
+subtitle=score
+1 - - 0 - x 1 x x x x ,6 q3 q2 1 0 q,7 q2 q1 q,7 ,6 0 q,6 q1 q1 q,6 1 0 q5 q6 q5 q6 3 0 q3 q6 q6 q5 6 -
+q2 q5 q5 s3 s2 1 - q,7 q,7 q,7 q1 2 q1 q2 ,7 - - - ,6 q3 q2 1 0 q,7 q2 q1 q,7 ,6 0 q,6 q1 q1 q,6 q6 5 q2 3 - - -
+q3 q6 q6 q5 6. s3 s3 q5 q3 q3 q2 3 - q,7 q,7 q,7 q1 2 q1 q5 3 - - - 6 q3 q2 2 q2 q3 q5 q3 q5 s7 s6 6 - q6 q1 q1
+q6 q6 1 q1 q5 q6 q7 q5 3 - q2 2 q1 2 - q5 q3 q3 q5 6 - q6 q1' q1' q6 1'. q1' 2' q1' q2' 3' - 6 q3' q2' 2' q2' q3' q5 q3
+q5 s7 s6 6 - q6 q1' q1' q6 q6 1'. q5 q6 q7 q5 3 - q2 2 q1 2 - q5 3 q5 6 - q3 q2 1 q2 q1 7 q5 3 q1 6 - 6 -
+0 0 x q5 3 q1' 6 - 6 - 0 0 q5 3 q1' 6 - 6 - 0 0 q3' q2' 1' q2' q1' 7 q5 q3 3 - - 2' - 3' - 6 - - -
+6 - - - qx. x
+%END

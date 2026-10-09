@@ -1,0 +1,20 @@
+%卷珠帘_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=20241
+title=卷珠帘
+tag=
+usertag=
+tagroute=
+confidence=0.988
+conf_p10=0.984
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-20241
+%--
+4/4
+subtitle=score
+1 - - 1 1' x 2 6 5. q4 4 3 2. q2' ~ 2' q1 q,6 q,6 q,5' ~ ,5' 0 0 4 1' 7. q6 ~ 6 5 6 6 6 q1 q2 2 q1 q2 s1
+q6 q5 5 4 5 6 q5 q4 q4 s5 s4 q2 q1 6 q1' s6 s1' 2' 2 1 2 4 3 q1' q,6' 5 q4 q2' ~ q2' q2 ~ 2' 2' 0 0 0 0 0 0
+2 6 3 q1 q,6 5 q4 q2 q2 q4 2 2 0 0 1 2 q2 s3 s2 1. s2 s1 7 6 7 q6 q5 2 2 3 4 q4 q1 1 q1 s1 s2 7 7 q6
+q5 q4 q5 6 0 0 0 1 2 q2 s3 s2 1. s2 s1 7 q6 q5 7 q6 q5 q6 5. 5 6 5 2 0 q6 q5 2. q1 2' 2' 0 0 0 0 0 0
+0 0 0 0 2 6 3 q1 q,6 5 q4 q2 q2 q1 2 2
+%END

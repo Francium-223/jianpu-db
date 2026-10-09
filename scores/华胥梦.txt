@@ -1,0 +1,22 @@
+%华胥梦.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=32484
+title=华胥梦
+tag=
+usertag=
+tagroute=
+confidence=0.960
+conf_p10=0.914
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-32484
+%--
+4/4
+subtitle=score
+1 - - - x'. 1 x. qx x 1' q1' q7 q6 q5 q6 3 - 0 q5 q6 3 - q0 q5 q5 q6 6 q5 6 - 1' q1' q7 q6 q5 q6 3 - 0 q5
+q6 3 q3 q2 q3 q2 q3 q5 6 - 0 q0 q5 q6 q5 q6 q5 q6 q5 q6 q1 7 q6 6 q0 q5 q6 q5 q6 q5 q6 q5 q3 q2 3 - 0 q0 q5 q6
+q5 q6 q5 q6 q5 q1' q1' 7 q1' 1' q0 q5 6 q1' q7 q6 q5 s7 s6 6 - - q1' q2' q3' q4' q1' q1' 2' - q2'. q3' q1' s1' s1' 1' q0 q3 q1' q2'
+q7 s6 s7 ~ q7 q6 q5 q7 7 q1' q1' 1' q1' q2' q3' q4' q1' q1' 2' q0 q5 q2'. q3' q1' q7 1' q6 q7 q1' q4 q1' q1' q1' q7 s6 q5 s5 6 - -
+0 q1 s1 s1 s2 s3 s2 q3 q3' q3 q7'. q3' q3 3' x. q1' q4 q1' q1' q1' q7 s6 q5 s5 6 - - 0 q,5 ~ q,5 s5 q2 s3 s2 1 s1 s2 3 -
+s5 s3 s2 s1 s2 s3 s2 s1 s7 s5 - - q1' q2' q1' q4 q1' q1' q1' q7 q1' q2' 3' - - q1' q2' q1 q4 q4 q1 q1 q7 s6 q5 s5 6 - - -
+0 0 0 0
+%END

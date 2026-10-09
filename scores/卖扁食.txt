@@ -1,0 +1,17 @@
+%卖扁食.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=31957
+title=卖扁食
+tag=
+usertag=
+tagroute=
+confidence=0.949
+conf_p10=0.776
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-31957
+%--
+4/4
+subtitle=score
+q1 x 1 4 x x x x 2' 5' q2'. s3' q2' 2' 5' q2'. s3' q2' 5 - 5' q4'. s3'. s5' q2' q7 q6 q5 6 - q5 5 q6 5 q4 q3 q2. s2 q5 q6
+2. q7 q6 s6 s5 q3 q5 6 q7 q6 q5. s3 q2 q1 2 - q2' s2' q2'. q5' q2'. q3' q2' q6 s6 s5 q3 q5 6 q7 q6 q5. s3 q2 q1 2 -
+%END

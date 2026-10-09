@@ -1,0 +1,22 @@
+%吉星高照.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=27109
+title=吉星高照
+tag=
+usertag=
+tagroute=
+confidence=0.980
+conf_p10=0.954
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-27109
+%--
+4/4
+subtitle=score
+x q1 q2. s1 q2 q3 q2 - q2. q2 q1 s1 q2 q1 2 - q,6. d5 q,6 q1 q2. s1 q2 q3 q5 s5 q5 q2 3 - q2 s2 s3 q2 q1 2 3 5 - -
+- q6 q6 q3 q5 6 - q2'. q3' q1' q1' 6 - q2'. s3' q1' q1' 2' 5' q3'. s5' q3'. q2' 3' - q6. s1' q6 q5 6 - 1 x q6 q6 q5 q3 q2 q1 q2
+q2 s2 s3 q2 q1 - q2'. s3' q1' q1' 2' - 2' q3' q5'. q3' 3' q2'. q3' q2' q6 1' - qx qx qx qx qx qx x qx qx qx qx qx qx x qx qx qx
+qx qx qx x qx qx qx qx qx qx x qx qx qx qx qx qx x qx qx qx qx qx qx x 5 6 q1' q2' 3' q6'. q5' q1' q1' 2' - 2' q2'. s3' q1'
+q1' q6' q2' q6' q2' q1' q6 5 - q1' q1' q6 q5 6 q1' s1' s2' q3' q6' q5'. q3' 5' - 2' q2'. s3' q5'. q3' 2' q2' s2'. s3' q2' q6 1' - 5 q5. s6 q2'
+q2' 3' q6' q5' q1' q1' 2' - 2' q2'. s3' q1' q1' q6' q2' q6' q2' q1' q6 5 - q1' q1' q6 q5 6 q1' s1' s2' q3' q6' q5'. q3' 5' - 2' q2'. q3' q5'. q3'
+2' q2' s2'. s3' q2' q6 1' - 0 ~ 0 0 0 0 ~ 0 0 0
+%END

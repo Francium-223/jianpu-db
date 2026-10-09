@@ -1,0 +1,18 @@
+%两只小象.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48391
+title=两只小象
+tag=
+usertag=
+tagroute=
+confidence=0.991
+conf_p10=0.998
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48391
+%--
+3/4
+subtitle=score
+1 q5 q5 ,5 1 q5 q5 ,5 1 5 5 ,6 2 5 5 ,5 1 - - 1 3 ,5 1 3 3 3 0 q1 q3 ,5 1 q1 q1 1 0 1 1 5 5 6
+2 2 2 0 3 1 3 1 6 6 6 0 2 5 2 3 1 1 1 0 1 - - - - - - 1 1 5 5 6 2 7 5 0 1 1 1 5
+6 6 6 0 2 5 2 5 1 1 1 0
+%END

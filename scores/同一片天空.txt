@@ -1,0 +1,23 @@
+%同一片天空.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=26563
+title=同一片天空
+tag=
+usertag=
+tagroute=
+confidence=0.978
+conf_p10=0.962
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-26563
+%--
+4/4
+subtitle=score
+qx' q1 q1 qx s1 q1 q1 4 6 5 - - - ,5 - - - 1 - - - 1 - ,5 - 3 - - - 3 - 3 3 4 - - - 4 - -
+- 4 - - - 2 - - - 2 - 2 q1 1 - - - 1 - - - x 5 3 3 q2 q2 q2 q3' ~ 3 - - ,5 3 3 q2 q2' ~ q2
+q1' ~ 1 - - 4 q3 1 ,6 q0 ,5 q1 2 3 q0 4 3 1 6 2 - - - 5 3 3 q2 q2' ~ q2 q3' ~ 3 - - 5 3 3 q2 q2'
+~ q2 q1 1. q3 q3 q4' ~ q4 q3 q1 q6' ~ 6 - q1 1 q1 q5 q5' ~ 5' ~ 5 - 6 - 3 2 1 q5 q5' ~ 5 q1 q2' ~ 2 - 3
+2 1 q5 q5' ~ 5 q1 q1' ~ 1 - 0 6 q5 5 q4' ~ q4 5 3 q2 q1 ~ q1 4 3 1 2 - 3 2 1 q5 5 q1 q2' ~ 2 - 3
+2 1 q5 5 6 q1' ~ 1 - - q1 q6' ~ q6 q5 5 4 5' ~ 5 q0 1 q2 3 4 3. 1 2 - - q1 q7' 1 - - - 1 - - -
+x 1 - 7 5 q5 q3 q2 q1 2 1 1 - 7 4 4 q1 q7 q6 5 1 - 7 s3 s4 s3 s2 q2 q5 q1 q5 s3. s2. s3. s2 s3 s4. s3. s2 q1
+q7 q5 q2 q5 q2 q1 q,7' 5 - - - 1 - - - 1 - 1 1
+%END

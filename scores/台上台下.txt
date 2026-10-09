@@ -1,0 +1,20 @@
+%台上台下.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=13367
+title=台上台下
+tag=
+usertag=
+tagroute=
+confidence=0.916
+conf_p10=0.663
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-13367
+%--
+4/4
+subtitle=score
+1 - x x x x x q0 q,6 q,7 1 ,7 1 q0 q,3 ,6 q,7 q,7 1 q,7 q1 0 ,3 q,6 q1 q,7 q,7 q3 x 2 q4 q3 q1 q,6 - 3 3 2 1 1
+,6 q0 q,6 q,7 q1 q,7 ,6 ,6 0 6 6 4 2 2 q0 2 4 2 2 0 0 2 3 4 3 6 6 6. 5 5 2 3 4 q,7 1 2 1 ,7 ,6 q,6
+0 0 x q,6 s,5 s,6 q,,7 s1 s7 s1 6 6 6 5 4 3 5 4 4 ~ 4 5 5 5 ~ 5 4 3 2 4 3 3 - - q4 4 4 4 3 3
+2 1 1 ,7 ,7 ,7 ,7 ,6 q,,5 q,7 3 - x 4 5 5 3 6 6 6 ,,3 ,3 5. 1 0 3 6 6 6 5 3 5 3 5 4 0 5 - 3 5
+6 0 6 0 0
+%END

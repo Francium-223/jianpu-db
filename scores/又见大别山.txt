@@ -1,0 +1,21 @@
+%又见大别山.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=18156
+title=又见大别山
+tag=
+usertag=
+tagroute=
+confidence=0.980
+conf_p10=0.984
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-18156
+%--
+4/4
+subtitle=score
+1 - - q1 q1 qx - - 5 x. 1 x'. x - x q0 s1 s7 ,6 q3 q2 q0 s,6 q3 1 - q1 s2 s1 q2 q3 q5. s3 q5 q6 q7. s3' s2' s7 q6
+5 - - - q1'. s7 q6 q3 2' q6 q3' 1' - q1' s2' s3' q2' q7 6. q5 q3. s5 q2 q6 1 - - - q0 s6 s6 q5. s3 q1. s7 q6 q5 s3. d3 s3
+s5 q2 q,6 0 0 1 - q1 s6 s6 q6 q2 q1. s7 q6 q1 s3 q3 s2 q6. s3 5 - q5 s6 s6 q3 q5 q6 s3 s5 q2 q1 q2. s3 q5 q7 ,6 - q6
+s1 s6 q1 q2 q3. s5 q1' q1' s3 q3 s5 q5 s5 s3 2 - s3 q3 s5 q2 s2 s3 1 - - q1. s7 q6 q3 s2 s3 1 q3 s2 q7 s7 q6 s3 s5 5
+- q3. s5 q6 s5 s6 1. q3 s2. d2 s2 s6 q5 s5 s3 2 - q3. s5 q2 q3 q5. s6 1 s6 q6 s6 q5 s5 s3 q2 q1 1 q7 s6 s6 q6 s3 s5 s2.
+d1 s2 s3 q5. s6 q1. s,1 s6 q1 s5 s3 2. s3 q,2 q3 s5 q2 q3 1 - q0 q6 q1' q6' q6 3' 5' 2'. 0 1 - - 1 - - 0
+%END

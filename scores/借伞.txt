@@ -1,0 +1,17 @@
+%借伞.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48431
+title=借伞
+tag=
+usertag=
+tagroute=
+confidence=0.987
+conf_p10=0.994
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48431
+%--
+2/4
+subtitle=score
+q5 q3 5 q5 q5 q5 q0 q4 2 4 4 q4 q4 q0 q3 q3 q3 q1 q2 q2 ,5 7 q7 q7 q0 q5 q5 q5 0 x x qx qx qx qx x 0 x q2 q3
+q5 q4 q3 2 q5 5 q4 q3 s3 2 2 3 1 2 q7 1 5 q5 2 4 3 0
+%END

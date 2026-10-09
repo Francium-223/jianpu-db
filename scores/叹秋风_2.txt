@@ -1,0 +1,24 @@
+%叹秋风_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=2069
+title=叹秋风
+tag=
+usertag=
+tagroute=
+confidence=0.956
+conf_p10=0.857
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-2069
+%--
+4/4
+subtitle=score
+1 - - - x ,1 ,x 1. x 1 x 3 - - s3 s2 q1 5 - - q3 d5 d3 d2 d1 ,7. q,6 ,5 q,7 q1 ,6 - - s1 s2 s3 s5 6. q3' 6.
+q1' 6 - q6 s7' s1' q6 q3 5 - q5 q6 q7 s1' s7 6 - - - q,6 ,6 q,6 3 - q2 q3 q1 q,7 ,6 - q1 q1 q1 q2 q3 6 q5' 3 - -
+0 q3 3 q3 6 - q2 q3 q1 q3 2 - 2. q1 q1 2 s3 s4 x x x 3 - - 0 q,6 ,6 q,6 3 - q2 q3 q1 q,7 ,6 - q1 1 q2 q3
+6 q5' 3 - - 0 q3 3 q3 6 - q2 q3 q1 q3 2 - ,7. q3 q2 q3 q1 q7 ,6 - - 0 q6 q6 q6 q7 q1' 7 s6 s7 3 - - - q2
+q2 q2 q3 q4 5 q2 3 - - 0 q2 2 q3 4 - q3 1' s7' s1' 6 - 5. q3 q5 6 s1' s7 6 - - - q6 q6 q6 q7 7 s6 s7 3 -
+- - q2 q2 q2 q3 q4 5 q2 3 - - 0 q2 2 q4 4 - 3 q2 s3 s2 1 - ,7. q,6 q,5 ,6 q,7' ,6 - - - q3 q2 q3 q1 ,6. q3 2
+- - - q2 q1 q2 q,7 ,5. q2 1 - - s1 s2 s3 s5 6. q3' 2'. q3' 5. q2' 1' q3 q5 6. q3' q5 q6 q7 6 - - - x. ,6 - - 0 q2
+2 q3 4 - 3 q2 s3 s2 1 - ,7. q,6 q,5 ,6 q,7 ,6 - - - x 3 - - q1 q,6 2 - - 1 2 - - q2 q3 4 - - - 2 3
+- - ,6 - - - ,6 - - -
+%END

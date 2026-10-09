@@ -1,0 +1,19 @@
+%了不起.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=10877
+title=了不起
+tag=
+usertag=
+tagroute=
+confidence=0.973
+conf_p10=0.989
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-10877
+%--
+2/4
+subtitle=score
+,5 1 3 3 3 3 3 q3 q3 3 q0 q,5 2 2 2 2 2 2 2 2 q0 ,5 1 1 1 1 1 2 3 1 5 - 5 4 4 - 4 0 0 0
+3 3 3 3 3 3 1 1 2 - 2 0 0 0 0 0 5 2 - 2 2 - x 0 5 5 q5 5 - 5 x 0 0 5 6 6 5 5 5 5
+5 4 3 ,4 q4 3 3 3 - 0 0 0 5 6 6 5 ,,5 5 5 4 3 4 3 3 3 3 3 0 0 0 q2 3 4 4 4 4 4 0 6 6
+7 6 5 5 5 5 0 6 5 6 5 5 5 - 5 - 5 6 3 2 2 0 0 0 0 q0 q6 5 3 2 2 0 x
+%END

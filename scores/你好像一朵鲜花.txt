@@ -1,0 +1,18 @@
+%你好像一朵鲜花.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=45439
+title=你好像一朵鲜花
+tag=
+usertag=
+tagroute=
+confidence=0.946
+conf_p10=0.643
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-45439
+%--
+3/4
+subtitle=score
+1 4 s3 1 x' x x x x x 1 0 x 3 3 - ,5 x 1 3 q6 5 1 3 - 2 1 0 1 1 4 q0 q4 4 3 ,6 2 - - 0
+4 4' ,6 2 q4 q7 6 2 4' 4' 3 2 0 2 1 2 2' 3 4. 3 3 - 0 0 0 1 1 - 1 4 4. 5 6 - - 4 0 1 1 -
+1 4 - 5 6 - - 3 - 3 0 3 3 3. q0 3 3 - ,5 1 3 6 5 q1 3 - - 3 - 2 1 - -
+%END

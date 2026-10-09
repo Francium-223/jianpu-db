@@ -1,0 +1,17 @@
+%依拉灰.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47483
+title=依拉灰
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.999
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47483
+%--
+2/4
+subtitle=score
+1' q1' q6 1' 1' q1' q5 6 - 6 1' 5 - 6 5 5 1 1' 5 6 - 1' 6 5 6 - 1 6 1' 5 - 5 6 5. 6 6 1' 6 1 1
+6 1 - 1 1' 5 6 - x x 0
+%END
