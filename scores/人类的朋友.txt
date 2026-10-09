@@ -1,0 +1,20 @@
+%人类的朋友.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=13248
+title=人类的朋友
+tag=
+usertag=
+tagroute=
+confidence=0.902
+conf_p10=0.575
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-13248
+%--
+4/4
+subtitle=score
+1 5 5. 5 q5 q0 5 5 5 4 1'. 6 5 1 1 5 x x. 3 3 4. x 4 3 2' 1. 2' 1 1. 1. 2 2 q1. q1 s1 q2 q2. q2 qx 3.
+3 3 s,7 s,2 s1 6 - - 6 4 3 2 2 q2 q4 q3 2 1. 5 - - - s5 5 s5 5 q,5' 1'. 6 5 - - - 5 4 3 q3 3 4 4
+3 q2 q1. 2 - - 2 1 2 3. q3 q3 3. s,7 1' q,2' 6 - - q6 q4 s3 2 2 q2 q2 4 q3 s2 q2 s1 1 - - - 1 - - 0 5
+2' q1' 1' 1' 1' 7 6 5 0 0 2' q1' 1 1' 1 x 1' 4' 3' 2' 1'. 2' - - 0 5 s,2' 1' 1' s7 q6 q5 5 - - q0 q5 s2' s1' ~
+q1' q1' q1' 4' ,1' q2' q1' 1' - -
+%END

@@ -1,0 +1,21 @@
+%伤心是一种说不出的痛_4.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=21660
+title=伤心是一种说不出的痛
+tag=
+usertag=
+tagroute=
+confidence=0.958
+conf_p10=0.849
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-21660
+%--
+4/4
+subtitle=score
+1 x 1 2 4 4 x x x' x 1' 3 - - q2 q3 q2 q1' q1' q1 ~ 1 q6 q7 q1 q1 q1 q1 1 q6 q6 q5 q6 ~ ,6 - - 3 - q2
+q3 q2 q1' ~ q1' q1 1 q1 q1 q2 q2 2 2 q1 q2 3 - - q3 q5 5 - - q3 q5 6. q5 3 q1 q2 3 - 1 q6 q2 ~ 2 - - q6
+q7 1 q1 q1 1 1 1' 2 - - 1' 2 - 1 q6 q6 3 - 0 q3 q5 5 - - q3 q5 6. q5 3 q1 q2 3 - 1 q6 q2 2 - - q6
+q7 1 - 1 q6 q7 1 - 1 ,6 6 - 6 q3 q5 ~ 5 - - - 6 - 6. q5 q3 q2 3 - - 5 - q5 q3 q2 q1 2 - - q6 q7
+1 - 1 q6 q7 1 - 1 ,6 6 - 6 q3 q5 ~ 5 - - - 6 - 6. q5 q3 q2 3 - - 5' - q5 q3 q2 q1 2 - - q6 q7 1
+- 1 q1 q2 2' - - q7 q7 ,7 q5 q3 ,6 - ,6 - - - - - - ,6 0 0 0
+%END

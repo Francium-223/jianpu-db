@@ -1,0 +1,18 @@
+%别着急.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=10187
+title=别着急
+tag=
+usertag=
+tagroute=
+confidence=0.989
+conf_p10=0.984
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-10187
+%--
+4/4
+subtitle=score
+5 5 5 q3 6 q6 q5 5 q0 3 q3 q3 3 q2 q1 q,7 q,6 q1 2. 0 5 5 5 q3 q3 q3 q2 1 6 q2 q2 q2 q3 6 q6 q5 5 - - 0
+5 5 5 q3 6 q6 q5 5 q0 3 q3 q3 3 q2 q1 q7 q,6 q1 2 0 5 5 5 q3 q3 q3 q2 1 ,6 q2 q2 q2 q3 q5 q3 q3 q2 1 - -
+0
+%END

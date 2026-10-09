@@ -1,0 +1,25 @@
+%传说中的天堂.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=35428
+title=传说中的天堂
+tag=
+usertag=
+tagroute=
+confidence=0.967
+conf_p10=0.924
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-35428
+%--
+4/4
+subtitle=score
+x s1' s6 s6 s6 s1' s6 s6 s6 s5 s3 s3 s6 6 s1' s6 s6 s6 s1' s6 s6 s6 s5 s6 s2 s5 3 s1' s6 s6 s6 s1' s6 s6 s6 s1' s6 s6'. s2' 2'
+s5 s5 s5 s3 s2'. s2'. s1' s1' s2'. s3' s6 s6 6 s1' s6 s6 s6 s6 s6 s6 s5 s3 s3 s6 6 s1' s6 s6 s6 s6 s6 s6 s5 s6 s2 s5 3 s1' s6 s6
+s6 s1' s6 s6 s6 s1' s6 s6'. s2' 2' s5 s5 s5 s3 s2'. s2'. s2' s1' s2'. s2' s1' s1' 6 s0 s,6 s,6 d5 d6 s,6 s,6 s,6 s1 q3 s2 s3 s,6 d6 d6 s,5 s,6
+s0 s,6 d6 s,5 d6 s,6 s,6 s,6 s1 s3 s3 s2 s3 s,6 d6 d6 s,5 s,6 s0 s,6 s,6. d5 s,6 s,6 s,6 s1 s3 q3 s5 s6 d6 d5 s2 s3 d0 d3 s3 d2 d1 s3
+s5 q6 s2 d2 d1 s2 s5 3' s0 s2 s2 s2 q2 s3 s5 q3. q,3 s,5 s,6 s2 d3 d2 s1 s6 ,6 - 0 s0 s2 s2 s2 q2 s3 s5 q3 s3 s3 s5 q5 s5
+s0 s5 s6 7 - - s1 s6 s6 s6 s1 s6 s6 s6 s5 q3 d5 d6 6 s1' s6 s6 s6 s1' s6 s6 s6 s5 s6 s2 s5 3' s1' s6 s6 s6 s1' s6 s6 s6
+s1' s6 s6'. s2' 2' s5 s5 s5 s3 s2'. q1' s1' 6 - s5 s5 s5 s3 q2' 2' s1' s6 6 6 - x. x s1' s6 s6 s6 s1' s6 s6 s6 s5 s3 s3 s6 6
+s1' s6 s6 s6 s1' s6 s6 s6 s5 s6 s2 s5 3 s1' s6 s6 s6 s1' s6 s6 s6 s6 s6'. s2' 2' s5 s5 s5 s3 s2'. s2'. s1' s1' s2'. s3' s6 s6 6 s1' s6
+s6 s6 s6 s6 s6 s5 s3 s3 s6 6 s1' s6 s6 s6 s6 s6 s6 s5 s6 s2 s5 3 s1' s6 s6 s6 s6 s6 s6 s1' s6 s6'. s2' 2' s5 s5 s5 s3 s2'. s2'.
+s1' s1' s2'. s1' s1' s1' 6 s0 s6 s6 s6 s1' s1' s6 s6 0 x x
+%END

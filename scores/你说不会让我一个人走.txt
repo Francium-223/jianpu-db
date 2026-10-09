@@ -1,0 +1,22 @@
+%你说不会让我一个人走.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=35987
+title=你说不会让我一个人走
+tag=
+usertag=
+tagroute=
+confidence=0.983
+conf_p10=0.963
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-35987
+%--
+4/4
+subtitle=score
+s,5 s,6 s3 s5 s3 s5 ~ q5 s3 s6 s6 s6 s5 q3 s3 s5 q6 s6 s6 s5 s5 s3 5 s3 s5 q6 s6 q6 s5 s6 s5 s3 ~ q3 s,6 s1 s2 s2 s2 s3
+s,6 s,6 s2' ~ 2' s1 s2 q3 q5 q5 q3 2 q1 q,6 - 1' s1 s2 s3 s5 s5 s5 ~ 5 s6 s5 s3 s5 ~ q5 s1 s1 q6 s6 q5 s3 5 s5 s5 q6
+s5 s5 s6 s3 ~ q3 s6 s1 q2 s2 s2 q3 s1 s3 s2' s2 2 s2 s3 s5 s5 s5 ~ 5 s6 s5 s3 s5 ~ q5 s1 s1 q6 s6 q5 s3 5 s5 s5 q6
+s5 s5 s6 s3 ~ q3' s5 s5 s6 q3' s2' 2' s5 s5 q3' 3' s2' s3' q2 q5 s5 s6 0 s3 s5 s6 q5 ~ q5 q5 6 q6 s5 s3 3 s5 s5 s6 s6 s2'
+~ 2' s5 s5 q3' 3' s2 s3' s2 s5 ~ q5 s5 s5 s6 s6 s6 s5 q3 5 q5 6 q6 s5 s3' 3 s5 s5 s6 q3' x s5 s5 q3' 3' s2 s3' q2 s5' ~
+q5' s5 s5 q6 s6 q5 s3 5 s5 s5 q6 sx q6 q2 s6 q6 s5 s5 s6 s6 q3' 2' s2' s5 s6 s5' s3' s2 s2' s3' s2 7 s5 s6 5 - 5 x s1 s2
+s5 s5 s5 s5 s6 q3' s2' - x'
+%END

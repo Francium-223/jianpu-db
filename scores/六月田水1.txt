@@ -1,0 +1,17 @@
+%六月田水1.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=31933
+title=六月田水1
+tag=
+usertag=
+tagroute=
+confidence=0.967
+conf_p10=0.916
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-31933
+%--
+2/4
+subtitle=score
+q1 1 2 0 - q3 q3 q3 q3 3 3 q3 q6 q1 q3 q1 q3 s1 s3 s1 s6 6 - 3. q0 q1 s6 s1 q6 q1 q6 q1 q6. s3 - 0 q6 q1 q6. s3
+q6 q1 q3 q6 1 s6 s1 6 - 6 -
+%END

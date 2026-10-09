@@ -1,0 +1,25 @@
+%再见过去.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=28034
+title=再见过去
+tag=
+usertag=
+tagroute=
+confidence=0.968
+conf_p10=0.928
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-28034
+%--
+4/4
+subtitle=score
+x q1' q3 q1' q3 q1' q1' q2 q2 q2 q2 q1' q3 q1' q3 q1' q1' q7 q2 q2 q2 q2 0 q3 s3 q3 q3 q3 q2 ~ q2 q2 q2 q1 q2 q1 ~ q1 q1 q3
+s3 q3 q3 q5 - - x q0 q3 q3 s1 s3 ~ 3 q0 q1 q5 s4 s4 ~ q4 q3 q3 q2 q2 q1 q0 q3 q3 s1 s3 ~ 3 q0 q1 q5 s4 s4 ~ q4
+q3 q3 s2 s3 ~ q3 q4 q5 q5 q1' q1' ~ 1' q0 s3 s4 q5 q5 q1' q1' q1' q1' q1' s5 s6 q1' q1' ~ 1' q1' q1' q1' s5 s6 q1' q1' s7 q6. 5 0
+q0 q3 q3 s1 s3 ~ 3 q0 q1 q5 s4 s4 ~ s4 q3. q3 q2 q2 q1 q0 q3 q3 s1 s3 ~ 3 q0 q1 q5 s4 s4 ~ q4 q3 q3 s2 s3 ~ q3 q4
+q5 q5 q1' q1' 1' s0 s3 s3 s4 q5 q5 q1' q1' q1' q1' q1' s5 s6 q1' q1' 1' q1' q1' q1' s5 s6 q6'. q2' s2'. q3' s2' 2' - q3 q5 q1' q1' q0 5 q6
+q5 q5 q4 q5 ~ 5 - q3 q5 q1' q1' q0 q3' q3' q3' q3' q4' s3' s2' q2' 2' q1' s1' s2' 1'. 1. 2' 1' 0 5 q1. 6' 5 5'. 5' q0 3 - - x
+sx 3' 3' 2' x qx s3' q2' s2' s1' q1'. s3' s2' s2'. s2' s2' q1'. q0 s3' s2' s1' q1' s1' ~ 1' q0 s5 s5 6 q1' q1' ~ 1' q0 q3' q3' q4' q2' q2' ~
+2' q1' q1' 1 - 0 0 0 0 0 q2 q1 1 0 0 0 q3 q4 q2 2 q1 1 0 q2' q2' q2' q2' q3' q4' q4'. q3' s1' s1' q1' 1' 0 q1' q1' q1' s1'
+s1' q1' q1' q2'. q3' 3' q0 4' q3' q1' q5 6 q1' q1' 1' 0 6 q7 1' q3' q3' q3' 3' q4' q2' 2' - 2' - 0 0 q3' q4' q2' q2' 2' q5' q5' q3' q4'
+q2' q2' 2' - q1' q1' 1' - 0 3 q4 q2 2 q0 q1 1 0 0 0
+%END

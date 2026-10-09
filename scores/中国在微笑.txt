@@ -1,0 +1,18 @@
+%中国在微笑.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=13941
+title=中国在微笑
+tag=
+usertag=
+tagroute=
+confidence=0.986
+conf_p10=0.958
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-13941
+%--
+4/4
+subtitle=score
+x 5 5 1 1 6 6 2 2 - 3 3 5. 6 5 4 3 2. 3 5 2 7 5 6 7 1 - x 5 5 1 1 - 7 1 2. 2 1 ,7 ,5
+,7. 1 2. 3 2 5 2 3 4 5 5 - 4 3 2. 5 2 1 ,7 ,5 ,7. 1 2. 3 2 5 1 2. q1 7 6 ,5 1 5 1 2 3 5 - -
+4 3 2. 5 2 1 7 1 2 5 1 - x 5 1 2. 5 4 3 2. 3 2 ,1
+%END

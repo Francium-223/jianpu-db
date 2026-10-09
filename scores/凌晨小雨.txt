@@ -1,0 +1,21 @@
+%凌晨小雨.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=20404
+title=凌晨小雨
+tag=
+usertag=
+tagroute=
+confidence=0.994
+conf_p10=0.987
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-20404
+%--
+4/4
+subtitle=score
+q,6 q1 q3 q,6 q2 q2 q6 q3 q,6 q1 q3 q,6 q2 q2 q6 q3 q,6 q1 q3 q,6 q2 q2 q6 q3 q,6 q1 q3 q,6 q2 q2 q6 q3 ,6 ,6 3 1 2 2 q1 q,7
+,6 ,7. q,7 1 ,7 ,6 - - - ,6 ,6 q2 q3 1 2 2 q3 q3 2 1 q2 q1 ,7 ,6 3 - - 3 2 q2 6 q6 q7 6 3 ~ 3 q3 q5 q4
+q3 2 ~ 2 q4 q4 q,6 q,7 q1 s2 s1 ,7 - - 3 q1 q2 1 6 q6 q7 q6 q7 q6 q7 ~ q7 q3 5 - q2 q3 q2. s2 ~ 2 - - 0 q,7
+q1 q2 q,7 q,7 q2 q2 q3 3 - - 0 0 ,7 ,5 ,6 - - - q,6 q1 q3 q,6 q2 q2 q6 q3 q,6 q1 q3 q,6 q2 q2 q1 q,7 ,6 ,6 3 1 2 q2
+q2 q1 q,7 ,6 ,7 q,7 q,7 1 ,7 q,6. d6 ,3 ,2 ,1 ,6 q,7 q,6 2 1 ,6 ,6 q2 q3 q,6 q1 2 2 q1 q,7 ,6 ,7. q,7 1 ,7 ,6 - - - ,6 1
+2 1 ,6' - - -
+%END

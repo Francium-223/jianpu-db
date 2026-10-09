@@ -1,0 +1,17 @@
+%不要责备我吧妈妈.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=8792
+title=不要责备我吧妈妈
+tag=
+usertag=
+tagroute=
+confidence=0.998
+conf_p10=0.995
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-8792
+%--
+3/4
+subtitle=score
+q3. q3 6. q3 2 q1 1 7 q0 q2 q4 3. 7 3 q2 1 0 3 6 q1'. q7 q6 q5 q6 q7 q6 6 7 0 q5 q4 3. 2 q1 7 ,6 0 q6 5 5.
+5 q3 q2 2 q1 q0 q6 5 5. 5 6 7 1 0 3. q3 q1'. q7 q6 s5 s6 s7 q6 6 7 0 q5 q4 3. 2 q1 7 ,6 -
+%END

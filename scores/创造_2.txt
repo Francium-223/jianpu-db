@@ -1,0 +1,21 @@
+%创造_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=21169
+title=创造
+tag=
+usertag=
+tagroute=
+confidence=0.905
+conf_p10=0.635
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-21169
+%--
+4/4
+subtitle=score
+1 1 x. x x 1' x 6 5 q3. s2 1 ,6 1 q3. s2 1 2 s2 s1 s6 s1 2 s1 s6 s5 s6 3 - - - 6 5 q3. q2 1 ,6 1 q3. s2
+1 2 s2 s1 s6 s1 2 s1 s6 s5 s6 1 - - - x 3. s2 s1 1 q0 s5 s6 q1 q1 q3 s6 s6 ,5 q0 s5 s6 q2 q2 q2 q1 q6 q1 q2 q,2
+q2 q1 s6 q1 q2 q2 q0 s5 d6 q1 q1 s1 s6 s5 s6 q1 q1 q1 q6 q5 q6 q1 q1 q0 q6 s1 q2 q2 s2 s1 s6 s1 q2 q2 s2 s1 s6 s1 2 2.
+0 2 2 2 3 5 5 5 2 3 2 2 - 2 - 0 0 x. d,1 d,1 q,2' s,2' 2 s,2' q2 s2 s2. d2' d6. 1 d2' d2 s2 d2' d1. s1' h1 s1 h5 x'.
+6' d6' d6. d6' s1' s1 d1' 1' d1'. d1. d2 q2 q2 s2 s2' h1. d1 s1 x. h1 d6 d1 h1 d1 s6 d6'. d6. 6' h2 x' 6' 5' d6 d5' 6' h1 1' s6' s1 1
+s1' s3 x q1'. 1. q1. q3'. d6' d6 1 q3 s1 - s,,,1 1 d1' s1' s1 q1 q1'. qx. h2 - q1 s1 0 q1. x.
+%END

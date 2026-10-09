@@ -1,0 +1,19 @@
+%兴安情_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=8302
+title=兴安情
+tag=
+usertag=
+tagroute=
+confidence=0.977
+conf_p10=0.950
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-8302
+%--
+4/4
+subtitle=score
+q1 4 x 4 qx qx q,x q,x qx - q1 s2 s1 q,6 q,5 q3 3 q6 q5 q3 s2' s3 s2 s1 q1 - q1 s2 s1 q6 q,5 q3 3 q6 q5 q3 s2 s3 s2 s1
+2 - q3 3 q5 q6 q5 q6 3 q2 q2 q3 q2 q1 ,6 - q5 ,6 q1 q6 s5 s6 3 q2 q2 q3 q2 q1 q6 1 - q5. q6 q1 q6 q1 1 q6 q1 q1
+q6 q5 q3 5 5. q5. q6 q1 q6 q1 q1 q6 q1 q1 q6 q5 q3 2 q2 q3 5. q3 q6 5 q6 3 q2 q3 ,6 s5 s6 s6 q5 3 5 2 q1 q6 q1 q1
+-
+%END

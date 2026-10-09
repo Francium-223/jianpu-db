@@ -1,0 +1,21 @@
+%兰州_我美丽的家园.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=36616
+title=兰州 我美丽的家园
+tag=
+usertag=
+tagroute=
+confidence=0.972
+conf_p10=0.963
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-36616
+%--
+2/4
+subtitle=score
+1 - - 0 1' x x q0 d1' d2' d3' d4' q5' s3' s2' q1' s7 s6 5. s6 s1' 2' - 2' - q5' s3' s2' q1' s7 s6 5 ~ s5 s2' s1' s7 6 - 6
+- q6 s6 s1' q2' q2' s1' s6 s6 s1' q2' q2' 6 s5 s6 q3 2. s6 s1' 2' - 2' - x q5' s3' s2' q1' s7 s6 q5 q2 s5 s6 q1' 2' - 2' - q5'
+s3' s2' q1' s7 s6 q5 q2 s5 s6 s1' s7 6 - 6 q0 s5 s6 q5 2 q5 q6. s5' q3' q2' q5' q1' q1' s7 s6 5. q6 q1'. s6 q1' q2' q6. s1 q5 q3 q5
+q6 q6 s5 s3 2 - q5. s5 q5 q2 q5 6. q1. s1 q1 q6 q3 2. q0 q1' q1' q6 q1' s2' s7 6 s6. d1' s6 s5 q6 s3 s2 2 - 5. s4 s5 6. s5
+s6 q1'. s2' q4' s3' s2' 2' - q2'. q5' q5' s2' s2' s4' s5' s6' s5' 5' q5' q2' q4' s3' s2' s1' s2' s3' s2' 2' q0 q2' q1' s2' s7 q6 q6 q0 s4 s5 q6 q6
+q0 q6 s1' q1' s6 s1' s2' s3' s2' 2' - 2' - 4 5 6 - 6 - 2 - 2 - 2 - 2 0
+%END

@@ -1,0 +1,22 @@
+%你要走别回头.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=35390
+title=你要走别回头
+tag=
+usertag=
+tagroute=
+confidence=0.980
+conf_p10=0.983
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-35390
+%--
+2/4
+subtitle=score
+- - - x. 1. x x x - - - s6 s3 s3 ~ 3 q3 s2 s2 ~ 2 q1 q,6 q,6 s,5 s,6 ~ ,6 0 q,6 s6 s6 ~ 6 q6 s5 s5 ~ 5 q2
+q1 q1 q5 3 - q6 q5 q4 q3 q4 ,6. q3 q5 q3 s2 s3 ~ q3 q1 0 q1 s1 s1 ~ 1 q3 s2 s2 ~ q2 s1 s1 s6 ,7 0 0 q,6 s3 s3 ~
+3 q3 s2 s2 ~ 2 q1 q,6 q,6 s,5 s,6 ~ ,6 0 q,6 q6 6 q6 q5 5 q2 q1 q1 q5 3 - q4 q4 q4 s3 s2 ~ 2 0 q3 s3 s5 q3 s2 s3
+~ q3 q1 0 q3 s2 s2 q0 s2 q6 s6 s7 ~ q7 q6 7 - 0 s3 q6 s7 q1' s7 s6 q0 s3 q1' s7 s6 q0 s6 s6 q7 s7 s7 q7 s5 s2 3 -
+q4 s4 s4 ~ q4 q5 q6 s5 s6 ~ 6 q7 q6 x s5 q6 s7 ~ 7 s3 q6 s7 q1' s7 s6 q0 s3 q1' s7 s6 q0 s6 s6 3 3 q0 s3 q7 s6 s5
+~ q5 q5' 3' - q4 s3 s4 ~ q4 q5 q6. s6 q0 s1' q7 q7 q7 s6 s7 ~ 7 q0 q5 6 - 6 0 - qx - 6 - 6 s0 s3 s6 s7 q7 q7
+q7 s6 s7 7 - 7 - 7 5 6 - 6 - 6 0
+%END

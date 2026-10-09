@@ -1,0 +1,21 @@
+%人民万岁.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=16206
+title=人民万岁
+tag=
+usertag=
+tagroute=
+confidence=0.950
+conf_p10=0.842
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-16206
+%--
+6/8
+subtitle=score
+1 - - q6 x. x x x' x q5 3' q3' 2' q3' 5'. ~ 5' q3 1' q2' 7 q6 5'. ~ 5' q6 4' q4' q3' q2' q3' 2' q1' 6. 7 q6 5 q2' 1'. 1'.
+3 q4 s5 s6 q5 q1 q,7. s6 q,7 ,5. q1 q1 q,6 s4 s4 q3 q1 s2 s3 2' 2'. 3 q4 5 q1 ,7 s2 s3 ,6. 2 q3 q2. d6 d7 s2 ,5. ,5. 1 q2 3
+q1 q,7. s6 q,5 ,6 q,6 q2 q2 q3 q4 s0 s2 s4 s5 6'. 6'. q5 q1' q5 q4 q6 q5 4 q3 2 s5 s5 4 s3 s3 2 q1 1. 1'. q5 s5 s5 s5 s1' q1'
+q7 q5 3' q3' 2' q3' 5'. 5' s3 s5 1' q2' q7 q7 q6 5'. 5' q6 4' q4' q3' q2' q3' 2' q1' 6. q7 q7 q6 q5. s5 q3' 2'. ~ 2' q5 3' q3' 2' q3'
+5. 5. s3 s5 1' q2' q7 q3 q7 6'. ~ 6' q6 q6 q4' q6 7 q6 5 q3' 2'. 4' q3' q2' s0 s3' s2' s1' 1'. 1'. q5 1'. 1' q5 1'. 1'. s5 q5 q5 q5
+q5' q5 s5 q1' q1' q7 5' s5 q5 1'. 1. x 1'. 4' q3' q2' q0 q3' q2' q1' 1'. 1'. 4' q3' 2'. 2'. 2' q1' 1'. 1'. 1'. 1'. ~ q1' 0 0
+%END

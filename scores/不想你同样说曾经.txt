@@ -1,0 +1,22 @@
+%不想你同样说曾经.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=35487
+title=不想你同样说曾经
+tag=
+usertag=
+tagroute=
+confidence=0.927
+conf_p10=0.726
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-35487
+%--
+4/4
+subtitle=score
+q1 1' 4 x. x 0 x 1 1'. x. 1'. 1'. - - x q3 q5 5 - - q1' - - q3'. q5' 5' - q1' q2'. q3' 3' - - q3 q5 5 - - q1' -
+- q3'. q5' 5'. q2' q1' - - x q5 q3 q5. 1' q1'. q5 q5. s3 3 - q5 q3 q1' q5 q5 q3 5 - - - q5 q3 q5. 1' q1'. q1' q5 q1' q1' q5. s3
+3 q5 q3 q1' s1' q5. q3 s2 s3 1 - - - q3 q4 q5. s1 1 q1. s1 q1 q7 q7 q6 q6. d7 d6 5 q5 q1 q1. s2 q3. s3 q2 q7 q2 q2 q1 q7
+1 - q7 q7. 1' q1'. q7 q7 q6 q6. d7 d6 q5. s5 q1'. s2' q3. s3' q1'. q0 s1'. s2' q3. 3' - 0 q3'. s5' 5' - - q5'. s5 q3'. q3' 6. d6. 0 5' 0
+0 0 s1' q3'. q1' q3' q,3 q3'. s2' 2' 0 q0 s7 q7 q7. q7 q6 q5 s5 q1. q2 s5 s5 q5 q1 q1 s2 s3 3. q5 5 q5. s5 q3'. q3' 6. q,6. 0 5' 0
+0 s1' q3'. q1' q3' x q3'. s2' 2' 0 q0 s7 q1 q7 q7. s1 s1 q7 s7 q6 q5 5 - - q4 s3 s4 2 - - q0 s2 s3 q5 q1 q2. s5 q3 q3 q2.
+s1 - - - 1' - - q0 s5 - - -
+%END

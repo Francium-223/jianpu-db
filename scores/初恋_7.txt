@@ -1,0 +1,22 @@
+%初恋_7.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=29458
+title=初恋
+tag=
+usertag=
+tagroute=
+confidence=0.910
+conf_p10=0.726
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-29458
+%--
+4/4
+subtitle=score
+1 - - x x x x x. 3 q4 q5 2 - 1 q2 q3 ,7 ,5 ,6 ,7 q1 ,5 1 1 ,7 q1 2 - 3 q4 q5 2 - 1 q2 q3 ,7 ,5 ,6 ,7
+q1 ,5 1 2 q1 q,7 1. s,5 q5 s1 s1 s1 q1 d1 s2 q2. d2 s3 s4 s3 d2 q2 q1 q3. sx d3 s4 d3 d2 q2 q1 5 d1 d1 q1 d1 s1 s1 s2 d3
+s2 2. q5 s5 s1 s1 q1 d1 s2 q2. s2 d3 q4 d3 s2 q2 q1 q3. sx d3 q4 s3 d2 q2 s1 5 1 s,7 q,7 q,7 q7 d1 s2 q1 - - q4 q4 3. d3
+d4 q5 q5 d4 d3 s3 s2 q1 1 q6 s6 s7 q1' q5 d5 d,5 s3 s2 s1 s2 2 - - q0 d1 d2 3 3 s3 s2 d2 s2 q2 q0 s4 s4 q4 q5 q3 s2
+s2 1 q6 q6 q7 q1' s5 s5 s3 s2 s1 s1 q1 s1 d1 d2 s3 q2 q0 d1 s2 q3 3 s3 s2 s2 d2 q2 q0 s4 s4 s4 s4 q5. q3 d2 s2 q1 q1 s6
+q6 s7 s5 s5 d3 s2 q1 ,7 q,7 q7 d1 d2 s1 1 - 0 q6 q6 q6 6. 7. 7' q6 5 5. q5 q5 q6 q6' q6 q6 q6 q6 q1 q1 q2 3' 3 - 0
+0 0 s6 s6 6. s1' 7. 7' s6 q5' q5. d5 s6 s6 q6 q6 q6 s6 s6 q6 s7 q1' 2'. 2' d7 s6 5'. d1 d2.
+%END

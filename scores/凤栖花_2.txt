@@ -1,0 +1,23 @@
+%凤栖花_2.txt
+% 出处 https://www.jianpujia.com/
+title=凤栖花
+tag=
+usertag=
+tagroute=
+confidence=0.970
+conf_p10=0.906
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-12006
+%--
+4/4
+subtitle=score
+1 - - - 1 x x x 1. q,5 q,6 q1 q5 3 q2 q1 3 - - - q,5 q,6 q1 q5 3 q2 q1 2 - - q2 q3 ,6 1 6. q3 5 - 3 q2
+q3 q,6 1 q,6 1 ,6 ,5 - 0 - ,5 q,6 q1 2 q2 q3 2. q1 1 - ,5 q,6 q1 2 5 3. q1 2 - 3 q2 q3 4 3 2. q3 1 - q,6 q1
+q2 q3 ,6 - q,6 q1 q2 q3 2 - ,5 q,6 q1 2 3 2. q1 1 - ,5 q,6 q1 2 5 3. q1 2 - 3 q2 q3 4 3 2 q3 q1 ~ 1 - s6
+q1 q2 q3 ,6 - s6 q1 q2 q3 q2 q1 1 5 - - q1 q2 q3 q2 q3 s6 s5 5 q1 q2 q3 q2 q1 q6 1 q1 q2 q3 q2 q3 s6 s5 5 q1 q2
+3 q1 s6 2 q1 q2 3 6 q7 q6 q5 q3 2 q3 q1 ~ 1 s6 q1 2 q3 q6 5 q3 q2 q2 q1 ~ 1 - 0 3' q3' q2' q1' q3' q6' q5' q3' q1'
+2' - - - q3' q2' q1' q3' q6' q5' q3' q1' 2' - - q2' q3' q6 q1' q2' q3' q6' q5' q3' q1' 2' - 3' - 2' - 1' - 5' - - - x. q2 q1
+1 - q1 q2 q2 q1 1 - s6 q1 2 q3 s6 s5 5 q3 q2 q2 q1 ~ 1 - - q,5 q,6 q1 q5 3 q2 q1 q2 q3 q2 q1 1 - q,5 q,6 q1 q3
+2 - 1 - 0 0
+%END

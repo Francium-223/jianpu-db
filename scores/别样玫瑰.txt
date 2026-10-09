@@ -1,0 +1,26 @@
+%别样玫瑰.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=25023
+title=别样玫瑰
+tag=
+usertag=
+tagroute=
+confidence=0.977
+conf_p10=0.962
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-25023
+%--
+4/4
+subtitle=score
+1 - - - ,x x x q,6 q,6 q3 q3 q1 q1 q1 q1 q,7 q,7 q,7 q,6 q,6 q,6 q,6 q,6 q,6 q,6 q3 q3 q1 q1 q1 q1 q2 q2 q2 q3 q3 q3 3 q,6 q,6
+q3 q3 q1 q1 q1 q1 q,7 q,7 q,7 q,6 q,6 q,6 q,6 q,6 q,6 q,6 q3 q3 q1 q1 q1 q1 q2 q2 q2 q3 q3 q3 3 ,6 3 q1 q1 q1 q1 q,7 q,7 q,7 q,6 q,6
+q,6 q,6 q,6 ,6 3 q1 q1 q1 q1 q2 q2 q2 q3 q3 q3 3 ,6 3 q1 q1 q1 q1 q,7 q,7 q,7 q,6 q,6 q,6 q,6 q,6 ,6 3 q1 q1 q1 q1 q5 q5 q5 q6
+q6 q6 6 q5 q5 q5 q6 q6 q6 6 6 q3 q3 q3 q,7 ,7 q,5 q,3 q,5 q,7 ,6 - ,6 q2 q2 q2 q1 ,6 q1 q,6 q1 q5 3 - ,6 q3 q3 q2 q5 5
+q5 q3 q2 q3 ,6 - ,6 q2 q2 q2 q3 3 q,5 q,3 q,5 q,7 ,6 - 6 q3 q3 q3 q,7 ,7 q,5 q,3 q,5 q,7 ,6 - ,6 q2 q2 q2 q1 ,6 q1 q,6 q1 q5
+3 - ,6 q3 q3 q2 q5 5 q5 q3 q2 q3 ,6 - ,6 q2 q2 q2 q3 3 q,5 q,3 q,5 q,7 ,6 - q6 q3 3 q6 q3 3 q5 q3 q5 q6 6 - q,6 2
+q2 2 1 q5 q6 q2 q3 3 - q3 6 q6 6 3 q2 3 q1 2 - q2 5 q5 5 3 q2 3 q,5 ,6 - q6 q3 3 q6 q3 3 q5 q3 q5 q6 6
+- q6 2 q2 2 1 q5 q6 q2 q3 3 - q3 6 q6 6 3 q2 3 q1 2 - q,6 q,6 q3 q3 q1 q1 q1 q1 q2 5 q5 q5 q3 3 q2. s3 ~ q3
+q5 ,6 - q2 5 q5 q5 q3 3 q2. s3 ~ q3 q5 6 - 6 - - - q,7 q,7 q,7 q,6 q,6 q,6 q,6 q,6 q,6 q,6 q3 q3 q1 q1 q1 q1 q2 q2 q2 q3
+q3 q3 3 q,6 q,6 q3 q3 q1 q1 q1 q1 q,7 q,7 q,7 q,6 q,6 q,6 q,6 q,6 q,6 q,6 q3 q3 q1 q1 q1 q1 q5 q5 q5 q6 q6 q6 6 q5 q5 q5 q6 q6 q6
+6 q2. s3 ~ q3 q5 6 - q2. s3 ~ q3 q5 6 - 6 - - - x x x x x 0 0 0 x 1. x
+%END

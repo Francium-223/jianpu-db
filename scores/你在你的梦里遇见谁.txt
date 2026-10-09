@@ -1,0 +1,21 @@
+%你在你的梦里遇见谁.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=29810
+title=你在你的梦里遇见谁
+tag=
+usertag=
+tagroute=
+confidence=0.982
+conf_p10=0.980
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-29810
+%--
+4/4
+subtitle=score
+q6 q6 q6 q6 q1' q6 q6 q3 5 q3 q3 ~ 3 q2 q1 q2 q2 q2 q1 q2 q1 q2 q1 3 q2 q,6 ~ ,6 q,6 q,6 q6 q6 q6 q6 q1' q6 q6 q3 5 q6
+q3 ~ 3 q2 q1 q2 q2 q2 q1 q2 q1 q2 q1 2 q1 q3' ~ q3' 6' 6 - 0 q3 q3 q1' q1' q1' q2' q2' 7 q6 3 - - q3 q5 q6 q6 q6 q6
+q6 2 q3 3 - - q2 q1 2 q2 2 q2 q1 3 q5 q3 ~ 3 q3 q3 q1' q1' q1' q1' q2' 2' q6 7 q6 q3 ~ 3 q3 q3 q1' q1' q1' q2' q2' 7
+q6 3 - - q3 q5 q6 q6 q6 q6 q6 2 q3 3 - - q2 q1 2 q2 2 q2 q1 3 q5 q3 3 q3 q3 q1' 1'. 2' q3' q3' 3' - - - 3' -
+- - 0 - - - q,6 q,6 3' - - - q2' q1' q7' q1' q3'. q3' q3' s1' q7' q2' s3' s5' s6' s1' s5' s5' s1' s2' s1' s5' s5' - q3 q3 3' - - -
+3' - - 0 -
+%END

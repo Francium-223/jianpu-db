@@ -1,0 +1,17 @@
+%伟大领袖毛主席.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=18346
+title=伟大领袖毛主席
+tag=
+usertag=
+tagroute=
+confidence=0.993
+conf_p10=0.979
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-18346
+%--
+2/4
+subtitle=score
+q5 s6 s5 q3 q5 q1. s6 5 q2. s3 s1 s,7 s,6 s1 2 - q3 s5 s3 q2. s3 q2. s,7 6 q1. s3 s2 s1 q,6 s1 ,5 - q3 q3 s2 s1 s2 s3 q5 5
+q6 q5. s6 s3 s4 s3 s2 1 q2 q3 q,5 ,,5 ,,5 q,6 q1 2 q3 ,2 ,3 ,2 ,7 ,6 ,5 q,6 ,5 - q5. 6 q3 q2 5 - 5 -
+%END

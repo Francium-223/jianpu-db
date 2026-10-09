@@ -1,0 +1,20 @@
+%一世情_4.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=36239
+title=一世情
+tag=
+usertag=
+tagroute=
+confidence=0.996
+conf_p10=0.991
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-36239
+%--
+4/4
+subtitle=score
+- - - - - - - - q,3 q,6 q,6 q,7 1 q2 q3 q2 q3 3' - q2 q3 q3 q5 5' - q5 q3 2 3 - 0 q,3 q,6 q,6 q,7 1 q2 q3 2 3
+- q3 q2 2 - - q1 q,6 ,5 ,6 - - 0 0 3 q3 q5 5 - - q6 q5 5 - q5 q3 q2 q3 q3 q5 5 - - 5 0 3 q3 q5 5 -
+- q6 q5 5 - q5 q3 q2 q3 q2 q3 3' - - 0 0 3 q3 q5 5 - - q6 q5 5 - q5 q3 q2 q3 q3 q5 5 - - 5' 0 ,6 3 2
+- q2 q2 3 2 - 2 q1 q2 1 ,6 - - - - - - - - - - 1 ,6 - - 0 0 3 q3 q5 1 ,6 - - 0 0 ,6 3 2 -
+- 3 2 - 2 q1 q2
+%END

@@ -1,0 +1,17 @@
+%军民大生产_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=8815
+title=军民大生产
+tag=
+usertag=
+tagroute=
+confidence=0.967
+conf_p10=0.855
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-8815
+%--
+2/4
+subtitle=score
+q2' q2' q2' s1' s6 2' 2' q5' q2' q2' s1' s6 5 5 s6 q2' s2' s2' s3' s2' s1' s6 s6 s6 s1' s2 s2 s2 s2 s5 s5 s4 s5 6 q1' s1' s6 s5 s6 s5
+s3 2 2 2' 2'
+%END

@@ -1,0 +1,24 @@
+%何处似樽前.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=27124
+title=何处似樽前
+tag=
+usertag=
+tagroute=
+confidence=0.948
+conf_p10=0.851
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-27124
+%--
+4/4
+subtitle=score
+1 - - - x. x'. 1' x. x. 1' x q3 q1 2 q3 2 q1 q1 q,5 3 q2 q3 q3 q1 q2 q1 q2 3 - - - - - - q,5 q,5 ,6 q,6 q1 q2
+q1 q,7 q,5 q,6. d7 q,6 q,5 ,3 q,5 q,5 ,6 q,6 q1 q2 q1 q2 q5 q3 q2 2 3 q5 q3 2 s2 s1 q1 2 q1 q,6 q1 q,6 q,7 s5 s3 3 q,5 q,5 ,6 q,6
+q1 q2 q3 q2 s1 s6 q1 q2 q3 q2 q3 q6 q1. q1 ,6 - - q,5 q,5 ,6 q,6 q1 2 q1 q2 q3 q5 q2 q3 ,6 q,5 q,5 ,6 q,6 q1 q2 q1 q2 q5 q3
+q3 ~ 3 - q5 q3 q,6. - q3 2 2 s2' s1' q1 2 q1 q1 q2 q2 q5 q5 q2 q2 q3 q5 q3 2 2 s2. s2' s1' q1 q2 q1. q1 - q3' q3' q3. 3'
+- 2 s2 s1 q1 2 q1 q2 q3 q5 q2 q3 ,6 q,5 q,5 ,6 q,6 q1 q2 q1 q,6 q,7 q3 q2 2 3 - - s5 s3 q3 6 s6 s6 s5 d5 q5 6 s6 s5
+s5' s5' q5 q3 q3' q2 q5' q3 3 3 3' s5 s3 q3 6 s6 s5 q5 q6 q5 q3 q2 q3 q2 q3 s5 s3 3 3 s5' s5 s3 q3 6 d6 s5 q5 q6 s6 s5
+q5 q3 q2 q3 s5 s3 3 s,6 s1 q2 q2 q3 s5 q3 q2 q1 q,6 q,6 ,6 - 0 0 0 0 s,5 q,5. q,6 q,6 ,6 - 0 - - - - d5 s3 q3 q,6 q,6
+,6 - d5 s3 s3 q,6 q,6 ,6 - s5 s3 s3 2' q2 q3 q5 q3 q1' q1' q6 q6 ~ 6 - - x - ,3 - - - - x x q1. - 1. x x. x.
+,5 6 3 2 6 4 ,5
+%END

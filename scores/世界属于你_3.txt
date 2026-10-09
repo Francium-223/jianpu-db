@@ -1,0 +1,21 @@
+%世界属于你_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=34238
+title=世界属于你
+tag=
+usertag=
+tagroute=
+confidence=0.904
+conf_p10=0.573
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-34238
+%--
+4/4
+subtitle=score
+q3 q3 3 q3 s4 q5 q5 q5'. q,1 q2 q2 1 - - x q2 q2 q,,2 q,,,2 s3 4 q3 s2 x q1 0 1' x x qx 1' 1' 4 q4 ,x ,,4 3' 3 1' 2'
+2 q1 q3' s2' q,1 1 - 0 1 ,1 6 6 5 5 s1 q2 3 q3 s3' 1 - x 2 q2 s2 s2 2 q7 s6 s6' s5' q5 5 5 - q1 q1 q1 s1 s1
+1 q1 q5' q5 4 4 - q0 q,6' q7' 7 q7 6 q5 q5 q5 5' q6' 3 - 1' s1 q0 1 0 3 ,1 2 1' 6 q6' s6 qx 2 7 q1 - s2 q1 q3
+s2 x q2 q2 0 q,1 2 s1 6 ,6 s6 s1 x 2' - - q0 q5 3. q,2 3 ~ 3 - 0 q3 5 s5 q5 s4 4 0 q6 4 s3 4 ~ 4 - q0
+s4 s1 4 3 ,1 2 0 5 s3 s2 q3 ~ 3 - q0 3 5 q5 q5 q4 4 0 6 q4 3 q4 ~ 4 - q0 s,,4 q4 q4 q5 q5 0 q3 s,2 1 x
+2 1 2 - 2 q1 2 - 2 - - q1 q2 - - - 3 - - 3 0 0 0 x x
+%END

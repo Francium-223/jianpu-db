@@ -1,0 +1,22 @@
+%共同的家园.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=37110
+title=共同的家园
+tag=
+usertag=
+tagroute=
+confidence=0.978
+conf_p10=0.986
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-37110
+%--
+4/4
+subtitle=score
+q1 q1 q1 q,5 q5 q3 5 q3 q5 q1' q6 5 - q3 q5 q6 q1' q5 q6 3 q,6 q1 q2 q3 2 - 1 ,5 q5 q6 5 q3 q5 q6 q1' 6 - q1' q1' q6
+q6 q5 q5 3 s6 q1 q2 q3 1 - 1 ,5 q5 q6 5 q1 q1 q4 q6 1' 6 1' - 1' - q1' q1' q6 q6 q5 q6 3 q2 q1 q2 q3 5. q6 5 -
+5 - 5 q5. s3 5 - 6 q3. s6 5 - q6 1 q6 5 3 q6 q1 q2 q3 2 - q5 q5 q6 q3 5 - q6 q6 q3 q6 5 - q6 q1' 1' q5 q6
+3 q6 q1 q2 q3 1 - q1 q1 q1 q,5 q5 q3 5 q3 q5 q1' q6 5 - q3 q5 q6 q1' q5 q6 3 q,6 q1 q2 q3 2 - 1 q,5 q,5 q5 q6 5 q3
+q5 q6 q1' 6 - 1' q6 q6 q5 q5 3 q,6 q1 q2 q3 1 - 1 ,5 q5 q6 5 q1 q1 q4 q6 1' q1' q6 1' - 1' - q1' q1' q6 q6 q5 q6 3
+q2 q1 q2 q3 5. q6 5 - 5 - 5 q5. s3 5 - 6 q3. s6 5 - q6 1 q6 5 3 q6 q1 q2 q3 2 - q5 q5 q6 q3 5 - q6 q6 q3
+q6 5 - 0 q6 q1' q5 q6 3 q6 q1 q2 q3 1 - 5. q5 6 5 1' - 1' - 1' -
+%END

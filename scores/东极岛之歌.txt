@@ -1,0 +1,20 @@
+%东极岛之歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15239
+title=东极岛之歌
+tag=
+usertag=
+tagroute=
+confidence=0.951
+conf_p10=0.778
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15239
+%--
+2/4
+subtitle=score
+1 - - x - qx x qx x. 1. x. x x x x q3 q4 x q5 q4 q3 q2 q3 q3 6 - 1 6 q7 q7 q7 q6 3 - q7 q7 q7 q1' 2' 7
+q1' q1' q1' q7 6 0 q4' q4' 4' q4' q4' 5' q3' q3' q3' q3' q3' q3' 1' q2' q2' q2' q2' q3' q3' 2' q3 q4 q6 q4 q3 q2 3 q3 q4 x q5 q4 q3 q2
+q1 q7 6 - 6 q7 q7 q7 q6 3 - q7 q7 q7 q1' 2' q7 q7 q1' q1' q1' q7 1' 6 q4' q4' 4' q4' q4' 5' q3' q3' q3' q3' q3' q3' 1' q2' q2' q2'
+q2' q2' q2' 3' q3 q4 q6 q4 q3 q2 3 q3 q4 x q5 q4 q3 q2 3 0 0 0 0 0 0 4' q4' 4' 5' 3' 3' 3' 1' q3' q3' q3' q3' 4' 4' s3'
+s3' q3' q3' q3' 6' - 6' -
+%END

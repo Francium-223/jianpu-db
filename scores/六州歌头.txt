@@ -1,0 +1,18 @@
+%六州歌头.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=19941
+title=六州歌头
+tag=
+usertag=
+tagroute=
+confidence=0.974
+conf_p10=0.988
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-19941
+%--
+4/4
+subtitle=score
+6 6 6 7 6 5 6 7 6 7 6 5 6 5 3 - 3 3 2 3 ,7 7 6 ,7 ,6 q6 q5 ,6 2 ,7 q7 q6 ,7 ,6 ,6 ,6 q5 q2 ,7 -
+3 q3 q2 3 6 q6 q5 6 6 6 5 6 7 3 3 2 3 2 2 q3 q2 q7 q2 3 - 6 6 6 5 6 7 6 7 5 3 q2 q3 q2 q7 6
+- q6 q6 q6 q5 q6 q7 q6 q7 q5 q3 q2 q2 q2 q3 s2 s7 q2 3 2 5 3 0
+%END

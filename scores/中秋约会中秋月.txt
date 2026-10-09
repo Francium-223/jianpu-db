@@ -1,0 +1,19 @@
+%中秋约会中秋月.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=16800
+title=中秋约会中秋月
+tag=
+usertag=
+tagroute=
+confidence=0.994
+conf_p10=0.989
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-16800
+%--
+4/4
+subtitle=score
+q,5' q,6' q3' q2' q2 1' d6 s1' 2 ,5 - q1 q1 q1' q2' 3' q5' q1 q2 q3 q2 2 - q3 q5 q5' q6' 5 - q3 s2 s2 q2 q3 ,6 - q,5 q,6 q5' q6'
+3 - q2 q3 q2 s1 s1 1 - 5 q5' q6' q2' 7 q6' q7' 5 - 5 q5 q6 q6 q5 q1' q,6' 1 2 - q3 q3 q5' q3' 5 q3 q7 q7 q7 q5 6 -
+q2 q2 q2 s2 s3 q6 5 q3 q2 ,5 q,6 1 - q1 q1 q1' q2' q3' 5 q3' 2 s2' s3 q,6' ,5 - q1 q1 q1' q3' 5'. q3 q2 q2' q1' 2 - q3 q5 q5'
+q6' 5 - q7 q7 q7 q5 6 - q2 2' q3' q5 q6 5 q3 s3' s5' q,6 1 - q2. s2 q2 s2 s3 6 1'
+%END

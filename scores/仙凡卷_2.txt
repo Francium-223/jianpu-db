@@ -1,0 +1,26 @@
+%仙凡卷_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=1801
+title=仙凡卷
+tag=
+usertag=
+tagroute=
+confidence=0.967
+conf_p10=0.943
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-1801
+%--
+4/4
+subtitle=score
+1 - - - x x x ,1 ,x x 1 x q3 q5 6 - - - 6 - q3 s1 s2 3 2. q3 5 - q6 1'. q7. s6 ~ q6 q5 6 - - q0 s5
+,6 q1 s2 s3 ,6 q0 s6 s5 q,6 q,6 q,7 q,6 ,5 q0 q,3 ,6 q1 s2 s3 2 q1 q2 q1. s6 q,6 q,5 ,6 q0 s1 s2 s3 s6 q,6 q1 s2 s3 2 q0 s2 s3
+s5 s3 q3 q2 s3 s1 1 q0 s6 s5 x - 0 x x. q,6 1. ,7 q,5 s,6 s7 ,6 - 0 q0 q,5 ,6 q1 s2 s3 ,6 q0 s,6 s,5 q,6 q,6 q,7 q,6 ,5 q0
+q,3 ,6 q1 s2 s3 2 q1 s1 s2 q1. s6 q,6 q,5 ,6 q0 s1 s2 s3 s6 q,6 q1 s2 s3 2 q0 s2 s3 s5 s3 q3 q2 s3 s1 1 q0 s6 s5 q,6 3. 2
+q,7 q,5 ,6 - 0 q1 q2 3 q6 s5 s3 ~ 3 q0 s3 s5 q6 q1 s2. s3 s3 ~ 3 q0 s6 s5 q6 6. q6 q6 q5 q3 2 - - q0 s2 s3 2. q3
+5 q7 q5 6. q3 3 q3 q5 6 q7 s5 s6 ~ 6 q0 s3 s5 q6 q1 q6 s5 s3 3 q0 s2 s1 2. q3 2 q0 s2 s3 5. q6 5 q0 s6 s5 q6 1'.
+7 s6 s5 q5 6 - - x q0 d3 d3 d2 d1 ,6 - - ,5 ,3 - - ,5 ,6 - 2 - 3 - 6 s6 s5 s5 s4 qx 1 q0 s1' ~ 1' q,5 q,3
+q1 s1 s1 ,7 ,5 - 2 - ,6. s1 s2 3 - - - 1 - - s2 s3 s1 s2 3 - - q0 q,5 6 - - q3 q5 6 q7 s5 s6 ~ 6 q0 s3
+s5 q6 q1 q6 s5 s3 3 q0 s2 s1 2. q3 2 q0 s2 s3 5. q6 5 q6 q5 6 1' 7 q7 q5 6 - - q0 q,5 ,6 q1 s2 s3 ,6 q0 s6 s5 q,6
+q,6 q,7 q,6 ,5 q0 q,3 ,6 q1 s2 s3 2 q0 s1 s2 q1. s6 q,6 q,5 ,6 q0 s1 s2 s3 s6 q,6 s1 q3 s2 2 q0 s2 s3 s5 s3 q3 s2 q3 s1 1 q0
+s6 s5 - q,6 1. - 0 ,7 ,5 q,7. s6 ,6 - 0 0
+%END

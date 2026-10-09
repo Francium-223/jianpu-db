@@ -1,0 +1,17 @@
+%你的衣服真漂亮.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=31925
+title=你的衣服真漂亮
+tag=
+usertag=
+tagroute=
+confidence=0.863
+conf_p10=0.474
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-31925
+%--
+2/4
+subtitle=score
+1 - - q,2 x. x 1 x x 1'. x. qx 0 x 1 x. x. q3 s3 s2 q1 q6 q1' q6 6 q5 s5 s3 q5. q,x s1 q1 q6 ,6 q6 s3 s3 q5 q6 q5
+q,x q3 3 q3 1 q6 ,6 ,6 ,6 -
+%END

@@ -1,0 +1,22 @@
+%冈拉梅朵.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14283
+title=冈拉梅朵
+tag=
+usertag=
+tagroute=
+confidence=0.959
+conf_p10=0.829
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14283
+%--
+4/4
+subtitle=score
+1 - - - x x x ,x x 1 1 q1 x x 1 x x' x x x 0 0 3 - 4 - - - 0 5 - - 4 - - - x q,5 q,6' 1'
+- q2 q3' q5'. s6 q4 q6' 5 - 4. q5 6 1' 5 q4 q3 q2' q3' q5 q6 3 q3' q2' 1 - 2. q3 5 q5 q6 5 2' - - 2' - - - 3 3
+q2' q3' q5 q6 6 1 - - 1. q2 3 5 6 2' q1' q6 q6 q5 2. q4 q6 1' s5 s6' 5 - - - 4 6 5 4 3 q3 q3 q2' q3' q5 q6 1
+- - - q4 q2 q4 q2 q4 q2 0 0 q3 q,7 q3 q,7 q3 q,7 0 0 0 s1 s2 s3 s4 1 x. 1 - - - q7 s2' s1' s1' s7 q1' s3' s2' s1' q2'
+s4' s3' s2' s3' s2' s3' s5' 5' - - - q5. s6 q4 q6 5 - 4. q5 6 1 5 q4 q3 q2 q3 q5 q6 3 q3 q2 1 - 2. q3 5 q5 q6 5 2
+- - 2 - - - 3. q3 q2 q3 5 6 1 - - 1 q1 q2 3 5 6 2' q1' q6 q6 q5 2. q4 6 q1' q5 5 - - - 4 - - - x.
+1 - - - - - - 4 6 5 4 3 q3 q3 q2 q3 q5 q6 1 - - - - - -
+%END

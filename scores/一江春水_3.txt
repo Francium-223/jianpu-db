@@ -1,0 +1,20 @@
+%一江春水_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=23731
+title=一江春水
+tag=
+usertag=
+tagroute=
+confidence=0.911
+conf_p10=0.601
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-23731
+%--
+4/4
+subtitle=score
+q1' q1 q1 q1 sx 0 4 x. 1 1'. x 2 q5. s6 q5 s3 s2 q1 q,6 s1 s1 s1 s6 s1 s2 s3 s2 2 - 2 q5. s6 q5 s3 s2 q1 q,6 s2 s2 s2
+s2 s2 s1 s1 s6 ,5 - x q,5 - q5 qx - s2 s3 s1 s3 2 - - q5 - q5 - s3 s2 s1 s3 2 - q,5 q,5 s2 s3 s1 s6 1 - q2 s2
+s1 h1 q,6 s5 ,5 - 2 q,5. - s6 q1 s1 s6 ,5 q1. - s1 s2 q2 s5 s6 - s1 s3 2 2 - q1 - q2 s5 s6 - s5 s3 - q2 q1 q1 q1
+- s1 s6 s6 s5 5 s5 s6 q1 2 2 5. 6 5 3 2 1 6 1. 1 1 6 1 2 3 2 2 2 5. 6 5 3 2 1 6 1 ,1 1. x' 1'
+x x x. q2. s2 - s2 s1 q,6 1 - s2 s2 - s2 s1 q,6 q1 5 s3 - s5 q1 q2 - - -
+%END

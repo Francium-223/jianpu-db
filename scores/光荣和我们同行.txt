@@ -1,0 +1,20 @@
+%光荣和我们同行.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=23977
+title=光荣和我们同行
+tag=
+usertag=
+tagroute=
+confidence=0.929
+conf_p10=0.736
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-23977
+%--
+4/4
+subtitle=score
+q1' q1 q1 q1 sx 0 q0 4 x. x qx' 0 x 1 1'. x' ,x. q,3 q,5 s1 q2 3 q3 q2 q1 q1 q1 q,3 ,5 - q,6 s6 s7' ~ s7 s1 s7 s6. 0 ,5.
+q3 q2 q2 q2 q1 2 - q,3 q,5 q1 q2 3 q3 q2 q1 q1 q1 qx s5 s6' ,6 - s1 s7 ,6 q,5 q1 s2 s3 2 q,7 q,5 s7 q2. 1 - q,7. s1 s7 q,5.
+,6' ~ s6 s3 s5 s6 s7 q,7 s1 s7 q,5. ,3 - q,4 q,5 s6 q4'. 3 ~ s3 s2 s2 s3 s7 q,7 s1 s2 q3. ,5. q,5 1. q2 3 q4 s3 s4 5' - - -
+q3 q5 s1'. q2'. q1 q1 3' q2' q7 q3 q6'. s5 5 - q1 q2 q1' q7 6' q5 q6 q1 q4 q3 3 - q3 q5 s1'. q2'. 3' q2' q7 q3 q7'. s6 6 - q4' q3
+q2 q6 q5 5 q6 q7 q5 s7'. q2'. 1' - - - - q7 q5 s7'. q2'. 3' - 3' - - - - - - - - - 0 0 0
+%END

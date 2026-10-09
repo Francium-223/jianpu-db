@@ -1,0 +1,24 @@
+%三月三_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=34229
+title=三月三
+tag=
+usertag=
+tagroute=
+confidence=0.928
+conf_p10=0.751
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-34229
+%--
+4/4
+subtitle=score
+x 3 q6' q6' ~ 6 q,1 7. q6 ,5 ,6 ,,7 s6' s0 1 q5 s5 4 ,3 ~ 3 2' ~ 2 s6 q,,,2 q6 q5. ,,6 s3 s1 q1 ,x' s7' s5 ,,6 ,7 ,6 - 3
+6 1 q1' s2' q3 q3' q1' 3 q3 q6 q1 q2' q3' 2 - q3 q3 q5 s5 q3 s2 s3 q,2 q1 s6 7 ,,6 5 s6' ,1 ,6 q3 ,6 q1 1' ,2' 3 q3' 2' 3
+q3 q6 q5 q3 2 - q3 s,3 q5 q,3 2 q,1 q6 q1 q7 6 5 ,,6 q1 ,6 - q3 q6 q6 s6 s1 q6 s6' q5' 6 q7 q5 q5 3 - q6 q2 2 q3 q3
+q2 s1 q1 q2 2 ,1' s6' ,1 2 3 - 3 6 q6 s,,6'. q6 q,6' q5' 6 ,x q6 q5' s3 s5 3 - 6 q2 q2 q3 q3 q2 q1 q2 q2 s2 q3 ,1' s6' q5
+q6' s1' ,6 - x q3 1' q6' q6 q1' 1. ,6 s5 q6 q7 6 ~ 6' s6 ,1 5 5 4 3 3' 2' ,,1' ,,6 1 6 5 ,6 q3 q2 ,1 q1 q,5 q,6 s7 ,6
+- x q,3 q6 1 1' q2' q3 s3' q2' 3 q3 ,6 q1 s2' s3' 2 - 3 3 q5 ,3 ,,1 s,,6 q1 q1 1 6 5 q6' q1' ,6 - 3 q6 q6 q5' ,,7 6 q6'
+5' 6 1 6 5 q,3' s5' 3 - ,,6 2 2. s3 q3 s2 2 ,2 q2 q,1' 0 q,6' q1 q2 3 - q3 q6 6 ,6' q7' q6 6' s5' 6 q0 6 q,5 s3' s,5 3
+- ,,6 q2 q2 3 q3 q2 s1 q2 3 ,1' ,6' 5 6' 7' ,6 - q3 6 q6 q6 s1' 7 s6 s5 6 q7 6 5 3 ,5 3 - 6 1 3 s2 s4 q3 2
+1 2 5 3 5 q6 q7 6 - 6 - - - 6 0 0 0 x
+%END

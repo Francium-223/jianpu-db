@@ -1,0 +1,19 @@
+%二泉吟_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=34262
+title=二泉吟
+tag=
+usertag=
+tagroute=
+confidence=0.616
+conf_p10=0.345
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-34262
+%--
+4/4
+subtitle=score
+h,,,1' - - h,1' 0 - 0 x' 0 0 0 0 0 ,2' ,3. q6'. ,3'. ,2' d6. q6'. ,2' ,5' ,6' ~ d,6. q,6 ,5 ,6' ,6 6' q,x' h,1' 1' ,6 qx' q,,,2' q,,,1' q,,,1' h1' q,,,1'
+q,1' q,1 q,,,1' ,1' ,1. q,1' s,,,6'. q,,1 q,1 ,5'. ,,,1' ,,,1' ,,,7' h1 h,3' h2. q2' s1. 2' q,6 ,,6' qx' ,,6' h,x ,6' 3' q3' ,3'. h,1 q5 d,3 h3 d,3 s5 ,,6' h,6' qx' qx' s3 q,,,1
+dx' s,5 6' s,6' q,6' d,3 1' 1' d,1' q6 q,6' q,6' s,6 d,6'. d,6 1' 1' s6' 0 q,,,6' s,3' s,5'. h1 d1 d5 s,5 h3' h,7 h2' h2 h2' h2 d3' h3' h1 h3 h2 h7' q,7' d,7'
+s2 s,7' s,2' d,7 h7'. q1' q,1 d1 s,7 d1' sx' h,7 q,6 q,6' q6' s1 q1' q,6 d1 d3' d5 x
+%END

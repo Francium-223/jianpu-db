@@ -1,0 +1,22 @@
+%凤隐天下.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=27960
+title=凤隐天下
+tag=
+usertag=
+tagroute=
+confidence=0.967
+conf_p10=0.912
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-27960
+%--
+4/4
+subtitle=score
+s0 s3 s2 s3 q,6. s3 s2 s3 q,6 q0 s,6 s3 q2. s2 q1 s2 s3 ~ 3 - s0 s3 s2 s3 q,6. s3 s2 s3 q,6 q0 s,6 s3 q2. s1 q,7 s,5 s,6 ~ ,6 -
+s0 s3 s2 s3 q,6. s3 s2 s3 q,6 q0 s,6 s3 2 q2 s5 s3 ~ 3 - s0 s3 s2 s3 q,6. s3 s2 s3 q,6 q0 s,6 s3 2 5 6 - q0 s3 s2 ~ q2
+s3 s2 ~ q2 s3 s2 ~ q2 s5 s3 ~ 3 - - 0 q0 d3 s2 ~ q2 s3 s2 ~ q2 s3 s2 ~ q2 s5 s6' 6' - 5 - 0 0 0 q3 q5 1'
+q1' q1' 7 5 q6 s6 s7 q6 q5 3 q3 q5 1' q1' q1' 2' 5 q3' q2' q2' q2' q2'. q3' q2' s2'. s3' 2' q1' q1' q7. s5 5 q6 s6 s7 q6 q5 3 q2' s2'.
+s3' 2' - q1' q1' q6 q5 6 - 0 q3 q5 1' q1' q1' q7. s5 5 q6 s6 s7 q6 q5 3 q3 q5 1' q1' q1' q2'. s5 5 q3' s1' ~ s1' q2' q2' q2'. q3'
+q2' s2'. s3' 2' q1' q1' q7. s5 5 q6 s6 s7 q6 q5 3 q2' s2'. s3' 2 - q2 q1 q7 q3 q3 q6 6 - - - - - - - - - - - q2' -
+s1' s1' q0 q7 q3' q6 6 - q3 q5 2' - q1' q1' q7 q3' ~ q3' q6 ~ 6 - - 0 0
+%END

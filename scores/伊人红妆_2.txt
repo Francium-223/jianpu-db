@@ -1,0 +1,20 @@
+%伊人红妆_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14413
+title=伊人红妆
+tag=
+usertag=
+tagroute=
+confidence=0.925
+conf_p10=0.696
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14413
+%--
+4/4
+subtitle=score
+q1 q,4 4 4 x x x x 1 q3'. q2'. q1' q1' 6 - q3'. q2'. q1' 1' - 1' 1' - 2' 1' - - - q6 q5 q5 q3 3 5 5 - - - q1' q1'.
+q1' q1 6 3 5 - - - q1' q1'. q1' 6 - q5 q6 q5 q6 3 - q2 q3 q5 q3 2 q2 - - - q2 q3 q5 q3 2 3 - - q5 q6 q3'. q3'.
+q1' q1'. 2'. 3' 2' - - q3'. q2' q3'. q2'. q1' q1' 1' q6 q5 5 - - - q3'. q2'. q1' s1 s6 6 - q3'. q2'. q2'. q1' 1' q6 q5 q1' q1' q1' q1' q1' q6
+q1' q1' 2' - - q5 q6 q3'. q3'. q1' q1'. 2'. 3' 2' - - q3'. q2' q3'. q2'. q1' q1' 1'. 2' 3' - - - q3'. q2'. q1' s1' s6 6 - q3'. q2'. q2'. q1' 1'
+q6 q5 q3'. 2'. 2 6 1' - - q5 q6. 1' - - - q3'. q2'. q1' s6 6 - q3'. q2'. q2'. q1' q6 q5 q3'. 2'. 2' 6 - - -
+%END

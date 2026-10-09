@@ -1,0 +1,21 @@
+%凄美的传说.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=35795
+title=凄美的传说
+tag=
+usertag=
+tagroute=
+confidence=0.990
+conf_p10=0.980
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-35795
+%--
+4/4
+subtitle=score
+q,6 s,6 s,6 ~ q,6 s2 s3 1 - q,7 s,7 s,7 q,7 s,6 s,5 q,5 ,6. q,6 1 q,6 s2 s3 2 s2 s2 s2 s2 q5 s5 s2 3 q0 s3 q4 s4 s4 ~ q4 s5 s6
+4 q0 s1 s2 q3 s3 s3 s2 s2 s2 s3 1 q0 s,6 s,7 q1 s1 s1 s1 s1 s2 s3 ,7 q0 s,5 s,6 q,7 s,7 s,7 ~ q,7 s2 s3 2 s,7 s1 s,7 s,6 ,6 -
+- q0 s3 s5 q1' 1' q6 1' - q5 q5 q5 s6 s7 3 q0 s2 s1 2 s6 q5 s5 s6 q5 s5 s6 3 - 5 q0 s3 s5 q1' 1' s6 s6 q1' s2' s1' q1'
+s5 s6 q7 s7 s7 ~ q7 q3 q1' s1' s7 q7 s6 s5 s4 s4 s4 s4 ~ q4 q,6 s2 s3 q2 q0 d6 s1 q,7 ,7. q3 q2 q2 s,5 s,6 ,6 - - - 0 0
+- - - ,6 - - q0 s3 s5 ,6 - - q0 s3 s5 ,6 - - q0 s3 s2 3 - - q0 s3 s2 - 3 - - 2 - 3 - - - 3 - 0
+0
+%END

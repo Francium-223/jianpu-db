@@ -1,0 +1,22 @@
+%不松铁拳头.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=13937
+title=不松铁拳头
+tag=
+usertag=
+tagroute=
+confidence=0.938
+conf_p10=0.743
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-13937
+%--
+2/4
+subtitle=score
+x x ,,1. x qx qx ,x x' qx qx x q3' s1' s3' 5' q1' s1' s3' 5' s1' s2' s3' s4' q5'. s6' 5' - q1' s1' s3' 5' q6' s1' s4' 6' q5' s5' s6' s5' s4'
+s3' s2' 1' 0 x ,,3' q2'. s1' ,1' s5 q6 3' q,,2'. s1' q2' 0 ,,6. s1' 1' ,6 q,2'. s1' 6 ,5 0 q,3' q,,2'. s1' s5 q6 1. 0 3 7. q5 6 0 6 6 6
+1' 6. q3' 2' 0 5 3' 3' 3' 5' q3' q2' 3' q2' 2'. q3' 2' 0 5 2' 1' 0 q5'. q5' q5' q2' 1' 0 qx qx 0 x 0 3' q3' s3'. 5' q3' q3' 5'
+q2' q2' q3' q4' q5'. q6' 5' - q3' s1' s3' 5' q6' s1' 4' 6' q5'. s5' s6'. s5' s4' s3' s2' 0 3. 3' q2'. q1' q5 q6 3' q2'. q1' 2' 0 6. 1' 6 q2'. q1'
+6 5 0 0 0 3' q2'. s1' 1' q5 q6 3' q2'. s1' 2' 0 6. 6 q2'. s1' 6 3' x 2'. s1' 1' 5 q6 3' x. x. q2' s1' 2' 0 q6. s6 6 q5 6
+5'. x. x' q3' - 5 0 3' q2'. 1' q5 q6 3' q2'. 2' 0 q6. s6 q6 q5 6 5' 3' - q2'. 0 q2' q6 0 3 3 3 1' 7. s5 q6 0 q6 6 q6
+1' 6. q3' 2' 0 5 3' 3' 3' 5' q3' q2' 3' q2' q1' 2'. q3' 2' 0 5 2' 0 q5'. q5' q5' q2' 1' 0 qx qx 0 x 0
+%END

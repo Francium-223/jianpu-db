@@ -1,0 +1,24 @@
+%2010等你来.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=36557
+title=2010等你来
+tag=
+usertag=
+tagroute=
+confidence=0.977
+conf_p10=0.942
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-36557
+%--
+2/4
+subtitle=score
+q3 s4 s3 ~ s3 q4. q5 s2 s2 ~ 2 q1 s2 s1 ~ s1 q2. q3 s,7 s,7 ~ ,7 q,6 s,6 s1 ~ s1 q6. s5 s5 s3 s1 q0 s2 s3 q4 s3 s2 ~ s2
+q1. s3 s4 s3 s2 ~ 2 q3 s4 s3 ~ s3 q4. q5 s2 s2 ~ 2 q1 s2 s1 ~ s1 q2. q3 s,7 s,7 ~ ,7 q,6 s,6 s1 ~ s1 q6 s5 s5 s5 s6 s1
+q0 s2 s3 q4 s3 s2 ~ s2 q1. 1' - q1' s1' s7 s1' q1'. q1' s6' s2' s2'. s1' q1' q1' s1' s7 s1' q1'. q1' s6' s2' s2'. s1' q1' q1' s1' s7 s1' q1'. q1' s6'
+s2' s2'. s1' q1' q1' s1' s7 s1' q1'. q1' - 1' 0 q0 q5 q1' q1' q2' s5 s5 s5' q2'. 3' - 0 0 q0 q6 q1' q2' q1' s5 s5 ~ 5 1' s1' s1' s1' s1'
+2' - 0 0 q0 q,5 q,5 q1 q2 s,5 s,5 ~ s,5 q2. 3 s0 s3 s2 s3 1 - q0 q,6 q1 q2 q1 s,5 s,5 ~ s,5 q5. q4 s3 s2 ~ s2 q1. s3 s4 s3
+s2 ~ 2 1 ~ s1 s1 s,7 s1 2 s0 s2 s3 s4 q5 s1 s1 ~ s1 q1. s3 s3 s2 s1 q0 q1 q5 s6 s5 ~ s5 q1. s7 s1 s6 s5 ~ 5 q4 s4
+s3 ~ s3 q4. 5 - 5 - 5 - 5 - q3 d4 s3 s3 s4. q5 s2 s2 2 q1 s2 s1 s1 q2. q3 s,7 s,7 ~ ,7 q,6 s,6 s1 ~ s1 q6. s5 s5 s3
+s1 q0 s2 s3 q4 s3 s2 ~ s2 q1. s3 s4 s3 s2 ~ 2 q3 s4 s3 ~ s3 q4. q5 s2 s2 2 q1 s2 s1 s1 q2. q3 s,7 s,7 ,7 q,6 s,6 s1 s1 q6
+s5 s5 s5 s6 s1 q1 s2 s3 q4 s3 s2 q2 s1 s1 q4' s3 s2 ~ s2 q1. 1 - 1 - q1. x
+%END

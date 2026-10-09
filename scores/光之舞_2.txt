@@ -1,0 +1,23 @@
+%光之舞_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=2040
+title=光之舞
+tag=
+usertag=
+tagroute=
+confidence=0.939
+conf_p10=0.747
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-2040
+%--
+6/8
+subtitle=score
+1 - - - x. 1 x x ,1 ,x 1. x 1 q3 q3 q3 q3 q1 q2 s3 s3 q3 q3 6 q3 s2 s2 q2 q2 q,7 q1 q,7 q2 q1 q,7 ,5. q3 q3 q3 q3
+q1 q2 s3 s3 q3 q3 1' s7 s7 q6 q5 q7 q6 q5 q3 q2 q2 3. q3 q3 q3 q3 q1 q2 s3 s3 q3 q3 6 q3 s2 s2 q2 q2 q,7 q1 q,7 q2. s1 q,7
+,5. q3 q3 q3 q3 q1 q2 s3 s3 q3 s3 s3 q1' q1' q1' q2' q7 q5 q5 q6 q7 6. q2 q3 q5 q6 q6 q6 q6 q3 q6 q5 q3 q5 5 q3 q2 q1 q,6 q2
+q3 q5 q2 q1 q,7 3 q3 q6 q6 q6 q6 q3 q6 - x x 3 q,1 x x q7 q5 q3 ,7 q1 q2 q3 q4 q4 q5 q6 7. ~ 7. q1' q6 q1' q6 q1' q7
+s3' s3' q3' 7. q1' q6 q1' q1' q6 q1' q7 s5 s5 q5 3. q4 q3 q4 q4 q5 q6 q5 q3 q7 1'. q2' q2' q2' q2'. s1' q1' 7. 3. q1' q6 q1' q1' q6 q1' q7
+s3' s3' q3' 7. q1' q6 q1' q1' q6 q1' q7 s5 s5 q5 3. q4 q3 q4 q4 q5 q6 q5 q3 q7 1'. q2' s2' s2' q2' q2' q1' q6 7. q3 q7 q1' ~ 1' q6 6.
+6. ~ 6. x q0 s6 s7 s1 s3 q6 q7' q1' 7 q6 5. q0 s4 s3 s4' s3' q2' q1' s7 s6 q7' q1' s7 s5 3. q4. s3 s4' s3' 2'. s0 s5 s6 s7' q1' q2'
+q5 s5' s4' 3'. 3' s2' s1' 7 q7 q7 q1' q2' x. 1' q6 6. 6. 6.
+%END

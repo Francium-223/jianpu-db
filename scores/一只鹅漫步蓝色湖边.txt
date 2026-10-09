@@ -1,0 +1,17 @@
+%一只鹅漫步蓝色湖边.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=19475
+title=一只鹅漫步蓝色湖边
+tag=
+usertag=
+tagroute=
+confidence=0.962
+conf_p10=0.903
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-19475
+%--
+6/8
+subtitle=score
+q3 q3 q3 3 q3 q3 q2 q1 ,7 q2 q2 q2 2 q2 q2 q1 q7 6 q6 q1 q3 6 q6 q1 q7 q6 3 q4 q2 ,7 q7 q2 s1 s1 q7 6 q3 q3 q3 q3
+q3 q3 q3 q2 q1 7. q2 q2 q2 ,2 q2 q2 q2 q1 s7 6 6 q1 3 6 6 q1 7 6 3 q4 2 7. 2 1 7 6 - - - - - 1
+%END

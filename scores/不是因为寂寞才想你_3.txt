@@ -1,0 +1,23 @@
+%不是因为寂寞才想你_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=37494
+title=不是因为寂寞才想你
+tag=
+usertag=
+tagroute=
+confidence=0.965
+conf_p10=0.921
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-37494
+%--
+4/4
+subtitle=score
+1 - - - x. 1. x s0 d5 d1 d2 3 2 5 s0 d5 d7 d1 2 ,7 5 - 0 6 5 3 2 3 5 - q5. s3 q5 q3 5 q5 q2' s3 q3 q6
+5 - q6. s5 q6 q6 5 q1 q3 q2. q6 q3 2 - q5. s3 q5 q3 5 q5 q2' q1'. s2' q3' q3 5 q5 q6 s6 q5 q6 q1' q5 q6 q3'. s2' q6 q6 q5. s3
+q5 q3 5 q5 q2' q1'. s3 q3 q6 5 - q6. s5 q6 q6 5 q3 q2. q6 q3 2 q2 q3 q6 q1 q5. s3 q5 q3 5 q5 q2' s2' q3' 7 q7 q6. s5 q6 5
+q7 q6. s5 q1' 2' s3'. s1' s2' q3'. s2' q5' 2' s3'. s1' s1' s2' s7 q6'. q3' 7 s7 q6. s5 q6' q6' 5' q3'. q5' q4'. s3' q6 2' s3'. s1' s2' q3'. s2' q1'. q5' 2'
+s3' s1' s1' s2' q1'. s7 q1' q1' q5'. q3' q3'. s2' q6 q3'. s2' q1' q5 q0 s6 s7 q6 s1'. q3'. q5'. q3' q1' q6 - 1 s3 s5 7 s3 s7 1' - - 0 6. d1
+d1' d1' 1' s2 s3 s5 s6 q1' s6 q1'. q5' q3'. q2' s1' q6. 1' - - - q1 0 x. 1' 3 - q5 - 2 0 - 1 q1' 7 5 6 q1' 5 q3 q1 q2.
+s3 q3 q4 5 s3 s2 s1 s2 1' - s3 s2 s1 s2 4. 1' - - q0 s6 s7 q1' q6 s1' q3'. q5' qx q3' d0 h5 q1' h1 q6 h2 3 1' 2 5 s0 d5
+d7 0 d1 2 ,7 5 - 0 6 5 3 2 3 5 - - - -
+%END

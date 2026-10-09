@@ -1,0 +1,20 @@
+%八仙过海_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14415
+title=八仙过海
+tag=
+usertag=
+tagroute=
+confidence=0.957
+conf_p10=0.848
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14415
+%--
+2/4
+subtitle=score
+1 x q2 x. x'. qx qx x x x 1 x. x x q1 1. q1 s2 q5 q3 2 - q,6 q3 s2 s1 q,6 ,5 - q5 s5 q4 q2 s3 s5 1 3 q1 q,6 d6
+,5 q1 s1 s2 q1 q,6 q1 q2 q5 s6 s5 3 - 3 - q2 s2 s3 q2 q,7 s,6 2 5 q2 q3 s2 q,3 s,5 q,6 q2 ,7 s,6 s,5 ,5 - ,5 - q1 s,6 q,5
+q,6 1 - q,6 s1 s,6 s,5 q,3 ,5 - q5 s5 s3 q2 q3 5 - q6 s5 q4 s3 s5 2 - q0 q3 q2 q3 q5 q3 5 6 q6 q3 5 - q,6 d6 s1 q2
+q3 2 q3 q5 s6 q3 q2 1 - q,7 s0 s2 q,5 q,6 ,7 - q,7 s0 s6 q,5 q,7 1 - q3 s3 s2 q3 q6 5 - q6 q5 q4 s3 s5 2 - q0 q3 q2
+q3 q5 q3 5 6 q6 q3 5 - s6 s1 q2 q3 2 q3 q5 s6 q3 q2 1 - 1 -
+%END

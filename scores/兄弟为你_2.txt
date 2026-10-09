@@ -1,0 +1,27 @@
+%兄弟为你_2.txt
+% 出处 https://www.jianpujia.com/
+title=兄弟为你
+tag=
+usertag=
+tagroute=
+confidence=0.954
+conf_p10=0.866
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-12044
+%--
+4/4
+subtitle=score
+1 - - - x ,1 ,x 1. x 1 q1'. s7 ~ q7 q3 5 - q3. s5 ~ q5 q3 6 - q1'. s7 ~ q7 q5 q3. s5 ~ q5 q2 5 - - - q3. s5
+~ q5 q1 q2. s5 ~ q5 q3 s5 s6 s5 s6 q5 q3 5 - s4 s4 s3 s4 s3 s2 q,3 s2 s1 s7 s1 ,1 s0 s6 s5 s4 s5 s6 q,7 ,5 - ,1 - -
+q0 s1 s2 q3. s2 s2 s1 s2 s2 ~ 2 q0 s3 s5 q6. s6 s6 s5 s3 s5 ~ 5 q0 s3 s5 s6 q5 s6 ~ 6 s6 q5 s3 ~ 3 s4 s3 s4 s3 q1
+s6 s5 q3 s2 q0 s1 s2 q3. s2 s2 s1 s2 s2 ~ 2 q0 s3 s5 q6. s6 s6 s5 s3 s5 ~ 5 q0 s3 s5 s6 q5 s6 ~ 6 s6 s5 s3 s3 ~ 3
+s4 s3 s4 s3 q1 q6 s5 q3 s2 q0 s3 s2 q1 q1 q1 s2 s3 ~ s3 q5. q0 s3 s5 s6 s6 s6 s5 s6 q6 s5 s5 q3. q0 s3 s2 q1 s1 s1 ~ q1
+s1 s2 q3 s5 s5 q0 s3 s5 - s6 s6 s6 s6 q6 s7 s6 - s6 q5. ~ 5 - q1 s2 s3 ~ 3 s5 q6 s5 5 q6 q7 q1' q1' s3 q6 s5 5 q3
+s2 s1 1 s1 q6 s5 5 q0 s2 s3 q4 q3 s2 s1 s2 s2 ~ 2 q1 s2 s3 ~ 3 s5 q6 s5 5 q6 q7 q1' q1' s3 q6 s5 5 q3 s2 s1 1 s1
+q6 s5 5 q0 s2 s3 q4 q3 s4 q5 s2 ~ q2 s5 s5 q2 s3 s2 ~ q2 q1 ~ 1 - 0 x 0 0 0 0 0 0 q,6 q,5 q,4 q,3 0 0 0 0
+0 0 s0 s5 s5 s5 s5 s5 s5 s5 1'. s2' s3' 2' q0 s2'. s3' s5' q6' s6' s6' q5' s3' s3'. q5'. q0 s5' s6' qx' d7' d6' d5' d4' d3' d2' s3' d4'. d3' s2' s1'
+s2' q3' d2' d1' q2' q1' s0 s5 s4 s3 s3 s3 s4 s5 5 - s0 s3 s2 s1 s5 s2 q3 1 q0 s1 s2 q2 q1 1 - q1 s2 s3 q2 q1 1 - 0 q3.
+s2 q2 q1 s7. s1 q1 q2 q3 s2 s2 q2 q6 5 q0 s1 q1 s1 s2 q2 q1 s3 s2 s1 s5 s0 q4 s3 s2 s1 s7 s1 s2 q3. 2 - 1 - - - 1
+0 0 0 x
+%END

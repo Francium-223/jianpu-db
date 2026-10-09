@@ -1,0 +1,20 @@
+%别来无恙_4.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=32788
+title=别来无恙
+tag=
+usertag=
+tagroute=
+confidence=0.987
+conf_p10=0.986
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-32788
+%--
+4/4
+subtitle=score
+q5 q5 q5 q6 5 5 q5 q5 q5 q6 1' 3' q2' q2' q2' 3' q2'. q6 s6 s5 5 - - 0 q5 q5 q5 q6 5 5 q5 q5 q5 q6 1' 3' q2' q2' q2' q3'
+q3'. s2'. 6 2' - - 0 q3' q3'. q2' q2' 3' 5' q3' s3' s2' q2' q3'. 1' 1' q2' q2' q1' 2' q1' q6 q6 6 - q1' q6'. 5 q5 q5 q5 q6 5 5 q5 q5
+q5 q6 1' 3' q2' q2' q2' 3' q2'. 6 ~ q6 q1' 1' - 0 q5 q6 q1 q6 6 q5 q6 1 q2 q3 3 - q2 q2 q2 3 q5 q1 q2 q2 q2 2 - 0
+q5 q6 q1 q6 6 q5 q6 1 3 3 - q2 q2 q2 3 q2 q6 q6 q6 q1 1 - 0 x 2 q1 - 2 q2 q1 s1 s2 q3 q1' q1 2 - - - -
+- - - q2' q2' q2' 3' q2' q6 q6 1' - - - q2' q2' q2' 3' q2'. q6 ~ q6 1' - - - - - -
+%END

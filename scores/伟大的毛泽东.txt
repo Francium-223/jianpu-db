@@ -1,0 +1,19 @@
+%伟大的毛泽东.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=31921
+title=伟大的毛泽东
+tag=
+usertag=
+tagroute=
+confidence=0.935
+conf_p10=0.680
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-31921
+%--
+4/4
+subtitle=score
+1 - - x' x' x' x'. x' 1 1' x q3' q1' q7 q6 q5 q4 q3 q2 q1. s2 q1 7 ,6 0 6. s7 q1 s2 s2 q3. s3 q3 q3 q4 s6 s6 q5 q4 3
+- q4. s6 q5 s4 s4 q3 q4 q3 q2 q1 s2 s2 q1 7 ,6 - q6. s3 q6 q7 q1' q7 q1' s7 s7 q6 s6 s5 q4 q3 2 - q3. s6 q5 s4 s4 q3 q2
+q3 q2 q1 s2 s2 q1 7 ,6 - 6 - 6 - 6 - 6 1' q3' q1' q7 q6 q5 q7 q6 q5 4 q6 q3 3 - q3. s1' q7 q6 q5 q4 q3 q2 q1. s2
+q1 7 ,6 - 6 - 6 - 6 - 6 -
+%END

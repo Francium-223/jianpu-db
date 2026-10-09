@@ -1,0 +1,18 @@
+%三面红旗迎风飘.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=31890
+title=三面红旗迎风飘
+tag=
+usertag=
+tagroute=
+confidence=0.985
+conf_p10=0.942
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-31890
+%--
+2/4
+subtitle=score
+x qx sx sx x qx sx sx x sx sx sx sx qx qx q0 qx x q6. s1 5 q6. s1 5 q6 3 q2 1 - q1. s1 q6 q1 q2. s1 q6 q1 5. q6 5
+0 q1'. s6 1' q6 q5 6 q5 1' q3 2 - q5 q5 q5 q1' q6 q5 q3 q2 1 q0 q3' q2' q1' q6 q1' 5. q6 q5 s6 s6 q5 q5 q5 s6 s6 q5 q5 q1'.
+s1' q6 q1' q3' q2' 1' q3. s1' q6 q5 1 - - q6 q3 2 q5. s5 q3 q5 q2 1 q2 3. q6 q5. s3 q2 q1 q2 6 q5 1 - 1 0
+%END

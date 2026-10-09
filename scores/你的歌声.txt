@@ -1,0 +1,21 @@
+%你的歌声.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12797
+title=你的歌声
+tag=
+usertag=
+tagroute=
+confidence=0.988
+conf_p10=0.981
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12797
+%--
+3/4
+subtitle=score
+5 3 6 5. q6 q1 q2 3 - - 2 - q2 q2 3 1 ,6 ,5 - 1 1 - - 1 1 4 6 - q5 q4 5 - - 5 - q5 q5 6 4 3
+2 - ,6 2 - - 1' - q1' q1' 2' - q1' q7 7. q6 q5 q7 6 - - 1' 7 1' 7 - 2' ,7 q6 q7 q1' 2' - - 3' - 3' q2' q3' q2'
+q1' q6 q1' 6 - 3 5 - - q6 q5 6 0 1' 6. q1' q2' q1 2' - 3 2 1 7 - q6 q7 5 3 6 6 - - 6 q4 q3 2 2 2 ,6
+1. q2 3 2 - 1 - q2 q3 2 2 1 ,7. q,6 ,5 ,6 - - ,6 2 2 1 - q2 q2 3 1 ,7 3. q5 q1 q2 3 - - q2 q2 2 - q1
+q2 3 - 5 2 2 q1 q,7 ,6 q0 3 6 6 1 - 3 q2 q2 2 - 2 2 1 6 - - 3 6 5 q5 q6 q5 q3 q2 q1 2 - - 1 ,7
+,6 q2' q2' q1' q7 2 2' - 1' 7. q6 q5 q6 6 - - 6 0 0
+%END

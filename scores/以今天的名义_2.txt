@@ -1,0 +1,20 @@
+%以今天的名义_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=20767
+title=以今天的名义
+tag=
+usertag=
+tagroute=
+confidence=0.949
+conf_p10=0.827
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-20767
+%--
+4/4
+subtitle=score
+1 - - - x. x ,x. ,1 x 3 3 3 0 0 2 2 3' 2' 2 0 0 2 1 2 1 2 3 0 0 6 1 6 6 1 0 0 3 3 3 0
+0 2 2 2 2 1 2 3 2 2 - 0 2 2 q2 q1 q1' q0 q2 q1 q2 q1 q6 6' 6' 6 0 0 0 0 0 0 q3 q5 s5 s6 q5 5 q0 s5
+q1 q7 q6 s5 s6 q6 q5 5 s3 s2 q2 s2 s3 q3 3 - - s2 s1 q2 s1 q2 s2' s3 2' 0 0 s1 s1 q,6 q1 q,6' ,6' 0 0 0 q3 q5 q5 q6
+q5' q6 5' - 0 q7 q6' q5 q6 q5 q5' q2 3' 3' - 0 q3 q2 q1 2 2' 3 2' - 6 1 2 1 2' 2' 1 0 2 1 2 1 1 6' 6' -
+- x 1 x'. 5
+%END

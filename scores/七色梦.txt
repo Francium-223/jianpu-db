@@ -1,0 +1,20 @@
+%七色梦.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=34226
+title=七色梦
+tag=
+usertag=
+tagroute=
+confidence=0.874
+conf_p10=0.560
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-34226
+%--
+2/4
+subtitle=score
+q,5 1 2' 3' 2 ,1 q,6' ,6' 5 5. x 4 2 1 ,1 1'. 3' ,6 ,6 ,1 1 2 ,1 1 6'. 5 1' ,6' 4 3 q,1 ,1 ,1 6 7' 1 2 - 2 ,5
+1. ,x q1' 1' x 1. x 3 x 2' 4 2 7' 2 q1 q,1 6' 0 5 4 3 2 ,5 4 3 3 x 5 ,1 7 4 6 5 4' 5 0 x ,4 4 ,6
+,1 1 3' 2' 2 - 2 ,6' 7 3 ,2 ,1 ,1 ,6' 6' 5 5 4' ,3' 4. 3 1. ,1 ,1' ,6 ,6 ,1 q1 2 ,7 x 0 6 5 5 q,,1. 0 0 q1 4
+q3 1 ,1 ,6 2'. 1' 1'. 1 x ,6 1 3 2' 2 1. q,6 q6 5 5 x 4 3 2 1 ,1 1 ,6 - ,6 ,7 ,1 1. 5 6 5 5 1 ,6. 4 3
+2 q1 ,6 ,x. 1 1 1 qx x 1 - q,1 q1
+%END

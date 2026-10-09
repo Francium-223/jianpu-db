@@ -1,0 +1,19 @@
+%为了追求美.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=34250
+title=为了追求美
+tag=
+usertag=
+tagroute=
+confidence=0.947
+conf_p10=0.804
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-34250
+%--
+4/4
+subtitle=score
+x. ,1 q1 q1 ,1 ,1 ,1 q3 q1 q1 s2 s6 ,x 0 5 q2 s2 q2 q2 q2 q2 3 2 5 q5 q1 q2' s1' 2 0 ,5. s1 1 1 ,1 1 q2' q1' q3 q1
+q1 2' ,6 x q5' 3' q3 3 q3 3 2 0 q5 q1 1 2' ,1' 7 0 1'. 4' q4 q4 4 ,4 ,3 2 5 5 5 5 2 3 - 1. ,4 q4 4 4 4
+,3 2 q5 5 6 5 5 - 5' - - 0 q5. ,1 ,1 ,1 ,1 ,1 2' 1' q3 q1 ,1 1' q6' ,5 0 5' q2' s2 q2 q2 3 3 2 0 q5 q1 q2 q1
+5 1 2 ,,1 5 q1 2 1 5 1 q2 1 5 5 q1 2' ,1' 1 0
+%END

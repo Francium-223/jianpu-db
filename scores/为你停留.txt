@@ -1,0 +1,23 @@
+%为你停留.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=36314
+title=为你停留
+tag=
+usertag=
+tagroute=
+confidence=0.970
+conf_p10=0.915
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-36314
+%--
+2/4
+subtitle=score
+x 5' d1' d2'. d3' h4' s0 s5 s5' s1' s7 h3'. s6 h5' s5 q5. q6' s3 q5 d6'. q6 d6'. q6 h6'. s3 h5' s5 1' q6 s2'. s6 h5' s6 q6 s3' s1 s2 d1' 0 q3
+q3 q2' q3 2' s2'. h3' s2'. s2'. s2' d1'. s2'. h1' h6 s2'. s3'. h6 s2' d1' d5' q1' q6 q6' q6'. d1' s3'. s5' h6' q2 s1 s,6 ~ q,6 q,5 s1 q1 s1 s,6 s,5 q2 q3
+~ 3 s2 s2 s2 s2 q2 s,6 q1 q2' ~ q2' q,5 s3 s2 s3 s2 q3 s5 s5 5 q,5 s2 s2 s2 s2 s2 q2 s3 s2 s1 ,6 q,6 s1 s1 s1 q1 s,6 s,5 q2
+3 q,5 s2 s2 s2 s2 q1 s,6 s2 q2 q1 ~ 1 0 q0 q5 s7 s6 s5 s5 q3 s3 q6. s5 ~ q5 s3 s5 s6 q6 s6 q6 s1 s2 q2 3 s1 q2 q2 s2
+q2 s1 s2 s1 ,6 q6 s6 s6 s6 s6 q6 s1' s5 ~ q5 q5 ~ 5 0 q0 q5 s1' s7 s6 s5 q5. s3 q5 q6 ~ q6 s5 s5 q6 s6 s6 q6 s1 s2 q2
+q3 ~ q3 s1 s1 q2 q2 s2 q2 s1 s2 s1 ,6 q6 s6 ~ s6 s6 s6 q6 s1' s5 q5 q5 ~ 5 s6 ~ s6 ~ s6 s6 q6 s1' s5 ~ q5' q5' ~ 5'
+0 q6 5 - 0 q0 q5 s1' s7 s6 s5 q5 s0 s3 q6. s5 ~ q5 s3 s5 s6 s6 s6 s6 q6 s1 s2 q2 q3' s1 q2 s2 s2 q2. s1 s2 s1 ,6 q6 s6
+q6. q6 s5 q5 q5 ~ 5 0 q2 q6 s2 q1' q1' q1 1 - 1 -
+%END

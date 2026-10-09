@@ -1,0 +1,21 @@
+%你好梦中情人.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=3679
+title=你好梦中情人
+tag=
+usertag=
+tagroute=
+confidence=0.983
+conf_p10=0.963
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-3679
+%--
+4/4
+subtitle=score
+q0 s6 s5 s6 s5 s6 s5 s6 s5 s6 s5 ,6 q0 s5 s3 s5 s3 s5 s3 s5 s3 s5 s3 q,6 q,3 q0 s4 s2 s4 s2 q,4 s0 s4 s4 s2 s4 q,5 s3 ,3 -
+0 0 q0 s6 s5 s6 s5 s6 s5 s6 s5 s6 s5 ,6 q0 s5 s3 s5 s3 s5 s3 s5 s3 s5 s3 s6 q,5 s6 q0 s4 s3 s4 s3 s1 s1 s0 q,4 s3 s4 q,3
+s1 ,1 - 0 0 q0 s6 s5 s6 s5 q,6 s0 s6 s6 s5 s6 s5 s5 s5 ,5 s5 q,6. 0 0 s0 s6 s6 s5 s6 s5 s6 s1 s0 q1 s6 s1 q2 s2 2 -
+- - 0 0 0 q1 s2 s1 q3 s3 s2 s3 q6 s6 q6. s3 s3 s2 s2 s1 q2 s2 s1 s2 q5 s5 5 q3 s2 s1 s1 s6 s1 s6 s1 q4 s4 q0 s4 s3
+s4 s3 s1 q3 s3 s2 s3 q6 s5 s5 q6. q1 s1 s6 q3 s3 s2 s3 q6 s6 q0 s2 s3 s2 s2 s1 q2 s2 s1 s2 q5 s5 s5 q6. q0 q3 s2 q1. q0 s6
+q1 s6 s1 s1 q2 s1 1 0 0
+%END

@@ -1,0 +1,22 @@
+%伤别离_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14414
+title=伤别离
+tag=
+usertag=
+tagroute=
+confidence=0.926
+conf_p10=0.604
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14414
+%--
+2/4
+subtitle=score
+1 - - - x 1 x x 5. 3 2 3 2 q2 q1 ~ 1 ,5 ,6 2. q,7 q,6 q,5 q,6 ,6 ,6 - 5 5 3 2 3 4 s,3. d,4 s,,,3 s,,,2 1 q2 q2
+s2 s,5. d6 q2 7 q,7 qx q7 q,6. ,6 s1 q1 q,,,6 1 q2 3. 5 q,6 5 6 x q5 0 q,3 ,,,5 q,,,2. s,,4 s3 q,2 3 - 5 5 3 2 q3 q4 ,3. ,4 q3.
+q,2 - 1 2 ,2. q5 q,6. 2 7 q,7. sx ,,6. ,6 ,,6 6. q,5 6 1' q,6 q6 ,3 2. 3 2 0 5 3 q,2 ,2 7 ,,6 ,,,1 ,7 ,6 1 6 ,5 ,5 - 1'.
+2' q,7 6. ,5 6 q1'. q,,,3. q,,,5 q,,,3 q,,3 2 - s2. 0 s,,1 s,2 s,3 q,5. s,3 ,6 q,5 s6 q3 2 1 ,,2. d,3 s5 q5 q,2 q,,2 q,7 ,6 ,5 - x. 0 6 5 ,6
+5 q,3 5 ,,6 5' 5 0 6 5 1' q6 5 q3 2 3 2 ~ 2 0 3 q,5 3 1' x. ,x 3. 3. x. qx. x. 6 q,,5 3 q5 2 q4 q3. s,2 q1 s2
+3 - 0 q6 5 1' 6 5 3 5 s6 q5 ~ 5 0 6 5 1' s,6 5 s3 q2 q3 2 2 0 3 q3 s3 q,,5 q6 3 ,5 2 ,,4 q3. s4 s,3 s,2 1
+- q2 q2 0 3 q2 q,,7 q6. d1. s,,,7 q,,6 x 0 ,5 - q2 d,,6' d6 s2 s,7 s,7. s,7' qx' q7' ,6. ,1. ,6 ,6 0 -
+%END

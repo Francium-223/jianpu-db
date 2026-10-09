@@ -1,0 +1,20 @@
+%再唱同一首歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15997
+title=再唱同一首歌
+tag=
+usertag=
+tagroute=
+confidence=0.956
+conf_p10=0.867
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15997
+%--
+2/4
+subtitle=score
+1 - - x - 1. 1 s1' q6 q4 q4 q1 q1. s6 q6 s5. s4 5 - s1' q6 q4 q4 q1 q1. s6 q6 s5 s4 5 - s1 s,7 s,6 s,7 s1' s7 s6 s7 s1'
+s1' s3 s5 q7 s5 s7 q6 s4 s5 q6 s4 s6 s0 s,3 s,5 s1 q6 q4 ,5 q1 q2 q3. s4 q3 q1 2 q1 q2 ,5 - ,5 q1 q2 q3 s3 s4 q5 q1 q4. s5
+q6 s4 s3 2 - 3 q5 q7. s6 6 q7. s7 q6 q7 3 - q4. s5 6 q5 s4 s3 2 q,7 s,7 s,6 q,5 q,6 1 - s6 q6 4 q1 q1. s6 s6 s6 s5 s4
+5 - s6 q6 4 q1 ,5 q4 s3 s2 2 - q5. s1 q1 q2 3 - q1. s1 q2 q3 ,6 - q,7. s,7 q,7 q,6 q,5 s,5 s,5 q,5 q,7 1 - 1 - q5. s1 q1
+q2 3 - q2. s3 q4 q2 6 - 6 - q,6. s7 q1 q,6 q,5 ,5 q,7 1 - 1 - 6 - q6 1'. - - - - - 0
+%END

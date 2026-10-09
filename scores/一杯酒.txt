@@ -1,0 +1,18 @@
+%一杯酒.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=31881
+title=一杯酒
+tag=
+usertag=
+tagroute=
+confidence=0.839
+conf_p10=0.441
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-31881
+%--
+2/4
+subtitle=score
+q0 - - 1 2 0 x - x x'. 1 6. s3 q3 q3 q2 s2 s3 q1 q1 q2 s2 s3 q4 s5 s4 3 - 6. s3 q3 q3 q2 s2 s3 q1 q1 q2 s2 s3
+q4 s5 s4 3 - s4 q4 s4 q4 q4 q5. s4 3 q2 q2 s2 2 - 3' - 3 - q2. q2 q2 q2 q1 q3. q4 q3 q3 q2 q1. q2 q1 q2 q1 q7 ,6 -
+x 7 x x' x x' x x x 1 1 x
+%END

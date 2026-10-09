@@ -1,0 +1,21 @@
+%你想好怎么对她说.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=24208
+title=你想好怎么对她说
+tag=
+usertag=
+tagroute=
+confidence=0.931
+conf_p10=0.803
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-24208
+%--
+2/4
+subtitle=score
+s5 s2 s2 q1 ,5 - s5 s5 s5 ~ ,5 q2 q,5. - q3. s3 s3 s4 s3 s1 5 s3 s5 s5 s3 q1'. s1' s1' s7 s6 s5 ~ s5 q3. ~ 3 1' s1' s7 s6
+s7 5 s5 s4 s3 s4 s6. s6 q6 q1 2 - s6 s6 s6 s6 s6'. q3'. q2'. s7 q5. s3 s3 s7 s7 s7 s7 s5 q5 1' q0 s1' s1' s6 s6 s5 q6. s1' s1' s6
+s6 s5 q6. s5 q3' s2' s2' s1' q1' q2'. s5 s5 s1' s2' 1' 1' q5. s5 s3' s2' s1' s1' 1' q1' q1'. s5 s3' s2' s1' s1' q3'. s3'. s3' s3' s4' s6 6 s1' s1' s1'
+s6 q3' s2' s2' q1' q1' q2'. s5 s5 s1' s2' s2' q1' 1' q5. s5 s3'. s2' s1' s1' 1' q1' q1' q1'. s5 s3' s2' s1' s1' q3'. s3'. s3' s3' q4' s6 6 s1' sx' s1' s6
+q3' s2' s2' q1' s2' s2' x 2' s1' s6 s6 s1' s1' s1' 3' 1' s2 s2 0 0 s1 s3 s3 q2. 2 q0 s7 s1 s5 s3 s5 q2 s3 s2 s3 - q2'. s5 s5 s1'
+s1' s2' 2' s1' s6 s6 s1' ~ 1' -
+%END

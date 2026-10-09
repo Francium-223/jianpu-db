@@ -1,0 +1,19 @@
+%佳人曲.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=35454
+title=佳人曲
+tag=
+usertag=
+tagroute=
+confidence=0.988
+conf_p10=0.982
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-35454
+%--
+2/4
+subtitle=score
+q3 q5 q6 q1' 6 - 6 - q1 q2 s3 s5 q2 1 - q3 q5 q6 q7 3 - q3 q1 q2 q,7 ,6 - s3 s,6 s,6 s,6 s5 s5 q2 s3 s,6 s,6 s,6 q,6 q0
+s,6 s,6 s,6 s,6 s5 s5 q2 s3 s,6 s,6 s,6 q,6 q0 q3 q5 q6 q1 6 - q1 q2 s3 s5 q2 1 - q3 q5 q6 q7 3 - q6 q7 q3 q5 6 - q6 q6
+7 q1' q7 q5 3 - 3 1 2 3 ,6 - q3 q5 q6 q1' 6 - 6 - q1 q2 s3 s5 q2 1 - q3 q5 q6 q7 3 - q3 q1 q2 q,7 ,6 - s3
+s,6 s,6 s,6 s2 s,6 s,6 s5 s3 s,6 s,6 s,6 s2 s,6 s,6 s5 3 1 2 3 6 - 6 -
+%END

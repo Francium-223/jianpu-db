@@ -1,0 +1,16 @@
+%亚克西.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=13950
+title=亚克西
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.999
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-13950
+%--
+2/4
+subtitle=score
+1 q1 q1 q1' q1 ~ q1 q1 q1 q1 q1 q1' q1' q1' q1 q1 ~ q1 q1 1 q1 q1 ~ q1 q1 q1 q1 1 0
+%END

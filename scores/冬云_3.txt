@@ -1,0 +1,18 @@
+%冬云_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=31942
+title=冬云
+tag=
+usertag=
+tagroute=
+confidence=0.959
+conf_p10=0.815
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-31942
+%--
+2/4
+subtitle=score
+,x 6 5 x 3 2 1 1 1 1 2 0 4 6 6 5 6 7 1' x 5 ,1 2 3 2 2 5. 4 3 3 6 7 6 6 6. 2 5 - 5 5
+6 7 7 7. 6 5 1 1 2 3 4 4 4 4. 2 ~ 2 ,3 3 3' 6 6 7 1 6 3 5' 6' 7 7 1 1 6 5 5 6 5' 6. q5 1
+1' 0
+%END

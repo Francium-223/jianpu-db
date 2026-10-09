@@ -1,0 +1,19 @@
+%假日的歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=34287
+title=假日的歌
+tag=
+usertag=
+tagroute=
+confidence=0.917
+conf_p10=0.680
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-34287
+%--
+2/4
+subtitle=score
+x 0 3 3 3 3 2 ,2 0 2 q2 2 2 1' 1' 0 6 ,6 6 7 5 5 5 2 0 1 0 1 1 ,1 0 6 0 ,5 ,5 0 ,3 0 2 0
+0 1 1 1' 0 6 q0 5 0 3 4 0 2 2 x 0 1 1 1 x x 0 2 q2 2 x 2 2 0 1' 0 7 0 6 6 6 7 q5 5 0
+6 0 0 6 6 7 q7 ,x 0 3 3 3 3 2 2 x x 0 ,3 3 3 3' 2 q2 1 0 q2 2 2 1 1' x' - ,,1 1 - - 2' 1' ,1'
+0 6 6 6 7 5 q5 q2' ,1 0 1' 0 ,,x. - 1' 0 0 0 0 0 0 x
+%END

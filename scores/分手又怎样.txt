@@ -1,0 +1,22 @@
+%分手又怎样.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=20336
+title=分手又怎样
+tag=
+usertag=
+tagroute=
+confidence=0.960
+conf_p10=0.897
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-20336
+%--
+4/4
+subtitle=score
+0 0 1 1 4 x - ,x 1 x 1. x 6 6 q6 q5 6'. q7 q1' q7 q5 6 0 2' 2' q2' q1' 2'. - q3' q4' q3' q2' 3' 0 6 6 q6 q5 6
+q7 q1' q7 q5 6 0 q2' q2' q2' q2' 2' q1' q2' q3' q6 q6 q5 6 0 x 6 6 q6 6 q7 q1' q7 q5 6 0 2' 2' q2' q1' 2' q3' q4' q3' q2' 3'
+0 6 6 q6 q5 6 q7 q1' q7 q5 6 0 q2' q2' q2' q2' 2' q2' q1' q3' q6 q6 q5 6 0 6 6 q6 q5 6 q7 q1' q7 q5 6 0 2' 2' q2' q1'
+2' q3' q4' q3' q2' 3' 0 6 6 q6 q5 6 q7 q1' q7 q5 6 0 q2' q2' q2' q2' 2' q1' q2' q3' q6 q6 q5 6 0 x' 3' 3' q3' q2' 3' q2' q3' q3'
+q2' q1' q2' 1' 2' 2' q2' q1' 2' q5' q5' q6' q5' q4' q3' 3' 3' 3' q3' q2' 3' q2' q3' q3' q2' q1' q2' 1' 2' 2' q2' q1' 2' q2' q3' q3' q6 q6 q5 6
+x 6 6 q6 q5 6 - - q7 q1 q7 q5 6 0 2 2 q2 q1 2. - - q3 q4 q3 q2 3 0 6 6 q6 q5 6 q7 q1' q7 q5 6 0 q2' q2'
+q2' q2' 2' q1' q2' q3' q6 q6 q5 6 0 x. x 6 6 q6 q5 6 q7 q1' q7 q5 6 0 q2' q2' q2' q2' 2' q1' q2' q3' q6 q6 q5 6 0 x
+%END

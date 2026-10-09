@@ -1,0 +1,23 @@
+%佳人如梦.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=32482
+title=佳人如梦
+tag=
+usertag=
+tagroute=
+confidence=0.981
+conf_p10=0.963
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-32482
+%--
+4/4
+subtitle=score
+0 s0 s1 s,5 s,6 q1 s,6 s1 ~ s1 q,6. ,5 s0 s1 s,5 s,6 q1 s,6 s1 ~ s1 q2. q0 s,5 s,6 ~ s,6 q1 s2 ~ s2 s3 s2 s2 q0 s,5 s,6 q1 s2 s1
+~ s1 q2 s3 ~ s3 q,6 s,5 ~ q,5' s,6 s,5 0 s0 s1 s,5 s,6 q1 s,6 s1 ~ s1 q2. 0 s0 s,6 s1 s2 q3 s2 s,6 ~ s,6 q1. q0 s,5 s,6 s1 q5 s3
+~ s3 q2 s3 ~ s3 q,6 s2 1 - 0 q0 s,5 s,6 q1 s,6 s1 ~ s1 q,6 s1 ~ s1 q2 s2 q0 s1 s2 q3 s2 s2 ~ s2 s1 s,6 s1 ,6 q0 s,5 s,6
+q1 s,6 s1 ~ s1 q,6 s1 ~ s1 q2 s2 q0 s1 s2 q3 s2 s2 ~ s2 q1 s,6 q1 s,6 s1 ~ s1 q3. q3 s2 s3 ~ s3' q2 s1 ,5 q0 s3 s2 q,5 s,6
+s1 ~ s1 q2 s3 ~ s3 s5 s3 s3 q0 s2 s3 q2 s1 s,6 ~ s,6 q1. 1 q0 s,6 s3 q2 s3 s2 ~ s2 q3 s5 ~ s5 q3 s2 q0 s,6 s1 q2 s3 s5
+~ s5 q,6 s,5 ~ ,5 q0 s3 s2 q,5 s,6 s1 ~ s1 q2 s3 ~ s3 s5 s3 s3 q0 s2 s3 x 3 x - q3 s2 x 3 x - - q5 s6 s3 ~ s3
+q5 s5 ~ s5 q,6. q0 s,6 s3 q2 s3 s5 ~ s5 q3 s2 ~ s2 q3 s,6 ~ s,6 q1. 1 - s5 - - 1 - 0 q0 s3' s3 s3'. s2 1 - 0 q0 s,6
+s3 q2' q2 q2' s3 s5 s5 q3. q2 q3 s1' q1' 1 - - -
+%END

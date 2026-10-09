@@ -1,0 +1,21 @@
+%九歌一曲祭轩辕.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=23619
+title=九歌一曲祭轩辕
+tag=
+usertag=
+tagroute=
+confidence=0.973
+conf_p10=0.982
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-23619
+%--
+2/4
+subtitle=score
+1 - - x q1 x. q6 q5 3 q6 q5 3 q6 q5 q3 q2 q3 q5 3 q6 q5 3 q6 q7 1' q7 5 ~ s5 s3 q6 6 q6 q5 3 q6 q5 3 q6 q5
+q3 q2 q3 q5 3 q6 q7 1' s1' q1' s1' 7 q0 q5 7 q7 s6 s5 6 q3 q5 1' q7 q6 5 q3 q5 q6. s5 q7 q5 3 q0 q1 q2 s3 s2 q1 q3 q2
+q2 q1 q1 q2 q1 q2 q5 5 q3 q5 q1' q7 q6 5 q3 q5 q6 q5 q6' q2' 1' q6 q7 q1' q6'. q3' q2' q2' q1' q7 q5 q3 q5 q6 6 - 6 q7 5 3
+q2 q1 q2 q5 3 q0 q1 q2 s3 s2 q1 q3 2 q1 q,7 q1 q,7 q1 q5 5 q3 q5 6. q7 5 q3 q3 q2 q1 q2 q5 3 q3 q5 q1' q7 q6 q5 q3 q5
+q6 6 - 6 q6 q5 3 q6 q5 3 q6 q5 q3 q2 q3 q5 3 q6 q5 3 q6 q7 1' q7 5 ~ s5 s3 q6 6 q6 q5 3 q6 q5 3 q6 q5 q3 q2
+q3 q5 3 q6 q7 1' s1' q1' s1' 7 q0 q5 7 q7 s6 s5 6 q6 q5. 6 -
+%END

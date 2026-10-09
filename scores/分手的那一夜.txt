@@ -1,0 +1,19 @@
+%分手的那一夜.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12043
+title=分手的那一夜
+tag=
+usertag=
+tagroute=
+confidence=0.937
+conf_p10=0.815
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12043
+%--
+4/4
+subtitle=score
+x q5 1' 5 - - 0 q4' 3' s2' 3' 4' q3' 2' 7 5' 2' 2' 3' 1' ~ 1' 7 4 1' 4'. 3' 2' - - - 3. q,3. s,5 s1 q5 5 4 s3 s3
+s,2 s1 2 q2 s,1 0 s,1 s2 3 4 s3. s3 s,7 s,7 1 q,1 s1 s2 x s4 x 1 - - 2 0 - 4 4 4 q4 3 q2 2 2 2 q1 q7 q1 0
+0 0 q5 q5 s5 s4 q3 s4 q4 s6. q6. s,6 ,x q4 q0 ,1 2 2 x 4 s4 q4 q4 s4 s3 s2 q2 2 3 ,5. s1 1 1 1 q2 q3 q4 ~ 4 4
+4 q4 q4 3 2 - - -
+%END

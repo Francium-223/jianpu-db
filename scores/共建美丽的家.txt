@@ -1,0 +1,21 @@
+%共建美丽的家.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=31937
+title=共建美丽的家
+tag=
+usertag=
+tagroute=
+confidence=0.959
+conf_p10=0.875
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-31937
+%--
+2/4
+subtitle=score
+q5. s5 q5 q1' q1' q5 q3 q1 s5 s1' s1' s1' q1' q5 q5 3. q5. s5 q5 q1' q5 q3 q1 s5 s5 s5 s5 q4 q2 1 0 x q1 s1 s1 q3 s3 s2 q1 s1
+s1 q5 q5 s5 s1 s1 s3 s3 s2 q1 3 - q4 s4 s4 q6 s6 s5 q5 s5 s5 q4 q4 s2 s5 s5 s5 s4 s3 q1 2 - q1 q1 q1. q1. q1 s1 s1 q,,3.
+q3 s3 s3 d3 d3 s2 q1 s1 s1 s1 s1 q,5 qx q5 q5 q5 q5 q5 q5 s5 sx s1 s1 s3. s3. s3 s3' s3' s3 s,,3 s3 s2 q1' q1 6 - q1' s1' s1' q4
+q4 q6 s6 s6 q2 q2 s2 s5 s5 s5 s4 s3 q2 1 - 6 - 4 - s5 s5 s5 s5 q5 q4 5 - 6 - 2 - s2 s2 s5 s5 q4 q3 2 - q1
+q1 q3 s3 s2 q1 q1 q5 q5 s5 s1 s1 s3 q3 s2 s1 3 - q5. s5 q1' q1' q5 s5 s6 q3 q3 q4. s4 q6 q6 q5 s5 s6 q2 q2 q0 s5 s5 q,5 q,5
+q3 q3 2 q1 1 - 1 - q5. qx s5 s5 q5 q5 q5 s5' q5 2 ,1 2' ,2 q1 q1 q1' ,1. 1. 1' - 1' -
+%END

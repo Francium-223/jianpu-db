@@ -1,0 +1,21 @@
+%两个人的错.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=20218
+title=两个人的错
+tag=
+usertag=
+tagroute=
+confidence=0.940
+conf_p10=0.788
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-20218
+%--
+4/4
+subtitle=score
+- 1 1 1. 1' x q5 q6 q1 q2 3. q5 q6 q5 q3 q2 3. q3 1'. q3 5. q3 q6 q5 q3 q1 2 - q3 q5 q5 q6 5 - q3 q2 q2 q1 ,6 q6
+q3 2. q3 q5 q3 q2 q6 1 - - - x 3 q3. s2 3 0 q5 q3 q3 q5 ,6 0 2 q2. s1 2 0 s2 s2 s2 s1 q2 q3 ,5 0 3 q3. sx s2
+1 q3 5. sx sx s6 s6 s6 s6 s6 d5 s5 d0 q6 q6. s0 s2 x 3' 3 x' q,3. q3 q3. s2 s1 s1 2 1 s1' h0 sx s0 d1' s1 q1. s1 s2 2 -
+- 0 2 - s2 s2 q3 q2. s6 1 - - s3 s2 s1 s2 3. q6 5 s5 s6 s1' s7 6. q3 5 q3 s5 s6 q1' 7 s5 s6 q5 q3 q2. s1 2 - -
+s3 s2 s1 s2 3 - s0 s5 s5 s6 s1' s7 q5 6 - - q6. s3 2. s2 s3 q6 s5 s3 q2. s1 q2 q1' ~ 1' - 0 x q2 q2' q1 1 - q3 q2
+q1 q2 q3 q2 q1 1 - 0
+%END

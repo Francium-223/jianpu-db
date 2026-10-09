@@ -1,0 +1,22 @@
+%不见英雄花不开_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=36914
+title=不见英雄花不开
+tag=
+usertag=
+tagroute=
+confidence=0.981
+conf_p10=0.986
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-36914
+%--
+2/4
+subtitle=score
+1 0 - x'. 1 x x q6 6' d5' d6' d5' 3'. s5' s3' q6 2' s5' s3' 2' q6 6' q5' d3' d5' s3' d2' s1' s3' q6 2' q3' s1' s3' s2' q1' q6 2'. s1' s2'
+s1' 6 - 6 - q6 6' q5' s3' s5' s3' s2' q1' q3' q6 2' q3' s1' s2' s3' s2' q1' q6 q0 q3 q2' q3' - 0 q2. s1 s6 s1 q5 6 - 6 - s6 s6
+s6 s6 s5 s6 s6 s6 s2 s3 s3 s3 s1 s2 s3 s3 s6 s1 s1 s1 s6 s5 s3 s5 q6 q0 q6 s5 s3 s2' s3' s2' s1' s6 s1' q5 q6 q0 q6 q0 x s6
+s6 s6 q1' s3' s0 s6 s0 q3'. s2' s3' s2' s1' s6 s3' s3' s3' s2' q1' s2' s3' q2'. s1' 6 6'. s5' s6' s5' 3'. s5' s3' s2' s2' s2' s1' s2' s3' s5' s3' q2' 2'
+q3' s2' s2' s2' s1' s6 s1' s2' s1' q6 6. 0 0 - - 0 q6. s1 q2 s2 s3 q6 s5 s6 s5 q3 q0 s2 s2 s2 s1 s6 s1 s3 s5 q6 6 s5 s3 s2
+s2 s2 s1 s6 s1 q5 6 - - - - - q6. s1 q2 s2 s3 q6 s5 s6 s5 q3 q0 0 0 s2 s2 s2 s1 s6 s1 s3 s5 q6 6 s5 s3 q2. s2 q2
+q1 3 - x s,6 q6' 6' s6' s5' s6' 6' 6' d,2' q3' 3' s3' s1' s2' 2' 2' s,6 s1' s3' s5' q6' q0 5' - 6' - 6' - 6' 0
+%END

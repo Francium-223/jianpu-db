@@ -1,0 +1,18 @@
+%一生钟情.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=20243
+title=一生钟情
+tag=
+usertag=
+tagroute=
+confidence=0.950
+conf_p10=0.849
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-20243
+%--
+2/4
+subtitle=score
+1 1 1 2 x 4 x x 0 3 5' 6. 5' 6 5' 3 2. q1 3 5' 6 3 2 6 6 x 6 q1 7 ,5' 3 q1 7 6 5 2 q2 q2 3 q4
+q4 3 2 6 6 q1 q2 7 7 6 q1 7. - - 3 q1 7 6 2 q2 q3. q3 7 5 7. ,5 6 6. x ,7 q1 q2 q3 - q6 6 6 3 q2 2
+q3 6 ,3 6 q3 2 6 3 3' q3 6 6 6 q3 2 2 q1 3 2 6 6' 5' 2 - 6
+%END

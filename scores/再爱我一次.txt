@@ -1,0 +1,20 @@
+%再爱我一次.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=34297
+title=再爱我一次
+tag=
+usertag=
+tagroute=
+confidence=0.895
+conf_p10=0.531
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-34297
+%--
+2/4
+subtitle=score
+x 3 ,2 ,1 2 3 2 1 1 4 4 4 q3 ,1 1 1 - 1 - 1 1 - x q5 5 q,5 5' 5 5 6 6 7 1' 4 q4 4 4 4 4 4
+5 q2 ~ q2 ~ 2 2 2 - 5 q,,5 q5 5 6 1 x 3 2 2' 1' 1 x 6 ,,7 ,1' 7 1' 2 5 x q0 6 6 3' 3' q4 q,3 q2 ,1' qx'
+q2' 3 6 6 q6 1' 2'. 2 2 2. 2 1 ,7 q,1' 2 - q5. q5 5 q5 ,5 6 7 2 1 1' q1' q6 q1 q6 q3 q2 2 ~ 2 - 2' 2 3' x
+2 7 1 - 2 3' 7 q7 1' 1 q3 4 - 4 3 2 - 0 2' 3' 4' 5 - q4' x' - 0 3 q1' 0 6 q,7 0 - 1 - 1' - - -
+2 2' q3 - q1 q7 7 0 0 2 x - 1 - x' 0
+%END

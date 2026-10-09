@@ -1,0 +1,22 @@
+%你是我的主角.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=27255
+title=你是我的主角
+tag=
+usertag=
+tagroute=
+confidence=0.976
+conf_p10=0.985
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-27255
+%--
+4/4
+subtitle=score
+x s1' s3 s3 s2 s3 s2 s3 s6 5 - s2 s3 s2 s1 s6 s1 s2 s3 q2. s1' s6 q3 q2 s2 s1 s2 s3 s5 s3 2 - s,5 s1 s,6 q1 s1 q1 s2 1
+s,5 s1 s,6 q1 s3 s5 3 - s1 s2 s1 q2 s1 s2 s3 s5 s3 2 - s5 s6 s1 s6 q1 s1 s2 1 - s1 s2 s3 s2 q3 s3 s5 3 - s2 q3 s2
+2 s4 q3 s1 2 s1 s1 s1 s6 q1 s2 s3 2 - s5 s6 s1 s6 q1 s1 s2 1 - s1 s2 s3 s2 q3 s3 s5 3 - s2 q3 s2 2 s4 q3 s3 2
+s3 s2 s2 s1 s,7 q,7 s2 1 - x s6 s5 s5 s3 q5 q5 q5 6. s3 s3 s3 s2 q3 s3 s3 q3 5. s,6 q1. q1 q,6 s2 q3 s2 2 s4 q4 s4 s4 q3
+s3 2 - s5 s5 s5 s3 q5 s5 s6 5 - s3 s3 s3 s2 q3 s3 s5 3 - s,6 q1. q1 q,6 s2 q2 s3 2 s4 q4 s3 q2 s1 s2 1 - s5 s5 s5
+s3 q5 q5 q5 6. s3 s3 s3 s2 q3 s3 s5 3 - s6 q1. q1 s6 s2 q3 s2 2 s4 q4 s3 s2 q1 s2 1 - s4 q4 s3 s2 q1 s2 1 - s4 ~
+q4 s3 s2 q1 s2 1 -
+%END

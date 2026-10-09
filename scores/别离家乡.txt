@@ -1,0 +1,17 @@
+%别离家乡.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=30011
+title=别离家乡
+tag=
+usertag=
+tagroute=
+confidence=0.946
+conf_p10=0.689
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-30011
+%--
+4/4
+subtitle=score
+6 q6 q5 3 q3 q5 6 - q6 q5 q3 q5 6 - - - 2' 1 2 3 2 - 3 q1 q3 ,6 - - - 6 q6 q5 6 6 2'. q5' 3' 1' 2' -
+- - 3' 3' 3 q3 q5 6 6 q2' 1' q3' 6 - - -
+%END

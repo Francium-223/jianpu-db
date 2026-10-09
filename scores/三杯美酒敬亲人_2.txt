@@ -1,0 +1,26 @@
+%三杯美酒敬亲人_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=36911
+title=三杯美酒敬亲人
+tag=
+usertag=
+tagroute=
+confidence=0.958
+conf_p10=0.890
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-36911
+%--
+2/4
+subtitle=score
+1 s,1 ,x' ,x' 1 x' x. 1 - s3 s5 s6 s5 s6 s3 s2 s1 s2 s3 s5 s2 s6 s1 q5. s1 s6 s5 s3 s2 q2 q2 q3 s2 s3 q1'. s6 2' s3 s5 s3
+s2 q1 s1 s6 5 - q2' q2' q3' s2' s3' q6 q6 1' q2' s1' s6 s5 s3 q5 s3' s3 s5 s5 sx' s1' s6 s5 s3 s5 q6'. q3'. s2' s3' s2' s1' q6 q6 6' q3'
+s6' s6 s5 q3' q5 5 q2' q2' s3'. s5' s3' s2' s2 s3 s5. 2 q2 s1 s6 s5 s3 q5 q1 s6 s1 s6 s5 q2 s3 s2 q1 q6 q5. s6 q2 q7 6 x s3 s5
+s6 s1 6 0 - s6 s5 s3 s2 s0 s1 s0 s1 s2 s3 s5 s2 s3 s1 s6 q5. s6 s3 s5 s2 s3 5 q6. s1 q2 s3 s2 s1 s6 5 s6 s5 - - 0
+- - - - - - - - 0 0 - 0 q3. s5 s6 s2 s1 s6 5 - q1 q2 q1 q3 q5 q6. s1 q3 q5 s6 s5 q6 q6. s3 s2 s1 s6 - - 0
+- ,5 - - - - 5. s5 s5 s3 s5 s6 s5 q1. s6 q5 s6 s5 3 s3 s5 s6 s1 q6 s5 s3 s3 s5 2. s2 s3 q5 s6 s5 s3 s2 q1 s2 s3 q1.
+x s2 s7 s2 s7 s6 s5 s3 s5 s6 s1 s2 s3 s5 s2 s1 s3 s2 1 0 s1 s2 s3 s5 s2 s1 s6 s1 q5. s1 s6 s5 s3 s2 - 0 - - - 0
+1 0 x q2 q2 q3 s2 s3 q1. s6 2 s3 s5 s3 s2 q1 s1 s6 5 - q2 q2 q3 s2 s3 q6 q6 1 q2' s1' s6 s5 s3 q5 s3' s5 s5 s6' s6' s1'
+s6 s5 s3 s5 x q6'. q3'. s2' s3' s2' s1' q6'. q1' 6' q1' s6' s1' s6 s5 q3' q5 3' - 0 0 0 0 - 0 - - q2 q2 s3 s5 s3 s2 s1 s2 s3
+s5 2 q2 s1 s6 s5 s3 q5 q1 qx q1 s1 s2 s3 s5 x q2 s3 s2 q1 q6 q5. s6 q2 q7 q6. q2' q1' q2' q3' q5' s2' s1' q2' 2' - s1' s2' s6 s5
+s3 s5 s6 d1' d6 5' - 5 -
+%END

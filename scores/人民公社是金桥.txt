@@ -1,0 +1,19 @@
+%人民公社是金桥.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=28189
+title=人民公社是金桥
+tag=
+usertag=
+tagroute=
+confidence=0.944
+conf_p10=0.869
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-28189
+%--
+2/4
+subtitle=score
+1 0 - 0 x s1' 1' 1' x'. x 6 s6 s1 q2 q5 s2 s3 s2 s1 6 5 s2 s1 6 5 ,5 ,5 x 5 s6 s5 s1' s1' s6 s5 s6 s5 q3 q2 q6
+s1' s1' q3 q2 6. q5 q6 5 q3 q2 q5 q2 2 2 - - q5 s1' s1' q3 q2 s2 s3 s2 s1 1 q1 q6 s1 6 5 ,5 - q6 s1 q6 s1 q2 q2 q5
+5 q3 q2 s2 s1 q6 s1 q6 s1 6 5 q6 s1 ,6 q1 q2 s2 s5 q2 q1 q1 q6 6 5 ,5 - q6 q6 s1 q2 q2 q5 5 q3 q2 s2 s1 q6 s1 q6
+s1 6 5 q6 ,1 ,6 q1 q2 q2 q5 s5 s5 6 s1' s1' s6 s5 5 - 5 0
+%END

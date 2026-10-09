@@ -1,0 +1,23 @@
+%再逢明月照九州.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=32483
+title=再逢明月照九州
+tag=
+usertag=
+tagroute=
+confidence=0.983
+conf_p10=0.949
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-32483
+%--
+4/4
+subtitle=score
+x s3 s1 s5 s1 q1 s3 q,5 s1 s2 s5 s1 s5 s3 s1 s3 s1 s5 s1 q1 s2 s1 q0 s,6 s,7 s1 s,7 s,6 s3 2 q,7 q,5 ,5 q,6 q,3 ~ ,3 0 q0 s,6
+s,7 s1 s,7 s,6 s3 3 q5 q2 ~ q2 q3 ~ 3 - 0 q0 s,6 s,7 s1 s,7 s,6 s3 2 q1 q,7 ,7 q,5 1 q,6 q0 s,3 s,5 ,6 - q,7 q1 q,7 s,5 s,5 ~
+,5 ,6 - 0 q0 s,6 s,7 s1 s,7 s,6 s3 2 q,7 q,5 ,5 q,6 q,3 ~ ,3 0 q0 s,6 s,7 s1 s,7 s,6 s3 3 q5 q2 3 - - 0 q0 s,6 s,7 s1 s,7 s,6
+s3 2 q1 q,7 ,7 q,5 q,7 q1 q,6 q0 s,3 s,5 ,6 - q,7 q1 q,7 s,5 s,5 ~ ,5 ,6 - s,6 s,5 s,3 s,2 ,5 - 0 ,3 ,7 - - ,5 2 - - - 5
+- - - q1 s,6 s1 2 s3 s5 s3 s2 3 q5 s3 s2 q1 s,6 s1 2 - q2 q2 q3 s5 s3 s2 s3 s2 s1 ,6 s1. d2 s3 s5 s2 s1 q,6 ,5 - q5
+s3 s2 q1 d6 s1 s2 s3 s1 s2 3 q5 s3 s2 q1 q3 s2 s3 s2 s1 ,6 q2 q2 q3 s5 s3 s2 s3 s2 s1 ,6 q,6 s,6 s1 q2 s5 s3'. q2'. s3 s2 s1
+s1 s,6 - - - - - - ,5 - - - ,5 - - - 3 - - 2 3 - - - 0 3 - 2 2 - - - 3 - - 2 3 - - -
+0 3 - 2 3 - - -
+%END

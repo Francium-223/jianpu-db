@@ -1,0 +1,23 @@
+%不散的筵席.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=7290
+title=不散的筵席
+tag=
+usertag=
+tagroute=
+confidence=0.983
+conf_p10=0.965
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-7290
+%--
+4/4
+subtitle=score
+q3 q6 q6 q1 q7 q6 q6 q5 6 - - - q3 q6 q6 q1 q7 q6 q5 q6 3 - - - q3 q6 q6 q1 6 q5 q3 q2 q2 q1 q3 2 - q2 q2 q2
+q3 q,5 q,3 q1 q,7 ,6 - - - q,3 q,6 q,6 q1 q,7 q,6 q,6 q,5 ,6 - - - q,6 q2 q2 q,6 q2 q2 q1 q2 3 - - - 6 q5 q7 q6 q6 q5 q3
+q2 q2 q1 q3 2 - q2 s2 s2 q2 q,6 q5 q5 q6 q5 3 - - - q,3 q,6 q,6 q1 q,7 s6 s7 q,6 q,5 ,6 - - - q,6 q2 q2 q,6 q2 q2 q1 q2
+3 - - - q6 q6 q5 q7 q6 q6 q5 q3 q2 q2 q1 q3 2 - q2 q2 q2 q3 q,5 q,3 q1 q,7 ,6 - 0 0 q2 q2 q2 q3 q,5 q,3 q1 q,7 ,6 0
+- - q3 q6 q6 q1' q7 q6 q6 q5 6 - q7 q6 q5 q6 6 0 q3 q6 q1' q1' q7 q6 q5 q6 3 q7 q6 q5 q3 3 0 q3 q6 q6 q7 q6 q6 q5
+q3 q2 q2 q1 q3 2 - q2 q2 q1 q,6 q5 q5 q6 q5 3 - - - q3 q6 q6 q1' q7 q6 q6 q5 6 - q7 q6 q5 q6 ~ 6 - q3 q6 q6 q1'
+q7 q6 q5 q6 3 - q7 q6 q5 q6 3 - q3 q6 q6 q1' 6 q5 q3 q2 q2 q1 q3 2 - q2 q2 q2 q3 q,5 q,3 q1 q,7 ,6 - - - q2 q3 q5
+q3 7. q6 7 5'. 0 6 - 6 0 0 - 6 0 0 0
+%END
