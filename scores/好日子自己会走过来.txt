@@ -1,0 +1,21 @@
+%好日子自己会走过来.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15130
+title=好日子自己会走过来
+tag=
+usertag=
+tagroute=
+confidence=0.969
+conf_p10=0.949
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15130
+%--
+4/4
+subtitle=score
+- - x x x x q5 s5 s5 4 - - - q6 s6 s6 5 - - 5 q1 q2 q3. s2 2 2 - - - 2 - - - s2' s2' s6 s7 q5 q6 2
+- s2' s2' s6 s7 q5 s6' s7 6 - q2'. s3' q6 q1' s2'. d5' s3' s2' s1' s7 q6 s6 s6 s6 s1 s6 s5 s5 s3 5 - s2 s2 s6 s7 q5 q6 2 - s2
+s2 s6 s7 q5 s6 s7 6 - q2'. s3' q6 q1' s2'. d7 s6 s5 s2 q4. s4. d5 s6 s1' q1' q3 2 - s2'. d2' s2' s2' q2' q5' 4'. s3' s2' q5' 1' s7 s6 2'
+- s2' s2' s2' s2' q2' q5' q5' 4' q3' q5' q1' q2' s2' s7 6 - q6 s6 s1 2 s2 s7 s6 s5 s2 q4. s4. d5 s6 s1 q1 q3 2 - s6 s6 s6 s1 s2
+s1 s2 s1 s2 s7 s6 s5 s2 q4. s4. d5 s6 s1' q1' q3 2 - 2' - - s6 s7 s5 s6 2 - - - 2' - - s6 s7 s5 s7 6 - - - q6
+q1' s6 s5 s5 s3 5 - s4. d5 s6 s1' s2' s7 q5 5 - s6 s7 q6 6 - - 6 - - -
+%END

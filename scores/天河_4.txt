@@ -1,0 +1,21 @@
+%天河_4.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=8572
+title=天河
+tag=
+usertag=
+tagroute=
+confidence=0.933
+conf_p10=0.693
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-8572
+%--
+4/4
+subtitle=score
+1 - - q1 qx - - 6 x' x' x' 6. s1 3 q5 3 q2 s3 s5 6 - - q5 s6 s5 3 6 q3 2 q2 q3 1 q1' s6 s5 6 - - - 6.
+q6 6 s2 s3 3. s2 s1 q2 2 s2 s3 q1 ,6 6 q2. s2 q1 6 1 q2 q5 3 - - q3 q5 - - 1 x x x' qx q2 ,2 5' q3' 3' 3' -
+x x q6. s6 q5 q3 s2 q3 2 q1 s2 q3. s3 2 ,1 q6 q5 ,6. q2. s2 q2 q3 q2 q1 5 q6 s1 ,6 - - - 6. q5 5. q5 q6 s6 s1 q6 s5
+q3 3 - q6 6 s6 s1 q6 q5 q2 s3 s5 3 - - - q3. s3 q3 5 6 q5 q3 q5 q3 q3 s2 s1 2 - q1. s2 q3 q5 q6 s5 s3 5 s6' 6
+- - x 6 - 5 - q6. s1' q6 q5 3 - 6 - 5 - 3 - - - q1. s2 q3 q5 q6 s5 s3 q5 s1' s1' 6 - - - 2. q2 2 3 q5
+q6 2' 3' - s3' s2' s6 5 1 - - - 6 - - - - - -
+%END

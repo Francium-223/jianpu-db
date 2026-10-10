@@ -1,0 +1,18 @@
+%天造地设是一双.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14329
+title=天造地设是一双
+tag=
+usertag=
+tagroute=
+confidence=0.910
+conf_p10=0.674
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14329
+%--
+4/4
+subtitle=score
+1 - - - x x x x x 0 x x 1 q2 q3 1 q2 q3 q,6 q,6 q,6 q,5 ,3 - ,6 q,6 q1 2 q3 q5 3 - - - 1 q2 q3 1 q2 q3
+,6 q,6 q,5 ,3 - 2 q3 q5 q1 q,6 ,5 ,6 - - - q3 q3 q3 q5 q1 q,6 ,6 q3 q3 q3 q5 q1 q,6 ,6 q2 q2 q3 q5 q,5 s,6 s,5 q,3 q,5 ,6 -
+- - x x qx x x qx x x x. x. x.
+%END

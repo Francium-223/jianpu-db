@@ -1,0 +1,19 @@
+%好人好梦_6.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=37525
+title=好人好梦
+tag=
+usertag=
+tagroute=
+confidence=0.952
+conf_p10=0.944
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-37525
+%--
+6/8
+subtitle=score
+q3 q6 q1' q7 q6. s5 6. 6. q1' q7 q6 q5 q5 q2 3. 3. q3 q6' q1' q3' q2' q1' 2' q6 2'. q1 q1 q1 q2 q0 q3 7. 7. q1 q1 q1 q2 q1. s2 3.
+3. q6 q6 q6 q6 q3 q5 q4'. s4' q5' q4' 4' q2' q2' q2' 5' s5' s6' 3'. 3'. q3 q6 q1' q3' q2' q1' 2' q6 2'. q1' q1' q1' q3' q2'. s1' 5'. 5' s3' s5' q6'
+q6' q6' q6' q3' q5' q4'. s4' q5' q4' 4' q2' q2' q2' 5' s5' s6' 7. 3. q3 q6 q1 q3 q2 q1 2 q6 2. q1 q1 q1 q7 q6. s5 6. 6. q1 q7 q6. s5 6.
+6. 6. 0
+%END

@@ -1,0 +1,23 @@
+%天涯_10.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=40938
+title=天涯
+tag=
+usertag=
+tagroute=
+confidence=0.803
+conf_p10=0.451
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-40938
+%--
+4/4
+subtitle=score
+1 6. 1 q3' q4' q2' 1' q7 q6 5 2' q1 q2' 2 2' 1 q7 q1 q6 qx 5 6 q1 1. qx 6 ,1 - 1' x 2 0 q1' 1 q1 1 2. 6' 2 7'
+1 q3 1 3 1 0 1 3 4 4 2 2 1 2 2 2. 2 4 4 q1' 3 3 5' 3. 2 ,2 5' 2 s1' ~ s1 ~ s1 ~ s1' ~ s,1 q3 q0 3
+q0 0 0 1 q6 q6 q6. q6' q7 q7' q7' q,1 q7 q,1 q7 q7 s1 1 2 3 2 2 1 1 1 1' 2 1 q1 s5 s3 s3 3 0 0 0 q6. q6 q5 4
+4 3 3 4. 4 q5 q5 1 q5 q5 3 3 3 q,3 q0 6 q6 q6 7 ,1 q2 q2' q2 ,1 2' 2 q0 0 0 6 6 6. ,1 1. 1 q1' q6 6' 6. ,6
+0 0 q6 ,1 x q1' q1. q7 q1. 0 6 q6 5 1 ,,6 x 6 q5. q5 q2 q2 2. ,2 3 3 1 3 - 0 0 2 3 3' 3 ,1' s0 d,6 7' 0 d0
+7 0 0 0 d0 d6 s2 2 s2 3 5' 5' q2 3 2 - 5 6' 6. 2 6 2' 2 5 3 5' q,1 3 1 3 x x 3' 3 q3 5 5 q2 3 0
+2 0 q0 2 2 2' 1 q1 1 1 1 7 6 s1 3 3 1' q1 q6 7 q3 q1 q2 2 3 4 6. 6 3 d0 q5' q0 q0 4 q5 6 x 4 6' 5'
+s4' s4 x 5. 4 ,,4'. 5 4 4 0 4 2 s0 4 4 2' 2 6' 2' 2 2 ,,x 3 7' q3' 0 0 0 0 6 7 6 - - -
+%END

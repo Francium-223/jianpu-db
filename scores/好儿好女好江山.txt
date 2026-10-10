@@ -1,0 +1,21 @@
+%好儿好女好江山.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=18583
+title=好儿好女好江山
+tag=
+usertag=
+tagroute=
+confidence=0.875
+conf_p10=0.606
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-18583
+%--
+4/4
+subtitle=score
+q3 q2 q1 q2 q6 5 - - q2 q3 6. 3 q1. 6 2 - - - 3' q2 q3 - s6. 5 q5 s3 s3. q2. q3 - q3 q2. d2 q1. q2'. s0 s0 s2 s6'. 5
+q3 - 5 s3. q6. s0 d6 s7 q6 s6 d6 s5 6' - s3 q5 s3 d3 d3 s2 s3 s2 q0 s6 5' - - - q3' s2 s3 s6 s5 - q3 d3 s2. q3' - s3
+s2 s2 q1. q2'. s0 d2 q6' s3 - q3 q6. s0 q3' 2' 6' - s3 q5 s5 d3 d3 s2 s3 q2 q0 d2 s3 1 - - - s5 s6 d6 q6 s5 s6 6. s0 s6
+s5 d4 s3 3 - s6'. d6 s6 d6 s6 q6 - q7' s7 d7 s6 - q6 s6 s6 - d6 6 - q5 s5 d4 d3 3 - q6 d6 q5. q6' s6 s6 1' - - -
+2 - q1 q2 ,6' 6 5 5'. q6' q3 s7 s6 5 - 5 q6 q2' s3 s2. q6 q,x q5' q2' q2 d6. 2' q3 - - q0 s0 s3 q5 q5 q5 q6' q6 5' ,1 1
+3' 2'. s5 q3' 1. 2'. 2 6 ,2' 2' sx. 3' s6 1. 6 - - - 0 1 q5' q1 q6 qx s3
+%END

@@ -1,0 +1,19 @@
+%天涯《笑傲江湖》片尾曲.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=13045
+title=天涯《笑傲江湖》片尾曲
+tag=
+usertag=
+tagroute=
+confidence=0.924
+conf_p10=0.695
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-13045
+%--
+2/4
+subtitle=score
+- - 4 q2 x. x' x x. x. 3 x x x x 1' x 1 x - - 7 2 x x'. x x ,6. 2 3. s3 4 5. 4 4 q3 2 ,7 q,1 q7 ,6.
+1 q2 3. ,1 q7 ,6. 7 6 ,5 - ,6 - ,1 ,6 ,1 q2 ,6 - 5 - ,6 3 q2 2 3 ,1 q,1 q2 ,1 7 ,6 q,3 q,4 q5 ,1 7 q6 ,5 ,6 q,1
+2 q3 ,1 3 2 3 5 6 3 3 3 2 ,1 ,6 6 2 7 6 ,5 ,6 ,1 6' ,6 2 2 3 2 ,1' ,1 2 3 2 3 5 3 3 2 2 3 2
+,1 ,1 2 3 2 3 ,6 3 3 2 2 ,1' ,1 2 3 2' 2 ,7 q7 q2 q2 qx q,6 q,6 q,1 6' q,6 x q6 - 6 - 6 0
+%END

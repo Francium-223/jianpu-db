@@ -1,0 +1,23 @@
+%好想把你留在梦里.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=19144
+title=好想把你留在梦里
+tag=
+usertag=
+tagroute=
+confidence=0.948
+conf_p10=0.845
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-19144
+%--
+4/4
+subtitle=score
+1 - - x ,x' 1 x' 1 x x x s,x x 5 x - 1' 1. 1' x q2 q3 5. q6 5. q3 q2. s3 q2 q1 ,6 - s2 s1 s,6 s1 q2 q1 q2 q3
+q5 q2 3 - - s5 s,6 s2 s3 5. q6 5. q2' q1'. s6 q6 q5 3 - q2. s1 q2 q1 q3 q2 q2 q,5 ,6 - - - q3 6 q3 q3 s2 s3 q1 q,6 q,6
+,6 q3 q1. d2 d1 ,6 q3 s3 s2 q1 q,5 s,6 s,6 q3. s2 q1 q,6 q2 q3 q5 q2 3 - - - q2 q2 q2 q3 q5 s3' s5 3 q1 s2' s3' q2' q1 s,3 s,3
+q3. s3 q2 q1 q3 q2 q1 q,5 ,6 - - 0 q5 s5 d6 d5 q3 q5 6. s3 s5 q5 s5 d6 d5 q3 q5 6. q3 q6. s1' q6 s5 s5 q2 q3 q5 q6' 3 -
+- 0 q2 q2 q2 q3 q5 s3 s5 3 q1 s2 s3 q2 q1 ,6. s3 s3 q3. s2 q1 q3 q2 q1 q1 q,5 ,6 - - 0 q3. s2 q1 q3 q2 q3 q5 q6 6 -
+- - - 5. q3 q5 s5 s6 5 1. s1 s2 q1 q,6 1 s5 s,6 s1 s,6 s1 s2 s3 s5 q6 q5 q3 s2 s2 3 - - q0 s2 s3 5. q6 5. s3 s2 1.
+q,6 1 - q5. s5 q6 q5 q1' 6 q5 6 - - - q3 6 q3 q3 s2 s3 q1 q,7 x ,6' - - q6' s,3 s,3 q3. s2 q1 q3 q2 q3 q5 q6 6 - -
+- s3 s2 s1 s2 s3 s2 s1 s3 q5 q6 6 x
+%END

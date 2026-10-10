@@ -1,0 +1,22 @@
+%天雁.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=13832
+title=天雁
+tag=
+usertag=
+tagroute=
+confidence=0.969
+conf_p10=0.933
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-13832
+%--
+3/4
+subtitle=score
+q1 qx 3 4 x x x x q3 q5 6 - - q6. s7 q5 q3 q2 q3 0 6 - - 6 - q3 q6 5 - - 5 q6 q7 q5 q3 q2 q3 3 - 3
+- q3 q5 6 3' 1' 2' 3' 7 6 - - 6 - - q3 q5 6 q6 q6 q5 q3 q5 0 6. q5 q6 6 q7 q7 6 5 q6 ~ 6 q1 q2 q5 3 -
+q2 q3 5 3 q2 q3 3 - q2 q3 3 q2 1 q0 7. q6 q5 q6 ~ q6 3. ~ 3 0 3 - q6 q1' 2' q2' q2' q6 6. q5 q6 1' q1' q6 q5 q6
+3. q6 q3 2 q2 q2 q3 q5 3 q6 q2 q3 2 q3 q5 q6 q6 7 - q6 q7 5 - q6 q7 6 - - 6 - - 3 - q6 q3 2 - - 2 -
+q1 q3 3 - - q2 q3 5 3 q2 q3 5 3 q5 q6 6 q5 q6 6 3' - q6 q3' 2' - - 2' - q1' q3 3 - - q2 q3 5 3 q5 q6 6
+3' - 2' 3' - q2' q7 6 - - 6 q6. 0 0 2'. q1' q2' q3' 6 - - 5. q6 q5 q2 3 - q6 q1' q2' q1' q2' q1' q2' q3' 6 - q7 q5 6
+- - 6 - - x. q6 - - 6 - - 3' 2' 7 6 - - 6 - - 6 - - 6 - - 6 - 2
+%END

@@ -1,0 +1,21 @@
+%奉献是你最大的满足_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=26757
+title=奉献是你最大的满足
+tag=
+usertag=
+tagroute=
+confidence=0.975
+conf_p10=0.979
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-26757
+%--
+4/4
+subtitle=score
+1 x x 0 x x x x q2 q3 ,5 - 1 q,7 q1 ,6 - q,5 q,6 q1 q3 2 q2 q1 2 - - - 3' q2' q3' 5 - 1 q7 q1 6 - 6 q6
+q3 2 6 5 - - 2 1 - - - 1 - - - q3 q4 q5 q6 5 - q3 q3 q2 q3 1 - q,5 q,6 q1 s1 s2 q2 q2 q2 q1 2 - - -
+q3 q4 q5 q6 5 - q3 q1 q1 q5 6 - q6 q6 q6 q5 q4 q4 q3 q2 q3 q5 5 - - q3 q4 q5 q6 5 - q3 q3 q2 q3 1 - q,5 q,6 q1
+s1 s2 q2 q2 q2 q1 2 - - - q3 q4 q5 q6 5 - q3 q1' q1' q7 6 - q6 q6 q6 q5 q6 q1' q1' q6 2' - - - q3' q3' q2' q3' 5 -
+q1' q1' q7 q1' 6 - q5 q6 q1' s2' s3' q2' q2' q2' q1' q1' q2' 2' - - q3 q3 q2 q3 5 - q1 q1 q7 q1 6 - q5 q6 q1 s2 s3 q2 q2 q6
+q1 q6 q1 1 - - q5 q6 q1 s2 s3 q2 q2 q1 q6 q6 q1 1 - - 1 - - 0
+%END

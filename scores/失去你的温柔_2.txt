@@ -1,0 +1,22 @@
+%失去你的温柔_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=22296
+title=失去你的温柔
+tag=
+usertag=
+tagroute=
+confidence=0.983
+conf_p10=0.962
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-22296
+%--
+4/4
+subtitle=score
+- - - s1 s1 s1 s1 s1 s1 s,7 s,7 s,7 q1 s,7 ~ ,7 s,6 q,6 s,6 q,6 s,5 s,6 ~ s,6 q,5. ~ ,5 s1 s1 s1 s1 q1 q,7 s1 q2 s2 q0 s,5 s,5 s,5
+s,5 s,5 s,3 s,5 q,7 s,6 ,6 - s1 s1 s1 s1 q1 q,7 s,7 q1 s,7 s0 s,5 s,5 s,5 s,6 s,6 s,6 s,6 q,6 s,6 s,6 ~ s,6 q,5. ~ ,5 s1 s1 s1 s1 q1 s,7 s,7
+s,7 s,7 s1 s2 2 - s,5 s,5 s,5 s,3 s,5 q,7 s,6 ,6 - 0 s0 s3 s3 s5 6 s6 s6 s6 s5 s6 s5 s3 s6 6 q1' s1' s7 s7 q5 s5 s5 s3 s2 s3
+~ 3 q0 s2 s1 s2 q2 s2 q2 q1 s2 s1 s,6 s2 q0 s,6 s,7 s1 q1 s1 q1 q2 s3 s2 q3 s0 s3 s3 s5 s6 s6 s6 s5 s6 s5 s3 s6 6 q0 s1
+s7 s7 s5 s5 s5 s5 s3 s2 s3 3 q0 s2 s1 s2 q2. q2 q1 s2 s1 s6 s2 q0 s6 s7 s1 q1 s1 ~ s1 q3 s2 ~ q2 s,7 s,7 q1 s,7 s1 ~ s1
+q,6. ~ ,6 - 0 - s1'. q3'. s2'. s2'. s5'. s3' s3'. s2'. s5' 3' - s2'. d3'. d2'. q3' - 0 0 - - - 0 - - 0 0 - 0 - - - 0 0 s1
+q,6. ,6 - s0 s3 s3 s5 s1 q,6. ,6 - q0 s,6 s,7 s1 q1 s1 s1 q3 s2 q2 s,7 s,7 q1 s,7 s1 s1 q,6. ,6 - 0
+%END

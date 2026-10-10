@@ -1,0 +1,23 @@
+%女人如水.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=1717
+title=女人如水
+tag=
+usertag=
+tagroute=
+confidence=0.974
+conf_p10=0.947
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-1717
+%--
+4/4
+subtitle=score
+1 - - - x. 1 x x x 1. x q2 q3 q5 q3 q2 q1 q,6 q1 q2 q3 q5 q3 q2 q1 q,6 q1 q2 q3 q5 q3 q2 q1 q,6 q1 q2 q3 q5 q3 q2
+q1 q,6 q1 q2 q3 q5 q3 q2 q1 q,6 q1 q2 q3 q5 q3 q2 q1 q,6 q1 q2 q3 q5 q3 q2 q1 q,6 q1 q2 q1 q2 q3 q2 q1 q,6 q,5 ,6 3 3 6 5
+q3 q2 3 - 2 q2 q3 2 - 1 q,6 q,5 ,6 - ,6 3 3 6 5 q3 q2 3 - 5 q2 q3 2 - 1 q,6 q,5 ,6 - ,6 3 3 6 5 q3 q2
+3 - 2 q2 q3 2 - 1 s6 s5 ,6 - ,6 3 3 6 5 q3 q2 3 - 5 q5 q6 5 - 6 q6 q5 6 - q6 q3 q6 q1' 7 6 q5 q6 q5
+q2 3 - q2 q2 q2 q3 4 2 q3 q4 q3 q2 3 - q6 q3 q6 q1' 7 6 q5 q6 q5 q2 3 - q2 q2 q2 q3 4 2 q3 q4 q3 q4 3 q7 q1
+,6 - - 0 q2 q3 q5 q3 q2 q1 q,6 q1 q2 q3 q5 q3 q2 q1 q,6 q1 q2 q3 q5 q3 q2 q1 q,6 q1 q3 q4 q3 q4 3 q,7 q1 q3 q4 q3 q4 3
+q,7 q1 ,6 - - 0 q2 q3 q5 q3 q2 q1 q,6 q1 q2 q3 q5 q3 q2 q1 q,6 q1 q2 q3 q5 q3 q2 q1 q,6 q1 q2 q3 q5 q3 q2 q1 q,6 q1 q2 q3
+q5 q3 q2 q1 q,6 q1 q2 q3 q5 q3 q2 q1 q,6 q1 q2 q3 q5 q3 q2 q1 q,6 q1 ~ 1 - - - x
+%END

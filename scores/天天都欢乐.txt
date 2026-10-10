@@ -1,0 +1,18 @@
+%天天都欢乐.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48522
+title=天天都欢乐
+tag=
+usertag=
+tagroute=
+confidence=0.924
+conf_p10=0.603
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48522
+%--
+2/4
+subtitle=score
+1 1 1 q1 2 3 2 1 - 2 2 2 2 q3 4 3 2 - 0 0 0 q1 q7 ,6 ,7 1 - 0 0 0 2 q1 ,7 1 2 - 3 3 3 3
+4 5 4 3 - 4 4 4 q4 q5 6 5 4 - 0 0 0 q3 2 1 2 3 0 0 0 4 3 2 3 4 - 5 5 5 5 6 7 6 5 -
+7 q6 5 4 3 5 4 3 2 1 - ,1' 0 - 0 0 0 q5 q4 3 4 5 - 3 4 3 2 q5 q1 q7 q2 1 - x. 1 2 7 1 -
+%END

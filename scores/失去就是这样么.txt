@@ -1,0 +1,24 @@
+%失去就是这样么.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49320
+title=失去就是这样么
+tag=
+usertag=
+tagroute=
+confidence=0.980
+conf_p10=0.965
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49320
+%--
+4/4
+subtitle=score
+x ,,6 ,1 ,3 ,6 1 q,1 ,3 q,6 ,7 q,7 q,3 q,6. ,7 - q,4 q,1 q,3 q,6 1 q,3 q,6 q1 q,7 ,2 ,3 ,6 3 q2 ,7 5 q1 ,1 q,3 q,6 q1 ,3 q,6 q1 q,7
+q,,7 q,2 q,3 7 - q,6 q,1 q,3 q,6 q1 q,3 q,6 q1 q,7 q,7 q,2 q,5 3 - x q0 q3 q3 q3 q3 q2 q1 q3' 3' 2 0 0 0 q0 q0 q2 q2 q2 q2 q1
+q,7. q1' q1' q,6 0 0 0 q0 q3 q3 q3 q3 q5 q5 q3 q5 q4 0 0 q4 q3 2. q1 ,7 3 ,6 0 0 0 q0 q3 q3 q3 q3. q6 q6 q5 q5 q4 0
+0 0 q0 q0 q2 q2 q2 q2 q5 q5 q4 q4 q3 0 0 0 0 q3 3 3 q3 q2 q2 q3 4. q3 2 0 0 q2 q1 ,7. q3' q,6 0 0 0 0 0 q0
+q3 q6 q7 1'. q7 q6 q7 q1' q3' 7. q6 q5 q6 q7 q1' 6. q5. 6 5 3 - 0 q6 q7 1'. q7 q6 q7 q1' q3' 7. q6 q5 q6 q7 q1' 6. q5 6 7
+- - q6 q7 1'. q7 q6 q7 q1' q3' 7. q6 q5 q6 q7 q1' 6. q5. 6 5 3 - 0 q2 q3 q4 3 4 q3 4 6 2' 7 1'. q1' 7. q3 - 7 6
+6 - - 0 0 0 ,x 0 q3 q3 q2 q1 ,7 1 ,7 ,5 ,6 ,2 ,3 2' s3 s3 s5 - - - 6'. 7 q6 q7 6 q5 - - - - - q0 s5 s3
+s1' s1' 3' - - - 3'. s2' s1' q7 q1' 7 q5 - - - 6' - - - x. 7 q6 6 - - 0 0 0 q2 q3 4 q3 q4 q3 4 6 2' 7 1'.
+q1' 7. q3 1'. q7 6 - - - 0 0 0 0
+%END

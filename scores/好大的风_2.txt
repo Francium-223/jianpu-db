@@ -1,0 +1,22 @@
+%好大的风_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=35524
+title=好大的风
+tag=
+usertag=
+tagroute=
+confidence=0.915
+conf_p10=0.606
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-35524
+%--
+4/4
+subtitle=score
+q1' q1 qx q1 sx 0 q0 4 x. x x qx' x x 1 1'. x q6 q3 q7 q6' q7 q6 5 - - - q6 q3 q7 q6 q7 q6 5 - - - x q3 q2
+3 q0 q3 q2 q1 2 q3. 2. q0 s1 d7 1. s1 s1 q2 q1 q2. q3 3 - - q0 q3 q6. x' 6. q6 q5 q3 q2 q1 q1 ~ 1 q0 q1 q1 q,6 s2 s3.
+2. q1. s1 q2 q3 3 - - - s3 s2 3. q0 q3 q2 q1 q2 q2. q3. 2. q0 s1 s7 1. s1 s1 q2 q1 q2. q3 3 - - q0 s3 s3 q6. 5' x' 6.
+q6 q5 q3 q2 1 - q0 q1 q1 q,6 s2 s3 2. 2 q1 q2 q1 q,6 ,6' - - q0 q3 q5. s3 x' - q0 q6 q5. s3. 3 - 3 q0 s3 s2 1 q0 q1
+q2 q2 q1 2 q3 ~ 3 q0 q3 q5. s3. - q0 q6 q5. s3 3 - 3 q0 s3 s2 1 s0 s3 s2 s1 q2 q,7 d5 q,7. ,6 q0 q3 q5. s3 x' - q0 q6
+q5. s3. 3 - 3 q0 s3 s2 1 q0 q1 q2 q2 q1 2 q3 ~ 3 q0 q3 q5. s3 x' - q0 q6 q5. s3. - 3 q0 s3 s2 1 s0 s3 s2 s1 q2 q,7
+d5 q,7. ,6' -
+%END

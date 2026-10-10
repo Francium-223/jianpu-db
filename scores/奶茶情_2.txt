@@ -1,0 +1,22 @@
+%奶茶情_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=30418
+title=奶茶情
+tag=
+usertag=
+tagroute=
+confidence=0.974
+conf_p10=0.952
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-30418
+%--
+4/4
+subtitle=score
+q3 q5 q6 6 q1 q5. s3 s6 s1 q5 3 - - s6 q3 2 s3 s5 q5 ,3 ,6 - - - q,3 ,6 q3 q2 s3 s2 q1 q,6 s1 s2 s2 s3 q,5 q,3'. ,6 -
+q,3 ,6 q3 q2 s3 s2 q1 q,6 s1 s2 s2 s3 q5 s5 s6 3 - q3 ,6 q3 q3 s2 s3 3 q5 s5 s6 6 s5 s6 q3 s3 s,6 q1 s3 s2 2 - q3 s2
+s3 q,5 s,5 s,3 q2 3 s1 s2 s2 s3 q,5 s,3 s,5'. ,6 q3 s1' ~ s1' q6 6 s6 s1' q5 5 s3 s5 6 - - q3 s1' ~ s1' q6 6 s6 s1' q5 6 s5
+s6 s5 3 - q3 6 s1' ~ s1' q6 6 q3 q2 s3 s2 q1 q3 s2 s3 2 q3 s2 s3 q,5 s5 s3 q2'. 3. s1 q2 s3 q,5 q,3 q,5 q,3 q,5 s5 s3 x 0
+5 s6 s1 q6 ~ ,6 - - s6 s1 q6 ~ ,6 - q3 s3 s1' q6 6 s6 s1' q5 5 s3 s5 6 - - q3 s3 s1' q6 6 s6 s1' q5 6 s5 s6 s5
+3 - q3 6 s1' ~ s1' q6 6 q3 q2 s3 s2 q1 q3 s2 s3 2 q3 s2 s3 q,5 q,3 q2'. 3. s1 q2 s3 q,5 s,5 s,3 s,6 s1 q,6 ~ ,6 - - q3 s2
+s3 q,5 q,3 q2'. 3. s1 q2 s3 q,5 s,5 s,3 s,6 s1 ,6. q6 - q5 5 q3 5 6'. 6 - 6 - - - 6 0 0 0 1. x
+%END

@@ -1,0 +1,23 @@
+%天边飞来一片鸽群.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=5712
+title=天边飞来一片鸽群
+tag=
+usertag=
+tagroute=
+confidence=0.990
+conf_p10=0.991
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-5712
+%--
+4/4
+subtitle=score
+5 x s,5 q2 2 - q2 s,5 s3 s2 s3 s2 ~ 2 - - q1 q5 5 - q5 q1 s6 s5 s6 s5 ~ 5 - - 2 6 - - 6 - 7 - q1 5
+q5 s6 s5 s6 s5 5 q5 s1 s1 s1 d6 d1 s6 s5 5 - s5 s6 1 q2 s6 s5 s6 s5 3 q5. s5 s5 d2 d3 s2 s1 2 - s2 s3 5 q5 s6 s5
+s6 s5 1 q5 s1' s1' s2' s1' s2' s1' q1' 2'. s2' s3' s2' s1' q5. s5 s2' s1' s1' s5 3 q5 s5 s5 s5 d2 d3 s2 s1 1 - q5 q1' s2' s1' s2' s1' q2'
+3' s2' s1' q5 q1' s2' s1' s2' s1' 6 - q6 s6' s2' s2' s1' s2' s1' q1' 2' s1' s6 q5 q1 s1 d6 d1 s6 s5 5 - q5 1 q2 s2 s1 s2 s1 q6. s6
+q5 s1 s1 s1 d6 d1 s6 s5 s5 s2 s2 s1 2 s2 s3 5 s1 s1 s6 s5 s6 s5 3 q5. s5 s5 d2 d3 s2 s1 1 - q5 q1 s2 s1 s2 s1 q2 3.
+3. s2 s1 q5 q1 s2 s1 s2 s1 6 - - - q0 q2' q1' s6 s5 s6 s5 3 q0 q1' q6 q5 s5 d2 d3 s2 s1 2 q0 q3 q5 q1' s6 s5 s6 s5 3
+q5. s5 s5 d2 d3 s2 s1 1 - q5. s5 s5 d2 d3 s2 s1 1 - q5. s5 s5 d2 d3 s2 s1 1 q5 s2 s1 q2 q3 3 - q3 q5 s3 s2 s3 s2 q1
+q2 2 - q2 q5 q1 q2 q1 q2 1 1 - - - 1 - - -
+%END

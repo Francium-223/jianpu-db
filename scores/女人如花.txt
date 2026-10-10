@@ -1,0 +1,22 @@
+%女人如花.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=25534
+title=女人如花
+tag=
+usertag=
+tagroute=
+confidence=0.993
+conf_p10=0.977
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-25534
+%--
+4/4
+subtitle=score
+q3 q5 6 3' 2'. q3 5 2' 1'. q5 q4 q3 q4 q5 q6 q5 q6 q1' 2' - - q5 q6 1' - - s,5 s,6 s1 s,6 3 q2 ,6 s,5 s,6 s1 s2 1 - -
+s,5 s,6 s1 s,6 3 q2 q,6 1 q2 s2 s1 2 - - s5 s3 s3 s2 3 s2 s3 s2 s,6 ,6 s1 q1 s2 q3 q,5 ~ ,5 - s,5 s,6 s1 s,6 3 q2 ,6 s,5
+s,6 s1 s2 1 - - q3 q5 6. q5 6 q3 s5 s6 5. q3 5 q,5 q,6 1. q,6 q1 q1 q5 s5 s6 3 - - q3 q5 6. q5 6 q3 s5 s6 5 q3 5
+q2 q3 5 q3 q2 q3 q1 q,6 ,5 - - q,5 q,6 q1 2 q1 1 - 6 3 2 q3 5 2' 1' q5' q4' q3' q4' q5' q6 q5 q6 q1' 2' - - s,5 s,6 s1
+s,6 ,5 - - s,5 s,6 s1 s2 1 - - q3 q5 6. q5 6 q3 s5 s6 5. q3 5 q,5 q,6 1. q,6 q1 q1 q5 s5 s6 3 - - q3 q5 6. q5 6 q3
+s5 s6 5 q3 5 q2 q3 5 q3 q2 q3 q1 q,6 ,5 - - s,5 s,6 s1 s2 1 - - q,5 q,6 3 - - q,5 q,6 1 - - - 1 - - - 1 0
+0 0
+%END

@@ -1,0 +1,21 @@
+%好想.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=20028
+title=好想
+tag=
+usertag=
+tagroute=
+confidence=0.935
+conf_p10=0.736
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-20028
+%--
+4/4
+subtitle=score
+,1 0 qx q1 x' x x x x x x x 1' q0 s5 s4 q,3 q,5 s1 q1 s3 q3 q4 q0 s2 s1 s2 q2 s5 q,5 s2 s2 q4 q3 0 q0 s1 s1 q1 s1
+s1 0 q0 s3 s2 2 - 0 q0 s5 s4 q,3 q,5 s1 q1 s3 q3 q4 0 s2 s1 s2 q2. q,5 s2 s2 q4 q3 0 q0 s1 s2 q3 s4 s3 0 s2 q6 s5 5
+- - 0 q3. s3 q3 s3 s5 ~ s5 q6. 0 q2. q2 ~ q2 q4 q3 3 - q0 q1 q1 q1 q1 q0 q6 q3 q2 q1 q1 q2 2. q3 2 q0 q3 q2 q1. q1
+~ q1 s6 s5 ,5 q0 q3 q2 q1. q1 q1 q6 q5 5 q0 q1 q2 q3 q1 q1 q1 q1 q6 q5 q1 q1 ~ q1 q1 q3 1. x q0 7 ,7 5 - q4 s1 s1
+q0 s5 q3 q2 s1 q2 s1 1 - - 0 q0 q1' s1' q7 s7 5 - x q,4 q,4' s1 s1 1 0 0 0 q0 s5 q3 q2 s1 q2 s1 1 - - 0 1' 1
+x x. q2. qx x
+%END

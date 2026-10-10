@@ -1,0 +1,21 @@
+%好年头好兆头.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=32011
+title=好年头好兆头
+tag=
+usertag=
+tagroute=
+confidence=0.957
+conf_p10=0.903
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-32011
+%--
+4/4
+subtitle=score
+q1' q1' q1' q6 q5 q3 q3 q5 1 q1' q1' q1' q6 q5 q3 q5 q6 q3 5 qx qx qx qx qx qx qx qx qx qx qx 0 0 0 q3 q3 q2 q1 q3 q3 2
+q3 q6 q5 q6 q1 q1 q6 q6 q5 q5 q3. q3 q2. q2 1. 1 0 q6 s6 s5 s6 s5 s6 s5 s6 s5 s6 s1' 4 q6 s6 s5 s6 s5 s6 s5 s3 s5 s6 s3
+5 q3' s3' s2' q1' q3' q2' s2' s1' q6. s1' q1' s1' s1' q6 s6 s5 s3 s2 s3 s5 1 q6 q1' q1' q3'. q3' 2' q3' q1' q1' q3. s5 1 q6 q1' q1' q2' 7. q6
+s3 s5 s6 s3 5 q6 s6 s1' q6 s6 s1' q3' s3' s2' 1' q6 s6 s1' q6 s6 s1' q3' s3' s2' 1' q1' q3'. q3' q2' 1' q6. s3' q2' s1' s2'. q3' q6 5 - q1'
+q1' q1' s6 s1' q1' s6 s5 s3 s2 s3 s5 1 0 0 0 q1' q1' s1' s1' s6 s5 s3' s2' s3' s5' 1' q1' q1' s1' s1' s6 s5 s3 s5 s6 s3 5 q6 s6 s6
+q1' q3' q3' 2' q3' q1' q1' s1' q3'. q1' q1' q6 s6 s5 s3 s2 s3 s5 1 q6 q6 q1' q3' 2' q3' q2' 1' - - 0
+%END

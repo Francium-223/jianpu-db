@@ -1,0 +1,20 @@
+%套马杆_7.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=28256
+title=套马杆
+tag=
+usertag=
+tagroute=
+confidence=0.909
+conf_p10=0.652
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-28256
+%--
+2/4
+subtitle=score
+,1' ,1' x' x'. 1 q6 q6 q6 q1 q2 q3 q5 q3 q2 q2 q5 q7 ,6 q1 q1 q6 q5 q2 q3 q5 q6 q5 q3 q2 3 q3 q6 q6 q6 q5 q3 q3 q3 q5 q2
+q5 q6 q5 3. q6 q6 0 q2 q2 q3 2 q2 q2 q3 q5 q6 6 6 6 1 2 3 5 3 2 2 5 7 6 1 1 6 5 2 3 5 6 5 3 2
+3 ,x q3 q6 q6 qx' s6 s5 q3 q3 q5 q2 q5 s6 s5 ,,3. s,6 s,6 q1 q1 q2 q3 q2 - q2 q3 q,5 q,6 ,6 - q6 q6 qx' q1' s6 s5 q3 q3 q5 s2
+q5 s6 s5 ,,3' - s2 q2 q2 q3 5 2 q2 q2 q6 q5 3 - q6 q6 q6 0 q1' s6 s5 3 q5 q2 q5 s6 s5 ,,3'. s6 s,6 q1 s1 s1 q2 s2 s3 q2
+q2 ,5 q,7 ,6 - ,6 0
+%END

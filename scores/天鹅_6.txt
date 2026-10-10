@@ -1,0 +1,20 @@
+%天鹅_6.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=46631
+title=天鹅
+tag=
+usertag=
+tagroute=
+confidence=0.984
+conf_p10=0.991
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-46631
+%--
+4/4
+subtitle=score
+0 0 0 0 0 0 0 0 0 x 3 - 2' 3' q4' s5' s4' ~ s4' s3' q3' 3' 1' 2' - - - 7 - - - 0 3 - q2' q3 q4' s6' s5' q5'
+q4' q3' s5' s4' q3' q1' 2 - - - 2 - - - q0 q6 q1 s6 s1 s1 s2 q3 q2 q6 q2 q6 q2 s3 s4 s4 s4 q2 6 x 1 - - q0 q6 q1'
+q6 s1' s1' s2' q3' q2 q6 2' 3' 4. 4' 6' x 0 q1' q7 q1' q2' q3 q2' 2 q2' q3' q4' 4' q3' q1' 1 q1' q7 q1' q2' q3 q2' 2 - 7 - 0 q1'
+q7 q1' q2' q3' q2' 2' q2' q3' q5' q5' 3' 0 q1' q7 q1' q2' q3' q2' ~ 2' - - - 2' - - - 2' - - - x 0 3' - q2' q3' q4' s5' s4'
+s4' q3'. 3' 1' 2' - - - 7 - - - 0 3' - q2' q3' q4' s5' s6' q5 q4 q3' s5' s4' q3' q1' 2 - - - 2' - - -
+%END

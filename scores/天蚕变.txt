@@ -1,0 +1,20 @@
+%天蚕变.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15069
+title=天蚕变
+tag=
+usertag=
+tagroute=
+confidence=0.969
+conf_p10=0.927
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15069
+%--
+4/4
+subtitle=score
+q6 ,6 6 6 3 3' 3 2 2 1 7 ,1 2 - q6 ,6 6 6 1 1 7 7 6 q5 6 q7 - ,6 6 6 3 3 3 5 5 5' 3' 2 1 2
+1 ,7 q1' q7 ,6 - - - 3 3 q3 3 ,6 5 5 6 4 q3 q4 - 2 2 2 2 2 ,5 4 4 5 3 2 3 - q1 1 1 1 1 7 ,7
+- q7 q7 q7 q7 q6 ,6 - 3 6 ,1' x 7 7 6 6 6 5 5 7 5 6 - 3 q6 q1 q7 6' ~ 6' 5 5 7' 5 6 - 1 7 6 5
+5 3 q6 6 5 4 3 ,6 4 q4 3 2 1 2 3 - - q7' q6 5 3 6 5' q4' 3 ,6 4 4 q3' 2 1 1 ,7 q6 ,6 - - - 5 5
+7 5 6 - 0 - 0 - - - 3 6 1 7 6 - q5 q5 q7 q5 6 - 6 - - - -
+%END

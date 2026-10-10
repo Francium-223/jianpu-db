@@ -1,0 +1,19 @@
+%天山路弯又弯.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14888
+title=天山路弯又弯
+tag=
+usertag=
+tagroute=
+confidence=0.961
+conf_p10=0.937
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14888
+%--
+4/4
+subtitle=score
+x q,,3 q6 q6 - 6 q3 q5 q,4 3 2 1 - q,3 q3 q2 q1 - ,6 - q6 q3 s,,3 s,2 s,1 q2 2 6 1. s2 s1' q7 s6 q5' ,6 - q6 7 q7 q,,2
+3 q5 s4 s5 s4 3 - 3' - q3' 6 q6 q5' 6' q3' 5' q4 ,,3' q2 1 - q3 q3 q2 q1 7 q1 q7' 6 ,6 - ,6 3 1 - 7 q7 q1 s7 s6
+7 - q7' q1 q7 s6 s7 s6 q4 q0 x q5 s4 q5 q4 3 - 3 - 3 q6 q6 5 6 q3 5 4 q3 q2 7 - q3 q3 q2 q1 q,7 ,1 q,7 q6 ,6
+- ,6 - 3 q6 q6' q5 6' q3' q5 4 ,,3 q2 1 - q3 q3 q2 1 1 q7' 6'. 6 - 6 - 6 0
+%END

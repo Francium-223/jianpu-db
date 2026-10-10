@@ -1,0 +1,22 @@
+%天雨_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=31538
+title=天雨
+tag=
+usertag=
+tagroute=
+confidence=0.948
+conf_p10=0.911
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-31538
+%--
+2/4
+subtitle=score
+1 1 x 1. x x 5. q3 6 q5 q3 2. 2 s3 s2 1 q6 q5. s6 q5 q2 s3 s5 3 ~ 3 - 5. q3 6 q5 q3 2. q3 ,6. s2 ,6. s2 ,6 s2
+s1 ,6 - ,6 - s,6 s,6 s,6 s,6 s,6 s1 s0 s0 s,6 s,6 s,6 s,6 s,6 s0 s0 s,6 s,6 s,6 s,6 s,6 s,6 s,6 s,6 s,6 s,6 s,6 s,6 s,6 s1 s0 s,3 s,6 s,6 q,6 q,6
+s,6 s,6 s,6 s,6 s,6 s,6 q,6 q,3 s,6 s,6 s,6 s,6 s,6 s,6 s,6 s,6 s,6 s,6 s,6 s1 s,6 s,6 s,6 s,6 s,6 s,6 s,6 s,6 s,6 s,6 q1 q0 s,6 s,6 s,6 s,6 s,6 s,6 s,6 s1
+s,6 s,6 s,6 s,6 s,6 s0 s0 s,6. d3 s2 s1 s,6 s0 s,6 s,6 s,6 s,5 s,6 s,6 q,5 q,6 - 5. q3 6 q5 q3 2. 2 s3 s2 1 q6 q5. s6 q5 q2 s3 s5 3.
+3 - 5. q3 6 q5 q3 2. q3 ,6. s2 s1 ,6. s2 ,6 s2 s1 ,6 - ,6 - s,6 d3 s2 s1 s,6 s0 s,6 s,6 s,6 s,5 s,6 s,6 q,5 q,6 - s,6 d3 s2 s1
+s,6 s0 s,6 s,6 s,6 s,5 s,6 s,6 q,5 q,6 - 0 s,6 s,6 s,6 s,6. x x 5. q3 6 q5 q3 2. q1 2 - q,6 q5. s6 q5 q2 s3 s5 3 ~ 3 - 5. q3
+6 q5 q3 2. q3 ,6. s2 s1 ,6. s2 ,6 s2 ,6 - ,6 -
+%END

@@ -1,0 +1,21 @@
+%天注定.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=23552
+title=天注定
+tag=
+usertag=
+tagroute=
+confidence=0.978
+conf_p10=0.952
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-23552
+%--
+2/4
+subtitle=score
+s3 3' 2' s1'. q2' q5 s1' s2 s2. s2 s1 - s,5 s1 s1 s2 s3 s2 s1 s2 ,6 - s,6 s2 s2 s3 s4 s3 s,7 s1 2 q0 s3 s4 q5. s3 q4 s4 s3 ,6
+q0 s,5 s5 q4. s3 q5 s2 s1 2 - s,5 s1 s1 s2 s3 s2 s1 s2 ,6 - s,6 s2 s2 s3 s4 s3 s,7 s1 2 q0 s3 s4 q5. s3 q4 s4 s3 ,6 q0 s5
+s5 q4. s3 s2 s1 s1 s2 1 q0 s1 s7 6 s6 q6 s3 q4 s3 s4 2 q0 s7 s1 s2 q2 s2 s5 q5 s4 3 q0 s,6 s,6 q6. s3 q4 s4 s3 2 q0 s2
+s1 q2. s1 q,7 s1 s2 3 q0 s1 s,7 s,6 ~ q6 s3 q4 s3 s4 2 q0 s,7 s1 s2 q2 s2 q5 s5 s4 3 q0 s,6 s,6 q6. s3 q4 s4 s3 2 q0 s2 s1
+q2. s6 q5 s2 s3 1 - q0 s3 s4 s4 q5. 5 0 q0 s4 s5 ~ s5 q6. 6 - q0 s5 s6 ~ s6 q7. q7 s6 s6 ~ 6 0 0 1' - 0 0 0
+0 1 q0 s1 s,7 1 q0 s,6 s,6 q6. s3 q4 s4 s3 2 q0 s2 s1 q2. s6 q5' s3 s2 ~ q2' s2 s1' ~ 1' ~ 1' -
+%END

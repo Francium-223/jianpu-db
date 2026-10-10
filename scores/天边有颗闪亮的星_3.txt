@@ -1,0 +1,20 @@
+%天边有颗闪亮的星_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=8848
+title=天边有颗闪亮的星
+tag=
+usertag=
+tagroute=
+confidence=0.992
+conf_p10=0.982
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-8848
+%--
+2/4
+subtitle=score
+x q6 6 q1' q2' s6 s5 2 q4. s4 q4 s3 s2 q5 5 q0 q6 6 q1' q2' s6 s5 4 s5 s3 s5 s3 s2 s1 s2 q6 s1 2 - q2' 2' q6 s2' s3' 2'
+q0 q3'. s3' q1' s6 s1' s2' s3' 2'. q2 2 q6 s2 s3 1 q0 s7 s7 s7 s6 q5 s3 s5 6 - q6 6 q1 q2 s6 s5 2 q4. s4 q4 s3 s2 q5 5 q0
+q6 6 q1 q2 s6 s5 4 s5 s3 s5 s3 s2 s1 s2 q6 s1 2 - q6 6 q1 q2 s6 s5 2 q4. s4 q4 s3 s2 q5 5 q0 q6 6 q1 q2 s6 s5 4
+q6 6 q5 q4. s3 2 q2. s2 q2 s1 s2 q5 5 q0 q6 6 q5 q4 s1' s7 6 s5' d3' d5' s3' s2' s1' s2' s6 s1' 2' - s5' d3' d5' s3' s2' s1' s2' s6
+s1' 2' - q1. s6 q5 s4 s3 2 - q1. s6 q5 s4 s3 2 -
+%END

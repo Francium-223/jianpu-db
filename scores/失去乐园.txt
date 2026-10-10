@@ -1,0 +1,21 @@
+%失去乐园.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12483
+title=失去乐园
+tag=
+usertag=
+tagroute=
+confidence=0.891
+conf_p10=0.541
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12483
+%--
+4/4
+subtitle=score
+x' qx q,1 x q4 x 1' x' x' x x' x. x x. x 3 3 2 2 3 3 2 2 - 3 3 2 2 3 2 2 - q0 3 3 5 4 2 0 ,,,7
+,,,6 ,,5 ,6 - 0 1 s,,6 4. 2 3 3 - 0 3 3 5. 4 2 q0 q,,7 q,,,7 q,,,2 ,6 0 q,,6 q1 q,6 1. 1 5 3 3 3 3 0 x q0 s,,,7 s,7 q1
+q,7 ,6 - x 1 x 0 0 6 q5 q3 5 2 0 0 0 0 q0 0 q6 q5 q3 5 2 0 0 0 0 0 6 5 3 5 2 x 3 0 0 0 0
+0 ,1 q,,,6 q1 2 3 ,6 - - - q0 q,6 1 q,,6 1 5 3 3 0 1' q1' 7 6' 5 3 1' 5 x' 0 5 5 3 5' 1'. 1' x 7 x 0 -
+- - 6 - - - x 1 3. 1 2. q,,,7 q1 q,,7 q,6 q,,,5 ,6 q,3 ,,,3 3. 1 2. q,,,7 s1 2 5 3 3 q1 1 3. 1 2. q,7 q,1 q,7 q,6 q,,5 ,6 ,3
+0 q,,3 q,,,6 q1 q,7 q,6 ,,,5 q,5 ,6 - - -
+%END

@@ -1,0 +1,20 @@
+%失乐园_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14391
+title=失乐园
+tag=
+usertag=
+tagroute=
+confidence=0.949
+conf_p10=0.806
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14391
+%--
+4/4
+subtitle=score
+1 1. 1. 1 - - - x x. 0 3 3 3 3 2 2 3 3 2 2 2 2 0 3 3 3 3 3 2 q3 2 q2 2 0 q3 3 3 3 3 2
+0 q3 ,,1 2 ,,1 ,,1 1 0 0 0 1 2 4 4 3 0 3' 0 0 3 5 5 5 5 5 6 6 6 0 5 5 5 5 5 2 2 ,,1 2 2 -
+6 0 q2 q2 q2 5 4 5 4 3 3 4 2 2 2 2 2 5 4 3 4 4 5 6 6 7 ,1 1 5 6 4 5 5 6. 7 7 7 6 6 0
+6 2 6 4 5 4 3 3 4 2 2 2 2 2 5 4 3 4 4 5 6 6 7 ,,1' 7 5 6 q4 q5 q5 6. 7 7 7 6 6 - 2 - 0
+0 2 2 2 2 3 1' 0 0 2' 0 2' 2. 2' 3' ,1' 0 0 1. 2' - 0 2' 2' 2' 3' 1' - 0 0 - 2 2 2 3
+%END

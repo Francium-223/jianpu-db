@@ -1,0 +1,21 @@
+%太阳地球你和我_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=34379
+title=太阳地球你和我
+tag=
+usertag=
+tagroute=
+confidence=0.946
+conf_p10=0.780
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-34379
+%--
+4/4
+subtitle=score
+x 3 - - q2 5 - - 0 0 ,,4 7 q7 q1 q6 2 q2 q,2 2 q2 2 q2 q2 q2 q0 0 7 1 2 1 - 0 - 1 - - x 0 0 s3
+q4 q5 s5 s5 q5 s6 s3 2 1 1 6 q6 s7 q1 s2 q,1 5 q6 s7 s1 s1 q,x q,,1 s7 q1 5 4 s4 q5 q1 q1. q1 2. 6 q,4 s3 q1 ,3 2 s3
+- s,4 7 - q7 s6 2 5'. 3 3 2 1 ,7 q1 2 2 3 5 s5 ,5 6 s6 s6 s,,6 ,,1 7 q7' 0 ,,3 2 2 5 q5 3 3 2 0 q2 ,3 4
+4 q3 6 q6 5 s5 q,5 s1 7 q7 q2 1 - - x. 0 - q,3 q2 1 1 q2 q3 4 4 ,x q3 6 6 1 x 1 - - ,5 - - x 5 ,5
+5 s,,6 s1 q1 q0 1 ,1 q2 x - - x 0 q3 ,4 1 - - q5 5 7 0 2 3 3 ,,2 1 q,1 q7 q1 2 2' 3 5 ,5 5 6 q6 0 6
+q,6' q1 7 q7 q,,6' 3' 2 2 5 q5 q6 q5 3 3 q2 1 ,1 2 3 4 4 3 6 6 5 q5 5 s6 q,1 7 1 q1 q2 1 - -
+%END

@@ -1,0 +1,16 @@
+%套圈.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48528
+title=套圈
+tag=
+usertag=
+tagroute=
+confidence=0.998
+conf_p10=0.994
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48528
+%--
+2/4
+subtitle=score
+q3 s3 5 s6 5 q3 2 q3 2 q3 q3 s5 q6 q5 q3 2. q3 2 q5 s5 q3 q2 s3 q1 6. 1 ,6 5 5 q3 q2 q1 6 1. 2 1
+%END

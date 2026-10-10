@@ -1,0 +1,18 @@
+%头戴帕子花蓬蓬.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47413
+title=头戴帕子花蓬蓬
+tag=
+usertag=
+tagroute=
+confidence=0.986
+conf_p10=0.987
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47413
+%--
+3/8
+subtitle=score
+1 1 6 6 1 2 1 ,6. ,3 3 1 2 1 ,6 ,6 0 2 0 0 3 1 q2 ,6 6 6 2 ,6 4 ,6. ,3 3 1 2 3 ,6 ,6 0 0 0 6
+1 ,6 1 6 1 1 2 6 ,6 ,6. ,6 3 1 2 3 ,6 ,6 0 0 2 3 ,6 6 5 3 ,6 1 ,6. 3 3 q3 2 q3 ,6 q,6 0 q,6 ,6 3 2
+3 6 ,6 ,6. 2 3 1 1 6 6 0 1 1 ,6 2 1 ,6 ,6. 1 1 ,6 1 6 1 6 ,6 ,6.
+%END

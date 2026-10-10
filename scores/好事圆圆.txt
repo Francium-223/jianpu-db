@@ -1,0 +1,18 @@
+%好事圆圆.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=10193
+title=好事圆圆
+tag=
+usertag=
+tagroute=
+confidence=0.998
+conf_p10=0.993
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-10193
+%--
+4/4
+subtitle=score
+3 5 5 5 3 6 5 5 - - 3 2 1 1 1 1 1 6 1 2 - - 2 3 q2 q1 q2 q3 5 5 q2 q1 q2 q3 5 5 2 q2 q3 1
+1 2 - - 0 3 5 5 5 3 6 5 5 - - 3 2 1 1 1 1 1 6 1 2 - - 2 3 2 1 2 3 5 5 2 1 2 3 5
+5 2 2 3 7 6 5 6 1 - - 0
+%END
