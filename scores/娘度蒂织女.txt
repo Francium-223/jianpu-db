@@ -1,0 +1,17 @@
+%娘度蒂织女.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49672
+title=娘度蒂织女
+tag=
+usertag=
+tagroute=
+confidence=0.952
+conf_p10=0.793
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49672
+%--
+2/4
+subtitle=score
+1 - - 1 2 x x 0 q3 3 4 5 q5 s5 q6 q7 q1' q7 q6 q5 6 7 7 q0 s2 q2 3 s4 q4 q4 q5 6 s7 6 q5 q4 q5 5 - q0
+s3 q3 4 q5 5 q5 6 7 q1' 7 q1' 2' 1' 1' 6 q6 s6 s7 q1 s7 s6 6 q5 s5 q5 6 7 6 q5 4 q2 1 - 1 0
+%END

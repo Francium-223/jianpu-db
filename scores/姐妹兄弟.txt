@@ -1,0 +1,22 @@
+%姐妹兄弟.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=9206
+title=姐妹兄弟
+tag=
+usertag=
+tagroute=
+confidence=0.978
+conf_p10=0.958
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-9206
+%--
+4/4
+subtitle=score
+- - x' x' x x 1. q2 ,7. q,5 q,6 q,6 q,6 s,4 q5 ,5 - 1. q2 ,7. q,5 ,6 ,6 q,6 q5 q4 q,5 ,5. q1 q1 q1 s1 s1 q2 2 q5 q6 3 s2 s1
+1. ,5 6. q,5 q,6. q5 q,6 1 6 s,6 6. ~ q,6 q,5 ,5 - 1. q2 ,7. ,5 ,6 q6 q6 q,6 q5 q4 q,5 ,5. q1 s1 q1 q1 q2 ,7 s,5 s,5 ,6 q,5 s,4 s,5
+,5. ~ q5 s,5 q1 q1 q1 s1 s1 q2 2 q5 q6 3 s2 s1 1. ,5 6 5 6 5 6 1 q,6 q,6 ,6 s,6 s,5 ,5. q2 q4 q4 q4 q5 q6 6 q6 7. q5
+6. q,6 q,7 q,7 ,7 ,7 7 6 ,5 5 1. q2 2. 5 q3 q2 q1 7 q1 s2 s3 q3 q,5 1 q1 s,7 s,6 ,6. s,5 s,5 q4 q3 q2 q1 q2 s3 s4 q4 q4 1.
+q2 2. q,5 q3 q2 q1 q,7 q1 s2 s3 q3 q,5 1 q1 s,7 s,6 ,6. ,5 q4 q3 q2 s1 s1 s2 s3 4 ~ 4 1 q1 q2 2 - 2 - - q2 q,5 q3 q2
+q1 q,7 q1 s2 s3 q3 q,5 1 q1 q,7 q6 ,6. s,5 s,5 q4 q3 q2 q1 q2 s3 s4 q4 q4 1. q2 2. ,5 q3 q2 q1 ,7 q1 s2 s3 q3 q,5 1 q1 s,7 s,6
+,6. 5 q4 q3 q2 s1 s1 s2 s3 q4 4 q1 q2 2 - 2 - - - 2 ,7 ,6 ,7 1 - - - 1 - - - 1 0 0 0
+%END

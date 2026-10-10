@@ -1,0 +1,17 @@
+%妹妹的山丹花儿开.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=44913
+title=妹妹的山丹花儿开
+tag=
+usertag=
+tagroute=
+confidence=0.995
+conf_p10=0.988
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-44913
+%--
+2/4
+subtitle=score
+q2 q5 s2 s3 s2 s1 q2 q1 q,6 q,5. q6 q1 q1 q,6. q1 2. 5 q2 s3 s2 s1 q,6 q1 2 q2 0 2 q5 s2 s3 s2 s1 q2 s1 q,6 q,5. s6 q2 q3 s2
+1 q2 s2 q1 q,6 ,5 ,6 s5 q6 q1 s2 s1 s6 ,5 ,5
+%END

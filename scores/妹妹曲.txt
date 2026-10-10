@@ -1,0 +1,20 @@
+%妹妹曲.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=30056
+title=妹妹曲
+tag=
+usertag=
+tagroute=
+confidence=0.967
+conf_p10=0.957
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-30056
+%--
+4/4
+subtitle=score
+x 5 - - 0 5 - - - 5 - - - q5 5 q3 q2 5 q3 2 q2 6 1. 6 ,5 - - - q5 5 q2 5 - q5 5 q1 5 - q2 q3
+q2 q1 2 5 2 - 5 - 2 - 5 - 2 5 2 q2 6 1. 6 ,5 - ,5 - - - q5 5 q3 q2 5 q3 2 q2 6 1. 6 5 - - -
+q5 5 q2 5 - q5 5 q1 5 - q2 q3 q2 q1 2 5 5 6 ~ 6 1 q1 6 1. 6 ,5 - 5' 6 ~ 6 1 q1 6 1. 6 ,5 - 5 6
+~ 6 1 q1 6 1. 6 ,5 - q1 1 6 1 2 5 - - 1 5 - - - 5 - - - 5 - - - - - - - q5 5 q3 q2 5 q3
+2 q2 6 1. 6 ,5 - - - q5 5 q2 5 - q5 5 q1 5 -
+%END

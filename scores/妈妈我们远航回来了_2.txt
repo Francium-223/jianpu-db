@@ -1,0 +1,18 @@
+%妈妈我们远航回来了_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=8493
+title=妈妈我们远航回来了
+tag=
+usertag=
+tagroute=
+confidence=0.980
+conf_p10=0.935
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-8493
+%--
+2/4
+subtitle=score
+1 ,5. s1 q3 1 q3 q5 5 q5 s5' q6' 5 6 4. s2 5 3 q5 2 2 2 2' s3' 2 - 3 q3. s2 q3. s5 3 1 s1 s3' 2' 1' ,6 - q,5 ,5
+1 3 5 3 q,5 ,5 ,6 ,7 1 - 6 - 4. q6 5 s5 q5 5' q4' 3 - q2 q2 q2 q0 q3 2 ,6 ,7 1 2 - 6 - 4. q6 q5 s5 s5 5'
+4' 3 - 2 q2 0 3 2 ,6 ,7 ,5 1 2 q2 q0 q3 2 ,6 ,7 ,5 1 - 1 -
+%END

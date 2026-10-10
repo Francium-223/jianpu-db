@@ -1,0 +1,22 @@
+%妹子开门来.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=44471
+title=妹子开门来
+tag=
+usertag=
+tagroute=
+confidence=0.984
+conf_p10=0.984
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-44471
+%--
+2/4
+subtitle=score
+q5. s5 q5 q5 q0 q4 q5 q0 q1. s7 q6 q5 s5 s6 s5 s6 5 q5. s5 q5 q5' q0 q4 q5 q0 q2. s1 q4 q2 s5 s6 s5 s6 5 q0 s7 s6 - q5 q5
+q5 q5 q5 q5 q5 q5 q5 q5 q5 q5 q5 q5 s5 s5 s5 s5 q2 q2 q2 q2 q2 q2 q2 q2 q5. s3 q2 q5 q1. s2 q6 q5 q5. s3 q2 q6 5 - q5. s3
+q2 q5 q1 q2 q6 q5 4 q4 q6 q5 5. 1 1 s2 s3 s2 s3 q5 q1 q3. s2 q3 q6 5 - 5 5' q1 5 q3 5 - x s2 s3 s2 s1 q7 q1 2
+- 5 5 q1 5. q1. s2 q6 q5 q1. s6 q5 q3 q2 q3 q2 q1 q2 q3 q2 q1 q2 q2 q2 q2 0 0 s2 s3 s2 s3 s2 s3 s2 s3 q6 q1 s2 s3 s2
+s3 q5 q6 q1 q2 5 - s2 s3 s2 s3 s2 s3 s2 s3 q6 q1 s2 s3 s2 s3 q5 q6 q1 q2 5 - 5 - 1 - 7 6 5 - 5 - q2 q5 q2
+q5 1 2 q5 q2 5 q5 s1 s2 s4 s2 s4 s5 ,1 1 - 7. 7 6 5 - 5 - q2 q5 q2 q5 1 2 5 - 5 q0 s7 s6 5 - s6 s5 s5
+s5 s5 s5 s5 s5 q6 q1 s2 s3 s2 s3 q5 q6 0 q5 q6 q1 q2 5 - 5 - qx q0 0
+%END

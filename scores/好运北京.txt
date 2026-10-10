@@ -1,0 +1,16 @@
+%好运北京.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=30270
+title=好运北京
+tag=
+usertag=
+tagroute=
+confidence=0.964
+conf_p10=0.926
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-30270
+%--
+4/4
+subtitle=score
+3 2 1 q1 q1 q1 1 q2 q3 q2 q1 q1' q1' q1' 1' q1' q2' x q2 q1 q2 q1 q2 q1 q2 q1 - - - - - x 1 - s2 s1 1 - - -
+%END

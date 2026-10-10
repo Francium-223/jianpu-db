@@ -1,0 +1,22 @@
+%如果你走在幽静的小路上.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=36855
+title=如果你走在幽静的小路上
+tag=
+usertag=
+tagroute=
+confidence=0.943
+conf_p10=0.745
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-36855
+%--
+2/4
+subtitle=score
+1. 1. x x' 1' s,x ,x. x' x' 1' 1 x' x q3 q4 5 5 - q6 4. q5 q3 q4 q2. 3 q4 q5 q3 q4 q2 q3 1 q2 q3 q4 q2 q3 1 q2 ,7
+q1 7 q6 ,5 5 5 - q6 q4 q5 q3 q4 q2 q3 q4 q5 q3 q4 q2 q3 q1 q2 q3 q4 q2 q3 q2 7 q1 q7 q6 ,5 q1 q7 q6 ,5 6 7 0 3.
+q2 0 4 q3 2 7 q1 2 0 x q2 q3 q4 q3 q4 q5 5 0 4 q4 q3 q3 q4 - 2 4 q2 q3 q2 4 q2 3 q1 2 0 q2 q3 q4 q3 q4
+q5 5 4 q4 q3 q3 q4 2 2 3 q2 2 - 3' - q1 q3 q4 q3 q2 2 1 7 ,7 ,6 ,4. ,5 ,7 ,6 5 ,5 - ,4 - ,4 ,5 ,7 ,6 5 ,5
+- 5 3 3 5 ,5 5 ~ 5 ,6 ,7 1 - 7 q1 2 q1 7 1 7 ,6 q1 ,7 - 4 3 ,4 5 ,6 6 7 6. ,5 ,5 - 4 3 ,4 q,5 ,6
+q,6 7 6 ,5 ,5 - ,5 3 3 5 ,5 ,5 5 ,6 ,7 1 - ,7 q1 2 q1 ,7 1 7 6 q1 7 ,7 - 4 3 ,4 5 ,6 6 7 6 ,5 ,5 -
+4 3 ,4 5 ,6 6 7 6. ,5 ,5 - ,5. q,3. ,3. ,5 ,5. q,5 ,5 ,5 ,6 ,7 1 -
+%END

@@ -1,0 +1,21 @@
+%妈妈的生日.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15779
+title=妈妈的生日
+tag=
+usertag=
+tagroute=
+confidence=0.949
+conf_p10=0.809
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15779
+%--
+4/4
+subtitle=score
+1 - - 1 4 x x x x 0 0 0 x 0 q0 d5 d1' d1' d2' s3' s2' 3'. 3' - 3' q2' q3' q5' 1'. q1' s1' s1' 2' 2' q2' q3' q3' q1' q6. q6
+2' - - - s3' s2' 3'. ~ 3' - 3' q2' q3' q5' 1'. ~ q1' s1' s1' 2' q2' q3' q5 q6 1' - - q3. s5 5 - - q6. s3 5 - - q1' q2' 3'
+1' 5 - 5 s6 s5 q6' 6'. q3 s2 s1 2. 2. s1' s1' 2' - - q2' s6 s5 5 - - q1' q2' 3' 2' 1' q7 q7 s2' s1' 6'. ~ 6' q1' q2' 3' q2'
+q2' 1' 7 s6 s5 6'. ~ 6' q2 q3 5 - q6 6 q3 s2 s1 2. 2'. s6 s1' 2' - - q3' q6 q2' 1'. ~ 1' - x s,3 s3' s2' 3'. 3' - 3' q2'.
+s3' q5' 1'. q0 s6 s1' q2' q2' q2' q1' q2' q1' q1' s6 s5 5 - - s3' s2' 3'. ~ 3' - 3' q2'. s3' 1'. q0 s6 s1' q2' q2' q2' q1' q6 q1' 1' - -
+- q0 s6 s1' q2' q2' q2' q1' 2' 5' - - - 1' - - - 1' - - - 1' - q1' q0
+%END

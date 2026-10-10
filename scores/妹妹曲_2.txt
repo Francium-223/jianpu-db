@@ -1,0 +1,18 @@
+%妹妹曲_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=46075
+title=妹妹曲
+tag=
+usertag=
+tagroute=
+confidence=0.947
+conf_p10=0.776
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-46075
+%--
+2/4
+subtitle=score
+1 - - 4 q1 4 q3 x x 1. 1 ~ 1 x x 5' - 5 5 q3 2 5 5 2 2 6 1. q6 ,5 s5 5 q2 5 5 1' 1' 5. x q3 2
+3 2 q1 2 ,5 2 5 2 5 2 5 2 3 2 1 q1. q6 ,5 x 2 3 2 q1 2 5 2 5 2 1 1 1 q6 1. q6 ,5 5 5 5 1 q1
+q6 1. 6 ,5 x x x 3 5 1 6 1. 6 ,5 5 ,6 1 1 6 q1. 6 ,5 5 5 6 q1 1 q6 1. q6 ,5 1 q1 6 1 2 5. 1' 5 -
+%END

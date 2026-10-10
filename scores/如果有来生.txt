@@ -1,0 +1,19 @@
+%如果有来生.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12296
+title=如果有来生
+tag=
+usertag=
+tagroute=
+confidence=0.846
+conf_p10=0.506
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12296
+%--
+4/4
+subtitle=score
+1 - - - x 1 x - x x'. 3 5 2' 7. q6 7 s5 q6. 2 - - 2 4' 2' 7. s6 q7 5. 6 q6 5 5 - 5 5'. ,,5' 2'. 5 2' 1
+3' ,,x x 2' 1' 1' q0 qx q,x q,,6 4' x x 4' 3' ,,4' 3' 1' 2'. 1. 2' - 4' 4'. 4' 5' 0 2' q2' q1' s7 q1' 0 - - - 3'. 2' 2' 5
+q5 1 - - 5'. 4' 3' 3' 6 6 q6 x' 3'. q2' 2' 5 5 4' 4' q4' 4' q5' 3'. 2' 2' 2. - - 0 4' 4' 4' 5' 3' 2' 1' 2' 2' 1' -
+- 1' 0 0 0
+%END

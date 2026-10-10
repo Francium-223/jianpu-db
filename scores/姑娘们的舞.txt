@@ -1,0 +1,16 @@
+%姑娘们的舞.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48264
+title=姑娘们的舞
+tag=
+usertag=
+tagroute=
+confidence=0.997
+conf_p10=0.994
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48264
+%--
+2/4
+subtitle=score
+3 3 ,6 1. 2 3 3 ,6 1 3. 5 3 2 3. 5 3 2 3. 5 2 3 1. q2 3 3 6 1 q2 3 q3 q6 1 -
+%END

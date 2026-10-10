@@ -1,0 +1,25 @@
+%婴儿_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=36233
+title=婴儿
+tag=
+usertag=
+tagroute=
+confidence=0.974
+conf_p10=0.973
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-36233
+%--
+4/4
+subtitle=score
+1 - - - 1 1 0 5 5 6 6 3. 3 2 6 4 1 5 0 q1 s2 s,7 ~ ,7 q0 s1 q,5. s,5 q,6 q1 ,6 - 0 q1 q2 2 q0 s6 s6 q6.
+s0 q5 s5 3 - 0 q5 s5 s5 ~ q5 q4 q3 q2 3 q0 q2 1 q1 q2 2 q0 d5 q3 2 q1 q,7 q1 ~ 1 - 0 0 q1 s,6 s,7 ~ q,7 q2 q0
+s1 q,6. s,5 q,6 q1 ,6 - 0 q1 q2 2 - q6. s6 ~ s6 s6 q5 q5 3. 0 q5 s6 s2 ~ q2 s1 s2 ~ q2 q3 q2 q2 q0 q3 1 q1 s2 s2 ~
+2 q0 d5 q3 q2 q2 s1 s3 ~ q3 q,6 ~ ,6 - 0 0 0 0 q1. q3 3 q2 q3. s5 q5 q5 5 - 0 q1. q3 3 q1 q1 q7 q6 q7 q6 s5 s5
+5 - - 0 q1' 6. q7 q5 q6 q5 q6 3. q0 s1 s2 q3 q2 sx'. q2. q2 2. 0 q0 s6 s1 q3. s2 ~ q2 q3 ~ q3 s6 ~ ,6 - 0 0 q3' s4'
+s3' 3' - 0 q3' s4' s3' q3' 2'. 0 q3' s4' s3' q3' 2' q1' ~ 1' - - 0 0 q3' s4' s3' 3' - 0 q3' s4' s3' q3' 2'. 0 q3 s4 s3 q3 2 q1
+1 - - 0 q3 q2 s2. q2 s2 2 q0 s1 d,6 q6. s6 q6 q5. 2 q1. q3 0 q0 d6 q3 s2 s2 ~ q2 q1 q3 q,6 ~ ,6 - 0 0 q0 s3 s3 q3
+s2 ~ s2 ~ q2 q5 q6 q3 ~ 3 - - 0 q0 s6 s6 q6 s6 s6 ~ q6 q5 q6 q3 ~ 3 - - 0 q0 s6 q6 s6 s6 ~ q6 q5 q7 q6 ~
+6 - - 0 q0 s1' s1' q1' s7 s7 ~ s7 s1' q7 6 - - - 0 q0 s1' q1' s7 s7 ~ s7 s1' q7 6 - - - 0 q0 s1' s1' q1' s1' s7 ~
+s7 s1' q7 6 - - - 0 q0 s1' q1' s7 s7 ~ s7 s1' q7 q6 q6 ~ 6 - -
+%END

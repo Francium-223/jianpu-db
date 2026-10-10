@@ -1,0 +1,21 @@
+%如果爱能轮回.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=33921
+title=如果爱能轮回
+tag=
+usertag=
+tagroute=
+confidence=0.953
+conf_p10=0.816
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-33921
+%--
+2/4
+subtitle=score
+x q3. s3 q3' s2'. q5 s5 3 s0 s2 s1 s5 q3 3' q3' s2' s3' q3' q2' q1' - - q3 s3 s3 ~ q3 s2 s1 s,7 q,6 s,7 ~ ,7 s,6 q1 s1 ~ q1 s1
+s1 s,5 q3 s3 ~ 3 q4 q4 s4 q4 s4 q3 s,6 s,6 q0 s,6 q1 s1 s1 s,6 q,6. q2 s2 s1 ~ s1 q2. s,6 q3 s3 ~ q3 s2 s1 s,7 q,6 s,7 ~ ,7 s1
+s1 s1 s1 s2 q1 s2 q5 s3 s3 ~ 3 q4 s4 s4 ~ s4 q4 s4 q3 s2 s3 q0 s3 q6 s6 s6 q6 q3 7. s5 s6 5 - 5 q0 s3 s4 x q5. s3
+s3 q5 s5 5 q0 s5 s6 7 s7' q1' s1' s7 q6. q0 s5 s5 q1' q1' s1' q1' s1' s1' q1' s5 ~ 5 q2' q2' s2' q1' s1' q7 s5 s5 ~ q5 s1 s2 3 s3
+q5 s5 ~ 5 q0 s5 s6 7 s7' q1' s1' s7 q6. q0 s5 s5 q1' q1' s1' q1' s1' q1' s1' s2' s2' q1'. q2' q2' q1' s1' s3' s3' q2'. 2' q2' q2' s2' q1' ~ s1'
+1' - 1' - q3 s2 s1 1 ~ s1 s1 s1 s2 q3'. s1'. s1' s1' q3 s1 s2 s3 q1 s1 q2 s1 s2 s1 - 1 - 1 q0 s3 s4 1 - 1 - x -
+%END

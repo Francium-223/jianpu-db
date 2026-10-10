@@ -1,0 +1,17 @@
+%娘子军连歌_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=36971
+title=娘子军连歌
+tag=
+usertag=
+tagroute=
+confidence=0.929
+conf_p10=0.633
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-36971
+%--
+2/4
+subtitle=score
+x 1 ,2 ,x ,1 x' x' 6 6 2 s3 s2 s1 q6 ,6 q2 s2 s3 q1 6 3. q2 6 s1 s1 s7 s6 5 ,6 0 2 5 q6 q6 5 q4. s3 q2 s1 s2
+3 - 3 ,6 q1 q3 2 q5. q4 q3 q5 2 0 6 ~ 6 2 q3 q2 q1 q7 ,6 q2 q2 q3 q1 q6 3. q2 q,6 q1 q1 q7 q6 q5 ,6 0
+%END

@@ -1,0 +1,21 @@
+%如意东方.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=25006
+title=如意东方
+tag=
+usertag=
+tagroute=
+confidence=0.949
+conf_p10=0.814
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-25006
+%--
+4/4
+subtitle=score
+1 4 x 0 x 5. q3 5 5 1 q1. s6 q,5 ,6 ,5 ,6 1 - 2 4 4. q5 6 1 5. q6 5 - - 5 - - - 5. 3 5 5 1 q1. s6
+q,5 q,6 ,5 ,6 1 - 2 3 q1'. 6 3 q2. q3 2 - - 2 - - 0 2 3 3. 2 3 3. 5 1 ,6 ,5 0 q,5 3 q3. 2 3 q3. s5 1 ,5
+0 0 0 q6 1 2 4. 2 4 1' 6 - - 6 - - q6 q5 6 q2'. s2' q7 q6 q5. q6 5 - - 5 - q5 q6 - q2' 1' q6 q5 4 - 2.
+q4 2 - 0 ,1 5 - - - 5 q5 q6 1' 3 q2 q1 6 - ,1 2 q3 q5 2 - - 2 - q5 q6 - x'. q2' q6. 5 - 4 5 q,,3 2 1
+,6 - - - 0 q1 q6 1 2 4 4 - 5 6 6 - - 6 q6 6 2' - - - 2' - - q6. ,1' 5 - - - 5 - - - 5 - -
+- 5 - - q5 q6 2' - - - 2' - - - 2' 3' - 6 - - - - - - - - - - - - 0 0 0
+%END

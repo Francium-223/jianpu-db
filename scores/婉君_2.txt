@@ -1,0 +1,21 @@
+%婉君_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14420
+title=婉君
+tag=
+usertag=
+tagroute=
+confidence=0.971
+conf_p10=0.979
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14420
+%--
+2/4
+subtitle=score
+x 6 q3 q2 q6 q6 q3 q2 q3 6 q3 q2 q6 q6 q3 q2 q3 q3 q5 s6 q1' s1' q7 q7 q5 q6 6 - 6 - q6 q7 s1' q2' s1' q7 q7 q5 q6 6
+- 6 - q5 q6 q1' q2' 6 - q5 q6 q5 q2 3 - q0 q3 q2 6 7 q2 5 7 ,6 - ,6 0 q3 q5 s6 q1'. q7 q7 q5 q6 6 - 6 - s3
+q6. s6 q5 s3 q2 q1 q2 s5 s6 3 3 - 3 - q5 5 q6 3. q1 3 2 1 - q2 q5 q3 q6 6 - q7 q5 q7 q6 6 - q6 q7 s1' q2' s1'
+q7 q7 q5 q6 6 - 6 - q6 q7 s1' q2' s1' q7 q5 q7 q6 6 - 6 - s3 q6. s3 q5 s3 q2 q1 q2 s5 s6 3 - 3 - q5 5 q6 3. q1
+3 2 1 - q2 q5 q3 q6 6 - 6 - q2' q5 q7 q6 6 - 6 - q3'. q3' q2' q3' q2' 1' s6 s5 6 - 6 - q3 q5 s6 q1'. q7 q7 q5 q6
+6 - q6 q7 s1' q2' s1' q7 q7 q5 q6 6 -
+%END

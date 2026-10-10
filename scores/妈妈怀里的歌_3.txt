@@ -1,0 +1,22 @@
+%妈妈怀里的歌_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=50488
+title=妈妈怀里的歌
+tag=
+usertag=
+tagroute=
+confidence=0.980
+conf_p10=0.989
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-50488
+%--
+4/4
+subtitle=score
+x q3 q5 q1 q2 q3 q1 q5 3 q6 q5 q3 q5 q3 q1 q,5 q,6 1 - 2 1 ,6 1 ,5 ,6 ,5 ,3 ,5 1 2 3 5 6 1 6 6 - 5 5 3
+2 3 2 1 1 x 6 6 5 3 5 6 - - q5 q5 q5 q6 q5 3 q1 2 - - - 3 2 2 6 5 q5 q5 q3 2. q,6 2 q2 q2 q3 q2
+1 q,6 5 3 6 6 5 6 3 2 1 q,6 1 1 - 1 - 1 - q6 7 1' q1' q1 q1' q7 6 5 6 5 6 7. 7 q7 6 q5 6 7 - q6
+7 q1 q1 1 1 7 6 5 6 - 5 6 7 7 7 7 6 5 2 3 - - q2 1 2 - - q4 3 2 ,6 q1 ,7. ,7 ,7 ,6 ,5 ,6 2 q1
+2 - - - 4 3 2 - ,6 1 ,7. ,7 q,7 ,6 q,5 6 - 1' - 2 q1' 6 1' - - 5 - 6 5 3 5 - - q1 q2 3 - 5 6 1'
+q6 6 - 5 - - - 5 3 2 3 q2 1 - - 6 6 5 3 5 6 - - - 5 5 q5 q6 q5 3 q1 2 - - 3 3 2 6 q5 q5
+q5 3 2. ,6 2 2 2 3 2 1 ,6 5 - - 3 6 6 5 6 3 2 q1 q6 1 - - 6 6 5 3 5 6 - - -
+%END

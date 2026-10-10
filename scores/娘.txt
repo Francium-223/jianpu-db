@@ -1,0 +1,21 @@
+%娘.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=18143
+title=娘
+tag=
+usertag=
+tagroute=
+confidence=0.970
+conf_p10=0.948
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-18143
+%--
+2/4
+subtitle=score
+- - - x. x x 1. d6 d7 d1' d2' 3' 3' q3'. q2' q3' q4' q3' q2' q1' 7 s6 s7 3 - 3 q2 2' 2' q1' q1'. q2' q3' q2' q1' q7 6 s5 s2 q5
+3. q2' q1' 7 7 - q6 q6 q7 q5 6 s6 s6 q5. s6 q7 q5 3 - s6. s2 q2 s2 s2 q3 2 q3 q5 q5 q5 q6 3 - q6 q6 q5 q7 6 s6 s6
+q2. s2 q3 q2 1 - s6. s2 q2 s2 s3 q5 3. q5 q5 q5. s6 q7 6. 6 - 3'. q2' 3' - 7. q5 6 - q2'. q2' s2'. q2' s1' q2' 6. q7 q6 s5 q5
+s6 3 - 3'. q2' 3' - 2'. 2' - q5 q5 q5 s5 s3 q2' q2' q2' q3' 6 - 6 - 6 6 x q5 qx q4 q4 qx q4 1' q7 6 6 x q4 qx q5
+6. x q5 6 3' 2' - 2' q2' 3'. q2' q7 q6 q3 2 2' q2' q1' q2' q3' 7 - 7 6 7 - 7 - 6 - 6 - 3'. q2' 3' - 7. q5 6 -
+q2'. q2' s2'. q1' s1' q2' 6. q7 q6 s5 q5 s6 3 - 3'. q2' 3' - 2'. q1' 2' - q5 q5 q5 s5 s3 q2'. q2' q2'. q3' 6 - 6 - q5 5. 7 -
+%END

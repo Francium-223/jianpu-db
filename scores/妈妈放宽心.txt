@@ -1,0 +1,18 @@
+%妈妈放宽心.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=18464
+title=妈妈放宽心
+tag=
+usertag=
+tagroute=
+confidence=0.995
+conf_p10=0.987
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-18464
+%--
+2/4
+subtitle=score
+q2 s2 s1 q2 q3 q5. s1' q6. - 2 q3 - q3 q2 1 - q1 q1 q6 q6 5 q6 q6 q1 q1 q6 1 q2 q2 q1 q1 q2 q2 3 - - q6 q1. q6 q2
+q2 3 q2 q2 q1 q6 - q1 s2 s1 s2 s3 - q6 q6 q6 - s6 q1' q2' q1' s6 - q3 s3 s2 q3 q6 - 3 q2 q2 q1 q2 q3 q1 q6. q2 q3. q3
+q2 1 - q2 q2 q1 q2 q3 q1 q6. - q2 q3 q3 q2 1 -
+%END

@@ -1,0 +1,23 @@
+%孤独的泪.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=35010
+title=孤独的泪
+tag=
+usertag=
+tagroute=
+confidence=0.980
+conf_p10=0.974
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-35010
+%--
+4/4
+subtitle=score
+1 1 1 x 6 5 2 4 3 3 0 ,x x q6 q6 q6 q5 q6 q6 q5 q6 q6 q6 q3 5 - q6 q6 q6 q5 q6 q6 q5 q6 q6 q5 q3 2 - q3
+3 s2 s3 q2 1 q2 q2 q2 q1 ,6 - q,5 q,5 q,5 q,6 q2 s3 q2 q,6 1 - - - q,5 s,3 q,5 q,6 1 s,6 s1 2 q3 s,6 ,5 - q,5 s,5 q,6 q1 q3
+s3 s3 s3 s2 q1 q1 q2 2 - - 3 q3 q2 s3 s2 1 q2 s,5 s,5 q2 q1 ,6 - q,5 s,5 q,5 q,6 q2 s2 s3 q2 s,6 1 - - - q,5 s,3 q,5 q,6
+1 s,6 s1 2 q3 s,6 ,5 - q,5 s,5 q,6 q1 q3 s3 s3 s3 s2 q1 q1 q2 2 - - 3 q3 q2 s3 s2 1 q2 s,5 s,5 q2 q1 ,6 - q,5 s,5 q,5' q,6
+q2 s2 s3 q2 s,6 1 - - - 6 q5 q6 s7 q6 q5 q6 s6 s6 q6 s3 q3 q5 5 q6 6 q5 q6 s7 q6 q5 q6 q3 q5 q3 2 - q3 s3 q5 q3
+q2 s3 s2 1 q2 q,6 q2 q1 ,6 - q,5 s,5 q,5 q,6 q2 s2 s3 s2 q2 s,6 1 - - - 6 q5 q6 s7 q6 q5 q6 s6 s6 q6 s3 q3 q5 5 q6 6
+q5 q6 s7 q6 q5 q6 q3 q5 q3 2 - q3 s3 q5 q3 q2 s3 s2' 1 q2 s2 s3 q2 s2 s1 ,6 - q,5 s,5 q,5 q,6 q2 s2 s3 s2 q2 s,6 1 - -
+-
+%END

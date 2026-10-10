@@ -1,0 +1,24 @@
+%妹妹你等着我.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=19141
+title=妹妹你等着我
+tag=
+usertag=
+tagroute=
+confidence=0.973
+conf_p10=0.934
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-19141
+%--
+2/4
+subtitle=score
+q,6. s1 q,6 q1 q3 s3 s2 q3 q5 q2 s2 s3 q2 q,7 ,6 ,6 q,6 s6 s1 q,6. s5 s3 s2 s1 s2 s3 s2 s3 s5 q2'. s2'. s3' s5 s6 q7 6 - 6 q6. s3
+q6 s3' s2' 1' q7 s7 s6 s5 s6 q7 s6 s5 6. q2. s1 q2 s2 s3 q5 q3 5 q2'. q2'. s5 s6 q7 s6' s5 6'. 6 - 0 0 q6 s6 s6 q2 q3 q6 q6
+0 q5 s5 s3 s2 s3 q4 s3 s2 q3 0 s3 q6 s6 q6 s6 s6 q6 s3 s2 1 s2 q2 s3 s5 s6 q7 ,6 0 q6 s6 s6 q2 q3 q6 q6 0 s5 q5 s5
+s2 s3 s2 q3 0 q3 q6 s6 q6 s6 q6 s3 s2 q1. s1 q2 q3 s5 s6 q,7 s6 s5 ,6. q3 q6 s6 q6 s6 q6 s3 s2 q1. s1 q3 q5 q7' q5 s6 s5 6.
+~ 6 - 6 q6. s3 q6'. s3' s1' 1' q7. s7 s6 s5 s6 q7 s6 s5 6. q3 q6 q6. q6. q6 s3 s2 1 q2. s3 q5 q2 s3 s2 3. 6 q6. s3 q6 s3 s2
+1 q7 s7 s6 6. q2 s2 s1 q2 q3 q5 q6 q5. s2 q2 s2 s2 6. 6 - s6 s5 s3 s5 6 6 q6. s3 q6'. q1' 1' q2'. s2'. s3' q7 6 - q2 s2 s3
+q2 s1 s2 s3 s2 s1 s2 s1' q2'. s2'. s3' q7 6 - s6 s5 6. s6 s5 6. ~ 6 0 0 0 - 0 0 q6 q6 q0 q3 s6'. s2'. s3'. s2' 1' s6 s5 6.
+s6 s5 6. q2. s1 q2 s2 s3 q5 q3 5 q2'. q2'. s5 s6 q7 6 - 6 - 6 0 6 q6. s3 q6'. q2' 1' q2'. s2'. s3' s5 s6 q7 6 - q2 s2 s3 q2
+s1 s2 s3 s2 s1 s2 s3 s5 s1' s1' q2'. s2'. s3' s5 s6 q7 6 -
+%END

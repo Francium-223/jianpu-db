@@ -1,0 +1,21 @@
+%妈妈的红灯笼.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=18358
+title=妈妈的红灯笼
+tag=
+usertag=
+tagroute=
+confidence=0.976
+conf_p10=0.965
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-18358
+%--
+3/4
+subtitle=score
+1 - - q4 q1 1. ,x qx q5 q6 3 - q3 q2 2 - q2 q5 2 - q2 q1 1 - ,7 3 - ,3 - q,7 q,6 ,6 - - ,6 - - x ,3 ,6
+q,6' q,5' ,6 - - ,6 q1 q1 q2 q3 3 - - q1' q2' 2 - q1' q2' 1 - ,7 q,7 q,6 q,5 q,6 ,3 - - ,3' ,6' q,6 q,5' ,6 - - ,6 q1 q1 q2'
+q5' 3 - - q2 q3 2 0 q1 q2 1 0 ,7 ,3 - ,3 - q,5 q,6 ,6 - - ,6 - q1 q,6 6 - 7 6. q6 q5 q6 3 - - 3 - q5 q3
+7 - 1 7 - - 1 - - 7. q6 q5 q6 6 - - 6 - - q5 q6 3' - q3. q2 2 - q2 q5 2 - q2 q1 1 - ,7 3 - ,3 -
+q,7 q,6 ,6 - - ,6 - q1 q,6 6 - 7 6 q6 q5 q6 3 - - 3 - q5 q3 7 - 1 7 - - 1 - - 7. q6 q5 q6 6 - - 6
+- - q5 q6 3 - q3 q2 2 - q2 q5 2 - q2 q1 1 - ,7 3 - ,3 - q,7 q,6 ,6 - - ,6 - -
+%END

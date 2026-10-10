@@ -1,0 +1,24 @@
+%孟姜女_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=30598
+title=孟姜女
+tag=
+usertag=
+tagroute=
+confidence=0.962
+conf_p10=0.915
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-30598
+%--
+2/4
+subtitle=score
+1 - - x x 1 1. 1 x x x q5. s5 q6 q3 5 q0 s1' s6 q5. s5 q6 q3 5 - q5. s5 q6 q3 5 - q5. s5 s1' q1' s3 x q0 s1' q6
+q3 5 3 q5 q6 q2 q5 3 - 1 5 - q6. s1' s2' d2'. d3' s2' s6 1' - q5. s5 s1' q1' s3 5 - 1 q3 s3 s5 q6 s6 2 - s0 s1 s2 s3
+q1' s6 s7 - - q1 1' q2' s3' s5 s3 s2' 3 s3' s2' q5' s3 s2 s5 s3' s3' 2' s2' s3' q5' s5 s6 s3 s2' s1' s6 s1 s2' q3' s5 s3' s2. d3 s2 s1'
+s,6' s,5 s1 s,6' s,6' ,5'. q,5'. s,6' q1' s,6 s1' q2' s1 s2' q3' s5 s3' s2. d3 s2 s1' s,6' s1 s2 s1' s1' ,6' s,6' s1' s2' s3' s1' s2 s,7 s,6' s,5' s,3 s,5 s,6' q1'
+s5 s3' s2. d3 s2 s1' s,6' s,5 s1 s,6' s,6' ,5' s3 s5 s2 s3 s1 s2 s,6 h6 d1 s,6' q,5'. d5 d6 d1 d2 d6 d1 d2 d3 5 s0 s6 s2 s5 3' ~ q3' s3.
+d5 s2 s3 s2 s1 s,6 s,5 s,6 s1 2 s1 s2 3 s2 s3 1 1 s,7 s,6 q,5. s,3 s,5 s,6 s,7 s2 ,6 - 0 0 0 s5 s3 s2 s3 s2 s1 q,6 q,4 d5 d6
+d1 d2 d6 d1 d2 d3 dx. ,x. x q,6 q,7 q1 q2 q1. s2 q3 q6 q5 s3 s2 3 s2 s3 s2 s1 q,6 q,4 ,5 - s,6' ,5' s,6' ,5' s,6' s1 s2 s3' s1' s2 s,7
+s,6' s,5' s,3 s,5 s,6' q1'. s5 s3' s2. d3 s2 s1' s,6' s,5 s1 s,6' ,5 - - 1 5 q0 s1' s6 q5. s5 q6. s3 5 - q1 s6 s1 s2 s3 s5 s6 s1' s2'. s3'
+s5' 6' 1' 0 x q1' q1' q6 q3 5 q3 q5 s5 s3 q2 s6 1' - 1 - 0
+%END

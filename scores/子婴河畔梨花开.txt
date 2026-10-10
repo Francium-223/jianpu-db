@@ -1,0 +1,21 @@
+%子婴河畔梨花开.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=51674
+title=子婴河畔梨花开
+tag=
+usertag=
+tagroute=
+confidence=0.942
+conf_p10=0.803
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-51674
+%--
+4/4
+subtitle=score
+- - - x x x' x s3 s5 s6 s7 q1' s1' s2' q3' q6 5 - q1' s1' s6 q3' q6 5 - q5 s5 s3 q5 q6 q1'. s6 q1' q2' 3' - - q2' s3' s2'
+q2' q1' 1' - - s3 s2 s3 s5 1 s3 s5 s6 s3 5 q3. s5 q3 q5 q1'. s2' s1' s2' s5 q6. s5 s3 s5 6 q5 s6 s5 q6 s3 s2 s3 s5 6 s2' s5
+6 s3 q3 s2 q3 q5 s2' s5 6 s3 s2 s3 s5 1 s6 s5 s6 5 q3. s5 q3 q5 q1'. s2' q6 5 s6 s5 s6 5 - q6 q6 5 q6 q6 5 q3. s5 q3
+q5 q1'. s2' q6 5. q6 5 - q1'. s2' q3' q6 5 - q1'. s2' q3' 2' - q3. s5 q3 q5 q1'. s2' q3' 2' s3' 2' - s2' q3' q6 5 - q1'. s2' q3' 2' -
+q3 s3 s5 q3 q2 1 - q5 s5 s3 q7 q5 6 - 0 s2' q3' 2' - q5 5 q3 3' q2' s3' 1'. q2' - - - q1'. s2' q3' 2' - q5 5 q3 q2' s3'
+s2' q1'. s2' 3' - - 3' - - - q2' s3' s2'. - - - - - 0
+%END

@@ -1,0 +1,17 @@
+%好阿姨.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48533
+title=好阿姨
+tag=
+usertag=
+tagroute=
+confidence=0.993
+conf_p10=0.993
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48533
+%--
+2/4
+subtitle=score
+5 5 6 5 3 5 5 6 5 q3 2 2 3 q2 q1 q6 q5 3 2 q1 q1 0 q2 3 3 2 1 1 2 3 5 3 2 3 3 2 1 q2 1 2
+1 6 ,5 1 1 6 1 x x 3 1 2 5 6 6 5 3 2 3 5 2 2 3 2 1 6 5 3 2 1. 2 1 0 - - - - - - 1
+%END

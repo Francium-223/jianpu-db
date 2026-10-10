@@ -1,0 +1,17 @@
+%娄山关_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=38917
+title=娄山关
+tag=
+usertag=
+tagroute=
+confidence=0.997
+conf_p10=0.994
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-38917
+%--
+2/4
+subtitle=score
+6 6 5 6 5 1' 6 5 6 5 3 2 3 2 3 - 2 3 2 1 q,6 q1 ,5 ,6 1 1 1 1 2 3 2 q1 3 3 3 3 5 6 5 6
+- q5 q3 q5 6 1' 5 1' q6 q5 2 q3 s1 q6 ,5 ,6. 1 1' 6 5 3 q6 q2' q1' 6 q5 6 6 -
+%END

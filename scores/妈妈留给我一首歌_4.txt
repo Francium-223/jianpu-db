@@ -1,0 +1,20 @@
+%妈妈留给我一首歌_4.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=44297
+title=妈妈留给我一首歌
+tag=
+usertag=
+tagroute=
+confidence=0.980
+conf_p10=0.971
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-44297
+%--
+2/4
+subtitle=score
+q2 q3 3 2 3 3 1 ,6 6 3 5 2 1 2 3 - - 6. s3 2 1 ,6 4 3. q1 2 - - 0 3 3 6 3 2 3 0 2 2 q5 2
+s0 1 q2 3 q0 4 q3 q2 1 ,7 q,6 ,5 ,6 - - qx q7 q,1' 3 q7 s1' 3 x 3 q,6. 3 q6 1 7 6. 5 6 - 6 2 q6 1 7 q6. q5
+3 - 3. ,6 6 q3 q4 q3. q1 3 q2' s,3 s3' 2 - q0 1 2 3 q0 2 q1 ,7 ,6 ,5 ,6 - q,6 q3 q6 1 q3 2 q1 2 q,1' q2' 3 x x
+q6 s7 3 2 3 6 q1 2 1. 6 1 - q1 q1 q3 6 7 6. 5 6 - 6. ,6 2 4 3 0 2 q1 ,7 ,6 ,3 ,5 ,6 - ,6 - 6 - 6
+-
+%END

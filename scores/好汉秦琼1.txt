@@ -1,0 +1,19 @@
+%好汉秦琼1.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=35526
+title=好汉秦琼1
+tag=
+usertag=
+tagroute=
+confidence=0.909
+conf_p10=0.604
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-35526
+%--
+4/4
+subtitle=score
+q7' q1 s7 7 x 2 4 4 1 x. ,x s1 q5. s5' s3'. q5' q6' 1' 1'. q2' q1'. s7 s6 s7 s6 s5 3. q5 q6. s5 q1' 2' s3'. s2'. q3' 2' - - - s6
+q1'. q2'. 3'. q2' q1'. s3' q2' q7 6. q5 q1. s2 q1' s1' q5 q5' s3 s2' s2' s3' s2' 1' - q2' q2'. s3'. s2' q1'. 2'. s1'. s2' q3'. s2'. s3' s7 s1' s1' 5. q3 q2'.
+s2' q3' q2' q7 q5' q5 6' - q1' 1' q6 q5 q1' q6 s6 s1' q5 q3' 2 - q2'. s3'. q2' q7 q6 q5'. q3' q2' 1'. s2'. s3'. s2' - q5 s5 s3 q5'. q5' 3'. q2'
+- - - - - -
+%END

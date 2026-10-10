@@ -1,0 +1,17 @@
+%孟姜女_4.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47897
+title=孟姜女
+tag=
+usertag=
+tagroute=
+confidence=0.996
+conf_p10=0.989
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47897
+%--
+4/4
+subtitle=score
+1 1 2 3. 2 3 q5. s6 q5 q3 2 - q2 q5 q3 q2 q1 q2 3 q2. q1 q,6 1 ,5 - ,5. 6 1 2 3. 5 q2 1 ,5 ,6 - ,6 2 1 ,6
+5. 6 1 2. 1 ,6 1 ,5 -
+%END

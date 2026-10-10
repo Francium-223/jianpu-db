@@ -1,0 +1,23 @@
+%好运来_7.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=6548
+title=好运来
+tag=
+usertag=
+tagroute=
+confidence=0.949
+conf_p10=0.766
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-6548
+%--
+4/4
+subtitle=score
+1 - - x 3 x 0 x ,,x' x' 1' x' 6 3' 2' q1' q6 5 q1' qx'. 0 6 - 6 q2' q3' 2' q1' q6 2 q5 q6 3 - 3 q5 q6 6 q6 q5
+6 q1' q6'. x' 2' - q1'. s2' q3' q3' q3' q3' q2' q1' q5 q3 1' 6 - 6 - - - 0 0 0 0 1 q6. s6 q1' q1' ,5 6. q6 q5 q3 q5 q1' 6
+- q6 q1' q1'. s1' q1' q6 5 q6 q5 q2 q5 ,2 3. q3 q3 q2 q1 q3'. 0 2. q3 q6 q5 q3 q6'. 5 - q6 q1' q1'. s6 q2' q2' q2' q1' q1 6 q5 q1'
+1 0 6 - - - q5 q1' - 0 6 - - - 6 q3' q2' 2' q1' q6 5 q1' q2' 6 - 6 2' 1' q6 q5 2 q5 q6. - 3 - 3 q6 q5 6
+q6 q5 6 q1 q6. - 2 - q1. s1 q1 q2 q3 q3 q2 q1 5 q1 q6. - 6 - 6 - - - 2 - x 0 0 1 - s6 s5 q3 q2 q2 s2 s1
+s2 s3 q5 q5 s5 s2 s3 s5 q6 q6 s6 s3 s5 s6 q1 q1 s1' s6 s1' s2' q3' q3' 0 0 0 q3' q3' qx ,5 q1' q6'. 6 - 6 q3' q2' 2' q1' q6 5
+q1' q2'. 6 - 6 2' 1' q6 q5 2 q5 q6'. 0 3 - 3 q6 q5 6 q6 q5 6 q2' qx'. 0 2' - q1'. s1' q1' q2' q3' q3' q2' q1' 5 q1' q6'. 6 -
+2' - - - 3' - - - 6 - - - 6 - - - 0 q5 q5 6 -
+%END
