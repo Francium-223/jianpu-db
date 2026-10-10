@@ -1,0 +1,17 @@
+%在路旁_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=45381
+title=在路旁
+tag=
+usertag=
+tagroute=
+confidence=0.998
+conf_p10=0.996
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-45381
+%--
+4/4
+subtitle=score
+q3 q3 q6 q6 q3 q1 q6 q1 q4 q3 3 ,7 - q3 q3 7 q7 q5 q3 q3 2 q1 s7 ,6 - - q3 q3 q6 q6 q6 q7 q1' 7 q6 q3 5 4 - q4
+q4 3 7 q3 q2 q1 s7 ,6 - -
+%END

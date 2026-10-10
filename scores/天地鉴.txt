@@ -1,0 +1,23 @@
+%天地鉴.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=26691
+title=天地鉴
+tag=
+usertag=
+tagroute=
+confidence=0.979
+conf_p10=0.984
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-26691
+%--
+4/4
+subtitle=score
+1 0 0 - 1. x' 1 x x x q6 q2 6 q1 q,7 ,6 q6 q2 6 q1' q4 q7 q2 q6 q2 6 q1 q,7 ,6 q6 q2 6 q1' q3 q2' q5 q6 q2 6 q1
+q,7 ,6 q6 q2 6 q1' q4 q7 q2 q6 q2 6 q1 s,7 ,6 6 ,6 3. q2 5 - - - q0 q6 q5 q6 5 q3 ,6 - - - 0 2 s6 s5 5 q6 5
+q5 q2 2 - q0 q2 q3 q1 q1' q5 q5 q3 6 - - - 0 2 4'. 6 1'. q6 5 - q0 q2' q1' q6 5 3 1 1 - - 0 ,6 q2. s6 q3 q3
+5 q6 q2 ~ 2 - q0 q3 q5 q3 q3 1 q,6 2 - - - 0 0 0 2 2' - - - 7 - 2' 2 6 - - s5 s6 s5 s4 2 - - 2
+2' - - - 3' - 2' 6 2' - - - 2' 0 0 q2'. q3' q4'. q3' q1' q1' 1' 4 1' - 6 - q5 s5 s6 q1' q1' 5 6 3 - - q1' q7 2
+- - q2' q6 2 - - q3 q4 2' - 6 q5 6 - - q2'. q3' q4'. q3' q1' q1' 1' 4 1' - 6 - q5 q6 q1' q1' 6 q6 q5 2 - - q3 q4
+2' - - q2 q4 4' - - - 0 0 3' 1' 5 - 1' - 1' - 0 0 2' - - - 2' - - - q6 q2 6 q1' q4 q7 q2 q6 q2 6 q1
+q,7 ,6 q6 q2 5 q1' q3 q7 q5
+%END

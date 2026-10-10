@@ -1,0 +1,24 @@
+%天下一家_2012春晚歌曲.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=28072
+title=天下一家 2012春晚歌曲
+tag=
+usertag=
+tagroute=
+confidence=0.983
+conf_p10=0.981
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-28072
+%--
+6/8
+subtitle=score
+1 - - - 1 x ,x 6 4 q6 q1' q1' q2' 1' q7 q6 q5 q3 q5 q3 q2 5 q3 6 q,5 q,6 q3 q2 q1 q,7 q1 2 ,5 q5 q6 q7 q2' q2'. q3' q0
+2' q1' q1' q7 q1' 6 q5 ,5 q1 q3 s3 s2 q1 q,7 s,7 s,6 s,7 s1 ,5 ,6 q1 q6 q6 q5 q4 s3 s4 q5 2 3 q4 5 s5 s6 5. 5. 3 q3 2 s2
+s3 ,6. ,6. ,7 q,6 ,5 q3 2. 2. ,7 q1 q2 q1 q2 3. 3. ,5 q1 q3 s3 s2 q1 q,7 s,7 s,6 s,7 s1 ,5 ,6 q1 q6 q6 q5 q4 s3 s4 q5 2 3 q4
+5 q6 5 ~ 5 3 q3 2 s2 s3 ,6 ~ ,6 q,7 q,7 q,6 ,5 q3 2. 2. 3 s4 s3 q2 q3 q4 5. 5. 1' q3 7 q3 q6 s6 s7 s6 s5 3. 2 q3
+q7 q7 q6 q4 q4 s3 s4 5. q,7 q,7 s1 s2 3. q2 q2 s2 s3 4. 2 q2 q2 q3 q4 5. ~ 5. 5. 5. 1 q2 2 q3 ,5 ~ ,5 4 q4 3 q1 2
+~ 2 q2 q3 q4 6 q6 5. 5. 4 q4 5 s5 s6 3 ~ 3 q3 q4 q5 7 q6 q2 q3 q4 6 q5 q4 s4 s3 s4 s5 2 q3 7 q6 q4 q3 q4 5
+~ 5 1 1 q2 2 q3 ,5 ~ ,5 4 q4 3 q1 2 2. q2 q3 q4 6. 5. 5. q4 q3 q4 5 s5 s6 1 0 0 1 q2 2 q3 ,6 ,6 4 q3 q3
+q4 q5 5 5. q2 q3 q4 5. q4 q3 q4 5 s5 s6 3. 3. q3 q4 q5 7 q6 q2 q3 q4 6 q5 q4 q3 s4 s5 5. ~ 5 ~ 5 7 q7 7 q1' 1'
+1'. 1'. 1'. 2 0 2 0 2 3
+%END

@@ -1,0 +1,17 @@
+%在森林和原野.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=11141
+title=在森林和原野
+tag=
+usertag=
+tagroute=
+confidence=0.959
+conf_p10=0.852
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-11141
+%--
+2/4
+subtitle=score
+0 q0 q5 q5 q3 1 q3 q5 1 q3 q5 q4. s6 q6 q6 q3. s5 q5 q5 q2 q4 q3 q2 1 q0 q5 q5 q3 1 q3 q5 1 q3 q5 q4. s6 q6 q6 q3. s5
+q5 q5 q2 q4 q3 q2 q1 0 q5. s1' q1' q7 q2' 5 q5. s2' q2' q2' q3' 5 q3. s5 q5 q5 q2 q4 q3 q2 1 0
+%END

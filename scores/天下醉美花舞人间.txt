@@ -1,0 +1,22 @@
+%天下醉美花舞人间.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=7517
+title=天下醉美花舞人间
+tag=
+usertag=
+tagroute=
+confidence=0.954
+conf_p10=0.832
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-7517
+%--
+4/4
+subtitle=score
+s6 s1 s1 s7 q7 q6 q6 5 s3 s5 q6. q6 q6 q3 s6 s5 5. s6 s1 s1 s7 q7 q6 q6 5 s3 s5 q6. q6 q6 q3 2 - q3 s3 s5 q5 s3 s2 s3
+s2 1. q2 s2 s3 s5 s3 s3 s1 ,6. q1 s6 s1 q,5 s3 s6 q3 s2 s3 q5. s3 s2 s2 s3 s5 q,6 s5 s6 1. - s2 d3 s5 s5 s3 s3 s2 s3 s2 1.
+q2 s2 s3 s5 s3 s3 s7 s6 s5 ,6. q1 ,5 q,6 q3 s2 s3 s3 q5 s3 s2 s2 s3 s5 q1 s6 s5 s3 s2 3. q2 s3 s5 s5 q3 s2 s3 s2 1. q1 1.
+1 - - - 0 q2 s2 s3 s5 q,3 s7 s6 s5 ,6. q1 ,5 s6 s6 q3 s2 s3 s3 q5 s3 s2 s2 s3 s5 s7 s6 s5 s6'. 1 - q1 s1 s1 q7 q6 q6
+5 q3 q6 6 q3 5 - q1'. s1' q1' q7 q6 s7 s6 q5 q3 q6 s5 s6 s5 s6 s5 s3 s2 s1 2. q2 s3 s5 s5 s3 s3 s2 s3 s2 1. q2 s2 s3 s5
+s3 s3 s7 s6 s5 ,6. q1 s6 s1 q,5 s5 s6 q3 s2 s3 s3 q5 s3 q2 s2 s1 q2 s2 s3'. 0 5 - s2 s2 s3 s5 s7 s6 s5 s6 q,6 1. s2 s2 s3
+s5 s7 s6 s5 s6 q,6 1. q2. s2 q3 q5 q2 3 q,6 1 - 0 - 1 - -
+%END

@@ -1,0 +1,16 @@
+%大姐去逛灯.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47674
+title=大姐去逛灯
+tag=
+usertag=
+tagroute=
+confidence=0.998
+conf_p10=0.992
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47674
+%--
+2/4
+subtitle=score
+3 3 3 q2 1 q2 q1 6 1 5 6 4 1 q5 q6 1 1 4 1. q7 7. q2 1 7 q2 q5 2 q3 q5 q5 1 1
+%END

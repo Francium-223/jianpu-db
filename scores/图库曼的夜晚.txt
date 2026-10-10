@@ -1,0 +1,21 @@
+%图库曼的夜晚.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49998
+title=图库曼的夜晚
+tag=
+usertag=
+tagroute=
+confidence=0.946
+conf_p10=0.744
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49998
+%--
+3/4
+subtitle=score
+1 1 q1 s,7 1' q2' 3 - - 3 3 2 3 4 5 - - q6. q6 5 q6 5 q6 6 3 2 3 2 3' ,6 ,6 ,5 ,6 ,7 1 - - 1 q1 q,7
+q1 q2 3 - - 4. q4 3 q4 3 4 4 1 ,7 1 ,7 1 x q3 q2 q1 2 q,7 1 - - 7 s6 q5 6. 5 - - 7 6 5 4 3 - -
+q1 q,7 q,6 ,7 ,5 ,6 - - 5 4 3 4. 3 - - 5 4 q3 2 1 - - x q6. q6 q5 q6 q5 q6 q6 q3 2 q3 q2 3 3 1 2 x 1
+2 ,7 1 - - q6. q6 x q5 6 q7 q1' 1' 7 6 5 q4 q3 x x. - - - x. - x q4. s4 q3 q4 q3 q4 4 q1 ,7 q1 ,7 q1 1 q,7
+,6 ,7 ,5 ,6 - - q4. q4 q3 4 q5 6 q6 q5 q4 q3 2 q1 1 3 2 1 2 ,7 1 - - 3 q2 1 2 x q5 6 - - 6 - - 6
+0 0 q1 q,7 ,6 ,7 x q,5 ,6 - - q1 q,7 q,6 ,7 q,5 ,6 - - ,6 - - ,6 0 0
+%END

@@ -1,0 +1,22 @@
+%在那东山顶上_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=25533
+title=在那东山顶上
+tag=
+usertag=
+tagroute=
+confidence=0.961
+conf_p10=0.871
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-25533
+%--
+2/4
+subtitle=score
+s0 s5 s2 s3 s6 s5 s2 s3 s2 s3 s1 s6 s1 s5 s2 s3 s6 s5 s2 s3 s2 s3 s6 1 q5 s5. s6 s5 s6 s4 s5 q3. s2 1 q5 s5 ~ s5 s5 s6
+s4 s5 q5 q5 q3. s2 s,6 s1 q1 s2 s3 s5 s6 s5 s4 s3 s1 2 s2 s3 s1 s,6 s,5 s,5 s,6 s1 1' - x 1 q5. q5. s6 s6 q4. s5 s5 s3 s1 s2
+s3 1 1' q5. q5 s5 s,6. s6 s4 sx s5 s6 s5 s0 s1 s2 s3 s5 s1' s2' q5'. 5. q5. s6 q4. s5 s3 s1 s2 s3 s2 s3 s1 d6 q,5 d6 s1 q1'. ~ 1
+0 1' - 1' - q5 s6 s6 s5 s2 s3 q1 q1'. 1 - q,6. s1 s2 s3 s6 s1' q6 s5 s6 q5 q4 q3 s2 s3 s1 s,6 s,5 s,6 q1'. q1'. q1 q1 q1'. q1 s2
+s3 s5 s1' s1'. s2' - 1' - q5 s6 s6 s5 s2 s3 q1'. ~ q1'. ~ q1 - q,6. s2 s3 s1' ~ s1' q6 s5 s6 q5 q4 q3 s2 s3 s,6 s,5 s,6 1 - 1
+s2 s3 s5 s1' s1' s2' s2' - 1' - q5 s1' ~ s1' s6 s5 s2 s3 q1 ~ q1'. - s6. 0 s2 s3 s1' 0 0 q1 s2 s3 s5 s1' s2' s2' - - q5 s1'
+s6 s5 s2 s3 1 q,6. s2 s3 s1' ~ s1' q6 s5 s6 q5 q4 q3 s2 s3 s1 s6 s5 s6 q1'. ~ 1 -
+%END

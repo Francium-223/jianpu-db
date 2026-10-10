@@ -1,0 +1,16 @@
+%城市行囊.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=35399
+title=城市行囊
+tag=
+usertag=
+tagroute=
+confidence=0.778
+conf_p10=0.576
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-35399
+%--
+4/4
+subtitle=score
+1 - - - x x x x. 1 x x 0 0 0 0 0 0 0 ,1 1 x x - 4
+%END

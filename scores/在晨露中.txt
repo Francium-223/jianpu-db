@@ -1,0 +1,18 @@
+%在晨露中.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49861
+title=在晨露中
+tag=
+usertag=
+tagroute=
+confidence=0.988
+conf_p10=0.990
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49861
+%--
+2/4
+subtitle=score
+1 q,5 q5 1 q3 ,5 1 3 q1 2 q2. q2 2 0 3 4 4 4 5 4 3 2 3 q1 q1 1 q0 q1 q,5 1 q,5 q,5 1 q3 q1 ,7 q,7. d7 ,7 q0
+q1 2 q2 q2 ,7 q2 q,5 ,7 1 1 q1 1 q0 q1 1 q4 4 q4 4 6 4 3 3 3 q1 3 5 q3 1 ,5 q,7 q,5 3 q2 ,7 1 1 1 0 ,6
+,6 q,6 ,6 1 ,6 ,5 ,5 ,3 ,5 3 q1 q1 ,5 q,7 q,5 ,5 q,7 ~ ,7 1 1 1 0
+%END

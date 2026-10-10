@@ -1,0 +1,18 @@
+%天堂里的课堂.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=16103
+title=天堂里的课堂
+tag=
+usertag=
+tagroute=
+confidence=0.949
+conf_p10=0.741
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-16103
+%--
+2/4
+subtitle=score
+3 q5 q5 q4 q3 ,5 q6 q4 q3 q1 q3. - qx - - q3 q4 5 q4 q3 q3 4 - q4 q3 q3 1 - 1 - 0 0 q7' 0 0 q1 q1' q7 q1' 6
+- q6 q6 q6 q5 3 2 q3 q4 q5 q6 5 - q1 q7 q1 - q2 s1 q7 q7 - q3 q4 q5 q6 5 q1 q1 q4 q3 q2 q3 ,6 - q7 q7 q7 q1 q2
+q3 2 q4 q3 q2 q3 1 - 4 3 2 3 5 - 5 - 5 0
+%END

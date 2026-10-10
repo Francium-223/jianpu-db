@@ -1,0 +1,17 @@
+%大家一起做功夫.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47605
+title=大家一起做功夫
+tag=
+usertag=
+tagroute=
+confidence=0.987
+conf_p10=0.991
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47605
+%--
+2/4
+subtitle=score
+6 1' 1. 2' 1' 2' 6 6 6 1' 1'. 2' 1' 2' 6 6 6 1' 1'. 6 1' 6. 6 q1 6. 6 6. x. 0 2 ,1 2 1 1 2 1' 1 6 6 4
+3 q6 q1 q1 2 q6 1 1 q6 6 qx 4 1 6 1'. q6 1 6. 6 1' 6. 6 6. x. 0
+%END

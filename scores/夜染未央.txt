@@ -1,0 +1,23 @@
+%夜染未央.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=28526
+title=夜染未央
+tag=
+usertag=
+tagroute=
+confidence=0.974
+conf_p10=0.962
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-28526
+%--
+3/4
+subtitle=score
+x q1 q2 - - q1 q1 q1' - - q1' q1' q1' 1' 3 - - - - q,5 q,6 q,6 q,5 q1 q2 3 - - q1 q2 q1' q1' q6 q3 5 - - 1' q1' q6
+1' 5 q6 q5 3 q6 q5 q3 q1 q,6 q3 2 - 0 q,5 q,6 q,6 q,5 q1 q2 3 - - q1 q2 q1' q1' q6 q3 5 - - 1' q1' q6 1' 5 q6 q5 3
+q6 q5 q3 q1 s,6 q2 1 1 - - q1' q1' q1' q6 q5 q6 1' - - q6 q6 q6 q5 q1' q1' 3 0 q3 q2 q1 q1 q1 q,6 1 - - q1' q1' q1' q6
+q5 q6 1' - - q5 q5 q5 q3 5 q6 q1 q1 q6 q5 q3 2 - 0 q,5 q,6 q,6 q,5 q1 q2 3 - - 1 q1 q2 q1 q1' q6 q3 5 - - 1' q1'
+q6 1' 5 q6 q5 3 q6 q5 q3 q1 q,6 q2 1 - - 1 - - 0 q1 q2 q1' q1' 6 - - x 1' q1' q1 2 q2 q3 - - - q,5 q,6 q,5 q,6
+q1 q2 q1 q2 q1 q2 q3 q5 q1' q1' q1' q1' q1' q1' q6 q5 5 q3 q5 q6 q1' q1' q2' q1' q6 q5 q6 q5 q3 q2 q1 q2 q3 q2 q1 q0 q2 1 - -
+5'. 1 q,5 q,6 q,6 q,5 q1 q2 3 - - q1 q2 q1' q1' q6 q3 5 - - 1' q1' q6 1' 5 q6 q5 3 x 0 q,5 q,6 q1 q2 1 - 0 0 q1 q2
+q1' q1' 6 - - 0 0 x - - q6 q5 q3 q1 q,6 q2 1 - - 1' q1' q6 1' 5 q6 q5 3 q6 q5 q3 q1 q,6 q2 q1 q1 1 -
+%END

@@ -1,0 +1,17 @@
+%土拨鼠_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49683
+title=土拨鼠
+tag=
+usertag=
+tagroute=
+confidence=0.954
+conf_p10=0.805
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49683
+%--
+6/8
+subtitle=score
+1 0 6 ,x' x' x x' x x 3 6 q6 6 q6 q7 q1' q7 6 q6 7 q7 q1' 7 6 7. 3 q3 6 q6 6 q6 7 q1' 7 6 q6 7 q7 3 3
+6. 6 6 q7 1' q1' 2' 2' 3' q3' 2' q2' q1' q7 q6 q1' 7 q6 7. 7 6 7 1' q1' 2' q2' 3' q3' 2' q2' q1' q7 q6 q7 q1' 7 6. 6
+%END

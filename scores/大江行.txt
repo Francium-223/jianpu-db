@@ -1,0 +1,20 @@
+%大江行.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=31996
+title=大江行
+tag=
+usertag=
+tagroute=
+confidence=0.955
+conf_p10=0.858
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-31996
+%--
+4/4
+subtitle=score
+x 0 1 ,6 ,5. 5 5 - - 0 3 2 1 q,6'. 6' 6' - - 0 7 6 5 6 5 3 0 5 6 4 3 5 2 0 ,5 1 3 6 5 - 4.
+3 q2 q3 1 x 3 4 5 6 1 ,7 ,6 ,5 1 2 3 6 5 1 2 3 - - 4 5 6 - 6. 0 5. 6 5 4 3 ,7 0 ,5 5 4. 3
+2 3 1 - - ,5 5 - - 4 5 5 - - 4 5 5 4 3 4 5 2 - - - 3. 5 2 3 1 ,7. 2 ,1 3 - ,5. 0 q1 q2 3
+4. q3 q2 q1 5 1 6 6 - 5. 0 5 4 4 q3 q2 q3 q0 5. 5 0 5 4. 3 2 3 1 0 5. 5 6 5 0 4. 3 2 5 1 ~ 1
+0
+%END

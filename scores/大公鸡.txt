@@ -1,0 +1,16 @@
+%大公鸡.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48506
+title=大公鸡
+tag=
+usertag=
+tagroute=
+confidence=0.982
+conf_p10=0.989
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48506
+%--
+2/4
+subtitle=score
+q6 q3 3 q1 q6 ,6 q6 q3 q3 2 q1 q6 ,6 6 3 3 2 3 5 3 6 3. 6 3. 6 1 6 0 - - - 0 - - - 1
+%END

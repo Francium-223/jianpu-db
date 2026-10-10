@@ -1,0 +1,20 @@
+%在我心中有条河.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=7183
+title=在我心中有条河
+tag=
+usertag=
+tagroute=
+confidence=0.950
+conf_p10=0.887
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-7183
+%--
+4/4
+subtitle=score
+x 6 q1' q7 q6 q7 q6 q5 6 q5 q6 q3 q4 q6 q5 q5 q5 q5 q6 q7 q6 q5 q6 6. 6 q1' q7 q6 q7 q6 q5 6 q5 q6 2 q1 q2 q2 q2 q2
+q3 q5 q2 q1 q7 ,6. q6 q3 q3 q5 q6 1' q7 q7 q6 q5 q6 q5 6. q6 q3 q6 q1' q6 q5 q1 q2 5 3 0 0 6 q3 q5 q6 1' q7 q6 q5 q5
+q6 2 - q2 q2 q3 s5 s5. 2 q2. q,7 ,6 - 0 0 6 q1' q7 6. q5 6 q5 q6 3. q3 q5 6 q6 q7 q6 q5 q6 6 6 q1' q7 6. q5 q6 q5
+q3 q2 2 q2 s2 q2 q3 q5 q5 q5. q5 q6 q6 6 6 q1 q1' q7 6 - 2 q2 q2 q3 1 - 2 2 q2 q3 s5 q3 q3 q2 q1 ,6 - ,6 0 -
+0 0 6 q1' q7 6. q5 2. q3 1 - 5 q5 q6 q7 q6 5 6 - - - 6. q,6 q1 q2 q3 q5 ,6. - - -
+%END

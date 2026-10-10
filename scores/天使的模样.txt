@@ -1,0 +1,22 @@
+%天使的模样.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=17440
+title=天使的模样
+tag=
+usertag=
+tagroute=
+confidence=0.981
+conf_p10=0.969
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-17440
+%--
+4/4
+subtitle=score
+q3 q4 5. q5 q5 1 q6 5 - - q2 q3 4. q3 q2 2 s2 s4 3 - - q3 q4 5. q4 5. q1 6 - - q7 q6 5. q2 4. q3 1 - - -
+q,5 q3 ~ 3 3. q,7 q2 q1 ~ 1 - q2 q3 4 - q3 2 q1 2 - - q3 q4 5 - q7 6 q5 q6 q4 ~ 4 - q7 q1 2. q3 q4 q3 q2
+q6 5 - - - 1'. q6 4 q5 6 - - - 6. q5 3 q1 2 - - - q5 q4 3 - q3 q2 q3 q,6 ~ ,6 - q,5 q4 q3 q4 3 - q2 2
+q1 q6 q5 5 - q2 q3 4 - q3 2 q3 q2 q1 1 - - q2 q1 1 - - ,5 q3. s3 q2 1. q2 s2 s2 q2. s3 ,5 - ,6 q1 q,6 s,6 q6 s5
+5 q4 q3 s,6 q1. 2 - ,5 q3. s3 q2 1. q4 s1 s1 q4 q5'. 6 - s6 s6 q5 s4 s3 2 - q5 5 q3 q4. s3 q2 q3 1 - - - ,5 q3. s3
+q2 1. q2 s2 s2 q2. s3 ,5 - ,6 q1 q,6 s,6 q6 s5 5 q4 q3 s,6 q1. 2 - ,5 q3. s3 q2 1 q4 s1 s1 q4 q5'. 6 - s6 s6 q5 s4 s3 2
+- q5 5 q3 q4. s3 q2 q3 1 - - - q5 5 q6 7 q6 q5 - - - 0 0 0
+%END

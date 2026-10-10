@@ -1,0 +1,19 @@
+%天上飘着雨.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=20955
+title=天上飘着雨
+tag=
+usertag=
+tagroute=
+confidence=0.968
+conf_p10=0.878
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-20955
+%--
+4/4
+subtitle=score
+x q5 7 1' - 2' q1' 5 - 6 - q3' q6 2' - s5 s6 s7 s2' 1' q2' q7 s6 5 6 - - - 6 - - - x q3 s6 s6 q6 6 6 q3
+q7 q7 s7 7 q3 q7 q1 q1 q1 q1 1 s2 q3 7 - - - q6 q2 q2 q2 2 2 q6 q1' q1' 1' q3 q1' 1' q6 2' 1' 7 - - - q7 3 q1'
+q7 6 - - - x s6 s7 s2' 3' - x q2' q3' 4' - - 2' 3' - - q2' q3' 4' - - 6' 3' - - q5' q5' q5' q5' q5' 5' q5' q4' q4' q4'
+q4' 4' q2' 7 - 1' q7 6 - - -
+%END

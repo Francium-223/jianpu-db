@@ -1,0 +1,25 @@
+%城市稻草人.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=29615
+title=城市稻草人
+tag=
+usertag=
+tagroute=
+confidence=0.986
+conf_p10=0.984
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-29615
+%--
+4/4
+subtitle=score
+q3 s3 s5 ~ q5 q3 q5 q3 x q2 s2 s3 ~ q3 q,6 q6 q3 q6 s3 s5 ~ q5 q3 q5 q3 x q2 s2 s3 ~ q3 ,6 - - s1 q1 s1 ~ q1 q,7
+q,6 s,6 s,6 ~ ,6 s1 q1 s1 ~ q1 q,7 q,6 s3 s3 ~ 3 s1 q1 s,7 ~ q,7 q,6 q1 s,6 s,6 s,5 q,6. 0 0 0 0 s1 q1 s1 ~ q1 q,7 q,6 s,6 s,6
+~ ,6 q1 s1 s1 ~ q1 q,7 q,6 s3 s3 ~ 3 s1 q3 s2 ~ q2 q1 q,7 q1 q1 s3 d7 1 - q3 q2 q2 q1 ~ 1' - q,7 q1 1 - q1 q,6 q,7
+q1 ~ q1 q,7 ~ ,7 - q,7 q1 1 - q1 q3 s2 s1 s1 s3 q2 q2 ~ 2 0 q,7 q1 1 - q1 q,6 q,7 q1 ~ q1 q,7 ~ ,7 0 s1 q3 s3 ~
+q3 q3 q3 s3 s3 ~ q3 q3 ~ 3 q2 s2 s2 ~ 2 0 s1 q3 s3 q3 q3 q3 s3 s3 ~ q3 q3 q5 q3 ~ 3 - - s1 q3 s2 ~ q2 q2 q2
+s2 s2 ~ q2 q1 q1 s7 ~ ,7 - 0 s1 q3 s3 q3 q3 q3 s3 s3 ~ q3 q3 q5 q3 ~ 3 - 0 s1 q3 s2 ~ q2 q2 q2 s1 s1 ~ q1 q,7
+q,7 q,6 ~ ,6 - 0 s1 q3 s3 q3 q3 q3 s3 s3 ~ q3 q3 q5 q3 ~ 3 - 0 s1 q3 s2 ~ q2 q2 q2 s2 s2 ~ q2 q1 q1 s7 ~ ,7 -
+0 s1 q3 s3 q3 q3 q3 s3 s3 ~ q3 q3 q5 q3 ~ 3 - 0 s1 q3 s2 ~ q2 q2 q2 s1 s1 ~ q1 q,7 q,7 q,6 ~ ,6 - 0 0 x q3 q6
+s3 s5 ~ q5 q3 q5 q3 x q2 s2 s3 ~ q3 ,6 q6 q3 q6 s3 s5 ~ q5 q3 q5 q3 x q2 s2 s3 ~ q3 ,6 q3 s3 q3 q3 x q2 s2 s3 ~
+q3 q,6 q6 q3 q6 s3 q3 q3 x q2 s2 s3 ~ q3 q,6 ~ ,6 - - x. - ,6' -
+%END

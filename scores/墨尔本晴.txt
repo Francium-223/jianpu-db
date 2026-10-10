@@ -1,0 +1,23 @@
+%墨尔本晴.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=25520
+title=墨尔本晴
+tag=
+usertag=
+tagroute=
+confidence=0.939
+conf_p10=0.685
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-25520
+%--
+6/8
+subtitle=score
+x q3 1' 1' 1' q3 1' q7 5 q5 q2' 5. 5 3. q3 q3 1' q7 5 x 5. q1' q1' q1' q1' q3 q3 q1' q1' q1' q3 q3 q1' q1' q1' q1' q1' q1' q1' q5
+q6 q7 q7 q7 q7 q7 q7 q7 q7 q7 q7 q7 q7 q5 q5 q5 q5 q5 q4 3 q3 q6 q7 q1' q1' q1' q1' q1' q7 q1' q1' q1' q1' q3 q3 q1' q1' q1' q1' q1'
+q7 6 q5 q5 q6 q7 q7 q7 q7 q7 q7 q7 s7 s7 q3 q3 q3 q3 6 ~ 6 0 q3 q6 q7 q1' q1' s1' s1' q1' q1' q1' q1' q1' q1' q1' q1' q1' q1' q1'
+q1' q1' q1' q7 6 q5 q5 q6 q7 q7 q7 q7 q7 q7 q7 q7 q7 q7 q7 q7 q5 q5 q5 q5 q5 q4 3. q3 q6 q7 q1' q1' q1' q1' s1' s1' s1' q1' q1' q1'
+q1' q1' q1' q1'. q3'. q5' q5' 4' q5 q5 q6 7 q7 7 q7 6. 5. 6. 6. 0 0 7 q6 7 q6 7 q6 7 q6 7 q7 7 q6 4. 0 7 q6 7 q6 7
+q6 7 q6 q5 q5 q5 5 q4 3. 3. 7 q6 7 q6 7 q6 7 q6 q7 q7 q7 q1' q2' q2' 6. 0 7 q6 7 q6 q5 q5 q5 q5 q3 q3 ~ q3 6 6.
+0 0 q3 6 6. 6. ,5. 3 q2 3 q2 3 q1 1 q1 q2 q2 q2 2 q1 ,6. 0 s6 4 q3 4 q3 4 q3 2 q1 4 q3 ~ q3 q3 q2 3. 0 q,5
+5 q5 5 q5 5 q,7 0 q,7 2 q2 q2 q2 q3 q2 s1 s2 q1 0 q,6 4 q,6 ,6 q,6 1. 0 q,7 1. 1. 1'. 0 q3' 6 6.
+%END

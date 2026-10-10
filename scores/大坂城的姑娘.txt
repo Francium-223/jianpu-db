@@ -1,0 +1,18 @@
+%大坂城的姑娘.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=45293
+title=大坂城的姑娘
+tag=
+usertag=
+tagroute=
+confidence=0.996
+conf_p10=0.985
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-45293
+%--
+2/4
+subtitle=score
+6 6 q6 q6 q1 q1 q2 q3 q2 s1 1 q,6 q2 q3 q1 q2 q3 1 2 ,6 q3. s3 s3 s3 q3 q2 q3. q5 q3 s2 q1 q1 s6 q2 q2 s2 s3 q1 q,7 ,6
+- 6 q6 q5 6 6 6 1 6 q5 q5 q3 5 q5 s3 s5 q6 s5 q4 3 - q3 q4 q5 6 5 q3 q5 q4 3 2 1 1 q2 s2 s3 s1 q2 s1 s7
+,6 -
+%END

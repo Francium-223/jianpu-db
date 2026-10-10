@@ -1,0 +1,22 @@
+%多雨的城市.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=36344
+title=多雨的城市
+tag=
+usertag=
+tagroute=
+confidence=0.960
+conf_p10=0.920
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-36344
+%--
+4/4
+subtitle=score
+1 - - x - x ,1 ,5 1 q2 q3 1 1 q2 1 q,6 q,5 s,5 s,5 1 1 q2 1 q1 2 2 q1 q2 1 - - q1 - - - x q6 q5 s1' q1'.
+1' 0 q3 q2 s3 q5. 5 0 s6 q6. q6 q6 q5 q5 s3 q2. 3 - 0 0 q6 q5 s1' q1'. 2' - q5 q3 s2' q7. 1' - q6 s6 s6 q5 q6 q5 q2 s1
+q2 s1 1 - 0 0 q6 q5 s1' q1'. 1' 0 q3 q2 s3 q5. 5 0 s6 s1' ~ q1' q6 q6 q5 q5 s3 q2. 3 - 0 0 q6 q5 s1' q1'. 2' - q5 q3
+s2' q7. 1' - s6 q6 s6 q5 q6 s2'. q3'. s1' q1' s7 1' - 0 q2' q2' sx. s3' q3' s3' 5' s2' q2' s2' 5' s1' q1' s1' q4' q4' 3' - s6 q1' s1' 1' s3'
+q3' s2' 1' s6 q1' s1' s1' s6 q1' 2' q1' q2' s3'. q3'. s3' 5' s2' q2' s2' 5' q1' s1' q4' q4' 3' s3' q2'. s1' q1' s1' 1' s3'. q3' s2' 1' s1' q1' s1' q1' 6.
+0 sx sx qx q0 sx x 0 1 - - q3 q2 1 - - q3 1 - - q3 q2 x s6 q1' s1' q1' q6 q3' q3' s1' q2'. 1' - - - 1' - 2' 3'
+1' - q3'. q3' s2'. q3'. 1' - 2' 3' 1' - 0 q1' q2' s6 q1' s1' q1' q6 q3' q3' s1' q2'. 1' - - - q1.
+%END

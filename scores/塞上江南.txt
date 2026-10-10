@@ -1,0 +1,21 @@
+%塞上江南.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=31993
+title=塞上江南
+tag=
+usertag=
+tagroute=
+confidence=0.892
+conf_p10=0.550
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-31993
+%--
+4/4
+subtitle=score
+1 0 - q1 4 q1 q4 - x' q2'. s5 q2' q1' q2' s1' s2' q6 q5 q4 s4 s5 q6 s5 s6 5 - x ,x 2' s2' s1' s6 s5 q2 - qx q6 s6 s5 q6
+q1' 2' - q2'. s1' q6 q5 q6. s1' s5 s6 q3 2 - - - 2' s2' s1' s6 s5 5 - qx q5'. q6 q5. h6' s,,6 s6' s6 d5 d5' q3 q3. q,5 q3 q5 q,,,5' q,,,5
+6' ,6' q,1' q2 q0 q1' q1' d,2. ,x' q2 q2 q2' q2 q2' q2 q2'. q2 q1' q2 q2 2' h2 q2' q,2 s6 s6 q2 q2 q6 q2 q6' q6' q2' q2' s5 s5' q2 q2 q,5 q2
+q0 4' q2 q2' q4 q2 q2 q,2' q6 q2 q1' q,2 q2 q2 5 x q5 s5 d,2 qx q2' s1' d1' q2' q3' d2 d2 s6 s6 d5' d3' s4' s2' s4 h1 s5' s1' q6' q1' q1'
+q5 q6 q1' s2' s3' 2' - q2'. s5' q2'. s1' q2' s1' s2' q1' q6 q4 s4 s5 q6 s5 s6 5 - 2 s2 s1 s6 s5 2. s5 s6 q1. s6 q1 s2 s3 2 - q2.
+s5 q2 s1 s1 q2 s1 s2 q6 q5 q0 q6 q1 q2 4 q3 q2 6 - - - 5 - - - 5 - - 0 1
+%END

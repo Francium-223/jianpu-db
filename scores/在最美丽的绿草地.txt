@@ -1,0 +1,17 @@
+%在最美丽的绿草地.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=45384
+title=在最美丽的绿草地
+tag=
+usertag=
+tagroute=
+confidence=0.995
+conf_p10=0.979
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-45384
+%--
+4/4
+subtitle=score
+q1 q3 5. q6 5 4 3 2 1 5 6 5 4 3 2 - - q1 q3 5 5 5 1 1 - 6 2 1 - 7 - 1 - 0 q5 q3 q3. s2 2 -
+q6 q4 q4. s3 3 - q1 q3 5 5 5 1' 1' - 6 2' - 7 - 1' - -
+%END

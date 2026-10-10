@@ -1,0 +1,20 @@
+%大胡子爷爷.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=20656
+title=大胡子爷爷
+tag=
+usertag=
+tagroute=
+confidence=0.952
+conf_p10=0.819
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-20656
+%--
+4/4
+subtitle=score
+,5 ,1 q1 1 4 5 3 q2 1 ,5 ,7 q1 1 ,5 5 q3 2 q1 1 5 ,5 q1. 1 q1 q5 q,5 ,7 7 1 0 q5 ,5 1 1 ,5 x. q3 2 2 s3
+2 0 ,x 0 ,5 5 3 2 q2 3 2 1 0 0 4 5. 5 q4 5. 5 3 q2 q1 ,5 q,7 1 1 ,5 5 3 2 1 1 q1 ,5 3 2 1 q1 2
+2 q0 ,,4 4 5. q5 s4 s4 s4 5. x'. 5 1 x q3 s3 q3 2 2 q1 q1 q1 ,5 1 1 1 2 3 ,5 5. 5 5 3 2 1 1 ,5 1 q2 1
+- 1 0 0 0 2. q1 ,5 1 2 1 - 1 0 0 0 1 q5 q6 6 5 1 5 6 5 - 3 2 1 1 1 2 2 q0 4 4 4 4 5 5
+5 5 3 2 1 5 7 1 0 ,5 1 q1 q,5 q,7 1 0 ,5 1 1 ,5 ,7 1. ~ 1 0 0 0 ,5 - ,7 1. q1 - 5 2 3. 2 1 0
+%END

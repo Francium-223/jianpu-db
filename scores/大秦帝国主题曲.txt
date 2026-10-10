@@ -1,0 +1,17 @@
+%大秦帝国主题曲.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14788
+title=大秦帝国主题曲
+tag=
+usertag=
+tagroute=
+confidence=0.711
+conf_p10=0.472
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14788
+%--
+4/4
+subtitle=score
+q1 q,7. x. 6. x q,6. 0 q2. q4. 0 0 0 5. 0 6. q4. q6. 0 qx. q4. - q6. 0 0 0 q5. 6. 0 - 0 x. 0 0 q6' 1'. 0 2' 0 ,4. q6'.
+,4. 1'. 2' ,4. 1'. 2' q6'. ,4. 1' 0 0 0
+%END

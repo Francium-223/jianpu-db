@@ -1,0 +1,19 @@
+%因你有我.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=31985
+title=因你有我
+tag=
+usertag=
+tagroute=
+confidence=0.996
+conf_p10=0.992
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-31985
+%--
+4/4
+subtitle=score
+1 q,7 q1' 1' ,7 1 q,7 q1' 1' ,7 1 q,7 q,6' ,6' ,3 0 1 q,7 q1 1' ,7 1 q,7 q1' 1' ,7 1 q2 q3 3 1 2 0 1 q,7 q1 1' ,7 1 q,7
+q1 1' ,7 1 q,7 q,6' ,6' ,3 - - 0 1 q,7 q1' q1 ,7 1 q,7 q1' 1' ,7 1 q2 q3' 3' 4 2 - - 0 ,6 - ,7 1 ,6 - ,7 1 2 -
+1 2 3 - 2 - ,6 - ,7 1 ,6 - ,7 1 2 2 0 3 4 3 3 0 6 7 1' 2' 7 6 - 6 q3' 3 - - 0 6 - 7 1' 2'
+- 7 6 6 - 1' q6 q7 7 1' 2 - 7 6 - 6 7 6. q0 6 3 3. q2 q,6 ,6 3 2. ,7. ,6 ,6 - - -
+%END

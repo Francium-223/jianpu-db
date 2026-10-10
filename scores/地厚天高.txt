@@ -1,0 +1,19 @@
+%地厚天高.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=8306
+title=地厚天高
+tag=
+usertag=
+tagroute=
+confidence=0.990
+conf_p10=0.980
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-8306
+%--
+2/4
+subtitle=score
+5. q5 5. q4 q5 6 5 - 5. q5 5. q4 q3 2 1 - 1' - 5 5 q5. s6 5 q1. s2 q3 q1 ,5 - q,6 q,6 1 q1 q,5 q5 s5 s6 q5 q3 q2
+q1 q2 q3 2 - 5 5 s6 s6 5 q1. s2 q3 q1 ,6 - q,5. s6 q1 q,5 q5. s6 q5 q3 q2 q1 q2 q3 q3 1 - 1. q1 q6 6 q5 q6. s5 q6 q5'
+1 q2' 3 - q2 2 q3 q5 s5 s6 q5 q3 q2 q1 q2 q3' 2 q0 q1 q6 6 q5 q6. s5 q6 q6 1 q2' 3 - q2 2 q3 q5 s5 s6 q5 q3 2. q1
+2 3' 1 - 1 -
+%END

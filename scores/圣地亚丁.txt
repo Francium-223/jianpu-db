@@ -1,0 +1,21 @@
+%圣地亚丁.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=31990
+title=圣地亚丁
+tag=
+usertag=
+tagroute=
+confidence=0.985
+conf_p10=0.965
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-31990
+%--
+2/4
+subtitle=score
+s6 q6 s6 q1' q6 s3. s6 s6 s6 s1' s6 q6 x 3' - 2' - 6 - 1' - 1' - 1' - s6. d6 s6 s1' s1' q6 s3 s6. d6 s6 s1' q1' q6 s3. d6
+s6 s1' s1' s6 q0 6 0 q3 s3 s3 s5 s6 q6 s1'. d1' s1' s1' s1' s6 q6 q3 s3 s3 s5 s6 q6 s6. d5 s2 d5 d5 s5 s3 q3 s1 s2 s2 s1 s1 s2
+q2 s2 q2 s1 s1 s2 q2 q6 s2 s2 s2 s2 s1 s2 s2 s2 s1 q6 q5 ,6 q6 q2' q2' q2' q6 s2' s3' s1' s6 q6 q3 s6. s5 s6. s6 s6 s5 6 3' q6
+q2' q2' q2' q6 s2' s3' s1' s6 q6 q3 s6 s5 s6. d6 s6 s5 6 - q3'. d6 d6 s1' s2' q3' s3' s6 s1' s2' 3' q3'. s6 s1' s2' q2' s3 s6 s1 s2 2 s3
+s3 s6 q6 s1 s1 s1 s6 s6 s5 s5 s6 q3 qx s2. d2 s2 s3 s1 s6 q6 q5 6. - ,5 6. 3' - 2' - 6' - 1' - s2' s2' s2' s3' s1' s6 q6
+q5 6. s2' s2' s2' s3' s1' s6 q6 q5 6. s2'. d2' s2'. s1' s1' s6 q6 q2' 3'. q3'. s1' s1' s2' q3' q3'. s1' s1' s2' q3' 3' - q2'. s1' q1' q6 6 - 6 -
+%END

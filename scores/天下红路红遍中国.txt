@@ -1,0 +1,21 @@
+%天下红路红遍中国.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=51453
+title=天下红路红遍中国
+tag=
+usertag=
+tagroute=
+confidence=0.967
+conf_p10=0.884
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-51453
+%--
+4/4
+subtitle=score
+q0 q3' q4' q5' q4' q3' q2' q3' - - q0 q3' q7' s6' s7' q6' q2' q3'. s4' 5' - - q5 q2' 3' - q2' q7 6 - q4 q3 q5 q6 3' 2' - - - q6'
+q7' q6' q5' q4' 3' s2' s3' - - q3' q4' q5' 4' q3' q2' q3' s2' s3' - - q6 q7 q1' 3' q2' q6 s2' s3' q2' 2' - - q3' q4' q5' 6' q3' q2' q3' s2'
+q6 ~ 6 - - q5 s2' q3' q5' q4' q3' q2' 3' 2' s6 s7 - q6' q7' q2' q3' q4' s7' 6' - q6' 3' s2' s3' 5' - q6' q6' q5' 6' q3' q6 2' q3' 2'
+- q3' 5' s5' s6' 3' - q3' 2' s2' 6 - q5 q3' q3' q2' 3'. q2' 6 s5 s6 2' 3' - - - s7' 6' - q6' 3' s2' s3' 5' - q6' q6' q5' 6' q3'
+q6 2' q3' 2' - q3' 5' s5' s6' 3' - q3' 2' s2' 6 - q5 q3' q3' q2' 3'. q2' 6 s5 s6 2' 3' - - - q3' 5' s5' s6' 3' - q3' 2' s2' 6
+- q5 q3' q3' q2' q3' 5'. 6'. q3' 5' 6' 7' - - - - - - - - - x x
+%END

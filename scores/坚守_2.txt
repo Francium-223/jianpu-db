@@ -1,0 +1,22 @@
+%坚守_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=9139
+title=坚守
+tag=
+usertag=
+tagroute=
+confidence=0.989
+conf_p10=0.988
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-9139
+%--
+4/4
+subtitle=score
+6 5 6 q1 3 2 q5 q4 q5 7 q2 q1 7 q1 6. s6 s7 1' s1' s7 s1' s2' 3' 4'. q3' q2' q1' 7 - - - 3' 2' 1' 7 q1' q7 6 q6 q5
+3 q2 q3 5 q2 q3 ,6 q1. s1 q1 6 q1 q2 q3 q5 6 q0 q6 q5. s3 q2 q5 q5 3. 3 - q1 q7 6 q6 q5 3 q2 q3 5 q2 q3 ,6 q1. s1
+q1 6 q3 q5 q2 s1 s2 3 q0 q5 q6 q1' q7 q6 6' 7 - - - 3 - - - 1'. q1' q7 q6 q6 q3 2. q3 ,6 - q1 q2 q3 q5 q6 6 q5
+s3 s2 3. ~ 3 - 1'. q1' q7 q6 q6 q3 2. q3 ,6 - q1 q2 q3 q5 5 - q2 q3 q5 q6 6 - q0 q5 q5 q5 q3 q2 q2 q0 q1 q2 q3 ,6
+- - ,3 - ,6 ,6 5 4 4 q3 q2 ,6 - 0 0 3 - - s3 s6 s7 s0 6 7 1. q3 2 - - s2 s2 s1 q7 ,6. q7 s1 3. s2 s5 s7
+6 s3 s6 s6 s3 6 q0 6 s4 s3 q2 q2 s4 s3 2 q0 6 s2 s1 7 7 s2 s1 ,7 0 q0 q5 q5 q5 q3 q2 2 q1 2 - 3 - 6 - -
+- 6' 6 - - - 6 - - -
+%END

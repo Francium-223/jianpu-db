@@ -1,0 +1,23 @@
+%夜深一梦去江南.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=51560
+title=夜深一梦去江南
+tag=
+usertag=
+tagroute=
+confidence=0.976
+conf_p10=0.962
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-51560
+%--
+4/4
+subtitle=score
+q1 q5 s5 s4 s3 s5 1 - q1 s,7 s1 s,6 s1 s,5 s,6 ,6 - q2 2 3 2 ~ 2 q3 q2 5 - 5 s3 s5 1 5 1 5 q1 q5 s5 s4 s3 s2
+q3 1 s1 s2 q3. s1 s,6 s,7 q,5' ,5 - q,6. s1 s,6 s1 s,6 s,5 s,6 s1 s,5 s,6 1 s2 s2 s2 s3 s1 s,6 s5 s3 2. q3 q2. s2 q2 s2 s,7 ,6 s5 s3
+1 s2 s3 s5 s6 4 s3 s5 2. q3 s2 s,6 s,7 s,6 s5 s3 s2 s,7'. ,5. q,6 s1 s,6 s5 s3 s2 s3 s7 s,6 1 - q,6. s1 s,7 s,6 s,5 s,6 1 - q2. s3
+s,7 s,6 q,5 ,6 - q,6. s1 s2 s3 s5 s4 3. q5 q2. s4 s3 s2 s3 s5 2 - q3. s6 s5 s4 s3 s2 1. q2 q3. s,7 s,6 s,7 q,5 ,6 - q,5. s,6 q1 s1
+s,6 s2 s3 s5 s4 3 s2 s2 s2 s3 s5 s3 s7 s6 5. s5 s6 7 q6 5. q6 q6 s5 s6 q4 s3 s2 3 s2 s3 s5 s6 4 s4 s5 s6 s5 6 s5 s6
+7 s6 s7 q5 6. s5 s6 q1'. s7 q6 s5 s6 q4 s3 s5 2 s2. d2 s2 s1 q2 q3 5. q3 q7 q6 q3 q5'. 6 - q6 q5 q6 q4 s3 s5 2 q3 q,7. s2
+s,6 s1 s,5 s,6 1. q2 q0 s2 s3 s3 q5 s6 q7 q6 5 - s5 q2 s4 s3 s4 s3 s2'. 1 - s5 s6 4 s3 s5 q5 2 q3 s2 s,6 s,7 s,6 s5 s2 s,7
+s,6 ,5. q,6 s1 s,6 s5 s3 s2 s3 s,7 s,6 1 - s3 q5 s6 q7 s6 s7 6' - 1' - - - - - - 1' 0 0 0
+%END

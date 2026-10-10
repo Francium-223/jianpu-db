@@ -1,0 +1,16 @@
+%围着小数做游戏.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=38971
+title=围着小数做游戏
+tag=
+usertag=
+tagroute=
+confidence=0.995
+conf_p10=0.981
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-38971
+%--
+6/8
+subtitle=score
+q1 q1 1 1 q3 5 q3 1 q1 2 q2 2 1 ,7 s6 ,5. 1 1 1 1 q3 5 3 1 1 2 2 q5 s6 s7 1. 1 q0
+%END

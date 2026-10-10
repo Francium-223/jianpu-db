@@ -1,0 +1,22 @@
+%墨念.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=50835
+title=墨念
+tag=
+usertag=
+tagroute=
+confidence=0.947
+conf_p10=0.804
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-50835
+%--
+2/4
+subtitle=score
+- - - 1 1 ,x. x'. x'. x x'. qx 0 0 7 0 x. x q6 q3 q6 q1' 3'. s2' s1' q2' 2' q3' 6 - q6 q3 q6 q1' 3' q2' q1' 7 - 7 -
+q6 q3 q6 q1' 3' - q6 q3 q6 q1' 2' - q7. s3' q2' q3' q2' 5 q7 6 - 6 - q,6 3 s2 s1 ,7. q,6 q,5 q,3 q,5 s6 s7 ,6 - q,6 3 s2 s5
+4. q3 q2 q,6 q2 s3 s4 3 - q3. s5 q6 q7 6. q3 q4 q3 s2 s3 q,6 1 - q,7 3. s2 s3 2. q,3 ,7 q,5 ,6 - ,6 - q,6 q3 q2 q1 ,7. q,6
+q,5 q,3 q,5 s6 s7 ,6 - q,6 q3 q2 q5 4. q3 q2 q,6 q2 s3 s4 3 - q3 q5 q6 q7 6. q3 q4 q3 s2 s3 q2 1 - q,7 3. s2 s3 2. q,3 ,7
+q,5 ,6 - 6 - q3 6 q3 1' - q7 5 s6 s7 3 - q,6 2. q1 2. q,6 q3 ~ 3 3 - q3 6 q3 1' - q7 5 s6 s7 6 - s2 s3 2.
+q3 5. q3. s6 6 6 - q,6 s5 s6 q,6 q1 3. q5 4. s3 s2 3 - q,6 s5 s6 q,6 q1 3. s2 s1 2. q3 ,7 - q6 q3 q6 q1' 3' - q6 q3 q6
+q1' 2' - q7. s3' q2' q3' q2' 5 q7 6 - 6 - q3. s6 6 6 - - q3. s6 ~ 6 6 - s2 s3 2. q3 5. 5 - 5 3 6 6 6 6
+%END

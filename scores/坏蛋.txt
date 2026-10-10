@@ -1,0 +1,18 @@
+%坏蛋.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=50611
+title=坏蛋
+tag=
+usertag=
+tagroute=
+confidence=0.807
+conf_p10=0.490
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-50611
+%--
+4/4
+subtitle=score
+0 1'. 0 2' 2' 2' 4' q4' 0 3'. 2'. - 1' - - 1'. - 0 0 0 0 1'. 1'. 6'. 0 - 0 3' q2 q3 3. 0 sx - qx. 1' 0 - 1' -
+7 7' 0 7' 7' 6' - 0 3'. 1'. 1' 0 0 - 3'. 0 3' - 0 - - - - - - 0 1' 0 0 0 0 0 0 0 0 0 0 0 0 ,6
+0 0 0 0 0 0 0 - - - 0 - - - 0 - - 0 0 2' 0 - 6' 6 - - 0 0 0 - - - 0
+%END

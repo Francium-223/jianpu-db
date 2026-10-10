@@ -1,0 +1,24 @@
+%天地跟着人心转_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=321
+title=天地跟着人心转
+tag=
+usertag=
+tagroute=
+confidence=0.872
+conf_p10=0.585
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-321
+%--
+4/4
+subtitle=score
+qx q1 - - - - 7 7 6 - - x x' x x x x x x 6 6 6 q6 q6 q5 5 q2' 2' - q3' s3' s5' q3' q2' s3' s3' 2' q6 q5 q2'
+q3' q5 x q5 1' q3' q2' q1' 0 q1'. s2' q3' s2' q5 0 q1'. q2' ~ q2' q3' 2' q5 q5 s3 q2' s1' 2 - q5 q3' q2' q1' 0 q1'. s2' q3' s2' q1' q6 0
+q1'. s2' q1' s1' s6 q5. s6 1' q5 q3' s3' q2' s1' 1'. s2' s3' 5' q3' 5' q3' q2' q1' q6 q5' ~ 5' - q3' q5' q5' s3' s2' s2' s3' s2' 2' q3' s3' s5' s5'
+s3' s3' s2' s2' s6 s5 q5 q5 q3 s3 s5 q5 q5 s6 s6 q1' s1' s1' q5 s5' s3' q3' s2' 2'. s2' 2' q1' q3' ~ 3' - q3' q5' q5' s3' s2' s1' s2' s3' s2'
+2' q3. q3' q2' q3' s1' s3' d1' s5' s5' d3' s3' s5'. s3' s3' s3' s3' s3' h,3 h,2 h2' s2' 5 d5 s2' d2' s1' s5' s1' h3' s6 h6' h3. s5 s5' q3' q5 h5 q2' q5
+d1' q5 q5 q5 1' q3 d2 d3 q3 q2' h1' s3 h3 s5 s1' q5. d1 q1' 1' q5 q5' q5' q5 s5 d5 s0 s6 h6 q1' s1' h6 s6. s6 s1' s1' q1' d0 h0 d1' h1'
+s1' x 3' q5' q5' q5 h5 h5' sx' s,5' s,3' s3' h3 3' q3' q3' q2' h1' s2' h1' s1' h2' 2 s3' d2 s2' 2'. s2' d2 d2' s2' s2' h,1. s1' - - 0 q3' q5' q5'
+s3' s2' s2' s3' s2' 2' q3' s3' s5' s5' s3' s3' s2' s2' s1' s6' s5' q5 q5 s3. q3 s3' q5' s5 q5 s1 s6 q1' s6 q1' dx d1' sx s1 s1' - q5 s5' s3' s3
+q3' s1' s1' 2'. d1' s1' 2' q1' q3' 3' - x
+%END

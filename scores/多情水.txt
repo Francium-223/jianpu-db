@@ -1,0 +1,20 @@
+%多情水.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=32960
+title=多情水
+tag=
+usertag=
+tagroute=
+confidence=0.976
+conf_p10=0.982
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-32960
+%--
+4/4
+subtitle=score
+1 - - 0 - x 0 x ,x x q1 q3 q5 q7 1. s7 s6 q5 q,6 q1 q6 5 - q7 q6 q6 q5 q3 q1 q,5 q1 q2 q3 q4 q3 2 - q1 q3 q5
+q7 1. s7 s6 q5. d5 q4 s5 s7 6 - s4 s3 2. s3 s2 ,6. q,5 q,7 q2. s1 1 - q6 q5 q5 q1 q3 q1 q,5 q1 q,6 q,5 q,4 s,5 s,6 ,5 - q,6 q,7
+q1 q,6 q,5 s5 s6 5 q4 q3 q2 q1 3 - q6 q5 q5 q1 q3 q1 q,5 q1 q,6 q,5 q,4 s,5 s,6 ,5 - q,6 q,7 q1 q,6 q,5 s5 s6 5 q4 q3 q2 s2 s3
+1 - q1 q3 q5 q7 1 s7 s6 q5 q,6 q1 s5 s6 5 - q7 q6 q6 q5 q3 q1 q,5 q1 q2 q3 q4 q3 2 - q1 q3 q5 q7 1'. s7 s6 q5 q3 q5
+s6 s7 6 - s4 s3 2. s3 s2 ,6. q,5 q,7 q2. s1' 1' - q,5 q,7 q2. s1' s1' 1 - 5 2' - 1' 1' - - - 1' - - - 1' - - 0
+%END

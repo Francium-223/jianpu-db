@@ -1,0 +1,18 @@
+%在小木屋的一个夜晚_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49822
+title=在小木屋的一个夜晚
+tag=
+usertag=
+tagroute=
+confidence=0.969
+conf_p10=0.942
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49822
+%--
+3/4
+subtitle=score
+q,5 1 q2 3. q4 q2 q3 2 q1 q1 1 q1 4. q6 q5 q4 5. q1 q3 q6 5. q2 4 q6 5 q3 q5 q4 3 q2 5 ,7 ,6 ,5 - q0 q,5 1. s,7 1.
+q,7 q1. s1 q2. s,5 ,7 q0 ,5 q2. qx s1 q2. q1 q2. qx s2 3. q5 q5 q4 ,6. q4 q4 q3 ,5. 3 3 2 1 4 1 ,7 q1 q2 0 3 3. q5 q5 4
+,6. q4 4 3 ,5. q3 q3 q2 4. q,7 q1 q2 1 q1
+%END

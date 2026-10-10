@@ -1,0 +1,23 @@
+%壮乡广南.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=16676
+title=壮乡广南
+tag=
+usertag=
+tagroute=
+confidence=0.975
+conf_p10=0.939
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-16676
+%--
+4/4
+subtitle=score
+q0 s5 s5 q1' 5 - q5 s2' s3' s5' s6' 5' - - 3' 6' - q6' q5' s3' s2' s3' s5' 3' - - - 2' - q2' q5' s2' s3' s2' 6 - - 1' 6' 6'
+- 3' - q2' q2' s1' d6' d5' s3' s6' 6' - - 5' - - - 5' - - - 1'. q2' 1'. q6' q5' q1' s6' s5' s6' s5' 3' - s2'. s1' s2' s3' q5' q5' s6'.
+s5' s6' s5' q3' q3' q2' s5' s3' s1' s5 s6 - q5 q2' q3' q5'. s6' s5' s3' s3' s6' q5' q5' ~ 5' - - q6' q6' q5' q3' q1'. s6 s1' s2' s3' s5' 2' - -
+- q3'. s5' s6' s5' s6' s5'. 6' - q5' q3' s2' s3' s2' 6. q5. s5 q5 q3' s2' s3' 2' q3' q5'. s3' s2' s6 s5 - - - 5' - q5' q3' q1'. s5' 6' - -
+q3' q6' 5' - - - q6'. s6' q5' q3' q1'. s6 ~ q6 q2'. s2' s3' q6' 5' - 5' - q5' q3' q1'. s5' 6' - - q3' s6' s5' 6' - - - q2'. s3' s2' s1'
+q6 s5' s6' 6' q3' s5' s6' 5' 5'. q3' q2'. s3' s1' s5 s6 - - - 5' - q5' q3' q1'. s5' 6' - - q3' q6' 5' - - - q6'. s6' q5' q3' q1'. s6 ~
+q6 q2'. s2' s3' q6' 5' - 5' - q5' q3' q1'. s5' 6' - - q3' s6' s5' 6' - - - q2'. s3' s2' s1' q6 s5' s6' 6' q3' s5' s6' 5'. 5'. q3' 2' - -
+- q2' s2' s6' 6' - 6' - - 0 - - - 1' - - - 1' - - 0
+%END

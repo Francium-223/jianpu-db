@@ -1,0 +1,22 @@
+%大草原_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15822
+title=大草原
+tag=
+usertag=
+tagroute=
+confidence=0.978
+conf_p10=0.918
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15822
+%--
+4/4
+subtitle=score
+0 ,5 - q2 q1 q,7 ,5 q1 q1 q,7 q1 q2 s2 s3 q1 q,7 ,5 - q,6 q,3 ,5 ,6 q,4 q,3 q,4 q,5 ~ ,5 - d6 d7 d1 d2 d3 d4 d5 d6 5 - 6
+s7 2' q7 q5 ~ 5 - q3 5. 6 q5 q2 q2 q4 q3 q2 5 - q,5 q,6 q1 q5 3 - q2 q1 s2 q2 s3 ,5 - q,5 q,6 q1 q2 s3 q6 s5 q5 q3
+q1 q1 s6 q3 s2 2 - q,5 q,6 q1 q5 3 - q2 q1 s2 q2 s3 ,5 - q,5 q,6 q1 q2 q3 q6 q5 q3 q2 s2 s1 s6 q2 1 - s1' s1' s6'. - q3
+q5 s5 s6 s5 s3 5 - s6 q6 s5 q5 s6' 3 q2 s2 s1 s6 q3. 2 - s1' s1' s6'. - q3 q5 s5 s6 s5 s3 5 - q6. q6 s5 q5 s6 3 q2 q1
+s6 q2 s1 1 - q5. s1' s5 s6 6 s5 s1' s6 5 - 5 s5 s7' s2' s7 5 - 6 s4 s1' s6 q5. s1' s5 s7' s2' s7 5 - s1' s1' s6'. - q3 q5
+s5 s6 s5 s3 5 - s6 q6 s5 q5 s6'. 3 q2 s2 s1 s6 q3. 2 - s2' s6 s2' s3' q3 q5 s6 s5 s5 s3 5 - q6. q6 s5 q5 s6 3 q5 q5 s2'
+q2' s1' - 1' - - - 0 0 0
+%END

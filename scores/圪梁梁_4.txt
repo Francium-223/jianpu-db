@@ -1,0 +1,23 @@
+%圪梁梁_4.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=30792
+title=圪梁梁
+tag=
+usertag=
+tagroute=
+confidence=0.954
+conf_p10=0.861
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-30792
+%--
+6/8
+subtitle=score
+q1 q1 4 q6 0 x. x x' x x 1 1'. 1' x 6. 7' s5 s3 6. s5 s6 q7. s6 q6 s5 s3 3 - 6. s5 s3 6. s5 s6 q7. s6 q6 s5 s3 6
+- 0 0 x' q,6 q,6 s6. d6 s6 s5 s3 q3 s6 q6 s3 s2 q1 q,6 s2 s3 s1 s2 0 ,6 - q,6 q,6 s6. d6 s6 s5 s3 q3 s6 q6 s3 s2 q1 q,6 q2
+s3 s5 2 - q,6 q,6 s6. d6 s6 s5 s3 q3 s6 q6 s3 s2 q1 q,6 s2 s3 s1 s2 x' - q,6 q,6 s6. d6 s6 s5 q3 6 s3 s2 q1 q,6 q2 s3 s5 2
+- x 6. s5 s3 6. s5 s6 q7. s6 q6 s5 s3 3 - 6. s5 s3 6. s5 s6 x q7. s6 q6 s5 s3 6. 6. x 0 0 q6 q6 q6 q5 q3 s3 s6 q6
+q1 q,6 q2 q2 q3 q5 x 6. q6 q6 q6 q5 q3 q6 s3 q5. ~ q5 q3 q2 q1 2. 2. q6 q6 q6 q5 q3 s3 s6 ~ q6 q1 q,6 q2 q2 q3 q5 6 6.
+q6 q6 q6 q5 q3 q6 q3 q6 q5 q3 q2 q1 2. 2. q6 q6 q6 q5 q3 s3 s6' q6 q1 q,6 q2 q2 q3 q5 6' 6. q6 q6 q6 q5 q3 q6 x q1 q,6 q5
+q3 q2 q1 2. x 6. s5 s3 6. s5 s6 q7. s6 q6 s5 s3 3 - 6. s5 s3 6. s5 s6 q7. s6 q6 s5 s3 6 - q7. s6 q6 s5 s3 6 - 0 0
+0 0 0 0
+%END

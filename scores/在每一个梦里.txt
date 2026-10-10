@@ -1,0 +1,19 @@
+%在每一个梦里.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12494
+title=在每一个梦里
+tag=
+usertag=
+tagroute=
+confidence=0.862
+conf_p10=0.549
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12494
+%--
+4/4
+subtitle=score
+5 5 q5. 0 q5 q5 6. 1 1 - q2 3 3 x 0 0 0 0 5 5 5. 0 5 q5 6 1' 1' 2' 3'. 2' 2' 1' ~ 1' 0 0 0 0 0 2'
+2' 2'. 1' 3' 3 1'. 1' x' 6' 6 6. ,2'. 2'. ,1' q0 2' 2' 2' 2'. q3' 4'. 5' 3'. q2' 2' - 2' - 0 0 1' 5 1' 1' ,2' 1' ,,,3. 3' 5' 1'
+q3' q3' 2'. 1' q2' 6 7' q6 qx'. q1. x' x qx' 5 q5 - - 4. 4' 4. 6' 6'. q1' 1 3' 3' q1' q1' q,x. q1'. 2' - 0 - q3' 5' 3' 1 2' 6
+7 6 1' 5 - q4' q6 2' 4' 3' q1' q5 2' - - q2' 1' - - - 1' - - -
+%END

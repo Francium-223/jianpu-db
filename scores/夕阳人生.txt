@@ -1,0 +1,20 @@
+%夕阳人生.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=16916
+title=夕阳人生
+tag=
+usertag=
+tagroute=
+confidence=0.963
+conf_p10=0.901
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-16916
+%--
+4/4
+subtitle=score
+q5 q5 3'. q3' 3' q2' q3' 2'. q5 2' 3' - 5. q4 3 3 q5 q7 5 - 6. q6 6 6 q6. s5 q4 q6 5 - 5 q5 q4 3 3 q5 q1' q7 6 -
+q6. s6 q6 q7 q1' q7 q6 2' - - - 5 q2' 3' q2' q1' 7. q3 5 7 6 - - - 6 q6 2' q2' q3' 2'. q1' 2' 3' 5 - - - 5. q4 3
+3 q1' q1' q7 6 - q6 q6 q6 q7 q7 q6 2' - - q5 q5 3' 3' 2'. 7. q6 7 2' 6 - - q6 q6 2'. q3' 2' 7. q6 7 2' 5 - - q5
+q5 3' 3' 2' q2' 7 q3 q3 5 7 6 - - q5 q5 6 5 q2' q3' 4' 3' - - 2'. q1' 2' q5 q5 2' - 3' - 1' - - q5 - - q5 q5
+1' 2' 3'. q3' q2' s2' q2' q1' 2' s5 q5 2' - 3' - 3' - - - 1' - - - 1' - -
+%END

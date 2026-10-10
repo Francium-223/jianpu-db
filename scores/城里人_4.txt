@@ -1,0 +1,22 @@
+%城里人_4.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=35518
+title=城里人
+tag=
+usertag=
+tagroute=
+confidence=0.912
+conf_p10=0.623
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-35518
+%--
+4/4
+subtitle=score
+q1 q4 x. - x q1 - - 0 5'. 1' q3 q5 q5 q5 q1' 3' - q0 q5 3' q1' q1'. q3' 3 - 1 q1. - 5 3 1 q3 q5 q5 q5 q5 q1 3 -
+q0 q5 3 q1 q3 q5 q1 1 - - - x q5 q3 q5'. q3' x'. q5 q5 q3 q3 q5 1 - 2. q3 q5 q3 q6 5 - 0 0 3' 5' 3' q3 q1'. q3' q3'
+q3' q3' 1'. q1' q5' q5 q1' q5 1 x q5' q5' q5 q3' q3 q3' q3' q3' q3 q5 q5 q5 q1 q5' q5' q5' q5 q1 1' 1. 1 2. x 2. 2' 2' q1 q3 q3 q3
+q5' q5' q5' q5 q2 3 q3 q1 q1' q1' q1' q1' q1' q1' 6. 1'. 6 0 0 0 q5 q3 q5'. q3' q1' 1'. q3' q5 q5 3. 2. q3 q5 q3 q6 q6 5. 0 0 q5
+q3 q5 q3 q1 1 q3 1 q5 q1 q5 3. q3 q5 q2 q3 q5 q5 1. 1 0 3' 1'. 3' 1' 5 5 3 3 5 1 2 3 5 1 1 2. 3 5 0 3
+5 q1' q3'. q3' q5 q5 3. 3 q2' q3' 5 - - - 5 q3 q5 1'. q3' 3 3 - - 3 - - q0 q3 q5 q2 q3 q5 q5 1. q5 q3 q5 q3 q1 q1
+q3 1 q5 q1 q5 3. q3 q5 q2 q3 q5 5 1 - - 1 - - -
+%END

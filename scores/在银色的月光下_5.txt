@@ -1,0 +1,20 @@
+%在银色的月光下_5.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=44727
+title=在银色的月光下
+tag=
+usertag=
+tagroute=
+confidence=0.976
+conf_p10=0.979
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-44727
+%--
+3/4
+subtitle=score
+q5 q4 3. q3 q1 q7 2 - q4 q4 4. s6 s6 q6 q5 5 - q3 q5 3. q2 q2 q1 6 - q2 q6 5. q2 q4. s3 3 - q3 q5 3'. q2' q2' q1' 6
+- q2 q6 5. q,7 2 1 - - x 1' 5 - - 3 x 1 - - 1 - - 0 0 q3 q2 1. s2 s2 3 ,7 - q,7 q2 3. q5 6 3 - q3
+6 1. q7 q7 6 3 2 q2 q6 3. q5 2 3 - q3 q6 1'. 7 7 q6 3 2 q2 6 5 - 5 7' - - 1 - - x 1 ~ 1' 5 - -
+6 x 6 - - 6 - - 0 0 q5 q4 3. q3 q1 7 2 - 4 4 4. q6 q6 q5 5 - q3 q5 3'. q2' q2' 1' 6 - 2 6 5. q2 q2 4.
+s3 3 - q3 q5 3'. 2' 2' q1' 6 - q2 q6 5. q7 s7 2' 1' - - 1' -
+%END

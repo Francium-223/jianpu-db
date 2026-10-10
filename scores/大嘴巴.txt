@@ -1,0 +1,16 @@
+%大嘴巴.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48509
+title=大嘴巴
+tag=
+usertag=
+tagroute=
+confidence=0.972
+conf_p10=0.792
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48509
+%--
+2/4
+subtitle=score
+6 1' q3 q6 5 1. 6 1 q1 3 5 6 1 5 3. 2 3. s2 3. 2 1 q6 6 6 q5 q3 2 0 s3 s3 3 2 2 0
+%END

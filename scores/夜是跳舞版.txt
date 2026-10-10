@@ -1,0 +1,20 @@
+%夜是跳舞版.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12348
+title=夜是跳舞版
+tag=
+usertag=
+tagroute=
+confidence=0.933
+conf_p10=0.768
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12348
+%--
+4/4
+subtitle=score
+6 6 0 6 q6 6 5 - 0 0 6 6 0 6 6 6 5 0 0 x ,6 q2 1 q6 2 1 ~ ,,,1 ,,,2 ,1 1 2 1 q,6 2' q1 ~ q,1 2 s,6
+~ 6 2 ,1 2 1 0 0 ,6 6 q2 1 6 q2 q1 q,1 2 6 ,6 2 1 2 ,1 0 0 x. 3 0 1 1 2 7 ,3 ,5 ,5 ,5 ,6 1 ,6 1
+~ 1 q,,6 1 3 2 q,1 2 1 2 0 3 5 6 7 6 5 0 s1 q2 q1. - q3 q2 s2 s2 s0 s1 q,,,6 s,,1 q3 s2 q2 s2 0 5 5 6 5 5
+6 5. 3 3 5 q5 6 - 0 0 2. - 0 0 0 0 6 - - 0 0 0 5 5 6 0 0 0 q3 3 5 5 6 - 0 0 ,6 0 1 3
+3 5 1 ,1' ,1 5 5 5 6 - - 0 6' 0 3 x 1 3 x 1 6 0 1' 1. 5 6 3 x 3 3. 1 1. - q,6
+%END

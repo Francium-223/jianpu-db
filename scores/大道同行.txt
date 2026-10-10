@@ -1,0 +1,22 @@
+%大道同行.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=20161
+title=大道同行
+tag=
+usertag=
+tagroute=
+confidence=0.904
+conf_p10=0.601
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-20161
+%--
+3/4
+subtitle=score
+,3 q,6 q1 3 3 q3 q6 3 3 q1 q1 2' 2 2' - - 2 - - 0 0 0 0 0 0 ,3 q,6 q,7 q1 ,7 q,7' q1' ,7 ,7 2 ,7 1 ,6 - -
+,6' - - 0 0 0 0 0 0 ,3 q,6 q1 3 3 q3 q6 3 3 q1 q1 2' x 2' - - 2' - - 0 0 0 0 0 0 ,3 q,6 q,7 q1 ,7 q,7'
+q1' ,7 ,7 ,5 q,6' q,7' ,6 - - ,6' - - 0 0 0 0 0 0 3 q5 q3 q5' q6' 6 - - 6 0 0 0 3 q6 - q3 q3' s5' 3 3 - 0
+0 0 3 q6 - q1 2 2' ,3 2' 3 6 ,5 1 ,6 q2 q1' x' q1 q1 s0 ,7 2 2 2' ,6 3 ,7 5' ,6 6' ,5 0 0 q2 0 0 q0 q5' q2'
+q1 2 3 ,1 3' q6' q3' 3' q5' q6' 0 0 6' 0 0 q0 h0 3 q,6 q0 0 q1 1' q1 1' 7 q6' q1' s3 q6' x'. sx' s,1' 6' - - 6' - - 7'
+- - 7' 1' 7 6 - - 6' - - 3 - - q1' - - 7 - - 3 - - 4' - - 5 - 4 3 - - 3' - - 3 - - ,6 -
+2' 3' 2 - - 5 - - 3 5 6 - - 6' - -
+%END

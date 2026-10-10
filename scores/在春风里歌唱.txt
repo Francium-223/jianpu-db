@@ -1,0 +1,21 @@
+%在春风里歌唱.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=33469
+title=在春风里歌唱
+tag=
+usertag=
+tagroute=
+confidence=0.995
+conf_p10=0.985
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-33469
+%--
+4/4
+subtitle=score
+q1' q7 q1' q5 ~ 5 - q3 q1 s5 q6 s5 5 - q1' q7 q1' q5 ~ 5 - q3 q1 q5. s6 6 - q4. s5 6 q4 s3 s5 2 q5 q5 q2 q3 1 -
+q3 s5 s6 5 q3 s2 s3 1 q3 s3 s4 s5 q6 s5 5 - q4. s5 6 q4. s3 2 q0 q5 q5 5 q6 q7 s7 s7 s6 s7 q5 3 - - q4 s4 s1 s5
+s6 q6 6 - q5 s5 s4 q3 s4 s3 ,6 - q0 s7 s1 q2 2 q4 q3 s2 s2 q6. s5 5 - q3 s5 s5 q2. s1 1 - - q1'. s7 q1' q5 ~ 5 -
+q3 s1 s1 s5 q6 s5 5 - q0 s4 s5 q6 q6 ~ q6 q5 q4 s1 s1 q3. s2 2 - - 1. s7 q1 q5 ~ 5 - q3 s1 s1 q5. s6 6 - s4 s5
+6 q2 q5 s5 s6 s5 s4 q3 q0 s5 s6 7 - - 2' - - 6 5 - - - 2' - - 6 1' - - - 2 3 - 6 1 - - - 1 -
+- - 1 0 0 0
+%END

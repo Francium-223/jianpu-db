@@ -1,0 +1,18 @@
+%在这个时刻.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=34356
+title=在这个时刻
+tag=
+usertag=
+tagroute=
+confidence=0.863
+conf_p10=0.528
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-34356
+%--
+2/4
+subtitle=score
+5 x 3 3' 1' 1 q,7 ,6' 4' 4 - 1 q2 1 ,7 ,7 ,6 ,5 ,6 ,5 q,5' 3' 3 - 5 4 3 q3' q2' 1 1 ,7 4' 4 - 2 q1 ,1 q,,1 ,6
+,5 ,5 q4 3 2 1 - ,5 ,1 2 4 4 3 q3 3' 2' 1 - ,5 7 2 x ,5 q5 5 ,,4 3 6 6 q5 ,x 5 x 1' 4 4 1 x. x 2
+2 x ,3 x 4 x 6 5 5 ,1 1 - 1 ,6' ,5 ,6' ,7' 1 1 0
+%END

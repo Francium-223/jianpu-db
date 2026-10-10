@@ -1,0 +1,23 @@
+%在回忆中死去.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=29436
+title=在回忆中死去
+tag=
+usertag=
+tagroute=
+confidence=0.969
+conf_p10=0.917
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-29436
+%--
+2/4
+subtitle=score
+x s1'. s1' q1' s2 s3 ~ s3 s1'. s1' s3 s2 q,3 s5 ~ q5 q6 q3 q2 q3 q5 s3 q2 q,6 q,5 q3. s3 s3 s2 q1 q,6 q,5 q3 q2. s2 q2 q1 ,7 ,7 q1
+q2 q3 q2 q3 q5 s3 s2 s1 q,7 q,5 - s0 s3 s3 s3 s3 s2 s2 s1 s2 s2 s2 s3 q2 s,6 s,6 s2 s2 s2 s2 s2 s,5 s,5 s4 ~ s4' q3. 0 s0 s3
+s3 s3 s3 s2 s2 s1 s2 s2 s2 s3 q2 s,6 s,6 s,7 s,7 s,7 s,7 q,7 s1 s2 s2 q1 s,7 ~ ,7 s0 s3 s3 s3 s3 s2 s2 s1 s2 s2 s2 s3 q2 s,6 s,6
+s2 s2 s2 s2 s2 s3 s4'. s4 3 q0 s2 s3 s4 s4 s4 s4 q4 s4 s3 q3 s2 s3 ~ s3 q4 s4 s3 s3 s3 s3 q3 s3 s3 ~ s3 s3 s3 s3 q2 s3
+s3 q6 s5 s4 ~ s4 q3 s3 s4 q3 s4 q0 s2 q5 s4 s3 ~ s3 q3 s2 s3 q4 s3 q0 s1 q4 s3 s2 ~ s2 q2 s1 s2 q1 s2 q0 s1 q3 s3 s3
+~ q3 s3 s3 s3 q4 s3 q0 s3 q6 s5 s4 ~ s4 q3 s3 s4 q3 s4 q0 s2 q5 d4 s3 ~ s3 q3 s2 s3 q4 s3 q0 s1 q4 s3 d2 ~ s2 q2 s1
+s2 q1 s2 q0 s1 q3 s3 s2 q3 s3 s3 q3 s,7 s,7 s,7 q1 s,6 s,7 q,6. ,6 0 q,6 q,5 q3 q2. s2 q2 q1 ,7 ,7 q1 q2 q3 q2 q3 q5 s3 s2 s1 q,7
+q,5 q3. s3 s3 s2 s1 q3 q2. s2 q2 q1 q,3 q,6 q3' s,7 s,7 ~ s,7 q1 s,6 s,7 q,6. ,6' q3' s,7 s,7 ~ s,7 q1 s,6 s,7 q,6. ~ ,6'
+%END

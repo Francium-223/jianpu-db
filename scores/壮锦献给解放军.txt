@@ -1,0 +1,17 @@
+%壮锦献给解放军.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48498
+title=壮锦献给解放军
+tag=
+usertag=
+tagroute=
+confidence=0.968
+conf_p10=0.793
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48498
+%--
+2/4
+subtitle=score
+q5 q1 q1 q2 q5 s3 s2 s3 s4 q5 q3 q5 q1 q1 q2 q5 q3 q2 q1 s2 1 q5 q1 2 5 q3 q3 3 q5 q1 q2 q3 q1 q1 ,5 5 s1 q1 q2 q3
+q5 q5 5 q5 q1 q2 q3 q1 q1 1
+%END

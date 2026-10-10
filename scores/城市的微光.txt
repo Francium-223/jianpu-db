@@ -1,0 +1,21 @@
+%城市的微光.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=30034
+title=城市的微光
+tag=
+usertag=
+tagroute=
+confidence=0.982
+conf_p10=0.971
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-30034
+%--
+2/4
+subtitle=score
+x q3'. q5' q1' q2'. q1' q1' - - q1 q1 q3 q1 s2'. s3' q3' - - - q3 q5 q5 q1 q2 q5 5 q1 q,7 q1 q,6 ,5 - q,6 q,7 q1 q2 s1 s,5 s,5 s3
+~ 3 q4 q3 s2 s1 q1 2 - q3 q5 q5 q1 q2 q5 5 q1 q,7 q1 q6 5 - q4. s3 q4 q2 q3 s2 s1 ~ 1 q,6 q,7 s1 q2 s1 1 - q,5 q3
+q3 q4 q3 s1 s2 ~ 2 q1 q6 q6 q6 q5 s2 s3 ~ 3 q1 q6 q6. s1 q1 q5 5 q4 q3 s4 q3 s2 2 - q,5 q3 q3 q4 q3 s1 s2 2 q1 q6
+q6 q6 q5 s2 s3 3 q,6 d7 s1 s1 q6. q5 s3 s1 1 q4 q3 s2 q1 s2 2 q1 q,7 1 - 1 - 0 0 0 0 q,6 q,7 q1 q6 q5 q3 1 q4 q3
+s2 q1 s2 q0 s2 s1 q,7. 1 - x 1 1 1' s,6' s,6 s5 ,5 - - q3' 1 2 q1 1 s1 - - q,6 q,7 q1 q6 q5 q3 1 q4 q3 s2 q1 s2 q0
+s2 s1 q,7. 1 - 1 - x q5'. q3' 1' q3' q1' q3'. q5' s1' q2'. - x
+%END

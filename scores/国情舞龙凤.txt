@@ -1,0 +1,18 @@
+%国情舞龙凤.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=17915
+title=国情舞龙凤
+tag=
+usertag=
+tagroute=
+confidence=0.959
+conf_p10=0.852
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-17915
+%--
+6/8
+subtitle=score
+s5 s6 1'. 1'. q7. s6 q5 6 7. 7. q6. s6 s6 s3 q5 q3 q5 s1 s1 q1 q2 3 q5 q4 q3 q2 ,6. q,5 q,5 q,5 2 q3 1. 1. 1 q3 5 q7 5 3
+q4 5 q4 q3 q5 2 q1 q1 q2 q3 q3 q5 q7 q5 6. q6 q5 3 q5 q7 q2' 1'. 2' q7 q6 q5 6 q7 q7 2' q7 q6 q7 5 s6 s6 q6 q7 q6 q5
+q6 q5 3. s5 s5 q5 q6 7 q5 7 q2' s5 s6 q2' q5 q2' 2' q5 2' 2' 2' q0 1' 0 q0
+%END

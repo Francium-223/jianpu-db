@@ -1,0 +1,19 @@
+%大连大连我的家.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=30795
+title=大连大连我的家
+tag=
+usertag=
+tagroute=
+confidence=0.890
+conf_p10=0.548
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-30795
+%--
+4/4
+subtitle=score
+q1'. q1 qx q1 s7 q4 4 x. x x 0 x 1 x'. q3. s4 q5 q6 s5 s6' 5. q3 q5 q2 q3 1 - q1 q,7 q,6 q1 q4 q3 q5 q6 q6' q2 ~ 2 -
+- q3. s4 q5 q6' s5 s6 5. q3 q5 q2 q3 1 - q1 q,7 q,6 q4 3 q2 s1 s2 1 - - - - x ,,x' ,,x' ,,x'. q1' s7' q1'. 6 - q7' s2'. q3'. 5
+- q3 q4 q1' q6 q7 q1'. q3' 2'. s2'. s2' s3' s2' 3'. q1' s7' q1'. 6 - q7' s2'. q3'. 5 - q3 q4 q5 q6 q5 q1 q2 q3 q3 q1 ~ 1 - - q3 s4
+q5 q6 q5 q1 s2 q3 q3 q1 1 - - q3 s4 q5 q6 q5 q6 s7 q2 2 - 1 q0 s3 s2 1 - - - - - - - - - 0 0 0
+%END

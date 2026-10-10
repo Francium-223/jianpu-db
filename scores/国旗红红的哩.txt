@@ -1,0 +1,17 @@
+%国旗红红的哩.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48491
+title=国旗红红的哩
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.998
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48491
+%--
+2/4
+subtitle=score
+5 q5 q3 q4 5. 1 6 6 0 6 5 - 4 4 2 3 4. 6 q4 4 0 q3 2 5 5 3 4 5. 1 7 7 0 7 6 5 1 5 1 3. 5
+q2 q2 q0 2 1 q1 1 7 6 7 7 6 5 - 5 1 5 1 3 q2 2 1 1 0
+%END

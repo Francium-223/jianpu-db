@@ -1,0 +1,23 @@
+%大地欢歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=16277
+title=大地欢歌
+tag=
+usertag=
+tagroute=
+confidence=0.965
+conf_p10=0.888
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-16277
+%--
+4/4
+subtitle=score
+1 - - - ,x ,x x q5 s3 s5 q3 q1 q3 q3 3 q3 s1 s3 q1 q,5 q1 q,5 ,5 q5 s3 s5 q3 q1 q2 q2 2 q1 q,5 q1 q,5 q1 q2 2 q5 s3
+s5 q3 q1 q3 q3 3 q3 s1 s3 q1 q,5 q1 q,5 ,5 q,5 2. q,7 2. 5 2 5 - x x x - 5 - 5. 5 q5 q4 q3 q1 q3 q4 5 5 - -
+0 0 0 0 5 - 5. 5 q5 q4 q3 q1 q3 q1 1 1 - - 0 0 0 0 4 4 - 1 4 q5 q6 6. q6 1'. 1' 4 q5 q6 q4 q5 5 -
+1 q3 q5 3. q3 5 q1 q2 2 - 3 3 q1 1 q2 1 - - - 0 0 0 0 q1 1 q3 5 5 q3 q1 q2 q1 1 - q1 1 q3 5 5 q5
+q1 q2 q3 q2. s1 1 q5. q4 5 q4 q5 6 q3 q5 q5 q5 5 - 5 - - - q5 s5 1' - 5 - - 5 2' - - - 2' - - - 2 5
+q5 q1 q2 q1 1 - - - q5 1' - - 1' - - - q5' q2' 2' - - 2' - - - q1' q3 q5 q5 q5 q5 q3 3 3 q1' 5 1 3 - -
+- q1' q1' q5' q2' q2' q2' q2' q5 5 3 q1' 5 1 3 - - - q1' q3 q5 q5 q5 q5 q3 3 3 q1' 5 1 3 - - - q1' q1' q1' q5' q2' q2'
+q2' q2' q5 5 5 2'. 1'. - 2 5 q5 q1 q2 q1 1 - - - 5 - - 5 2' 2' - - - - 1' - - - 0
+%END

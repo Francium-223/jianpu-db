@@ -1,0 +1,22 @@
+%天堂岛乐园.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=23612
+title=天堂岛乐园
+tag=
+usertag=
+tagroute=
+confidence=0.962
+conf_p10=0.887
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-23612
+%--
+2/4
+subtitle=score
+1' s1'. s2'. 5' s2' s3' ~ 3' s2' ~ 2' s3' ~ 3' s2'. 5' s3' ~ 3' q1' ~ 1' s2' s1' - q1 q1 ~ s1 s3 s2 s3 q1 q1 s0 s3 s2 s1 q2 s1
+s2 ~ s2 q3 s3 ~ 3 q0 s3 q1 q1 ~ s1 s3 s2 s3 d1 d1 s0 s3 s2 s1 q2 s7 s2 s2. s7 s1 ~ 1 q0 s3 q1 q1 ~ s1 s3 s2 s3 q1
+q1 s0 s3 s2 s1 q2 s1 s2 ~ s2 q3 s3 ~ 3 q0 s3 q1 q1 ~ s1 s3 s2 s3 q1 q1 s0 s3 s2 s1 q2 s,7 s2 ~ s2 q,7 s1 ~ 1 - q4
+q3 q2 s1 s,7 ~ q,7 q1 q2 q1 q3 s5 s5 ~ 5 0 0 q4 q3 q2 s1 s,7 q7 q1 q2 q1 5 q3 q2 2 s1 q2 s1 x q5 s3 s3 s2 q3 s2 q2
+s1 s1 s7 q1 s2 q2 s1 s2 s2 q3 s3 3 s1 q2 s1 q5 s3 s3 s2 q3 s2 ~ q2 s1 s1 s,7 q1 s2 ~ q2 s,5 s2 ~ s2 q,7 s1 ~ 1 s1 q2
+s1 q5 s3 s3 s2 q3 s2 ~ q2 s1 s1 s,7 q1. q2 s1 s2 ~ s2 q3 s3 3 s1 q2 s1 q5 s3 s3 s2 q3 s2 ~ q2 s1 s1 s,7 q1 s2 ~ q2 s,5
+s2 ~ s2 q,7 s1 ~ 1 - - q3 1 1 - q3 - 2. - - 1' q0 d1 1' s0 s1' s2'. d1' 0 0 0 0 0
+%END

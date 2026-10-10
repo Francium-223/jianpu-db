@@ -1,0 +1,20 @@
+%塔里木河.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=38790
+title=塔里木河
+tag=
+usertag=
+tagroute=
+confidence=0.972
+conf_p10=0.966
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-38790
+%--
+2/4
+subtitle=score
+q1 - - 7 2 x x 6 6 6 6 6' 4 3 1 2' 3 3 2 1 7 1 - 6 6 6 6 4 3 q1 q2 q3 q2 q1 s,7 ,6 - s6 s,6 6'
+,6 4 3 1 2 q3 q3 q2 q1 q7 1 - 6 q6 q6 s6 q4 3 q1 q2 q3 2 q1 ,7 6 - 6 6 6 6 6 6 6 6 6 6 7 1 2 7
+1 7 1 7 5 6 6 6 6 6 6 6 6 6 6 6 6 7 1 2' 7 1 7 1 7 5 6 6 - 6 - 3 q5 q4 q3 2 6 q5 s4 s3
+s2 q3 q4 q6 3' 3 - 3 - 2 2 q2 1 2 3 q2 q2 s1 s7 s6' s7' q,5 q1 q1 q1' q0 7' 7 6 7 2 ,6 ,6 - q1' q1 qx q0 q7 q7
+q6 q7 s2' 6 -
+%END

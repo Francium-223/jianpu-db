@@ -1,0 +1,21 @@
+%大草原我的母亲.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=37790
+title=大草原我的母亲
+tag=
+usertag=
+tagroute=
+confidence=0.942
+conf_p10=0.787
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-37790
+%--
+4/4
+subtitle=score
+x q1 q3 q3 q6' q6 q6' s4 s5 x - 5 3 q6 q6. q3 ,5' 6 - - 3' q6 3' q5' x x 6 - - q5' q6 q3' q7' 3 - ,6' 2 3 q,1' 2
+- 2 q2 ,1 s,2 3 3 2 q,1 q2 q1 ,6 - - x 3. 2 3 - 3' q,1 2 q3 3. 3 ,6. ,2 2 - - - 2 q1 q2 q1 ,5 ,6 q,5 ,6 ,3
+- - ,3. s6 ,6 - - - ,6 ,1 2 ,6 q1 3 q5 q6 5 3 - - q1 2 1 2 - - q2 q1 2 q3 3 q6 2 1 2 1 ,6 - - q3.
+q2 ,6 - - x 3 q6 s5 q,5' q6 q5' 6 - - q3' q6 5' 6 - - q5' q6 q3' q7' 3' - - q3 2 3 3 6 2 1 2 6 - - x 3
+6 5 - - 5' ,3' 5' 6 - 3 ,6 5 6 - - 1' 2 ,3' 1' 2 - - q2 q1 2 3 3. 3 q3 2 3 q5 q5 0 0 q2' 3 ,3' ,5' ,6
+- - q3 5 5 5 0 0 3 q5 7 q7 7 6 - - 6 - -
+%END

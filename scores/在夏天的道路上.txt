@@ -1,0 +1,17 @@
+%在夏天的道路上.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=38098
+title=在夏天的道路上
+tag=
+usertag=
+tagroute=
+confidence=0.929
+conf_p10=0.657
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-38098
+%--
+2/4
+subtitle=score
+q1 q5. d1 s4 s4 2 3 5 1' 7 - 7 q5. s4 2 2 x. 7 2' 1' - 5 q3. s5 3' - 6 4. q5 2' 1' 7. q6 5 4 3 4 5 q5. s4
+3 - 5 1' 7 - 7 q5. s4 2 - 7 2' 1' - 5 q3. s5 3' - 6 4'. q2' 7 2' 5 - 7 - 1' - 1'
+%END

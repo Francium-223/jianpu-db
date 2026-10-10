@@ -1,0 +1,20 @@
+%地球你好吗_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=36717
+title=地球你好吗
+tag=
+usertag=
+tagroute=
+confidence=0.938
+conf_p10=0.723
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-36717
+%--
+4/4
+subtitle=score
+,5 1 q1 1 q2 q3 5 - q3 q0 q3' q2 1 1 1 3. 6' ,5 - - ,5 1 q1 1 q2 q3 5 - q3 q0 3 2' 1 1 1 q1 6 2 - 0
+- - q3'. s4' 5. q5 5 q4 q3 q2' 1' 1 1 0 3 2 1. ,,1 ,,,1 ,3 ,6 ,5 - - d,5 ,5 ,5 x q3 q1 q4' q4 s1 q6' 5. 1 1 q1. q1 q1
+q1'. q2 3 - h0 q,6 q,7 q1 q3 q2' - q2 q1 q1 2 - x' 1' ,1'. ,6 x 5' x 1 - q0 q,3 6 6 ,6 7 7 1 6 0 q,7 ,7 ,1 ,7 ,7
+,7 1 ,5 0 3 q,6 q,6 q,,6 s,7 s,7 q1 6 0 q2 q2 s2 s2 2 2 2 2 q2 2 q1 q2' 2' 0 4' - 5' 1. q3'. q4' 5'. q5' 5' q4'. q3' q1. q1'
+1' q1' q1' q0 q,3'. 4'. 5'. q5'. 5' q4' 3' 2' - 1'. 3' 5'. q5' 5' q4' q3' q2' q1' 1' 1' q3'. q3'. q1' q2' - 1' 1' - -
+%END

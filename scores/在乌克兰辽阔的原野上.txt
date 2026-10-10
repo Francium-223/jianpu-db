@@ -1,0 +1,18 @@
+%在乌克兰辽阔的原野上.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=36851
+title=在乌克兰辽阔的原野上
+tag=
+usertag=
+tagroute=
+confidence=0.944
+conf_p10=0.768
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-36851
+%--
+3/4
+subtitle=score
+x 3 6 7 - 7 6 - 3 5 - 4 3 2 - - 2' 4' 6 3 - 2 1 - ,7 ,6' ,6' - - x ,6 1 3 6 - 3 2. 1' 1 ,7
+- - ,7 - - 2 3 4 3. q2' 1 1' - ,6 - 3 6 7 - 7 6 - 3 5' - q4 q3 2 - - 2 4 6 3 - 2 1. q1' 7 ,6
+- - 3 6 7 1 - 7 6 3 5' q4 q3 2 2 4 6 3 2 1 1. q0 q1' q1 ,7 ,6 - -
+%END

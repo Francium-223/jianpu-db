@@ -1,0 +1,17 @@
+%在银色的月光下_4.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=38769
+title=在银色的月光下
+tag=
+usertag=
+tagroute=
+confidence=0.997
+conf_p10=0.993
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-38769
+%--
+4/4
+subtitle=score
+q5 4 3. q3 1' 7 2 4 4 4. 6 6 6 5' 5 q3 q5 3'. 2' q2' 6 - q2 6 5. 2 4. 3 3 - q3 q5 3'. 2' 2 q1' 6 q2 q6 5.
+q7 2 1' 1 - 1 q5 q4 5. q7 q7 2' 1' - 1' 0
+%END

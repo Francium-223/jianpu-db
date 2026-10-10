@@ -1,0 +1,19 @@
+%大美长春.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=16925
+title=大美长春
+tag=
+usertag=
+tagroute=
+confidence=0.931
+conf_p10=0.687
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-16925
+%--
+4/4
+subtitle=score
+q3. s4 q5 q6 5. q4 q3 q1 q2 q3 ,5 - s6. s7 q1 q2 q3. s6 q5 q4 q2 q4 q3. s2 1 - q3 s4 q5 q6 5 q4 q3 q1 q2 q3 ,5 - q,6 q,7
+q1 q2 q3 q6 q5 s4 q4 q3 q2 q3 1 - q3 q1 q2 q3 ,5 - q3 q5 q4 q3 2 - q3 q3 q5 qx q5 q6 q6 s5 s5 s6 5 1 q2 q4 q3 q2
+q2 1 1 - 1 5 q1' s2' q3' s2 s2' s3 s3' 1' s7 q7 s7 q6 q3 5 - q1' q1' q7 q6 q5 s6 s5 3 s5 ~ s5 s5 s6 q4 q3 2 - ,x' 1
+1 x q3 s3 q3 s4 q5 q6 5 q1' s1' q7 q1' q2' 6. q5 s5 q6 q1' q4' q3' 2' s2' s2' s1' s2' q3' 1' - q4' s3' 2' q3' 1' - -
+%END

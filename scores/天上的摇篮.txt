@@ -1,0 +1,22 @@
+%天上的摇篮.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=19987
+title=天上的摇篮
+tag=
+usertag=
+tagroute=
+confidence=0.951
+conf_p10=0.858
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-19987
+%--
+3/4
+subtitle=score
+q1 4 1 ,1. 1 x. x q,5 q,3 q,6' q,5 s6 s7 q2 q1 q1 4 2 - - - q3 4 q,5 q2 2 q2 s3 s2 q1 4 q1 q,7 q,5 q,3 q,6 q1 q,7 s6 s7
+,5 - - - ,3 q,5 q,6 q,7 2 q2 s3 1 q,7 s6 s7 q,5 q,3 ,5. s2 s3 q1 q,7 q,6. s7 ,5 - - q,5 q2 q2 q1 q2 5 q5' q5 q5 q2 s4 s5 2.
+q,6 q2 q2 q1 2' s4 s5 s2 s4 5 - - x q4 q5 q6 6 q5 q6 6 q5 q1 - 0 0 q4. s6 s5 s6 q4 2 q,6 q1 2 s2 s3 s2 s1 q,6' s,5
+s,6 q1 q,6' ,5 - - x s5' s6 s2 s4 6 q5 6 q1'. s2'. s3' 2'. 6. s5 s6 q7 7 q6 q5 q2 q5 q6 q7 q5 3 - - q6 q7. q3 q5 6. q5 6
+q1'. q2'. q3' 2'. s3 6. s5 s6 q2' 2' s7' s6' q5 q2 s5'. s2' q5 6 - - s6 s7. s5 s3 - - s6 s7 s5 s4 3 - - q1 q2 q3 q5 q5. s3 s5
+q6 6 s1' s1' s6' s3' 2' q3' q2'. q3' q5 5 q6'. 2' s2'. s1' s6 6 - - - 5 s6 s5 q4 q3 q1 q,6 q1 4 q1 s2 s3 q5 q4 1 4 5 - -
+- q1 5 s6 s5 q4 q3 q1 q,6 q1 4 q2 q4 q3 s2 s3 4 4 1 - - -
+%END

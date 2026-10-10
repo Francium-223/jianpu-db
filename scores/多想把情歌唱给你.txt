@@ -1,0 +1,19 @@
+%多想把情歌唱给你.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=19030
+title=多想把情歌唱给你
+tag=
+usertag=
+tagroute=
+confidence=0.989
+conf_p10=0.977
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-19030
+%--
+4/4
+subtitle=score
+1' q1' q7 1' 4 7 q5 q3 6 - q5 q5 q5 s5 s6 5 3 q1 q2 3 - 1' q1' q7 1'. q3 1' q1' q7 6. q3 - q5 q5 q6 5 q1 q3' q3' q,7'
+~ 7' - - 1' q1' q7 1' 7 q5 q3 6 - q5 q5 q5 s6 3 q1 q4 q2 3 - 1' q1' q7 1'. q3 1' q1' q7 6. q3 q5 q5 q6 5 q1 q2' q2
+q1 1 - - 1 q1 q7 1 4 2 q2 q1 5 - q3 q2 q1 7 q6 q5 3 - - - q3 q5 q6 q3 2. q1 q2 q3 q7 6 - q5 q6 q3 q3 q2
+q1 1 - - - q5 q5 q6 q3 3. 3 - 2 q2 q1
+%END

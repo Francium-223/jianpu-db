@@ -1,0 +1,22 @@
+%夜光螺.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14847
+title=夜光螺
+tag=
+usertag=
+tagroute=
+confidence=0.950
+conf_p10=0.856
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14847
+%--
+3/4
+subtitle=score
+1 - - q3 x x x x x x 1' 1'. 1 x. ,1 5 6 5 s5' s3' s1' s5 s5' s3' s1' s5 s5' s3' s1' s5 3 - s2 s3 s2 s3 0 - - -
+3 - s2 s3 s1 s2 - 5 - - s1 s4 s5 s6 s5 s4 1. s1 s4 s5 s6 s5 s4 1. ,5. q,7 s2 s4 s2 s1 2 - - s1 s4 s5 s6 s5 s4 1.
+s4' s1' s6 s5 s4 s5 1. ,5. q,7 s2 s4 s2 s7 1 - - s4 s5 s6 s2 s4 s5 6. s4 s5 s6 s5 s4 s6 2. 4. q4 s3 s4 s3 s1 2 - - s1
+s2 s4 s3 s2 s3 q1 q1'. s1 s1 s2 s4 s3 s2 s3 ,6. q,7 q0 s7 s6 s7 s5 2 5 - ,5 3 - s2 s3 s2 s3 0 0 - - 3 - s2 s3 s1
+s2 - - - - s1 s4 s5 s6 s5 s4 1. s1 s4 s5 s6 s5 s4 1. ,5. s,7 s,7 s2 s4 s2 s1 2 - - s1 s4 s5 s6 s5 s4 1. s4 s1' s6 s5
+s4 s5 1. ,5. s5 s2 s4 s2 s7 1 - - s1 s4 s5 s6 s4 s5 6. s1 s4 s5 s6 s1' s5 6. s5 s6 s5 s6 q4 1. q5 q6 4 5 1' - - 1'
+- - 1' - -
+%END

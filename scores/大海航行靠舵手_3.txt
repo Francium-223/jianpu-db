@@ -1,0 +1,18 @@
+%大海航行靠舵手_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=8844
+title=大海航行靠舵手
+tag=
+usertag=
+tagroute=
+confidence=0.998
+conf_p10=0.994
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-8844
+%--
+2/4
+subtitle=score
+q3' q1' q2' q3' q5' q3' q2' q1' 3' - 3' - q6 q1 q2 q1 q3 q7 q6 q5 5 - 5 0 1. q1 2 1 q6. s1 q6 q5 5 3 q5. s6 q1 q2 q6 6
+q5 q3 q3 q3 q5 q2. s3 q2 q1 1 - 1 0 q3. s2 q1 s2 s2 q3 3 q5 q1' s6 s5 s6 s5 q3 5 - q6 q1' q3 q5 q6 q1' q5 q6 q1 q3 q2
+q7 6 - q6 q6 q1 q2 q3 3 q2 q5' 5' q3' q2'. s7 q6 q5 1' - 1' -
+%END

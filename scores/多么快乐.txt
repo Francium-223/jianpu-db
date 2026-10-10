@@ -1,0 +1,17 @@
+%多么快乐.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48501
+title=多么快乐
+tag=
+usertag=
+tagroute=
+confidence=0.997
+conf_p10=0.993
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48501
+%--
+2/4
+subtitle=score
+3 4 5 3 1 0 7 1 2 7 ,5 0 6 7 1 2 3. q3 q3 3 4 2 6 5 3 4 5 3 1 0 7 1 2 7 ,5 0 6 ,7 1 2
+3. 3 3 3 2 ,5 ,6 1 5 5 5 3 0 2 ,5 6 1 0 5. 5 3 3 2 ,5 6 1 1 0
+%END

@@ -1,0 +1,18 @@
+%士兵小唱.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=10508
+title=士兵小唱
+tag=
+usertag=
+tagroute=
+confidence=0.971
+conf_p10=0.940
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-10508
+%--
+4/4
+subtitle=score
+,5 1 3 1 3 5 ,5 1 0 ,5 1 3 1 3 5 ,5 1 0 ,6. d6 q,6. q,5 q1. s1 q1 q,6 q,3. s2 q1 q,6 ,5 0 q1. s1 q1 q,6 q3. s2 q1 q3
+q5. s3 q5' q6' 5 0 1. ,6 ,5 ,6 0 3. 2 1 2 3 x x. 6. q6 5 4 3 q2 q3 q1 1 x qx - - - - ,6 s,6 s,5 q3. s2 1 -
+,5. q,6 ,5 0 q1. s2 q1 q,6 q,5 q,6 ,5 3. q2 3 0 5. s6 q5 q3 q1 q2 3 ,6 ,5 3 1 3 6 q5 q3 0 q2. 3 q2 q,6 1 0
+%END

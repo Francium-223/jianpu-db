@@ -1,0 +1,24 @@
+%多情_4.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=27017
+title=多情
+tag=
+usertag=
+tagroute=
+confidence=0.989
+conf_p10=0.989
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-27017
+%--
+4/4
+subtitle=score
+q1 q1 q1 q1 q1 q1 q1 q,6 3 - 0 0 q6 q6 q6 q6 q6 q7 q6 q5 1 - 0 0 4. q5 4 - 3. q4 3 - 2 - 2 ,7 1 - 0 0
+q1 q1 q1 q1 q1 q1 q1 s6 3 - 0 0 q6 q6 q6 q6 q6 q7 q6 q5 1 - 0 0 4 q5 4 - 3 q4 3 - 3 - 3 6 7 - - -
+3 - 1' 3 7 - - 0 q1' q7 6 6 3 5 - - 0 q4'. q3' 2' 2' 7 1' - - 0 q1' q1' 6 6 - 7 - - 0 3 - 1' 3 7
+- - 0 q1' q7 6 6 q3 q5 5 - - 0 q4'. q3' 2' 2' 7 1' - - 0 q1' q1' 6 6 - 7 - - - 0 0 0 0 q,7 q3 6 - 0
+0 0 0 0 q,7 q1 6 - 0 0 0 0 0 q,7 q1 5 - 0 0 0 0 0 q,7 q1 q5 - 0 0 0 q7 - s7 s6 6 - 0 0 0 0 0
+s,7 s1 s7 q6' 6 - 6' - 0 0 q,7 q1 5 - 0 6 5 q6 5 q5 5 - 4 - 3 - - - 0 0 0 0 3 6 - 0 q2 q5 ~ 5
+- 0 q3 q6 ~ 6 q1' q1' q1' q2' q5 ~ 5 0 0 q3 q6 ~ 6 - 0 q2 q5 ~ 5 0 0 q3 q6 6. q1' q1' q1' 2' 5 - 0 0 0 0
+0 3 - 1' 6 7 - 0 0 q1' q7 6 6 3 5 - 0 0 q4'. q3' 2' 2' 7 1' - 0 0 q2'. q3' q1' q1' 7 - 0 0 0 0 q2' q2' q1'
+q7 6 - 0 0 0 0 7 1' - -
+%END

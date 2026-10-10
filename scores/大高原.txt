@@ -1,0 +1,26 @@
+%大高原.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=32541
+title=大高原
+tag=
+usertag=
+tagroute=
+confidence=0.975
+conf_p10=0.963
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-32541
+%--
+4/4
+subtitle=score
+qx q1 0 0 q4 4 x x 0 - x x. 1 x x 6. q1 q2 q3 q5 q6 ~ 6 - - - q1' q1' q6 5. 3 ~ 3 - - - x 3. q5 6.
+q1' q1' q5 q6 3 - ,6. q1 2. q3 q2 q1 q5 q1 ,6 - 3. q5 6. q1' q2' q1' q6 q5 3 - ,6. q1 2. q3 q2 q1 q,5 q1 q,6 q,6 q,6 s3 s3 q,6
+q,6 q,6 q,6 q3 3 s2 s1 q2 s2 s2 s2 s3 s2 s1 s6 s5 q,6 q,6. s3 q,6 s6 s6 q,6 s6 s6 q3 3 s1 s1 q6 q6 s5 s6 q5 s3 s2 s5 s3 3 q3
+q6 q6 q5 q6 q1 q1 s0 s6 q6 q5 q6 q5 s3 s2 q3 q3. s3 q1 q1 q1 q1 q2 q2 q2. s3 q2 s3 s5 q,5 s6 s1 ,6. s3 s3 q,6 q,6 q,6 q,6 q3 3
+s2 s1 q2 q2 q5 q1 q2 s2 s2 s2 s3 s2 s1 s6 s5 s1 s6' q6. s3 q,6 s6 s6 q,6 s6 s6 q3 3 s1 s1 q6 q6 q6 q5 s3 s2 s5 s3 ~ 3 q3
+q6 q6 q5 q6 q1 q1. s6 q6 q5 q3 q2 s3 s5 q3 q3. s3 q1 q1 q1 q1 q2 q2 q2. s3 q2 s3 s5 q5 s6 s1 ,6 - 6 5 6' 5 3' 2 q2 q2
+q5 q1 6 q6 q5 6 1' q6 q5 q2 q5 3 - 2 q2. s1 2 q2. s3 q2 q1 q,5 q1 ,6 - 6 q6 q5 6 1' q6 q5 q2 q5 3 - 2 q2. s1 q2.
+s3 2 q2 q1 q,5 q1 q,6 ,6. q5 q3 q5 q1 q6 6. q6 s6 s6 q6 q5 q6 q6 1' 6 3 - - - - - - q6 s6 s6 q6 q5 q6 q6 6 6. 3.
+5 q1 6 3 - - q6 s6 s6 q6 q5 q6 q1' 1' 6'. 3. 5 q1 s2 3 5 s1 6'. 3. q6 s6 s6 q6 q5 q6 q6 6 s6 s5 s4 s3 s0 s4 s5 s6
+q6 q6 6 6 q6 q5 q6 1 q6 q6. s5 q2 q5 3 - 2 q2 q1 2 q2 q3 q2 q1 q5 q1 ,6 - 6 q6 q5 q6 1 q6 q6 q5 q2 q5 3 - 2
+q2 q1 q2 q3 2 q5 q3 q5 q1 q6 6. 6 - 0 0
+%END

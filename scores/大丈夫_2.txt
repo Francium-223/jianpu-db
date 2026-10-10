@@ -1,0 +1,18 @@
+%大丈夫_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=26328
+title=大丈夫
+tag=
+usertag=
+tagroute=
+confidence=0.968
+conf_p10=0.935
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-26328
+%--
+4/4
+subtitle=score
+6. ,6 ,6 3 3 q3 2 3 2 1 7 q,6 ,5 ,3 ,3 ,7 q,6 ,6 - ,6 ,6 3 3 3 2 3 q2 1 q,6 q1 2 ,6 2 5 3 3 4 4 2 6
+3 2 ~ 2 3 3 2 4 2 5 2 3 3 ,6 ,6 3 q2 3 2 1 q,7 q,6 ,5 ,3 ,7 ,5 ,6 ,6 - 4 0 4 4 5 2 3 - - ,6 ,6
+3 3 q2 3 2 1 ,7 6 ,5 ,7 ,5 ,6 ,6 - 1
+%END

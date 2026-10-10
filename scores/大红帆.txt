@@ -1,0 +1,22 @@
+%大红帆.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=21210
+title=大红帆
+tag=
+usertag=
+tagroute=
+confidence=0.944
+conf_p10=0.780
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-21210
+%--
+4/4
+subtitle=score
+- 4 x x x. x 5. q,5' q5' 0 0 q3' q6' q5' 5' q3' q2' q3' q2' q3' q6 5 - q6 q5 q6 q5 q3' q2' q3' 2' - q5' q3' q6' q5' ~ 5' q3' q2'
+q3' q2' q3' q6 5 - q1' q1' q6 q5 q6 q5 5 - 5' - q3' q2' q3' s0 sx qx x x 6 q6. s5 q6 3' q2' q3' 3' 0 2' 5' 3' q2' 6. q2' q1'
+x 5 q6 q5 ~ 5 0 6 q6 q5 q6 q5' q3' q3' q3' ~ q3' q2' q0 q5' q3' q2' 3' 3' 2' q6 q1' qx q5 q5 q6 2' - q0 q2' q3' q6 q6 q5 5
+- 0 x. q5' q6' q5' 5' - 5' - - 0 q3' q2' q3' q1' x s0 sx qx x x q0 q3' q3' q2' q5' q3' 3' 6 q2' - q0 q2' q2' q1' 3' 3' q2' q6
+q6 q5 ~ 5 0 q0 6 q5 q5' q3' q3' q3' q3' q2' q0 q5' 6' 5' 5' s3' s2' qx q5 q6 q1' 2' - q0 q2' q3' q6' 5' - - - x q5' q3' 6' q5'
+q5' 0 q5' s5' s3' q5' q1' 2' 0 q5' q3' 6' q5' q5' q0 q3' q3' q2' q3' q6 5 - 6 q6 q5 q5' q3' q3' q3' ~ q3' q2' q0 q5' q3' q2' 3' 3' 6 q2'
+- x x 5. q5' q3' q5' ~ 5' q3' q2' q3' q2' q3' q6 ~ q6 q5 ~ 5 q6 q5 q1' q1' q6 q5 5 - 5' - q3' q2' q3' 0 0 x
+%END

@@ -1,0 +1,18 @@
+%大踏青.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=38688
+title=大踏青
+tag=
+usertag=
+tagroute=
+confidence=0.997
+conf_p10=0.994
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-38688
+%--
+2/4
+subtitle=score
+q3 q2 q1 6 1 2'. q5' q3' 2 q1 6 1' 2 5 3 5 1' 6 5 5 s6 q5 3 2 1 q6 q1' 2 q5. q6 q3 q2 q1 q6' 1 2 5. q6 3 2
+q1 q6' q1 2 q3 q1 2 q3 1 2 3 1 2 1 q3 2 1 3 2 q3 q1 2 q3 1 2 1 2 q3 2 5. q6 3 2 1 3 2 2 2 ,5 1
+q1 2 1 6 5 5 4 5' 6 5 x 0 x 2. 3 5 5 q5 q3 q2 1 ,5 q1 1 2 1' ,6' ,5 ,5 q4 q,5 ,6 ,5
+%END

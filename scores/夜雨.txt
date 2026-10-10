@@ -1,0 +1,22 @@
+%夜雨.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=11732
+title=夜雨
+tag=
+usertag=
+tagroute=
+confidence=0.947
+conf_p10=0.851
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-11732
+%--
+2/4
+subtitle=score
+q1 q1' 4 4 4 x x 1. qx. 6'. q6. s1' q5 s6 s4 q5 3 - q3'. q2'. q2' d7'. d2' s6 s3 5. s5 s6 q1'. d6'. s2' q7 s6 s0 s1' s1' q5. d6 s4 q5
+q3 s0 q6 q5. s4 q3 s5 s2 q,6 1 6 q5. d6 q4 q3. d5 s2 s6 1 q2 q3 s5 q7. d2 s6 s3 5' - s1 s6 s1 s2 q3 s0 s5 s3 q6. q5 4 q,6.
+q5 q3. d5 s3 s2 2' - q6 q5 q6 4 s5 q3 d5 s2 s3 q2 q3 q5 q5 s3 s2 q7 6' - s6 s1 s2 q3 q6 q5. d6 s4 q5 3 q2. s3 s5 q4 q3
+s5 q7 q6 1' - q1'. q7 q6. d1' q5 s3 q6 q5 q4 3 s2 q2 q3 q5 d3 s5 q7 s6 ,5. q,6 q5. d4 q3 d5 s5 q2 d0 s3 q7 q6 1 - 2. q2. s3
+q5 q4 q3 q5 q2 q3 q1. d5 q3 q5 s1 q0 q7 q,1 q2. s3 q5 q4 q3 q2 q7 q6 q5 q0 q4 q3 q5 q,1 q5 x q3'. q1' q1'. d2' s7 q6 q3 5' - q6.
+q7 q5 q1' q1'. s7 q6. s1' q5 q4 3 q2. q3 q5 q4 s3 q2 s1 q2 - q2. s3 q2 q7 s2 q7 q6 ,5'. q,6 q1 q,6 q6 s5 q6 s5 s6 s5 s4 s5 s5 q3.
+q2 s2 s3 s5 s3 s2 s6 1'. s2 s3 q5. s4 s3 s5 q2 s0 s3 s2 s7 d2 s7 s6 ,5'. ~ s5 s6 d7 s6 -
+%END

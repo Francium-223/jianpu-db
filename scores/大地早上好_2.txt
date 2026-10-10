@@ -1,0 +1,19 @@
+%大地早上好_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=46201
+title=大地早上好
+tag=
+usertag=
+tagroute=
+confidence=0.940
+conf_p10=0.689
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-46201
+%--
+2/4
+subtitle=score
+1 - - 4 q1 x x x x x x q,x qx 3 3 q2 3 q2 q3 q3 q3 q2 3 3 q6 q7 q1' q7 1' q7 q1' 1 x q5 q1 q5 q1 q5 q1 x
+q2 q3 q3 q2 q2 q3 q3 2 q3 q3 q3 2 3 3 q6 q7 q1' q7 1' q7 1' 1' qx q0 q5 q1' q5 q1' q5 5 6 5 6 qx q0 5 5 q6 5 q5
+6 qx q0 q5 5 q6 5 q6 q6 5 q5' 5' - 5 0 5 q1' q1' 7 1' 1' - 1' - 0 q1' q1' 7 1' 7 - 7 - 0 7 q7 6 7 6 -
+6 - 0 5 5 6 7 1' - 7 - 1' 1' q1' 1' 1' - 1' q1' q0
+%END

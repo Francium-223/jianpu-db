@@ -1,0 +1,26 @@
+%圣诞狂欢曲.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=30489
+title=圣诞狂欢曲
+tag=
+usertag=
+tagroute=
+confidence=0.951
+conf_p10=0.814
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-30489
+%--
+2/4
+subtitle=score
+3' 1' 2' 5 ~ 5 - 5 2' 3' 1' ~ 1' - q3'. s2' q2' q2' q3' q2' q3' q5' q2'. s1' q2'. q3' 5 - q2'. s1' q1' q1' q1' q1' q2' q7 q1'. s7 q2' q2'
+3' - q3'. s2' q2' q2' q3' q2' q3' q5' q4'. s3' q2'. q3' 4' - q2'. s1' q1' q1' q2' q1' q2' q7 q1' q1' q1' q7 1' 0 q3'. s2' q1' q2' q3' q2' q1' q1' q1' q1'
+q2'. q3' 5 - q2'. s1' q1' q1' q1' q1' q2' q7 q1' q7 q1' q2' 3' - q3'. s2' q1' q2' q3' q2' q3' q5' q4'. q3' q2'. q3' 4' - q2'. s1' q1' q1' q1' q1' q2' q7
+q1' q1' q1' q7 1' q3 q4 5 q5 q5 q6 q7 q6 q7 q6 q6 q4 q5 6 q1' q1' x. 0 0 7 q7. s6 q1' q1' q7 q6 q6 q6 q4 q6' 5 q3 q4 5 q5
+q5 q6 q7 q6 q7 q6 q6 q4 q5 6 q1' q1' 7 q7. s6 q7'. q3' q1' q1' q1' q1' q1' q7 1' q3'. s2' 1'. q1' q1' q1' q4' q4' q3'. s3' 2' q2'. s1' 7. q7 q7
+q7 q6 q7 q3'. q3' q2'. s2' 1' q3'. s2' 1' q1' q1' q1' q1' q1' q4' q4' s3'. s3' 2' q2'. s1' 7. q7 q7 q7 s6 q7 q3'. q3' s2'. s2' 1' - q3'. d2' s1' q2' s3'
+s2' s1' q1' q1' q1' q2'. q3' 5 - q2'. s1' q1' q1' q1' q1' q2' q7 q1' q7 q1' q2' 3' - q3'. s2' q1' q2' q3' q2' q3' q5' q4'. q3' q2'. q3' 4' - q2'. s1' q1'
+q1' q1' q1' q2' q7 q1' q1' q1' q7 1' x q0 qx qx sx sx qx qx qx qx q0 sx sx qx qx qx qx qx qx q0 sx sx qx qx x. x 0 x 0 qx
+qx qx qx q0 sx sx qx qx qx dx sx qx qx q0 qx qx qx qx qx qx qx q0 qx qx qx qx qx qx qx q0 qx qx qx qx qx qx qx q3 q4 q5'.
+q3' q1' q1' 5 - q5'. q3' q1' q1' 6 - q6' q4' q3' q2' 7 - q5'. q5' q4' q2' 3' - q5'. q3' q1' q1' 5 - q5 q3 q2 q1 6 - q6 q4 q3 q2 q5
+q5 q5 q5 q6 q5 q3 q2 1 - 0 q1 1 0 3 1 2 5 5 - 5 2 3' 1' 1' -
+%END

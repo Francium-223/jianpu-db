@@ -1,0 +1,22 @@
+%壮士颂.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14349
+title=壮士颂
+tag=
+usertag=
+tagroute=
+confidence=0.938
+conf_p10=0.760
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14349
+%--
+4/4
+subtitle=score
+q1 x x x ,x s1 x' x ,,x x x x x x 1 x q,6 q,6 2 2 - q1 q2 5. q6 q4 q3 2 0 q1 q2 ,6 1 2 - - - 0 0 0
+q2 q2 q5 q4 2 0 q3 q5 6. q7 q6 q5 3 0 q3 q2 5 3 - - - 0 0 0 7 7 - - 6 2'. q1' - q0 q7 q7 q6 7 q7 q6 q5
+q3 q5 q6 3 - 0 0 0 q2 q1 2 - q2 q3 q2 q3 5 q5 q3 q1' q6'. q2' 1'. q1' 7 6 6 - - q5 q6 3 - - q1 q2 5. q6 q4 q3
+2 0 q1 q2 3 2 2 - - - 0 0 0 0 0 0 0 0 q7. s1' q7. s1' 6 q5 q6 7 7 - 5 q5. s6 q6 q5 q5 q3 q5 q6 3 - q0
+q1 q1 q2 q5. s6 q4 q3 q2 q1 q1 q2 5 - - - q7. s1' q7. 6 q5 q6 7 7 - q5 q6 2'. q1' q1' q6 q5 q3 q5 q6 2 q2 q1 q1 q2 q5
+q6 q4 q3 q2 q1 q,7 q1 ,6 - - - 7 q6 q5 6 - 7 q6 q5 3 - q2. s2 q1 q2 q5 q6 4 q3 q2 q2 3 - 7 q6 q5 6 - 7 q6
+s5 3 - q5. s5 - q3 q5 q6'. q2' q7 q7. 5 - 6 - - - 6 - - -
+%END

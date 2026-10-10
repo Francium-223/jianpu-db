@@ -1,0 +1,20 @@
+%大巢湖.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=13969
+title=大巢湖
+tag=
+usertag=
+tagroute=
+confidence=0.973
+conf_p10=0.948
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-13969
+%--
+4/4
+subtitle=score
+x 3 5. 6 - 7 6. 5 6 - q2. q2 q2 3 5 q6 3 5 q3. q2 2 - 3 5. s6 6 - 7 6. 5 6 - 0 1 1 2 3 5 q0 ,6
+- - - x ,6 3 3'. 2' 3 0 2. s1' q2' 0 ,6 - ,6 3 5'. q2' 3 0 2. s1' s6' 2 - 3 q6' 6' 6' q5' 6. q3 5. 3' 2' 1 1 0
+,6 1 2 2 2 1' 6' 2 3 3 0 3 5' 0 6' 5' ,6 - ,6 0 3 6 q6 q6 6 3 5 0 6 6 - - - 6 6 6 3 3 5 0
+q5' q6' 3 - - 2 2. 6 q1 q2 2 0 5' 6 q3 q2' 2 - 1. q1 1 2 3 3 0 q2 q3 5 q6. s3 5 - 5 - q0 q1 q1 q2. 3' 5'
+q0 s6 q5 ,6 - - -
+%END

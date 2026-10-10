@@ -1,0 +1,22 @@
+%国泰民安_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=8637
+title=国泰民安
+tag=
+usertag=
+tagroute=
+confidence=0.924
+conf_p10=0.674
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-8637
+%--
+4/4
+subtitle=score
+1 1 2 4 6 4 x 1 x' x x' x x q3' q5' q6' q3'. 5' - q3' q5' q6' q3'. 5' - q3' s2' s3' q5 s3 s5 q6 s5 s6' s1' s1' 2'. q3' q7 s6
+s7 q6 q3 5 - - - q5. s6 q7 q6 5 q0 q1 q6 q3' q2' 1'. q0 q6 q3'. q2' q1' q7 s6 s7 q6 q3 5. q6' 5. q0 q3. q6 q7 q6 5 q0 q6 q5
+q6 q4 q3 q2 3. q0 q5. q6 q7 q3'. q2' q1' q7 6 q2' q6' q1' q7 q6 5 - 2 x 2' s3'. s3' s4' s3'. s2' s2' q1 1'. s1' s2' q3' s2' s3' q2' s1' s7
+s6 s5 6 q0 q5. s6' q7 q6 s0 s7 q6 q5 q3 s6 s6 q6 s4 s3 s3 s5 2. q3 s0 s4 q3 q2 q1 q1 0 q3 s5 s6 s2 s3 s1 s7 ,6 - q6 q3
+q2 q1 q7 s6 s7 q6 q3 5. q6 5 - q3. s2 q3 s7 s6 1 - q6 s3 s5 q7 q6 5 - s3 q2 s3 s5 s3 q5 s6 s1' s5 s6 1' q6 3' q2. q3
+s0 s7 s6 s7 q6' 1' - q,3 q3'. s2' q3' s7 s6 - q6 s3 s5 q7 q6 5 - s3 q2 s3 s5 s3 q5 s6 s1' s5 s6 1' q6 3' q2'. q3' s0 s7 s6 s7
+q6' 1 - - - 1 - - - 2' 3' - - 2' 3' - 6' 1 - - -
+%END

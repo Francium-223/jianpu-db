@@ -1,0 +1,21 @@
+%在水一方_台湾电视连续剧《在水一方》主题曲.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=36012
+title=在水一方 台湾电视连续剧《在水一方》主题曲
+tag=
+usertag=
+tagroute=
+confidence=0.887
+conf_p10=0.551
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-36012
+%--
+4/4
+subtitle=score
+1 - - q,5 ,6 1 1 - q5 q5 q6 q6' q6 q1 5 3 3 1 x x' q,6' qx q1 3' x 3 2 2 1 q3 q3' q6 q3' q3' q3 x 5 - 5 6
+- - 7' 5' 3 - - 5 5 3 2 - - ,6 7 1 - - ,5 1 - - - 1'. q7 q6 q7 q3 q4 5 - - 6 q5 4 3 6 q3 2 -
+- q3 4 5. 6 5 q4 3 2 - - 2 q3 4. 7 2 q6 5 - - - 1'. q7 q6 7 x' 3 4 5 - - 6 5 4 3 q6 3 2 - -
+q3 q3 q4 5. q6 5 4 2 - - 2 3 4 x 7 7 6 6 6 5 7' 2. 1 q2 q2 1 1'. - 1 1 - - 5' 6 ,6 1 1' q1. - -
+q5 5' 5 q6 3. 0 6' q1 3' 2 - - q3' q3' 5 - - 5 6 - - 7' q6 5' 3 0 - ,6 6 2 2 - q,6 q,7 1. 1 - 1 - 1
+1 1 0 0 0 0
+%END

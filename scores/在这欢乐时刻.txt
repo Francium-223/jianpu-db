@@ -1,0 +1,18 @@
+%在这欢乐时刻.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=24748
+title=在这欢乐时刻
+tag=
+usertag=
+tagroute=
+confidence=0.935
+conf_p10=0.681
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-24748
+%--
+4/4
+subtitle=score
+1 - - x' ,x x qx x' x' q,5 1 q,7 q1 q,7 q,6 q,5 ,6 ,5 - 0 q,5 1 q,7 q1 q,7 q,6 q,5 ,6 ,5 - 0 q,5 1 q,7 q2 q1 q,7 q1 2 q1
+q,7 ,6 - q,7 q,7 q,7 q,6 q,5 q,5 q,5 q,5 ,5 q,7 q,7 ,7 1 1 - - 0 3 - 2 - 1 q5 q1 2 - q5 q4 q4 q3 q2 q2 q2 q1 1 2 3
+- 3 - 2 - 1 q5 q1 2 - q4 q4 q4 q3 q2 q2 q2 q3 5 - - 0 1 - - 0 5 - - 0 4 3 2 3 1 - - 0
+%END

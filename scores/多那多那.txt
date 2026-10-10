@@ -1,0 +1,19 @@
+%多那多那.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49896
+title=多那多那
+tag=
+usertag=
+tagroute=
+confidence=0.946
+conf_p10=0.791
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49896
+%--
+4/4
+subtitle=score
+- - x' 1' x. ,x 1' x x 1' 3 ,6 q,7 1 2 3 ,6 ,7 1 2 0 3 ,6 4 q3 q2 1 2 3 - 0 3 ,6 ,7 1 2 3 ,6 q,7 q1
+2 0 q3 ,6 q4 3 2 1 ,7 ,6 - q0 5 q5 5. 4 3' q2' 1 - - q2 2 2 5 5' 4' 3 - - - q0 5 q5 5. q4 3 2 1. 2
+3. q2 q1 ,7'. ,6 - - 0 ,7 q,7 ,7 q,7 2 2' q1' 1 q2' 3 - - q2 2 2 2 5 5 4 3 - - 0 q,7 q,7 q,7 q,7 2 q2 q1 q1' q2'
+3 - - q3 q,7 q1 q2 1 ,7 ,6 - - 0
+%END
