@@ -1,0 +1,17 @@
+%回家_4.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=35103
+title=回家
+tag=
+usertag=
+tagroute=
+confidence=0.848
+conf_p10=0.465
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-35103
+%--
+4/4
+subtitle=score
+1 - - 0 x x x x 1. x 0 0 0 q6 0 0 0 q6 0 0 0 0 q,6 q6 ,6 6. q,6 q6 q3 x q3 q2' q1 q2. q6 6 q6 q5 q5 q6
+s5 q5 q5 q5 s6 s3 sx 3 6 0 0 0 0 0 0
+%END

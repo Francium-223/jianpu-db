@@ -1,0 +1,18 @@
+%四季吟.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15157
+title=四季吟
+tag=
+usertag=
+tagroute=
+confidence=0.968
+conf_p10=0.904
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15157
+%--
+4/4
+subtitle=score
+- x x x x x 5. q6 1' 2 6 - 5 0 3. q5 q3 q2 1 2 - - 5. 6 1 2 6 - 0 5. q6 3 5 2 - 0 6. q5 3 -
+5. q3 2 - 3. q5 3 2 1 2 - 0 2. 3 5. 3 6. 5 1 2. q3 3 q2 1 2 - 0 2. 3 6 - 2'. 3' 5' 3. q5 6 1 5 -
+0 5. 6 1' - 2 7 - 0 5 1 q3 2 - - 0 2 5. 3 6 5 0 2' 5 2' 1 - 0
+%END

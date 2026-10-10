@@ -1,0 +1,21 @@
+%唱吧跳吧.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48483
+title=唱吧跳吧
+tag=
+usertag=
+tagroute=
+confidence=0.997
+conf_p10=0.996
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48483
+%--
+2/4
+subtitle=score
+3 3 3 q1 q5 0 5 1 1 1' q6 q4 0 4 q3 2 3 4 q5 6 7 q1' 3 2 q1 q7 1 - 1 5 5 1 5 6 5 1 5 5 q1' 5
+q6 5 1 5 q0 4 q5 6 q7 2 5 0 4 5 6 1 7 2' 1 q7 6 5 0 7 5 2 q5 q5 3 1 q0 3 2 2 3 4 5 6 7 5
+2 5. 3 2 q0 1 5 0 4 5 6 7 2 5 0 q4 5 6 q7 1 7 2 1 7 6 5 0 2 5 5 3 1 0 2 1 2 q3 4 5 6
+7 5 2' 5. 3 1' q0 6. 6 4 q6 q6 1 5 1 1' 5 5' 6. 6 4 6 6 1 5 5 5 5 3 3 2 1' 0 7 7 7 q1 2 5 3
+3 2 1 0 7 q7 q7 q1 2 3 1 5 0 1 5 q3 q0 4 6 q6 q7 q5 2 1 1. 1 1 0 1'. 1 1 0 0 0 5. 5 5 0 0 0
+4 4 q3 2 2 5 3 3. 3 3 0
+%END

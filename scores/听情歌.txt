@@ -1,0 +1,20 @@
+%听情歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=27133
+title=听情歌
+tag=
+usertag=
+tagroute=
+confidence=0.993
+conf_p10=0.989
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-27133
+%--
+4/4
+subtitle=score
+s1' s6 s5 s3 q5 s6 s5 6 - s1' s1' s1' s6 q5 s6 s5 3 - d6 q,6 s1 s3 q3 s5 q2 s3 s2 q2 s3 s5 s5 s5 s3 q2 q,5 ,6 - s,6 s,6 s,6
+s1 s3 s3 s3 s5 s2 s2 s2 s2 s2 s2 s2 s3 s5 s5 s5 s5 s5 s5 s5 s6 3 - s,6 s,6 s,6 s1 s3 s3 s3 s5 q2 s3 s2 2 s5 s5 s5 s5 s5
+s5 s5 s6 q2 s3 s2 1 s5 s5 ~ s5 s3 s2 s2 s2 s5 ,6 - s1' s6 s5 s3 q5 s6 s5 6 - s1' s6 q5 s6 s5 3 - s6 s6 s1 s3 q3 s5
+q2 s3 s2 q2. s3 s5 s5 s5 s5 q5 s6 s5 3 - s1' s6 s5 s3 q5 s6 s5 6 - s1' s1' s1' s6 q5 s6 s5 3 - s6 s6 s1 s3 q3 s5 q2 s3
+s2 q2 s3 s5 s5 s5 s3 q2 q,5 ,6 - ,6. s3 s5 s5 s5 s3 q2 q,5 ,6. s3 s5 s5 s5 s3 q2' s5' ,6 -
+%END

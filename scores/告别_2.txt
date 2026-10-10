@@ -1,0 +1,17 @@
+%告别_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=45473
+title=告别
+tag=
+usertag=
+tagroute=
+confidence=0.997
+conf_p10=0.990
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-45473
+%--
+3/4
+subtitle=score
+5. q3 q6 q5 q5. s4 3 0 q2 q3 q4 q6 q5 q4 4 3 0 5. q3 q6 q5 5. q4 3 0 2 q5 q7. q6 5 q4 6 5 0 4. q3 q2 q1 q,7. q1
+2 0 6. 5 4 3 2. 3 2 0 5. q3 q4 q5 6 q7 2 1 q7 q6 5. q4 q3 4 2 2 3 0
+%END

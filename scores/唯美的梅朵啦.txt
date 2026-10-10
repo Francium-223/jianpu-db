@@ -1,0 +1,19 @@
+%唯美的梅朵啦.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=34347
+title=唯美的梅朵啦
+tag=
+usertag=
+tagroute=
+confidence=0.740
+conf_p10=0.397
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-34347
+%--
+2/4
+subtitle=score
+q1 s1' h6 s6. 6. 1' s7' 5 q3 s6 q3 q5 q5 q6 d6 s6 h2 h1' s2' h2' h3 s2' d7 s5 q3' q6' q3 2' - - - q6 q3 q2' x x x x d6 s6
+d6 q5 s1' s1'. s1'. h1' h1' h1' s5' h1 h1' s5 3 h1' h6' h6' h6' h6' h6 s,6 s1 s1' s,x d6' d6 d6' s1 s3' s5' s2' s1' s2' s1' s2' s1' s1' h1' 1' 1' s5'
+s2' s5 q6' 3' q2' q6 3 q1' q2' s1' s6' s2' s3' s6 q6 s1' s1' q6 h1' s1' q1' d1' h1' s0 d1' d0 d0 d1 s0 s1' d7' s5' s6 h2' q5 s2' q5. h5 d,6' 2'
+d,3' d,2' d,3 d,6 d3' 2' d2' d6 d2 q1' x' s1' h5 q6 2' s1' s1' s1' s1' s1 s,6' s1' s1' s2'. s,,,x. h2 h3'. d3' d3' d3' d1' d3' d3' h1' s1' s1'. s2' d5 s2'
+%END

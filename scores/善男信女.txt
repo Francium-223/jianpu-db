@@ -1,0 +1,24 @@
+%善男信女.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=21344
+title=善男信女
+tag=
+usertag=
+tagroute=
+confidence=0.945
+conf_p10=0.828
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-21344
+%--
+4/4
+subtitle=score
+1 - - 1 4 x x. x x x q1 q5 q1 q5 ,5 ,5 2 3 5 - - 2 3 1 - - q2. 3 1 - - - x 0 q1 2 3. q1 2 3
+2 ~ 2 0 q2 2 2. q3 q2 1 5 ,5 0 1 q2 3. 5 5 s4 q4 s4 q3 1 1 0 6 1 2 - 0 q1 2 3. 5 q5 4 q4' ~ 4' 0
+2 d3 4. q5 4 3 q3' 3' 0 1' ,,2 x 3. x q1 2 3' 2 ~ q2 2 q3 4 5 2 q2 q1' s1 2 2' 3 1 3 x 5 5' 3 s2 q2 2
+1 x 2. 1 3 6 6 q6 3 5 5 - 0 3 q3 5 5. q3 2 2 2 q1 q1 6 3 3 3 2 q1 q2 2 1 2 0 3 3 5 5. 3 2
+2 2 s1 2 q3 x q6 6 6 q3 5 5 q3 2 x 1 x q2 q1 q2 q1 2 q3 ,1' 1' q0 3 q2 q2 q1 q2 q1 2 3 5' 5' 3 2 2 s1
+q1 6 q6. q3 q2 q1 q1 s6 s6 q1. 0 1 2 1 - - q2 q1 1 6 6. q3 s2 1 q1 s6 6 3 q5 5 q0 q3 2 2. 1 1 2 q0 q3 q3
+q5 q5. 3 2 2 2 q1 q2 q3 6 6 6 3 q5 ~ 5 - 0 q3 s3 q5 5. q3 2 q2 2 q1 q1 q6 q3' q2 q1' 3' 6 3 2 1 2 q0 q3
+q3 s5 5 - - 6 q7 q5 q3 5' 6 5 5 q2 1 q2 ,1 2. 3 q2 1'. q1' 3 q2 q2 q1 q2 1 2 3 5' ~ 5' 3 2 q2 s1 s1 6 6.
+3 q2 1 q1 q6 q6 q1. 0 2 1' 1' - x 2 x
+%END

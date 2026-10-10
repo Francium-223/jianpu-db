@@ -1,0 +1,23 @@
+%四季草原_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=27304
+title=四季草原
+tag=
+usertag=
+tagroute=
+confidence=0.969
+conf_p10=0.943
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-27304
+%--
+4/4
+subtitle=score
+- - - x 1 x x x' 6 - - q3 q5 q1' q1' q1' q6 q5 q6 q2' 3' - - q1' q2' q3' q5' q5'. q3' q2'. q3' q5' q6' 6' - - q5'. q3' 2' 1'
+2' q5 q6 6 - - - 6 - - - ,6 ,6 ,5 q,3 q,3 q,6 q3 q3 q2 2 q1 q2 3 3 2 1 q1 q2 ,6 - - ,6 2 q1 q2 3 ,3 - ,6
+,5 ,3 - - q,1 q,2 q,3 q,5 ,3 - - ,6 ,6 ,5 q,3 q,3 q,6 q3 q3 q2 2 - 2 - q2 s3 s2 q1 q2 3 - - - ,5 q,3 q,3 ~ ,3 3 2
+q2 q2 q1 q2 q1 q,6 ,6 - - - ,6 - - - ,6 - - - ,6 - 2 5 q3. s5 3 - - 3 - - - 2 3 3. q3 q2 q1 q1 q2 3
+- 3 q3 q6 q6 q5 3 q2 q2 q1 q2 3 q,6 q,6 2 0 2 1 2 q2 q2 0 q5 q6 q3. s5 3 - - 3 - 2 3 6 - - - 6 - 5
+6 2 - - - 2 s3 s2 1 2 q5. s3 3 - - 2 q1 q1 1 q,5 q,6 ,6 - - - ,6 - - - ,6 - - - ,6 - 2 3 6 - -
+- 6 - 5 6 3 - - - 3 - ,6 - 2 - - - 2 3 5 6 q3. s5 3' - - 3' - 2 3 6 - - - 6 - 5 6 2' -
+- - 2' - 1 2 5 3 3 - 2 q1 q1 ~ 1 q,5 q,6 ,6 - - - ,6 - - - 6 - - - 6 - - -
+%END

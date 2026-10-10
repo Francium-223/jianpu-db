@@ -1,0 +1,21 @@
+%告别了我最爱的人.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=46657
+title=告别了我最爱的人
+tag=
+usertag=
+tagroute=
+confidence=0.994
+conf_p10=0.982
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-46657
+%--
+2/4
+subtitle=score
+x s3 q5 s5 s5 s3 s3 s2 s3 q5 s5 s5 s3 s3 s2 s2 s3 s3 s2 s2 s3 s3 s2 q1 s2 s3 3 s5 s6 s1 s2 2 s5 s6 s1 s2 2 s5 s6 s1
+s2 q3 q2 1. s5 s6 5 - s5 q1 s1 s1 q1 s6 q1. s1 q2 q3 s2 q2 s1 s1 q1 s6 s5 q5 s3 q2. s5 s5 q1 s1 s1 s1 s1 s6 1 s2 q3 s1
+s2 s2 s2 s2 q2 q1 s6 q,5 s6 s6 1. 1. s5 s5 q1 s1 s1 s1 s1 s6 q1. s3 3 s2 q2 s1 s1 q1 s6 s5 q,5 s3 q2. s5 s5 q1 s1 s1 q1 s6
+s1 q1. q2 s3 s1 q2 s2 s2 q2 q2 q1 s6 q,5 s6 s6 q1. 1 - s3 q3 s3 s3 s2 s2 s1 3 - s1 s1 s1 s1 s1 s6 s6 s1 2 - s2 q3 s3
+s3 q2 s1 s3 q5 s5 q5 s5 s6 s1 s1 s1 s1 s1 s6 s6 s1 2 - s3 q3 s3 s3 s2 s2 s1 3 - s1 s1 s1 s1 s1 s6 s6 s1 2 - s2 s3
+s3 s3 ~ q3 s2 s1 s3 q3 s5 ~ s5 s3 s5 s6 s1 s1 s1 s1 s1 s6 s6 s5 1 -
+%END

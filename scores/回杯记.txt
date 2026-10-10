@@ -1,0 +1,21 @@
+%回杯记.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=18551
+title=回杯记
+tag=
+usertag=
+tagroute=
+confidence=0.970
+conf_p10=0.959
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-18551
+%--
+4/4
+subtitle=score
+1 - - x 1 1 q5 q6 5'. q6' 5' q3' q2' 2' - - q5 q6 5'. q6' 5' q5' s3' s2' 1' - - q1' s6 s1' 2'. q3' q7. s2' q7 q6 s5 s3 s5 s5'
+q3' q2' 1' - q1 s,3 s,5 s,6 s2 s,7 s,6 ,5 - s,6. d1 s,6 s1 s3 s5 s3 s2 1 - q0 q2 q2 s1 s2 q3 q3 q2 q1 s,6. d2 s,3 s,5 s,6 s2 s7 s,6
+,5 - q1 s1 s2 q3 s,7 s,5 q,6 q,6 0 q2 s2 s3 s,5 s,6 s2 s,7 q,6 q,6 0 q2 s1 s2 q3 s3 s5 q2 s2 s,6 1 - - - x x q1 s1 s2 q3
+s5 s3 q2 s3 s6 1 s,7. d2 s,7 s,6 s,5 s,3 s,5 s,6 1 - q5 s6 s5 s3 s2 s3 s1 2. q3 q5 s6 s5 s3 s2 s3 s1 2 - q2 s2 s3 q5 s5 s6
+q3 s3 s2 1 s6 s6 s5 s3 s2 s3 s1 2 - q5 s6 s5 s3 s2 s3 s1 2. q3 q5 s6 s5 s3 s2 s3 s1 2 - q2. s3 q5 s5 s6 q3 s3 s2 1
+s6 s3 s5 s2 s3 s2 s6'. 1 -
+%END

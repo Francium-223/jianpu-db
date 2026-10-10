@@ -1,0 +1,24 @@
+%哎娜斯塔霞.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=28101
+title=哎娜斯塔霞
+tag=
+usertag=
+tagroute=
+confidence=0.996
+conf_p10=0.990
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-28101
+%--
+2/4
+subtitle=score
+q3 q3 q3 s2 s3 q4 q2 q2 q1 q,7 q1 q2 q3 q1 q,6 ,6 q3 q3 q6 q5 q4 q2 q2 q1 q,7 q1 q2 q3 q1 q,6 ,6 q3 s3 s2 s1 d7 q,6 q4 s4 s3
+q2 q1 q,7 q1 q2 q3 q1 q,6 ,6. q3 q3 q3 s2 s3 q4 q2 q2 q1 q,7 q1 q2 q3 q1 q,6 ,6 q3 q4 q5 q6 q4 q2 q2 q1 q,7 q1 q2 q3 q6 q6 q5
+s4 s3 q3 s3 s2 s1 s7 q,6 q4 s4 s3 q2 q1 q,7 q2 q3 q6 q6 6. q3 q3 q3 q3 q4 q2 q2 q1 q,7 q4 q3 q2 q1 q,6 ,6 q3 q4 q5 q6 q4 q2
+q2 q,7 q4 q3 q2 q1 q,6 ,6 q3 s3 s2 s1 s7 q,6 q4 s4 s3 q2 q1 q,7 q4 q3 q2 q6 q6 6 q3 q3 q6 q5 q4 s4 s3 q2 q1 q,7 q4 q3 q2 q1
+q,6 ,6 q3 q3 q6 q5 q4 s4 s3 q2 q1 q,7 q4 q3 q2 q6 q3 6 q3 s3 s2 s1 d7 q,6 q4 s4 s3 q2 q1 q,7 q4 q3 q2 q6 q6 6 q3 q3 q3 s2
+s3 q4 q2 q2 q1 q,7 q1 q2 q3 q1 q,6 ,6 q3 q4 q5 q6 q6 q5 q4 q3 q2 q3 q4 s5 s4 q3 q2 3 q3 q3 q3 s2 s3 q4 q2 q2 q1 q,7 q1 q2
+q3 q1 q,6 ,6 q3 q4 q5 q6 q4 q2 q2 q1 q,7 q4 q3 q2 q1 q,6 ,6 q3 s3 s2 s1 s7 q,6 q4 s4 s3 q2 q1 q,7 q4 q3 q2 q6 q6 6 q3 q3 q3
+s2 s3 q4 q2 q2 q1 q,7 q1 q2 q3 q1 q,6 ,6 q3 q3 q6' q5 q4 q2 q2 q1 q,7 q1 q2 q3 q1 q,6 ,6 q3 s3 s2 s1 s7 q,6 q4 s4 s3 q2 q1 q,7
+q1 q2 q3 q1 q,6 ,6 q6 q6 6
+%END

@@ -1,0 +1,19 @@
+%四季情思.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=19465
+title=四季情思
+tag=
+usertag=
+tagroute=
+confidence=0.987
+conf_p10=0.979
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-19465
+%--
+2/4
+subtitle=score
+s1 s6 1 q2 s3 s5 s3 s2 3 q5 q6 s6 s5 s5 s3 - 2 - s2 s3 5 s3 s2 s1 s6 s1 s2 q3 s5 s3 s2 s3 s2 s1 s6 s5 s1 s6 ,5 -
+h6 d1 q,5 s6 1 s2 d3 d2 s1 s2 q3 s5 s3 s2 s3 s2 s1 s6 s1 q,5 6 - 6 1 2 3 1. 2 1 6 5. 6 1 0 3 5 3 2 0 1
+6. 5 1 5 - - - - - - - - - - - - 1 6 1 2 3 1. 2 1 6 5. 6 1 0 3 5 3 2 0 1 6. 5 1 0 0
+5 - - - - - - - - - - - - 1
+%END

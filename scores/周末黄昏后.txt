@@ -1,0 +1,23 @@
+%周末黄昏后.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=23997
+title=周末黄昏后
+tag=
+usertag=
+tagroute=
+confidence=0.909
+conf_p10=0.560
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-23997
+%--
+4/4
+subtitle=score
+q1' q1 qx qx s1 1 4 q4 4 4 x. x x 0 x 1 1'. ,x x 5 - 3' - 3' q0 q5 ~ 5 - 3 5 q6. q5 q6' ~ 6 - - - 6
+q2'. q2' 0 0 6 q2' q2' 0 0 6 q2'. s3' q1' q1' q1'. q5' q5'. ~ q5' 5' 0 x 3 5 q6. q1' 0 0 0 2' q1' 0 0 0 6 q2' q2' ~ 2' 0
+6 q2' q2' ~ 2' 0 6 q6 q5 q3 q5 ~ 5 - - - 3 5 q6 q1' 0 0 0 2' 1' q1' 1' q1' 1. 1' 0 0 0 6 q1' q2' ~ 2' 0 6
+q1'. q2' ~ 2' 0 6 q2'. s3' q1'. q2' x 2' - - - 5 - 3' - q3' 5. q3' ~ 3' - 3 5 q6. q5 q6' ~ 6 - - 0 6 q2'. q2' ~ 2'
+0 6 q2' q2' ~ 2' 0 6 q1'. ~ s1' q6 q5 q3. q5 x 5 - - - 5 - 3' - q3' 5. q3' ~ 3' - q3 q3 q5 q5 q6'. q5 q6' 6 - -
+- 6 q1' q2' ~ 2' 0 6 q1' q2' 2' 0 6 q2'. s3' q2' q1' 1 1' - - - 1' - 0 0 1' - - - 3 5 q6. 1' q1' 1. 1' 0 0 0
+2' q1' 1' q1' 1. 1' 0 0 0 6 q2' 2' 0 6 q2' q2' ~ 2' 0 6 q6 q5 q3 q5 5 - - - 3 5 q6 1' q1' 0 0 0 2' 1' 0 0
+0 6 q2' q2' 2' 0 6 q2' q2' 2' 0 6 6 x 1'. q2'. s3' q2'. q2' 2' - - -
+%END

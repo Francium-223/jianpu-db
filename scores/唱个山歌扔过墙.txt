@@ -1,0 +1,17 @@
+%唱个山歌扔过墙.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14735
+title=唱个山歌扔过墙
+tag=
+usertag=
+tagroute=
+confidence=0.970
+conf_p10=0.910
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14735
+%--
+2/4
+subtitle=score
+s3 s2 q1 q1 x s2 s2 s2 q1 q1 x x s1 s2 s3 x. s2 s2 q1 qx x - - x - x - q1 q2 q3 - q3 s1' s1' s1' q3 x s3 s2 s2
+s3 s2 s2 s1' s3 q2 s1' s5 s1' q1' qx s3 s2 q1 qx
+%END

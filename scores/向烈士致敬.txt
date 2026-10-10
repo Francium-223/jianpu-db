@@ -1,0 +1,21 @@
+%向烈士致敬.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=8751
+title=向烈士致敬
+tag=
+usertag=
+tagroute=
+confidence=0.950
+conf_p10=0.852
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-8751
+%--
+4/4
+subtitle=score
+1 - - 0 7 0 ,x ,x x' x q1' q7' s2' q,1' 3 q1 5 q1' q7' q1' q1' 3'. q2' 4' - - q4' s2' s3' q1' q1' q6 q7' 2' 3' 3 - 0 0 q1
+q2 q3 q5 ~ 5 q6 q7 5 - - 0 q4 q5 6 - q7 q1' 2' 1' 5 - q6 q3 q3 q1 1 q3 q2 2 - - 0 x q3 q4 q5 q2' 4'. q3' 5
+- - 0 q3 q4 q5 q1 1 q5 q4 4. q3 2 - q4 q3 6 - q6 q6 q4 q3 5 - q2 q3 4' 3' - s3' q2' s1' q1' - - q0 q1' q6. q6'. s5'
+~ q5' q5' q5' q4' s3' s4' 5' - - q0 q1' s6' q5' q5' q5' 4' d3' s4' 5' - - - q2' s3' q4' s3' q2'. q6 q7 7 q1' 2' - q2' q3' 4' - q3' q4'
+5' - - q0 q6'. d5' q5' q5' s5' 4' d,3' s4' 5' - - q0 q1' s6' q5' q,,5' q5' 4' s3' s4' 5' - - - s,2' q3' ,4' - 3' q4' 5' 2' - 2' - q2'
+q5 q2' 1' - - - - - q0 0 2' 1 q2' q5 q2' - - - q2' q3' 4' - 3' 4' 5' 2' - q4'. q3' 4' 5' 5' - - - 5' - - 0
+%END

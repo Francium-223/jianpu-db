@@ -1,0 +1,22 @@
+%四季相思_4.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=27449
+title=四季相思
+tag=
+usertag=
+tagroute=
+confidence=0.928
+conf_p10=0.715
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-27449
+%--
+2/4
+subtitle=score
+1 - - x q2 4 x x x x 5 s3 s5 s6 q1'. s6 s5 s3 s5 s6 q1'. s6 s5 s3 s5' s2' s0 s3' 2' 3' q2' 1' q6 q5 2' 3' 1' - x x
+0 5 ,6 ,5 ,1 ,3 2 ,1 2 x 3 q2 s3 q5. s3 q5 q2' s3' s1' ~ s1' s6 s5 3 2 3 5 3 1 2 q2 q0 0 x q0 ,5 ,3 ,2 ,1 6
+2 q3 s2 s3' q5. s3' q5 s2' s3' 1' q1' ~ s1' q6 s5 q3 s2 s3 q5 s3 s1 2 q2 q0 0 x 7 6 6 0 5 x s3' s2' s3' s2' s7 q6. s1' q5
+s3' q5' 6 0 q7 s5 q2' s7' s2' s7 s6 s1' ~ s1' s3 s5 s6 s7 q6 q6' q0 0 1' 1' x. x x 7 x x. x q,1 s1 6 6 s1' q3 s2 s3 s1'
+s1' s3 s5 2 5 1 s2 s3' s2' s1' q2 s1' s1' x 5 1' q5 q0 q0 0 0 x 0 ,1' 6 5 3 ,2 q5 0 5 0 6 x 5' 3 s5 s3 q5' s2'
+1' q3' q2' q1' s2' s3' s2' 6 5 3 q2 5 - 0 0 x 0 ,6 5 6' 2' 1' ,6 1' ,1' q5 3 5 3 q5 2' 1' 3' q2' s2' s3' s2' 6 q5 2'
+3' 1' - 1' -
+%END

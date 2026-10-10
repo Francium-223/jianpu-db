@@ -1,0 +1,19 @@
+%喀秋莎_4.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=39869
+title=喀秋莎
+tag=
+usertag=
+tagroute=
+confidence=0.918
+conf_p10=0.591
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-39869
+%--
+2/4
+subtitle=score
+- - - - 1 1 1 5 4 0 1 x. x. 1 x' x x s1 s,1 x x x qx. x x' 3 6 5 q6 q5 4 q3 q2 3 ,6 0 4 q2 3. q1
+q,7 q,3 q1 q,7 ,6 - ,6. q,7 1. q,6 1 q,7 q,6 ,7 q,3 q0 ,7. q1 2. q,7 q2 q2 q1 q,7 ,6 - 3 6 5 q6 q5 4 q3 q2 3 ,6 q0 4 q2 3.
+q1 q,7 q,3 q,7 ,6 - 3 6 5 q6 q5 4 q3 q2 3 ,6 q0 4 q2 3. q1 q,7 q,3 q1 q,7 ,6 - q3 q3 q4 q5 6 - 6 - 6 - 6 - 1.
+1. q0 4 q2 3. q1 q,7 q,3 q1 q,7 ,6 -
+%END

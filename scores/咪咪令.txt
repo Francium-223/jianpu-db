@@ -1,0 +1,17 @@
+%咪咪令.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48335
+title=咪咪令
+tag=
+usertag=
+tagroute=
+confidence=0.998
+conf_p10=0.993
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48335
+%--
+2/4
+subtitle=score
+6 6 2 6 5 3 2 2 5 5 6 1 2 2. 1 6 5 2 5 2 1 6 2 5 5 5 - q5 6 1 2 5 2 6 1 q1 q6 q5 q6 q2
+q6 q1 q2 q6 q1 q6 q5 5 5. q0
+%END

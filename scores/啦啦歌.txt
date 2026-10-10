@@ -1,0 +1,22 @@
+%啦啦歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=29474
+title=啦啦歌
+tag=
+usertag=
+tagroute=
+confidence=0.974
+conf_p10=0.939
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-29474
+%--
+2/4
+subtitle=score
+x 1' 5 q5 q3' 5' s3' s2' s1' q3'. q3' 3' q2' q1' q2'. q3' 2' - 1 1 q1 s5 q1 q3 q5 q3 q3 3 q2 q2 2 1 q1 2 - - q,5 q,5 q,5 q,6
+q,5 s,6 s,5 q0 s,1 q,5 s,5 s,5 ~ s,5 q,7. q,7 q,6 q,5 q,3 ,4 q0 s,4 s1 q1 q,7 q,6 q,5 ,5 - 0 0 q,5 q,5 q,5 q,6 q,5 s,6 s,5 q0 s,5 q,5 s,5 s,5 ~
+s,5 q,7. q,7 q,6 q,5 q,3 ,4 q0 s,4 s1 q1 s,7 s,6 ~ q,6 q1 1 - 0 q1 q,7 q,6 s,6 s,6 ~ s,6 q3. q2 s,7 s,6 ~ s,6 q,5. q,5 s,3 s,5 ~ s,5 q2. 1
+q0 s,2 s,3 q,4 s,4 s,4 ~ s,4 q1. q1 q,7 q,6 q,5 ,5' ~ s,5' q,3 s,4 ,5 q0 s,5 q,6 s,6 s,6 ~ s,6 q3. q4 s3 s2 s1 q1. s7 q1 q2 q4 3 q0 s3 s3
+q4 s3 s4 ~ q4 q3 q4 q3 s2 s1 q1 2 - q0 q3 s2 s1 q1 1 ,5 1 ,5 q1 q,5 q1 q3 5 - q4 q4 4 q3 q3 3 q2 q1 q2 q3 2 -
+1 ,5 1 ,5 q1 s5 q1 q3 q6 5. q4 q4 4 q3 q3 3 q2 q1 q2 q3 q2 q3 s1 q1 1 0 0 0 s1 q1 q0 q3 s2 s1 s1 q1 q1. x 1' q1'
+q1' q3' 5' s3' s1'. s1' q3'. q3' 3' q1'. q2'. q3' q2'. s1 s3 s2 s3 q1 q,5 3 q1 3 q1 q1 q3 s7' s1' q5 q2 q1 q,5 - 3 2
+%END

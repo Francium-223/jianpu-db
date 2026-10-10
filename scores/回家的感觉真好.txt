@@ -1,0 +1,23 @@
+%回家的感觉真好.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=27809
+title=回家的感觉真好
+tag=
+usertag=
+tagroute=
+confidence=0.985
+conf_p10=0.970
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-27809
+%--
+4/4
+subtitle=score
+s1 s,5 s1 s5 s2 s3 s5 s3 s7 s6 s5 s7 ~ s7 q5. s0 s,6 s2 s3 s6 s1' s1' s5' q5'. d6' d5' s3' s1' s1' s6 s0 s5 s1 s4 s1' s1'. s3' s6' 2' -
+d1' d1' d6 d5 d3 d2 d1 d6 d3' d1' d1' d6'. d3' d1' d1' d6 d3 d5 d6 d1 d5 d6 d1 d2 q1 q2 q3. s5 ~ 5 - q3 q5 q7. s5 ~ 5 - q0 s1'
+s1' q2'. q3' q1' q1' 1'. q3' 2' - - - 1 q2 q3 s5 s6 5. 1 q2 q3 s2 s3 ,5. 1 q1 q6 q5 q1 q5 s5 s3 q2. s2 ~ 2 0 - 2 q2 q3
+5 q1' ~ q1' q6 q5 q5 q6 3 - q,6 q1 q2 s2 s3 q2 q1 q,6 s,5 s,6 q1. s1 ~ 1 - - 1' q1'. s3' q1' q1' q2' ~ q2' 5 - - - 1' s1'
+q6 s6 q5 q6 q5 q3 2 - - - q2 q3 q5 q6 5 - q2 q3 q2 s1 s6 ,6 - q,5 ~ q5 q5 q6 ,6 q,5 q,6 1 - - q1 q2 1 - - -
+1' q1'. s3' q1' q1' q2' q2' 5 - - - 1' s1' q6 s6 q5 q6 q5 q3 2 - - - q2 q3 q5 q6 5 - q2 q3 q2 s1 d6 ,6 - q,5 ~ q5 q5
+q6 ,6 q,5 q,6 1 - - - q2 q3 q5 q6 5 - q2 q3 q2 q1 q1' ,6. q,5 ~ q5 q5 q6 ,6 s,5 s,6 s,5 s,6 1 - - s5 s6 s5 s6 1' - -
+-
+%END

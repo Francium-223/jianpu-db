@@ -1,0 +1,19 @@
+%噢！我的吉他.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=36849
+title=噢！我的吉他
+tag=
+usertag=
+tagroute=
+confidence=0.964
+conf_p10=0.852
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-36849
+%--
+3/4
+subtitle=score
+3 3 3 3 2 1 1 ,7 ,6 ,6 1 3 6 6 6 6 5 4 4 3 2 2 3 4 0 3 4 3 5 4 3 3 2 1 1 ,7 ,6 ,7 ,7 ,7
+,7 1. q7 ,6 - - ,6 0 0 3 3 3 3 2 1 1 ,7 ,7 ,7 ,6 ,7 6 6 6 6 7. q6 5 5. q4 5 - - 1' 1' 1' 1' 7 7 6
+6 6 6 5 4 3 3 3 3 4. q2 1 - - 5 6 7 1' 1' 1' 1' 7 7 6 6 6 6 5 4 3 - 5 6. q6 7 1' - - 1' -
+0
+%END

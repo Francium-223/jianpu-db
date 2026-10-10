@@ -1,0 +1,23 @@
+%听我唱首歌_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=31361
+title=听我唱首歌
+tag=
+usertag=
+tagroute=
+confidence=0.986
+conf_p10=0.989
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-31361
+%--
+4/4
+subtitle=score
+qx 0 0 x x qx. q3 q5 q6 6 q3 q1 q7 6 q6 q5 q2 q5 3 - q2 2 s6 q3 s2 s3 2 q5 q3 q5 q7 6 q3 q5 q6 6 q3 q1 q7 6
+q6 q5 q2 q5 3 - q2 2 s6 q4 s2 s3 2 q5 q3 q5 s7 s5 6 - q,6 q,6 q1 q2 3 - q1 q,6 q1 s2 s1 ,6 - q,6 q,6 q1 q2 q3 q6 q6
+q5 ~ q5 q3 ~ 3 - - q3 q6 q6 q5 3 - q5 q3 q5 s6 s7 6 - q,6 q1 q2 q3 q5 s3 s3 q2 s1 d5 ,6 - 0 0 s6 q1 q2 q3 q5
+q3 q3 q5 6 - - - q6 6 q3 q1' s1' s1' 6 q6 q5 q2 q5 3 - q2 2 s,6 q4 q3 2 q5 q5 ~ 5 - q3 q7 6 - - - q6 6 q3
+q1' s7 s1' 6 q6 q5 q2 q5 3 - q2 2 s6 q4 q3 2 q5 q5 5 - q3 q7 6 - - - ,6 - - - 6 - - - 3'. q6' q6' q1' q2' q1'
+5 - 6 q3 q5 q6 6 q3 q1' q7 6 q6 q5 q2 q5 3 - q2 2 s6 q4 s3 s2 2 q5 q3 q5 s7 s5 6 - q6 6 q3 q1' s1' s1' 6 q6 q5
+q2 q5 3 - q2 2 s6 q4 q3 2 q5 q5 ~ 5 - q3 q7 6 - - - q6 6 q3 q1' s7 s1' 6 q6 q5 q2 q5 3 - q2 2 q6 q4 q3 2
+q5 q5 5 - q3 q7 6 - - - -
+%END

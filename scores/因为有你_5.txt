@@ -1,0 +1,22 @@
+%因为有你_5.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=35174
+title=因为有你
+tag=
+usertag=
+tagroute=
+confidence=0.934
+conf_p10=0.744
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-35174
+%--
+4/4
+subtitle=score
+1 x 1'. 1'. ,1 ,,1'. q1 ,x'. ,,x' 3 - 6 7 q7 q6 q5 3 q6 q7 q1' q7' q2' 3' - 3. q6 q7' 2' 7 - - q6 q7 q7 q6 q5 3 q6 q7 q1'
+q7 q6 q5 4 - q2 q2 q2 q2 q5 q5 q6 q5 q2 3' 3' - - q6 q7 q7 q6 q5 3 q6 q7 q7 q6 q5 4 - q5 q5 q5 q5 q5 q6 q7 q5 q6
+q6' 6 - - q6 q3' q3' q2' 6 - q5 q7 q7 q6 5 - q2 q5 q5 q6 q7 q6 q5 q7 3 - - - q6 q3' q3' q2' 6 - q5 q7 q7 q6 5 -
+q5 q5 q5 q6 q7 q6 q5 q6 6 - - q1' q2' q3' q6 q6 q3' q2' q7 6 - - q6 q7 x x q7 q,6 q7 q6 q,5 q7 q7 q3 3 - q,2' q3' q6 q6
+q,3' q2' q7 q6 q6 6 - s6 s,7 0 q3' q2' s7 q1' q6 q6 6 - q6 q7 1'. s7 s6 q7 q7' 6 s5 s2 3' 3' - - q0 s6 s7 s7' 2'. s2' 3' 3'
+- - q6 q7 q1' q1' q7 q6 q5 2 q5 s6 s7 3 s3 s1 s2 s1 s2 s1 q3 q6 q7 s7' s2'. q2' 5. s7 s6 s5 6' - q,6 q7. q,1' q,1' q3' q,2' q,2' s,2'
+q3' q6 q,,6 6 - - s1' q,,3' q,3' q2' ,6 - q5 q7 q7 q6 5 - q5 q5 q5 q6 q7 q6 q5 q6 6 - - -
+%END

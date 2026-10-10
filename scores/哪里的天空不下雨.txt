@@ -1,0 +1,21 @@
+%哪里的天空不下雨.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=11116
+title=哪里的天空不下雨
+tag=
+usertag=
+tagroute=
+confidence=0.925
+conf_p10=0.647
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-11116
+%--
+4/4
+subtitle=score
+2 q3 q5 q1' s7 s1' s5 q3 1 - 3 2 1 2 5 3 - - - 3 - - - x q3 5 5 5 q3 q6 6 5 ,1 2 3 q2 ,1 1 - -
+q0 6 5 6 ,1 5 5 q3 2 1 3. 4 2 - 0 2 q3 4 6 4 3 2 q1 2 3 - - - s3 5 5 5 3 q6 5 q2 3 2 1 1
+- - 0 6 5 6 s1 s5 5 q3 q2 1 3. 2 2 - 0 3 4. 6 6 4 q3 q2 s1 2 1 1 - - - q0 s6 q6 6 1'. 7 ,1 q7 7
+6 6 5 3 3 - - x 0 x 4 4 4 6 6 6 5 1. ,2. ,1' 3 ,x. 5. 3. q,,,3. - x' 0 x 4 4 3 3 x 2. x 5 5 6. q7.
+q5 q7 q7 1 ,1' 7 1 q5 7 q5 q5 5. 5 4 3 3 5. 5 2. 6 1'. 5 5 q,1'. 1 ,1 1 ,,1'. ,1. q,1' s,2' q3 q4 d3 5 q,3'. s3 q,2 q3 2
+q1 q1 2 ,1 5 7 1' 1 1' 1 0 0 - - x
+%END

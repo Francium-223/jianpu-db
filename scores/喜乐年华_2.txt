@@ -1,0 +1,22 @@
+%喜乐年华_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=11503
+title=喜乐年华
+tag=
+usertag=
+tagroute=
+confidence=0.956
+conf_p10=0.875
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-11503
+%--
+2/4
+subtitle=score
+1 - - 4 q2 1. ,x x'. 2' x 1 x x x 3 q3. q2 3 5 3 3 ,6 1 3 2 2 2 2. q6 1 3 2 1' 1 1 q2 q,6 q1 q,6' ,5.
+5 5 5 3 6 - 6 - 6 0 0 ,6 ,6 1 3 q3 2' 1 2 2 s6 s1' 6 2 2 6' ,1' 6 s0 q,5 5 q,3 q5 q,6 1 ,6 ,6 ,5 ,6 ,6
+6 5 ,6 q0 ,6 q,6 5 q,6' q3 q2 1 2 2 s,6' s1 ,6 q2 q2 q6' ,1' ,6 0 ,5 ,5 ,3' ,5 ,6 1 q,6 ,6 ,5 q,6 q6. s6 q6 6 6 5 6 q6
+5 q,3 5 q0 s6 s5 q,3 ,5 0 s6 q5 1 ,6 0 6 5 ,6 0 6 q5 1. q,3 q,5 0 q6 q,5 q,3 q,5 0 q6 q5 1 s,6 0 d6 q5 ,6 - x 6
+q6. 5 1' 1' 6 q2 q3 q3 4 3 4 ,1 4 5 q5 6 6 x. x 6 6 6 6 x x x x 3 3. q2 3 q5 3 3 ,6 1 q3 2 2 2
+2 q,6 q1 q3 2 q1 1 2 ,1 q,6 1 ,5. 3 3. 2 q3 5 3 3 ,6 1 3 2 2 2 2 q2 q,6 1 3 2 q1 q1 s2' s1 q,5 ,6 - x x
+x x x 3 - 2 - 2 - 3 - 3 - 3 - 3 - 6 0
+%END

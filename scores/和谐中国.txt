@@ -1,0 +1,21 @@
+%和谐中国.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12993
+title=和谐中国
+tag=
+usertag=
+tagroute=
+confidence=0.922
+conf_p10=0.673
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12993
+%--
+3/4
+subtitle=score
+q5' q3 q5 q2' 1'. s6 s5 q3. s5 q7 q5 6 - q5. s6 q1' q6 q6 s5 s6 1 q1 q,6 q3 s1 s2 2 - q5 q3 q5 q2 1. s6 s5 q3. s5 q7 q5 6
+- q5 q6 q1 q6 q5 s3 s2 3 x x 0 x 0 x x q3 x s2 s3 q,5 q,6 1 x x 5' q1 s3 x q3 s5 q4 x' s3 s2 3 q2 s3 s5 s1
+s,6 s,5 5 - q,5 q1 s3 q3 s5 q6 s3 3 q2 q3 q,5 q1 1' - q,5 q1 s3 q3 s5 q4' s3' s2' 3 q5 s3 s5 q1 q5 - q5 s3 s5 q6 s6 s1 q5
+s3 s2 2 q3 s2 s3 q,5 q,6 1 - 1 1 q3 s6 s5 q1 q7 s6 s5 q3 - s1 q1 s2 q3 q5 q6 s6 s1 q5 q3 q2 s2 s3 q1 x - 1' 1' q3
+s6' s5 x q1' q7 s6 s5 q3 - s1 q1 q3 q5 q6 s6 s1' q5 q3 q5 s5 s6' q2'. s6 1' - s1 q1 s2' q3 q5 q6 s6 s1 q5 q3 q5 5 q6 2'. x
+s1' s6 1' - - - x 0 0 0 3 2 2 3 4.
+%END

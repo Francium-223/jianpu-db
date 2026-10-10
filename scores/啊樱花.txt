@@ -1,0 +1,19 @@
+%啊樱花.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=45483
+title=啊樱花
+tag=
+usertag=
+tagroute=
+confidence=0.994
+conf_p10=0.991
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-45483
+%--
+4/4
+subtitle=score
+4. 4'. 3' 2' 4' q3' q2' 3'. q2' 1' - 7. q3' 1' 7 6 - - - 3 q7 q1 6 - 7 2 4 3 - 3 6 1 3 1 6 4 3 - - -
+3 7 1 6 - 7 2 4 3 - q3 q3 q6 q1 q3 q1 q6 q4 3 - - q4' 4' q3' q2' q4' 3' q2' q2' 3'. q2' 1' - q4' 4' s3' q3' q2' q4' q3'
+2' 3'. s2' q1' 7 - 6 q3' 3' 1' q7 q2' q1' 6 7 2' 1' 6 7 - q6 q3' q3' q1' q7 q2' q1' q6 q7 q2' q1' q7 6 3 4'. q3' q2' q4' q3' q2'
+3'. q2' 1' - 7. 3' 1' 7 6 - - - 6 - - -
+%END

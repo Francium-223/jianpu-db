@@ -1,0 +1,18 @@
+%噢弗蕾内莉.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49868
+title=噢弗蕾内莉
+tag=
+usertag=
+tagroute=
+confidence=0.997
+conf_p10=0.992
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49868
+%--
+4/4
+subtitle=score
+,5 1. 1 1 q,5 1. s1 q1 q,5 q1 q3 q2 q1 5. q5 q6. 4 4 6 5. 3 3 3 4. q,7 ,7 ,7 5. q5 6. q4 q4 6 5. 3 q3 q3 4. s7 ,7
+q,7 1. q0 1' - 7 - 6. q4 4 q4 4 q7 q6 5. q3 3 q3 3 ,5 ,6 5. q4 4 4 4 ,5 q,6 ,5. 3 3 3 3 0 1' - 7 - q6. q4
+4 4 4 7 q6 5. 3 q3 q3 3 ,5 q,6 ,5 4 3 2 q1 0 q5 3 1 q0 0
+%END

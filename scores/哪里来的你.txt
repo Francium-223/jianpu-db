@@ -1,0 +1,20 @@
+%哪里来的你.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12537
+title=哪里来的你
+tag=
+usertag=
+tagroute=
+confidence=0.692
+conf_p10=0.366
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12537
+%--
+2/4
+subtitle=score
+x - - 1 - qx - - 7 4 1 x x' 3 - 3 2 - 1 - 1. q,2 1 ,x - q,1 q,,,5 ,x - ,6 - ,,1' ,x - ,x - q,,x. q,x q,,x. q,7
+x 2 3 2 2 s,,7 s6 q5'. 0 - ,6 3. 2 3 0 x. q,5 q,,x ,3 q2. ,,1 3 0 3. q,,5. x 1. q,3. 1 5 q5. 2 2 q2 1 x q1 s0 s,7 1
+1. 2' x 1' ,1' 1' x 1' 1. 1' 7 x 0 6 6 q6 ,6 6'. 5 7 1' 1' 6. 6 1. 1. ,1' 1' 7 q1 q1' 1 1' 1 ,6 6 1 1' 1 1'
+x 3' 7' 0 6 1 x q,6 q1. q3 q1 q,7 1 x. 1 q5 q,7 q,7' q,6 0 1 x. 1' 1'. 3 3' 1 x' 1 5 1' 1' 2 1' 1 1' 3 3' 3. 1.
+1' 1 1 x' 1' 1' ,1' 7 5 1' 7' 5' 7 6 1' x 3 q2 0 1 0 x q,x 7 1' 7 0 1' q7 q1' 7 7 7 7 6 5 x -
+%END

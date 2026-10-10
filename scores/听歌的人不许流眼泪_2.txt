@@ -1,0 +1,23 @@
+%听歌的人不许流眼泪_2.txt
+% 出处 https://www.jianpujia.com/
+title=听歌的人不许流眼泪
+tag=
+usertag=
+tagroute=
+confidence=0.953
+conf_p10=0.896
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-12027
+%--
+4/4
+subtitle=score
+1 - - - ,x x 1 x ,1 ,x 1. x 1 x q3 1' s6 s5 s6 s7 q3 q0 s2 s1 q2 s2 s1 s2 s3 s5 s6 q5 q3 s0 s6 s7' s1' 2'. s1' s7
+3' q3'. d1' d1' 6. s5 s3 3. s2 s1 3 - q3 s3 s3 s6 s1 s6 s5 q,5 q,6 q0 s1 s2 s3 q3 s3 s3 s2 s1 s2 3 q0 s3 s5 q6 s6 s6 q5 s6
+s7 q5 q3 q0 s6 s1 s2 q2 s3 s2 s1 s6 s5 2 - q3 s3 s3 s6 s1 s6 s5 q,5 q,6 q0 s1 s2 s3 q3 s3 s3 s2 s1 s2 3 q0 s3 s5 q6 s6
+s6 q5 s6 s7 q5 q3 q0 s6 s1 s5 q5 s3 s2 s1 s2 s1 ,6 - 0 q0 s6 s3 q3 q1' q7 q6 q6 s7 s3 q0 s2 s1 q2 s2 s3 q5 s5 s6 q5 q3
+q0 s3 s3 q2 s1 s2 q0 s6 s1' q7 s6 s5 q0 s3 s5 s6 s6 s6 s1' s7 q7 s6 5 q0 s6 s3 q3 q1' q7 q6 q6 s7 s3 q0 s2 s1 q2 s2 s3 q5
+s5 s6 q5 q3 q0 s3 s3 q2 s1 s2 q0 s6 s1' q7 s6 s5 q0 s3 s5 s6 s6 s6 s1' q7 s5 s5 6 - x s1' q1' s7 s7 q6 s5 6 - s3' q1' s7
+s7' s2' q2' 3'. s3' s2' 2' q2' q3' s2' s1' 0 - 6 q0 s3 q3. s7 q7' s1' s7 ~ 7 - 6 q0 s6 s3 6 q0 s3 s3 q2 s1 s2 q0 s6 s1' q7 s6
+s5 q0 s3 s5 d6 s6 d6 s1' s7 d5 s5' x 6 - - - 6 - - - q2. s1 q1 q,6 q1 q,6 q,6 q,5' ,6 - ,6 -
+%END

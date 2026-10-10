@@ -1,0 +1,20 @@
+%哪吒之歌_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=8466
+title=哪吒之歌
+tag=
+usertag=
+tagroute=
+confidence=0.917
+conf_p10=0.574
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-8466
+%--
+2/4
+subtitle=score
+q1 - - q1 4 q3 4 x 1 x x 1' ,,1 ,1' 0 1 x x x x x x ,3 q,6. s1 q2 q,6 q1 q2 q3. s3 q2 q4 q3 s0 s3 s3 s3 q3 s,6
+s,3 s1 s,6 s,6 s4 s3 s2 s,6 s,3 s1 s,6 s,6 s4 s3 s2 x q,3 q,6 s0 q1 s,6 1 q,6 q1 - q,3 q6 s0 q1 s,6 1 q,7 q,6 ,3 - s0 q3 s3 s3 s3
+q2 s0 q2 s3 s2 s3 q1 s0 s,6 s,7 s1 q2 s,7 s,7 q1 q2 3 q2 q4 3 - 3 - q3 s2 s3 0 q2 s1 s2 0 q1 s1 s1 0 ,7. q,5 ,6 0 0
+q,3 q,3 q1 s7 s1 0 0 q,6 q,6 q2 s7 s2 0 0 q3 q3 q3 s2 s3 0 q2 q2 q2 s1 s2 0 q5 q3 s0 q3 s2 2. q3 1 - x s0 q5 s5 s5
+s5 s5 s5 s0 q5 s4 q3 q2 q3 s0 s3 s3 s3 q3 x. 3 - 3 - 3 - 3 - 3 - 3 0 x'. qx. q1. x 1.
+%END

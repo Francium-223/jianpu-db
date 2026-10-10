@@ -1,0 +1,24 @@
+%哎呀哎呀亲亲你.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=20842
+title=哎呀哎呀亲亲你
+tag=
+usertag=
+tagroute=
+confidence=0.960
+conf_p10=0.811
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-20842
+%--
+4/4
+subtitle=score
+- - 0 7 0 7 7 7 7 7 6 0 7' 7' 7 7 7 7 6 q0 q6' 6 5' 5 - - 5 - 0 q3 q3 5 q2 q3 5 q,3 q6 5 q2 q2
+q1 q2 q3 q3 0 0 0 q3 q3 q4 q3 q,2 q5 q0 q5 q5 q3 3 - q3 q3 q4 q3 q2 q1 q7 1 1 - - - x qx x x 4 q5' 5' q6 q3
+5 q6 q3 5 q6 q3 5 q3 q2 1 2 3 3 0 0 0 q3 q3 4 3 2 5 q0 q5 q5 q3 3 - q3 q3 4 q3 q3 q2 q,1 q7 q1 1 - -
+- 4 q5 5 - 0 q5 q5 5 q6 q7 1 1 q6 q6 q6 q7 1 1 1 q6 6 6 7 ,1 q2 2 - - - 2 - - 0 1 1 1. 1 1 1
+1 1 7 6 5 5 - 5 6 6 6 6 5 4 3' 3 4 - 1 - 5 q5 q5 6 7 2 3 3 - - - 4 q5 5 - q1' q1' q1' q1' q1'
+q1' 1' q1' q7 6 q5' 5' q5 7 5. x x x 6 6 6 6 q5 4'. q,3' 3' q3 4 - 1' - 1 q5 q5 6 ,1' 2' 1' 1' - - - 4 5' 5'
+q6 q3 4 q5' 5' - 3 - - 3 3 2 x x 1 x x q1 x q,1 ,1 2 q3 q5 q6 q1' q5 q,3 q6 6 5 q3 q2 q1 q6 1 3 - 5 -
+3 5 2 3 1' q1' q6 q5 q6 q3 q5 5 q3 q3 q2 q1 q2 q6 q1 1 x. x x 1' - - 0 7' 1 7. 1 7. q7 q7 q7 q7 q7 q6 q0 q7'
+q7 q7 q7 q7 q6 q0 q5' 5' - - q1' 1
+%END

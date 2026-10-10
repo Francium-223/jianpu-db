@@ -1,0 +1,18 @@
+%喷泉里三枚硬币.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=46063
+title=喷泉里三枚硬币
+tag=
+usertag=
+tagroute=
+confidence=0.995
+conf_p10=0.993
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-46063
+%--
+4/4
+subtitle=score
+0 6 5 q4 q3 5 2 - - 4 4 q3 q2 q1 q2 3 - - - 1 1 1 q2 q3 2 ,6 - - 2 2 q1 q,7 q,6 q,7 1 - - - 1' 1'
+q7 q6 q5 q6 5 - - - 1' 1' q2' q1' q7 q6 5 - - - 0 6 5 4 3 5 2 - - 4 4 q3 2 q1 q2 3 - - - 1 1 1
+q2 q3 2 ,6 - - 2 q2 q2 q1 q,7 q,6 q,7 1 - - q3 q5 1' - - 4 6 1' - - q4 q6 1' - - - 1' - - 0
+%END

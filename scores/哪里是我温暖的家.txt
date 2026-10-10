@@ -1,0 +1,16 @@
+%哪里是我温暖的家.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14818
+title=哪里是我温暖的家
+tag=
+usertag=
+tagroute=
+confidence=0.993
+conf_p10=0.981
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14818
+%--
+4/4
+subtitle=score
+x 2' - 2' - s1' s2' s2' s2' s1' - - - - - q1 2 - - q3 s2 s1 2 - - q1 s2 s1 - - q1 s2 s1
+%END

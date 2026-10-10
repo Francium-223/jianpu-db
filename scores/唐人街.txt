@@ -1,0 +1,20 @@
+%唐人街.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12254
+title=唐人街
+tag=
+usertag=
+tagroute=
+confidence=0.957
+conf_p10=0.885
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12254
+%--
+4/4
+subtitle=score
+x 1 0 q2 3. s2 q2 1 q0 q,5 q5 q,6 q3 2 3. 0 ,,1 2 3. 2 2 3 ,1 2 5 0 s2 q3 5. q3 2 ,1 5 0 5 5 q3' 2 3 ,6
+1. 6 1 ,6 ,1 q6 ,1 q6 q1 ,6 q2 q3 1. ,1 6 6 1 q,1 q,1 q6 q,1 q6 q,1 6 ,,1 ,,1 ,,1 6 1 ,1 ,,1 6 3 2 ,1 s1 2 q,1 1. q6
+,1 2. 3 3 5 2 ,1 2 1. ,,1 6 ,,1 2 2 x x x x x x x x x sx sx sx sx sx qx qx qx qx qx x 0 1'. 6 5 ,1' 1'
+- 5. 3 q2 3 1 - ,6 q,1 q,1 2 3 2 ,1 2 3 3 3 5. 1 1'. 2' 5 ,1' - q5. s3 q2 q3 1 ,6. q,1 1. q2 ,3. 2 3 3 q3 5.
+1 - 6 ,1 6 ,1 2 3. ,1 6 5. 3 2 ,1 ~ 1 x x
+%END

@@ -1,0 +1,18 @@
+%啰啦唻.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=45947
+title=啰啦唻
+tag=
+usertag=
+tagroute=
+confidence=0.976
+conf_p10=0.877
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-45947
+%--
+2/4
+subtitle=score
+1. 1' 1' 5 3 5 1' 0 1' 1' 1' 6 4 6 1' 0 3 5 3 4 5 6 5 5. 4 4. 0 3 3 4 3 2 2 1 1 - 1 1 2 3
+3 3 4 5 6 5 5. 4 4. 0 3 q3 4 3 2 2 1 1 1 1 2 3 3 3 3 4 3 q2 2 - 2 2 3 3 2 2 3 4 3 2
+1 1 q1 q2 1 1 0
+%END

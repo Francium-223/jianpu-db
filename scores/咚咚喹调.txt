@@ -1,0 +1,17 @@
+%咚咚喹调.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47603
+title=咚咚喹调
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.998
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47603
+%--
+2/4
+subtitle=score
+5 3 2 1 5 3 2 1 5 3 2 1 1 5 3 2 1 1 5 5 3 q2 1 - 5 5 3 3 5 3 2 1 - 5 3 2 1 1 5 3
+2 1 - 5 2 5 5 5 3 2 1 -
+%END

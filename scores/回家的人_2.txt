@@ -1,0 +1,17 @@
+%回家的人_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=34901
+title=回家的人
+tag=
+usertag=
+tagroute=
+confidence=0.889
+conf_p10=0.537
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-34901
+%--
+4/4
+subtitle=score
+0 0 0 0 - 0 0 0 0 0 0 0 - q3 q5 s3 s6 q5 q3 q5 q5 q2 q3 q2 q2 q5 q,6 0 s2 2. q2 q5 qx q5 q5 x 0 - - 0
+- 0 0 0 0 q5 0 0 s2 0 0 0 0 x
+%END

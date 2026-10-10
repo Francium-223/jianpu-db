@@ -1,0 +1,18 @@
+%唐伯虎点秋香.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=13253
+title=唐伯虎点秋香
+tag=
+usertag=
+tagroute=
+confidence=0.955
+conf_p10=0.791
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-13253
+%--
+2/4
+subtitle=score
+q6. s1 5 q6. s1 5 q3 q5 q6 q1 q5 q3 2 q5 q3 q5. s3 q2 q5 q3. s2 q1 q2 q3 q5 q2 q1 q,6 q1 5. q0 q3 s3 s5 s3 s2 q1 2. q0 q6
+q5 q3 s6 s1 5. q0 x q3 s3 s5 s3' s2' q1 2. q0 q5 q3 5 q2 q5 q3 q2 q1 q2' q3' q5' q2 q1' q,6' q1 5. q0 q5 q3 q5'. s3' q2 q5 q3 q2
+q1 q2' q3 q5 q2' q1' q,6 q1' x - x' -
+%END

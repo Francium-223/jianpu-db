@@ -1,0 +1,17 @@
+%回家调.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47633
+title=回家调
+tag=
+usertag=
+tagroute=
+confidence=0.989
+conf_p10=0.990
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47633
+%--
+2/4
+subtitle=score
+q3 q2 q3 q5 q1 q2 q1 q1 q5 2 5 5 1 q2 q1 q1 q3 2 q1 1 4 3 1 5 q1 2 1 q1 4 2 q,5 q2 q1 q1 4 3 1 q,5 1 2
+1 1 4 2 2 2 1 1 4 3 1 ,5 1 2 1 1 4 2 ,5 2 3 ,5 1 2 1 1 5 q2 q2 q5 q1 q2 q1 q1
+%END

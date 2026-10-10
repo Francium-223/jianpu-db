@@ -1,0 +1,20 @@
+%喊一声武陵山.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=25135
+title=喊一声武陵山
+tag=
+usertag=
+tagroute=
+confidence=0.946
+conf_p10=0.850
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-25135
+%--
+4/4
+subtitle=score
+1 - - - x x x qx x x x 1 x x ,5 - q,5 s,5 s,6 q1 q2 q3 s2 s3 q1 q3 2. ~ s2 s2 q2 q1 ,6 - s,5 s,5 s,6 s1 q,6 ,5
+q,3 s,5 s,6 q,3 q,2 ,2. q,5 q,6 s,5 s,6 s,5 s,6 q,5. s,5 q,6 s,5 s,6 ,6 - q2. s2 q2 s1 s,6 ,6 ~ s,6 s3 s2 s3 6 - - - q6 6 s3 s2 s1 s2
+s3 s2 1 q,5. s,5 q,6 q1 2 - q,5 q,6 q,6 s,3 s,2 ~ ,2 - q3 s2 s3 q1 q3 2 - q2 q2 q1 s,7 s,7 ,6 - q3 3 q5 s6 q3. 5 q2 q2 q1
+q,7 s,6 s,7 ,5. q,4. s,5 q,6 q,2 ,4. q,5 q1. s,7 s,6 s,7 q,5 ,6 - 4. q5 s6 q6 s2 4 6 - - s3 s2 s1 s2 2 - - - 6 - - s3 s2 q1
+2 - - - 2 - - -
+%END

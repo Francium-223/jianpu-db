@@ -1,0 +1,18 @@
+%四姑娘.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47582
+title=四姑娘
+tag=
+usertag=
+tagroute=
+confidence=0.959
+conf_p10=0.922
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47582
+%--
+3/4
+subtitle=score
+1 1 4 3 1 4 2 4 5 6 6 5 6. 7 6 1 4 6 6 5 3 3 5 2 2 0 0 4 3 5 6 2' x 6 q6' q5' q3 q2 1 1
+4 6 6 5 3 3 5 4 1 2 2 5 ,6 ,6 1 2 q0 2 2 q5 5 5 q6 2 2 4 3 2 1 2 2 2 ,6. ,5 1 4 ,5 ,5 - ,6
+1 1 ,6 4 2 ,6 ,6 1 2 0 2 2 5 5 5 2 2 4 3 2 1 2 2 2' ,6. ,5 1 4 ,5 ,5
+%END

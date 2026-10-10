@@ -1,0 +1,20 @@
+%啊祖国.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48485
+title=啊祖国
+tag=
+usertag=
+tagroute=
+confidence=0.984
+conf_p10=0.988
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48485
+%--
+4/4
+subtitle=score
+1 - - 1 1. x. x x 3 q4 5. 3 1 ,5 q6 ,5. ,5 q3 q4 5. 3 1 ,5 q4 2. 2 q5 q5 q6 q6 q7 q7 1 1 s2 q2. q3 0 q4 5
+5 5 - ,5. q6 q1 q1 q2 q2 q3 4 5 q3 q4 q3 q4 2 ,5. q6 q1 q1 q2 q2 q3 q4 5 q2 q3 2 q3 6 5 5 5 6 5 4 q0 q3 q3
+q3 q4 q3 2 q0 2 2 2 3 q2 1 q0 q7 q7 q6 q5 s1 s2 3. q5 q5 q5 q6 q5 4 0 q3 q3 q3 q4 q3 2 0 q2 q2 q2 q3 2 1 0
+7 q7 q7 6 q7 6 ,5. ,5. q6 q6 1 1 1 2 2 q2 3 4 5 q2 q2 q0 q3 s7 q1 2 q0 q5 1 - ,5. s6 q6 q1 q1 q2 2 q2 3 4
+5 2 2 0 3 7 2 0 6 7. 1 0
+%END

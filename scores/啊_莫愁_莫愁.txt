@@ -1,0 +1,19 @@
+%啊_莫愁_莫愁.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=40583
+title=啊 莫愁 莫愁
+tag=
+usertag=
+tagroute=
+confidence=0.951
+conf_p10=0.766
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-40583
+%--
+4/4
+subtitle=score
+1 - - - x x. x. x'. x 1 x 0 3 5 6 s5 s1' s6 s5 2 q5 6 3. q5 2 s3 q2 q1 6. 7 s6 q7 q6 q5 1 s5 s3 q2 s3 2
+q1 q1 ,6 5 s3 s5 3 6 q2. d4 q3' 2' 1 7 q2 s3 q5 q2 q7 ,6 - 1 q7 q6 2 1 s7 5 s1 q2 3 s6. q1' q6 q5 q3 5 q2 q1 2
+q3 q5 6 q7 6 5 q3 q2 q3 5 6 3 1' q5 q2 q2 3 2 ,1 q6 s1 ,6 - 1 q3 q5 s3 2 sx s6 s1 ,6 3 s5 q2 q2 3 2 2 ,1
+s6 s1 ,6 s1 s6 1 2 3 2 3 q5 q6 2 - - q2 q0
+%END

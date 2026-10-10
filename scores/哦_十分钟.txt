@@ -1,0 +1,19 @@
+%哦_十分钟.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=36820
+title=哦 十分钟
+tag=
+usertag=
+tagroute=
+confidence=0.917
+conf_p10=0.565
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-36820
+%--
+4/4
+subtitle=score
+0 3 q4 q5 q3 q3 q1 q1 q3 3 5 5 4 4 s3 s4 0 q0 s2 s3 4 2 x' 7 q7 q2 x - ,,4 3 2 q3' 4' 5 0 q0 q3' q4' ,5 3
+q3 q1' q1' q3 q3 q5 ,4 q5 q4 q,,4 ,5 6 0 0 5 q6 q0 7 7 7 7 q7 q7 q6 q7 1 - - 0 q1 3 3 q1' 2 5 6 0 0 6 2
+6 2 7 5 5 0 0 1' 3. ,1 3 1 q0 q,2 ,2 4 0 q0 3 3' x' 3' 3' 4 3 q2 1' 7 1' - 0 q3 4. - 0 1' 3'. ,1' 3 ,1
+2 q6 6 0 0 6 2' 6 x'. 6 7 5 5 0 0 ,1 3'. 1 3. 1' q1 1 3 4 0 q0 3' 3' 3 q3 q3 q4 ,3 3 1 7 1 - - x
+%END

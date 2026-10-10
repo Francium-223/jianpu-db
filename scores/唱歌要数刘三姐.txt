@@ -1,0 +1,18 @@
+%唱歌要数刘三姐.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47763
+title=唱歌要数刘三姐
+tag=
+usertag=
+tagroute=
+confidence=0.990
+conf_p10=0.991
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47763
+%--
+2/4
+subtitle=score
+5 3 3 5 5 5 6 q1 1 2. 2 - q5 6 q1 1 1 2 1 2 q6 q5 5 x. - q2 q6 5 q5 q1 q2 q1 q1 s2 6. 5. s6 s1 q1 s2
+s1 s6 s1 s6 s5 5 5 3 q5 5 5 6 5 5 6 1 1 2. 2. - 5 6 1 1 1 2 - 2 6 5 5 2 - - 2 6 5 5 1 1
+1 2 1 6. 5. 6 q1 1 q2 q1 6 1 6 q5 5 - 5 -
+%END

@@ -1,0 +1,17 @@
+%唱一支土族的歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47622
+title=唱一支土族的歌
+tag=
+usertag=
+tagroute=
+confidence=0.996
+conf_p10=0.985
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47622
+%--
+4/4
+subtitle=score
+2 1 2 3. 3 5 6 q3 q2 q1 1 2 q1 2 1. ,6 q,3 q,5 ,6. ,6 1 2 1 2 3 3 1 2 1 2 1. ,6 ,3 ,5 ,6. ,6 1 2 ,1 2
+3 1 2 1 2 1.
+%END

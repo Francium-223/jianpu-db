@@ -1,0 +1,20 @@
+%回来吧我的朋友.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=26424
+title=回来吧我的朋友
+tag=
+usertag=
+tagroute=
+confidence=0.926
+conf_p10=0.740
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-26424
+%--
+4/4
+subtitle=score
+qx q,1 x x. x q,5 q,6 q3 3 q2 q3 3 q1 2 - - q2 q1 2. q3 q2 2 q1 ,7 - - q,5 s5 s6 q3 2 s2 s1 q2 3 q1 ,6 - - q2
+s2 s1 ,7. q3 3 q1 - 2 - - q,5 q,6 2. s2 s3 2. s6 s1 1 - - q1 q2 3. s2 s3 2. s1 s2 ,6 - - q,6 q1 2. s2 s3 2. q1 0
+2 - - q2 q3 q5 3 s2 s3 2. s1 s2 ,6 - - q,6 q1 q2 2 s2 s3 2. s1 s2 1 - - - x 0 q,5 q,6 1 - - q1 q2 0 x. 1
+,x'. 0 s2 s3 2. q2 ,6 - - q,6 q1 2. s2 s3 2. q1 0 - - q2 s2 s3 q5 3 s2 s3 2. s1 s2 ,6 - - q,6 d6 s1 q2 2 s2 s3 2.
+s6 s1 1 - - q,6 s6 s1 q2 2 s2 s3 2 - 2 q0 s1 s2 1 - 1 - 0
+%END

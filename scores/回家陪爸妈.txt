@@ -1,0 +1,23 @@
+%回家陪爸妈.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=30492
+title=回家陪爸妈
+tag=
+usertag=
+tagroute=
+confidence=0.946
+conf_p10=0.851
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-30492
+%--
+2/4
+subtitle=score
+- s2 s1 s2 s3 3 q3 s1 s2 ~ 2 s3 s2 s3 s6 q6. s6 q6 s3 s5 5 s3 s2 s3 s5 s1' s1' s6 s6 s6 s5 s5 s2 3 s3 s2 s2 s1 s2 s1
+s1 s6 q5 q1 q2 0 s2 s1 s2 s3 3 s3 s3 sx'. s2 2 s3 s2 s3 s5 q6. s6 s1' s3 s3 s5 ~ 5 s2 s3 s5 s3 s1' s6 s6 s6 s6 s5 s5 s3
+s2 q3. s2 s3 s1' s1' q6 s6 s5 s1' s1'. s3' s2' 2' - 2' 0 0 q0 s5 s5 3. s3'. q3'. s3' s3' q1' s1' 2' s0 s5 s1' s1' q3'. s3' s2' s3' q2' s5 s1'
+s6 q6 q0 s3' s2' s2'. q3' s6 q0 s6'. s3' s2'. s3' s5 s5 q0 s6 s3' q1' s1' s6'. s3' s2' s2' ~ 2' q0 s5 s5 s3'. q3'. s3' s3' q1' d1' 2' s0 s5 s1' s1'
+q3'. s3' s2' s3' s2' s5 s5 s1' s6 q6 q0 s3' s2' s2' h2'. s3' d6 q0 s6'. d3' s2'. q3' s5 q0 s5 s3' q1' s1' s2'. s1' ~ s1' s1' ~ 1' - 0 0 - q0
+s1 s1 s1 q1 s2 ~ s2 s2 s2 s2 ~ 2 x x x x. x q0 s3 s3 s3 q3 s,5 s,5 s1 s1 s1 q0 q0 s1' s1' s2 - - s3 s1 s2 s3 q3' s1'
+s1' s2' s1' s1' s1' ~ 1' q0 s5 s5 q3' s1' s1' s2' s1' s1' s1' ~ 1' q0 s5 q3' s1' s1' s2' s1' ~ s1' s1' ~ 1' - s6 s5 d1' d1' q3' s6 s1' ~
+1' - s1' s1' s1' s1' 2' ~ 2' s1' ~ s1' q1' 1' - 1' q0 s3'. s1' s1' s1' 1' 1' -
+%END

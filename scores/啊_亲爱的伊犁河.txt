@@ -1,0 +1,19 @@
+%啊_亲爱的伊犁河.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=36955
+title=啊 亲爱的伊犁河
+tag=
+usertag=
+tagroute=
+confidence=0.987
+conf_p10=0.978
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-36955
+%--
+2/4
+subtitle=score
+q5 s6 s7 1 s1 s7 s6 s7 5 5 q6 q7 1 - q7 s7 s1 q2 q3 q2 q1 q7 q6 5 - 5 - q5 s6 s7 q1 q1 q1 s7 s6 q5 q3 q1. s2 q3
+q4 5 q6 q1 3. q5 q2. s3 q2 q1 1 - 1 - - 3' - s2' s3' s2' s1' s7 s6 q7 1' - 1' - q3 s3 s4 s5 s6 q5 q6 s6 s7 s1' s2' q1'
+q1 s1 s3 s2 s1 q7 q6. s7 5 q5 q1 q7 q6 5 q6 q1 3. q5 q5. s3 s2 s3 s1 s1 1 - 1 - 3. q5 5'. q3' q2'. s3' s2' s3' s2' s1' - 1'
+-
+%END

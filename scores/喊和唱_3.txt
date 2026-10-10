@@ -1,0 +1,19 @@
+%喊和唱_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=26402
+title=喊和唱
+tag=
+usertag=
+tagroute=
+confidence=0.965
+conf_p10=0.903
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-26402
+%--
+4/4
+subtitle=score
+2' 3' 0 2. q2' 3' q2' ~ 2' q1' q6 0 5 5 6 0 6 2' q6. 5 q3 q2 2 2 2 2 q6 0 6 6 q6 0 0 2' 3' 0 2. 2' q3' 2'
+~ 2' 6 0 6 5 5 6 0 6 2 6. 5 3 q2 5 5 - q3 q5 6 2' 6. q5 q3 2 q0 5 q5 0 3 5 6 - - - 6 - - 1'
+6 2' ~ 2' - 2' - - - 2' 2. 2' q1' q6 2' 6. 0 q2' q2' q5' q5' 7 6 2'. q5 ~ 5 0 6 2' 2' 2 6 q5 4 q5 ~ 5 6 q2'
+q2. 2' 2' 6 q5 4 5 6 6 2 x 6 q1 5 4 3 2 5' 6 ~ 6 q5 2 - - 2 0 0 0
+%END
