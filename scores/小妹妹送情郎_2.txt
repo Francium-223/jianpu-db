@@ -1,0 +1,18 @@
+%小妹妹送情郎_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=32026
+title=小妹妹送情郎
+tag=
+usertag=
+tagroute=
+confidence=0.990
+conf_p10=0.973
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-32026
+%--
+2/4
+subtitle=score
+s,6 s1 s2 s3 q1 s1 s,6 q,5 s,5 s,6 q1 s5 s3 q2 s2 s1 s,6 s,5 q,6 ,5 0 q1 s1 s1 s1 s,6 s,5 s,6 s5 s3 5. q5 s1' s1' s6 s5 s5 s3 s5 s3
+2. q2 q5 q5 s3 s2 s1 s,6 s1 s2 3 s2 s3 s2 s1 q,6 s,5 s,6 ,5 - s,6 s1 s,5 s,6 q1. s2 s2 s3 s1 s2 q3. s5 q2 s2 s3 q3 s,5 s,6 q2 s2
+s1 ,6 s,6 s1 s2 s3 q1 s1 s,6 q,5 q,5 s,6 1 q2 s2 s1 q,6 s,5 s,6 ,5 -
+%END

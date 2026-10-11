@@ -1,0 +1,18 @@
+%小鸭嘎嘎.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48690
+title=小鸭嘎嘎
+tag=
+usertag=
+tagroute=
+confidence=0.985
+conf_p10=0.997
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48690
+%--
+2/4
+subtitle=score
+2 4 q1 x' 4 4 4. 6 3 ~ 3 3. 5 2 ~ 2 2. 4 3 2 3 4 4 4. 6 3 3 3. q5 2 2 2 4 3 2 1 ,5 1 1 3
+1 1 3 1 1 3 5 5 4 ~ 4 4. 6 3 ~ 3 3. 5 2 ~ 2 2. 4 3 2 3 4 4 4. 6 3 ~ 3 3. q5 2 2 2. 4 3
+2 1 x x 4. q6 3. q5 2. 4 ,7 2 5 ,7 2 4 3 2 1 1 3 2 1 1 1 1 0
+%END

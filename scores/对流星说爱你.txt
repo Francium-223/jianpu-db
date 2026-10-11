@@ -1,0 +1,21 @@
+%对流星说爱你.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=24864
+title=对流星说爱你
+tag=
+usertag=
+tagroute=
+confidence=0.978
+conf_p10=0.954
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-24864
+%--
+4/4
+subtitle=score
+- - - - - - - - - q0 s,5 q1 s,7 x 1 q0 s2 q3 q2 s1 s,7 1 q0 s,7 s1 q,7 q,5 q,5 q,3 ,6 q0 q,6 q,6 q,3 q,3 q,4 ,2 q0 q,5 q,5
+q,5 q1 q,7 1 q0 q2 q3 q2 q1 q,7 1 q0 s,7 s1 q,7 q,5 q,5 q,3 ,6 q0 q,5 q,6 q,6 q,6 q1 2 - q0 q,5 q1 q2 3 q3 q3 q4 q3 q2 q1 2 q3
+q1 ~ 1 q1 q,7 ,6 q,6 q,5 q,6 q,5 s,3 s,2 q,2 ,3 - q0 q,5 q1 q2 3 q3 q3 q4 q3 q2 q1 2 q3. s1 1 q0 d5 q,6 q,6 q,6 q,5 q,6 q,6 q,6 q1
+2 - q0 q,5 q1 q2 3 q3 q3 q4 q3 q2 q1 2 q3 q1 ~ 1 q1 q,7 ,6 q,6 q,5 q,6 q,5 s,3 s,2 q,2 ,3 - q0 q,5 q1 q2 3 q3 q3 q4 q3 q2
+q1 1' q7. s6 6 q0 s3 s2 1 q1 q,7 q1 q2 q3 1 - - - q0 q5 q2' q2' 1 - - - 0 0 q0 q,5 q1 q,7 2 - 0 q2 s3 s2 1 -
+- -
+%END

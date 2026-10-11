@@ -1,0 +1,20 @@
+%寻北斗.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=13910
+title=寻北斗
+tag=
+usertag=
+tagroute=
+confidence=0.905
+conf_p10=0.526
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-13910
+%--
+4/4
+subtitle=score
+1 x. x. 1 4 1 x x q1. qx qx x x x x' x. x q5 s2 s5 q,7 s,6 s5 1. q2 q1' s5 s6 q4 s3 s2 5 - q1' 5 s4 s3 s2 q,7 s1
+q2 q5 0 0 q5 s2 s5 q,7 s,6 s,5 ,5. q,6 q1' s5 s6 q4 s3 s2 1 - q5 2 q1 q5 ~ q,5 q1 s7 s,6 ,5 - q2. s5 q,7 s,6 s5 1. q2 q,7 q,5
+,6 q,6. s2 s1 s,7 s,6 s1 ,5 - q,6. s2 q,4 s,3 s,2 q1' s5 s6 q4 s3 s2 5 - q6. s6 q5 s6 s5 4. s3 s2 q5. ~ s5 q,7' q1 2 - ,5 - q2.
+s,6 q1 q2 3 - q2. s2 q1 s7 s,6 ,5 q,7 q,6 ,5 - q2 5 s4 s3 q2 s3 s2 1 q2 s,5 s,6 q1 s,7 s,6 ,5 - ,5 0 0 0 q2 5 s4 s3 q2
+s3 s2 1 q2 s,5 s,6 q1 s,7 s,6 ,5 - q2 5 s4 s3 q2 s3 s2 1 q2 s,5 s,6 q1 s,7 s,6 ,5 - ,5' - - -
+%END

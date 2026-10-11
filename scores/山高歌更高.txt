@@ -1,0 +1,18 @@
+%山高歌更高.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47660
+title=山高歌更高
+tag=
+usertag=
+tagroute=
+confidence=0.962
+conf_p10=0.878
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47660
+%--
+3/4
+subtitle=score
+1 - - 4 q3 q1 4 q5 q5. q3 5 5 x. q5 q6 q3 1 1 4 1 q5 q1 q2' q5 5 q6 q5 q6' q5 q3' 4 3 q5 3' q2' 2' 2' 3 1' 6
+1' 6 5 5 - 1 4 5 3 5 3 1 2 2 3 1 6 1 - 1 0 4 3 5 3 5 5 3 q1 4 5 6' 1 2 5 5 6' 5 6' 5
+3 4 3 s3 s2 q2 2. d1 d2 d1 d6 s1 s6 q5 5' - 1 4 q6 q5 q6 q3 q1 q2 s2 s3 s1 s6 6' 1 - 1 0
+%END

@@ -1,0 +1,21 @@
+%就让世界多一颗心_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=40309
+title=就让世界多一颗心
+tag=
+usertag=
+tagroute=
+confidence=0.900
+conf_p10=0.525
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-40309
+%--
+4/4
+subtitle=score
+1 - - x. x. ,,1. x 0 q3 3 q3 s4 q4 3 s2 s1 2 q2 2 s3 q2 2 - 0 2 2 ,2 q3 q3 2 s1 7 q1 1 s2 q3 ~ 3 - 0
+,x 2 q2 q2 q3 2 q2 1 1 7 ,6 - - 0 0 s1 s1 q1 1 2 2 1 6 ~ 6 6 0 q2 q2 s2 2 3 3 q2 q7 ~ 7 q7 0 s4
+s4 4 q,4 4 4 q4 q3' 3 q4 5 - - - - - 5 - - 5 5 4 q4 q4' q4 s4 q3' s4 d,3 s3. s4. s4 d3. s3 s,4. s3 s4 4' 4' 4 2'
+4 s3 q3 3 ,4 3' 3 3 3' q2 x'. ,,4' 5' ,x' 1 q3 3' ,5' 3 1 4 3 4 qx 1 1' q3 3 3 3'. q4 3' 3' 1' 4 5 5. 5 5' 5'
+q4 q4 s,3. q3 q2'. q4 q4 q4 4 3 1' 2 q2 2 2 4 3 3 ,4 4 q4 q4 q4 q4 q3. q3 q2 2' 1. 2 s4 s3 q4 4 4 q4 q3 q4 ~ q4
+5. 5 q4 3 1 q1 ~ 1 - 1 - - q5 5
+%END

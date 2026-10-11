@@ -1,0 +1,16 @@
+%小老鼠.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48638
+title=小老鼠
+tag=
+usertag=
+tagroute=
+confidence=1.000
+conf_p10=0.999
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48638
+%--
+2/4
+subtitle=score
+5 ~ 5 3 5 ~ 5 3 5 ~ 5 3 q5 q6 5 1 ~ 1 1 1 6 1 5 5 q5 q5 q3 q1 q2 1
+%END

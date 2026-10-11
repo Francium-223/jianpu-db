@@ -1,0 +1,18 @@
+%嵩山天下美.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=34420
+title=嵩山天下美
+tag=
+usertag=
+tagroute=
+confidence=0.816
+conf_p10=0.440
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-34420
+%--
+2/4
+subtitle=score
+q1 0 sx 7 5 q2 4 1 1'. q5 q6 q7 q6 6 q5 q3. s6 q4 q3 2 q2 q3 q5 5 q6 5. q,6 1 - 1 q3 q5 - q7'. q7. q5' q1'. q5' d5' d2'
+d6 s5 1' 1' 6 1' 1' 1' 6' 1' s1' q,5' s,1 q,5'. q,5. d1 s,1' s,1 6 1' s6' q2 s3' s3' s5 q3 q6' q6 q6 q5 q6' h1 s,1' s,1' s,1 s1 d1' s6 q1' 1'
+4 q4 q1' s1' s1' s1 s1 q3' s,2' q3 q3 d6 q2' d3' d2 d6 q2. d6' q1 q1' s5 qx' h5 s5 s1
+%END

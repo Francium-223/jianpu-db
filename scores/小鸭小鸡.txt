@@ -1,0 +1,17 @@
+%小鸭小鸡.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48691
+title=小鸭小鸡
+tag=
+usertag=
+tagroute=
+confidence=1.000
+conf_p10=0.999
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48691
+%--
+4/4
+subtitle=score
+q1 q2 3 3 q2 q3 5 5 q1 q2 q3 q0 3 q0 3 0 2 3 5 q0 q5 q0 q5 q0 q3 3 3 q0 q5 q5 q5 q0 q3 q3 q3 q0 q5 q5 q5 q0
+1 2 3 3 q2 q3 5 1 -
+%END

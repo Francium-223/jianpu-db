@@ -1,0 +1,23 @@
+%山远水远.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14352
+title=山远水远
+tag=
+usertag=
+tagroute=
+confidence=0.958
+conf_p10=0.884
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14352
+%--
+4/4
+subtitle=score
+q1 - - 1 4 q1 4 x x x x x ,,1 x 1 x x. x x x 5 5 q5 q3 q4 q5 5 q3 q4 q3 q2 s1 s2 s3 s1 2 - - - 5
+5 q5 q3 q4 q5 5 q3 q4 q3 q2 s1 s2 s3 s2 1 - - - 1' 4 - s4 s5 s6 s4 5 - - q5 q1 q1 q4 4 q4 s4 s5 q6 q7 q6 q5
+s4 s5 s6 s4 5 - 5 - - - x 5 1 - q1 q2 q3 2 - - - q4 s4 s3 4 - q3 q1 2 - - - 5 1 - q1 q5 6 q6 d5
+d6 s5 4 - q2 2 q4 3 s3 s2 q1 5 - - - 5 - - - 1 - - - 1 - - - x 0 0 0 0 q1' 1' q5'. s1' s1' 1' q5 q1'
+q5 q5 s5 s6 s6 s5 4. q4 4. s4 s3 2 s2 s2 q2. s2 s2 q2 s1 s6 s5 5. q1' 1' q5'. s1' s1' 1' q5 1' q1' s5 s5 s6 s5 4. q4 4. s4 s3
+2 s2 s1 q6 q5 q5 q3 q3 q5 5 ~ 5 - 5 1 0 0 q0 s1 s2 q3 q4 q3 q2 s1 s2 s3 s1 2 - - - 5 1 0 0 q0 s1 s2 q3
+q4 q3 q2 s1 s2 s3 s1 2 - - - 5 1 - s1 s2 q3 2 - - - q4 s4 s3 4 - q3 q1 2 - - - 5 1 - q1 q5 6 ~ q6
+d5 d6 s5 4 - q2 2 q4 3 s3 s2 q1 1 - - - 1 - - -
+%END

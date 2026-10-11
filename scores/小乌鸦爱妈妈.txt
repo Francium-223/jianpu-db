@@ -1,0 +1,18 @@
+%小乌鸦爱妈妈.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12589
+title=小乌鸦爱妈妈
+tag=
+usertag=
+tagroute=
+confidence=0.944
+conf_p10=0.748
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12589
+%--
+2/4
+subtitle=score
+- - 1 x x x x q5 q5 5 q5 3 6 5 3 ,4 q,4 ,4 q,4 4 6 q3 q3 q3 q3 1 4 3 - 1 - q2 q2 q2 q2 ,7 2 5 - 2
+- q3 0 q3 q3 q3 3 3 1 - ,5 - q5 q5 q5 q5 ,7 - ,5 - q1 q1 q1 q1 1 1 ,5 - ,5 - q,7 q,7 q,7 q,7 5 3 1 - 1 0
+q5 q5 q5 q5 5 5 x' - 1' 0 ,6 1 - 1 0 q3 q3 q3 q3 3 3 1 - 1 0
+%END

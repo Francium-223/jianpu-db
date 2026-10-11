@@ -1,0 +1,16 @@
+%小熊宝宝的摇篮曲.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48614
+title=小熊宝宝的摇篮曲
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.999
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48614
+%--
+2/4
+subtitle=score
+q1 q2 3 4 q5 q3 q1 q3 5 6 q5 q3 1 q5 q5 q4 q2 q3 q3 q1 q2 3 2 1 - q5 5 4 2 3 q3 q1 2 3 2 1 -
+%END

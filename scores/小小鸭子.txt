@@ -1,0 +1,16 @@
+%小小鸭子.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48592
+title=小小鸭子
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.998
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48592
+%--
+4/4
+subtitle=score
+1 2 3 3 3 5 3 5 3 1 2 3 3 3' 5' 3' 5' 2 3. 2 1 - 1. 2 3 3' 5' 3' 5' 3 5 3 2 1
+%END

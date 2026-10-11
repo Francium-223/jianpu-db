@@ -1,0 +1,20 @@
+%小宝贝睡觉吧.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48013
+title=小宝贝睡觉吧
+tag=
+usertag=
+tagroute=
+confidence=0.991
+conf_p10=0.991
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48013
+%--
+3/8
+subtitle=score
+,2 ,5 5 4 2 2' 2' 4 3 2 1 1 5 5 0 4 2 1' 1' 5 4 3 5 5 2 2 0 4 q1 2 5 5 1' 2' 2' 1' 2' 1' 1 5
+5 5 0 1' 1' 5 5 5 2 2 2 0 2 5 5 1' 2' 2' 1' 1 5 5 0 5 1 1 5 4 3' 5 2 2 2 0 4 2 5 5 1 2
+2 - - 1 1 5 5 0 - - 1 1 5 5 5 2 2 2 0 2 5 5 1 2 2 - 1 4 1 5 5 5 0 4 5 1 1 5 4 5.
+2 2 2 0 0 0 0 5 ,1 1 2 1 2 2 - 1 1 5 5 0 4 - 1 1 ,5 4 3 ,5 5 ,2 ,2 0 4 2 5 5 1 2 2 1
+4 3 1 5 ,5 5 0 5 1 1 ,5 5 0
+%END

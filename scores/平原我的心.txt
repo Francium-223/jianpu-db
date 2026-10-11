@@ -1,0 +1,20 @@
+%平原我的心.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49659
+title=平原我的心
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.998
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49659
+%--
+3/4
+subtitle=score
+5 - - 5 - - 5 - 5 1. q7 q2 q1 3. q2 q1 q7 2. q1 q7 q6 7 - - 7 - 0 0 6 6 1. q1 q1 q1 7 5 - 5 - -
+0 6 6 1'. q1' q1' 1' 7 5 - 5 - - 0 6 6 1'. q1' q1' q1' 7 5 q5 q5 5 4 q4 q4 5 3 0 0 4 2 5 - - 5 - -
+5 - - 5 4 2 1 0 0 1 0 0 5 5 0 6 6 0 7 7 0 5 5 0 3' 1 2 q7 1' q6 4 - - q2' 7 1' 6 q7 5 3
+- - q4 q3' q1' q2' q7 q1' q6 7 5 5 6 q5 q4 q3 q2 1 0 0 5 4 4 4 q4 5 2 - 4 q4 q4 4 2 1 0 0 5 5 q5 q5
+q4 q4 5 2 - q4 q4 q6 q7 q1' q2' 3' 3' - 3' - - 3' 0 0 0 2' 5 5' - - 5' - - 5' 0 0 2
+%END

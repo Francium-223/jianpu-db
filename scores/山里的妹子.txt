@@ -1,0 +1,18 @@
+%山里的妹子.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=16119
+title=山里的妹子
+tag=
+usertag=
+tagroute=
+confidence=0.870
+conf_p10=0.549
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-16119
+%--
+4/4
+subtitle=score
+1 1'. q3'. s3' q3' s5' 3' q3'. s3' s5' s3' s2' q3'. s2' 1' s3' q3' q3' 2 x s1 s2 s3. d5 x s5 q3 x 3 s1 s7 s3 - - 2 s1 s2 s3. d5 q3
+s5 3 q5 s1 s3 s5 - - - x s3 s5' s1' s5 q3 s3' s3 s5 - x s3 s1' q3' s2'. s1' q1' q7 q3 q5 3 - - - q3' s2'. s1' q1' q7 s7 q3
+q5 - - 0 x x x x s4. s2' 1. s4. 1. s2' ~ 2'. s1. d1 - s1 q1
+%END

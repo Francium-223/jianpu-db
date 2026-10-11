@@ -1,0 +1,17 @@
+%小睡魔.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48632
+title=小睡魔
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.998
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48632
+%--
+4/4
+subtitle=score
+,5 1. 2 3 2 1 ,7 1 2 3 4 q3 q2 1 2 0 ,5 1. 2 3 2 1 ,7 1 2 q3 4 q3 q2 1 2 0 3 q4 5 3 4 5 6. 5
+4 q2 3 4 4 3 5 2 - - 0 5. q3 2 - 3. 2 q1 q2 3 q4 5 q1 q2 3 2 1 - 0
+%END

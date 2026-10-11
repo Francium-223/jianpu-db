@@ -1,0 +1,26 @@
+%尘世美.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=35759
+title=尘世美
+tag=
+usertag=
+tagroute=
+confidence=0.961
+conf_p10=0.876
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-35759
+%--
+2/4
+subtitle=score
+s5 s1. 1. q0 s0 s3 s3 s2 s2 q3 s3 s3 s2 s1 x q3 s3 s3 s3 q1 s1 q2 s2 s2 s2 s1 s1 s3 ~ 3 0 q0 d4 s3 q4 s4 s4 q4 s4 s4
+s4 q4 s4 q5 s5 d5 ~ s5 s5 s2 s1 2 0 q3 s3 s3 ~ s3 q2 d3 ~ q3 s3 q3 q3 q7 s6 s3' ~ q3' s2 s3 ~ s3' s2 q1 0 s0 s4 s4
+s4 s4 s4 s4 s4 s4 d4 d4 s4 s4 s4 s4 s4 s4 q5 s5 s5 ~ s5 s5 s2 s1 2 0 q3 q3 q,5 s3 s1 s3 s1 q3 s3 d2 d3 d5 s3 s3 s3 s2
+s3 s0 s2 s2 s3 s0 s1 s2 s3 s0 s3 s3 s3 s4 s4 s5 s4 s4 s4 s4 s4 s4 s4 s4 q4 s4 s4 q5 s5 s5 ~ s5 q5 s5 q3 5. q3 q3 q3 s2
+s3 q0 q3 q3 q3 q7 s6 s3 ~ q3' s2 s3 s3' s2 q1 0 q4 q4 q4 s3 s4 ~ s4 q4 s4 s6 q6 s5 s5 q2. 2 2' s5 q5 s2 x q3 s3 s3 s3
+q2 s2 q5 q5 s5 q2 s3 q3 s3 s3 s3 q2 s1 q0 q1 s1' q5 s6 1 5'. x 1 5' x. x 1 5'. x 2' 3' 1 5'. x 2' q6 q6 s6 q5 s5 q0
+q5 s5 q5 s2 ~ q2 q3 s2 q1 s2 ~ 2 s5 q5 s2 q3 s3 s3 s3 q2 s2 q5 q5 s5 q2 s3 ~ s3 s3 s3 s3 s3 s2 s1 s1 q0 q1 s1' q5 s6
+q6 q6 q1' q1' q2'. s3' s2' q2' s1' s2' 2' - s0 s5'. s5'. s5' s5'. s3' s1' s1' 1' 1' s2 s2 s2 s2 s2 s3 s3 q1 s1 q1 s1 s2 s2 s2 s2 s2 s3 s3
+q1 s5 s1 q1 s5 s1 s2 s2 s2 s2 s3 s3 s3 q1 s5 s1 q1 s1 s2 s2 s2 s2 s2 s3 s3 s3 q1 s1 q1 s5 s1 s2 s2 s2 s2 s2 s3 s3 q1 s5
+s1 q1 s1 s2 s2 s2 s2 s2 s3 s3 q1 s1 q1 s1 s2 s2 s2 s2 s2 s3 q1 s5 s1 q1 s1 s2 s2 s2 s2 s2 s3 s3 s3 2' - 0 q5 s5 s2 2'
+- s0 d5' s5'. s5' d5'. s3' s1' ~ s1' 1' -
+%END

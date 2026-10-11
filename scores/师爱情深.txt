@@ -1,0 +1,22 @@
+%师爱情深.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=13356
+title=师爱情深
+tag=
+usertag=
+tagroute=
+confidence=0.883
+conf_p10=0.522
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-13356
+%--
+2/4
+subtitle=score
+qx x. ,,6 ,6 q0 q,,6 q,6 q,6 q0 q,6 q,1 2 2 0 s,6 q1 2 2 x 0 0 0 3 q5 5 6 x 3 q3 q,5. ,6. q,6. ,6 3 q,5 ,5 q0 q,3 q,5 q,5
+,6 q,5 1. 3' 1' 3 q,5 q1 2 3 - 0 0 q,5 q,5 0 ,3 q,5 q,5 q,,6 q,5 ,1. x x' x' ,1 x s1 s3 q2. x 6 ~ 6 5 3 2 q1. q,,5 q,,1'
+2 2' 5' x' 6 ,5 x 2 1 q1 q3' q1 qx q,6 q5 0 q3 q,5 s1 q,6 ,,7 q,6 q1 1 3 x 5 2 6 1 5 6' 3 1'. x q5 q3 6 3 1
+q5 q,6. s6 q,x. q,5'. 1 2 2 2' 2' 1 q1 q1 1 ,6 qx q,6 3 q1 q5 q3'. 5 5 5 2 3 q2 q1. ~ 1 - ,6 s,,6 q6 q,6 d6 s,7 x. 6. q5
+6 6' 0 q5. 6 q6 6' q7 1 q1 6 q5 - 2. 2 2' 2 1' 1' 2 2 0 3 5 5 6 5 3 5 3' - 6. q5 q6 q6 0 q5 q6 s6 q7
+5 3 q2 1 - - 5 7 6 6 - 1. - 2' - 3' q7 6 3 - 3 6 2' - 2' 2' - 2' 5' q6' 6 - 6 3 5 1. - - 2. 6
+- 6 - - 6' - 6' - 6' 0
+%END

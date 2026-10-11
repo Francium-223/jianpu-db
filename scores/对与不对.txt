@@ -1,0 +1,16 @@
+%对与不对.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48546
+title=对与不对
+tag=
+usertag=
+tagroute=
+confidence=0.981
+conf_p10=0.915
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48546
+%--
+2/4
+subtitle=score
+q1 q1 3 0 x x 2 2 2 2 4 2 x x q3 s3 3 3 5 3 4 2 3 2 0 x x x
+%END

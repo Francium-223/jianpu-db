@@ -1,0 +1,24 @@
+%客官不可以.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=29433
+title=客官不可以
+tag=
+usertag=
+tagroute=
+confidence=0.970
+conf_p10=0.911
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-29433
+%--
+2/4
+subtitle=score
+x q0 q5 q1' q1' q1' q1'. q1' q1' q1' q1' q1' q1'. q1' q1'. q1' q1'. q1' q1' q1' q1' q1' q1'. q1' q1' q1' q1' q1' q1'. q1' q1'. q1' q1' q0 q,5 q,6 q,7 q,7 q1 q0
+q1 q,7 q1 q2 q1 q,7 q1 q0 q1 q,7 q1 q2 q1 q,7 q1 q0 q1 q2 q1 q,7 q1 q2 ,7. q0 q,5 q,6 q,7 q,7 q1 q0 q1 q,7 q1 q2 q1 q,7 q1 q0 q1 q,7
+q1 q2 q1 q,7 q1 q0 q1 q2 q1 q,7 q1 q2 ,7. 0 q0 q,5 q3 q3 q3 q3 q3 q3 s2 s2 q1 q1 q3 q3 q3 q3 q3 s2 s2 q1 q1 q4 q4 q4 q4 q4
+s3 s2 q2 q2 q2 q2 q2 q3 s2 s3 ~ s3 q2 s1 q1 q3 q3 q3 q3 q3 s2 s2 q1 q1 q3 q3 q3 q3 q3 s2 s2 q1 q1 q4 q4 q4 1 q4 q4 s3
+s2 q2 q2 q2 q2 q2 q3 s2 s3 s3 q2 s1 q0 q,5 q,6 q,7 q,7 q1 q0 q1 q,7 q1 q2 q1 q,7 q1 q0 q1 q,7 q1 q2 q1 q,7 q1 q0 q1 q2 q1 q,7 q1
+q2 ,7. q0 q,5 q,6 q,7 q,7 q1 q0 q1 q,7 q1 q2 q1 q,7 q1 q0 q1 q,7 q1 q2 q1 s3 s1 q0 s1 q2 q1 s,7 q1 s2 q,7. ,7 0 q3 q3 q3 q3 q3 q3
+d3 d4 s3 q3 q3 q3 q3 q3 s3 d3 s3 d4 s3 q3 q3 q3 q3 q3 q3 s2 q1. 2 - 2 q0 q1 q3 q3 q3 q3 q3 q3 s3 s4 q3 q3 q3 q3 q3 q3
+q3 s3 s4 q3 q3 q3 q3 q3 q3 q3 s1 q1. 2 - q1' q1' q1' q1' q1' q1' q7' q1' q2' q0 0 q1' q7' q1' q7' q1' q1' q7' q1' q7' x. q0 s6 q3 s2 s3
+s3 q2 s1 q0 q,5 q,6 q,7 q2 ,7. q0 q,5 q,6 q,7 x 1 x. 2 q2 ,7. q,x.
+%END

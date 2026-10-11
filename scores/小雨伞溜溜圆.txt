@@ -1,0 +1,19 @@
+%小雨伞溜溜圆.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12601
+title=小雨伞溜溜圆
+tag=
+usertag=
+tagroute=
+confidence=0.900
+conf_p10=0.562
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12601
+%--
+2/4
+subtitle=score
+1 4 1 x x' x 1. 1 3 q6 q6 q3 s5 s6 q6 0 q3 q6 q6 q3 ,1' ,,,x 1' 1' 1' 1' - s1 d1 q1 q1 d6 q6 3 1'. 1. q6 q3 q0 s2
+d2 d2 d3 d1 d1 s3 d6 q2 x 1 6 0 q3 3 q,1 q6. q6' q6 s3 q6 q5 q3 s5 s6 q6 0 q3 q6 6 3 s5 s6 q3 0 q3 q6 6 q3 q2. s3
+5 s1 s1 q2 q3 q5 q1 q1 ,6 6. 1 6 5 6 1 q5 3 - 3 6 q6 q3 s2 s3 q2 0 2. s3 q1 6 q2 3 q3 0 q3 s0 q6 q6 q3 q2.
+s3 5 q1 q6 q2 q3 q1 ,6 q3 s0 q6 q6 q3 q2. s3 5 q5 q3 5 q6 6 -
+%END

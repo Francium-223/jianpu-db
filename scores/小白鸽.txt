@@ -1,0 +1,17 @@
+%小白鸽.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=36787
+title=小白鸽
+tag=
+usertag=
+tagroute=
+confidence=0.962
+conf_p10=0.920
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-36787
+%--
+2/4
+subtitle=score
+- qx - - q1 0 x x 2 ,6 ,5 2 3 6 5 2 3 5 3 2 ,5 ,6 1 0 5 5 5 3 6 5 5 5 6 5 3 2 2 2 2 ,6
+,5 2 3 6 5 2 3 5 3 2 0 ,5 ,6 2 q3 5 6. 6 6 5 3 2 3 5 5 5 q6 5 3 2. 2 3 5 5 x. x.
+%END

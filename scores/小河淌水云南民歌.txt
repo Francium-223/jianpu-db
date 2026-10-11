@@ -1,0 +1,18 @@
+%小河淌水云南民歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=8724
+title=小河淌水云南民歌
+tag=
+usertag=
+tagroute=
+confidence=0.998
+conf_p10=0.994
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-8724
+%--
+4/4
+subtitle=score
+6 - - - q6 q1 q2 q3 q3 2 s1 s6 q3 2. 6 - q6 q1' q6 q5 q3 q2 q5 6. q6 q5 q3 q2 ,6 - - - q6 q2' q2' q6 q3' 2' s1' s6
+q3' 2' s2' s1' 6 - 2' - - 6 q3 2 s6 q3 2 s1 s6 q6 q1 q6 q5 q3 q2 q5 6. q6 q5 q3 q2 ,6 - - - 0 3 q3 q2 2 6 -
+- -
+%END

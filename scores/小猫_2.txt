@@ -1,0 +1,16 @@
+%小猫_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48624
+title=小猫
+tag=
+usertag=
+tagroute=
+confidence=1.000
+conf_p10=0.999
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48624
+%--
+4/4
+subtitle=score
+3 - 1 1 3 1 1 2 2 4 5 3 - - - 3 - 1 1 3 - 1 1 2 - 2 - 1 - -
+%END

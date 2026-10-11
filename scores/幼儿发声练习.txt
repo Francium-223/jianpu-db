@@ -1,0 +1,17 @@
+%幼儿发声练习.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48709
+title=幼儿发声练习
+tag=
+usertag=
+tagroute=
+confidence=1.000
+conf_p10=0.999
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48709
+%--
+2/4
+subtitle=score
+1 3 5 3 q1 3 5 q4 q3 q2 q3 4 3 2 1 2 3 4 5 ,1 2 q,1 2 3 4 5 5 5 1 5 1' 5 3 1 3 1 5 ,1 5 3
+4 3 2 q1 3 2 1
+%END

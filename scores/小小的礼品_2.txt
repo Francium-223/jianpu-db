@@ -1,0 +1,20 @@
+%小小的礼品_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49993
+title=小小的礼品
+tag=
+usertag=
+tagroute=
+confidence=0.979
+conf_p10=0.975
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49993
+%--
+6/8
+subtitle=score
+3 3 3 3 2 2 3 2 4 4 3 2 1 q,7 1 0 ,6 ,6. ,6. 0 6 6 5 6 5 7' 7 6 5 4 3 4 q4 2 2. 2. 0 q4 q3 q2
+,7 q,4 q,3 q,3 ,5 q,7 2 q3 4 q4 3 3. 3. 0 q,6 q,6 q,6 q,6 q,7 q1 q0 q,6 q,7 q1 q2 4 4. q4 0 5 4 3. 3. 4. q,6 q,7 q1 q2 4. 3.
+3. 3. 0 q3 2 1 ,7 1 0 ,6 ,6. ,6. 0 6. 6. 0 q6 q5 q4 3 q4 0 2 2. 2. 0 3. 3. q0 ,7 q1 2 q3 2 0 1 1. 1. 0 ,7.
+,7. q0 q,4 ,5 q,6 q,7 q1 1. q0 q2 q1 ,7. ,7. 0 q,7 q,6 q,7 3. ,5. ,7. ,7 ,6. ,6. ,6. ,6. q,6 q,6 q,6 q,6 q,7 q1 1 ,6 q,7 3 3 7. q0 q6 q7
+6. 6. 6. 0
+%END

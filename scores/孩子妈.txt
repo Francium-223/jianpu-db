@@ -1,0 +1,23 @@
+%孩子妈.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=18144
+title=孩子妈
+tag=
+usertag=
+tagroute=
+confidence=0.975
+conf_p10=0.959
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-18144
+%--
+4/4
+subtitle=score
+1 - - x. x x x q1'. s7 q6 s6 s7 s6 s3 q6 5 s6. s6 s5 s1 s,6 s3 s6 5 - q1'. s7 q6 q4 s3 s4 s3 s2 q1 s1 s,7 q,6 s5 s3 s2
+s,6 s,7 s,6 ,5. q,6 ,5 - - - s2 q3. s5 s2 q3 s,6 ,5 s3 s3 s3 s5 s6 q3 s6 5 - s3 q2 s3 q5 s3 s5 q6 s6 s3'. 5 s6 q6 s5 s1 s,6
+s5 s3'. 2 - s3. d5 s2 s3 q5 s5 s3 s2 s3 s2 s,7 ,6 q3 s5 s6 s7 s6 s5 s3'. 6 - s3 s5 s2 s3 s3 q5 s6 s2 q2 s3 q6 s5 s3 q3 s2
+s1 2 q,6 q6 q5 s3 s2 q2 1 s5 s6 1' d7 s6 s7 s6 5. s3 s5 s6 q1' ~ s1' s6 q3 s6'. 5. s5 s6 1' ~ s1' d7 s6 s7 s6 5. s3 s5 s6
+q1' s1 s6 s5 s3 2 - s3 d5 d3 s2 s3 q5 s3 s5 s6 d5 d6 s3 s2 3 q3 q3 q5 q2 q3 q6. s5 q3 q2 s,6 s,6 s6 s6 s5 d3 d5 s3 s2 1
+- s2 q2 s3 s5 s3 q6 5 s5 s3 s2 q2 s3 s5 d3 d5 s3 s2 s5 s6 1' d7 s6 s7 s6'. 5. s3 s5 s6 q1' s6 q3 s6 5. s5 s6 1' d7 s6 s7
+s6'. 5 s3 s5 s6 q1' s1 s6 s5 s3'. 2 - s3 s3 d5 s2 s3 q5 s3 s5 s6. d5 s3 s2 3 s2 q2 s3 s5 s3 q6 5 s5 s3 s2 q2 s3 s5 d3 d5
+s3 s2 - s2 q2 s3 s5 d3 d5 s3 s2 1 s3 s5 6 6 3 - 6 q6 5. 5 5 - - -
+%END

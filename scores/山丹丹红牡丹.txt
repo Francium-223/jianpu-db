@@ -1,0 +1,21 @@
+%山丹丹红牡丹.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=25926
+title=山丹丹红牡丹
+tag=
+usertag=
+tagroute=
+confidence=0.947
+conf_p10=0.833
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-25926
+%--
+2/4
+subtitle=score
+1 - - 0 x'. x'. x'. x' s6. s2'. s2'. s2' s2' s2' s0 s5' s0 s2' s2'. s3' s2' s1' 6 s6. s2' s2'. s2' s2' s2' s0 s5 s0 q6. s2' s4 s5 s1' s1' s2'. s2'
+s2' s1' s6 s6 s6 s5 s4 s4 s4 s5 q6 s6 s0 s1' s6 s1' s2' s6 s5 s4 s3 2 s2 s5 s6 s1' q2' s3' s2' q1' s1' s6 q2' s3' s2' q1' s1' s6 s1' s1'
+s6 s5 q4 q5 s6 s6 q6 q6 q0 q2' s3' s1' q1' s1' s6 q2' s3'. s1' q1' s1' s6 s1' s1' s6 s5 s4 s5 s1' s1' q5 q5 q5 q0 s2 q5 s5 q5 q5 s6' q2'.
+s2' q2' q1' s1' s1' s6 s5 q4 q5 q6 q6 q6 q0 s2' q2' q6 s6 s5 s4 q4 s5 q6 s6 s0 q1' q2' s6 s5 s4 s3 q2 q2 q2 q0 s6. d2' s2' s2' s2' s0
+s5' s0 s2' d2' d3'. s1' s1' q6 q0 s6. d2'. s2'. s2' s2' s0 s5 s0 6'. q0 s2' q2' s1' q6 s6 s5 s4 q4 s5 q6 s6 s0 q1' q2' s6 s5 s4 s3 q2 q2 q2
+q0 x s2 s5 s1' s1' s2'. s5' s4' s3' 2'. 2'. s6' s1' q2' q6 q2' q0
+%END

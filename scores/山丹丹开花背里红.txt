@@ -1,0 +1,17 @@
+%山丹丹开花背里红.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14966
+title=山丹丹开花背里红
+tag=
+usertag=
+tagroute=
+confidence=0.872
+conf_p10=0.527
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14966
+%--
+2/4
+subtitle=score
+x q1 q2 5 - - x 1 q2. s2 q2 - - q1' x q2 q2 2 7'. q1 1 x x q,3 q,3 x 7'. 1 1 x x q1 q1 q,3' x q2 ~ q2 2 x
+q2 q2 ~ 2 7'. q1 1 - x 1 1 x x 1 1 x s1 - - q2 s2 s1 s1 1 ~ 1 - - q2 q1 q2
+%END

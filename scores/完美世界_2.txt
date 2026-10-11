@@ -1,0 +1,22 @@
+%完美世界_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=40050
+title=完美世界
+tag=
+usertag=
+tagroute=
+confidence=0.982
+conf_p10=0.973
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-40050
+%--
+4/4
+subtitle=score
+x 3 5 6 - - - 7 6 q5 3 - - - ,6 1 2. q1 q2 q1 q2 q1 2 3 3 - - - x q1 q3 ~ q3 q1 3 q1 q3 ~ 3 q0
+1 q3 q1 3 2 - 0 0 0 0 0 0 q,6 q2 ~ q2 q,6 2 q,6 q2' ~ 2' q0 q,6 q1 q,6 q1 q,6' ,6 - 0 0 0 0 0 0 q1 q3 ~ q3
+q1 3 q1 q3 q1 q3' ~ q3' q1 q3 q1 q3 1' 1 q0 q1 q3 q1 3 2 - 0 0 0 0 0 0 q,6 q2 ~ q2 q,6 q2 q,6 q2 q,6' ~ ,6' q0 q,6
+q1 q,6 q1 q,7' ~ ,7' - - 0 0 0 0 0 3 q5. s6 6 - - - q7 q6 q5 3 - - - 3 5'. s6' 6 - - - 7 q6 s5 s6' ~ 6'
+- - - ,6 q1 2 2. q1 q2 q1 q2 q1 2 q2 q3 1 3 - x 3 5 6 - - - q7 q6 q5 3 - - - 3 5 6 - - - q7 6
+q5 6 - - - ,6 1 2. q1 q2 q1 q2 q1 2 3 3 - - - x. 3 - - - x 3 5 6 - - - q7 q6 5 3 - - - 3 5
+6 - - - q7 q6 q5 6 - - - ,6 1 2. q1 q2 1 2 q1 2 3 3 - q3 q5. d6 3 - - - q3 5. 6
+%END

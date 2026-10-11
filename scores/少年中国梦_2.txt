@@ -1,0 +1,21 @@
+%少年中国梦_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=23836
+title=少年中国梦
+tag=
+usertag=
+tagroute=
+confidence=0.945
+conf_p10=0.796
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-23836
+%--
+2/4
+subtitle=score
+1 - - x x x 1 x x ,x x q0 q5 q6 q7 1' 3 7. s3 s5 6. s7 s6 5 q0 s2 s3 4 3 2. q,1 q2 1 - 1 - x ,5 3 q3
+q2 q3' ~ 3' q2 q2 q2 s1 s3 3 - 2 q3 q4 s3 s2 2' 2 2 s2 q2 s1 2 - ,5 3 q3 s2 q3' ~ 3' q2 q2 2 s3 q4 ~ 4 - q2.
+s2' ~ q2' q3 4. s2' 2'. q,1 q2 q2 q,1 q2. 1 - x. 5 q5' q5 q6 q7 1' q7. q6 s5 s6 5. q3 q4 q5 q6 5 - 1' q7. s6 s5 s6 5. q3 q4
+q5 q6 7 - 1'. q7 - q6 q5 s4 - q4' q3 q2. - s1' q1' q2 3. s2 s3 s4 q4 4 q4 q4. - s3' 3' q4 5 - 5 q4' q3' 1 - x q0 q5
+q6 q7 5 - q5' q5' q6 q7 1' q7. q6 s5 s6 5. q3 q4 q5 q6' 5 - q7. s6 s5 q6 5. q3 q4 q5 q6 7 - 1'. q7 q6 s5 s4 q4' q3 q2. s1'
+~ q1' q2 3. s2 s3 q4 q4 4 4 q4. s3' ~ q3' q4 5 - - q5. s5' ~ 5 q7. s7 7 q5. s5' ~ 5 5 - 5 0
+%END

@@ -1,0 +1,16 @@
+%屋子里没有打扫.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49743
+title=屋子里没有打扫
+tag=
+usertag=
+tagroute=
+confidence=0.997
+conf_p10=0.988
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49743
+%--
+2/4
+subtitle=score
+q1 ,7 ,6 1 ,7 ,6 3 3 5 q4 3 2 1 0 3 3 q2 q3 4 3. q2 3. ,6 - q1 ,7 1 q2 3. q1 q,7 ,6. ,6 -
+%END

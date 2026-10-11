@@ -1,0 +1,17 @@
+%小小贝壳_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=37424
+title=小小贝壳
+tag=
+usertag=
+tagroute=
+confidence=0.839
+conf_p10=0.518
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-37424
+%--
+4/4
+subtitle=score
+x q3 q2' q1' q1' 2' - 3' s2' 3. q3 q1' q2' q1' 1' q1' 0 - 1' 1 q2' 0 q3'. s2' - - q1' 2' 3' s2' q2' q2' 1'. - - - - - - s1'
+q1' 1' q1' q2' q1' q1' q1' 1' - - q1' 2' - - 3' - - - -
+%END

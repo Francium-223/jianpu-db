@@ -1,0 +1,20 @@
+%家国春秋路.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=31868
+title=家国春秋路
+tag=
+usertag=
+tagroute=
+confidence=0.969
+conf_p10=0.927
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-31868
+%--
+4/4
+subtitle=score
+x q1 q7 6 - q5 q6 3 - q6 q1 q5 q3 q5 q6 3 - q1 q7 6 - q6 q5 2 - 3 q5 q3 7 6 ~ 6 - - - x 3 - ,6 -
+q1 s1 s1 q1 q,6 1. q2 q5 q6 3 - q6 q5 q5 q6 3 - q2 q3 2 - q0 q3 q,5 s3 s3 s2 1 x s6 q3 s2 s3 1 q2 q2 3 q,5 q,7 ,6
+- - - q1 q7 q6 q6 6 q5 q6 3 - q,3 s3 s5 q6 q1' q5 q3 q2 q3 5 3 - q3 q5 q1' q7 6 q5 q6 2 - q2 q0 q3 s5 s5 s5 q3
+s5 7 - - - q0 q1' s6 q5 5. 6 - - 6 - - 0 q1' q7 5 - q6 q1' 2' - 0 q5 q6 3 - 6 - 0 - 6 - - 0 6 -
+0 0 0 x 1 1
+%END

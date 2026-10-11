@@ -1,0 +1,21 @@
+%宁夏《花儿》美.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=33869
+title=宁夏《花儿》美
+tag=
+usertag=
+tagroute=
+confidence=0.933
+conf_p10=0.626
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-33869
+%--
+4/4
+subtitle=score
+- x 1 x x x qx 5. s1' s6 5. s4 s3 2 q3 q5 1 1 - q2 q2. s5 q2 q1 ,7. q,5 1 - q1 q,5 q1 q2 x x 5 q6 q5 q4 q3 5
+q5 q2 q2 q1 1' q1' q6 5 - - q4 q3 2 5 q,7 q1 q2 q1 - - q,7 q1 2 5 q,7 q1 q2 q,7 1 - - q,7 q1 q2. s5 q2 q1 q,7 q1 q2
+q,7 1 - q1 q,5 q1 q2 5 q6 q5 q4 q3 5 q5 q2 q2 q1 1' q1' q6 5 - - q4 q3 2 5 q,7 q1 q2 q1 - - q,7 q1 2 5 q,7 q1 q2
+q,7 1 - - - 5. q1' 1' q6 q5 q5 q1' q1' q4 4 - x' 3 2. q1' q1' s6 s5 q5 q6 5 - - - 0 x 0 x 0 x x. 0 x 0 x
+0 x x. 5. q6 1' q6 q5 q5 q1' q1' q4' 4 - 2 5 q,7 q1 2 q2 q1 q2 q1 - 2 5 q,7 q1 2 5. q1 q6 5. q4 q3 q2 q1 q,7 q2 s2
+s2 1. 1 - - - q2 q1 q2 q1 - q2 q2 q5 s5 s5 q,7 q1 2 q1'. s1' s1' q7 q6 x' 6 - 5 - - - 1.
+%END

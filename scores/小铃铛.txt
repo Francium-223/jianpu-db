@@ -1,0 +1,18 @@
+%小铃铛.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=45341
+title=小铃铛
+tag=
+usertag=
+tagroute=
+confidence=0.995
+conf_p10=0.994
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-45341
+%--
+4/4
+subtitle=score
+3 4 q5' q5 q5' 5 1' 2' 3' - 3' q3' q3' 5' - 4'. q3' 1 2 3' q3 q3' 3 3 4 5 - 5 q1' q1' 3' - 2'. q1' 1 q3 q2 q1 6 1
+- q1 q1 q1 q1 q1 q1 2 1. s6 6 - 5 5 q5 q7 q7 q7 7 6 5 x q1 q7 q1 4 6 - q6 q6 q6 q6 q6 q6 6 q6. s4 4 - 3
+3 q3 q4 q4 q4 4 4 4 5. q0 3 4 7 q6 q5 5 - 4' - 7 - 1' - 3. q0 1 2 4 q4 q4 4 - 2 - 4 - 3 -
+%END

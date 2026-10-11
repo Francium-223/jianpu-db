@@ -1,0 +1,18 @@
+%小茉莉.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=32823
+title=小茉莉
+tag=
+usertag=
+tagroute=
+confidence=0.889
+conf_p10=0.540
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-32823
+%--
+3/4
+subtitle=score
+4 0 sx hx ,1' 1 1 3. ,,4. 1'. x'. ,1' qx' 1'. - - ,5 - ,4 ,6 ,5 - ,5' - q,6 q,7 q1 q3 q6 q5 2 1 3 2 - 2' q3 q4 5. q6
+q5 q3 q2 q1' ,5 - 0 ,6 q,7 q1 q0 q0 q3 2' 2' q1' q,1' 2' 2 1' - 1'. - 4'. x 4. - 0 - 1' - - 3' x 2 ,5 q,5 q,6 q,6 q,7
+1 0 q3 q2 q1 q,7 q2 1 x 1 1 3 q4 1 5 x q1' q2' 3' 3' q,,1' q,1' 4' q6'. q5' 3'. q1' q1' q1 2' q1' q7 1' - - x. x
+%END

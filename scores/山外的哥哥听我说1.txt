@@ -1,0 +1,19 @@
+%山外的哥哥听我说1.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=18414
+title=山外的哥哥听我说1
+tag=
+usertag=
+tagroute=
+confidence=0.838
+conf_p10=0.468
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-18414
+%--
+4/4
+subtitle=score
+qx 1 0 0 1' - x 1' - - - - - 0 0 - q,1 - - q2. 0 - - - q2 - - 0 0 5 q1 q1 ,3 1 ,6 - - - 3 q3
+q3 5 6 0 6 - - - 3 q3 q3 6 6 q5 q6 q5 q3 3 - 0 q5 0 q1 - 0 0 - 5 0 0 0 - 0 0 0 - - q5 1. 0
+0 - - 5. 0 3. - x 5. 1. 0 x. q1 1' q5. q5. 0 0 0 q5. 0 0 - q5. q2. q3. q0 q,3. 0 q1. 0 0 0 q2. q3. s1' qx 0 5 -
+- - q7 q7 q7 q6 5 q5 q6 6 - - - - - - - - -
+%END

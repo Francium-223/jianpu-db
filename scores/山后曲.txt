@@ -1,0 +1,19 @@
+%山后曲.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48068
+title=山后曲
+tag=
+usertag=
+tagroute=
+confidence=0.990
+conf_p10=0.992
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48068
+%--
+2/4
+subtitle=score
+x ,6 1 2 3 6 6 5 3 2 1 ,6 1 2 2 1 6 5 ,6 ,6 ,6 x 6 6 5 6 5 4 3 6 3 6'. 3 4 2 3 5 3 2 1
+2 3 6 ,6 - ,6 1 2 3 6 6 5 3 2 1 ,6 6 1 2 2 1 6 5 ,6 - x 1 2 1 6 ,6 ,6 1 2 1 6 ,6 ,6 3 6
+5 6 6 5 6 3 5. 3 6 1 6 5 3 3 2 1 - 2 2 6 ,6 - ,6 1 2 3 6 6 5 3 2 1 ,6 1 2 2 1 6 5 ,6
+- ,6 1 2 3 6 6 5 3 2 1 ,6 1 2 2 1' 6 5 6' -
+%END

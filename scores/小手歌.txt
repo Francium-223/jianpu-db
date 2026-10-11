@@ -1,0 +1,17 @@
+%小手歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48594
+title=小手歌
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.996
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48594
+%--
+2/4
+subtitle=score
+3 3 q5 3 1 ,5 5 q6 ,5 - 2 2 3 4 3 2 2 3 2 - 5 4 3 q2 q1 q7 q6 ,5 ,7 1 - 5 4 3 q3 q2 1 5 q4 q3
+q2 q1 7 q6 ,5 ,7 1 -
+%END

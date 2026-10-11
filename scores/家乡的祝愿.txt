@@ -1,0 +1,20 @@
+%家乡的祝愿.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=25254
+title=家乡的祝愿
+tag=
+usertag=
+tagroute=
+confidence=0.960
+conf_p10=0.878
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-25254
+%--
+4/4
+subtitle=score
+q1' q1 qx qx sx 5 4 0 x. x x 6. q3' q2'. q3' q2' 6 - - 0 3. q7 q6 q5 q3 q5 3 - - 0 2 q2 q1 2 3 6 q6 q5 3 -
+5 q5 q3 6 3' 2' - - 0 1'. q7 5 6 6 - - 0 x 6 6' 5 2 2 0 2 3 2 6 6 0 3 3 5 6 3 3 2 1 2 3
+3 q3 q2 - q6 6 q0 5 q6 q5 q3 2 q0 2 q1 q2 5 3 6 - q5 q6 q7' q6 5 6 - - - 6 3' 2' - 3' q2' q3' 2'. 6 - -
+- 3 3 5 6 3 2 3 2 1 2 3 6 3' 2' 3' q2' q3' 2'. 5 - - - 5 q5 q3 3 7 7 - 7 q6' q5 6 6 - - q3 7 6
+6' 3 3 - 6 q5 q6 2' - 2'
+%END

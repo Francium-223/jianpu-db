@@ -1,0 +1,17 @@
+%小公鸡.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=31725
+title=小公鸡
+tag=
+usertag=
+tagroute=
+confidence=0.996
+conf_p10=0.991
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-31725
+%--
+2/4
+subtitle=score
+q2 q2 1 q2 q2 ,6 q2 q2 1 q2 q2 ,6 q2 q2 q1 q1 q2 q2 ,6 q2 q2 q1 q1 q2 q2 ,6 q2 q2 1 q2 q2 ,6 q2 q2 1 q2 q2 ,6 q2 q2
+1 q2 q2 ,6
+%END

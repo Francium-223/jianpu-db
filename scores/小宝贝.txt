@@ -1,0 +1,20 @@
+%小宝贝.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=13754
+title=小宝贝
+tag=
+usertag=
+tagroute=
+confidence=0.954
+conf_p10=0.869
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-13754
+%--
+4/4
+subtitle=score
+- - - 1 x. x x. 1 1 - ,6 q3 q3 3 ,6 ,5 q2 q2 ~ 2 - ,6 1 1 ,6 ,7 - - 0 ,6 q3 q3 3 q5 q6 q5 3 q3 ~ 3
+- ,6 1 1 q2 q3 ,7 - - 0 ,6 q3 q3 3 ,6 ,5 q2 q2 ~ 2 - ,6 q1 q1 1 q2 q3 x. ,7 - - 0 ,6 q3 q3 3 q5 q6 q5 3
+q3 ~ 3 - ,6 1 - - ,7 - ,6 ,5 ,6 - - - ,6 q3 q3 3 ,6 ,5 q2 q2 ~ 2 - ,6 1 1 ,6 ,7 - - 0 ,6 q3 q3 3 q5
+q6 q5 3 q3 ~ 3 - ,6 1 - - 0 ,7 - ,5 - ,6 ,7 - ,5 - ,6 - 0 0 - ,6 1 - - ,7 - ,5 - ,6 x q0 q3 s3 s3
+q5 q5 q,x 2' q5 - - - x
+%END

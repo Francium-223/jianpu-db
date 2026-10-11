@@ -1,0 +1,18 @@
+%小门铃.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48665
+title=小门铃
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.997
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48665
+%--
+2/4
+subtitle=score
+q3 q1 0 q3 q1 0 3 q1 q5 q3 q1 q5 0 1 q2 q3 q1 ,5. 1 q2 q3 q1 ,5 q3 q5 q5 q3 1 2 3 2 - q3 q1 0 q2 q5 0 q3 q1
+q5 q3 q5 0 q2 q2 q2. s5 q2 q3 2 q2 q2 q2. q5 q2 q3 2 q3 q3 q1 q5 q3 0 q5 q5 q5 q3 1 - q5 q5 q5 q3 1 q0 q3 1 0 3
+1 1 0
+%END

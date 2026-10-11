@@ -1,0 +1,18 @@
+%巴山情歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=18442
+title=巴山情歌
+tag=
+usertag=
+tagroute=
+confidence=0.968
+conf_p10=0.962
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-18442
+%--
+2/4
+subtitle=score
+q2 s2 s2' s2 q2 s5 s6 q2 s3 s2 2'. q,6 q2 q2 s1 s6 ,5 q1 x ,x. ,5 q,2 q,5 q,6 s6 s1 2 1' q2 q,5 q1 s6 s5 ,5 ,5 q2 s5 s5 q6 s5
+s6 q5. s3 5 q6 s5 s6 q5 s3 s1 2 2 q2 q5 q5 s2 s3 2 1 x q,6 q2 q2 s1 s6 ,5 ,5 2 q2 s1 s2 5 6 q6 s5 s3 2 - ,5 q,5
+s6 s1 2 - 3 q3 s2 s1 ,6 q2 q2 q5 s6 s5 q3. s2 1 q,6 q2 q2 s1 s6 ,5 ,5 q2 q2 q5 s6 s5 q3. s2 1 q,6 q2 q2 s1 s6 5 5
+%END

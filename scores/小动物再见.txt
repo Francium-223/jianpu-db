@@ -1,0 +1,16 @@
+%小动物再见.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48567
+title=小动物再见
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.999
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48567
+%--
+2/4
+subtitle=score
+1 5 6 0 x - x 1 5 3 0 2 2 2 2 - 4 4 6 0 5 5 5 2 2 4 0 3 3 q3 1 0
+%END

@@ -1,0 +1,18 @@
+%山歌仔.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47513
+title=山歌仔
+tag=
+usertag=
+tagroute=
+confidence=0.998
+conf_p10=0.997
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47513
+%--
+2/4
+subtitle=score
+3 6 3 6 3 6 3 1 3 3 ,1 ,6 6 3 6. 3 ,6 1 3 1 ,6 - 3 6 6 3 q6 q1 1 3 3 6 0 6 q3 6 q1 3 6 6.
+6 3 6 q3 q6. s3 q6 s3 s6 6 3 3 1 3 3 6 3 6 6 3 ,6 1 3 1 ,6 - 3 6 6 3 ,6 1 3 ,3 ,6 0 q6 q3 q6 q1'
+q3 q6 6. 6 3
+%END

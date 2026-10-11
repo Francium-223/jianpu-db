@@ -1,0 +1,21 @@
+%小巷情深.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=13256
+title=小巷情深
+tag=
+usertag=
+tagroute=
+confidence=0.911
+conf_p10=0.608
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-13256
+%--
+4/4
+subtitle=score
+1 - - - ,1 x 1 ,x x x x x 0 x x. 6 6 q6 7 1' 1' 7 6 5 5 ,,6. q5 2 3 - 6 6 6 7 1' 7. q7 7 6 5
+5 5 5 6 6 7 7 5 5. 6' 6 6 s6 s6 q1 s6 3 s6 q1 s6 s6 6 s1 s6 s3 s,6 1 q,6 x 1. ,6 3 2 1 ,7. s1 q,7 ,,6 0 2.
+2 2 ,6 5 5 6 5 2 x 3 0 - - 6 6 6 5 6 5 5 sx 1 4 4 2'. 1 q2 3 3'. 2 2 3 2 1 1 q,7 ,7 ,5 ,6 q,,7
+,6. - 6 6 7 7 7 7 7 6 5 5 6 5 2 3 - q6 6 7' 7 7 7 7 6 s5 6 q5 5 2 3. 3 4 4 4 4 3 2. 4 3.
+2 1 ,1 q2 3 3 3 3 3 3 5 6 7 - - 6 7 1 7 6 1 7 7 6 5 - 5 3 5 7 5 1 - 2. - 6. x. 0 - 6
+- 7 7 6 1 5 7 5 6 - - 7 7 6 5 5 3 5 7 5 6 - 6 - - 6 0 0 0
+%END

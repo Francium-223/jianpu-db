@@ -1,0 +1,18 @@
+%小格桑.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48605
+title=小格桑
+tag=
+usertag=
+tagroute=
+confidence=0.998
+conf_p10=0.996
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48605
+%--
+2/4
+subtitle=score
+5. q1 1 1 6' 5 6 5 5' 3. q6 5 q3' q2 1 1 1' 0 3 3 2 3 q5 q0 5 0 1 q1 6 1 6 0 5 0 1. q1 2 3 6 q1
+5 3. q6 5 3 2 2 2 0 1 6 5 1 6 5 1 2 2 1 6 - q5. q1' q1 q6 q5 q6 3 2. 5 3 2 1 1 1 0 1. 5 1 1
+q1 q0
+%END

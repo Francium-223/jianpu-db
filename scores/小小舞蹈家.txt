@@ -1,0 +1,17 @@
+%小小舞蹈家.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=20499
+title=小小舞蹈家
+tag=
+usertag=
+tagroute=
+confidence=0.988
+conf_p10=0.982
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-20499
+%--
+2/4
+subtitle=score
+s6 s6 s6 s6 q3 q6 s5 s5 s5 s5 q3 q2 s,5 s,5 s,5 s,5 q3 q2 1 1 3. q1 2 q3 q2 5 1 q2 q1 q2 q1 q2 q3 3 q5. s5 q3 q5 q6. q5
+5 q5. q1 q2 q5 5 1 q3. q1 q2 q3 q2 5 6 q6 q3 5 q6. q6 q3 q6 5 s3 s2 q1 q1. s,5 q3 s2 s1 1
+%END

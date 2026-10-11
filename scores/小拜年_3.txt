@@ -1,0 +1,18 @@
+%小拜年_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48230
+title=小拜年
+tag=
+usertag=
+tagroute=
+confidence=0.991
+conf_p10=0.992
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48230
+%--
+2/4
+subtitle=score
+s2 s2 s2 s2 q2 2 1 6 5 5 3 5 5 6 3 2 1 1 6 1 2 s2 s1 q2 q2 1 q6 q5 5 3 5 5 2 5 3 2 1 1 6 1
+,6. 1 2 1 ,6 ,5 1 6 1 2 ,6 ,5 1 6 1 2 ,6 ,5 x q3 ~ s3' s5 q1' q5 s6 q2 x s6 q3 2 x 2 2 2 2 q2 6 6 5
+5 5 3 2 3 2 1 6 1 2 1 -
+%END

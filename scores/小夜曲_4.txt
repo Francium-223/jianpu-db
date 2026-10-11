@@ -1,0 +1,17 @@
+%小夜曲_4.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=13613
+title=小夜曲
+tag=
+usertag=
+tagroute=
+confidence=0.714
+conf_p10=0.344
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-13613
+%--
+3/4
+subtitle=score
+1 0 3 ,1 x x. 1 0 x. x qx q1 x 6 5 x x x 1 x. 1 x x 5 1 7 6 - 5 1. 1 1 7. qx 2 6 1 0 1 0
+2 x 2 1 q1 1 - 0 1 1 7 6 5 0 q1 1 6 x 1 x 2 1' x x 1 x 1
+%END

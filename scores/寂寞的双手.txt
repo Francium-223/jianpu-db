@@ -1,0 +1,22 @@
+%寂寞的双手.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=6981
+title=寂寞的双手
+tag=
+usertag=
+tagroute=
+confidence=0.961
+conf_p10=0.884
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-6981
+%--
+4/4
+subtitle=score
+s6 s6. s7' s1' s3 0 7 - - s6 s7' s1' s3 q6 3. 3 s6 s7' s1' s3 4 - 5'. 6 0 3 - - s6 s7' s1' s3 7 - - 6 1 - - s6
+s7 s6 s5 2 - 1 6 7 - - q7 s6 s6 q3 q3 s3 s2 s1 s2 s1 s2 s5 s3 q3 s3 s5 q6 q6 s5 q6 s5 s5 s3 3 s3 s5 q2 q2 s2 s1
+s1 s2 s3 s3 s5 s3 ~ q3 s6 s7 q1 q1 s7 s6 s5 s6 ,6. s6 s6. 1 s7 s6 s5 s6 ,6. s3 s3 q6 q6 s5 q6 s5 s5 s3 3 s3 s3 q6 q6 s5
+q6 s5 s5 s3 3 s3 s2 s2 s1 2 q2 q1 2 q5 s5 s6 0 3 - - q3 s3 s3 q6 q6 s5 q6 s5 s5 s3 3 s3 s5 q2 q2 s2 q1 s2 s3 s5
+3 s6 s7 1 s1 q2. s7 q,7 s5 s6 s7 ,6. ~ ,6 - 6 - - q6 q7 s1' q2'. ~ 2' s1' q7. q1' s7 s5 6 - - q6 s5 s4 3 - - q1' q1'
+0 6 - - - 5 - - - 4 - - q5 q6 7 - - q7 s6 s6 s6 s7 ,6. ,6. s3 s3 6 7 6. 6. 6 7 1 1 2. 7 7 7 5 7
+6 6 6 6
+%END

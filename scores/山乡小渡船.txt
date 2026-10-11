@@ -1,0 +1,19 @@
+%山乡小渡船.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=21075
+title=山乡小渡船
+tag=
+usertag=
+tagroute=
+confidence=0.937
+conf_p10=0.732
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-21075
+%--
+2/4
+subtitle=score
+1 x x x ,6 - 3. q3 ,6 - 3. q3 q,6 q3 s3 s2 q1 2. q3 q,6 q2 q2 s1 d6 ,6 - q,3 q,6 ,6 q,6 q2 2 q1 q2 q3 q5 q2 3 - q,6
+,3 s,3 ,3 2 q1 2. q3 q,,6 s,2 s,2 2 1 s6 1. 2 ,,3 q,3 q,,6 q,,6 q,6 q,,6 q2 2 q,7 7 ,,6 s,,5 s,6 ,,7 s6 ,6 - q3 5 q6 7 6 - q7 7
+6 q5 q6 3 - q6 q2 q2 q2 x q4 2 q4 q3 q2 3 3 - ,6 s2 s2 q2 q2 q4 2 q4 q3 2 3 3 - q2 q,3 q1 2 2 - q2 3 q,6
+1 1 - ,7. q,6 ,5. q,3 q,5 q,6 ,6 ,6 - ,7. q,6 ,5. q,3 q,5 q,6 ,6 ,6 - 5 - 6 - 6 - 6 - 6 - 6 -
+%END

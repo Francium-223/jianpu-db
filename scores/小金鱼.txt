@@ -1,0 +1,17 @@
+%小金鱼.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48662
+title=小金鱼
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.998
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48662
+%--
+2/4
+subtitle=score
+3. 2 1 q2 q3 5 q6 q1 5 - 6 1 3 5 0 6 1 q3 5 0 3 1 q2 0 q3 q1 2 q0 q5. s5 q6 q5 5 6 1' 5 2. 3 6 5
+3 2 3 5 -
+%END

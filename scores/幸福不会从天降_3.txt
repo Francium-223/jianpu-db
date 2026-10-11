@@ -1,0 +1,19 @@
+%幸福不会从天降_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12847
+title=幸福不会从天降
+tag=
+usertag=
+tagroute=
+confidence=0.986
+conf_p10=0.963
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12847
+%--
+2/4
+subtitle=score
+1 s6 s1 q5 q6 q1 2 q5 s2 s3 q1 q5 2 - q5. s2 q2 q3 q7. s3 q2 q5 q1' s6 s1' q2' q1' 5 - q1' q7 q6 q5 q2'. s5' 2' 1' s6 s1' q5
+q2'. s3' q2' q3' q5' q2' q2' q3' q7. s3' q2' q5 q1' s6 s5 q1' s2' s1' 5 - q5' s2' s3' q2' q5 s7. d1' s2' s3' s2' s1' s7 s6 q5 s5 s6 q1' s2' s1' 5
+- 5 - q5' s2' s3' q2' q5 s7. s1' s2' s3' s2' s1' s7 s6 q5 s5 s6 q1' s2' s1' 5 - q1' q7 q6 q5 q2'. s5' 2' 1 q2 q3 q2. s3 q2 q3 q5 2
+q3 q7. s3 q2 q5 q1 s6 s5 q1 s2 s1 5 - 5 0
+%END

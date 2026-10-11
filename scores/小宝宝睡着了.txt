@@ -1,0 +1,16 @@
+%小宝宝睡着了.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48576
+title=小宝宝睡着了
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.994
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48576
+%--
+3/4
+subtitle=score
+3 5 - 3 q2 1 2 3 q1 q6 ,5 q1 q1 ,6 ,5 q1 3 2 2 - 2 3 1 1 -
+%END
