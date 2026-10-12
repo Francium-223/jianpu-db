@@ -1,0 +1,16 @@
+%拉船歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47794
+title=拉船歌
+tag=
+usertag=
+tagroute=
+confidence=0.998
+conf_p10=0.992
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47794
+%--
+2/4
+subtitle=score
+1 2 2 2 3 3 2 2 - 2. 1 ,6 ,6
+%END

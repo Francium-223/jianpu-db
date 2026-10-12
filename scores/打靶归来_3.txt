@@ -1,0 +1,17 @@
+%打靶归来_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=28302
+title=打靶归来
+tag=
+usertag=
+tagroute=
+confidence=0.991
+conf_p10=0.956
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-28302
+%--
+2/4
+subtitle=score
+2 5 2 5 q3 q2 q1 6 2 - q2 q5 q2 q5 1 7 6 ,5 6 q1 ,5 - 1 7 6 5 6 1 5 q6 q5 1 - 5 q6 q5 q3 q5 2 ,5
+q6 q1 ,5 - q3 q5 q6 q3 5 - q6 q5 q3 q1 2 - 2 q2 q3 5 5 q5 6 q3 5 - 5 - qx q0 qx q0 x 0 x 0
+%END

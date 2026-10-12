@@ -1,0 +1,18 @@
+%摇曳的秋千.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=35550
+title=摇曳的秋千
+tag=
+usertag=
+tagroute=
+confidence=0.928
+conf_p10=0.647
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-35550
+%--
+4/4
+subtitle=score
+qx' q1 qx qx sx q1 3 ,4 ,4 2 x. - x 1 x'. 5 6 q3 2. 0 1 - - - 6 q5 q6 q7' q2' q7 q6 5 - - - 1'. q2' 6 q6 q5
+q5 q3 2 - q2 q3 q2 q1 ,6 q1 q2' 2 - - - 2 q2 q3 5 q6 q5 3 - - 5 6 q5 q6 q7 q2' q7 q6 1'. q2' 7 6 5. q3 5 6
+2' 2' - q7 q6 5. q3 6 q5 q6 2' 7 6 - - - 5 q5 q6 5 q3 q2 1 ,6 - 1 3 q3 q5 q2 q1 q1 q,6 0 1 - - -
+%END

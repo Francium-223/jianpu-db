@@ -1,0 +1,20 @@
+%我要我们在一起.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=25464
+title=我要我们在一起
+tag=
+usertag=
+tagroute=
+confidence=0.935
+conf_p10=0.715
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-25464
+%--
+3/4
+subtitle=score
+- - - 1. 1 0 x x 0 0 0 q1 q,7 q,6 q1 q,7 q,6 q1 q,7 q,6 q1 q,7 q,6 q1 q,7 q,6 q,7 q,6 - ,6 - - - q4. q4. 4 - 2 5 -
+4 3 - - 3 - ,6 ,6 - - 0 3 3 2 - - 2 - - 0 0 1 1 - ,6 ,7 - - ,7 - 0 q,7 q,6 q1 q,7 q,6 q1 q,7 q,6 q1
+q,7 q,6 q,7 q,6 q1 q,7 q,6 ,6 - 1 ,7 - ,6 ,3 - - 0 0 0 q,7 q,6 q1 q,7 q,6 q1 q,7 q,6 q1 q,7 q,6 q1 q,7 q,6 q1 q,7 q,6 - - - -
+- - - - - - - - - - - - - - - - 3. - - - - - - - - - - - - - - 1 - ,6 0 1 ,6 1 - ,6
+,6 1 - ,6 - ,6 - - - - - - -
+%END

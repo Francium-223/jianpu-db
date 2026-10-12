@@ -1,0 +1,21 @@
+%我的梦里开满你的玫瑰.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=24942
+title=我的梦里开满你的玫瑰
+tag=
+usertag=
+tagroute=
+confidence=0.994
+conf_p10=0.985
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-24942
+%--
+4/4
+subtitle=score
+q3 s3 s3' ~ q3' q2 3. s1 s2 q1 s1 s1' ~ q1' q,6 ,5 - q3 q5 q5 q6 0 1. s6 s1 q4 q3 q2 q1 2 - q5 s5 s5 q5 s6 s5 3 q3 q2
+q3 q1 ,6 - q5 s5 s5 q5' q6' 3 q5 q2 q2 q1 q,6 2 - q3 s3 s3' ~ q3' q2 3 s1 s2 q1 q1 q1 q,6 ,5 - q3 q5 q5 q6 0 1 s6 s1
+q4 q3 q2 q1 2 - q5 s5 s5 q5 s6 s5 3 q3 q2 q3 q1 q7 6 - q5 q5 q5 q6 3 q5 q2 q2 q1 q6 1 - q3 q5 q5 q3 5 s1 s1 q1'
+q6 q3 0 5 - q6 q6 q6 q6' q6' q5' ~ q5' q5 q1 s1 s1' q1 q,6 2 - q3 q5 q5 q3 5 s1 s1 0 q6 q5 6 - q2 s2 s2 ~ q2 q6 5
+s5 s6 q7 q7 q6 5 - q3 q5 q5 q3 5. s1 s1 q1' q6 q3 0 5 - q6 q6 q6 q6 ~ q6 q5' ~ q5' q5 q1 s1 s1' q1 q,6 2 - q3 q5 q5
+q3 5 s1 s1 q6 q5 6 - q2 s2 s2 ~ q2 q6 5 s3 s5 q2 2 q,6 1 -
+%END

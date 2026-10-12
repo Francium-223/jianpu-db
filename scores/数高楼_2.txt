@@ -1,0 +1,19 @@
+%数高楼_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48830
+title=数高楼
+tag=
+usertag=
+tagroute=
+confidence=0.936
+conf_p10=0.595
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48830
+%--
+2/4
+subtitle=score
+3 q3 3 q5 q6 1 4 4 4 q3 q1 2 5. 1 q3 q1 3 5 5 q2. s4 3 q5 q1 q1 1 1 5 - 6. q6 5 3 4 q4 q3 q1 2 - 5
+- 6 q6 q5 5 3 3 - 4. 4 3 1 2 2 1 q5 ,5 3 4. 4 3 3 1 x 4 4 3 1 2 2 2 x 1 5. 6 1 q1 q1 1 5.
+q6 2 2 q2 2 4. q4 2 2 2 2 1 1 2 2 2 ,x ,x ,1 ,x ,x 5 5 3 2. q4 q3 q5 q1 1 1 2. 4 q3 q5 1 q1 1 1 0
+qx qx x
+%END

@@ -1,0 +1,19 @@
+%我该怎么办_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=35547
+title=我该怎么办
+tag=
+usertag=
+tagroute=
+confidence=0.950
+conf_p10=0.776
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-35547
+%--
+4/4
+subtitle=score
+qx' q1 q1 q1 q1 4 q0 4 0 x. 7' x 0 x 1 x. 3 3 3 q2 q1 q2 q3 0 0 0 3 3 3 q2 q1 q3 q,6' ~ ,6 0 q0 q,6 2. q2
+2 q2 q1 3. q2 2. q2 q1 q1 q1 q,6 q1 q4 3 3 - - 3 6 - 6 q6 q5 7. q6 6. q3 5. q5 5 q3 q6 q6 q5 5 - q0 q5 4 4
+4. q2 q4 1' q7 7 q6 q6 7. q7 7 - q7 q7 q7 q6 5 q3 q6 6 - - - 6 q6 1'. 6 - 0 0 6 q6 7. 3 - 0 q0 q5 4 q4
+q4 4. q3 2 q3 q4 ~ 4 - q3 q3 q3 q2 q1 q1 q2 q4 3 - - - 0 q3 q3 3 3 3 2' - 7' - 5 -
+%END

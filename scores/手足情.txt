@@ -1,0 +1,17 @@
+%手足情.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15308
+title=手足情
+tag=
+usertag=
+tagroute=
+confidence=0.867
+conf_p10=0.516
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15308
+%--
+4/4
+subtitle=score
+1 - - x. x x x qx 1 0 0 q3 q3 q2 q3. s3 ~ q3 q1 ,5 - - q1 s1 ~ q1 q1 2 q1 ~ 1 - - x - q1' q1' ~ q1' 3
+- q1' q1' - 1' x - - - -
+%END

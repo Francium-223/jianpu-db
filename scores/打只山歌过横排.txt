@@ -1,0 +1,17 @@
+%打只山歌过横排.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47915
+title=打只山歌过横排
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.998
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47915
+%--
+2/4
+subtitle=score
+q2 s2 s6 1 2 - s1 q6 q6 s1 s2 s1 q2 2 1 q6 - q6 q0 s5 s6 q1 q2 2 q5 s5 1 2 - q5 5 q6 q5 q5 s5 5 - q3 q2 s1
+s6 s1 s2 q2 q5 q6 - 1. 6 1 q6 q1 q5 q5 6 6 2 5 6 1' 1' 0 5 6 1 6 1 6 5 3 5 5 6 5 5 5 -
+%END

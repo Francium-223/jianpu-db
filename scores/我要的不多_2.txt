@@ -1,0 +1,24 @@
+%我要的不多_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=41011
+title=我要的不多
+tag=
+usertag=
+tagroute=
+confidence=0.855
+conf_p10=0.460
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-41011
+%--
+4/4
+subtitle=score
+1 - - 1. ,,,x. x 1 x 5 - 5 q3 q5 6. 7 0 q6 1 q2 3 5. 5 7 6. s5 s6 3 0 q6 q1 q3 q2 2 q2 q6 7 q1 0 - q0
+1 2 3 6 5 s5 3 6 5 s5 q6 5 - - 0 q5 q3 s1 s2 s3 3 0 q0 s3 q2 q1 2 3 3 3 q5 s6 s5 q5 5 q1. 3 q6' q2' q2'
+q,1' q,1' q2 s2' d,2' s,6' q2 s5 q,,5' q,,5' q,,1 q,5 d,5. d5'. h6' q2 h1 d1. hx' d5' d5' d,5' d5 q2 h5 h5' qx' q5' q6' q6' q6' q2 q2' q6 q2 q1' q1' d2 d,,1 q2
+2'. 3'. q1 q3 d1 1 s2 s2 s1 s1 s1 s1 s1 q1' q6 h1 h1 q6. q6' 6' 1' 6. ,1' 1' s3 ,,,1' ,5 1' 1 ,x' ,1' h,2. ,5 ,5 1 s3 s,3 s0 s0 0
+d0 d0 2' q0 q0 q0 q0 s1 h1 h,1' q6'. q6 q2 q1' q6 q6' q3 q,,,1 q,,,1 q3' s,,2 q5 h2 s1 q2 q5 q1. h1' h1' s,,5. s5. s5' s6' s5 s5' s5' s1' q5 q1' q,1'
+d,3' d,1 h1' s,5 s5' 1 q5 s,1' s,1' d1 s1 q1 q3 q,2' 2' 2' 0 q6 q0 q0 q3 q5 0 q3 qx q1 q5 0 ,1 0 0 ,,6' ,,1 0 5 5 0 s5 s3 q3
+~ s3 q3 q2 5 3 3 ~ s3 q3 s5 q6 1 1 0 s5 3 ,,3 3 3 3 2 5 3 s5 s1 s6 ,6. ,6 0 2 s2 q2 s2 q2 q2 q3 s2 s1 ,6
+q2 q2 q2 s2 ~ 2 0 q0 2 3 q2. q3 2 0 6 q6 q3 5 - 5 - - 0 5 2 2 2 2 3 2 2 - 0 3 5 2 1 1 - 1
+- 1 - 0 0 1
+%END

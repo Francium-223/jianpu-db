@@ -1,0 +1,17 @@
+%拾豆豆_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48802
+title=拾豆豆
+tag=
+usertag=
+tagroute=
+confidence=0.939
+conf_p10=0.573
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48802
+%--
+2/4
+subtitle=score
+1 - - 1' x x 3 6 5 1 5 6 - 5 3. q5 6 1 4 3 2 3 5 6 q6 5 3 5 1 1 5 6 3 5 q6 1' 6 q5 4 q3
+2 3 5 - 3 5 q6 1 q6 q5 3 5 6 q1 5
+%END

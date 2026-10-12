@@ -1,0 +1,16 @@
+%找朋友_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48787
+title=找朋友
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.998
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48787
+%--
+2/4
+subtitle=score
+q1 q1 q1 q2 3 5 5 5 6 5 3 2 q3 2 3 1 1 5 3 2 1 2 q3 q5 q2 q3 1
+%END

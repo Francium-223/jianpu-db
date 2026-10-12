@@ -1,0 +1,18 @@
+%拥军花鼓_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=45315
+title=拥军花鼓
+tag=
+usertag=
+tagroute=
+confidence=0.941
+conf_p10=0.633
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-45315
+%--
+2/4
+subtitle=score
+q3 5 6 1' 1' q6 q5 q3 q5 q1' 5 - q3 5 q6 6 q1' 6 5 q3 q2 2 q3 2 - 5 x q,7 q,7 5 x ,7 5 q3 q5 q6 1 - q,6 q1
+2 q2 3 q2 q1 q,6 q,5 ,5 ,6 ,5 - q2. q1 q2 3 2. 3 q5. q3 q5 q6 1 - ,6 1 2 2 q1 3 q3 qx q2 1 q6. q,6 q,5 5 ,5 q,6 qx
+,3' ,5 - qx. 5 5 5 5 q6 5
+%END

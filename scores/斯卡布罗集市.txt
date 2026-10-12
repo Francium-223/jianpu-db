@@ -1,0 +1,20 @@
+%斯卡布罗集市.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=18909
+title=斯卡布罗集市
+tag=
+usertag=
+tagroute=
+confidence=0.986
+conf_p10=0.982
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-18909
+%--
+3/4
+subtitle=score
+x q,6 q3 q1 q,7 ,5 q,6 q3 q1 q,7 2 q,6 q3 q1 q,5 ,7 q,6 q3 q1 q,5 2 q,6 q3 q1 q,5 q,7 q,6 - - ,6 - ,6 q3 3 - q3 q,7 q,7 ~ q,7
+q1 ,7 ,6 - - ,6 - - 3 5 6 - 5 3 x 4 2 3 - - 3 - - 6 6 - 6 5 - 3 3 2 1 q,7 q,5 ,5 - ,6 - 3
+2 - 1 ,7 ,6 ,5 ,6 - - ,6 - - ,6 - ,6 q3 3 - q3 ,7 ~ q,7 q1 ,7 ,6 - - ,6 - - 3 5 6 - 5 3 4 2 3 -
+- 3 - - 6 6 - 6 5 - 3 3 2 1 q,7 q,5 ,5 - ,6 - 3 2 - 1 ,7 ,6 ,5 ,6 - - ,6 - - ,7 ,6 ,5 ,6 - - ,6
+- - ,6 - - ,6 - 0
+%END

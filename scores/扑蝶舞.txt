@@ -1,0 +1,17 @@
+%扑蝶舞.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47689
+title=扑蝶舞
+tag=
+usertag=
+tagroute=
+confidence=0.998
+conf_p10=0.991
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47689
+%--
+2/4
+subtitle=score
+1 1 3 5 3 1 1 2 3 2 - 3 1 1 2 3 ,6 - 1 q6 1 2 1 2 1 6 ,5 1. 6 ,5 1 2 3 1 ,5 ,6 ,6 1 2 3
+,,1 6 ,5' 5 1 3 2 q1 2 3 q1 5 6 ,6 q1 s2 s3 s1 d6 ,5 ,5 0
+%END

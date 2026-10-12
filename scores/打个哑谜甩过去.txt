@@ -1,0 +1,17 @@
+%打个哑谜甩过去.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=28301
+title=打个哑谜甩过去
+tag=
+usertag=
+tagroute=
+confidence=0.912
+conf_p10=0.580
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-28301
+%--
+2/4
+subtitle=score
+1 x x'. x' q6 s1 q6 s1 2 q2 s2 s1 ,6 q2 s1 s1 q2 q1 q6 s1 5 6 q1 q1 q6 ~ q6 ,5 q3 q3' s3 s3' s2 q1 q2 q1 s1 s6 q3 s2
+s1 q2 s1 q6. ,5 s5 s6 q1 6 s5 ~ s5 s5 s5 s5 s6 q1 q1 q1 s1 s6 q3' s2 s1 q2 s1 q6. ,5 q5 q6 q1 q5 q6 q5 q6 ,1 ,x 5' q0
+%END

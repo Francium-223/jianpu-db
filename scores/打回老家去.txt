@@ -1,0 +1,19 @@
+%打回老家去.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=50171
+title=打回老家去
+tag=
+usertag=
+tagroute=
+confidence=0.995
+conf_p10=0.995
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-50171
+%--
+2/4
+subtitle=score
+,5 3 2 1 2 3 5 3 ,5 3 2 1 2 3 5 3 2 5 3 2 1 ,6 1 ,6 2 5 3 2 1 ,6 1 ,6 3 2 2 1 ,6 5. 5 6
+5 3 2 2 1 ,6 5. 5 6 5 2. 3 5 5 5 5 6 6 5 - 5 - 5 3 1 2. 3 1 2 ,6 5 - 5 3 5 1. 2 3 6 5
+2. 2 1. 2 3 3 5 5 6 - 6 ,6 ,6 5. 3 2. 3 5. 6 5 ,5 3 2 1 2 3 5 3 ,5 3 2 1 2 3 5 3 5. 3 5. 6
+5 - 5 0
+%END

@@ -1,0 +1,22 @@
+%我这样的男人_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12444
+title=我这样的男人
+tag=
+usertag=
+tagroute=
+confidence=0.922
+conf_p10=0.655
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12444
+%--
+4/4
+subtitle=score
+qx - - x 1 x x q,6 q3 q6 q3 q6 q3 s7 s3 s5 s6 q,5 q2 q5 q2 q6 s2 q3 s5 s3 q6 q6 q3 q6 q3 q6 q3 s7 s3 s5 s6 q5 q2 s5
+s2 s3 s,,6 6. s5 s5 q,6 q3 q3 q5 q6 s5 s3 q0 s2 q1 q2. s2 q,7 s1 s7 ,6. s5 s5 q6 q3 q3 q5 q6 s5 q3 q0 s2 s1 q2. s2 q1 s5 s3 3.
+s3 q3 s7 q7. q7 s6 q5 q6 q7. q7 s5 s5 q5. s5 q2 s3 q4 3. s6 s,6 q,6 q3 q3 q5 6 q5 s3 q0 s2 s1 q2. s2 q7 s6 q,5 ,6. s3 s5 q6 s6
+s5 6 6 s6 s3 s3 s,7 q7 s6 s5 s6 s5 q5 5. s2 s1 q2 s2 s1 2 q2. d6 q5 s3 s2 s1 s2 3. 3 s0 s3 s3 s3 q1 s1 s7 s7 q6 6. s6
+s6 q7 s5 s3 s5 s6 q5 5 s5 s2 s3 s4 q3 s0 q,3 q3 q3 q1 q2 q1 3. s6 s7 s7 s6 s5 s7' s7 s6 6. ,6. s5 s5 s5 q2. q2' q2 q1' s2 2
+h7 h5' s5 h1' s3 h6 q,5 3 ,6. qx q0 q0 0 0 s5. q,,3'. 1' x. q3. 3 h7. q,3' 2'. d6 q2'. d,,1'. q,,,1 q,,,1. h,,7'. s,,,7'. h,6 ,7' h6 q,6 ,6 hx q,7' q1' q1. s6
+q2 s6. ,5' ,7 q6 h5 s5 h6 s3 q1 ,6 3 x. s2 s2 s1
+%END

@@ -1,0 +1,23 @@
+%拨浪鼓_4.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=542
+title=拨浪鼓
+tag=
+usertag=
+tagroute=
+confidence=0.947
+conf_p10=0.862
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-542
+%--
+4/4
+subtitle=score
+qx q1 - - - - 6 - - x' x x x 1. x x x x x x ,x sx sx sx q0 0 q1 s2 q3 q3 - - - 3 - q0 q4 q3 q2 3
+- - - 3 - q0 q4 q3 q2 3 - - - 3 2 ,6 ,5 ,3 - - - ,3 - 3 3 4 3 2 3. q2 1. q,2 3 q0 - - q5 q1 q2 3
+- 3 5 3 2 0 0 0 q1 q2 2 - - - 2 1' 3 0 q0 s6 q1 q2 q3 q5 q3 q2' 2' - 2 0 0 q3 q5 2 0 q0 q0 q1 q3 q5
+q3 q,6 q1 q1 q1 1 q,7. s7' s7' q,7 s7 q4 q4 q4 q5 5 x q3 q5 5 q3 q5 5 q3 q5 q6 q6 q3 q3 2 q1 q2 2 q1 q2 2 q1 q2 q3 q5
+q5 s2' s3' 2 q3 q5 5 q3 q5 5 q3 q5 q6 q6 q3 q3 2 q1 q2 2 q1 q2 2 q1 q2 q1 q,6 q1 q1 1 - q,5 q,6 q,7 q1 q2 q1 q,7 q,6 q,5
+q,7 q2 q,7 ,5 q3 q5. q2. s6 q1 q2 q2 q5 q3 q2 1 - - - x s4 s1 s4 s5 s1' s4 s5 5 x q3 q5 q2. q6 q1 q2 q2 q5 3 q2 1 -
+- - q,5 q,6 q,7 q1 q2 q1 q,7 q,6 q,5 q,7 q2 q,7 ,5 q3 q5 q2. d6 q1 q2 q2 q5 q3 q2 1 - - - q,5 q,6 q,7 q1 q2 q1 q,7 q,6 ,5 - ,5
+- ,5 0 0 0 x x
+%END

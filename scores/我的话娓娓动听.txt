@@ -1,0 +1,19 @@
+%我的话娓娓动听.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49664
+title=我的话娓娓动听
+tag=
+usertag=
+tagroute=
+confidence=0.966
+conf_p10=0.969
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49664
+%--
+6/8
+subtitle=score
+0 q5 q5 q3 q5 q6 1. q1 s3 s2 q3 1 7 6 q7 5 q4 6. 0 q5 q5 q4 q6 q5 s3 q2 s1 q3 2. q0 q3 q2 q1 q,6 s1 q2 3 6 6 1
+q0 5 4 q3 q2 q3 s5 s3 s2 2 s2 s1 1 1. 1. 1. 1. 3 q2 q1 q,6 q1 q2 3 q6 6 q1 5 4 q3 q2 s3 5 q3 s2 2 q2 q1 1 1.
+1. 1. 1. 0 0 0 q1 q1 5 q6 1. 1. 0 1 1 5 q6 2. 2. 0 1 q0 q1 2 q2' q1' q2' 3' 2' s1' q3' s2' q1' 1'. 1'. 0 0 0 1' 1'
+q7 2' q1' q7 1'. 0 7 6 5 3 5 7 6. q0 5 q4 6 q5 3 q2 1 3 2 2. 2. q3 2 1.
+%END

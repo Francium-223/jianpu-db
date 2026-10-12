@@ -1,0 +1,17 @@
+%拥军秧歌_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=38881
+title=拥军秧歌
+tag=
+usertag=
+tagroute=
+confidence=0.936
+conf_p10=0.654
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-38881
+%--
+2/4
+subtitle=score
+1 - - 1 x 1 1. x x ,x q2 q1 q2 q3 2 5 qx ,7 5 qx ,7 1 1 2 1 6 ,5 5 5 3 5 6 1 - 6 1 2. 2 3 2
+1 6 5 3 5 6 5 2. 1 2 3 2 2 3 5. 3 5 6 1 6 1 2. 2 3 2 1 6 5 3 5 6 5
+%END

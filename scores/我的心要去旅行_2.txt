@@ -1,0 +1,20 @@
+%我的心要去旅行_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=46707
+title=我的心要去旅行
+tag=
+usertag=
+tagroute=
+confidence=0.991
+conf_p10=0.987
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-46707
+%--
+4/4
+subtitle=score
+x q,6 q,7 q1 q2 q,6 q,7 q1 q3 q,6 q,7 q1 q2 q,6 q,7 q1 q3 q,6 q,7 q1 q2 q,6 q,7 q1 q3 q,6 q,7 q1 q2 q,6 q2 q1 q,3 s3 s5 ,6 q0 q0 2 q1
+q,3 s3 s5 ,6 q0 0 0 q1 q1 q1 q1 q,7 q,6 q,5 q,6 ,6 0 q0 q2 q1 q,3 s3 s5 ,6 q0 q0 q2 q1 q,3 s3 s5 ,6 q0 0 0 q1 q1 q1 q1 q2
+q1 q2 - - q3 3 - - 0 q3 q3 q3 q3 2 5 3 q2 q1 ~ 1 - q2 q2 q2 q1 ,7 2 1 2 3 - q4 q4 q4 q3 2 5 6 q3 q2
+1 - q2 q2 q2 q2 q1 ,7 q,6 ,6 - 1 2 3. q3 q3 q2 q2 1 q3 2 q0 ,7 1 2. q2 q2 q2 q2 q3 q1 ,6. 0 q0 s6 s7 q1 q,7 q,6 q,7
+1. 7 q1 q2 q2 q,7 q1 2 - q2 q2 q2 q2 q2 5 q3 3 - 1 2 q2 q2 q2 q2 2 ,5 ,6 - - -
+%END

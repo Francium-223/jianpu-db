@@ -1,0 +1,17 @@
+%我等你到天明.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=32100
+title=我等你到天明
+tag=
+usertag=
+tagroute=
+confidence=0.981
+conf_p10=0.962
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-32100
+%--
+3/4
+subtitle=score
+q,5 s5 q1 q2 q3 q2 q1 s3 4 5 - 0 5 2' q2' 1' - - q7 s6 5 4 3 2 1 q3 s4 4 5 6 3 q3 2 3 q2 q1 1 - q0 0
+5 6 5 1' q6 q7 5 7 6 q3 - 5 q3 q4 3 2 3 - - 3 5 1 2 2 3 4 5 6 3 3 2 3 2. 1 1 - -
+%END

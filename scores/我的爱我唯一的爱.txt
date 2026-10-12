@@ -1,0 +1,26 @@
+%我的爱我唯一的爱.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=23690
+title=我的爱我唯一的爱
+tag=
+usertag=
+tagroute=
+confidence=0.946
+conf_p10=0.793
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-23690
+%--
+4/4
+subtitle=score
+q1 0 q4 q1 x x. x x x x s6 q6 s6 s1' s1' s7 s6 6 0 s6 q6 s6 s1' s1' s7 s6 6 0 s6 s6 s2 s5 s6 s7 s6 s5 5 0 s6 q6
+s6 s1 s1 s7 s6 6 0 6 3 - s1 s1 s1 s1 s7 4 - - s5 s6 s1 s1 6 ,2 2 q2 ,2 2. s7. s1 s1 s7 6 - - - s0 s1 s1 s1
+s1' s7 s6 s7' ~ 7 q1 3 s4'. s2 2 - s0 s2'. s2'. s2 s1' s1' s7'. s2' 2 s2'. s2' s2'. q3' q2'. s2' s1' - 1 1 6 6'. 7 1 4 1 6 7 1
+7 3 4. 3 2. 3 4 1'. 6 6' 7' 7' ~ 7 1' 1' 1 1 7 6 7' ~ 7 1' 1' 3 4'. 2' 2' 0 2. 2'. 2' 1' 1' 7. 2' 2 2'. 2
+2'. 3 2'. 2' 1' ~ 1 7 1 6 6' 7' 1 4 1' 1' 6 7 1 7 3 2' 2 3 4. 5 6 1 1'. 2' 1 6' 6' ~ 6 3' 4. 3 2'. 3'
+3 2. 2 3. 2 6 1. 1 1 1 ~ 1 6 0 5 6. 1 1 6 0 5 6 1 6. 5 3 2 ~ 2 3' 4' 3'. 2'. 3' ~ 3 2. 2. 2'. 2'
+2'. 3'. 1' 1' 6 1 5 3 5' 5. 5 6 1' 1'. 2 1 1' 6' 6' ~ 6 s6 s1 s1 s3 s1 s1 s7 s6 s6 s1 s1 s3 s1 s1 s7 s6 s4 s1 s1
+s4 s1 s1 s7 s6 s4 s1 s1 s4 s1 s1 s7 s6 s2 s2 s7 s2 s6 s7 s6 s5 s2 s2 s7 s2 s6 s7 s6 s5 s3 s1 s1 s3 s1' s1' s7 s6 s3 s1' s1'
+s3 s1' s1' s7 s6 3 s4'. s3'. q2 3 s1' s1' 2' s1 s1 s7 7 ~ s7 d6 d7 1 q2'. s3'. s2 2 q6 1 - s1 d3 d4 s5 s6 s7 s1 s1. s2. s3 q4'
+s3' q4 s6 6 - q3' s2' q1'. s3 s6 6 - 7 q1 q2 1 s7 s6 7 - - - s3 q5 s5 q6 s1 q1. ~ s1 ~ s1 s1 s6 q6 6 6 - - -
+q5 s3 5 - 5 6 1 2 3 3. 3' 6' - - 6' - - - 6
+%END

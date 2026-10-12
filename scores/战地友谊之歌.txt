@@ -1,0 +1,23 @@
+%战地友谊之歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14678
+title=战地友谊之歌
+tag=
+usertag=
+tagroute=
+confidence=0.903
+conf_p10=0.590
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14678
+%--
+4/4
+subtitle=score
+- - - x x 1. x. x x x x x x x x ,x. x x x 1 q,6' q,6' q,6 q7 q,7 q,7 q,6 4 3 2 q1 q,7 ,6 - q,6 q,7 q1 q,6 6. q5
+q4 q4 q3 q4 q5 0 3 3' 3 qx. 0 0 sx. x x. s1. s1. qx qx. 1 6. q6 5. q5 q4 q4 q3 q2 q3 q,6 q2 q,6 1. q1 q2 q1 q,7 q,6' 3 -
+- q,6 q,5 x 4. q4 3. q3 q2 q2 q1 q,7 q1 q,6 q,7 q,6 ,6. q,6 q,7 q,6 q,5 q,4 ,3 - - q,6 q,5 1 q1 q2 s1 s7 ,6. q,5 q1 s7 s,6 q,7 ,6 q,6
+2 2 5. q4 q3 q3 q5 q3 4 q3 q2 q1 q1 q1' q1 q1 q,7 q7. q7. s,6 s6 s,x' s,5 6. 6. ,6. d,5 q5 q,5 1. ,1. q1 qx qx q1 q1 q1 s7 s7 s,7
+s,6 q7 q7 q,7 ,6 6. 6'. q1. q1. q,6 2. s,2. 2 q2. q2'. x' ,7. q,7' q,7 q1 s,1 q1. q1 q2 q2 q2 q2 d1. h1. q1 h1 2 q2 2 q1 q,7 1 6. q5 4
+q3 q5 q6 q6 q6 q5 q4 q3 q5 q4 3. q,6 q2 s,7 s,6 q,7 ,6 - - - x ,6. q3 2 q1 q,6 q,6 q,6 q3 q2 q1 q3 q2 1 q,6 q2 s,7 s,6 q,7 ,6
+- - - 1 1 - 7 - 7 s6 s5 q6 q2 q6 q4 3. q,6 q2 q1 s7 s,6 q,7 ,6 - - - x 6 - x 5 - x 5 s4 s3 q4 q2 q4 q2
+1 q,6 q2 q1 s,7 s,6 q,7 ,6 - - -
+%END

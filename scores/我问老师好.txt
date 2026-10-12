@@ -1,0 +1,16 @@
+%我问老师好.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48780
+title=我问老师好
+tag=
+usertag=
+tagroute=
+confidence=0.947
+conf_p10=0.568
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48780
+%--
+2/4
+subtitle=score
+1 2 q1 q2 3 3 2 3 q4 5 q6 q6 q5 5 q4 q4 3 2 2 q3 2 1
+%END

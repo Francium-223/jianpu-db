@@ -1,0 +1,25 @@
+%敞开你的心.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=32670
+title=敞开你的心
+tag=
+usertag=
+tagroute=
+confidence=0.976
+conf_p10=0.966
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-32670
+%--
+2/4
+subtitle=score
+1 - - x'. x' 0 0 0 0 5 5 6 6 3 3 2 6 4 q1 1 5 5 5 x q1' 0 3 s1 s2 q3 q3. q1 ,5 s1 s2 q3 s3 ~ s3 q2.
+1 q1 1 2 x q,5 s,7 s1 ~ 1 q,4 s,7 s1 q0 s2 s1 s2 q3 s,5 ~ ,5 0 0 q,5 s,7 s1 ~ 1 q,4 s,7 s1 q0 s2 s1 s2 s1 s1 s2 3 0
+0 s5 s3 s3 s3 ~ 3 q2 s3 s4 q0 s4 s3 s4 q6 s6' ~ s6' q5. ~ 5' - s5 s3 s3 s3 ~ 3 q2 s3 s4 q0 s4 s3 s3 s3 s3 s5 ~ 5
+~ 5 - x. s6' s6 s6 s6 q6 s5 s4 4 - s5 s5 s5 s5 q5 s4 s3 3 - s4 s4 s4 s4 q4 s3 s2 ~ 2 q0 s3 s4 5 - 0 0 s4 s4
+s4 s4 s4 s,6 q,6 q,6 ,7. s3 s3 s3 s3 q3 s2 s1 1 - s2 s2 s2 s2 s2 s,6 s,6 s,7 ,7 q0 s1 s2 3 - 0 0 x s6 s6 s6 s6 q6 s5 s4
+4 - s5 s5 s5 s5 q5 s4 s3 3 - s4 s4 s4 s4 q4 s3 s2 2 q0 s3 s2 3 - 0 0 s4 s4 s4 s4 s4 s,6 q,6 ,7 - s3 s3 s3 s3 q3
+s2 s1 1 - s2 s2 s2 s2 q2 s1 s,7 ,7 q0 s1 s,7 1 - 0 s1' s1' s2 s2 s,2 s1' s1' s1 x 5 - 5 - 6 - q1' s1' s1' s7 s5 q5 6
+- q0 q5 q4 q3 3 s1 s2 s2 s1 q3. s,5 s5 s3 s2 s1 q2 s2 s2 s2 s,6 s,6 s,6 1 s1 s2 s2 s1 ,6 s1 s2 s2 s1 ,5 s1 s2 s2 s1 1 3
+s3 s2 ~ 2 s3 s4 s3 s3 5 - 5 5 6 - q1' s1' s1' s7 s5 q5 q,6 q3 s2 s,6 s,6 s2 ~ 2 s1 s2 s2 s1 3 s1 s2 s2 s1 q3. s,5 s5
+s3 s2 s1 q2 s2 s2 s2 s,6 s,6 s,6 1 s1 s2 s2 s1 6 5 s4 s4 d3 s3 q1 q3 2 q1 q1. ~ 1 0 0 0 0 0 s1 q1. ~ 1 -
+%END

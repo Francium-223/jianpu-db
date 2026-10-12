@@ -1,0 +1,17 @@
+%收秋.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=44999
+title=收秋
+tag=
+usertag=
+tagroute=
+confidence=0.990
+conf_p10=0.974
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-44999
+%--
+2/4
+subtitle=score
+x 2 5 q4 3 q2 q1 s7 s6 ,5 5 1 s7 s6 q5 q6 q5 q2 ,5 - q5 s5 q5 6 q1 s3 s2 q1 2 q1 s6 q5 q6 q5 q3 2 3 2 5 1
+- 2 5 q4 q3 q2 q1 s7 s6 q,5 5 q1 s7 s6 s5 q6 q5 q2 ,5 -
+%END

@@ -1,0 +1,16 @@
+%数数歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48828
+title=数数歌
+tag=
+usertag=
+tagroute=
+confidence=1.000
+conf_p10=0.999
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48828
+%--
+2/4
+subtitle=score
+5 5 q5 q5 5 q6 q6 5 5 4 3 2 2 1 1 q1 q1 1 4 4 q3 3 q2 q2 q3 2 1 1
+%END

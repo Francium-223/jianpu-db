@@ -1,0 +1,16 @@
+%新四季歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=10207
+title=新四季歌
+tag=
+usertag=
+tagroute=
+confidence=0.986
+conf_p10=0.986
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-10207
+%--
+4/4
+subtitle=score
+5 5 3 q5 q5 6 q6 q5 5 0 3 5 6 q5 q3 2 q2 q3 2 0 1 q2 3 3 2 3 q2 q1 ,6 ,5 q,6 1 q3 q3 2 q2 q3 1 0
+%END

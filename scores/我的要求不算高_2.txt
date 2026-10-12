@@ -1,0 +1,21 @@
+%我的要求不算高_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=20401
+title=我的要求不算高
+tag=
+usertag=
+tagroute=
+confidence=0.990
+conf_p10=0.977
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-20401
+%--
+2/4
+subtitle=score
+q2 q3 3 q3 q2 1 q2 q1 q1 q,6 1 0 q2 q3 q3. s5 q3 q2 1 q2 q1 q1 q,6 1 0 q5 q5 q5. s6 q7 q6 5 q6 q5 q5 q4 5 - q3 q3
+3 q3 q2 1 q2 q1 q1 q,6 1 0 x q3. s2 q3 q2 q3 q2 3 qx qx qx qx x q3 s3 s3 q3 s3 s2 q1 q1 1 q3 s3 s3 q3 q3 qx qx x
+q3 q3 q3 q3 q1 s3 s2 1 q5 q5 q5 s5 s5 q5 q3 5 q1 q,6 1 q5 q5 q5. s6 q3 q2 1 q3 q3 q3 q2 s1 s1 q,6 1 q5 q5 q5 q3 qx qx
+qx. sx qx qx qx qx x q0 qx qx qx qx sx sx qx qx qx. sx qx qx q5 q6 5 s3 q3 s3 q3 q2 s1 s1 s2 s2 1 x qx qx s1 s1 s1 s6
+q1. sx qx sx qx qx s3 q3 s3 q3 q3 q1 q2 1 s5 q5 s5 q5 q5 q5 q3 5 s3 q3 s3 q3 q2 q1 s1 s6 1 q5 q5 q5 q3 q5 q3 q5. sx qx
+qx qx qx x 0 s6 s5 q4 q4 4 q5 q5 q5. s6 q3 q2 q1. s1 s6 s5 q4 q4 q4. s4 q5 q5 q5 q5 q3 s3 s2 1 s6 s5
+%END

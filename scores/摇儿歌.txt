@@ -1,0 +1,17 @@
+%摇儿歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47610
+title=摇儿歌
+tag=
+usertag=
+tagroute=
+confidence=0.995
+conf_p10=0.990
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47610
+%--
+2/4
+subtitle=score
+5 5. q5 q3 2 s3 3. q3 s2 1 s5 5. 5 s3 q2 q2 3. - 1 5 5. q5 3 s2 s3 q3. 3 2 q1 5 5. 5 3 2 2 3. 2 5 5. 5
+3 2 2 3. 1 4 q3 3 5 - x
+%END

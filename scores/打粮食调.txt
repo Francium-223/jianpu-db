@@ -1,0 +1,17 @@
+%打粮食调.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48015
+title=打粮食调
+tag=
+usertag=
+tagroute=
+confidence=0.935
+conf_p10=0.691
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48015
+%--
+2/4
+subtitle=score
+1 1. x x. 2 4 ,6. 6 1 2 3. 5 6 - 6. 7 6 6 5 3 4 3 5 5. 5 4 2 3 2 3 2 - 2 - 2 0 0 4 3 ,6.
+1 2 5 3 3 5 4 2 6 - 6. q7 6. 6 5 3 5 - 3 2 3 3. 5 3 2 3 3 2 - 2 - 2 0
+%END

@@ -1,0 +1,21 @@
+%找个朋友.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12420
+title=找个朋友
+tag=
+usertag=
+tagroute=
+confidence=0.902
+conf_p10=0.568
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12420
+%--
+2/4
+subtitle=score
+1 - - 1' ,,x' ,x 1'. ,x ,,x x 1' x x x x x x x x x x sx x x qx x x x sx ,x x 1 x x' qx x' qx qx' qx qx
+x x x' 5' - 1 5 5' 5. 5' 5' - 5' - 5' - 5' - 5' - 5' - 5' 3' 3' q4' 5' 5' - 4' q3' 4' - 4' 3' 2' 2' 2' - 2'
+0 3. 5 6. 5 ~ 5 0 3. 5 5 5 5 5 6 1 - 2. - 5' 1' x' 4 4 x. 4 4 0 0 0 0 x. q,,3 x'. 1' 1'. q2 1'. x' 1
+1' x' 2'. 1. 1'. 3'. 3 ~ 3 0 0 0 0 0 0 3 5'. 6. 6 q7 3 - q4 4 4. 4 4 3 3 1 2. 3 3. ~ 3 s3 5. 6. 6 7
+3. q5 5 q4 4 4 q4 4 ,4 q4 1 5 q5 5 q6. 5 5 q3 5 6. 7 7. 6 6. 5 5. 5. q5 4 4 q4 4 q3 1 1 q2 s3 2 2 1
+2 2 5 5 5 4 q4 4 q4. q3 3. 2 ~ 2. s1 1 1 -
+%END

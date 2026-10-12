@@ -1,0 +1,17 @@
+%数乖乖.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47563
+title=数乖乖
+tag=
+usertag=
+tagroute=
+confidence=0.981
+conf_p10=0.975
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47563
+%--
+3/4
+subtitle=score
+1 - - 3 4 1 4 q2 q2 q3 5 q5 q3 q1 q2 q3 2 q1 q1 q2 5 q5 q3 q1 q2 q3 2 q3 q2 q2 q1 q2 3 1 3 2 6 1 q,6 ,5
+6 6 1 2 2 q1 6 1 2 ,6 1 5 6 ,5
+%END

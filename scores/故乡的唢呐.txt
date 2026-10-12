@@ -1,0 +1,22 @@
+%故乡的唢呐.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=26918
+title=故乡的唢呐
+tag=
+usertag=
+tagroute=
+confidence=0.987
+conf_p10=0.977
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-26918
+%--
+4/4
+subtitle=score
+1 - - - x x x q0 s2' s2' q2' q2' s2' s3' q2' q2' q6 q1' 2'. 0 0 q0 s2' s2' q2' q2' s2' s3' q2' q2' q1' q2' 6. 0 0 q0 s2' s2' q2' q2'
+s2' s3' q2' q2' s6 ~ s6 q1' 2'. 0 0 q0 s2' s2' q2' q2' q5' q2' q1' q7 q2' 6. 0 0 q0 s5 s5 q5 q5 q5 q6 q5 s2 ~ s2 q5 6. 0 0 q0
+s6 s6 q6 q2' q2' q6 q2' s1' ~ s1' q6 5. 0 0 q0 s2' s2' q2' q2' s2' s3' q2' q2' q6 q1' 2'. 0 0 q0 s2' s2' q2' q2' s2' s3' q2' q2' q1' q2' 6.
+0 0 q0 s2' s2' q2' q2' s2' s3' q2' q2' q6 q1' 2'. 0 0 q0 s2' s2' q2' q2' q5' q2' q1' q7 q2' 6. 0 0 q0 s5 s5 q5 q5 q5 q6 q5 s2 ~ s2
+q5 6. 0 0 q0 s6 ~ s6 q6 q2' q2' q6 q2' s1' ~ s1' q6 5. 0 0 2 s2 s5 s3 s2 1 s1 s1 s2 s3 6 s6 s2 s3 s6 2 - 2 s2 s5
+s3 s2 3 s3 s2 s3 s2 1' ~ s1' s1' s2' s3' 6 - q0 s5 s5 q5 q5 q5 q6 q5 s2 s2 q5 6. 0 0 q0 s5 s5 q6 q2' q2' q6 q2' q1' q6 5.
+0 0
+%END

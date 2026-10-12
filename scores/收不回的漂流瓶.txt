@@ -1,0 +1,24 @@
+%收不回的漂流瓶.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=29498
+title=收不回的漂流瓶
+tag=
+usertag=
+tagroute=
+confidence=0.979
+conf_p10=0.946
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-29498
+%--
+4/4
+subtitle=score
+x q0 s5 5 3 s1' 1' - - q1'. s5 s5 s3 s2 3 - - - x 5 q0 s6 q5 s3 s3 s2 q3. 1 q0 s1 q6 s6 s7 s1' q1'. 4 q0 s4 q3 s2
+s1 ~ q1 s2 s3 ~ 3 - 0 0 5 q0 s6 q5 s3 s2 ~ s2 q3. 1 q0 s1 q6 s6 s7 s1' q1'. q4 s4 s3 ~ s3 q4. q3. s2 ~ q2 s1 s7 1
+- 0 q3 q5 6 q0 s6 q5 q3 q2 s1 s3 ~ 3 - 0 q2 s3 s4 ~ 4 q0 s6 q5 q5 s5 q7 s3 q3 q3 ~ 3 0 q3 q5 6 q6 s6 s7 ~
+7 q7 s6 s5 5 q1' s1' s1' ~ 1' q0 s5 6 - q0 s6 s6 q6 s5 s4 5 - - - 5 q4 q3. s3 q6 s7 s1' 1' - - q1' s1' s7 q6 s6 s6
+q6. s1 q6 q5 s5 s4 s4 s5 ~ 5 - - q3 s2 s1 1 - 0 q1' q1' 7 q7 s3 s5 ~ 5 q0 s5 q6 s5 s6 ~ q6 s5 s6 ~ q6 s5 s6 q1'
+q1' q2'. q2' ~ 2' - q0 s1 5 q4 q3. s3 q6 s7 s1' ~ 1' s2' s1' 1' q1' s1' s7 q6 s6 s6 q6. s1 q6 q5 s5 s4 s4 s5 ~ 5 - - q3 s2
+s1 1 - q0 s1 q1' q1' q7 q7 q7 s3 s5 ~ 5 q0 s5 s5 q6 ~ s6 ~ s6 ~ q6 s1' s1' q7'. s7 q7 s6 s7 q1' q1' 1' - - - - - q3
+q5 q6 ~ q6 ~ q6 q6 q6 q1' q7'. q7 s7 q7 s6 s7 1' - - 0 0 q0 s5 s5 q6 s6 s6 q6 s1' d1' 7. s6 s5 q0 s1 q7 s6' s7' 1' - -
+- - 0 ~ 0 0 0 0
+%END

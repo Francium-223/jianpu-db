@@ -1,0 +1,17 @@
+%抗日将士出征歌_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=9043
+title=抗日将士出征歌
+tag=
+usertag=
+tagroute=
+confidence=0.976
+conf_p10=0.885
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-9043
+%--
+2/4
+subtitle=score
+q5 q5 q6 q1' 5 - q1' s6 s5 q3 q5 1 - q5 6 1 q3 q1' q6 q5 q5 q2 q5 s3 s2 1 - q1. s2 q3 q3 q2 q5 s3 s2 q1 q2 q2 q3 q3
+q2 6 q1 6 ,5 - q1. s2 q3 q3 q2 q5 s3 s2 q1 q2 q2 q3 q3 q2 q6 q1. s6 5 -
+%END

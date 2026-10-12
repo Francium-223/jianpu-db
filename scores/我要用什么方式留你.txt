@@ -1,0 +1,20 @@
+%我要用什么方式留你.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=11846
+title=我要用什么方式留你
+tag=
+usertag=
+tagroute=
+confidence=0.894
+conf_p10=0.570
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-11846
+%--
+4/4
+subtitle=score
+q0 qx 3 4 6 0 5 6 5 5 ,3 ,,4 5 6 ,5 5 3 4 q,,1' 1 0 s5 q1 q4 q,5 q5 6 6 5 q5 3 ,4 ,4 q5 q5 x'. 6' x' 6' ,5
+5' x'. 5' 5 q1 3 ,3'. 4' 4' 5 1 1 1 1 1 0 2 ,3 4 ,5 6 6 7 5 - 7. ,,1 2 1 7 1 1 0 q1 7. 6 5 4 5 5
+1. 3 2 1 2. 3. - - - 2 - - 0 q3 q4. q,,,7. ,6 q5 q4 5 1' 1' 1' 2' - - - 2' - - 0 q5 3' q0 q,,2' q2' s1' 2'. s3' 3'
+5 6 6 0 - 0 5 3' q0 ,,2' s2' s1' 2' 3' 5' 4' 1' 0 0 6 4'. 4' 4'. q3'. - 7. ,1' 2' 1' 7 1' x' q0 s5 s5 s5 q6 1' q1' 1'.
+6 6. 3 6 5 5 5 2' 5 5 5 5 - 0 5 1. q5 5' 1' x 5 6 1. 5'. 0 2'. 3' 2'
+%END

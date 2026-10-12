@@ -1,0 +1,16 @@
+%拉木鼓歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47432
+title=拉木鼓歌
+tag=
+usertag=
+tagroute=
+confidence=0.998
+conf_p10=0.995
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47432
+%--
+2/4
+subtitle=score
+3 2 2 2 ,6 ,6 ,6 2 2 ,6 3 3 2 ,6 ,6 ,6 ,6 3 q3 3 2 q,6 2 2 2 3 q3 3 2 ,6 ,6 ,6 ,6
+%END

@@ -1,0 +1,22 @@
+%打工在外头.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=25272
+title=打工在外头
+tag=
+usertag=
+tagroute=
+confidence=0.939
+conf_p10=0.778
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-25272
+%--
+4/4
+subtitle=score
+1 - - 3 x x x. 1' - - - x 5'. q3' 1' 1' - 6 q2' 3' q2' q1' 5 - - 0 q3 q5 2' - 2' q5 q3 5 q1' - - - x ,5
+,5 ,5 ,5 ,5 ,5 ,5 ,5 5' - 3' 2 q3' q2' q1' 6 5 5 - - - 3' - 2' 6 q6 5 3' q2' 2' - - - q3'. q3' 2' 3' 3' 2' 3' 3'
+2' 0 5 3 5 2' 1' - - - 0 0 0 0 0 0 0 0 0 x q6 q5 q6 5 0 q3 q6 q5 5 0 q3' q3' q2' q3 q3' q2' q3 q5 q5 6
+5 0 3 q3 q2 q3 3 0 q5 q5 q2 q1 2 2 0 5 q5 6 q1 q6 q1 0 1 q6 q5 q5 q3 q5 5 - - - q7 q7 q7 q7 q6 q5 6 q2'
+q2' q2' q7 q0 q7 3 q0 q2 q2 q3 q5 5 5 3 7 - - - 6 q6 5 q3 2' 2' - - - x 0 0 0 0 x 2' q3' 2' - q3' q3' q2'
+q3' q3' q2' 6 - - - 2' 3 2' - q3'. q3' q2' q3' q3. q1' q1' q3' q3' 1. 0 5 3 5 2' x - - - 0 x 5 5' - - 5' 0 0 5
+2' - - 1' 0 0
+%END

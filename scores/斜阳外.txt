@@ -1,0 +1,21 @@
+%斜阳外.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12301
+title=斜阳外
+tag=
+usertag=
+tagroute=
+confidence=0.796
+conf_p10=0.443
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12301
+%--
+4/4
+subtitle=score
+x qx - - 1 1 1' x' x' x x' x q6 s7 s1 3 - - 3 2 s3 s2 s1 s2 s1 s,7 s1 s,7 s,6 s7 sx - - 0 2 - - s2 3 2
+1 ,1 ,5 ,6 - 0 - 6 x 2 3 - 2 1 1 2 ,7 ,x - q0 q,,x. ,7 1 s1 s0 3 q1 q,6. x' x ,7 - 3 5 q4 qx 4 - 4 4
+3 s2 s1 q2 3 q0 s3 - s2 s,x 0 ,1 7 qx ,6 - 0 6. s6 q,,6 s3 s2 3. 3 ,6 q5 5 6 x q4 s4 4 4 q5 q5 6 5 2 2 4
+,,4 q3 x - - 1 2 0 q,,x. 4 - - - 3 x s5 6 7 0 s,1' q7 x - 0 x q6 s1 q2 qx sx q,2' 3. 1 qx s1 q,,,x 2 q3 s2 q1
+,7 - - s7 s1 qx ,,3 2 3 4 3 s1 s1 q2 3 2. 3 2. 1 0 q1 s3 s7 ,x x 3 3 2 6 - 6 x'. s7 q1 2 3 2 q4 x. s7
+s1 q2 q,6 s,x q1 2. 2. 1 ,x - 1 ,3 ,x ,6 x
+%END

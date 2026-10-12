@@ -1,0 +1,20 @@
+%战士.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=20802
+title=战士
+tag=
+usertag=
+tagroute=
+confidence=0.879
+conf_p10=0.501
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-20802
+%--
+6/8
+subtitle=score
+qx 1 - - - - 1 6 2 6 1 x ,6 ,6 ,6 ,6 q3 qx 7 1 q7 ,6 ,6'. q,6 q2 q2 2 q6 q4 q3 q2 3. 3 0 q2 q2 q2 q,6 q2 q2
+q4 3 3 q,,6 1. q,7 q,7 q,7 q,7 ,7 q,7 q,5 q1 q2 qx q1 q,6 6 ,6. ,6. ,6. q1 q2' q2 q1 q6 0 ,6. ,6. ,6 0 x 1' q1' q1' 1' qx q7 q7 q6
+q7 6 6. 5' 5 q6 q7 q7. q7 q6 q,7 q7 q6 q5 3 3. 1' q1' 1' q1' q7 q7 q6 q7 6 6. q5 q5 q5 q6 7 q5 q2' q2' q1' 6 6. 0 1' q2'
+q1' 1' q1' qx q7 q6 q7 6 6. 5 5 q5 q6 7 q6 q7 q7 q6 q5 3 3. 1' 1' 1' q1' q7 q6 q7 6 6. 5' 5 5 6 q7 7 2' 2' q2' q1'
+6. 6 6 q0
+%END

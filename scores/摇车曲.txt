@@ -1,0 +1,17 @@
+%摇车曲.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48000
+title=摇车曲
+tag=
+usertag=
+tagroute=
+confidence=0.998
+conf_p10=0.995
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48000
+%--
+3/4
+subtitle=score
+1 2 3 3. 2 1 2 q3 q2 1 6 1 1 1 1. 0 1 2 3 2 2 1 2 1 q2 3. q3 q5 q3 q2 3 0 3 3 2 1 - 2 - 2
+q1 q2 1 - 0
+%END

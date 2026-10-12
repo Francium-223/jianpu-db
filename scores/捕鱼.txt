@@ -1,0 +1,16 @@
+%捕鱼.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48804
+title=捕鱼
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.998
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48804
+%--
+4/4
+subtitle=score
+q5 q6 q5 q4 q3 4 5 q2 q3 4 q3 4 5 5 6 5 4 q3 q4 5 2 5 3 1.
+%END

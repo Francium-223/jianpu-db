@@ -1,0 +1,17 @@
+%抗拨兵.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=28305
+title=抗拨兵
+tag=
+usertag=
+tagroute=
+confidence=0.943
+conf_p10=0.622
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-28305
+%--
+2/4
+subtitle=score
+1 - - - x x'. x' q1' s1' s6 q5 q4 q5 q1 2 q1' s1' s6 q5 q4 q5 q1 2 q1' s1' s1' q1' q2' s1' s1' s1' s6 5 q4 4 q2 6 ,5 s6 q5
+5 q4 q2 q1 q2 s2 s7 s6 ,5 -
+%END

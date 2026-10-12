@@ -1,0 +1,18 @@
+%撑起小花伞.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48823
+title=撑起小花伞
+tag=
+usertag=
+tagroute=
+confidence=0.972
+conf_p10=0.918
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48823
+%--
+2/4
+subtitle=score
+1 - - x' x x x 5 q5 q5 5 q4 4 q4 q4 3 3 q3 q3 q2 q2 q2 q2 q1 q2 s3 s4 5 6 7 1 0 q5 q5 5 q5 5 5 6 4
+4 4 3 2 5 5 q4 4 4 q6 q6 6 q2 q2 2 q5 q5 5 2 q2 q6 5 q3 q0 q2 q0 1 - 1 0 q5 5 q5 q5 4 q4 q4 q4 q3 3
+q3 3 2 q2 q2 q2 q1 q2 q3 q4 q5 q6 7 0
+%END

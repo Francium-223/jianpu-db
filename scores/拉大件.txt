@@ -1,0 +1,16 @@
+%拉大件.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47676
+title=拉大件
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.994
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47676
+%--
+2/4
+subtitle=score
+q2 s2 q2 q2 q2 2 q7 q6 q5 6. q5 q6 q5 3 q1 q1 q1 q1 q6 s1 6 q5 q3 3 5. q3 2 -
+%END

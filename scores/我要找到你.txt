@@ -1,0 +1,19 @@
+%我要找到你.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=21580
+title=我要找到你
+tag=
+usertag=
+tagroute=
+confidence=0.967
+conf_p10=0.853
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-21580
+%--
+4/4
+subtitle=score
+1 1 3 x 1 1' 0 6 6 6 6 q6 q5 q5 q3 5 q3 q2 2 q1 q6 q1 q2 q3 q3 3 - 0 3 5 q6 ,6 6 6 6 q7 7 6 6 q5
+5 - 6 5 3 5 6 6 q6 6 3'. q3'. q2' q2' q7 q7 q5 x. 6 q5 q3 q1' q7 q5 q6 q6 q5 q6 q5 6 q0 q3 1' 7 6 5 6 6 5 3
+2 3 5 5 - 1' 7 6 5 6 5 3' 3 - - 0 1' q7 q6 q5 6 q6 q5 3 2 3 7 7 - 6. q5 q3 q6 q5 q3 6 5 6 - 0
+0 3 q1' 0 q7 q6 q1' q7 q5 q1' q7 q6 q6 6 - - 6 0 0 0
+%END

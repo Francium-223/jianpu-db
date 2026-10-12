@@ -1,0 +1,21 @@
+%放手_4.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=7851
+title=放手
+tag=
+usertag=
+tagroute=
+confidence=0.885
+conf_p10=0.539
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-7851
+%--
+4/4
+subtitle=score
+d6 d6 s6 q5 q5 d5 h5' s7 s5. s5 q7 h5 d6' 1 q,1 q5 5' d1 ,1 ,1 ,5 d1 d1' 1' d3 q0 0 s0 s0 s5 q0 d0 q0 q0 s5 d3 d3' q3 s3' d1
+s3' d2' s2 s2 s6' d1 q2 s2. s2 s1 s1' q3 0 ,6 d0 q6' q6' d0 q0 q6' 0 q5' q1 q2 d1 s5' s5' s1' d1 d1' q1 d1' q5' d1 d1 q1' s1 1' q1 q1
+1 s1' s3 q3 q0 s0 1 4 0 0 s0 0 q0 d,5 d2 s2 s2 s1 q2 5 q6 s2 q2 q5 5 0 q0 0 q0 q0 q7 q7 q7 7 6 5 q5 q6. s6 6
+6. s6 q6 q3 5 - q0 q5 q5 6 ,1' q1 s1' q6 q6 q6 3 s5 s6 5 q0 q3 q3 q5 6. q6 q6 q6 6 2 3 - q0 q3 2 1 q1 q6 6 0
+6 q6 q6 q3 5. q0 q5 q5 q5 6 1' q1' 6 q3 q3 6 q5 q5 5 q0 5 5 q6 q1' q1' 1' 0 q6 q6 q3 s5 s6 5. q0 q3 q3 q5 6. q6 6
+6 q6 q2 3 - q0 3 2 q1 q0 q6 6 6 0 q6 q6 q3 q3 5 6 0 q5 q5 q3 q6 s1' s6 6 - q0 6 1' - - - 1' 0 0 0
+%END

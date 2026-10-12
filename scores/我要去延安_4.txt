@@ -1,0 +1,19 @@
+%我要去延安_4.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=31860
+title=我要去延安
+tag=
+usertag=
+tagroute=
+confidence=0.983
+conf_p10=0.968
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-31860
+%--
+2/4
+subtitle=score
+q2 q5 5 - q3 q2 q2 q1 q,6 q6 ,6 - q,4 q5 q,6 q3 2 q1 q,7 ,6 - - - q2 q5 5 - q3 q2 q2 q1 q6 q5 ,5 - ,5 - q4 q5 q6
+q2 ,5 q4 q3 ,2 - ,2 - q2 q5 5 5. s5 s6 q4 q3 2 2 - q1 q2 q3 q1 ,5 - - q,5 q,2 ,5 - - - q2 q5 5 5. s3 s2 q3 q2
+1. q3 ,6 - q,5 q,6 q,6 q,2 ,5 - q,4 q3 ,2 - - q2 q6 q6 q2 q2 q5 q5 q2 4. q3 q4 q2 2 2 6 6 2 2 5 5 2 1 6 1 5
+5 4 5 6 3 2 1 7 6 q,4 q,5 q,6 q2 ,5 q,4 q,3 ,2 - - -
+%END

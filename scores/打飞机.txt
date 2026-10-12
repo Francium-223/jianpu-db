@@ -1,0 +1,21 @@
+%打飞机.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14011
+title=打飞机
+tag=
+usertag=
+tagroute=
+confidence=0.729
+conf_p10=0.392
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14011
+%--
+2/4
+subtitle=score
+s,6 s6 3 q6 3' s2' s7 ,6 5 3 q1'. q1'. q1' s7 s7 6 6 5 6 3 2 3 q5 1 q7 6' 1. 2. 3. 4. 3 x' 1 2 2' 2 x 1 1 1'
+1' x 2 2 q3 3'. 3'. 3'. 2' ,1' 7 7' 7' s7 6 5' 5 q1' 1' 6. 3' s1 q7 q7' q7 qx' q6 5' 5' 5' 5 3. 3'. s5 d5 2 1. 1'. 1'. 1'.
+1. 2'. 3. 4. 1' d1' 1' x' ,4 ,3 3' 3 3' 3' 2 x x' x' x 1 1 s1 s1' ,1' 2 2' 2 x x'. x q,3' q1 q6 1'. q,x' q,1'. q,5 q3 s,x x
+x 2 s2 s3 s5 s5 5 7'. 7'. 7'. 7 6' q6 q5 q5 1 6. x'. x 6'. s1 s1 q1 6 s1 ,6 ,1 q2 q3 q3 q3 q3 q3 q3 s6 q7 6 q5 x 1'.
+2. 3'. 4. x x' x' x' x' x' x' x 1' x' qx qx qx ,x ,x' 1 x' x' q1 qx q1 x' 1 1' x' qx q1 qx x' 1 1' x' q1 q1 q1 1 x'
+x' 1' q1 q1' qx x x' x' x' 2 1 -
+%END

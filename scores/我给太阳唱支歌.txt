@@ -1,0 +1,17 @@
+%我给太阳唱支歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48776
+title=我给太阳唱支歌
+tag=
+usertag=
+tagroute=
+confidence=1.000
+conf_p10=0.999
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48776
+%--
+2/4
+subtitle=score
+q5 5 q6 6 5 5 3 4 4 q3 2 1 1 1 6 6 5 q6 5 1 1 7 6 5 - 1' 6 4 6 0 q5 5 4 3 2 0 2 2 7 q7
+6 5 1 1 1
+%END

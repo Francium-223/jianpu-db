@@ -1,0 +1,17 @@
+%拨浪鼓_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48801
+title=拨浪鼓
+tag=
+usertag=
+tagroute=
+confidence=0.998
+conf_p10=0.995
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48801
+%--
+2/4
+subtitle=score
+3 3 1 q3 q3. 3 3. 1 1. 0 4 4 2 - s4 q4. q4 q4. q2 2. 0 3. 5 5 3 6 0 6 0 5 6 6. 6 6. 5 5. 0 5 ,5 q1
+1 s3 3. q5 q5. 3 ,5 2 2 1 1 0
+%END

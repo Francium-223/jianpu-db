@@ -1,0 +1,19 @@
+%拯救地球_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=30544
+title=拯救地球
+tag=
+usertag=
+tagroute=
+confidence=0.983
+conf_p10=0.959
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-30544
+%--
+4/4
+subtitle=score
+q0 s3 3 s3 s3 3 6 s5 s5' 6' 5 q5. 5 q6 q6 5 q5 6 ,5 s2 q3 q0 s,6 s6 ,,6 s,6 ,6 ,1 s,7 s7' ,1' 7 q0 7 q1 q1 ,6 s6' s1' 5
+~ ,5 - q0 3 s3 3 3 ,3 s6 ,5 5' s6' 5 q5. 5 q6 q6 5 q5 6 s5' s2 q3' 3' q0 6 6 6 6 6 ,1 7 ,1' 7 q0 5 q3 q2 s1
+q2. 2 q6 q5 4 4 4 4 ,4 q4 3 ~ 3 q6 q5 ,4 4 s4 4 4 q5 5 5 x q5 q5 1 1' q1' q2' q7 s6 5' 3' q3' s2' ,1' q0 3' q3'
+4' 2' q5 q5 1 q1 q2 q7 s6 5 q5. q,3 q3 2 s1 q0 s3 q3 s4 s2 2 2 - - 0
+%END

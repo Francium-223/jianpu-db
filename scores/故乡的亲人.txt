@@ -1,0 +1,17 @@
+%故乡的亲人.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=25785
+title=故乡的亲人
+tag=
+usertag=
+tagroute=
+confidence=0.922
+conf_p10=0.586
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-25785
+%--
+4/4
+subtitle=score
+x 1 1' x. x' x'. 3 - q2 q1 q3 q2 q1. s1 1' q6 1'. 5 - 3 1 2 - - 0 3 - q2 q1 q3 q2 1 q1'. s1' q6 1'. 5 q3. s1 q2.
+s2 2 1 0 7. q1' 2' 5 5. q6 5 1' 1' 6 4 6 5 - - 0 3 - q2 q1 q3 q2 1 1' q6 1'. 5 q3. s1 2 2 1 - - 0
+%END

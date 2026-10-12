@@ -1,0 +1,21 @@
+%把我的真心留给你.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12084
+title=把我的真心留给你
+tag=
+usertag=
+tagroute=
+confidence=0.937
+conf_p10=0.660
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12084
+%--
+4/4
+subtitle=score
+1 - - - 1 x 1. x x' 1 1 x 1 x x. x' x q1 q1 ,5 q3 q,5. 3 q,5 4 3 2 3 - - q2 q,1 ,7 1 - - q1 q,1 0 q1
+s1 2 s3 0 q,5 ~ ,5 0 q,6 s1 q,1 0 q,,6 2 3 s,,2 s,,,6 1 1 q0 s6 s,7 1 0 ,6 x' qx q,1. q,6 s,,3 s,,,5 5 - - 4 3 2 q3 0 s5
+s,5 ,5 - q,6 s1 s1 s,6 2 2 5 1 1 0 s,,,6 s,7 1 q0 s,6 q,7 q1 q,7 q,,6 s7 q1 1 - 0 q1 s7 q,,6 6 3 1 2 2 q0 s1 s,7 ,6 3
+q3 q3 5 2 2 2 q0 q,1 s,,7 q,6 3 3 3. 3 2 q1 s6 s2 2 - q0 s,,5 s4 s3 q2 s1 q2 q3 3 3 q3. 0 q,5 s,4 s3 q2 q,1 q2 s5 s1
+1 0 2 5 s4 q,3 0 q2 q3 s4 s,6 q,6. - q2 q3 2 3 3 2 ,1 3. 4 q,2 s,5 s,4 1 s,1 2 3 3 3 q3. q3. - 5' 4' 3' 2' ,,x 1'
+1 x' 0 0 2 ,x q,5 4 3' 2 ,3 s4 ,,6 ,6. 0 q2 3 2 3 2 1 1 1. 1
+%END

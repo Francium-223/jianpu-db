@@ -1,0 +1,20 @@
+%摘下满天星_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=11422
+title=摘下满天星
+tag=
+usertag=
+tagroute=
+confidence=0.961
+conf_p10=0.871
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-11422
+%--
+4/4
+subtitle=score
+1 - - 1 4 x ,x' x x x 5. 6 1' q1' q6 5. q6 3 6 5. q6 1' 6 5. 6 3 2 1 2. q3 5 3 2. q3 5 3 2. 3 ,6 ,5
+1 - - - x q5 q5 q5 q6 1' q1' q6 q5 5 6 3 6 q5 5 q3 2 3 ,6. x q3 q2 q1 q2 q3 x q5 q5 q5 q6 3 2 q5 5 q6' 3
+2 q6 ,6 3 - - x 3. 6 q6 q5 q3 q2 x. ,6 1 - - 0 0 q1 q6 6 q1 1 2 1 6 6 1. q6 5 - q6 q6 q6 q1 1 q2 q3
+3 - 0 0 2 2 2 3 1 ,6 ,6 2. q1 2. q1 q2 q2 q2 1 2. 3 5 - q1' q6 6. q2 q2 q2 q1 q3 6 q3 3 5 - - 1 x 5
+- - - x
+%END

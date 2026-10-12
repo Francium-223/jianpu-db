@@ -1,0 +1,22 @@
+%放手_5.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=7987
+title=放手
+tag=
+usertag=
+tagroute=
+confidence=0.979
+conf_p10=0.963
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-7987
+%--
+4/4
+subtitle=score
+1 q0 3 q3 1 0 0 3 3 1 0 0 3 3. q3 q3 1 q3 q3 q3. 1 1 3 q3 q2 ,7 1 0 1 0 0 2 2' q2 ,7 0 0 1 1 0
+2 q2 ,7 0 0 2 2 ,7 q2 q2 ,7 2 2 1 q,6 0 q0 3 3 1 0 0 3 3 1 0 q0 3 3 1 3 3 q2 4 3 2 ,7 0 q0 2
+q2 ,7 0 0 2 q2 ,7 0 0 2 2 4 3 2 ,7 2 q2 q1 q,6 0 q0 ,3 ,4 ,3 ,3 q,3 q,3 ,3 ,4 ,3 ,3 q,4 q,3 ,3 ,4 ,3 ,4 - 0 0
+0 3 q4 q3 3 4 3 3 4 q3 3 4 3 3 4 q3 4 q4 q4 4 4 q4 5 - 0 0 q0 6 6 3 - 0 6 q6 3 - 0 6 q6 3
+q6 6 3 6 6 x 5 q3 0 0 3 3 2 - 0 3 q3 2 0 0 3 3 3 4 3 q2 2 1 ,7 1 ,6 0 q0 6 6 3 - q0 6 q6
+3 - q0 6 6 3 6 6 3 6 6 7 x 5 q0 6 6 3 - 0 3 q3 2 - 0 2 2 q2 q4 3 2 2 1 q,7 q1 ,6 0 0 3 q3
+q3 3 q3 q3 4 3 3 4 q3 q3 4 q3 3 0 q3 q2 q2 1 ,7 q1 q,6 0 0 0
+%END

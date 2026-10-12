@@ -1,0 +1,22 @@
+%故乡恋情.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=29416
+title=故乡恋情
+tag=
+usertag=
+tagroute=
+confidence=0.973
+conf_p10=0.950
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-29416
+%--
+4/4
+subtitle=score
+s1 s2 s3 s4 s5 s6 1'. q3' q2'. s3' q1' q1' 1' - - - 5. q3' q2'. s1' q4 q3 2 - - - 5. q1' q6. s1' q6 q5 4 q5 q3 2 - q2. s3 q2
+q1 ,5 q2. s1 1 - - - q5 q1 q2 q5 4 q3 q2 q2 s3 s2 1 - - x x x x q1' 1' q2'. q2'. s1' q7 q6 q6 s7 s6 5 - - q5 5
+q1' q6. s1' q6 q5 4 q5 q3 2 - q2 q5 q1 q2 q3 q4 q3 q2 2 5 - - q5 q1 q2 q5 4 q3 q2 q2 s3 s2 1 - - q1' q1' q1' q2' q1'
+q7 q6 q5 6 - - - q5 5 q1' q6. s1' q6 q5 4 q5 q3 2 - q2. s3 q2 q1 ,5 q2. s1 1 - - - q1' 1' q1' q2'. s3' q2' q1' 1' - -
+- q1'. s1' q1' q1' q2'. s3' q2' q1' 1' q7 q6 q5 q6 5 q5 5 q1' q6. s1' q6 q5 4 q5 q3 2 - s1 s2 s3 s4 s5 s6 0 q2. s3 q2 q1 ,5 q2.
+s1 1 - - - 1 - - - q1' 1' q1' q2'. s3' q2' q1' 1' - - - q1'. s1' q1' q1' q2'. s3' q2' q1' q7 q6 q5 q6 5 q5 5 q1' q6. s1' q6 q5
+4 q5 q3 2 - q2' 2' q3' 2' 1' 5 - - 1' 2' - - - 2' - - q1' q2' 1' - - - 1' - - - 1' 0 0 0
+%END

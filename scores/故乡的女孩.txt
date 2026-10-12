@@ -1,0 +1,20 @@
+%故乡的女孩.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=40884
+title=故乡的女孩
+tag=
+usertag=
+tagroute=
+confidence=0.965
+conf_p10=0.943
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-40884
+%--
+2/4
+subtitle=score
+1 - - - x x q1 x q6 5 q1 2 q3 q6 q5 3 2 q5 q6 3 s2 s1 6 1 q2 1 - 1 - 5 3 2 2 1 q6 2 q1 q6 ,5 -
+5 3 6 5 3 2 q1 q2 q,2. q3. q1 2 - 5 3 q2' 1'. q6 q2 1 6 ,5 - q6 q1 q2 q3 q6 s1 s,2 2 5 q3 q3 s2 s1 1. 0 1 q3
+6 q1' 7 6 s5 s6 s5 q1 q1 2 3 0 3 3 5 6 7 s6 s5 q5 6 1 s2 q3 2 2 - ,5 5 6 1 - 1 6 1 q2 3 5 3 s3
+6 5 6 3 s3 6 5 6 5 6 7 ~ 7 6 5 7 7 - 5 3 q2 q2 1 q6 q2 1 6 ,5 - 5 3 q6 q5 ,3 ,2 1 2 s2 q3 q1
+2. - ,5. ,3. 2 2 1 6 2 q1 6 ,5 - 6 1 2 q3 q6 s1 q0 2 q5 3 3 2 q1 1 - 1 -
+%END

@@ -1,0 +1,22 @@
+%手拉风箱.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=612
+title=手拉风箱
+tag=
+usertag=
+tagroute=
+confidence=0.965
+conf_p10=0.918
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-612
+%--
+2/4
+subtitle=score
+1 qx qx 2' 1' 5 1 x x x x - x x q5. s1' q5 q2 s1 q1 s2 q1 q,5 s5. s6 s5 s4 s5 s4 s2 s1 q1 s2 ,5 x q5 q5 1 s2' s3
+2' q0 q1' s6 s5' q1 q2 s5' s6 5' q0 q5 1' q2' q1'. s6 5 q2' q5' q5' q2' q5 1 q0 q5 q6 q1. s2 s5' s6' 5 q0 s4 q5. q1'. s6 s5' s6 5' q0
+q1 s1' s6' q1 q2 q1'. s6 5 q1 s1' s2' q5 q2 1 - q5. s5 q1' q4 x s1' s1' q5 q4 5 q1'. s6 q5 q5 1' 2 s1' s6 x 5'. 5 qx 5' - q2
+5 s4 s2 q1 s1' s6' 1 s2 s3 s2 s1 s,7' s1' q2 q1 1. q5. s1' q5 q2 s1 q1 s2 q1 q,5 s5. d1' s6 s5 s4 s5 s4 s2 s1 q1 s2 ,5 q5 q5 q1'
+s5' s3' s2' s3 2' q0 q1 s1' s6' q1 s5' s3' s2' s3 2' q0 q1' 4 s5 s5 q1'. s6 5 q1 s1 s2 q5 s4' s2' q5' 1'. q1 s1' s6' q1. s2 q5'. s6 5' q5
+s3' s2' q1. s2 q5'. s6 5' q5. s1' q1 s6' s1' s2' s3 2' q0 q5. s1' q1 s6' s1' s2' s3 2' q0 q5. s1' q5 q1 q2 s2' s3' q2' q,5' q5. s1' q5 q1 q2 s2'
+s3' q2' q,5' q2 5 s3 s2 q5 q1 2 s2 s3 s2 s1 d7' s1' q2 q1 1. q2 5 s3 s2 q1 q1 1 s2 s3 s2 s1 s7' s1' q2 1 1 1 x q1
+%END
