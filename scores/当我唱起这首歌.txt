@@ -1,0 +1,21 @@
+%当我唱起这首歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=29276
+title=当我唱起这首歌
+tag=
+usertag=
+tagroute=
+confidence=0.977
+conf_p10=0.956
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-29276
+%--
+2/4
+subtitle=score
+1 - - - x'. x x. x x q3 q3 2 q1 q2 q1'. - ,3 - x q1 q2 q3 q1 2 - q1 q2 q3 q1 q,7. d5 ,5 q,6 q,7 s1 q4. 3 - q,6 q,7
+q1 q2 q3. s2 2 q1 q2 q3 q1 2 - q1 q2 q3 q1 q,7. d5 ,5 q,6 q,7 s1 q4 s3 3 - q,6 q,7 q1 q2 3 ,7 1 - 0 q3 q2 q1 q2 q3 q6
+q7. s5 5 q4 q3 q2 q5 q4 s3 s3 q0 s3 s2 q1 q2 q3 q6 q7 q5 q5 q6 ~ 6 - q1' q1' q6 q6 5 - 0 0 q3 q4 q5 s3 s2 q2 q5 5
+q1' q1' q7 q5 q6. s5 5 6 q1' q1' q5 q3 q1 q2 3 q2 s1 s2 2 - q3 q4 q5 s3 s2 q2 q5 5 q1' q1' q7 q5 q6. s5 5 6 q1' s1' s5 q5
+1' q3 q4 q3 s2 q3 s1 1 - 0 0 q4 q3 s2 q3 s2 2 - q4 q3 s2 q3 s1 1 - 0 0 6 q7 q1 q5 1 q3 q4 q3 s2 q3 s1 1 -
+0 0 x q3 q3 2 5 1 q,7 q1 q1 ,5 ,3 - x
+%END

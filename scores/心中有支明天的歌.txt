@@ -1,0 +1,17 @@
+%心中有支明天的歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14821
+title=心中有支明天的歌
+tag=
+usertag=
+tagroute=
+confidence=0.990
+conf_p10=0.976
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14821
+%--
+2/4
+subtitle=score
+x q3 q2 q1 2 q2 q1 q1 q2 q1 q3 q3 q1 ~ q1 s3 s5 q5 s,5 s1 s3 q5 q1 x q3 5 - 3'. q1' 1' ~ 1' - 0 - - 3 s2 q2 1
+~ q1 q2' q1' q1' 1' - 1' - q1'
+%END

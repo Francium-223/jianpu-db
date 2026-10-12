@@ -1,0 +1,24 @@
+%当_7.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=39538
+title=当
+tag=
+usertag=
+tagroute=
+confidence=0.916
+conf_p10=0.607
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-39538
+%--
+2/4
+subtitle=score
+5'. 6. q3 7. q3 q1' q7 q6 q5 3 - 6. q3 7. q3 q1' q7 s1' q2'. 2' 3' - 6. q3 0 0 1 x 0 1 0 0 x 0 0 7. q3 q1' q7 q6
+q5 3 - 6. q3 7. q3 q1' q7 s1' q2'. 3' - 3' - x x x x 0 s0 s5 s6 s1 s2 s1 s2 s1 s2 s2 q3 s2 q1. s0 s5 s6 s5 q,6 q1 ~
+q1 q2 2 s0 s1 s1 s2 q3 q5 s5 q5 s5 q6 q3 q0 s6 s3 s2 s3 s2 q3 s2 s1 2 q0 s1 s1 q6 s1 s1 s1 q6 s3 q6 s5 s6 5 s3 q6. q5
+s3 s2 ~ q2 q1 q0 s6 s5 s3 q2. q0 s1 s6 q6 s5 s5 q6 s5 s2 q3 q2 ~ 2 0 s0 s5 s6 s1. q6 q5 s5 s6 s5 s3 s2 s1 s2 s1 ~ 1
+0 s0 s5 s1 s2 s3 s5 s5 s5 ~ s5 q5 s5 s5 s5 s3 s2 q2 q0 s6 s1 s1 s1 s1 q1 s1 s6 s5 s3 s5 q5 q0 s6 s1 s1 s1 s1 q6 s3 s5
+s5 s6 s3 q3 s2 s1 s3 s2 s3 s2 s2 s6 s1 s3 s5 s3 s2 s0 s5 s1 s2 s3 s5 s5 s5 s5 q5 s5 s5 s5 s3 s2 q2 q0 s6 s1 s1 s1 s1 q1
+s1 s6 s5 s3 s5 q5 q0 s6 s1 s1 s1 s1 q6 s3 s5 s5 s6 s3 ~ q3 s2 s1 s3 s2 s3 s2 ~ s2 s6 s1 q3 q5 ~ q5. s2 q2 q1 ~ 1 1
+0 5'. 6. q3 7. q3 q1' q7 q6 q5 3 - 6. q3 7. q3 q1' q7 s1' q2' 3' - 6. q3 7. q3 x x x x x x x x x x x x x x
+x x q1' q7 q6 q5 3 - 6. q3 7. q3 q1' q7 s1' q2'. 2' 3' - 3' - 0 s0 s5 s6 s1. q2 q1 1 1 s0 s5 s1 s2 - q2 q1 1 1 0
+%END

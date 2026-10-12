@@ -1,0 +1,20 @@
+%心心相印_7.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=5903
+title=心心相印
+tag=
+usertag=
+tagroute=
+confidence=0.963
+conf_p10=0.905
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-5903
+%--
+4/4
+subtitle=score
+q5 q6 q5. s4 q3 s3 s3 q2 q3 1 - - 0 q4 q5 q4. s6 q3 s3 s3 q3 q5 2 - - 0 q5 q6 q5 q4 q5 3. q1 q1' q1' q7 6 - q4 4
+q3 q2 s2 s3 q5 q6 5 - - 0 q0 q4 q4 s,6 s,6 q1 2 q1 1 - - 0 ,x 1 1 1 1 x q5 q1' q7 q1' 6 - q7 q6 q6 q7 5. q3
+q6 s6 s6 q5 q6 4. s6 q3 3 q5 2 - q5 q1' q7 q1' 6 - q7 q6 q0 s6 s7 5. q1 q6 s6 s5 q4 q5 2. q2 q5 5. q4 3 s2 s3 1 -
+- - q5 q3' q3' q2' 1' - q7 q1 q2 q3 6 - q0 q5 q6 q5 q4 q3 q6 q2 1 - - - 1 - - q0 q1 q5 5. 6 1' ~ 1' - - -
+1' - - - 1' - - 0
+%END

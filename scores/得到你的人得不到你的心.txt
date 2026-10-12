@@ -1,0 +1,24 @@
+%得到你的人得不到你的心.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=37489
+title=得到你的人得不到你的心
+tag=
+usertag=
+tagroute=
+confidence=0.976
+conf_p10=0.966
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-37489
+%--
+4/4
+subtitle=score
+1 - - - 0 x' 0 0 0 5 5 6 6 3 3 2 6 4 1 5 s0 s3 s5 s3 s6 s6 s6 s5 q6 s6 s6 s5 s5 s3 q5. d7 s2 s2 s2 s6
+s5 s6 s5 s3 s2 s3 s3 q3. s3 s2 s3 s2 s3 q2 s1 s3 s2 s3 s2 s3 q,6 s2 s3 s,5 s,6 s7 s1 s2 s3 s1 s7 ,6 q0 s,6 s3 s2 s2 s3 q2. s3
+s3 s2 s1 s7 ,6 s,5 s,5 s,5 s,6 s7 s7 s7 s1 s7 s,6 s,6 s,5 q,6. s,6 s3 s2 s2 s3 q2 s6 s6 s6 s5 s5 s2 3 s,5 s,5 s,5 s,6 s2 s2 s2 s3 s1
+s7 s,6 s,5 q,6 s,6 s1 s2 s2 s2 s1 q2 s2 s3 s3 s2 s7 q,6 s,6 s1 s2 s2 s2 s6 s5 s6 s5 s2 3 q0 s,6 s2 s2 s2 s1 q2 s2 s3 s3 s2 s1
+s7 q,6 s,6 s1 s5 s6 s5 s5 s6 q3 q1 s1 s2 s,7 q,7 s1 s1 s,7 ,6 0 q0 d1 d2 s3 s5 s3 s6 s6 s3 s5 s3 s6 s6 s6 s5 q6 s6 s1 s6 s5
+s5 s3 5 d7 q,7 s5 s5 q6 ~ 6 q1 x s1' s7 s6 x s0 s3 s5 s3 s2 s2 s2 s6 s5 s6 s5 s3 s2 q3 s3 q3. s3 s3 s2 s2 s3 q2. s3 s3
+s2 s2 s3 ,6 s,6 s,7 s1 s6 s5 s6 s5 s2 3 s0 s3 s5 s3 s6 s6 s6 s5 q6 s6 s6 s5 s5 s3 5 s2 s2 s2 s6 s5 s6 s5 s3 s2 q3 s3 q3.
+s3 s3 s2 s2 s3 q2. s5 s5 s3 s2 s3 ,6 s,5 s,5 s,5 s,6 s2 s2 s2 s3 s1 s7 ,6 - 0 s0 s3 s5 s3 s,5 s,5 s,5 s,6 s2 s2 s2 s3 s1 s7 q,6
+q,6. s3 s3 s2 s2 s3 q2. s5 s5 s3 s2 s3 ,6 s,5 s,5 s,5 s,6 s2 s2 s2 s3 q,7 ,6 ~ ,6 - - -
+%END

@@ -1,0 +1,22 @@
+%往事似轻烟.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=23400
+title=往事似轻烟
+tag=
+usertag=
+tagroute=
+confidence=0.968
+conf_p10=0.950
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-23400
+%--
+4/4
+subtitle=score
+1 - - - x 1' x x x q0 q,5 1. q,7 1 q3 q1 ,6. q,5 ,6 q1 q,6 ,4. q,5 q,6 q1 q3 q1 2 - - ,5 x 1. q,7 1 q3 q1 ,6 q,6 q1
+,5. q,5 1. q,7 q1 q2 q3 q6 5 - - 5 6. q6 7 q1' q2' 1' q5 q3 3. q5 6 q4 q3 q2 q1 q2 q3 2 - - ,5 1. q,7 1 q3 q1 ,6 q,6
+q1 ,5. q,5 1. q,7 q1 q2 q3 q6 5 - - 5 6. q6 7 q1' q2' 1' q5 q3 3. q5 6 q4 q3 q2 q3 q2 q1 1 - - 1 6. q5 4 - 4 q7
+q1' 2' q1' q7 6. q1' 5 - 5 6 3 q4 q5 3. q2 2 - 2 q3 q,6 q,6 1 q3 2 - - - 2 q1 q3 4 1 6. q5 4 - 4 q7 q1' 2'
+q1' q7 6. q7 5 - 5 6 3 q4 q5 3. q2 2 - 2 q3 q,6 q,6 1 q3 2 - - - 5 - - ,5 1. q,7 1 q3 q1 ,6 1 ,5. q,5 1. q,7
+q1 q2 q3 q6 5 - - 5 6. q6 7 q1' q2' 1' q5 q3 3. q5 6 q4 q3 q2 q3 q2 q1 1 - - - 6. q6 7 q1' q2' 1' 5 3. q5 6. q3
+q2 q1 2 1 - - ,5. 6. q3 q2 q1 2 1 q,5 q,6 q,6 q1 4 ~ 4 - 5 - 3 - - - x qx. x.
+%END

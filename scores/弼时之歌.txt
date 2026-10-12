@@ -1,0 +1,21 @@
+%弼时之歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15465
+title=弼时之歌
+tag=
+usertag=
+tagroute=
+confidence=0.918
+conf_p10=0.631
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15465
+%--
+4/4
+subtitle=score
+1 - - q1 ,x x. x x 1 3 1. x. x x x x. x' x' x 1. ,,x - qx 6 0 ,6 - - 0 3. q4 q5 3. ~ 3 - ,6. q3 q1 2.
+q,6 s7 s1 s3 s2 s1 d7 d7 ,6. s7 s7 s1 3 - - - 3. q4 q5 3. ~ 3 - 2. q,6 s4 s3 2. ~ 2 - q,6 s,7 s1 s3 s2 s1 d7 d7 ,6.
+s4 s2 3 - - - 3. q7 7. s6 s7 q1' 7. ~ 7 - 3. q7 7. s6 s7 s1' s7 q6' 6' 6'. q3 q2 q3 s7 q2 3 - 3 - q3 q2 q3 q4 q3
+2 s1 s7 3 - - - q3 q6 q6 q7 q5 2 s3 s2 3 - - - x 1 x' x x. 1. 1 x'. q3 q6 q6 q3 6. q3 q3 q2 s,6 q,7. 1 - q,6
+q,7 q1 s,6 s,6 q2 ,7 s1 s2 3 - - - 3. q7 7. s6 s7 1. q3 s2 s3 3. q4 q3 q2 q,6 q5 5 s3 s2 3 - - - 3. q7 7. s6 s7 1.
+q3 s3 s2 2. q3 q2 q3 q4 q3 2 s1 s7 ,6 - - - q3 q2 q3 q5 q7 7 q3 6' - - - 6' - q6' q0 0
+%END

@@ -1,0 +1,20 @@
+%当春来吹起绿的风.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=13648
+title=当春来吹起绿的风
+tag=
+usertag=
+tagroute=
+confidence=0.885
+conf_p10=0.528
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-13648
+%--
+4/4
+subtitle=score
+1 - - - 0 x qx x x 1 3 5 1' 7 6 5 6. 3 5 4 3 2 1 - - - 3 3 2 1 q3 q5 3 q,4' 3 2 4 4 3 2
+1' q1' 4 7' x x ,1 - 3' x 3 3' 1 3' ,2 1 q1' q,1 1 x 3. 3' q,,1 x'. 3. 1'. 1' 1 5'. ,5 q,3 1. q4. ,6 1' 7 6 5' 4 2
+3 1 - 0 6 - 6 1 4 q6 5 3 3 3 - 4 - 4 2 3 4 3 1 2 2 - 6 - q6 q1 4 6 2 7 5 5 5 - 2 7'
+6 2 5 - - - 5 4 q3 2 2 1 - - - x 6 - q6 1 4 6 5. q,1. ~ 1' 0 2'. 2' 2' q6 q2' 1' - - - 1' 5 4 6
+7 5 3 1' - 4 1' 4 1' 1' 3'. - - - - - 3 1' 0 0 0 0 0 0
+%END

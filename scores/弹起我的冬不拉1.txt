@@ -1,0 +1,20 @@
+%弹起我的冬不拉1.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=36985
+title=弹起我的冬不拉1
+tag=
+usertag=
+tagroute=
+confidence=0.930
+conf_p10=0.782
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-36985
+%--
+2/4
+subtitle=score
+2' 5 1 x 1 1 q,1 1'. 1 x' 1' 6 s6 s7 q1 s1 s7 s6 s5 s6 q7. ,5 q1 s1 s2 s3 s2 s3 s5 2 - 5 s6 s7 q1 s1 s7 s,6 q5 q6
+q7 5 q3 s2 s3 s2 q7 q1 s,7 q6 5 5 5 5 5 q6 q7 ,1 - q,2 q,,2 q,2 q,,3 d1 s2 q7 ,,,6 - q,1. s2 q,2 q2 s3 q3 2 s,1. s,7 s,,6 q5 ,,6
+q,,5 - q,,1 s,1 s2 q,3 s3 s5 ,,4 - q,5 s,,5 s6 s,4 s5 s,4 s3 ,,2 - s,3 d3 s5 q4 s,4 s3 s2 s1 d2 s3 ,,2 s1. q7 ,,6 s,5 q6 q,,5. s,5 s,5 q,1 s,1
+d2 s,,3 d,,3 d5 d4 d5 d,,4 d3 q,,2 d,,3 d,,4 d3 d,,2 ,1 d2 d3 d,2 s,1 q,,7 s,1 d,2 s,1 q,,7 q,,,6 s,7 s,1 s7 s,6 q,5 s,,3 s,,2 d,2 s7 q,1 q,7 s,6 q,,5 - ,5 -
+q,5 - 5 -
+%END

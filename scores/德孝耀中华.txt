@@ -1,0 +1,21 @@
+%德孝耀中华.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15839
+title=德孝耀中华
+tag=
+usertag=
+tagroute=
+confidence=0.971
+conf_p10=0.923
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15839
+%--
+2/4
+subtitle=score
+1 - - - x x 1 x q5'. s6' s6'. d5' s4' s3' 5' - q6'. s5' q4' s3' s2' 3' - q2'. s5' s3' s1' s1' s3' s2'. d3' s2' s7 6 q6 s2'. d3' s5 s6 -
+q3' q3' s2' s3' s5 s6 - q7 q7 s6. s2' s7 s6 5 - s1' s2' s4' q3' q4' q3' s3' q2' s1' s6 s6 2' - s2'. d3' s1' s6 s5 s1' 2' 0 q2'. s3' s2' q2'
+q5' 3'. s5' q3' s5' s2' s3' s7 6 - s5 s3 s5 s6 s2' s3' q4' 3' q3' q3' s2' s3' s5 s6 1'. q7 s6. d7 s5 s6 s3. d5 s2 s3 5. q6 s2'. d3' s2' s3'
+s7 s6 s5 s6 - 0 s5' s6' s4' s3' s1' s1' s2' s3' 5' - q5' s4' s5' s1' s1' s2' s3' q5' q5' s6' s5' s4' s3' 5' - q6' s5' s6' q4' s3' s2' 3' - q2'.
+s5' s3' s2' s3' s2' s3' s2' s7'. 6 s6 s2' s1' s2' 3' - s6 s2' s3' s5 s6 1'. q3' s2' s3' s2' s7 s1' s5 s6 7. q3' s2'. d3' s2' s3' s7 s6 s5 s6 s2'
+s3' q5'. s6' q4' q3' q2'. s3' q4' q6' 6' - 5' - 5' - 5' - 5' -
+%END

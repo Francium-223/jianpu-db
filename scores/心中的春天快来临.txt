@@ -1,0 +1,17 @@
+%心中的春天快来临.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15003
+title=心中的春天快来临
+tag=
+usertag=
+tagroute=
+confidence=0.966
+conf_p10=0.819
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15003
+%--
+2/4
+subtitle=score
+x d1 d2 d1 2 q3 q2 s2 s3 1 q2 s2 q2 s1 q1' s2 s1 s2 s1' x q2'. s3' q1' q2' q2' q1' s2' s1' 2' q2' q2'. s3' q2' q1' s1' ~ s1' q2' q3' s1'
+q2' s3' s2' 2' x d5 d1 d2 d1 x 2' s5' s4' 5' q3' q2' s3' q5' s1' d2' 1' q3' s2' s3' q2'
+%END

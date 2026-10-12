@@ -1,0 +1,21 @@
+%彩蝶飞飞.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=20374
+title=彩蝶飞飞
+tag=
+usertag=
+tagroute=
+confidence=0.857
+conf_p10=0.479
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-20374
+%--
+2/4
+subtitle=score
+x q1 q4 1 1. x. x 5 5 s3 q2'. ~ 2' 5 - 5'. q6 5. q3 2 - q0 s3 s5 s5 s5 q3 1' - q0 s3 s5 s5 s5 q3 2 - q0 s3 s5
+s5 s5 q3 q1'. s5 s6' s5' q3' s0 s5' s3' s5' s1' s1' s2' s1' 5 - x q3 q5 q5 q1 2 - q,6 s1' d6' q1 q3 2 - q,6 q1 q1 q6 q5 q3 3 q2
+q1 q,6 q1 2 - q3 q5 q5 q1 2 - q,6 s1 s6' q1 q3 2 - q,6 q1 q1 q6 s1. s,1 q1 q3 d1 d1 s1 s3 d6 s1 s3' s6' s2 s2 s2 s,5 q3 s6'
+q6 d5 d5 5' 1 q1 5 6 s,6 q2' 5' h1 s1 s1'. q1 s1 s1 d2 d0 q,6 h2 d5 q,5 x' x h2 h5' d5 q5 q5 q1 d6 q5 q6 q5 6' h5 h5 s5 h1
+d3 s1 q,,3' q3'. 0 qx 1' s2 s1' s5 s2 h6 s2 s5 s2 s1' s1 s5 q3 5 q,6 s5 d3 q5 q1 s1' s2 6' q1 s1 qx s,3 q1'. 1' 1' d1 d1 d6 1' -
+q1' x' sx' dx' sx' dx' s,1'
+%END

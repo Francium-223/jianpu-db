@@ -1,0 +1,22 @@
+%当我走进春天的牧场_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=30421
+title=当我走进春天的牧场
+tag=
+usertag=
+tagroute=
+confidence=0.983
+conf_p10=0.971
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-30421
+%--
+4/4
+subtitle=score
+q0 s1'. s2' 3' s2' s3' s2' 1'. q6 q2'. s2'. s3' s1' s1' q6 5 - q1'. s3 q2 q3 q5 s1' s1' q3 q2 1 - - - s3 q5 s1 q2. s3 s2 s3 s2 1. q5
+s5 s3 q5 s6 s1' 1' - q6'. 2' q1' q6 s5 s6 3 q2 s2 s3 q6. s1' 5 - s3 s5 s5 s1 q2. s3 s2 s3 s2 1. q5 s5 s3 q5 s6 s1' 1' - q6'.
+2' q1' q6 s5 s6 3 s3 s5 s5 s1 q2. s3 s2 s3 s2 1. q1 s2 s3 s5 s6 s1' s2' q2' 3' s2'. s3' s2' q1' 1'. q2' s2' s3' q2' s6 s1' 5 - s1' q1'
+s2' q1' q3 q2 s2 s3 q6. s1' 5 - 0 s1' s2' q2' 3' s2'. s3' s2' q1' 1' q2' s2' s3' q1' s1' s6 6 - s6 q1' s3 q2 q3 q5 s6 s1' q3 s2 s3 s2
+3. 1 - 1 x s5 s1' s1' 1 - 0 s1' s2' q2' 3' s2' s3' s2' q1' 1' q2' s2' s3' q2' s6 s1' 5 - s6 q1' s2' q1' q3 q2 s2 s3 q6. s1' 5 -
+0 s1' s2' q2' 3' s2'. s3' s2' q1' 1' q2' s2' s3' q2' s1' s6 6 - s6 q1' s3 q2 q3 q5 s6 s1' q3 s2 s3 s2 1 - - - s1' ~ q1' s3 q2 q3
+2' 3' 3' 3' q2' q1' q2' q1' 1' - - -
+%END

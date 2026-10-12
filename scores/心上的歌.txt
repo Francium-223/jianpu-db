@@ -1,0 +1,18 @@
+%心上的歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47650
+title=心上的歌
+tag=
+usertag=
+tagroute=
+confidence=0.998
+conf_p10=0.993
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47650
+%--
+4/4
+subtitle=score
+q5. q6 1 2 - 3 - 2. 3 1 6 5 - 3. 5 6. 5 6 1 - 4 6. 5 3 - 4 1 2 3 5 6 5. 6 - 5 3 2 - 1 2
+2 3 2 5 5 4 3. 2 1 - 4 1. 2 3 5 6 - 4 5. 6 1 1 6 5 q3 2. q3 q2 q1 6 4 1. q2 3 q2 q5 5 - 3 2
+1 3 2 ,1 1 -
+%END

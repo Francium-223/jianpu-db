@@ -1,0 +1,21 @@
+%强颜欢笑.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=40565
+title=强颜欢笑
+tag=
+usertag=
+tagroute=
+confidence=0.913
+conf_p10=0.576
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-40565
+%--
+4/4
+subtitle=score
+qx 1 - - - - 2 x 0 1 qx x' x 1' x x 0 3 3 3 q4 q3 q2 s1 3. q2 2 - - 0 4 q4 4 4 4 4 s3 s2 s1 3.
+q2 2 - - 0 3 3 3 3 s4 s3 s2 s,,1 3. q2 2 - - 0 4 q4 4 ~ 4 q4 q3 2 1. q2 2 0 3 q4 5 7 1 - 0 q,6 q6
+5 4 3 2 3. s4 s3 q2 2 2 0 q0 s3 q4 5. q7 1. 1 6. 1 2 - q0 s6 s6 6 6 6 6 7 s1' 6 - 0 7 6 5 - - 0
+q,1' s1' s1' 1'. q1' q1 1' q7 q1' 7 6 q6 6 0 0 q0 s2' s2' q2' q2' q2' q2' 2' 2' 1' q7 1' 1' - 0 - 0 x' q1' 1' q1' 1' q7 q1' q7
+q1' q7 q6 q6 ~ 6 0 0 q0 q2' 2' q2' s2' s2' s2' q2' q2' 1' 2' - 7. 7 ,7 q6 q6. q7 q7 q1. qx. q1' q1 q1' q1 q1' 1 q5 q7 q1. 1' 1
+x 4 q4 ,7 7 1' 1 2' q2 - 0 0 1' 7 1' 1' 1' 7 6 1' - 1' - x.
+%END

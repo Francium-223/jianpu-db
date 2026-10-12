@@ -1,0 +1,19 @@
+%心平歌_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=22622
+title=心平歌
+tag=
+usertag=
+tagroute=
+confidence=0.976
+conf_p10=0.959
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-22622
+%--
+2/4
+subtitle=score
+1 q,6 s5 q1 q1. q2 1 q,5 s3 s3 s2 s1 s,,2. s3 s2 s,2. q2. 2 q2. s3 q2 s,2 s1 q,1 s6 s3 s2 2 1. s5 s6 s5 s4 s5 ,5 - q2 s,1 6 q,5
+q1 s1 q1. 1 0 0 1 q,6 q,5 q,1 s2 s1 1 q2. s,3 q2 q1 ,6 - x ,1 1 - - q2. s3 q2 q,2 s1 q,6 s3 s2 2 q2. s2 q,2 q5 s5 q5. 5
+1 q,6 q,5 q1 s,2 0 s,1 1 q2. s3 q2 1 6 - q2. q3 q2 s,2 q,1 q,6 q3 s,,2 2 q2 ,1 q6 q,5 q1 ,1 1. 1 0 q0 s,3 q,,5 5 - 5 - 5
+5 0 5 5 - 5 q5 s,4 5 4 4 - 4 - 5 - 1' 5 -
+%END

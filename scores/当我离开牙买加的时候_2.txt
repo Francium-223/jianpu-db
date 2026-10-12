@@ -1,0 +1,19 @@
+%当我离开牙买加的时候_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49855
+title=当我离开牙买加的时候
+tag=
+usertag=
+tagroute=
+confidence=0.972
+conf_p10=0.967
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49855
+%--
+4/4
+subtitle=score
+x 1' x x x q0 5 q1 1 q3 q3 q3 q3 q3 q2 q2 q2 q4 ~ 4 4 4 4 3 3 3 3 2 2 2 q2 q1 ~ 1 - 0 5 q5 5 q5
+q5 6 q7 q1 q1 7 q6 5 5 q4 4 q4 3 q4 q5 5 0 q0 q5 q5 q5 q5 5 q5 q6 7 q1 q1 q1 q7 q6 5 q5 q4 q4 4 q4 3 2 q1
+q1 q3 5 q0 1 q1 3. q3 q2 2 q4 ~ 4 - q0 ,7 q1 2 q0 q2 q1 q1 q1 q3 3 q0 q5 q1 1 q3 ~ q3 q3 q3 q3 q2 q2 q2 q4 q4
+q4 q4 q4 q3 q3 q3 q3 2 2 2 q1 q1 ~ 1 0 2 q1 q1 ~ 1
+%END

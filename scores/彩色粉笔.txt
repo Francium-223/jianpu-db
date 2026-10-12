@@ -1,0 +1,22 @@
+%彩色粉笔.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=33538
+title=彩色粉笔
+tag=
+usertag=
+tagroute=
+confidence=0.992
+conf_p10=0.979
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-33538
+%--
+4/4
+subtitle=score
+x q0 s1 1 - - q0 s1 s,7 1 - - q0 s1 s,7 1 3 2 5 3 - - q0 s1 s,7 - - - - - - 0 0 0 q,6 q,7 q1 q,7 q,7 q,6
+,5 q,5 q,6 ,3 - 0 q,6 q,7 q1 q,7 q,7 q1 q,7 q,6 q,6 q,5 ~ q,5 q,6 ~ ,6 0 q,6 q,7 1 q,7 q,6 ,5 q0 q,2 ,3 ,5 ,6 q,6 q,5 q,6 q3 q3 q1 2
+q,7 q,5 ~ q,5 q,6 ~ ,6 0 q,6 q,7 q1 q,7 q,7 q,6 ,5 q,5 q,6 ,3 - 0 q,6 q,7 q1 q,7 q,7 q1 2 ,5 ,6 - - q,6 q,5 q,6 q,5 q,6 q3 2 - q,5
+q,3 q,5 q1 ,6 q,6 q,5 ,6 q2 q3 q2 q1 1 3 - - q1 q,7 ,6 3 2 q5 q2 2 q2 q3 ,6 q1 q,7 ,6 q2 q3 2 q5 q3 3 - - q1 q,7 ,6
+q2 q3 2 q5 q2 2 q2 q3 ,6 q1 q,7 q,6 q3 q2 q1 2 q0 q,5 ,6 - - q1 q,7 ,6 3 2 q5 q2 2 q2 q3 ,6 q1 q,7 ,6 q2 q3 2 q5 q3
+3 - - q1 q,7 ,6 q2 q3 2 5 2 q2 q3 ,6 q1 q,7 q,6 q3 q2 q1 2 ,5 ,6 - - - 0 0 - - q,6 q,7 q,6 q3 q2 q1 2 q0 q,5 ,6
+- - q1 q,7 q,6 q3 q2 q1 2 q0 q,5 ,6 - - 0 ,6 q2 q3 2 5 2 q2 q3 ,6 - q,6 q3 q2 q1 2 q0 q,5 ,6 - - 0
+%END

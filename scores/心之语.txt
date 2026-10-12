@@ -1,0 +1,20 @@
+%心之语.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=19075
+title=心之语
+tag=
+usertag=
+tagroute=
+confidence=0.941
+conf_p10=0.691
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-19075
+%--
+4/4
+subtitle=score
+1 - - - x x x' x. 1' x x x x' x qx - - 4 x 3 q3 6 3 3 2 q1 2 - 2 q2 q5 2 ,1 q7 1 - - 0 1 q,7
+q1 4 q1 ,7 q,,7 q6 ,7 0 ,7 q,,7 q3 q,7 1 q,7 ,6 - - 0 3 3 6 3 3 2 q1' 2 - 2 2 5 2 q1 q,7 1 - - 0 1 q,7 q1
+4 q1 ,7 q,7 q,6 ,7 0 ,7 q,7 q3 ,7 q1 ,7 ,6 - - 0 q,6 6 5 4 ,3 2 4 - 0 q5 s5 s6 7 q6 5 q4 3 2 3 - 0 1 2
+3 6 0 1 2 3 7 0 q1 q2 3 - q7 q6 7 - - 0 3 q3 6 3 3 2 1 2 - 2 2 q5 q2 q1 q7 1 - - 0 1 q,7 q1
+4 q1 ,7 q,7 q,6 ,7 0 ,7' ,7 q,7 q3 ,7 q1 q,7 ,6 - - - - ,6 0 0 0
+%END

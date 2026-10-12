@@ -1,0 +1,19 @@
+%当我们还年轻.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=11653
+title=当我们还年轻
+tag=
+usertag=
+tagroute=
+confidence=0.903
+conf_p10=0.654
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-11653
+%--
+3/4
+subtitle=score
+5 - - 7 - 6 5 - 4 q4 - 2 1 3 5 1' 7 6 4' 4' s5 4 4' - - 5 5 2' - - 1' 1' 5 1' q1' - - - - 1'
+1' - - 0 0 0 1' 1' 1' - - - - 1' q5 - - 7 7 q3 7 2' - - - 7 2' - - - 3' 2' - 1' 7 6 7 - - 7
+- s5 s5 7 - - 6 - s5 s5 7 - - 6 - 1' 7 - 7 6 3 4 5 - - 5 - 0 5 - 3' 3' - - 2' - 1' 1' - -
+5 - 3 4 - 5 2' - 1' 1' - -
+%END

@@ -1,0 +1,24 @@
+%张三的另一首歌《老爸快跑》主题歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=35310
+title=张三的另一首歌《老爸快跑》主题歌
+tag=
+usertag=
+tagroute=
+confidence=0.929
+conf_p10=0.730
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-35310
+%--
+6/8
+subtitle=score
+1 - - 1. x x 1 x x x ,5. 3 q,5 ,6. ,6. q2 q2 q2 qx'. q2. s1 q,7 ,7 ,7. ,5. 3 q,5 ,6. ,6. q2 q2 q2 q2 q2 q1 q3 2 ~ q2 q3
+q4 q5 q5 q5 q5 q5 q3 s2 s1 ,6 q0 q,6 q1 q2 q2 q2 q2 q2 q1 s1 s,7 ,7 q,7 q3 q4 q5 q5 q5 5 q3 s1 s,6 ,6 q0 q,6 q1 q2 q2 q2 q2
+q2 q1 s2 s3 2 q0 q2 q1 q3 2 2. 0 0 0 q1 q3 q5 6 q6 q0 q6 q6 q5 q5 q5 q0 q4 s4 s3 3 0 q2 d2 d2 s1 q1 q1 s3 s3 sx
+s5 s5 s6 s6 s6 6 q6 q6 q5 s5 q5 s4 s4 q3 0 0 q1 q1 sx q3 q5 6. q6 q6 q0 q6 q6 s6 q5 q5 q5 5 s4 s4 d4 s6 d3 s5 q5 q3
+q5 s0 s5 q0 s2 q4 h2 s7 s4 h1 s3 q3 1 3 0 q1 0 q3 0 q3 s5 q3 h4 s,2 d2 d2 d1 s1 s1 s4 q1 q1 s1 s1 s3 d3 s5 6 q3 q6
+q6 s2 q0 q6 d2 q6 s2 q6 s1 s6 d3 q2 q5 s0 s5 q4 s4 q0 q3 s1 q1 0 q0 0 q5 6 0 d1 s1 q1 s0 q3 s6 q5 q5 q,5 q6 q6 q6'. q6
+q6 q6 q6 q5 q5 5 q4 s4 s3 3 0 q1 q2 s1 s1 ~ q1 q1 q3 q5 q4 q4 q4 q4 q3 q3 s3 s2 2 0 q2 s2 s1 1 0 0 q1 q1 q3 q5
+q5 q5' q4' q4 q4 q4 q4 q4 q3 q3 3 s3 s3 s2 2 2 0 q2 s2 s1 q1 q1' 0 0 4 0 q1 q1 q3 q5 4 q4 q4 q4 q4 q4 q4 q3 q3 3
+s3 s3 s2 2 2 0 1' d2 d2 d2 s1 q1
+%END

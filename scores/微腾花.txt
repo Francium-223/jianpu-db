@@ -1,0 +1,22 @@
+%微腾花.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15761
+title=微腾花
+tag=
+usertag=
+tagroute=
+confidence=0.957
+conf_p10=0.831
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15761
+%--
+4/4
+subtitle=score
+x s6 s3 s6 s7 s2' s3' s2' s7 s6 s3 s6 s7 s2' s3' s2' s7 s6 s3 s6 s7 s2' s3' s2' s7 s6 s3 s6 s7 s2' s3' s2' s7 q3. s2 s3 s5 s3 s5 6
+- q1'. s2' q6 q5'. 3 - q3 6 q1' q3. s2 1 q2. s3 s1 s2 s1 q5 ,6 - - 0 s3 6 s6'. s1' q1' d2' d3'. q,2' q1' q2'. 1' ,1' s2'. s,2' s3' 6 -
+q3 6 6 ,1' q1' s,2'. ,3'. 2' q1' ,1' 2' s,3' 6' s6' s,5' 3' - s3 s,3 s6 q6 q1' s5 s6 s5 q3 s3 d6 d6 d1 s2 s3 s2 q2 - s3 3 s5 q2. s3
+q1 q1 x 0 6 1 2 3 2 1 6 1 5 6 x q2 2 s3 1 s2 x s1 q,x q5 6' - q3. 2 3 s5 5 6 6 - q6 q6 q1' q5 q6 q5
+3 - q3 6 q6 q3 q5 q3 q2 1 q2 q2 q3 q1 q2 q1 q5 x q0 ,6 q6 s1 h2 d3 d2 d1 s6 d1 s5 s6 1 x q6 q3 q6 s1 s3 s1 q6 q3
+x. q3. d2 d,3 s5 d,5 d,3 q6 - q,6 d6 s1' s,5 d6 s5 q,3 - q3 6 s6 s1' s3 s5 s3 s2 q1 q1 q2 s2 s3 s1 s2 s1 q5 ,6 - x s6 s6 s3
+s3 s6 s3' s1' s6 s3 s6 s3 s6 s1' s3' s1' s6 s3 s6 s3 s6 s7 s2'. s3'. s2' s7 s6 s3 s6 s7 s2'. s3'. s2' s7 x
+%END

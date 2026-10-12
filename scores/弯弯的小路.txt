@@ -1,0 +1,22 @@
+%弯弯的小路.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=18362
+title=弯弯的小路
+tag=
+usertag=
+tagroute=
+confidence=0.941
+conf_p10=0.808
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-18362
+%--
+4/4
+subtitle=score
+x x q0 s4' s4'. s5' dx 6'. s5' s5' s6' s5' s4' s2' q2' 6' s5' s6' q5' q2' s4' s5' s4' s2' s1' s2' s2' q4' 6 s2' s3' q2' 5 s1' s7 s7 6 s5 s6 s4
+s2 q2 6 s5 s6 q5 q2 s4 s5 s4 s2 2 0 q,2' q3' q,2' q6 q2' d6 s7 d6 s5 s3. s,2 s,,5 s6 s1' s3' ,2' - s,4' q3' q,2' q6 q2' d6 s7 s,,6 s5 q,3.
+s,,2 s,5 s6 s7 ,6 - q,5. d,5 q,6 s,5 d,6 q,5 d,4 s5 s3 q2 s6. d6 q1' s,2' s3' q,2' s,1' s6 6 s,3'. s,3' q,2' q,,5' s3' s,,2' s3' q,2' q5 s1' q,6 s1' q,,2' q3 ,2.
+q3 s5 s,6 s7 q,6 s1' s2' s3' q2' s,4' s2' s4' q,5' q6' q,5'. d4' s5' 6'. s5' s6' q,,5' s4' s2' q2' ,6' ,6' s,5' s,,6' q5' q2' s4' s5' s4' 2 2' - s4' 6. s2' s3'
+s2' x. s1' s7 q6 s5 s6 s4 s2 s2 q6 d5 s6 s5 q2 s4 s5 s4 s2 2' q2 q4' 2' h0 h2 h2 s2' h5 s3' s3' s3' h6 s1' s6 s6 s1' 2' 2' h2' h0
+h5' 2' s4' s5' 2' 2' s4' d2' 5 d2' s5 s6 h2' s4 h3' s2 h1' d6 5 d2'. 5 4' s4' s5'. 6 q2. q2' 2. h2' q5 h3' d1' q4 h6 s0 s5 s2' q4 q2 2
+- 2 - d2' s3' s1' 6 q2' q2' - q2' - s2' q0 0
+%END

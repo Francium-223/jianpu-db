@@ -1,0 +1,17 @@
+%弯脚舞蹈歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47830
+title=弯脚舞蹈歌
+tag=
+usertag=
+tagroute=
+confidence=0.997
+conf_p10=0.996
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47830
+%--
+2/4
+subtitle=score
+2 3 6 5 3 3 6. 1' 5 3 q2 1 1 1 ,5 q1 q3 2 2 2 3 5 5 3 2 2 2 3 5 5 3 2 2 2 3 5 2 2 5 6
+1
+%END

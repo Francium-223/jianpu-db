@@ -1,0 +1,22 @@
+%心中的恋人.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=37332
+title=心中的恋人
+tag=
+usertag=
+tagroute=
+confidence=0.978
+conf_p10=0.982
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-37332
+%--
+4/4
+subtitle=score
+qx 0 0 5 0 x 0 1 x x q3'. s3' s2' s3' s5' s6' 3' - q3'. s3' s1' s2' s7 d6 d5 6 - q6. s1' s3' s5' q3' 4' 4' 3' 6 q6 q3 6 -
+q6. s1' s5 s6 s5 s5 s6 s1' s3' d5' d3' 2' - q1'. s2' s3' s5' s3' s2' s7. d2' s7 d6 d5 6 - q7. s7 s6 s7 s6 s5 q3 3 q5 s1' s1' s3' s5' s3'
+d2' d3' s1' s1' q2' 2'. q3' s2' s3' s1'. d2' s3' s5' s3' s5' 3'. q3' s2' s3' s1' s1' s1' s6 6 - q7. s2' s1' s2' s6 s5 q3 3. s6 s1' s3' s5' s3' d2' d3'
+s1' s1' q2' 2'. q3' q6' q6' s3' s5' q6' 6'. q7' s6' s7' s2' s3' s6' s5' q3' 3'. q3' q6' s5' s6' s3' s2' s1' s6 2' q3' q3' s6' s7' s5' s6' s6' s5' q3' 3'. q3'
+q6' s5' s6' s3' s2' q1' 1' q6 q2' s1' s2' s1' ~ s1' ~ s1' s6 s5 ~ s5 q6 s1'. d2' s1' s6 6 - q3' s6' s7' s6'. d7' s5' s5' 6' - q3' s6' s7' s6'
+s7' s5' s3'. s3' q3' q3' 3' q6' s5' s6' s4'. d5' s4' s2' 2' - q3' s2' s3' s1' s2' s1' s6 6 - q7 5 s1' s6 6 - q7 5 s1' s6 6 - q7 5 s1'
+s6 6 - q7 5 s1' s6 6 -
+%END

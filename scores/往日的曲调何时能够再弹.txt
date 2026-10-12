@@ -1,0 +1,17 @@
+%往日的曲调何时能够再弹.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=25933
+title=往日的曲调何时能够再弹
+tag=
+usertag=
+tagroute=
+confidence=0.971
+conf_p10=0.918
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-25933
+%--
+6/8
+subtitle=score
+,6 6 3 q3 q5 q4 q3 2'. q1 7 q1 2 q3 2 q1 ,7. ,6 7 1 q3 2 q1 ,7 6 3 3 6 ,7 q2 1 7. ,6. ,6 6 6. 5 q4 3'. q4 q5
+q6 5 q6 4 q3'. 2. q2 q3 q4 3 q2 1 q2 ,7. 3 q3 q2 1 q2 3. 2. 1 7 1 q2 1 7 ,6 3 1 7 1 q2 1 7 ,6. ,6. 0
+%END

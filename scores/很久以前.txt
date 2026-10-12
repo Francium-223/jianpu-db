@@ -1,0 +1,18 @@
+%很久以前.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=13649
+title=很久以前
+tag=
+usertag=
+tagroute=
+confidence=0.996
+conf_p10=0.995
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-13649
+%--
+4/4
+subtitle=score
+1 q1 q2 3 q3 q4 5 q6 q5 3 0 5 q4 q3 2 0 4 q3 q2 1 0 1 q1 q2 3 q3 q4 5 q6 q5 3 0 5 q4 q3 2 q3. s2 1 -
+0 0 5 q4 q3 2 q,5 q,5 4 q3 q2 1 0 5 q4 q3 2 q,5 q,5 4 q3 q2 1 0 1 q1 q2 3 q3 q4 5 q6 q5 3 0 5 q4 q4 2 q3.
+s2 1 - 0 0
+%END
