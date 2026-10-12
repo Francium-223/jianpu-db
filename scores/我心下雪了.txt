@@ -1,0 +1,23 @@
+%我心下雪了.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=37725
+title=我心下雪了
+tag=
+usertag=
+tagroute=
+confidence=0.956
+conf_p10=0.926
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-37725
+%--
+4/4
+subtitle=score
+1 0 - - 1 1 x' x' x' x x q0 d0 s1 d2 dx d2 3 - qx' q1' q7 q6 3 - q3' q7 q1' 2' - q2' q7 q6 7 - - 0 ,6 6 q,6
+6 q5 ,6 ,6 q6 s1 q2 q2 s2 d3 d2 s1 s2 2. s2 s3 q1 6 q,6 5 q6 ,6 - q3 q3 q3 s6 s5 6 - sx' q6 s6 s5 s6 s5 3 - q,6 q,6
+s6 s1 s2 s1 2. s2 q6 q5 q6 6 - s5 s6 s5 s3 3 - q3 s2 s0 ,6 q5 q6 6 - 6 q,6 q5 5 0 0 6 q,6 q5 q5 s1 ,6 q6. q5 q5
+- 0 ,6 - q6 q6 q6 q5 q6 6 - q6 q5 q6 q5 q3 3 - q3 q6 q6 q6 q5 q3 q1 2. q1 q2 q3 s2 s0 q,6 q5 q6 ,6 ,x 1 - - 3'
+- - 6' 3' - - 6' 3' - - q2' q7' q2' q3' 2' q7' q7 7 - 3'. - q7 q3 3 - - q7 q6 6. q2 q3 q2 2 6 q3 q2 1 1 - -
+,6 ,6 - - 0 x q6 q6 q6 s5 q6 6 - s6 s2' s6 s5. s3 s3 s3. 3 - s3 s6 q6 s6 s5 s3 s1 2. s2 q3 s2 s0 q,6 s,5 q,6 ,6 - q6
+q6 q6 s5 s6 6 - q6 q1' q6 q5 q6 q5 q3 3 - q3 q6 q6 q6 q5 q3 q2 q3 s2 q2 q2 q2 q2 q3 q2 6 q5 q6 ,6 - q3 q6 q6 q6 q5
+q3 q2 q3 q2 q2 q2 q2 q2 s3 2 ,6 5 s6 6 - q6 6 6 s5 s6 6 - 6 q6 6 q5 s6 6 -
+%END

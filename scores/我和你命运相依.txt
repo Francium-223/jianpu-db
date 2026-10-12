@@ -1,0 +1,20 @@
+%我和你命运相依.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12621
+title=我和你命运相依
+tag=
+usertag=
+tagroute=
+confidence=0.957
+conf_p10=0.861
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12621
+%--
+4/4
+subtitle=score
+1. q1 q3 q2 ,1 ,2 3. q2 1 - 2. 3 ,4 q3 q2 q1 2 - - 0 1. q,,1 q3 q,2 1 q2 3. q2 1 q,7 q1 2. q,2 2 q3 q1 2 - - 0
+2. q,3 q,,4 q5 4 q,3 2 - ,5 - 2. q3 q4 ,,5 q4 q3 4 3 2 - 1. q1 q3 q2 q1 q2 3. q2 1 q7 1 2. q4 q3 q,7 2 1 - - -
+q,5 ,5 q,5 q,6 ,7 ,7 ,7 q,6 q1 ,7 q,6 ,5 ,2 q,5 q,5 q,,5. s6 ,7 q,,7 ,7 q,6 q1 q,7. s6 ,5 ,2 q1. q1 q1 q2 q3 q2 1 q,7. d,6 q,5 q,6 ,7 - ,3
+q,3 q,5 q,6 q7 q,6 ,5 q,6 qx 1 q,4 q,6 ,5 - 1. q1 q3 q2 q1 q2 3. q2 1 q,7 q,1 2. q4 q3 q,7 2 1 - - - ,x - - x 1. 2 -
+- 1 x 1. q,1 q3 q2 1 2 1 - - q,7 q1 2. q4 q3 ,7 2 1 - - -
+%END

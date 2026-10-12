@@ -1,0 +1,18 @@
+%我们的山歌牛毛多.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47914
+title=我们的山歌牛毛多
+tag=
+usertag=
+tagroute=
+confidence=0.997
+conf_p10=0.996
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47914
+%--
+3/4
+subtitle=score
+2 x 3 5 5 5 1 6 1 4 2 1 2 1 2. 1 6. 5 5 - q5 q5 q3 q5 q6 5 q1 q6 5. 6 1' 5 1 2. 1 6 5 - 6 1'
+6 ,1 6 1 6 1 6 1' 6 1 6 1 6 1' 6 1' 6 1' 6 1' 1' 6 2 1' 2 1' 2'. 1' 6. 5 5 - 6 1' 6 1' 6 1' 6 1'
+6 1 6 1 6 q1 q6 q1 4 q6 q1 6 q1 6 q1 4 q6 q6 6. 5 5 q0 q6 q6 q1 q6 q1 1 q6 q5. q6 1 - 1 5 6 1' 6 5 -
+%END

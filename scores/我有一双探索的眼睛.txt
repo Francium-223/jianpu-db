@@ -1,0 +1,20 @@
+%我有一双探索的眼睛.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=34485
+title=我有一双探索的眼睛
+tag=
+usertag=
+tagroute=
+confidence=0.868
+conf_p10=0.536
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-34485
+%--
+2/4
+subtitle=score
+,x q5 ,5 5 q4 3 3 1 2 3 4 q2 - q,5 ,5 ,6 q5 4 3 3 1 q2 q1 2 q4 3 q2 q1 0 1' x 2. 1'. 5 5 5 6 5' 4' x
+3 ,2' 3 2 ,1 - ,2 q2 2 3 q4' q3' q2 q6 5 4. 3 - 1' q5 5 1 5 q4 3 3 3 1' 2 3' 5 1' 6 - x ,5 x 6' 5 ,4'
+1' 3' 3 x' 1' 2 x. 2'. 4 ,x' x 3' 2 1' - x 6 1 x' 6 7 1' 1 1' 7 1' 7 6 6 5 q1 7 6 5 6 s,5 4 3 2 4
+,,3 2 - 5 qx q5 q,5' 4' 3 3 ,1 q2 q3 q4' 1' 6 - q5' q6' 5 q4 3 3 0 1 2 s,2' s4'. q,3' 2' 1 - q5 q6 q5 q4 3 q3 0 1
+q5 5 6' q7' 1 x 1' x
+%END

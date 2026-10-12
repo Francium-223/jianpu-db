@@ -1,0 +1,19 @@
+%我是一朵小花.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12623
+title=我是一朵小花
+tag=
+usertag=
+tagroute=
+confidence=0.881
+conf_p10=0.557
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12623
+%--
+2/4
+subtitle=score
+q5 q5' q5' q5. q6 s6 s1' h6 s1' q3' q3 s4 q4 x 5 5 5. q4 q6 q4 4 6 4 q4 q6 q4 5 5 - - q5 q5' q5. s6 s1' d1' q1' q3' q3 s4
+q4 5 5 q1 q1' q1 ,1 1 1 1 1 1. q1' s1. q1 s1 q1' q1 1 2 - q3 5 q5 q3 5. 0 0 0 0 q1' q5 q6 q6 q6 2 2 - 0 1
+0 0 q4 6 q6 q4 6. q1' q5 q6 q6 q6 7' 6' 5 - q3 0 q5 q5 q1 q2 q2 q2 q4 3' 2' 1 q,,5. s5 - 0 7' 5 - q3 q5 q5 q1 q2
+q2 q2 q4 3 2' 1 q5. ,5 3 - 3 0 1' ,1. x. 1. x' x' 1. x 1. x 3' 1'. x 1'. x'
+%END

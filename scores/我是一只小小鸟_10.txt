@@ -1,0 +1,19 @@
+%我是一只小小鸟_10.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=7490
+title=我是一只小小鸟
+tag=
+usertag=
+tagroute=
+confidence=0.726
+conf_p10=0.504
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-7490
+%--
+4/4
+subtitle=score
+- - - - 0 - - 0 0 0 0 - - - 5. x. x. x. x. - - - s6. - - - 0 0 - - - - 0 0 - - 0 - - -
+- - - - - 0 0 - - s5 5 s5 s5 s5 s5 s5 0 - - - 0 0 s5 s5 s5 q,5 s5 s6. s6. 0 0 1 - 0 s5. - - 0 s5. -
+- 0 s5. - 0 3. - - - sx. - - - sx. 0 0 q5'. 0 s6. sx'. 0 s1' 0 0 s1 q2. 1 0 0 q2. - - - 1 s5. - sx. 0 - -
+s5. 0 - s5. - 0 - 0 - 0 0 - -
+%END

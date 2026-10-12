@@ -1,0 +1,24 @@
+%我心中的歌献给解放军_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=496
+title=我心中的歌献给解放军
+tag=
+usertag=
+tagroute=
+confidence=0.953
+conf_p10=0.859
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-496
+%--
+2/4
+subtitle=score
+1 x x x. x qx - - 5. x x x s5 s1' s1' s2' s1' s6 s6 s5 q6 s5 s3 q2. s3 q5 s6 s5 s3 s2 s1 s2 q1 s1 s1 s1 s1 s1 s1 x
+s3 s5 s3 s2 q1 s1 s,6 s3 s5 s3 s2 q1 s1 s,6 q2 s3 s6 s5' s6 s3 d2 d3' 5 0 q1' s6 s5 s6 s5 q3 s1' s1' s6 s5 s3 s2 q1 s3 d2 d3
+s5 s3 s2 d3' s1 s2 ,6 0 d6 d1 s2 s3 q1' s1' q6 s6 s5 s3' s2 q1' s2. s3 s6 s5 s3 s2 s1 s2 1 0 0 0 x s2 s3 d2 s1 s6 s1 s1
+q1 s2 d3 s2 s1 s6 s1 s1 q1 s5 s1' s2' s1' s6 s6 s5 q6 s5 s3 q2. s3 q5 s6 s5 s3 s2 s1 s2 q1 s1 s1 q1 q1 x q5. s6 q1' q1' q2' s2'
+s1' s6' s5' s6 s1' q6 5. ~ 5 - q1'. s1' s1' s6 s6 s5 q6 s6 s5 s3 s2 s1 s2 q1 1. ~ 1 - q,6. s1 q2 q3 q5 s6 s5 q3 q3 q5'. s3' s5
+s1' s2' 6 - s5 s1' s1' s2' s1' s6 s6 s5 q6 s5 s3 q2'. s3' q5 s6 s5 s3 s2 s1 s2 q1 1. s5 s1' s1' s2' s1' s6 s6 s5 q6 s5 s3 q2. s3 q5
+s6 s5 s3 s2 s1 s2 q1 s1 s1 q1 q1 s3 s5 s3 s2 q1 s1 s,6 s3 s5 s3 s2 q1 s1 s,6 q2 s3 s6 s5' s6 s3 d2 d3' 5 - s6 s5 s6 s5 q3
+s6' s6 s5 s3 s2 q1 s3 d2 d3 s5 s3 s2'. d3' s1 s2 ,6 - d6. d1 s2 s3 q1'. s1' q6 s6 s5 s3' s2 q1' s2' s1 s2 s3 s5' s6 s3 s6' 5'. q6' q2'
+s2' s1' 1' 1' 0 x
+%END

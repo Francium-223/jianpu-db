@@ -1,0 +1,21 @@
+%我把真心给了你.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=27441
+title=我把真心给了你
+tag=
+usertag=
+tagroute=
+confidence=0.989
+conf_p10=0.972
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-27441
+%--
+4/4
+subtitle=score
+- - - - q0 q3 q3 q3 q3 q2 q2 q1 q,7 q,6 q,6 q,5 ~ ,5 - q0 q,6 q,6 q,6 q,7 q,6 q,6 q,5 q,5. s,6 ~ q,6 q,2 ,3 - q0 q2 q2 q1 2 q1
+q2 q3 q2 q1 s,7 s,6 ,6 q,6 q3 q2 q2 q2 q1 q,7 q,6 q,6 q,5 ,6 - 0 0 q0 q3 q3 q3 q3 q2 q2 q1 q,7 q,6 q,6 q,5 ~ ,5 - q0 q,6 q,6 q1
+q,7 q,6 q,6 q,5 q,5. s,6 ~ q,6 s,5 s,3 ,3 - q0 q2 q2 q1 2 q1 q2 q3 q2 q1 s,7 s,6 ,6 q,6 q3 q2 q2 q2 q1 q,7. s,6 ~ q,6 q,5 ,6 - 0 q3
+q5 q6 q5 q1' q1' 7 q6 q5 q5 q6 q6 s5 s3 3 q,6 q1 q2 q1 q2 s3 s2 2 q,6 q1 q2 q1 q2 s5 s3 3 q3 q5 q6 q5 q1' q1' 7 q6 q5 q5
+q7 q7 q6 6 q,6 q1 q2 q1 q2 s3 s2 2 q,5 q1 q2 q3 q2 q,5 ,6 - q,5 q,3 q,5 ,6 q1 ,6. q,5 q,3 q,2 q,3 q,5 ,3 - - q1 q2 3 q3 q2 q3
+q5 - - - - q2 q3 q2 q,5 ,6 q3 q5 q2 q3 q2 q,5 ,6 -
+%END

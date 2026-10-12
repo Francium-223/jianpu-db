@@ -1,0 +1,17 @@
+%我的小猫.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48769
+title=我的小猫
+tag=
+usertag=
+tagroute=
+confidence=0.998
+conf_p10=0.999
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48769
+%--
+2/4
+subtitle=score
+q0 1 1 7 1 q2 1 q0 7 q7 q6 q7 6 5 0 7 q7 q6 q5 7 q7 6 q5 5 4 3 q0 4 q3 q4 6 5 0 6 q7 s7 q1 7 q6 q5
+q0 7 q7 6 5 7 - 7 - q0 6 q7 1 7 2. q2 1 0
+%END

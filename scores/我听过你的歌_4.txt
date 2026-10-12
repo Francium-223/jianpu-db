@@ -1,0 +1,24 @@
+%我听过你的歌_4.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=767
+title=我听过你的歌
+tag=
+usertag=
+tagroute=
+confidence=0.876
+conf_p10=0.503
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-767
+%--
+4/4
+subtitle=score
+qx q1 - - - 6 - x x x. x x s0 s3 q3 q4 5' ~ q5' q3 q7 q1' 6' ~ q6' q3 q3 q4 q5 q0 s4 s3 q0 q3 q1 s2 s3 q2 2' -
+q2' q3 q2 q1 q3 q3 q3 q2'. 3 q,5 q,5 q,6' q1' q2' q1' 1 q0 q,5 q3 q3 q3 q2 3 q2 q1 q1 q2 q3' q2' 2 q0 q,5 q1 d1 h1 h1'. h1. q1' q1 s1
+s1 q,6 s5' s5' s5' d5' q2 d3 d3 d3 s3' sx' q1 h1 s5. s,x' d3 s5'. q5'. dx s,5 h0 h0 s0 s5 q5' h0 qx' s3 q3' q2' q,5 q1 x' x' x' q1' s1 s1 s1
+q1' d1 q1 h1. s1 s1 d1 d1 d1' s1 h1' q,6 h6 h6 h,6 s2. s2. s1 q2 1' 1 s1 s0 d1 q1' d1 q1 dx d2' h1 q2 q3' s3' s3' s3 3' 1' s3 s3. q3'
+qx. q5 d5 d5' d3' s3 h5 q5 h2 h1 q5 h5' s5 s1 s1' q5 s0 s0 d0 s0 s0 q0 s3' s5 s5 q5 s0 s0 d0 q5' h3 h1 h1 h6 h6 h6 h3 s6 h2' h2
+h2 h2 h2 h2 s2' s5' 3' - q0 q2 q3 q1 2 - q6 q6 q5 q1' ~ 1' - - q0 q,5 q1 s1 s1 q,6 q2 1 - x 5 q1' q3' ~ 3' 5 3 q3'
+~ 3' q2' s6 s5 5 q3' ~ 3' - 5 - - 0 5 q1' q3' ~ 3' 2' 6 q3' ~ 3' q2' q1' q6 q5 s6 s7 s6 s5 s5 s6 s5 s4 s3 s4 s3 s2
+s2 s3 s2 s1 1 - q0 s5 q1 s1 s1 q6 q2 q1 q5' ~ q5' q5 q6 q6 q6'. q6 q5 q5 q3 q2 q1 q1 q0 s2' s1' 1 q0 s1 s2 q3 q3 q2 q1 q2
+q3 q0 s3' s2' q1 1. 0 0 0 0 0 0 1 s7 q1' ~ 1' -
+%END

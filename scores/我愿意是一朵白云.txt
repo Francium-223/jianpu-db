@@ -1,0 +1,18 @@
+%我愿意是一朵白云.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14824
+title=我愿意是一朵白云
+tag=
+usertag=
+tagroute=
+confidence=0.988
+conf_p10=0.989
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14824
+%--
+4/4
+subtitle=score
+x d1 d2 d3 1 - q1 - s1 s2 - q3 s1 s1 s5 s1 q1 x q1 s2 d3 d2 s1 1 - q1 s2 d3 d2 s1 s2 s2 d2 s1 1 x d1 d2 s2 d3
+d2 s1 1 s1 1 q2 q1 - q1 s1 s2 q1' s1' s2 q3 s2 d3 d2 s1 1 s2 s3 s3 d2 s1 1 s2 s3 s2 d3 d2 s1 1 s2 s3 d2 s1 1 - 1
+- 1
+%END

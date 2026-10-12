@@ -1,0 +1,16 @@
+%我是山林里的人.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48267
+title=我是山林里的人
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.997
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48267
+%--
+3/4
+subtitle=score
+,6 - 1 2 - 1 ,6 - 1 3 - - 3 - q2 q1 q1 q2 3 - 3 2 - 1 6 - 6 6 0 0
+%END

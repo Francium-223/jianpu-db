@@ -1,0 +1,20 @@
+%我思念故乡.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=31854
+title=我思念故乡
+tag=
+usertag=
+tagroute=
+confidence=0.969
+conf_p10=0.924
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-31854
+%--
+2/4
+subtitle=score
+s1 s2 3 - 3 5 1 - 1 ,6 1 - 1 q2. d3 d2 1 - 1 q0 q,3 q,6 s,7 s,6 ,5 ~ ,5 q2. s3 1 - 1 - q,6 s2 s3 1 ,6 q1 s,6
+s,5 ,5 - ,5 - q,6 s2 s3 q1 q,6 ,6 q5. s2 3 - 3 - q,6 s2 s3 q1 q,6 ,6 q5 s5 s6 2 - 2 q1. s2 6 - 6 s6 s1' q6 5. q3 ~
+3 s2 s3 q1. s6 ~ q,6 q,5 0 q5 q2 3 - 3 q2. s3 6 - 6 s1' s1' q6 5. q3 ~ 3 s2 s3 q1. s6 ~ q6 s5 0 q2. s3 1 - 1 s1
+s2. 1 - 1 s2 s3 q1. s6 ~ q,6 q,5 0 q2. s3 1 - 1 s1 s2 3 - 3 5 1 - 1 ,6 1 - 2 q5 q2 3 - 3 q1 q2 3 - 3
+5 1 - 1 ,6 1 - 1 q2. d3 d2 1 - 1 - x
+%END

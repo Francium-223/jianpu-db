@@ -1,0 +1,16 @@
+%我在您身边飞起_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14823
+title=我在您身边飞起
+tag=
+usertag=
+tagroute=
+confidence=0.997
+conf_p10=0.984
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14823
+%--
+4/4
+subtitle=score
+s2 s1 s1 q1 q1 q,3 q1 q1 s1 q2
+%END

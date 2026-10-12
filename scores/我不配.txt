@@ -1,0 +1,18 @@
+%我不配.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=20727
+title=我不配
+tag=
+usertag=
+tagroute=
+confidence=0.857
+conf_p10=0.515
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-20727
+%--
+4/4
+subtitle=score
+0 2 2 2 x 2 1 1 0 x x 2 ,2 2'. 2 ,1 x' 1 0 x 2 ,x 2 2 2 ,,1' 1' ,1 1' 5' x' 6 6' 1 1 0 3 x 3 3
+,3 2 1 0 3 3 - ,3 ,3 2 1' 0 3 3 3 x' 3 2 x x' 2 x 2 x 2 2' 2' x q1 2 1 5 4 4 4 4 3 3 2 x
+2 2 1' 2 3 3 3 3 3 s4 2 2 - 5 q5 5 4 1 4 3 2 1 2 3 2 q1 1 - - - x.
+%END

@@ -1,0 +1,19 @@
+%我想去桂林.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=21616
+title=我想去桂林
+tag=
+usertag=
+tagroute=
+confidence=0.955
+conf_p10=0.864
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-21616
+%--
+4/4
+subtitle=score
+q3' q3' q2' q3' q6 q5 q3' q5' q5' 2' - q6 q3' q6 q3' q2'. s3' q2' q6 q5 q3 q6 5 - q3' q3' q2' q3' q6 q5 q3' q5' q5' q1' 2' - q6 q3' q6 q3'
+q2'. s3' q2' q6 q5 q6 q6 2' ~ q2' x x q3 q5 q5 q3 q5 q5 q5 q6 2' q6 5 - q3 q5 q6 q3 q5 q5 q5 q6 q2' q3' q5' 2' - q3' ~ q3'
+q2' q3' q5' q5' q0 q5 q6 1' s2' q6 - 6 q2' 3' 2' 2' 2' q6 q6 q3 5 - q3' q3' q2' q3' q6 q5 q3' q5' q5' q1' 2' - q6 q3' q6 q3' q2'. s3'
+q2' q1' q6 q5 q3 q6 5 - q3' q3' q2' q3' q6' q5 q3' q5' q5' 2' - q6 q3' q6 q3' q2'. s3' q2' q6 q5 q6 q2' ~ q2' x x x
+%END

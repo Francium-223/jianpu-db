@@ -1,0 +1,18 @@
+%我们这里新事多.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14770
+title=我们这里新事多
+tag=
+usertag=
+tagroute=
+confidence=0.965
+conf_p10=0.959
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14770
+%--
+4/4
+subtitle=score
+5 1' q5 5 2 1' q3 s3' ,1 3 q6 5 - q5 q1 ,1 5 3 6 5' 1 q5 4 q3 q2 1 - 0 6 4 1' 6 5 4 q3 q4 5 ,1' 0 2
+3 4 6 1' 5 5 5' 6' 7 q2' 1' - ,3 ,1 ,7 6 5 1 7 6 s5 ,4 q3 q5 q3 s3 s4 5 q1 q7 6 5 3' ,1' 7 6 5 1 7 6
+s5 ,4 3 q5 q3 q3 s4 5 1 7 1 2 7 1. 2' 1' - 5' 2. - 5' 2 1' -
+%END

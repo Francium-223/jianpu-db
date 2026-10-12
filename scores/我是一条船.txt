@@ -1,0 +1,20 @@
+%我是一条船.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=11814
+title=我是一条船
+tag=
+usertag=
+tagroute=
+confidence=0.970
+conf_p10=0.944
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-11814
+%--
+2/4
+subtitle=score
+x 3 5 1' 3 5 3' 2' 1' q5 q3' 2' 1' 5 3' 2' q1' q5 3' 2' 5 q7 6 q6 q7 5 - 3 5 6 7 6 6 2' 1' 2' 6 5. 5 6
+5 1 q2 1 ,x 3 6 1. 1. 5 0 - q7 q5 6 6 5 - 5 q6 7 6 6 q6 5 1 2 3 - 3 5 q3 q6 5. q3 5 q7 6 6. 6
+6. 5 6 q5 3 q3 q3 1 2 1 1 - x 1 3 3 1 q3 q,7 5 3 3 ,7 ,6 - ,6 q,,7 1 3 6 7 1' 3' 1' 2' 1' - x 5 5.
+3 5. 3 5 5 3 5 6. q6 7 2' q6 5 - 5 5. 3 6. 1' 6 2' 2' - 2' 3' q2' q3' 2' q1' - 7 6 7 6 q6 5 ,,3 qx 6. 6
+q6. q1' 2' q6 5 3' 0 3' 6 5. 3 0 3 2 2. 3 5 q7 6. 6. 5 3 1. q3 1. 1 -
+%END

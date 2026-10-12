@@ -1,0 +1,18 @@
+%我很快乐.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=10201
+title=我很快乐
+tag=
+usertag=
+tagroute=
+confidence=0.986
+conf_p10=0.964
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-10201
+%--
+4/4
+subtitle=score
+1 - - 1 2 1 - - 2 1 - - 2 1 - - 5 - - 5 6 5 - - 6 5 - - 2 5 - - 3 - - 6 6 3 - -
+6 3 - - 6 1 - - 2 - - 5 3 1 - - 0 0 0 0 0 0 0 0 1. 1 1. 1 1. 2 3 5 6. 5 6. 3 5 0 6. 6
+5. 3 6. 6 5. 3 2. 2 2. 3 2 - q1. q1 q1. q1 q1. q2 q3 q5 q5. q5 q6. q5 6 0 q6. q6 q5. q3 q6. q6 q5. q3 q2. q2 q2. q3 1 -
+%END

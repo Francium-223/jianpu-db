@@ -1,0 +1,19 @@
+%我心潮澎湃.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14673
+title=我心潮澎湃
+tag=
+usertag=
+tagroute=
+confidence=0.953
+conf_p10=0.697
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14673
+%--
+3/4
+subtitle=score
+q1 q2 3 6 7 6 - q5 q4 3 2. q3 4 - - 3 - q2 3 1 q,7 ,6 - - ,6 0 q2 3 6 7 6 - q5 q4 ,7 3. q2 5 - -
+,7 - q3 q5 1 2. q4 3 - - 3 - 0 6 5. q3 1 - q2 qx q2 3 4. q,6 1 - - 7 - q5 q3 6 4. q,6 2 - - 2 - 0
+- q3 q2 7 - - 7 - q2 6 - - 3 - q,6 4 3 2 ,6 - - ,6 - - q3 qx q2 7 - - 7 - q2 6 - - 3 - q,6 4
+3 2 6 - - 6 -
+%END

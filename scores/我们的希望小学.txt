@@ -1,0 +1,19 @@
+%我们的希望小学.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12619
+title=我们的希望小学
+tag=
+usertag=
+tagroute=
+confidence=0.950
+conf_p10=0.850
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12619
+%--
+4/4
+subtitle=score
+q1 q5 q5 q0 q1 q6 5 0 1 q5 q5 q1 q1 q6 q5 q0 q1 q5 q5 q0 q1 q6 q5 q0 q1 5 5 5 q1 q6 q5 q0 1 q1 1 5 5 0 q1 q1
+q1 q6 5 0 q1 q1 q1 q1 6 5 1 q3 q5 5 0 1 1 1 q5 5 0 q1 q1 q1 q6 5 0 q,5 q,6 q1 6 5 3 q1 q,6 ,5 - - 0 1
+6 5 q1 q1 ,5 1 q3 5 - 5. q0 1 6 5 q1 q1' 6 5 s,,,1'. q,,,1'. ,,,6'. 1. 3 1 q,6 q1 1 - - 0 5 - 3 q1' q1 q5. 0 - s,,,1' -
+1 1 3 q1 6' 0 0 1
+%END

@@ -1,0 +1,24 @@
+%我也不知道.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=22591
+title=我也不知道
+tag=
+usertag=
+tagroute=
+confidence=0.933
+conf_p10=0.759
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-22591
+%--
+2/4
+subtitle=score
+0 0 0 0 0 q1' q2' s3'. d3'. s3' s5' q1' d1' s1' s1' s1' s1'. s3' q3' d5 s5 ~ s5 s5 s5' d2' s1' s1' ~ s1'. s3' s3' q4' s2' s1' q1'. s3'. s3'. s3' s5'
+q1' s1' d1' s1' s1' s1'. d3' q3' s5 d5 ~ s5 s5 d5' s2' s1' s1' s1' s3' s3' s4' d2' s1' s1'. d3'. s3'. d3'. d5' q1' d1' s1' s1' d1' d1'. d3' q3' d5 s5 ~ s5
+d5 d5' d2' d1' s1' s1' d3' s3' q4'. d2' s1' s1'. s3'. d3'. d3' d5' s1' d1' d1' s1' s1' s1'. s3' q3' s5 s5 ~ s5 s5 s5' s2' s1' s1' s1'. s3' s3' q4' s2' q2' s1'
+~ s1' q1' - s0 d5 d5 s1' s1' s1' s5 s1' s1' s1' s5 s1' s1' q1' q1' s0 d5 d5 s1' s1' s1' s5 s1' s1' s1' s5 s1' s1' q1' q1' s0 s5 s5 s1' s1' s1'
+s5 s1' s1' s1' s5 s1' s1' q1' q1' s1' s1' s7 s7 s7 s7 s6 s7 s6 s1' q1' s1' s1' s1' s1' s1' s1' s1' q1' s1' s6 q6 s1' q1' s2' s2' q2' s0 s2' s2' s2'
+s2' s2' s5 s5 s3' s3' q4'. s3' s3' s1' s1' s1' q1' s1' s6 q6 s1' q1' s5' s2' q2' s0 s5' s2' s2' s2' s5' s1' ~ s1' 1' q2' q2' 1' q1' q2' q1' - 0 0
+0 0 0 0 0 0 0 0 0 s1' s7 s5 s3 s1' s7 s5 s3 s7 s5 s3 s5 s3 s5 s2 s1' s7 s5 s2 s1' s7 s5 s2 s7 s5 s2 s1' s7 s5 s3 s5
+s3 s1' s7 s5 s3 s5'. s2' s5 s7 s5 s3 s5 s3 5 s1' s2' 3' - 3' 0 1' - 2'. q2' q2' 3. s3' q4'. s3' 3' 3' - 0 q1' ~ s1' ~ s1' q1' -
+0 0
+%END

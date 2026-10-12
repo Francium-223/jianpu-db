@@ -1,0 +1,18 @@
+%我用自己的方式爱你_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=20175
+title=我用自己的方式爱你
+tag=
+usertag=
+tagroute=
+confidence=0.962
+conf_p10=0.851
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-20175
+%--
+4/4
+subtitle=score
+,5 6 1 3 2 1 1 2 5 5 3 s,5 q6 q1 3 2 2 1 1 ,3 5 ,7 1 3 2 2 1 2 5 5 5 1 ,2 ,7 ,5 0 0 q3 q,5 ,6
+1 q,3 s5 ,6 1 3 2 2 1 2 5 5 3 ,5 q6 q1 3 2 2 1 1 ,3 ,5 ,6 1 2 1 2 5 3 3 3 q,,5 1 3 5 5 5 6 ,6
+3 ,5 6 1 2 5 5 6 6
+%END

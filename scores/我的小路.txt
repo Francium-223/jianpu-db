@@ -1,0 +1,20 @@
+%我的小路.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=24706
+title=我的小路
+tag=
+usertag=
+tagroute=
+confidence=0.948
+conf_p10=0.859
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-24706
+%--
+4/4
+subtitle=score
+x 6 1' ,1' 7 6 6 7 1 4 3 2 1 0 q,7 q,7 3 0 q1 q1 ,7 0 - ,6 3 - 2 1 q,5 ,6 - ,6. q,6 ,7 q1 2. q2 ,7 ,5 3
+- - - 3 5 - 3 3 3 ,6 3 2 - q2. s2 2 2 q1 q1 ,7 ,6 ,7 - - - ,6 ,6 q3 2 1 q,7 ,6 ,5 ,6 - q6. q6 ,7 1 2.
+s2 q,7 q,5 - - - 3 5 - 3 6 q3 3 2 2 2 1. q1 ,7 s,3 q,3 ,7 ,6 - - 6 1 - 0 1' 7 6 q6 7 q6 4 - 5 7. 7
+6 q5 q5 6 5 3 - 3 5 0 5 q5 q3 q6 6 3 2 - 2 1 0 ,7 ,3 1 q,7 ,6 - q,x 6 1' 1' q1' q7 q6 q6 7 q6 4 - 5
+7 7 7 6 5 5 6 5 3 - 3 5 5 q5 5 q3 6 q3 2 - 2 1 0 ,7 q,3 0 1 ,7 ,6 -
+%END

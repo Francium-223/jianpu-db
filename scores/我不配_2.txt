@@ -1,0 +1,18 @@
+%我不配_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=32968
+title=我不配
+tag=
+usertag=
+tagroute=
+confidence=0.976
+conf_p10=0.919
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-32968
+%--
+2/4
+subtitle=score
+q1 q1 s1 s1 0 - - - - - - - - - - - - - - q1' - q1 - - - s1 s3 q3 s3 s2 s2 q4 s3 q2 s1 q1 5. s5 q5 q5
+s3 s2 q2 q3 3 2 q1 s1 q5 s5 q5 s3 q3. q2 s3 q2. d5 s,3 s2 s2 s3 s3 3 s2 q1. 1 s3 q3 s3 s2 q2 q3 s3 q3 q1 q1 s5 s5 q5 s3
+s2 s2 s3 q3 q2 s1 s1 s5 s5 q5 s5 s3 q3 q2 1 2 q3 s2 s1 ~ 1 - - - x x 1 - - -
+%END

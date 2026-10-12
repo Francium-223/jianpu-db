@@ -1,0 +1,18 @@
+%我俩的爱情.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47866
+title=我俩的爱情
+tag=
+usertag=
+tagroute=
+confidence=0.982
+conf_p10=0.983
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47866
+%--
+2/4
+subtitle=score
+x 1 4 4 q4 q4 s4 q4 q1 3 q3 s3 s3 q3 q3 x q0 q5 s1 q3 q3 5 q5 q4 5 4 4 3 5 5 5 5 4 3 2. 2 2 1 ,5 4
+1 0 5 q1 3 3 5 5 q4 5 3 3 2 1 2 3 3 5 q4 4 5 2 5 4 1 - x q1 q4 q4 q4 q4 q4 q4 q1 q3 q3 q3 q3 q3
+q3 x. q3 q3 q5 q4 q5 q4 2 5 q4 1 - 4 3 2. 1 2 1 2 4 2 5 4 1 3 4 3. 2 3. 2 3. 6 6 5 1
+%END

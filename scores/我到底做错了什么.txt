@@ -1,0 +1,23 @@
+%我到底做错了什么.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=26414
+title=我到底做错了什么
+tag=
+usertag=
+tagroute=
+confidence=0.963
+conf_p10=0.917
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-26414
+%--
+4/4
+subtitle=score
+1 - - - 1 x 1. x 3 - s3 s1 s2 q3 s1 s2 q2 s1 - 0 s0 d2 d3 s1 q2. q2 q2 q1 s2 s1 s3'. s3'. s2' ~ 2' q3'. q2' ~ s2'. s2'.
+q3'. q3' ~ 3' 3' 2' 6 - q7 q3 q1' q1' 6 - q2. s2 q2 q3 q5 q6 q7 q5 3 - 0 0 4. q4 2 q0 q3 q3 ,6 q3' 1' - q7 s7 s7 q7
+q6 q5 q6 q7 q5 3 - 0 0 4 q4 2 q3 s6 q3'. q3' q3' q2' q1' 1'. q3' 7. q2'. q3' q1' q7 q6 q6 ~ 6 - 0 3' 2' 6 - q7 q3 q1' q1'
+6 - q2. s2 q2 q3 q5 q6 q7 q5 3 - 0 q0 q3 4 q4 q3 2 - q2. s6 q,6'. q3' 1' - q7 7. q5 q6 q7 q5 3 - 0 q0 q3 4 q4 q3
+2 q0 q2 q2 ,6 q3' 1' - 7 q7 q6 5 q3 q5 q6 q6 6 - 0 6 6. s6' s6' 4' q3' 2' q1' q1' 2' - 5. q6' q5' 2' q4' q3'. q3' 3' - 0
+6 q6' 4' q4'. q2' q3'. s3' q3' q2' 1' - 2' q2'. q3' 2' q5 q7 q6 q6 ~ 6 - 0 6. s6' ~ s6' 4' q3' 2' q1' q1' 2' - 5 q6' q5' 2' q4' q3'.
+q3' ~ 3' - 0 6 q6' 4' q4' q2' q3'. s3' q3' q2' 1' - q2' s2'. q3' q2' s5 q7 q6 s6 6 - x x 5 3' - q3'. q3'. d2'. 2' - - 3' - q3'.
+q5' d2'. 2' - - 5 3' - q3'. q5' s1' s2' q2'. s1' s5'. s3' q1'. 5 q5 q3 - - x x q1. x. x' q6 q6 6 - 0
+%END

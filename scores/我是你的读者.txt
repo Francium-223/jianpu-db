@@ -1,0 +1,20 @@
+%我是你的读者.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=20679
+title=我是你的读者
+tag=
+usertag=
+tagroute=
+confidence=0.972
+conf_p10=0.958
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-20679
+%--
+4/4
+subtitle=score
+x 1' 0 0 ,5 5 5' 3 q4 5 ,6 ,6 - 4 5 ,6 ,6 - 2 3 q,4 q,4 q,4 ,5 ,6 1 q1. 2 1 ,7 - - - 1 ~ 1 q1 q1 q1 2
+q3 q1 q1 q,5 ,5 0 ,4. s,4 ~ q,4 q,6 q,6 1 q,5 ,4. ,4. q,3 ,3 ,3 ,3 0 s1 s1 q1 q1 q1 2 s2 s2 q3 s1 1 1 q,7 q,6 ,6 ,5 ,5. q1 1.
+q,5 q,6 - s,4 ,3 0 s,3 s,3 s4 s4 - q1 q,7 1 - q4 q4 q3 q3 q3 q1 q1 1 2 q2 4 4 q3 q2 3 - s1 s1 q1 q1 1 4 s4 s4 s4
+s4 q4 q4 q5 q5 q5 q5 q5 q5 s2 s2 q3 2 0 ,3 ,4 ,5 1 - q1 2 ,6 ,6 2 - - x 0 - - 5 - 5 - - 0 x. 0 x 0
+0 0 0 q6 5 5 - - 5 - - - 0 q4 q2 q3 ~ 3 - 3 - - 0
+%END

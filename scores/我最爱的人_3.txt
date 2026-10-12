@@ -1,0 +1,21 @@
+%我最爱的人_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=5813
+title=我最爱的人
+tag=
+usertag=
+tagroute=
+confidence=0.981
+conf_p10=0.980
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-5813
+%--
+4/4
+subtitle=score
+0 0 6 2 1. 1 1' - - - 5 - - s5 d6 s5 s2 3. q1 2. q,7 q1. s2 s3 s4 s5 s6 s7 s1' s2' 3' - 5 - 6 - 2 - ,7 ~
+s,7 s,2 s,3 s,4 ,5 1 2 - 1 - - - q3 q4 q5 q6 q5 5. q4 q3 q2 q1 ,5 - q,6 q,7 q1 q,6 s5 s6 6. q5. s4 ~ q4 q3 2 - q3 q4
+q5 q1 q6. s6 ~ 6 q5 s4 s3 q2 q,6 4 - q2 q3 q4 q5 7 - q7 6 s6 s7 5 - 1 - - q6 q7 q1 q3 q7. s2 1 q7 q6 7. q6 5
+- q4 s4 s5 q6 q7 6 - q7 q7 s6 s6 q7 5 - q1' q3 q1' q2' s2' s3' 7. q1' q7 q6 q5 4 - q2 s2 s3 q4 q5 q7. s7 7 q7 q7 s6 s6
+q7 5 - 5 s5 s4 s4 s3 1. s,7 s1 ,5 s,5 s,4 s,4 s,3 ,1 - q,6 d7 s1 2 q,6 s1 s2 q3 q2 3 s3 s2 s3 s5 ,7 ,6 1 - - - q7 q7
+s6 q6 s7 5 - q5 q4 3 - q2 s2 s3 q3' q1 1 - - 6 - x 5 - 5 - - - 5 - - 0
+%END

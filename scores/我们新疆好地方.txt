@@ -1,0 +1,18 @@
+%我们新疆好地方.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=36992
+title=我们新疆好地方
+tag=
+usertag=
+tagroute=
+confidence=0.992
+conf_p10=0.981
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-36992
+%--
+2/4
+subtitle=score
+x s2. s2 s2 s2 s2 s1 q2 s2 s5 s3 s2 s2 s3 q1 s5 q3 s3 s2 s3 s1 s2 1 0 s5. d5 s5 s6 s5 s3 s5 s5 s6. s1' s5 s6 q5 s5 s3 s3.
+d5 s3 s2 s1 s1 q1 s2. d3 s1 s2 1 s5. d5 s5 s6 s5 s3 s5 s5 s6. s1' s5 s6 q5 s5 s3 s3. d5 s3 s2 s1 s1 q1 s2. d3 s1 s2 1 s2 q2
+s2 s2 s1 s2 s2 s2 s5 s3 s3 s2 s3 q1 s5 q3 s3 s2 s3 s1 s2 1 -
+%END

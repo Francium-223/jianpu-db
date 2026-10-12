@@ -1,0 +1,22 @@
+%我们就是黄河泰山_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=40543
+title=我们就是黄河泰山
+tag=
+usertag=
+tagroute=
+confidence=0.659
+conf_p10=0.326
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-40543
+%--
+2/4
+subtitle=score
+1 qx - - - - 5 5 2 2 - x 1 1 1 ,x x 1' x ,4' 1' 4' ,2. ,4'. ,4'. 2' ,,2' ,1' 2. 5' q1' s5' s1' s4 s5'. 1' 1 2 s7' s2
+s2 s4' s2 h1' h1 s,1 q2 d2' q1 h1' d1' d1' s1' s,1' s1' s4 s4 h1' h7' h7' d,7'. s,6' s6 s6' h7' s6 s6 1' s1' ,6' q,6 q6'. s7 7' 7' s6' d,6 s,1' q1' 6
+1' 1 1' 1' 1' 1' 5 q1 q1' q5. q1. q1 6' 1 1 1 ,1' 1' ,4' ,1' 1' 1' 1' x' x' s,4 q4 q,1' q,1 1. 7'. 7'. q5 3'. 3' h3' h,3' h,3' s1. s7'.
+s7 s6 q7 h2' q1'. q1' s1 1. q2' q1' 1' 1' 1 ,1' 1' 1' 1' 1' ,1' s5' q5 q5 h1' 1 d,1 d,1 d1 d2 d3 7 1' 1 ,1' q1 ,1 1' 6' d1' 1' 1
+s6' ,x' ,1' d1' d1 d1' d7 d2 s6 7 ,1' ,1' ,1' 1 6 5 s6' s6' 6 5' 5' 6'. ,6'. 6. 1' ,1 1' q1 q1 q6' q5'. q5. q,5'. q1'. q,5' q,5' q5. q1 q1' q,1'
+q,,1' s1' q,6 q1' q1' q,6 s,7' 6 q1' q1 q1' q1' q1' ,2' ,2' ,,2' q1 x q1' q,1' 1' 1' 2' 4' 1 1' 1 q,7'. q4 1 1' qx q1 q1 3' 3 3' 1 3 3
+2 ,,1 1' 1 x - 2' 2' s7' 2' - q2'. q2' s2' q2' q5 5 7 ,1 - 0
+%END

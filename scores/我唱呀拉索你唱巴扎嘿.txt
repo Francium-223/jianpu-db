@@ -1,0 +1,24 @@
+%我唱呀拉索你唱巴扎嘿.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=17561
+title=我唱呀拉索你唱巴扎嘿
+tag=
+usertag=
+tagroute=
+confidence=0.974
+conf_p10=0.954
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-17561
+%--
+4/4
+subtitle=score
+- - - x 0 1' x x 3 - - - q0 s3 s5 q3 q2 q1 q3 q2 q,6 1 - - - x q1 q,6 q1 q,6 q1 q,6 q,4 q,6 ,5 - 0 0 q1 q,6
+q1 q,6 q1 q2 q3 q5 3 - 0 0 q2 q2 q2 q3 q3 q2 q,6 q1 ,6 - 0 0 q2 q2 q2 q3 q2 q1 q,6 q1 1 - 0 0 q3 q2 q1 q,6 1 0
+q1 q,6 q1 q,6 q1 q,6 q,4 q,6 ,5 - 0 0 q1 q,6 q1 q,6 q1 q2 q3 s3 s5 3 - 0 0 q2 q2 q2 q3 q3 q2 q,6 q1 ,6 - 0 0 q2 q2 q2
+q3 q5 q3 s2 s1 q,6 1 - - - q3 q2 q1 q,6 1 0 1 q2 q3 q5 5 q6 q5 q3 s2 s3 q5 5. 1 q2 q3 q1 1 q,5 q5 q3 s2 s1 q,6 q1
+1. 1 q2 q3 q5 5 q6 q5 q3 s2 s3 q5 5. q6 q5 q3 q2 q3 q5 q6 q5 q3 s2 s1 q6 q1 q1 1 1 q2 q3 1 q2 q3 q0 q1 q2 q3 q5 q5
+5 1 q2 q3 1 q2 q3 q0 q5 s3 s2 s1 s6 q1 q1 1 1 - - - 3 - 2 - 1 q2 q1 ,7 q,6 q,5 ,6 - - - 1 - - - 3 -
+2 - 3 q2 q1 3 q3 q5 3 - - - 3 - 3 - 1 q2 q3 q5 5 q6 q5 q3 s2 s3 q5 5. 1 q2 q3 q1 1 q5 q5 q3 s2 s1 s6 q1
+1 1 q2 q3 q5 5 q6 q5 q3 s2 s3 q5 5 q6 q5 q3 q2 q3 q5 q6 q5 q3 s2 s1 q,6 q1 q1 1 q6 q5 q3 q2 q3 q5 q6 q5 q3 s2 s1 q,6
+q1 q1 1 x 1. x
+%END

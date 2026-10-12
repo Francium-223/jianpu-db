@@ -1,0 +1,20 @@
+%我在身边_6.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=46696
+title=我在身边
+tag=
+usertag=
+tagroute=
+confidence=0.979
+conf_p10=0.988
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-46696
+%--
+2/4
+subtitle=score
+1 - - - 1 x. - - x x s0 s5 s5 s5 q6 s1 s1 ~ 1 s0 q6 s5 q3 q2 1 - 1 - s2 q3. q3. s2 q2 q3 q0 q1 s1 s2 q3 s3
+q3. s2 q2 q3 0 s2 s3 s2 s3 q2 q3 ,6 q0 s6 s1 s2 s3 s2 s1 q0 s5 s6 5 0 6 0 6 6 1 2 3 2 1 6 6 5 - 5 0 0
+1' 7 6 5 1 - - - - 0 - - - 5 - q0 q3 q5 q1' q2' q7 5 0 s0 s5 s5 s5 q1' s6 s6 s6 s5 q0 q1'. s6 q6 s5 s3 3 -
+q0 q1 q7 s6 s5 5 - 5 q0 s5 s5 s6 q1 s1 q1. s7 s6 s5 q5 s0 s5 s5 s5 q6 s1 s1 q1 q1 s0 q6 s5 q3 q2 1 - 1 x s0 s5 s5
+s5 1 x s0 s5 s5 s5 q6 s1 s1 ~ q1 q1 s0 q6 s5 q3 q2 1 - 1 0
+%END

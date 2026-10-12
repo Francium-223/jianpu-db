@@ -1,0 +1,16 @@
+%我的太阳_5.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=31764
+title=我的太阳
+tag=
+usertag=
+tagroute=
+confidence=0.669
+conf_p10=0.310
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-31764
+%--
+2/4
+subtitle=score
+q,x' 0 6. 0 0 q2. 1 q1' 0 0 5. 0 0 0 4. 5 5' x. 0 5. 0 x. 0 0 0 1 1' 5'. 0 0 0 x'
+%END

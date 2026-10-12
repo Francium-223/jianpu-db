@@ -1,0 +1,18 @@
+%我爱我的火箭筒.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12865
+title=我爱我的火箭筒
+tag=
+usertag=
+tagroute=
+confidence=0.971
+conf_p10=0.961
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12865
+%--
+2/4
+subtitle=score
+x q1 q1 q6 q6 q5 q2 q5 q5 q6 q1 q2 q3 q6 q5 q2 q5 q5 q5 q5 q2 q3 1 q1 q1 1 0 q5 q6 q5 q3 q2 1 q5 q5 q6 q3 q2 1 q1
+q1 q6 q1 3 5 6 - 5 5 1 3 2 1' 3' 2' 1 - 3 6 6 - 1 1 6 6 5 2 5 5 q6 q1 q2 q3 q6 q5 q2 5 q5 q5 q2
+q3 1 q0 0 1 q5 q5 q6 q5 1 - 1 -
+%END

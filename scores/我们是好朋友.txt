@@ -1,0 +1,19 @@
+%我们是好朋友.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=10199
+title=我们是好朋友
+tag=
+usertag=
+tagroute=
+confidence=0.992
+conf_p10=0.990
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-10199
+%--
+4/4
+subtitle=score
+1 1 2 3 1 5 5 4 3 1 5 5 1 5 4 3 4 5 - - 0 1 1 2 3 1 5 5 4 3 1 2 2 4 3 2 1 2 1 -
+- 0 5 1' 1' 5 5 1' 5 5 q1' q5 q4 q3 q4 5 - - 0 q1 q1 q1 q2 3 1 q5 q5 q5 q4 3 1 q2 q2 q2 q4 q3 q2 q1 q2 1
+- - 0 q1 q2 q3 q4 5 0 q5. q4 q3 q2 1 0 5 q5 q1' q5 q4 q3 q2 1 - - 0 q1. s2 q3 q4 5 0 q5 s4 q3 q2 1 0 5 q5
+q1 q5 q4 q3 q2 5 - - 0 q1 q2 q3 q4 5 0 q5. q4 q3 q2 1 0 2 q2 q4 q3 q2 q1 q2 1 - - 0
+%END

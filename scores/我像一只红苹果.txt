@@ -1,0 +1,19 @@
+%我像一只红苹果.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49628
+title=我像一只红苹果
+tag=
+usertag=
+tagroute=
+confidence=0.998
+conf_p10=0.998
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49628
+%--
+5/4
+subtitle=score
+1 q1 q7 1 5 1 q2 q1 q7 q6 q5 q4 q3 q2 q3 4 q5 6 5 - - 1 1 q7 1 5 1 2 1 q7 6 q5 q4 3 q2 q3 4 q5 6 5
+- - 1 6 q5 6 - 5 1 7 1 7 1 q2 1. 6 5 q4 3 4 3 2 1 - 3 q4 5 6 q6 q5 q4 q3 2 1. q2 3 q5 q2 q3 q4
+3 2 - 1 - - 5 1' 0 5 6 q0 3 q5 q3 q2' q1' q3' q2' q1 0 q1 q0 1 - 1 2 3 5 6' 7' 7 - 5 1' 0 5 q6 0 3
+q5 q3 2 q1 q3 q2 q1 0 q,7 q0 q,6 q0 ,7 q0 2 q0 ,7 0 1 - 1 - - -
+%END

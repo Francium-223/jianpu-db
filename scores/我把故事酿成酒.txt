@@ -1,0 +1,19 @@
+%我把故事酿成酒.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=50517
+title=我把故事酿成酒
+tag=
+usertag=
+tagroute=
+confidence=0.767
+conf_p10=0.534
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-50517
+%--
+4/4
+subtitle=score
+0 0 3 q2 3 0 0 0 3. 0 - 0 0 0 0 6'. - 6' 1'. - 0 2' 1. - q1'. - - - - - - 3' 6' - 0 - 0 1'. - 1'
+0 - 6' - 1'. - 0 7' - 6'. 5'. 5'. - 1' 3' 0 - - - - 3'. 0 0 - - - 7' 6' 1'. - - 7'. 6' 5' 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 - - 6'. - 1'. - 0 7' 3' 6'. 5' 5'. - 1' 5. 3' s3' - 6'. 5' - 0 0 0 0 s2. 0 0 0
+0 0 0 0
+%END

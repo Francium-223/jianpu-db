@@ -1,0 +1,17 @@
+%我像一只雄鹰.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49968
+title=我像一只雄鹰
+tag=
+usertag=
+tagroute=
+confidence=0.947
+conf_p10=0.796
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49968
+%--
+2/4
+subtitle=score
+1 0 q0 3 4 2 6. 5 q6 q5 7 q6 3 q4 q5. s4 q6 s5 s4 q3 1 q2 q3 4 4 4 5 q4 q,4. q4. s6'. s,1' s6 s6 s3 1. 2. q0 4 s5
+s5 6 6 q3 ,7 q1 2 q4 3 q1 q,7 ,6 ,6 0 0 0 q3 q,6 ,6. ,6 - 0 0
+%END

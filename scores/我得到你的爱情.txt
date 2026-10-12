@@ -1,0 +1,18 @@
+%我得到你的爱情.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=45566
+title=我得到你的爱情
+tag=
+usertag=
+tagroute=
+confidence=0.970
+conf_p10=0.914
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-45566
+%--
+3/4
+subtitle=score
+1 - - - x x x. 1. x 0 q3 5. 3 q3 q2 1 3 3 q0 q3 5. 3 3 2 1 3 - q0 3 q6. q5 q5. q4 q4. s3 3 - 3 2. q2
+q1 q2 q3 2 - 0 q,5 5. 3 q3 q2 q1 3 3 q0 q3 6. 3 1 ,7 ,6 3 - 0 3 q1. 7 7. q6 6. q5 5 - q5 q5 6. q5 5. 4 4.
+q3 3 - q0 q3 5. q3 q2 q1 q2 3 1' 1 2 3. 3 2 ,6 ,7 1 0 0 0 0 q0 3 1 0
+%END

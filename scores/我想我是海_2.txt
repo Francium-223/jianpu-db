@@ -1,0 +1,20 @@
+%我想我是海_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=11541
+title=我想我是海
+tag=
+usertag=
+tagroute=
+confidence=0.928
+conf_p10=0.615
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-11541
+%--
+6/8
+subtitle=score
+q1 - - x x'. x x x x. 1' x 1 0 q1. q2 3 3 q3 q3 5 6 6. 0 5 3 6 1' 1' 0 q2 3'. 3 0 3 3 q3 5 6 6. 0
+5 3 6 1' 5 3'. ~ 3' 0 2 3 2 1 0 q0 q2 3 2 1 q2 5 5 ~ 5' 6 3'. ~ 3' 0 2 3 2 1 0 0 2 3 2 1 3
+2. 0 1 3. ~ q3 ,1 2. 5. 5 5. 5. ,1' 2' 1' 7 7 7 q1' q7 6 6 q6 q5 q7 3 ~ 3 q0 1' 1' 1' q2' 7 q7 q7 7' 6 qx 5
+6 7 6 5 6. 6. 1' 2' q1' 7 7 7 1' q7 6 6 q6 q5 q7 3' ~ 3' 0 1' ,1' 2' 3' 7 7 7 ,1' q2' 3' 2' 1' q2' q1' q7 6. 6.
+x q0 1. 2 6'. 6'. 1 1 6'. 6. 6. 6' 0 0 0
+%END

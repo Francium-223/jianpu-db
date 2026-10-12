@@ -1,0 +1,20 @@
+%我们拥有一个名字——中国.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=20871
+title=我们拥有一个名字——中国
+tag=
+usertag=
+tagroute=
+confidence=0.954
+conf_p10=0.843
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-20871
+%--
+4/4
+subtitle=score
+- - 0 x x x. x x ,6 q,6 q,5 q,6 q3 3 q2. s2 q2 s1 s2 3 ,6 ,7 q,7 q,7 q,7 q1 2 q2 q,7 q1 q2 3 - q,6. s,6 q,6 q,5 q,6 q3 q3.
+s3 q2. s2 q2 s1 s2 3 ,6 ,x. q1 2 - 2 q1 q,7 ,6 q,6 q1 q,7 ,7 q,7 q,7 q1 2 2 q1 q,7 ,6 - ,6 - q6 3 q6 q7 5 s5 s5 4 q5
+q4 3 - q6 6 q6 q5 q2 q2 q2 q3 q2 q1 q2 ,7 - q,6. s,7 q1 s,7 s,6 q2 q3 2 q2 q3 q4 ,3 ,2 q6 q7 6 7 7 q7 q6 7 - - -
+6 q7 6 - q6. s5 q3 q2 3 - 4. q3 2 6 5 q4' q5 3. s,6 ,,7 q,1 q1 q1 q1 q2 q2 q1 q2 3 - - q0 ,7 6 - - - 6 - -
+-
+%END

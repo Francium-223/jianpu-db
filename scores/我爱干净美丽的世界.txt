@@ -1,0 +1,18 @@
+%我爱干净美丽的世界.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48764
+title=我爱干净美丽的世界
+tag=
+usertag=
+tagroute=
+confidence=0.975
+conf_p10=0.946
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48764
+%--
+2/4
+subtitle=score
+1 - - x 1 x 5. q5 3 1 5. q5 3 1 q6. q6 q6 q3 5 - 2. 2 7 q5 2. 2 7 ,5 1. ,1 q1 2 3 5. q5 3 1 5. q5 3
+q1 4. 4 4 5 6 - q2. 2 7 q5 2. 2 7 5 q1. q1 q3 3 1 5. q4 3 q5 0 q1 2 3 2 ,5. q6 q4 q3 0 2 2 1 2 3 2
+2 6 5 0 4. 4 4 3 2 4 q4 3 2 5 - 3 0 2 0 1 1 0
+%END

@@ -1,0 +1,19 @@
+%我心不变.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=21417
+title=我心不变
+tag=
+usertag=
+tagroute=
+confidence=0.961
+conf_p10=0.923
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-21417
+%--
+4/4
+subtitle=score
+1 - - x. 1 x x. q6 q7 s1 s2 q3 6. 3 s3 s2 s2 q1 q2 q5. 2 - q2 q,6 q7 1 q,1 s1 s7 q1 2 2 q2 ,7 q5 ,5 - - d,6 q7
+q1 q2 q3 6. 3 - q3 q3 s2 s1 s2 q5. 2 2 q,6 7 1 ,1 ,7 ,1 2 2 q2 ,7 ,5 ,5 q7 s,6 ,6. s,6 s6 7 q1 3 q5 q6 1. q7 5. 2
+3 3. 3' s6 s7 s1 q3 q5 q6 3' 3 q3' q6 3' s3' q6 q5 6 6. s6 s6 s7 s1 s3 s5 q6 1. q7 5. 2 3 3 - s6 q7 s1 s2 q1 5. ,7
+6 q5 5 ,7 q,6 ,6 0 0 0 6 q7 s1 2 q,7 q,6 ,6 - q,6 7 1 q2 1 5. ,7 q5 5 7 6 - - 6 - 6 0
+%END

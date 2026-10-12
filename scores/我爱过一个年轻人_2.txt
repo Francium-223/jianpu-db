@@ -1,0 +1,17 @@
+%我爱过一个年轻人_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49738
+title=我爱过一个年轻人
+tag=
+usertag=
+tagroute=
+confidence=0.919
+conf_p10=0.515
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49738
+%--
+3/4
+subtitle=score
+1 0 3 1 q,,x q,,,x. x 1 1 2 3 4 - q3 q2 1 2 - 1 - 0 5 6 7 1' - 7' 6' 5 6 - 5 - 0 1' q1' q7 1' 5 -
+0 5 4 3 2 - 0 1 2 3 4 - q3 q2 1 2 - 1 - 0
+%END

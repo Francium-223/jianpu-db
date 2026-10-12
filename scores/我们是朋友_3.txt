@@ -1,0 +1,21 @@
+%我们是朋友_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=32420
+title=我们是朋友
+tag=
+usertag=
+tagroute=
+confidence=0.970
+conf_p10=0.914
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-32420
+%--
+2/4
+subtitle=score
+1 x q1 q5 q1 q3 q5 q3 q1 q5 x 1'. q7 6 1' 6 q6 1 - q2 2 q2 q1 ,6 1 - - - 6. q5 4 6 4 2 3 - q,7 ,7 q,6 ,5
+,6 - - - 5. q6 q3 q5 q2 q3 x q1 q,5 q1 q3 q5 q3 q1 q5 x x ,5 q,7 q,6 q,7 q,6 q,5 x 1 - - - 2. q3 q1 q2 ,6 ,5 - -
+- 1. 2 3 1' 6 q5 q6 1 - 5. s5 s5 q5 q5 q6 q7 x q2 2 q3 q2 ,6 5 - - - q7 6 6 q5 q6 - x - 6 5 4 6 4
+2 3 - 1 x 1 s1 q2 q3 q4 q4 1 q2 q3 q5 q6 q7 x q2' 2 q3 q2 q1 ,6 - - - - - - q7 6 6 q5 q6 1 - x q,7 ,7
+q,6 ,5 ,6 1 - - - - - - 6. q5 4 6 4 2 - 1 1' s1' s1' 1' 2' - - - 3' 0 0 0 x q2' 2' 7 2' 1' - - - -
+- - 1' 0 0 0 q5 5 q3 5 5' 5 - - - 5 - - - 5 0 0 0 q5 5 q3 5 2' 3' - - - - - - 3' 0 0 0
+%END

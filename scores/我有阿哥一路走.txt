@@ -1,0 +1,18 @@
+%我有阿哥一路走.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14905
+title=我有阿哥一路走
+tag=
+usertag=
+tagroute=
+confidence=0.951
+conf_p10=0.836
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14905
+%--
+3/4
+subtitle=score
+x q5 3 5 6 5 q6 q1 q6 q1 q2 1 - - 2 x q3 3 q6 q3 2 3 q2. s5 q2 q1 6 s,1 s2 1 x q7 q1 s2 q,3 q6 s1 1' 5' 6'
+1. 2 s2 s1 s6 s5 6 6 - q3 s3 s5 s,,3 q2 s1 s,,2 q5 3 6 1. 2 q3 q2 s1 2 3' 2 q1 s6 s1 s1 1 q6 q1 ,,6 7 q1 q6 q0 q6
+q1 q5 q6 q2 q1 q6 q5 q6 5 -
+%END

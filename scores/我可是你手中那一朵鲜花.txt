@@ -1,0 +1,22 @@
+%我可是你手中那一朵鲜花.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=13756
+title=我可是你手中那一朵鲜花
+tag=
+usertag=
+tagroute=
+confidence=0.954
+conf_p10=0.896
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-13756
+%--
+2/4
+subtitle=score
+x 1' 5 - q1' 3 1 ~ s1 s1 s2 s3 5 ,5 ,6 - - x s,5 s,6 s1 s2 q1. s,6 s,5 s,6 s1 s2 1 s,5 s,6 s1 s2 q1 s,6 s,5 q3 q,6 2 s2
+s2 s2 s3 q,6 q1 q2 s2 s3 ,6 s2 s2 s2 s3 q2 s,6 s,5 q,6 q,5 ,5 s,5 s,6 s1 s2 s1 s,6 s,5 s,6 q3 s,6 s1 1 s,5 s,6 s1 s2 s1 q,6 s,5 q3 q,6
+2 s2 s2 s2 s3 q,6 q1 q2 q3 ,6 s2 s2 s2 s3 s2 s1 q,6 s,5 q1. ~ 1 ~ 1 0 q2. s1 q,6. s1 s2 s2 s2 s1 ,6 q2. s3 q,6 s,6 s,5 q,6 s2
+s3 3 q2. s1 q,6. s1 s2 s2 s2 s1 ,6 s2 s2 s2 s3 s2 s1 s,6 s,5 q,6 s1 s2' s2' q0 q0 s,5 s,5' s2' s,6' s1 s2 q2 s2 s1 q2 q3 q3. s,5 s,5 s,6
+s1 s2 s2 s2 s2 s1 q2 q,6 q1. s,5 s,5 s,6 s1 s2 q2 s2 s1 q2 q5 3 s,5 s,6 s1 s2 s2 q2 s3 2. q,6 1' - 1' 0 x - - 2 q,6 1 -
+1 q0 d5 2 q,6 1 - 1 2 q,6 1 - 0 q0 s5 2 s6 x 1' 1 d1' s1' 5 - q5 3 2 1 s1 s1 s2 s3 5 q1 ~ 1 s3 q1' ~ 1'
+- x - 0 x
+%END
