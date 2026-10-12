@@ -1,0 +1,24 @@
+%情满高原.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=29561
+title=情满高原
+tag=
+usertag=
+tagroute=
+confidence=0.968
+conf_p10=0.946
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-29561
+%--
+4/4
+subtitle=score
+q6 q5 q3 q2 3 q2 q3 3 - - - q6 q5 q3 q2 3 q2 q3 5 - - q2 q3 3 - - - q0 s3 s2 q3 q2 s2 s3 ,6. q0 s1 s6 q5 s5
+s2 q2 3. q0 s4 s3 q4 q3 s4 s5 2. q0 s2 s3 q5 s5 s3 s2 s3 ,6. q0 s6 s5 q6 q5 s5 s6 3 q0 s4 s4 q4 s4 s1 q1 2. q0 s1 s1 q1
+q6 s2 s3 2. q0 s2 s3 q5 s5 s3 3. q5 6 - - - 3 q1' s6 s6 q1'. s1' ~ 1' s5 s3 s5 s3 q5 s5 s6 q6 3. 3 q1' s6 s6 q1'. s6 ~
+6 s1' s6 s1' s6 q2'. s1' 7 - 7 - q6 s2' s3' s2' q1' s6 q1' s2' s3' 2' s1' s6 s1' s6 s1' s2' s2' s3' s5 s6 s6 s6 s6 s5 s5 s5 3 q3 s3
+s3 s5 s6' s6' s6 s5 q6 s3 q6 s1' s2' 2' s1' s1 s1' s1' sx sx s1' s2' q2' s1' q2' q2' q2'. q2' q2' q2' q2' s3' s3. s,3. 3 3' q6 q6 q6 s2 s,2 s2'
+s3' x' s2' q3 q1 q3' q3 q3 s6 s6 s6 q1' s2'. s3'. 2' s1' s6 s1' s6 q2' s2' s3' s5 s6 s6 s5 3 q3 s5 s6 s5 q6 s3 s6 q1' s6'. 2' s1' s1' s1'
+s1' q2' s2' s3' q3 6 6 - x q6 q5 q3 q2 3 q2 q3 3 - 3 - q6 q5 q3 q2 3 q2 q3 5 - 5 q2 q3 3 - 3 - q3 6 6 -
+q6 q5 q3 q2 3 q2 q3 3 - 3 - q6 q5 q3 q2 3 q2 q3 5 - 5 - q0 s6 s5 q6 q5 s5 s6 3 q0 qx s4 s4 q4 s4 s1 q1 2. q0
+s1 s1 q1 q6 s2 s3 2 q0 s2 s3 q5 s5 s3 3. q5 6 - - - 6 - - 0
+%END

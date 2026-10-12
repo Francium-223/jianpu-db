@@ -1,0 +1,22 @@
+%心静听炊烟.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=5905
+title=心静听炊烟
+tag=
+usertag=
+tagroute=
+confidence=0.961
+conf_p10=0.961
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-5905
+%--
+2/4
+subtitle=score
+1 - - - x' 1 x' 1' x 0 0 6 0 1. x q,6 q3 q3 q,6 q,5 2. ~ 2 0 q,6 q3 q3 q,6 q5 q4 1 ~ 1 - q,6 q3 q3 q,6 q,5 2.
+q1 q,7 q,6 q,5 ,3 - q,6 q3 q3 q,6 q,5 2. q1 q,7 q,6 q,5 ,6 - q1 q2 q3 q5 q2 q2 ~ 2 q1 q2 q3 q5 q,7 q,7 ~ ,7 q,6 q3 q3 q,6 q,5 2.
+s1 q,7. q,6. d5 ,6 - 0 q3 q5 6 - 6 q5 s6 s5' q5' q2 ~ 2 ~ 2 q1 q2 5 - q5 q3 q2 q5 q,6 q,6 ~ ,6 ~ ,6 q3 q5 6 - 6
+q5 s6 s5' q5' q2 ~ 2 ~ 2 q1 q2 5 - q5 q3 q1'. s7 q6 q6 6 6 q0 q,6 q1 q2 q3 q1 2 0 q,5 ,6. ,6 0 2. q,5 q,5 q,6 ,6 ,6 0
+q0 s3 s2 q3 q,6 2 - q0 s5 s4 q5 q6 q7. s3 3 q0 s3 s2 q3 q,6 2 - q5 q4 q3 q2 3 6 7 - 7 - 7 q3 q5 6 - 6 q5 s6
+s5 q5 q2 2 2 q1 q2 5 - q5' q3 q2 q5 q,6 q,6 ,6 ,6 q3 q5 6 - 6 q5 s6 s5 q5 q2 2 2 q1 q2 5 - q5' q3 q1. s7 q6 q6 6
+6 q0 s,6 q1 q2 q3. s1 2 - 2 0 ,5 - ,6 - ,6 - ,6 - q,6 q3 q3 q,6 q5 q4 1 1 - ,7 - ,7 -
+%END

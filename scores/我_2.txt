@@ -1,0 +1,22 @@
+%我_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=40754
+title=我
+tag=
+usertag=
+tagroute=
+confidence=0.928
+conf_p10=0.686
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-40754
+%--
+4/4
+subtitle=score
+1 - - - x x x. x x' 1' 1 q3' q2' q1' 5' 7 7 6 - q6 6 7' q2' q3' 6 6 - q6 3 s5 5 - 0 q5 q3 s6 6 - - -
+7 - 5 0 6 3 2 3 q1 2 q3 q2 q1 ,6 6 1 q6 2 - q3 q2. q2 x 1 1 1 q2 3 6 3 q2 3 - q6. - s5 q1 q3 2 3
+1 2 1 3 - 5 q5 3 q3 6 6 - - 6 s3 q6 5 s3 s5 q6 6 s5 q6' 3 5 - 2 1 q2 3 - s1 q,6 s6 s6 s6 s5 5 ,6 -
+6 3 q6 5 q3 q5 s6 q6 q6 q1' 3 5 - 2 q5 s3 2 - - q,,3 q,1 s,3. s3 q,3 q3' q3 3 3 qx 5 ,6 q1' 3' ,2 q2' q1'. x 2' 7 3
+6 6' 6 6 1 1'. 1' 6 q5 5 - - 0 6. ,6 - - x 0 q6 7 2' 7 s5 s3 6 - - q0 s6 s7 q2' 7 5 2' 7 s6 q5 s3. s5
+6 - q3 s5 s5 q3 q4 q5 5 - 6 s5 q7 7 - 1' - s1' s6 q2' s1' 3' - - - x x 1 q3 q3 s3 s3 q3 q5 ,6 - 0 q,1 - 3
+x 3. 3 3 3 x 5 6 - - -
+%END

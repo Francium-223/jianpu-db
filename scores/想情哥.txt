@@ -1,0 +1,17 @@
+%想情哥.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47416
+title=想情哥
+tag=
+usertag=
+tagroute=
+confidence=0.998
+conf_p10=0.990
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47416
+%--
+6/8
+subtitle=score
+q6 q6 - 1 - - 6 - - 2 - q6 1. q6 6. - 2 0 q6 - 1 q6 - 6 - q5 q6 1 q6 6. - 2 - 2. q1 q6 1 q6 6. 0
+q2 6. q2 2. q1 q6 1 0 - 1. q6 - 6 - -
+%END

@@ -1,0 +1,21 @@
+%想起小时候.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15576
+title=想起小时候
+tag=
+usertag=
+tagroute=
+confidence=0.937
+conf_p10=0.718
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15576
+%--
+4/4
+subtitle=score
+q1 q1 q1 q,6 3 - q2 q2 q3 q,5 ,6 - q3 q,6 q1 s2 s3 2 - q6. s6 q6 q5 3 - 0 3 0 0 q6 q6 q6 q3 6 - q6 q6 q5 q3 2
+- q,6 q,6 q3 q3 q2 s3 s2 q1 q0 q,5 q,6 q2 q1 ,6 - 0 ,6. x q3 0 6. q6 q6 q3 6 q7 s7 s7 q5 q3 6 - q7. s7 q7 q6 q5 q6 3
+s2. d2 s2 s2 s1 q2 0 3. ,,x q3 6. q6 q6 q3 6 s1' s1' s1' q1' q6 2' - 0 1' - 0 q3'. s3' q3' q2' q1' q2' 6 s5. d5 s5 s6 q2' q1' 6
+- 6 - 0 s5. d5 s5 s6 q1' q1' x' 6 - d2. sx 6. x q3 q3'. q1 s3'. q3' q3 q2. q2' q1' q2. q2' 6 s5. d5 s5 s6 q2' q1' 5' 6 - 6 -
+s5. d5 s5 s6 q2 q1 6 - 0 6 - s5. d5 s5 s6 q2 q1 6 - - - - 6 - 5. q5 5 6 2' 0 3' - - x x' 6 - - - 6
+- 0 0
+%END

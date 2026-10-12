@@ -1,0 +1,20 @@
+%快乐山猫_快乐吉咪_动画片《山猫和吉咪》主题曲.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=36828
+title=快乐山猫 快乐吉咪 动画片《山猫和吉咪》主题曲
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.997
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-36828
+%--
+4/4
+subtitle=score
+3 q3 q4 q5 5. q3 q3 s2 q1. 3 - 3 q3 q4 q5 5. q1' q1' s7 q1'. 5 - 3 q3 q4 s5 s6 q5 0 q1' q1' s7 q1'. 6 - s6 s5 s5 s5 ~
+5 - - s6 s5 s5 s5 ~ 5 - - q5 q5 5 q6 q5 5 q5 q5 s6 q7. 1' 0 q1' 1' q0 s1 s,7 s1 s,7 ~ ,7 q1' 1' q0 s1 s,7 s1 s,7 ~
+,7 q1' q1' q1' q1' q1' q5 q6 q5 ~ 5 - - - q1' 1' q0 s1 s,7 s1 s,7 ~ ,7 q1' 1' q0 s1 s,7 s1 s,7 ~ ,7 q1' q7 q6 q7 q5 q5 q6 q7
+1' - - - 3 q3 q4 q5 5. q3 q3 s2 q1. 3 - 3 q3 q4 q5 5. q1' q1' s7 q1'. 5 - 3 q3 q4 s5 s6 q5 0 q1' q1' s7 q1'. 3' - s6
+s5 s5 s5 ~ 5 - - s6 s5 s5 s5 ~ 5 - - q5 q5 5 q6 q5 5 q5 q5 s6 q7. 1' 0
+%END

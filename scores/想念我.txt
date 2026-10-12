@@ -1,0 +1,20 @@
+%想念我.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=33477
+title=想念我
+tag=
+usertag=
+tagroute=
+confidence=0.965
+conf_p10=0.870
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-33477
+%--
+4/4
+subtitle=score
+x q3 0 4' 2' - q2 0 ,1' q1' q5 ,5' - q3 0 5' q5 0 4' 4 0 ,1' - - - - 1' - x 3 3 3' x' 3 4 3 q2 q3 3 -
+q1 q1 q1 1 1' 1' 1' 2' 1 ,5' ,5' 5 5 5 5. 5. 4 4' - 4. 4. q,,2' 3' 2 q1 q2' x 2' - q3 q3 q3 q3 2' - - q4 q4 4 q4
+3' q4' q3 q5 ~ q5 q1 q1' - q2 q2 q2 q1 q1 q1 q1 1 ,5' q4 q4 4 4 5 6' 6' 6' 5 ~ 5' ~ 5 3' 3' 2 2 1' 0 4 4 4
+4 4 3 3 2 5' ~ 5' - 0 5 6 - - 5' - 5 q1' 1' 1' q1' 7 q6 q7 1' - q7 q6 q6' 5 5 q2 q3' 3' - 5 q,1' 1' ,,1' 7
+q,6 q7 1' - q0 7 7 7 7 6 5 0 q7 q7 q7 q7 q7 5 q0 q7 q7 q7 7 q6 q5 q2' ,1' 2' 1'. 1' - - - - 1' - - 0
+%END

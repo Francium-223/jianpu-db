@@ -1,0 +1,19 @@
+%想念我_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=40539
+title=想念我
+tag=
+usertag=
+tagroute=
+confidence=0.820
+conf_p10=0.421
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-40539
+%--
+4/4
+subtitle=score
+1 - - - x 0 x x'. ,x x' x 1' q3 q3 q3 q3 3 4 3 q2 q3 3 - q1 q1 q1 q1 q1 q2 2 1 5 ,5 - 2. q5 5 5 q5. q5
+5 5' q6 6 5 4 4 3. 3 4 4 4 q3 3 q2 q1 1 q2 - - 5 0 4 q2' ,4 qx 0 4 0 0 4 ,5 x' 5 5 5 1' 1 ,6 1'
+1. 1' 5 q3 q1' q2 q7 1 q7 q0 6 q4 q6 7. q7 q4 4 1 4 0 1 q3 1 q2 1' 1. 5 q1' 5 s1' q7 5 7 7 6 x' 6 5' 6 5
+,7. 1 1 1 ,5 ,5 1. 0 2' 7 q,,1 7 q7 7 q7 q7 1' 2' 2 2 2' q1. 2' - 2' 2' qx 2' - 1' 1' - - -
+%END

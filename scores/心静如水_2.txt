@@ -1,0 +1,20 @@
+%心静如水_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=37113
+title=心静如水
+tag=
+usertag=
+tagroute=
+confidence=0.993
+conf_p10=0.987
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-37113
+%--
+4/4
+subtitle=score
+q5 q6 q1' q6 2' q3' q1' 1' - - - 7 7 q6 s6' s5 q3 q5 ~ 5 - - - q6 1'. s2'. s3' 1'. s2' s3' 1' 6 - 1' 1' 2' q3' q2' 2' -
+- - q5 q6 q1' q6 2' q3' 1' - - - q7 q7 q7 q7 6 q3 q5 ~ 5 - - - q1' 1'. q2' 1'. s2' s3' 1' 6 - q5 q6 q1' q2' 3' q5' q2'
+2' - - - 0 0 0 q1' q2' q5 q6 q1' q2' 3' q5' q2' 2' - - q1' q2' 3' - 5' q2' q1' 1' - - - 4' - 4' q1' q2' 2' - - q1' q2'
+3' - 5' q2' q1' 4 - - - 5 2 - 2 3 - - q1 q2 3 - 5 q2 q1 1 - - - 4' - 4' q1' q2' 2' - - q1' q2' 3' - 5'
+q2' q1' 4' - - - 5' 2' - 2' 1' - - - 1' - - q1' q2' 1' - - -
+%END

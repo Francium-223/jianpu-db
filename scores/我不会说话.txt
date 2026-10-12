@@ -1,0 +1,20 @@
+%我不会说话.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47279
+title=我不会说话
+tag=
+usertag=
+tagroute=
+confidence=0.995
+conf_p10=0.989
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47279
+%--
+3/4
+subtitle=score
+0 q0 q6 6 7. q6 6 3 2 - 0 0 0 0 q0 6 q7 7 6 q3 q3 2 - 0 5 - 0 0 q0 q6 6 7. q6 6 3 2 - 0 0 0
+0 q0 6 q7 1 7 q0 q7 q6 q5 5 0 0 q0 q5 q1 q2 3 3 - 3 3. q2 q2 q3 3 q2 q1 q2 q1 6 - x q2' q6' 1' - 0 q6 2
+q1 3 q2 q2 q2 q1 2 q1 q6 q6 q3 2 q0 q5 q1 q2 3 3 - 3 3. q2 3 3 q2 q1 q2 q6 1 - 0 q6 2 q1 3 q2 q2 q2 q1 2
+- - 2 0 q1 q6 1' - - 0 0 0 0 0 0 0 q0 q5 q1' q2'. 1' - - 1 - - 0 0 0 0 q0 q5 q1' q2' 3' 3' - 3' 3'. q2'
+3' 3' q2' q1' q2' q6 1' - 0 q6 2' q1 3' q2' q2' ~ q2' q1' 2' q1' q6 ~ q6 s3' s2' 2' q0 q5 q1' q2'. 2' - - 2' - q1' q6 1' - 0
+%END

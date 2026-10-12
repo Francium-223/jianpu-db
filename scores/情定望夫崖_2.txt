@@ -1,0 +1,19 @@
+%情定望夫崖_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=41027
+title=情定望夫崖
+tag=
+usertag=
+tagroute=
+confidence=0.952
+conf_p10=0.819
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-41027
+%--
+4/4
+subtitle=score
+1 - - - x 0 x x' 1' 1 6 1' 7 5 q6. q,1' q7' s1' s7 6 - 5 7 6 3 5. q6 q7 s1' s7 6 ,x. q0 6 3 3 5 s7 7 q,,6
+q7 s6 q5 ,6 - - 0 6 2 2. q7 q7 s6 s5 s3 s2 3 - 0 q0 3 6 6 q,5 5 3 s2 s1 2 - - 0 2 5 ,7 5 5 s7 q,,1 q7
+q6 ,6 - - - 6 q3 6 5. q0 q6 q7 q7 s6 q7 6. 1 3 - 2. q2 4 q7 q7 q7 q4 3 - 0 - 6. 3 q6 5 s0 s6 q7 7 s6 s7
+s6. s5 6 - 4 s4 q4 q6 s6 s6 7 7 s6 s7 q6 ~ 6. - -
+%END

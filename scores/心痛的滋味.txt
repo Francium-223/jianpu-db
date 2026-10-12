@@ -1,0 +1,23 @@
+%心痛的滋味.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=32893
+title=心痛的滋味
+tag=
+usertag=
+tagroute=
+confidence=0.981
+conf_p10=0.975
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-32893
+%--
+2/4
+subtitle=score
+q0 s3 q1' q7 s6 s5 q5 s6 s5 s5 s6 ~ 6 q6 q5 q1 q5 3 - q2 q2 q2 q1 q2 s1 s2 ~ 2 q1' q1' s1' s6 q6 7 q0 s3 q1' q7 s6 s5
+q5 s6 s5 s5 s6 ~ 6 q6 q5 q1 q5 3 - q2 q2 q2 q1 q2 s1 s2 ~ 2 q1' q1' s1' s6 q6 7 s1' q1' s7 6 - 6 q0 s6 s3 s2 s3 s2
+s3 s2 s3 s2 q3 q3 q1 s2 s3 2 - 0 q0 s5 s2 s1 s2 s1 s2 s1 s2 s1 q2 q2 q2 s1 s2 ,6 - 0 q0 s6 s3 s2 s3 s2 s3 s2 s3 s2
+q3 q5 q1 q3 2 s1 s6' ~ ,6' q0 s6 s2 s1 s2 s1 s2 s1 s2 s1 q3 q5 q5 q3 6 - 6 q0 s3 q1' q7 s6 s5 q5 s6 s5 s5 s6 ~ 6 q6
+q5 q1 q5 3 - q2 q2 q2 q1 q2 s1 s2 ~ 2 q1' q1' s1' s6 q6 7 q0 s3 q1' q7 s6 s5 q5 s6 s5 s5 s6 ~ 6 q6 q5 q1 q5 3 - q2
+q2 q2 q1 q2 s1 s2 ~ 2 q1' q1' s1' s6 q6 7 s1' q1' s7 6 - x 6 3' 0 s1 d2 - s1 s3 q3. q3. d2 d1 s5 s3 s2 s1 1 s3 s2 s1
+s1' q7 s3 3 s3 s3' q2' 3'. 6 d5 d3 s5 s3 s2 s1 ~ 1 1' s7' 7. - x q0 d6 6 - 6 q0 s3 6 - 6 - q1' q1' s1' s6 q6 7 -
+7 q1' s1' s7 x 6' 3' - - 6' - - s3 s2 s1 s7 s3 3 s3 d3 d5 d3 s2 s3 s2 s1 1 q7' s1' s1' - - - x
+%END

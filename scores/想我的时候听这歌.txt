@@ -1,0 +1,24 @@
+%想我的时候听这歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=2181
+title=想我的时候听这歌
+tag=
+usertag=
+tagroute=
+confidence=0.955
+conf_p10=0.888
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-2181
+%--
+2/4
+subtitle=score
+1 - - - x. x 1. x s1 s5 s7 s1 ~ 1 s6 s3 s6 s7 ~ s7 q3. s4 s1 s4 s6 s5 q1. s5 s2 s5 s7 ~ s7 q2. s1 s5 s7 s1 ~ 1
+s6 s3 s6 s7 ~ s7 q3. s4 s1 s4 s6 s5 q1. s5 s2 s5 s,7 ~ s,7 q2. q5 s3 s3 q2 q3 q2 q1 q1 s6 s,7 q1 s6 s6 q,6 q3 q3 q4 q2 s5 s5
+q5 s3 s3 q2 q3 q2 q1 q1. s6 s7 q1 s6 s6 q1 q3 q3 q4 q2 q2 1 - q0 q1 q1 s1 s2 ~ s2 s1 s1 s1 s1 s2 q1 q0 q1 q1 s1 s2 s2
+q1 s1 s7 s3 s7 s1 q0 q1 q1 s1 s2 ~ s2 q1 s7 ~ s7 q2 s1 ~ 1 0 q0 s3 s4 q3 s2 s1 q0 q5 q5 s3 s2 ~ s2 s2 s2 s3 s2 s1
+q1 q0 q1 q1 s1 s2 ~ s2 s2 s2 s1 s3 s2 s7 s1 q0 q1 q1 s1 s2 ~ s2 q1 s3 ~ s3 s1 s7 s2 q1 s3 s4 s3 s4 s3 s2 s1 q2 s3 q0
+s5 s5 ~ q5. s5 s5 s3 q3 s0 s5 s5 s5 s5 s5 s3 q3 s0 s5 s5 s5 s5 s3 s3 s4 s5 s5 s5 s6 s6 s5 q5 s0 d5 h5 s5 s5 s5 s3 s3 s0
+d5 d5 s5 s5 s5 s3 s3 s0 s5 s5 d5 s5 s3 s3 d4 s5 d5 d5 d6 s6 s5 s5 ~ 5 0 0 0 q5 s3 s3 q2 q3 q2 q1 q1 s,6 s,7 q1 s,6 s,6
+q,6 q3 q3 q4 qx' s,5 s,5 q5 s3 s3 q2 q3 q2 q1 q1 s,6 s,7 q1 s,6 s,6 q1 q3 q3 q4 q2 q2 q5 s3 s3 q2 q3 q2 q1 q1 s6 s7 q1 s,6 s,6 q,6
+q3 q3 q4 qx' s,5 s,5 q5 s3 s3 q2 q3 q2 q1 q1 s6 s,7 q1 s6 s6 q1 q3 q3 q4 q2 q2 1 - 1 - x x
+%END

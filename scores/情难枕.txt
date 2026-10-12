@@ -1,0 +1,24 @@
+%情难枕.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=1452
+title=情难枕
+tag=
+usertag=
+tagroute=
+confidence=0.976
+conf_p10=0.960
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-1452
+%--
+2/4
+subtitle=score
+q1 - - 6 0 x x' x. x. x x s5 s6 s5 s1' q6 q3 q5. d5 s1 s2 q3 s5 s6 s5 s1' q6 q3 q2 q5 3 s5 s6 s5 s1' q6 q3 q5. d5 s1
+s2 q3 2. q,6 ,5 - s5 s6 s5 s1' q6 q3 q5. s5 s1 s2 q3 s5 s6 s5 s1' q6 q3 q2 q5 3 s5 s6 s5 s1' q6 q3 q2. s5 s1 s2 q3 2. q,6 ,7
+2 ~ 2 - s5 s5 s5 s5 q,6. s1 s5 s6 ,5 s6 s5 s6 s1 s1 s1 q2. s3 ,6 q0 s1 s2 q3. s3 s2 s3 q1 q3 s2 s3 q5 s6 s5 s6 q1. q1 s6
+s2 ~ 2 s0 s3 s2 s1 s5 s6 q,5 q,6. s1 ,5. s6 s5 s6 s1 s1 s1 s1 s2 s3 s6 ,6. s1 s2 q3. s3 q2 q1 q3 s2 s3 q5 s6 s5 q,6. s1 ~ q1
+s2 s1 ~ 1 - 0 s0 s1 s2 s3 s5 s5 s5 s6 s5 q3 s3 s3 s3 s2 s3 s2 q1. s1 s1 s1 s6 q1 s2 s3 3 s0 s3 s2 s1 s2 s2 s2 s3 s6
+q,5 s5 s5 s5 s5 s6 s5 q3. s2 s2 s2 s3 q2 s1 s2 2 s0 s1 s2 s3 s5 s5 s5 s6 s5 q3 s3 s3 s3 s2 s3 s2 q1. s1 s1 s1 s6 q1 s2 s3
+3 s0 s3 s2 s1 s2 s2 s2 s3 s6 q,5 s5 s5 s5 s5 s6 s5 q3. s2 s1 s2 s3 q2 q,6 1 - s2 s1 s2 s3 q2 q,6 1 - s2 s1 s2 s3 2 s6
+1. s5 s6 s5 s1' q6 q3 q5. s5 s1 s2 q3 s5 s6 s5 s1' q6 q3 q2 q5 3 s5 s6 s5 s1' q6 q3 q5. s5 s1 s2 q3 2. q,6 ,5 - s5 s6 s5 s1'
+q6 q3 q5. s5 s1 s2 q3 s5 s6 s5 s1' q6 q3 q2 q5 3 s5 s6 s5 s1 q6 q3 q2. s5 s1 s2 q3 2. s6 ,5. q1 1 - 1 - x
+%END

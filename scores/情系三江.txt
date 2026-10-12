@@ -1,0 +1,23 @@
+%情系三江.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=30685
+title=情系三江
+tag=
+usertag=
+tagroute=
+confidence=0.979
+conf_p10=0.978
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-30685
+%--
+4/4
+subtitle=score
+0 - - 1. x' x 1 x x 3 - - 7 6 - - - 4 - - 2 3 - - - 6 - - 3' 2' - - - 7 - 5 3 6 - -
+- 6 q0 d3' d1' s1' 6 0 ,6 q1 2 q2 q3 1 q2 q1 ,6 - 3 q6 6 q5 q6 5 q3 q2 3 - 2 q2 q3 5 q5 q6 3 q2 q3 1 0 5
+q5 q6 3 q2 q3 1 - 0 q,6 q,5 ,6 - - - ,6 q0 d3 d2 s1 ,6 0 ,6 q1 2 q2 q3 1 q2 q1 ,6 - 3. q6 6 q5 q6 5 q3 q2 3
+- 2 q2 q3 5 q5 q6 3 q2 q3 1 - 5 q5 q6 3 q2 q3 1 - 0 q,6 q,5 ,6 - - - ,6 - 0 0 3 6 q6 7 q5 6 - - -
+7 q6 q7 6 2 3 - - - 6 q5 q6 3 q2 q1 2. q3 ,7 - 1 q2 q3 6 5 3 - - - 3 6 q6 7 q5 6 - - - 7 q6 q7
+6 2 3 - - - 6 q5 q6 3 q2 q1 2 q3 ,7 - ,3 2 2 ,5 ,6 - - - 3 - - 7 6 - - - 4 - - 2 3 - - -
+1 - - 2 ,7 - ,5 ,3 ,6 - - - ,6 q0 d3' d1' s1' 6 0 6 q5 q6 3 q2 q1 2. q3 ,7 - 5 - - - 5 0 7 5 6 - -
+- 6 - - - 6 - - - 6 - - -
+%END

@@ -1,0 +1,19 @@
+%悲恸.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=39047
+title=悲恸
+tag=
+usertag=
+tagroute=
+confidence=0.980
+conf_p10=0.987
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-39047
+%--
+4/4
+subtitle=score
+6 6 6 6. 5 5 4 4 4 4. 3 3 2 3 4 5 4 4 3 2 3 1. q0 6 6 q6 q6. 5 q4 5 5 5 5 5. 1 4 4 4 q6 5
+1' 7 7 6 q5 q,7 1 - 0 0 6 6 6. 5 q4 5 q4 q4 3 3 2 q3 q4 q6. q5 4 3 2 3 1. 0 6 6 6. 5 4' 5 5 5. x
+4 4 4 q6 q5 q1' 7 6 q5 s7 1. q0 0 0 0 0 0 0 3 5 3 q3. q2 q2 q3 4 q6 q4 q4. q3 q3 q4 5 q1 q7 q6. q5 5 0 5
+4 2 - 0 0 0 2 1. 1' 1'. 1 1. 0 0 2' 3. 1 - 1 0 0 3 5 3 3. 2 2 3 5. 1 1 x
+%END

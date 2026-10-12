@@ -1,0 +1,20 @@
+%情动（大型动画《秦时明月》片尾曲.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=30271
+title=情动（大型动画《秦时明月》片尾曲
+tag=
+usertag=
+tagroute=
+confidence=0.992
+conf_p10=0.995
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-30271
+%--
+4/4
+subtitle=score
+- - - - 3 5 6 - - - 1' 7 6 3 6 - - - 0 0 6 q5 s6 s5 3 - - - 3 2 2 ,6 3 - - - 0 0 3 5
+6 - - 1' 2' 3' 3' q2' s2' s1' 6 - - - 0 0 6 q5 s6 s5 3 - - 2 ,6 2 2 5 6 - - - 0 0 q5 q6 1' 3' - -
+q3' q2' 3' 5' 6' 5' 3' - - - 0 0 5 2' 3' - - q3' q2' 3' 5' 5' 2' 3' - - - 0 0 3' q2' s3' s2' 1' - - q6 q1' 2' 3'
+3' 5' 3' - - - 0 0 3' q2'. s3' s2' 1' - - q1' q1' 2' 3' 3' q1' s2' s1' 6 - - - 0 0 0 0 - - - - - - - q5 q6
+1' 6 - - -
+%END

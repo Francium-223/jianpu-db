@@ -1,0 +1,16 @@
+%想一想.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48731
+title=想一想
+tag=
+usertag=
+tagroute=
+confidence=1.000
+conf_p10=0.999
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48731
+%--
+2/4
+subtitle=score
+1 q6 5 1 5 q1. q2 1 6 6 1 1 6 1 6 5 - 2 2 5 - 2 2 5 -
+%END

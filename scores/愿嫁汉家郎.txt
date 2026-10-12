@@ -1,0 +1,25 @@
+%愿嫁汉家郎.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=21876
+title=愿嫁汉家郎
+tag=
+usertag=
+tagroute=
+confidence=0.960
+conf_p10=0.916
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-21876
+%--
+4/4
+subtitle=score
+x s,6 s1 q2' - s1 s2 s,6 s1 s,5 s,6 s,3 s,2 ,3'. s,2 s,3 q,5 s,5 s,3 ,5 q1 s1 s,5 ,6 s3. d3 s2 s3 s1 s2 q,5 s,6. d6 s,6 s,6 q,6 d1 d2 d3 d5
+s,6. d1 s2 s3 s1 s,5 q,6 x q2 s2 s3 q,6 s,6 s1 2'. q1' s3. d3 s3 s2 q1 s1' s2' q1 ,6. q1 s1 s1 q,3 q,5 s,6' s1' ,6' q,5' s,6. d6 s,6 s,5 s,6' s,5'
+q,3 ,2 - q2 s2 s3 q5 s2' s3' q5 3. s5. d5 s5 s3 q2 s2 s3 q1 ,6. q2 s3 s2 q1 s,6 s1 s,5 s,6 1 s,6 s,5 s,6 s,6 s,6 s,5 s,6 s,5 q,3 ,2 qx
+d2 s3 s,6 s1 q2 s3 s2 q5 s3 s2 q1 s2 s3 q1 s2 s,6 q,5 s,6 s1 s,6 s,5 s,5 s,3 ,2 - q,5 s,3 s,5 q,6 s,5 s,6 q1 s1' s,6' q,5 s,5' s,6' x s1 s1
+s1 s,6 q,5 q,6 x q1 s,6 s1 q,5 q,6 s1' s,6' s,6' s1' s2' s3' q2 x s1 s1 s1 s,6 q3 q2 s5' s2' 5 q3 q2. s3 q,1 q,6 q1 q,6 s3' s2' q1 s2' s1' ,6.
+s1' s,6' 2 q1 q,5'. s,3' q1 q,6 q,5 s,5' s,6' s,6' s,5' q,3 ,2 - q,5 s,3 s,5 q,6 s,5' s,6' q1 s,6' s1' q,5 s,5' s,6' x s1 s1 s1 s,6 q,5 q,6 q5 2 s3' s5' q3'.
+s2' q1 q,6 q3 q2 s3' s2' q1 s2' s1' q,6 - 1 q,3' q1' ,6 - x s,6. d1 s2 s3 d1 d2 d1 d5 q,6 q2 s2 s3 q1 q2 q2 s,6 s1 2 q1 q,3 q1 q,7
+,6 - x. 1 q,3' q1' ,6 - x s,6. d1 s2 s3 d1 d2 d1 d5 q,6 2 - s1 s2 s,6 s1 s,5 s,6 s,3 s,2 ,3. s,2 s,3 q,5 s,5 s,3 ,5 q1 s1 s,5 ,6 s3.
+d3 s2 s3 s1 s2 q,5 s,6. d6 s,6 s,6 q,6 d1 d2 d3 d5 s,6. d1 s2 s3 s1 s,5 q,6 x s,6 s1 s,6 s1 s,6 s,5 s5 s,6' s,6' s,5 s,5' q,3 q3 x s2 ,2 d3
+s1 s2 d,6 d1 s,5 s,6 s,3 s,5 q,2 q2 s3 s3 s2 q5 s3 s2 x q1 s2 s3 q1 s2' s2. s,6' q,5 s5'. s,6' s1' 1' x s,6 s,5 s,5 s,3 ,2' ~ ,2' - x
+%END

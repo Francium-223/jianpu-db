@@ -1,0 +1,21 @@
+%思念也是幸福.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=36303
+title=思念也是幸福
+tag=
+usertag=
+tagroute=
+confidence=0.979
+conf_p10=0.979
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-36303
+%--
+4/4
+subtitle=score
+q,3 q1 q2 1 - q2 q,2 q1 2 - q,3 x q,3 - x 3 q2 q4 q3 q2 q,7 q,7 q2 q0 s1 d7 ,6 - 4 q4 q,6 5 q5 q2 q3 q3 q3 s3 s4 3
+- 6 q6 q4 2 - 4 q3 q1 ,6 - q,7 q,7 q,7 q1 q2 q2 q1 q,6 3 - - - 3 q2 q4 q3 q2 q,7 q,7 q2 q0 s1 d7 ,6 - 4 q4 q,6 5
+q5 q2 q3 q3 q3 s3 s4 3 - 6 q6 q4 2 - 4 q3 q1 ,6 - q,7 q,7 q,7 q1 q2 q2 q1 q,7 ,6 - - 0 1 0 0 0 0 0 6 q6 q7
+q6 q5 q4 q2 3 - - 0 3 q3 q4 q3 q2 q1 q7 6 q6 q7 q6 q5 q4 q3 6 - - 0 3 q3 q4 q3 q2 q1 q2 3 - - 0 1 1 -
+- 0 0 0 0 0 q,7 q,7 q,7 q,5 ,5 q,6 q,5 ,3 - - 0 1' q7 q6 3 - 7 q6 q4 2 - q3 q3 q3 q,7 2' q1 q,7' ,6 - - - ,6 -
+- 0 ,6 - - 0 q3 q3 q3 q5 7 q1 q7 - - -
+%END

@@ -1,0 +1,21 @@
+%我不是天使_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12431
+title=我不是天使
+tag=
+usertag=
+tagroute=
+confidence=0.960
+conf_p10=0.872
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12431
+%--
+4/4
+subtitle=score
+q0 s,6 s,7 q1 q2 q2 q2 3 q3 3 0 q,6 q,7 q1 q2 q2 q2 3 ,6 ,6 ,6 q0 q,6 ,7 1 s2 q2 s2 3 q3 3. ,6 5 3 3 s2 2 3 3 -
+5 3 3 2 x 3 3' 0 0 0 2 5 3 5 2 q2 3' 1 2 6 q5 s6 q2 q2 3. 0 q1 q,6 3 2 2 q2 q1 q,6 q3 q3 q2. q0 q2 q2
+q1 q6 q6 6 q3 q5 5 q5 6 7 q5 q5 q5 3. q5 q6 7 6 q5 q5 q5 ,3. 0 q5 s5 s5 q6 q1' q1' q6 q1' q6 q3' 3' 2'. 0 s2' s1' 2' 2'
+2' q3' q5 5 - q,5 s,5 s,5 s1 1 q,7. 5 5 3 q2 q1 2. ,6 ,6. q0 ,6 2 3 q2 q,1 2 ,5 ,5 ,5. q0 q5 q5 3 2 q,1 2 q3 2 q,6 q,6.
+q0 q0 q,6 q2 q3 2 ,5 ,5 1 1 - - q,5 q1 1 d0 5 2. q2. 0 ~ q0 1 2 ,6 0 q6 2 3 2 q1 s2 3. 3. q0 q5 q5 q3 q2 q1
+2 q3 q2 q2 ,6. 0 q0 q,6 q2 3. q2 q3. 1 - - 1 0 0 0
+%END

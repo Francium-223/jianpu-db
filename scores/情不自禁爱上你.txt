@@ -1,0 +1,25 @@
+%情不自禁爱上你.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=1150
+title=情不自禁爱上你
+tag=
+usertag=
+tagroute=
+confidence=0.964
+conf_p10=0.947
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-1150
+%--
+4/4
+subtitle=score
+1 1 x q1 q1 1 0 1 q1 - - 6 x x x' 1. ,1 x. x q1' q1' q1' q2' 3' - q2' q2' q2' q1' 6 - q1' q1' q1' q2' q1' q3 q1' q6 5
+- - - q6 s1' s6 q5 q6 1'. q6 q5 q6 q6 q5 3 - q5 q5 q5 q6 q5 q3 q2 q3 q6 5'. ~ 5' - q1' q1' q1' q2' 3' - q2' q2' q2' q1' 6
+- q1' q1' q1' q2' q1' q3 q1' q6 5 - - - q6 s1' s6 q5 q6 1'. q6 q5 q6 q6 q5 3 - q5 q5 q5 q3 q2 q3 q3 q,6 1 - - - q5 5
+q6 5'. q3 q2 1 q,6'. 1 - q3 q5 q5 q6 q1 7 q3 q3 5. 5 - q6 5 q6 - - 1. q6 q5 6 q5 3 - q2 q2 q2 q3 q2 q1 s,6 q3 2
+- - 0 q2 q2 q2 s3 s5 3. q2 1 - - - q1' 1' q2'. 3' - q1' 2' q1' 6 - q1' q1' q1' s1' s2' q1' q3 q1' q6 5 0 - - q6 q6 q5
+q6 - - - 1. q6 q5 q6 q6 q5 - - - 3 - q5 q5 q5 q6 q5 q3 q2 q3 q6 q5 5 - - q2 q5 q5 q3 q2 3' q,6 1 - - - q6
+q6 q5' q6' 1' 1'. q6 q5' q6' q6' q5' 3 - q2 q5 q5 q3 q2 3 q,6 1 - - - q1' q1' q1' q2' 3' - q2' q2' q2' q1' 6 - q1' q1' q1' q2' q1'
+q3 q1' q6 5 - - - q6 s1' s6 q5 q6 1'. q6 q5 q6 q6 q5 3 - q5 q5 q5 q6 q5 q3 q2 q3 q6 5'. ~ 5' - q1' q1' q1' q2' 3' - q2'
+q2' q2' q1' 6 - q1' q1' q1' q2' q1' q3 q1' q6 5 - - - q6 s1' s6 q5 q6 1'. q6 q5 q6 q6 q5 3 - q5 q5 q5 q3 q2 q3 q3 s6 1 -
+- -
+%END

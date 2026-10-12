@@ -1,0 +1,20 @@
+%快乐成双.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=34448
+title=快乐成双
+tag=
+usertag=
+tagroute=
+confidence=0.994
+conf_p10=0.992
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-34448
+%--
+4/4
+subtitle=score
+q,6 q3 q3 q3 4 3 q2 q2 q2 q1 3 - q,6 q3 q3 q3 q4 q3 q2 q3 q2 q2 q2 q3 ,7 - s6 q3 q3 q3 q6 q2 3 q2 q2 q2 q5 3 q3 q5
+6 5 3 5 q2 q2 q2 q3 ,6 - q,6 q3 q3 q3 4 3 q2 q2 q2 q1 3 - q,6 q3 q3 q3 q4 q3 q2 q3 q2 q2 q2 q3 ,7 - q6 q3 q3 q3
+q6 q2 3 q2 q2 q2 q5 3 q3 q5 q6 q7 q6 q5 6 q3 q5 6 x 5 6 7 q6 q7 q6 q5 6 - q6 q7 q6 q5 3 - q6 q7 q6 q5 6 q5
+q3 q3 5 q6 6 - q6 q7 q6 q5 6 - q6 q7 q6 q5 3 - q6 q7 q6 q5 6 q5 q3 q3 1 q6 6 - 6 - 0 0 q3 1 q6 6 - q3
+1 q6 6 - q3 1 q6 6 -
+%END

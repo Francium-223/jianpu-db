@@ -1,0 +1,20 @@
+%恋人心_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=23259
+title=恋人心
+tag=
+usertag=
+tagroute=
+confidence=0.965
+conf_p10=0.900
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-23259
+%--
+4/4
+subtitle=score
+1 - - - x. x. x - - 3' - 2' - 1' - - - 1' - 7. q1' 6 - - 0 - - q,6 q,7 1 q,3 q1 ,7 q,6 q,5 ,6 q,5 q,6 ,3 q,6
+q,7 1 q,3 q1 ,7 q,6 q,5 q,6 q1 q,7 q,5 ,6 q,6 q,7 1 q,3 q1 ,7 q,6 q,5 ,6 q,5 q,6 ,3 q,6 q,7 1 q2 q3 ,7 q,6 q,5 q,6 q1 q,7 q,5 ,6 q1 q2 q3
+q5 q3 q1 2 q,7 q,6 q,5 q,3 q2 q3 1 q,6 q,7 1 q2 q3 ,7 q,6 q,7 s1 s1 s1 s2 3 q1 s2 q3 q5 s3 q1 2 s,7 s,6 q,5 q,3 q2 q3 1 s,6 q,7
+1 q2 q3 ,7 s,6 s,5 q,5 s,6 ,6 - 0 - - q,6 q,7. q,5' q,6 ~ ,6 - q1 q2 q,5' q,6 ~ ,6 - q,6 q,7 1 q2 q3 ,7 q,6 q,5 q,5 q,6 ,6 - q,6
+q,7 1' 1' 1 q2 q3 ,7' q,6 q,5 ,6 - - - - - - - -
+%END

@@ -1,0 +1,19 @@
+%忠魂归故里.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=17008
+title=忠魂归故里
+tag=
+usertag=
+tagroute=
+confidence=0.923
+conf_p10=0.710
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-17008
+%--
+4/4
+subtitle=score
+x 1' ,6 4 4 2 1 3 3 - x 1 - qx 6 - - - 6 - q1. q1' 1'. 1. q1 q1' x - x q2 q2 ,6 1 q2 q5 4 - - - 6
+6 3 q5 6 q7 - - - q5 q4 q3 q2 q1 q2 3 q6 q5 q6 s3 6 q6 q2' q6 q5 q3 q5 2. 3 5 - 2 2 3 q5 6 ~ 6 - 4 q3
+q4 2 - q3 q6 q5 q4 q3 q5 q2 q4 3 - - - q1 q2 q3 q6 5 q4 3 q3 q7 6 6 - q2' 3 q2' q7 6 q6 q7 q5 s4 s3 q2 3. q2
+q,2 q3 q5 6 q5 q6 6 - - 2 -
+%END

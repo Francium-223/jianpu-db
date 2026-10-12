@@ -1,0 +1,17 @@
+%快和我来把舞跳.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48727
+title=快和我来把舞跳
+tag=
+usertag=
+tagroute=
+confidence=0.986
+conf_p10=0.988
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48727
+%--
+2/4
+subtitle=score
+q5 1 q1 q1 q7 q2 ,5 q5 q7 q2 q4 q3 q5 1 q3 q3 4 q2 q2 3 q1 q1 q2 q2 q7 q7 1 3 3 4 4 2 2 1 3 1 1 4 2 2
+7 1 1 1 q1 q5 q5 q5 q2 q5 5 q5 q2 q5 q5 q5 q1 q5 q5 q5 q1 q5 q5 q5 q5 q5 1
+%END

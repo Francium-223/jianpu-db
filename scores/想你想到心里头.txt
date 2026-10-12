@@ -1,0 +1,21 @@
+%想你想到心里头.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=23689
+title=想你想到心里头
+tag=
+usertag=
+tagroute=
+confidence=0.987
+conf_p10=0.964
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-23689
+%--
+4/4
+subtitle=score
+q1 q2 3 - q3 q5 q2 q3 1 - - q,6 q1 2 - - 3 2 - - q1 q2 q3 2 q1 1 6 5. q6 3 - 2 - - q5 q3 2 - - -
+3. q3 q2 q3 q2 q,6 1 - - q3 q5 q6 q6 q6 q1 6 q5 q3 q5 q6 5 - 0 q6 q6 q6 q5 q6 q1' 6 q5 q3 q3 q2 1 - q2 q2 q2 q3
+2 q1 q6 ,5 - - 0 q2 q2 q2 q3 2 q1 q6 5 - - - q6 1' q7 q6 q1' q6 q3 5 - - 0 q6 q6 q6 q1' 6 q5 q3 2 - - 0
+q2 q2 q2 q1 2 3 q6 q5 q5 q3 q5 q6 5 x q6 q6 q6 6 q5 q5 q3 5 - - - q5 q3 q2 q3 2 ,6 1 - - q1 q2 3 - - q2
+q3 q2 q1 1 - q3 q5 6 - - q5 q3 2 - - q1 q2 3 - - 6 5. q6 5 - 2 - - q5 q1 2 - - - 0 1 - - - 1
+- - q,6 q1 2 - - 3 2 - - q1 q2 3 - - q3 q5 q1' q6 6 - q5 q3 2 - - ,6 1 - -
+%END

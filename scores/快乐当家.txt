@@ -1,0 +1,21 @@
+%快乐当家.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=8776
+title=快乐当家
+tag=
+usertag=
+tagroute=
+confidence=0.967
+conf_p10=0.933
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-8776
+%--
+2/4
+subtitle=score
+1 - - x 0 3 x x 3 x x q5 s5 s6 s5 s6 s5 s4 q3 s2 s3 s3 s4 q4 q4 s4 s5 s4 s5 s4 s3 q2 s7 s1 s1 s2 q2 s2 s7 s2
+s3 s4 s3 s4 s5 s6 s5 s4 s5 s6 s5 s6 s7 q1'. s1' q7 q1' 0 0 5 5 4. q4 3' 3 3 0 2 2 q2 2' q1 3 3 3 - 5 5 4. q4
+3' 3 3 1 2 1 q2 q1 1 1 1 - 4 q4 q3 2. q2 4 q4 q3 2 - 4 q4 q4 3 q2 4 q4 q3 2 - 5 5 4. q6 5 q5 q6 q3
+q2 1 5 1 q2 q1 1 1 1 - 5 - 5. q5 6 - 6 q5. s5 6 5 4 3 5 - 5 - 4 - q4 3 q2 4 - 2 q3. s4 5 q5 q6
+5. q4 3 - 3 - 5 - 5. q5 6 - 6 q5. s5 q5 q6 5 4 3 2 3 4 5 4 - q4 3 q2 4 - 4 q7. s6 5 q4 q2 3' q2 1
+- 1 - 5 - 5 5 6 - 7 - 7 - 7 - 1' 1' 1' 0
+%END

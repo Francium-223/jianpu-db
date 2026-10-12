@@ -1,0 +1,19 @@
+%我不能不爱你.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49903
+title=我不能不爱你
+tag=
+usertag=
+tagroute=
+confidence=0.952
+conf_p10=0.818
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49903
+%--
+4/4
+subtitle=score
+- - 1 1 1' x x x 0 5 3. 1 3 - - - 3 1' 6. q4 6 - - - 6 1' 1'. 1' 1' q6 5 - - 5 3 6. q5 2 - -
+- 2 5 3. 1 3 - - - 3 1'. 1' 1' 4 6 - - - 6 q1' q6 1' 3' - - - 1'. 6 5 7 q2' 1' - - - 1' 3' 3' 2' 1'
+1'. 6 6 - 6. 4 6 6 6 5 - - - 5. q5 6. q6 7. q5 4 - 4. q2 2 q1 q2 3 - - - 3 3 2 1 1. 6 6 - 6. q4
+6 6 6 5 - - - 5. q3 4 5 5. q4 4. q3 3. q2 2 2 q1 1 - - - 1 5 3. 1 1 - - - 1 - - 0
+%END

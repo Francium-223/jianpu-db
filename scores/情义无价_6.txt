@@ -1,0 +1,24 @@
+%情义无价_6.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=6476
+title=情义无价
+tag=
+usertag=
+tagroute=
+confidence=0.957
+conf_p10=0.889
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-6476
+%--
+4/4
+subtitle=score
+0 - - x x x x 5 x. 3 q3 s2 s3 3. q0 q2 q2 s2 s1 s7 s1 1 - q,7 q,5 q,3 q,5 q,5 q,3 q,4 q,5 q,6 q1 s3 q2 s2 2 - 3 q3
+s2 s3 3. q0 2 s2 s1 s7 s1 1 s1 s5 s6 s1 q3 q4 q5. q6 q6 q1 s3 q2 d1 1 - - - 0 3. q2 1 q2 q3 0 - q5 5 q6 5 -
+0 - q6. s6 q6 q5 q3 1 s6 s3 q3 s3 s2 2 - - q2 2 s2 s3 q2. s2 q2 q,6 0 5. s5 s6 3 - q,6 q1 q1 q,6 s5 q6 s5 q5 s3 s2
+q1 q1 1 - - q6 q6 s6 q5. 6. q1' q7 q7 q7. s5 q5 q3 3 q2 2 s2 s3 2 q1 q,6 6. q3'. 5 - q6 q6 q6 q5 q6. s6 q6. s1' - q7. s7
+q7 q5 3. q5 q6 6. q6 1' q6 0 2'. s2' s3'. - 2' - q,2. q3' 3' q2' 0 3' q2' s1' s1' - q7. s7 q7 q5 3 q0 q5 q6 1'. q2' q1' q0 q6 q2'
+2' s3' s2' q2' 2' s6 s5 q6 q1' q0 s1' s2' q1' s1' q2' q1' - q1' 1' - - 5 - q5 q3 s5 q6. 1 - s5 s6 q1 q1 s6 s1 q2 1 s2 s1 -
+q3. s2 q2 q1 s3 s2 q1 s2 s0 s6 s5 q5 s2 s1 q1 s6 s5 5 - q5 s3 s5 q6 q1 6' s3' s2' q1' 1' s1' s5 s6 s1' q3' q4' q5'. 0 - q6' q6'
+q1' s3' q2' s1' 1' - - - x. q1' 0 - q1' qx' 1' - - q1' 0 - q1' 1' - 2' - q2' q1' q7 q1' 1' - q1' s6 s1' q5' q4' q4' 3' q1' 6.
+s1' s2' 1' - - -
+%END

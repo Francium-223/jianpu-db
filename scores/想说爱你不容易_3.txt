@@ -1,0 +1,22 @@
+%想说爱你不容易_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=27340
+title=想说爱你不容易
+tag=
+usertag=
+tagroute=
+confidence=0.717
+conf_p10=0.365
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-27340
+%--
+4/4
+subtitle=score
+1 - - x x x x' 0 0 0 0 0 0 6' q1' 0 s1 s1' q1' s1 s1' d1 h1' h6' h1' s1' hx' q1 q1 h,1' q1 q1 q1' h1 q1' h6 h,3 q1' q3. q3
+q5 q5' q6' q3' q6' q1' s3 q,,3 q3 s2 h,1' q2 q2' h3 q2 q2 q3 h3 1' d1' 1 q,1 x 2 1' q,1' h1 s5 ,1 ,1 1 2 q1' ,x' s6 s1 s1' s1' q7' q7'
+q1' q1 q0 6 0 0 7 3 x d6' 6' d5 d6' d5 d6 d6 d5 d5 d3 s3 s6' s5 s5 s,2 d5 s5 s7 h5 q1 s6' sx h6 h3. s3 s2' s5 h7 s0 d3 s3
+s3 s2' s2 s6' h3' h2 h3 s2 h3' h1. h6 h1 d1 d1 q,1' q1 d1' d5 d3 s1 q3 q4' 1' 1 1' x' s1' s1' s1' s1 s1. 1' s0 0 s0 s0 s0 s0 0 0
+0 d1' d6 d1' d1' d1' d1' d1 h5 h1 d6 q2 h6' h6' h5' s6' s1 s5' s2' h6 s2 s5' s6' s5' h5' s1 h1' h6' hx s2 h6' h6' h6' s,5' s2' s1' s3 h3' h1' s3
+s3' s5' q2 d5' s1' q2' s1' s2 q2. s2'. s,1 s2 s6' q3' s6 q3 q2' q6' q3' d7 1 2 3 - 2 q1 q2 3 - - q1 q3 2 - - - 2 3 4 q5
+q6 q5 q4 q2 3 - 2 q1 2 3 - - q1 q3 2 - - q2 q1 6 - - - 6 - - 6 7
+%END

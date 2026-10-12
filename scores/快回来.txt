@@ -1,0 +1,22 @@
+%快回来.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=11989
+title=快回来
+tag=
+usertag=
+tagroute=
+confidence=0.932
+conf_p10=0.789
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-11989
+%--
+4/4
+subtitle=score
+1 0 - x. x x x. x x 7 7 5 q,6 q4 q,7 q3 7 2 3. 7 q2 s,6 s3. s,7 2 7. q3 q6 ,6 q5 ,6 4 q3 q2 q3 s2 s7 6 - -
+q4 s3 q2 q1 ,x q2. ,6 s1 ,2' ,6 3 q1 2 3 3 ~ q3 s2 s1 q2 q3 q2 1 1 ~ 1 - q,6 ,1 2 3 2 2 s1. q0 q2' q3' ~ 3 -
+q3 q5 6. 6 ~ 6 - q7 q6 s5 q3. 3 6 2. 2 2. 3 q,6 q,3 q,7. q,6 ~ ,6 - 5 3 7. 6 6 - 6 6 3' s2' ~ s2' q2'. ~ 2' -
+q0 s2' s2' q1' 2'. 2' ~ 2' ,,1' 6 6 6 3' 2' ~ 2' 2'. ~ 2' - 0 2' 2' 1' 2' ~ q2' q3' q1' q1' 2' 3' 6 3' 2' ~ s2' q2'. ~ 2'
+- q0 q2' q2' q1' q2' q3' 3' 3'. 5' 1' 6 3' 2' 2' q2' 2'. 3' 0 q5 s3 s3 7. 6 ~ 6 - - ,6 3 q1 q2 2 ~ 2 - q1 q2 ,,1 6
+,6 ~ 6 - ,6 3 1 q2 2 ~ 2 - q1 q2 5 q3 3 ~ 3 - q1 2 q1 6 6 ~ ,6 q,6 3 q1 q2 2 2 6 3' q2' ~ q2' 2'. ~
+2' q2' q2' q1 6 - q0 q,1' s2' 3' - - 3' 2' 0 3. 5 - 6 - - - 6 0 0 0
+%END
