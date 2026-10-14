@@ -1,0 +1,19 @@
+%新疆英孜.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=32131
+title=新疆英孜
+tag=
+usertag=
+tagroute=
+confidence=0.973
+conf_p10=0.920
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-32131
+%--
+2/4
+subtitle=score
+0 ,2 ,2 q1. q1 6 6 6 0 2 2 2 2. 2. q2 q4 q0 3 2 q1 7 1 7 6. 6 6 6 q0 q6 q6 q0 ,6 ,6 ,6. ,,3 ,3 0 ,6 ,6 ,6
+,6 ,1 0 ,7 q,6 ,6. ,3 ,3 ,1 ,6 ,6 ,6 0 0 ,6 7 ,6 ,6 ,3 ,3 0 ,6 ,6 ,6 q,6 q3 0 3 q3 3 2' ,7 ,7' ,6 ,6 ,6 0 0 2 ,2
+2 2 4 0 3 ,3 3 2 1 0 ,7 q7 q,7 ,7 2 1 ,7 ,6 ,5' 6. 2 q2 2 2 2' 2' 3 2 0 1 2' 1 1 1 1 q1' 0 q1 q2' q,7
+,7 ,7' q,7 ,7' q,7 2 q1 ,7 ,6 ,5 ,6 ,6 0 x.
+%END

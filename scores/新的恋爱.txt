@@ -1,0 +1,23 @@
+%新的恋爱.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=29558
+title=新的恋爱
+tag=
+usertag=
+tagroute=
+confidence=0.961
+conf_p10=0.892
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-29558
+%--
+4/4
+subtitle=score
+1 1 6 0 x x. x'. x 1 x. x s,x q6 q6' q3' q2' q3' q4' q3' q2' 3' - - - q6 q6' q3' q2' q3' q4' q3' q2' 5 - - - q6 q6' q3' q2'
+q3' q4' q3' q2' 3' - - - q6 q6' q3' q2' q3' q4' q3' q2' - - - 6 q5 5 6 5 6 5 6 5 6 5 6 5 6 5 6 5 6 q5 q5 6
+5 6 5 6 5 6 q5 5 6 5 6 5 6 5 6' 6' q5' 7'. 3' - - - 6' 6' q5' 7'. 3' - - - 6' 6' q5' 7'. 3' - - - 4' 4'
+3' 2'. - - - - 4' 3' 2'. q1' - 4 - 6 7 3 - - - 5' - 4' 3' 2. q1 1 - 4 - q7 q6 7 1 - - - 6 6 7. 1
+- - - x x - - - x - - - 0 x - - - x - - - x - - - x - - - x - - - x - - - q6 q5 q6
+q7 q7 q2' q3' q3' q3' q3' q3' q2' q2' q1' q1' q7 q7 q7 q7 q6 q6 q6 q5 q5 5 5 5 4. q4' 5 q4' s3' q4' s4' q3' s4' q3' q4' q4' q3' q4' q4' q3'
+q4' q3' q4' q4' q3' q4' q4' q3' q4' q3' q4' q4' q3' q4' q3' q4' q4' q3' q2' q1' q7 q6 q5 q3 q2 3 5 - - 4 0 5 0 6 5 6 q5 q4 4 0
+5 0 x x. 6 5 6 q5 q4 x - - - x - - - x - - - x - - -
+%END

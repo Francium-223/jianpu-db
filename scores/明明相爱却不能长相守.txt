@@ -1,0 +1,22 @@
+%明明相爱却不能长相守.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=31849
+title=明明相爱却不能长相守
+tag=
+usertag=
+tagroute=
+confidence=0.988
+conf_p10=0.988
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-31849
+%--
+4/4
+subtitle=score
+s3 s4 5 - - q0 s4 s3 q2 q,7 1 - q0 q1 0 q6 q6 s0 s5 q0 q3 5 - - q0 q3 6 q7 q0 q7 q7 q6 5 q6 q1 1 - q2 q3 q3
+q5 q6 5 q3 2 - - q3 q2 q3 q5 q5 q5 ~ 5' q5 q5 q6 q5 s2' s3' q2 ~ 2' q0 q1 q1 q1 q6 q6 5 q3 5 - - q0 q1 q6 q6 q6
+q6 ~ 6' q6 q6 q5 q3 q2 q1 ~ 1' q0 q,6 q3 q2 q3 q5 q6 s5 ~ q5' q2' ~ 2' - - q3 q2 q3 q5 q5 q5 ~ 5' q5 q5 q6 q5 s2 s3
+q2 ~ 2' q0 q1 q1 q1 q6 q6 5 q3 5 - - q0 q1 q6 q6 q6 q6 ~ 6' q6 q6 q5 q3 q2 q1 ~ 1' q0 q,6 q3 q2 q3 q5 q6 q1' q2' ~
+2' q0 q5 2 q3' q3' q3' q3' ~ q3' q3' q2' q1' q2' q3' q2' q2' ~ 2' q0 q6 q1' q1' q1' q0 q1' q1' q2' q3' 5' q3' ~ 3' q3' q2' q2' q1' q1' q6 1'
+q1' q6 q5 q3 q5 q6 1' q5 q6 q1' q1' q6 q2' q0 q5 1' 2' q3' q3' q3' q3' ~ q3' q3' q2' q1' q2' q3' q2' q2' ~ 2' q0 q6 q1' q1' q0 q1' q1' q2'
+q3' 5' q3' ~ 3' q3' q2' q2' q1' q1' q6 1' q1' q6 q5 q3 q5 q6 1' q5 q6 q1' q6' q1' s2' q2' 1' - - - 1' q0 q5 2'. - - - q1'. 1
+%END

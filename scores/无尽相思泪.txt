@@ -1,0 +1,19 @@
+%无尽相思泪.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=33698
+title=无尽相思泪
+tag=
+usertag=
+tagroute=
+confidence=0.974
+conf_p10=0.970
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-33698
+%--
+2/4
+subtitle=score
+- s1 q1 s2 s3 q5 s1 2 - s2 s3 s2 s1 s6 q1 s3 ,5 - s,5 q,5 s,6 1 q2 s2 s1 ,6 s2 s2 s2 s3 q2 s1 s,6 2 - q1 s1 s2 s3 q5
+s1 2 - s2 s3 s2 s1 s,6 q1 s,3 ,5 - s,5 q,5 s,6 1 s2 q2 s1 ,6 s2 s2 s2 s1 s2 s2 s2 s3 5 q0 s3 s6' s6' q6 s5 q6 q5 q6. s3 5
+s6 s6 s6 s5 s6 s5 s1 s2 3 - s2 s3 s2 s1 ,6 s2 s2 s2 s3 5 s2 s2 s2 s3 s2 q1 s,6 1 - - - 0 - s6 s6 s6 s5 q6. s3 5
+q0 s3 s2 s2 s2 s3 s2 q1 s,6 1 - s2 s3 s2 s1 ,6 s2 s2 s2 s3 5 s2 s2 s2 s3 s2 q1 s,6 1 -
+%END

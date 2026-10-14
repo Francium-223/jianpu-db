@@ -1,0 +1,24 @@
+%日月传.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=6142
+title=日月传
+tag=
+usertag=
+tagroute=
+confidence=0.950
+conf_p10=0.846
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-6142
+%--
+4/4
+subtitle=score
+q1 qx 1. 1. 0 x x x. x. 1 1 x. ,1' 1' x' x sx. sx. x'. q6 q7 1' 7 6 5 3 5 ,6 - 2 3 ,6 ,5 ,6 - - q,6 q,7 1 q3
+q2 q1 q1 s6 s7 ,6 - - q,6 q,7 1 q3 q2 q1 q1 q2 3 - - q3 q5 6 3 2 q2 q3 5 1 ,6 q,6 q,7 1 q3 q2 q1 q1 q2 3 - -
+q,6 q,7 1 q3 q2 q1 q1 s6 s7 ,6 - - q,6 q,7 1 q3 q2 q3 q5 q6 q2 q3 3 - q3 q5 6 3 2 q2 q3 5 1 ,6 q,6 q,7 1 q1 q3 q2
+q1 q1 s6 s7 ,6 - - - ,6 ,7 1 2 q3 q2 q1 q2 3 - q3 q2 q1 q2 3 q2 q3 q2 q1 1 - s6 s7 ,6 - 3 5 q6 q5 q3 q5 6
+- q6 q5 q3 q5 6 q5 q6 5. q6 q5 q3 q3 q2 3 - - - 7 - - q6 q7 1' q1' q7 q6 q6 q5 6 - - q3 q5 6. q6 q5 q3 q3 q2
+3 - - q2 q3 2 1 ,6 q5 q6 q6 q5 q5 q2 3 q,6 q3 2. q3 q2 q3 q5 q2 3 - - q6 q7 1' q1' q7 q6 q6 q5 6 - - q3 q5 6.
+q6 q5 q3 q3 q2 3 - - q2 q3 2 1 ,6 q2 q3 3 6 1' q6 q1' 7. q6 q7 q6 q6 q5 6 - - - x 0 0 0 0 6 3 2 5 3
+- - - 2 3 2 q2 q,7 ,6 - 1 2 0 0 0 0 6 3 2 3 ,6 - - - ,6 3 2 3 ,5 - - q6 q7 1' 7 6 5 3 5 ,6
+- 2 3 ,6 ,5 ,5 - - - ,6 - - - ,6 - - -
+%END

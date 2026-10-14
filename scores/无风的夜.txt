@@ -1,0 +1,18 @@
+%无风的夜.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=27838
+title=无风的夜
+tag=
+usertag=
+tagroute=
+confidence=0.981
+conf_p10=0.976
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-27838
+%--
+4/4
+subtitle=score
+1 - - - x x x ,6 q,6 q,7 1 1 q,7 q,6 q,7 q2 ,6 - ,6 - q3 q2 q3 q4 q5 q6 q5 q4 q3 q2 q3 q4 3 - 3 q3 q3 6 - 6
+q5 s6 s5 5. q3 5 q3 s2 s1 1 - q1 q2 3 5. s3 s2 2 - q1 q2 q1 q,7 ,6 - ,6 q3 q2 6 - 6 q5 s6 s5 5. q3 5 q3 s2 s1
+1 - q1 q2 3 5. s3 s2 2 - q1 q2 q1 q,7 ,6 - ,6 -
+%END

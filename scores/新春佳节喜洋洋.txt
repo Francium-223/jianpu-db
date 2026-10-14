@@ -1,0 +1,17 @@
+%新春佳节喜洋洋.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=16121
+title=新春佳节喜洋洋
+tag=
+usertag=
+tagroute=
+confidence=0.952
+conf_p10=0.811
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-16121
+%--
+2/4
+subtitle=score
+s2' x s3 s2 s1 2 x s3 s1 s3 s5 2 x s5 x s3 q2 s3 s5 s1 s1 s1 x s2 s2 s2 s5 s1 s1 s2 s1 x q1 s2 q1 s2 q3 q2 s1 s1
+~ 1 s2 q1 q2 q2 q1 1 - q2 s2 q2 q1 1 1 - 1 - 1 - 1
+%END

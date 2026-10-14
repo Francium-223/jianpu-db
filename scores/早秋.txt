@@ -1,0 +1,17 @@
+%早秋.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=17088
+title=早秋
+tag=
+usertag=
+tagroute=
+confidence=0.943
+conf_p10=0.775
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-17088
+%--
+4/4
+subtitle=score
+1 q1 q3 5. q5 1' q7 q6 5 - 3 q2 q3 6. 5 3 1 2 - 1 q1 q3 6. q5 7 q6 5 - 3 q2' q3' 4 6 5 - - 0 5. q5 4
+5 2'. q1' 7 - s5 6 7 6 5 - 6 q6 6 5 1' 2' 3' - 2' q3' q7' 5' 6' 7' 1' - - 0
+%END

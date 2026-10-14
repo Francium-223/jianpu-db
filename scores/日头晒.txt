@@ -1,0 +1,18 @@
+%日头晒.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48035
+title=日头晒
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.998
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48035
+%--
+4/4
+subtitle=score
+q3. q2 q1. q3 5 - - - q3. q2 1 q1. q2 q1 1 1 q3. q2 1 - - q3 q5 q6 1 0 0 q3. q2 q1. q3 5 - 5 - q3. q2 1 q3. q2
+1 - 1 - q5. q3 1 - - - q1. q2 1 - - 1 q5 q3 - 5 - - - 3 1 q1 q3 q2 1 - - 1 q3 q2 - 5 1 q1 q3 q2
+1 1 - 1 q5 q3 - 5 - - 3 1 q1. q2 1 1 - 1
+%END

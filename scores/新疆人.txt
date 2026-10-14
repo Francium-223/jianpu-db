@@ -1,0 +1,24 @@
+%新疆人.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=30108
+title=新疆人
+tag=
+usertag=
+tagroute=
+confidence=0.972
+conf_p10=0.949
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-30108
+%--
+2/4
+subtitle=score
+x sx. sx sx sx q0 sx sx qx qx qx sx sx sx. sx sx sx q0 sx sx qx qx qx q5 q6 s1 s2 s3 s4 5 5. s3 s5 6. q2' q1' q7 q6 s5 s7
+5 - s0 q5 s6 s5 s3 q5 s0 q3 s5 s2 s3 q2 q1. q7 q6 q7 s1 s3 2 - 5. s3 s5 6. q2' q1' q7 q6 s5 s7 5 - s0 q5 s3 q5 q6 s5
+q3 s5 s2 s3 q2 q1. s,7 q6. d,7 q5 s,7 ,5 s1. d1 s1 q7 q6. s7 s5 s6 ,5 - s1. s1 s1 q7 q6. s7 s1 s3 2 - q2. s3 q5 s6 s6 s5 q3 s5
+s2 s3 q2 q1. q7 q6. s7 q5 q6 ,5 - s1. s1 s1 q7 q6. s7 q5 q6 ,5 - s1. s1 s1 q7 q6. s7 s1 s3 2 - q2. s3 q5 s6 s6 s5 q3 s5 s2
+s3 q2 q1. q7 q6. s7 q5 q6 ,5 - s5 q5 s5 q5 s3 s5 6. s1' s2' s7 s,6. s7 s5 s6 5 - - 6. 6 s6 s6 q6 s5 s1' s,1' q6' s,1' s5 s6 q5
+s,5 q3 s3 s2. s3 s1 s3 2' - s3 q3 s3 q3 s2 s5 s5 q3 s5 q2 q3 q1. q7 q6. s7 s1 s3 2 - q6. s6 q6 q7 q1 q3 s2. s5 q3 s2. s3 q1
+,7 q6. d7 q5 q6 ,5 - 5 - 5 - 6 q5. s6 5. q6 q1'. s7 q6 s5 s6 q5. s6 q5. s6 q2. s3 q5 s6 s6 s5 q3 s5 s2 s3 q2 q1. q7 q6. s7
+s1 s3 2 - 6 q5. s6 5. q6 q1'. s7 q6 s5 s6 q5. s6 q5. s6 q2. s3 q5 s6 s6 s5 q3 s5 s2 s3 q2 q1. q7 q6. d7 q5 q6 ,5 - q2. s3 q5
+s6 s6 1. x. - s5 q3 s5 s2 s3 q2 q1. s,7 q6. s7 q5 q6 ,5' -
+%END
