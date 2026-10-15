@@ -1,0 +1,24 @@
+%樱花舞.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=25446
+title=樱花舞
+tag=
+usertag=
+tagroute=
+confidence=0.977
+conf_p10=0.971
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-25446
+%--
+4/4
+subtitle=score
+q,5 q1 q1 q2 q2 q3 q3 q5 5 q1 2 1 q,5 q1 q1 q2 q2 q3 q3 q5 5 q1 2 - q,6 q1 q2 s3 ,6 s3 q2' q2' 1 q,5 ~ ,5 0 q,6 q1 q2
+q3 2 5 3 - - 0 q,6 q1 q2 q3 ,6 q3 q2 ~ q2 1 q,5 ~ ,5 q0 q5 q5 q4 q3 q1 ~ 1 2 1 - 0 0 q,6 q1 q2 q3 ,6 q3 q2
+~ q2 1 q,5 ~ ,5 - q,6 q1 q2 q3 2 5 3 - 0 0 q,6 q1 q2 q3 ,6 q3 q2 ~ q2 1 q,7 q0 q,6 q,7 q1 ~ q1 q5 ~ 5 q0 q,6 q,7
+q1 ~ q1 q2 ~ 2 - q0 q,5 q,5 q1 q1 q2 q2 q3 q3 q5 ~ q5 q5 ~ 5 - q0 q,5 q,5 q1 q1 q2 q2 q3 q3 q6 q5 q5 ~ 5 0 q3 q5
+q6 q3 q2 q1 2 q3 q4 x q,5 q1 q1 q2 q2 q3 q3 q5 q5 q3 q3 7 q6 q0 q3 5 4 q0 q6 q1 q2 3 - 2 1 1 - - 0 q1 q2 q3.
+- - 3 s2 2 q0 s,5 q3 - q2. s1 q1 q1 1 - - ,1 3 5 - - - 0 q6 q5 q3 q2 q2 s3 s2 q1 s5 ,6 - q0 q1 ,7' - - -
+x x x. 1 x x. - x q1 q1 q2 q2 q3 - ,7 - 0 0 3 q2 4 q0 s5 3 q4 q2 2 0 q1 q1 1 - - - q,6 q1 q2 q3 ,6 q3
+q2 ~ q2 1 q,5 ~ ,5 0 q,6 q1 q2 q3 2 5 3 - 0 0 s6 q1 q2 q3 ,6 3 2 1 5 - q5 q5 q4 q3 1 q2 q1' ~ q1' q1 ~ 1
+- -
+%END

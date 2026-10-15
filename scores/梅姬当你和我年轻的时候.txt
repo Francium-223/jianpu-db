@@ -1,0 +1,19 @@
+%梅姬当你和我年轻的时候.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=45852
+title=梅姬当你和我年轻的时候
+tag=
+usertag=
+tagroute=
+confidence=0.993
+conf_p10=0.981
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-45852
+%--
+4/4
+subtitle=score
+5 5 q3. 2 1 q2 q1 1 - ,6 1 s6 q6 ,5 q1. q1 3 q5. q5 2 - 0 5 5 q3. s2 1 q2 q1 1 - q,6 1 q,6 ,5 q1. s3 5 q2. q3
+1 - 0 1 6 q6. q6 4 q6. q6 5 - q3 5 3 2 q5. s5 5 q4 7 q6 5 - 0 q5. s5 5 3. s2 1 q2. s1 1 - ,6 1 ,6 ,5 q1.
+3 5 q2. s3 1 - - 1 6 q6. s6 4 q6. s6 5 - q3 5 s3 s3 2 q5 q5 q5 4 q7 6 5 - 0 q5 q5 5 q3. q2 1 2 1 1 -
+,6 1 q,6 ,5 q1. q3 5 2. q3 1 - -
+%END

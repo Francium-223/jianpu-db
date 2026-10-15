@@ -1,0 +1,23 @@
+%欢颜_5.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=24083
+title=欢颜
+tag=
+usertag=
+tagroute=
+confidence=0.948
+conf_p10=0.824
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-24083
+%--
+3/4
+subtitle=score
+q1' q1 0 s1 q1 0 0 3' 4' 0 q3 q2 3 - q4 q3 4' - q1. 1 4' 1 q1 q1 q2 q1 2 2 1 q3 q2 3' - - 3 0 q3 q4 q1 q1
+x 1 5' 5' 5 q3 q3 q4 5 - q4 q5 6 - - 6 - q4 q5 6 - q4 q5 6 - q4 q6 q6 q7 7 - 7 - 1' q7 q7 7 - 7 -
+s3 q2 3 - q4 q3 4 - - 4 - q2 q1 2. q2 q3 q2 3 - - 3 - q3 q4 5 - q3 q4 5 - q4 q5 6 - - 6 - q4 q5 6
+- s4 q5 6 - q4 s6 q6 s7 7 - 7 - 1' q7 q7' 7' - 7 0 0 7 6 7 3' 4' - q4'. s5' s4' q3' q4' 4' - 4' - - 7 6 5
+5 6 7' 7'. 3' - 3' - - 3' - - 2' 3' q4' q4' 1' - 0 0 0 2' 7 - 0 0 0 x' 7 - - 7 - - x 4 x 4' 5 6
+7' - - 7' - - 7' 0 0 0 0 0 0 0 0 0 0 q3 q2 3 - s4 s3 4 - - 4 0 q2 q1 2. q2 q3 q2 3 - - 3 - q3
+q4 5 - q3 q4 5 - q4 q5 6 - - 6 - q4 q5 6 - s4 q5 6 - q4 s6 q6 s7 7 - 7 - 1' q7 q7 7 - 7 - q3 q2 3
+- q4 q3 4 - - 4 0 q2 q1 2 - - 2 0 q3 q2 3 - - 3 - 4 3 - - 3 - -
+%END

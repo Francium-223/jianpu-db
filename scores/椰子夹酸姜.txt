@@ -1,0 +1,17 @@
+%椰子夹酸姜.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48009
+title=椰子夹酸姜
+tag=
+usertag=
+tagroute=
+confidence=0.979
+conf_p10=0.987
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48009
+%--
+2/4
+subtitle=score
+1 - - q1 4 x ,6 ,6 3 0 ,6 ,6 3 0 2 6 5 3 6 6 - 6 0 6. 5 6 2 3 5 3 0 ,6 1 2 3 3 3 1 ,6 -
+,6 0 3. 2 3 ,6 2 - 2 0 2. 1 ,6 2 ,5 ,5 0 ,6 3 2 3 ,6 ,5 - ,5 0 2 6 5 3 6 6 6 0
+%END

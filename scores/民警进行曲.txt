@@ -1,0 +1,24 @@
+%民警进行曲.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14688
+title=民警进行曲
+tag=
+usertag=
+tagroute=
+confidence=0.953
+conf_p10=0.758
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14688
+%--
+2/4
+subtitle=score
+x 4 q3 s1 q1 q2 q1 q0 x 0 5 1' 5 3 5 q6. s7 6 ~ q6 q0 1' q7. s5 q5 q6 5 5 5 q5 s3 q3 q4 q3 q0 1' 5 3 5 q7.
+s1' 7 q7 q0 3' 2'. q2'. s7 q7 q1' q7 q6 q5 q4 3. q0 0 5 1' 5 q3' s1' q2' q1 q0 3 5 q6. s7 6 ~ q6 q0 1' q7. s5 q5 q6 5 5
+1' 5 3 5 x 1. 1'. x 3 x ,6 q7. s1 7 q7 q0 3 x q2. s7 q7 q1 q7 q6 q5 q4 3. q0 0 ,6 ,7 - - x q,6 q,7 ,7 x q,6 q,7
+2 q1 q,7 1 ,6. q0 ,6 3 - - x q2 q3 3 q2 q3 5 q4 q3 x 2 - - x 6' 7 - - 6 5 4 3 2 6 q5 q0 0 q5 q1' 7
+q5 q7 6 q4 q6 5 3 ~ q3 q0 q3 q5 1 ,6 ,7 - - ,6 ,5 ,6 1 2 2 q3 q0 0 q3 q6 5 q,7 q2 1 q2 q4 3 1 q1 q0 q,5 q,7
+x 4 q2 q4 q3 q0 q3 q2 6 0 0 6 7 - - 6 5 4 3 2 6 q5 q0 0 q1' q1' 7 q5 q7 6 q4 q6 6. ,6 q,7 q2 q3 q0 q3 q2
+,6 0 0 ,6 ,7 - - ,6 ,5 ,6 1 2 2 q3 q0 0 q3 q6 5 q,7 q2 1 q2 q4 1' 1 ,1 x. x. 1 5 3 q3 q0 q3 q5 4 q2 q4 q3
+q0 q3 q2 6 - q6 q0 5. 6 - - q6 q5 6 - - q6 q5 q6 q0 0 3 1 ~ ,1 q0 q,5 q,7 ,6 q,7 q2 q3 q0 q3 q2 ,6 - q,6 q0 0
+,6 - - q,6 q,5 ,6 - - q,6 q,5 q,6 q0 0
+%END

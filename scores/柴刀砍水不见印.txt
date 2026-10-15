@@ -1,0 +1,17 @@
+%柴刀砍水不见印.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47884
+title=柴刀砍水不见印
+tag=
+usertag=
+tagroute=
+confidence=0.998
+conf_p10=0.996
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47884
+%--
+2/4
+subtitle=score
+5 - 5 3 q2 3 5 3 3 2 1 2 1 2 3 2 3 5 2 1 5 1 2 1 q5 3 q3 q2 1 1 1 2 3 2 3 5 2 1 5 q2
+3 - q3 2 1 2 1 q1 q2 3 0
+%END

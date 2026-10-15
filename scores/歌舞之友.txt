@@ -1,0 +1,22 @@
+%歌舞之友.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15841
+title=歌舞之友
+tag=
+usertag=
+tagroute=
+confidence=0.981
+conf_p10=0.941
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15841
+%--
+3/4
+subtitle=score
+3 3 5 - 2' 3'. q2' q2' 6 - - 5 1 2 3 2 1 ,7. q,6 q,5 q2 1 - - 1 - - q3 q4 5 3 q3 q6 5 3 2. q4 q3 q2 1
+- - q3 q4 5 q2' q3' 2' 7. q3 q5 q6 5 - - q6 q7 6 q2' q2' 6 5. q6 q5 q2 3 - - q5 q5 2' q3' q3' 2' 7. q6 q5 q2' - -
+3 - 5 - q2' q2' 3'. q2' q2' 6 - - - 2' - 6 5. q6 q5 q2 3 - - q3 q2 3 q3 q5 q5 q3 5 6 7. q6 q7' 2' - - 3' 2'
+6 7 3 2'. q2' q3' - - 3 3 5 - 2' 3'. q2' q2' 6 - - 5 1 2 3 2 1 ,7. q,6 q,5 q2 1 - - 1 - - q3 q4 5 3 q6
+q6 5 3 2. q4 q3 q2 1 - - q3 q4 5 q2' q2' 7 7. q3 q6 q7 5 - - q6 q7 6 q2' q2' 6 5. q6 q5 q2 3 - - q5 q5 2' q3'
+q3' 2' 7. q6 q5' q2' - - 3 - 5 - q2' q2' 3'. q2' q2' 6 - - - 2' - 6 5. q6 q5 q2 3 - - q3 q2 3 q3 q5 q5 q3 5 6
+7. q6 q7 2' - - 3' 2' 7 2' 6 4' - 3' 2' - 5' 5' - - 5' - - 5' - - 1' - - 1' - - - - 5 -
+%END

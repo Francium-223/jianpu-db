@@ -1,0 +1,22 @@
+%梦缠绵.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=23408
+title=梦缠绵
+tag=
+usertag=
+tagroute=
+confidence=0.969
+conf_p10=0.922
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-23408
+%--
+2/4
+subtitle=score
+0 s2'. s3' q1' s3 s5 q6 q5 3 s2. d3 s5 s5 s3 s2 s1 q2 q5 2 s6. s2'. s3' q1' q5 3 - s3 s5 s1' s1' s6 s5 s3 s2 3 - s6 s5 s3 s2
+s3 s2 s1 s6 2 - q1' s1' s7 q6. s5 s6 s5 s3 s2 1 s2 s2 s2 s3 q5 s7 s6 ,5 - s3 s5 s1' s1' s6 s5 s3 s2 3 - s6 s5 s3 s2 s3
+s2 s1 s6 2 - s1' s1' d7 s6. d5 d6 s5 d3 s2 q1 d2 s2 d2 d3 s5 d7 d6 q5 - x. s1' d1' d7 s6 d1' s1' d2'. s3' s7 s6 q5 d1' d1' d1' d7
+d6 d5 d6 d5 2 - q1' s1' s7 q6. s1' q1' s2' 3' s5 s5 s5 s6 s7 s6 s5 s6 3 - q1' s1' s7 q6 s1' s1' s2'. s3' s7 s6 5 s1' s1' s7 s6 s5
+s6 s5 2 - s1' s7 q6. s1' q1' s2' ~ s2' 3' s5 s5 s5 s6 s7 s7' s1' ~ s1' 6 - q5 3 s2. d3 s5 s5 s3 s2 q2 2 s6. s2'. s3' s5 q5 3
+s2 s3 s5 s5. d3 s2 s5 - 6 - s3 s1' s1' s7 s6 s7 q3 s6 s5 s3 s2 3 s2 s2 s2 s3 s5 s6 q7 s7'. s2' s1' s1' 6 6 - 3 s2. d3 s3
+s2 q2 2 s6. s2'. s3' 0 3 s2 s3 d3 s2 -
+%END

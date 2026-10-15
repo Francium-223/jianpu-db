@@ -1,0 +1,18 @@
+%柑子树.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=33936
+title=柑子树
+tag=
+usertag=
+tagroute=
+confidence=0.995
+conf_p10=0.995
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-33936
+%--
+2/4
+subtitle=score
+5. 3 5 6 - 5 6 7 6 5 3 - 5 3 5 3 1 2. 2 3 q1 s6 s1 q2 q1 q,6 - x q5 q3 q5 s3 s5 q6. s1 s6 s5 q3 q5 s6
+s1 q6 q5 s3 s5 s3 s2 q1 q2 q5 3. q5 s3 s3 q5 q3 5 5 3 2 1 6 6 1 2. 5 3 2 1 6 1 2 2 1 6 - 6 - 1 6
+3 5 6 6
+%END

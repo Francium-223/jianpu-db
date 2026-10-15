@@ -1,0 +1,20 @@
+%梦里的爹娘.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12464
+title=梦里的爹娘
+tag=
+usertag=
+tagroute=
+confidence=0.831
+conf_p10=0.484
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12464
+%--
+3/4
+subtitle=score
+1 - - - - q1 1. x. 6 x' ,1. x. x. x 1 x' x ,5' 2' 3' 2' s6 s1' s5 q6 s5 s3 q2 q1. x. x. 3 2 - 1 q2 q5 q1 1 3
+2 5 1 3. ,,,2 5 1. ,x 5 - 6 - 1' 6 5. q6 3 - 5 6. q6 0 3 q6 - - 0 - - - - ,,1' x' - x' 1' - x x' 1
+x' q,1 1 x. x' qx x'. x. x x. x'. ,,x x x 1 0 0 0 5 6 0 q1' 6 ,,,2' 7' q7 q,6 ,,,1 6' 6 1 q7 6 s,,3 x q5 5 3 1' q,1
+7 2' 7 7 2 - q2 q3 1 - - 0 0 0 2 - q2 q3 1 - - 0 0 0 q5 q5 ~ 5 3 2 - 1 2 1 - - 0 0 0 q5
+q5 q5 6 3 2 - 1 2 1 - -
+%END

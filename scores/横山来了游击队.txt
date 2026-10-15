@@ -1,0 +1,20 @@
+%横山来了游击队.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=8511
+title=横山来了游击队
+tag=
+usertag=
+tagroute=
+confidence=0.913
+conf_p10=0.726
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-8511
+%--
+2/4
+subtitle=score
+x 5 - 2'. 5'. s2'. s5' - q5' 2' 5'. q6 q1'. s2' s5'. s1' s6 5 - x q1' s1' s6 5 2'. 5' q2'. q5' s1' s6 5 q5' 2' q1' q2' 5 q6 q1'. q2' s5'.
+s1' s1' s6 s5 s6 5. x q5' q5' s2'. s5'. s2' q2' 5 q6 q1' q2' s5'. s2' s6 s5 s6 5. s6 5 q1' s1' s1' 2' q3'. s3'. s2' q1'. q3' 2' - s3'. s1' s1' s6
+q5 s5 s6 q1' s1' s1' q2'. s3' q2' s6 q1'. s6 5 - x s6 5 q1' s1' 2' q2' q6 q6 5 - x s1' s6 5 s1' ~ s1' 2' q3'. s3'. s2' q1' q3' 2' -
+s3'. s1' s1' s6 q5 s5 s6 q1' s1' s1' q2'. s3' q1' s6 q1'. s6 5 - q2'. s2' 2' 2'. q5' q2' q2' s5'. s2' s6 s5 s6 5. q5' 2' q2' 5 q6 q1' q2' s5'. s2'
+s6 s5 s6 5. q5' 2' q2' 5 q6 q1' q2' q5' q2'
+%END

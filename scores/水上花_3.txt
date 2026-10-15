@@ -1,0 +1,20 @@
+%水上花_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=22696
+title=水上花
+tag=
+usertag=
+tagroute=
+confidence=0.957
+conf_p10=0.933
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-22696
+%--
+4/4
+subtitle=score
+q5 ~ q5 ~ q5 ~ q5 q5 q5 q5 q5 q5 q5 q5 q5 q6 q4 q5 5 - x 0 0 x q5 q5 q5 q5 q5. q5 q5 q5 q5 q5 ~ q5 q5 q4 q3 3
+- x 0 0 q5 q5 q5 q5 q5 q5 5 q5 q5 ~ 5 ,1' 7 q7 q6 q5 q4 q4 4 0 0 q5 7 ~ 7 0 q6 s5 s4 3 1' - - x 5 -
+- - 3 - - - 3 - q2 s3 s2 s3 s1 q5 ,5 - - q,4 q1 1 q1 q7 s6 s5 ,3 - - - 3 - - q2 s3 q4 q3 s2 s1 q5 s6 ~
+,6 - - ,5 q,7 ~ ,7 - q,6 q5 s4 q,3 q1 1 - - x. q,3 q4 5 - 5 0 0 0 3 6 s5 5 - - 5 0 0 0 q5 q7 7 - 6
+s5 4 3 - - 1 5 q7 ~ 7 0 q6 s5 s4 q3 - -
+%END

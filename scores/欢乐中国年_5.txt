@@ -1,0 +1,19 @@
+%欢乐中国年_5.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=33130
+title=欢乐中国年
+tag=
+usertag=
+tagroute=
+confidence=0.994
+conf_p10=0.983
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-33130
+%--
+4/4
+subtitle=score
+3. q3 3 2 5. 3 2 2 3 1 ,6 ,5 - 1 1 1 ,6 5 3 2 1. q2 3 1 2 0 q3 3 3 6 5. 3 2 3 q3 1 1 2. 3 5
+q3 2 3 q1 ,6 ,5' - - - 2. q2 q2 2 6 5 5 - - - 0 0 0 0 1 ,6' ,5 3. 5 6 3 5 6. 6 5 3 2 1. 2 3 2
+- 2. 3 5 5 3 2 2 ,7 ,6. 1 2. q2 2 1 2 6 2 5 - - 2. 2 2 3 ,7 ,6 1 - - - q2. s2 q2 q3 2 1 5 - -
+- 5 - -
+%END

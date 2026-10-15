@@ -1,0 +1,20 @@
+%每当我走过老师的窗前.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=250
+title=每当我走过老师的窗前
+tag=
+usertag=
+tagroute=
+confidence=0.956
+conf_p10=0.874
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-250
+%--
+2/4
+subtitle=score
+1 - - 0 - x x q1. 1. x x x 3. q4 5 1' q7 q6 q5 q6 3 - 2. q3 q5 q4 3 q2 q2 q2 s1 s2 1 - x q,5 q1 3 q2 q4
+3 q2 q2 q2 s1 s2 ,5 - q,6 q,7 1 q1 q2 3 q5 q4 q3 q1 2 - q3 q3 3 6 6 q5 q6 q5 s4 s5 3 - 2 q2 q2 q5 q4 3 q2 q2
+q2 s1 s2 1 - 3. q4 5 1' q7 q6 q5 q6 3 - 2. s3 s3 q4 q5 6 - 6 - q1' q7 6 q5 q4 3 q2. s2 q2 s1 s2 1 - q2. s2 q2
+s1 s2 1 - x 3. q4 5 q7 q6 q5 q6 3 - 2. q3 q5 q4 3 q2 q2 q2 s1 s2 1 - x. q2. s2 q2 s1 s2 1 - x 3. q4 5 q7 q6
+q5 q6 3 - 2. q3 q5 q4 3 2 - 2 - 1 - 1 - 1 - 1 0 x x
+%END

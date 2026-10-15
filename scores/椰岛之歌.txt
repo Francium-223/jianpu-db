@@ -1,0 +1,21 @@
+%椰岛之歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=45639
+title=椰岛之歌
+tag=
+usertag=
+tagroute=
+confidence=0.985
+conf_p10=0.982
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-45639
+%--
+4/4
+subtitle=score
+0 q5 5 q5 5 q3 4 q5 6. q5 5 - q0 q1' q1' q1' q1' q1' 7 6 7. q5 4 - 0 q4 q4 q4 q4 q2 q3 q4 5. q4 x 4 - q0 q7 7
+q7 7 6 1' q7 6 - 5 - q0 5 q5 5 q5 3 q4 q5 6. q5 5 - 0 1' 1' 1' 1' 7 q1' 2'. q6 6 - 0 q6 6 q6 q6 q6 q7 q6
+1'. q3 5. q1' 7. 1' 2'. 7 1' - - - 1' 0 3 5 4. q5 7 - 7 0 4 5 3. q5 - 1 0 3 5 4. q5 2' - 2' q2' q2' 2'. q1'
+3' - - - 3 0 3 5 4. q5 7 - 7 0 4 5 3. 5 1' - 1 0 3 5 4. q5 2' - 2' 2' 6 7 1' - - - 0 1' 1'. s1'
+q1'. s1' q1'. 1' 5' - 3' - q0 s1' 1'. 1' 1'. 1' 1'. 2' 3'. q1' 5 - 0 5 5 5 q5 q3 q4 q5 7. 5 2' q0 q3' q4' q2' q7 q5 7 2' 1'
+- - -
+%END

@@ -1,0 +1,19 @@
+%梦在竹溪.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=25046
+title=梦在竹溪
+tag=
+usertag=
+tagroute=
+confidence=0.954
+conf_p10=0.807
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-25046
+%--
+4/4
+subtitle=score
+,5 ,1 0 q,5 q,6 q,4 q,4 1. 1. 1 ,6 1 q1 2 q3 q3 ,5 x. x q,6 q1 q1 q1 1 x' q6. q,6 q3 q,5 x x' 1 q2 q3 2 - q2 q3 q3 q2
+5 3 2 1 q2 q1 ,6 - q,5 ,5 q,6 q1 3 2 2. q,6 1 - - - q2 ,6 q1 1 - - - 5 q1 1 1 5 q4 q5 q6 5 - q2 q3 q3
+2 1 ,5 5 q1 2 2 - q3 5 q5 q1 4 5 q5 6 4 q5 3 - 2 2 q5 5 3 2 2 q,6 ,1 1 - 2. q2 ,6 1 1 - - - 1
+0 0 0
+%END

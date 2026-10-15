@@ -1,0 +1,17 @@
+%木板棚上有只小鸟.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49934
+title=木板棚上有只小鸟
+tag=
+usertag=
+tagroute=
+confidence=0.937
+conf_p10=0.561
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49934
+%--
+2/4
+subtitle=score
+1 - - 1 2 x 1 x x x 6 q6 q6 7 q1' q7 6 3 q4 q4 s4 q5 6 4 3 1 s,7 q,7 s,7 s2 q1 q,7 ,6 q1 3 7 ,7 ,7 2 1
+,7 ,6 ,6 q1 q1 q1 q2 3 2 1 1 s2 q2 2 3 4 2 1 ,6 q,7 s,7 q,7 q2 1 ,7 ,6 1 ,3 ,7 ,3 ,6 ,6
+%END

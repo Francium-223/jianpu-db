@@ -1,0 +1,19 @@
+%梦中人_7.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=7952
+title=梦中人
+tag=
+usertag=
+tagroute=
+confidence=0.986
+conf_p10=0.973
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-7952
+%--
+4/4
+subtitle=score
+,6. q1 3. 6 3 1 ,7 ,6 ,7 ,7 - q2 3 4. q6 q6 q5 q2 q4 3 - - q3 q3 1' - q7 q6 q4 q6 q3 q2 1 - q2 4 3 - - ,5
+,6 - - q,6. q1 6 - - q6 q6 5. q2 q3 q5 q4 q2 3 1 - q6 q6 5. q1 q3 q5 q4 q2 1 - - 3 3 6. q7 q1 q7 q6 q1 q5 q3
+5 - q3 q3 2. q5 q1 q6 q,7 q,6 2 - - q,6 q1 3. 6 3 1 q7 q,6 ,7 - - q2 q3 4. q6 q6 q5 2 4 3 - - q3 q3 1 - 7
+6 q4 q6 3. q2 1 q2 q4 3 - - x ,5 ,6 - - -
+%END

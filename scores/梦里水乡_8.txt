@@ -1,0 +1,22 @@
+%梦里水乡_8.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=39256
+title=梦里水乡
+tag=
+usertag=
+tagroute=
+confidence=0.874
+conf_p10=0.546
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-39256
+%--
+4/4
+subtitle=score
+1 - - - x. x x' x x x 0 0 5 q1 2 s3 s5 q5 q3 2 1 2 3 q1 q1 1 x 6' 5 5 q,5 q,5 - q0 q0 d5 1 q2 q3 q5
+q5 q3 q2 q1 2 q3 q2 q2 ,2 2'. 2 - q0 q0 q3 q5 q5' 3 3 6 q5 s1 q1 s6 s5 1 1 q1 q2 q5 3 0 3 1 2' 2 1 1' 2 q7
+s3 s2 2. s6 q1 q1 2 2 q6 q5 5 5 - - q2 q2 2 7 3 q2 q2. q6 q1 1 2 2 3 5 q6. 5 6 q5 q6 5 q6. 5 sx d6 s3 s5
+s2 s1' s1 q6'. s1 d2 s2 d6' 1 s3 1' 6 ,5' 5 5. q5 5 q5 s5 2 5 d5 s3 3 x' q3 q3 1' 5 h1 s1' d1 5 5 7 1 3 q1 s2 5
+h5. q6' q6 q3' s5 s5 s5' h5 5 q2 3 q1 q1 q1' s3 q5 q5 q,1' 1' 1 6 1 1 5 5 6 6' 6' 1 1 s5 1 5 2 q2 q3 6. 2 q2 s5
+1 1' 5. 3 6 5 6. 3 5' 3 5 2 s5 1 1' 1 s1 d1' d3 h2 s2 s2 q,6 q,6' x 3 q5 q3 q2 q2 q2 s2 s7 s3 2 q1 ,6 ,5 ,5 q5
+5 s5 d6 q1 1 1 - 2' 1' 2 2 s6 q5 q1 s5 s2' 3 s,5 s6
+%END

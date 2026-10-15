@@ -1,0 +1,21 @@
+%枯叶蝶.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=24216
+title=枯叶蝶
+tag=
+usertag=
+tagroute=
+confidence=0.986
+conf_p10=0.981
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-24216
+%--
+4/4
+subtitle=score
+x 0 q3 q3 q3 q2 q3 q4 q4 q3 ~ 3 - 0 0 q3 q4 q5 q4 q3 q,6 ~ q,6 q4 ~ 4 - 0 0 q4 q4 q3 q2 q1 q2 ~ q2 q3 ~ 3
+q,6 q,7 q1 q2 2 - q0 q2 q1 s7 ,7 - 0 0 0 q3 q3 q3 q2 q2. s3 q4 q3 ~ 3 - 0 0 q3 q4 q5 q6 7 q6 q4 ~ 4 - 0 0
+q4 q4 q3 q2 q1 q2 ~ q2 q3 ~ 3 q,6 q,7 q1 q2 ~ 2 - q0 q1 q4 q3 3 - 3 7 1 1' - q1' q1' q2'. q3' 4' - - q1' q1' 7. q7
+q5 q5 q5 q4' q3'. q3' 3' - q3'. q3' q3' s2' s2' 2' - q2' q3' q3' q2' 1' q0 q6 q1' q1' q1' 7. q7. s1' q1' q2' q3' s2' s3' ~ 3' 1' 2' 3' - q0
+q3' q4' q5' q5' q4' 4' - q1' q1' 2' q7 5 q5'. q5' s4' s3'. q3' ~ 3' - q0 q3' 3'. s2' s7 7 - 1' 3' 6 - 0 q6 q7 q1' q6 q7 q1' q7 q7
+7 - - 7 - 0 0 q7 q7 7 - q1. - 3 7 q7' q7 7 - - 7 - x
+%END

@@ -1,0 +1,20 @@
+%柳叶湖上乌蓬船.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=25812
+title=柳叶湖上乌蓬船
+tag=
+usertag=
+tagroute=
+confidence=0.961
+conf_p10=0.928
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-25812
+%--
+2/4
+subtitle=score
+1 - - q1 x x x' 1 1' 1 1' x s,5. d6 s1 s2 s,6 s1 s,6 s,5 s,4 s,2 s,6 s1 s,6 q,5 d3 d2 s1. d2 s3 s5 s2 s3 s,6 s,5 1 q2. s3 s,7.
+d2 s,7 s,6 q,5 q,3 s5 q3 s5 s6 s5 q3 s5 s6 5. q6 s5 s6 q1. s2 q3 s5 s3 q2. s3 q2 s,3 s,5 s,7 s2 q,6 ,5 - q1. s2 q3 s5 s3 s2 s,7 s,6
+s,5 ,6 q2 s,3 s,5 s,7 s,6 s,7 s2 s,6 s,5 ,6 s1 s,6 s1 s2 q5 s6 s5 q4 s0 s5 s3 s2 q3 q2 s3 s6 s2 s,6 s,7 s,6 ,5 - s5 s3 s5 s6 q1' s6
+s5 s4 s2 s1' s1' 5 s3 s3 s2 s3 q5 s1 s,6 s5. d6 s5 s3 2 s1 s,6 s,5 s,6 q1 s,6 s1 s2 s5 s3 s2 s1 s,6 q1 s2 s2 s1 s2 q4 qx s,6 s,5
+1 q2 s,6 s,5 s,6 s,4 ,5 s3 s3 s2 s3 5 1 - q2 s3 s2 s3 s5 q2 ~ 2' -
+%END

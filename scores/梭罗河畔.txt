@@ -1,0 +1,18 @@
+%梭罗河畔.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=39034
+title=梭罗河畔
+tag=
+usertag=
+tagroute=
+confidence=0.954
+conf_p10=0.788
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-39034
+%--
+4/4
+subtitle=score
+1 - - 4 - x x x x 1 x 0 q1 q7 q2 q1 3 6 5. 3 1 - 0 ,5 1 q3 6. q5 3 - - 3 1 5 3 2. 4 6 - 0
+6 4 2 ,7. q5 3 - - q0 q6 q4 2 ,7'. q,6 1 - 1 1' 7 5 6 - 4 0 4 6 1' 7 - - 7 6 6 5 4' 0 2 4 5 6.
+7 1'. 6 2' - q2' q0 1' q7 q2' q3 q6 5'. 3' 1 q0 q,5 q1 3 6. 5 3 3 1' 5 3 2. q4 6 - q0 q6 q4' 2 ,7. 6 1 -
+%END

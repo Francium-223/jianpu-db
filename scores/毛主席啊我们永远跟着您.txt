@@ -1,0 +1,20 @@
+%毛主席啊我们永远跟着您.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=10629
+title=毛主席啊我们永远跟着您
+tag=
+usertag=
+tagroute=
+confidence=0.915
+conf_p10=0.675
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-10629
+%--
+2/4
+subtitle=score
+q1 q1 4 0 0 0 x. ,1 x' 1' - x. x x q1'. s1' q6 q6 q5 s6 s5 s3 s2 q3 q2. s2 s1 s2 s3 s5 q6. s1' q5 q2 s5 s6 s5 s2 5 x
+q3 3 q5 h2 s3 s2 s1 q,6 q,5 5 q5 q6 2 - q3 d3 s5 q2 q1 - s7 s6 s7 s2 q,6 q2 0 q2 s1 s2 q,6 ,5 - q,3 ,3 q,5 - q,6 s,5 s,6
+q1 q2 q3 q6 q5 q2 - s3 s2 3. q6. s6 q5 q3 q2 s3 s2 s1 q,6 q2. s3 q1 q,6 - - q5 - s3 s5 6 q1' s1' q6 - s5 s6 2 - q6. s6
+q5 q3 q2 s1 s2 3 q6. s6 q5 q3 s2 - s2 5 q1'. q6 q6 q5 s6 s5 s3 s2 q3 q2. s2 q1 q2 5 - s6. q6 q2 5 - q6. s5 q2 q5 6. 1'
+6 2 5
+%END

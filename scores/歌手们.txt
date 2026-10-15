@@ -1,0 +1,16 @@
+%歌手们.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48868
+title=歌手们
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.998
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48868
+%--
+2/4
+subtitle=score
+q3 q4 5 q3 4 5 3 4 5 5 q5 6 5 4 3 4 5 5 q5 6 5 4 ,3 q2 5 3 2 1
+%END

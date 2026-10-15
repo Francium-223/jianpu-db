@@ -1,0 +1,21 @@
+%柔情水乡.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=18008
+title=柔情水乡
+tag=
+usertag=
+tagroute=
+confidence=0.970
+conf_p10=0.961
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-18008
+%--
+2/4
+subtitle=score
+qx - - 5 4 x 1 x x 1' q3' s2'. d3' s7 s6 5 q3. s5 s6 d5 d6 s1' s6 5 - 1' q3' s2'. d3' s7 s5 6 q5 s6 s3 s2. d3 s,5 s,6 1
+- 1 - q,5 q,6 q3 s2 s3 s1 s,6 ,5. q5 q5 q3 s2 s1 2 - q3 5 s,5 s,6 q1 s2 s,7 ,6 q2 s2 s3 q3 s,7 s,6 ,5 - q,6 ,6 s,5 s,6 s1. d2
+s,6 s,5 ,6 q5 q5 s5 d6 d5 s3 s5 6 - q5 q6 s6 s5 s5 s3 s2. d3 s,6 s1 2 q5 s3 s5 s2 s3 s,5 s,6 1 - 1 - q3. s5 q5 q6 1' s6
+s1' q2'. s1' q3 s7 s6 5 - q6 1' s2' s1' q6 s5 s3 2 q,6 q6 s6 s5 s5 s3 2 - q3. s5 q5 q6 1' s6 s1' q2'. s1' s7 s2' s6 s5 6 - 1'
+q6 s5 s6 s1 s,6 s3 s5 2 q5 s3 s5 s2 s1 s2 s3 5. q3 q,5 s5 s3 s2 s3 s3 s,6 1 - 1 - 1 - 5. q3 5 6 6' - 1' - 1' -
+1' - 1' -
+%END

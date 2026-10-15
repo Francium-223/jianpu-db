@@ -1,0 +1,20 @@
+%桃花红梨花白.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=23762
+title=桃花红梨花白
+tag=
+usertag=
+tagroute=
+confidence=0.941
+conf_p10=0.696
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-23762
+%--
+4/4
+subtitle=score
+x x x'. x'. q5 q5' q5 q5 q3 q3' q3 q3 q2 q1 6 q3 q3 q2 q2 q1 6 5 q0 q1 q1 q2 q2 q5 q5 q3 q2 q3 q1 q6 q6 q6 q1 q3 q1 2
+- q5 q5 q5' q5 q5 q3 q3 q3 q3 q3 q2 q1 6 q3 q3 q2 q2 q1 6 5 q0 q1 q1 q2 q2 q5 s5 s3 x s2 s3 q1 q6 q6 q6 s1 q3 s3 s1
+q1 q3 q2 q0 q6 s5 s3 q5 q5 s5. s6 s3 s1 q2 q0 q5 s5 s4 q5 s5 s4 q2 q2 q2 q2 q0 q5 q3 q5 q7 6 s5 s3 6 - - - q0 q5 q3'
+q5 q6 5 s1 s2 3 - - - q6 s5 s3 q5 q6 q3 s3 s1 q2 q0 6 6 6 1 2 1 6 5 0 6 6 6 1 2 1 6 5 0 5 6 6
+6 1 2 1 6 5 0 - - - - - 1. - - - - - - 1. - - - - 1. - 0 - - - 5 - q5 q0 0 0
+%END

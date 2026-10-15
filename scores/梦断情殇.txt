@@ -1,0 +1,21 @@
+%梦断情殇.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=24379
+title=梦断情殇
+tag=
+usertag=
+tagroute=
+confidence=0.976
+conf_p10=0.971
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-24379
+%--
+4/4
+subtitle=score
+x 2 3 2 3 q,3 2 - - 2 1 1 - q2 s1 s2 ~ q2 s1 s2 ~ q2 s1 s2 ~ q2 q3 - - - 0 q1' q1' q1' 7 q3 5 - - q1
+q,6 6 s1' s1' q6 q5 s3 s2 q1 2 - - q0 s5 s6 3 s3 s5 q2 5 s7 s1 ,6 - 0 q0 s2 s1 2 s2 s3 q6 q6 s6 q1' s1' q2' q2' 2' -
+q1' s1' s2' 3. q3' s2' s2' q2' q1' q7. s3 q3 q5 6 - - q0 s1' s1' q2' s2' s2' q1' q1' q2' 1' s2'. s3' s5 s6 q5 5 - q0 s3 s2 q3 q5 s5 q5
+s3 q1' s7 s6 q0 s5 s6 q3' q2' s1' q1' s6 2' q1' s1' s2' q3' s2' s2' q1' q1' q7. s3 ~ q3 q5 6 - - q0 s1' s1' q2' s2' s2' q1' q1' q2' 1' s2'.
+s3' s5 s6 q5 5 - q0 s3 s2 q3 q5 s5 q5 s3 q1' s7 s6 q0 s5 s6 q3' 2' s2'. s3' 2' 6 1' - - - - - - - - - - 1' - -
+q1' s2' s2' 1' - - q0 s1' s1' s2'. s3' 2' s2'. s3' 2' 6' 1' - - - 1' - - 0
+%END

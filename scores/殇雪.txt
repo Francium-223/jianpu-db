@@ -1,0 +1,23 @@
+%殇雪.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=21732
+title=殇雪
+tag=
+usertag=
+tagroute=
+confidence=0.942
+conf_p10=0.803
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-21732
+%--
+4/4
+subtitle=score
+5 6 2' q2' ~ 2' 2' 5' 3' q2' q3' ~ 3' 2' q2' 2'. q1' q2'. q3' - - - 0 - - - 0 - 0 - 0 - - - - q,1 q,2 q,3 q,2 q,3
+,5 q,3 ~ ,3 - 0 q,3 q,5 s,6 q1 s,6 s,5 q,3 ,5 s,3 ~ ,3 0 0 s,5 s,3 s,2 s,2 q,2 s,1 q,2 s,2 s,3 ~ ,3 0 0 s,2 s,3 s,2 s,2 s,2 s,3 s,5 q,6
+q,3 s,5 ,5 - 0 s,1 s,2 s,3 s,2 s,3 s,2 q,3 q,5 s,3 ~ ,3 - 0 q0 q,5 s1 s,7 q,6 s,5 ,6 s,5 s,6 ~ ,6 - 0 s,5 s,3 ,2 s,2 q,1 q,2 q,3 s,2 ,2
+- 0 s,2 s,3 q,6 q,5 s,5 q,3 s,2 q,1 s,2 s,3 q,3 q,1 ,1 - 0 0 0 q,5 ,6 x q2. s3 q2 q1 s,6 s,6 ,5 - q,3 ,5 q,6 ,6 q1 q,6 q,5 q,5 q,2 ,3
+- ,6 1 q2 2 q3 q2 q1 q,6 q2 ~ 2 - 0 q1 q2 3 q5 q3 q5 q3 q3 q2 3 - ,6 1 2 q3 q2 q1 q,6 q,6 ,5 - 0 q1 q2 q3 5
+q3 q5 q3 q5 q6 ~ 6 - ,6 1 2 q2 q3 q2 q1 q,6 q2 2 - 0 q2 q3 q5 3 q2 3 - 3 - 0 0 q2 q3 q2 q1 q6 2 q2 1 -
+0 0 - 3 q3 - q,6 0 0 q3 - - 0 0 - - - 0 0 - - - 0 0 1 - 0 0 0 0 ,5 ,6 1 - 0 0 q2 q3 q2 q1
+s6 q2 2 2 - 0 0 1 - - -
+%END

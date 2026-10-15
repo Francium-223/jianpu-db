@@ -1,0 +1,20 @@
+%樱散零乱.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=3358
+title=樱散零乱
+tag=
+usertag=
+tagroute=
+confidence=0.971
+conf_p10=0.944
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-3358
+%--
+4/4
+subtitle=score
+1 - - - x x ,1 ,x ,,x x 0 1 7 5 3 - - - 3 - - x q,3 q,5 ,6 q,6 q1 2 q3 q5 3 q2 q1 ,6 q3 q2 ,6 q3 q2 ,6
+,5 ,3 - - q,3 q,5 ,6 q,6 q1 2 q3 q5 3 q2 q1 ,6 q3 q2 ,6 q3 q2 ,6 ,5 ,6 - - x q3 q2 ,6 q3 q2 ,6 ,5 ,6 - - x q3 q5
+6. q5 6 q7 q5 6 q5 q2 3 q3 q5 6. q5 q6 q1' q7 s5 s3 3 - - q3 q5 6. q5 6 q7 q5 6 q5 q2 3 q3 q2 ,6 q3 q2 ,6 ,5 ,6
+- - q3 q5 6. q5 6 q7 q5 6 q5 q2 3 q3 q5 6. q5 q6 q1' q7 s5 s3 3 - - q3 q5 6. q5 6 q7 q5 6 q5 q2 3 q3 q2 ,6 q3
+q2 ,6 ,5 ,6 - - q3 q2 ,6 q3 q2 ,6 ,5 ,6 - - -
+%END

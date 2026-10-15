@@ -1,0 +1,22 @@
+%松花江怀抱的地方.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15883
+title=松花江怀抱的地方
+tag=
+usertag=
+tagroute=
+confidence=0.970
+conf_p10=0.940
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15883
+%--
+6/8
+subtitle=score
+s1 s2 s3 s4 5 q5 3. q6 5. q1' 6 q1 2 s3 s6 5. 5. 3. q5 6. 6 2' 2' s1' 5. 5. q,6 q,5 q,6 1 ~ 1 q1 q,5 q1 q3 q5 q3 2 s2
+s3 1. ,6 q1 6 s6 5. 5. q5 q3. s5 q6 q5 q3 q2 q1 q,6 1. q,6 q,6 q1 q5 q6. s3 s2 s3 2 ~ 2 3 s2 s3 1. q2 q3. d5 ,6 q5. q3 q6.
+5 q3 s1 s1 6 qx q1 s5 s6 q3 1 x ,6 q1 1 s1' 6. 6. 5 s5 s6 5. q5 q3 q1 ,6. q,5 q,6 q1 q2 q3 q6 5. ~ 5 q5 q5 s5 s6 5.
+q3 s5 s5 q6 1. 1 q6 6 6. 6. 6 q5 3 q6 q5 q3 s2 s3 2 q2 q3 q5 1. 1. 5. 3. q1' q6 5. q6 s1' q6 q6 q1 2 s3 s6 5. 5. 3.
+q5 6. q6 q6. q2' q2' 2 s1' s1' 5. 5. 3. q2 q3. s5 ,6. q,5 q,6 q1 q2. s2 s3 s6 5 ~ 5 q6 q5 s5 s6 1 ~ 1 5. ~ 5 5 s6 s1' s5
+s6 5 5 q5 5. 5. 5 s6 s1' 6. 6. q6 q5 q3 q2 s6 5. ~ 5 q6 q5 q3 q2 q3 q5 ,5 s6 s2 1 ~ 1 q6 q5 q3 q2 q3 q5 ,5 q6 1
+1 ~ 1 ~ 1 ~ q1 0
+%END

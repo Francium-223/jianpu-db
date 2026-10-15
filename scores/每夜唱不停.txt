@@ -1,0 +1,28 @@
+%每夜唱不停.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=1315
+title=每夜唱不停
+tag=
+usertag=
+tagroute=
+confidence=0.968
+conf_p10=0.963
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-1315
+%--
+4/4
+subtitle=score
+1 1 x x 0 q1 qx 1 2 6 4 x x 5 - - 6 1 - - q2 q3 5 - - 6 2 - - 3 5 - - 6 1. q1' q6 5 q3 5
+- - 3 1 2 - - 2 - - - q0 s1' s1' s1' s6 s6 s6 q6 s5 s3'. q5 q6 q0 s6 s6 s6' s5' s5 s5 s5' s3' s3 s2'. q3 q5 q5 q5 s5' s3'
+s3 s3 q3 q2 q,5 q,6 1 - - 0 5. q3 5 6 1 - - q,6 q1 q4 q3 q2 q1 ,6. q,6 q,5 ,5'. ~ ,5' - 5. q3 5 6 1 - - q,6 q1 q2
+q3 q5 q3 2. q,5 q,6' 1'. ~ 1' - 5. q3 5 6 1 - - q,6 q1 q4 q3 q2 q1 ,6. q,6 q,5 ,5'. ~ ,5' - 5. q3 5 6 1' - - q5 q3 q2
+q3'. q5 q3 2. q2 1 - - - 1' 1'. q0 1' 1'. q6 q5' q6' q5 5. q3 q5 q6 6 s6 s1' q6 5 q2 ~ q2 3'. 3' - 1' 1'. q6'. 6' 1'. q6 q5'
+q6' q5 5. q3 q5 q6 6 s6 s1' q6 5 q2 q3 5'. ~ 5' 0 5. q3 5 6 1 - - q,6 q1 q4 q3 q2 q1 ,6'. q1 q1'. q,5' ~ ,5' 0 0 5. q3
+5 6 1' 1' - - q5 q3 q2 q3 q5 q3 2. q,5 q,6 1'. 1' - q0 s1' s1' s1' s6 s6 s6 q6 s5 s3 q5 q6 q0 s6 s6 s6' s5 s5 s5 s5 s3 s3
+s2 q3 q5 q5 q5 s5 s3 s3 s3 q3 q2 q,5 q,6 1 - - 0 x 5. q3 5 6 1 - - q,6 q1 q4 q3 q2 q1 ,6. q1 ,5 - - - 5. q3 5
+6 1 - - q,6 q1 q2 q3 q5 q3 2. q,6 1 - - - 1' 1'. q6 1' 1'. q6 q5' q6' q5 5. q3 q5 q6 6 s6 s1' q6 5 q2 q2' 3'. 3' - 1'
+1'. q6'. 1' 1'. q6 q5' q6' q5 5. q3 q5 q6 6 s6 s1' q6 5 q2 q3 5'. 5' - 5. q3 5 6 1 - - s,6 q1 q4 q3 q2 q1 ,6. q1 q1'. q,5' ~
+,5' - - 5. q3 5 6 1 - - q,6 q1 q2 q3'. q5 q3 2. q,5 q,6 1'. ~ 1' - 5. q3 5 6 1 - - q,6 q1 q4 q3 q2 q1 ,6. q,6 q,5 ,5'.
+~ ,5' - 5. q3 5 6 1' - - q5'. q3 q2 q3'. q5 q3 2. q2 1 - - - q0 s1' s1' s1' s6 s6 s6 q6 s5 s3 q5 q6 q0 s6 s6 s6 s5 s5
+s5 s5 s3 s3 s2 q3 q5 q5 q5 s5 s3 s3 s3 q3 q2 q,5 q,6 1 - - 0
+%END
