@@ -13,10 +13,10 @@ source=abcgh-8ce6c2e25383
 6/8
 subtitle=score
 s1 s2 | q3 q1 q5 q3 q1 q5 | q3 q1 q5 q3 q1 q5 | q,6 q4 q3 q2 q1 q,7 | q1 q,5 q,3 ,1 s1 s2 | q3 q1 q5
-q5 q4 q3 | q2 q3 q#4 q5 q6 q7 | q6 q5 q6 q2 q3 q#4 | 5. ~ 5,5 s1 s2 | q3 q1 q5 q3 q1 q5 | q3 q1 q5
+q5 q4 q3 | q2 q3 q#4 q5 q6 q7 | q6 q5 q6 q2 q3 q#4 | 5. ~ 5 s1 s2 | q3 q1 q5 q3 q1 q5 | q3 q1 q5
 q3 q1 q5 | q,6 q4 q3 q2 q1 q,7 | q1 q,5 q,3 ,1 s1 s2 | q3 q1 q5 q5 q4 q3 | q2 q3 q#4 q5 q6 q7 | q6
-q5 q6 q2 q3 q#4 | 5. ~ 5,5 q5 | 5 q3 q4 q2 q2 | 4 q2 q3 q1 q1 | q6 q5 q4 q3 q2 q1 | ,7 q1 q2 q,7 q,5
-| q3 q1 q5 q3 q1 q5 | q3 q1 q5 q3 q1 q5 | q,6 q4 q3 q2 q1 q,7 | 1. ~ 1,1 q5 | 5 q3 q4 q2 q2 | 4 q2
+q5 q6 q2 q3 q#4 | 5. ~ 5 q5 | 5 q3 q4 q2 q2 | 4 q2 q3 q1 q1 | q6 q5 q4 q3 q2 q1 | ,7 q1 q2 q,7 q,5
+| q3 q1 q5 q3 q1 q5 | q3 q1 q5 q3 q1 q5 | q,6 q4 q3 q2 q1 q,7 | 1. ~ 1 q5 | 5 q3 q4 q2 q2 | 4 q2
 q3 q1 q1 | q6 q5 q4 q3 q2 q1 | ,7 q1 q2 q,7 q,5 | q3 q1 q5 q3 q1 q5 | q3 q1 q5 q3 q1 q5 | q,6 q4 q3
-q2 q1 q,7 | 1. ~ 1,1
+q2 q1 q,7 | 1. ~ 1
 %END
