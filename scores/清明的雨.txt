@@ -1,0 +1,20 @@
+%清明的雨.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=24764
+title=清明的雨
+tag=
+usertag=
+tagroute=
+confidence=0.973
+conf_p10=0.945
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-24764
+%--
+4/4
+subtitle=score
+x 6. 3 q6 q7 3. 7 q7 2 7 q,6 q5 3. 6. 3 q6 7 3. 7 7 q2 1' 7 6 6 - 3. 5 q3 2. 2 2 ,7 q,7 q6 ,1 7 6 ,6 s6
+s5 s3 s5 x ,6 q6 s6 s,5' s6 1 q7 ,6 - ,7 7 6 5 6 ,,1 7 ,6 - 3 q3 q3 5 3 6 6 6 ,,5 3 7 7 7 6' 5 3' 3 2
+2 2 1' q2 4 3' 2 3 3 2 3 2 6 1 - q,7 q7 3 2 1 q,7 0 3 2 1 ,7 ,7 s6' q5' q6 q1 q7' ,6 - 6'. 3 q6 7 3. 7
+7 7 2' 1' s,7 q6 5' 3'. 6'. 3 6 7 3. 7 7 7 2' 1' 7 q6 6 - 3. q3 5 3 2. 2 3 2 ,7 7 ,6 1' 7 q,6' ,6 - 3. 3
+5 3 2. 2 3 2 ,7 q7 s6 q1 7 q,6' ,6 - q7 q,7 7 7 q6 ,1' q7 s1' s6' q6 6 3' 6 0 0 x 0
+%END

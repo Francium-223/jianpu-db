@@ -1,0 +1,22 @@
+%海恋_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=35446
+title=海恋
+tag=
+usertag=
+tagroute=
+confidence=0.967
+conf_p10=0.931
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-35446
+%--
+4/4
+subtitle=score
+1 - - 1 4 q3 4 4 x'. x x q3 q5 ,,,6 - - q7' q6 q7 - - q6' q5 q6 4' 3 q4 q4' q3 q2 3 - - q3' q2 q3 1 - - q2'
+q1 q2 3 - - q,7 q2 q1 ,7 ,7 7. ~ 7 ,6 - - q3 q2 q3 ,6 - ,6 q1 ,7 6 7 ,3 - ,3 6 q1 6 ,2 ,6 s4 s3 2 - 2 q3
+q2 q3 1 - q1 q1 q2 q1 q2 3 - q3 q,6 q,6 q,7 1 q,7 q1 q,7 ,6 - ,6 q,6 q,6 q,6 2 q3 q4 q4 q4 q4 q3 q2 3 - 0 ,6 6 6 2
+q3 q4 q4 q4 q5 q4 q3 2 - - q3 q2 q3 1 - - q2 q1 q2 3 - 0 ,7 7 q1 3 3 3 3 2 q2 q1 q1 q1 q,7 q,5 q,7 ,6 - 0
+q3 q4 5 q5 q5 q5 q5 q4 q3 5 q4 4 - 4 2 q3 4 q4 q4 q5 6 q6 q6 q5 q4 3 - - ,6 ,7 1 q1 q1 q1 q1 q2 q1 ,7 q6 3
+x 1 x 3 - - ,6 ,7 1 q1 q1 q1 q1 q2 q1 ,7 5 7 ,6 - - q3 q5. 6 - - q3 q2 q3 1 - - q2 q1 q2 3 - q4 q4 q4
+q5 q4 q3 2 - q1 q1 q1 ,7 5 7 ,6 - - ,6 0 0 0
+%END

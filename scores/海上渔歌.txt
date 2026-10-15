@@ -1,0 +1,18 @@
+%海上渔歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=46127
+title=海上渔歌
+tag=
+usertag=
+tagroute=
+confidence=0.991
+conf_p10=0.995
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-46127
+%--
+4/4
+subtitle=score
+q3 q5 6 - 1 5 6 5 3 q,6 1. 2 q3 q5 q6 q5 5 - - - 6 6 5 3 q2 q3 q1 q2 3 - 5 ,6 q1 q2 q3 q5 2 - - -
+3 3 2 1 6 1 ,5 ,6 - 1 q1 6 5 3 5 6 - - 5 6 1 1 6 5 6 1 5 q4 3 - - 1 1 5 6 q5 q3 2 3 1
+- - - x 5 6 5 q3 5 q6 1
+%END

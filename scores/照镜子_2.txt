@@ -1,0 +1,17 @@
+%照镜子_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=45845
+title=照镜子
+tag=
+usertag=
+tagroute=
+confidence=0.965
+conf_p10=0.837
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-45845
+%--
+2/4
+subtitle=score
+1 - - q2 1 x q3 q6 q6 q7 1' 7 q6 6. 6 0 q1' q1' q1' q1' 3' 2' q1' 1'. 1' 0 q3' q3' q3' q3' q4' q3' q2' q1' q2' q2' q2' q2' q3' q2'
+s1' s7 q6 q3 q6 q6 q6 q7 q1' q2' q1' 3' 4' 5' 4' q7 q1' 7 6 0
+%END

@@ -1,0 +1,18 @@
+%淯水吟_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=8516
+title=淯水吟
+tag=
+usertag=
+tagroute=
+confidence=0.942
+conf_p10=0.757
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-8516
+%--
+4/4
+subtitle=score
+1 - - x x 1 x ,5. q,2 q,5 q,6 1 2 ,5. s6 1 5 3 - - 6. 5 ,6 3 2 - 3. 0 5 0 3 3 2 2 ,7 x' 7' ,6 ,3 0
+q3 3 2 q,7 ,6 ,5 - x 3 3 0 q,6 2 2' 7' ,7' ,6' x ,6 ,5 ,6 1 - 6. 6 5 3 - 6 7 6 6 4 3 2 2 3. 5 0 3
+2 2 ,7 ,6
+%END

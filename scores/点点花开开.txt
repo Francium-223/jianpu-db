@@ -1,0 +1,16 @@
+%点点花开开.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47375
+title=点点花开开
+tag=
+usertag=
+tagroute=
+confidence=0.997
+conf_p10=0.992
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47375
+%--
+2/4
+subtitle=score
+5 q6 5 q5 6 5 5 5 1 2 q3 2 q5 q5 s3 q5 q5 q3 2 3 q2 q3 q2 q1 q,6 s5 s6 q1 q,6 ,5 ,5
+%END

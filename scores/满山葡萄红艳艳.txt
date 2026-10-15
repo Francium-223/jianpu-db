@@ -1,0 +1,18 @@
+%满山葡萄红艳艳.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14035
+title=满山葡萄红艳艳
+tag=
+usertag=
+tagroute=
+confidence=0.866
+conf_p10=0.546
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14035
+%--
+2/4
+subtitle=score
+1 - - x x x x x. 1 s1 s2 q1 s1 s1 q1 q5 - s2 s1 s2 3. s3' s3' s1' q3 s3' q1' - s1' s2' q3' s2' s3' q1' s1' s2' q1' q1' s1' s1'
+s2' 3' s1' s2' q1' 2' 2' s1' s2' s1' - x q1' s1' - s1' s2' q1' q1' s1' s2' q3' q1' q1' x q1' s1' s1' s1' s2' 3' 3' - q3'. s1' - - x - -
+- - x - 0 - - 0 - -
+%END

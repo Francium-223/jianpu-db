@@ -1,0 +1,21 @@
+%海棠依旧.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=18793
+title=海棠依旧
+tag=
+usertag=
+tagroute=
+confidence=0.966
+conf_p10=0.921
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-18793
+%--
+4/4
+subtitle=score
+x qx q5 5 3 0 6'. q6 5. 5. - 1 s1' s7 q6. s7 q6 q5 3. s5 s2 s3 1 q,6 s,5 q6 q6 q6 3 q5 q5. qx s3 2. q1 5 - s,5 s5 s5
+s5 q6. s3 q2 1. q,7. s,3 q,7 s,6 s,5 ~ ,5 - q1. s,7 q,6 q6 q5 s4 s3 2 q3. s,7 q,6 q,5 2 - s5 s5 s5 s5 q6. s3 q2 ,6. q2 q3 s3 s5 s7
+s6 ,5 - q1. s2 q3 q5 s2 s7 s6 s5 ,6 q2. s1 q2 q3 q5 5. s5 q5 s3 q5 s5 s6 1 - q,7. s3 q,5 q,6 ,5 - q1. s2 q3 s3 s5 s2 s,7 s6
+s5 ,6 q,3. s,5 s2 s3 q,6 1 - s5 q5 s3 q5 s5 s6 1 s,6 s,5 s5 q5 s3 q5 q6 5 - q5. s3 q6 s5 s6 q1 s2 s7 ,6 q,3. s5 s1 s2 q,6 ,5
+- q,5. s6 s2 s3 q,6 1 - x 1. q3 2 - q2 q3 q2 q5 3 - 6. q7 q5 q6 3 2 - 2' - x. q,5. d6 s2 s3 q,6 1 - q,5. d6 s2 s3
+q,6 - - - 1 - 1 - - -
+%END

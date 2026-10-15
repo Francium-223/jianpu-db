@@ -1,0 +1,19 @@
+%漆黑的空间.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=11800
+title=漆黑的空间
+tag=
+usertag=
+tagroute=
+confidence=0.806
+conf_p10=0.452
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-11800
+%--
+4/4
+subtitle=score
+1 qx - - 7 2 - ,1' x' x s,,,x' q,,,3' q,,,x'. ,,,1. d,,,2' d1 ,x 1' 6' q,x' 3'. 1' x' 1 2' 3' 5' 5' x' 6' 3' q2 1. x q0 2'. 1' q2 ,1' ,,x'.
+q2'. x' ,3' 2 1 1 1 x' 6' ,1' q3 0 - 0 d4. 4 6 6 4 x 3 3 ,3 0 x. x ,3' 4 q6 4 3 q3 3 - - - 0 q,6 6 q6
+6 7 7 6 5 5 3 q5 q5 6. 3 2 1. x q0 q6 6 q6 6 7 7 6 5 5 3 3 - 0 6 6 6 6 7 7 ,6 5 5 1' 7 1'
+6. 3 2 1. 3 2 s1 ,7. 1 -
+%END

@@ -1,0 +1,21 @@
+%海水正蓝.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=31230
+title=海水正蓝
+tag=
+usertag=
+tagroute=
+confidence=0.971
+conf_p10=0.954
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-31230
+%--
+6/8
+subtitle=score
+1 - - - x' 1 x x q3 q1 q5 1 1 2 q1 q1 q1 q1 q1. s,7 q1 q1 q,7 q1 5. 4 q,6 q,7. s,6 q,7 q,7 q,6 q,7 4. 3. 5 q1 1. 5 q1
+1 q,6 1. 2 s3 s2 2. 0 q1. s,7 q1 q1 q,7 q1 5. 4 q,6 q,7. s,6 q,7 q,7 q,6 q,7 4. 3. 5 q1 1. 5 q1 1 q,6 1. 2 q1 1. q,7 q,7 q1 5.
+q5 q6 q,7 1. q,6 q,7 q1 4 q4 q4 q5 q2 2. q,7 q1 q2 5. q5 q6 q7 1 q1' q7 q6 5 q1 6 q6 5. q,7 q,7 q1 5. q5 q6 q,7 1. q1 q,7 q1
+4 q4 q4 q5 q2 2. q,7 q1 q2 5. q5 q6. s7 1. q1 q7 q1 5 q1 6 q6 5. 5. 0 0 q1. s,7 q1 q1 q,7 q1 5. 4 q,6 q,7. s,6 q,7 q,6 q,6 q,7
+4. 3. 5 q1 1. q5 q5 q1 1 q,6 1. 2 q1 1. 0 x 1. q5 1 0 q1 s5 s5 1 q2 2. 1 1' ~ q1' ~ 1' q1' q7. s6 q5' 5'. - q1 q,7
+q1 1. 0 5 q1 1. 5 q1 1 q,6 1. 7. 1'. 1'.
+%END

@@ -1,0 +1,19 @@
+%深深的爱_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12290
+title=深深的爱
+tag=
+usertag=
+tagroute=
+confidence=0.909
+conf_p10=0.651
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12290
+%--
+4/4
+subtitle=score
+x 1 0 ,5 3 ,5 1 ,5 3 ,5 x 3. q5 s6 sx' 6 5 - - - 6. 5 3 2 q1 q3 2 - - - 3 5 3 2 3 5. 6 q3 q5 2
+q1 ,6 - q5. 6 5 ,3 2 q3 ,6 ,5 1 - - 1' 0 1 3 x - 6. q,5 q3 5 1 3 2 - - - 3. 5 6 3' 2'. 2' - 2' 6 2'
+7 6 - 6 6 7 q6 5 - 3. q5 q,6 q1' q,6 5 1. 1' qx' - 6. 0 5 3 2 2' 1 1' qx q3 2' 2 - - - 1 3. 3 3' 5 5'
+3 1 2 q1' 1 3 q6 6 3 5 q2 q,1 ,6 - 5. q,,6 5 3 2 ,6 q,5 1 - - - 1
+%END

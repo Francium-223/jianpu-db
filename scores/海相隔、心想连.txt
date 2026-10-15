@@ -1,0 +1,20 @@
+%海相隔、心想连.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=25484
+title=海相隔、心想连
+tag=
+usertag=
+tagroute=
+confidence=0.983
+conf_p10=0.965
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-25484
+%--
+4/4
+subtitle=score
+x q,6 3 6 5. 4 3 2 3 5 2 2 q,7 q3 q,,2 3 q,6 ,5 - x 3 3 5 5 q3 2' 1'. q2' q3 q3 q5 7 2 ,6' ,5 - ,6 1 q1 q,7
+q6 q7 q,5 ,6 q6 q6 q5 q4 q3 q5 2 - 5 q6 q6 q5 q3 2 1'. q2' q3 5 q7' s6' s7 q,5' - ,6 - ,6 q1 q1 q4. s,3 2 q3 q2 q1 2 2'
+s,,7 3' q2 q3 q6 ,5 1 s1 s7 ,6 q6 s1 2 q2 s7 ,6 q,7 q3 2' 3 s5 q,7 - ,6 - ,6 q,6 5. 4 q3 q2 q3 5 2 2' ,7 3' 2 3 q,6
+,5. q2' 3 5. q6 5. 3 q6. q4 q3. q4 q3 q,2 1 - ,6 6 5. q4 3 2 q3 q5 2 q2' ,7 3' q2 3 q,6 ,5 - q5 q2 q3 q5 6' 7 q6' 5'
+-
+%END

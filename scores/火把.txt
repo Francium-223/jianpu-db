@@ -1,0 +1,19 @@
+%火把.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=45885
+title=火把
+tag=
+usertag=
+tagroute=
+confidence=0.987
+conf_p10=0.986
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-45885
+%--
+3/4
+subtitle=score
+q,5 1 q,7 q1 q2 q5 3 - q5 q3 q2 q3 q2 q1 q3 s6 s1 1 - - q,5 q1 q,7 q1 q2 q5 3 - 5 q3 q5 q3 q5 q5 5 s6 s1 1 - -
+q5 q3 5 5 5 6 q6 q5 3 q3 q2 q3 q5 q5 s6 s1 1 - - ,6 q1 1 q1 1 q1 q,5 1 1 q2 q6 5 6 q5 q3 2 - - q5 q6 q1'
+q5 q1' q6 q1' q1' q1' q5 1' q6' qx q1' q6 q5 6 5 5 - - q,5 1 q,7 q1 q2 q5 3 - q5 q3 q5 q3 q5 q,5 q1 1 - - 1 - 1 1'
+- -
+%END

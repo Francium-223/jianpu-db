@@ -1,0 +1,18 @@
+%灯谜.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48216
+title=灯谜
+tag=
+usertag=
+tagroute=
+confidence=0.991
+conf_p10=0.991
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48216
+%--
+2/4
+subtitle=score
+1'. 6 1' 3 2 - 1. 5 1 6 5 - 1'. 6 1 2 3 2' 1 1 5 1 6 5 - 1' 5 1 1' 6 0 1 5 1' 1' 1' 1' 0 1'. 6
+1' 2' 3' 2' 1' 1' 5 1 6 5 - 6 2' 2 1' 6 2' 1' 2'. 2' 5 5 5 6 5 1' 6 1 2' 3' 2' 1' 1' 5 1' 6 5 - 1' 1'
+6 5 5 5 1' 6 0 q1 1' 1' 2' 3' 2' 1' q1 5 1' 6 5
+%END

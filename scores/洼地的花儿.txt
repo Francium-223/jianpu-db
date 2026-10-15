@@ -1,0 +1,17 @@
+%洼地的花儿.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48188
+title=洼地的花儿
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.999
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48188
+%--
+3/4
+subtitle=score
+2 - - 5 6 ,1 2 1 6 4 5 6 ,,1 2 1 2 1 6 5 5 - - 4 5 6 1 2 1 2 q6 q1 q5 q1 6 q5 q3 q1 q2 q3 q6
+5 q5 q3 q2 q2 2 2 - 0
+%END

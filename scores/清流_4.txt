@@ -1,0 +1,18 @@
+%清流_4.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=32197
+title=清流
+tag=
+usertag=
+tagroute=
+confidence=0.868
+conf_p10=0.465
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-32197
+%--
+4/4
+subtitle=score
+1 - - x - 1 x q3' 5' x q2' 3' q1' q2' q,6 3 ,,1 5' 3' s2' 1' 6 1' 5 - - 6 q6 q5 6 q3 5 2 - - 3 x x' x 5.
+q3 q5 6 2' 3'. 3' q3' 3' ~ 3' q2' q,3' q2' q,1' 6 3 5 - - 3 6. q5 5. 5 5 6 5 6 2'. q3' 1. 2' q6 q5' 0 q3 5' - - 0
+2' 3' q1' 2' 6 ,,1' 5 3 6 - -
+%END

@@ -1,0 +1,18 @@
+%爱一万次够不够.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=35854
+title=爱一万次够不够
+tag=
+usertag=
+tagroute=
+confidence=0.748
+conf_p10=0.443
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-35854
+%--
+6/8
+subtitle=score
+q,1' ,,x' ,x' x' s,1' ,1' ,1' x' qx' qx' - q,,3 3' s3' 3' q1' ,2. qx'. 2'. q2' q2' s2' d,3' d,5' h,3' 3' 6' s3' q1' q,1' ,,,1' ,1' s,3' s,2' h3 q,2' q2' s1' ~ d1
+~ s1' ~ q1' q1' ~ 1' ~ ,1' ~ d1' d1 6. 2 q,1' q3' q1' s3' s,1' s,1' q3' q6' 3' q3. q1' s1 q1' h1 ~ 1' 1' 2 3' s2' 2 d1. 5' 6 ,1' q1'
+s6 q5. q6 ,6 6' 6' 1' q1' - s,,,1' qx' dx - - q2' s2' 2' 0 q2' q1' 6. q2' q2' 2' q2' q2' 1' 0 - 0
+%END

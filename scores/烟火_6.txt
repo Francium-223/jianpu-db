@@ -1,0 +1,24 @@
+%烟火_6.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=31411
+title=烟火
+tag=
+usertag=
+tagroute=
+confidence=0.973
+conf_p10=0.943
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-31411
+%--
+2/4
+subtitle=score
+s1 s2 s3 s5 ~ 5 ~ s5 q6 s5 ~ 5 q0 s2 s1 q1 s,6 s1 ~ q1 s2 s1 ~ q1 s,6 s1 s2 s3 s5 ~ q5 s2 s3 q1'. 0 - q0 s,5 s,5 s,5
+q1. q,7 s1 s,7 ~ q,7 s,5 s,6 ~ ,6 s,6 q,5 s,4 q,3. d4 d3 ,2 q0 s,5 s,5 s,5 q1 s,7 q,7 s1 s2 ~ 2 s2 q,6. ~ ,6 0 q0 s,5 q,7 s1 s1 ~ q1
+s,5 s,7 ~ q,7 s1 s2 q0 s,5 q,7 s1 s2 ~ q2 s,5 s4 ~ q4 s3 s,7 s,5 q,5 s,4 s,4 q1 s1 q0 s,4 s,4 q1 s1 ~ 1 s,7 s,6 s,7 s,6 q,7 s,6 s,6 s,6'
+q,5. ,5' q0 s,5 s,5 s,5 q1. q,7 s1 s,7 ~ q,7 s,5 s,6 ~ ,6 s,6 q,5 s,4 q,3. s,4 ,5 q0 s,5 s,5 s,5 q1. q,7 s1 s2 ~ 2 q3 q,6 s,5 q,6. 0 q0 s,5 q,7
+s1 s1 ~ q1 s,5 s,7 ~ q,7 s1 s2 q0 s,5 q,7 s1 s2 ~ q2 s,5 s4 ~ q4 s3 s,7 s,5 q,5 s,3 s,4 q1 s1 q0 s,3 q,4 s1 s1 1 s1 s,7 s1 s,7 q1
+s1 s2 q2'. s,5 s5 s3 s2 s1 2 q2 s3 s5 q5 s3 s2 q2 s3 s5 q0 s3 q2 s3 s5 ~ q5 s6 s3 s3' s1 s1 s1 q0 s3 q4 s3 s4 ~ q4 s5 s5
+~ q5 s1 s1 q0 s,6 q4 s3 s2 s1 q1 s3 s2 q2 s,5 s5 s3 s2 s1 q2 s3 s5 ~ q5 s3 s2 q2 s3 s5 q0 s3 q2 s3 s5 ~ q5 s6 s3 s3' s1
+s1 s1 q0 s3 q4 s3 s4 ~ s4 q5 s5 s5' s1 s1 s1 q0 s6 d4 d3 s6 h2 q1 s3 s2 s1. h1 d1 1. q1 q1 d,7 q2. h1 1' 1 1 q3 q5 q2 s2
+s1 s2 q1. 1' 1' x. x. 1 1 1 1 1.
+%END

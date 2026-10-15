@@ -1,0 +1,19 @@
+%澳门歌谣_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=17179
+title=澳门歌谣
+tag=
+usertag=
+tagroute=
+confidence=0.880
+conf_p10=0.568
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-17179
+%--
+2/4
+subtitle=score
+1 - - x q2 4 x - - x x x x'. x 3 - 2 - 2 6 5 6 5 - q5 q5 q6 3 q2 q3 2 - - qx - 6 5 - ,1. q,2
+6 5 q5 q3 ,,5 - x q2. s3' q2 q6 q5 q6 5 3 5 - x 6. q5 q3 q2 q3 q5 2 - ,1. q6 q5 q6 5 - 5. q6 q6 2 - ,3. q2 q6
+1 h2. d2. 2' s2. - s2 x qx 3' - 2 - - ,2 - ,6 5 6 5 - q5 q,5 q6 ,3 q2' q3' ,,1'. q2' h3 h,x - - q2' qx 3' 3 x. s1 2
+3 - - x ,,2 6 - 3 2' 3' q2 - -
+%END

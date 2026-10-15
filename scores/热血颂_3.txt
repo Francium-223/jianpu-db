@@ -1,0 +1,19 @@
+%热血颂_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=25287
+title=热血颂
+tag=
+usertag=
+tagroute=
+confidence=0.908
+conf_p10=0.682
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-25287
+%--
+4/4
+subtitle=score
+q1. s2 q3 s3 s5' s,5 q,5 s6 q1 q1 s5 q3' s5 s6 s5 s1 s2' 3 - s5' q3' s5 q6. s5 q3. s2 q1' s6 s1' q2 s2 s3 s2' s3 q,6' ,5 - s1 q1 s2
+q3 s3 s5 s5 q,5 s6 1 s5' q3 s5' s6' s5 s1 s2' 3 - s5 q3 s5 q6. s5 s6 q1' s7 q6. s6 2' 2' s6' s5 5 - x q,x x qx x q2 2' q2'
+q2 2' q2' q2. d2 ,2' q2' q2 s6 6 2' s5 h6 s,6 s5 s5 q3'. s3' q1' q1' s5 6. s6 s1' s2' q2' s1' s2' q3' s6 5. q5 q3'. s3' s1' q1' s5 6. s6 s1'
+s2' q2' s1' s2' q1' s2' q2' q2' - 2' - - q2' q5. q2'. s2' s2' q2' s3' 1' - - - -
+%END

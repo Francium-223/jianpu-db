@@ -1,0 +1,22 @@
+%清明上河.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=26257
+title=清明上河
+tag=
+usertag=
+tagroute=
+confidence=0.951
+conf_p10=0.785
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-26257
+%--
+2/4
+subtitle=score
+1 - - x' 1 x s0 s3 s2 s1 5 q6 s5 s6 q4 q1 q2 4 q6 5. q2 5 - q6 s5 s6 q4 q6 s5 ,6 s1 s2 q1 ,6. s5 ,6. q,7 q1 q2 q2
+1. q,5 q,7 q1 q2 s5 s6 1 - ,6. q1 q2 3 q,6 ,5 - ,5 - q,5 q,5 q1 s2 s3 2 - s2 s3 q,5 s2 s3 2 - s3 q5 s1 q1 s2 s3 q2 s1
+s7 ,6 q2'. 3 q,6 ,5 - q,5 q,5 s2 s3 2 - s2 s3 q5 q1 s2 s3 2 - s3 q5 s1 q1 s2 s3 q2 s1 s7 ,6 q1 2 s4 s5 5 - 5 - q6.
+q6 q6 s5 s6 q4 q1 q2'. 4 s5 s6 s5 s6 5 ~ 5 - q6 s5 s6 q4 s6 q1 2 s4 s5 q4 2. 2 - x x qx qx 4 1 1 q,7 q1 q2 q3
+1. q,5 q,7. s1 q2 q5 1 - q,6. s6 q,6 q1 q2'. 3 q,6 q,5. s6 ,5 ,5 - q,7 q1 q2 s2 s3 1. q,5 q,7 q1 q2 q5 1 - ,6. q1 q2 3 q,6 ,5 -
+,5 - q,5. s6 ,5 ,5 - q,5. d6 ,5 ,5 - q,6. s6 q,6 q1 q2'. 4. q4 q5 5 ~ 5 q6. s5 5 - 5 - 5 - 5 - 5 - 5 - 5 0 x
+1. x
+%END

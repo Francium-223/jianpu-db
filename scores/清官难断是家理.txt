@@ -1,0 +1,19 @@
+%清官难断是家理.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=45921
+title=清官难断是家理
+tag=
+usertag=
+tagroute=
+confidence=0.992
+conf_p10=0.987
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-45921
+%--
+4/4
+subtitle=score
+,5 1 1 qx qx 3 q2 q1 1 0 q5 5 q3 2 q3 q2 q1 5 1 1 0 ,5 1 1 qx qx 3 q2 q1 1 0 5 q5 q3 q2 q3 q2 q1 5 1
+1 0 5 4 - - 3 2 - - 2 x 0 0 ,6 5 - q4 q3 q3 q5 2 - 1 x s2 s3 s5 s6 s5 q6 s5 q6 q5 s,6 1 x q1. s2 q3
+q5 s2 1 q1 q2 q3 1 x 1 2 1 5 q5 q3 q2 q3 q2 q1 ,5 1 q1. s2 ,6 q,5 ,3 - ,7 - ,7 - q,6 q,5 q,6 q1 ,5 - - - x q1
+s5 s4 s2 s3 - 2 x. ,7 - q,6 q,5 q,6 1 ,5 - - - ,5 0 0 0
+%END

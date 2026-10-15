@@ -1,0 +1,20 @@
+%激情黄昏.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=34596
+title=激情黄昏
+tag=
+usertag=
+tagroute=
+confidence=0.955
+conf_p10=0.923
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-34596
+%--
+2/4
+subtitle=score
+q5 q5 5 5 - q6 q6 q6 q0 q6 q5 q4 q0 5 4 3 q,5 q3 q2. s3 q2 q3 1 1 ,5 3 3 3. 2 3 5 3 ,5 2 2 q2. q1 q2 q3 1
+,5 x' x. 3 3 3 1'. 3. 2 3 3 5 ,1 3 ,,x 5' 5 1'. 2'. 2 x' ,,,2' 2 1 1 q2'. q2. s1 sx. q7 6 6 ,5' qx. ,5 q,x' ,5 q,5 1 1
+1' x. x. 1 1 1 ,7 ~ q7 q,5 q,7 q,6 ,6 ,6 ,6 ,6 2 2 1 ,7 ~ q,7 q,6 7 1 2 2 - ,5 - 5 5 5 - q6 q6 6 6. q5 4
+0 5. q4 3 0 ,5 - q3 q2 2 2 - q,5 q3 2 1 2 ,7 ,6 ,5 0 ,5 ,7 1 1 - ,5 - 5 5 5 - q6 q6 6 6. q5 4 0 5.
+q4 3 0 ,5 - 3 2 2 q,5 q3 q2 q1 2 q,7 q,6 ,5 0 6. 5 5 5 - 5 0
+%END

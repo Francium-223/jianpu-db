@@ -1,0 +1,22 @@
+%浪漫爱情.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=35468
+title=浪漫爱情
+tag=
+usertag=
+tagroute=
+confidence=0.995
+conf_p10=0.985
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-35468
+%--
+4/4
+subtitle=score
+q,5 q3 q3 q3 q3 q2 1 q2 q1 q2 q3 ,5 - q,7 q,7 q,7 q,7 q,7 q,7 q0 q1 q2 q1 q,7 q2 1 q0 q,5 ,6 q,6 6 - q6 5 q3 4 3 1 - -
+q0 q,6 2 - - - 2 - 0 0 q,5 q3 q3 q3 q3 q2 q2 q1 q2 q1 q2 q3 ,5 - q,7 q,7 q,7 q,7 q,7 q,7 q0 q2 q2 q1 q,7 q2 1 q0 q,5 ,6
+q,6 6 - q6 q5 q3 q3 4 q3 q3 1 - - q0 q,6 2 - - - 2 - 0 0 q3 q2 q2 q1 q1 q,6 q,6 q1 2 - - 0 q3 q2 q2 q1 q1
+q,6 q,6 q,6 ~ ,6 - 0 q6 q5 5 - - - 5 - - 0 q,5 q3 q3 q3 q3 2 q1 2 q2 q3 ,5 - q,7 q,7 q,7 q,7 ,7 q,7 q2 q2 1 q,7 1
+q0 q,5 ,6 q,6 q,6 6 - 6 q5 q3 q2 1. q4 q3 q4 q3 q4 q4 q0 q4 4 4 q4 5. 5 - - - 5 - 0 0 q,5 q3 q3 q3 q3 2 q1 2
+q2 q3 ,5 - q,7 q,7 q,7 q,7 q,7 q,7 q0 q2 q2 q1 q,7 q2 1 q0 q,5 q,6 ,6 q,6 6 q0 q5 5 q5 q6 1 - q4 q3 q4 q3 q4 4 q3 q5 3 q2
+2 1
+%END

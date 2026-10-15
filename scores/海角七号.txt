@@ -1,0 +1,24 @@
+%海角七号.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=37145
+title=海角七号
+tag=
+usertag=
+tagroute=
+confidence=0.978
+conf_p10=0.965
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-37145
+%--
+4/4
+subtitle=score
+x 0 0 0 q0 q7 6 7 q5 6 - - q1 q,7 ,6 1 ,7 q,5 ,6 q1 ~ 1 q5 q3 q,6 q1 q4 ,6 q1 2 - - q0 q3' q4' 3' - - - x
+1 q,7 q,6 ,7 ,5 ,6 q,5 q,4 ,3 - ,4 q,3 q,2 ,3 ,6 q,7 s1 ~ q1 q,6 ,7 - 1 q,7 q,6 ,7 ,5 ,6 q,7 q1 ,5 - ,4 q,3 q,2 ,3 ,6 2' 1 1
+q,7 q1 ,6 - x 0 q0 s2' s3' 1 4 s3 s2 7 - x 1 q,7 q,6 ,7 3 ,6 q,7 q1 ,5 - ,4 q,3 q,2 ,3 ,6 q,7 s1 q1 q2 q,7 ,7 1 q,7 q,6
+,7 3 q,6. q,6. s7 ~ q,7 q1 ,5 - ,4 q,3 q,2 ,3 ,6 1' 2 1 q,7 q1 ,6 - 0 0 0 0 0 q1 q,7 ,6 q,6 q3 q2 q1 q,7 q,6 ,5 ,3 1 q,6
+q,5 ,6 3 q2 q3 q5 q2 3 - - q3 q5 q2 q1 6 q5 q3 2 1 3 q1 q,6 ,6 q,6 q,7 1 ,3 ,7 ,5 ,6 - - q1 q,7 ,6 - - - q6 q7
+q5 q6 q3 q5 q2 q6 q7 q5 q6 q3 q5 q2 q6 q7 q5 q6 q3 q5 q2 q6 q7 q5 q6 q3 q5 q2 6 q3' 2' q5' 3' - q0 q1' q7' q5' q2' q3' ~ 3'
+- q0 q2' q3' q5' q6' 3' q2' - - s2' 7 - - - 6 - - - 6 - - - ,6 - - q1 q,7 ,6 q,6 q3 q2 q1 q,7 q,6 ,5 q2 q1 1 q,6
+q,5 ,6 3 q2 q3 q5 q2 3 - - q3 q5 6 q5 q3 2 1 3 q1 q,6 ,6 q,6 q,7 1 ,3 ,7 ,5 ,6 - - q3 q5 6 q5 q3 2 1 3 q1 q,6
+,6 q,6 q,7 1 q2 q1 ,7 ,5 ,6 - - -
+%END

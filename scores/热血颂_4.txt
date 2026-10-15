@@ -1,0 +1,18 @@
+%热血颂_4.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=34604
+title=热血颂
+tag=
+usertag=
+tagroute=
+confidence=0.908
+conf_p10=0.642
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-34604
+%--
+2/4
+subtitle=score
+s1 1. 2' 3 x 3' q5' q,,5 ,5 ,6 x s1 x 1 5' 3' q5 s,1 q5' ,1' x 5 3 - 5' ,,,3' 1. 5'. 6 x ,5 3 q,,2 q1 q,6 s1 q2 - q,2 3
+2 q3 q6 ,5 - q1 s2 q3 ,3 q6 1 s5 q,3 q5 q6' q5' s1' s2' ,5 3 - s,5 q3 5 q6 q6 s1 1 q7 q6 s0 s6 q2 2 2 q6' 5 - 5 q5
+q,,5 ,2 q1' ,5 6 s,,,6 1 q2 q,2 q2 q3 q6 5 ,5 5 3 ,3' q,2' q7 q5 6 6 1 q2 ,2 2' ,2 ,,2 ,3 1 x -
+%END

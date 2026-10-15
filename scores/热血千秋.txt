@@ -1,0 +1,23 @@
+%热血千秋.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14765
+title=热血千秋
+tag=
+usertag=
+tagroute=
+confidence=0.959
+conf_p10=0.901
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14765
+%--
+4/4
+subtitle=score
+1 - - 1 4 ,,x ,,,x x. x. x. x x ,x 1 6' - - - 6' - - - q,2 q,6 q2 q6 7 6' ~ 6' - - - 6 5 6 - 2 4 -
+q5 q6 q1 q,6 ,6 - - q2 q3 q4 q6 q7 q2' q1' q7 6 5 6 - 2 4 - q5 q6 q1 q,6 ,6 - - 2 2 - q1 q7 q1 2 - q2 q2 q6
+q7 5 - - - 2 2 - q1 q7 q1 2 - q2 q2 q1 q7 6 - - - q7 q6 q6 q7 5 7 q6 q5 q5 q6 4 6 1 5 q4 q5 q3 q4 2
+- - - 2 0 0 0 q3 q3 q5 q5 q4 4 q2 4 - - 2 q3 q3 q5 q5 4. q2 4 - 2 - q1 q1 q3 q3 q2 2 qx q,7 2 - - qx
+,7 q1 q1 q3 q3 2. q,7 2 - ,7 - q1 q1 q3 q3 q2 2 q1 3 - 6 - q1 q1 q3 q3 2. q1 3 6 - - 6 - - - q,6 q,6 q1 q1
+q,7 ,7 q,6 1 - 3 - q,6 q,6 q1 q1 ,7. q,6 1 3 - - 3 - - - q3 q2 q2 q6 q6 q1 q7 q5 6 - 2 - q3 q2 q2 q6 q6 q1 q7
+q5 6 - - - q3 q2 q2 q6 q6 q1 q7 q5 6 - 2 - q3 q2 q2 q6 q6 q1 q7 q5 6 - - - 6 - - - 6 - - - q6 q0 0
+0 0 0 0 0 0 2' - - - 2' - - - 2' 0 0 0
+%END

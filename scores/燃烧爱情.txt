@@ -1,0 +1,18 @@
+%燃烧爱情.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=20435
+title=燃烧爱情
+tag=
+usertag=
+tagroute=
+confidence=0.955
+conf_p10=0.761
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-20435
+%--
+4/4
+subtitle=score
+0 1 5 q,6 q6 0 q,3 q,2 1 ,5 6 0 6 3 q5 6 q,6 0 5 6 5 3 x - 5 5 q,6 6 0 q,5 q3 5 q6 q6 q0 q3 q3 q2 q1 q2
+3 q1 0 q2 3 q1 0 q2 q3 q1 0 q3 q3 q3 q0 3 q3 3 5 1 5 1 - 5 q3 3 2 s3 2 3' 2' 3 q0 q,3 5 3 3'. s2' x' q5
+6 - - -
+%END

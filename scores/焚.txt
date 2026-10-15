@@ -1,0 +1,20 @@
+%焚.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=22122
+title=焚
+tag=
+usertag=
+tagroute=
+confidence=0.983
+conf_p10=0.971
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-22122
+%--
+4/4
+subtitle=score
+q6 q7 1' q0 s1' s1' q7 q6 q5 q3 6 q5 q4 5 q0 s5 s5 4. s5 s4 q3 q2 q1 s6 1 q2 q4 3 q0 s6 s7 1' q0 s1' s1' q7 q6 q5 q3 q6
+q7 q2' q2' 3' q0 s3'. s3' 2' q0 s3' s2' q1' q7 q6 q5 q6'. q3' q2' s7 s6 6 q0 s6 s7 1' q0 s1' s1' q7 q6 q5 q3 6 q5 q4 5 q0 s5 s5 4
+q0 s5 s4 q3 q2 q1 s6 1 q2 q4 3 q0 s6 s7 1' q0 s1' s1' q7 q6 q5 q3 q6 q7 q2' q2' 3' q0 s3'. s3' 2' q0 s3' s2' q1' q7 q6 q5 q6'. q3'
+q2' s7 s6 6 - 0 0 0 0 0 0 0 q1 q2 3 q5 2 q2 q3 q4 q3 q2 q1 1 q3 q4 5 - 6 q5 q4 3. s4 s3 2 - 1 q5 2 q2
+q3 q4 q5 q6 q7 1' q1' q7 6 3' 2' q7. s6 6 - - q1' q7 6 3' 2' q7. s6 6 - - -
+%END

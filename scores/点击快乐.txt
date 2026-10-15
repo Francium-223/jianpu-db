@@ -1,0 +1,18 @@
+%点击快乐.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=33833
+title=点击快乐
+tag=
+usertag=
+tagroute=
+confidence=0.873
+conf_p10=0.589
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-33833
+%--
+2/4
+subtitle=score
+3 1 5. 4 2 1 5 3 4 6. x 6. 4 3. ,1 2 q3. q5 4 3 ,1 2. 2 3 4 4 4 3. 2 2 0 3 4 4 3 2 6 1. 6 ,1
+3 7 6 5 4 4 5 6 - 1. 5 1' 3 7 6 6 6 3 3 4 5 6. 6 3 4 5. 5 4 3 2 ,1 3 3 5 ,x 5 4 3 3 4
+5 2 1 4 3. 2 2 6 6. 6 - 2 ,1 1. 1 x. 5 2' 5 3 x 1' 1
+%END
