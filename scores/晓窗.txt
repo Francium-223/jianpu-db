@@ -1,9 +1,9 @@
 %晓窗.txt
 % 出处 https://www.jianpujia.com/
 title=晓窗
-tag=分类/儿歌,小海龟,儿歌
+tag=分类/儿歌,小海龟,儿歌,儿童歌曲,小海龟演唱组,分类,歌手
 usertag=分类/儿歌,小海龟,儿歌
-tagroute=
+tagroute=分类/儿歌,歌手/小海龟
 transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-12667

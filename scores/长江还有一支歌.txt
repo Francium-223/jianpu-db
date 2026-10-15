@@ -1,9 +1,9 @@
 %长江还有一支歌.txt
 % 出处 http://www.jianpu.cn/
 title=长江还有一支歌
-tag=杨洪基
+tag=杨洪基,Yang Hongji,歌手
 usertag=杨洪基
-tagroute=
+tagroute=歌手/杨洪基
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-242680

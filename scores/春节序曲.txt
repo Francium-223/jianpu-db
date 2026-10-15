@@ -1,9 +1,9 @@
 %春节序曲.txt
 % 出处 https://www.qupu123.com/
 title=春节序曲
-tag=分类/口琴谱
+tag=分类/口琴谱,口琴谱,口琴曲,分类
 usertag=分类/口琴谱
-tagroute=
+tagroute=分类/口琴谱
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-394900

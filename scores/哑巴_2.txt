@@ -1,9 +1,9 @@
 %哑巴_2.txt
 % 出处 https://www.jianpujia.com/
 title=哑巴
-tag=薛之谦
+tag=薛之谦,Joker Xue,歌手
 usertag=薛之谦
-tagroute=
+tagroute=歌手/薛之谦
 transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-15508

@@ -1,9 +1,9 @@
 %相聚北京_邀约冬奥.txt
 % 出处 https://www.qupu123.com/
 title=相聚北京 邀约冬奥
-tag=分类/通俗歌曲
+tag=分类/通俗歌曲,通俗歌曲,流行歌曲,分类
 usertag=分类/通俗歌曲
-tagroute=
+tagroute=分类/通俗歌曲
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-322961

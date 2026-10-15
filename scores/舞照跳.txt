@@ -1,9 +1,9 @@
 %舞照跳.txt
 % 出处 http://www.jianpu.cn/
 title=舞照跳
-tag=杜德伟
+tag=杜德伟,Alex To,歌手
 usertag=杜德伟
-tagroute=
+tagroute=歌手/杜德伟
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-287938

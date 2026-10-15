@@ -1,9 +1,9 @@
 %唰啦啦_下起小雨.txt
 % 出处 http://www.jianpu.cn/
 title=唰啦啦 下起小雨
-tag=阎维文
+tag=阎维文,Yan Weiwen,歌手
 usertag=阎维文
-tagroute=
+tagroute=歌手/阎维文
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-404883

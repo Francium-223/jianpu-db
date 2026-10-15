@@ -1,9 +1,9 @@
 %数鸭子.txt
 % 出处 https://www.jianpujia.com/
 title=数鸭子
-tag=分类/记谱
+tag=分类/记谱,记谱,扒谱,分类
 usertag=分类/记谱
-tagroute=
+tagroute=分类/记谱
 confidence=0.971
 conf_p10=0.903
 transcriber=jianpu2-auto

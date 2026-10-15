@@ -1,9 +1,9 @@
 %酷爱 吉他.txt
 % 出处 http://www.jianpu.cn/
 title=酷爱 吉他
-tag=分类/吉他谱,张敬轩
+tag=分类/吉他谱,张敬轩,吉他谱,吉他曲,Hins Cheung,分类,歌手
 usertag=分类/吉他谱,张敬轩
-tagroute=
+tagroute=分类/吉他谱,歌手/张敬轩
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-234744

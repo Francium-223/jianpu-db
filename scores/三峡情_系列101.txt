@@ -1,9 +1,9 @@
 %三峡情_系列101.txt
 % 出处 http://www.jianpu.cn/
 title=三峡情 系列101
-tag=蒋大为
+tag=蒋大为,Jiang Dawei,歌手
 usertag=蒋大为
-tagroute=
+tagroute=歌手/蒋大为
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-223876

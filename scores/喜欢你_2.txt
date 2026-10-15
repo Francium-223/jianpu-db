@@ -1,9 +1,9 @@
 %喜欢你_2.txt
 % 出处 https://www.qupu123.com/
 title=喜欢你
-tag=Beyond,分类/吉他谱
+tag=Beyond,分类/吉他谱,别安,吉他谱,吉他曲,歌手,分类
 usertag=Beyond,分类/吉他谱
-tagroute=
+tagroute=歌手/Beyond,分类/吉他谱
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-242865

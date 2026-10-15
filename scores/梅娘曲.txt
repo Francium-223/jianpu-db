@@ -1,9 +1,9 @@
 %梅娘曲.txt
 % 出处 https://www.jianpujia.com/
 title=梅娘曲
-tag=分类/儿歌,殷秀梅,儿歌
+tag=分类/儿歌,殷秀梅,儿歌,儿童歌曲,Yin Xiumei,分类,歌手
 usertag=分类/儿歌,殷秀梅,儿歌
-tagroute=
+tagroute=分类/儿歌,歌手/殷秀梅
 transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-18976

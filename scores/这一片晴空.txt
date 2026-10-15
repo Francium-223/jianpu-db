@@ -1,9 +1,9 @@
 %这一片晴空.txt
 % 出处 http://www.jianpu.cn/
 title=这一片晴空
-tag=张也
+tag=张也,Zhang Ye,歌手
 usertag=张也
-tagroute=
+tagroute=歌手/张也
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-39557

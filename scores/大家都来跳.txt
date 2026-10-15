@@ -1,9 +1,9 @@
 %大家都来跳.txt
 % 出处 https://www.qupu123.com/
 title=大家都来跳
-tag=分类/儿歌
+tag=分类/儿歌,儿歌,儿童歌曲,分类
 usertag=分类/儿歌
-tagroute=
+tagroute=分类/儿歌
 confidence=0.993
 conf_p10=0.969
 transcriber=jianpu2-auto

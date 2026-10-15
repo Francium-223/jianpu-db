@@ -1,9 +1,9 @@
 %风雨彩虹_2.txt
 % 出处 http://www.jianpu.cn/
 title=风雨彩虹
-tag=田震
+tag=田震,Tian Zhen,歌手
 usertag=田震
-tagroute=
+tagroute=歌手/田震
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-119249

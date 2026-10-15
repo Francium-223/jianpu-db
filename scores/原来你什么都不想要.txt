@@ -1,9 +1,9 @@
 %原来你什么都不想要.txt
 % 出处 http://www.jianpu.cn/
 title=原来你什么都不想要
-tag=张惠妹,版本二
+tag=张惠妹,版本二,A-Mei,歌手
 usertag=张惠妹,版本二
-tagroute=
+tagroute=歌手/张惠妹
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-178613

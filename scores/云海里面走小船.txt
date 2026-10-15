@@ -1,9 +1,9 @@
 %云海里面走小船.txt
 % 出处 http://www.jianpu.cn/
 title=云海里面走小船
-tag=董文华
+tag=董文华,Dong Wenhua,歌手
 usertag=董文华
-tagroute=
+tagroute=歌手/董文华
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-149807

@@ -1,9 +1,9 @@
 %你是一面旗帜_世纪行_主题歌.txt
 % 出处 http://www.jianpu.cn/
 title=你是一面旗帜 世纪行 主题歌
-tag=刘欢,分类/影视
+tag=刘欢,分类/影视,Liu Huan,影视,影视歌曲,歌手,分类
 usertag=刘欢,分类/影视
-tagroute=
+tagroute=歌手/刘欢,分类/影视
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-215040

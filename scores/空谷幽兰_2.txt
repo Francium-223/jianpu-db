@@ -1,9 +1,9 @@
 %空谷幽兰_2.txt
 % 出处 https://www.jianpujia.com/
 title=空谷幽兰
-tag=许巍
+tag=许巍,Xu Wei,歌手
 usertag=许巍
-tagroute=
+tagroute=歌手/许巍
 transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-21944

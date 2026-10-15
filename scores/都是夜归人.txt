@@ -1,9 +1,9 @@
 %都是夜归人.txt
 % 出处 http://www.jianpu.cn/
 title=都是夜归人
-tag=许美静
+tag=许美静,Xu Meijing,歌手
 usertag=许美静
-tagroute=
+tagroute=歌手/许美静
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-61121

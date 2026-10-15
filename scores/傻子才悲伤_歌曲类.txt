@@ -1,9 +1,9 @@
 %傻子才悲伤_歌曲类.txt
 % 出处 http://www.jianpu.cn/
 title=傻子才悲伤 歌曲类
-tag=朴树
+tag=朴树,Pu Shu,歌手
 usertag=朴树
-tagroute=
+tagroute=歌手/朴树
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-115166

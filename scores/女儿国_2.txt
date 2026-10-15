@@ -1,9 +1,9 @@
 %女儿国_2.txt
 % 出处 https://www.jianpujia.com/
 title=女儿国
-tag=李荣浩
+tag=李荣浩,Li Ronghao,歌手
 usertag=李荣浩
-tagroute=
+tagroute=歌手/李荣浩
 confidence=0.966
 conf_p10=0.925
 transcriber=jianpu2-auto

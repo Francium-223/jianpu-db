@@ -1,9 +1,9 @@
 %懂得.txt
 % 出处 https://www.qupu123.com/
 title=懂得
-tag=李健
+tag=李健,Li Jian,歌手
 usertag=李健
-tagroute=
+tagroute=歌手/李健
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-323657

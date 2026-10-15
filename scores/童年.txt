@@ -1,9 +1,9 @@
 %童年.txt
 % 出处 https://www.jianpujia.com/
 title=童年
-tag=分类/儿歌,张艾嘉,儿歌
+tag=分类/儿歌,张艾嘉,儿歌,儿童歌曲,Sylvia Chang,分类,歌手
 usertag=分类/儿歌,张艾嘉,儿歌
-tagroute=
+tagroute=分类/儿歌,歌手/张艾嘉
 transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-9855

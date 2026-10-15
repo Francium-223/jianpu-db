@@ -1,9 +1,9 @@
 %下一站天后_歌曲类.txt
 % 出处 http://www.jianpu.cn/
 title=下一站天后 歌曲类
-tag=Twins
+tag=Twins,双生儿,歌手
 usertag=Twins
-tagroute=
+tagroute=歌手/Twins
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-114967

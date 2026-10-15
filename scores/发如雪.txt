@@ -1,9 +1,9 @@
 %发如雪.txt
 % 出处 http://www.jianpu.cn/
 title=发如雪
-tag=周杰伦
+tag=周杰伦,Jay Chou,歌手
 usertag=周杰伦
-tagroute=
+tagroute=歌手/周杰伦
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-65661

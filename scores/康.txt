@@ -1,9 +1,9 @@
 %康.txt
 % 出处 https://www.jianpujia.com/
 title=康
-tag=梦之旅组合
+tag=梦之旅组合,梦之旅,歌手
 usertag=梦之旅组合
-tagroute=
+tagroute=歌手/梦之旅组合
 transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-299366

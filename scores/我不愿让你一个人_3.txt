@@ -1,9 +1,9 @@
 %我不愿让你一个人_3.txt
 % 出处 https://www.jianpujia.com/
 title=我不愿让你一个人
-tag=五月天
+tag=五月天,Mayday,歌手
 usertag=五月天
-tagroute=
+tagroute=歌手/五月天
 confidence=0.948
 conf_p10=0.837
 transcriber=jianpu2-auto

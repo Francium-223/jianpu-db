@@ -1,9 +1,9 @@
 %蓝色故乡.txt
 % 出处 http://www.jianpu.cn/
 title=蓝色故乡
-tag=腾格尔
+tag=腾格尔,Tengger,歌手
 usertag=腾格尔
-tagroute=
+tagroute=歌手/腾格尔
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-44581

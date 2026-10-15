@@ -1,9 +1,9 @@
 %如愿_2.txt
 % 出处 https://www.jianpujia.com/
 title=如愿
-tag=王菲
+tag=王菲,Faye Wong,歌手
 usertag=王菲
-tagroute=
+tagroute=歌手/王菲
 transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-235342

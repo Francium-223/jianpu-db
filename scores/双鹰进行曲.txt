@@ -1,9 +1,9 @@
 %双鹰进行曲.txt
 % 出处 http://www.jianpu.cn/
 title=双鹰进行曲
-tag=分类/进行曲
+tag=分类/进行曲,进行曲,进行曲谱,分类
 usertag=分类/进行曲
-tagroute=
+tagroute=分类/进行曲
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-109477

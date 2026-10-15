@@ -1,9 +1,9 @@
 %神酒_2.txt
 % 出处 https://www.qupu123.com/
 title=神酒
-tag=分类/通俗歌曲
+tag=分类/通俗歌曲,通俗歌曲,流行歌曲,分类
 usertag=分类/通俗歌曲
-tagroute=
+tagroute=分类/通俗歌曲
 confidence=0.970
 conf_p10=0.936
 transcriber=jianpu2-auto

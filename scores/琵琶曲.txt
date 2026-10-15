@@ -1,9 +1,9 @@
 %琵琶曲.txt
 % 出处 http://www.jianpu.cn/
 title=琵琶曲
-tag=分类/琵琶谱,蔡幸娟
+tag=分类/琵琶谱,蔡幸娟,琵琶谱,琵琶曲,Cai Xingjuan,分类,歌手
 usertag=分类/琵琶谱,蔡幸娟
-tagroute=
+tagroute=分类/琵琶谱,歌手/蔡幸娟
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-306305

@@ -1,9 +1,9 @@
 %岁月灿烂.txt
 % 出处 https://www.qupu123.com/
 title=岁月灿烂
-tag=分类/合唱
+tag=分类/合唱,合唱,合唱谱,分类
 usertag=分类/合唱
-tagroute=
+tagroute=分类/合唱
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-335452

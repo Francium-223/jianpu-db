@@ -1,9 +1,9 @@
 %不该钢琴.txt
 % 出处 https://www.jianpujia.com/
 title=不该钢琴
-tag=周杰伦,分类/钢琴谱
+tag=周杰伦,分类/钢琴谱,Jay Chou,钢琴谱,钢琴曲,歌手,分类
 usertag=周杰伦,分类/钢琴谱
-tagroute=
+tagroute=歌手/周杰伦,分类/钢琴谱
 transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-380028

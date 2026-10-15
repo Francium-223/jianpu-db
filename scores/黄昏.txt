@@ -1,9 +1,9 @@
 %黄昏.txt
 % 出处 http://www.jianpu.cn/
 title=黄昏
-tag=周传雄
+tag=周传雄,Zhou Chuanxiong,歌手
 usertag=周传雄
-tagroute=
+tagroute=歌手/周传雄
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-35467

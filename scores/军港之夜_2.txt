@@ -1,9 +1,9 @@
 %军港之夜_2.txt
 % 出处 http://www.jianpu.cn/
 title=军港之夜
-tag=苏小明,怀旧经典 苏小明
+tag=苏小明,怀旧经典 苏小明,Su Xiaoming,歌手
 usertag=苏小明,怀旧经典 苏小明
-tagroute=
+tagroute=歌手/苏小明
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-472340

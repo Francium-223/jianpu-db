@@ -1,9 +1,9 @@
 %生活啊_多么美好.txt
 % 出处 http://www.jianpu.cn/
 title=生活啊 多么美好
-tag=殷秀梅
+tag=殷秀梅,Yin Xiumei,歌手
 usertag=殷秀梅
-tagroute=
+tagroute=歌手/殷秀梅
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-258174

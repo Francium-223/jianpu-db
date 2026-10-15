@@ -1,9 +1,9 @@
 %我们都是孤独的.txt
 % 出处 http://www.jianpu.cn/
 title=我们都是孤独的
-tag=华晨宇
+tag=华晨宇,Hua Chenyu,歌手
 usertag=华晨宇
-tagroute=
+tagroute=歌手/华晨宇
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-312516

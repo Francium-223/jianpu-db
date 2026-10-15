@@ -1,9 +1,9 @@
 %不想.txt
 % 出处 http://www.jianpu.cn/
 title=不想
-tag=刘若英
+tag=刘若英,Rene Liu,歌手
 usertag=刘若英
-tagroute=
+tagroute=歌手/刘若英
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-89300

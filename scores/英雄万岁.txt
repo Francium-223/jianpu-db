@@ -1,9 +1,9 @@
 %英雄万岁.txt
 % 出处 http://www.jianpu.cn/
 title=英雄万岁
-tag=王宏伟
+tag=王宏伟,Wang Hongwei,歌手
 usertag=王宏伟
-tagroute=
+tagroute=歌手/王宏伟
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-311565

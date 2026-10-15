@@ -1,9 +1,9 @@
 %喜帖街.txt
 % 出处 https://www.qupu123.com/
 title=喜帖街
-tag=分类/吉他谱
+tag=分类/吉他谱,吉他谱,吉他曲,分类
 usertag=分类/吉他谱
-tagroute=
+tagroute=分类/吉他谱
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-218738

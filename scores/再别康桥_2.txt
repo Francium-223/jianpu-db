@@ -1,9 +1,9 @@
 %再别康桥_2.txt
 % 出处 https://www.qupu123.com/
 title=再别康桥
-tag=分类/通俗歌曲
+tag=分类/通俗歌曲,通俗歌曲,流行歌曲,分类
 usertag=分类/通俗歌曲
-tagroute=
+tagroute=分类/通俗歌曲
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-330080

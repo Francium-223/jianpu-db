@@ -1,9 +1,9 @@
 %当我想起你.txt
 % 出处 https://www.qupu123.com/
 title=当我想起你
-tag=张学友
+tag=张学友,Jacky Cheung,歌手
 usertag=张学友
-tagroute=
+tagroute=歌手/张学友
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-229116

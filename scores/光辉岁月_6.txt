@@ -1,9 +1,9 @@
 %光辉岁月_6.txt
 % 出处 https://www.jianpujia.com/
 title=光辉岁月
-tag=Beyond
+tag=Beyond,别安,歌手
 usertag=Beyond
-tagroute=
+tagroute=歌手/Beyond
 transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-251482

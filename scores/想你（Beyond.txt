@@ -1,9 +1,9 @@
 %想你（Beyond.txt
 % 出处 https://www.qupu123.com/
 title=想你（Beyond
-tag=Beyond
+tag=Beyond,别安,歌手
 usertag=Beyond
-tagroute=
+tagroute=歌手/Beyond
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-14454

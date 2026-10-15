@@ -1,9 +1,9 @@
 %倾诉.txt
 % 出处 https://www.qupu123.com/
 title=倾诉
-tag=分类/钢琴谱
+tag=分类/钢琴谱,钢琴谱,钢琴曲,分类
 usertag=分类/钢琴谱
-tagroute=
+tagroute=分类/钢琴谱
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-233717

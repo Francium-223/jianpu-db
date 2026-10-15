@@ -1,9 +1,9 @@
 %椰树啊！绿色的伞.txt
 % 出处 http://www.jianpu.cn/
 title=椰树啊！绿色的伞
-tag=苏小明
+tag=苏小明,Su Xiaoming,歌手
 usertag=苏小明
-tagroute=
+tagroute=歌手/苏小明
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-132315

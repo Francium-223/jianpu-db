@@ -2,9 +2,9 @@
 %尘大师钢琴.txt
 % 出处 https://www.jianpujia.com/
 title=尘大师
-tag=分类/钢琴谱,陈奕迅
+tag=分类/钢琴谱,陈奕迅,钢琴谱,钢琴曲,Eason Chan,分类,歌手
 usertag=分类/钢琴谱,陈奕迅
-tagroute=
+tagroute=分类/钢琴谱,歌手/陈奕迅
 transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-384841

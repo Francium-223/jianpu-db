@@ -1,9 +1,9 @@
 %天地龙鳞_2.txt
 % 出处未记录(本地 images-prep/hot-crawl/天地龙鳞__user)
 title=天地龙鳞
-tag=王力宏
+tag=王力宏,Leehom Wang,歌手
 usertag=王力宏
-tagroute=
+tagroute=歌手/王力宏
 transcriber=jianpu2-auto
 status=ocr
 source=unknown

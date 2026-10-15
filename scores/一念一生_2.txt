@@ -1,9 +1,9 @@
 %一念一生_2.txt
 % 出处 http://www.jianpu.cn/
 title=一念一生
-tag=李健
+tag=李健,Li Jian,歌手
 usertag=李健
-tagroute=
+tagroute=歌手/李健
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-440941

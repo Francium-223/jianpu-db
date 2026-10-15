@@ -1,9 +1,9 @@
 %心里是花园.txt
 % 出处 http://www.jianpu.cn/
 title=心里是花园
-tag=孟庭苇
+tag=孟庭苇,Meng Tingwei,歌手
 usertag=孟庭苇
-tagroute=
+tagroute=歌手/孟庭苇
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-254875

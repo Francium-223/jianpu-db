@@ -1,9 +1,9 @@
 %胭脂妆.txt
 % 出处 http://www.jianpu.cn/
 title=胭脂妆
-tag=树屋女孩
+tag=树屋女孩,树屋女孩组合,歌手
 usertag=树屋女孩
-tagroute=
+tagroute=歌手/树屋女孩
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-475872

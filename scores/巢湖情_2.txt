@@ -1,9 +1,9 @@
 %巢湖情_2.txt
 % 出处 https://www.qupu123.com/
 title=巢湖情
-tag=分类/合唱
+tag=分类/合唱,合唱,合唱谱,分类
 usertag=分类/合唱
-tagroute=
+tagroute=分类/合唱
 confidence=0.980
 conf_p10=0.958
 transcriber=jianpu2-auto

@@ -1,9 +1,9 @@
 %朋友的问候.txt
 % 出处 http://www.jianpu.cn/
 title=朋友的问候
-tag=张也
+tag=张也,Zhang Ye,歌手
 usertag=张也
-tagroute=
+tagroute=歌手/张也
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-32646

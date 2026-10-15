@@ -1,9 +1,9 @@
 %让世界充满爱一、二、三.txt
 % 出处 https://www.jianpujia.com/
 title=让世界充满爱一、二、三
-tag=群星
+tag=群星,Various Artists,歌手
 usertag=群星
-tagroute=
+tagroute=歌手/群星
 transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-295546

@@ -1,9 +1,9 @@
 %不要骗我.txt
 % 出处 http://www.jianpu.cn/
 title=不要骗我
-tag=张惠妹
+tag=张惠妹,A-Mei,歌手
 usertag=张惠妹
-tagroute=
+tagroute=歌手/张惠妹
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-114643

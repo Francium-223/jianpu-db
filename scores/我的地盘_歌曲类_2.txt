@@ -1,9 +1,9 @@
 %我的地盘_歌曲类_2.txt
 % 出处 http://www.jianpu.cn/
 title=我的地盘 歌曲类
-tag=周杰伦
+tag=周杰伦,Jay Chou,歌手
 usertag=周杰伦
-tagroute=
+tagroute=歌手/周杰伦
 confidence=0.721
 conf_p10=0.375
 transcriber=jianpu2-auto

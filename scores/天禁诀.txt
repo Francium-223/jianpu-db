@@ -1,9 +1,9 @@
 %天禁诀.txt
 % 出处 http://www.jianpu.cn/
 title=天禁诀
-tag=光良
+tag=光良,Guang Liang,歌手
 usertag=光良
-tagroute=
+tagroute=歌手/光良
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-288688

@@ -1,9 +1,9 @@
 %下马拜草原.txt
 % 出处 http://www.jianpu.cn/
 title=下马拜草原
-tag=腾格尔
+tag=腾格尔,Tengger,歌手
 usertag=腾格尔
-tagroute=
+tagroute=歌手/腾格尔
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-451219

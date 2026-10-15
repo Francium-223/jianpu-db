@@ -1,9 +1,9 @@
 %好久不见_2.txt
 % 出处 https://www.jianpujia.com/
 title=好久不见
-tag=陈奕迅
+tag=陈奕迅,Eason Chan,歌手
 usertag=陈奕迅
-tagroute=
+tagroute=歌手/陈奕迅
 transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-378374

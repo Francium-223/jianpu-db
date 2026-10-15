@@ -1,9 +1,9 @@
 %大哥.txt
 % 出处 http://www.jianpu.cn/
 title=大哥
-tag=韩红
+tag=韩红,Han Hong,歌手
 usertag=韩红
-tagroute=
+tagroute=歌手/韩红
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-240093

@@ -1,9 +1,9 @@
 %美丽乌云我的家.txt
 % 出处 https://www.qupu123.com/
 title=美丽乌云我的家
-tag=分类/民歌
+tag=分类/民歌,民歌,民间歌曲,分类
 usertag=分类/民歌
-tagroute=
+tagroute=分类/民歌
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-332958

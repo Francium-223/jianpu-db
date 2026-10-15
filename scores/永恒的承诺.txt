@@ -1,9 +1,9 @@
 %永恒的承诺.txt
 % 出处 http://www.jianpu.cn/
 title=永恒的承诺
-tag=张也
+tag=张也,Zhang Ye,歌手
 usertag=张也
-tagroute=
+tagroute=歌手/张也
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-294326

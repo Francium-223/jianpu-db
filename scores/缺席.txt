@@ -1,9 +1,9 @@
 %缺席.txt
 % 出处 http://www.jianpu.cn/
 title=缺席
-tag=童安格
+tag=童安格,Tong Ange,歌手
 usertag=童安格
-tagroute=
+tagroute=歌手/童安格
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-120966

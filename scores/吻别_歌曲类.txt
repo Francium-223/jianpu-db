@@ -1,9 +1,9 @@
 %吻别_歌曲类.txt
 % 出处 http://www.jianpu.cn/
 title=吻别 歌曲类
-tag=张学友
+tag=张学友,Jacky Cheung,歌手
 usertag=张学友
-tagroute=
+tagroute=歌手/张学友
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-114043

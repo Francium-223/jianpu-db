@@ -1,9 +1,9 @@
 %如你所想.txt
 % 出处 http://www.jianpu.cn/
 title=如你所想
-tag=毛不易
+tag=毛不易,Mao Buyi,歌手
 usertag=毛不易
-tagroute=
+tagroute=歌手/毛不易
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-452543

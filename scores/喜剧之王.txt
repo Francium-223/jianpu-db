@@ -1,9 +1,9 @@
 %喜剧之王.txt
 % 出处 https://www.jianpujia.com/
 title=喜剧之王
-tag=李荣浩
+tag=李荣浩,Li Ronghao,歌手
 usertag=李荣浩
-tagroute=
+tagroute=歌手/李荣浩
 transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-7094

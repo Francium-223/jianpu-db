@@ -1,9 +1,9 @@
 %奇迹世界.txt
 % 出处 http://www.jianpu.cn/
 title=奇迹世界
-tag=凤凰传奇
+tag=凤凰传奇,Feng Huang Chuanqi,歌手
 usertag=凤凰传奇
-tagroute=
+tagroute=歌手/凤凰传奇
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-151262

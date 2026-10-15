@@ -1,9 +1,9 @@
 %草原草原我爱你.txt
 % 出处 https://www.jianpujia.com/
 title=草原草原我爱你
-tag=分类/草原,草原
+tag=分类/草原,草原,草原歌曲,分类
 usertag=分类/草原,草原
-tagroute=
+tagroute=分类/草原
 transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-233871

@@ -1,9 +1,9 @@
 %此生惟你.txt
 % 出处 http://www.jianpu.cn/
 title=此生惟你
-tag=周深
+tag=周深,Zhou Shen,歌手
 usertag=周深
-tagroute=
+tagroute=歌手/周深
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-429852

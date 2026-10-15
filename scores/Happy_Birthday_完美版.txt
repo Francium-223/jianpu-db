@@ -1,9 +1,9 @@
 %Happy_Birthday_完美版.txt
 % 出处 http://www.jianpu.cn/
 title=Happy Birthday 完美版
-tag=五月天
+tag=五月天,Mayday,歌手
 usertag=五月天
-tagroute=
+tagroute=歌手/五月天
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-88257

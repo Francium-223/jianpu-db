@@ -1,9 +1,9 @@
 %风柜来的人.txt
 % 出处 http://www.jianpu.cn/
 title=风柜来的人
-tag=李宗盛
+tag=李宗盛,Jonathan Lee,歌手
 usertag=李宗盛
-tagroute=
+tagroute=歌手/李宗盛
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-264854

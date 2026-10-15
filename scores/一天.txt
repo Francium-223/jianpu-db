@@ -1,9 +1,9 @@
 %一天.txt
 % 出处 http://www.jianpu.cn/
 title=一天
-tag=许巍
+tag=许巍,Xu Wei,歌手
 usertag=许巍
-tagroute=
+tagroute=歌手/许巍
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-70302

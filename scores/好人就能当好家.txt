@@ -1,9 +1,9 @@
 %好人就能当好家.txt
 % 出处 http://www.jianpu.cn/
 title=好人就能当好家
-tag=王宏伟
+tag=王宏伟,Wang Hongwei,歌手
 usertag=王宏伟
-tagroute=
+tagroute=歌手/王宏伟
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-259899

@@ -1,9 +1,9 @@
 %女儿歌.txt
 % 出处 https://www.jianpujia.com/
 title=女儿歌
-tag=分类/儿歌,谭晶,儿歌
+tag=分类/儿歌,谭晶,儿歌,儿童歌曲,Tan Jing,分类,歌手
 usertag=分类/儿歌,谭晶,儿歌
-tagroute=
+tagroute=分类/儿歌,歌手/谭晶
 transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-18259

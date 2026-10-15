@@ -1,9 +1,9 @@
 %向往.txt
 % 出处 http://www.jianpu.cn/
 title=向往
-tag=李健
+tag=李健,Li Jian,歌手
 usertag=李健
-tagroute=
+tagroute=歌手/李健
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-63154

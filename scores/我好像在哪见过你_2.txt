@@ -1,9 +1,9 @@
 %我好像在哪见过你_2.txt
 % 出处 https://www.jianpujia.com/
 title=我好像在哪见过你
-tag=薛之谦
+tag=薛之谦,Joker Xue,歌手
 usertag=薛之谦
-tagroute=
+tagroute=歌手/薛之谦
 confidence=0.987
 conf_p10=0.959
 transcriber=jianpu2-auto

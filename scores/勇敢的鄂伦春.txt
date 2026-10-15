@@ -2,9 +2,9 @@
 %勇敢的鄂伦春钢琴.txt
 % 出处 https://www.jianpujia.com/
 title=勇敢的鄂伦春
-tag=分类/钢琴谱,民歌,分类/民歌
+tag=分类/钢琴谱,民歌,分类/民歌,钢琴谱,钢琴曲,民间歌曲,分类
 usertag=分类/钢琴谱,民歌,分类/民歌
-tagroute=
+tagroute=分类/钢琴谱,分类/民歌
 transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-148456

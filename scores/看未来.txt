@@ -1,9 +1,9 @@
 %看未来.txt
 % 出处 http://www.jianpu.cn/
 title=看未来
-tag=童安格,有什么不一样
+tag=童安格,有什么不一样,Tong Ange,歌手
 usertag=童安格,有什么不一样
-tagroute=
+tagroute=歌手/童安格
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-68867

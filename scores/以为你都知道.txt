@@ -1,9 +1,9 @@
 %以为你都知道.txt
 % 出处 http://www.jianpu.cn/
 title=以为你都知道
-tag=张雨生
+tag=张雨生,Tom Chang,歌手
 usertag=张雨生
-tagroute=
+tagroute=歌手/张雨生
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-159875

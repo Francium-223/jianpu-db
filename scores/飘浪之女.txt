@@ -1,9 +1,9 @@
 %飘浪之女.txt
 % 出处 http://www.jianpu.cn/
 title=飘浪之女
-tag=蔡琴
+tag=蔡琴,Cai Qin,歌手
 usertag=蔡琴
-tagroute=
+tagroute=歌手/蔡琴
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-150527

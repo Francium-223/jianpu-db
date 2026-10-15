@@ -1,9 +1,9 @@
 %我们拥有一个名字－－中国.txt
 % 出处 http://www.jianpu.cn/
 title=我们拥有一个名字－－中国
-tag=张明敏
+tag=张明敏,Zhang Mingmin,歌手
 usertag=张明敏
-tagroute=
+tagroute=歌手/张明敏
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-68947

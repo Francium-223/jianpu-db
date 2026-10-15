@@ -1,9 +1,9 @@
 %南山之外还有山.txt
 % 出处 https://www.qupu123.com/
 title=南山之外还有山
-tag=分类/通俗歌曲
+tag=分类/通俗歌曲,通俗歌曲,流行歌曲,分类
 usertag=分类/通俗歌曲
-tagroute=
+tagroute=分类/通俗歌曲
 confidence=0.997
 conf_p10=0.983
 transcriber=jianpu2-auto

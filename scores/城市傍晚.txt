@@ -1,9 +1,9 @@
 %城市傍晚.txt
 % 出处 http://www.jianpu.cn/
 title=城市傍晚
-tag=毛不易
+tag=毛不易,Mao Buyi,歌手
 usertag=毛不易
-tagroute=
+tagroute=歌手/毛不易
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-461313

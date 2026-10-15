@@ -1,9 +1,9 @@
 %红高粱片尾主题曲-红高粱.txt
 % 出处 http://www.jianpu.cn/
 title=红高粱片尾主题曲-红高粱
-tag=韩红,分类/影视
+tag=韩红,分类/影视,Han Hong,影视,影视歌曲,歌手,分类
 usertag=韩红,分类/影视
-tagroute=
+tagroute=歌手/韩红,分类/影视
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-273885

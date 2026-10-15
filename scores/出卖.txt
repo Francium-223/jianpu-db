@@ -1,9 +1,9 @@
 %出卖.txt
 % 出处 http://www.jianpu.cn/
 title=出卖
-tag=那英
+tag=那英,Na Ying,歌手
 usertag=那英
-tagroute=
+tagroute=歌手/那英
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-64535

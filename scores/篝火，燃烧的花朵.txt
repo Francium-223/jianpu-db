@@ -1,9 +1,9 @@
 %篝火，燃烧的花朵.txt
 % 出处 http://www.jianpu.cn/
 title=篝火，燃烧的花朵
-tag=董文华
+tag=董文华,Dong Wenhua,歌手
 usertag=董文华
-tagroute=
+tagroute=歌手/董文华
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-158870

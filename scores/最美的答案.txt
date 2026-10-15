@@ -1,9 +1,9 @@
 %最美的答案.txt
 % 出处 https://www.qupu123.com/
 title=最美的答案
-tag=分类/谱友上传
+tag=分类/谱友上传,谱友上传,网友上传,分类
 usertag=分类/谱友上传
-tagroute=
+tagroute=分类/谱友上传
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-396423

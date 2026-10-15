@@ -1,9 +1,9 @@
 %秋千.txt
 % 出处 https://www.jianpujia.com/
 title=秋千
-tag=分类/儿歌,程琳,儿歌
+tag=分类/儿歌,程琳,儿歌,儿童歌曲,Cheng Lin,分类,歌手
 usertag=分类/儿歌,程琳,儿歌
-tagroute=
+tagroute=分类/儿歌,歌手/程琳
 transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-10021

@@ -1,9 +1,9 @@
 %思乡曲-李谷一_2.txt
 % 出处 http://www.jianpu.cn/
 title=思乡曲-李谷一
-tag=李谷一
+tag=李谷一,Li Guyi,歌手
 usertag=李谷一
-tagroute=
+tagroute=歌手/李谷一
 confidence=0.980
 conf_p10=0.965
 transcriber=jianpu2-auto

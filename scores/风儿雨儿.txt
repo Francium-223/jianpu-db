@@ -1,9 +1,9 @@
 %风儿雨儿.txt
 % 出处 http://www.jianpu.cn/
 title=风儿雨儿
-tag=邓丽君
+tag=邓丽君,Teresa Teng,歌手
 usertag=邓丽君
-tagroute=
+tagroute=歌手/邓丽君
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-229371

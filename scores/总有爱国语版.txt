@@ -1,9 +1,9 @@
 %总有爱国语版.txt
 % 出处 http://www.jianpu.cn/
 title=总有爱国语版
-tag=Beyond,一辈子陪你走 beyond
+tag=Beyond,一辈子陪你走 beyond,别安,歌手
 usertag=Beyond,一辈子陪你走 beyond
-tagroute=
+tagroute=歌手/Beyond
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-273294

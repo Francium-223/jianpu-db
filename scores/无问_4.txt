@@ -1,9 +1,9 @@
 %无问_4.txt
 % 出处 https://www.jianpujia.com/
 title=无问
-tag=毛不易
+tag=毛不易,Mao Buyi,歌手
 usertag=毛不易
-tagroute=
+tagroute=歌手/毛不易
 confidence=0.989
 conf_p10=0.986
 transcriber=jianpu2-auto

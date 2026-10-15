@@ -1,9 +1,9 @@
 %你的名字，我的姓氏.txt
 % 出处 http://www.jianpu.cn/
 title=你的名字，我的姓氏
-tag=张学友
+tag=张学友,Jacky Cheung,歌手
 usertag=张学友
-tagroute=
+tagroute=歌手/张学友
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-40756

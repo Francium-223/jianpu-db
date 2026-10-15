@@ -1,9 +1,9 @@
 %古诗词今唱：画.txt
 % 出处 https://www.qupu123.com/
 title=古诗词今唱：画
-tag=分类/儿歌
+tag=分类/儿歌,儿歌,儿童歌曲,分类
 usertag=分类/儿歌
-tagroute=
+tagroute=分类/儿歌
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-328126

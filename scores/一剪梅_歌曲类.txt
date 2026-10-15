@@ -1,9 +1,9 @@
 %一剪梅_歌曲类.txt
 % 出处 http://www.jianpu.cn/
 title=一剪梅 歌曲类
-tag=费玉清
+tag=费玉清,Fei Yuqing,歌手
 usertag=费玉清
-tagroute=
+tagroute=歌手/费玉清
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-114895

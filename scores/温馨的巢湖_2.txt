@@ -1,9 +1,9 @@
 %温馨的巢湖_2.txt
 % 出处 https://www.qupu123.com/
 title=温馨的巢湖
-tag=分类/合唱
+tag=分类/合唱,合唱,合唱谱,分类
 usertag=分类/合唱
-tagroute=
+tagroute=分类/合唱
 confidence=0.964
 conf_p10=0.858
 transcriber=jianpu2-auto

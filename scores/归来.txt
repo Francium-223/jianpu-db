@@ -1,9 +1,9 @@
 %归来.txt
 % 出处 https://www.qupu123.com/
 title=归来
-tag=韩红
+tag=韩红,Han Hong,歌手
 usertag=韩红
-tagroute=
+tagroute=歌手/韩红
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-47326

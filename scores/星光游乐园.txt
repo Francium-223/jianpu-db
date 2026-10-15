@@ -1,9 +1,9 @@
 %星光游乐园.txt
 % 出处 http://www.jianpu.cn/
 title=星光游乐园
-tag=Twins
+tag=Twins,双生儿,歌手
 usertag=Twins
-tagroute=
+tagroute=歌手/Twins
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-63151

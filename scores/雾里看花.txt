@@ -1,9 +1,9 @@
 %雾里看花.txt
 % 出处 http://www.jianpu.cn/
 title=雾里看花
-tag=那英
+tag=那英,Na Ying,歌手
 usertag=那英
-tagroute=
+tagroute=歌手/那英
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-113974

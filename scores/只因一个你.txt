@@ -1,9 +1,9 @@
 %只因一个你.txt
 % 出处 http://www.jianpu.cn/
 title=只因一个你
-tag=刘德华
+tag=刘德华,Andy Lau,歌手
 usertag=刘德华
-tagroute=
+tagroute=歌手/刘德华
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-51308

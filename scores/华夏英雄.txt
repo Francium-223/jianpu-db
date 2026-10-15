@@ -1,9 +1,9 @@
 %华夏英雄.txt
 % 出处 http://www.jianpu.cn/
 title=华夏英雄
-tag=汪峰
+tag=汪峰,Wang Feng,歌手
 usertag=汪峰
-tagroute=
+tagroute=歌手/汪峰
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-131093

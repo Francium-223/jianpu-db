@@ -1,9 +1,9 @@
 %Honey_Honey.txt
 % 出处 http://www.jianpu.cn/
 title=Honey Honey
-tag=孙燕姿
+tag=孙燕姿,Stefanie Sun,歌手
 usertag=孙燕姿
-tagroute=
+tagroute=歌手/孙燕姿
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-437686

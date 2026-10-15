@@ -1,9 +1,9 @@
 %拥抱_歌曲类.txt
 % 出处 http://www.jianpu.cn/
 title=拥抱 歌曲类
-tag=五月天
+tag=五月天,Mayday,歌手
 usertag=五月天
-tagroute=
+tagroute=歌手/五月天
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-114884

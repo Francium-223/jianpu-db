@@ -1,9 +1,9 @@
 %走在家乡的小道.txt
 % 出处 http://www.jianpu.cn/
 title=走在家乡的小道
-tag=董文华
+tag=董文华,Dong Wenhua,歌手
 usertag=董文华
-tagroute=
+tagroute=歌手/董文华
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-158989

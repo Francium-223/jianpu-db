@@ -1,9 +1,9 @@
 %数风流人物.txt
 % 出处 http://www.jianpu.cn/
 title=数风流人物
-tag=宋祖英
+tag=宋祖英,Song Zuying,歌手
 usertag=宋祖英
-tagroute=
+tagroute=歌手/宋祖英
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-120523

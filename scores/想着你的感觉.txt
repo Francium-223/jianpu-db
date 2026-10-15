@@ -1,9 +1,9 @@
 %想着你的感觉.txt
 % 出处 http://www.jianpu.cn/
 title=想着你的感觉
-tag=杜德伟
+tag=杜德伟,Alex To,歌手
 usertag=杜德伟
-tagroute=
+tagroute=歌手/杜德伟
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-309239

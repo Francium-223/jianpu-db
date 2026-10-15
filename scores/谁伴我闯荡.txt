@@ -1,9 +1,9 @@
 %谁伴我闯荡.txt
 % 出处 http://www.jianpu.cn/
 title=谁伴我闯荡
-tag=Beyond
+tag=Beyond,别安,歌手
 usertag=Beyond
-tagroute=
+tagroute=歌手/Beyond
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-234520

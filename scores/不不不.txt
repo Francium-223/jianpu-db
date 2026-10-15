@@ -1,9 +1,9 @@
 %不不不.txt
 % 出处 http://www.jianpu.cn/
 title=不不不
-tag=林忆莲
+tag=林忆莲,Sandy Lam,歌手
 usertag=林忆莲
-tagroute=
+tagroute=歌手/林忆莲
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-286798

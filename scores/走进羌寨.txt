@@ -1,9 +1,9 @@
 %走进羌寨.txt
 % 出处 https://www.qupu123.com/
 title=走进羌寨
-tag=分类/合唱
+tag=分类/合唱,合唱,合唱谱,分类
 usertag=分类/合唱
-tagroute=
+tagroute=分类/合唱
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-334494

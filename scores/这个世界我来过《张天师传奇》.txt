@@ -1,9 +1,9 @@
 %这个世界我来过《张天师传奇》.txt
 % 出处 http://www.jianpu.cn/
 title=这个世界我来过《张天师传奇》
-tag=刘欢
+tag=刘欢,Liu Huan,歌手
 usertag=刘欢
-tagroute=
+tagroute=歌手/刘欢
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-293213

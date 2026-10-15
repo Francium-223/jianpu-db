@@ -1,9 +1,9 @@
 %最后一封信.txt
 % 出处 http://www.jianpu.cn/
 title=最后一封信
-tag=张学友
+tag=张学友,Jacky Cheung,歌手
 usertag=张学友
-tagroute=
+tagroute=歌手/张学友
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-179213

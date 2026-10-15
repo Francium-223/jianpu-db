@@ -1,9 +1,9 @@
 %平凡之路_2.txt
 % 出处 https://www.qupu123.com/
 title=平凡之路
-tag=分类/记谱
+tag=分类/记谱,记谱,扒谱,分类
 usertag=分类/记谱
-tagroute=
+tagroute=分类/记谱
 transcriber=jianpu2-auto
 status=ocr
 source=qupu123-251973

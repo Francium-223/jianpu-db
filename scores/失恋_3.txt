@@ -1,9 +1,9 @@
 %失恋_3.txt
 % 出处 https://www.jianpujia.com/
 title=失恋
-tag=草蜢
+tag=草蜢,Grasshopper,歌手
 usertag=草蜢
-tagroute=
+tagroute=歌手/草蜢
 confidence=0.953
 conf_p10=0.802
 transcriber=jianpu2-auto

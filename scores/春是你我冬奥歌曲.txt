@@ -1,9 +1,9 @@
 %春是你我冬奥歌曲.txt
 % 出处 http://www.jianpu.cn/
 title=春是你我冬奥歌曲
-tag=杨洪基
+tag=杨洪基,Yang Hongji,歌手
 usertag=杨洪基
-tagroute=
+tagroute=歌手/杨洪基
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-463358

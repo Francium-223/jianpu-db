@@ -1,9 +1,9 @@
 %我心已许.txt
 % 出处 http://www.jianpu.cn/
 title=我心已许
-tag=蔡幸娟
+tag=蔡幸娟,Cai Xingjuan,歌手
 usertag=蔡幸娟
-tagroute=
+tagroute=歌手/蔡幸娟
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-281469

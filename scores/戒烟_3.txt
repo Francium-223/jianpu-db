@@ -1,9 +1,9 @@
 %戒烟_3.txt
 % 出处 https://www.jianpujia.com/
 title=戒烟
-tag=李荣浩
+tag=李荣浩,Li Ronghao,歌手
 usertag=李荣浩
-tagroute=
+tagroute=歌手/李荣浩
 confidence=0.957
 conf_p10=0.875
 transcriber=jianpu2-auto

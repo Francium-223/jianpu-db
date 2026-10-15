@@ -1,9 +1,9 @@
 %绿蒙蒙的春雨.txt
 % 出处 http://www.jianpu.cn/
 title=绿蒙蒙的春雨
-tag=苏小明
+tag=苏小明,Su Xiaoming,歌手
 usertag=苏小明
-tagroute=
+tagroute=歌手/苏小明
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-131740

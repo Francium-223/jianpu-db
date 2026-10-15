@@ -1,9 +1,9 @@
 %不要说_不能说的感覺.txt
 % 出处 http://www.jianpu.cn/
 title=不要说 不能说的感覺
-tag=张信哲
+tag=张信哲,Jeff Chang,歌手
 usertag=张信哲
-tagroute=
+tagroute=歌手/张信哲
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-239037

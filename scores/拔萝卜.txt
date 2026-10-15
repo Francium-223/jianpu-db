@@ -1,9 +1,9 @@
 %拔萝卜.txt
 % 出处 https://www.jianpujia.com/
 title=未命名-jianpujia-22150
-tag=分类/儿歌
+tag=分类/儿歌,儿歌,儿童歌曲,分类
 usertag=分类/儿歌
-tagroute=
+tagroute=分类/儿歌
 confidence=0.990
 conf_p10=0.987
 transcriber=jianpu2-auto

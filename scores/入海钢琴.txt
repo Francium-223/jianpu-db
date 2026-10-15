@@ -1,9 +1,9 @@
 %入海钢琴.txt
 % 出处 https://www.jianpujia.com/
 title=入海钢琴
-tag=毛不易,分类/钢琴谱
+tag=毛不易,分类/钢琴谱,Mao Buyi,钢琴谱,钢琴曲,歌手,分类
 usertag=毛不易,分类/钢琴谱
-tagroute=
+tagroute=歌手/毛不易,分类/钢琴谱
 transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-154573

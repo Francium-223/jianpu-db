@@ -1,9 +1,9 @@
 %相伴永远_2.txt
 % 出处 https://www.qupu123.com/
 title=相伴永远
-tag=分类/民歌
+tag=分类/民歌,民歌,民间歌曲,分类
 usertag=分类/民歌
-tagroute=
+tagroute=分类/民歌
 confidence=0.967
 conf_p10=0.884
 transcriber=jianpu2-auto

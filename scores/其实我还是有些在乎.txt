@@ -1,9 +1,9 @@
 %其实我还是有些在乎.txt
 % 出处 http://www.jianpu.cn/
 title=其实我还是有些在乎
-tag=孟庭苇
+tag=孟庭苇,Meng Tingwei,歌手
 usertag=孟庭苇
-tagroute=
+tagroute=歌手/孟庭苇
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-251959

@@ -1,9 +1,9 @@
 %曼陀山庄.txt
 % 出处 https://www.jianpujia.com/
 title=曼陀山庄
-tag=许嵩
+tag=许嵩,Vae,歌手
 usertag=许嵩
-tagroute=
+tagroute=歌手/许嵩
 transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-387937

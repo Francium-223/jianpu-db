@@ -1,9 +1,9 @@
 %亲亲我的宝贝.txt
 % 出处 http://www.jianpu.cn/
 title=亲亲我的宝贝
-tag=周华健
+tag=周华健,Wakin Chau,歌手
 usertag=周华健
-tagroute=
+tagroute=歌手/周华健
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-58556

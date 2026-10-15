@@ -1,9 +1,9 @@
 %喔!记得.txt
 % 出处 http://www.jianpu.cn/
 title=喔!记得
-tag=齐秦
+tag=齐秦,Qi Qin,歌手
 usertag=齐秦
-tagroute=
+tagroute=歌手/齐秦
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-121860

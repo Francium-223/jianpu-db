@@ -1,9 +1,9 @@
 %天天想你_2.txt
 % 出处 https://www.qupu123.com/
 title=天天想你
-tag=分类/通俗歌曲
+tag=分类/通俗歌曲,通俗歌曲,流行歌曲,分类
 usertag=分类/通俗歌曲
-tagroute=
+tagroute=分类/通俗歌曲
 confidence=0.993
 conf_p10=0.989
 transcriber=jianpu2-auto

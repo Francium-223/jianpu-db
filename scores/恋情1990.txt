@@ -1,9 +1,9 @@
 %恋情1990.txt
 % 出处 http://www.jianpu.cn/
 title=恋情1990
-tag=罗大佑
+tag=罗大佑,Luo Dayou,歌手
 usertag=罗大佑
-tagroute=
+tagroute=歌手/罗大佑
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-451851

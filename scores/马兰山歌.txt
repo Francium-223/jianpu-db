@@ -1,9 +1,9 @@
 %马兰山歌.txt
 % 出处 http://www.jianpu.cn/
 title=马兰山歌
-tag=蒋大为,分类/民歌
+tag=蒋大为,分类/民歌,Jiang Dawei,民歌,民间歌曲,歌手,分类
 usertag=蒋大为,分类/民歌
-tagroute=
+tagroute=歌手/蒋大为,分类/民歌
 transcriber=jianpu2-auto
 status=ocr
 source=jianpucn-135621

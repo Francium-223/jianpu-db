@@ -1,9 +1,9 @@
 %牧羊姑娘1=F4_4_深情悠扬地.txt
 % 出处 https://www.jianpujia.com/
 title=牧羊姑娘1=F4_4_深情悠扬地
-tag=分类/草原
+tag=分类/草原,草原,草原歌曲,分类
 usertag=分类/草原
-tagroute=
+tagroute=分类/草原
 transcriber=jianpu2-auto
 status=ocr
 source=jianpujia-315435
