@@ -1,0 +1,20 @@
+%没有人知道我的痛苦.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=45857
+title=没有人知道我的痛苦
+tag=
+usertag=
+tagroute=
+confidence=0.987
+conf_p10=0.989
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-45857
+%--
+4/4
+subtitle=score
+1 - - q1 4 x 1. x q3 ,5 q,6 1. q2 3. 3 3 3 - 3 ,5 q,6 1 1 ,6 ,5 - - q3 ,5 q,6 1. 2 q3. q3 3 3 - 5. q3 2
+3 1 - 1 3 5 5 5 3 5 5 3 - 5 - 3 - 2 - - 3 5 5 5 3 5 5 3 - 3 - 2 - 1 - - 3 q3 ,5 q,6
+1. q2 q3. s3 3 3 - q3 ,5 q,6 1 1 ,6 ,5 - - q3 ,5 q,6 1. q2 q3. s3 3 3 - 5 q5. s3 2 3 1 - 1 3 5 5 5 q3 q3
+5 5 3 - 5 - 3 - 2 - - 3 5 5 5 3 q5 5. 3 - 3 - 2 - 1 - - 3 q3 ,5 q,6 1. q2 q3. s3 3 3 - q3 ,5
+q,6 1 1 ,6 ,5 - - q3 ,5 q,6 1. 2 3. 3 3 3 - 5 5. q3 2 3 1 - 1 0
+%END

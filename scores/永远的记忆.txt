@@ -1,0 +1,21 @@
+%永远的记忆.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=35803
+title=永远的记忆
+tag=
+usertag=
+tagroute=
+confidence=0.956
+conf_p10=0.879
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-35803
+%--
+2/4
+subtitle=score
+0 x s1 - s3' s2'. 0 - 0 - s2' q3' q2'. s2'. s3' - q3 q3 q3 s3 s2 1 q0 s,5 s,5 q5. s5 q5 s5 s6 5 - q6 q6 q6 s6 s6 1 q0 s,6
+s,6 q4. s4 ~ q4 q5 2 q0 s3 s2 q1 q1 q1. s1 q1' q6 q0 s1' s1' q1' q6 q1 s1 s1 q5 q3 q0 s3 s2 q1 q1 q1. s1 q1' q6 q0 s1' s1' q1' q6
+q6 s1' s1' q3'. s2' ~ 2' ~ 2' q0 q5 3' s2'. s3' 5 q0 s3 s5 q1' q1' s7 q7 s7 q6 q3 q0 q5 6 s1' s1' 5 q0 s5 s5 q3'. s2' q2'. s1' q3' q2'
+q0 q5 3' s2'. s3' 5 q0 s3 s5 q1' q1' q7. s7 q6 q3 q0 q5 6. s1' s1' 5 q0 s5 s5 s3 s2 s2 s2 2 q2 s2 s2 q3 s2 s1 1 - 1 - -
+1 - 1 q0 q5 1 - 1 q0 q5 6 ~ s6 q1' s1' 5 q0 s5 s5 s3' s2' s2' s2' 2' ~ 2' - q2' s2' s2' q3' s2' s1' q1' - 1' 1' - q2' q1'
+q1' 3' 3' q1' 2' q3' 2' 1' 1' x
+%END

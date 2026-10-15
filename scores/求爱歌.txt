@@ -1,0 +1,18 @@
+%求爱歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47436
+title=求爱歌
+tag=
+usertag=
+tagroute=
+confidence=0.987
+conf_p10=0.986
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47436
+%--
+2/4
+subtitle=score
+5 1 5 ,5 2 2 2 2 2 4 q3 1 2 1 ,5 ,5 4 2 2 q5 q2 1 q2 4 3 5 5 ,5 - 4 q2 5 2 2 1 2 2 5 q2 q2
+q1 q2 2 2 2 2 2 2 2 5 5 ,5. 5 2 q5 q2 1 q2 4 q3 5 5 ,5 - 4 2 1 q2 2 ,5 2 2 2 q2 2 4 3 2 q2 q2
+2 5 5 ,5 4 q2 2 q5 2 1. 2 5 5 ,5
+%END

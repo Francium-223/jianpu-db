@@ -1,0 +1,20 @@
+%没有缘份也枉然.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15454
+title=没有缘份也枉然
+tag=
+usertag=
+tagroute=
+confidence=0.944
+conf_p10=0.826
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15454
+%--
+4/4
+subtitle=score
+1 - - 1 4 1' x x. x. x x x x q1. 1' x' q0 s6 s5 ,6' - q,6' q,6 s1 s2 ~ q2 3 - - q2 q3 4 - 6. s2 s4' 3 - -
+q2 q3 4' - q4' q4 s3 s2' ~ q2' 3 - - q,6 q,7 1. q6 2. s6 s1 ,7 - - q0 s6 s5 ,6' - q6' q6 s1 s2' ~ q2' 3 - - q2 q3 4
+- 6. s2 s4 3 - - q2 q3 4 - q4' q4 s3 s2' ~ q2' 3 - - q,6 q,7 1. q1 ,7 3 ,6 - - - 6 q4 q3 q4. s5 q6 q4 3 s3 s2
+q3 ~ 3 - 0 q2 q1 q2 q6 q1 q2 3 - - - 6 q4 q3 q4. s5 q6 q4 3 s3 s2 q3 ~ 3 - 0 q2 q1 2. q,6 ,7 - - q1 q7 ,6
+- - - 0 0 0 q0 s6 s5 ,6 - - q1 s7 ,6 - - q1 q7 ,6 - - -
+%END

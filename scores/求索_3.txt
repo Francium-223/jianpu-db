@@ -1,0 +1,19 @@
+%求索_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=8312
+title=求索
+tag=
+usertag=
+tagroute=
+confidence=0.964
+conf_p10=0.872
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-8312
+%--
+2/4
+subtitle=score
+3' 3' 5' 3' 7 6 5 0 5 6 6 3' 2'. 6 1' 0 0 2' ,,1' 2' 2' 5'. 3' 2' q1' 6 6 6 5 4' 5' 6 5. 5 0 0 1' 6 2' 3'
+3' 5' 2' 3 q,1' q1' 7 6 6 - 0 s1' q6 2' q3' 6' q6' 2' 2' 1' q2' 2' 2' x 2' 6 6 5 3 5' 6 0 3 0 q6' 2' 2' 3' ,1' q6'
+q5' q5' q3' 2' - 3'. 2' 2' 6' 3' 2' 3' 3' 2'. q1' 2' ,1' 6' 7 5 5 0 6 5 6 1' 2'. q6' 5' 5' - q2. q2' q2' 6 3' 2'. q5' q7' 6'
+5' 6' 1' 2'. 2' 2' - - -
+%END

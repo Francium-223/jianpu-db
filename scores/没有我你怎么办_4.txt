@@ -1,0 +1,21 @@
+%没有我你怎么办_4.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=46475
+title=没有我你怎么办
+tag=
+usertag=
+tagroute=
+confidence=0.989
+conf_p10=0.983
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-46475
+%--
+2/4
+subtitle=score
+x q0 s5 q1 q,7 1. q,7 1 - q0 q5 q1 q2 q3 s4 s3 q3 s2 s1 q1 s1 s5 s7 s1 s5 s1 q7 q6 s3 s3 q4. 5 - 5 - x 1. 0 5 5
+5 6 1 2 2 2 2 2 3 1 1 5 6 0 6 1 6 3 3 2 2 7 6 5 5 0 5 5 2 1 0 0 0 0 - - - - - -
+- - - - - 0 - - - 2 s0 s3 s2 s1 1 0 q0 s1 q6 q1 s2 s3 s2 2 0 q0 s1 s6 s1 s2 s3 q2 2 q0 s1 q7 q1 q7 q1 s1
+q,7. q1 s7 s7 s7 q,6. q,6 s5 s5 s,5 q,4. ,5 q0 s3 s3 q,4 s3 s4 s4 s3 q1 1 q0 s3 s3 q3 q3 s3 q2 s1 2 - - - q6 s5 s5 q5. s5 q1
+q2 q3 s3 s3 s4 q3. s4 q3 s1 q1 q6 q5 s3 s3 s3 s1 s1 s1 q1 s3 s5 5 1 1 1 1 3 3 3 2 2 1 6 6 3 3 2 2 2 x
+3 2 2 2 0 4 3 4 3 6 1. 1 1 - - - - - - - - - - - 1 - - - - - - - - 1
+%END

@@ -1,0 +1,27 @@
+%凤凰山下红牡丹.txt
+% 出处 https://www.jp114.com/jianpu/1217520.html
+title=凤凰山下红牡丹
+tag=
+usertag=
+tagroute=
+confidence=0.976
+conf_p10=0.985
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1217520
+%--
+4/4
+subtitle=score
+2' 1 1 1 q2'. ,2 2'. 1' q1 q1' q,2 q6 q4 q4 q5 2 2. s5 s6 - - 2' x 2' 2' q2' q5 q5' q1' s2' s1' 6 1' 6 6' q1' s6 s1' s2' s3'
+d3 s2' s1. s1' s6 s1' s6 s5 q2 s4 s5 6 s1 s2 s1 s6 5 q5 q5 q0 s6 s5 q4 s5 s6 q5 q4 q3 2. s6 s5 s4 s5 s6 s1 s5 s6 s4 s3 2
+- x q5 q5 q5 ~ 5 q6. q1' 2' 2'. q2' q2' q5' q2' q2' s1' q2' q2' s1' 6 q1' q6 q1' s2' s3' s2' s1' q6 s1' s6 q5 q2 q4 q5 6 - s1' s2' s1'
+s6 5 5. q,x q5 q2 q2 q2 q5 q5 5 q6. s1' 2' - q2' q5' q2' s2' s1' q2' s2' s1' 6 q1 s6 s1 s2 s3 s2 s1 s6 s1 s6 s5 q2 s4 s5 6 -
+s1 s2 s1 s6 5 5. q5. x q0 s6 s5 q4 s5 s6 s5 s4 q3 2 2. s6 s5 s4 s5 s6 s1' s6 s5 s4 s3 q2 q2 q2' q2 q2' q2 q2' q2 q2' q6 q2'
+s6 s2' s6 s5 q6 s5 s4 s3 2 q2' s2' q3' s2' s1' s6 s1' 2' 0 s2' q2' s3' q2' s1' s6 s1' 2' 0 q2' q2' q5' s2' s1' q2 q2 q1 q6 q2 s2 s3 q2
+s1 s6 q5. s6 s1 s2 s1 s6 q5 s6 s1 s6 s5 s4 s3 2 0 q2 s2 s3 s2 s1 q6 5. 5. q2 s2 s4 q2 s1 s6 5. 5. q2 s2 s4 s5 s6 q4 q2.
+s4 s2 s1 q6 q5 s6 s1 s6 s5 s4 s3 2 - x s5 s6 s5 s6 s2 s3 s2 s1 s6 s2 s6 s5 s4 s2 s4 s5 s6 s2 s6 s2 s6 s5 s4 s3 2 0
+x q2 s2 s5 s6 s1 s1 s6 5 q5 q5 q2 q5 s6 s1 s1 s6 5 5 1 q6. s1 2 q2 q2 1 s2 s3 s2 s1 6 6 s2 s2 2. 2 0 5 q6 q1
+q2 q2 s1 s2 s1 s6 q5 q5 s4 s2 s4 s5 1' s6 s5 s4 s3 2 q2 q0 s5 s6 s5 s6 s2' s3' s2' s1' s6 s2' s6 s5 s4 s2 s4 s5 s6 s2' s6 s2'
+s6 s5 s4 s3 q2 s5 s6 q2' q0 q2 s2 s5 s6 s1 s1 s6 5 q5 q5 q2 q5 s6 s1 s1 s6 5 5 q1 s6 s1 s2 s3 s2 s1 s6 s1 s6 s5 q2 q5
+6 s1 s2 s1 s6 5 q5 q0
+%END

@@ -1,0 +1,19 @@
+%永远是朋友_4.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=38935
+title=永远是朋友
+tag=
+usertag=
+tagroute=
+confidence=0.975
+conf_p10=0.954
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-38935
+%--
+4/4
+subtitle=score
+1 - - x x x 5. 5 6 q6 q5 5 - - 5. q2 q3 q4 q3 2 2 1 - 2. q5 ,5. ,6 2 q2 7 6 - 2 ,5 6 ,7 6 ,5 - -
+3 3 2 1. q,6' 3 ,6 3 2 1 2 2 5 5. q,5 6' q5 q6' q2' q1' ,5 1 q1 q,6' 1. q3 2 2 2 q,5 ,6 2 q2 q5 q2 ,7 q6 ,5 ,6 q2
+1 ,5 5 5. 5 6 6' 5 5 - - 5 2 3 4 3 2 2 1 2. 5 ,5 2 2 ,7 ,6 2 2 q5 q2 q3' 2' q1' 2 - - q2 ,5 ,6' ,7
+,6 ,5 -
+%END

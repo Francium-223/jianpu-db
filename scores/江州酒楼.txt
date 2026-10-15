@@ -1,0 +1,19 @@
+%江州酒楼.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=513
+title=江州酒楼
+tag=
+usertag=
+tagroute=
+confidence=0.885
+conf_p10=0.522
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-513
+%--
+2/4
+subtitle=score
+1 qx qx q2 q1 4 q,1' x x' x x x qx - - 6 0 x 1. x 1 x x x q5 q3 q5 q3 2 - q2 q,6 q2 q,6 - 1 - q,7 q,6 q,7
+q2 q3 q2 q,7 q,6 q,6 s7 s6 ,5 ,5 - x 1 q1' q,6' 5 - q6' q5' q5' q3' 2 - q2 q2 q5 q5 3 q2' q,6' 1 - 1 ,6 q2 q2 q3 q,6 ,5. q,3
+,6 q2 q,7 q,6. s5 ,6 q,7 q,6 q,7 q2 q3 q2 q,7 q,6 q,6 s7 q6 ,5 ,5 - q5 q3 q5 q3 2 - q2 q,6 q2 q,6 1 - q,7 q,6 q,7 q2 q3 q2 q,7 q,6
+q,6 s,7 s,6 ,5 ,5 - 1 x q1
+%END

@@ -1,0 +1,19 @@
+%永远的圣地.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=34576
+title=永远的圣地
+tag=
+usertag=
+tagroute=
+confidence=0.907
+conf_p10=0.587
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-34576
+%--
+4/4
+subtitle=score
+q1 - - 6 0 x 1' x x x x x' x'. x' q5' s5' s6' 2' - - q1' s2' s5' s5' d2' s1' q6 s2' 2' - - - q1' s1' s2' q6 - - q5 d5
+s,6 s2' s2' s2' s5' s6 s5 ,5 - - - q1' q6 q2' - q2' s2' s5' q6' q2' - q1' s1' s1' s2' q2' s2'. s5' 6 q1' s1' d1' q1' s7 s6 5. s6 s1' 2'. s1'
+s2' 5' - q5' s5' d6' s1' s6 s1' 2' - d1' s1' s2' q5' q5' s5' d2' s2' s1' s2' q6 q1'. d2' q1' s7 s6 5. d6 s1' 2'. s1' s2' 5' - q5' d5' s6' q1' s6
+s1' 2' - d1' s2' q5' q5' s5' 1. s2' s2' s1' s2' q6 q2' q4'. q5' 6' 5' - - - 4' - 2' - 5' - - -
+%END

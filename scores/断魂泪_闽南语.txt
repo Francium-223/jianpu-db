@@ -1,0 +1,28 @@
+%断魂泪_闽南语.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=25047
+title=断魂泪 闽南语
+tag=
+usertag=
+tagroute=
+confidence=0.964
+conf_p10=0.932
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-25047
+%--
+2/4
+subtitle=score
+1 0 0 1. x' x 1 x x x q0 s3 s3 q6. s3' q3'. q2' 1' q1' q1' q6. s3' q3' q2' 1' q1' q1' q6. s3' q3' q2' 1' q1' q1' q6. s3' q3' q2' 1' 3
+6 - 6 6 5 - 5 - 0 q1' q1' ~ 1' q2'. s1' 7' - 7 q0 s3 s5 6 s1' ~ s1' s6 s5 3 q0 s6 s3 q2 q2 q2 s1 s2 3 s0 q1' ~
+s1' q6. s5 q6' q5 3 q0 s,6 s3 s2 q2 s3 q2' s1 s,6 ,6 q0 s2 s3 q6 q6 s6 q1' s1' q6 q6 q0 s3 s2 q2 q2' s1 q1 s2 ,6 q0 s3 s2 q2 q3
+s5 q5 s6 3 q0 s6 s5 s6 q1' ~ s1' q2'. q1' 6 s0 q3'. s3' 3' q0 s3 q3 q5 d6 q1' s1' q6 6. ~ 6 q0 s1' s1' q2'. q3' q1' s1' s2' q1' q6 s0
+q5 s3 q2 q2 q2 s3 s5 3 q0 s3 s5 q6 q6 q2' s1' s6 d1' d6 s5 q6 q0 s5 s3 q2' s1 s2 q2 s3 s5 3 s0 q1' s1' 2' - 2' q2'. s3' q1' s1'
+s6 6 ~ 6 q2' s1' ~ s1' 2' - 2' s3 s5 q6 q1' q1' 6 6 q0 s6 s1 s2 s2 s3 s2 q1 q2 3 q0 s3 s5 s6 q1' ~ s1' q6' q5 6 q0 s1'
+s1' q1' s2' ~ s2' s1' q6 s5 3 q0 s1' s1' q2' s2'. s3' s2' q2' q2' 3' q0 s5 s6 5 q5 q6 2' q2'. s3' s2' q1' s1' s1' s2' s1' q1' 6 - ,6 - q0
+d6 s1 s2 s3 d2 d1 q2 q3 ~ 3 q0 s3 s5 s6 q6 6 1' q0 d3' d2' q2'. s3'. s5' 3'. s1' s1' s1' s1' s1' s5 6 s0 6 q0 s3 d5 d6 2' d1' d6
+s5 s3 s3 s3 s3 s3 s3 s3 d2 d1 h2 h3 h1 h2 1 s0 d3 d5 s6 s6 q0 s5 d1' d1' q1' s1' d1' d2' q3'. d1' d1' q3'. d1' d1' 6 ~ 6 - q1. s3
+~ q3 q6 q1. s3 ~ q3 q6 q1. s3 ~ q3 q6 q1' s6 s3 d7 s1 q,6 q4. s4 q1' s1' s7 q5. s2 ~ q2 s2 s3 6. s5 s6 6 q0 s3 s5. 6' - s6
+q6. s0 q1' s1' 2' - 2' q2'. s3' q1' s1' s6 6 ~ 6 q2' s1' ~ s1' 2' - 2' s3 s5 q6 q1' q1' 6 6 q0 s6 s1 s2 s2 s3 s2 q1 q2 3 q0
+s3 s5 s6 q1' ~ s1' q6' q5 6 q0 s1' s1' q1' s2'. ~ s2' s1' q6 s5 3 q0 s1' s1' q2' s2'. s3' s2' q2' q2' 3' q0 s5 s6 5 q5 q6 2' q2'. s3' s2'
+q2' q2' s1' s2' q1' 6 3 6 - 6 3 5 - 5 - 0 q5 q4 ~ 4 q6. s5 7 - 7 5 q6'. q6 6 ~ 6' -
+%END

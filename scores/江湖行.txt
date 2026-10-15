@@ -1,0 +1,19 @@
+%江湖行.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=25283
+title=江湖行
+tag=
+usertag=
+tagroute=
+confidence=0.939
+conf_p10=0.644
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-25283
+%--
+4/4
+subtitle=score
+,6 - ,6 1 ,7 ,6 2 1 - 2 q3 2 ,5 0 - - - 2 4 3 2 6 5 4 - 0 5 q4 q1 q2 3 - - - - 3 - - - 3
+2 3 3 2 q,5 ,6 - - - ,6 - 0 0 - 4 2 - - 5 5 - 2 1 - - 2 4 - - 1 2 - - ,7 q1 2 q1 q,7 ,6 q1
+,7 - - - ,6 - ,6 1 ,7 3 2 1 - 2 3 2 ,5 - - - 2 4 2 5 4 - 5 6 5 4 1 2 - - - 3 2 3 ,7 ,5
+,6 - - - 0 - - 0
+%END

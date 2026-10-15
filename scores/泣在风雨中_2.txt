@@ -1,0 +1,23 @@
+%泣在风雨中_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=34064
+title=泣在风雨中
+tag=
+usertag=
+tagroute=
+confidence=0.900
+conf_p10=0.606
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-34064
+%--
+2/4
+subtitle=score
+x q3 q6 q1 q6 q3 q6 q1 q6 q3 q6 q1 q6 q3 q6 q1 q6 3. q1 6 - q5 q3 q2 s1 s2 3 - 6. q1 q6 q1 q2 q5 3 - 3 - 2. q3
+2 1 x q6 q3 q3 q1 q7 q6 q3 q3 q1 q7 x q6 q6 q6 q1 3 - 5. q6 q2 q1 q6 q5 6 - 6 - x q0 q3 q3 q1 3. 6' 3 - ,6.
+s3 q,6 q5 q3. q3 d3 d3 q1 s3 h1. d6 d2 d3 s1 x q6 q1 s2 5' 2 s6 2 s1 - 2. 2 q6 s5 s2 q2 q5 h3 s1 h5 s6 q5 d5. s3 s6 s1
+q1 q6 6 6. s6 s1 2 - s3 s2 s1 s2 q1 q2 q2 q2 2 2 - q6. 1' 6' 2 h1 h1 s1' d5 q6 x q3 6 q1' 6 2 6 qx q,6 q3' s3 s3
+s5' q3 q3 q5' q6 q5 - q3 5' 5' 1' s1' 1' 6. 1 d1. s1 s1' s2' q3 q6. q5' q5 s3 q6 q3' 5' q3 q1' 3 s1 ,6 q1 q1' q1 q1 d3 1' d6 q2'
+d2 2 2. s2 1' 1' h1 s1 d1 d2 q1 s1' q2 s1 s1 q1 q1' 6 6 x 6 6 6 6 6 h2'. s1' 1' 6 5 3 q6 h1' q5 s1 s3' h1' q6 s1 x
+q6 q3 q3 q1 q7 q6 q3 q3 q1 q7 x 3 3' q2' q1' q6 q5 6 - 6 - 6 - 6 q1' q3 q1' 2' - 2'. s3' s5' 6. s5 s6 s5 3. q1 2. s1
+s2 s1 6 5 6 - 6 -
+%END

@@ -1,0 +1,27 @@
+%别让我承受一生的罪.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=30610
+title=别让我承受一生的罪
+tag=
+usertag=
+tagroute=
+confidence=0.949
+conf_p10=0.845
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-30610
+%--
+2/4
+subtitle=score
+- - 1. x' x 1 x q1' s1'. s2' s3'. q3'. s3' q3' s1' s1' s3'. s3'. s5'. s5' q5'. s3' s5' s6' s5' s6' s6' q6' s6' s5' s3'. s3' s2'. s3' q3'. q2' 1' s6 s5 q5'
+s1' s1' ~ q1' s1' s1' q2' s2'. s3' s1' s1' q6 5 q5' ~ 5' - s3 s2 s3 s2 3 s3 s2 s3 s5 q5. s5 s1' s1' s1' s1' ~ 1' s6 s5 s6 s5 q0 s3
+s5 q6 s6 s5 6 s5 q5 s6 q3 s6 s1 s2 s2 s2 s2 q5 s6 s1 2 - 0 q0 s1 s2 s3 s2 s3 s3 q0 s3 s6 s5 s6 s5 q5 s5 s6 s1' s1' s1'
+s1' q1' s6 s5 d5 d3 ~ 3 d5 d5 s1' s1' d1' ~ q1' d6 s6 d5 s5 s6 d5 q0 d5 s6 d1' d1' s1' d6 q1'. d6 d1' s1' s1' s1' s1' d2' ~ 2' - q1'
+s1' s2' s,3. s3'. s3'. s3'. s3' q3' s1' s1' s3'. s3' s5' s5' q0 s3' s5' s6' s5' s6' s6' q6' s6' s5' s3'. s3' s2'. s3' q0 s3' s2' s1' s1' s1' s1' q1' s6 s5 s5' s5'
+s1' s1' q0 s1' s1' d1' q1'. q1' q1' d5'. d1' d1' d2' q1' s1' s2' s3'. d3'. d3'. s3' s3' s1' s1' d3'. s3' s5' d5' q0 d3' d5' d6' d5' d6' s6' q6' d6'. d5' d3'. d3' s2'.
+s3' q0 s3' s2' s1' s1' q1' s6 s5 s5' s5' s1' s1' q0 s6 s7 1' s1' s1' s1' s1' s2' q2' s2' s3' q2' s6 1' - 1' 0 q0 d5 d6 s1 s2 s3 s5 2 -
+s0 q4 s3 s2 s1 s,6 s1 ,7 - s0 q6 s6 s6 s5 s4 s3 q3 5. s0 s4 s3 s2 s3 s4 s5 s6 q7 s5 s5 q5 q,7 s1 s,5 s1 s2 s2 q3 s3 s5 s2
+s0 s1 s,7 d7 d3 s,5 s,6 s1 q,6 s,5 q,6. s5' s5' s4'. s3' s3' s1' d1' d2'. d3' h1' h1' h6 s1' d1 d3 h5 h4 h3 h2 h1 h2 h1 h6 q1 s4 d4 d1' s1' s6
+s1' s1'. s3' s2' 5 q0 s1 s2. s1' s2' 1' 1' q1' s2' s2' s1' s2' 1' 1' q0 s3' s2' s1' s1' s1' s1' q1' s6 s5 s5' s5' s1' s1' q0 s6 s7 1' s1' s1' s1'
+s1' s2' q2' s2' s3' q2' s6 s2' s2' 1' 1' q1' s1' s2' s3'. q3'. s3' q3' s1' s1' s3'. s3' s5' s5' ~ q5'. s3'. s5' s6' s5' s6' s6' q6' s6'. s5' s3'. s3' s2'. s3' q3'
+q2' 1' s6 s5 q5'. s5' q1' s1' s1' q2' s2'. s3' s1' s1' q6 5 - 5' - s4 s3 s1 s,5 s,3 s,4 s,5 s1 ~ 1 -
+%END

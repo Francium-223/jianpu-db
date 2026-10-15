@@ -1,0 +1,19 @@
+%水莲花.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=24895
+title=水莲花
+tag=
+usertag=
+tagroute=
+confidence=0.888
+conf_p10=0.556
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-24895
+%--
+4/4
+subtitle=score
+1 q2 x 0 x x x x' x'. x 1 x x x x' q1 q6 q5 q2 q3 q4 5 - - - 5 - 5 - 6 - 7 - - - x q3. s5 1' q7
+q5 6 - - q5 s4 s3 q4. s5 4 - q2 q1 s1 s2 q3 ~ 3 - - q3. s5 1' q7 q5 6 - - q5 s4 s3 q4. s5 4. q,5 q3. s2 q2 q1 ~
+1 q5 3 - q2 q3 q2 q1 1 - q3 1 s1 s1 q7 q1 q7 q6 6 - q6 q5 5 5' - q4' s5' s4' 6 6 q7 q1' 4' - s2' s3' q2' s2' s1' q7
+1' - q0 q5. q1' - q1' q0 1.
+%END

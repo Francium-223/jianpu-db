@@ -1,0 +1,17 @@
+%沿着街道.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47460
+title=沿着街道
+tag=
+usertag=
+tagroute=
+confidence=0.992
+conf_p10=0.988
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47460
+%--
+2/4
+subtitle=score
+3 5 4 3 6 4 3 q2 q1 ,6 ,7 1 2 1 7 6 3 5 4 3 6 q4 3 2 q1 q,6 q,7 q1 q2 q1 ,7 ,6 1 3 3 5 4 3 2 q4
+3 2 1 1 ,7 ,6 ,5 ,4 ,3 ,6 ,7 1 2 3 3 ,3 ,3 x ,4 ,5 ,6 -
+%END

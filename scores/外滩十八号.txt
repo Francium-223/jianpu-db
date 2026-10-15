@@ -1,0 +1,27 @@
+%外滩十八号.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=37807
+title=外滩十八号
+tag=
+usertag=
+tagroute=
+confidence=0.988
+conf_p10=0.968
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-37807
+%--
+2/4
+subtitle=score
+x q0 s1 s2 s3 q2 s,6 q0 s,6 s3 s3 s2 s2 s2 d2 s,6. q0 s3 s3 s3 s3 s3 s5 q5 s6 s6 ~ 6 q0 s7 s6 s6 s5 s5 s2 s4 q5 s5 ~ s5
+s3 s2 s1 0 0 0 q0 d6 d7 x q0 s2 s2 s2 q5 0 1 - s0 s,7 s,7 s,7 s3 q,7 s,5 s1 q1 s3 s3 s2 s2 s1 q2 s1 s2 s3 s2 q1 0 0
+q0 s3 s3 s3 q5 s2 ~ 2 - q0 s,6 s1 q3 s,7 ~ ,7 - x ,6 - q0 s1 s6 s1 q3 s2 s3 q2. 0 s0 s5 s5 s5 s6 s5 s5 s2 3 - q0
+s,6 s,6 s,6 q1 s,5 q,6 ,5 q0 s1 s,6 q3 s3 q3' 2 q0 s3 s3 s3 q5 s2 ~ s2 s6 s5 s5 s5 q2' s2 x s0 s,7 s,7 s,7 s3 q,7 s,5 ,6 - q0 s1
+s,6 s1 q3 s3 2 - s1 s,6 q3 s,7 ~ ,7 - q0 s,6 s,6 s,6 q1 s,5 s,6' q,5. 0 s0 s2 s2 s2 s3 s2 s2 s1 s1 s3 s1 s2 2 x q0 s1 s2 s3
+q2 s,6 q0 s,6 s3 s3 s2 s2 s2 d2 d1 s,6 s,6 s,7 q0 s3 s3 s3 s3 s3 s5 q5 s6 s6 ~ 6 q0 s7 s6 s6 s5 s5 s2 q4 s5 s5 ~ s5 s3 s2
+s1 x q0 s1 s2 s1 q1 s1 s1 s1 s1 s3 q3 s4 s2 ~ 2 q0 s3 s3 s3 s3 s3 s5 q5 s6 s6 ~ 6 q0 s7 s6 s6 s5 s5 s2 q4 s5 s5 ~
+s5 s3 s2 s1 0 q0 s,6 s3 q3 s2 s2 d2 d1 s,6 s,6 s,7 s1 s1 s1 s3 s3 s2 s2 s1 q2 s1 s2 s3 s2 q1 0 0 x q0 sx sx q0 sx sx q0
+sx sx q0 sx sx q0 sx sx sx qx qx qx qx qx qx q0 sx sx q0 sx sx q0 sx sx q0 sx sx q0 s3 s3 s3 q5 s2 ~ 2 - q0 s1 s1 q3
+s7 ,7 s7 s7 s,5 q0 s,6 s,6 s,6 q1 s,5 q,6 ,5 x q0 s0 s1 s1 s0 s2 s2 s2 s0 s3 s3 s3 s4 s3 s2 s2 q0 s1 s6 s1 q3 s3 q3 2 q0 s3
+s3 s3 q5 s2 ~ 2 - x s0 s1 s,6 s0 s1 s,6 s0 s1 s1 s1 s1 q0 q0 q0 s,6 s1 q3 s,7 ~ ,7 - q0 s,6 s,6 s,6 q1 s,5 ~ ,5 - s0 s2
+s2 s2 s3 s2 s2 s1
+%END

@@ -1,0 +1,28 @@
+%泪痕中无奈.txt
+% 出处 https://www.jianpujia.com/
+title=泪痕中无奈
+tag=
+usertag=
+tagroute=
+confidence=0.969
+conf_p10=0.937
+transcriber=jianpu2-auto
+status=ocr
+source=jianpujia-12052
+%--
+4/4
+subtitle=score
+1 - - - x x x s1' s7' s1' s3 s6 s7' s1' s3 s1' s7' s1' s3 s6 s6 s7' s1' s7 s6 s7 s2 ~ s2 s6 s7 s2 s6 s5 s6 s7 ~ s7 s7 s6
+s5 s6 s5 s6 s1 s6 s5 s6 s1 s6 s5 s6 s1 ~ s1 s5 s4 s2 ,7 ~ s7 s3 q2 3 q,1 q,2 ,3 ,,6 - q,7 q,1 ,,7 ,,5 - - ,,6 - q,6 q,1 q,7
+q,6 ,,7 - - q0 s5 s6 q2 q1 q1 s5 s2 ~ s2 q3. q0 s5 s6 s2 q1 s1 q1 s7 s7 ,6 q0 s4 s4 s4 q,6. q0 s4 s4 q4 s4 s6 s0 s1 s1 s6
+s1 q1 s1 q1 q,6 5 q0 s5 s6 q2 q1 q2 s5 s2 ~ s2 q3. s0 s5 s5 s6 s2 q1. q1 s7 s7 ,6 q0 s3 s3 q4 q,6 q0 s4 s4 q4 s4 s6 s0 s6
+s7 s1 s1 q1 s1 q1 s1 s2 2 - q0 s7 s7 s7 q,7. s2 q3 s3 s0 s3 s2 s1 s2 q1 s1 q1 q,7 ,6 - q0 s4 s4 q4. s4 q4 s3 s2 q0 s3 q3
+q3 q3 q4 q3 q3 q3 q4 3 q0 q3 q3 q3 q3 q1' q1' ~ q1' q3. q3 q1' q1' ~ q1' q3. q5 q4 q4 q3 q2 ~ 2 q0 q2 q2 q2 q2 s7 s7 ~ s7
+q2. q2 s7 s7 ~ s7 q2. q3 q3 q3 s2 s3 ~ 3 s0 s3 s3 s3 q3 s1' s1' ~ s1' q3. q3 s1' s1' ~ s1' q3. q5 q4 q4 s3 s4 ~ 4 s0 s1' s1'
+s1' s1' s6 s6 s6 s1' q1'. q7 q6 s6 q5 s6 6 - - 0 s1' s7' s1' s3 s6 s7' s1' s3 s1' s7' s1' s3 s6 s6 s7' s1' s7 s6 s7 s2 ~ s2 s6 s7
+s2 s6 s5 s6 s7 ~ s7 s7 s6 s5 s6 s5 s6 s1 s6 s5 s6 s1 s6 s5 s6 s1 ~ s1 s5 s4 s2 q3 q3 q3 q3 3' s0 s3 s4 s3 q3 s1' s7 ~
+s7 q3. q3 s1' s7 s7' q1'. 3' s3' q3' d2' d1' 2' s0 q5. d6 d5 d3 d2 d3 d2 d1 d7 q3. d2 d1 s1 s6 s6 s5 2 q0 d2 d3 d5 d6 d5 d6 q1 q2
+q1 q2 q3 q5 q3 q5 q1' q1' 0 q6 0 q6 0 q6 0 q6 0 q6 0 q6 q3'. q3' q1' q1' q1' q1' q1' q1' q7 q6 q5 q6 q5 q5 q3 q3 q5 q3 s2' s1
+s1 s6 s1 s6 s6 s1 s2 s3 ~ 3 3' s3' s2' s2' s3' q2'. s7 ~ q7 q5 6 - - q0 s5 s6 6 - - s0 s3 s3 s3 6 - - s0 s1' s1' s1'
+s1' s6 s6 s6 s1' s1'. q7 s6 s6 q5' s6' 6 - - -
+%END

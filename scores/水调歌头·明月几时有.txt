@@ -1,0 +1,20 @@
+%水调歌头·明月几时有.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=21103
+title=水调歌头·明月几时有
+tag=
+usertag=
+tagroute=
+confidence=0.968
+conf_p10=0.888
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-21103
+%--
+4/4
+subtitle=score
+x q3 5. q1 q2 q3 5 - q6 q5 q6 q3 2. q3' q1' q5 - x q3 q2 q3 q6 5. q6 q1 q2 q3 5 - q6 q5 q6 2. q3' q2. s1 q5 q6 1' -
+x q6 5. q6 q3 q1 q2 q3 5 - q6 q5 q6 q3 2. q3 q1' q5 q6 - x q2 5 - q6 q5 q6 q3 2. q3' q2 q5 q6 1' - x q2 q6 5. q6
+q3 q1 q2 q3 5 - q6 q5 q6 q3 2'. q3' q2 q5 q6 - q6 q5 q6 q5. s6 3 q6 q5 q3 q1 q2. s3 5 q3 q5 q1 q3 2 q3. s5 q6. 5 - -
+q3 q2 q3 q6 5. q6 q3 q1 q2 q3 5 - q6 q5 q6 q3' 2'. q3' q2 q5 q6 - q6 6 q5 q6. q2'. s3' 2 - q3' 2' q3' q2'. q5. s6 - - - -
+6 5 6 3' 2' - 3' 0 2 5 6 - - - 2'. 5 6 - - -
+%END

@@ -1,0 +1,23 @@
+%沧海映雪歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=22123
+title=沧海映雪歌
+tag=
+usertag=
+tagroute=
+confidence=0.994
+conf_p10=0.989
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-22123
+%--
+4/4
+subtitle=score
+q,6 q3 q2 q1 q,7 q1 q2 q3 ,6 - 0 0 q,6 q3 q2 q1 q,7 q1 q2 q3 6 - 0 q1 q2 q3 q2 q5 q3 2 q3 q5 q1' q7 s6 s5 q5 6 q5 q3
+q2 q3 q2 q1 q,7 q1 q2 q3 ,6 - 0 q3 q5 s6 s5 q5 q1' s6 s5 5 q3 q2 q3 q2 q5 q3 1 q,6 q1 q3 q2 q1 q,6 q1 q,6 q5 q2 3 - 0
+q3 q5 q6 q5 q1 q6 5 q3 q2 q3 q2 q5 q3 1 q,6 q3 q2 q3 q5 q2 1 q,7 q1 ,6 - 0 q,6 q1 3 q2 q1 q,7 q1 q2 q3 ,6 - 0 q,6 q1
+3 q2 q1 q,7 q1 q2 q3 6 - - q1 q2 q3 q5 q3 q5 2 q2 q5 q1' q7 q6 q5 6 q5 q3 q2 q2 q3 q5 q1 q1 s7 q1 ,6 - - q3 q5 q6
+q5 q1' s6 s5 5 q3 q2 q3 q2 q5 q3 1 q,6 q1 q3 q2 q1 q,6 q1 q,6 q5 q2 3 - 0 q3 q5 q6 q5 q1 s6 s5 5 q3 q2 q3 q2 q5 q3 1
+q,6 q3 q2 q3 q5 q2 1 q,7 q1 ,6 - 0 q3 q5 q6 q5 q1' s6 s5 5 q3 q2 q3 q2 q5 q3 1 q,6 q1 q3 q2 q1 q,6 q1 q,6 q5 q2 3 - 0
+q3 q5 q6 q5 q1' s6 s5 5 q3 q2 q3 q2 q5 q3 1 q,6 q3 q2 q3 q2 q1 ,7 q1 s,7 s,6 ,6 - 0 q,6 q3 q2 q3 q2 q1 q7 q1 q2'. q3' 6 -
+- -
+%END

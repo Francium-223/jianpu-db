@@ -1,0 +1,22 @@
+%没有钱你会爱我吗.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=36459
+title=没有钱你会爱我吗
+tag=
+usertag=
+tagroute=
+confidence=0.894
+conf_p10=0.600
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-36459
+%--
+4/4
+subtitle=score
+1 - - 0 x x. s0 s3 s6 s7 1'. s7' 1' 5' - 3' s5' q3' s2' s1' s1' s1' s3' s7' 1' s1' s7' s6' 6' 7'. q6' 5' - - - q5 q4 s3 s4 d5
+5 s5 s1' s2' q3'. s6 6 - q0 d6 s1' 7. q7 q7 q7 q2' q5 - - 0 s5 q4 q3 d4 d5 5 s5 s1' d2' q3'. s6 6 - q0 d6 7 - q7 s7 d6
+d7 s7 1' - - 0 x 0 x d5' q5' s5' q5' q4' q3' d3' d3' 3' q1' s1' q2' q3' 6 - d4' q4' s4' q4' q3' q3' d2' d2'. 2' d7 s7 s7 q7 q2' - x
+x. x. x. x. x d5' q5' s5' q5' q4' q3' d3' d3' 3' s1' s1' q2' q3' q4' - d6 q6 s6 q6 q6' q5' d4' d3' q3' d2' d3' s4'. d4' 4' q4'. s3'. q3' d1' qx x
+x x x. - s0 s2 s3 s5 s6' s2' s1' 3' q3'. s3'. 3'. 0 s3' s2' sx' s6 s5 s1' s1' s6 6 s6' s3' s6' s6' q1' s6' q1' s6' q6'. s1' q6'. s5' q5'. s5' s5'
+5' - x. - x - x - s0 s2 s3 s5 s5 s5 s2 s5 s5 s5 q1 s2 s1 3 s5 s3 s2 s1 s7 s1 s7 s6 s5 q6. s3 s6 s3 s1 q1 s7 s6 q6
+q7 q7 s6 5. s2 s5 5 -
+%END

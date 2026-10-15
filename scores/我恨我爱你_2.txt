@@ -1,0 +1,28 @@
+%我恨我爱你_2.txt
+% 出处 https://www.jp114.com/jianpu/1221235.html
+title=我恨我爱你
+tag=
+usertag=
+tagroute=
+confidence=0.995
+conf_p10=0.992
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1221235
+%--
+4/4
+subtitle=score
+s0 s,5 s,6 s,5 s5 s3 s2 s3 ~ 3 s6 s3 s2 s3 ~ s3 s3 s5 s6 s1' s6 s6 s5 s6 s5 s3 s2 3 q0 d5 d6 s3 s2 s1 s2 ~ 2 s6 s5 s3
+s2 ~ s2 s1 s2 s1 q6 q1' s6 s5 s2 s3 2 s1 q,7. ,6 - ,6 q,5 s,5 s,5 s5 s5 s5 s5 s5 s5 s3 s5 ~ 5 q0 s1 s1 s6 s1' s1' s1' q1' s1'
+s2' s7 q3 s5 ~ q5 s1 s1 6 s6 s5 s5 s3 s1' s1' s6 s6 ~ q6 s2 s3 s4 q4 s4 s4 q4 s5 d2 d3 q2. q0 s1 s2 s5 s5 s5 s3 s6 q5 s3
+5 q0 s1 s1 s6 s1' s1' s1' q1' s2' s3' s7 q3 s5 ~ q5 s1 s1 s6 q6 s6 s6 s5 q5 s1' s1' s6 s6 q0 s5 s6 s1' q1' s1' q1'. s5 q6 q1' s5' q3'
+s2' 2' - 2' q0 q5 s3' s2' s1' s3' 3' s5'. s3' s2'. s3' s0 s3' s5' s6' s1' s6' s6'. s5' q6' q5' s1' s5'. s3'. s3' q0 s5 s3' s1' s1' s2' 2' s5' s5' s6' s2'
+s0 s5 s1' s1' s2' s2' s1' s1' s5' q1' s1' 2' q0 q5 s3' s2' s1' s3' 3' s5' s3' s2' s3' s0 s3' s5' s6' s1' s6' s6' s5' q6' q5' s1' s5'. s3' s3' q0 s5 s3'
+s2' s1' s2' 2' s5' s5' s6' s3' s0 s5 s6 s1' s2' s2' s2' s1' s3'. s3' q5' 5' q5 q1' 1' - 1' 0 q1' q1' q2' q3' 5 s0 s3 s6 s7 q1' q6 q7 q5 3
+- s2 s3 s4 s3 s6 s1' s4' s6' s4' s2' s6 s4 s2 s5 s6 s7 1' s1' s1' 2' - s5 s3 s2 s3 ~ 3 s5 s3 s2 s3 ~ s3 s3 s5 s6 q1' q7 q6
+s3 s5 ~ 5 - s3 s2 s1 s2 ~ 2 s6 s3 s1 s2 s2 s,6 s,7 s1 s2 s3 s2 s1 s2 q,7 s1 q6 q5 q3 q2 q2. s1 1 1 s1 s2 5 q3 q1 q2
+1. 1 q0 q5 s3' s2' s1' s3' q3' q0 s5' s3' s2' s3' s0 s3' s5' s6' s1' s6' s6' s5' q6' s6' s1' s1' s5' s3' s3' q0 s5 s3' s2' s1' s2' 2' s5' s5' s6' s2'
+s0 s5 s6 s1' s2' s2' s2' s1' q6' q5' q1' 2' q0 q5 s3' s2' s1' s3' 3' s5' s3' s2' s3' s0 s3' s5' s6' s1' s6' s6' s5' q6' s6' s1' s1' s5' s3' s3' q0 s5
+s3' s2' s1' s2' 2' s5' s5' s6'. s3' s0 s5 s1' s1' s2' s2' s1' s1' s3'. s3' q5' 5' q1' q1' 1' - 1' q0 q5 s3' s1' s1'. s3' 3' s5'. s3' s2'. s3' s0 s3' s5'
+s6' s1' s6' s6'. s5' q6' q5' s1' s5' s3' s3' q0 s5 s3' s2' s1' s2' 2' s5' s5' s6' s2' s0 s5 s6 s1' s2' s2' s2' s1' s3' s3' q5' 5' 5 1' 1' - 1' -
+%END

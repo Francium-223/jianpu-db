@@ -1,0 +1,21 @@
+%永远不能忘.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14024
+title=永远不能忘
+tag=
+usertag=
+tagroute=
+confidence=0.961
+conf_p10=0.883
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14024
+%--
+2/4
+subtitle=score
+1 1 x x' x' x 6 6 5 5 6 6 1 1 6 2 q1 2 ,1 6 - q1. 0 q2 q2 q1 s6 5 q1 q6 5 3 q,2. 5 3 2 ,1 2 1 -
+x q1 2 2 ,1 ,6 ,5 3 3 2 3 q5 q6 q6 q,5 q,3 5 - q1 1 5 6 6 5 3 q5 5' q3'. s,3' 2 q1' 2 - 3 3 5 2 ,1' ,6' ,5'
+,6 1 2' ,3'. ,5 q,,6' 6 - q1 q2 q2 ,1 6 q5 6 6 q5 3 2. 5 3 2 ,1 2 1 - q,1 2 ,1 6 q5 6 6 2. 5 3 2 ,1 2 1
+- q,2. 1 q,6 ,5 ,6 1 1 2 3. 6 6 5 3 2 3 - - 6. ,1 6 5 3 2 2 q1 q,6. ,1 2 q3 5. q6 q1 6 5 6 q1 1 q6 2
+q1 2 ,1 6 - 1. 2 2 ,1 6 5 1 6 5 3 2. 5 ,,3 2 ,1 2 1 6 6 5 6 1' 1' 6 2' ,,1' 2' ,1' 6 1'. 2' 2' ,1' 6 5
+q1 6 5 3
+%END

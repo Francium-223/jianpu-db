@@ -1,0 +1,22 @@
+%江南秋雨.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=17707
+title=江南秋雨
+tag=
+usertag=
+tagroute=
+confidence=0.973
+conf_p10=0.930
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-17707
+%--
+4/4
+subtitle=score
+q3. s5 6 - q0 s6 s1' q2'. s1' q7 s6 s5 6 - q3. s5 6 - q0 s5 s7 q6. s5 q4 q2 3 - q3. s1 q2 q3 ,6. s5 s6 q2. s6 q2 s5 s4 3
+- q5. s6 q4 q3 s2 s3 5. q2 ,5 s1 s7 ,6 - q,6. s5 q,6 q3 s2 s3 1 q,6 q,7. s2 s5 s6 q,7 ,6 - q,6. s1 q1 q,6 s3 q5 s6 q4. s2 q,5 s5
+s6 q4 s3 s5 2 - q,6. s5 q5 q6 4 q3 s2 s1 q2. s3 q5 q2 1 - q,6. s5 q,6 q3 q1 s2 s3 2 2 q0 s2 s3 q,5. s6 q2 s1 s7 ,6 - -
+- q3. s5 6 - q0 s5 s6 q1. s7 q6 s3 s5 6 - q3. s5 q6 q1 s5 s6 3. q1 q,6 s5 q6 s3 2 - q3 s2 s3 q1 s2 s7 ,6 - q2. s6 q2
+s4 s5 s6 s5 6. q5 s6 s5 q4 q3 s2 s3 5 s4 s3 q2. s7 s6 s1 q,5 ,6 - q3. s5 6 - q0 s6 s1 q2. s1 q7 s6 s5 6 - q5. s6 q1 q6
+s5 s6 3. q1 q,6 s5 q6 s3 2 - q3 s5 s6 q3 s2 s3 ,6 - q5. s3 s6 q5 s2 3 - q5 s6 s7 q6 s3 s3 q2. s3 5 5 q0 s3 s5 q2 s2
+s1 s5 s6 q,7 ,6 - - - 1
+%END

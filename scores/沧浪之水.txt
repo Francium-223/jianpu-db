@@ -1,0 +1,17 @@
+%沧浪之水.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=28354
+title=沧浪之水
+tag=
+usertag=
+tagroute=
+confidence=0.966
+conf_p10=0.896
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-28354
+%--
+2/4
+subtitle=score
+q5 q6 s5 q6. 6 q2' s6 q1'. 5 - q5 q6 s5 q6. 6 q6 q5 s3 q5. 2 - q2 q3 s2 q3. 5 6 q2 s6 2' - q3' q2 q6. q5 q6 3 q5 q3 s2
+q3. 1 - q3 2' s2' 6. q2' s6 5. 6 s6 s5 3. q5 3 s2 s3 1. q5 3 2 q3 1 - 1 - 1' 5' 6 0 6 1 1 6 2 5' 3. q0
+%END
