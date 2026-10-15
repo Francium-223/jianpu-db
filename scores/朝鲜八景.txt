@@ -1,0 +1,18 @@
+%朝鲜八景.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49799
+title=朝鲜八景
+tag=
+usertag=
+tagroute=
+confidence=0.939
+conf_p10=0.592
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49799
+%--
+4/4
+subtitle=score
+1 - - 1' qx q,x q,x x 6 - - 0 5 6 1' 6 6'. q5' q3 3 q0 1 2 q3 q2 q2 1 ,6 q,6 0 q1 q2 q3 5 1' s6 5 6. q5 3
+- q0 q6 q5 q3 q2 1 q,5 ,6 - - - 0 1 q2 1 2 s2 q1 ,6 ,6 0 5 6 5 6 6 5 3 q3 0 1 2 3 5 q6 5 q3 q5 3.
+q5 6 - 0 q,6 1 3 2 1 q,5 ,6 - - -
+%END

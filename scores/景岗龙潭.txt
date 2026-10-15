@@ -1,0 +1,20 @@
+%景岗龙潭.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=32147
+title=景岗龙潭
+tag=
+usertag=
+tagroute=
+confidence=0.884
+conf_p10=0.547
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-32147
+%--
+4/4
+subtitle=score
+- 0 - - - - 6 x 2 - - - 0 q1 q1 2 q2 1 1 0 3 - - - - - 6 - - - 3 5 3 1 - 6 - 0 - -
+6 0 - - - 6 1 2 - 1 2 3 - - 2 3 - - 5 - 3 5' 1' 6 5 6 6 1 3' 2 - - 5 6 3 5 ,5 - 1 -
+,6 - - ,6 - 2 2 2 1 ,6' 0 - - 3 - 2 1 1 ,6' - 1 2 3 6 2 - 3 5 - - - 5 - - - 0 5 5 5 3
+5 6 0 0 0 0 1 1 1 6 2. 2' 0 0 0 ,1 2 3 6 6 x' 0 3 - - - 1 - - 3 5 6 0 - - 1 - 2 - -
+3' - - - 3 - 3 0 x 3 0 0 - 0 - - - 6 0 0 0 1
+%END

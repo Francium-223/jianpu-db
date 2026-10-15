@@ -1,0 +1,19 @@
+%月儿弯弯_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=29651
+title=月儿弯弯
+tag=
+usertag=
+tagroute=
+confidence=0.980
+conf_p10=0.970
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-29651
+%--
+3/4
+subtitle=score
+q,5. s,6 1 1 q2. s3 2 1 q2 q3 5 5 q5 q6 5 3 q2 q3 4 4 q1 q,6 ,5 4 q3 q2 1 q3 q2 q1 q3 2 - q,5 q,6 1 1 q2 q3 2
+1 q2 q3 5 5 q5 q6 5 3 q2 q3 4 4 q1 q,6 ,5 4 q3 q2 3 - q3. s4 2 - q3. s5 6 6 q3. s5 7 7 q3 q5 2'. q1' q2' q3' s6
+s7 q5 ~ 5 q5 q3 3 ,6 q5. s3 3 ,6 q1. s2 3 5 q5. s1' q1' 2'. 2' - - q,5 q,6 1 1 q2. s3 2 1 q2 q3 5 5 q5 q6 5 3 q2.
+s3 4 4 q1 q,6 ,5 4 q3 q2 1 q3 q2 q1 q,6 1 - 1 0 0
+%END

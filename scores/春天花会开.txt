@@ -1,0 +1,26 @@
+%春天花会开.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=21745
+title=春天花会开
+tag=
+usertag=
+tagroute=
+confidence=0.950
+conf_p10=0.789
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-21745
+%--
+4/4
+subtitle=score
+qx - - x x x q1 1' q1 q1' q5 q1 q3 q4 6 q7 q7' s1' s7 q6 q7 q5 1' q1 q1' q5 q1 q3 q4 6 q7 q7' s1' s7 q5 q6 q5 5 q5 6
+5 3 3 - 0 0 q2 1 q1 1 ,6 2 2 - 0 0 x x x q2 q2 q1 q1 q1 q1 q1 q1 1 1 1 1 6 2 - 0 0 q5 5 q5 q5'
+q3' 3 7 - 0 0 q,6 1 1 2 3 2 2 q0 q2 3 sx q,6 1 x q5 x 5 5 5 q5 6 5 3. q7 7 0 1 1 - - 0 q4 q3 q4
+q5 q5 q1 q7 6 q7 5 - - - q4 6 7 7 s1 s7 q6 q7 x 1 1 q1 q1 q1 2 q3 3 - 0 0 q2 q1 q1 q1 1 q,6 q2 2 - 0
+0 5 q5 q5 q5 q5 d5 5 3 7 - 0 0 ,6 1 1 q,6 q1 s2 q2 3 q2 2 - 0 0 q5 5 5 5. 6 5' 3 3 0 d0 q0 ,,2' 1 1
+1 q1 1 q,6 1 2 0 0 0 5 5 5 q5 q5 6 q5 3. q7 7 - ,6 1 1 3 2 2 - 3' x ,6 2 q0 q3 3 x q6 q1 1 - -
+0 0 5 q5 q5 5 q6 q3 3 - - - x 6 6 7 5 5 q6 q3 3 - - - q6 q6 q7 q6 5 q6 q2 2 - - - q6 q6 q7 q6 6
+2 7 - x 7 6 5 - 6 x q3 q6 5 - - - 0 4 4 q5 5 - 2 - - 0 q5 5 q5 6 q5 q3 3 - 0 0 2 q1 q1 q1
+q1 1 q,6 2 - 0 0 q5 q5 q5 q5 q5 6 5 3. 7 7 - ,6 1 1 q2 q3 q2 2 q0 3 3 x ,6 1 - - - 4. x q3 3 x q6
+q1 1 - - - 4. q5 q2 2 2 q1 1 - - - 6. x 3 q3' x ,6 q,6 q1 1 - - 6. x 5 2 2 2 1 1 - - - 1 0 0
+0
+%END

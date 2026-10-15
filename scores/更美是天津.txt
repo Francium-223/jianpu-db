@@ -1,0 +1,19 @@
+%更美是天津.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=16122
+title=更美是天津
+tag=
+usertag=
+tagroute=
+confidence=0.932
+conf_p10=0.766
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-16122
+%--
+2/4
+subtitle=score
+x s1'. s1' s1' s2' s3'. d3'. s3'. s3' s3'. s3' s2'. s3' s5'. s5'. s3' d2'. d3' d2'. d3' q5' s5'. d3' s2' s5'. s3' s2' q1 s2 s1 s2 q3 x q5'. q3' q2' s3 5 q3' s2'
+- s5 s5 s3 q2 q5 s1 s3 s5 s3 s2 s3 s1'. s5 1' 1 q2 q1 q1 - q2. q2 q1 q1 q1 1 - x s1'. d2' s3' s2' q1'. q1' q1 q1 s1 s2 x q1'
+s1' q1 q2. x q1 q2 x s2 q2'. s1' x x q3'. s2' q1' q2' q1' s2' x x q2' q2' s2' s7 s1' s5 s2' s7 q5. x s3 q5 x s1' q2' 3' - q3'. s3' s2'
+q2' q2'. q3'. s2' q1'. q1' q1 s1 s2 5 5 - x s3 q1' q2'. q3' - -
+%END

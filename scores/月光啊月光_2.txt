@@ -1,0 +1,21 @@
+%月光啊月光_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=630
+title=月光啊月光
+tag=
+usertag=
+tagroute=
+confidence=0.920
+conf_p10=0.698
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-630
+%--
+2/4
+subtitle=score
+1 qx qx q2 q1 5 6 7 - x x x x x x x x qx - - 6 3. x x 1 x s5 s6' 1' q7 q6 q5 6 ~ 6 - q5 q6 q3 q2
+3 - q2. s3 q5 q6 s3 s4 s3 s2 1 s7 s6 s7 q2 q3 5. q6 3 2 1 - x q,5 q5 s2. d4 s3 s2 3 - q2 s3 s5 s7 s2 s,7 s,6 q,5 2.
+q,5 q5 q2. s4 s3. d4 s3 s2 1 s,7 q,6 s7 q2 q3 s5 s6 ,5. s2 s0 q3 s,5 q,5 s6 s7 s6 s7 s5 ,6 q2 s0 s3 s5 q,5 s6 s7 s6 s7 s5 ,6 s3
+s5 6. s2 s3 5. s1 s2 3 q,7 s6 s1 2. q5. s6 q2 s2 s4 s3. d4 s3 s2 1 q,7 s6 s7 q2 q3 s5 s6 ,5. s3 s5 6. s2 s3 5. s1 s2 3 q,7
+s6 s1 2. q5. s6 q2 s2 s4 s3. d4 s3 s2 1 q,7 s6 s,7 q2 q3 s5 s6 ,5. q5. s6 q2 s2 s4 s3. d4 s3 s2 1 q,7 s6 s,7 q2 q3 s5 s6 ,5. s5
+s3 5. 5 - 5 - 5 0 x
+%END

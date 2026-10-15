@@ -1,0 +1,25 @@
+%春风满面.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=1422
+title=春风满面
+tag=
+usertag=
+tagroute=
+confidence=0.977
+conf_p10=0.980
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-1422
+%--
+2/4
+subtitle=score
+1 1 x 1 q2 1 3 5 x' qx - - 1 0 6 x. x q0 s1' s2' 3'. q2' 1'. q7 q6. s7 q1' q7 6 - q7 s7 s6 q5 s5 s6 s7 s6 s5 s6
+q7 q2' 1' - 1' - q5 q5 q5' q4' q3 q3 q3 q5 q1' q1' q1' q7 6 - q7 q7 q7 q6 q5 q5 q5 q2 q3 q3 q3' q4' 5 - q5 q5 q5 q4 q3 q3
+q3 q5 q1' q1' q1' q7 6 - q7 q7 q7 q6 q5 q5 q6 q7 q1' q1' q1' q1' 1' q3' q5' 2 - 2 q5' q6' 5 - 5 q3' q5' 2 - 2 q5' q6' 5 -
+5 q0 q1' q6'. s7' q6 q5 4. q6 q5'. s6' q5 q4 3 - q4 q4 q4 q3' q2 q2 q3 q4 q5 q5 q5 q5 5 0 q5 q5 q5' q4' q3 q3 q3 q5 q1' q1' q1'
+q7 6 - q7 q7 q7' q6' q5 q5 q5 q2 q3 q3 q3 q4 5 - q5 q5 q5 q4 q3 q3 q3 q5 q1' q1' q1' q7 6 - q7 q7 q7 q6 q5 q5 q6 q7 q1'
+q1' 1' 1'. x s3 s5 s6 s6 s6 s6 q6 q1' 4. q6 s5 s5 q5 q5 q4 3 - 2. q5 q7 q6 5 q5 s5 s6 q5 s5 s6 5. s3 s5 s6 s6 q6 q6 q1'
+4. q6 s5. d5 s5 s5 q5 q4 3 - q5 s5 s6 q7 s7 s6 q5 s5 s6 q7 q2 1 - 1 - q7 q7 q7 q6 q5 q5 q6 q7 q1 q1 1 1 0 x q5
+q5 q5 q4 3 q3 q5 q1' q1' q1' q7 6 - q7 q7 q7 q6 q5 q5 q5 q2 q3 q3 q3 q4 5 - q5 q5 q5 q4 q3 q3 q3 q5 q1' q1' q1' q7 6 -
+q7 q7 q7 q6 q5 q5 q6 q7 q1' q1' q1' q1' 1' q3' q5' q7 q7 q7 q6 q5 q5 q6 q7 q1' q1' 1' 1'. x s3 s5 s6 s6 s6 s6 q6 q1' 4. q6 s5 s5
+s5 s5 q5 q4 3 - s2 s3 s2 s1 s2 s3 s5 s6 q5 q6 q7 q2' q1' q0 0 1' - 1' - 1' 0
+%END

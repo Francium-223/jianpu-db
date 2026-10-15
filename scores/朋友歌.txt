@@ -1,0 +1,17 @@
+%朋友歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48038
+title=朋友歌
+tag=
+usertag=
+tagroute=
+confidence=0.975
+conf_p10=0.875
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48038
+%--
+2/4
+subtitle=score
+1 q2' q3' 4 3 6 1 - 4 1 q6 q5 q6 q5 6 1 4 3 6 1 - q2 q1 2 3' 6 1' - 6 5 6 1' 6 1' - 1 4 2' 3' 1'
+2' 3' 1' 2 3' 4 q3 6 1' - 1 4 2 3 3' 1 2 3 3' 1 2 3 3' 1 2' 2 3 4 3 6 1
+%END

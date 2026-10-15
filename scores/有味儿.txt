@@ -1,0 +1,22 @@
+%有味儿.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=25401
+title=有味儿
+tag=
+usertag=
+tagroute=
+confidence=0.957
+conf_p10=0.841
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-25401
+%--
+4/4
+subtitle=score
+1' q1' s7 1' 7 x q7 - 0 x q5. x q2 q3 3 - s7 s7 1' q0 s3 q1'. s7 q1'. s7 1' q1'. s3' 4 q4. s3 4 q0 s3' q2'. q1' s1' q2'. s1' 2'
+q2'. s4' 3 q3. s4 3 - q1'. s7 q1'. s7 q1'. s7 q1'. s3' 4' q4'. s4' 4' q2'. s1' q7. s6 q7. s3 q3 q3 ~ 3 q6. s3 q6. s3 6 q0 s3 q1'. s7' q1'. s7
+1' q1'. s3' 4 q4. s3 4 q0 s3' q2'. q1' s1' q2'. s1' 2' q2'. s4' 3 q3. s4 3 - q1'. s7 q1'. s7 q1'. s7 q1'. s3' 4' q4'. s4' 4' q2'. s1' q7. s6 q7. s3
+q3 q3 q0 s3 7 q3. s6 6 - x 5 q5. s5 5' q5'. s5' q4'. s3' q4'. s3' 4' q0 s6 5 q5. s5 6' 6' q5'. q4' s4' q5'. s4' 5' - 5 q5. s5 5' q5'.
+s5' q4'. s3' q4'. s3' 4' 6' q6'. s6' q6'. s6' q6' q6' ~ 6' 7' 6' 5' - 5 q5. s5 5' q5'. s5' q4'. s3' q4'. s3' 4' q0 s6 q5. s5 q5. s5 6' 6' q5'. q4'
+s4' q5'. s4' 5' - 5 q5. s5 q5'. s5' s5' s5' q5' 4' q4'. s4' 4' q4'. s3' q2'. s3' q3'. s3' ~ 3' q3'. s3' 6' - - - 1' q1' s7 q1' s6 7 x - 0
+q5 q7 ~ 7 x q2 q3 ~ 3 - s7 s7 q1' x 0 7 - q2'. s3' ~ 3' 0 0 q0 s3 - - - - - -
+%END

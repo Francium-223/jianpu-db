@@ -1,0 +1,21 @@
+%晴雯歌_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=17093
+title=晴雯歌
+tag=
+usertag=
+tagroute=
+confidence=0.976
+conf_p10=0.950
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-17093
+%--
+4/4
+subtitle=score
+x - q7 q6 q3 q5 6 - - - 3 q6. q6 q5 q3 q2 q3 q5 2 - q2 q3 5 5 0 q3 q2 q3 q5 1 0 q,5 q,6 q,7 q,6 q2 q3 q,5 q,6 q,7
+q2 ,6 - - q,5 q,6 q,7 q,6 q2 q3 q,5 q,6 q2 q3 1 - - - x 6. q6 q5 q3 q2 1. q3 q2 q3 1 0 q3 q5 q2 q3 q6 q1 2 - - q2
+q3 q5 q3 5 - q3 q5 6. q5. s6 q5 q2 3 - - q,7 q2 ,6 ,6 0 q,7 q,6 q,7 q2 ,5 0 q,5 q,6 1. q2 3 q6 q1' 5. q6 q7 q6 s7 s2' q7
+6 - - q2 q3 5 5 0 q3 q2 q3 q5 1 - q,5 q,6 q,7 q,6 q2 q3 q,6 q,5 q,7 q2 ,6 - - q,5 q,6 q,7 q,6 q2 q3 q,5 q,6 q2 q3 1 - -
+- - q7 q6 q3 q5 6 6 - - 3 q6. s1' q6 q5 q3 q2 q3 q5 2 - q2 q3 5 5 0 q3 q2 q3 q5 1 0 q,5 q,6 q,7 q,6 q2 q3 q,5 q,6
+q,7 q2 ,6 - - q,5 q,6 q,7 q,6 q2 q3 q,5 q,6 q2 q3 1 - - - 5 3 q5 q3 5 6 - - - 6 - - - 6 0 0 0
+%END

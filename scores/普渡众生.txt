@@ -1,0 +1,22 @@
+%普渡众生.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=25696
+title=普渡众生
+tag=
+usertag=
+tagroute=
+confidence=0.952
+conf_p10=0.830
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-25696
+%--
+4/4
+subtitle=score
+1 - - - x x x x x x x 1 q1 0 0 2 x x 1 x x q3 q5 q1' q5 q3 q5 q7 q5 6 - - - 1' q1' q2' q7 q6 5 6
+- - - 3 q3 q2 3. q5 q6 q5 6 - - 3 q3 q2 3. q5 q2 q1 ,6 - - 2 q1 s,6 1 2 q5. s6 q5 q3 2 - 0 q2 q1 q,6 q,5 q,4
+q,6 ,5 - - q,6 q1 2. q3 q2 q1 ,6 ,5 - - - 3 q3 q2 3. q5 q6 q5 6 - - 3 q3 q2 3. q5 q2 q1 ,6 - - 2 q1 s,6 1 2
+q5. s6 q5 q3 ~ q3 2. 0 q2 q1 q,6 q,5 q,4 q,6 ,5 - - q,6 q1 2. q3 q4 q5 6 5 - - - 6 q6 q5 6 q1 q3 2. q1 2 - 5 q5
+q6 q4. s3 q2 q5 1 - - - ,6. q1 2 - 5. q3 2 - 3. q5 7 6 5 - - - 3 q3 q2 3. q5 q6 q5 6 - - 3 q3 q2 3. q5
+q1 s2 s1 ,6 - - 2 q1 q,6 1 2 5. q3 2 - 0 q2 q1 q,6 q,5 q,4 q,6 ,5 - - q,6 q1 2. q5 q4 q5 6 5 - - - q3 q5 q1' q5
+q3 q5 q7 q5 6 - - - 1' q1' q2' q7 q6 5 6 - - - 2. q5 q4 q5 6' 5 - - - 5 - - - qx qx. x.
+%END

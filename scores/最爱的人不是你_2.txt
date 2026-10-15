@@ -1,0 +1,21 @@
+%最爱的人不是你_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=36043
+title=最爱的人不是你
+tag=
+usertag=
+tagroute=
+confidence=0.923
+conf_p10=0.642
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-36043
+%--
+4/4
+subtitle=score
+1 - - x. x x' 7'. s1 s1 s1' s1 q6 4 q1'. q1 d5 q,7 1 1 q1'. d1 1' s6 s6 6' s6' s5 5'. 5'. ,6 x 7' 1 s1' q1'. x' 5' 1' 7'. q2
+s1 q1'. d1 2. 2 s2' q2' 2' x s3' 1. s0 s1 s2 2. 2' q2'. d5 1. s0 s1 q2 1 s2 2' q2' x q3 1 q1 2 3 1 q4 q3 q2' q2' q1 q1 q,5.
+q3 q2' q1' q1 q2' qx 2' - 0 0 q2' q2 s2 s2' s2' q5 s1' 1 q1 s2 s3 q4 q3 q2' q2' q1 q1 q5. q3 q2' s1' q1 2 - 0 q0 s5 q5' q2' q2
+q2' ~ q2' q1 q1 q,5 q3' q3'. q5 s5' s2' s2 s2' ~ s2' s1 q1 q,5 q5' q5'. s5 q5 q6 q5' q1' q1 q3 q2 q3 q1' q1'. q3 q3' q2' s2' s1' q1 s3 s2' 2'
+q0 s5 q5' q2 q2 q2' q2' q1 q1 q,5 q3' q3'. s5 s5' s2' s2 s2' s2' s1 q1 q,5 q5' q5'. s5 q5 q6 q5' q1' q1 q3 q2' q3 q5' q1. s6 q1 s1 s1' 1' -
+q3 2 s1' q1' q1' 1' - 0
+%END

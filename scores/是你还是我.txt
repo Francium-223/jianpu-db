@@ -1,0 +1,19 @@
+%是你还是我.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=34539
+title=是你还是我
+tag=
+usertag=
+tagroute=
+confidence=0.909
+conf_p10=0.555
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-34539
+%--
+4/4
+subtitle=score
+5 4 4 3 3 3 q5 q4 3 q3 3 3 q5 5 4 6 4 q3 2 2 q5 q4 3 3 3 q5 4 3 3 q3 q5 6 4 6 q2 1 5 ~ 5 q3
+3 q6 q6 q7 ,1 q1 ~ 1 q,3' 1' 1 - 0 q2 q5 ,,5 6 q6 7 q7 q2' q1' 1 - 1 q,,4 q4 q,5 q5 q1 ,1' 2 q3' 3 x' 3' 2 2 1' 7
+q2 q,3' 2 qx 5 q,x 5 6 - q1 ,,1' q,2' 1 q7 qx' q6 5 - - 1 2' q3 2' q5 q4 q5 6 - - 7 1 q7 q6 6 1 1 1 1 - q1
+q2 q3 q2 q1 q5 q4 q5 6 - qx q1 q2 q1 7 q2 1 q6 q1 ,,2 q3 2 q5 4 q5 6 - - - x ,7 q7 6 q6 q7 1 x' -
+%END

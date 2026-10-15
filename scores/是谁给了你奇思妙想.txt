@@ -1,0 +1,20 @@
+%是谁给了你奇思妙想.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=28626
+title=是谁给了你奇思妙想
+tag=
+usertag=
+tagroute=
+confidence=0.989
+conf_p10=0.978
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-28626
+%--
+2/4
+subtitle=score
+3 q4 5 - q0 q7 q1' 5. ~ 5 0 4 q3 q4 q5 2. ~ 2 3 5 - q0 q,5 q,6 q1 q3 2 q1 1 - 1 0 3 q4 5 - q0 q7 q1' q1'
+5. ~ 5 0 4 q3 q4 q5 2. ~ 2 3 5 - q0 q,5 q,6 q1 q3 2 q1 1 - 1 0 3 q4 5 - q0 q7 5. ~ 5 0 4 q3 q4 q5 2.
+~ 2 3 5 - q5 q4 q3 q2 q3 1. q3 q3 q5 q5 ~ 5 0 q4 3 q1 2 - 2 - q7 q6 q7 5 - q6 q5 q4 q5 3 - q5 q4 q3 q4
+2 - 3 q3 5 q6 5 - 5 0 5. q4 3 q2 q1 ,7. q1 2 1 ~ 1 - 3 q3 5. q5 1' - 1' 0 6 q7 q7 q6 6 q7 5 5 - 0
+,5 3 - q0 q5 q4 q3 q3 1 q2 1 - 1 0 0 3 5 - q0 q5 q4 q3 q3 3 q5 1' - 1' 0
+%END

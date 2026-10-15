@@ -1,0 +1,21 @@
+%月下望故乡.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=16337
+title=月下望故乡
+tag=
+usertag=
+tagroute=
+confidence=0.973
+conf_p10=0.938
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-16337
+%--
+6/8
+subtitle=score
+q1 q3 q6 3. q2 q2 q6 6. q0 q5 q5 7. 3. 3. q6 q1 q3 6 q3 4 q5 4. q3 q2 q3 ,7 q1 ,6. ~ ,6 q,3 q,6 q1 3 q1 3 ~ 3 q,3 q,6
+q1 2 q1 ,6 ~ ,6 q,3 q,6 q1 3 q1 5. ~ 5 s1 s1 q6 q5. s6 q5 q1. s2 3. 3. q1 q3 q5 q5 6. 6. q5 q5 q6 5 s1 s2 3. 3. s6 s6
+q1 q2 3 s1 s3 2. 2. s7 s7 q3 q2 ,7 s2 s1 ,6. ~ ,6 7 q3 6 ~ 6 s3 s3 q7. s6 s5 s7 q7 3 ~ 3 q1 q3 q5 6 s5 s6 4 q3
+2 q3 q2 q3 q5 5 5 q5 q3 q7 q5 6. 6. 6. q6 q1' q1' 7 q1' 6. q5 q5 q6 7 s6 s7 3. 3. q1' q1' q1' 7 q3 6. 6 s3 s3 s1' s1' q7.
+s6 s5 s7 q7 3 3. q1 q3 q5 6 s5 s6 4 q3 2. q3 q2 q3 q5 5 ~ 5 q5 q3 q7 q5 6. 6. q1 q3 q5 6 s5 s6 4 q3 2 q3 q2 q3
+q5 5 5. ~ 5 q5 q3 q7 q5'. 6. ~ 6. ~ 6. 6. 5. 4. q3 q2 q3 q5 5 ~ 5. 5. 3. 6. 6.
+%END

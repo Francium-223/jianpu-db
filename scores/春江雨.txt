@@ -1,0 +1,16 @@
+%春江雨.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15033
+title=春江雨
+tag=
+usertag=
+tagroute=
+confidence=0.983
+conf_p10=0.909
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15033
+%--
+4/4
+subtitle=score
+- q,3 q2 3 1 - - - x q3 q3 -
+%END

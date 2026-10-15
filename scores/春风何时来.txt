@@ -1,0 +1,18 @@
+%春风何时来.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=50540
+title=春风何时来
+tag=
+usertag=
+tagroute=
+confidence=0.680
+conf_p10=0.375
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-50540
+%--
+4/4
+subtitle=score
+0 0 1' - 0 0 0 0 0 0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0 0 1' 0 - - - - 0 - 0 0 - - - -
+- - 0 0 0 3' x' - 0 - 0 0 0 0 1. 0 0 0 - 3' 0 0 0 0 0 0 0 0 0 0 - 0 1' - 0 0 0 0 0 0
+0 0 0 0 0
+%END

@@ -1,0 +1,16 @@
+%春江曲.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=13906
+title=春江曲
+tag=
+usertag=
+tagroute=
+confidence=0.960
+conf_p10=0.781
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-13906
+%--
+3/4
+subtitle=score
+- q1 - 2 q2 q1 1 - - q1' 2 q3 q1 q1 1 q2 q1 q2 q1 q2 q1 q1 1 x q1 1 q1 ~ q1 ~ q1' x 1 q1 1' - - -
+%END

@@ -1,0 +1,20 @@
+%月亮走_我也走_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=40800
+title=月亮走 我也走
+tag=
+usertag=
+tagroute=
+confidence=0.931
+conf_p10=0.695
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-40800
+%--
+2/4
+subtitle=score
+1 - - - x 0 x ,1' 1' x 1' 1 x 5 s6 s1 4 s3 s2 5 q1 s7 s1 s7 s1 2 s4 s3 s2 s4 s2 s4 q5 5 s4 s5. s6 5 1 s2
+s4 s2 s1 s2 s1 s7 q6 q5 0 q2 5 5 6 6 5 5 2 2 1 5 6 6 6 5 5 2 2 1 0 q1 6 ,5 s1 q2 s1 s2 5 s4 q5 s6
+5 5 - q5 6 6 5 5 2 q1 5 6 6 5. 5 2 2 1 0 7 ,1 2 q2. q5 s5. s2 5 5 2 ,1 2 q5 s2 1 1 - 5 q6 s1'. 4.
+s2 q5 q1' s5 s,,1' s5 s1' q4 2 q5 q1 s1 s7 s1 q4 3 2 0 1' q2' 0 1' q1' 0 5 1' 2' 2' q1' s1' 0 ,x 5 1' 1' 6 5 q5 q5' 4.
+q3 2 4 2 ,1 s2 q1 s7 s6 ,5 - q4. - s1' q6 5 - 5 0
+%END

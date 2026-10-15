@@ -1,0 +1,19 @@
+%昭君.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=33676
+title=昭君
+tag=
+usertag=
+tagroute=
+confidence=0.907
+conf_p10=0.597
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-33676
+%--
+2/4
+subtitle=score
+x' 1'. 4. ,1' ,x' q1' x ,x' 1' x' 1 s1' 0 6' 3' q2 q2' 3 s1 4' q,7'. q3' q3' q2' q2 q,1' q,1' q,1' 1 ,6 1. q,6 1. q,6 ,7 ,5 2 ,6 q3' q3'
+s4' 1 q3 q,6 q3' q3 s4. q2 s2' s1' h1 s1 s1' s1' h1 s1 3 ,6 - 1'. q7 5 2 q3 q4 q3 q2 1 - q2 q2 q2 q3 q5 q2 q4'. 3 3 - 1'.
+q7 6 1' q2' s2' q7 q1' q7 6. q,6 s3 s3 q3 q3 q6 q6 q6 q2' 1 q1' q7 7' q7' 7 7' 7' - - q6 q1' q1' q7 6 - q,,5 q,1. 5 - 0 q3
+q3 q3 q3 q3 q4 q3 q3 3 q3 q4 q3 q0 q1' q7' 6 - q6 q1' q6' q5' 5 - q3 q3 q3 q3 q3 q2 q5 2' 7' ,1'. q6' 1' q7' 6 - - 1
+%END

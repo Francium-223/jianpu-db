@@ -1,0 +1,22 @@
+%是我偷偷爱上他.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=21385
+title=是我偷偷爱上他
+tag=
+usertag=
+tagroute=
+confidence=0.976
+conf_p10=0.946
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-21385
+%--
+4/4
+subtitle=score
+,6 1 3. 3 6 q5 q4 3 q2 q1 q,,,7 q,6 5 q4 q3 2 q1 q,7 q,6 q,5 ,5 ,7 2. 2 q5 s,6 s,7 q,1 2 3 4 5 ,6 s7 q1 q2 3 q4 5 6
+4 3 2. ,6. ,6 q4 q3 2 ,6. ,6 3 2 1 ,5. ,5 3 2 1 ,5. ,5 4 3 2 ,6. ,6 4 3 2 ,6. ,6 3 ,2 1 ,5. ,5 x q,6 ,6 q6 q6
+q6 q5 6 ,1 ,6 ,6 3 3 3 2 3 x 6 6 6 6 6 3 5 x q,5 q,5 2 2 2 1 2 x 3 3 6 6 q6 q3 5 5. q5 s4 s4 s3
+2 x 0 3 3 2 0 1 ,7 q,7. s,5 ,6 - - - x q3 q4 q3 q2 3 4 3 2 3 q4 q3 2 s1 s2 s1 q,,7 x 6 6 5 3 q3 1 2
+3 ,6 - 1 1 2 3 2 3 5 2 3. 3 6 6 5 3 q3 1 2 2 3 2 q3 2 1 - q0 q,6 q,6 q6 1 x 5 q,6 q6 5 6. 5 6
+5 0 6 5 6 5 6. x q,6 q,6 3 q3 3 2 3 x x 6 6 6 6 6 3 5 x q,5 ,5 2 2 2 1 2 x 3 q3 6 q6 6 3 5
+x s5 q,4. 4 q3 2 x 0 3 q1. 0 2. - 3 2 0 1 1. 1 ,7 ,5 ,6 - - - ,6 - - - ,6 - - -
+%END

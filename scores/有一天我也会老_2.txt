@@ -1,0 +1,18 @@
+%有一天我也会老_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=9563
+title=有一天我也会老
+tag=
+usertag=
+tagroute=
+confidence=0.991
+conf_p10=0.994
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-9563
+%--
+2/4
+subtitle=score
+2 1 ,6 ,5 - - ,5 - - 5 5 3 6 5 1 2 3 - - 3 - - 2 2 3 6 5 2 3 1 - - 1 - - 7 6 6 5 1
+5 - - 5 - - 6 5 6 4 5 4 2 - - 2 - ,3 q5 7 6 2' 7 q6 5 5 5 - - 6 5 6 7 5 q4 q2 1 - - 1
+-
+%END

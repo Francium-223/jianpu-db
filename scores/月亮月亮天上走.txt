@@ -1,0 +1,20 @@
+%月亮月亮天上走.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15777
+title=月亮月亮天上走
+tag=
+usertag=
+tagroute=
+confidence=0.981
+conf_p10=0.975
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15777
+%--
+2/4
+subtitle=score
+q3 q6 q1 q5 6 - q7 s6 s5 q2 q5 3 - q,6 s3 s5 q3 q,6 s1. d2 s3 s2 2 q3. s5 s7 s6 q5 6 - 6 - q3 ,6. q1 ,6. q,3 q,6 q1 s2
+s1 ,6 - q3 ,6. q1. s,6 ~ ,6 q,3 q,7 s,6 s7 q,5 ,3 - q,3 q,6 q1 q,6 3 - 3 q,6 q1 2 - q,7. s,7 q,7 q,6 ,5. q,3 ,6 - ,6 - q3 q6 q6
+q5 6. q3 5 q6 q7 6 - q5. s6 ~ q6 q3 q4. s4 q4 q3 2. x q4 3 - q3 q,6 q1 s2 s3 2 - 3 q2 q3 1 - q2 2 q1 q,7. s,3 s,5
+s,6 q,7 ,6 - ,6 - q3 q6 q6 q5 6. q3 5 q6 q7 6 - q5. s6 ~ q6 q3 q4. s4 q4 q3 2. x q4 3 - q3 q,6 q1 s2 s3 2 - 3 q2
+q3 1 - q2 2 q1 q,7. s,3 s,5 s,6 q,7 ,6 - ,6 - q2 2 q1 q,7. s,3 s,5 s,6 q,7 ,7 - ,7 - ,6 - ,6 - ,6 - ,6 - ,6 - ,6 0
+%END

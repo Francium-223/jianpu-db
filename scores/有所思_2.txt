@@ -1,0 +1,17 @@
+%有所思_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=622
+title=有所思
+tag=
+usertag=
+tagroute=
+confidence=0.869
+conf_p10=0.569
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-622
+%--
+3/4
+subtitle=score
+1 - - - - x x x qx - - 5 0 x 1. x x ,6 6 - q,6 q,6 6 - x q3 q2 3 ,6 q,7 q,5 ,6 - q3 q2 3 ,6 q,7 q,5 ,6
+- q6 q6 q6' q4' 3 q3 q2 3 - q,7 q2 q3' q4' 3 q2 q,7 ,6 - 1 x q1
+%END

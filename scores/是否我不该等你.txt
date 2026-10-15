@@ -1,0 +1,17 @@
+%是否我不该等你.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=19329
+title=是否我不该等你
+tag=
+usertag=
+tagroute=
+confidence=0.978
+conf_p10=0.984
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-19329
+%--
+4/4
+subtitle=score
+5 5 1' 5 5 2' 1' - 3 5 6 5 6 6 q5 q5 1 2 - 5 5 6 5 1' 2' - q6 1' 6 5 3 q2 q3 q3 q5 1 3' 3' 2' -
+3' q,2' 1' 6 - q1' 6 6 1' 2' 1' q7 6 6 3 5 - 3' 3' 2' - 3' q5' q3' 2' 1' 5 q6 q1' 6 2' 3' 2' 2' 6 1 -
+%END

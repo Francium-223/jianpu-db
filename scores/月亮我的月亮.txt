@@ -1,0 +1,18 @@
+%月亮我的月亮.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14139
+title=月亮我的月亮
+tag=
+usertag=
+tagroute=
+confidence=0.989
+conf_p10=0.984
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14139
+%--
+4/4
+subtitle=score
+0 0 q0 q3 5 3 6 7 6 5 5 3 3 3. 3 2 ,6 1 0 0 0 0 1 1 ,6 0 0 ,6 1 ,6 3 3. 0 2 1 ,7 s,7 q6 ,6 0
+q1 q2 q3 q5 q3 q3 3 1 1 1 2 0 3 2 q1 2 q6 1 2 1 1 1. 1 q6 ,6. ,,1 1 q2 ,1 3 3 0 3 5 3 6 6. 7 6 5
+3 3 3 3 2 ,6 1 1. 0 1 3 3 2.
+%END

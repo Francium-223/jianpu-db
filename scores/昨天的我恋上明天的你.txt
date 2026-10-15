@@ -1,0 +1,20 @@
+%昨天的我恋上明天的你.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=22209
+title=昨天的我恋上明天的你
+tag=
+usertag=
+tagroute=
+confidence=0.979
+conf_p10=0.961
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-22209
+%--
+4/4
+subtitle=score
+q3 q4 q5 q5 0 5 q5' 5' q7' q7' q7' q7' q1' 0 q3 q4 q5 q5 5 q0 q1' 1' 5 6 - q0 q1' q7 q6 5 - q5 q5 q6 q7 1 q3 3 4 0
+6 6 - 5 0 0 0 3 q4 q5 q5 0 q5 q5 q5 q7 7 7 q7 q1' q0 3 q3 4 q5 q5 5 q0 q1' 7 5 1' - q1' q7 q6 5 - q2' q2'
+q1' 7 1' 0 3 3 4 q0 4 5 6. 5 6 7 q7 7 q1' 7. 6 q5 5 0 0 0 q4 q3 q4 q5 1' 1 x 4 5 q2' 2' - 2' - 6 7
+2' q2' q1' q0 q7 q1' 2' 3' - 5 0 q2' q2' 1' ,1' q1' q7' 7' 0 1' 5' - - q3' q3' 4' q3' 6 6 6 5 q2' 1' q7 q1' 1' 1' q5 q5 4
+,1' 1' 0 0 3' q2' 1' q2' 1' - - - 1' 0 0 0 q1' q6 6 q0 3' 3' 3' 4' 5 6 6 q0 q2' 1' 1' - - -
+%END

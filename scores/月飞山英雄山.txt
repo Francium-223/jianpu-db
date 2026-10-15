@@ -1,0 +1,18 @@
+%月飞山英雄山.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=13651
+title=月飞山英雄山
+tag=
+usertag=
+tagroute=
+confidence=0.960
+conf_p10=0.898
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-13651
+%--
+4/4
+subtitle=score
+1 - - q4 x q4 x. 1 q1 x 1 x x ,5 q3 q4 5 - q3 q4 q3 q2 - ,7 ,6 3 q2 ,5 - - - ,6 q2 q3 4 - q3 q2 q6 q5
+5 - ,5 ,6 ,7 q3 q2 1 - - - q2 q2 q2 q3 q4 q3 q2 q6 q5 q5 q3 q5 2 - q3 q4 q5 q3 q6 q7 q1' q6 q7 q7 q6 q7 5 q1' q1'
+1' - - q7 s3 s5 6 - 7 2' 1' 7 q6 q7 5 - - - ,5 q3 q4 5 - q3 q4 q3 q2 6 - ,5 ,6 ,7 q3 q2 1 - - -
+%END

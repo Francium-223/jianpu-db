@@ -1,0 +1,22 @@
+%有一种思念不愿多讲.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=24074
+title=有一种思念不愿多讲
+tag=
+usertag=
+tagroute=
+confidence=0.906
+conf_p10=0.639
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-24074
+%--
+4/4
+subtitle=score
+q1 q1 4 x' x. x x x' ,,x x x 1 x 1'. 1. x. 1. x x' x' x 0 0 0 0 0 q0 s5 s6 s7 s5 s6 0 0 q0 s2'. s2' s7 s5 s6
+0 0 q0 s2'. s2' s4'. s1' s2' s2' q0 s1' s2' s4'. s1' s2'. s2' s4'. s1' s2'. s2'. s3'. s5' q6' s0 s6' 5' - x q0 q0 q5 s3'. q3' q1' q1' q2' q1' - q1' s1'.
+q2' 3' - q0 q0 q5 s3'. q3' q1' q1' q2' 1' - q3 q5 d2 s3 q2 s2 2 q0 q0 q5 s3 q3 q2 q1 q2 3 - q5 q6 q3 q5 q2 q3 q2 q2 2 q5
+q6 q1 q2 q1 q2 6 - 3' 3'. 0 6' 5 3 0 0 7 6 5. 6 3 7'. 6 5 6 6 0 5 1' 2'. 3' 1' 1' 2'. 6 5 ~ 5 0 7 6
+5 5'. 5' 3' 2' 2'. 6 ~ 6 0 7 7 7 2' 5. 7 q6 q5 q1' q1' ~ 1' - 0 0 0 q0 q0 q5 q3'. q3' q2' q1' q2' 1' - q1' q1' q2' 3'
+- q0 q0 q5 q3'. q3' q2' q1' q2' 1' - q3'. q5'. s2'. s3' q2' q2' ~ 2' q0 q0 q5 q3'. q3' q1' q1'. q2' 3' - q5' q6'. q3' q5' q2'. q3' q2' q2' ~ 2' q5
+q1' q1' q2' q1'. q2' 6 - q3' 3'. 0 q6' q5 q3 1' - - q0 q0 q5 1' - - 0
+%END

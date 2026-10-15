@@ -1,0 +1,24 @@
+%月亮弯弯照九州_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=51391
+title=月亮弯弯照九州
+tag=
+usertag=
+tagroute=
+confidence=0.985
+conf_p10=0.989
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-51391
+%--
+2/4
+subtitle=score
+s1 d2 s3 s5 s2 s1 d6 s1 ,5. - ,6. - 1. q2 0 0 3 2 5 3 - 2 2 3 4 6 3. - 0 0 0 0 0 0 3 - q2 s3 q4 q1
+7 q6 4 s2 s4 0 s3 s2 s1 s2 1. - 6. 5. 4. - 3. - 3 - q1 s2 q3 q2' 7 s1' s7 6 s1' s6 5 - q1 s2 q3 q2 7 s1 s7 6
+s6 s7 s1 s7 6 - 6 - 0 0 0 0 0 0 q0 q6 q5. s3 5 1 2 3 5 1 2 5 5 1 2 5 5 1 2 5 6 2 3 6 6 2
+3 6 5 1 2 5 5 1 2 5 x - - - - - - - - - - - - - - - - q1 1 q,6 q5. s3 5 q6. s5 q3 q1 s2 s3 2
+- - - 5 1 2 3 5 1 2 3 5 1 2 3 5 1 2 3 5 1 2 3 5 1 2 3 5 1 2 5 5 1 2 5 1 - - - -
+- - - - - - - - - - - - q2 q2 q3 s5 s3 s2 s3 s2 s1 q,6 q,5 s1. d2 s3 s5 s2 s1 q,6 ,5 - q5 s3 s2 1 s2 s3 s1 s2
+3 q1 s3 s2 s3 q1 s2 s1 ,6 q2 q2 q3 s5 s3 s2 s3 s2 s1 q,6 q,5 q1 s1 d6 q5 s5 s3 - q2 s0 s3 s2 s1 q,6 ,5 - x s5 s6 s1 s2
+5 x q2 q2 q3 s5 s3 s2 s3 s2 s1 q,6 q,5 0 0 0 0 0 s2 s1 s6 s1 5. - 1 1 6 5 5 3 - - 2 0 3 2 1 6 5 -
+0 0 x - - - - - - - - 1
+%END

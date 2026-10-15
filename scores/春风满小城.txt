@@ -1,0 +1,20 @@
+%春风满小城.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=25584
+title=春风满小城
+tag=
+usertag=
+tagroute=
+confidence=0.948
+conf_p10=0.802
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-25584
+%--
+4/4
+subtitle=score
+1 - - - x' x' x' x 3. q5 q6 q5 q6 q6 q5 5 - - 5. q6 q3 q2 q3 q5 q3 q2 ~ 2 - - 2. q3 5 6 q6 6 5 5 q5 q6
+3 2 1 - - - x 3. q5 q6 q5 q6 q1 q6 q5 5 - - 5. 6 3 2 3 q5 2 - - - 2. q3 5 q6 q1 6 q6 q1 6 5 5 q5
+q2 3 2 1 - - - 1 - - - q1' q,6' q1' q2' 3 - q2' q3' q,6' q1 ,5 - ,6 1 2 q3 q5' q3' q1' q6 5 - - - 1' q6 5 5' 6'
+5 ,,5' 3' - 2 - 5 q5' q6' 3 2' 1 - - - x 2. q3 5 1' 6 q6 6 5 5 q5 q6 3 2 1 - - - x'. 5'. q,,5' 6' 3 2' 1
+- - - x 5. 6 3 2 1 - - - x
+%END

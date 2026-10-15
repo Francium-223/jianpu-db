@@ -1,0 +1,16 @@
+%月儿歌_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14826
+title=月儿歌
+tag=
+usertag=
+tagroute=
+confidence=0.891
+conf_p10=0.559
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14826
+%--
+4/4
+subtitle=score
+x - - - q1' q2' q1' q2' - - 1' q1 q1 q2 x 1' 2' q1' q2
+%END

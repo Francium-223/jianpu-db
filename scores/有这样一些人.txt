@@ -1,0 +1,21 @@
+%有这样一些人.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=18928
+title=有这样一些人
+tag=
+usertag=
+tagroute=
+confidence=0.949
+conf_p10=0.816
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-18928
+%--
+4/4
+subtitle=score
+x 1. x q2 q,6 q2 q3 3 q1 q2 q2 s6 q2 q3 3 q2 q,6 q2 q1 1 ,7 q,6 q,5 ,6 ,7 q,3 ,3 q,6 ,6 ,5 ,6 ,6 0 q,6 ,1 q,6 1 q2 2 -
+5 2 q4 q4 4 0 4 4 3 2 3 3 - 1 1 - - x 3 - - 6 x 3 0 0 0 6 3 q6 7 7 6 q5 6 q2 q2 q6 6 6
+4 5 6 6 - - - 6 2 4 2 5 q5 q5 q2 q4 5. 3 3 6 3. 2 2 2 1 1 2. 1 - - 0 x 2 0 0 6 x x 6 -
+- q3 3 q6 q7 6 - 3 3 6 7 6 - 5 6 2. q2 q1 q2 3 q5 5 q2 5. q6 3 - - 6 - - q3 q3 q6 q7 6 - 3 q3 6
+q7 6 - 5' 6 2. q2 q1 q2 3 q5 5 q2 2. q5 6 - x x 6 - - - 6 - 0 q2 2 ,6 ,6. q2 3 - - 1 0 2 0 - ,6
+- - - ,6 - - - ,6 0 0 0
+%END

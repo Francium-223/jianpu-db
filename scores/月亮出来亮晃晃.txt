@@ -1,0 +1,18 @@
+%月亮出来亮晃晃.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47667
+title=月亮出来亮晃晃
+tag=
+usertag=
+tagroute=
+confidence=0.976
+conf_p10=0.983
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47667
+%--
+5/4
+subtitle=score
+1 - - 5 4 4 1 x 6 1 3 3. 2 1 3 3 - 0 2 3 3 1 1 6 0 2 3 3. 1 1 6. 1 1. 6 6 0 6 1 3 3.
+q2 1 3 3 - 0 2 q1 q6 6 6. q0 q2 q3 q1 6. 6 - 6 6 - - 0 1 4 1' 3' 3' 3' q1 q1' q3' 3' 3' 4 5 3' 3' 1' 1'
+6 q0 q2' 3' 3'. q1' q1 6. 4 1 3 q1 q6 q6 q0 q1 q3 q3 q3 4 3 q1 q6 6 6. 0 2 3 1 6. 6 -
+%END
