@@ -1,0 +1,26 @@
+%爱到天尽头.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=21813
+title=爱到天尽头
+tag=
+usertag=
+tagroute=
+confidence=0.976
+conf_p10=0.973
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-21813
+%--
+4/4
+subtitle=score
+qx - - 6 6 x x x x 1 x x 2' - - q5 q6 q1' q2' 2' - q3' q5' 1' - - q7 q6 2' - - - q2' 2' q2' 5' 6' 2' - -
+3' q5' 2' q3' q2' q1' q7 q6 5 - - - q6 6 q1' q2'. s2' q2' q5' q0 q1' q7 q6 5 - q1' 1' q6 q5 q6 q5 q3 2 - - - q1' 1' q6 q5
+q6 3' ~ 3' - - - 2' - - - 2' - - 6 2' - - q3' q5' 1'. q7 6 5 6 - - - 2' - - q6 q2' 4 - - 5 6 q6 q2'
+4 q3 q2 2 - - - x q2' 2' q2' 5' 6' 2' - - 3' q5' 2' q3' q2' q1' q7 q6 6 5 - - q6 6 q1' q2'. s2' q2' q5' q0 q1' q7 q6 5
+- q1' q1' ~ q1' q6 q5 q6 q6 q3 2 - - - q2' 2' q2' 5' 6' 2' - - 3' q5' 2' q3' q2' q1' q7 q6 6 5 - - q6 6 q1' q2'. s2' q2'
+q5' q0 q1' q7 q6 5 - q1'. s1' q1' q6 5 q6 q3 2 - - - 2 q1 q1 2 x q0 q3 q3 q2 q2 q1 q1 q,6 q1 q,6 q1 q2 q3 q3 q0 q3 q3
+q2 q2 q1 q1 q,6 q1 q2' ~ q2' 1. ~ 1 q0 q3 q3 q2 q2 q1 q1 q,6 1 q1 s2 s3 q3 q3 q3 q5 q6 q3 q3 q2 q2 q1 q2 q2 s2 s3 q1 ~
+1 - q0 q3 q3 q2 q2 q1 q1 s6 q1 q,6 q1 q2 q3 q3 q0 q3 q3 q2 q2 q1 q1 q,6 q1 q2' ~ q2' 1. ~ 1 q0 q3 q3 q2 q2 q1 q1 q,6 1
+q1 s2 s3 q3 q3 q3 q5 q6 q3 q3 q2 q2 q1 2 s2 s3 q1 1 - 1 q1 q1 2 q6 6 q1 q2. s2 q2 q5 q0 q1 q7 q6 5 - q1. s1 q1 q6
+5 q6 q3 2 - - - q1'. s1' q1' q6 5 q6 q3 2 - - - 5' 5' - 6' 4' - - - 3' - 2' - 2' - - - 2' - - - 2' 0
+x
+%END

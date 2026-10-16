@@ -1,0 +1,20 @@
+%爱情宣言_4.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=9870
+title=爱情宣言
+tag=
+usertag=
+tagroute=
+confidence=0.946
+conf_p10=0.809
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-9870
+%--
+4/4
+subtitle=score
+0 s3 s3' q3' s3' q3' 4' q3' s2 s1 q1' 1' - - 0 s6 s1' s1' s1' 1' s3' s2' q1 2 q5 5 - - 0 s,3' q3 s3' s3' q3' 4' q3' s2' s1' q1 1
+- - 0 s6 q1' s1 q2' 2' 3' 2' q1 1 - - - 0 q0 3 5 5 q6 5 s5 s3 s5 q5 5 - - 0 q0 s1 2 3 4 q3 s2 3 - -
+- q1' s1' s1' 2' 2' q2' q1' q2' 2' x x q0 q4 3. q2 3 - - 0 q0 s6 s1 1 q1 s1 s6 s5 s1 q1 1 - - 0 0 q2 s2 2 q3 s2
+q1 s3 s2 2 2 - - q1 q1 6 q5 q1 q1 1 - - s0 s3 s3 s0 5 2 5 s2 2 x 0 0 0 q0 2 6 6 6 d1 6. s3 q2 6 q6.
+q2 6 2 q5 s3. q2 q2 2. - q0 0 d0 q0 d2'. d2 q,2' q2. q2 q,,2. 2 q2 s1 s2' q2 q,1' q1
+%END

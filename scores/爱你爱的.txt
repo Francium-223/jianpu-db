@@ -1,0 +1,19 @@
+%爱你爱的.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=11478
+title=爱你爱的
+tag=
+usertag=
+tagroute=
+confidence=0.990
+conf_p10=0.989
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-11478
+%--
+4/4
+subtitle=score
+q0 ,1 ,7 q1 q,7 q1 q,7 q1 q2 q2 q1 0 0 0 q0 ,1 ,7 q1 q,7 q1 q,7 q1 q3 5 0 0 0 4 5 q5 s4 s4 q4 q4 q4 s3 s3 q3 q3 q2
+q1 q2 q3 s2 s1 q,6 ,6 q0 s2 q1 q2 q1 q2 q1 q2 q,5 2 1 0 0 0 5 5 5 3 4 3 2 1 0 5 5 5 3 7 6 5 3 q0 2
+,1 2 1 1 q6 1 2 0 3 2 2 1 1 q6 1 2 0 5 q5 5 3 4 3 2 1 0 5 5 5 3 7 6 5 3 q0 3 q2 2 1 2
+2 3 2 1 1 - 1 0 0 0
+%END

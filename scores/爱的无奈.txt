@@ -1,0 +1,19 @@
+%爱的无奈.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15093
+title=爱的无奈
+tag=
+usertag=
+tagroute=
+confidence=0.958
+conf_p10=0.867
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15093
+%--
+4/4
+subtitle=score
+x 3 - q3 q,7 ,,,2 q3 1 - q1 q2 q1 q5 6 - 5 q4 q3 2 - - 1 1 - - - x 3 - q,7 q1 s3 q7. - 5 s5 6 ,1 ,x 1
+1 5 4 3 2 ~ 2 2 - 3 - q,7 q1 1' ,1' - q6 5 6 6 - 2' - - - 2' - - s5 q4'. 3' s2' q3' 3' q7 s2' q3' 7 - 7
+s0 7 7 7 2' q5 6. q2' q7 q7 2' 5 q4'. q3'. 2' 3'. q7 q1' s2' q5' - 2' q1' q5 6 q6 5 4 q4 s3 s2 2 - 2 - - 5 4. 3 s2
+q1 1 - -
+%END

@@ -1,0 +1,22 @@
+%爱我你就狠狠的爱.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=26743
+title=爱我你就狠狠的爱
+tag=
+usertag=
+tagroute=
+confidence=0.957
+conf_p10=0.871
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-26743
+%--
+4/4
+subtitle=score
+q1' q2' q1' q2' q1' 0 2' q1' q3 3 q2'. q3 q3 q3 q2 3 q2 q1 q1 q3 q1 q2 2 0 q2 q2 q2 q5 5 q2 q1 q2 q1 q2 q3 ~ 3 0 q6 q6
+q6 q5 6 q3 q1 q1 q3 q1 q2 ~ 2 - q2 q2 q2 q1 1 q2 q1 q2 q1 q3 s6 ~ ,6 0 q3 q3 q3 q2 3 q2 q1 q1 q3 q1 q2 ~ 2 0
+q2 q2 q2 q5 5 q2 q1 q2 q1 q2 q3 ~ 3 0 q6 q6 q6 q5 6 q3 q1 q1 q3 q1 q2 2 - q5 q5 q5 q3 5 q5 q3 q5 q6 q6 q5 6 q0
+q3 q1' q7 q1' q2' q1' q6 q0 q1' q1' q7 q2' q2' q1' q6 q0 q6 q7 q7 q1' q1' q2' q7 q1' q1' q5 q5 q6 q3 ~ 3 - q4 q4 q4 q5 q4 q2 q0 q3
+~ q3 q6 q1' q1' q7 q6 q0 q1' q7 q6 q1' q1' q7 q6 q6 q7 ~ 7 - - q0 q3 q1' q7 q2' q2' q1' q6 q0 q1' ~ q1' q7 q2' q2' q1' q6 q0 q6
+q7 q7 q1' q1' q2' q7 q7 q1' q1 q5 q6 q3 3 - q4 q4 q4 q5 q4 q2 q0 q3 q3 q6 q7 q1 q7 q6 q0 q1 q7 q6 q7 q1 7 q1 q7 6 - -
+0 q7 1' 0 0 q5 0 1' 0 0 q5 q2 q2 q1 q2'. 0 - - - 6 - - q0 q3 6 - - q1' q2' q1' q2' q1' 2' q1' q3 3 1' q2'.
+%END

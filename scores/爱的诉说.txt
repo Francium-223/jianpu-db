@@ -1,0 +1,24 @@
+%爱的诉说.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15509
+title=爱的诉说
+tag=
+usertag=
+tagroute=
+confidence=0.973
+conf_p10=0.959
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15509
+%--
+6/8
+subtitle=score
+1 - - - ,1' ,1' x x q,6. s1 s4 s3 3. q,5. s,7 s2 s3 ,5. q,4. s1 s2 s1 q,7. s,6 s,5 s,4 ,3 3. q1 q7 q6 q3 q1 q,6 q0 q2 q3 2. s6 s1'
+q1' q2' 7 q5 6. 6. ,6 q,3 ,6 q3 q,7 s,7 s,5 s,6 s,7 ,6 s,6 s,6 q1 q1 q,6 q5 s5 s6 s5 s6 3 3. q6 s6 s6 s2 s3 2 q,5 q5 q3 s3 s2 1
+s,7 s,6 ,5 q,3 q,5 q,6 q,7 ,6 ~ ,6 ,6 q,3 ,6 q3 q,7 s,7 s,5 s,6 s,7 ,6 s,6 s,6 q1 q1 q,6 q5 s5 s6 s5 s6 3. 3. q6 s6 s6 s2 s3 2. q5 s3
+s3 s3 s2 1 s,7 s,6 q2. s3 s2 s3 2 q3 q5 q3 s5 s6 6. ~ 6 q3 q6. s6 s6 s7 q7. s6 s5 s6 6 q3 q6. s6 s6 s7 1'. q7 s7 s6 s5 s6
+3 q3 q6 q6 s2 s3 2 q,5 q5 s3 s3 s3 s2 1 s,7 s,6 q2. s3 s2 s3 q2. s2 s2 s3 q5 s5 s3 s5 s6 6. 6. s,6 s,5 s,6 s7 s1 s2 s3 s6 s5
+s3 s2 s1 q2. s3 s2 s3 6 q5 q6. s1' s1' s2' s3 s6 s1' s7 s3 q5. s6 s5 s3 5. 6 q6. s5 s3 s2 q3. s5 s2 s3 ,6 q,5 s,6 s,7 s1 s2 s3 s6
+q1' q7 q5 6. 6. 6. 6 q3 q6. s6 s6 s7 q7. s6 s5 s6 6 q3 q6. s6 s6 s7 1'. q7 s7 s6 s5 s6 3 q3 q6 q6 s2 s3 2 q5 q5 s3 s3 s3
+s2 1 s,7 s,6 q2. s3 s2 s3 q2. s2 s2 s3 q5 s5 s3 s5 s6 6 ~ 6 s,7 s,6 q2. s3 s2 s3 q2. s2 s2 s3 q5 q5 q3 ~ 3 q0 q5 6 6 ~
+6 ~ 6 ~ 6 q0 0 q0
+%END

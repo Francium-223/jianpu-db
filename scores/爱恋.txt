@@ -1,0 +1,19 @@
+%爱恋.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=24896
+title=爱恋
+tag=
+usertag=
+tagroute=
+confidence=0.903
+conf_p10=0.530
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-24896
+%--
+4/4
+subtitle=score
+1 - - - x x x x x x ,x 1. x 1 x x x qx - - 6 1 x 6 - - q6 q7 1 - - 7 3 - - 2 ,7 - ,7. q,3
+,6 q,5 q,6 ,7. q,3 ,7 q1 q,7 ,6. q,7 1. q1 2 q2 q4 3 - 3. q,3 ,6 q,5 q,6 ,7. q,3 1 q1 q,7 ,6. q,7 1. q1 2 q2 q4 3 - - q3 q3 6.
+q7 1' q1' q6 7. q5 3 q2 q3 4. q3 4 6 7 - - q3 q3 6. q7 1' q7 q6 3'. q2' 7 - 1'. q6 7 q1' q7 6 - 6. q,3 ,6 q,5 q,6 ,7.
+q,3 ,7 q1 q,7 ,6. q,7 1. q1 2 q2 q4 3 - - q3 q3 6. q7 1' q7 q6 3'. q2' 7 - 1'. q6 7 1' 6 - - - qx. x x. x.
+%END

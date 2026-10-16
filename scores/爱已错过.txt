@@ -1,0 +1,19 @@
+%爱已错过.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=11164
+title=爱已错过
+tag=
+usertag=
+tagroute=
+confidence=0.945
+conf_p10=0.872
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-11164
+%--
+4/4
+subtitle=score
+q1 q1 4 q1 - q1 2 4 x x q0 q3 q6 q6 q6 5. q2 3. - q3 q5 q6 q6 s6 s5 q3 7 0 3 6 6 6 5. 2 3. 3 5 6 6 6
+5 3 7 3 5 6 6 6 6 6 5 3. 0 3 5 5 5 4. 7 - - q7 q6 7 3' 7 3' s7 q2' q2' q7 q6 q7 7 0 0 0 q7 s6 q7'.
+3' q7 3' q7 q2' q2' q7 q6 q7 7 0 0 0 q7 q6 7'. 3' 7'. 3' s7 q2' q2' q7 q6 q7 7 0 0 0 q7 q6 7'. q3' 7 3' q7 q2'. q2' q7 q6
+7. 7
+%END

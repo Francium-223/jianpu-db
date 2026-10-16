@@ -1,0 +1,20 @@
+%爱情和香烟.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=13819
+title=爱情和香烟
+tag=
+usertag=
+tagroute=
+confidence=0.968
+conf_p10=0.932
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-13819
+%--
+6/8
+subtitle=score
+x q0 q1 q2 3. ~ q3 q6 q3 2. q7 q7 3 s1 s2 3. q3'. q3'. q3' q3' q2' 2' 3 q3 3 q6 q2 q2 q1 2 q,3 2 q1 q2 q1 q,7 ,6. 0 3 q3
+3 q6 q2 q2 q1 2 q3 2 q2 q5 q6 q5 3. 0 3 q3 q6 q3 q3 q1' q1' q7 6. q7 q6 q5 q5 q6 q7 3. 0 2 q1 2 q6 q3 q3 q6 6. q1'
+q1' q1' q7 q6 q5 6. 6. 0 0 0 0 0 6 q3' 3' q1' q2' q1' q1' 6. q1' q7 q6 q7 q6 q5 3. 0 6 q3' 3' q1' q2' q2'. q3' 2'. q1' q1' q1' q1'
+q1' q6 q2' 3' 3'. 6 q3' 3' q1' q2' q1' q1' 6. q1' q7 q6 q7 q6 q5 3. 3. q1' q6 q6 q1' q6 q6 q2' q2'. q3' 2'. q3' q2' q2' q1' q1' 6. ~ 6. ~
+6. 6. 6. ~ 6. ~ 6. 6. 6. ~ 6. 6. 6. q3 2. q7 q7 q5 3. 5. q3'. q3'. q3' q3' q2' 2' qx q5
+%END

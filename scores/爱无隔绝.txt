@@ -1,0 +1,24 @@
+%爱无隔绝.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=26829
+title=爱无隔绝
+tag=
+usertag=
+tagroute=
+confidence=0.949
+conf_p10=0.842
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-26829
+%--
+4/4
+subtitle=score
+x s1 s1 2. q1 - - s1 s3 s1 2. q1 0 3 - - s3 2 s1 - 0 - - s,6 s1 s3 s1 2 q1 ,7 q,5 q,6 ,6 - 0 s,6 s1 s3 s1 2
+q1 ,7 q,5 q3 3 - 0 s1 s2 s3 s1 6. s5 5 - q5 q5 s5 q2 s3 3 d6 s1 s3 s1 2 q1 ,7 q,5 q,6 ,6 - 0 s6 s,6 s1 s3 s1' s1 2
+q1 ,7 q,5 q,6 ,6 - 0 s,6 s1 s3 s1 2 q1 q,7 q,5 q5 q6 q3 q3 3 - s1 s2 s3 s1 6. s5 5 - q5 q5 s5 s2 s3 s2 1 s,6 s1 s3 s1
+2. q1 ,7 q,5 q,6 ,6 - - q6 q6 q6 q7 q1' q1'. q3' q1' q1' q7' q2' q1' s7 s6 q6 q7 q6 q5' 3 q3 q5 q6 q6 q1' q1' q7 q6 s5 s2 q2 q1 q2
+q6 d5 s3 q3 q3 q5 6 3 q6. s5' 5 q1' q1' s2' s7 s7' s6' s6' q6' q1' q5 q2' q5 3 1' 0 1' 1' 2' 0 0 q3. q3' s2' ~ q2' s1' s1' s3' 3
+- - - - 0 0 - - s6 s,6' s,6 s1 s3 s1 s1' 0 0 1' 2' q0 q0 q3 q1' 2 q,7. s,6' ,6 - - - - 0 q1'. s3' q1' s1' s7' s2' s1' s7
+s6 s6 q7 q6 q5 q3 s,6 s,7 q1 s3 s2 s1 q,7 q2 s3 s5 q1' s7 d6 s5 s3 q3 s3 s5 s3'. - s3'. s2' 2' s3'. d2'. s1' ~ q1' s2' d3' d1'. s1' - q2'.
+q0 s1' q6 - - q2' q1' q1' q6 q3 q6. s5' 5 q1' s7 s6' q6' q5 q6. s6' s6' s5 s5 s3' s3' q2. q0 q3 2 q,7. d6' ,6 - - 5 1 - - - -
+- -
+%END

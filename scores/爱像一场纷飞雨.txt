@@ -1,0 +1,22 @@
+%爱像一场纷飞雨.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=26334
+title=爱像一场纷飞雨
+tag=
+usertag=
+tagroute=
+confidence=0.971
+conf_p10=0.958
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-26334
+%--
+4/4
+subtitle=score
+x. 1. x 1 x q0 q3 q5 q6 6 6 q0 q1 q7 q6 q5 q3 3 q0 q3 q5 q6 q5 q2 2 q0 q2 q5 q6 q5 q3 3 q0 q3 q5 q6 6 6 q1' q1'
+q7 q6 q5 q3 3 q0 q3 q5 q6 q5 q2 2 q1' q1' q7 q6 q1' q6 6 - - 6 - 0 0 3 - q3 q2 q2 q1 2 q3 q3 ~ 3 q0 q3 q6 q6
+q6 q5 q5 q1 q2 q3 ~ 3 - 0 q2 q1 2 - q2 3 q2 q1 q,6 ~ ,6 - q0 q,6 ,7 ,7 q,7 q,6 q,5 q,5 q,3 q,3 ~ ,3 0 0 3 - q3 q2
+q2 q1 5 q6 q3 ~ 3 q0 q3 q6 q6 q6 1' q6 q5 q5 3 - - q2 q1 2 - q2 3 q2 q1 q,6 ~ ,6 - q0 q,6 1 1 q1 q5 q6 q6 5
+- - - 5' 0 q0 q3 q5 q6 6 6 q1' q1' q7 q6 q5 q3 3 q0 q3 q5 q6 q5 q2 2 q0 q2 q5 q6 q5 q3 3 q0 q3 q5 q6 6 6 q1' q1'
+q7 q6 q5 q3 3 q0 q3 q5 q6 q5 q2 2 q1' q1' q7 q6 q1' q6 6 - - 6 - - - s1 s2 1 q1' q1'. q1' q1' q1' q1' q3 q1 q1 s1 s2 -
+- - x. q1' q6 6 q0 q3 q5 q6 q1' q6 6 - - 6 - q0 q3 q5 q6 q1' q1' 0 q0 q3 q5 q6 q1' q6 6 - - 6
+%END

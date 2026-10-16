@@ -1,0 +1,19 @@
+%爱的眼泪.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=32789
+title=爱的眼泪
+tag=
+usertag=
+tagroute=
+confidence=0.984
+conf_p10=0.976
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-32789
+%--
+6/8
+subtitle=score
+q3 0 q3' q3' q3' ~ 3' q5' q5 ,6. 3 q2 3. q0 q3 q6 5. ~ 5 q6 3. 3 q2 1. ,6 q3 2. q2 1 1 s6 ,6. ,6. 3 q2 3. q0 q3 q6 7.
+7'. q6 5. q0 q3 q5 6. 6 q5 6. q6 6 7 q7 ~ 7. 7. q3 q6 q7 1'. q1' q7 q6 7. q7 q6 q5 5'. q6 2 q5 3. q3 q6 q7 1'. ~ q1' q7
+q6 7 q6 ~ q6 q5 q6 6. 6. 0 q3 q6 q7 1. q1 q7 q6 7. q7 q6 q5 q5 q3 q3 q3 q2 q3 1. q1 q7 q6 1. 1. 0 q1 q7 q6 q1 q7 q7
+7. 7. q3' q3' 0 0 q3 1' 0 2'. q1' q7 q7 ~ 7. 7. q3 q6 q7 q1' q7 q7 ~ 7. 7. q1' 7 q5 q7' s6' 6. ~ 6. ~ 6. 6. 0 0 0
+%END

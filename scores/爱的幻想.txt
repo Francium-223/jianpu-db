@@ -1,0 +1,20 @@
+%爱的幻想.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12318
+title=爱的幻想
+tag=
+usertag=
+tagroute=
+confidence=0.948
+conf_p10=0.821
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12318
+%--
+4/4
+subtitle=score
+1 - - - x x x ,x x x. x 2 3 4 1' 1' 7. 6 q5 4 q3 q3 3 7 6 6. 2 3 4. q1' 7 6 7 6 5 - - 2 3 4
+1' 7. q6 q5 4 3 3 3 6 1' 6 1' 7 1' - 2 q3 4 6 1' 7. 6 5 q4 3 3 q3 q7 6 6. s2 s3 4. 7 6 7 q6 5 - 2
+3 4 q6 q1' q7. 6 5 4 3 q3 3 2' 1' 1' q6 q7 1' q6 7 1' - - - 3. 3 3 4 3 3. 2 1 2 - 2. 2 2 q3 q2 1 -
+,6 ,7 1 3 2 5 4 3. q7 6. 3 q5 4 2 ,7 q7 q7 ,7 - - 2 q3 4 q6 1' 7. q7 5 4 q1' ,x 6' 1. 2 3 0 4. q1' 7 6
+7 6 5 - - q2 q3 4 6 7. 6 q5 q4 3 q3 s3 ,2' 1' 1' q6 7 1' q6 1' 7 1' - - -
+%END

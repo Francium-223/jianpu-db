@@ -1,0 +1,23 @@
+%爱喔爱.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=29332
+title=爱喔爱
+tag=
+usertag=
+tagroute=
+confidence=0.909
+conf_p10=0.574
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-29332
+%--
+2/4
+subtitle=score
+x s1 s2 q3 q5 s1 s2 q3 q5 q1 0 qx s1 s2 q3 q5 q3 s1 s2 q3 q5 q3 q1 q2. s2 ~ q2 s1 s2 q3 q5 q3 s1 s2 q3 q5 q1 s7 qx s1
+s2 q3 q5 q3 s1 s2 q0 s5 s1' s1' s1' s1' q1' s1' s1' q1' q7 5 q0 s3 s3 2 0 q0 s3 s1' s1' s1' s1' q1' s1' s1' q1' q7 5 q6 s2 s2 ~ 2
+s1 s2 s3 s5 ~ 5 s1 s2 s3 s5 ~ 5 s1 s2 s0 s5 ~ q5 d5 s6 ~ s6 q3 s2 ~ 2 s1 s2 s3 s5 5 s1 s2 s3 s5 5 s1 s2 s3 s5
+q5 s5 s5 s1' q1' s7 s7' s6 q5 s5 s6 s7 s1' s1' s1' s1' s1' s1' q1' s1' s1' s1' s1' s1' q1' q1' q1' s1' s1' q1' q7 q7 s3 s6 s1' s1' s1' s1' s1' s1'
+s1' s1' q1' s1' s1' s1' s1' q1' s1' s2' q3'. q3' q3'. s3' s2' q2'. q3' s1' s1' q1' q1' s1' ~ s1' q2' s1' ~ s1' q1' s1' ~ s1' q2' s1' ~ s1' 1' - q0 q3'
+s1' q1' q1' s1' ~ s1' q2' s1' ~ s1' q1' s1' ~ s1' q2' s1' ~ s1' 3' s1' s1' s5 s2' q2'. q2'. q3' s1' s1' q1' q6 s1' s1' s1'. q3' s2' s2'. q3'. s5' s5'. q3'.
+q6 s1' s1' s1'. s3' s2' s2' q0 q3' s1' s1' q1' q1' s1' s1' q2' s1' s1' q1' s1' ~ s1' q2' s1' ~ s1' 3' s1' s1' s5 s2' ~ 2' q1' s7 s1' 6 qx - s1'
+s1' s1' s1' q1' 6' -
+%END

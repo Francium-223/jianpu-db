@@ -1,0 +1,18 @@
+%爱的羽毛.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=11908
+title=爱的羽毛
+tag=
+usertag=
+tagroute=
+confidence=0.955
+conf_p10=0.825
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-11908
+%--
+4/4
+subtitle=score
+,6 3 3 2 3 2 3 1 q1 ,6 - q,6 q3 3 2 3 q,,3 q,5 q5 2 3 ~ 3 - - q6. q5 q5 q3. q3 2 q1 2 q2 q2 3 x. ,7. ,7 1
+,7 x ,7 ,5 ,5 ,,6 ,6 - - ,6. 6 6 6 q7 1' 7 7 6'. 7. x 0 7. 7 7' 1' q,7 q7 q6 q,5 6 - ,x 0 0 6. ,6 ,6 3 6 7
+q1' 7 7 6 7 - 7. 7 7' q7 7 q6 ,5 6 - 0 0
+%END

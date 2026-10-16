@@ -1,0 +1,20 @@
+%爱的星光.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15522
+title=爱的星光
+tag=
+usertag=
+tagroute=
+confidence=0.968
+conf_p10=0.898
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15522
+%--
+6/8
+subtitle=score
+x 3 q4 5. 2 q3 4. 6 q5 4 q4 q5 q4 q3 1. 3 q4 5. 2 q3 4. 6 q5 4. q6. q5 q4 q3 1. 1. x q5 q5 q3 7 q6 5 q6 4 3
+q4 2 s1 s1 q1 q2 q3 1 q2 q2 q3 q4 2 4 q4 6 q6 s7 s7 q7 q5 2' q4' 2' 2' q5 q2' q3' q3'. s2' q2' q2' q7 5. q7 q7 s2' 2' q5 3
+q3 q3 q4 s5 s5 q5 q6 q6 q7 q6 s2' s2' q2' q3' 4' q3' q5' q3' q2'. 3'. 5 2' q4' 3'. 3'. 2' q2' 2'. 2'. 2'. s2' q3' q3' q2' 5 s6 s7 q6 4 3
+q4 5 q6 7 q7 7. 2' q2' 2'. 2' ~ 2' s3' s4' q5' q5' q5' 2' 4' q4' 7 q7 6 q7 q3' q5' q3' q2' 1' 3 q4 5 2 q3 4 6 q5 4 ,6. q5
+q4 q3 1 q1 q1 q3 q3 x. 5' 5' 5' ~ 5' 3' q2' 1' 0
+%END

@@ -1,0 +1,21 @@
+%爱的那份痛.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=33602
+title=爱的那份痛
+tag=
+usertag=
+tagroute=
+confidence=0.945
+conf_p10=0.819
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-33602
+%--
+4/4
+subtitle=score
+q3 q,6 q1 q,6 q,6 q,3 q1 q,6 q3 q,6 q1 q,6 q,6 q,3 q1 q,6 q3 q,6 q1 q,6 2 q1 q4 s2 s4 q4 s5 s6 7 q6 5 - 3 - 3 q6 q5 q4 3 -
+q3 q,6 q,6 q,6 2 q1 q4 q2 q3 q6 5 - 7 - - 3 q,6 q,6 q,6 q,6 q,6 q3 q3 q5 3 q1 2 q3 2 - q1 q,6 q1 q2 q3 q3 q3 q,5 ,6 -
+- - q,6 q3 3 s2 s2 s3 s3 3 q5 q6 5 q1 2 - q1 q,6 q2 q3 q3 q3 q,5 ,6 - - - 6 q3 q6 6 q5 q5 3 q2 q,6 q2 q3 2 -
+q5 q5 q5 q6 q5 q5 q1 q2 3 - - - q6 q6 3 q6 6 q5 q3 q2 q,6 q2 q3 2 - q5 q5 q5 q6 q7 6 - - - q3 q5 q6 q5 q6 q3
+q6 q6 q7 6 - - q7 q6 q6 q5 q6 6 - 6 q5 q6 6 - 7 s6 s7 5 - s7 q6 q6 3 q5 q6 q5 q6 q5 d6 d6 q5 q5 d6 q6 d6 q1'
+q6' d6 d6 q7 sx' 6 d6 d6 d6 s3' d6 q5 q5 s7 5 q5 q6 s2' q1' h2' q7 q1' 6 - q7' - s1' - s7 6 5. 1 x 1 x. x. x x
+%END

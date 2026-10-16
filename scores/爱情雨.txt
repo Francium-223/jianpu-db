@@ -1,0 +1,20 @@
+%爱情雨.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=13293
+title=爱情雨
+tag=
+usertag=
+tagroute=
+confidence=0.936
+conf_p10=0.763
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-13293
+%--
+4/4
+subtitle=score
+qx 5 6 1' 2' ~ 2' 5' 3' 2' 3' qx' 5' ~ 5' 3' 5' 5 6 1' q4' 4' 3' 1' 2' q3' 6' q5' 5' - 5' - 0 5 6' 3' 2' - - x
+0 5 6 5. 3 3 2 d,6 2 - - 0 2 2 q3 q2 2 q0 q1 q,6 6 5 - - q0 6 5 6. q5 3. q,1 6 q1 2 q1 ,6 q,6 q,5 q,3 ,5.
+q5 6 q5 q3 q,2 s,6 1 0 3 5 6 6 5 x 6 6 x' ,6 5 6 6 7 ,3 ,5. 3 x ,5 6 6 6 ,5 6 x' s5 3 x 2 1 ,6 q5
+q3 2 q2 5 6 1 1. 5 6 q3 q5 q3 q5 7. 5 6 6 q5 3 2 3 5 6 s3 q2 1 - 2 1 - - 0 1. 1 q2 3 5 q3 5 7.
+5 6. 5 2. 3 5 q6 2 1 - 0 5 6 2' 3 2 s1 - - - x. 2 q3 q5 q6 3 2 1 - - 0 x
+%END

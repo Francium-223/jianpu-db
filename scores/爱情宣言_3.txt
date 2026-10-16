@@ -1,0 +1,19 @@
+%爱情宣言_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=7798
+title=爱情宣言
+tag=
+usertag=
+tagroute=
+confidence=0.980
+conf_p10=0.931
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-7798
+%--
+4/4
+subtitle=score
+0 s3 s3 s3' q3' q3' 4' q3 q2 s1 q1' 1' - - 0 s6 s1 s1' s1' 1' s3' s2' q1' q2 5 5 - - 1 s3' s3' s3 s3 3' 4 q3 s2' s1' q1 1
+- - 0 s6 s1' s1 s2' 2' 3' q2' s1' 1 - - - 0 q0 3 5 5 q6 q5 s5 s3 s5 q5 5 - - 0 q0 s1 2 3 4 s3 s2 3 - -
+- q1' q1' 2' 2' 2' q1' q2' 2' x q0 q4 3. q2 3 - - 0 0 s6 s1 1 q1 s1 s6 q5 s1 q1 1 - - 0 q0 s2 s2 2 q3 q2 s1 s3
+s2 2 2 - - q1 q1 6 s5 q1 q1 1 - - 0 q0 s2 s2 q2 s2 s2. 3 q2 s1 s3 s2 q2 2 2 q0 0 q2. s2. q,,2. q,2 d2' q1.
+%END

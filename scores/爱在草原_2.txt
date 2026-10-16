@@ -1,0 +1,22 @@
+%爱在草原_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=37773
+title=爱在草原
+tag=
+usertag=
+tagroute=
+confidence=0.842
+conf_p10=0.485
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-37773
+%--
+2/4
+subtitle=score
+1 2 q1 4 1 x' 1 q,x x x q,2 q,3 q,5 ,6 0 q,6 ,5 ,6 3 q,5 ,6 ~ ,6 q2 q,6 q,5. q,5. q,6 ,5 ,6 - q2 q2'. 5 3 0 2. q3 q2 q3.
+7. 5. s3 s5 s6 s3 s2 1 2. ~ 2 - ,5. q,6 s3 s2 s1 s2 ,6 0 1 s2 s1 s2 ,6 ~ ,6 s,5 s,3 s,5 s,6 2 q,6 q2 s1 s2 s3 s1 2 ,6
+- q0 q,3 q,6 q1 3 q2 s1 s2 3 - 3 - q0 q,3 q,6 q1 2 q1 s2 s3 q3 ,6. ~ ,6 - 0 s3 s3 q5. s3 s6 s5 6. q3. s7 s6 s7 s5 s6
+6 - 0 q2 q2 3 q6. s6 s5 s6 q5 q,6 s3' d,,2' s,3' s,2 s2 s,2' s3' q,3. q3. 0 q0 q3' q6 q3 q3 3 q2 q1' q,1. q1 q,1'. q1. q,6 q2 2 2 2 q6'
+q0 q0 s,3 d1' d1 h3. h3'. s,3 h3 d3 d3 q,5 q,1' q,1' q6 q,6 q1' q1' q,1' s2 s3 3 q3 q1'. q1. q1 q1' s1'. s1'. s1 s,x'. s2'. s,6 ,6 ,6'. 5 3 3' d5 q,5.
+q,3 q3' q3 s,3 s3 s3 s3 ,6 ,6 5' ,5' ,5' ,6 x' x' q,6 d1 q1' q1 s7 1 1 s1 6. 6. ,6 ,6 1. 1'. 6 3 ,6 - - q6' ,1' ,6 - q6' x.
+q3 ,6 q1 ,6 s2 q3 q,1. q2 q1. q1 qx qx'. s1 s1'. q2 d3 q3 3 s1 5 q5 q1 6 q6 q2 6 s3 - qx. s2 s1 6 q6'
+%END

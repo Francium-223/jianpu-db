@@ -1,0 +1,19 @@
+%爱要说.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=21661
+title=爱要说
+tag=
+usertag=
+tagroute=
+confidence=0.953
+conf_p10=0.833
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-21661
+%--
+4/4
+subtitle=score
+1 - - x 1' x x x' 3' 5 5' 5 2' 7 5 - 0 q5 q1' q1' 7 6 5 q3' 3' - 0 3 q2 s2 q1 1 1' q1 2 3 6 q5' 5' 0
+2' 3 2' 3 2 q,6 2 2' - - - 3 q6 q5' 5 0 q2' q3 q2' 3 2 q3 q5' 5' - - 0 q3 q2 q1 q1 q1 q2 1 q,6 q1' 1' - 0 q0
+3 q2 q1 q1 q1 q2 q1 6 6 6 - 0 q6 q5 6 q3 q3 q6 5. 0 0 q6 q6 q6 6 q6 3'. 2' - - - 0 0 3' 2' 6 0 3' 2' 5
+0 2' q6 q1' 1' q2' 3' 0 3' 2' 6 0 3' 2' 5 0 2' 1' q6 q2' 0 3' 2' - - -
+%END
