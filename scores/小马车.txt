@@ -1,0 +1,19 @@
+%小马车.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=34413
+title=小马车
+tag=
+usertag=
+tagroute=
+confidence=0.963
+conf_p10=0.878
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-34413
+%--
+2/4
+subtitle=score
+1 q,5 s3 s3 s3 q3 q2 q4 q5 q,5 s3 s3 q3 q5 3 3 2 q2 q1 2 q,5 q,6 q1 0 q1 0 1 0 1 6 5 q,5 5 6 5 5 5 q6 1' 6
+x q5. s6 6 5 q3 2 1 1 q,6 q,5 ~ q5 q3 2 q0 5 q6 1 q3 5 q6 5 q5 q6 6 q5 6 6 5 q3 2 q1 q1 q1 q,6 q,5 q5 3 2
+1. 0 5 q,5 q5 3 s,5 q5 3 x s,5 s5 q5 3 x q1 s1 s1 s2 s0 s5 s0 3 0 q,5 q,6 q1 2 q3 5 q6 q1' x 3 0 2 0 1 x q,5
+q,6 q1 0 q1 0 1 0
+%END

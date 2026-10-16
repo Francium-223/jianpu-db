@@ -1,0 +1,23 @@
+%出塞歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=33574
+title=出塞歌
+tag=
+usertag=
+tagroute=
+confidence=0.952
+conf_p10=0.810
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-33574
+%--
+4/4
+subtitle=score
+,5 ,6 - - 0 3 - - 5 q2. s3 2 - 3 s6. s1 ,6 - ,5 ,6 - - 0 0 0 1 0 0 0 0 0 3 - - 5 q2. s3 2 - 3
+s6. s1 ,6 - - ,6 - - 0 3 - - 5 0 0 0 0 1 1 0 1 1 0 0 q2. s3 2 - 1 3 - - ,5 ,6 - - 3 2 - -
+1 2 - - 3 ,6 - - - 0 0 0 0 0 0 0 0 ,6 ,6 q1 q,7 1 q,7 q,6 q,7 q,3 q2 q1 q2 q,7 q1 q,7 q1 q,6 q3 q2 q3 q1 q2 q1
+q2 q,7 q1 q,6 q,7 q,5 ,6 q,6 q,6 q1 q2 q3 q2 2 q0 q,3 q,5 q,1 ,6 - q,6 q,5 q,3 q,5 ,2 q,3 ,5 q,6 q,7 q0 q1 q1 q,7 q,6. s,5 ~ q,5 q,3 ,2 -
+q0 q,3 q,5 q,1 q,6. s,6 ~ q,6 q1 q,7. s,5 ~ q,5 q,2 ,3 - 0 q0 q,6 q,6. s1 ~ q1 q,7 q,6. s,5 ~ q,5 q,3 q,2. s,3 ,2 q0 q,3 q,5 q,1 q,6. s,6 ~ q,6
+q1 q2. s,7 ~ q,7 q,5 ,6 - - 0 ,6 ,6 q1 q,7 1 q,7 q,6 q,7 q,3 q2 q1 q2 q,7 q1 q,7 q1 q,6 q3 q2 q3 q1 q2 q1 q2 q,7 q1 q,7 q,6 q,5 1
+q,7 q,6. s,5 ~ q,5 q,3 q,2 ,2 q0 q,3 q,5 q,1 ,6 q1 q,7. s,5 ~ q,5 q,2 ,3 - q0 q,3 q,5 q,3 1 q,7 q,6. s,5 ~ q,5 q,3 q,2 ,2 q0 q,3 q,5 q,1 1 q2
+q,7. s,5 ~ q,5 q,7 ,6 - - 0
+%END

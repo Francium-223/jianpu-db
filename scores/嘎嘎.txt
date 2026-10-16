@@ -1,0 +1,19 @@
+%嘎嘎.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14588
+title=嘎嘎
+tag=
+usertag=
+tagroute=
+confidence=0.773
+conf_p10=0.410
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14588
+%--
+2/4
+subtitle=score
+1 - - - x 1 0 x x ,x. ,,,1. ,,1'. ,x ,x x q,6 q1 q,6 q,5 q2 q4 q,6 q1 2 2 2 q1 q,6 q2 q1 q,6 q1 q,5 q,6 q,5 q,6 1. q2 1 -
+2 3 qx'. 5. ,7 q,x ,x x' 1 ,7 x x' x' x x' x h1 dx q,x ,x x 1 qx x' x 1' s1 x q1 x x x' x q,5 q,6 3 2 q,6 q1 q3
+q,5 q,6 q3 q,5. d6 1 q,6 q1 q,6 q,5 q2 q4 q2 q1 q,6 q,5 q3 q2 1 - q2 5. 5 - q2 5. 5 - q2 2. 2 - s5 s6 2. 2 x - q2 5.
+5 - q2 1. 1 - q1 2. 2 - q3 q,5 q,6 q3 ,5. q,5
+%END

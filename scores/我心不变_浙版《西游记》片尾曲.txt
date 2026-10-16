@@ -1,0 +1,21 @@
+%我心不变_浙版《西游记》片尾曲.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=35883
+title=我心不变 浙版《西游记》片尾曲
+tag=
+usertag=
+tagroute=
+confidence=0.971
+conf_p10=0.944
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-35883
+%--
+4/4
+subtitle=score
+1 - - - 1. x x 1 x q3 q5 6 3' 2' 7 2 5 3 q,7 ,6 3 2 ,5 ,6 - - q3 q5 6 3' 2' 7 2 5 3 q,7 ,6 3 2 ,5
+,6 - - s,6 s,7 s2 s3 s5 q6 3 - s3 s2 s2 q2 s5 s2 q0 2 q0 s,6 s7 q3 q3 q2 q1 1 s0 s1 s7 s1 q2 2 s7 s,5 ,5 - - s,6 s7
+s1 s2 s3 s5 q6 3 - s3 s3 s2 s1 s2 q5. 2 - q0 s,6 s7 q0 d7 q2 q2 q2. d7 ,5 - - 1 q0 s7 s1 q2 q2 s2 q,7 s,5 s,6 s7 s,6 s,6
+~ ,6 q0 s,6 s7 s1 s3 s5 q6 s1' s1' 1' q7 5. q2 3. q0 s,6 s7 s1 s3 s5 q6 3' q6'. q3' q0 s5 q5 s5 s6 6 q0 s,6 s7 s1 s3 s5 q6 s6
+s1' 1' q7 5 q2 3 ~ 3 s,6 s7 s1 s2 q1 q5 q5. s1 q6 5 s,6 s,7 ,6 ~ ,6 q3 q5 6 3' 2' 7 2 5 3 q1' q7 6 7 2' 5 6 -
+- s,6 s,7 s2 s,6 s,7 ,6 ~ ,6 s,6 s7 s2 q,7 q5 q5. q6 5. 7 6 - - 6 - - -
+%END

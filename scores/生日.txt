@@ -1,0 +1,19 @@
+%生日.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14692
+title=生日
+tag=
+usertag=
+tagroute=
+confidence=0.958
+conf_p10=0.878
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14692
+%--
+2/4
+subtitle=score
+1 - - - 1 1' x x - q3 q4 3 q,6 q,7 q1 q,6 q3 q4 3 q,7 q2 q,7 q3 q4 3 q,7 2 q3 q4 3 - q3 q0 q6 q7 6 q3 q4 q5 q3
+q6 q7 6 q2 q3 q4 q6 q5 q4 6 q3 ,7 q2 ,6 0 0 q6 q1 1 ,7 0 q7 q2 2 0 q3 3 2 0 q4 q3 5 - q5 q0 q3 q5 5 4 0
+q2 q4 4 3 0 q3 2 0 3 - 6 x s6 s1' s3' s5' s4' s3' s4' s3'. s1' s7 q6 q6' q6' q0 q6 q6 x q3 q4 6 - 6 - q6 q0 x q6' q0
+x
+%END

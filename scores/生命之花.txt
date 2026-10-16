@@ -1,0 +1,17 @@
+%生命之花.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=32224
+title=生命之花
+tag=
+usertag=
+tagroute=
+confidence=0.919
+conf_p10=0.677
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-32224
+%--
+2/4
+subtitle=score
+- 4 6 1 x. 2' 6 2' 6 q2' q3' q3' 2' 0 q6 q2' q2' 2' q6 q2' 1' 5 6 0 2' q6 q6 2' q1' q2' 6 2' q1' q6 5 q0 q5 q4 q5 q6
+q6 3' 3' - 3' 0 q5'. s5' q1' q6 2' 0 5'. q5' 1' 6 2' - 2' 0
+%END

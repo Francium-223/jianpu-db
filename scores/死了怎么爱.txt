@@ -1,0 +1,23 @@
+%死了怎么爱.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=29812
+title=死了怎么爱
+tag=
+usertag=
+tagroute=
+confidence=0.958
+conf_p10=0.875
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-29812
+%--
+2/4
+subtitle=score
+1 - - - x x. x q1' s1' s1' 0 q5 3 s2'. s1' s1'. s1' s7 s1' s3 s1' s3 - q0 s,6 s,7 q1 q3 s2 q,7 s,7 q0 s,5 q,6 q1 s1 q1 s2 ,7 -
+q0 s,6 s1 q1 q6 s5 q2 s2 ~ 2 q1 q1 s2 q4 s3 ~ 3 - q0 s2 s3 q1' q1' s7 s6 s4 s4 ~ 4 q3 q3 q3 s2 s1 q3'. d6 q,6 q3 q3 q2
+s2 q1 s2 2 q0 s6 q1 ,7. ~ ,7 s7. s1 ,7 ,6 ~ ,6 q0 s2 s3 q4 s4 s4 q4 s3 s2 3 q0 s1 s2 q3 q3 q3 s2 s1 q2 q,7 q0 s2 s3 s4
+s4 s4 s4 q4 s3 s2 3 q0 s,6 s,6 q6 s6 s6 s4 s6 s1' s1' 7 q6 q7 1. q1' s3 s3 q1' q1' s7 q5 s3 q2'. s5 q6 q5 q5 d1 s2 ~ s2 q3. q0
+s2 s3 q4 s4 s4 q4. s2 q3 s3 s2 q3 s3 s5 s6 q6 s5 s6 q1' s1' 7 q0 s6 s7 q1' s3 s3 q1' q1' q7 s5 s3 q2'. s5 q6 s5 s5 q5 s1 s5 s3
+q3. q0 s2 s3 q4 s4 s4 q4 s3 s2 q3 s3 s2 q3 s3 s5 q6 q5 s6 q7' s1' 7 s7. d1 d7 q6 s6 6 6 - q7'. s7' q1'. s3'. s3' ~ q3' q1' q7'. s3'
+q2'. s5' s7' s1' s1' s2' 3' s3' q3'. 1' 1' s6' - 0 0 - - - q0 s2 d3 7 - 7 0 0 s6 s7 7 - 0 q7. s1' s7 q6. 6 ~ 6 - 6
+7 1' - 0 0 q3' q2' qx'. q7' qx' q7 6 ~ 6 -
+%END

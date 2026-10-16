@@ -1,0 +1,16 @@
+%生蛋歌_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48923
+title=生蛋歌
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.995
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48923
+%--
+3/4
+subtitle=score
+3 5 3 2 2 3 2 ,6 1 3 2 2 1 ,6 ,6 1 ,6 ,5 3 5 5 2 3 2
+%END

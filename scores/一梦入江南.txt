@@ -1,0 +1,19 @@
+%一梦入江南.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=27113
+title=一梦入江南
+tag=
+usertag=
+tagroute=
+confidence=0.994
+conf_p10=0.986
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-27113
+%--
+2/4
+subtitle=score
+q5 q5 q6 q3 5 - s5 q5 s6 q1 s2 s3 2 - q2. s1 s2 s1 s2 s3 q5 s5 s6 6 q,6 q,5 s,6 q,6 s1 s3 s2 2. q2 s2 s3 q5 s5 s6 ,5 q,6
+s1 s,6 1 - q3 s2 s5 q1 s2 s,6 ,5 - q,6 s,5 s,6 q1 s,6 s3 s2 s1 2 s3 s3 s3 s2 3 s,5 s,5 s,5 s,3 ,5 q,5 s,5 s,3 q,5 q3 2 s3 s5 q3
+s2 s3 q,5 s1 s,6 1 - q5 q5 q6 q3 5 - s5 q5 s6 q1 s2 s3 2 - q2. s1 s2 s1 s2 s3 q5 s5 s6 6 q,6 q,5 s,6 q,6 s1 s3 s2 2. q2
+s2 s3 q5 s5 s6 ,5 q,6 s1 s,6 1 - q2 s2 s3 q5 s5 s6 ,5 q,6 s1 d6 1 -
+%END

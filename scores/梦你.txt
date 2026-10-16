@@ -1,0 +1,23 @@
+%梦你.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=29061
+title=梦你
+tag=
+usertag=
+tagroute=
+confidence=0.973
+conf_p10=0.943
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-29061
+%--
+4/4
+subtitle=score
+3 s2 s5 3 2 3 - - - 6. s1' s1' q6 s1' s1' q6 s1' s1' q2'. s1' ~ q1' q7 5 - ,5 s2 s3 s1 s,6 q,5 s0 s,6 s1 s2 q3 s,5 q,6 s,3 q,6
+s2 s3 3 s5 s6 2 s2 s3 s1 d2 d1 ,6 - q,6. s,3 q,6 s3 s1'. 2. q3 6 q5 s3 s2 q2 3. q6 q6 q5 q3 q2 q2 3. q3 s3 s2 q3. s1' 6. q1'
+q1 s,6 s,6 s2 s3 s6 s5 q5 2. s3 s5 s3 s5 q,5 q,6 3. s5 s6 q5 s3 s2 s1 s2 q3 ,6 - 3 s3 s2 s3 s5 q5 6 q5 q3 7 s6 s7 s5 s6
+s6 s6 s5 s6 s5 q3 6 - - - q3 7 s6 s7 s5 s6 s6 s6 s5 s6 s7 s5 q5 q3 ~ 3 - - s2 s3 q2 q2 s3 s5 q5 6 q1' q1 s,6 s,6
+s1 s2 s6 s5 q5 2. s3 s5 s3 s5 q,5 q,6 2. s1 s2 q5 s3 s2 s1 s2 q3 ,6 - s,6 s,7 s1 s3 s3 q1' s1' s1' q1' s4 4 s4 s2 s1' s1' d1' d1'
+d7 s6 s5 s6 s7 s7 s3 q3 q1 s3 q6'. s3' s3'. q2'. 6 5' s6'. q5' s6' 3' - s,2 d3 d4 d5 d6 d7 d1 s2 s3 s4 s5 s6 s7 1' - 0 q3'. s2'. s3'
+s2' 6 - 6 - s1'. s2'. s3' s5 s1' s5 s6 s3 s2 s2 s3 s1 s2 s,6 s1 s,6 ,5 - q,5. s,6 s1 s2 q3 0 0 q5 5 q3 5 6'. 6 - 6 - -
+0
+%END

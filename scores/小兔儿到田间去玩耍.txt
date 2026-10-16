@@ -1,0 +1,17 @@
+%小兔儿到田间去玩耍.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48558
+title=小兔儿到田间去玩耍
+tag=
+usertag=
+tagroute=
+confidence=0.998
+conf_p10=0.998
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48558
+%--
+2/4
+subtitle=score
+q1 q2 3 4 5 5 6 6 5. q0 q1 q2 3 4 5 5 6 6 q1 5. q0 q3 q5 5 5 5. q4 q3 q5 q5 5 5 4 3 2 5 0 3 2 1
+0
+%END

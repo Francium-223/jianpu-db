@@ -1,0 +1,19 @@
+%亲爱的南方妹妹.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=28011
+title=亲爱的南方妹妹
+tag=
+usertag=
+tagroute=
+confidence=0.985
+conf_p10=0.965
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-28011
+%--
+4/4
+subtitle=score
+x 0 5 6 1 2 2 s3 q2 1 6 ,5 q6 q1 1 q4 q,1 q,3 q5 1 - x q0 q5 q6 1 3 3 q0 q5 q6 q1 3 3 0 5 q6 q1 3 q3
+q3 5 3 q2' s1 q1 2 2 q0 q5 q6 1 2 2 q0 q5 q6 q1 2 2 q0 ,5 6 1 2 q2 q3 q2 q1 q0 q6 5 6 q1 1 - x q1 q5 1'
+1 3 2 q1 x 5 6 q1 q5 q6 1 x q1 q5 q1 q5 q1 q3 q2 q1 qx q5 q6 q1 3. s2 q1 q2 q3. s2 1 2 3 - 0 q2 q3 q5 q6. s5
+q3 q5 q6. s5 3 5
+%END

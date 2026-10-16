@@ -1,0 +1,17 @@
+%田发调.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47368
+title=田发调
+tag=
+usertag=
+tagroute=
+confidence=0.984
+conf_p10=0.998
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47368
+%--
+4/4
+subtitle=score
+5 5 1 q1 1 6 5 6 5 3 2 1 5 5 6 1 6 5 1 2 3 2 1 - x qx qx qx x x x x 5 5 1 1 6 5 3 5
+1 q1' s1 s3' q6 q1' 6 5 3 1 2 3 5 1 - x x x x x x x x x x
+%END

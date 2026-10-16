@@ -1,0 +1,17 @@
+%河边情歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48223
+title=河边情歌
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.999
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48223
+%--
+3/4
+subtitle=score
+1 2 3 2 1 5 - 6 1 5 - - 1 6 5 3 2 1 5 1 - 0 1 2 3 5 3 5 6 2 - - 5 5 3 3 2 1 2 3
+2 1 - 0
+%END

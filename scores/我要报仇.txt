@@ -1,0 +1,17 @@
+%我要报仇.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=18367
+title=我要报仇
+tag=
+usertag=
+tagroute=
+confidence=0.967
+conf_p10=0.846
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-18367
+%--
+4/4
+subtitle=score
+q3' q3' 2' 2' q1' q6 5 6 5 q5 q5 q5 q3 0 q6 q6 q5 q6 5 0 5 0 q2' 2' q7 - 5 q5 q3 1' 1' 0 0 5 q5 q3 2' - - -
+5' 5' 3' 0 2' 2' 0 2' 5' - - - 5' - - -
+%END

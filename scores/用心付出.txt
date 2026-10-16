@@ -1,0 +1,20 @@
+%用心付出.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15425
+title=用心付出
+tag=
+usertag=
+tagroute=
+confidence=0.938
+conf_p10=0.706
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15425
+%--
+3/4
+subtitle=score
+qx 1 - - - - 7 6 6 3 x x x x x' x 1 1 x x x 1 x 1' x x 3 3 3 3 q1 ,6. q2 q3 3 - 3 - - 2
+2 q2 q2 2 2. q6 q5 s3 s5 3 - 3 - - 6 3. q6 6 3 - 7. q6 q5 q6 6 - - 5 5 6 7 7. q7 7. q2 q2 q3 6 - -
+6 - - 2. q6 q6 q6 q2 q3 q2 2. 7 7. q7 q5 q6 6 - 4. q3 q3 q3 q2 q3 2 6 7 7. q3 3 - - 2. q6 q6 q6 q2 q3 q2 2.
+7 3. q3 q5 q6 6 - 5 5 6 7 2 2 7. q5 q6 q7 6 - - 2. q6 q6 q6 q2 q3 q2 2. 7 3. q3 q5 q6 6 - 5 5 6 7 2'
+2' 7 5. s6 s7 6 - - 6 - - 5 5 6 7 2 - 2 - - 7 5 - 5 - q6 q7 6 - - 6 - - 6 - - 6 - -
+%END

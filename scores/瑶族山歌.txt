@@ -1,0 +1,17 @@
+%瑶族山歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48039
+title=瑶族山歌
+tag=
+usertag=
+tagroute=
+confidence=0.998
+conf_p10=0.995
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48039
+%--
+3/4
+subtitle=score
+q2 q1 q2 q2 1 6 q2 2 - - q6 2 q2 - q2 6 q1 1 - 5 - q5 q5 5 6 q1 2. q1 q6 2 1 6. 6 1 q1 q6 2. 6 5 1
+5 -
+%END

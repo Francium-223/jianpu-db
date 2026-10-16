@@ -1,0 +1,19 @@
+%是的是的.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=34540
+title=是的是的
+tag=
+usertag=
+tagroute=
+confidence=0.914
+conf_p10=0.689
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-34540
+%--
+4/4
+subtitle=score
+3 5 q3 q3 6' 6' 5' 5 0 - q1 ,1 1 6 3' ,2 2 - ,6 q1 ,1 ,,6 3' 1' 2. ,1 s2 q,1 s,,1 ~ q1 ,5 2 3 3' - - 3 3 5
+,5 6' ,5' 5 0 ,1 1 q1 ,1 6 ,3' 2' 2 ,5 ,6 1 ,1 ,6 s3 s2 q,2 2 q1 s1 q1 ,1 1 - - 6 1 ,,1 ,1 3 1 2 2. ,6 5 -
+- ,6 1 1 q7 0 ,x q1 q2 2. 5 0 - 3 3 6 3 q3'. 2' ,1' x x ,1 ,,6 3 ,2 2 2 3 3 ,1 7 - q,6 q1 2 ,1 1 2 1
+-
+%END

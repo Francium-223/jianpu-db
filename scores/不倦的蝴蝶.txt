@@ -1,0 +1,20 @@
+%不倦的蝴蝶.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12371
+title=不倦的蝴蝶
+tag=
+usertag=
+tagroute=
+confidence=0.840
+conf_p10=0.480
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12371
+%--
+4/4
+subtitle=score
+1 - - - x x. x x q7. 2' q4. 4' 7' 6' ,3 q0 q,3 0 ,3 qx. x. x. 7 - - - 7 7 - 2' - 2' - - 0 q1' ,x x' 0 0
+0 5 6 q7 7 6 q5 1 x 5 5 5 3 5 1' 5 s3 q6 6 7 3 x 7 7 0 1 s1 0 5 0 6 6 0 0 0 x' x 5 5 5
+,6 5 1 x' 2' 3 6 7 q2 2' 7 3 7. 6 0 0 5 6 5 x' 7 3 3 1' 7 q1 3 3' 2. 3 7' 2' 3 0 1' 0 0 5 2 6
+5 - - - 0 4 4 q3 x. x 0 ,1. 0 0 1' 0 0 3' 2' 5. 1' 1 q2 0 1 3 - 2 3 2. - 0 0 2 1 q2 q1 3 3 3
+2 3 0 0 0 0 0 0 0 0 0 0 0 0
+%END
