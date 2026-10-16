@@ -1,0 +1,20 @@
+%清明雨_6.txt
+title=清明雨
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-5570
+% 出处 http://www.fysongs.cn/songku_show.asp?id=5570
+%--
+4/4
+subtitle=score
+q1 - - 6 5 1. x 3 5 - - q6 q3 5 - - 5 2 - - q,6 q,5 3 - - q6 q7 5 - q5 q6 q5 q3 q1 q3 2. q1 ,6. q1 q6
+q2 q1 q7 6 s5 s3 q3 q2 2 - q1 s6 1 - - - 5 - - - q1 q,5 q1 q5 5 - q4 q5 q6 q4 2 - q,6 q2 q2 q4 q4 q2 q6 q2
+5 - - - q1 q,5 q1 q5 5. q1 q6 q4 q5 q6 q4 s0 s5 3 q,6 q2 q2 q4 q4 q2 q2 q,6 2 - - - ,5 - - - 1 q1 q5 q6 q0 q6
+q5 q4 q5 q6 q4 2 - q2 q2 q1 q2 4 1 qx 6. q1' 6 2 5 - - - q1'. s2' q1' q5 q6 6 q1' q1' q5 q6 q4 s3 s2 q1 q0 s6 q1 2
+1 2 - - 2 - - 1. q2 6 q6 q2 5 - - - 5 - - 0 q3 q2' q3 q5 q5 s3 s2 q2 q1 q6. s3 q2' q6 s7 s6 5. q0 q3 q5 q6
+q1. s2 q3 q5 q6 3 s2 s1 2' - q3 q2' q3 q5 q5 q6 q5' q3 q1' q3' 2'. q1 6. q1 q6 q2 q1' q7 6 s5 s3 q3 q2 2 - q1 q6 1 - -
+- 5 - - - x 5 - - - x. x 1 x. x. 2 1 q2 q6 q0 q6 q2 - 2 - - 5 - - - 5 - -
+%END
