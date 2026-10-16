@@ -1,0 +1,20 @@
+%珠江韵.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=32426
+title=珠江韵
+tag=
+usertag=
+tagroute=
+confidence=0.981
+conf_p10=0.977
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-32426
+%--
+3/4
+subtitle=score
+1 5 6 6 6 4 5 3 6 5 4. q3 q2 q1 1 - - q5 q5 6 5 3 6 5 4. q6 q6 q6 q4 q4' q,1 q3 2 - - q5 q5 6 5 3
+6 5 1 q1 q1 1 6 - - q2 q2 3 2 ,6 3 2 4. q3 q2 q1 1 - - q1 q7 1. q5 q2 q1 1 - q1 q7 q1 q5 q3 q4 5 - -
+q2 q3 4 1 q1 q2 3 1 q,7 q1 q2 q3 q4 q5 2 - - q1 q7 1. q5 q2 q1 1 - q1 q7 q6 q5 q3 q4 5 - - q2 q3 4 1 q1 q2
+3 1 q,7 q1 q2 q6 ~ 6 q5 q7 1 q2 q3 4 1 q1 q2 3 1 0 q5 q5 1 ~ 1 7 - 1 - - 1 - - 1 - - 1 - - 1
+0 0
+%END

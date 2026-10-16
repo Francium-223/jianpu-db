@@ -1,0 +1,27 @@
+%猜情寻.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=25290
+title=猜情寻
+tag=
+usertag=
+tagroute=
+confidence=0.989
+conf_p10=0.980
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-25290
+%--
+4/4
+subtitle=score
+q1' q5 q1'. q3' q7 q5 q7 q2 q6 q3 q1' q1' q3' q6 q3 q,6 q4 q1 q4 q6 q1' q1' q6 q4 q,5 q,7 q2 q5 q7' q2' q5' q6' q1 q1 s1 s,7 s,7 s1 ~ 1'
+q0 s,6 s,7 1 q2 q1 q0 q,6 q,6 q,7 1 - 0 q1 s2' s3' 2 q,7 q,7 q0 q,7 q1 q2 q3 q3 s3 s4 q5 q2 q5 q6 q7 q1' q2' q1' q1' q0 q6 q6 q7
+1' q1' q1' q7 q6 q5' q2' 1' - 0 x q1 q,7 q,6 q,6 q,7 s1 s,6 ,6 q2 q3 q2 q3 q2 q1 q,7 s,6 s,5 ~ ,5' q,4 q,5 q,6 q,7 1 q2 q3 q2 q2 q3
+q4 q5 s2 s2 s0 s2 s3 s4 q3 q3 q4 q5 q2 q5 s0 s4 s3 s2 2' q1' 1 q0 q,6 q4 s3 s4 q0 s4 s4 s3 s3 s2 s2 s1 s1 s7 ,7 s0 s7 s1
+2 - q3 q3 q4 s5 s2 ~ s2 q5. s0 s6 s7' s2' 2' q1' 1' q0 s6 s7 1' - q0 q7 q6 s7 s1' ~ 1' - - - q3 q6 q1' q3 q1' q1' q3 q6
+q4 q6 q1' q4 q1' q1' q4 q6 q4 q6 q1' q4 q1' q1' q4 q6 q5 q7 q2' q5 q7' q2' q5 q7 x. q,6 q,6 q,7 s1' s,6 ,6 q2 q3 q2 q3 s2 q1. q,7 s,6 s,5'
+~ ,5' q,4 q,5 q,6 q,7 1 q2 s3 s2 q2 q2 q3 q4 q5 s2 s2 s0 s2 s3 s4 q3 q3 q4 q5 q2 q5 s0 s4 s3 s2 2'. q1' 1 q0 q,6 q4 s3 s4 q0
+s4 s4 s3 s3 s2 s2 s1 s1 d7 s,7 q,7. s0 s,7 s1 s2 q3' 2. q3 q3 q4 s5 s2 ~ s2 q5. s0 s6 s7' s2' 2'. q1' 1' q0 s6 s7 1' - q0 q7 q6
+s1' s1' ~ 1' - - - q3 q3 q4 s5 s2 ~ s2' q5. s0 s4 s3 s2 2 q1' 1 q0 q,6 q4 s3 s4 q0 s4 s4 s3 s3 s2 s2 s1 s1 s7 ,7 q,7 s1
+s2' q3 2'. q3 q3 q4 s5 s2 ~ s2 q5. s0 s6 s7' s2' 2'. q1' 1' q0 s6 s7 1' - q0 q7 q6 s1' s1' ~ 1' - - - q3 q5 q1'. q3' q7 q5 q1'
+q2' q2' q2' q3 q1' q1' q3' q6 q3 q,6 q4 q1 q4 q6 q1' q1' q6 q4 q,5 q,7 q2 q5 q7' q2' q5' q6' q1 q3 q1' q1' q,7 q2 q5 q7 q,6 q1 q3 q6 q1' q3
+q1 q,6 q,4 q4 q1' q1' q,5 q5 q7' q2' q1' q5 q4 q3 1 -
+%END

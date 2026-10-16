@@ -1,0 +1,18 @@
+%王三姐.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47690
+title=王三姐
+tag=
+usertag=
+tagroute=
+confidence=0.930
+conf_p10=0.618
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47690
+%--
+2/4
+subtitle=score
+0 2 x 1 2 3 5 3 2 5 ,6 5 3 2 3 1 6 5 3 5 6 1 2 3 3 2 3 5 3 7 7 x - - - x 0 - x -
+,x x. x ,x x x. 6 q7 s6 5 2 s2 q5 5 7 6 7 6 ,5 x 6 7 6 5 2 q5 q7 6 7 q6 ,5 6 7 6 7 2 ,5 7 6 7
+6 ,5
+%END

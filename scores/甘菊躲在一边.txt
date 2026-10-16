@@ -1,0 +1,18 @@
+%甘菊躲在一边.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14691
+title=甘菊躲在一边
+tag=
+usertag=
+tagroute=
+confidence=0.950
+conf_p10=0.831
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14691
+%--
+6/8
+subtitle=score
+1 - - q6 1 x 0 q,3 ,6 q1 3 q4 3. 0 q3 2 q1 3 q2 ,7. q,7 q0 q,3 x ,5 q,7 3 q2 2. 2 q3 2 q,7 1. 1. 0 q,6 1 3 6
+q7 6. q6 q0 q6 5 q7 6 q3 3. 0 q1 2 q3 5 q4 ,7. ~ ,7 q4 3 q2 3. 3. q3 q0 q,6 1 q3 6 q7 6. q6 q0 q6 x 5 q7 6 q3
+3. 0 q1 2 q3 5 q4 ,7. 0 q,3 x ,5 q,7 ,6. 0 ,6 ,6 ,6 ,6
+%END

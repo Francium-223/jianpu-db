@@ -1,0 +1,20 @@
+%瑶族舞曲.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12992
+title=瑶族舞曲
+tag=
+usertag=
+tagroute=
+confidence=0.976
+conf_p10=0.945
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12992
+%--
+2/4
+subtitle=score
+q6 q3 q3 q6 2. q1 q7 q2 q1 q7 q6. s5 3 q6. s7 q1 q2 q3 q5 q3 q2 q1 s2 s3 q2 q1 x x 1. qx 6 - q5 s5 s6 q1' q6 q1' s1' s2'
+q3' q5' q3' s3' s5' q2' s3' s5' 3' - q6 q3' q6 q3' q6 q2' q6 q2' q1' s2' s3' q2' q1' 6 - q6 q3' q3' q6 2'. q1' q7 q2' q1' q7 q6'. s5 3' q6. s7
+q1 q2 q3 q5 q3 q2 q1 s2 s3 q2 q1 6 - q5 s5 s6 q1 q6 q1 s1 s2 q3 q5 q3' s3' s5' q2' s3' s5' 3' - q6 q3' q6 q3' q6 q2' q6 q2' q1'
+s2' s3' q2' q1' 6 - q6 q3' s2' s3' s2' s1' q6 q1' 6 q6 q3' s2' s3' s2' s1' q6 q1' 6 q6 s6 s1' q2' s2' s1' q2' q5' 3' q2 s3 s2 q1 s2 s1 6
+6 q6 q3 q3 q6 2. q1 q7 q2 q1 q7 q6. s5 3 q6. s7 q1 q2 q3 q5 q3 q2 q1 s2 s3 q2 q1 6 - 1 q2 q3 2 1 6 - 6 -
+%END

@@ -1,0 +1,18 @@
+%猗与那与.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=2312
+title=猗与那与
+tag=
+usertag=
+tagroute=
+confidence=0.943
+conf_p10=0.705
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-2312
+%--
+4/4
+subtitle=score
+1 - - - x x x ,1 ,x ,,x q3 q6 q6 q3 q7 q6 q5 q6 6 - - 0 q3 q6 q6 q3 q4 q3 q2 q,6 ,6 - 0 0 q2 q2 q1 q2 q3 q6
+q3 q4 4 - 0 0 q3 q3 q2 q3 q,6 q2 q,5 q,6 ,6 - 0 0 6 3 7 5 6 3 7 5 6 - - 0 6 3 4 ~ 4 2 - - 0 0
+0 0 0 0 0 0 0 0 0 0 0 6 - - 0 6 3 4 4 3 - - 0 2 - 3 - 5 - 6 - 3 5 7 5 6 - - 0
+%END

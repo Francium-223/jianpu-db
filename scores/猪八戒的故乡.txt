@@ -1,0 +1,16 @@
+%猪八戒的故乡.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=25466
+title=猪八戒的故乡
+tag=
+usertag=
+tagroute=
+confidence=0.961
+conf_p10=0.743
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-25466
+%--
+2/4
+subtitle=score
+s3 s5 q3 s7 q,5. s3 s5 1 - x q,3. s5 q1 1 ~ q1 q1 s1 q,3 - s1 s1 s1 q,3 x q,3 x s1 s1 s1 - -
+%END

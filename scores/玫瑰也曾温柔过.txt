@@ -1,0 +1,28 @@
+%玫瑰也曾温柔过.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=52182
+title=玫瑰也曾温柔过
+tag=
+usertag=
+tagroute=
+confidence=0.975
+conf_p10=0.960
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-52182
+%--
+4/4
+subtitle=score
+qx q1 - - - - 6 4 0 0 0 0 qx'. ,x ,x x x x 1' q6 q7 q1' s1' s1' s2' s1' q7 s1' s7 ~ q7 s5 s5 q6 q5 s2 q5 s4 3. s6
+s7 q1' s1' s1' s2' s1' q7 s1' s7 ~ q7 q5 q6 q3 s7 q5 s3 6. x s3 s5 q,6 s6 s5 q,6 s6 s5 q,6 s7 s1 q1 s1 s2 s3 q3 s3 s5 s6 q2 3.
+s3 s1 s2 s2 s2 s3 q2. s6 q1 s2 s3 q3 s6 s1 s1 s1' q1 s1 s7 s6 s5 s6 ,6. s3 s5 q,6 s6 s5 q,6 s6 s5 q,6 s7 s1 q1 s1 s2 s3 s3 q3
+s3 s5 s6 s2 s3 3. s3 s1 s2 s2 s2 s3 q2. s6 q1 s2 s2 q2 s6 s1 s1 s1 q1 s1 s7 s7 s6 s5 s6 ,6. s1' s7 q6 s6 s6 s6 s5 s6 s7 q6
+s5 s3 q3 s5 s6 q2 s2 s2 s2 s1 s2 s5 3. s1 s7 q6 s6 s5 s6 s5 s6 s7 q6 s5 s3 q3 s5 s6 s2 s2 s2 s3 s2 q1 s5 ,6. s1 s7 q6 s6
+s5 s6 s5 s6 s7 q6 s5 s3 q3 s5 s6 q2 s2 s2 s2 s1 s2 s5 3. s1 s7 q6 s6 s5 s6 s5 s6 s7 q6 s5 s3 q3 s5 s6 s2 s2 s2 s3 s5 s3
+s1 s7 ,6. s6 s7 q1' s7 s6 ~ q6 s7 s6 q7 s6 s5 ~ q5 s5 s5 0 0 0 0 0 q6 q6 s2 s1 s2 s5 3. s1 s7 q6 s5 s6 q6 s5 s3 q3
+s5 s3 3 q6 q1 s7 s5 s5 s3 6. x s3 s5 q,6 s6 s5 q,6 s6 s5 q,6 s7 s1 q1 s1 s2 s3 q3 s3 s5 s6 s2 s3 3. s3 s1 s2 s2 s2 s3 q2.
+s6 q1 s2 s3 q3 s6 s1 s1 q1 s1 s,7 s6 s5 s6 ,6. s1 s7 q6 s6 s6 s6 s5 s6 s7 q6 s5 s3 q3 s5 s6 q2 s2 s2 s2 s1 s2 s5 3. s1 s7
+q6 s6 s5 s6 s5 s6 s7 q6 s5 s3 q3 s5 s6 s2 s2 s2 s3 s2 q1 s5 ,6. s1' s7 q6 s6 s5 s6 s5 s6 s7 q6 s5 s3 q3 s5 s6 sx qx. qx 0
+q2 s2 s2 s2 s1 s2 s5 3. s1 s7 q6 s6 s5 s6 s5 s6 s7 q6 s5 s3 q3 s5 s6 s2 s2 s2 s3 s5 s3 s1 s7 ,6. s1 s7 q6 s6 s5 s6 s5 s6
+s7 q6 s5 s3 q3 s5 s6 q2 s2 s2 s2 s1 s2 s5 3. s1 s7 q6 s6 s5 s6 s5 s6 s7 q6 s5 s3 q3 s5 s6 s2 s2 s2 s3 s5 s3 s1 s7 ,6. x
+s6 s7 q1' s1' s1' q1' s2' s1' q7' q7 s1' s7 q7 s5 s5 q6 q6' 0 q3' s7 q5 s5 6 -
+%END

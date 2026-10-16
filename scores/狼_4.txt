@@ -1,0 +1,18 @@
+%狼_4.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=41065
+title=狼
+tag=
+usertag=
+tagroute=
+confidence=0.805
+conf_p10=0.454
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-41065
+%--
+4/4
+subtitle=score
+6 - - 6 7 7 - - 7 s3 s5 6 - - 6 q7 q1' q2' 7 ~ 7 - q7 s,1' q3' q2' 6 2' q1 6 q3' q1' 1 q6 q5' q2' 1' q6' q0 q0
+q0 q0 d6 d5 s6 q1 q,7 q,7 3 6 3' s1' q0 0 q0 q1 q3 q1' q,5 7. 5' 6' q6. 7 1' 6 6 1 7 q6 0 ,7 0 5 5 6 s6 6 6 q,1.
+q3' 0 s0 s3 q3 q0 5' 5. 3' 1
+%END

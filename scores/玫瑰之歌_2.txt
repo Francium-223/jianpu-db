@@ -1,0 +1,16 @@
+%玫瑰之歌_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14828
+title=玫瑰之歌
+tag=
+usertag=
+tagroute=
+confidence=0.972
+conf_p10=0.954
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14828
+%--
+4/4
+subtitle=score
+x q3 q2 q1 s2 2. q2 q1 - - - x s1 q2 s1' q1' s1' q1 s2 - s3 s2 q2 q1'
+%END

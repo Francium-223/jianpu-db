@@ -1,0 +1,17 @@
+%牧童谣_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48902
+title=牧童谣
+tag=
+usertag=
+tagroute=
+confidence=1.000
+conf_p10=0.999
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48902
+%--
+4/4
+subtitle=score
+5 q5 5 5 6 5 5 q5 q5 3 q3 q5 q6 q5 q3 q6 q3 q5 q3 3 3 3 2 5 5 q5 q5 6 - q5 5 5 5 3 - 3 5 6 5 3
+6 3 5 3 3 3 3 2 q5 q5 q5 q5 6 - 5 q5 q5 5 3 - q3 q5 6 5 q3 q6 q3 q5 3 3 3 3 2 -
+%END

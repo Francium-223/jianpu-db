@@ -1,0 +1,18 @@
+%猪不戒吃西瓜二.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48908
+title=猪不戒吃西瓜二
+tag=
+usertag=
+tagroute=
+confidence=0.997
+conf_p10=0.992
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48908
+%--
+2/4
+subtitle=score
+q6 q6 ,6 x x x q6 q6 ,6 qx qx x 6 6 6 6 6 6 ,6 qx qx q0 qx 0 x x q3 s3 s2 q3. s5 q6 q1 ,6 q6 q1 q3 ,6 3 3
+q2 q3 3 6 q1 q2 1 ,6 q2 q3 s2 q3 q6 q6 q2 s1 ,6 q2 q3 s1 2 6 1 6 q1 2 q2 2 1 2 q2 6 q1 q6 s1 2 6. q3 6. s5
+3 s3 q5 2 3 5 - 5 - qx sx x. x q6 q6 q1 6 q3 q6 q1 q6 5 5 6
+%END

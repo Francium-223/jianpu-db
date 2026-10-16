@@ -1,0 +1,19 @@
+%猜调_4.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47776
+title=猜调
+tag=
+usertag=
+tagroute=
+confidence=0.878
+conf_p10=0.569
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47776
+%--
+3/4
+subtitle=score
+5 1 1' q6 q5 s5 s5 s6 s5 4 2 s5 s5 sx s7. d1 s1 s1 q2 s2 s5 qx q,7 s7 s5 s1 q2 s5 d7 d1 qx q7 s1 s2 q2 x x x x 2.
+,1 1 x 1 x x 1 x x ,1 x x 1 1 1 x x. 1' x' ,x x s1 ,1 2 2 5 ,7 x x q5 d7 d1 q,7 x x q4 s1 q2 q7 q5
+s1' ,7 x x s7 s7 s7 q7 x 2 5 qx q7 q7 s5 s7 q7 q1 q2 4 q7 q1 qx q7 q7 q1 q2 q2 1 q,6 ,5 - x q4 s7 q1 s7 d7 x x
+5 5 ,7 ,7 x x - ,1 4 7 7 x
+%END

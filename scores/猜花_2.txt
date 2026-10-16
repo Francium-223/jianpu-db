@@ -1,0 +1,18 @@
+%猜花_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48235
+title=猜花
+tag=
+usertag=
+tagroute=
+confidence=0.997
+conf_p10=0.989
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48235
+%--
+4/4
+subtitle=score
+1. 1 q1 q1 q,6 q,7 ,6 q1 q1 q1 q1 q,6 q,7 ,6 q0 6 q6 5 5 3 5 ,7 ,6 q0 ,6 6 ,6 ,6 q,6. s6 1 q,3 q5 ,3 q0 x qx x x q,3.
+s5 q,3 q5 ,3 ,5 q,3. s5 3 5 ,3 ,5 3 5 - ,7 ,6 - 0 6 6 5 5 5 ,7 3 5 - 3 q7 ,6 - - - 3 5 - 3 6 - -
+- 6 - - - 6 0 0 0
+%END

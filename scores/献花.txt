@@ -1,0 +1,18 @@
+%献花.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=32220
+title=献花
+tag=
+usertag=
+tagroute=
+confidence=0.873
+conf_p10=0.548
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-32220
+%--
+2/4
+subtitle=score
+1 - - 1 1. x'. 1 6. q5 6. q1' q3. s5 q3. s5 q6 q5 q6 q0 q5 5 q3 2 7 q2 5. 7 ,6. q0 2 x x - - x 1'. x x qx qx
+- - 6. q5 6. q1' q3. s5 q3. s5 q6 q5 q6 q0 q5 5 q3 2 7 q2 5. 7 ,6. q0 q3. s2 q1 q2 q3 q2 3 5. 7 ,6. q0 q3. s2 q2 q3 q2
+3 5. 7 ,6. q0 x x x x x x x x x' x' x' x q6 q7 3 q6 q7 3 q6. s5 q3 q5 q6 q5 6 q5 5 q3 2 7 q2 5. 7 ,6 -
+%END

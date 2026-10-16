@@ -1,0 +1,21 @@
+%牵挂_12.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=34627
+title=牵挂
+tag=
+usertag=
+tagroute=
+confidence=0.996
+conf_p10=0.988
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-34627
+%--
+4/4
+subtitle=score
+6 - - q5 q6 5 - 2 - 1 - q7 - ,6 - - - x q6 q7 q1 q3 ~ 3 q5 q6 5. q4 4 - q5 q6 q7 q6 q6 q5 q5 q2 q3 q4
+q3 q3 3 - q2 q3 q2 q4 4 - q3 q2 q3 q1 ~ 1 - q7 q7 q7 q7 ~ q7 q7 q7 q1 q7 ,6 q3 3 - q6 q7 q1 q3 ~ 3 q5 q6 5.
+q4 4 - q5 q6 q7 q6 ~ q6 q5 q5 q2 q3 q4 q3 q3 3 - q2 q3 q2 q4 4 - q3 q2 q3 q1 1 - q7 q7 q7 q7 ~ q7 q7 q7 q1 q7
+,6 q6 ~ ,6 - q1' q6 q7 q1' q7 6 q3 q5 4 q4 ~ 4 q4 4 q4 ~ q4 q5 q6 q5 q2 q4 q3 q3 3 - q2 q2 q2 2 q6 q3 q4 q3 2
+q1 1 - q7 q7 q7 q1 q7 q1 q7 q6 3 - - - q1' q6 q7 q1' q7 6 q3 q5 4 q4 4 - q4 4 q4 ~ q4 q5 q6 q5 q2 q4 q3 q3 ~
+3 - q2 q2 q2 2 q6 q5 q4 q3 2 q1 ~ 1 - q7 q7 q7 q1 ,7. q6 ,6 - - -
+%END

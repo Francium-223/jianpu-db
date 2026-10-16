@@ -1,0 +1,21 @@
+%独弦琴恋歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=26158
+title=独弦琴恋歌
+tag=
+usertag=
+tagroute=
+confidence=0.985
+conf_p10=0.974
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-26158
+%--
+4/4
+subtitle=score
+1 x 1 x x x 1. q2 2 0 s1 q1. 0 ,5 ,5 1. q2 2 0 s1 q1. 0 ,5 0 1. q2 2 0 s1 q1. 0 ,5 ,5 q0 q1 q,7 q,5 ,6 q0 q1
+3 - - 0 q,5 q2 q1 q2 ,5 - q1 q,5 q,5 q1 2 - q1 q,5 q1 q2 3 s3 s2 q1 2 - - - 5 q5 q2 1 - q3 q2 q1 q,5 ,6 - q,5
+q,2 q,2 q2 ,7 q,6 s,5 s,4 q,4 q,5 ,5' - - x 1. q2 3. q1 2 s2 s3 s2 s3 ,6 - 1. q3 3. q1 2 - - - q1 1 q2 5 - q1 1 q2
+,5 - q1 s5 q1 q2 3 q1 q2 5. q4 5 - q6 q6 q5 q6 1. q2 q3 q2 q1 q,5 ,6 - q,5 q,2 q,2 q2 ,7 s,6 s,5 q,4 q,4 q,5' ,5' - - q,5 q,2
+q,2 q2 ,7 s,6 s,5 q,4 ,5 ,5 2 2 5 - - - 5 5 6 2 1 0 ,5 2 1 0 ,5 2 2 - - - 2 - 1 - 1 - - - 1 -
+- -
+%END

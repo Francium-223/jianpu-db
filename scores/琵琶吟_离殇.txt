@@ -1,0 +1,20 @@
+%琵琶吟_离殇.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=29469
+title=琵琶吟 离殇
+tag=
+usertag=
+tagroute=
+confidence=0.995
+conf_p10=0.987
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-29469
+%--
+4/4
+subtitle=score
+3' 3. q2 q2 3 q,6 q1 2 - 0 3 1 q2 q3 2' 1' ,6 - 0 q5 q3 2. q1 2 q3 q5 2 - 0 q3 q5 ~ q5 q3 ~ 3 - - 0 0
+0 0 3 q2 3 q,6 q1 2 - - 3 1 q2 q3 2 1 ,6 - 0 q5 q3 2. q1 2 q3 q5 2 - 0 q3 q5 q6 q5 6 - - 6 - 0 q6
+q5 6. q5 6. q5 q6 q5 q3 5. q5 q6 1'. q6 1' q2' q3' 6 - - q5 q3 q2 q1 q2 q1 q2 q3 q5 q3 2 - 0 q3 q5 q6 q5 q6 q1' q2' q3'
+q6 q5 6 - - - 6 - 0 0 2 q1 2 q3 q5 q6 q5 q6 q1 q2 q3 q6 q5 6 - - q5 q3 2. q1 2 q3 q5 2. q1 2 q3 q5 q6 q5
+q6 q1' q2' q3' q6 q5 6 - - - 6 - 0 0
+%END

@@ -1,0 +1,19 @@
+%玩蛇者之歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49619
+title=玩蛇者之歌
+tag=
+usertag=
+tagroute=
+confidence=0.962
+conf_p10=0.961
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49619
+%--
+4/4
+subtitle=score
+1 1 1 qx ,,x. 1 q,6 q,6 7 q6 5. s,5 q,7 s,6 q,7 q,6 q7 q,6 q,5 ,5 ,6 ,6 ,6 q2 2 q2 q2 ,1 q1 q,7 q,7 s,6 q7 s1 q7 q6 q6 q0 q,5 s,5
+s,5 s,6 s,6 q7 s1 s,7 q6 s,7 q1 ,7 ,6 q,6 0 2 q2 q1 q1 s,7 s,7 s,6 q7 s1 q7 q6 q6 q0 q,5 s,5 q,5 s,6 s,6 q,7 ,7 q1 ,6 ,7 q1 7 6 6
+0 q2 s2 s2 s2 1 1 ,7 q,7 q,6 ,7 q1 q7 ,6 0 q2 s2 s2 s2 s1 q1 q,7 s1 q,6 ,7 s1 q,7 q,6 q,6 q0 s,5 s,5 q,5 ,6 s,6 ,7 1 q,7 s,6 q,7
+q1 q,7 q,6 s,6 q0 s,5 q,5 s,5 ,6 ,6 ,7 q1 ,7 q,6 q7 q1 q,7 q,6 q,6
+%END

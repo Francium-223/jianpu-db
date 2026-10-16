@@ -1,0 +1,20 @@
+%父子兵.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=37423
+title=父子兵
+tag=
+usertag=
+tagroute=
+confidence=0.943
+conf_p10=0.784
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-37423
+%--
+4/4
+subtitle=score
+1 - - x x. x' q3. s3 q3 q2 q1. s1 q1 q,6 ,5 5 5 - q3. q3 q3 q2 q1. q1 q,6 ,5 q,6 - q3. q3 q3 q2 0 0 q,6 ,5 q5. 4 5 -
+q6. s5 q4 q3 q5 q4 q3 q1 2 - 2 0 q6. s5 q4 q3 q5 q4 q3 q2 ,7 0 qx x qx x qx qx sx sx sx sx x 0 qx qx sx sx sx sx
+qx qx sx qx sx sx qx qx sx sx sx sx x x x q6. s5 q6 6 - 5. 4 4 5 - - - 0 6 1 ,x q4. s3 q4 q3 2 1 ,7 1 2
+,5 q6. qx s5 q6 q5 6 - q5'. q4 q5 q4 5 - q4. s3 q4. q3 2 6 7 - 5 0 q3. s3 q3 q2 q1. s1 q1 q6 ,5 5 5 - q6. 0 q5 q4
+q3 5 q4 q3 q2 ,7 0
+%END

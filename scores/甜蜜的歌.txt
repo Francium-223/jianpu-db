@@ -1,0 +1,18 @@
+%甜蜜的歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=28371
+title=甜蜜的歌
+tag=
+usertag=
+tagroute=
+confidence=0.922
+conf_p10=0.684
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-28371
+%--
+2/4
+subtitle=score
+1. s2 s1 s6 s1 s6 s5 q2 q3 q6 s1 s6 s6 s5 q5 5 - 5 - 1. s2 s1 s6 s1 s6 s5 q6 s6 s5 - 6 0 - - - 0 - - - -
+q3 s1 s3 s2 s1 q1 1 - 1 - q2 q2 s2 s3 s6 s5 6 s1 s2 q1 q1. s1 s6 s1 s6 s5 3 s2 s3 s2 s1 1 1 1 1 1 1 1 1 x'
+,x x' 2 - s1 s2 s3 s5 s6 s1 s6 s5 q3 s1 s3 s2 s1. q1 1 - 1 - 1 - 1 - q1 q0 0
+%END

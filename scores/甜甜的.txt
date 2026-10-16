@@ -1,0 +1,16 @@
+%甜甜的.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=32976
+title=甜甜的
+tag=
+usertag=
+tagroute=
+confidence=0.756
+conf_p10=0.460
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-32976
+%--
+4/4
+subtitle=score
+,x 1 q1' - ,x' ,x' ,x' x' - ,,,x' 1 1 1 1' q1 1 0 - 0 0 q1 - 0 0 0 0 - - x 1' 1 0 q3' x
+%END
