@@ -216,5 +216,12 @@
 	{
 		"name": ["东方同人曲"],
 		"child": []
+	},
+	{
+		"name": ["西方Project", "西方Project系列"],
+		"child": [
+			{"name": ["秋霜玉", "Shuusou Gyoku"], "child": []},
+			{"name": ["稀翁玉", "Kioh Gyoku"], "child": []}
+		]
 	}
 ]
