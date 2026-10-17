@@ -90,8 +90,12 @@ SECTION_CN = {"chorus": "副歌", "verse": "主歌", "intro": "前奏", "outro":
 # 状态权重。2026-10-06 作者定: `converted`(ABC 等记谱格式**机械转换**来的)记 **0.90** ——
 #   "有些转写的不那么精确", 所以夹在 `ocr`(0.75)与 `ok`(1.30)之间。
 #   ⚠ 未登记的状态仍走 `STATUS_W.get(status, 1.0)` 的**默认 1.0**, 不要顺手改成 0.90。
-STATUS_W = {"ok": 1.30, "midi": 0.75, "ocr": 0.75, "converted": 0.90}
-STATUS_CN = {"ok": "已校对", "midi": "MIDI转", "ocr": "OCR转", "converted": "机械转换"}
+#   2026-10-17 新增状态 `bare-numbers`(作者为提高转写速度亲自写的裸数字谱, 只保数字、无八度/时值)
+#   暂按 `converted` 同档 0.90 —— 同为转写产物, 精度低于 `ok`。这行是 agent 暂定, 不是作者定的;
+#   作者若认为该与 `ok` 同权, 改成 1.00 即可(检索只比数字, 与八度/时值无关)。
+STATUS_W = {"ok": 1.30, "midi": 0.75, "ocr": 0.75, "converted": 0.90, "bare-numbers": 0.90}
+STATUS_CN = {"ok": "已校对", "midi": "MIDI转", "ocr": "OCR转", "converted": "机械转换",
+             "bare-numbers": "裸数字转写"}
 
 
 def section_weight(name):

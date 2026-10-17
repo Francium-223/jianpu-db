@@ -28,8 +28,11 @@ for i in a:
 	#   converted = 由 **ABC 等记谱格式机械转换**来的(自动) -> **进**(2026-10-04 作者定:
 	#           ABC 这类转换与 `midi` 区分开 —— 它带完整音高记录, 且转换器已按本仓库首调口径
 	#           (大调 Do-based / 小调 La-based, 主音 `,6`)写出来源与调号)
+	#   bare-numbers = 本仓库作者**亲自转写**出来的裸数字谱 -> **进**(2026-10-17 作者定:
+	#           "加一个 status 可用的值: bare-numbers"。第一批实测 `scores/th*.txt` 4 首,
+	#           transcriber=Francium-223。它跟 ok 一样是人的产出, 只是没走人工校对标记)
 	# 用白名单而不是"排除 midi": 以后再加等级(比如两条自动线各自再分档)也不会漏进数据集。
-	OK_STATUS = ('ok', 'ocr', 'converted')
+	OK_STATUS = ('ok', 'ocr', 'converted', 'bare-numbers')
 	_r = i.to_record()
 	# status 的形态由 schema 决定(现在是字符串, 也可能是列表) -> 统一成列表再判断
 	_s = _r['status'] if isinstance(_r['status'], list) else [_r['status']]
