@@ -1,0 +1,22 @@
+%电影《爱情来的时候2016》主题曲.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15112
+title=电影《爱情来的时候2016》主题曲
+tag=
+usertag=
+tagroute=
+confidence=0.972
+conf_p10=0.943
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15112
+%--
+4/4
+subtitle=score
+q0 s2 q3 s6 s7 q3 q4 s6 s7 q1' s3 s4 q5 s7' s1' q2' s7'. s2' q4'. s3'. s2' q7 s1 s2 q3 s6 s7 q1' q3 q4 s6 s7 s3 s4 q5 sx' s1' q2' s7'. s2'
+3'. s1 s2 q3 s,6 s,6 ~ q,6 q3 4 s,7 s1 q2 s,5 s,5 ~ q,5 q2 q2 3 s1 s2 q3 s,6 s,6 ~ q,6 q3 ~ s3 q4 s3 q2. s3 ,7 - 0 s1 s2 q3
+s,6 s,6 ~ q,6 q3 4 s7 s1 q2 s,5 s,5 ~ q,5 q5 q4 3 s2 q3 s,6 s,6 ~ q,6 q3 s0 q4 s6 q2'. 7 - 0 s1 s2 q3 q6 q7 q4 s1' s7 s1' q7
+q5 q2 q5 q4 s3 s3 ~ q3 s2 s3 q4. s5 q6 q2' s0 s2 q3 s0 q2 s3 q4 q6 x 5 s1 s2 q3 q6 q7 q1' q4 q1' s7 s1' q7 q5 q2' q1' q2' s3'
+s3' ~ q3' s2 s3 q4. s6 q3' q2' s2 q3 s2' q2' s4 q3 qx s4 q6 q1' q7. s3 q2' q1' q7 s6 s6 ~ 6 - s3 s4 q5 s7 q2 q7 q3 s3 s2 q3 s1
+s2 s4 q3 qx s4 q6 q1 s0 qx q5 qx s6 q2 q4 3 - q3 s6 s7 s3 s4 q5 s7' q2' q7 q4' q3' 4' q5' q5' s5' s5 s6 s7 q1' q1' s4'. s3'. s1' s1'
+s1' s7 s6 s1' s1'. s2' s7 3' s1 s2 s4 q3 qx s4 q6 q1' q6. s7 q2'. q7 s6 s6 ~ 6 s6 s7 q3 q5 s7' s2' s5 s7'. s2' 3' -
+%END

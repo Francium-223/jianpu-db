@@ -1,0 +1,18 @@
+%相思树叶.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=9690
+title=相思树叶
+tag=
+usertag=
+tagroute=
+confidence=0.985
+conf_p10=0.964
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-9690
+%--
+4/4
+subtitle=score
+2' 7 6 q5 6 5 3 q2 5 2 3 - 1 - - - 5 - 6. 5 q3 2 q3 1 - 3. 5 6 5 1 3 - - - 2 - 3. 5 ,7 6
+5 ,6. 6 q2 2 q3 2 6 7 ,5 - 1. q1 7 5 ,6 - q2. q2 q3 q1 2 - q5 5 q3 7 6 5 6 - 2'. q1' 7 6 1'. q6 q5 q6 q5
+3 q0 2 q5 3 2 1 1 q0 2 5 3 2 1 1 - - -
+%END

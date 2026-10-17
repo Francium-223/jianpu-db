@@ -1,0 +1,18 @@
+%白沙巾.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47869
+title=白沙巾
+tag=
+usertag=
+tagroute=
+confidence=0.980
+conf_p10=0.964
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47869
+%--
+2/4
+subtitle=score
+x 1 3 1 3 7 7 5 7 3 3 3 ,3 5 7 2 3 ,2 1 2 1 7 1 7 6 6 ,3 6 6 6 x 2 1 1 3 4 3 3 - -
+4 2 ,1 3 1 1 4 3 ,7 4 2 1 3 1 1 7 1 ,7 ,6 - ,6 - 1 1 3 1 3 ,7 ,7 ,5 ,7 ,3 5 ,7 2 4 3 2 3 4
+2 1 1 3 ,7 ,6 ,6 0
+%END

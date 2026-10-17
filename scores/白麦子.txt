@@ -1,0 +1,18 @@
+%白麦子.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47545
+title=白麦子
+tag=
+usertag=
+tagroute=
+confidence=0.995
+conf_p10=0.995
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47545
+%--
+2/4
+subtitle=score
+2 2 5 5 4 3 2 4 3 2 1 2 3 2 1 ,7 ,6 ,7 1 3 2 2 2 2 - 1 1 q1 ,5 1 2 3 5 4 3 2 1 ,7 1 7
+,6 4 3 2 1 1 ,7 ,6 x ,4 ,5 - 2 2 5 4 3 2 1 q3 q4 q5 q6 5 - 1 ,6 ,5 7 1 q2 q3 q2 2 2 2 - q1 q1 q1
+q5 q2 q1 3 5 q4 3 2 1 ,7 q2 ,6 4 3 2 7 1 ,7 ,6 2 ,5 -
+%END

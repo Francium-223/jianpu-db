@@ -1,0 +1,18 @@
+%看第一场雨.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=50566
+title=看第一场雨
+tag=
+usertag=
+tagroute=
+confidence=0.905
+conf_p10=0.775
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-50566
+%--
+4/4
+subtitle=score
+- 6' q3' - 0 - 0 0 0 ,6 - 6' - 2' - 0 3' - 0 2' - 1'. 1' - 0 1 - ,6 - 1' 7' 3 6' 0 6' 7' q3. - 1' -
+3 6' q3 q3. - 0 - - 5' - 1 6' - 1' 0 0 0 0 - q2 3. 3 2. q2. 3 2. 3 - 0 0 0 0 0 0 0 - - - - 0
+0 0 2 - 0 0 0 0 0 0 0 -
+%END

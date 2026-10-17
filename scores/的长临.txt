@@ -1,0 +1,22 @@
+%的长临.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=17211
+title=的长临
+tag=
+usertag=
+tagroute=
+confidence=0.926
+conf_p10=0.725
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-17211
+%--
+2/4
+subtitle=score
+1 - - 4 q1 x ,1 - x x' qx - - 1 0 x x x q0 s,1 s2 3. q3. q2 q2 s1 q2 s2 q2 s1 q1 s1 q1 s,6 q,6 q1. 1. q6 ,6 q,6
+q,5' q,6 s,6 s5 d,5 s5 d,5 q,5 s,3 q,3 s,5. q,5. h6 s6 s,5 q,5 q,3 q,3 s3. q3. h6 s6 s,5 q,5 s,3 q,3 s,6 q,6 s,5 q,5 d2 q2 s3. q3. 1 1' 1 1' 0 0
+x q1 1 5 0 3. 5 q6 1. 1 ,6 ,5 0 q6 1. ,6 ,5 3. q1 ,6 ,5 ,6 ,5 q1 3. 2' 2 0 q,5. q5 q5 q5 - 3. q5 q3 s1 s1 s1 q2.
+q2' q2. ,6 0 s6 q1. q1 q,6 q5 q1 s1 q1 q1 q,6 q1 q,6 q,5 s2 q3. 1 1 0 x s6 q1. q1 q,6 q5. s1 q1 q,6 q,6 q,5 s2 q3. 1 0 x q3. s2
+q2 q1 q2 q1 q1 q,6 q1. s6 q,6 q,5 q,6 q,5 q,5 q,3 q,5. s6 q,5 q,3 q,5. s6 q,5 q,3 q,6 q,5 q1 q5 x 3' 3 - 3 3'. s2 s2' ,2' 2 q1 2 q1 q1
+,6 ,6 ,1 1'. q6 ,6 5. ,5 1 ,6 6 ,5 ,5 ,3 3 1 ,5. q5 q6 ,5 q,3 3 3 3. q6 x. ,5 3 ,3 6 ,6 ,5 1 q2 q3. 1 1' 0 0 0
+s2 q3. q2 q2 q1 q2 q1 q1 q,6 q1'. q6 q,6 q,5 q,6 q,5 q,5 q,3 q,5. q6 q,5 q,3 q,5. q6 q,5 q,3 q,6 q,5 q1' q5 3 3' 3' -
+%END

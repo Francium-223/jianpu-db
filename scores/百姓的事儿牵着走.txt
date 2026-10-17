@@ -1,0 +1,23 @@
+%百姓的事儿牵着走.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=221
+title=百姓的事儿牵着走
+tag=
+usertag=
+tagroute=
+confidence=0.957
+conf_p10=0.869
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-221
+%--
+4/4
+subtitle=score
+qx q1 - - - - 0 - - x. x x x x x' 1. x x' x x ,1 x x 5. ,5 - - - ,5 - - - q1 q5 q,5 q2 q,5 q3 q,5 q0
+q1 q5 q,5 q2 q,5 q3 q,5 q0 x 1 q3 q2 q3 q0 q3 q2 q2 q0 q1 q,6 q,3 q,5 2 q2 q1 q1 2. 2 - q3 q2 q3 q0 q3 q2 q2 q0 q1 q,6 q,3
+q,5 2 q2 q1 q1 2. ~ 2 - q5 q6 q6 q0 q5 q6 q6 q0 q5 q6 q6 q5 3 - q3 q2 q2 q1 q3 q0 q2 q3 2 ,6 - - q5 q6 q6 q0 q5
+q6 q6 q0 q5 q6 q6 q5 3 - q3 q2 q2 q1 q3 q0 q2 q3 2 ,6 1 - x q1 q5 q,5 q2 q3 q,5 q0 s2 s1 x qx qx qx qx x 0 qx qx
+qx qx x 0 qx qx qx. sx qx qx x sx sx sx sx qx qx x 0 qx qx qx qx x 0 qx qx qx qx x 0 qx qx qx. sx qx qx x qx sx
+sx qx qx qx. sx x x x x 0 3 5 5 q,7 q,6 ,6 ,5 - - 3 5 5 q,7 q,6 ,6 ,5 - - q,6 q2 q2 q1 2 0 q5 q,6 q3 q2 2 0
+5 6 q5 q6 6 q5 q6 q6 q5 3 - q,6 q2 q2 q1 q2 q0 q,6 q,5 5 - - - 5' - - - x q1 q5 q,5 q2 q,5 q3 q,5 q0 q1 q5 q,5 q2
+q,5 q3 q,5 q0 1 x q1
+%END

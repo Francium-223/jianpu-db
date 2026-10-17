@@ -1,0 +1,21 @@
+%白.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=32918
+title=白
+tag=
+usertag=
+tagroute=
+confidence=0.967
+conf_p10=0.936
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-32918
+%--
+4/4
+subtitle=score
+- - - x' 0 1. 0 ,5 6 6 3. 3 2 6 4 1 x q1 q1' q2' 2' - q1 q1' - q3' - q3' 3' - x 5 q4 3. q0 q1 2 q3 3. q0
+q5 7 q1' 1' q3 q4 ~ 4 - 0 0 5 q4 3. q0 q1 2 q3 3. q0 q5 1' q2' 2' q1' q1' 1' - 0 q0 q1' q1' q6 q1' q1' q0 q6 q1' q1' q2'
+q7 q7 7. q0 q5 q5 q5 q5 q6 q6 q7 q7' q2' q2' 3' q1' 1' q1' q1' 1' 6 4 q1' q7 q7' q2' 2' - 0 0 q0 q5 q1' q1' q1' q1' q5'. q5' q5'. q5'
+q5'. q5' q3' q2' q0 q1' q3' 2' q1' q3' q1' 1' - q0 q5 q3' q2' 2' q0 q5 q1' q1' q2' q1' q5' q5' q5' q5' q5' q5' q3' q2' q0 q1' q3' 2' q1' q3'. s1' 1'
+- 4' q3' q3' q3' q2' 2' - 0 6 q6 q7 q1' q2' q5 5 q0 q5 q1' q2' q3' q1' 5' 4' 3' 1' - - 0 q5' q5' q5' q5' q5' q5' q3' q2' q0 q1' q3'
+2' q1' q3'. s1' 1' - 0 q0 q6 q1' q2' q3' 1' q2' 3' q1' q1' 1' - - 1 1 - -
+%END

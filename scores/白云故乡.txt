@@ -1,0 +1,19 @@
+%白云故乡.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=50196
+title=白云故乡
+tag=
+usertag=
+tagroute=
+confidence=0.983
+conf_p10=0.982
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-50196
+%--
+3/4
+subtitle=score
+5 3. 2 q1 ,6 ,5 - q2 3 4. 2 q1 2 3 - 3 1. q2 3 5 - 3 q1 ,5. 2 ,5 2 1 - - 1 0 5 3. q2 q1 q,6 ,5 - q2
+q3 4. q2 q1 2 3 - 3 4. q5 7 6 0 5 4 3. 1 ,7 3 ,6 - - ,6 0 ,6 ,6 ,5 ,5. 2 1 3 5 5 - 5 6 7. 6 5 3
+q4 5 6 6 - 6 5. 4 3 4 5 5 - - 5 3. 1 3 1 5 ,5 - 0 ,6 q0 ,6 ,5 ,5. 2 1 3 5 5 - 5 6 7. 6 5 3
+4 5 6 6 - 6 5. 4 3 4 5 5 - - 5 6. 4 6 4 1' 1 - -
+%END

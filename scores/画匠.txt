@@ -1,0 +1,17 @@
+%画匠.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47630
+title=画匠
+tag=
+usertag=
+tagroute=
+confidence=0.998
+conf_p10=0.994
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47630
+%--
+3/4
+subtitle=score
+2. 3 5 6 5 3 2 3 5 6 1' 2 3 1' 3 5 3 - 5 6 1' 2' 3' 1' 1' 2 3 5 3 q2 q3 5 6 q3' q5' 3' - q5 q6 1'
+q2' q3' 1' 6. q5 5 - -
+%END

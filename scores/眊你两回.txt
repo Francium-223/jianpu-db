@@ -1,0 +1,20 @@
+%眊你两回.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47725
+title=眊你两回
+tag=
+usertag=
+tagroute=
+confidence=0.992
+conf_p10=0.993
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47725
+%--
+2/4
+subtitle=score
+1. 6 5 1 5 2 1 ,5 1. 2 1 ,5 1 1 1 2 1 ,5 1 1 2 1 ,5 1 1 1 2 1 ,5 1. 2 5 5 ,5 - q1'. q6 q5 q1' q5
+q2 q1 5 q1 q1 q2 q1 5 q5 q2 q2 q1 5 q1 q1 q1 q2 q1 5 q5 q5 q5 q2 q1 5 1 2 5 5 1 5 4 2 1 1. 6 5 1 5 2
+1 ,5 1 1 2 1 ,5 1 1 1 2 1 ,5 1 1 2 1 ,5 1 1 1 1 ,5 1. 2 5 5 ,5 1. 6 5 1 5 2 1 ,5 1 1 1 1
+1 1 1. 2 1 ,5 5. 2 q1 ,5 1. 2 1 ,5 5. 2 q1 ,5 1. 2 1 ,5 3 5 2 1 ,5 1. 2 1 ,5 4. 2 1 5 1 2 5 5 1
+5 4 2 1.
+%END

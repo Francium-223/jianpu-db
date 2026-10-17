@@ -1,0 +1,19 @@
+%画颜_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=22481
+title=画颜
+tag=
+usertag=
+tagroute=
+confidence=0.985
+conf_p10=0.954
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-22481
+%--
+2/4
+subtitle=score
+- - - - q1. s1 q1 q1 q,7 q,7 3 q,6. s,5 ~ q,5 s,5 s,6 ,3 - q,4. s,4 ~ q,4 s,4 s,3 q,3 q,3 ,6 q1. s1 ~ q1 q2 ~ q2 q,7 ~ ,7 q1. s1
+~ q1 q1 q,7 q,7 3 q,6. s,5 ~ q,5 s,5 s,6 ,3 - q,4. s,4 ~ q,4 s,4 s,3 q,3 q,3 ,6 q1 s2 s3 q,7 q1 ,6 - 0 q0 q2 q3' q3' s3 s2 q1' q1' q7
+s6 s5 5 q6 s6 s5 q3 q2 3 - q4 s4 s3 q4 q5 q3 s2 s1 1 q1 s1 s6 q1 q2 3 q0 q2 q3 s3 s2 q1' q1' q7 q6 5 q6 s6 s5 q1 q2
+3 - q4 s4 s3 q4 q5 q3 s2 s1 1 q1 s1 s2 q,7 d7 s1 ,6 - - - - ,6 q0 q2 ,6 - ,3 - ,3 - ,1 q,3 - - ,3 - ,6 -
+%END

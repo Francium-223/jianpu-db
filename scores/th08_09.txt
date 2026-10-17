@@ -5,7 +5,17 @@ usertag=th08
 tagroute=东方/东方原曲/ZUN/东方新作原曲/东方整数作原曲/th08
 MBID=52585ad8-3a44-37c3-839e-6132f386867c
 alias=少女绮想曲　～ Dream Battle
-status=midi
+status=bare-numbers
+transcriber=Francium-223
+todo=transcribe the crazy piano
 %---
-1
+subtitle=intro,verse
+6 6 6 6 6   5 5 5 5 3   3 3 3 3   3 3 3 3 5 
+6 6 6 6 6   7 7 7 7 #5   #5 #5 #5 #5   3 3 3 3 3
+NextScore
+subtitle=chorus
+3 6 3 1   7 1 5 6 3 6 3 1 
+3 6 3 1   7 1 3 5 6 3 6 
+1 3 1 6   5 2 7 2 1 3 1 6 
+1 3 1 6   7 1 3 7 1 6 1
 %END

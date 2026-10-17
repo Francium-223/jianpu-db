@@ -1,0 +1,19 @@
+%盼春天.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=23465
+title=盼春天
+tag=
+usertag=
+tagroute=
+confidence=0.916
+conf_p10=0.621
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-23465
+%--
+4/4
+subtitle=score
+q1 q,5 q2 q,5 q3 q,5 q5 q,5 q1 q,5 q2 q,5 q3 q,5 q5 q,5 x q3 q1 q2 q3 ,5 - q3 q1 q2 q3 5 - 5 q6 q1' 6 q1 q3 2 - - - q3
+q1 q2 q3 ,6 - q3 q1 q2 q3 ,5 - 5 q3 q1 ,6 q,5 q,6 1 - - - x x' x. 1 1 - 5 q6 q1' 6 - 3 q2 q3 ,6 - 3 q1 ,5
+s6 q1 1 - - - 1 x x. x. x 5 q6 q1 6 - 3 q2 q3 ,6 - 3 q1 q,6 q,5 q,6 3 ,6 - - - q6 q3 q6 q7 1' 2' x 3 q1
+q,6 q,5 q,6 3' ,6 - - -
+%END

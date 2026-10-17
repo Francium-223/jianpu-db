@@ -1,0 +1,23 @@
+%真情无悔.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=32431
+title=真情无悔
+tag=
+usertag=
+tagroute=
+confidence=0.838
+conf_p10=0.483
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-32431
+%--
+4/4
+subtitle=score
+q1 q1 q1 sx ,6 q4 4 x 1 x x ,x'. x' x' x x s5' s5 d2 d2 d5 d5 d6 d6 d5 d5 d6 d6 d7' d7 1'. s7'. s2' 1'. s6 s5 s4 q4 s3 q2
+q6 5 - 1'. s7'. s2' 5. s4 s3 s2 s3 s2 s1 q,7 s2 s,6 ,5 - x ,5 1 q2 s2 s3 2 q5 s5 s2 q4 s3 s5 2 - q4 q4 q3 q2. s3 q2 q,7
+s7 s1 q2 q,6 ,5 - ,5 1 q4 s3 s5 2 q5 s5 s2 q4 s4 s5 6 - q5 s6 s5 4 q4 s3 s5 q2 q3 q2 s,6 s1 q,7 s,6 s1 ,5 - q5. s1' q2'
+s7 s5 1'. s6 s5 q5 s,7 q2 s4 s3 2 - q5 s,7 s1 2 q,7 s7 s,5 1 1' 4 s4' 4 h2 s2 4' 1' s5 s5 s6 ,1. ,1'. s,5 1'. x' 1' sx' s7'. s2'
+1'. s6 ,x x' 0 4 q4 s3 2 q6 5. 5'. 5 q7 7' s1 q2 2 q0 sx q7' ,7' s,5 x'. x. q1 x x q0 ,5 ,7' 5 d1. q2' q2 q2 s0 ,7' d,x s1
+h,5 q1' q5' 0 s1 h1 s0 d1' q7' q1' q7' q1 s,1' s1 s1' 1' 2' h2 d5 q6 q,1 q,1' q4. q5 q5 4 - q2' h1 d3 q1 q2 3 s,x q5 q2 2' s4 s4' s4
+q4 h1 0 q5' q2. s2 2 q4 s5 s6 q1 d5' d5 5 h2 h2 h5 h5 h6. h6 h6 h5 h5 h6 h6 h7'. h7. q0 q,5 q,7 q1 s2 s5 s4 s3 2 s4 q4 s2 s4
+s4 q5 6 - q5 s1' s7. d7 s6 s7 5 q2. s4 5 - - 0 s7. q1 s1' q2' s1. 7 5. 5 q1 - - - 1. q1 1' - - 1' - 0
+%END

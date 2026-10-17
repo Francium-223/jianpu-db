@@ -1,0 +1,17 @@
+%田野歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48282
+title=田野歌
+tag=
+usertag=
+tagroute=
+confidence=0.991
+conf_p10=0.990
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48282
+%--
+2/4
+subtitle=score
+,1 1' 2 3' 4' 2' 3' 4' 5' 1' 4' 3' 2' 3' 4' 5 - 5 - x 0 1' 1' 2' 3' 4' 5 4' 2' 3 1 7 5 6 7 1 2' 7 5 6
+7 1' - 1' - x 0
+%END

@@ -1,0 +1,21 @@
+%白衣天使_4.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=31360
+title=白衣天使
+tag=
+usertag=
+tagroute=
+confidence=0.989
+conf_p10=0.977
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-31360
+%--
+6/8
+subtitle=score
+x 1 1' q6 q2 1 1' 7 q2 5. 1 1' 7 q2 5. 2. 1 1' 1 1 ,5 q,6 6 q5 5. 0 q3 q2 q2 q2 q2 q3 q1 s2 s1 ,6' ,6'. ,5 q,6 5
+q6 2 0 q3 q2 q2 q3 q5 q6 q2 s3 s2 3' 3' ,5 q,6 6 q5 5. 0 q3 q5 q5 q5 q5 q3 q5 q6 q7 q5 6 5 q6 3 q3 s2 s1 ,6 0 q3
+q2 q2 q3 5 q6 3 q2 2 q,6 1. ~ 1. 1. 0 1 q2 2' q1' 1'. 0 q1' q7 q7 q7 7 q5 6. q0 q5 q3 q6 q3 q3 q3 q2 q1 2 q1 2 q3
+q5 q6 q5 ~ 5. 5. 0 1 q2 2' q1' 1'. 0 q1' q7 q7 q7 q7'. q3' q7 1'. 1'. 5 q6 1' q6 q6 q5 q3 2. ,5 q,6 3 q3 ~ q3 1 1. 0 0
+1 1' q3 q5 5. 1 q3 5. q3 2 q1 2. 2. 1 q6 q3 1 q3 1 1' 1' q3' 1 1. 0 0 q3' 1 1. 0 0 5' 5' q6 1' q6 q6 q5 q3 2.
+,5 q,6 3 q3' 1. 1.
+%END

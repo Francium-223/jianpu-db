@@ -1,0 +1,19 @@
+%相约如梦.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=19546
+title=相约如梦
+tag=
+usertag=
+tagroute=
+confidence=0.944
+conf_p10=0.737
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-19546
+%--
+4/4
+subtitle=score
+1 - - x x' qx x x 1 1. x' ,x 1 x x x' x q1 s1 q1 q1 s7 s1 s6 s5 5 q5 s6 s5 q5 s5 s6 q6 q4 4 0 q4 q4 s4 s5
+q4 q4 q3 q2 q4 5 5 - q1 s1 q1 s1 s2 q7 s6 s5 5 q3 5 q1 q2 2 - 0 q2 q1 s2 q3 s2 q2 s6 s7 5 - - - q,,1 s1 1 s,,1
+s2 q1 s5 s1 2 - - - q2 s2 q2 q1 q2 q3 q2 s6 s7 5 - - - 1 - q3 s2 q2 q1 q5. s4 4 4' - 4'. q0 0 q4 q4 5 - q2
+s1 5 s2 s1 q1 1 1
+%END

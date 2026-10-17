@@ -1,0 +1,22 @@
+%百战英雄.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=20293
+title=百战英雄
+tag=
+usertag=
+tagroute=
+confidence=0.961
+conf_p10=0.904
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-20293
+%--
+4/4
+subtitle=score
+,3 - 1 - q2 q3 q,5 q,6 0 0 2 ,6 q1 q2 q,7 q,5 ,6 - - 0 ,6. q,6 q1 1 q,5 q,6 q,4 q5 ,3 - ,6 ,6 q,5 q,6 q,4 ,3 - - q,5 q,6'
+,6 q2 q3 q1 q2 q1' q,7 ,6 0 - 0 ,6 ,6 ,6 q1 q,6 2 2 3' q,5 q,6 3 0 1 ,6 ,6 1 q,5 q,6 0 ,6 ,6 q2 q2 q1 q2' ~ 2 - q2
+q2 q2 q3 ~ 3 - - 0 q4 q0 3 q2 3 q1 q,7 q,5 q,6 0 ,7 ,x ,6 q,5 ,7. ,3 - - 0 q0 q0 3 q2 3 q1 q,7 q,5 q,6 0 2 2 q1
+q,6 q1 q2' ~ 2 - - 0 2 q3' q2 1 - q2 q3 q1' q2' ,6 - ,6. q1 q,5 q,3 q,5 q,6' ~ ,6 - - 0 2 q3 q2 1 - q2 q3 q1' q2 ,6
+- 2. q3 q5 q6 q5 q3 ~ 3 - - 0 q0 3 q6 2 - q1 q2 q3 ,6. 0 2. q3 q2 q3 q5 q3 3 - - 0 q0 3 q6 2 - q1 q2 q3
+,6. 0 5. q3 q5 q3 q5 q6' ~ 6 - - 0 x x ,3 - q1 - q2 q3 q1 q7 ,6 - 2 2 q1 q2 q,7 q,5 ,6 - - 0 ,6. q,6 1 1 q,5
+q,6 q,4 q,5 ,3 - 2 ,6 ,6 q,5 q,6 ,4 ,3 - - q,5 q,6' 2. q3 q,5 q,6 q1 q,7 ,6 - - 0 5. q3 q5 q6 q1' q6 6 - - 0
+%END

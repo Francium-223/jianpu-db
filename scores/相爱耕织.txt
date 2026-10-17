@@ -1,0 +1,20 @@
+%相爱耕织.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=5637
+title=相爱耕织
+tag=
+usertag=
+tagroute=
+confidence=0.924
+conf_p10=0.644
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-5637
+%--
+4/4
+subtitle=score
+1 - - - x' x ,x x x x x qx 1 1 1' x x' qx - - 6 4 1 1. q3 q5 q6 q7 6 3 5. s5 s3 3 - q2 q3 q5 q2 3
+q3 q2 2 - - q1 q,6 q1 q2 2 - - x q,5 q,6 q3 q5 5 - q,3 q,5 q,5 q,6 2 - ,3 ,3 ,5 q2 q1 ,6 - - ,6 x q3 q5 q6 q7 6
+3 5. s5 s3 3 - q2 q3 q5 q2 3 q3 q2 2 - - q1 q,6 q1 q2 2 - - q3 q5 q6 q7 6 2 5. s5 s3 3 - q,5 q,5 q,5 q,6 2 -
+5 q5 s2 s1 ,6 - - - ,6 - - - q3 q2 q3 q5 2 - q2 q3 q5 q2 1 - q,5 q,5 q,5 q,6 2 - 5 q5 s2 s1 ,6 - - - 6 -
+- - 6 - - -
+%END

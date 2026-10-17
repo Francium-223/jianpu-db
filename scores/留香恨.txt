@@ -1,0 +1,21 @@
+%留香恨.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=13803
+title=留香恨
+tag=
+usertag=
+tagroute=
+confidence=0.980
+conf_p10=0.945
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-13803
+%--
+4/4
+subtitle=score
+q3 q2 3 q1' 7 q6 q5 6 - - q6 q5 6. q6' 5' q3' q2' 3' - q0 q3' q3' q2' 1' - q1' q1' q1' q7 6 - 0 q4 q3 2. q1' q7 6 q7 5
+- - q3 q2 3. q1' 7 q6 q5 6 - - q6 q5 6 q6' 5' q3' q2' 3' - q0 q3' q3' q2' 1' - q1' q1' q1' q7 6 - 0 q6 q5 6. q3' 2' q1'
+q6 1' - - q1' q1' 7 - q0 q3 q3 q7 6 - 0 q6 q6 5 - q0 q2 q2 q4 3 - 0 q3'. q3' 2' - q0 q4' q3' q2' 1' - 0 q1' q1' 7
+6 5'. q4' 3' - 0 q3 q2 3. q1' 7 q6 q5 6 - 0 q6 q5 6. q6' 5' q3' q2' 3' - q0 q3' q3' q2' 1' - q1' q1' q1' q7 6 - 0 q6 q5
+6. q3' 2' q1' q6 1' - x q2' 1' 2' x q1' q1' 1' - q0 q3' q3' q2' 1' - q1' q1' q1' q7 6 - 0 q6 q5 6. q3' 2' q1' q6 1' - - -
+1' x
+%END

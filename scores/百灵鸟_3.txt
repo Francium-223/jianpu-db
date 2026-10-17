@@ -1,0 +1,18 @@
+%百灵鸟_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=45690
+title=百灵鸟
+tag=
+usertag=
+tagroute=
+confidence=0.996
+conf_p10=0.993
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-45690
+%--
+4/4
+subtitle=score
+3 6 5 4 3. q1 q2 3. 0 2. q1 7 3. 3 ,6. ,7 1 0 3 6 5 4 3. q1 q2 3. 0 5. q3 q1 5. q4 q2 1. q2 3 0 x 5 0
+0 s2' 3 6 5 3 1 5 4. q0 3 7 6. q3 5 - 4 0 3 6 5 4 3. q2 1 0 ,7. s1 s2 1 ,6 3 - ,6 0 3 6 5 4 3.
+q2 1 0 ,7. s7 2 4 3 - 3 - ,6 0
+%END

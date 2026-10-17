@@ -1,0 +1,25 @@
+%相思缠.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=6316
+title=相思缠
+tag=
+usertag=
+tagroute=
+confidence=0.971
+conf_p10=0.958
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-6316
+%--
+4/4
+subtitle=score
+- - - x x ,x. x'. x'. qx 0 0 0 1. x. x. qx. q3 q5 6 - - q1 q7 6 - - q5 q6 5. q6 q2 q3 q5 q6 3 - - q,6 q1 2
+- - q2 q3 ,7 - - q,6 q,5 ,6. q1 2 q5 s6 s7 ,6 - - - x 3 q3 q6 1 - q2 q7 ,6 - q6 q1 q1 q6 q2 q3 q5 q6 q6 q3 3
+- - 3 q5 q3 6 - q6 q1 q3 q1 2 - q5 q5 q5 q6 2 q2 q3 ,6 - - - 3 q3 q6 1 - ,7 q2 q7 ,6 - q6 q1 q1 q6 q2 q3
+q5 q6 q6 q3 3 - - 3 q5 q3 6 - q6 q1 q3 q1 2 - q2 q2 q2 q3 q5 q6 q2 q,7 ,6 - - q3 q5 6 - - q1 q7 6 - - q5
+q6 5. q6 q2 q3 q5 q6 3 - - q6 q1 2 - - q2 q3 ,7 - - q,6 q1 2. q3 q5 q6 q5 q6 3 - - q3 q5 6 - - q1' q7 6 -
+- q5 q6 5. q6 q2 q3 q5 q6 3 - - q6 q1 2 - - q2 q3 ,7 - - q6 q5 ,6. q1 2 q5 s6 s7 ,6 - - q3 q5 6 - - q1 q7
+6 - - q5 q6 5. q6 q2 q3 q5 q6 3 - - q6 q1 2 - - q2 q3 ,7 - - q,6 q5 ,6. q1 2 q5 s6 s7 ,6 - - - ,6 - - q3
+q5 6 - - q1 q7 6 - - q5 q6 5. q6 q2 q3 q5 q6 3 - - q,6 q1 2 - - q2 q3 ,7 - - q6 q1 2. q3 q5 q6 q5 q6 3 -
+- q3 q5 6 - - q1 q7 6 - - q5 q6 5. q6 q2 q3 q5 q6 3 - - q,6 q1 2 - - q2 q3 ,7 - - q,6 q,5 ,6. q1 2 q,5 s6 s7
+,6 - - q,6 q,5 ,6. q1 2 q,5 s6 s7 ,6 - - q3 q5 6 - - q1 q7 6 - - q5 q6 5. q3 q2 q3 q6 q5 6 - - -
+%END

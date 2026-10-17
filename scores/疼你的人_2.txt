@@ -1,0 +1,20 @@
+%疼你的人_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=40767
+title=疼你的人
+tag=
+usertag=
+tagroute=
+confidence=0.820
+conf_p10=0.429
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-40767
+%--
+4/4
+subtitle=score
+1 - x x x 1 2. 1'. x' 3 3 2' ,x. 1 s6 6' q0 7' x' 1 x 7' ,5' x 5 6' 0 3 x'. 3 2 3 s2 x' ,,1 x 6' q5. q5 q5
+q3 2' 3 - q4 q4 q4 q3 2 q6 6 3 q3 q3 2 2 1 q6 q1 q7' x' ,,1 1 1 1' - 1 ,2 ,2 1 1 1 1' q6' sx' 1 1. x 1 1'
+x x' x' ,x' x x 6. 5 6 q6' q6. q6 q,,,1 q5 3 3 3. s1 s1 s1 s1' s2 1 3. 3 q5 q5 5 5. q6 x'. 5 2 2 2 x 3 3. 2. s2
+s6. s6 s1 q3 q3 q2 1 3 6 q6 q5 3. 3 5 6 5 6 6 3 q2 1 s6 s1 3 q3 q1 s2 s3 2 0 5 5 5 5 x 5 3 q3 6 6
+x 5 - 3 - 6 6 - - -
+%END

@@ -1,0 +1,17 @@
+%电视剧《解放》片尾曲《浪淘沙·北戴河》.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15463
+title=电视剧《解放》片尾曲《浪淘沙·北戴河》
+tag=
+usertag=
+tagroute=
+confidence=0.604
+conf_p10=0.380
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15463
+%--
+4/4
+subtitle=score
+0 0 0 q1'. q,5. 0 q,x. 5. 0 0 q1'. 0 q7. 6. 0 0 qx. 0 qx. 0 0 q2 5'. 0 0 0 0 - 0 q4. 0 0 0 0 q1. q6. q5. 0 0 0
+qx x'. x
+%END

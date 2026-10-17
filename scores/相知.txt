@@ -1,0 +1,18 @@
+%相知.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14795
+title=相知
+tag=
+usertag=
+tagroute=
+confidence=0.898
+conf_p10=0.654
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14795
+%--
+3/4
+subtitle=score
+x x x x 1. 3 0 2' q1 ,x 0 1' q0 q7' q,5 ,6 - 0 ,6 3 0 q2 ,1 ,7 0 1 0 2' q5 q2' 3 - - 2 q0 3 4 q0 4 3'
+0 2' 3 ,6 1 - - x' 2 q0 q3 3 ,7 0 1' q0 q,7' q0 ,5 q6 - 0 - 7 - 3 5 - - 5 - - - 6 5 q2 q3 q4 3 -
+- 3 - - 2 0 3 5 q0 3' q2' q3' 1 - q2 q3 5 - 7 6' 7' 7 - - 7 - - 1 7 - 5 - 6 - - 6 - - 1
+%END

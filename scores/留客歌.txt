@@ -1,0 +1,23 @@
+%留客歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=20141
+title=留客歌
+tag=
+usertag=
+tagroute=
+confidence=0.960
+conf_p10=0.899
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-20141
+%--
+6/8
+subtitle=score
+qx - - 6 1 1 x s2' s5' s2' s5' q2' s1' s2' s2' s1' q6 q5 q6 q1' 2'. s2' s5' s2' s5' q2' s1' s2' s2' s1' q6 q5 q2'. s1' q6 q5 q6 s1' s6 s1'
+s1' q1' s2' s2' s5' s5' q5' s2' s5' s3' s3' q1' s6 s6 s6 s5 q4 s1' s1' s6 s1' q1' q5 s6 s6 s6 s6 s6 s1' q4 q2 2. 2. q2' q2' s2' s5' q2' s2' s1'
+q6 q5 q6 q1' 3' 2'. ~ 2'. q2' q2' s2' s5' q2' s2' s1' q6 q5 q2' q1' 6. 6. q1' q6 s1' q2' q2' s2' s5' q5 s2' q1' q6. s5 q4 q1' q6 q1' q5 q5 q0
+s6 s1' q4 q2 2. 2. 2'. 2'. s5' s6' q5' q3' s2' s5' q1' q6 q5 q6 q1' q2' d3' s5' q1' 6 6. s1' q6 q1' q2' q2' q5' s2' s5' 1' 1'. s6 s6 q6 q5 q4
+2 2. q2' q2' q5' q2' s2' s1' q6 q5 q6 q1' 3' 2'. 2'. q2' q2' q5' d2' d2' s1' q6 q5 q2' q1' 6. 6. q1' q6 s1' q2' q2' q5' q5 s2' q1' q6. s5 q4 q1'
+s6 q1' q5 5 s6 s1' q4 q2 2. 2. 2'. 2'. s5' s6' q5' q3' s2' s5' q1' q6 q5 q6 q1' 2' d3' s5' q1' 6 ~ 6. s1' s6 q1' q2' q2' q5' s2' s3' 1' 1'.
+s6 s1' q6 q5 q4 2 2. 2'. 2'. 2'. s5' s6' q5' q3' s2' s5' q1' q6 q5 q6 q1' 2' s3' s5' q1' 6 6. q1' q6 q1' q2' q2' q5' s2' s5' 1' 1'. s6 s1' q6
+q5 q4 2 2. 0 6. 5. 2'. 2'. 2'. 2. 2' 2'.
+%END

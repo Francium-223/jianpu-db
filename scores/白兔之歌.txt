@@ -1,0 +1,18 @@
+%白兔之歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47823
+title=白兔之歌
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.998
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47823
+%--
+2/4
+subtitle=score
+1 2 1 6 5 6 1 2 2 - 5 6 5 1 2 2 1 6 2 5 6 1 1 2 q2 q2 s1 6 - q6. s5 5 s6 s1 q6 q5 5 5 q5 6
+6 1 2 1 6 2 5 5 6 2 q2 1 6 - 6. 5 5 6 1 6 5 5 5 - 2 5 5 6 4 q1 1 1 2 1 6 4 2 5 6 1
+q2 q1 6 q2 5 q6 4 q1 1 1 2 q1 6 4 - q6. 5 5 q6 q1 s6 s5 5 5
+%END

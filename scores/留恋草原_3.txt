@@ -1,0 +1,24 @@
+%留恋草原_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=7304
+title=留恋草原
+tag=
+usertag=
+tagroute=
+confidence=0.935
+conf_p10=0.798
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-7304
+%--
+2/4
+subtitle=score
+6 q,6 q,6 q2 q3 6 - q3 q6 q5 s3 s5 2 - q3. s5 q,3 s5 s6 - s2 s3 q1 ,6 - - q,6. s6 s1 s2 s3 s5 q,5 s6 s5 ,3 q,6 s6 s5 q,6
+s6 s5 - 3 - q3. s6 q6 s3 s5 s2 s6 s1 s2. s3 q5 s3 s3 q,5 s2 s1 0 ,6 q3. s6 s1 s2 s3 s5 5 6 5 3 6 6 5 6 6 5 -
+3 3. 6 6 3 5 2 6 1 2 2. 3 5 3 3 5 6 2 1 0 6 q1. x' q6. s6 s3. d5 s6 s5 q6 6 s5 s6 q6 s6 s6 s5. d6 s5 s6
+q3 - 3. q3 q,6 s1 s2 s5 s3 s2 s3 2 s3 s5 q,3. s3 s5 s6 s2 s1 - q,6 - ,6 q2 q3 6 0 q3 q6 q5 s3 s5 q2 2. q3. s5 q,3 s5 s6
+3' s2 s3 q1. ,6 0 - q6. s6 s1 s2 s3 s5 q,5 s6 s5 ,3 q,6 s6 s5 q,6 s6 s5 0 3 0 q3. s6 q6 s3 s5 s2 s6 s1 s2. s3 q5 q,3 q,5 s2
+s1 - ,6 - q3. s6 s1 s2 s3 s5 q,5 s6 s5 ,3 q,6 s6 s5 q,6 s6 s5 - 3 - q3. s6 q6 s3 s5 s2 s6 s1 s2. s3 q5 s3 s3 s5 s6 s2 s1
+0 ,6 0 q6. s6 s3. d5 s6 s5 q6 6 s5 s6 q6 s6 s6 s5. d6 s5 s6 q3 - 3. q3 q,6 s1 s2 s5 s3 s2 s3 2 s3 s5 q,3. s3 s5 s6 s2 s1
+0 ,6 - s3 s5 s6 s5 q6 q6 6 q6 s6 s6 s1 s2 2. q3 q6 q5 s3 s5 s1 s6 s1 s2 q2. s3 q5. s3 s5 s6 s2 s1 - ,6 q2 q3 6 - 6
+-
+%END

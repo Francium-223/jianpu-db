@@ -1,0 +1,18 @@
+%相思曲.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15158
+title=相思曲
+tag=
+usertag=
+tagroute=
+confidence=0.951
+conf_p10=0.807
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15158
+%--
+4/4
+subtitle=score
+1 0 x x. 1 x x x ,5. ,6 1 - 2 q2 q,6 ,5 2 5 3 2 1 2 2. q3 5. q3 3 q2 q1 ,6 - 1 2 1 q,3 q,5 q,6 q1 ,5 -
+- - ,5. q,3 ,5 ,6 1 2 - ,6 1. 2 3 5 - 2 - - - ,7. ,6 ,5. q0 2. 3 5. q0 3 5 - 2 1 - - - ,5. ,6 1. q,6 ,5.
+,6 2 - ,5. ,6 3 2 1 ,7 ,6 0
+%END

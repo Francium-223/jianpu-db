@@ -1,0 +1,19 @@
+%登上高峰.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=13152
+title=登上高峰
+tag=
+usertag=
+tagroute=
+confidence=0.835
+conf_p10=0.488
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-13152
+%--
+4/4
+subtitle=score
+1 - - - x x x 1 x x qx 3 6 - - 0 0 0 3 6 x - - 7 6 ,5 ,6 - - - ,6 0 0 0 6' 3 2 1' 5' -
+0 1 x. 1. 1 x x x x 3 3 2 1 x x' 5' - 3 3 2 1 2 - 3 3 3 2 1 2 1 ,7 1 7 6' 1 q,7 q6' 5' 1' 6'
+x - - - 6' - 3 6 - - 3 6 - x 3 x 4 5 5 6 4 3 2 2 - - ,6 ,7 1 0 ,1 ,x'. ,x. 1 - - q,6 q,7 1 1
+2 3 5 3 1 1 q1 7 6 5' 6' - - ,,6 - - -
+%END
