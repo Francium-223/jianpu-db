@@ -1,0 +1,18 @@
+%秋诗篇篇.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=10104
+title=秋诗篇篇
+tag=
+usertag=
+tagroute=
+confidence=0.985
+conf_p10=0.968
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-10104
+%--
+2/4
+subtitle=score
+1'. q7 6 q5 q1 2 - - - 7. q6 5 q2 q1 3 - - - 3. q6 3 q6 q7 1' - 6. s6 s1' 2'. q2' q2' q3' q7 q6' 5 - q2' q7 q6 q5
+1'. q7 6 q5 q1' 2 - - - 7. q6 5 q2 q1 3 - - - 3. q6 1' q7 q1' 2'. q6 2' - q0 q3' q7 q6 5 q5 q6' 1' - - - q3 q5
+q1' q5 q3' q5 q1' q5 x. - - -
+%END

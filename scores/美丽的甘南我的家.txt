@@ -1,0 +1,21 @@
+%美丽的甘南我的家.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=29254
+title=美丽的甘南我的家
+tag=
+usertag=
+tagroute=
+confidence=0.985
+conf_p10=0.982
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-29254
+%--
+3/4
+subtitle=score
+qx - - 1 2 0 qx - - 1 3 2 3 5 6 6 - - 6 - - 6 qx qx sx sx qx ,3 ,6 3 - 5 2 3 ,6. q,5 ,3 ,6 - 1
+2. q3 q6 q5 3 - - 3 - - 6 - 6 5 3 ,6. q3 q5 2 - 3 5 3 5 2. q3 q,5 ,6 - - ,6 - - ,3 ,6 1 3 3 5 2
+3 q,6 q1 q,6 q,5 ,3 ,6 ,6 2 s0 s3 q6 q5 q5 q3 3 - 3 - - 6 6 1' 6 5 3 ,6. q1 q3 q5 2 - 3 5 3 5 2 s0 s3 q,5
+q1 q1 q,6 ,6 - ,6 - - - ,6 1 - 2 3 - - 3 - - 5 - 3 6. q5 s6 s5 3 - - 3 - - 1 - ,6 3 - 5 2 -
+- 2 - 3 5 3 5 5 0 1 ,6 - - ,6 - - 1 - ,6 - 2 3 - - 3 - - 5 - 3 6. 0 q5 s6 s5 3 - - 3 -
+- 1 - ,6 3 - 5 2 - - 2 - 3 5 3 5 5 0 1 ,6 - - ,6 - - 5 3 5 5 0 q5' 6 - - 6 - -
+%END

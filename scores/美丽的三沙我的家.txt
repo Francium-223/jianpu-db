@@ -1,0 +1,21 @@
+%美丽的三沙我的家.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=18483
+title=美丽的三沙我的家
+tag=
+usertag=
+tagroute=
+confidence=0.933
+conf_p10=0.644
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-18483
+%--
+4/4
+subtitle=score
+s6 s7 s7 s6 q6 q7 6 - - - s7 s6 q6 - - - q6 6 0 q6 q6 q4 - q6 0 q6 - - - 7 7 6 6 7 6 0 6' 0 6' 7'
+6 6 6 7' 6 6 0 q6' q4 - q6 0 - - - 0 6' q6 - 6' - - - 6 q4 - q7' q7 q6' q6 q7' 6 - - 0 q1 - 0 0 7
+q6 q6 q6 q6 q4 q7 q7 q6 q6 q7 6 - - q6' q6' x 5'. 6' - q6' - q7 q,6 - - - s6 q6 - q4' - - - - 1 - 6 s6' - -
+sx q5 q2. q7. q7 q7. 6 - 0 0 0 0 x s6 s7 6 - q,2 - - - - q6 - 0 q7 6 - - 6 - - - 6' - 0 q6 q7 q1 q4
+- - - 0 q7' 6 q6 7 q6 6 - q6' 7 qx q4' - 6. q6 q6 - q7 q7 q6 6 7 - - - 2'. q6 q6' 2. - 6' 7' - - - 6 -
+- - 6'
+%END

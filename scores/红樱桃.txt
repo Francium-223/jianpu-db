@@ -1,0 +1,18 @@
+%红樱桃.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=28388
+title=红樱桃
+tag=
+usertag=
+tagroute=
+confidence=0.964
+conf_p10=0.904
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-28388
+%--
+2/4
+subtitle=score
+q1 2' 4 4 3 1 x. 1 x s,6 s,5 s,6 s1 q2 q2 s1 s2 s3 s5 q2 q2 q5 s5 s3 2 5 s1 q2 s1 q,6 ,5 5 x q2 s2 s3 2 - q5 s2
+s3 2 - q5 s5 s3 2 5 q1 s,6 s1 2 - q,6 q,6 s,7 ,6 - q2 q,6 q,7 ,6 - q5 s5 s3 2 5 s1 q2 q1 q,6 ,5 - s,6 s,5 s,6 s1 2 s1
+s2 s3 s5 2 q5 s5 s3 2 5 s1 s2 s1 s,6 ,5 - ,6 q,5 q,5' q,6 s1 2 s1 s2 s3 s5 2 q5 s5 s3 2 5 q6 q5 q3 5 5 4 0
+%END

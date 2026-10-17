@@ -1,0 +1,20 @@
+%美人关.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=31227
+title=美人关
+tag=
+usertag=
+tagroute=
+confidence=0.977
+conf_p10=0.973
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-31227
+%--
+4/4
+subtitle=score
+- - - - - - ,6 q,6 q3 3 q2 q1 2 q1 q,7 ~ ,7 q0 q,5 ,6 q,6 q1 ,7 q,5 q,3 ~ ,3 - 0 0 ,6 q,6 q3 3 q2 q1 2 q5 q2 ~
+2 q0 s,6 s,7 ,6 q,6 q,6 ,5 ,7 ,6 - - 0 ,6 q,6 q3 3 q2 q1 2 q1 q,7 ~ ,7 q0 q,5 ,6 q,6 q1 ,7 q,5 q,3 ,3 - 0 0 ,6 q,6 q3 3
+q2 q1 2 q3 q2 ~ 2 q0 s,6 s,7 ,6 q,6 q,6 ,5 ,7 ,6 - - q1 q2 3 q3 q5 5 q3 q2 3 q3 q5 5 q3 q2 3 q1' q1' q1' q7 q6 q5 3
+- 0 q1 q2 3 q3 q6 6 q3 q2 3 q3 q7 7 q6 q7 1' - q1' s6 s6 q7 q5 6 - - q0 q5 6 q6 q6 q1' q1' q7 q5 6 - - q0 q5
+6. q6 5 q6 q3 ~ 3 - - q0 q5 6 q6 q1' q1' q7 q5 6 - - q0 q5 6 - q6 q5 5 - - - - - 6 - - -
+%END

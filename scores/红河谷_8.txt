@@ -1,0 +1,18 @@
+%红河谷_8.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=8932
+title=红河谷
+tag=
+usertag=
+tagroute=
+confidence=0.950
+conf_p10=0.682
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-8932
+%--
+4/4
+subtitle=score
+1 - - x qx x' 5 q1 3 q3 q3 3 q2 q3 q2 1. q0 5 q1 3 q1 q3 5 q4 q3 2 - - q5 q4 3 q3 q2 1 q2 q3 q5 4. ~ q4
+q0 6 ~ 6 ,5 7 q1 2 q3 q2 1 - q0 5 q1 3 3 3 q2 q3 q2 1. ~ q1 q0 5 3 q3 q5. s5 q4 q3 2 - - q5 q4 3 q3 q2
+1 q2 q3 q5 4. ~ q4 q0 6 ~ 6 ,5 7 q1 q2. s2 q3 q2 1 - q1 q0
+%END

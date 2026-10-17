@@ -1,0 +1,19 @@
+%眼中有灯也有人.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=28638
+title=眼中有灯也有人
+tag=
+usertag=
+tagroute=
+confidence=0.975
+conf_p10=0.965
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-28638
+%--
+4/4
+subtitle=score
+0 q5 q6 q1' q6 q5 q3 5 - - - 0 q5 q6 q1' q6 q5 q1 2 - - - 0 q2 q3 q5 q3 q2 q,6 3 - - - 0 q2 q3 q5 q3 q2 q,6
+,5 - - - x q2 q1 x x q2 q3 5 - - - x 0 q5 q6 q1 q2 q1 q6 1 - - 1 q5 q6 q1 q2 s1 q6. 5 0 - 5 q5 q6 q1
+q2 q1 q1 q3 5 q3 3 - 3 q2 q3 q5 q3 q2 q,6 3 - - - 0 q5 q6 q1 q2 q1 q6 1 - - - 1 q5 q6 q1 q2 s1 q6. 5 - -
+- 5 q5 q6 q1 q2 q1 q6 3'. q2' 1'. q3 2 q2 q3 q5 q6 q3 q2 1 - - - 1 - - q1 q3 2 q2 q3 q5 q6 q3 q2 1 - - -
+%END

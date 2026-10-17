@@ -1,0 +1,26 @@
+%算你狠.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14579
+title=算你狠
+tag=
+usertag=
+tagroute=
+confidence=0.973
+conf_p10=0.956
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14579
+%--
+4/4
+subtitle=score
+1 - - - x 0 x x'. x. x 0 q1 x x' x' x x q6 q6 q6 q6 3 0 q6 q6 q6 q6 3 0 6 6 q6 q6 3 0 q6 q6 q6 q6 q3
+q6 1' 2' 3 - q0 q6 q1 q2 6 - q0 q6 q1 q2 q2 q2 q2 q2 q2 q1 q3 q2 q2 s1 s6 6 q0 q6 q1 q2 3 - q0 q6 q1 2 6 - 0
+6 q1 q2 q2 q2 q2 q2 q2 q1 q3 q2 q2 s1 s6 6 0 q6 q1 2' 2' 2' q2' q3' q2' q7 6 6 q2' q2' q2' q2' q2' q3' q3' q3' s2' s1' 0 q6 2
+2 2 2 3 2 1 q1 q7 6 q6 q1 q2 q2 q2 q2 2 q6 q1 q2 q2 q2 q2 3 q2 q1 6 q6 s5 6 s6 s5 6 s6 s5 q6 s6 s5 q6 s6 s5
+q6 s6 s5 q6 s6 s5 q6 s6 q3' q2' q2' q2' q3' q2' q2' q6' 6' - 0 6. 3 q6 3'. q6' q5' 3' - 2'. q3' 1' 2' 2' 6' 6' - - 6. 3 q6 3'.
+q6' q5' 3' - 2'. q3' q2' q6 5' q5' q6' 6' q0 q6 q2' q,x qx qx qx qx qx sx sx sx sx sx sx qx sx sx sx sx sx qx sx s0 sx sx qx x
+qx sx sx sx sx sx sx sx sx sx s0 sx sx sx qx qx x sx sx sx sx sx qx sx 0 qx sx sx sx sx qx sx qx qx qx sx sx sx sx sx
+sx qx sx sx sx sx qx sx q0 qx sx sx sx sx sx sx qx sx dx dx sx qx sx q0 sx sx qx qx qx qx qx qx qx qx qx qx qx 0 q6 q6
+q5 q6 q6 q5 q6 q6 q5 q6 q6 q5 q6 q6 q5 q6 s6 s5 q6 s6 s5 q6 s6 s1 q3 q2 q2 q1 q2 q1 q3 2 q2 s1 s6 6 - 0 6. 3 2' 3'.
+s3'. s5' q3' 3' 2'. q3' 2' 3' q5' 3 - - - 6. q1' 3 q6 3'. s3' s5' s3' s5' q3' ~ 3' 2'. q3' q2' q2' q1'. s5' 6' - - q6 q6 6 6 3 0
+q6 q6 6 6 3 0 q6 q6 q6 q6 3 0 q6 q6 q6 q6 3 0
+%END

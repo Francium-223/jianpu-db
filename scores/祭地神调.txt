@@ -1,0 +1,18 @@
+%祭地神调.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47834
+title=祭地神调
+tag=
+usertag=
+tagroute=
+confidence=0.977
+conf_p10=0.991
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47834
+%--
+6/8
+subtitle=score
+1 2' q7 1' 1 2' 1' 1' 4 x 4 0 0 0 2' 1' 2' 1' 1' q1 2' 2 1'. 4 q4 0 0 1 2 2 1. 2' 2 1 1'. 4 x 4 0 0
+1' 2' 1 2' 1' 2 1' 4 q6 1' 2 1 1'. 4 4 0 0 0 2' 1 2 2 1 q4 1 2 1 1. q4 x q4 0 0 q0 2 1 2 2 1 0
+7 0 1 2 1 7 1 1. 1 0
+%END

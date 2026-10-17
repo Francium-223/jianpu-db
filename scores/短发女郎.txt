@@ -1,0 +1,26 @@
+%短发女郎.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49598
+title=短发女郎
+tag=
+usertag=
+tagroute=
+confidence=0.958
+conf_p10=0.897
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49598
+%--
+2/4
+subtitle=score
+1 0 q2 1 x' x q,1 1'. ,x. 1. 1' x x' 1. q3' q3' q4' q5' 4' q0 s4' s4' q5' q4' q3' q2' q3' q2' q1' q0 q3' q3' q4' q5' 4' q0 s4' s4' q5' q5'
+q4' q3' 2' 1' - 1 x. q1 q1 q2 q3 2 q0 s2 2 3 q2 1 7 q1 q7 q6 q0 q1 q1 q2 q3 2 q0 s2 s2 q3 q2 q1 q7 6 - 1 q3 q3
+q4 q5 4 0 s4 s4 q5 q4 q3 q2 q3 q2 q1 q0 q3 q3 q4 q5 4 q0 s4 s4. q5 q4 q3 q2 0 0 q1' q1' q2' q3' 2' q0 s2' s2' q3' q2' q1' q7
+q1' q7 q6 q0 q1' q1' q2' q3' 2' q0 s2' s2' q3' q2' q1' q7 qx qx qx qx qx qx sx sx qx q6 q6 q1 q1 q1 q7 q5 0 7 7 2 q2 q2 q1 ,x
+q6 0 q1 s1 s1 2 q1 q7 q5 0 q5 s5 s5 q7 q5 6. q0 1 1' q1' q3' q3' s3' q2' 7 0 2' q2' q4' s4' s4' q3' q1' 0 q3' q3' s3' q4' q3' q2'
+q7 0 q7 s7 s7 q2' q7 1'. 0 q6 q6 q1' s1' s1' q7 q5 0 7 q7 2' q2' q2' q1' q6 x 0 q1' s1' s1' q2' q1' q7 q5 0 5 q5 q5 7 q5 6.
+q0 1 q6 q6 q6 6 6 1 q6 6 q5 6 q7 1 3 1 q2 q2 q2 2 2 q1 q7 q3 q2 q1 q7 6 q6 q0 1 q1 q1 q1 q1 1 1 q1 1 q7
+q1 q2 3 5 1 q4 q4 q4 q4 4 q3 q2 q4 q4 q3 2 1 1 0 1 q6 q6 q6 q6 6 1 q6 6 q5 6 q7 1 3 4 q2 q2 q2 q2 2 q1
+7 2 2 1 q7 6 q6 q0 1 q6 q6 q6 q5 q0 s6 s6 q6 q5 q0 0 q1 q1 q1 q1 1 0 q1 1 q7 q1 q2 3 5 1 q4 q4 q4 q4 4 q3
+q2 q4 q4 q3 q2 0 0 0 0 0 3 q6 q6 q6 q6 6 0 5 q6 6 q5 q6 q7 1' 3' 1 1 q2' q2' q2' 2' 2' q1' q7 q2' q2' q1' q7 1' q1'
+q0 x q3' q3' q4' q5' 4'. s4' s4' q5' q5' q4' q3' 2' 1 qx x x x qx qx sx sx qx 6 0 6 q6 q0 x q1' q2' q3' 2'. s2' s2' q3' q2' q1' 7
+%END

@@ -1,0 +1,20 @@
+%管它是沙还是海.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15401
+title=管它是沙还是海
+tag=
+usertag=
+tagroute=
+confidence=0.742
+conf_p10=0.415
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15401
+%--
+2/4
+subtitle=score
+- - - 1 - 1'. x. x s0 q0 q5' q0 q5 h0 q5' 6'. q5. q,5' q5'. s1' dx s1 s1' q1' q1' h2' q5'. d1 1' 1' q5'. s1 s5' s6' s6' s6' qx q2' q5' s6'
+s0 q0 x 0 1' 5' 1' 1' 5 ,5'. ,5'. ,2'. sx' h6' h5 q0 q1'. q2' 2'. 6'. s2' s2' q1' 3' 5' ,2' 2'. h1 q5'. d1'. d,1' d,1 s6' s6' q6' q1' q5 h0 d0 s0
+q5'. q4' q2' s5 3'. 2' 3' q,3 q1 q,x' s5 h6 1' 6' 5' 5'. 5'. 5 s2' s1'. h5 h6 s6'. q6'. d6' h6. h5 s0 q5. s1' q6' 0 q,2' q5 s5. - q0 q1' q2 q2'
+s2 qx s1' q0 5 x q1' x. q5 q5. q6'. q1' q3 s0 q0 1' 0 q5 q1' 5. q1' x 1 q6' x' 2 0 s2' q6 1' - 5' d1' 0 - q0 5' s5' q1' d0
+dx' 0 d0 d5' d5' x 0 0 0 1' - q2 q0 q2' 1 - 0 0 q0 q1' q2 0 q0 - - 5' - 5' - s5' 0 0 0
+%END

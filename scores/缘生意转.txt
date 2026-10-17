@@ -1,0 +1,23 @@
+%缘生意转.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=23457
+title=缘生意转
+tag=
+usertag=
+tagroute=
+confidence=0.938
+conf_p10=0.732
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-23457
+%--
+2/4
+subtitle=score
+x s1' s1' s1' s1' s2' s2' s3' s3' s1' s1' s2' s2' s3' s3' s1' s1' s1' s2' s2' s3' s3' s1' s1' s2' 0 s1' s1' s1' s1' s2' s2' s3' s3' s3 s1' s1' s2' s2' s3'
+s3' s1' s1' s2' s2' s3' s3' s1' s1' q0 s5 s6 q1 s1 s6 q1 s1 s2 q3 s3 s2 q3 s5 s6 q1 s1 s6 q1 s2 s3 3 q0 s5 s6 q1 s1 s6 q1 s1 s2
+q3 s3 s2 3 q2 s2 s1 q2 q3 2 s0 s,5 s,6 q1 s1 s,6 q1 s1 s2 q3 s3 s2 q3 s,5 s,6 q1 s1 s,6 q1 s2 s3 q2 q3 q0 s,5 s,6 q1 s1 s,6 q1
+s1 s2 q3 s3 s2 3 q2 s2 s1 q,6 s3 s2 2 - s,6 s1 s,5 s,6 s,6 s1 s1 s2 1 - s,6 s1 s,5 s,6 s,6 s1 s1 s3 2 - s6 s1 s5 s6 s6 s1
+s1 s2 1 q0 s1 s2 q3. s1 1 2 q1 s5 s3 s3 s3 s3 s1 s1 s1 q2 q5 3 x' - - - - - - - - x x x ,x q,x x s2 s5 s3
+s3 s3 s3 s1 s1 s1 q2 q5 3 s4 s3 s1 s2 s,6 s,6 s,6 s1 q2 s2 s3 1 s2 s2 s2 s1 s1 s1 s,6 s1 2 - s5 s3 s3 s3 s3 s1 s1 s1 q2
+s5 s3 3 s5 s3 s3 s3 s3 s1 s1 s1 q2 s5 s3 3 s4 s3 s1 s2 s6 s6 s6 s1 q2 s2 s3 1 x ,x 0 - - x x x x 1 1 1 -
+- 1 - 0 s2 s2 s2 s1 s1 s1 s6 s1 2 q3. s1 1 - 2 3 2 q3. s1 1 - x x 0 0 1
+%END

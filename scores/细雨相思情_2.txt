@@ -1,0 +1,19 @@
+%细雨相思情_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=34085
+title=细雨相思情
+tag=
+usertag=
+tagroute=
+confidence=0.979
+conf_p10=0.967
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-34085
+%--
+4/4
+subtitle=score
+x q3 q5 6 q6 q5 6 q3 q5 6 q6 q5 6 s5 s6 s1 s2 q3. s2 q1 q3 2 q1 s6 s1 6 - - - 3. q5 q6 q5 q3 q1 3 s2 s3 s2 s1
+6 - q6. s6 q6 q5 q3 q5 s3 s5 s3 s2 3 - - - 2. q1 q3 s2 s1 6 q3. s5 s1 s2 s1 s6 q6 q6 6 q3 s3 s5 q3 q2 1 s6 s1 s6
+s5 q5 q6 6 - - 1 1 1 1 6 1. 6 1 2 2. 1 6 1 2 3 q6. s6 s5 s3 s5 s6 3. q1 q3. s3 s2 s3 s2 s1 6 - q3. s2 q1
+q3 2 s1 s2 s1 s6 s1 q1 q6 6 - q3 q5 x x' x x' 5 1 2 6 3 2 1 x' 2 6 0 2
+%END

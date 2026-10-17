@@ -1,0 +1,24 @@
+%空笑梦_闽南语.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=30277
+title=空笑梦 闽南语
+tag=
+usertag=
+tagroute=
+confidence=0.983
+conf_p10=0.961
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-30277
+%--
+4/4
+subtitle=score
+q3 s6 s5 6 q3 s6 s5 6 ~ 6 - s6 s5 s3 s5 3 ~ 3 - q3 q5 q1' q6'. s6'. s6 s1' s1' q1' ~ 1' - q6 q0 s6 s3 s2 3 - - q1
+s,6 s1 ,3 - - q1. s,6 s3 s2 q2 ~ 2 - q1 s2 s1 ,6 - - q,6 s3 s2 3 - - q1 s,6 s1 ,3 - - q1. s,6 s3 s2 q2 ~ 2 - q1
+s2 s1 s,6 q,6 ~ ,6 - - ,6 - - q3 s6 s5 6 - - q6 q5 s3 s5 q3 ~ 3 - q3. s5 q3 2 q1' ,6 ~ s,6 q1 s2 3 - - q,6 s3
+s2 3 - - q1 s,6 s1 ,3 - - q1. s,6 q3 s2 s2 ~ 2 - q1 q2 s1 s,6 ,6 q0 s,3 s,6 s1 s2 s1 3 - q0 s3 q7. s6 3 - - s3 s2
+s2 s1 q2 s1 s,6 ~ ,6 q0 s,4 s,6 s1 s2 s1 q2 s1 s,6 ~ s,6 s,5 q,3 ~ ,3 s0 s,6 s1 s2 3' - 0 s0 q6 s3 2 s2 s1 s,6 s2 s1 s,6 q,6.
+h6 d1 h2 h3 h5 h5 h3 h5 h6 h7 s2'. s3' q4' q4' ~ s4'. s3' s1' d1' d6' ~ q6' q2' ~ 2' 3. q6 q7 q6 ~ q6 q,6 s3 s2 s1 s,6 ,6. s0 q,3 s,5
+q1 h6 h5 h6 h5 s,6 d1 d6 q1 ~ 1 - 0 0 q3 s6 s5 6 - - q6 q5 s3 s5 q3 ~ 3 - q3. s5 s5 s3 2 q1' ,6 ~ s6 q1 s2 3
+- - q0 s6 s3 s2 q3 ~ 3 - s0 s1 s,6 s1 ,3 - - q1. s,6 q3 s2 s2 ~ 2 - q1 q2 q1 ,6. 0 q1. s,6 q3 s2 s2 ~ 2 - s1 s2
+s1 s,6 - - -
+%END

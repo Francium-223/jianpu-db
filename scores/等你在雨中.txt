@@ -1,0 +1,22 @@
+%等你在雨中.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=25399
+title=等你在雨中
+tag=
+usertag=
+tagroute=
+confidence=0.990
+conf_p10=0.980
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-25399
+%--
+4/4
+subtitle=score
+x q3 q3 - s1 s2 3 - q2 q1 q1 1 - - q1 q2 s1 3. q1' - 3 1' q2 - - - q3 - q0 q3 s3 s2 q4 4 - q0 s1 2 1 q0
+q1 q1 q,7 q3 q3 ~ 3 0 0 q,6 q1 q1 2 q1 q,6 q,5 ,5 q3 2 q1 q0 q1 q2 q,6 q2 s1 s1 q1 q1 q,7 q1 1 0 0 0 3 - q0 q3 q3
+q2 4 4 - q0 q1 q2 q2 ~ 2 q0 q2 q2 q1 3 - 0 0 q,6 q1 q1 2 q1 q,6 q,5 q,5 q,5 q3 2 q1 q0 s1 s1 q2 q,6 q2 q1 q1 q1 d7
+s1 q1 ~ 1 0 0 q0 q,5 5 q5 q5 q5 3 q2 ~ 2 - q0 q3 q2 q1 q1 q1 q1 q,6 q1 q2 q3 q3 ~ 3 0 0 q3 q2 q1 q1 q1 q2 q0
+,5 q,5 q3 q5 q2 2 q1 q3 q2 ~ 2 0 q0 s1 s1 q1 q1 q,6 q2 ~ 2 - q0 q,5 5 q5 q5 q5 3 q2 ~ 2 - q0 q3 q2 q1 q1 q1 q1
+q,6 q1 q1 q3 q3 ~ 3 0 0 q3 q2 q1 q1 q1 q2 q0 ,5 q,5 q3 q5 q2 2 q1 q3 q2 ~ 2 0 q0 s1 s1 q1 q1 s6 q1 ~ 1 - 0 -
+- q6 q1 ~ 1 - q0 q3 2 - q0 q0 s1 s1 q1 q1 q0 s6 1 - 0
+%END

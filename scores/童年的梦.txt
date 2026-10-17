@@ -1,0 +1,18 @@
+%童年的梦.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=13329
+title=童年的梦
+tag=
+usertag=
+tagroute=
+confidence=0.948
+conf_p10=0.784
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-13329
+%--
+2/4
+subtitle=score
+1' 2' 3' 6 5 6 3 - 6 5 3. 2 2 1 1. - 1 0 3. 3 5 5. 6 x 1 3 3 5 6. 6 5 3 2 1. 2' - 0 3 2 2
+q1 6 1 q2 q,3 5. q3 q5 6 - 1' 1' 6 3. 5 5 5 5 1' 2' 3' 6 5 6 3 s1' q2'. q3' s6 s5 s3 q1 ~ 1 s1' q2' q3' q6 s5 3
+6 ~ 6 q1 q2 3 q5 q2 3 1. 6 - 0 q1' 1' 0 s6. s1' 2' 3' 3' 3' 3' -
+%END

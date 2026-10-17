@@ -1,0 +1,20 @@
+%美丽的时光_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=34931
+title=美丽的时光
+tag=
+usertag=
+tagroute=
+confidence=0.945
+conf_p10=0.702
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-34931
+%--
+3/4
+subtitle=score
+1 - - q3 4 1 x q1' sx ,6 3 3 3 - q3 q4 3 2 2 2 - q2 q3 2 1 1 ,7. q,6 ,5 ,6 - - ,6' - - x ,6 3 3 3
+- q3 q4 3 2 2 2 - q2 q3 2 1 1 1. q,7 q,6 q1 ,7 - - ,7 - - 3 6 6 6 - 7 6 5 5 - 6 5 4 4 4 1 2
+3 - - 3 - - ,6 q,6 q3 q0 q3 3 - q3 q4 3 2 2 2 - q2 q3 2 1 1 ,7. q,6 ,5 ,6 - - ,6' 6' 7 1' - - 7 - 5
+3 3 - 3 4 5 6 - 6 5 - 4 3' - - 3' 6 7 1' - - 7 - 5 6 3 - 3 6 7 1' - 1' 7. q6 5 6 - - 6
+- -
+%END

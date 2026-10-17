@@ -1,0 +1,22 @@
+%绿色旋律.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=5438
+title=绿色旋律
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-5438
+%--
+4/4
+subtitle=score
+x q,5 q,6 q1 q2 q3 q5 q3 q1 2 - - - q,6 q1 q2 q3 q2 q1 q,6 s7 s6 ,5 - - - q3 q5 q6 q1 q2 q1 q1 s7 s5 6 - - - q6
+q1 q2 q3 q5 q3 q0 q,6 q2 q1 1 - - x 3 q5 q5 5 q6 q1 3 q2 q1 1 - q3 q5 q6 q3 q2 q1 q0 s6 s7 s6 5 - - - q6 q1'
+q1 q2' 1. s6 s5 5 q0 q1 3 - q2 q3 q5 q6 q5 q,6 q0 s6 q3 2. x q7 q1 q7 q5 3 5 5 5 6 1 3 2 3 2 1 - 3 5 6
+3 2 1 6 7 6 5 - x q,7 q1 q2 q5 q6 q1 q1 q2' 1'. s6 s5 5. q1' 3 - q2 q3 q5 q6 q7 2 q6 s6 s7 s6 s5 5 - - q5 q6
+q1 q2 q3 q5 q3. s3 s1 q2. 2 - - q6 s1 s1 q2 q3 q2 1 s6 s7 q6 q5 5 - - q3 5 q6 q6 1. q2 1 q7 6 - q6 s1 s1 q2 q3
+q2 q1 q6 q6 q5' q6' 5' - - q5 q6 q1' q2 q3' q5 q3'. s3' s1' q2'. 2' - - q6 s1' s1 q2' q3' q2' 1' s6 s7 q6 q5 5 - - q3 5 q6 q6
+1. q2 1 q7 6 - q6 s1 s1 q2 q3 q5 3 q6 q2 s3 s2 1' - - x 3. q5 5 q6 q3 5 - - - 6. q1 1 q2 q6 1 - - - q3
+q6 q6 q1 q7 q6 q3 q1 ,7 3 5 - q6 q3 q2 q6 5 q7 q2' 1' - - - x. 6 1' 1' 2' 3' 5 3. 3' - 6 2' 3 2 2' 1' - -
+- 1' - - 0
+%END

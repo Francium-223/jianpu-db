@@ -1,0 +1,23 @@
+%美丽的刀郎姑娘.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=17947
+title=美丽的刀郎姑娘
+tag=
+usertag=
+tagroute=
+confidence=0.956
+conf_p10=0.848
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-17947
+%--
+7/8
+subtitle=score
+1 - - x. x 1 x' 2' q2' 5' q5' q6' 5' q4' 2' - 2' q2' 5' q5' q6' 5' q4' 2' q2' q7 7 q1' 2' q2' q7 1'. 7 q5 q4 3 q4 2 - 3
+q4 5 - 6 q7 6 q2' q3' 1' q7 q6 q7 q5 q6 5. 5 - 5. ~ 5 - q5 q5 q5 7 q7 q1' 0 - 2' q7 q1' q3' q7 q1' 7'. ~ 7 - 7'.
+~ 7' - q2' q5 q5 7 q7 q1' 2' q5' q4' q5' q3' q4' 0 - 2'. ~ 2' - 2'. ~ 2' - q2' q5' q5' q4' q5' q4' q6' 5' q4' 2' 0 2' q5' q4' q5'
+q4' q6' 5' q4' 2' 0 7 q1' 2' q2' q3' 4' q5' q3' q5' 4' - - 2'. ~ 2' - 2'. ~ 2' - 7 q1' 0 - q2' q7 1' q1' 7 5 7 q1' q2' q3'
+q2' q7 1' q1' 7 5 3 q4 2 - 3 q4 5 - 6 q7 6 q2' q3' 1' q7 q6 q7 q5 q6 - - 5 - 5. ~ 5 - 1. 1' 5'. 5' - 5'. 5'
+- 2'. 5' q5' q6' - - q3' q4' q5' q4' q6' 5' - 5'. 5' - 2'. 5' q5' q6' 5' q3' q4' q5' q3' q4' - - 2'. ~ 2' - 2'. ~ 2' - 7 q1' -
+- 2' q2' q7 1'. 7 5 q7 q1' q1' q2' q3' q2' q7 1'. 7 5 3 q4 2 - 3 q4 5 - 6 q7 6 q2' q3' 1' q7 q6 q7 q5 q6 5' - 5'. ~
+5' - q5' q3' q4' 5' 7 q1' 2' q2' q3' 4' q5' q3' q4' 2' 5'. ~ 5' - 5'. ~ 5' - 5'. ~ 5' - 5' q0 0 0
+%END

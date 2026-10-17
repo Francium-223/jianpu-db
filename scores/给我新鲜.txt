@@ -1,0 +1,20 @@
+%给我新鲜.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=37443
+title=给我新鲜
+tag=
+usertag=
+tagroute=
+confidence=0.887
+conf_p10=0.544
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-37443
+%--
+4/4
+subtitle=score
+1 x - x x x x. x. x' x 2' 1' 2 q3 3 3 0 2 2 2 5 5' 5' 6 7 1 7 7' 6 6 5 3' 3' - - 0 q0 6 6 6
+6 6 0 6' 6' 5' 5'. 5' 5' 2 3 4 3 3 4 4 3 2' 3' q2' 2' - - 0 0 3 q3 3 0 3 2 2 5 5' 5' 6 7 1. 7 7
+6' 5' 5'. q3 3' - 0 q0 q6 q6 q6 6 6 6 0 6' 6'. 5' 5' 1' 1' 6 7 1' 1' ,1 6 6' 1' 2' 2' 0 q5 q3' q3' 3' 2' 3' 0 3
+2' 5'. 5' 5' 5' 0 1 1' 1' 7' 7 3' 3' - - q0 6 6 6 5 6 6 q6' 6' 6 5 5 1' 1' 0 1' 6. 1' 0 6 0 q1' 3. 3' 3'
+2' 2'. 5 0 6 1' ,1' 1' 6 1 1' x' 0 7 - - -
+%END

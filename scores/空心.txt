@@ -1,0 +1,19 @@
+%空心.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=50518
+title=空心
+tag=
+usertag=
+tagroute=
+confidence=0.680
+conf_p10=0.350
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-50518
+%--
+4/4
+subtitle=score
+0 0 0 0 0 0 0 sx. qx. 0 0 0 - ,2. 3. 0 0 0 0 - 0 0 - ,,1' 0 0 q3. q0 q1'. q1' 2' ,2'. 0 0 0 0 0 0 0 0
+q3 q,2 q3. q,2 0 0 0 0 q,2. q,x. 0 q,,5 q5. q5 q5 q5 q5. ,5. ,3 0 0 0 0 q,x 1 - 0 0 0 - 0 0 0 0 0 0 - 0 0 0
+q,1 1 q,1 q,1 q,,x q1 q,x q1 q,1 q,1 s1 q1. q,1 1 q,1 1 0 0 0 0 - - - 0 - 0 0 - 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 -
+%END

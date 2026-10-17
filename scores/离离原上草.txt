@@ -1,0 +1,23 @@
+%离离原上草.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=31463
+title=离离原上草
+tag=
+usertag=
+tagroute=
+confidence=0.979
+conf_p10=0.953
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-31463
+%--
+3/4
+subtitle=score
+q6 q3 q1 q3 q2 q3 ,6 3 q6 q5 3 - - 3 - q6 q5 3 - - 3 - q2 q1 2 - - 2 - - ,6 1 2 3 - - q5 q6 5. q1
+q5. s3 3 - q,6 q,6 ,6 1 2 - - q2 q3 2. q1 q1 q,6 ,6 - q,6 q,6 1 2 3 - - q5 q6 5. q1 q5. s3 3 - q,6 q,6 ,6 1 2 -
+- q2 q3 2. q1 q1 q,6 ,6 - q,6 q,6 1 2 3 - - q5 q6 5. q1 q5. s3 3 - q,6 q,6 ,6 1 2 - - q2 q3 2. q1 q1 q,6 ,6 - q,6
+q,6 1 2 3 - - q5 q6 5. q1 q5. s3 3 - q,6 q,6 ,6 1 2 - - q2 q3 2. q1 q1 q,6 ,6 - q6 q5 q3 q2 q1 q7 ,6 - - ,6 1
+2 3 - q6 q5 3 - - 3 - q6 q5 3 - - 3 - q2 q1 2 - - 2 - - ,6 1 2 3 - q6 q5 3 - - 3 - q2 q1 2
+- - 2 - q1 q,7 ,6 - - ,6 - - q1 q,6 ,6 - q,6 q,6 1 2 3 - - q5 q6 5. q1 q5. s3 3 - q,6 q,6 ,6 1 2 - - q2 q3
+2. q1 q1 q,6 ,6 - q,6 q,6 1 2 3 - - q5 q6 5. q1 q5. s3 3 - q,6 q,6 ,6 1 2 - - q2 q3 2. q1 q1 q,6 ,6 - ,6 1 2 3
+- q6 q5 ,6 - - ,6 - - 3 - - 3 - q6 q5 3 - - 3 - q2 q1 2 - q1 q7 ,6 - -
+%END

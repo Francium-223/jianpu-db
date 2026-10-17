@@ -1,0 +1,24 @@
+%离愁怨.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=6318
+title=离愁怨
+tag=
+usertag=
+tagroute=
+confidence=0.959
+conf_p10=0.912
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-6318
+%--
+4/4
+subtitle=score
+- - x'. x 1 x. q,,1 x x qx - - 7 4 ,1 x ,1. x q6 q3 q3 q2 1 - ,7 q6 q5 ,3 - q5. s3 q5 q6 ,7 q6 q5 ,6 - - -
+q6 q1 q1 q2 3 - q5 q6 q3 q2 1 - q7. s7 q7 q3 q2 q1 q1 q7 ,6 - - - q,6. s3 q3 q2 1 - ,7 q,6 q5 ,3 - q5. s3 q5 q,6 ,7
+q,6 q5 ,6 - - - q,6. s1 q1 q2 3 - q5. s6 q3 q2 1 - q7. s7 q7 q3 q2. s3 q5 q3 ,6 - - - q6. s3 q3 q2 1 - ,7 q6 q5 ,3
+- q5. s3 q5 q6 ,7 q6 q5 ,6 - - - q6. s1 q1 q2 3 - q5. s6 q3 q2 1 - q,7. s7 q,7 q3 2 q,5 q,3 ,6 - - q0 s3 s5 q6 q1 q1
+s7 s6 q5 q6 6 6 q0 s5 s6 q7 q6 5 q2 q3 3 - - q2. s2 q2 q3 4 - 0 3 q3 q2 1 - q,7. d7 q,7 q3 2 q,5 q,3 ,6 - - q0
+s3 s5 q6 q1 q1 s7 s6 q5 q6 6 6 q0 s5 s6 q7 q6 5 q2 q3 3 - - q2. s2 q2 q3 4 - 0 3 q3 q2 1 - 0 q,7. s7 q,7 q3 2
+q,5 q,3 ,6 - - - q,6 q3 q3 q2 1 - ,7 q,6 q,5 ,3 - q,5. s3 q,5 q,6 ,7 q,6 q,5 ,6 - - - q,6 q1 q1 q2 3 - q5 q6 q3 q2 1 -
+q,7. d7 q,7 q3 q2 q1 q1 q,7 ,6 - - - q2. s2 q2 q3 4 - 0 0 3 q3 q2 1 - q,7. s7 q,7 q3 2 q,5 q,3 ,6 - - - q,7. s7 q,7 q3
+2 q,5 q,3 ,6 - - - 5 - 3 - 0 0 6 - - - 6 - 0 0
+%END

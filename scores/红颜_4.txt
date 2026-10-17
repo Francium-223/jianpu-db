@@ -1,0 +1,21 @@
+%红颜_4.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=18388
+title=红颜
+tag=
+usertag=
+tagroute=
+confidence=0.952
+conf_p10=0.849
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-18388
+%--
+4/4
+subtitle=score
+1 - - x. x x. x x 1. x x x 5. q4 q3 q5 2 q3 1 - - - ,6. q,5 q,6 q1 2 q3 2 5. q3 q2 q5 q3 2 3 ,7 - - -
+0 ,5 2 0 7 ,6 ,5 - - q1 q1 6 1 5 6 1. q6 q2. q3 q5 q4 3 2 3. 5 5 q3 q2 q3 7 q,7 q0 6 q1 q2 q5 3 2 7 6
+,5 q6 q,5 6 1 2 2 7 5 5 3 2 4 3. 2 3 5 5 0 2 3 ,7 ,7 0 6 1 2. 5 3 2 7 6 ,5 - ,1 1 ,7 q6 q5 ,6.
+1 ,6 q1 2 3 2. q5 q5 q2 3 5 3 2 3 ,7 q,6 q2 q1 7 6 ,5 - x. 5. q4 3 5 q0 2 3 ,1 ,7 1' 1' - ,7. q3 2 3 0
+q,7 q6' ,5 q,6' ,6' - - 1 q1 q5 q6 1. 2. 3 5 4 q3 2 3. 5 5 3 ,7 0 2 ,6 2 1 7 ,5 - 5. 4 q5 4 3 - - 3 -
+0
+%END

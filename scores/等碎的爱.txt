@@ -1,0 +1,23 @@
+%等碎的爱.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=33679
+title=等碎的爱
+tag=
+usertag=
+tagroute=
+confidence=0.977
+conf_p10=0.940
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-33679
+%--
+4/4
+subtitle=score
+x q5 q6 q1' q1' q2' q3' s3' s2'. s3' s2' s1' 1' - - q3'. q5' q6' 6' q0 5' q3' 5' - - s3 s5 s1' 6 q5 q3 q2 s2 s3 ~ q3 q1 ,6 q0 s5
+s6 q5 3 q5 q6 1' q6 5 - 5 x q,5 q,6 q1 q1 q1 q2 3 s2 s3 s2 s1 1 - - q,5 q,6 q1 q1 q1 q2 3 q3 s2 s1 2 - - - q3
+q5 q5 q6 5 q3 s2 s1 q1 q,6' ~ ,6' - - q,6 q,5 q,6 q3 2 q,6 q2 1 - - q,5 q,6 q1 q1 q1 q2 3 s2 s3 s2 s1 1 - - q,5 q,6 q1
+q1 q1 q2'. 3 q3 s2 s1 2 - - - q3 q5 q5 q6 5 q3 s2 s1 q1 q,6' ~ ,6' - - q,6 q,5 q,6 q3 2 q2 q,6 1 - - q3 q5 6 q5 q3
+3 q2 q1 3 q2 q1 ,6 q,6 q,5 ,6 q,5 1 q5 q3 3 - - q2 q1 2 q3 2 q,6 q1 ~ 1 - - q3 q5 6 q5 q3 3 q2 q1 3 q2 q1 ,6
+q,6 q,5 ,6 q,5 1 q5 q3 3 - - q2 q1 2 q3 ,6 q2 q1 1 - - s5 s3 s5 s6 q6 6 6 s6 s5 s3 s2 2 q5 3 s2 s3 d2 s5'. s3' d1
+s2'. d,6 s3' d,5 s5' s3' d6 s2'. s3' s1' q6 5 q6' 5' s6 s5 s3 s5 x q,5 s6 q,6 6 2 q6 q3 d1' ,6 d6 q2 d6 q1 q6 1 s1' q2' q3 q5 h2'. 3'
+2 q3 ,6 q2 q1 1 - - q2 q1 2 q3 ,6 q2 q1 1 - - -
+%END

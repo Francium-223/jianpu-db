@@ -1,0 +1,17 @@
+%种树歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48946
+title=种树歌
+tag=
+usertag=
+tagroute=
+confidence=1.000
+conf_p10=0.999
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48946
+%--
+4/4
+subtitle=score
+1' 5 6 3 5 ~ 5 3 6 5 2 2 3 q5 q6 q5 q3 q5 q4 q3 q2 1 2 2 3 4 5 5 5 6 7 1 1' 7 q6 q5 q1' q6 q5 q4
+q3 q3 2 2 1
+%END

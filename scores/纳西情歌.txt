@@ -1,0 +1,25 @@
+%纳西情歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=24362
+title=纳西情歌
+tag=
+usertag=
+tagroute=
+confidence=0.899
+conf_p10=0.575
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-24362
+%--
+2/4
+subtitle=score
+1 0 0 x. x' x 1 x' - - - - - - x' x' 3 5 6 ,1 5 6 ,1 2 3 q6 6 3 5 1' 6 ,5 6 2 5 3 q2 2 3 5
+3 ,6 q2 2 6 2 q3 q5 q3. s2 q1 s2 s3 q2 s1 s5 6 6 6 s1 s2 q3 q6 q6 s3 s5 q6 6 s5 s6 s2 s5 q3 q2 q1 q5 3 6 q2 q2
+q6 s2 q3 q5 q3. s2 q1 s2 s3 q2 s1 q5 q6 q6 q6 s3 s5 q6 q6 q6 q3 q5 6 2 5 3' ,3 ,6 ,6 3 3 6 q2 q3 ,3 - q2 2 3'. 2'
+q1 ,,6 - q6 6 ,6 ,2' ,6 ,6' q3 s2 q1 q1 q1 q1 ,5 h1 s1 q5 d6 q6 d6 1' 3' x q2' s2 q2 d3 s3 s3 s,2. s2 2 d,,1 s,,1 s3 s5 d2 s2
+d6 q3 s6' s3' s6' s,6 5 q6 s6 ,6 ,2' - - s1' q1 s5 s2' d2 s5 h3 s5 s5' q5' d2 s1 s1 d,1 q3 d1 6 - 6 3' 3' x 6 6 ,1 6 0
+0 3 6 6 3 6 6 ,1' 6 5 5 6 6 5 2 ,5 3 3 ,6 2 2 6 2 3 3 1 2 3 2 ,6 ~ 6 ,6 x ,3 5 6 - 6. 5
+3 s,5 q5 q1 d2 s5 s3 s0 3 h2 s1 d,1 d1 ,1'. q1 s1'. 2 q1 d1' s3 3 q1 ,1 q2 s1' s1 s1' s2 q5 q2 s6 ,5 1' q1 s1 h1 s6 s2 h1. h1
+s3 q2 q3 q5 6 s3 s6 s6' s6 s6 s5 h3 s2 3 s3 1 q1 d2 s3 q2 s1 q,6 q,6 6 q,6 ,6 - 3 - q3 s6 q6 q3 s6 s6 q6 5 5 6 6
+5 2 5 3 3 ,6 2 2 6 2 3 3 2 3 2' 1 ,6 ~ 6 ,6 6 6 d6 s1' s1' 6 s,6 s5 3 1' q1 q2. q2'. 2 ,3 q2 q2 s1 q,6 6
+s,1 6 6 6 1. 6. q0 q0 x. x' 1
+%END

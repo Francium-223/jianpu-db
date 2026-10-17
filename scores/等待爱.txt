@@ -1,0 +1,19 @@
+%等待爱.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15355
+title=等待爱
+tag=
+usertag=
+tagroute=
+confidence=0.915
+conf_p10=0.573
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15355
+%--
+4/4
+subtitle=score
+x' 1'. 1 x x q3 q,4 q,4 q6 5. s1 s1 s1 s0 s6 q6. q6. qx ,1 ,1 x 2 2 - q3 q6 q6 6. x x' x' q4 q3 q6 3 s6 s1' 7 - -
+- x 5. q3 1. q,5 4. q5 2 - s3 s3 q4 s5 q3. q0 6 q1 2 - - - q5 5. q3 q1 6 q6 s1' q7 3. q5 q4 q3 q5 1 6 5. q4 s3
+- q2 1. 1 - 1'. s3 s3 q6 5. s1 s1 s1 s6 6 - s5 s3 s1 s2 2 - - - 1. s3 s3 q6 5. s6 s6 s6 s6 6 - 2' - - - q2'
+q0 0 q5 q4 q3 q2 2. q5 q5 3 3 - 5. q5 - - - - - - 0 0 0
+%END

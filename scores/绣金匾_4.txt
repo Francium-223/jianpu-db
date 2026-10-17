@@ -1,0 +1,22 @@
+%绣金匾_4.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=31211
+title=绣金匾
+tag=
+usertag=
+tagroute=
+confidence=0.916
+conf_p10=0.592
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-31211
+%--
+2/4
+subtitle=score
+1 - - 0 - - x' d,,1 ,,x' 1' x' x' 1' q6 q2' q5 q6 2'. q1' q6. s1' q6 q5 4. q5 6 q6 q2' q6 q5 q4 q3 2. q5 2 - 5 q4 q5 6
+2' q6. s5 q4 q3 2 - q2'. s3' q2' q1' 6 2' q6. s5 q4 q3 2 - q6 s0 s1' q6 q5 q4 s0 s2 q4 q5 q6 s0 s1' q6 q5 q4 s0 s2 q4 q5 6
+2' q6 q5 q4 q3 2. q5 2 ,2' q,1' q6 ,2' s5' q3' 2' q3' q2' 1' 6 2' q3' q5' q3' q2' 1' q6. q5 q4 q2 5 - q6 q2' q5 q6 2'. q1' q6. q1' q6
+q5 4. q5 6 q6 q1' q6 q5 q4 q3 2. q5 2 - x q6 q2' q5 q6 2'. q1' q6. q1' q6 q5 4. q5 6 q6' q2' q6 q5 q4 q3 2. q5 2 0 2' q1'
+q6 2' 5' q4'. q5' q3' q2' 1' 6 2' q3' q5' 3 5 5 - - - - - - x 1 q3' q2' 1' q6. q5 q4 q2 5 - q6 q2' q5 q6 2'. q1' q6 q1'
+q6 q5 4. q5 6 q6 q2' 1. x' 1' 2' 2' q2' q1' x' x x' 1'. 1' x. 1 q6 q5 q4 q3 2. q5 2 - x q6 q2' q5 q6 2'. q1' q6. q1' q6 q5
+4. q5 6 q6 q2' q6 q5 q4 q3 2. q5 2 0 q6 q2' q5 q6 2' q1' q1' q6. q1' q6 q5 4. q5 6 q6 q2' q6 q5 q4 q3 2' -
+%END

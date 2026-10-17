@@ -1,0 +1,21 @@
+%纸条.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=20698
+title=纸条
+tag=
+usertag=
+tagroute=
+confidence=0.976
+conf_p10=0.956
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-20698
+%--
+4/4
+subtitle=score
+qx - - 2 0 x x - x q0 q5 q3. s2 q1. s3 q2. q1 q7 q5 q6 4 q4 0 0 q2. s1 ,7. q2 q1. d7 q,6 ,5 q3. q3 4 q3 0 0 q3. q2
+q1. q3 q2. s1 q7 q,5 q,6 4 q,6 0 0 7. q1 2. s4 q3 q3 q0 q5 q2. s2 q3. s2 q5 5. 5. 6 q5 q6 q5 0 0 0 0 5 q2. s2 q3. s2 q3
+1 q5 q5 4 3 q1 0 0 0 0 0 0 q6. s6 6 - 4 q5. s4 6 - 4 5. s5 6. q5 1 q5 0 q0 s3 0 q3 4 3 3 x q4. 3 4
+- 2 - 1 1 1 5. s4 4 - 2 5. q5 q4. s3 q2 q3 0 q0 q3 0 3 4 5 5 5 - - x 4 5 - - 4 5 4 3 1 q1 q6
+0 6 q4 6 q4 7 - - 5 6 - - 4 5. q5 4. s3 q2 q1 0 0 5 q5 q5 q4 3 0 q5. s5 6 7 qx. sx x. sx x 0 3 3 3
+q4 q4 q4 3 0 x x - 0 0
+%END

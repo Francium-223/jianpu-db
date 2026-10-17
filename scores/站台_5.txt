@@ -1,0 +1,28 @@
+%站台_5.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=648
+title=站台
+tag=
+usertag=
+tagroute=
+confidence=0.942
+conf_p10=0.826
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-648
+%--
+2/4
+subtitle=score
+1 x 1. x ,x qx - - 1 2 0 x x 1 x q,3 q,6 q2 q,6 ~ q,6 q0 0 q,3 q,6 q1 q,6 ~ q,6 q0 0 q,5 q,6 q,7 q,6 ~ q,6 q0 0 q,3
+q,6 q2 q,6 ~ q,6 q0 0 q,3 q,6 q1 q,6 ~ q,6 q0 0 q,5 q,6 q,7 q,6 ~ q,6 q0 0 q,5 s,6 2 q,6 q,3 q,5 s,6 0 ,6 0 ,6 q,6' s,6 s0 s0 q,1 q,6
+q2 1 3 q,6 3 ,6 3 q5 q0 q6 0 2 q,6 q,7 0 1 q5 d1 q6 s,7 3 q,5 d,2 3 ,3 q2 q3 ,3 ,6 q,3 ,6 q,5 ,1 1 ,6 2 6'. q3 q1 q1
+q2 2 1 3. q,5 s,3 q2 q3 ,6 q1 ,6 ,6 ,6 x ,5 ,5 ,5 q,5 q,6 ~ ,6 0 ,5 ,5 ,5 q,5 q,6 ~ ,6 0 3 0 q3 q1 q3 q2 2 0 2 0
+q0 5 q5 0 6 3 - 3 - 3 - q3 q1 q3 q2 ~ 2 0 2 0 q0 5 q5 q5' q3' 3 6 0 6 0 q6. s6 6 q6 q5 6 q6 q6 q6 q5
+s5 q5. s5 5 q5 q3 5 q3 q3 q2 q1 3 0 q6. s6 6 q6 q5 6 q6 q6 q6 q5 s5 q5. s5 5 q5 q3 5 0 0 3. q5 6 0 6 0 6 0
+6 0 6. ,6 ,6 ,6 q1 q,6 ~ ,6 0 q,5 q,3 q,5 q,6 ~ ,6 0 q2 q3 q2 q3 q,5 q,3 q,5 q,6 ~ ,6 0 q,6 q1 q2 q3 q2 q1 q,6 q,6 ~ ,6 0
+,6 ,6 ,6 q1 s,6 ~ ,6 - 0 0 s,6 s,7 1 ~ s1 s,7. s,5 s,2 ,3 - ,3 s,3 s,5 ,6 ,6 1 2 3 0 q2 q3 1 2 q1 s,5 ,6 - ,6 - x.
+6' - 6' - 6 - 6 - 6. ,6 ,1 ,7 q1 q2 3 3 q,6 q,6 ,6 ,7 q1 q2 3 3 - ,6 ,7 q1 q2 3 3 - x q6. s6 6 q6 q5 6 q6
+q6 q6 q5 s5 q5. s5 5 q5 q3 5 q3 q3 q2 q1 3 - q6. s6 6 q6 q5 6 q6 q6 q6 q5 s5 3' q5. s5 5 q5 q3 5 0 0 3. q5 6 0
+6 0 6 0 6 0 6 ~ ,6 ,6 ,6 q1 q6 ~ ,6 0 0 0 s,6 s,7 1 ~ s1 s,7. s,5 s,2 ,3 - ,3 s,3 s,5 ,6 ,6 ~ s,6 1 q2 ~ q2 3.
+q2 q3 1 ,6 ,7 - ,7 s,3 s,5 ,6 ,6 ~ s,6 q0 q1 q2 3 3 ~ 3 q5 q6 2 - 0 q5 q6 3 - 3 q2 q3 ,6 ,6 1 2 q3 q1 ,7 1
+s5 s3 ,6 - ,6 - x x
+%END

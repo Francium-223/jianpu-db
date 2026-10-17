@@ -1,0 +1,19 @@
+%红楼梦曲.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14573
+title=红楼梦曲
+tag=
+usertag=
+tagroute=
+confidence=0.935
+conf_p10=0.819
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14573
+%--
+4/4
+subtitle=score
+3'. 3 ,6 5 ,6 - - 3 2 1 ,6 q5 ,6 - - 6 7 6 6 5 6 3 - - q2 3 q2 2 ,6 1 2 q1 q2 ,6 - - ,1 2 q3 q3
+,6 q3 2 - - q3 q5 6. q7 q6 q7 6 7 - 3 5 - - 5 6 1 - - 7 1 7 0 6 - - 5 q6 1 3 2 ,6 1 ,7 ,6 ,6
+,5. q,5 q,6 1. ,6 3. 2 3 2 - - 3 ,7 ,5 3 2 ,7 3 2 q,3 ,5 q1 ,6. ,6 - 1' 6. 6 - 1' 2'. q1' 2' ,1 2' 6 1 6. 6 0
+6 - - -
+%END

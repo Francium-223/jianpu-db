@@ -1,0 +1,22 @@
+%第四晚心情_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=27757
+title=第四晚心情
+tag=
+usertag=
+tagroute=
+confidence=0.969
+conf_p10=0.966
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-27757
+%--
+4/4
+subtitle=score
+1 - - - x x x x x 1 ,6 q1 2 q1 q,6 1 q2 ,6 q,7 1 1 ,7 ,5 ,2 q,2 ,3 ,3 - 0 0 ,6 1 ,6 1 q2 0 ,6 1 ,6 q3
+2 0 q,6 q,7 1 1 ,7 ,5 q,2 2 q3 3 - q2 3 4 4 q4 4 4 2 3 4 ,4 3 2 2 2 1 2 0 2 1 2 q1 ,7 ,7 ,6 7 q1
+3 ,6 - ,6 ,7 q1 3 ,6 - ,6 ,7 1 2 2 1 2 1 3 3 - 0 3 2 0 ,6 q3 ,6 q3 q2 q2 3. 0 3 2 0 ,6 1 2 3 ,6
+,1 0 3 2 0 6 3 ,6 3 2 2 3 0 3 2 q0 ,6 1 2 3 6 ,6 ,6 1 2 2 2 1 q3 3 x q,7 q,3 q1 ,7 q,3 s,,7 q,7 q,6 ,6
+- q1 q2 q3 q6 ,6 0 0 3 2 0 6 q3 q,6 q3 2 q2 3. x 3 2 q1 q2 q3 q,6 ,6 0 3 2 3 q6 3 2 q2 3. 0 3 2. 6 q1
+2 3 ,6 ,6 q,6 q1 2 2 2 q1 q3 q0 q1 q,7 ,3 q1 q,7 q,3 q,7 ,7 q,6 qx qx x qx qx qx qx qx q0 qx qx qx qx qx qx qx x qx qx
+qx qx q0 qx qx qx x x x qx qx qx q,x qx qx qx x qx x qx x x qx ,x qx q,x x qx qx qx qx q,x x q,x q,x qx x 7
+%END

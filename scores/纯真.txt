@@ -1,0 +1,20 @@
+%纯真.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=33911
+title=纯真
+tag=
+usertag=
+tagroute=
+confidence=0.958
+conf_p10=0.916
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-33911
+%--
+4/4
+subtitle=score
+s,5 q,6 s1 ~ 1 s,5 q,6 s1 ~ 1 s,5 q,6 s1 q3 q1 s1 q,6 s1 ~ 1 q3 q1 q1 q,6 s1 q,6 s2 ~ 2 s0 s1 s1 s,6 q3 q2 s2 q1. q0 s1 s2
+2. s3 q2. d1 d6 ,5 s,5 q,6 s1 ~ 1 s,5 q,6 s1 ~ 1 s,6 q,6 s1 q3 q1 s1 q,6 s1 ~ 1 q3 q5 q6 q5 s3 s2 q1 1 q3 q5 q5 s3 s6 ~
+6 - q3 q1 s1 q,6. 2 - 0 0 0 0 q5 q3 q5 s3 s5 ~ 5 - q5 q3 s5' q1' s1' 1' - q5 q4 q4 s3 s4 4 s0 s6 s6 s1 q3 q2 q2
+s1 s2 2 - q5 q3 q5 s3 s5 5 - q5 q3 s5' q1' s1' 1' q1' s1' s1' s2' s2' q3' q1' s3' s1' s1' ~ d1' ~ 1' ~ 1' q3' q1' s3' s1' sx' s1' q6.
+3' 1' - - - - - - - - 0 0 2' - - 0 1' - - - - - - - -
+%END

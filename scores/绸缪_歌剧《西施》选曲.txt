@@ -1,0 +1,19 @@
+%绸缪_歌剧《西施》选曲.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=29392
+title=绸缪 歌剧《西施》选曲
+tag=
+usertag=
+tagroute=
+confidence=0.932
+conf_p10=0.736
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-29392
+%--
+2/4
+subtitle=score
+1 - - 0 1. x' x 1 x x q2' s2' s2' s3'. s5'. s3' s2' 1' - q1' s1' s1' q2' s2' s3' 6 - q6 s6 s6 q2' s2' s3' q6 6. q6 q6 s1' s1' s1'
+s6 5 - q3 s2 s3 s5. d5 s3 s5 q1' s1' s2' 2' q3' s5' s6' q3' s5' s6' 2' q1'. s2'. s3' q1' s2'. s3' 6 q1' s1' s2' q1' s1' s2' 5 q6 q3 s1' s1' s5
+s6 s5 s3 2' 2 - 1'. q2' q1' s1' s1' q1' s2'. s3' 6 - q6 q6 s1' s1' s1' s6 5 - q3 s1' s1' s5 s6 s5 s3 2 3 q3 4. 5 - 0 1 0
+0 5 q6 s3 s0 s1' s1' s5 s6 s5 s3 2 - - q2. s3 q1 q3 q2 2'. 2' - 2' -
+%END

@@ -1,0 +1,23 @@
+%等你来给你爱.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=21877
+title=等你来给你爱
+tag=
+usertag=
+tagroute=
+confidence=0.946
+conf_p10=0.785
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-21877
+%--
+4/4
+subtitle=score
+1 x x x x 1 q3 s4 s5 6' x s5 s6 s5 s4 s3 s4 d3 d4 s3 d2 - 3 - - - s2 s4 s3 s2 s3 s2 s7 s1'. 2 0 s3 s4 s3 s2
+s3 s2 s1 s7 ,7 0 ,6 - 0 - q,6 q,6 q,7 s,6 s,7 s1 q2 s1 ,7 q,6 q,6 q,7 s,6 s,7 s1 q2 s1 ,7 q1 q1 q2 s1 s2 s3 q4 s3 2 s3 s4 s3
+s2 s3 s2 s,7 s1 s2 s3 s2 s,7 1 q,6 q,6 ,7 s1 q2 s1 ,7 q,6 q,6 q,7 s6 s7 q1 s2 s1 ,7 q1 q1 q2 q2 q3 s2 s3 q4 q4 q5 q5 s4 s5 s4
+s3 2 - q,6 q,6 ,7 q1 q2 q1 ,7 q,6 q,6 q,7 s6 s7 q1 q2 q1 ,7 q1 q1 q2 q2 q3 q3 q4' q3' q4' q2 q2 q3 q1 q2 q1 ,6 - s6 q6 qx q5
+s6 s7 q7 q6 s7 q1 q1 q7 q1 s2 q3 q4 s5 6' - - 3 q6 q7 s6 5 q5 q6 q5 4 s4 q5 q4 s2'. 3 - - 3 - s3 s4 s5 s6 s6 s7'
+s2'. s2' 6 - - 3' q6 s7 s6 5 q5 s6 s5 4 s4 s5 s4 s3 2 - - 2' - s2 s1 s7 s5 s2 s1 s7 s5 q3 q3 x q4 q4 q5 qx q5 6
+q3 q3 x q4 q4 q5 qx q5 6 q2 s2 s3 q4 q4 s3 s4 s3 s2 1 q,6 q,6 q,7 s6 s7 q1 s2 s1 ,7 q2 q2 s1 s2 q1 ,6 - s3 s4 s3 s2 s3
+s2 s7 s1 s2 s3 s2 s7 1 q2 q2 s1 q2 q1 ,6 - q2 2. q1 q2 ,7 ,6 - - - - - - 0 0 - 0 - - -
+%END

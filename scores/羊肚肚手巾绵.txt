@@ -1,0 +1,23 @@
+%羊肚肚手巾绵.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=28400
+title=羊肚肚手巾绵
+tag=
+usertag=
+tagroute=
+confidence=0.988
+conf_p10=0.980
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-28400
+%--
+4/4
+subtitle=score
+x 2 0 2 0 q2 q2 q6 q5. 4 0 2 0 2 0 q6 q6 q5 q6 2 0 q6 q6 q6 q5 4. q2 0 q5 q5 q3 q2 1 0 2 q6 q5 2 q6 q5
+4 0 4 0 4. q2 6 0 0 0 0 0 2 q5 q3 2 1 2' q6 q5 4 0 2' q6 q5 4. q5 6. q2' 6 0 2' q5' q3'. 2' 1' 2' q6 q5 4
+5 1 q1. s6 q1 1 q6 1 q1 q3 2 0 q6 5 q6 2 - x q0 q2 q5 q6 2 q0 q2 q5 q6 2 5 q4 q3 2 5 6 2 2 q6 q5 q4 q5
+6 - - 2 2 5 7 6 2 5 6 5 - - 6 6 1' 2' 3' 2' 2' q1' q2' q6 q5 4 - q5 q6 6 2' 5 6 5. q1 q4 q3 2 - -
+5' - 2' 6' - - 5' - q3' q2' 1' - - 2' 6 5 4. q5 q6 q1' 2'. q5' q4' q3' 2' - - q2'. s1' q1' 2' q1' 2' q6. s1' q1' 2' q1' 2' 2'
+q6 q5 4 5 q6 6 q2' 6 0 2' q6 q5 4 5 q6 5 q6 2' 0 q4' 4' q2' 5' q4' q4' q5' 6' - - - 4. q5 6 6 5 q3 q2 1 0 2
+q6 q5 4 0 5 q4 q5 6 0 q2 q2 q6 q5 4 2 2' - 2' 5' 5' - - - q2' q2'. q2' q3 2 0 q3'. s2' s1' q2'. 2' - 2' 2' 0 2' 0
+0 - 0 q2 q2 q6 q5 4 0 2 6 q0 q2 2 2 - - 0
+%END

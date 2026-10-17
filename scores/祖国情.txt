@@ -1,0 +1,20 @@
+%祖国情.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=10661
+title=祖国情
+tag=
+usertag=
+tagroute=
+confidence=0.932
+conf_p10=0.774
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-10661
+%--
+4/4
+subtitle=score
+q5'. 5'. q3' 6'. q3' q2'. s4' q3' q2' 1' - q5 q6 q7'. q5' q3'. q2' q2' q7 6 - - 2' q3. s5 q6'. q2' 7 q6 s5 s6 5 - - - q5. s3' q3'. s2'. s3'
+2'. q3' q2' q6 q7 q6 5 - q1' q0 s2' s7 q6. s1' 5 q5'. q2' q3'. s2'. s3' 2' - q3' 5' q3' q2' 2' q7 q6 q7 5 6 - q1'. q2'. q2' 7 q6 s5 s6
+5 - - - q5' 5' q3' 6'. q3' q2'. s4' q3'. q2' 1' - q2' 2' q5' q3'. q5' q3'. q2' q5 q6 q7'. s5'. s3' 2' - q5' 5' q3' 6'. q3' q2' q4' q3'. q2' 3' -
+q2' q4' q3'. q2' q7'. q3' q2' q7 6 - - 2' q3. s5 q6'. q2' 7 q6 s5 s6 5 - - - - ,1 ,1 - - ,1 ,1 q3 q5 q6' q4' q3'. q2' 6' 5' -
+- - 5' - - - 5' - - -
+%END

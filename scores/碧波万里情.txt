@@ -1,0 +1,20 @@
+%碧波万里情.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=13269
+title=碧波万里情
+tag=
+usertag=
+tagroute=
+confidence=0.973
+conf_p10=0.943
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-13269
+%--
+4/4
+subtitle=score
+x. ,,7 1 - 1 2 3 2 5 - - x 3 5 - - 6 3 3 - - 1 2. 2 1 2 3 ,5 - - 3 5 - 6 3 3 2. 1. 0 2
+q3' 4 6 5 - ,5 ,6 - ,7 1. 2 - - 3 4 5 - - 6 1 - - ,6 4 - 4 3 4 3 2 - 2 2 2 1 2 - - - 2
+- - ,5 ,6 - 6 1 2 - - 3 4 5 - - 3 6 - - 5 3 4 - - ,6 3 - 2 1 1 - - ,5 ,6 - q,6 1 2 - -
+3 4 5 - - 6 1 - - ,6 4 4 3 4 3 q2 - 2 1 2 - - ,5 ,6 ,6 ,7 1 2 - 3 4 5 - - 3 6 - - 5 3
+4 - - ,6 3. 3 2 1 1 - - -
+%END

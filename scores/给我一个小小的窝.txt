@@ -1,0 +1,22 @@
+%给我一个小小的窝.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=36173
+title=给我一个小小的窝
+tag=
+usertag=
+tagroute=
+confidence=0.985
+conf_p10=0.973
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-36173
+%--
+4/4
+subtitle=score
+q,6 s,6 s3 s2 s1 s1 s1 q,7 2 s1 s,7 ,6 - 0 0 q,6 s,6 s3 s2 s1 s1 s1 q,7 s,5 s,5 ~ ,5 q5 s3 s2 3 - - s5 s5 s5 s5 s5 s3 q3
+s2 s2 s2 s2 s2 s3 q3 s1 s1 s1 s1 q1 q2 ,7 s,6 s,5 ,5 - 0 0 q,6 s,6 s3 s2 s1 s1 s1 q,7 2 s1 s,7 ,6 - 0 0 q,6 s,6 s3 s2 s1
+s1 s1 q2 q2 s2 q5 s3 3 - - 0 s5 s5 s5 s5 s5 s3 q3 s2 s2 s2 s2 s2 s3 q3 s1 s1 s1 s1 q1 s1 s2 q,7 ,6 s,5 s,6 ,6 - - -
+- 0 q0 s3 s5 s6' s6' s6 s6 s6 s6 q5 s3 5 q0 s3 s5 s6 s6 s6 s6 s6 q7 s6 s5 s6 q5 q0 s2 s3 q2 s2 s1 q,6 s2 s3 q2 s2 s1 q,6.
+d6 s6 s6 s6 s6 s6'. q6 s3 5 q0 s3 s5 s6 s6 s6 s6 s6'. q6 s3 5 q0 s3 s5 s6 s6 s6 s6 s6 q7 s6 s5 s6 q5 q0 s2 s3 q2 s2 s1 q,6
+s2 s3 q2 s2 s1 q,6 s,6 s1 s,7 ~ s,7 ~ s,7 ~ s,7 s,7 q,6 s,5 ,6 - - - q3. ~ 3 s1 s1 s3 d2 d1 s3 q3. 3. q5 q3 q2 q2. s5 q3'. d1'
+d1' 2' 5' - - - x. s,7' ~ s,7 ~ s,7 s,7 s,7 q,6 s,5 ,6 q0 s3 s5 s,7 ~ s,7 ~ s,7 s,7 s,7 q,6 s,5 ,6 - x
+%END

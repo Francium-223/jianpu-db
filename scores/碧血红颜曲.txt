@@ -1,0 +1,20 @@
+%碧血红颜曲.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=2070
+title=碧血红颜曲
+tag=
+usertag=
+tagroute=
+confidence=0.938
+conf_p10=0.726
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-2070
+%--
+4/4
+subtitle=score
+1 - - - x ,1 ,x 1. x 1 3 - 2 q3 q5 ~ q5 q3 ~ 3 - q3 q5 6 - - q1' q2' 3' - 2' - ,6 3 s7 q1 2 q1 q,7 q,6
+q,7 ,5 - ,6. q1 ,7 3 q,6 q,5 q1 q3 2 q1 q,7 ,6 3 q5 q3 2 q1 q2 q3 q1 ,7 q0 q,5 ,6. q1 ,7 q,5 q1 ,6 - - 0 ,6 3 q,7 q1 2
+q1 q,7 q,6 q,7 ,5 - ,4 ,6 ,5 q,7 q1 q,6 q,5 q1 q3 2 q1 q,7 ,6 3 q5 q3 2 q1 q2 q3 q1 ,7 q0 q,5 ,6. q1 q,7 q,7 q2 q1 ,6 - 0 0
+3 3 2 q0 s5 s6 3 q5 q3 2 q3 q5 3 q2 q1 2 q6. s5 3 - 0 0 3 q3 q1 2 q1 q2 x 1. x x q3. s5 q2 q3 ,6 q0 q1 q,6
+q,6 q3 q1 2 q,5 q,7 ,6 - 0 0 x 3 - 2 q3 q5 q5 q3 ~ 3 - q3 q5 6 - - q1' q2' 3' - 2' - x. ,6 - 0 0
+%END

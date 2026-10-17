@@ -1,0 +1,18 @@
+%羊吃了路边的草了.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47594
+title=羊吃了路边的草了
+tag=
+usertag=
+tagroute=
+confidence=0.993
+conf_p10=0.998
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47594
+%--
+3/4
+subtitle=score
+2 - 5 q6 4 2 2 5 4 2 2 5 6 1' 2' - 6 6 2' 1' 7 6 2 1 7 6 5 4 2 2 2 - 0 2 5 4 0 5 6 1
+6 1' 6 6 6 6 5 5 5 0 5 4 2 2 2 5 6 1 6 6 - 1 6 1 2 1 2 2 2 2 1 6 1' q6 q5 6 5 - 5 x
+- 0
+%END

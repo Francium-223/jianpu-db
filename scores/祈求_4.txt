@@ -1,0 +1,21 @@
+%祈求_4.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=46149
+title=祈求
+tag=
+usertag=
+tagroute=
+confidence=0.997
+conf_p10=0.993
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-46149
+%--
+4/4
+subtitle=score
+q0 q1 s2 q3 5 s3 s5 q6 q6 q3 2 s1 1 - - q0 s2 s3 s4 s3 q4 q4 q5 q6 q6 q5 s4 s3 3 q3 s3 q4 q3 2 s2 q3 s2 q1 1 q7
+6 s6 s6 s5 s4 q5 q5 q5 s6 s5 5 q0 q6 s1 q4 4 q5 s6 s3 3 s3 s3 s2 s1 2 - - q0 s1 s2 q4 q4 q5 s6 s3 3 s3 s3 s2 s1
+1 - - q3 5 q6 q6 q1' s2' s1' q1' 7 q3 5. s6 s7 6 q0 s2 s3 q4 q4 q5 s6 3 3 s3 s3 s2 s1 2 - - q3 q5 q6 q6 q1 s2 q1
+q1 7 q5 6 q6 s5 s6 s5 4. s6 s7 s1 q7 q6 q6 q6 s7 s1 s7 q6 q4 q3 q1 2 - - q1 q2 q3 q3 q3 s1 s3 3 q1 q2 7. q6 2. s3
+q5 q6 q6 s6 q1. q2 q2 s2 q3. 5 - - 1 q2 q3 q3 q3 s2 s1 1 q7 q5 6. q7 6. q5 q6 q6 s6 q1'. q2' q2' q1' q7. 1' - - - 1' -
+- q1' q2' 1' - - - 1' - - - 1' - - -
+%END

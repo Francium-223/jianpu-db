@@ -1,0 +1,17 @@
+%竹马沙沙.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=33587
+title=竹马沙沙
+tag=
+usertag=
+tagroute=
+confidence=0.756
+conf_p10=0.404
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-33587
+%--
+4/4
+subtitle=score
+x q,6 q,5 q3 q,5 ,6 0 q5 q,7 6 q3 q3 q5 ,3 1. 0 q1 q6 x q,5 0 q,x x. qx. 0 x x. x 1. x x x 1 x - x x x x 3.
+q5 0 q2. q2. 0 6. 0 q1 0 3. q5 0 qx. q3. q3. q,6 q1 q6 1 q6 q,5 q,6 q1 q,3 q,5' ,6 0 0 x 1. qx. q5. - x x 0 0 0
+%END

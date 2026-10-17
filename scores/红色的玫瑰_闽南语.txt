@@ -1,0 +1,24 @@
+%红色的玫瑰_闽南语.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=35701
+title=红色的玫瑰 闽南语
+tag=
+usertag=
+tagroute=
+confidence=0.985
+conf_p10=0.981
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-35701
+%--
+2/4
+subtitle=score
+x q,6 q3 q3 q2 s3 s2 s3 s5 q3 q2 q1 q1 q2 q2 3 - q,6 q3 q3 q2 s3 s2 s3 s5 q3 q2 q1 s2 s1 q,7 q1 ,6 - q3 q6 q6 q5 s6 s5
+s1' s1' q6 q3 q2 q2 q5 q5 3 - q,6 q3 q3 q2 s3 s2 s3 s5 q3 q2 q1 s2 s1 q,7 q1 ,6 - q0 d7 s1 s2 s1 q,7 ,6 - q,6 q0 0 q,6 s,6
+s3 q3 q2 s3 s2 s3 s5 q3 q2 q1 q1 q2 q2 3 - q,6 s,6 s3 q3 q2 s3 s2 s3 s5 q3 q2 q1 s2 s1 q,7 q1 q1 ,6. q3 s3 s6 q6 q5 s6 s5
+s1' ~ s1' q6 q3 q2 q2 q5 s5 s3 3 - q,6 d6 s3 q3 q2 s3 s2 s3 s5 q3 q2 q1 s2 s1 q,7 q1 ,6 - x q0 s,7 s1 s2 s1 q,7 ,6 s,6 s,7
+s1 s3 s3 s4 s3 s4 s3 s4 s3 s4 q,6 s,6 s3 q3 q2 s3 s2 s3 s5 q3 q2 q1 q1 q2 q2 3 - q,6 s,6 s3 q3 q2 s3 s2 s3 s5 q3 q2 q1 s2
+s1 q,7 s1 s,7 ,6 - q3 s3 s6 q6 q5 s6 s5 s1' ~ s1' q6 q3 q2 q2 q5 s5 s3 3 - q,6 d6 s3 q3 q2 s3 s2 s3 s5 q3 q2 q1 s2 s1 q,7
+q1 ,6 q,6 q,5 ,6 q3 q2 3 q6 q5 6 - 6 - 7 - q1' q7 q6 q5 3 - q5. s5 q5 q3 q5 q5 q6 q5 q3 3. ~ 3 - 6 - 7 - q1'
+q7 q6 q5 3 - q5. s5 q5 q3 q5 q6 q1' q7' q6. ~ s6 q6 q5 q6 q7 q1'. s7 q6. s6 q6 q5 q6 q5 3 q5. s5 q5 q3 q5 q6 q1' q7 q6'. 6. ~
+6 - q6'. 6. ~ 6 - q6'. 6 6 - 1 q6'. 6. ~ 6 - q5. s5 q5 q3 q5 q6 q1' q7 q6'. 6. 6 - 6 -
+%END

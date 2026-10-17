@@ -1,0 +1,20 @@
+%短剧.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12374
+title=短剧
+tag=
+usertag=
+tagroute=
+confidence=0.882
+conf_p10=0.520
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12374
+%--
+4/4
+subtitle=score
+0 q1 6' 6' 1' 1 1' ,1 1' q2 ,7' 7' qx ,7 ,x' x x 0 0 qx x 6' 6 6' 6' ,x 6 1 ,6' 6' x 6' x'. 5' x x' ,7 7' 7'. 1'
+,x 1 ,5 5 x 0 s1 x 1 1 1 1 q1 q1 1' 2 7 7' ~ ,7 x x' - 6 6' 6' 6' ,5 7' 5' 6 3 7. 7 7 1 1 1 1 ,7
+6 ,3 ,5. 6 3 ,7. 6 7 ,1 ,1 q1 q1 2 s1 3 - 3 0 3 3 2 1 3. 3 3 2 1 3. 3 3 2 1 3 3 3 3 2 x 1 2
+1 7' x' 7' 1 2 1 3 3 3 5 q4 3 3 q3 3 3 6 6 6 6 5 3 4 3 3 q3 2 q1 1. 1 ,7 ,5 ,6 ~ 6 - 1 q1 q2
+s2 1 6 ,7 7 q,1 2 2 ,1 6 - - -
+%END

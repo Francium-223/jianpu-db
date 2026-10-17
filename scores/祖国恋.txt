@@ -1,0 +1,21 @@
+%祖国恋.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=35019
+title=祖国恋
+tag=
+usertag=
+tagroute=
+confidence=0.995
+conf_p10=0.990
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-35019
+%--
+2/4
+subtitle=score
+,1 1 - 1' - 1' q7 s1' s7 6 - 0 2 7 - 7 q7 q6 5 - 6 1' 4 - 4 q6 q1' 7 - 5 q2 q4 q5 q7 6 5 - 5 q2 q4
+q3 q2 3 1 - 1 - q,5 ~ 5 q6 q2 s4 s4 q3 q2 q1 ,5. ,5 - q,6 ,7 q1 q2 s2 s4 4 q4 2. ~ 2 - q,5 ~ 5 q6 q2 s4 s4 q3.
+s2 q1 ,6. ~ ,6 - q,6 ,7 q1 q2 s2 s4 q3. s2 q3. s1 ~ 1 ~ 1 1 1' - 1' q1' q1' q7 6 - 6 2 7 - 7 q6 q7 q6 5 - 5
+- 6 q6 q5 s6 s5 4 5. s5 s5 q4 s5 s4 2 3 q3 q2 s3 s2 ,6 q,7 ,7 q,7 q,6 q,7 ,5 5 - 5 - q1 1' q1' q7 s1' s7 6 q2 7 q7
+q6 s7 s6 5 q,5 6 q6 q5 s6 s5 4 q,5 5 q6 q2 q4 q3 q2 q3 1. 1 1 1' - q,5 5 q6 q2 q4 q3 q2 q3 1. 1 3 5 - 5 6 1'
+- 1' - 1' - 1' 0
+%END

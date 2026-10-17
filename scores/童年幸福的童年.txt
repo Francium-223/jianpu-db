@@ -1,0 +1,17 @@
+%童年幸福的童年.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14829
+title=童年幸福的童年
+tag=
+usertag=
+tagroute=
+confidence=0.943
+conf_p10=0.701
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14829
+%--
+2/4
+subtitle=score
+q1 2 q1 q1 q2 q2 q1 q1' q1' x q1 q2 3 2 q1 s2 s1 q1 2 1 s2 s1 1 - x q3. s2 q1 q1 s1 q2 q2. s1 1 2 q1 0 0 1 q1
+x d1. s1' s1' s2' s3' s1' s2' s1' s2' - q1' 1' q1' x x 1 1' 1' 1' q1'
+%END

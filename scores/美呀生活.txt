@@ -1,0 +1,16 @@
+%美呀生活.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14831
+title=美呀生活
+tag=
+usertag=
+tagroute=
+confidence=0.987
+conf_p10=0.903
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14831
+%--
+1/4
+subtitle=score
+x s1 s2 s3 s5 s1' s7' s1' s1' s5 s5 s3 s2 q1 s1 s1 q1 q0 q1 q1 q0 s1 s1 q1 q1 q1 x 1' ~ 1' q1' s1 s2 s3 1' 2' s1' s1' s2 s3
+%END

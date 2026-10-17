@@ -1,0 +1,21 @@
+%破晓时分.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12105
+title=破晓时分
+tag=
+usertag=
+tagroute=
+confidence=0.903
+conf_p10=0.581
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12105
+%--
+4/4
+subtitle=score
+1 - - - q,,,x. ,,,x ,1 1 1. ,,x' 1 x x 1 1' 2. 1' q1 3 1 2 3 1 2 1 2. 3 - 5. 6 3 3 - - - 0 q3 q2 2 q1
+2. q3 ~ 3 - 5. 6. 3 ~ 3 - - 2 3 x q3 q2 q2 q1 q,5 q1 2 1 q3 3 - 0 3 2 q2 q1 q,1 q,5 1 2 3 1 1 - 0
+q1 7. q,7 q,6 q,6 q,3 q,6 q1 q6 s7 s1 0 1 - q0 q,,6 q,,6 q,6 q,6 q,7 q,,7 1 3 2 1 2 2. 0 3 1' 3 3 1' 3 ,4 5' x'. x'. x' x
+,1'. - 1' 4 4 3 2' q2 d,1' 3 3 q1. - - - 0 1 1 1 q1 2 3 3 ~ 3 2 q1 ~ 1 2 ~ q2 q1 q1 0 q,7 ~ q,7 ,7 q,,7
+q,7 q,7 1 q2 2 ~ q2 s1 s2 ~ q,2 q3 3. 0 q1 q1 1 q1 q2 q3 q3 ~ 3 2 q1 2 q0 ,7. ,7 1 2 1 q,7 ,6 - 0 - x 0 0
+q0 q,6 1 2 3. q2 2. 2 ,2 1 3. 3 3' 1' - - ,6. q,,7 ,7 1 1 1 2 3. 2 2 2 ,1. 1 3. 2 2 1. 1
+%END

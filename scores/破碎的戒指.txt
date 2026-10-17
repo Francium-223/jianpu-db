@@ -1,0 +1,17 @@
+%破碎的戒指.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=45695
+title=破碎的戒指
+tag=
+usertag=
+tagroute=
+confidence=0.866
+conf_p10=0.436
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-45695
+%--
+6/8
+subtitle=score
+q,5 3 q3 3 q2 3 4 q2 ,7 q,5 1 1 q1 ,7 q1 2. q2 q0 q2 2 q2 q2 q3 q4 5. ,6 q2 2'. 3. x 1 - - q1'. x 1 1 x. x 1
+q1 q2 q1 q2 3. q3 q0 q3 q3 q2 q2 q2 q3 q4 5 q1' q6 q4 q2 1 q1 3 q2 1. q1 q0
+%END

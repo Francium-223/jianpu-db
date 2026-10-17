@@ -1,0 +1,18 @@
+%笼儿不是鸟的家.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14830
+title=笼儿不是鸟的家
+tag=
+usertag=
+tagroute=
+confidence=0.951
+conf_p10=0.817
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14830
+%--
+6/8
+subtitle=score
+x 3 - s2 s1' s2' - q3' q3' 3' - - - s2' s3' q2' q2' s1'. d2' s3' s2' s1' q1' - - - q1' s2 s3 q1 s2 1 ~ 1 2 s3 1 q2. s3 q1
+s1 q2 q1 q2 3 q3. s2 s1 s2 1 x q3 q2 q3 q3. s2 s1 s2 1 x q2 1 x - q2. s1 s1 s1 s2 s1 x 3 q5 q1 s1 q2. s3 s5 s2 s1
+s2 1 ~ 1 q1 s2 s1 x. 2 0 1 2 0 2 2 x.
+%END

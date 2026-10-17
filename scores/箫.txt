@@ -1,0 +1,17 @@
+%箫.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48952
+title=箫
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.998
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48952
+%--
+2/4
+subtitle=score
+5 1 q6 5 3 q3 5 q3 2 1 - q6 q1' q3 q5 6 3 5 - q6 5 q3 q6 5 - q6 5 q3 6 5 - 5 1 6 5 3 q5 q2 q3 q2
+1 - 1 1 3 2 - 6 1 6 q1 2 6 5 - 1 q1 3 2 6 1' 6 1 2' 6 1 -
+%END

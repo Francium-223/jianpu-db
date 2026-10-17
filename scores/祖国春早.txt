@@ -1,0 +1,22 @@
+%祖国春早.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=32242
+title=祖国春早
+tag=
+usertag=
+tagroute=
+confidence=0.946
+conf_p10=0.794
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-32242
+%--
+3/4
+subtitle=score
+1 4 s3 q4 4 x x 5 2 1 q,5 q1 2 - s5 s6 s1 s2 q,7 q,7 q0 s6 s5 q,5 q0 q,2 q,5 q,5 q0 x q5. s3 q3 1 q5 q5. s3 q3 1 q5
+q5 s5 s5 q5 q2 2' ~ 2 - - q2. s7 q7 ,5 q5 q2. s7 q,7 ,5 q,5 q,5 s5 s5 q,7 q,5 1 ~ 1 - - q5 q5 q5 q3 q1 q0 q,5 q2 2. q5
+q4. s3 2 q0 q2 q7 q7 q5' q5' q5' q0 ,5 1 - q7 s7 s7 q6 q5 ,5 q0 q2 5 - q7 s7 s7 q6 q5 ,5 q5' q5' q5' q0 0 q5 s5 s6 q5 q6
+5 q5. s2 5 - q5 s5 s6 q1 s1 s1. 0 0 q1 q1 ~ q1 s3 s2. 2 - q5 s5 s6 q5 q6 5 q5. s2 5 - q2 d2 s2 q,7 s7 s7. 0 q,7 ~
+q,7 s6 s5 1 - q,5 q5 q5 q6 q2 q0 s2 s3 q1 2 - q7 s7 s1 q2 s2 s2 q7 q7 ~ q7 s6 s5 ,5 - q2 s2 s2 q2 s2 s2 q2 q2 q0 s6
+s5 q5 s0 q0 2 2 2 5 5 1 1 q5. 5 - q5' q5. q5' q5'. q5' q0 0 x x' x x'. x. x. x 5 1 2 6 3 2 x. x. x' 2 ,x 6
+0 2
+%END

@@ -1,0 +1,20 @@
+%翠楼吟.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=37054
+title=翠楼吟
+tag=
+usertag=
+tagroute=
+confidence=0.962
+conf_p10=0.880
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-37054
+%--
+4/4
+subtitle=score
+1 - - - x'. x' ,,x 1'. ,1. 2' 7 6 5 3 2 6 5 3 q4. s3 5. q6 5 - - 0 7 6 7 2 3 - - 7 4' - 2' 7 6 -
+1'. q7 6 - 2'. 0 q7. q2' q3' 4'. q3' 2' - - 0 2 3 6 5 q4. s5 3 2 q4. s5 2 - q1'. s2' 7 6 - 2' 6 5 3 q4. q3 5 -
+- 6 5 - 0 6 5 - - - 7 2' 7 7 2 6 5 3 q4. s3 5. q6 5 - - 0 7 6 7 2 3 - - 7 4' - 2' 7 6 -
+1'. q7 6 - 2'. q7. s1 q2 q3 q4. q3 2 - - 0 2 3 6 5 q4. s5 3 2 q4. s5 2 - q1. s2 7 6 - 2' 6 5 3 4. q3 5 -
+- 6 5 - - 0
+%END

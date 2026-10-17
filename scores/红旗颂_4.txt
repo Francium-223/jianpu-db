@@ -1,0 +1,19 @@
+%红旗颂_4.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=30171
+title=红旗颂
+tag=
+usertag=
+tagroute=
+confidence=0.958
+conf_p10=0.691
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-30171
+%--
+4/4
+subtitle=score
+1 - - x'. x' x. x' 1 1 q2 q1 q7 q2 6 5. q6 q1 q6 q1 q3 5. q4 q3 q2 q3 q5 2 - - - 2. q3 5 4 q3 q2 q3 q5 1 q7
+q6 5 3 q5 q6 q7 q2 6 - - - 6 q6 q7 6 5 1 - - q2 q2 1 q7 q6 5 5 3 - - q2 q3 6 - 5 - q3 q2 q3 q5 2
+- 5 q6 q5 q3 q4 q3 q2 1' - - q3'. q5' 2'. q3' 2' 1' 7 2' 6 1' 5 - - 0 5 - - q3' q5' 2'. q3' 2' 1' 4 2 q4 q5 6 5
+- - - q5 q0 0 0 0
+%END

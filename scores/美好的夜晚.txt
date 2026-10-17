@@ -1,0 +1,20 @@
+%美好的夜晚.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47844
+title=美好的夜晚
+tag=
+usertag=
+tagroute=
+confidence=0.975
+conf_p10=0.986
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47844
+%--
+2/4
+subtitle=score
+x x x x x x 1 2 2 2' 5 2 1' 1 5 1 2' 2' 1' 5 1' 5 q5 5 5 4 1 1 5 1 2 2 5 2. 2 2 1 1 5 1
+1. 1 2 2 2 - 5 - - 2 2 2 1 1 5 4 1 5 1'. 1' 2' 3' 2' 5' 2' 2' 2' 2' 5 2' 2' 1' 4 q3 1' 1' 6 1' 2'. 2'
+4 1 2' 5' 2' 2 2' 6 1 1. - 2 2 2 2 - 2 2 1 5 4 ,1 5. 1 2. 2 2. 4 - 2 2 1 - - 6 1 1 5 1 2.
+2 2 2 2 ,1 5 - 5 5 5 1. 5 1. 6 4 1 2. 2 - - 2 2 q1 6 4 1 2. 2 q2 1 2 2. 2 2 2 5 2' - 1 -
+1' - 5 5 1 2. 2 2 2 1 5 1 5 5 5
+%END

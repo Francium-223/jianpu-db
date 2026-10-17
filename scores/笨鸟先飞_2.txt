@@ -1,0 +1,21 @@
+%笨鸟先飞_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=44021
+title=笨鸟先飞
+tag=
+usertag=
+tagroute=
+confidence=0.993
+conf_p10=0.992
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-44021
+%--
+4/4
+subtitle=score
+x 0 q,5 1 q2 q3 q4 5 q5 q6 q7 1 q7 q7 6 q5 3 0 q,5 6 6 5 3 q1 2 q2 q3 q4 q5 q0 0 1 - - - q3 q3 q3 q3 q4
+q5 5 q4 q4 q3 q2 3 1 - q3 q3 q1 3 q2 2 - q2 q2 q3 q3 q,5 ,5 - 0 q,5 3 3 3 3 q3 q3 q3 q3 q4 q5 5 q4 4 q3 s2
+s3 q1 1 - q3 3 q1 3 q2 2 - ,5 q,6 q2 q3 q4 q5 x q0 q5 q1 q1 1 - - 3 q2 2 - q1 q,6 q1 2 - - 0 q,5 q3 q3 q3
+q3 q2 q1 ,7 q1 6 q5 q1 q1 q1 q1 q2 q1 q7 q7 q6 6 q5 q6 q6 6 q6 q7 q6 5 q3 2 q1 q1 q1 q1 q1 q,6 q3 2 0 q,5 q3 q3 q3
+q3 q2 q1 ,7 q1 6 q5 q1 q1 q1 q1 q2 q1 7 6 6 q5 q6 q6 q6 q6 q7 q6 5 q3 2 q1 q1 q1 q1 q1 q,6 q1 2 q,5 q,6 q2 1 - -
+0
+%END

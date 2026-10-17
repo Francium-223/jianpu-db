@@ -1,0 +1,17 @@
+%红色娘子军连歌_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=9983
+title=红色娘子军连歌
+tag=
+usertag=
+tagroute=
+confidence=0.980
+conf_p10=0.941
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-9983
+%--
+2/4
+subtitle=score
+q,6 q,6 2 s3 s2' s1 s,7' 6 q2 s2 s3 q1 q,6 3'. q2' q,6 s1 s1 s,7 s,6 q,5 6 0 2 5 q6 q6 5 q4. s3 q2 s1 s2 3 - 3 6 q1 q3 2
+q5. s4 q3 q5 2 0 q,6 q,6 2 s3' s2 s1 s,7 6 q2 s2 s3 q1 q,6 3'. q2' q,6 s1 s1 s,7 s,6' q,5 6 -
+%END

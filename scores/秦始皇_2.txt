@@ -1,0 +1,19 @@
+%秦始皇_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=19551
+title=秦始皇
+tag=
+usertag=
+tagroute=
+confidence=0.927
+conf_p10=0.699
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-19551
+%--
+4/4
+subtitle=score
+1 - - - x x x x x x. 6 6 7 7 q6 0 2' 2' 3' 4' 3' 2' 0 6 6 7 7 5 q2 3 3 - - 6 q6 7 1 7 q6 0
+2 2 3 q4 3 2 0 6 6 7 7 5 7 q6 ~ 6 - - 2' q2' 6 6 3' q2' 6 3 7 x 5 6 2 3 - 2' q2' q6 6 3' 2' q1'
+6 7'. 5 3 7 x - - - q0 6 q7 2' - q0 6 q7 2' - 6 x' 6 4' 3' - - - 0 6 q7 2' - q0 6 0 2' - q,,6 7 q7
+5 7 6 - - -
+%END
