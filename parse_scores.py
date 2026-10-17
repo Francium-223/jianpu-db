@@ -45,3 +45,12 @@ with open('./data.jsonl', 'w', encoding='utf-8') as f:
 		f.write(json.dumps(_r, ensure_ascii=False) + '\n')
 print(f'data.json  {len(b)} 首  -> ./data.json')
 print(f'data.jsonl {len(rows)} 首  -> ./data.jsonl  (待整理已跳过 {len(b) - len(rows)})')
+# README 顶上那六颗徽章跟着这次产物刷新(2026-10-17 作者: "这个应该 parse 的时候更新一下")。
+# 语料太小(测试、toy 目录)不动, 找不到 README 也不动 —— 都交给 readme_badges 自己判。
+try:
+	import readme_badges
+	_got = readme_badges.refresh(rows)
+	if _got:
+		print('README 徽章 %s  (旧行 %d 字符)' % ('已刷新' if _got[2] else '已是最新', len(_got[0])))
+except Exception as _e:
+	print('README 徽章未刷新:', _e)
