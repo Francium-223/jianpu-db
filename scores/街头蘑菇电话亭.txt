@@ -1,0 +1,19 @@
+%街头蘑菇电话亭.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48983
+title=街头蘑菇电话亭
+tag=
+usertag=
+tagroute=
+confidence=0.974
+conf_p10=0.970
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48983
+%--
+2/4
+subtitle=score
+1 - - x x x' x x 3 q3 q1 3 q3 q1 5 1 q5 q1 ,5 1 5 1 5 3 4 5 5 q1 2 x q2 3 3 3 2 3 2 3. 4 4.
+q4 3 5 5 1 2. ,7 ,7 1 2. 4 3 2 1 1 5 5 5 5 6 6 6 4 5 5 4 4 4 4 3 3 1 2 3. 3 5 3 3 3 3
+4 2 5 7 2 4 3 2 3 3 0 5 q3 3 3 q3 q4 2 q5 q7 q2 q4 3 2 1 0 qx x. x x x x x x x qx x x x. x
+qx qx x x
+%END

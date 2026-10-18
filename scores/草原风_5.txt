@@ -1,0 +1,24 @@
+%草原风_5.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=30713
+title=草原风
+tag=
+usertag=
+tagroute=
+confidence=0.963
+conf_p10=0.925
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-30713
+%--
+4/4
+subtitle=score
+1 - - - - x x x s6 s3 s6 s7 s1' d1' d1' d7 d6 d5 ,6 3 2 q1 q,7 ,6 q,6 q1 ,7 ,5 ,6 3 2 ,7 ,6 q,7 q,5 ,6 - ,6 q3. s3
+q2. s1 3 s2. d2 s2 s2 ~ s2 q1 s2 3 - ,6 q3. s3 q2. s1 ,7 s,7. d1 s,7 s,6 ~ s,6 q,5 s,6 q,7 ,6 ,6 q3. s3 q2. s1 3 s2. d2 s2 s2 ~
+s2 q1 s2 q3. s5 3 ,6 q3. s3 q2. s1 ,7 s,7. d1 s,7 s,6 ~ s,6 q,5 s,7'. ,6 - s,6 s,3 s,6 s,7 s1 s,7 d1 d7 s1 q3 q6 q6 s5 s3 q5 s5 s6 6
+q6'. 1' s6 s5 q5 3. q,6 s,6 s2 q2 s1 s,6 s1 q1 s2 2 q2 s2 s1 s1 q5. 3 - q3 s3 s6 q6 s5 s3 q5 s5 s6 6 q6'. 1' s6 s5 q5 3. q,6
+s,6 s2 q2 s1 s,6 q1 s1 s2 2 q2 q2 s2 s3 s1 d7 d6 q,6 ,6. q6 q6 q6 q0 qx x ,6 q3. s3 q2. s1 3 s2. d2 s2 s2 s2 q1 s2 q3. s5 3
+,6 q3. s3 q2. s1 ,7 s,7. d1 s,7 s,6 ~ s,6 q,5 s,7'. ,6 - ,6 q3. s3 q2. s1 3 s2. d2 s2 s2 ~ s2 q1 s2 q3. s5 3 ,6 q3. s3 q2. s1 ,7 s,7.
+d1 s,7 s,6 s,6 q,5 s,7 ,6 - s6 s3 s6 s7 s1 s7 d1 d7 d6 d5 s3 q1 s6 6 - - q6. s5 3 - - s5 q6 s3 s2 s3 q2 2. q1 q1 q2 q2
+q3 3 - s3 q1' s6 6 - - q6. s5 q2 q3 3 - q6. s3 s2 s3 q2 ~ 2 - q1 s2 s3 q1 q,6 ,6 - d3'. d2' s1'. d1' d1' s7 d1' d7' d6 d1'
+d1' d7 d6 d5 x
+%END

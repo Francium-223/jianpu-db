@@ -1,0 +1,21 @@
+%苦爱.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14365
+title=苦爱
+tag=
+usertag=
+tagroute=
+confidence=0.897
+conf_p10=0.549
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14365
+%--
+2/4
+subtitle=score
+q1 - - q1 4 q3 0 - x x 1 x 1' x x x x x x s1' q1' s6 q6. s5 q3 s3 s7 q6' q5' s3' s5' s3' s2' s1' q,6' s,6 2 - q2. s3
+s5 q5. q6 s3 s2 1 s2 s3 s2 s1 s,7 s,6 s,7 s,6 q,5 q,6 ,6 s2. d3 s5 s5 s0 q5 s3 6. s5 s6 q7 s6 s7 7 - q1. s6 s3 q3 s2 q2 q7 s6
+q5. s3 s5 - s3 s5 s3 s2 q1 2 - q1. s6 s3 q3. q2 q7 s6 q5. q5 s3 s5 q3 q3 d2' s3' 1 q2 q1' q,6' 5. s3 s5 6. s,6 s1 q2 4 s3' s2'
+x' 1. s5 s6 q3'. s2' q1'. s6 s3'. q3'. s2' x' 1' q3'. q2' s2' s7 q6 x' 5 - q3'. s2' s6 q3'. s2' 1' q3'. - s2'. - s2' s,3'. s1' q1' 2' 3'. 2'. 2' 2'
+7 6 5. 5 3 3 5 3 3 2 2' 6' 1. 5' 3' 3' 5' 3 3 2 2' 6' - x 1 - x 1 - x 1 1. s5 s3 s3 s5 - s3 - s3
+q2 s2 s,6 1 - 1 -
+%END

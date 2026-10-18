@@ -1,0 +1,22 @@
+%薇多莉亚的秘密.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=23581
+title=薇多莉亚的秘密
+tag=
+usertag=
+tagroute=
+confidence=0.954
+conf_p10=0.833
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-23581
+%--
+4/4
+subtitle=score
+q0 q3' 3' - 3' 0 0 0 0 3' 3' 2' 2' 2' q2'. q3' q1' q1' 6 3' 3' 2' 2' 2' q2'. q3' q1' q1' q6 q6 6' q3' q2' 2' 2' 2' q2'. q3' q1' q1'
+q6 q5 6 q0 q5 6 q0 q5 q6 q5 q6 q7 1' - x 6 q6 s6 3' s3'. q3' q1' ~ q1' q2'. q3' 3' - 6 q6 q6 3' q3'. q3' q1' q1' q2'. q3' 3' -
+6 q6 q6 3' q3'. q3' q1' ~ q1' q2'. q3' 3' q1' ~ q1' 6 1' 6 1' q2'. q3' q2' q3' ~ 3' - 0 0 0 0 0 0 0 0 q2 q3 q2 q3 3 -
+6 q6 q6 3 q3 q3 q2 q1 q2 q3 3 - 6 q6 q6 3 q3 q3 q2 q1 q2 q3 3 - x 6 q6 q6 3' q3'. q3' q1' q1' q2'. q3' 3' q1' q1' 6 1'
+6 1' 2. q2'. q3' q2' q3' 3' - x - x - q0 6' q3' q1' q1' 3' - - - 0 0 0 q0 q3 q1' q1' q1' q1' q1' q0 q3 q1' q1' q1' q1' q7 q6
+q3 q3 q1' q1' q1' q1' q1' q1' q0 q3 q1' q1' q1' q1' q7 q6 3 q1' q1' q1' q1' q1' q0 q3 q1' q1' q1' q1' q7 q6 3 q1' q1' q1' q1' q1' ~ q1' q0 q3
+q1' q1' q1' q1' q7 6. q2'. q3' q2'. q3' ~ 3' -
+%END

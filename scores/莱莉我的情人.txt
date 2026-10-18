@@ -1,0 +1,18 @@
+%莱莉我的情人.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49983
+title=莱莉我的情人
+tag=
+usertag=
+tagroute=
+confidence=0.923
+conf_p10=0.585
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49983
+%--
+4/4
+subtitle=score
+1 0 0 0 4 4 5 6 7 7 5 6 q1' q1' q7 7 0 1'. q2' 1' 7 0 q6 7 6 ,1' x 5 5' 5 x. x' x' 6. q6 6 0 0 q5 q6
+7 q7 q6 2' q1' q2' 1' 7 1'. q2' 1' 7 0 6 7 6 5 6. 6 6 0 0 6 q6 q3 q3 q2 q2 q3 q3 q2 1 7 0 q6 q2 1 7 1 q1
+q7 6 6 0 x q5 q6 7 7 q6 q1' 1'. 7 0 1'. 2' 1' 7 0 q6 q7 6 5 6. q6 6 0
+%END

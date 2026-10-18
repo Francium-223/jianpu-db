@@ -1,0 +1,20 @@
+%蒙娜丽莎《凯瑞上尉》.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=39053
+title=蒙娜丽莎《凯瑞上尉》
+tag=
+usertag=
+tagroute=
+confidence=0.969
+conf_p10=0.920
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-39053
+%--
+4/4
+subtitle=score
+1 1 4 x 1 qx x 1 5 6 q7 q1 2' q1' q7 q6 q5. q3 6 3 5 q5 q4 q6 q5 q4' q2' 1' - - - q1 q6 q7 q2 q1 q3 q3 q3 q1
+q6 q7 2 1 - 0 q3 q2 q1 2 q0 q1 q7 1 - - 5 q4 1 - - x 1 ~ 1' 1' - - 5 x 1 q6 q5 q5 q4 q6 q5 q3 q1 ,6
+,5 - q1 q7 7 6 q6 q5 5 3 4 q5 2 - - 6 q7 q6 q4 q3 q5 q4 q4 q2 3 2 - q5 q6 q7 q1 2 3 4 6 q6 q5 q4 3 -
+- 5 4 q6 q5 5 4 q6 q5 5 q3 q1 ,6 ,5 - q1 q7 q7 q6 6 5 q5 q3 q4 q5 6 - - q4 q5 6 6 1' 7 6 6 5 - 5 5
+7 - 6 5 5 3 - 4 5 6 6 7 1 7 6 6 5 0 5 6 5 4 5 3 2 4 5 3 2 1 - 0 5 4'. 1 - - -
+%END

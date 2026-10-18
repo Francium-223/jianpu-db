@@ -1,0 +1,22 @@
+%蒙古草原_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=17762
+title=蒙古草原
+tag=
+usertag=
+tagroute=
+confidence=0.983
+conf_p10=0.958
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-17762
+%--
+4/4
+subtitle=score
+3 - - 2' q6 q5 6 - 6 - 2' q6 q5 q5 q6 3 - - q3 q5 2. q6 q5 q6 3 - - q2 q3 q1 q2 q,6 q,5 ,6 - ,6 - - 0 q2
+q3 3 - q2 q3 q1 q2 q,6 q,5 ,6 - ,6 q2 q3 q1 q6 q5 q6 q6 q3 ~ 3 - - q5 q6 6 - q7 q6 q6 q5 3 q5 s6 s5 2 ~ 2 q1
+q2 q5 q6 q3 q2 1 q2 q3 q3 ,6. ~ ,6 - q2 q3 3 - q2 q3 q1 q2 q,6 q,5 ,6 - ,6 q2 s2 s3 q1 q,6 q5 q6 q6 q3 ~ 3 - - q5
+q6 6 - q7 q6 ~ q6 q5 3 q5 s6 s5 2 ~ 2 q1 q2 q5 q6 q3 q2 1 q2 q3 q3 ,6. ~ ,6 - q3 q3 - 2' q6 q5 6 - 6 s1' s2'
+q6 s5 s5 q5 q6 q6 q3 ~ 3 - q3 s3 s5 2. q,6 q5'. 6 q3 ~ 3 - q2 s2 s3 q1 q2 q,6 q,5 ,6 - - q3 q3 - 2' q6 q5 6 - 6
+s2' q6 s5 s5 q5 q6 q6 q3 ~ 3 - q3 s3 s5 q2 2 q6 q5'. 6 q3 ~ 3 - q2 s2 s3 q1 s2 s2 3 5 6 - - 0 q6. 6 - - 6
+- - - 6 0 0 0
+%END

@@ -1,0 +1,17 @@
+%老虎是tiger.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=10214
+title=老虎是tiger
+tag=
+usertag=
+tagroute=
+confidence=0.995
+conf_p10=0.987
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-10214
+%--
+4/4
+subtitle=score
+5 5. q5 6 5 0 0 0 0 3 3. q3 3 2 0 0 0 0 1 q1. s6 2 3 0 0 0 0 5 q,5. s6 2 0 0 0 0 1 - - q5 5
+- - 0 5 - 5 3 2 - - 0 1 - 1 q5 1 2 3 0 3 3 2 5 1 - - -
+%END

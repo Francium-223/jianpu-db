@@ -1,0 +1,22 @@
+%草原之恋_5.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=30427
+title=草原之恋
+tag=
+usertag=
+tagroute=
+confidence=0.959
+conf_p10=0.881
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-30427
+%--
+4/4
+subtitle=score
+- - - x x x x q,6 3 s2 s1 s2 s3 3. q2. s1 s2. d1 s2 s5 q5 3. s,7 d,6 d7 s,6 s,5 q,6 s,6 s1 s2 d3 d2 s1 s2 3 s3 q,3 s,5 s,3.
+d,5 s2 s3 q1 ,6. q,6 s,6 s1 s,6. d1 s2 s3 q1' ,6. s5 q3 s5 s5 s6 s1'. s2' q1' 6. s5 s6 6 s1' ~ s1' s6. d5 s3 s2 2 q2 s1 s,6 s2 s3 s5
+s6 q5 3. q2 s2 s3 s5. s6 s2' s3' q1' 6 s5 s6 q1' s1' s2' s1' s1' s5 s6 s5 3 - q2 s2 s3 q5. s6 s1' s2' s3' s2'. q2' s0 s2' q3'. s3 s5. d6'.
+s2' s3' q1' 6. q5 6 s1'. s2'. 2' - s1'. q2' s1' s1' s1'. s2' s5' q5' 3'. s1' q3 s5 s6. d5 s1' s1' d2' d3' d1' s1'. s2'. q2'. s3' q3 q3 q3 q5'. s6 ~ q6
+s5 s6 q5 3. q5 6 s1' s2' s2'. s3' 3'. s2'. d2'. s2' s1' s1' s1'. s2'. d2' d5' q5' 3'. s3' ~ q3 s5 q6. s1' s2'. d3' d2' s1'. s2'. q3'. s3' q6 3 s2 s1 s2
+s3 3 q5' 3 s5 s6 q5. s6 s1'. s2'. s3' s2' 2'. q3' q1' 3 s5 s6 q5. s6 s5. s6'. s2' s3' q1' 6 6 - 0 0 q5. s6 s5. d6'. s2' s3' q1' 6. 2' s1'
+s2' q2' 3' q3' q1' 3 s5 s6 q5. s6 s5 s6'. s2' s3' 6 - - - 6 - - 0
+%END

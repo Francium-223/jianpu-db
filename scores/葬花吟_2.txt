@@ -1,0 +1,17 @@
+%葬花吟_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14167
+title=葬花吟
+tag=
+usertag=
+tagroute=
+confidence=0.905
+conf_p10=0.671
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14167
+%--
+4/4
+subtitle=score
+1 - - x. x x x - q,5 q1 q,7 - q1 2' x q1 s2 q,7 3 - q1 s3 q2 - - s5 q3 q2 - - q7. 0 q5 q7' s7 - - - - -
+q7' s7 - - 1 1 - - 1 1 - - 1 - - s1 s1
+%END

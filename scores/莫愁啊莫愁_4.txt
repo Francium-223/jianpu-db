@@ -1,0 +1,18 @@
+%莫愁啊莫愁_4.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=50140
+title=莫愁啊莫愁
+tag=
+usertag=
+tagroute=
+confidence=0.995
+conf_p10=0.983
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-50140
+%--
+4/4
+subtitle=score
+q3 q2 3 5 s6 q5. 3. s3 s2 q1 s5 s3 s2 q3 s2 s1 s6 s1 ,6. 5 q3 q5 3 ,6 2. q4 q3 q3 q2 q2 1 q,7 q2 q3 ,5 2 7 ,6 q1. s7
+q,6 q2 q1 s7 s6 q,5 s1 s2 q3 s6 s1 s6 s5 q3 q5 s2 s1 2 3 5 s6 s7 6 q5 3 s2 q3 5 q6 3. 5 2 3 2 s1 6 q1 ,6. q3. q5
+q2 3 q2 1 q6 q1 ,6. q3. q5 q2 q3 s2 s1 s6 s1 ,6. q1 s6 1 2 3 s2 s3 q5 6 2 q2 0
+%END

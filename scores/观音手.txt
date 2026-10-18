@@ -1,0 +1,20 @@
+%观音手.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=33645
+title=观音手
+tag=
+usertag=
+tagroute=
+confidence=0.973
+conf_p10=0.973
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-33645
+%--
+2/4
+subtitle=score
+1 - - - x. 1. x x x q0 s3 5 q3 q2 1 5 3 s3 s2 1 q1 2. 3. q1 ~ 1 q0 s3 s5 3 s5 2 s1 s2 5 s3 s2 1 5 s3
+s2 1 - 1 x q,5 q,6 1 q3 s5 s6 5 q3 q2 1 q,6 d,6 s1 ,5 q,5 q,6 1 q3 s5 s6 5 q3 q2 q1 q,6 q,6 q1 2 q,5 q,6 1 q3 s5 s6 5
+q3 q2 q1 q1 q,6 d,6 s1 ,5 q,5 q,6 q1 s5 s6 q5 q3 q2 q1 q0 q2 q1 1. 0 q3 q5 q6 s1' ~ s1' q1' s6 s5 5 q3 q2 q1 q,6 q,5 q5 3 q2
+q1 q1 q,6 q0 q1 q2 s5 s6 q5 q3 q2 2. 0 q3 q5 q6 s6 s1 q1 s6 s5 5 q3 q2 s1 d6 q,6 q,5 s3 s5 3 q2 q1 q1 q,6 q0 q,6 q,5 q,5 q2
+q1 1 - 1 0 0 0 0 - q,5 q,6. q,5 q,5 q2 q1 1 - 1 0 q3 q5 q,5 ,5. 0 q2 q1 1 - 1 -
+%END

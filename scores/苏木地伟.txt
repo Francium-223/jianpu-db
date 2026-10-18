@@ -1,0 +1,20 @@
+%苏木地伟.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=9891
+title=苏木地伟
+tag=
+usertag=
+tagroute=
+confidence=0.944
+conf_p10=0.814
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-9891
+%--
+2/4
+subtitle=score
+q1 q1 4 q1 x 1 qx 0 0 0 x x x s5 s5 s2 s5 s2 s2 q5 s2 s5 s5 s2 q5 d5 d5 s5 s5 s5 s2 s5 q2 s2 s5 s1 s2 s2 s1 q2
+d2 d2 s2 s5 s3 s2 s3 s5 s3 s5 s6 q1 s6 s5 s6 q1 s6 q1 q2 q5 q3 q2 q3 q5 q3 q5 q6 q1' q6 q5 q1' q1' q1' q1'. q2' s5 d5 d5 s2 d0
+d5 s2 q5. q5 s2 s2 q2 s5 s5 x 2 5 q5 s2 s3 q2 s1 s6 2. 1. 3. - q,x q,5 s5 s6 q1 q3 2 - 2 5 q1 q2 s2 s1 q,6 q,5 s5 s6
+q2 q1 ,5 - q3. s3 s3 s5 q2 2 q2 s1 s6 q1. s1 q2 q1 ,6 - 2 5 q5 s2 s3 q2 s1 s6 q,5 s5 s6 q1 s6 s5 ,5 - q3. s3 q3 s2 s1
+3 3 q5. s5 q2 s1 s6 ,5 ,5 5 - 5 -
+%END

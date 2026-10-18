@@ -1,0 +1,18 @@
+%蝴蝶吻花山.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=18950
+title=蝴蝶吻花山
+tag=
+usertag=
+tagroute=
+confidence=0.731
+conf_p10=0.416
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-18950
+%--
+4/4
+subtitle=score
+0 0 0 0 q1 q1 0 q3. 0 0 0 0 q2. 0 q6. 0 0 5' 0 q2. 2. 0 0 0 q1 0 0 q3. 2. 0 0 q2' 0 0 6' 0 - q2 0 qx.
+0 - 0 - q2. 1' - 0 - qx'. 0 0 0 0 q,1 0 q1 0 q1 q3. 0 0 q2. 0 6'. 0 0 q2. 2. 0 - 0 - 0 q1 0 - - q3. 2.
+0 - 0 q2' 0 0 q1'. 6' 0 - q2 - q6. - - q6'. - x' - 0 0 - 1' - - - - - - x' 0
+%END

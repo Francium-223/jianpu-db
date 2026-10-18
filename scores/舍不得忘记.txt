@@ -1,0 +1,22 @@
+%舍不得忘记.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=23791
+title=舍不得忘记
+tag=
+usertag=
+tagroute=
+confidence=0.975
+conf_p10=0.957
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-23791
+%--
+4/4
+subtitle=score
+q3 q,5 q3 q5 q3 q3 q1 q3 q,5 1 q3 q3 q5 q3 q,5 q3 q1 q,5 q3 1 q0 d5 3 - q4 s3 s2 ~ q2 s,7 s1 ~ 1 - 0 q0 s3 4 - q4
+s3 s2 ~ q2 q1 q2 q,6 q,7 s1 s,7 ~ ,7 q0 s1 6 q0 s6 q5 s6 s7 ~ q7 q6 5. s3 s1 ~ 1 q,7 s1 s6 4 q0 s,6 q,7 s,7 s5 ~ q5 q,7
+1 - 0 q0 s,5 3 q0 s3 q2 s4 s3 ~ q3 q,7 1 - 0 q0 s3 4 - q4 s3 s2 ~ q2 q1 q2 q,6 s,7 q1 s,7 ~ ,7 q0 s,6 6 q0 s6 q5
+s6 s7 ~ q7 q6 5 s1' s1' ~ 1' q1 s3 s5 q4 s5 s4 ~ 4 q1 s7 s5 ~ q5 s7 1 - 0 q2' q2' q3'. s6 6 2' q7 s6 s5 5 3 6 q3
+s4 s5 q4 s5 s6 q0 s3 q1' s7 s6 ~ q6 q5 3 - 0 q2' q2' q3'. s6 6 2' q7 s6 s5 5 q2'. s1' 1' q3 s4 s5 q4 s5 s6 q0 s3 q1' s7 s6
+q6 q7 x' 1' 0 0 q1 q,5 q3 1 - q3 q3 q3 q3 q3 q3 q3 q3 q3 q3 q1 ~ 1 q0 s,5 1' 1' - - 0 - s1 s1 q1 s1 q3 s2 s1 2
+s3 q,5 s1 s2 ~ s2 q1 s1 s2 q3 q5 s0 s1 s2 q3 s3 q5. q1' q2' - - - 1
+%END

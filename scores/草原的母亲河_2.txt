@@ -1,0 +1,22 @@
+%草原的母亲河_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=30558
+title=草原的母亲河
+tag=
+usertag=
+tagroute=
+confidence=0.974
+conf_p10=0.919
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-30558
+%--
+4/4
+subtitle=score
+q5 q6 1' - - - q6'. q2' q1' q1' q3. s2 q3 s1' s1' 5 - - q5 q3 q2. s3 q2 s1 s2 1 - 1 - q,5 q,5 q1 s2 s3 5. q1' q6. s1' q5 s6
+s5 1 - s1 q,6 s1 q2 s3 s5 q2 s2 s1 q1 s,6 s,5 ,5 - - - q6 1 q2 q3 5 q3 q6 6 s5 s6 s5 3 - q2 s2 s3 q5 s5 s6 q3. s3
+q2 s2 s3 q2 1. ~ 1 - s3 q5 s5 s1' d1' d6 s5 s6 5 - q6'. 2' q1' q3. s2 q3 s6 s1' 5 - - - 5 s1' d1' d6 s5 s6'. 1' - q6 2'
+q1' q6. s1' q5 s3 s2 2 - - - q2. s3 q,5 s,5 s,6 q3 2. q2. s3 q5 s5 s6 q3 s2 s2 q,6 s2 s1 x q5 q6 1 - - - 1 - - - s3
+q5 s5 s1' d1' d6 s5 s6'. 5 - q6'. 2' q1' q3. s2 q3 s6 s1' 5 - - - 5 s6 d1' d6 s5 s6 1' - q6 2' q1' q6. s1' q5 s3 s2 2 - -
+- q2. s3 q,5 s,5 s,6 q3 2. q2. s3 q5 s5 s6 q3 s2 s2 s6 s2 s1 1 - - - q5 5 q3 5 2' 2' 1' - 0 1' - - - 1' - - -
+1' 0 0 0 x 1. x
+%END

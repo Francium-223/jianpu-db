@@ -1,0 +1,22 @@
+%西溪情.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=27342
+title=西溪情
+tag=
+usertag=
+tagroute=
+confidence=0.958
+conf_p10=0.920
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-27342
+%--
+4/4
+subtitle=score
+qx q1 - - 0 0 4 4 0 2'. x 1 x x x' 5 q3 q5 q2 q1 q2 q3 5 q6 q1' 5 - 1' q2' q3' q2' q1' q6 q1' 5 - - - q0 q1'
+q1' q6 6 q5 q6 5 q5 q3 3 q2 q3 3 - - - 3 - - - ,5 q,5 q,3 ,5 q,5 q,6 1 q2 q3 q2 q1 1 q,6 q1 q,6 q1 q2 q1 q1 q,6 ,5
+- - - ,5 q,5 q,3 ,5 q,5 q,6 1 q2 q3 q2 q1 1 q,6 q1 q,6 q1 q2 q1 q,6 q1 2 - - - q3 q5 q3 q2 3 - 0 0 0 q2 q3 q2 q1
+q,6 q1 2 - - - 5 q3 q2 3 - 0 0 0 q2 q3 q2 q1 q,6 q1 5 - - - 5 - - - - x q2 q3 6 5 5 q3 q2 q2 q3 q2
+q1 1 q,6 q1 2 q2 q3 q2 q1 q1 q,6 ,5 - - q,5 q,6 1 q1 q,6 1 q1 q,6 q5 q6 q5 q2 3 - q2 q3 q2 q3 5 q5 q3 2 - - q2 q3
+6 5 5 q3 q2 q2 q3 q2 q1 1 q,6 q1 2 q2 q3 q2 q1 q1 q,6 ,5 - - q,5 q,6 1 q1 q,6 1 q1 q,6 q2 q3 q2 q,6 1 - q2 q3 q2 q3
+q2 q1 q,6 q1 5 - - - 5 - - - 5 - - q2 q3 5 - - - 5 - - - qx. 1 1.
+%END

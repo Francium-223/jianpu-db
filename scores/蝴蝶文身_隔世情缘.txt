@@ -1,0 +1,23 @@
+%蝴蝶文身_隔世情缘.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=33584
+title=蝴蝶文身 隔世情缘
+tag=
+usertag=
+tagroute=
+confidence=0.997
+conf_p10=0.996
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-33584
+%--
+4/4
+subtitle=score
+q,6 q,6 q,6 q,6 3 q3 q2 ~ q2 q2 3 - q1 q1 q6 q6 q6 q5 q6. s5 ~ q5 q6 3 3 - q3 q5 q6 q6 q6 q5 q5 q5 q5 q3 q6. s5 ~ 5
+q3 q5 q5 q3 q5 6 q3 ~ 3 - 0 0 0 0 q1 q1 q1 q1 q2 1 q3 3 2 q0 q2 q3 q5 q6. s6 ~ q6 q5 q6. s5 ~ q5 q6 5 3 -
+q1 q2 q3 q5 q5 q5 q6 q6 q6 q3 q6. s5 ~ 5 q3' q2' q2' q1' q2' 3' q6 ~ 6 - 0 0 3 5 6 - 6 q0 q3 1' 7 7 5 1' 7 6
+q5 q3 3 - 3 5 6 - 6 q0 q3 1' 7 7 5 1' 7 1' 3' 3' - 3 5 6 - 6 q0 q3 1' 7 7 5 1' 7 6 q5 q3 3 - 2
+3 1 - 6 q5 5 3 6 q5 6 - - - 6 - - - 0 0 3 5 6. q6 1 1 7 - 6 7 1 7 6 q5 q3 3 - 3 5 6. q6
+1' 1' 7 - 6 7 1' 7 1' q2' q3' 3' - 3 5 6. q6 1' 1' 7 - 6 7 1' 7 6 q5 q3 3 - 2 3 1 - 6. q5 5 3 6 5
+6 - - - 0 0 3 5 6 - - 0 1' 7 7 5 1' 7 6 5 3 - 3 5 6 - 6 0 1' 7 7 5 1' 7 1' 2' 3' 0 3 5
+6 - 6 0 1' 7 7 5 1' 7 6 5 3 - 2 3 1 - 6 q5 5 3 6 - 5 q6 6 -
+%END

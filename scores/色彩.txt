@@ -1,0 +1,17 @@
+%色彩.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=10215
+title=色彩
+tag=
+usertag=
+tagroute=
+confidence=0.997
+conf_p10=0.994
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-10215
+%--
+4/4
+subtitle=score
+3 q2 3 q2 1 q2 3 0 3 q2 3 q2 1 q2 2 0 ,6 1 ,6 ,5 1 q2 3 2 1 2 3 0 3 q2. q2 1 0 5 5 3 0 5 6 6
+0 6 6 5 3 2 q2 q3 2 0 ,6 q1 ,6 ,5 1 q2 3 2 6 q6 q6 6 3 q2 q1 q2 q3 1 0
+%END

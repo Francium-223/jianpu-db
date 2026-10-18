@@ -1,0 +1,23 @@
+%考试什么的都去死吧_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=26783
+title=考试什么的都去死吧
+tag=
+usertag=
+tagroute=
+confidence=0.972
+conf_p10=0.933
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-26783
+%--
+2/4
+subtitle=score
+d1 d1 d1 d2 q3 q5 s4 s3 ~ s3 q5. q2 s2 s2 ~ s2 q5. q1 s1 s1 ~ s1 q6. 5 q0 s4 s5 q6 s5 s4 ~ s4 q6. q5 s4 s3 ~ s3 q5. q4
+q3 q2 q1 2 q1 s2 s3 q5 s4 s3 ~ s3 q5. q2 s2 s2 ~ s2 q5. q1 s1 s1 ~ s1 q6. 5 q0 s4 s5 q6 s5 s4 ~ s4 q6. q5 s4 s3 s3 q5.
+q4 q3 q2 q1 1 0 s,5. d6 q1 q0 s1. d1 s2. d2 s2. d3 s2. d1 q1 q0 s,5. d6 1 s2. d2 s2. d3 s2. d1 q1 q0 s,5. d6 q1 s,5. d6 q1 s,5. d6 q1
+s,5. d6 q1. s,5 s1. d5 s3 s2' ~ s2' q3. q0 s,5. d6 q1 s1. d1 q1 q1 q0 s,7. d1 s2 s1 s,7 s,5 q1 s1 s1 q1 q1 q0 s,7. d1 s2. d1 s,7 s,5 q1 s1
+s1 q1 q1 q0 s1. d5 q1 s1 s,5 q1 q1 s1 q2 s2' q2' q1 d1 d1 d1 d2 q3 q5 s4 s3 ~ s3 q5. q2 s2 s2 ~ s2 q5. q1 s1 s1 ~ s1 q6. 5
+q0 s4 s5 q6 s5 s4 ~ s4 q6. q5 s4 s3 ~ s3 q5. q4 q3 q2 q1 2 q1 s2 s3 q5 s4 s3 ~ s3 q5. q2 s2 s2 ~ s2 q5. q1 s1 s1 ~ s1
+q6. 5 q0 s4 s5 q6 s5 s4 ~ s4 q6. q5 s4 s3 ~ s3 q5. q4 q3 q2 q1 1 0 - 0 0 0 0 - - 0 0 0 - 0 - 1 0 - -
+d1 d1 d1 d2 q3 1 0 q6' q6 s5 s4 s4 q3 s2 2 q0 s3 s4 q5 s4 s3 s3 q2 s1 1 q0 s3 4 3 2 ~ 2 1. 3. 2 ~ 2 3. 1 0
+%END

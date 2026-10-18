@@ -1,0 +1,21 @@
+%菊花香_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=20751
+title=菊花香
+tag=
+usertag=
+tagroute=
+confidence=0.975
+conf_p10=0.937
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-20751
+%--
+3/4
+subtitle=score
+x ,6 1 3 ,7. q1 2 1 - 3 1 - ,5 ,6 1 3 ,7. ,1 2 2 - - 3' - - 3' - - x ,6 1 3 ,7 1 2 ,6 - - 0 0
+0 ,6 1 3 2 5 5 3 - - 0 0 0 6 6 3 2 - - 5 2 ,7 1 - - 1 1 q2 q3 2 - - 1 1 q2 q3 3 - - 0
+0 0 ,7 ,7 3. 2 7 6 ,6 - - 0 0 0 6 3 3 7 3 3 7 6 q6 5. ~ 5 2 1 ,6 3 2 1 q1 ,1 ,1 1 q2 q3 3 -
+- 6 3 3 7 3 3 3 2 7 6 5 6 6 5 6 - q6 7 7 2 3 - - 3 0 3 q2 q3 2 - - 2 7 2 - - 3 3 2
+7 2 - q2' q3' 3 - - 3 q2' 3' 2 - - 2 3 7 - - 3 3 2 7 2 - q7 q6 6 - - 6 - - x x. 6 - - 6 -
+- 3 1 q2 q3 2 - - 2 7 1 - - 3 3 2 7 - - 7 - 6 6 - - 6 - -
+%END

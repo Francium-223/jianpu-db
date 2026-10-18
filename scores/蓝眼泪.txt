@@ -1,0 +1,19 @@
+%蓝眼泪.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=50608
+title=蓝眼泪
+tag=
+usertag=
+tagroute=
+confidence=0.823
+conf_p10=0.439
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-50608
+%--
+4/4
+subtitle=score
+0 - - - - - - ,2 q2 q3 q2. q3 3 3 - 1' 2' 0 - 1' 6' - 1'. 2 0 - 0 0 0 0 0 0 0 0 0 0 0 0 0 -
+0 q3. - 3' - - 0 - - 0 0 q3 0 0 0 q,2 2 0 0 0 0 0 0 0 0 - 0 0 - q3 3 - 3 - q3 q2 q2 2 - q2
+q3. 0 q2 q3. 0 3. - 0 0 0 0 0 0 0 0 0 0 0 0 0 0 - 3'. - - 6' - 0 0 - 0 0 0 0 3. x'. - 0 0 q2
+0 0 0 0 0 0 0 2'. 2'. 6' 0 1'. - - - - - 2.
+%END

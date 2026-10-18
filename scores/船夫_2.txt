@@ -1,0 +1,21 @@
+%船夫_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=13430
+title=船夫
+tag=
+usertag=
+tagroute=
+confidence=0.883
+conf_p10=0.517
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-13430
+%--
+4/4
+subtitle=score
+x - - x x ,x q1 - x. x' x 5 q,3 0 0 5 q3 2 0 0 3 5 6 q2' ~ 2' - 2' ,5' x' q6 0 0 q1. - - - - 2' 7
+q6 1 0 2' 7 6 0 0 6 5 6 6 q6 q5 0 3. x. 5 ,6 ,,5 6 6 2' 1' 2' - - - 1 5' - x 0 5' 5' 5' q,5' q6'. 1' ,2'
+2' - 1' - x' q0 5' 5' 5' 1' 2' 2' - 5' - x 0 5' 5' 5' 5' 4' q2' q,2' 4' q,4' 2' 0 - q1' 0 5 q,x' 3' 2' 2' 2' - 5' -
+x 0 5' 5' 5' 5' 4' q,2' 2' - 5' - 0 5' ,,,5' q5' 1' 3' 2' 2' - 5' - qx 0 5' 5' x' 2' 2' x' 4'. x' 2' x' 1' 3' 2' qx 2'
+0 - 2' 0 qx - q1' q2' 1'. 2' 0 - - x' q2' 2' ,x' 0 q5 - q4' q,2' ~ 2'. q,,,2' q,2' q,x' 0 q1' q2 ,,1'. - - - - 0 - qx' q,2' 3'
+2' ,,1' q2' 0 5 - q,,,x' - - 2' 1' 2' - - -
+%END

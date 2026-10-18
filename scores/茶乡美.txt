@@ -1,0 +1,19 @@
+%茶乡美.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=32295
+title=茶乡美
+tag=
+usertag=
+tagroute=
+confidence=0.959
+conf_p10=0.869
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-32295
+%--
+4/4
+subtitle=score
+x q5. s6 q1' q6 q5 s5 s6 q5 q3 q2. s3 q5 q3 q2 s3 s5 s2 s3 s2 s1 q2 ,5 q6 q2 q2 q7 q6 q1 ,5 d6 s1 ,5 - q5 q5 q3 q2 q,4 q1
+d7 d6 q6 q6 q4 q3 q,5 2. q2. s3 q5 q3 q2 s3 s5 s2 s3 s2 s1 q2 q2 q,7 q,6 q,1 ,5. q,1 q1 q,1 s5 s,6 s1 q,6 x q,6 q,6 x s2 q2 q2 q5
+s6 s1 q,6 q,6 q,6 x s1 s1 s,6 q1 q2 q3 6 q1 5 q6 5. q3 s,x. s3 q5 q3 q2 s3 s5 s2 s3 s2 s1 q,2 q2 q,5 q,6 q2 q2 q,7 q,6 q1 ,5 d6
+s1 ,5 - q2 q2 q,5 q,6 - q2 q2 q,7 q,6 q1 ,5 d6 s1 ,5'
+%END

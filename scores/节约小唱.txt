@@ -1,0 +1,18 @@
+%节约小唱.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=26030
+title=节约小唱
+tag=
+usertag=
+tagroute=
+confidence=0.944
+conf_p10=0.811
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-26030
+%--
+2/4
+subtitle=score
+1 0 - 2 4 ,1 x 0 2. 0 q3 - 5 q3 - 5 q5. s5. s3. q5 ,6 5. ,1 6 ,1 ,5 ,5 x 5 5 4 5 1' 6' 5' q5 q5 q1' qx q2
+1 - 2 2 3 5 6' 5 5 ,1' s6 s1 2'. 3 2 5 5 2 q4' 5 5' 4 x 2 2 4 2 1 1 x 5. q6 2 5 x ,6 ,5. ,6 ,5. 0
+3 3'. 6' ,5 q6 0 1 2 5 4' 3 q2 q3 q2 ,1 2 s1' q2 ,1' 6 q1' 4 2 5 x 6 s5 q6' q2 q,7 q,6 ,5 - q2' 7 6 5 -
+%END

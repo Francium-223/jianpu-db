@@ -1,0 +1,18 @@
+%角落之歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=19562
+title=角落之歌
+tag=
+usertag=
+tagroute=
+confidence=0.951
+conf_p10=0.870
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-19562
+%--
+2/4
+subtitle=score
+1 0 - ,2 x'. ,x' q3 q6 6 q3 q2 2 q3 q6 q3 q2 2 - q3 q3 q2 q3 q2 q1 1 6 5 5' 3 ,5 - q1 6 ,6 5 ,6 ,6 q3 q2 q2
+q1 ,6 - q6 q5' q5 q3 2' - q3 q2 7 6 ,3' - 5 6 q1 6 q2 q6 q5 ,5 q1 6 q2 q6 q5 ,5 - q1 q2 q3' q3' 3' - 3 x - q1
+q2 q3' q2 s2 s1. ,5. ,5 - q1 q2 q3' q3' 3' - 3 x 0 q1 q2 q3'. q2 7 1. 1 - q1 q2 q3' q2 7 1. -
+%END

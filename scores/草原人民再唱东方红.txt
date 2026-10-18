@@ -1,0 +1,21 @@
+%草原人民再唱东方红.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=17681
+title=草原人民再唱东方红
+tag=
+usertag=
+tagroute=
+confidence=0.963
+conf_p10=0.888
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-17681
+%--
+4/4
+subtitle=score
+1 - - x - x x x x 1 ,7 ,6 - ,6 - - - 1 ,7 ,3 - ,3 - - - 1 ,7 ,6 - ,6 - - - 1 ,7 ,3 - ,3 - -
+- q0 q,5 q,7 q3 ,6 - ,6 ,6 ,6 ,6 ,6 ,6 ,6 q,6 q,5 ,6 q,6 q3 1 q1 q2 ,6 - q2 q2 q2 s6 q2 q3 5 6 q6 q7 3 - 6 q6 q3 6
+q1' q6 q5 q6 2 - q2 q3 q5 q5 6 q5 q6 3 q6 q6 q6 q3 6 q6 q5 q6 2 2 q2 q3 q5 q5 q5 q6 q2 q2 q2 q3 ,6 - ,6 q,6 q,5 ,6
+q,6 q3 1 q1 q2 ,6 - 6 q6 q3 6 3' q2' 6 q2 q2 q2 q,6 q2 q3 5 6 q5 q6 3 - 6 q6 q3 6 q6 q6 q5 q6 2 - 2' q2' q3' 6
+q6 5 q5 q6 3 2 q2 q3 q5 q5 q5 q6 q2 q2 q2 q3 ,6 - 6 q6 q3 6 3' q1' q2' 6 - 2' q2' q3' 6 q6 5 q5 q6 3 - 6 q6 q5
+6 q6 q5 q6 2 - 2 q3 q5 6 2' 3' s2' 6 - 2 q3 q5 6 2' 3' - - - 3' 0 q2' 1' 6 - - - 6 - - - 6 0 0 0
+%END

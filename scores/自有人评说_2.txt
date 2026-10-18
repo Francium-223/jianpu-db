@@ -1,0 +1,19 @@
+%自有人评说_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=37585
+title=自有人评说
+tag=
+usertag=
+tagroute=
+confidence=0.993
+conf_p10=0.990
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-37585
+%--
+4/4
+subtitle=score
+1 2 x 4 2 q5 s4 s5 6 - q6 q2 s5 s6 s1 s7 6 - q6 2 q3 q1 s7 s6 5 q3 s3 s2 s1 s2 q3 2 - q2 q2 q5 s4 s5 6 -
+q6 q2' s5 s6 s7 6 - q6 2 q3 q1 s7 s6 5 s6 s6 s6 s1 s1 s2 q3 2 s6 s1 6 - 3' q2'. s3' s7 s6 5 q6 q2' q2' q5 6 - 6 q2'.
+s3' s7 s6 5 s3 s3 s3 s6 q6 s3 s2 2 - 3' q2'. s3' q1' s7 s6 5 q6 q2' q2' q5 6 - q6. s6 q2' s2' s3' s7 s6 5 s3 s3 s3 s6 q6 q3
+s2 q3 q6 q6 s3 s2 2 - 1' 2' 3' 1' 2' - 2' - 2' -
+%END

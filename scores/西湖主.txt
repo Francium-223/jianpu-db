@@ -1,0 +1,20 @@
+%西湖主.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=21131
+title=西湖主
+tag=
+usertag=
+tagroute=
+confidence=0.943
+conf_p10=0.822
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-21131
+%--
+2/4
+subtitle=score
+3 6 ,,7 q6 s7' 3 q,5. s6 s5. s1' s7 6 - q3 5 q6 3 q2. s3 s1. d2 q7 ,6 - 6 1 q6. s2 sx s3 s1 s2 3 q3 1' s6. s6. s5 s5 s5
+s3 s3 2. 3 q6 q2' q,2' s3' s2' 3' q3' q2. 3' q2' 2 q3' q2' 2 7 6 5 6 0 q6 1 q6 s2. 3 q5. 6 5. 6 ,1 7 ,6 - 0 0 0 0
+- 5 6 3 - 0 0 x. 6 6. s,5 q3 s2 q1 s0 3 ,,2. 3 q1 q7 ,6 - q6 5 s0 s3 5. 1' ,1' 2' q0 s5. s2' 6 - 0 0 0 0 0
+0 q2. 2' q3' 6 - q6. q6 q5 1 q1 s6 q,1 q,2 3 2 3 q5 s1' s6. s1' s1' 2' - q2' q2' 7 6 5 6 0 6 1 q6 2. d3 3 q5. s3 s5.
+q1' 6 x - x 0 0 0 0 0 0 0 0 5. s6 3 5 ,6
+%END

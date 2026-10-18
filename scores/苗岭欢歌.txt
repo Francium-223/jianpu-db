@@ -1,0 +1,23 @@
+%苗岭欢歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=16312
+title=苗岭欢歌
+tag=
+usertag=
+tagroute=
+confidence=0.965
+conf_p10=0.872
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-16312
+%--
+4/4
+subtitle=score
+1 - - - x' ,x 1 x q3 q6 q6 q6 ~ 6 - q3 q6 q2 q2 ~ 2 - q6 q3 q5 q5 ~ 5 - q2' q6. s3 q2 q3 2 - q4. s3 q4 q3
+5 - - q3 q6 6 - - q3 q6 2 - - q3 q6 5 q6 q6 q5 q6 7 1 - q6. s6 q5 q6 5 - q7. s7 q5 q5 6 - - q3 q6 6 -
+- q3 q6 2 - - q3 q6 5 q7 q7 q7 q6 2' - - q6 q6 q7 q6 q5 q5 5 q2' q2' q1' q2' q6 q6 6 q6' q3' 2' - q6. s6 q7 q6 - q6.
+q2' q1' - - q6 q3 5 - - q7 q6 2' - - q6 q7 6 q7 q5 q6 6 - q2'. s2' q2' - q2'. s3' q2' q3' 2' - - q3 q7 6 - - q7 q6
+3 - - q7 q7 6 q6 q2' q2' 2'. 3' - - q6 q6 5 6 - 5 - - q6 q3' q2' q2' q7 2' - - - q2' q7 q6 7 - - - q7 q6 q6
+2' - - - q2' q2' q3' q2' 2' - - q2' q2' q3' s2' s2' 3' - q7 2' - - 6 - - - q7 q6 5 q6 q6 q5 q6 6 - 6 q7 q7 6 q5
+q6 q7 q2' q7 6 - q2' q2' q7 q2' q2' - q6 q3' q2' q2' q7 2' - q2' q3' q2' 2' 3' 2' - 3' - q6 q6 q6 q6 6 6 2' - - 3' 3' -
+- - 3' - 0 0
+%END

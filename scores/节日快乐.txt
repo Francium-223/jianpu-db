@@ -1,0 +1,20 @@
+%节日快乐.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=8619
+title=节日快乐
+tag=
+usertag=
+tagroute=
+confidence=0.977
+conf_p10=0.964
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-8619
+%--
+6/8
+subtitle=score
+x 3 q3 q3. q6 q5 q6 3 q3 3. 1 q1 q1 7 q1 q3. q5 5 ,5. 4 q4 q4. q6 q5 q6 4 q4 4. s6 s5 s6 s5 s4 s3 s2 s1 s2 s1 q7 q6
+5 7 q2 5 7 q2 q5 q0 q0 q0 q0 7 q1 q3 q3 5 q3 q3 q1 q3 q3 5 q3 q3 5 q1 q6 q6. s6 5. 3. 2. ,5 s2 s1 1. 1. ,7 q1 2
+q5 7 q6 6. 5. q2. s1 q3 3. 3. 5. 1. 6 q6 5. 4 q5 6 q5 2. 2. ,5 5 3 s3 s3 4 q3 2. x 5. 5. s5 s2 s1 1. 1. 1'. 7 q5
+q7. s7 q7 6. 4 q5 6 q5 5. 5. 1'. 7 q2' q7. s5 q7 6. 4 q5 6 q5 2. 2. 3 q4 5 s5 s6 5 q3 1. 2 q2 3 7 ,6. ,6. ,5 5 3
+q3 4 q3 2. 5 q5 ,5 s2 s1 1. 1. 1. 1. 5 q6 7. 2'. 2'. 1'. 1'. 1'. q1' q0 q0
+%END

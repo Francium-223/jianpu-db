@@ -1,0 +1,19 @@
+%花_6.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=8150
+title=花
+tag=
+usertag=
+tagroute=
+confidence=0.897
+conf_p10=0.588
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-8150
+%--
+2/4
+subtitle=score
+1 x x x x x'. - 1 x x ,x x 0 q4' q5' q6' 5' - 5' q4' 5' - 5' 4' q5' q6' 1' - q7 q1' q2' - x q1' - q5' q5' 5' 6' q6'
+q5' q4' q2' - q7 2' q2' 3' s2' q7 q2' 5 - ,1' q2' q3' 5' 5' 5' 6' 6' 5' q4' 3' 2' - 5' q1' q2'. q3' q3' 6' 6' 7'. q6' q7' 6' 5' - 0
+4' 5' - 5' 4' 5' - 5' q4' s5' s6' 1' - x' q7 s1' 3' 5 - 1' - 1' - 4' 5' 6'. 5' - 5' q4' - 5' - 5' 4' - - q7 s1' s2'
+- x
+%END

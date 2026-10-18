@@ -1,0 +1,20 @@
+%虎符.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=21314
+title=虎符
+tag=
+usertag=
+tagroute=
+confidence=0.949
+conf_p10=0.811
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-21314
+%--
+4/4
+subtitle=score
+3 3 3' - - q2'. s3' 0 0 q7 q6 s2' q2'. q2' q3' q1' 7. 7 q5 3 0 0 - q5 q5 5 q6 7 q7' 6 q2' 3'. q7 q6' 5. 3 2'. 3' 1'. q5
+q5 q6 q7 q7 1'. q7 q6 6 - - 6 - - 0 3'. q3' 2' 1' q7 q7 q6 q7 q5 3. 3'. q3' 2' 1' q7 q7 q6 q5 2' - 5 q5 q6 q7 s7 6
+q2' s2' s2' q1' q2' q3' 4' 4' q2' 3' - - 0 6'. q6' q6' 4' 4' 3' 1' 2' 3' 2' - 6'. q6' q6' 4' 4' 3' q2' q4' 3' - q5 q5 q5 q6 6 -
+,1 q1' q1' q2' 2' - q4' q4' q,4 q4 qx q2' q3' 3' - 1 1' q2 3' - 5 - - 6 - - - 6 - - 0 6' - - q4' q4' q2' q4' q4' q3'
+3' - - 3' 6' - - q4' q4' q2' q3' - 1' q2' 3' - 3' 5 - - 6' - - - 6 - - - 6 - - - 6 0 0 0
+%END

@@ -1,0 +1,21 @@
+%落叶飘零_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=33709
+title=落叶飘零
+tag=
+usertag=
+tagroute=
+confidence=0.987
+conf_p10=0.967
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-33709
+%--
+4/4
+subtitle=score
+q,6 q,6 q,6. s,7 q1 ,6. q,7 q,7 q,7 q,6 ,3 - q,5 s,5 s,5 q,5 q,6 q,7 ,6 q,2 ,3 - 0 0 q,6 q,6 q,6 q1 3 q2 q1 2 - 0 q0 d,3 q,7 q,7 q,7 q,3
+q2 q2 q1 q,7 ,6 - 0 0 q,6 q,3 q,6. s,7 1 - q,6 q,3 q,6. s,7 q2 q1 q0 s,5 q,7 q,7 q,7 q,6 ,5 q,6 q,2 ,3 - 0 0 q,6 q,3 q,6 q1 3 q2 q1
+2 - 0 0 q,7 s,7 s,7 q,7 s,3 s,3 q2. s2 ~ q2 q1 ,6 - 0 0 6 3 q6 q7 1' q7 q7 q7 q6 3 - q5. s5 q5 q5 q5 q6 q5 q6 3 -
+0 0 q2. s2 q2 q3 4 - q3 q3 q2 q3 1 - q,7. s,7 q,7 q,3 q2. s1 ~ q1 q,7 ,7 q,6 s,5 s,6 ,6 - 6 3 q6 q7 1' q7 q7 q7 q6 3 -
+q5 q5 q5 s5 s5 q5 q6 q5 q6 3 - 0 0 q2. s2 q2 q3 4 - q3 q3 s2 q3. 1 - q,7. s,7 q,7 q,3 q2 1. q,7 q,7 s,6 s,5 q,6 ,6 - q,7 q,7
+q,7 q,3 q2 1. 0 0 q,7 q,7 s,6 s,5 q,6 ,6 - - 0 0 q3 1' - q3 q7 1' d7' d1' d2' q3'. s2' q1' q1' 0 q5 - - - x
+%END

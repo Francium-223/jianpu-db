@@ -1,0 +1,20 @@
+%背水姑娘_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=28007
+title=背水姑娘
+tag=
+usertag=
+tagroute=
+confidence=0.960
+conf_p10=0.881
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-28007
+%--
+4/4
+subtitle=score
+s3' s5' 3' q6 s2' s3' 3'. s3' s5' 6 q3 s2' s2' 2'. q3. s5 q1' q1' q2' q3' s6 1' s1' q1' s3 q5 q6 6 - q3'. s3' q5' s2' s2' s3' s5' 3' q6 q1'. s6
+q3' s6 s6 s2' ~ s2' 2'. q3'. s3' s3' s1' s1' s2' q3' s6' 1' s1' ~ q1' s3 q3 s3 s2 s5' s6' 6. s3' s5' 3' q6 s3' s5' s5' s2' 3' s3' s5' 6 q3' s3'
+s1' s2' ~ s2' 2' q6 3' s2' s3' s2' q3' s6 1' s1' ~ q1' s3 q3 s3 s2 s5 s6 6. s3' s5' 3' q6 s2' s3' 3'. s3' s5' 6 q3' s1' s2' 2'. q3'. s5' q1'
+q3' q2' q3' s6 1' s6' q1' s3 q3 q6 6 - q6 6' s5' s6' s6' s2' s4' s5' 6' q2' 6' s5' s6' s6' s2' s4' s5' 5' q2' 6' s5' s6' s5' q6' s2' 4' s2' q4'
+s6 q6 s6 s5 s1' s2' 2'. s2 q4 s6 q6 s6 s5 s1 s2 2. s2 q4 s6 q6 s6 s5 s1 s2 2. 2 - - - 2 - 0 0
+%END

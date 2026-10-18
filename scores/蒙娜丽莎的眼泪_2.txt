@@ -1,0 +1,23 @@
+%蒙娜丽莎的眼泪_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=22416
+title=蒙娜丽莎的眼泪
+tag=
+usertag=
+tagroute=
+confidence=0.960
+conf_p10=0.898
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-22416
+%--
+4/4
+subtitle=score
+q1 - - x x 1' 1' x ,x x 1' x 0 ,,1 ,1 ,,1 6 ,,1 6 7 ,,1 6 6 7 ,1 3' ~ 3' 0 6 q6' s1' ~ s1 q,6. s0 s2 s2 s2 q2
+q3 4 3 3' 0 0 2 q2 q2 q2 q2' q3' q5 q6 6 6 6 5 3 3 2. 0 1 1 2 3 5 2 3 2' ~ 2 q1'. ~ 1' q4 4 4 q4 q4
+3 q4' ~ 4' 3 2 1' 1' q2 q3' ~ 3' q0 q7 q6 s7 s1 q6. 4 q4 4 4 4 3 4' ~ 4' 4 4 s4 s4 q3 s2 s1 s2 s2 q3' ~ s3' q3
+q2' ~ q2' q3'. ~ 3' - 0 3 3 6 7. 7 1. 1 2 q7 7 s0 q3 q6 s7 s1 s1 s1 q1 1 ,1 6 5 6 6. 6 s7 q7 q7 7 7 7 7
+7 7 7 6' 5' 5 5 2 3 q3 s3 s3 s3 s3 s3 s2 s3 q4 s3' ~ s3' q4 s3' q3' 4' 3' 3 6 7' 7' ,1' ~ 1' 1' 2' ~ 2' 7. 0 3
+6 q5 s1' q1' q1' q1' s6 q5 q6' ~ 6' q6 q6 7 q7 s7 s7 s7 7 7' 7' 6 5' 5' 5 5 2 3 s3 s3 s3 s3 q3 s2 s3 s3' s4 s3' s3' 6
+q2' qx 3' 2 q3 6 2' 3 2' 0 6 q6 x q7 q7 q7 q7 q5 q5 s5' s5' q3. 3 2 3' - - - 3' - 0 0 7 7 7 7 5 5 5' q5'
+3. 6 5 6 - 0 3 3 6 7 1 7 7 7 7 5 5 5' 5' 3. 6 q5 6' 6' 1
+%END

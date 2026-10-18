@@ -1,0 +1,18 @@
+%荷花开_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48968
+title=荷花开
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.999
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48968
+%--
+2/4
+subtitle=score
+q7 ~ q7 ~ q7 ~ q7 6 0 q3 q5 q3 q5 6 0 q7 ~ q7 ~ q7 ~ q7 6 0 q5 q6 q5 q6 3 0 6 6 2 2 3' 5 1' 6 6 6
+,6 ,6 ,6 0 6 5 3 6 q3 1 7 6 7 5 q6 3 2 2 3 5 6 7 6 5 3. 3 6 5 3 6. 3 1 7 6 7 5. q6 3 2 2
+3 5 6 2 5 6 6 7 7 6 6 3 5 6 7 7 6 6 5 6 3 0 3 5 6 1' 2 3 1 2 6 6 2 2 3 5 1 6 6
+%END

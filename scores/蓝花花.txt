@@ -1,0 +1,16 @@
+%蓝花花.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48326
+title=蓝花花
+tag=
+usertag=
+tagroute=
+confidence=0.885
+conf_p10=0.535
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48326
+%--
+2/4
+subtitle=score
+6 7 6 6 5 6 7 6 5 6 3 3 2 1 ,6. 2 3 5 5 3 6 5 3 1. x 3 - 1 6. x' q2 q3 q2 q1 6 5 ,6 -
+%END

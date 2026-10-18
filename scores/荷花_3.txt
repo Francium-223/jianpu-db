@@ -1,0 +1,18 @@
+%荷花_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=34709
+title=荷花
+tag=
+usertag=
+tagroute=
+confidence=0.914
+conf_p10=0.606
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-34709
+%--
+4/4
+subtitle=score
+1 q,1 x x' x 1' ,1 1 7' s,6 s,5 q,6 1' ,2 5' 5' 6. 5 4 5 1' x s1' x 1' 5 6 1 ,7 4 q3 2 ,1 ,5 1 q2 2. ,5 2 2
+4 5 6. 5 4 4. q2 q4 1 q2. q1. q,7 q1 4. 4 4 1 2 q4 1 q2 q7 s6 q,5 ,5 q1. ,5 2 2 4 5 6. 5 4 4. 2 q4 5 2. 1
+q,7 q1 4. s4 q4 2 1 2 q1 6 5 - - -
+%END

@@ -1,0 +1,21 @@
+%莲美人.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14934
+title=莲美人
+tag=
+usertag=
+tagroute=
+confidence=0.939
+conf_p10=0.706
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14934
+%--
+4/4
+subtitle=score
+1 - - x x ~ x x x x. x qx 6 0 x qx x. ,x. s2 s2 s2 s3 q,6 q1 s2 s2 s2 s3 q,6 q1 s2 s2 s2 s3 q5 s3 s2 3 - s2
+s2 s2 s3 q,6 q1 s2 s2 s2 s3 q,6 q1 s2 s2 s2 s3 s3 s3 s,5 s,6 ,6 - x x s3 s3 s3 s3 q3 q1' q6 6 q5 s5 s5 s5 s5 q1 q2 q5 s3
+s2 3 q3 s3 s3 q3 q1' q6 6. q5 s5 s5 s1 s2 s6 s3 3 - s,6 s3 s3 s3 q2 q1 s,6 s3 s3 s3 q2 q1 s,6 s3 s3 s3 s2 s3 q,5 ,6 - s2
+s2 s2 s3 s5 s5 s3 s5 q6 6 q1' s2 s3 s2 s1 ,6 - - 0 0 0 0 1'. s7 s1' s2' q7 s6 q5. s3 s6. d6 s6 s6 s2 s3 s5 s4 3 - 1'.
+s7 s1' s2' q7 s6 q5. s3 s2 s2 s2 s3 s5 s6 s7 s6 6' - 6' - - 0 s2 s2 s2 s3 q6 q1 s2 s2 s2 s3 q6 q1 x. x. x. x. 1 s2 s2
+s2 s3 q5 s3 s2 3 - s2 s2 s2 s3 q,6 q1 s2 s2 s2 s3 q,6 q1 s2 s2 s2 s3 s3 s3 s5 s6 ,6 -
+%END

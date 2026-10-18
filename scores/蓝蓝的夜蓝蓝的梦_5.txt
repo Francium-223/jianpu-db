@@ -1,0 +1,23 @@
+%蓝蓝的夜蓝蓝的梦_5.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=6523
+title=蓝蓝的夜蓝蓝的梦
+tag=
+usertag=
+tagroute=
+confidence=0.972
+conf_p10=0.918
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-6523
+%--
+4/4
+subtitle=score
+q1' q6 q1' q6 1'. q3' q5 q3 q5 q3 5 - 0 q6 q6 q5 6 q1' 5. s3 s2 3 - q1' q6 q1' q6 1'. q3' q5' q3' q5' q3' 5' - q0 q2' q3' q1' 6
+3 5 - - - 5 - - - 5 - 5. q1' 5 q3 q1 1 - 1 q1 q2 s4 q5 q6 q5 q5 5. 5 - 5 - x. q1' 2'. q1' 1' - 1' q1' q5
+q5 1' q3 q4 2. 2 - - 0 6 6. q5 q4 q3 q2 q4 0 q3 q4 5 q5 q4 - 3. s2 s1 1 - 0 q2 q3 4. q5 6. q3 3 - - - 3'
+q6 q3 3. s6 s5 5 - - q2' s1' s2' q1' 1'. 1' - 1' - - 0 q1' q6 q1'. s6 1'. q3' q5 q3 q5. s3 5 - q0 q6 q6 q5 6. q1' q5 q3 q3
+q2 3 - q1' q6 q1'. s6 1'. q3' q5 q3 q5. s3 5 - q0 q6 q6. s1' q2' q2' q2' q5 6 q6 q5 6. s5 s6 5 - - 0 6 q6 q5 6 - q1' q6
+q1'. s6 1'. q3' q5 q3 q5. s3 5 - q0 q6 q6 q5 6. q1' q5 q3 q3 q2 3 - q1 q6 q1. s6 1. q3 q5 q3 q5. s3 5 - q0 q6 q6 q1 q2 2
+q5 6 - - 0 - s6 - 6. s5 s6 5 - - - q1' q6 q1' q6 1'. q3' q5 q3 q5 q3 5 - 0 q6 q6 q5 6 q1' 5. s3 s2 3 - q1 q6
+q1 q6 1. q3 q5 q3 q5 q3 5 - q0 q2 q3 q1 6 5 1 - - - 1 - - -
+%END

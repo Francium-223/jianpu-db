@@ -1,0 +1,16 @@
+%自己爬起来.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48963
+title=自己爬起来
+tag=
+usertag=
+tagroute=
+confidence=0.994
+conf_p10=0.996
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48963
+%--
+2/4
+subtitle=score
+1 2 q3 q4 5 - 3 5 6 6 5 q6 s6 s5 q4 q6 5 3 2 4 3 2 1 1 1 q2 q4 3 q2 1 1 1 q6 1 x
+%END

@@ -1,0 +1,19 @@
+%苗山春.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48145
+title=苗山春
+tag=
+usertag=
+tagroute=
+confidence=0.975
+conf_p10=0.985
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48145
+%--
+4/4
+subtitle=score
+5 - 5. q7 x 5 - q4'. q4' q2 q2' 1 - - 6 5 4 0 0 5 - 5. x 4 1' 6 6. q4 q6 q2 1 - q1 - 4 q6. q4 2 2. 4
+2 5 - 5. 4 1 6 6. 4 1 q6 q0 2 q2. q4 2 6 1 - 6 1 6 6 - - - 5 - 5. q4 q1 6 - 6. q4. q2 1 - - 6
+5 4 0 0 5 - 5. 4 1 6 - 6. 4 2 1 - - - 2. 4 6. 4 2 2. 4 2 - - - 5 - 5. 4 1 6 6. 4 1 q6 q0
+2 q2. q4 6 2 2 1 - 1 6 1 6 6 - - - 5 5. x q4 q1 6 - 6. q2. q2' q4 q4' q1 q6 q1' 1 6 1 6 6 - -
+%END

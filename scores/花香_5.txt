@@ -1,0 +1,20 @@
+%花香_5.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=8359
+title=花香
+tag=
+usertag=
+tagroute=
+confidence=0.991
+conf_p10=0.985
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-8359
+%--
+4/4
+subtitle=score
+x 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6 q0 q5 ~ 5 4 q5. q0 1 q2 q3 q5 q4 - 3 - 1. q,7 ~ ,7 - x 3
+0 q0 q1 q2 q3 q2 q2 q3 q2 0 0 1 0 0 q0 q1 q2 q3 q2 q2 q3 q2 0 0 ,6 q,7 q1 ~ q1 q2 ~ 2 5 q1 q1 q0 q1 q2 q3 4
+3 q2 q1 ~ q1 q3 ~ q3 q2 ~ q2 q1 ~ q1 q2 ~ 2 1 2 3 4 5 q6 q5 q0 q6 ~ q6 q7 1' 1' 1' 1' s1' s7 q6 ~ q6 q5 ~
+q5 q5 q5 q5 q6 q1 q1 q1 q0 q6 q6 q6 q5 q1 q1 q1 q0 q1 q2 q3 4 3 2 q1 q3 q3 q2 ~ q2 q1 ~ q1 q2 ~ 2 4 3 q2 q1 q0
+q3 ~ q3 q2 ~ 2 q2 q3 ~ q3 q1 1 - - - 0 0 0 0 0 0 0 0 0 0 0 0
+%END

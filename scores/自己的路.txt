@@ -1,0 +1,22 @@
+%自己的路.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12108
+title=自己的路
+tag=
+usertag=
+tagroute=
+confidence=0.645
+conf_p10=0.341
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12108
+%--
+2/4
+subtitle=score
+1'. ,x. x x x x x 3' 0 3. 6 6' 1' - - 6' 6' 6 6 6 2 1' 2 2 1' 1' 6 2 x' 7' x qx 1' 2 q,x x' 2 q,x' q,5' q1'
+qx 2 1 1' 1'. q1' 1. 1 1' 1 1 1 ,1. 1' 1' ,x' ,x qx' q2 qx qx 2 x' qx 1 1 ,1' 1 x ,x qx x 6. ,2' x x x x x' x
+x q3 x' ,x x q3. q,6 q1 3' 3'. 3'. 1 ,3' 3' 6 x' q1' q1' x' q,,,6' 1 q,3' x 3' 2' ,1 ,1' ,1' 3 5' 2' ,x' 6 ,1' 1' 5' 1 3' 1 1'
+1 1 q3 3 6 3 7 7 1' 1. ,3' 3' 3. ,3 1' 7' 3 7 6. 6 6' 3 6 q1. 2 2' 2 2 ,5. 2' ,2' 5 2' 2 x 1' 1' 2'. 2. 2'
+2'. x 2'. 1. 2' 4' 1 1' 1' 1' 1' 1 q6. q6' 3' 3' 3' x q6 q,2 4 2' 1 q,1' 1' 6'. ,,6. ,2 6. 6' 5'. ,,1'. 1' ,6' ,6 ,,1. q,1' 3 q,1' q6
+5' 1 1 6'. 6 6' 6' ,1' 1. 1' 6 q3'. qx'. ,2. 7' q6' 1 1 6 s1 0 q3' 3' x' ,,,x. x' ,1' ,1 ,x' 1 x x 6 x ,x x 1 x' x' x
+x x q,,x x x 6 ,1' 1' x' x ,x 1 1 6 6 q6' 6 1 3 1' 1' 1' 6 1' qx' 1 1' 6' 6 q6 1 2' 1' 1'
+%END

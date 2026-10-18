@@ -1,0 +1,24 @@
+%草原魂_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=29249
+title=草原魂
+tag=
+usertag=
+tagroute=
+confidence=0.980
+conf_p10=0.955
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-29249
+%--
+4/4
+subtitle=score
+s0 d5 d6 s1 s2 s3. 3 s2 s3 s2 s1 ,6 3 6 - s5 s6 s1' s7 6 - q5. s6 7 ~ 7 s5 s6 q5 q3'. 3. 3 6 - - q,6. s6 s5 s6 s5
+s3 s2 s5 q3 s3. s2 s6 s3 6 - 0 0 2 - s0 s3 s2 s3 s2 s1 s,5 s1 ,6 - s,6. d6 s,6 s,5 q,6 q0 q3. s3 q3 q,6 s1 q2 s1 ,6 q,5 s,5
+s,6 s,6 s,7 s,6 s,5 q,5 ,6. s,6 s1 s2 s2 q2 q,6 s5 q5 s6 s6. d7 s5 d6 d5 3 - q6. s6 s1' ~ s1' q6 6 q6 q5 2 - s6 q2 s2 q6 s5 s6
+s5 s1 q1 s1 s0 s1 s2 s3 q5 s5 s6 q5 s3 s5 6 - 2. s,6 s1 q2 s2 s3 q1 s,7 s,6 ,6 - q1 2 s,6 s1 q2 s2 s3 q5 s2 s3 3 - -
+q0 s3 s3 s6 q6 s7 s1' s7 q6 s7 q7 s7 s6 s5 s5 s6 s6 s0 s3 s3 s6 q6 s7 s1' s7 q6 s7 q7 s7 q6 s5 s6 s5 3 s3 s3 s6 q6 s7 s1'
+s7 q6 s7 q7 s7 s6 s5 s5 s6 s6 s0 s3 s3 s6 q6 s7 s1' s7 q6 s7 q7 s7 q6 s5 s6 s5 3 - q6. s2 2 ~ 2 s1 q2 s3 q2. s1 s2 s3
+q1 3 q,5 s,5 s,6 q3 s1 s2 s1 ,6 ~ ,6 q,5 s,5 s,6 s0 s2 s3 s5'. 6 6 - - 6 - q6 q5 q2 q5 3' - - q6 q3 2 - q2 q1 q2 q5
+3' - - q1' q1' 6 - - q6 q5 3 - - q6 q3 2 - q2 q1 q2 q1 ,6. q,5 s,6. d6 s,6 s,5 q,6 q0 3 q,5 s,5 s,6 q3 s1 s2 s1 ,6 ~ ,6
+q,5 s,5 s,6 s0 s2 s3 s5'. 6 6 s1' s7 q6 s0 s3 s5 s6'. 6 6 q1' q6 s0 s3 s5 s6'. 6 6 - - 0 x x
+%END

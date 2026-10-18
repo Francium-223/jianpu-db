@@ -1,0 +1,24 @@
+%花楼恋歌_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=33063
+title=花楼恋歌
+tag=
+usertag=
+tagroute=
+confidence=0.968
+conf_p10=0.948
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-33063
+%--
+2/4
+subtitle=score
+- - 0 0 5 6 3 2 6 4 1 5 x q0 s1 s2 1 1 s3 s2 2 - q1 s1 s2 s3 s2 q3. q2 q1 s2 s1 q2 s1 s2 q3 5 s,2 s2 s3
+s6 s1 2 s1 s2 q3. s5 s2 s3 s1 s6 ,5 s5 s6 s1 s2 q1 s1 s2 s3. d2 s3 s5 s6. d1 s5 s6 1 s2. d3 s1 s6 s1 s2 s6 ,5 - ,5 q1 s,6
+s1 q2 q2 0 ,5 q1 s,6 s,5 q,5 q,5 0 q2. s3 q,5 q,5 q1 s,6 s1 2 q,6 s,6 s1 q2 s3 s2 2 - ,5 q1 s,6 s1 q2 q2 0 ,5 q1 s,6 s,5 q,5 q,5
+0 q2. s3 q5 q5 s,5 q,5 s,6 1 s,6 s1 s,6 s,5 s,2 s,3 s,5 s,6 ,5 - x x' 0 1 0 q,x s1 s1 s2 h3 s1 dx. s2 s3 h3 d2 s1 2 s1 s1 q2
+d2 q3 q1 d2 q2 d1 h1 s1 q2. s3 s1 s2 s1 x x q1 s,6 s1 q2 s2 s3 5 s6 s5 s6 s5 5 s5 s3 s2 s1 2 - 2 - q,5. s,6 q1 s,6 s1
+2' s3 s2 s3 s5 ,5 s1 s,6 s,6 s,5 ,5 - ,5 0 q2. s3 q5 q5 s5 s3 s2 s1 3 q2. s3 q,5 q,5 q1' s,6 s1 2 q3' s2 s3 5 ~ 5 - s5 s3
+s2 s1 2 ~ 2 - q2 s2 s3 q5 q5 q,5 s,5 s,6 1 s,6 s1 s,6 s,5 s,2 s,3 s,5 s,6 ,5 ,5 x'. ,5. q1 s1 s2 s3 2 q2. q1 - q2. q,5 q1 s2 s1
+q1 s1 s2 q1 q1 s5 s,6 s1 q5 s2 s3 q1 s6 s1 s2 s1 2 q3. s3 q1 s5 ,5 s6 s1 s2 s3 q2. s3 q5 s3 s2 s1 d2 d1 s6 s1 s2 s3 q1 q,6.
+s1 s2 d3 d2 s1 ,5 - 5' q1 s1 s2 s3 q2 s2 s3 q5 q5 q,5 s,5 s,6 1 s,6 s1 s,6 s,5 s,2 s,3 s,5 s,6 q,5 ,5. ,5 -
+%END

@@ -1,0 +1,18 @@
+%萤火飞光.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=50532
+title=萤火飞光
+tag=
+usertag=
+tagroute=
+confidence=0.811
+conf_p10=0.501
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-50532
+%--
+4/4
+subtitle=score
+0 0 0 0 - 0 0 0 0 - 0 0 0 0 0 0 0 0 - 0 2. 0 - - q1 q0 q,3 q3 q1 0 0 0 0 0 0 0 0 0 0 q,3.
+0 0 0 0 0 0 0 0 - 0 0 0 - 0 0 0 0 0 0 0 0 0 - 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+- 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+%END

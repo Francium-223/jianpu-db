@@ -1,0 +1,21 @@
+%菁菁校园.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=13225
+title=菁菁校园
+tag=
+usertag=
+tagroute=
+confidence=0.925
+conf_p10=0.711
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-13225
+%--
+2/4
+subtitle=score
+q3 3 q4 5 1' q2' 1' q6 5 - q0 q6 q6 q4 q3. s4 q5 q3 2 - - - q3 3 q4 5 1' q2' q2' 1' 1' q6 5 5 - q0 q0 q3 q3 q3
+q3 2. 2 s1 s2 1 1 - - - q3 3 q4 5 1' q2' q2' 1' 1' q6 5 5 - x ,x q0 q6 q6 q4 q3. s4 q5 q3 2 - - - q3 3 q4
+5 1 q2 1 q6 5 - q0 q5 q5 q3 2. q6 ,1 1' - - - q5 q3' q3'. s2' 2' ,2 - q5 q2' q2'. s1' ,1 1' - q4 q1 ,1 1' q1' q7 q7 q,x
+q7 q6 q7 q7 q6 q5 q5 5 - x q5 q3' q3'. s2' 2' - q5 q2' q2'. s1' 1' - q4 1' s1' s1' q7. s7 q6 q7 1' - - - x x 5. q6 3. s2
+s1 1'. q2' 6 - 5. q5 4 3 2 - - - 5. q6 3. s6 s5 x x 1'. q2' 6 - 5. q3' 2'. q6 1' - - - 1' - - - x 1' - -
+-
+%END

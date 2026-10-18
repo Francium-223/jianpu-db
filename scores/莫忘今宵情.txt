@@ -1,0 +1,21 @@
+%莫忘今宵情.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=36815
+title=莫忘今宵情
+tag=
+usertag=
+tagroute=
+confidence=0.948
+conf_p10=0.743
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-36815
+%--
+4/4
+subtitle=score
+0 - 0 ,1 ,x 1. ,1. x' x x x 1' 1' q1' 2' q3' 3' - - q2' q1' 6 1' q1' 6 q5 ~ 5 - - - q1' q1' q1' 1' 2' 3' 1' 2' q2'
+q1' 1' - - - - - q3 q4 5 - - q3 q4 5 - - q3 q4 5 6 q7 5 - - q2 q3 4 - - q2 q3 4 - - q2 q3 4 5 q6
+6 q7 3 - - q3 q4 5 - q0 3 q4 5 - - q3 q4 5 6 q7 1' q6 ~ 6 - - q6 q7 - q0 7 q6 3 5 - q1 q2 3 3 q0
+2 q1 1 - - - 1' 1' q1' 2' q3' 3' - - q2' q1' 6 1' q1' 6 q5 ~ 5 - - - 5 6 q7 1' 4 - - 3 q2 q3 q4 q5 q0 6
+q5 5 - - - 1' 1' q1' 2' q2' 3' - - q2' q1' 6 1' q1' 6 q5 ~ 5 - - 5 q5 q6 6 - q6 q2' 2' - - 3' q2' 2' - - -
+1' - - - - - -
+%END

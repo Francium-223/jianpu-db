@@ -1,0 +1,20 @@
+%西湖柳.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15022
+title=西湖柳
+tag=
+usertag=
+tagroute=
+confidence=0.962
+conf_p10=0.850
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15022
+%--
+4/4
+subtitle=score
+1 - - x - x x. x x 0 x x x 1' q6 q5 3 - 5 q3 q2 ,6 - q1 q2 q3 q5 6 5 3 - - - 2. q3 2 1 6 q6 q1
+5 3 q5 q6 q5 q6 1 q6 qx q4 5 - - - 1' q6 q5 3 - 5 q3 q2 ,6 - q1 q2 q3 q5 6 5 3 - - - 2'. q1' 2' 6 1' q1'
+q6 6 - q5 q6 q5 q6 5 6 2' - - - 3 q2 q1 5. q3 1 q6 q5 3 - q5 q6 q5 q6 1 q6 q5 3 - - - 2. q3 2 1 6 q6
+q1 5 3 q5 q6 q5 q6 5 6 2 - - - 3' q2' q1' 5. q3' 1' q6 q5 3 - q1 q2 q3 q5 6 5 3 - - - 2'. q1' 2' 6 1' q1' q6
+6 - q5 q6 q5 q6 2' 6 1' - - -
+%END

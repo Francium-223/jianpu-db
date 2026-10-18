@@ -1,0 +1,18 @@
+%荣光.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14069
+title=荣光
+tag=
+usertag=
+tagroute=
+confidence=0.973
+conf_p10=0.921
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14069
+%--
+4/4
+subtitle=score
+1 - - x - x 1 x x 1' - 6 1' 7 - 3 - q1' q7 q6 q5 6 3' 7 - - - 6 q5 q4 q3 q2 q3 q4 3 7 6 3 q6 q6
+q5 q4 q3 q2 q3 q4 3 - - - 1' - 6 1' 7 - 3 - q1' q7 q6 q5 6 3' 7 - 3 - 6 q5 q4 q3 q2 q3 q4 3 7 6 3 q6
+~ q6 q5 q4 q3 q2 q3 q4 3 7 - -
+%END

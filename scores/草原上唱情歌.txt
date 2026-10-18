@@ -1,0 +1,20 @@
+%草原上唱情歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=26250
+title=草原上唱情歌
+tag=
+usertag=
+tagroute=
+confidence=0.988
+conf_p10=0.983
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-26250
+%--
+4/4
+subtitle=score
+- - - - ,6 q1 q2 q3 s5 s6 5 q3. s2 q1 q2 q,6 q,6 ~ ,6 q1 q1 q2 q3 q5 s6 s7 q6 q5 q3 q3 ~ 3 - - 5 q1' q1' 1 q2 q3
+q6 q5 q6 q1 2 - q3 q5 q5 q3 2 q,5 q,7' s,7' s,6 q,6 ~ ,6 - - ,6 q1 q2 q3 s5 s6 5 q3. s2 q1 q2 q,6 q,6 ~ ,6 q1 q1 q2 q3 q5
+s6 s7 q6 q5 q3 q3 ~ 3 - - 5 q1' q1' 1 q2 q3 q6 q5 q6 q1 2 - q3 q5 q5 q3 q5 q3 q5 q7 6 - - - 6'. s5 s3 6 - q7
+q6 q5 q6 q5 3. 6. s5 s3 q2 2 s6 q1 q2 q5 q2 2 3 6. s5 s3 6 - q7 q6 q5 q6 q5 3 s6 q1 q2 q3 s1' ~ s1' q6 q6 q5 q3 6
+- - - - - - - x. 6 - - - 6 - - - x q3 q2 q0 s3 q2 q1 -
+%END

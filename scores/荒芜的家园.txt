@@ -1,0 +1,18 @@
+%荒芜的家园.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=45739
+title=荒芜的家园
+tag=
+usertag=
+tagroute=
+confidence=0.962
+conf_p10=0.896
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-45739
+%--
+4/4
+subtitle=score
+1 0 0 q1 q4 x x x. qx 5. q6 5 3 1'. q2' 1' 6 5 3 1' 3 2 - - 0 5. q6 5 3 1. q2 1 6 1 3 3 2 1 - -
+0 2. q1 2 4 3. 2 3 5 6 5 4 3 2 - - 0 5. q6 5 3 1'. q2' 1' 6 5 3 q3 2. 1 - - 0 5. q2 3 4 x 5. q2
+3 4 5 2 7. q6 5 - - 0 5. q2' 3 4 x 5. 2 3 4 1' 3 q3 2. 1 - - 0
+%END

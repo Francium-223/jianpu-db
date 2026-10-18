@@ -1,0 +1,24 @@
+%自古痴情多烦恼.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=51092
+title=自古痴情多烦恼
+tag=
+usertag=
+tagroute=
+confidence=0.976
+conf_p10=0.963
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-51092
+%--
+2/4
+subtitle=score
+1 - - - 1 1 x' x'. x'. qx 0 0 7 0 x ,x q5 s5 s3 q5 s5 s6 1' - q2' s2' s1' q3 s1' s6 5 - q6. s5 q6 s6 s1' q5 s6 s5
+q5 s3 s3 q2 s2 s3 s2 s1 s6 s1 2 - q5 s5 s3 q5 s5 s6 q1' s1' s6 1' s2' s2' s2' s1' q3 s1' s6 5 - q6 s5 s6 q1'. s6 q5 s6 s5 3
+q2 s2 s3 q3 s5 s6 1 - q5. s6 q5 s5 s6 s1 s2 s1 s6 ,5 q,6. s1 q1 s6 s5 q5 s5 s3 2 q3 s2 s3 q5 s5 s3 q2 s2 s1 ,6 s2 s2 s2
+s3 s2 s3 s5 s6 - 1 - q5 s5 s6 q5 q6 s1 s2 s1 s6 - ,5 q,6. s1 q1 s6 s5 q5 s5 s3 2 q3 s2 s3 q5 s5 s3 q2 s2 s1 ,6 s2 s2
+s2 s3 s2 s3 s5 s6 - 1 - q5 s5 s3 q5 s5 s6 q1' s1' s6 1' s2' s2' s2' s1' q3 s1' s6 5 - q6. s5 q6 s6 s1' q5 s5 s6 0 - 3 s2
+s2 s2 s3 s2 s1 s6 s1 0 - 2 - q5 s5 s3 q5 s5 s6 q1' s1' s6 1' s2' s2' s2' s1' q3 s1' s6 5 - q6. s5 q6 s6 s1' q5 s5 s5 0 -
+3 s2 s2 s2 s3 s2 s3 s5 s6 - 1 - q5 s5 s3 q5 s5 s6 1' - q2' s2' s1' q3 s1' s6 5 - q6. s5 q6 s6 s1' q5 s6 s5 q5 s3 s3 q2
+s2 s3 s2 s1 s6 s1 2 - q5 s5 s3 q5 s5 s6 q1' s1' s6 1' s2' s2' s2' s1' q3 s1' s6 5 - 0 0 q6 s5 s6 q1. s6 q5 s6 s5 3 q2 s2
+s3 q3 s5 s6 1 - x 1 - 1 - 2 0 2 3 1 2 2 q4
+%END

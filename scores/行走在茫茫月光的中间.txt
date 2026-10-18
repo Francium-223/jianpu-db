@@ -1,0 +1,22 @@
+%行走在茫茫月光的中间.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15357
+title=行走在茫茫月光的中间
+tag=
+usertag=
+tagroute=
+confidence=0.964
+conf_p10=0.899
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15357
+%--
+2/4
+subtitle=score
+1 - - x x x x x 1 x 1 1. ,,x ,5' - ,5' q0 s1 s2 3 - 4. s3 s4 q5 q,7 q1 q,6' ,6' - q2 3. 4. s3 s4 5. q6' 6' - 0
+0 q,3. s5 q1. s5 ,5 q,4. s5 q,5 q2' 2' 0 q,7. s1 q1 q,5 q,4 q,3 q,3. s5' ~ q,5' q1 1 - 0 q,6 q,7 q1 q,6 q1 q,6 ,4 q0 q,6 2 - 0 q2 q3
+q4 q5 q4 q3 3 - 3 0 q0 q3 q3 q3 q3 q5 q5 q1 ,7 q0 q3 5 - q0 q4 q4 q4 q4. s5' q5'. s5 q4 2. ~ 2 0 q0 q3 q3 q3 q3 q5
+q5 q1 ,7. s5 s6' q6' q5' ~ 5' q0 q4 q4 q4 q4 q4 q0 s4 q5 q5 5 5 - 0 0 0 q1 q5 q4' 3 0 0 q1 q4 q3 2. 0 s0 s2 s3 s2
+1. q6 6 q6 q5 q4 3. ~ 3 - q0 q3 q3 q3 q4 q3 q3 q2 q7 1. 1 q1 q7 q3 q1 4' - 4' q4 q5 q3 2. 2 - 2 - 0 0 q4 q3
+q0 s6 s7 1' 7 6 q6 q3 q1 4'. ~ 4' q4 q5 q6 5. ~ 5 - 5 0 q0 q3 q3 q3 q3 q5 q5 q1 ,7 q0 q3 5 - q0 q4 q4 q4 q4. s5'
+q5'. s5 q4 2. ~ 2 0 q0 q3 q3 q3 q3 q5 q5 q1 ,7. s5 s6 5 - 0 q0 q4 q4 q4 0 q4 q4 q4 q5 5 - 5 - 5 -
+%END

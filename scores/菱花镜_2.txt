@@ -1,0 +1,21 @@
+%菱花镜_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=29711
+title=菱花镜
+tag=
+usertag=
+tagroute=
+confidence=0.981
+conf_p10=0.977
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-29711
+%--
+4/4
+subtitle=score
+,6 3 q2 q3 5 ,6 - 0 0 ,6 3 q2 q3 5 6 - - 0 ,6 q3. s2 2 - q3 6 s5 s3 3 - 6. s5 5 2 3 - - 0 q1' q7 q6
+q5 q3 q2 q3 q1 ~ q1 q2 ~ 2 - q2 q3 q,6 q,6 ~ ,6 q,5 q,6 q2 q1 q,6 q,6 ~ ,6 - 0 0 0 0 0 ,6 3 q2 q3 5 ~ q5 q,6 ~
+,6 - 0 ,6 3 q2 q3 5 6 - - - ,6 q3. s2 2 - q3 6 s5 s3 3 - 6. s5 5 2 3 - - - q1' q7 q6 q5 q3 q2 q3 q1 ~
+q1 q2 ~ 2 - q2 q3 q,6 q,6 ~ ,6 q,5 q,6 q2 q1 q,6 q,6 ~ ,6 - - x q1' s1' q1' 2' q3' q2' 1' q1' 3 - sx x - - - q,6 q,6 ,6
+- - q1' q7 q6 q5 q3 q2 q3 q1 ~ q1 q2 ~ 2 - q2 q3 q,6 q,6 ~ ,6 q,5 q,6 q2 q1 q,6 q,6 ~ ,6 - - q1' q7 q6 q5 q3 q2 q3 q1
+q1 q2 2 - q2 q3 q,6 q,6 ,6 q,5' q,5' q,6 q2 q1 q1 q,6 ,6 - -
+%END

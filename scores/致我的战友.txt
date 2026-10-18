@@ -1,0 +1,18 @@
+%致我的战友.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=38124
+title=致我的战友
+tag=
+usertag=
+tagroute=
+confidence=0.978
+conf_p10=0.946
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-38124
+%--
+6/8
+subtitle=score
+x q0 q3 q2 3 3 s2 s1 2 2 s1 s7 1 s7 s6 q,7 s6 x q,3 ,6 q4 3 q1 ,7. q,7 q0 q,6 x ,5 q2 q2 q,7 3 q3 q0 q,3 ,6 q4 3 q,6
+2. q2 q0 ,7 q,5 q,5 q,7 q2 q4 3 q3 q0 q3 4 q5 4 q,7 3. ~ q3 q0 q,7 3 q3 ~ q3' q2 q1 q3 2 ~ q2 q0 q,7 1 q,6 ,4 q1 ,7. ~
+,7 q,6 x ,5 q,3' ~ q,3' q3 q2 q3 ,6' ~ q,6' q0 s2 s1 q3 ,6' ,6 ,6 q,6' q0 q0
+%END
