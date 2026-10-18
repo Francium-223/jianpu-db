@@ -1,0 +1,19 @@
+%走向深蓝.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=17335
+title=走向深蓝
+tag=
+usertag=
+tagroute=
+confidence=0.945
+conf_p10=0.844
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-17335
+%--
+2/4
+subtitle=score
+x 5. 1 x s5 s5 s5 s5 s5 5. ,5 ,5 5 - 5 - 6. s6 s6 6. s6 s6 6 - 6 q6 6 x'. q7 qx qx x x 2' 7 q6 q5 x q3. 4
+5 q5 q5 3 1 q2. 2 q2' q3' ,5 - 1 q1. s6 ,5 3 q5. s5 q5 q1' 2. q3 q5. ,5 q5 q5 3 1 q2. s2 q2' q3' ,6 - q2 q2 q2 q3 6 6
+7. q7 6 7 5 - 5 q3. s4 - 5 q5 6 3 q2 q2 6 5 - 1'. q5 6 3 q5. q1 3 2 - q3 q1 q2' q5' 5 - q6 q3 q5 q7 6' q5
+q6 q3 q3 5. q6 7' 1' 2' - 2' 5 7' 5' - x q3. ,4 7' 5' - q5 q6 q3 q3 5. q6 q7 q5 2' - - - - 0
+%END

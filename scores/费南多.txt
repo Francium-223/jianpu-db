@@ -1,0 +1,22 @@
+%费南多.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49863
+title=费南多
+tag=
+usertag=
+tagroute=
+confidence=0.992
+conf_p10=0.996
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49863
+%--
+4/4
+subtitle=score
+q0 s3 s3 q3. q3 4. q5 5 5' 5' - - 5 q0 s3 3 q3. 4 q4. 5 q5 4 q4 3 3 q2 q2 q1 1 - - - 1 0 q0 4 q4. q5 5. s6
+q6 6 ~ 6 - - 6 q0 4 4 5 5 6 q6 5 q5 4 q4 3 3 q2 2 q0 5 q5 6 q6 q7 q7 q6 q6 q5 q5 q4 q4 q3 1' 3 2 2
+1 1 1 - - - 1 q0 s3 s3 q3. q3 q4. s5 5 q5 5 - - 5 q0 q3 s3 q3. s4 4 s4 q5 5. q4 4 3 3. 2 2 1 1 - - -
+0 q0 4 4 4 5 5. 6 6 6' ~ 6' - - 0 q0 q4 q4 q5 5 q6 q6 q5 q5 q4 4 3 q3 q2 2 0 5 5. q6 6. 7 7. 6 q6 q5
+q5 4 4 3 3 2 q1 ~ q1 q1 1' 1 1 1' - 1 1 1' 1' q1' q1' q1' q1' q1' 7 5 4. q1' q7 7 5 4. 7 q6 q6 q5' ~ 5' - -
+5 q1' 1' 1' q1' q1' q1' q6 q5 5 - q3 q3 q3 q3 q3 q3 q4 5 q6 6 - q3 q4 q3 q2 2 - - - 2 1 q1 q1 q1 1 1 7 5 4
+4 1 7 7 q5 4. 3 2 2 q1 1 - - 1 q1 q1 q1 q1 q1 q1 q2 q1 1 - -
+%END

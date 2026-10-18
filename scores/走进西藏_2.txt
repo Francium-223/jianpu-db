@@ -1,0 +1,19 @@
+%走进西藏_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=33075
+title=走进西藏
+tag=
+usertag=
+tagroute=
+confidence=0.754
+conf_p10=0.412
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-33075
+%--
+2/4
+subtitle=score
+x 5 5 0 x ,x - q0 6. 1 1 x. 3 6 0 1 1 7 6 q1 3 0 1 6 5. 6 3 0 x 0 - x 3 0 x. x. 0 5 1 q5
+3. 3 0 0 0 6 6 3 ,6. 3 3 6 0 0 x 6 x'. 1 3 3 x 0 0 5 x 5' 1 x'. ,x' 1 6 6 1 x 1. 2 x x 1 3
+0 x. x. 5 0 1 1 3 6 1. 1 6 0 0 1. 1 0 x. 0 0 ,6. ~ ,6 0 1. qx 0 5. 0 3 0 ~ 0 0 1 6 6 1 x. 1
+1 s1'. 3 0 1. 3 x 1 ,6 0 x
+%END

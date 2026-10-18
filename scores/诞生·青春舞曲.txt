@@ -1,0 +1,21 @@
+%诞生·青春舞曲.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12286
+title=诞生·青春舞曲
+tag=
+usertag=
+tagroute=
+confidence=0.850
+conf_p10=0.482
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12286
+%--
+4/4
+subtitle=score
+- - 6. 1' 0 0 0 2' q2' - 3' 5' 6' q3' 3' x'. x' - q3' 3' 3' - 3 - - 0 q6 6 q7 1 1 2. 3 3 q2 0 2 2 q2. q2
+q2 1 6 7. 7 s7 ,7. 7 0 q6. ,,6 6 7 1. s1 ,1 ,2 3 3 s3 2. 3 0 q,2. - 0 ,2 q2'. q,,2' s,2' x' q6 7 7 7 7' 3' - - 3'
+- ,x ,6. s6. 6 q6 0 q6. q6. q,6 - - q,6 ~ 6 3'. q3' 3' q3 q3 3' - x - - - q3 2 q1 q,7 6 q,6 q,,4 - q,3. s2 q7 q1 - q1
+0 q,6 s,6 q,6. q7 1'. ,2' 6' q5' q2' q1' 0 q3'. q2' q,x' q,,2' ,1' x. 6 q,6. q4' - 3. 2 7 1 2 q2 q1 q,,7 q6 6 0 6 q6. q7 q1 q,7 1 q7
+q6. 0 qx 7 0 7. s1' q2' 4' q3' 7 q6 6 q5 6 0 6. q,6 x q6 0 x. ,,,1 x' - 6. 1' 1' 6 0 0 q2' 2' 1' 3' ,5' 6'. 3' 3'. -
+0 ,x'. ,1' x' ,x' 1' ,1' 3' 1' x' 1 3. 3' ,3' 1'. ,1 x 1'. ,,1' ,,1 1' ,1' ,x' 6. 1' 1' 1' x 6 6' 0 0 q1. 0 0 0 0 x.
+%END

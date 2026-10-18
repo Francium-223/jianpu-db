@@ -1,0 +1,22 @@
+%谁来安慰.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=25201
+title=谁来安慰
+tag=
+usertag=
+tagroute=
+confidence=0.983
+conf_p10=0.974
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-25201
+%--
+4/4
+subtitle=score
+qx - - 5 x x x q,5 q,6 3. q2 1 q2 q3 5 s5 s6 q3 5 - s6 q1 s1 q1 q2 q3 q5 q1 q6 5 - - q5 s5 s6 s1' q1' s1' q1' q1'
+s1' s2' s1' s6 1' s5 q5 s5 q5 q5 s5 s6 s5 s3 5 q5 s5 s6 q5 q3 2 s2 s1 q,6 1 - - - ,5. q,3 q,5 q,6 1 q2. s3 s2 s1 s1 d,6 ,5
+- q3 q5 q5 q5 q5 s6 s5 s3 s2 q1 q1' q2 ~ 2 - - 3. q2 q3 5 q3 q2 q3 q1 q2 ,6 - q,5 s,5 s,6 q5 q3 q2. s3 s2 s1 q,6' s6' q1
+~ 1 - - 5 5 5 q5 q6 q5 q3 q2 s3 s2 1 - 2 2 2 q2 q3 q2 q1 q,6 s,5 s,6 q,3 ,5. q,6 s,6 s1 q,6 q,5 q,6 q,6 ,6 q2 s2 s3 q2
+q1 q2 q2 2 q0 s3 s3 q3 q2 q1 q2 3 ~ q3 q5 ~ 5 - - q3 3 q2 3 5 q3. s5 s3 s2 d3 d2 s1 1 - q2 2 q1 2 3 q2 q1
+s,6 d1 d6 s,5 s,6 q,6 ,5. ,6. q1 q,6 s1 s,6 ,5 1 q2 s1 s2 3 - q5 s5 s6 q5 q3 2 s2 s1 d2 d1 d6 d1 q,6 q1 1 - - q,6 q1 1 -
+- q,6 q1 1 - - s1' q1' s1' q1' q1' s1' s2' s1' s6 1' s5 q5 s5 q5 q5 s5 s6 s5 s3 5 q5 s5 s6 q5 q3 q2. s3 s2 s1 q,6
+%END

@@ -1,0 +1,20 @@
+%踏上成功路.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12060
+title=踏上成功路
+tag=
+usertag=
+tagroute=
+confidence=0.968
+conf_p10=0.955
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12060
+%--
+4/4
+subtitle=score
+1 - - - x x. x x x' q0 q,6 q,7 q1 ,7 ,6 q0 q,6 q,7 q1 ,7 ,6 q0 q,6 q,7 q1 ,7 ,6 2 3 4 - q0 q4 q5 q6 5 2 q0 q3 4
+5 4 3 q0 q3 q2 q1 ,7 ,7 1 ,6 3 - 0 ,6 ,7 1 ,6 q0 q,6 q,7 q1 ,7 ,6 q0 q,6 ,7 1 ,7 ,6 2 3 4 - q0 q4 q5 q6 5 2
+q0 q3 q4 q5 4 3 q0 q3 q2 1 ,7 2 1 ,7 ,6 - q0 q3 q4 q5 q6 q6 q6 q4 2 q4 q6 5 q5 q5 q3 1 q2 q3 q4 q4 3 q3 q4 q5
+q6 q6 3 - - q4 q5 q6 q6 6 6 5 q5 q7 q1 q1 q1 q1 7 q2 q3 q4 q4 q4 q5 6 - 0 1 q1 7 6 7 - - - 7 - q0 q,6
+q,7 q1 ,7 ,6 q0 ,6 q,7 q1 ,7 ,6 q0 q,6 q,7 q1 ,7 ,6 2 3 4 - q0 q4 q5 q6 5 2 q0 3 q4 q5 4 3 q0 q3 q2 q1 ,7 ,7 1 ,6
+%END

@@ -1,0 +1,20 @@
+%谷建芬新学堂儿歌之一字诗.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=34733
+title=谷建芬新学堂儿歌之一字诗
+tag=
+usertag=
+tagroute=
+confidence=0.991
+conf_p10=0.975
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-34733
+%--
+4/4
+subtitle=score
+x 5 - 1 1 - 1 1 q1 q2 q3 0 0 0 0 - 1 1 5 - 1 1 q,5 q1 q2 q3 0 x q,5 q,5 q,5 q,5 ,5 ,5 ,5 1 0 0 q,6 q,6
+q,6 q,6 ,6 2 2 0 0 0 q,7 q,7 q,7 q,7 ,7 1 2 - 3 4 q6 q5 q5 q5 5 5 5 - - 0 q,5 q,5 q,5 q,5 ,5 ,5 ,5 1 0 0 q,6 q,6
+q,6 q,6 ,6 2 2 0 0 0 q,7 q,7 q,7 q,7 ,7 1 2 - 3 4 q6 q5 q5 q5 4 q3 q2 1 0 0 1 6 q6 q5 6 - 6 5 5 0 1 4
+q4 q3 4 3 2 2 0 1 6 q6 q5 6 6 5 5. q3 q2 q2 q4 q4 6 7 5 - - - q,5 q,5 q,5 q,5 ,5 ,5 ,5 1 0 0 q,6 q,6 q,6 q,6
+,6 2 2 0 0 0 q,7 q,7 q,7 q,7 ,7 1 2 - 3 4 q6 q5 q5 q5 4 q3 q2 1 0 0 0 q6 q5 q5 q5 4 - 3 2 1 -
+%END

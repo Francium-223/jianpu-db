@@ -1,0 +1,24 @@
+%让我一生爱着你.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=7570
+title=让我一生爱着你
+tag=
+usertag=
+tagroute=
+confidence=0.949
+conf_p10=0.855
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-7570
+%--
+2/4
+subtitle=score
+q0 s1 s2 s3 s3 s3 s2 s3 s3 s2 s1 s2 s2 s2 s1 s1 s1 s1 s1 s0 s3 s1 s6 ,5 q0 s5 s6 s1 s1 s1 s6 q1 s6 s5 s3 s3 s3 s2 1 s3
+s2 s2 s1 s1 s6 s6 s1 1 - s3 q,5 s5 q,6 q,5 s3 s2 s3 s2 ,1 s6 s1 s1 s1 s6 s5 s3 s6 ,5 - s6 q1 s1 q2 s1 s1 q,6 s5 s3 ,3 s2
+q,2 s2 q,3 s2 s1 - s3 q,5 s5 q,6 q,5 s3 s2 s3 s2 ,1 s6 s1 s1 s1 s6 s5 s3 s6 ,5 - s6 q1 s1 q2 s1 s1 q,6 s5 s3 ,3 s6 s5 s6 s5
+s6 q1. 2 ~ q2 s1 s2 s3 s3 s3. d2 q3 s2 s1 s2 s2 s2 s1 ,6 s1 s1 s1 s1 s1 s3 s1 s6 ,5 q,5 s5 s6 s1 s1 s1 s6 q1 s6 s5 s3 s3
+s3 s2 1 s3 s2 s2 s1 s1 s6 s6 s1 2 q2 s1 s2 s3 s3 s3. d2 q3 s2 s1 s2 s2 s2 s1 ,6 s1 s1 s1 s1 s1 s3 s1 s6 ,5 q5 q5 q6 q1
+q1 q1 q6 q1 q6 q5 q3 q3 q3 q2 1 q3 q2 q2 q1 q2 q1 q6 q1 q1 q1. 1 q3 q3 q3 q2 q3 q3 q2 q1 x s2 s2 s2 s1 ,6 s1 s1 s1 s1
+s0 s3 s1 s6 ,5 q0 s5 s6 s1 s1 s1 s6 q1 s6 s5 s3 s3 s3 s2 1 s3 s2 s2 s1 s1 s6 s6 s1 2 d5 d6 d1 d2 s3 s5 s3 s3 s3 s2 s3
+q5. s2 s2 s2 s2 q2 s5 s6 s1' s1' s1' s6 s1' q6. 5 q0 s2' s3' s1' s1' s1' s1' 1' s6 s5 s5 s3 5 s3 s2 s2 s1 s1 s6 s6 s1 1 - x. 1'
+s1 q1. 1 0 0 0 q0 s1 s2 s1 q1. 1 s3' s2 s2 d1 s2 s1 s6 s1 1 -
+%END

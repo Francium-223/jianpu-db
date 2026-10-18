@@ -1,0 +1,16 @@
+%走上小山岗.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=38125
+title=走上小山岗
+tag=
+usertag=
+tagroute=
+confidence=0.993
+conf_p10=0.979
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-38125
+%--
+2/4
+subtitle=score
+q5 q4 3 2 1 q5 q4 3 s4' q2 1 q,7 q2 q,6 q,6 q,5 q,7 q1 q1 q,7 q2 ,6 ,5 ,5 q5 q5 q4 q4 q5 q5 q3 q3 q2 q2 2 5 5
+%END

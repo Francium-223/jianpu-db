@@ -1,0 +1,22 @@
+%走黄沙·霍青桐.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=2043
+title=走黄沙·霍青桐
+tag=
+usertag=
+tagroute=
+confidence=0.949
+conf_p10=0.850
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-2043
+%--
+4/4
+subtitle=score
+1 - - - 1 x x. - x x 1. x 1 x q0 q3 6 q1' q2' 3' q2' q5' 3' - 7 - 6 q1' q2' 3' q2' q6' 5'. q2' 3' - 6 q1' q2' 3'
+q2' q5' 3' - 1'. q5 6 q1' q2' 3' 7 6 - - - 3 - - q2 q1 2. q5 2 q1 s7 1 - - q6 q1 ,7. s6 ,5 - 3 - - q2 q5 6.
+q2 3 - q1 s7 s1 ~ 1 q1. s6 ~ s6 q1 - ,7. q2 - 3 - - 0 6. q5 q3. s3 ~ q3 q1 2. s3 s5 3 - q1 s7 s1 ~ 1 q1 q,6
+q,6 q1 ,7. q,7'. 3 - 6. q5 q3. s3 ~ q3 q1 2. s3 s5 3 - q1 s7 s1 ~ 1 q1 q,6 q,6 q1 ,7 - ,5 q,6 q,7 ,6 - - 0 x 3 - 2
+5 3 - - 0 0 3 - q5. s6 ~ q6 q2 3 - ,6 - ,7 - ,5 ,7 6'. q5 q3 3 q1 2. s3 s5 3 - q1 s7 s1 ~ 1 q1 q,6 q,6 q1
+,7. q,7'. 3 - 6. q5 q3. s3 ~ q3 q1 2. s3 s5 3 - q1 s7 s1 ~ q1 q1 q1 q,6 q,6 q1 ,7 - ,5 s7. s6 ,6 - - 0 3 - q3 q2 q1
+q5 ,6 - - - 0 ,6 - ,2 - ,3 - - -
+%END

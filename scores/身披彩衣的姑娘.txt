@@ -1,0 +1,22 @@
+%身披彩衣的姑娘.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=28858
+title=身披彩衣的姑娘
+tag=
+usertag=
+tagroute=
+confidence=0.978
+conf_p10=0.985
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-28858
+%--
+4/4
+subtitle=score
+q5 q6 1' - q1' s1' s2' q1' s6 s1' q6 q6 ~ 6 - q5 q5 6 - q6 s5 s6 q5 s3 s5 q3 q3 ~ 3 - q2 q3 5 - q5 q3 q2 q3 ~ q3
+q,6 ~ ,6 - q,5 q,6 5' - q5'. s6 s5 s6 q1' q0 q3 q2 q3 1 - 1 q5 q6 1' - q1' s1' s2' q1' s6 s1' q6 q6 ~ 6 - q5 q6 6 - q6
+q5 q5 s3 s5 q3 q3 ~ 3 - q2 q3 5 - q5 q3 q2 q3 ~ q3 q,6 ~ ,6 - q,5 q,6 5 - q5. s6 s5 s6 q1' q0 q3 q2 q3 1 - - -
+q5 q5 q5 s6 s1' 1' s6 s5 q6 s6 s6 q5 s3 s5 s3 s5 3. q2 2 q3 q6 s5 s6 q,6 q,6 q6 s6 s1' q6 s5 s6 5 - q5 s5 s5 q5 s6 s1' 1'
+s6 s5 q6 s6 s6 q5 s3 s5 s3 s5 3. q2 2 q3 q6 s5 s6 q,6 s6 s6 q6 s6 s1' q3 s2 d3 d2 1 - q3 x q1 0 q5 q6. q6 q5 s5 ~ s5
+q5 s6 s1' 1' s6 s5 q6 s6 s6 q5 s3 s5 s3 s5 3. q2 2 q3 q6 s5 s6 q,6 s,6 ~ s,6 q6 s6 s1' q6 s5 s6 5 - q5 s5 s5 q5 s6 s1' 1'
+s6 s5 q6 s6 s6 q5 s3 s5 s3 s5 3. q2 2 q3 q6 s5 s6 q,6 s,6 s,6 q6 s6 s1' q3 s2 d3 d2 1 - x.
+%END

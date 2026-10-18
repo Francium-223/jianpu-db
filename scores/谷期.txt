@@ -1,0 +1,17 @@
+%谷期.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48087
+title=谷期
+tag=
+usertag=
+tagroute=
+confidence=0.962
+conf_p10=0.870
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48087
+%--
+3/4
+subtitle=score
+s6. s1 q2 q1 3 - 4 2 3 2' q1' q6 s0 s1' q3 4 q1 q3 3' 1' - 4 1 q1' q1 q6 6 q0 1 q1 3 1' - x 6' 0 4 3 6. 1
+2 1 3. 4 1 1' 1 6 0 6 1' 4 3 2' 1 3. 2 1 2 1 4 q6. 6 6 0 1 - 1 6 5 3 3 4 3 5 3 3 6. 6. 0
+%END

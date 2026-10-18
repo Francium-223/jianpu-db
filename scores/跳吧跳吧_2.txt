@@ -1,0 +1,17 @@
+%跳吧跳吧_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49742
+title=跳吧跳吧
+tag=
+usertag=
+tagroute=
+confidence=0.929
+conf_p10=0.613
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49742
+%--
+2/4
+subtitle=score
+3 3 5 5 q5 4 q4 5 4 4 2 2 4 4 4 3 q3 q4' 3 3 1 1 3' 3 q3' 2 2 q3' 2 q2 5 ,5 ,6 ,7 q2 1 q1 q2 1 1
+3'. q1 ,5 ,5 4'. 2 ,7 ,6 ,5 ,5 ,6 ,7 2' 1 1 q2' 1 q1 3'. q1 ,5 ,5 4'. 2 ,7 ,6 ,5' ,5 ,6' ,7 2' 1 q1 q2' q,7 1
+%END

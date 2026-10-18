@@ -1,0 +1,20 @@
+%误区.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=24145
+title=误区
+tag=
+usertag=
+tagroute=
+confidence=0.927
+conf_p10=0.629
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-24145
+%--
+2/4
+subtitle=score
+q1' q1 q1 q1 s1 q1 3 q2 ,4 2 x. x x' x x 1 1'. x. 1. 0 q,6 q,7 q1 s1 q1 q1 0 q,7 s1 q2 s2 q2 s2 0 q1 q2 3 q2 q3 ~
+q3 q2 q3 q2 3 - 0 q,6 q,7 q1 q1 q1 q1 0 q,7 q1 q2 q2 q2 q2 0 q3 q4 5 q4 q5 q5 q4 q5 q4 5 - 5 - 5 - 5 q,6 q,7 5
+- 5 - 5 - 5 0 0 4 4 5 6 5 q4' 6 h5 ~ 5 - 5 - 0 2 3 4 3 q2 q1 ~ q1 q2 q3 q4 2 - 2 - 0 4 4
+5 6 5 q4 5 sx - 6' - 6' - 0 q7 6 5 q4 q3 ~ 3 - q3 q4 q3 q4 q3 q4 q3 q2 1 - 1 - 1 - 1 0 0 q,6 q,7 1
+- 1 -
+%END

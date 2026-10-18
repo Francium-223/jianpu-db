@@ -1,0 +1,25 @@
+%轻轻放掉.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=27536
+title=轻轻放掉
+tag=
+usertag=
+tagroute=
+confidence=0.981
+conf_p10=0.979
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-27536
+%--
+2/4
+subtitle=score
+1 - - - 1. x' x 1 x x 3' 5' 2' 5' 3' - q0 s3 s6 s1' s1' s2' 3' 5' 2' 5' - - 1' s3' s4' 2' 5 5 q2' 1' 4 4 - 4
+s0 s5 s4 s3 2 - 2 - 0 0 q0 q1 q1 s2 s3 ~ s3 q5. q0 d5 q,7 ,7 s1 s1 ,6 - q0 q4 q4 s3 s4 s4 q,6. q0 s1 q2 q2 q2 s3 s3
+~ s3 q,5. ~ ,5 q0 q3 q3 s4 s5 ~ 5 s0 s3 s3 s4 s5 s5 s5 s5 q5 d7 s2 ~ s2 q1. ~ 1 q0 s1 s1 q1 s2 s3 ~ s3 q,6. ~ ,6 q0
+s1 s1 q1 s2 s3 ~ s3 q,5. q0 s1 s2 q3 s5 s5 ~ s5 q5' s5 q0 q,5 q,6 d7 s1 ~ 1 - 0 0 q0 s4 s4 q4 s5 s6 s6 s5 q5 q0 s3 s4
+q5 q3 q5 s1' s1' ~ 1' q0 s5 s6 s6 s6 s6 q6 s4 s2' ~ s2 q2. s0 q6 s5 s6 s5 s5 s2 3 3 0 q0 s4 s4 q4 s5 s6 s6 s5 q5 q0 s3
+s4 q5 q3 q5' s2' s2' 1' q0 s5 s5 s6 s6 s6 s6 ~ q6 s4 s2 ~ s2 q2. ~ 2 ~ 2 s5 s3 s3 s2 1 - 1 s,5 s,6 s1 s5 3 5 2 5
+3 q3. d2 d1 ,6 - 3 5 2 5 6 - s,6 s1 s3 s6 ~ s6 s3 s6 s7 1' s3' s4' 2' 5 5 q2' 1' 4 4 q1' 2'. s4 s3 s4' q4' q5' 2' -
+0 0 1 - 1 - q0 s4 s4 q4 s5 s6' s6 s5' q5 q0 s3 s4 q5 q3 q5 s7 s1' ~ 1' q0 s5 s5 s6 s6 s6 s6' ~ q6' s4 s2' ~ s2' q2. q6
+s5 s5' s6 s5' s2 s3' ~ 3' q2. d3' d2' 1' q0 s4 s4 q4 s5 s6' s6 s5' q5 q0 s3 s4 q5 q3 q5' s2' s2' 1' q0 s5 s6 s6 s6 s6 q6 s4 s2' ~
+s2' q2'. ~ 2' x 0 s5' s3' s3 s2 s1' q1' q1. q3' 1' 2' 5' 3' - q0 s3 s6 s1' s1' s2' 3' 5' 2' 5' - - 1' - 1' -
+%END

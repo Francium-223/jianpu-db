@@ -1,0 +1,17 @@
+%边区十唱.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=10711
+title=边区十唱
+tag=
+usertag=
+tagroute=
+confidence=0.853
+conf_p10=0.557
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-10711
+%--
+2/4
+subtitle=score
+x 1 q,,x. q,,x. 5 q2 4 x x ,,x x. 1 x. x q2'. q2' q1' s1' s6 2' 2' q5'. q2' q1' d1' s6 5 5 s6'. q2'. - s2' s2'. s3'. - s1' s1' s6 s6 s1'
+s1' s2 s2 s2 s2 s5 - - s5 s5 - s5 - 6 x q1' d1' s6 s5 s6 s5 s3 2 2. 2 2
+%END

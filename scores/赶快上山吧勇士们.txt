@@ -1,0 +1,18 @@
+%赶快上山吧勇士们.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14732
+title=赶快上山吧勇士们
+tag=
+usertag=
+tagroute=
+confidence=0.952
+conf_p10=0.846
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14732
+%--
+2/4
+subtitle=score
+1 - - - x x x x x x x 6 5 q3' q5 q6 q7 1' q7 ~ q7 6 - 6 q5 q5 q3 q5 q6 q7 1' q7 q6 3' - 3' q4' q3' q3' q5'
+q6' q5' q3' q2' q2' q1' 3' - q1' q3' q3' q1' q1' q3' q3' q1' q7 q2' q2' q7 6 - 3' q4' q3' q3' q5' q6' q5' q3' q2' q2' q1' 3' - q1' q3' q3' q1' q1'
+q3' q3' q1' q7 q2' q2' q7 6 -
+%END

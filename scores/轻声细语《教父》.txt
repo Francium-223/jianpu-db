@@ -1,0 +1,19 @@
+%轻声细语《教父》.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=39055
+title=轻声细语《教父》
+tag=
+usertag=
+tagroute=
+confidence=0.988
+conf_p10=0.995
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-39055
+%--
+2/4
+subtitle=score
+3 q6 q1 7 6 3' - 3' - 4 q6 q1 q7 q7 q6 q5' q6 4 4 - 3' - 3 - 3' - 3' - q0 3 q6 q1' 7 6 q1' q6 7 6 q4 5
+3 q3 q3 q6 q1 7 q6 q1 q6 7 6 q3 2 2 2 4 7 - 7 2 4 5 6 6 6 1 5 4 3 5 4 4 3 3 6 6 6 6 6 5
+7 6 4 3 3 3 5 3 2 2 2 4 2 3 3 3 6 1 7 6 1 6 7 6 4 5 3 3 3 6 1 7 6 1 6 7 6 3 2 -
+2 2 4 7 - 7 2 4 6 - 6 6 1 5 4 3 5 4 4 3 3 6 - 6 -
+%END

@@ -1,0 +1,16 @@
+%赶老鹰.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48283
+title=赶老鹰
+tag=
+usertag=
+tagroute=
+confidence=0.987
+conf_p10=0.990
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48283
+%--
+2/4
+subtitle=score
+q1 3' 2' 2'. q3 q1 2 3' 2 0 1' 2' 2' 3' 2' 4 3 q1' 2' 3' 2' 0 4 1 1 2 3 2' 3 1' 2' 3' 2' - 2 0
+%END

@@ -1,0 +1,18 @@
+%说书人.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=50538
+title=说书人
+tag=
+usertag=
+tagroute=
+confidence=0.722
+conf_p10=0.397
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-50538
+%--
+4/4
+subtitle=score
+0 2' 1' - 7' 5'. 1'. 0 0 0 0 0 0 0 0 0 0 0 0 0 - 5'. - - - - 0 - 0 - - q6'. q6' 5 5' 0 - - 0 0
+0 - 0 0 0 0 0 0 0 0 0 q6 0 q6. 0 0 0 0 q5. 0 - 0 0 0 - 0 0 0 0 0 0 0 q1 0 0 0 0 0 6'. 6'
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 - 3'. 1. q1' 1' 0 6' - 7' - 0 0
+%END

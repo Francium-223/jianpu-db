@@ -1,0 +1,20 @@
+%跨越彩虹_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=35305
+title=跨越彩虹
+tag=
+usertag=
+tagroute=
+confidence=0.952
+conf_p10=0.855
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-35305
+%--
+4/4
+subtitle=score
+1 - - x x. x x x 2. s3 s5 3 2 5 q6 1 - 2. q3 q5 3 2 1 - - x q3. q5 5 - - s3 s5 s3 s5 q6. s5 5 - -
+q1. s3 3 0 q6'. s5' 5 - - - 2. s3 q5 q3' 2' 2 5. q6 1 - 2. q3 5 3 q2'. q1' 1 - - q3. q5 5 - - s3 s5 q3 s5 q6. s5
+5 - 2'. - - 3 5 - - - 2. s3 s5 3' q2' 2 5. 6 1 - 2. q3 q5 3 q2'. q1' 1 - - q5. q3 1'. s2' q5. s3 1'. s2' 1' q5. q3
+6. q1' 6 1' 5 - - q5. s3 1'. s2' 1' q5. q3 1'. q2' q5. q3 6. q6 5 2'. s1' - - - 0 0 0 q3. 5 1' - - 0 0 q5. s3 - -
+- - - -
+%END

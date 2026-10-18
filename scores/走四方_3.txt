@@ -1,0 +1,19 @@
+%走四方_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=23227
+title=走四方
+tag=
+usertag=
+tagroute=
+confidence=0.951
+conf_p10=0.787
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-23227
+%--
+4/4
+subtitle=score
+3 q2. q1 1. q0 q0 q1 q1. q4 q3 q2 1 q0 q3 q2 q1 q5 q1 1 2 4 3 2 - 3 2. 1 1. 6 0 1 1. 4 3 2 1 0 3 2 1
+5 1' 1' 2 5 ,5 5 x 2 ,1 1 - 0 5 5 6 1 - 0 5 5 6 1 - 0 5 5 6 1 5 2 1 1 - - - 0 1 1 2
+5. 0 4. 2 1 1 - 0 4 4 2 4 5 5 - - - 0 5 5 1. 2 2. 1 1 - 0 5 5 1 1 4 2 2 - - - 0 5 5
+1 1 4 3 2 2 - - 2 0 0 5 5 6 1 1
+%END

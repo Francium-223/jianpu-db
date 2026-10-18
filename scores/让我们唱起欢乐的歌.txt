@@ -1,0 +1,17 @@
+%让我们唱起欢乐的歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49794
+title=让我们唱起欢乐的歌
+tag=
+usertag=
+tagroute=
+confidence=0.906
+conf_p10=0.579
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49794
+%--
+3/4
+subtitle=score
+- - 1' x x x' 3 1 ,6. q,5 q,6 q1 ,7 - 2 1 2. 4 6 4 3 - q4 q5 6. q3 1 ,6 4 - 3 2 - ,7 s1 s,7 ,6 - q3 6
+1. 1 q7 6 4 2 - 2 q4 7. q6 q5 q4 3 - 4 5 6. 3 1 ,6 4 - 3 2 - 7 1 7 ,6 - 3 1 ,6 - 0 - x x 2
+%END

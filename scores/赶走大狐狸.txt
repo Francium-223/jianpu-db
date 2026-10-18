@@ -1,0 +1,18 @@
+%赶走大狐狸.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49009
+title=赶走大狐狸
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.997
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49009
+%--
+2/4
+subtitle=score
+q5 q5 5 q5 5 5 q5 s6 s5 q6 s5 q6 q5 q6 5 q4 q3 q2 5 q5 q5 q3 1 - q2 1 q7 6 ,5 - q5 q5 1 q2 q3 q4 5 q6 q6 q5
+q3 q2 q5 3 q5 s6 s7 q1 q2 q3 q4 5 s5 s6 5 s4 q3 2 1 0 s5 q6 s5 s6 s5 q6 q5 q6 s5 q5 s6 q7 s1 s2 q3 s4 s5 s1 s2 s3
+s4 q5 s6 q7 1 - 3 - 1 -
+%END

@@ -1,0 +1,20 @@
+%走马看天下.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15080
+title=走马看天下
+tag=
+usertag=
+tagroute=
+confidence=0.951
+conf_p10=0.869
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15080
+%--
+2/4
+subtitle=score
+1 q1 qx qx q,6 s1 s1' s2 s1 s3 3 q0 s3 s5 q6 q5 q3 s1 s2 2 q0 s3 s5 q6 q5 q5' q3 q3 s1 s1 s2. s2 1' x x' 1' x x ,,x x
+s2 s1 q,6 q0 s2 s1 s2 s2 q3 s2 q1 s,5 ,6 0 s6 q5 s6 s3 q2 s3 s2 q1 s3 s2 q1 s,6 s,6 q,5 s,6 s1 q,6 s1 s2 s2 s2 s1 s2 s2 q3 s6
+q5 s6 s3 q2 s3 s5 q5 s5 s5 s1' s6 s6 s0 s5 s6 s5 s6 q6 s3 s0 s5 s6 s5 s6 q6 s1' 0 q1' s1' s5 s6 s5 q5 5 5 - 0 q1 s1 s5
+s6 s5 q5 5 0 q1 s1 s5 s6 s5 q5 5 5 - q6 s5 s6 6 q3 s2 s3 3 q2 s1 s3 3 q2 s5 s6 6 1'. q6 q5 q5 q5 q5 q5 q5' q5 s5
+s6' s6' s3 s5 s6 q1' q3 q5 s6 s6' q6 q0 s0 s3 s5 s6 s0 s3 s5 s6 s0 s3 s5 s6 q1' q3 q5 s1' s6
+%END

@@ -1,0 +1,17 @@
+%说错了.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48993
+title=说错了
+tag=
+usertag=
+tagroute=
+confidence=0.982
+conf_p10=0.991
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48993
+%--
+2/4
+subtitle=score
+6 6 6 5 3 - 5 5 5 3 2 - 5 3 5 3 5 2 5 2 3 1 2 ,7 ,6 ,5 5 1 1 1 1 2 3 2 0 3 3 2 3 1
+1 0 6 6 6 5 3 5 5 5 3 2 3 3 2 1 q1 2 x x 5 5 1 2 3 2 1 1 0 5 5 3 2 1
+%END

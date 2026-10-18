@@ -1,0 +1,17 @@
+%贵州山歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48219
+title=贵州山歌
+tag=
+usertag=
+tagroute=
+confidence=0.989
+conf_p10=0.994
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48219
+%--
+2/4
+subtitle=score
+5 5 6 1 6 5 6 1 2 2 - 2 - 6 1 2 2 1 6 5 6 1 5 - 5 6 1' 2' 2' 2' 2' 1 6 5 6 1 2' 2' 1' 6
+5 6 1 q6 5 - 5 -
+%END

@@ -1,0 +1,18 @@
+%貂蝉歌_新《三国》插曲.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=36247
+title=貂蝉歌 新《三国》插曲
+tag=
+usertag=
+tagroute=
+confidence=0.950
+conf_p10=0.725
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-36247
+%--
+4/4
+subtitle=score
+1 - - - 1. x' x x 3 q5 6 q5 q6 1 q2 ,7 ,6 2 q1 q2 ,7 q1 q,7 q,6 q,5 ,6 - - 3 ,6 ,7 q3 q4 5 q6 4 3 q5 6. q1
+q2 q3 q4 3 - - - 3 q5 6 q5 q6 1 q0 q2 q,7 q,6 ,5 4 - 5 6 q4 q3 2 - - 5 3 - 5 6 q5 q6 6 - 1 2 ,7 q1
+q,7 ,6 - - -
+%END

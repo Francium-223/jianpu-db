@@ -1,0 +1,16 @@
+%跑南海.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48005
+title=跑南海
+tag=
+usertag=
+tagroute=
+confidence=0.987
+conf_p10=0.990
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48005
+%--
+2/4
+subtitle=score
+1 1 q3 1 5 5 6 5 q5 q3 q2 q1 5. 3 2 1 2 1 ,6 ,6 ,6 2 q1 2 q2 q1 q5 q3 q2 q1 q2 q1 ,6
+%END

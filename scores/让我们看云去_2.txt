@@ -1,0 +1,18 @@
+%让我们看云去_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12300
+title=让我们看云去
+tag=
+usertag=
+tagroute=
+confidence=0.928
+conf_p10=0.728
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12300
+%--
+4/4
+subtitle=score
+1 - - - x' x 1 x x x x x' 1 x. 3 5 ~ 5 0 5 5. 5 3 3 ~ 3 0 3 5 6 6 ~ 6 0 6 6 7 1' 7 ~
+7 0 5 5 ~ 5 0 5 5. 5 3 3 ~ 3 0 0 6' 6 7 1' 2' 3' 2' 2' 0 0 1' 1' 0 1' 1' 7 6 0 2' 2' 2' 2' 0 2'
+2' 1' 7 0 1' 0 1' ~ 1' 7 6 0 2' 2' 2' 2' 0 7 7 7 1' 2' - -
+%END

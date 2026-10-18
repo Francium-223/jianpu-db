@@ -1,0 +1,22 @@
+%边走边爱.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12375
+title=边走边爱
+tag=
+usertag=
+tagroute=
+confidence=0.935
+conf_p10=0.797
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12375
+%--
+4/4
+subtitle=score
+1 x' x 7 0 x x. 0 0 x - x qx x x 1 q,6' q,x'. q,7 q1' q,6' ,7 3' q,5' ,7 1' q,6' q,6' q,6' q,7 q4' q,6' q,7 1' ,6' ,7 ,6' ,6 3 2
+q2' q1 q,7' 1 q1' ,7 ,6' ,7 - ,6 2 ,7 q,7' q,6 q,5' 3 - - - ,6 3 2 q2' q1 q,7' 1 q1' q,7 q,6' ,7 - ,6 2 ,7 ,7' 1 ,7' ,6 - -
+q0 s1 2 q3 q3' q3'. s5 q5 q2' ~ 2' 4' 4 4' q4' q3 q2' 1 q,6' ~ ,6' q2' q2 q2' q2' q1 q,7' q2' q2 q2' q2' q3 q4' 3 - - - 6 6 q6
+6 7 1 ,1 4 q4 4 5 5 5 5 5 2 4 3 2 3 2' 2 2' q2' q1 s7' q2' q2 q2' q2' q3 q4' q3' q3 q3' q3' q4 q5' 5 7 q1' q1' q1'
+q1' q3' q5' q4 q4' 4 q5' q5 q5' q5' q5 q2' 4' q3 3 q2' q2 2' q2' q1 q,7' q2' q2 q2' q2' q3 q4' 3 - - - 0 0 0 1 q,7 q,6 - - -
+x ,6' ,7' 1' ,6' ,7 q3' ,5' ,7 1' q,6' ,6' q,6' q,7 q4' q,6' q,7 q1' q,6' q,7 q,6' x. 3 - - - 3 - - - 0 0 0 7' 7' 6 - - - 6
+- - - 6 - - -
+%END

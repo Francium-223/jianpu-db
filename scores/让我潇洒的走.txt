@@ -1,0 +1,21 @@
+%让我潇洒的走.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12086
+title=让我潇洒的走
+tag=
+usertag=
+tagroute=
+confidence=0.892
+conf_p10=0.545
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12086
+%--
+4/4
+subtitle=score
+1 qx 0 x' 1 x' x x. x 6 - - 5 6 3 - - - 5 - 5 2 q,7 ,6 - - - ,6 - - - 1 3 q3 2 3 3 0 1 ,7.
+1 ,5 - q0 q,4 q,4 q,5 ,6. 2 2 1 3 3 q2 q1 q2 q1 2 1 2 2 0 3 q3 s,1 s7 6 x s2 s2 qx qx 2 ,1 2 2 0 1 3 -
+3 2 3 2 q3 3 q0 1 1 ,5 - 0 q,4 ,4 q,5 ,6. 2 3 2 q1 3 2 1 2 1 2 1 2 ~ 2 0 q3 q,1 q7 ,6 - 0 q,6 7 1
+- 2 1 0 s7 q,5. ,6 - x 0 0 1 0 0 0 1 6 5 q6 q0 q7 q6 q5 2 q3 3 0 3 5 q6 s5 6 q5 6 q5 6 6 q7 s1' 7.
+q1' q6 6 ,6. s7 q1 ,7 x x 1 ,6. 2 1 q,7 3 q,1 q1 q,2' q,1 q2 q1'. q1 q1 q,1 1 3 q1 6 6 1 ,1 - - 5 5 5 6 ,2' 3 3
+- 1 3. 5 - q2 5 s1 3 q,x q2 ,7 ,7 1 3. ,6' ,6 ,6 - - - qx
+%END

@@ -1,0 +1,21 @@
+%走向共和.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15167
+title=走向共和
+tag=
+usertag=
+tagroute=
+confidence=0.921
+conf_p10=0.656
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15167
+%--
+4/4
+subtitle=score
+1 4 x' q6. x' 1' x x. x. ,x 1' x' q,x q,x' 3 - q4' q3 q2 3' ~ 3' - q0 q4 q3 q2 q1 q,7 q,6 q,7 ,5' - ,5 - 1. q3 - - q4
+q3 q2 q3 3' 0 q2 q2 q2 q1 q,7 q,6 s2 q3. ,5 - - - 1. q3 - q4 q3 q2 q3 ~ 3 0 q2 q2 q2 q1 q,7 q,6 s1 q3. 2 - - - 3.
+q5 5 - q6 q5 q4 q3 q2 q2 q2 q1 q,7 q,7 s,6 s7 q,5 ,6 - ,3. q1 1 - q2 q,7 s6 s7 q,5 ,6' - q,6' q1 q,6 q1 2 q2 q3 5 5. q0 q,5
+q,6 1 - - - x 5 s5' q6 s5 5 - 4' ~ s4' q5 s4 4 - q2 q2 0 q,7 5 s3 s2 2 - - - 5 s5 q6 s5 5 - 4 s4 q5 s4
+4 - q2 q2 q0 q3 5 q,7 q,6 ,5 - - ,3 1. q1 q,7 q,7 q,6 q,5 ,6 - - ,6 4. q4 q3 q3 q2 q1 2 - q2 q3 q2 q3 5 - q5' q6' q6
+q6 5 - - 3 5 - - q,5 q,6 1 - - -
+%END
