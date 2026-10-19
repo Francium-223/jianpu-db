@@ -87,7 +87,9 @@ def main():
         # (它带完整音高记录)。2026-10-06 补齐: 作者当时同步了 `parse_scores.py` 的 OK_STATUS 与
         # `jianpu2/tools/check_corpus_invariants.py`, **漏了这里** —— 于是刚入库的 492 首
         # status=converted 会被判"不在白名单", CI 直接红、data.jsonl 不重出。三处口径必须一致。
-        if r.get("status") not in ("ok", "ocr", "converted"):
+        # bare-numbers: 2026-10-18 作者加的裸数字转写(手写/低配转写器的产物, 只有数字没有时值),
+        # 与 ok/ocr/converted 一样进 data.jsonl。加值时别忘了这里 —— 上次漏的就是这一处。
+        if r.get("status") not in ("ok", "ocr", "converted", "bare-numbers"):
             fail("status 不在白名单", "%s %s" % (f, r.get("status")))
         secs = r.get("sections") or []
         score = r.get("score") or ""
