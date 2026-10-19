@@ -1,0 +1,21 @@
+%过客_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=36653
+title=过客
+tag=
+usertag=
+tagroute=
+confidence=0.975
+conf_p10=0.919
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-36653
+%--
+2/4
+subtitle=score
+s3 s1 s1 s5 s5 s2 s1 s2 1 ~ 1 - s3 s1 s1 s5 s5 s1 s1 q0 s,6 3 - 0 q0 s1 s1 2 s3 2 q0 s,6 s,7 1 q1 s2 s3 q3 q3 q3.
+s2 ,7 - 0 q0 s6 3 - 0 0 q6 s5 s3 ~ 3 0 q0 s6 s7 1 q1 s2 s3 3 3 q2 ,7 0 0 q0 s2 s2 q2 s2 s1 s2 q3 s2 q0 s1
+s2 q3 s,6 s,6 s,6 q,6 s,5 ,3 - q0 s2 s2 q2 s2 s1 q2 s3 s2 q0 s1 s2 s3 s3 s3 s3 x q5 s2 s3 ~ 3 q6. s3 3 - 0 q7. s3 3 -
+0 q0 s2 s1 q2 q2 q2 s2 s1 ~ s1 q2. q0 s1 s2 q3 s3 s3 s3 q3 s3 s2 q3. q6. s3 3 - 0 q1' q1' q2 s2 s2 q2 s2 s2 q3 q3 7 q6
+s6 s5 s6 q5 s3 q0 s2 s1 q2 q2 q2 s2 s2 s1 q2. q0 d1 s2 3. q3 q5. s5 ~ q5 q3 6 - 6 - - q0 s,6. 6 - 6 q6. s3' 6 - 6
+- 6
+%END

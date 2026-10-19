@@ -1,0 +1,22 @@
+%长长的梦.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=35585
+title=长长的梦
+tag=
+usertag=
+tagroute=
+confidence=0.945
+conf_p10=0.833
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-35585
+%--
+4/4
+subtitle=score
+q1' q1 qx qx 6 4 4 x. x x qx' x x 1 x'. x q2'. 5' s4'. s5' q6' 6'. q5' q4' q6' s5' s4'. s3' q5' 2'. q2'. 5' s4'. s5' q7' 6'. q5' q4' q6' s5'
+s6' s4'. s3' 2' s7' q6 6 - q2 q7 s6 s7 5 - - q6 s5 s6 4. s3 s2 q5 6 s5 s6 q5 q2 ~ 2 - - q5 5 q6 q2' 2'. q2'. s3' q2' s1'
+s7 s1' s7 6. s6'. s3' 2' s1' s7 q6'. s2' s2' q5 s5 s6 q2' s4 s3 q5 2. q5 5 q6 q2' 2'. q2' q6 q5'. s3' s2' q2' q7 s6'. s3' 2' s1' s7 s6 q6'. s2'
+4 0 q5 sx s5' q6 6' q5 q6 5' s1' s1' 2' - q2'. 5' s4'. s5' q6' 6' q5' q4' q6' s5' s4'. s3' q5' 2'. q2'. 5' s4'. s5' q6' 6' q5' q4' q6' s5' s6' s4'.
+s3' 2' q1' s7' s1' q6 6' - q2 q7 s6 s7 5 - - q6 s5 s6 4. s3 s2 q5 6 s5 s6 q5 q2 ~ 2 - - q2'. 5' s4'. s5' q6' 6' q5' q4' q6'
+s5' s4'. s3' q5' 2'. q2'. 5' s4'. s5' q6' 6' q5' q4' q6' s5' s6' s4'. s3' 2' q1' s7' q6 6' - q2 q7 s6 s7 5 - - q6 s5 s6 4. s3 s2 q5 6 s5
+s6 q5 q2 2 - qx s1 s7 s1 q6 6 - q2 q7 s6 s7 5 - - q6 s5 s6 4. s3 s2 q5 6 s5 s6 q5 q2 2 - - x. q5 q2 2 - -
+%END

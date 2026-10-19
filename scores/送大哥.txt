@@ -1,0 +1,17 @@
+%送大哥.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=28437
+title=送大哥
+tag=
+usertag=
+tagroute=
+confidence=0.926
+conf_p10=0.668
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-28437
+%--
+4/4
+subtitle=score
+s2'. s2' s2' s2' q1' q1' q2' q0 3' s1' s1' 6 - q2'. s2' q1' q1' q2' q0 3' s1' s1' 6 - q5' q3' q5'. q3' q2' q3' q2' q1' s1' s1' s6 s5 q4 q5 q0 6
+s5 s3 2 0
+%END

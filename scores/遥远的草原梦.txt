@@ -1,0 +1,24 @@
+%遥远的草原梦.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=16598
+title=遥远的草原梦
+tag=
+usertag=
+tagroute=
+confidence=0.954
+conf_p10=0.876
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-16598
+%--
+4/4
+subtitle=score
+1 - - - 1' x. 1' ,x x x x x x q,6 q3 q,6 s1 s2 3 - q3 q,6 q1 s6 s5 3 - q3 q6 q5 s6 s1 2. q3 q2 q,6 q2 s6 s5 5
+- q,3. s,5 q,6 q3 q2 s5 s6 3 q3 q,3 q2 q1 ,6 s2 s1 q,6 q,3 s,5 s,6 s1 s2 x q,6 q,3 q,6 s3 s2'. 3 - q2 s2 s3 q1 s,6 s,5'. ,6 - q,3 s,5
+s,6 q,6 s1 s2 q1 ,6 q1 q2 s2 s3 s5 s6 s6 s5 3 - q3 q6 s5 s6 s6 1. q3 q2 s2 s6 q5 s6 s5 3 - q,3. s5 q,6 q1 q2. s3 q,5 q,3 ,6
+- - - q,6 q,3 q,6 s3 s2'. 3 - q2 s2 s3 q1 s,6 s,5'. ,6 - q,3 s,5 s,6 q,6 s1 s2 q1 ,6 q1 q2 s2 s3 s5 s6 s6 s5 3 - q3 q6 s5 s6
+s6 s1' 1. q3 q2 s2 d6 s5 s6 s6 s5 3 - q,3. d5 q,6 q1 q2 s2 s3 q,5' q,3 ,6 - - - q3 q6 s5 s6 s6 6. q3 s5 s6 s5 s6 q1 s6'. 2.
+q3 q1. s2 q3 s3 s5 q2 ~ s2 s3 q5 q3 6 - - - 3 q2 s3 s5 6. q6 q6 q3 q5 s6 6 - q6 s6 q1 q,6 q2 s2 s3 s1' d5 d6 s5 3.
+q2 3 - q3 s6 q6 s5 s6 2. q3 q1 q,6 q6. s5 3 - q2 s2 s3 q5 s5 s6 q,5. s3 s2 s3 d1 d2 s1 ,6 - - - q,6 q,3 q,6 q3 3 - q6
+s5 s6 q1 q,6 3 - q1 s1 s2 q3 s3 s6 q,5 s,6 s,5 ,3 q2. s3 q,5 q,3 ,6 - q,6. s3 s2 s1 s,6 s,5 x. q2 s2 s3 q5 s5 s6 q5 q3 s5 s6 q1'
+1' - - - 6 - - - 6 - - 0
+%END

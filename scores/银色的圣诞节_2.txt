@@ -1,0 +1,19 @@
+%银色的圣诞节_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=46182
+title=银色的圣诞节
+tag=
+usertag=
+tagroute=
+confidence=0.987
+conf_p10=0.995
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-46182
+%--
+4/4
+subtitle=score
+3 - - - 4 3 2 3 4 - - - 4 5 - - 6 - 7 2' 1' 7 6 5 - - - 5 - 1 2 3 - 3 - 3 6 - 5 1
+- 1 - 1 5 - 4 3 - - - 4 3 2 1 2 - - - 2 - - - 3 - - - 4 3 2 3 4 - - - 4 5 - - 6
+- 7 1' 2' 1' 7 6 5 - - - 5 - 1 2 3 - 3 - 3 6 - 5 1' - - - 1' - 1 2 3 - 3 - 6. q4 ,7 ,7 1
+- - - 1 - - 0
+%END

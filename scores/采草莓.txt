@@ -1,0 +1,17 @@
+%采草莓.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12688
+title=采草莓
+tag=
+usertag=
+tagroute=
+confidence=0.988
+conf_p10=0.955
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12688
+%--
+2/4
+subtitle=score
+q5 q5 q1 q1 q7 q7 2 q4 s3 s2 s3 s4 3 s4 5 q6 5 3 q5 q5 q7 q7 2 4 q3 s2 s3 s4 5 6 s7 1' q1' q1' q0 3 s4 s3 s2 s3
+4 q3 2 q4 s3 s2 s3 q4 5 6 q,7 6 q5 3 3 s4 s3 s2 3 q4 3 2 s4 s3 s2 s3 s4 5 q6 7 1 q0
+%END

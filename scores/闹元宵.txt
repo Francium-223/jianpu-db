@@ -1,0 +1,19 @@
+%闹元宵.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47731
+title=闹元宵
+tag=
+usertag=
+tagroute=
+confidence=0.989
+conf_p10=0.984
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47731
+%--
+2/4
+subtitle=score
+x 2 2 5 5 2 4 4 2 1 ,7. q5 ,7 1 2 5 ,7. 1 ,7. 1 2 2 4 ,6 ,5 - x 0 5 5 5 2 1 7 1 5 5 2 4 5
+4 5 2 2 1 6 1 5 2 4 2 q,5 1 q6 ,5 1 q,6 ,5 0 2 4 5 2 5 1 q6 ,5 1 7 6 5 5 7 1 7 1 2 2 2 5
+5 2 4 4 2 1 ,7. q5 2 1 2 5 ,7. 1 ,7. 1 2 2 4 ,6 ,5 - 1 ,6 ,5 0 2 4 5 2 5 1 q,6 ,5 1 7 6 5 5 7
+1 7 1 2 2 2 5 5 2 4 4 2 1 ,7. s5 2 1 2 5 ,7. 1 ,7. q1 2 2 1' 6 5
+%END

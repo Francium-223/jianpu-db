@@ -1,0 +1,17 @@
+%酒泉子.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=51726
+title=酒泉子
+tag=
+usertag=
+tagroute=
+confidence=0.994
+conf_p10=0.984
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-51726
+%--
+6/8
+subtitle=score
+,6 q1 ,7 q,6 ,7 q,5 ,6. ,6 q1 2 q3 5 s6 s5 3. q,6 q,6 s5 s6 2 q1 5 q4 3. ,6 q,5 ,7 q,5 ,6. ,6. 1 q,6 2 q3 2 q1 ,6. 1 q,6 2
+q3 5 s6 s5 3. 1 q7 6 q3 6 q3 2. 5 q3 2 q5 6. 6.
+%END

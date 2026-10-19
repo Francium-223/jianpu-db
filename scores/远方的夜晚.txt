@@ -1,0 +1,23 @@
+%远方的夜晚.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=19214
+title=远方的夜晚
+tag=
+usertag=
+tagroute=
+confidence=0.961
+conf_p10=0.885
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-19214
+%--
+6/8
+subtitle=score
+qx q1 - - - - 1 1 2 0 x x 2 0 2 0 5. x x x 6 q6 3' q1' 2' q3' 2'. q7 q6 q5 q1' q2' q4' 3'. 3'. q3' q2'. s6 q3' q2'.
+s6 q2'. s1' s3'. s5' 3'. 2' q3' q5'. s1' s1' s7' 6'. 6'. 6'. 6'. 6 q3' q3' q3' 6. 3'. 7 q6 q5 q6 q7 6. ~ 6. q6 q2 q2 2 q6 1 s2 s3 2. q2
+q2 q1 2 q5 3. 3. 3 q6 6 q5 6. 0 s5 s6 7 q6 q5 q6 q7 3. 3. 1 q6 2 q3 2 q1 q7 0 q7 q7 q7 2 q3 6. 6. q7 q7 q3 2'
+q3' 6. q2' q3' q0 s7' s1' q2' q3' q5' q3' x q3' q3' q3' q7' q5' s5' s7' 6'. 6'. q7 q7 q6 5 s6 s7 3. 3. q1 q1 q6 2 q3 2. 2. q2 q2 q1 2
+s5 s3 3. 3. q3 q3 q3 q7 q5 s5 s7 6. 6. q7 q7 q6 q5 q6 q7 3. 3. q1 q1 q6 2 q3 2 q1 q7 0 q7 q7 q1' 2' s2' s3' 6. ~ 6. q6
+q3' s3' s5' 6' s3' s5' 3'. q3' q1' q5' 6'. q6' q5' q3' q2'. s1' s2' s1' q2'. s1' s3' s5' 3'. ~ 3'. q2' s1' s1' s1' s6 s2' s3' s2' q6 q2'. s1' s7' s6' 5'. q3'
+q2' q3' q5' q3' q5' 6'. 6'. 6'. 6'. q6' q5' q3' q2' q3' q1' x q6 2' q3' 2' q7 0 q7 q7 q1' 2' s2' s3' 6. 6. x q6 q3' q2' 1' q2' 7 q5 q5' q6'
+q5' 2' q3' 1'. 1'. 2'. 7 q6 5. q2' q2' q3' 6. ~ 6.
+%END

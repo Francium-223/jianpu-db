@@ -1,0 +1,23 @@
+%错过你是我最大的过错.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=50861
+title=错过你是我最大的过错
+tag=
+usertag=
+tagroute=
+confidence=0.974
+conf_p10=0.977
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-50861
+%--
+4/4
+subtitle=score
+1 - - - 1 x x' x'. x'. q1 0 0 6 0 x q0 s5 s3 s5 1' s2 s5 3 ~ s3 s5 s1' s7 6. s2 s3 q6 s5 s3 q6 q7 1' q7 6 q5
+q3 2 - q2 q5 q2 q3 1 - - q0 s3 s4 s5 s5 s5 s5 q5 q1' s6 s7 q5 q0 s3 s5 s6 s6 s6 s5 q6. s1' q5 q3 q0 s5 s5 q6 s5 s6 ~
+q6. s6 q5 s3 s1 ~ q1 s2 s3 q4 s4 s3 q4. s5 q3 q2 q0 s3 s4 s5 s5 s5 s5 q5 q1' s6 s7 q5 q0 s3 s5 s6 s6 s6 s5 q6. s1' q5 q3 q0
+s5 s5 q6 s5 s6 ~ q6. s6 s5 s3 s3 s1' ~ q1' s5 s5 q6 s1' s1' ~ 1' q1' q6. s1' - - 2 - - q0 s5 s5 s3 s3 s3 s2 s2 q3 s2 q1
+s6 s5 q5 s3 s5 s1 s1 s1 s2 s1 s1 s1 s6 q5 q3 q0 s5 s5 q6 s1 s1 q1 q0 q5 s6 s1 q1 s1 s1 s2 s2 s2 s2 s2 q1 s3 - - 2. s5
+s5 s3 s3 s3 s2 s2 q3 s2 q1 s6 s5 q5 s3 s5 s1' s1' s1' s2' q1'. s6 q5 q3 q0 s5 s5 q6 s1' s1' ~ q1' q0 q5 s6 s1' ~ q1' s6 s1' q2' q2'
+s2' s1' q1' 0 - 3' q2' q6 0 - 1' - - - 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 q0 s3 s4. 0 - 1' - - q0 s5 s5
+0 - 1' - - -
+%END

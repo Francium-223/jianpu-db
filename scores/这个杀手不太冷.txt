@@ -1,0 +1,21 @@
+%这个杀手不太冷.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=46846
+title=这个杀手不太冷
+tag=
+usertag=
+tagroute=
+confidence=0.990
+conf_p10=0.993
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-46846
+%--
+4/4
+subtitle=score
+q0 q3 q3 q3 q3 q2 q1 q3 q3 s3 s3 q3 q2 q3 q2 q1 q5 q5 s5 s5 q5 q5 q5 q3 q3 q7 q7 6 q3 3 - q0 3 q3 q3 q2 q1 q3 q3 s3
+s3 q3 q2 q3 q2 q1 q5 q5 q5 q5 q5 q5 q3 q3 q6 q6 7 q7 q7 6. q0 q1 q1 q1 q1 q1 q3 q7 7 - - q7 q7 7 6 7 6 7 3 q6
+6 - - q3 q2 q3 1 q7 7 q3 q3 7 7 q6. s1 q1 q7 7 - - - 0 0 q6 7. q1 q7 q1 q6 q1 3 q7 7 - - q0 q5 q6 q5 q6
+q5 q6 1' q5 5 - - q0 q3 q4 q3 q4 q3 q4 1' q3 0 q3 q2 q3 q2 q3 7. q0 q6 q6 q6 q6 1 q7 7 - - q6 q7 q1 q7 q1 q7 q1
+3 q7 7 - - q0 q5 q6 q5 q6 q5 q6 1 q5 5 - - q0 q3 q4 q3 q4 q3 q4 1 q3 q3 q2 q3 q2 q3 7 q6 q1 7 q6 6. q6 q1 7
+q6 6. q6 1 - 6 - 6 - - 0
+%END

@@ -1,0 +1,19 @@
+%采莲曲.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15123
+title=采莲曲
+tag=
+usertag=
+tagroute=
+confidence=0.994
+conf_p10=0.986
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15123
+%--
+4/4
+subtitle=score
+s,6 s1 s2 s3 s,6 s1 s5 s3 s,6 s1 s2 s3 s,6 s1 s5 s3 s,6 s1 s2 s3 s,6 s1 s5 s3 s,6 s1 s2 s3 s,6 s1 s5 s3 6 5 q3 q5 q2 q1 3. q5
+3 - 2 q3 q2 q1 s2 s1 s6 q1 2. q3 2 - 1 s6 q1 q2 s3 s2 1 2 q1 q2 q5 s3 s2 3 6. q1' 2' 3' 2' - - 0 6. q1' 2' 6
+5 - - 0 5 q4 q5 7 5 q4. s5 q4 q1 4 - 3 q2 q3 5 3 2. q1 s,6 q1 ,5 ,6 - - 5 3 - - ,6 q3. s5 q2 q3 5 3 6
+5 q3 q5 q2 q1 3 - - 0 ,6 - - - ,6 - - -
+%END

@@ -1,0 +1,21 @@
+%迷彩谣.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=21309
+title=迷彩谣
+tag=
+usertag=
+tagroute=
+confidence=0.959
+conf_p10=0.946
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-21309
+%--
+4/4
+subtitle=score
+1' 1' q6 q6 q1 q1 q2 q6 q6 q6 q6 q1' 3' 3' q2 q2 q2 q3 3 0 ~ 0 q6 q6 q6 q1 q1 q6 q6 q1' 3' 6 q5 q5 q3 q5 q5 q6 q6 qx
+6 6 3 0 1 x' q6 q6 q6 q1' 3' 3' q2 q2 q2 q3 s3 s2 q3 0 q6 q6 q6 q1 q3 q3 q3 q6 q5 6 q6 0 0 q6 6 q1' 3' 3' q2 q2
+q2. s1 q2 q3 3 q6 6 q1' 3' 6 q5 q3 q5. s3 q5 q6 6 q6 6 3' 3' q2 q2 q2. s1 q2 q5 3 q6 6 q1' 3' 3' q2' q2' q2' q1' 2' q2' q3'
+x 3' - - 2' 3' - - - qx qx q0 qx qx sx sx qx qx q6 q6 q6 q1' q3' 3' 0 qx qx q0 qx qx x qx qx qx q5 3 q5 q6 6 0
+qx qx q0 qx qx sx sx qx qx q6 q6 q1 q3 s3 s2 q3 0 qx qx q0 qx qx sx sx qx qx q3' q3' q2 q3 q5 5 - 5' - - - q6 q6 q6
+q1 q3 q3 q3 q2 q3 5 q5 5 - 5 - - - x x x - x 0 0 0
+%END

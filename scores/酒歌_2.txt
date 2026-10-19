@@ -1,0 +1,19 @@
+%酒歌_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47671
+title=酒歌
+tag=
+usertag=
+tagroute=
+confidence=0.977
+conf_p10=0.983
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47671
+%--
+3/4
+subtitle=score
+2 2. q6 4 1 2. s1 s6 4 3 q6 s1 s1 s2 s1 q2' 2 q1 s1 s6 q6 5. 4 1 q6 q5. q,x 3 1 5 4 1 6 5 1 6 5 - 6 0
+6 1 - 2 4 2 3 1 6 6 1 1 6 1 6 2 2 6 1 6 6 5. 6 5. 3 1' 5 5 5 6 4 3 0 6 1' 2. 6 4 1 1'
+2' 1' 2' 1' 6 5 4 3 6 1' 6 2' 2' 2' 4 2 q1 s1 s6 q6 5. q6 5. ,x 3 5 1' 1 5 6 4 3 0 1 2 - 4 1 2' 3'.
+3 1' 6 5 6 4 1 6 6 1 2 4 1 2 1 2 1 6 5 6 5. 5 6 2. - 2 1 1 6 6 5 6 5. 5
+%END

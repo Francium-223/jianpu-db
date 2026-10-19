@@ -1,0 +1,18 @@
+%进一个球好难.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=32625
+title=进一个球好难
+tag=
+usertag=
+tagroute=
+confidence=0.966
+conf_p10=0.891
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-32625
+%--
+4/4
+subtitle=score
+x s1' s1' s1' s1' s1' s1' s3' s1' s3' s1' s1' s1' s5' s1' s2' s1' s1' s1' - x q5 q5 q5 s3 q2 5 q1 q1 q1 1 q1' q1' q1' q1' q1' q1' q1' q1' q1'
+q2' q1' q1' q1' 1' q2' q5 q3 ~ q3 q5 ~ 5 q1' q1' q1' q1' q1' q1' s2' s1' q1' q2' 2' q1 q1 q1 1 q3 q1 1 - - s7 s1' s1' s1' s1' s5 s1'
+5 - x 3' q3'. s2' q2'
+%END

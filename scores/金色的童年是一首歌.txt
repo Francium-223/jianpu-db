@@ -1,0 +1,18 @@
+%金色的童年是一首歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12679
+title=金色的童年是一首歌
+tag=
+usertag=
+tagroute=
+confidence=0.919
+conf_p10=0.635
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12679
+%--
+2/4
+subtitle=score
+q1' q1 q1. q1. 0 0 - 1 x x q,5 q1 q1 q2 q1 0 q5. s1 q2 q1 1 - q,5 q1 q1 q1 q2 q1 0 q5. - q2 q5 5 1 6 6 6 6 4
+0 1' 6 0 4 6 5 1' 1' 5 3 5 0 5. 2 1 q1 - q1 q6 q6 q6 q4 6 q1 q5 q5 q5 q3 q5 q1 6 q6 q6 q4 6 q1 5 q5 q5
+q3 5 1' q6 q6 1'. q6 q1' q6 q0 q4 6 - q5 q1' q1' q5 q3 q5 q5 q3 2 q0 q,5 q5. - s2 q1 1 - 1 0 x
+%END

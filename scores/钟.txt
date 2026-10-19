@@ -1,0 +1,17 @@
+%钟.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49014
+title=钟
+tag=
+usertag=
+tagroute=
+confidence=0.990
+conf_p10=0.987
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49014
+%--
+2/4
+subtitle=score
+3 q1 q1 2 7 q1 3 ,5 6 6 7 7 1 - 3 1 q2 7 q1 3 ,5 6 6 q7 q5 1 - 3. 4 3 2 1 7 ,6 2. q3 q2 1 q7 6
+,5 1 q1 1 1 2 q3 q5 q4 2 3 q1 q2 q7 1 -
+%END

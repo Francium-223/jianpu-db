@@ -1,0 +1,19 @@
+%迟到_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=22226
+title=迟到
+tag=
+usertag=
+tagroute=
+confidence=0.974
+conf_p10=0.937
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-22226
+%--
+4/4
+subtitle=score
+1' ,1' 1' 2' 1' 3' 5' 3' 2' 1' 6 ,1' ,1' 1' 6 5 - - - 3' 5' 3' 5' 3' 2' 1' 2' 2' 3' 2' 1' 1 1 1 2 3 - - 2 1
+1 q,6' ~ 6' 5 3 3' ~ 3' 3 5 5 3' 2 2 - - - 3 3 3' q4' 5 3 3 2 1 1 q4 - - 5 - - 5 q3 2 2 3 2
+1 3 3 2 3 2 1 1 1 1 ,6 ,6 5 3 - - 3 2 3 2 1 - - 4 4 4 4 5 5 - - - 1 - - - 5 - - 5
+q3 2 2 3 q2 q1 1
+%END

@@ -1,0 +1,18 @@
+%邻里就是缘.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=34789
+title=邻里就是缘
+tag=
+usertag=
+tagroute=
+confidence=0.936
+conf_p10=0.660
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-34789
+%--
+4/4
+subtitle=score
+x. q1 2' 3' 6 5 1. 2 q3 5 3' q2 q3 5 - 6 6 1' 1' 5 6 5' 3' 2' q1 q,6 q5 3' 5' 2 - q6 1' 2' 3' 1'. 6 5 q3 q3
+q6 5 0 6 3 q2 q1 1 q6' 1 2 3 q3 q5' 3' q2 q1 q,5 ,3' ,5' ,6 - 1 1 q1' ,6' 1 2 q3 q3 q5 3 ,1' - 1' 1' 2' q1 5 3
+5' 6 x x x
+%END

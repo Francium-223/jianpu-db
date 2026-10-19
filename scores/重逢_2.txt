@@ -1,0 +1,20 @@
+%重逢_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=13482
+title=重逢
+tag=
+usertag=
+tagroute=
+confidence=0.922
+conf_p10=0.594
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-13482
+%--
+4/4
+subtitle=score
+x 1 x - x. x x. x x' x q2' 7. q6 6 6 q7 6 7 6 5 6 - q3 ,7 2 3 ,7 ,6 s5 d6 ,6 - - - 1 ,7. q,6 ,6 - ,7.
+q1 q7 s6 s5 q,6 ,6 2 1 2. 4 3 - - - 3 6. 7 6 3 0 3. 5 q3 q2 1 - q,7 q,7. 0 2 3 q,7 q,6 ,5 q,6 ,6 - - - 1.
+2 7. 6 6 6 7 6 q5 6 - 7 7 1 7 6 2. 4 3 - - 3. 7 6 3. 3 q6 4 3 2 3 ,,7 2 3 ,7 q,6 0 q5 q6 ,6 -
+- - ,6 - - - 1'. 2' 7. 6 6 q6 q7 6 5 6 7 7 1' 7 6 2. 4 3 - - - 3. 7 ,,,6 3. q4. 2 3 q,7 2 3 ,7 q,6 0
+s,5 s,6 ,6 - - x 1 q7. q,,6 ,6 1 q7. s6 ,6 - ,6 0 0 0
+%END

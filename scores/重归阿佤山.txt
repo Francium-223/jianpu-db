@@ -1,0 +1,18 @@
+%重归阿佤山.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14969
+title=重归阿佤山
+tag=
+usertag=
+tagroute=
+confidence=0.964
+conf_p10=0.922
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14969
+%--
+4/4
+subtitle=score
+- - s3. s2 1. s2 qx q1 s2 s2 s3 s3 s2 q3 s3 s2 q2 s3 s1 s1 s1 - s3. s2 1. s2 qx q1 2 s3 s2 s1 s1 q1 q2 s1 s1 q1 q2 q2
+q2 s2 s1 s1 s1. d2 s1 s2 x s2 s2 q1 q2 s2 s1 q2 s2 s2 q,5 s2 s2 q1 q2 s2 s2 s1 2 s1. d2 s1 s2 s1 s2 s1 s2 s1 s2 s5 s2 x.
+s5 - s2 s1 q2 s5 - - s2
+%END

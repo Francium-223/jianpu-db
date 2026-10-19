@@ -1,0 +1,20 @@
+%长夜行.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14835
+title=长夜行
+tag=
+usertag=
+tagroute=
+confidence=0.939
+conf_p10=0.777
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14835
+%--
+4/4
+subtitle=score
+x 1 1 1 q4 7 7 6 6 - q6 ,1 2 2 3. 4 x 1'. 4 1 1 6 5 ~ q5 7 ,1 q7 q5 q6 2 ,5 3 - 7 q1 q3 5 - -
+2 4 q5 ,6 7 1 3 2 0 3 2 3 1 - 0 q1 q2 ,6 - q0 q4 q4 q3 2 6 6 - 6 5 ,6 q7 5 3 - - 0 5 ,6 q7 q3.
+,1 ,6 ,6 q,6 ,1 q5 q3 q7 1 3 2 - 2 6 q7. s6 6 - ,6 7 ,1 1 7 3 - 3 q2 q3 q4 q5 q5 q6 q4 q2 6 7 5 4 q,3 2
+,5 5 - - x 2 7 7 5 6 3 q5 q2 q0 ,7 x ,5 3 - q3 q7 1 q3 5 - - 2 0 5 7 3 0 0 4 q5 ,6 7 1 2 3
+- - 2' 2' 4' 4' 3' 2' 7 3' 4 6 q7 q5 3 2 6 ,6 1 2 1 6 1 - - - 1 0 0 0 0
+%END

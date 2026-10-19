@@ -1,0 +1,18 @@
+%连连夯.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48052
+title=连连夯
+tag=
+usertag=
+tagroute=
+confidence=0.996
+conf_p10=0.987
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48052
+%--
+2/4
+subtitle=score
+5 1 6 5 5 5 1 6 5 5. 5 5 6 5 5 1 2. - 3 2 ,5 5 5 6 5 5 1 2 - - 3 2 ,5 5 5 5 3 5 5 5
+3 2 2 3 ,5 5 6 1 2 2 1 ,6 ,5. 6 ,5 1 1 6 1 1 6 ,5 5 6 ,5 5 6 5 6 6 6 5 4 3 2. 3 2 5 5 5
+3 5 5 5 3 2 2 3 ,5 5 6 1 2 2 1 ,6 ,5. 6 ,5
+%END

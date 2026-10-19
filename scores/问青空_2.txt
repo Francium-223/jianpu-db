@@ -1,0 +1,20 @@
+%问青空_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=21648
+title=问青空
+tag=
+usertag=
+tagroute=
+confidence=0.953
+conf_p10=0.908
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-21648
+%--
+4/4
+subtitle=score
+1 - - x x x 1 - - q0 q3 q3 q6 ,6 - q0 s3 s5 q6 6 q1' s6 q6 q5 q4 q5 5 - q0 s3 s5 q6 6 q1' s6 q5 q4 5 - 0
+q4 q3 2 q1 2 - - - 5 q6 - 0 q4 q3 2 q7 1 - - - 0 q0 s1 q6 s6 q6 s5 s4 5 - 1 - 0 q0 s1 q6 q6 q5 s6 3
+- - - 0 q0 s1 q6 s6 q6 s5 s4 5 - 1 - 0 q0 s6 q6 q1 q1 q5 5 - - - 1 - - q0 q3 q3 q6 ,6 - q0 s3 s5 q6 6
+q1' q1' s6. s6 s5 q5 q5 q4 q4 5 - - q0 s3 s5 q6 6 q1' q6 q5 q4 5 s5 s6 1 - 0 q4 q3 2 q1 q7 q1 1 - - 1 1 5 0
+q4 q3 2 q1 q1 q1 1 - -
+%END

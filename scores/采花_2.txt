@@ -1,0 +1,17 @@
+%采花_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=16328
+title=采花
+tag=
+usertag=
+tagroute=
+confidence=0.993
+conf_p10=0.987
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-16328
+%--
+2/4
+subtitle=score
+x q3 s3 s5 q3 q,6 q3 s3 s5 q6 ,6 6 s3 s5 q6 ,6 q1 s2 q3 q5 q6 q,6 x q2 1 q1' q2' q3 s3 s5 q3' q,6 q2 1 s1 s2 q3 s1 s2 q3
+q,6 q3 q5 6 q1' 6 q5 q3 6 3 s2 s3 1 s1' s2' s3 s5 3 q2 1 ,6 1 s,6' s1' ,6 -
+%END

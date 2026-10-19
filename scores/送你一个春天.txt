@@ -1,0 +1,27 @@
+%送你一个春天.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=31064
+title=送你一个春天
+tag=
+usertag=
+tagroute=
+confidence=0.937
+conf_p10=0.699
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-31064
+%--
+4/4
+subtitle=score
+q1' q1 qx qx q1. 1 0 0 4 x. x - x x 5 2' q1' q6 q5 q0 q5 q2' q2' q1' q6 q5 x 2' - - s3' s2' s2' s3' s2' s2' s3' s2' q2' 2'
+q6 x 5 2' q1 q6 q5 q0 q5 q2' q2 q1 q6 q5 q0 q2' q1 q2' q0 5' q6 5. q0 q5 q0 q5 5 2 q1 q6 q5 q5 q5'. q2' q2' q1' q6 q5 x 5
+- - s6 s5 s4 s5 s6 s5 s4 s5 s6 s5 q5 ~ 5 q4 q2 x 5 1' q1' q1' q6 q5 q5 q5 q2' q2' q1' q6 q5 q0 q2' q1' q2' q0 5' q6 q5 ~
+5 - q5 q5 x q0 q2 q2 q2 q1' q2 0 q5 q5 s2' s3 q2 0 0 q0 q2 q2 q5 6 q5. s6 q1 q2 q3 2 q0 0 q0 q2 q2 q1 q2 q2 q0 q5
+q3 q2 q1 2' s1 s6 0 q0 q,6 q,6 q1 q2 2 q0 q1 q,7 q,6 q,5 ,5 0 5. ,5 - q0 q5 q0 q5 x q0 q2 q2. s2 q1 q2 0 q5 q5 s2' s3 q2
+0 0 q0 q2 q2 q5 6 q5 q6 q1 q2 q3 2 q0 0 q0 q2 q2 q1 q2 q2 q0 q5 q3 q2 q1 2 s1 s6 0 q0 q,6 q,6 q1 2 q2. s2 q1 q,7 q,6
+,5 q0 x q0 q5 ,5 - q0 q5 q5 q0 q5 x 5 2' 2 q1 q1'. q1'. q6 s5 s5 q5 d1 q5 q5 q2' q2' q1'. s1' q6 s5 q0 q2. q2' q1 2' s2 q2' q2'
+q6' 6 - - 5 1' q1'. q6 q5 q5 q5 q2'. q2' q1'. q6 q5 q0 q2' 2' q2' q1' q6 q6 q5 ~ 5 - - 2' - - s3' s2' s2' s3' s1' s1' s2' s3' s2'
+q2' ~ 2' q6 x q5 q2' q1' q2' ~ q2' q1' q5 q6 ~ 6 - - - x 2' - - s3' s2' s1' s2' s3' s1' s2' s3' s2' q2'. ~ 2' q6 x q5 q5' q2'
+~ q2' q1' q1' q6 q6 q5 ~ 5 q0 q5 q5 q5 x. 5 2' q1'. s1' q6 q5 q5 q5 q2' q2' q1'. s1' q6 s5 q0 q2' q1' 2' q5' q2' q1' q6' 6 - 5 2'
+q1'. s1' q6 q5 q5 q5 q2' q2' s2. q1'. s1' q6 d5 ~ q5 q0 q1' 2 q2 q1 q6 q6 q5 ~ 5 - - 5 2 q1'. q6 q5 q5 q5 q2 q2 q1'. q6 q5 2
+- - s3 s2 s2 s3' s1' s2 s2' d1 2' q1' q1. q6 2' - q2' q5' q5' q6' 6 qx 6 q6 q5 5 5 - s1 5 - 0 0 0 1.
+%END

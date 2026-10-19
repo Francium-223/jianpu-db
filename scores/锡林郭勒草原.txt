@@ -1,0 +1,24 @@
+%锡林郭勒草原.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=17863
+title=锡林郭勒草原
+tag=
+usertag=
+tagroute=
+confidence=0.975
+conf_p10=0.953
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-17863
+%--
+4/4
+subtitle=score
+2 3 6 - 2 3 6 - s3 s2 s3 s6 s3 s2 s3 s6 s3 s2 s3 s6 s3 s2 s3 s6 s3 s2 s3 s6 1 ,6 ,5 ,6 2 3 1 ,5 - ,3 - q1
+q2 q3 q1 ,5 1 ,6 - - - ,6 3 ,5 3 q6. s3 3 s2 s3 1 s,7 s,7 s,7 s,7 ~ q,7 q,5'. ,6 - q,6. s1 q1 q,6 s2 s3 2 s1 s2 q3 s3 s5
+q5 q2'. 3 - q,6. s3 3 s5. d6 3. s2 s2 s2 s2 ~ q2 q1 2 - q3. s5 q3 q2 s2 s3 1 s,5 s,6 q,7 q,7 q0 q,5'. ,6 - q,6 q,5 q,6 q,3 q,6. s3
+3 s2 s3 1. s,7 s,7 s,7 s,7 ~ q,7 q,5'. ,6 - q,6. s1 q1 q,6 s2 s3 2 s1 s2 q3 s5 s5 ~ q5 q2'. 3 - q,6. s3 3 s5. d6 3. s2 s2 s2 s2
+~ q2 q1 2 - q3. s5 q3 q2 s2 s3 1 s,5 s,6 q,7 q,7 q0 q,5'. ,6 - s6 q3 q2 q5 q3 q6 s6 s7 q5 3 - q3 q6 s6 s7 q5'. 6 - q7. s6
+q6 s6 s7 5 - q2 q3'. 6 3 - q3 q6 s6 s7 q5'. 6 - q6 q2' s2' s3' qx'. 2' - q7. s6 q6 q7 3 - q5 q6'. 7 6 - - - ,6 - -
+s3 s2 q3 ~ 3 - 5 3 ,6 - - - 3 - 5 6 2' 3' 5 - 3 - s6 s5 s1 s2 3 5 6 - - - 3 3 ,5 ,5 q6 q2' s2' s3'
+qx'. 2' - q6 q2' s2' s3' 6 - q7. s6 q6 q7 5 - q2 q3 s5 q6. 3 - q6' q2' s2' q1' qx'. 2' - q6' q2' s2' q1' qx'. 2' - q7. s6 q6 q7 3
+- q5 q6'. 7 6 - q5 q6'. 7 6 - q5 q6'. 7 ~ 7 - - - 6 - - - 6 - - -
+%END

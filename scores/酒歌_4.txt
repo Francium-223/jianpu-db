@@ -1,0 +1,17 @@
+%酒歌_4.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48293
+title=酒歌
+tag=
+usertag=
+tagroute=
+confidence=0.997
+conf_p10=0.994
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48293
+%--
+2/4
+subtitle=score
+1' 1' 1' 1' 6 1' 2'. 3' 2'. q1' 6 1' 2' 1' 1' 2' 2' 6 1' 5 5 - 6 6 5 5 1' 6. 1 6 5 6 5. 4 - 3. 4 2 - 2
+-
+%END

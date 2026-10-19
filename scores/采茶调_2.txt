@@ -1,0 +1,17 @@
+%采茶调_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47787
+title=采茶调
+tag=
+usertag=
+tagroute=
+confidence=0.979
+conf_p10=0.943
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47787
+%--
+2/4
+subtitle=score
+2 2 5 2 1 2 4 3 5 - 2 1 2 4 2 5 2 1 2 3 4 3 2 4 1 0 0 2 2 1 2 4 3 2 5. 2 4 1 1 2
+1 4 2 3 5 5 - 0 4 q1 2 2 2 5 2. 1 1 2 3 2 -
+%END

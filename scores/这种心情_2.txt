@@ -1,0 +1,21 @@
+%这种心情_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=33934
+title=这种心情
+tag=
+usertag=
+tagroute=
+confidence=0.992
+conf_p10=0.984
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-33934
+%--
+4/4
+subtitle=score
+x q1 - 2 q1 q1 - - - q1 - 2 0 2 - - - 3 - q4 3 3 - - - 3 - 2 q1 2 - - - x q0 q6 q6 q5 q3 q2
+q1 q6 3 0 0 0 q0 q6 q6 q3 q2 q2 q1 q2 q1 q1 q1. 0 0 0 q,6 q1 q,6 q2 2 - q,6 q1 q,6 q2 2 - q2 q3 q2 q5 5 - - -
+0 0 0 0 q1. q2 2 q1 q1. q2 2 q1 q1. q2 2 q1 q2 2 - - - 3. q4 q4 3 3. q4 q4 3 3. q2 2 q1 q2 2 - - q0 q6 q6
+q6 q6 q6 q6 q5 q5 q6 6 0 0 0 q3 q3 q3 q3 q3 q2 q2 q3 3 0 0 0 q6 q6 q6 q5 6 q5 q6 6 0 q6 q5 q2 q5 5 - - -
+0 0 0 0 q0 q6 q6 q5 q3 q2 q1 q6 3 0 0 0 q0 q6 q6 q5 q3 q2 q2 q1 q2 q1 q1. 0 0 0 q,6 q1 q,6 q2 2 - q,6 q1 q,6 q2
+2 - q5 q3 q2 q1 q1 - - - 0 0 0 q0 q,6
+%END

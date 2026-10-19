@@ -1,0 +1,20 @@
+%长工苦.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47672
+title=长工苦
+tag=
+usertag=
+tagroute=
+confidence=0.974
+conf_p10=0.921
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47672
+%--
+2/4
+subtitle=score
+1 - - 2 4 3 4 x - - x 5 6. 5 q5 3 q5 3 q3 5 2' 6 6 5 5' 3 5 3' 5 2' 3 q2' q1' 6 q1 q6 q1 q6 6 q1
+6 6 3 1 2 1 6 6 6 6 q6 2 2 3 6 q1 s6 q2 q1 q6 6. 1 3 3 - 2 1' 6 3' 2' - 6 3' 2' 2 1' 6 2 3 2
+6 6 1 6 4 q1 0 6 6 q6 3. 5 4 q3 2 3 2 6 6 3 2 2 3 3 2' 1' 6 6 4 2 0 6 6 6 1' - 3 4 2' 3'
+- 6 6 - 2' - 6 4 2 0 6 2' 3' - 4 3 3' - 6 - - 3 q1 1 6 - - 6. 3 2 q2 q1 4 6 - 6 - - 2 6
+-
+%END

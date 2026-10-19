@@ -1,0 +1,18 @@
+%银河_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=32356
+title=银河
+tag=
+usertag=
+tagroute=
+confidence=0.943
+conf_p10=0.846
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-32356
+%--
+4/4
+subtitle=score
+q1 x. x. 4 1 x x'. - ,5 q,5 q,6 1. q,6 q2. s3 q3 q5 ,5 ~ ,5 q,5. s6 q1 q6 5. q3 q5 s6 q5 s5 s3 2. q,5 ~ 5 - - - 2 q2
+q3 5 q5 q3 q2. q3 q2 q1 q1 q,6 ,5 q,5 5 q3 q2. q3 q2 q1 ,3 q,5 q,6 1 - q,6 q1 q2 s3 s5 ,5 - 2 q2 q3 5 q5 q3 q2. q3 q2 q1
+q1 q6 ,5 q,5 5 q3 q2. s3 q2 q1 ,3 q,5 q,6 1 - q,6' q1 q2 s3 s5 ,5 -
+%END

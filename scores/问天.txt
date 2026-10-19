@@ -1,0 +1,24 @@
+%问天.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=2110
+title=问天
+tag=
+usertag=
+tagroute=
+confidence=0.919
+conf_p10=0.745
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-2110
+%--
+4/4
+subtitle=score
+1 - - - x x x q1 1 x. x x x' q0 q3 1'. q2' 3' s3' s2' s1' s6 0 - 7 - - - s0 d2' d3' d4'. d3' d1' d1' s7' s1' s2' s6 q5
+s6 s7 q7 q4 3 - - q0 d3 q,3. s6 s6 s7 s7 s1 q1 s3 s3 q0 s3 q,3. s5 s5 s6 s6 s7 q,7 s2 s2 q0 s6 q,6. s2 s2 s3 s3 s4 q3 s7 s3
+q0 q2 x qx. - ,x q1 x. x q2 1. 0 q0 s3 q,3. s6 s6 s7 s7 s1 q1 s3 s3 q0 s3 q,3. s5 s5 s6 s6 s7 q,7 s3 s2 q0 s6 s6. s2 s2 s3
+s3 s4 q4 s6 s6 q0 s5 q6 7. q0 s3 s3 s6 s7 s1' q7 s6 s3 ~ q3 s1' s1' q0 s3 s3 s6 s7 s1' x - - q7 s6 s4 ~ q4 s1' s7 q0 s4
+s4 s6 s7 s1' q7 s6 s4 s1' q1' s6 q7 s6 s1' ~ q1' s6 s7 ~ 7 - q0 s3 s3 s6 s7 s1' q7 s6 s3 q1' s1' s1' q0 s3 s3 s6 s7 s1' q7 s6
+s4 s1' s1' s6 s7 q0 s4 s4 s6 s7 s1' q7 s6 s4 s1' q1' s6 q7 s1' s7 ~ q7 q3 6 - 0 x s0 s3 s6 s3 q3 s2 s4 ~ q4. s1 ,7 s0 s3
+s6 s3 q3 s2 s4 ~ q4. s6 ,6 s0 s3 s6 s3 q4 s2 s6 s7 q4' s2' 3' q0 s7' d3' d4. d4' q6'. q5. s5' 5' - q0 d3 q7 s6 s4 s1' q1' s6 q7 s1'
+s7 q7 s3 s7 6 - - - x q7. s6 q6 s3 d1 d7 ,6 s0 s3 s6 s7' s1' s1. s1' 3. 3'. s3 s4 s7' s3' 4. q4' q7'. q3' q4'. q3' q4' 6. 6' - q5'.
+s3 s3 s6 s7 s1' s7 s6 s6 s6 s4 s1' q1' s6 q7 s1' s7 7 q0 q3 6 - - x.
+%END

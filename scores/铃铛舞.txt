@@ -1,0 +1,17 @@
+%铃铛舞.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49016
+title=铃铛舞
+tag=
+usertag=
+tagroute=
+confidence=0.986
+conf_p10=0.992
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49016
+%--
+3/4
+subtitle=score
+q3 5 5 3 1 q3 1 ,5 1. q3 q5 q3 5 - - 3 5 5 3 1 3 1 ,6 ,5. 1 3 q5 2 - - 1 q3 3 1 x x x x 6 6
+,6 0 6 2 2 ,6 5 5 ,5 0 3 5 5 3 1 3 3 1 6 2 2 ,6 q5 5 1 - 1 0 0
+%END

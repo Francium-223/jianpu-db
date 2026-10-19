@@ -1,0 +1,18 @@
+%金缕衣.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15124
+title=金缕衣
+tag=
+usertag=
+tagroute=
+confidence=0.970
+conf_p10=0.984
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15124
+%--
+4/4
+subtitle=score
+- x x x x q6 q1 q2 q3 5 - q6 q1 q2 q3 5 - q6 q5 q6 q3 q5 q4 q5 q2 3 s3 s5 q2 3 - q2 q1 q2 q,6 q3 q2 q3 q,7 5.
+q6 5 - q6 q5 q6 q3 q5 q4 s4 s5 q2 2'. q6 1' - q7 q6 q7 q3 q6 q5 q6 q2 3 q2 s5 ,6 - 6 3 5 - q6 q1 q2 q3 5 - q7
+q6 q7 q3 q6 q5 q6 q2 3 q2 s5 ,6 -
+%END

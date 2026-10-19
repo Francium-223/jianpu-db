@@ -1,0 +1,18 @@
+%送嫁歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47551
+title=送嫁歌
+tag=
+usertag=
+tagroute=
+confidence=0.992
+conf_p10=0.993
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47551
+%--
+2/4
+subtitle=score
+x ,5 1 1 ,,1 1 2 3 2 3 2 q3 4. q4 4 4 6 5 4 3 2 1 ,7 ,7 ,5 ,6 ,7 1 1 x 2 5 5 5 5 6 5 5 6 7
+6 5 5 2 3 2 3 4 ,5 3 2 4 3 2 1 1 ,5 1 1 ,1 1 2 3 2 3 2 3 4 4 6 5 4 3 2 1 ,7 ,7 ,5 ,6 ,7
+1 1
+%END

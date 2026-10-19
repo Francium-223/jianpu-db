@@ -1,0 +1,19 @@
+%送给你明天的太阳.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=34781
+title=送给你明天的太阳
+tag=
+usertag=
+tagroute=
+confidence=0.913
+conf_p10=0.684
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-34781
+%--
+4/4
+subtitle=score
+0 q5 q5 4 q5 s,3 q2' q1 3 q5 q3 3 - q0 q1 q1 x 2 q1 q6' 5' q0 6 - - - 0 2 q2 1 q3' q2 1. ,1 5 3 - 6 5 ,4
+4' 3 2 2 - - - 5 q1 q3' 3 q5 6 5 q3 2 ,1 1 0 q5 q6 1 q3 q1' 2 q1 x 7 q3 qx ~ qx q0 q0 q6' ,1'. 2 q1 1 6
+6 5 5 6 0 q0 4 q4 q,,4 q5' q4' q3 2 3 5 7 1 2 7 6 x x 5 6 x 1 3 ,,1 ~ 1 q1 2 7 3. ,x' 7 0 0 6 q6'
+1' q2 q7 6 6 5 q5 5 - 0 4 4 4 5' 4' q3 1 3 6 7 1 2' 5 5 1 q1 2 1' - - -
+%END

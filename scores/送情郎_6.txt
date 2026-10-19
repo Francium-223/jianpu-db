@@ -1,0 +1,20 @@
+%送情郎_6.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=7252
+title=送情郎
+tag=
+usertag=
+tagroute=
+confidence=0.930
+conf_p10=0.792
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-7252
+%--
+2/4
+subtitle=score
+5. q6 s1'. d2' s7 s6 q5. s6 q4. s3 q2 q4 5. s2 s3 5. q6 s1'. d2' s7 s6 q5. s3 q2. s3 s2 s1 0 - q,6 ,5 - q1 s1 s1 s1 s6 s5 s6 q1
+1. qx q5 s6 s1' s6 s5 s5 s3 s5 s3 2. qx. x x q5 s2 s3 q5 s5 s3 q2 s3 s5 q2 q1 q2 s2 s1 s6 s5 s1 s6 ,5 - s6 s6 s5 s6 1
+qx' s2 s3 q5. s3 q2 3 q,5 q,6 s2 s7 ,6 s3 s5 s6 s5 - q5 ~ s5 s5 s3 s5 s6 s3 0 q5. ~ s5 q1 s1 s6 q5 s5 s3 q2. s3 s2 s1 -
+q,6 ,5 qx. - qx 1' s3. dx. d5 s6 s1' s6 d5 s5 s5 s3 s2. d3 s5 s3 s2 s3 s2 s1 q,6. s2 s2 s1 q,6 ,5 - x' 0 ,5 - x ,5 - s3 s5
+s6 s5 0 - q5 d5 s5 s3 s5 s6 s5'. 0 q5 q1 s1 s6 q5 s5 s3 q2. s3 s2 s1. s1 s6 ,5 - ,5 - 0 q7. s6 6 1' 5 ~ 5 - 5 0
+%END

@@ -1,0 +1,21 @@
+%还是让我做一滴水吧.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=34772
+title=还是让我做一滴水吧
+tag=
+usertag=
+tagroute=
+confidence=0.933
+conf_p10=0.825
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-34772
+%--
+2/4
+subtitle=score
+q0 q0 q3 q,,6 ~ q6 3 q0 s6 s3 ,5 q5 3 q5 ,3 ~ s3 4 sx ,6 0 s,4 q,2 ,4 3 - 0 3 q3 q3 ,7' ~ ,7 s7 q,1 ,3 ,6 - x 3
+q3' ~ ,3 q1 2 0 2 q2 q2 q0 6 s1 1 - q3 ,3' ~ q3 q1' ,,2' 2 ,1 2 q2 q,2 ,,7' q5' q,6 q,6 q,6' q3 6 3 0 5 s5 5 q,,4' ,,4 0
+q6 s0 s1 s3 s,2 3 3 x 3 6 6 3 5 x 0 5 5 5 4 q4 q6 q0 s4 s3' q2' 3 3 ,6 q3 3 ,6 2 2 ,6 x q0 q,3 x ,1 q3
+q0 s7 ,,6 ,5 ,6 - 6 3 6 4 6 q4 q,,5 1 1' 0 x q1 q1' q,6 q1' q2' 1 1 3' qx 1' s3 q0 2 q1' 3 q2' 2 s7 q,,1 2' s7 q1 q0
+,,2 s1' sx q1' 1' q,1' s2' x 1 - - x 6 3' q,1 s3 q0 ,2 s7 s3 q2 2 q7 q1' q2 7 ,1 2' ,2 ,1' q,2 q1' 6 3 6 3 5 5 q4 s4
+s6 0 s,,4' s3 ,2 q3 3 q,6 2 2 ,6 q,7 q3 0 ,7 s6 s5 ,6 - 0 - ,6 0
+%END

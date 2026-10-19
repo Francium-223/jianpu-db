@@ -1,0 +1,17 @@
+%达坂城的姑娘_3.txt
+confidence=0.992
+conf_p10=0.967
+title=达坂城的姑娘
+tag=
+usertag=
+tagroute=
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-38774
+% 出处 http://www.fysongs.cn/songku_show.asp?id=38774
+%--
+4/4
+subtitle=score
+q6 q6 q5 q6 q1' q6 q1'. q6 q5 q5 q3 q5 q5 q4 5 6 5 4 3 0 3 q3 5 6 5 3 q3 q5 4 3 q2 q1 1 2 q3 q1 q2 q1 q7 ,6
+0
+%END

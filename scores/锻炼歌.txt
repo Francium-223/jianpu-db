@@ -1,0 +1,18 @@
+%锻炼歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49017
+title=锻炼歌
+tag=
+usertag=
+tagroute=
+confidence=0.962
+conf_p10=0.846
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49017
+%--
+4/4
+subtitle=score
+3 3 3 0 5 5 5 0 1' 1 7. 7 6 6 5 0 2 2 2. 3 2. - - - - - 0 4 5 6 0 5. 5 6 7 2 1 1' 0 3
+3 3 q1 2 3 5 5 5 q3 q5 q6 1' 1' 7 - 6 6 5 0 2 2 2 3 2 3 4 6 6 7 6 q7 5 - 6. 7 2' 1' 1' x x
+x x 0 0 0
+%END

@@ -1,0 +1,22 @@
+%长白情歌_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15853
+title=长白情歌
+tag=
+usertag=
+tagroute=
+confidence=0.971
+conf_p10=0.946
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15853
+%--
+6/8
+subtitle=score
+,6 q3 6 q6 q5 q6 s3 s5 6. q6 q5. s2 3. 3. ,6 s6 s6 q6 q5 q6 5 q3 2. s2 3 q5 3. q,5. s6 s2 s1 ,6. ~ q,6 s1 s2 s3 s5 3 q3
+6 q6 q5 q6. s5 6. q6 q5. s2 3. q3 s1 s2 s3 s5 3 q6 q6 q5 q6 5 q1 2 s1 s2 3 q5 3 q,5 q,5. s6 s2 s1 ,6. ,6. 0 q0 0 q0 ,6
+q,6 3 q3 q3 q2 q1 ,6. 1 q,6 1 s,6 s,6 1 s2 s5 3. 3. 6 s6 s6 q5 q1 q2 2. 3 s3 s5 3 q,5 q,5. s6 s2 s1 ,6. 3 q3 6 s6 s6 q5
+q6 q5 6. q6 q5 q2 3. 3. 3 q6 q6 q6 q5 q5 q1 q2 2. 3 s3 s5 3 q,5 q,5. s6 s2 s1 ,6 q0 q0 q0 3 q3 6. q5 q6. s5 6 q6 q5 1
+s2 s5 3 3 s6 s6 q6 q6 q5 q5 q1. s2 2 3 s3 s5 3 s,5 ~ s,5 q,5. s,6 s2 s1 ,6. q0 q0 q0 3 q3 6. q5 q6. s5 6. q6 q5 1 s2 s5
+3. 3 s6 s6 q6 q6 q5 q5 q1. s2 2 3 s3 s5 3 s,5 ~ s,5 q,5. s,6 s2 s1 ,6. q,6 s1 s2 s3 s5 3 q3 q,5. s6 s2 s1 ,6 ,6 x q0 0 q0
+x 3 s3 s5 5 s3 s3 2' 2' s2' 1' q0 6 6 6 6 6 6 6 q0 0 q0
+%END

@@ -1,0 +1,20 @@
+%铁蝴蝶_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=46181
+title=铁蝴蝶
+tag=
+usertag=
+tagroute=
+confidence=0.967
+conf_p10=0.909
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-46181
+%--
+4/4
+subtitle=score
+- q4 x. 1 x x x x x q3'. q3 q3' q3 6 - - q0 q6 q7 1' - q1' 2' 3' - q4' 3' 2' 3'. q3' 2' q1' 7 6 5 5 4 3 0 0
+,3 ,6 - - 0 ,6 ,5 ,6 1. ,6 3 - - 3 0 0 3 2. 1 2 - 0 2 3 2 1. ,6 ,6 ,7. ,7 - ,7 0 0 ,3 ,6 - 0 ,6 ,5
+,6 1. ,6 6. 5 4 - 0 4 5 6 5 4 3. 1 4. 4 3 2. 3 2 1 ,7 ,6 ,6 - - 0 0 3 3 6 7 3 4. 0 1' 7' 6 6
+7. q3 3. 5 3' - 3 4. 3 2' 2' 2. 0 2 3 5. 3 6 - 6 - x 4 3'. 2' 3 2'. 1' - 3 6 - 7 6 3' 3' 3 2 1 6
+1 2 3. q5 q4 ,3 ,3
+%END

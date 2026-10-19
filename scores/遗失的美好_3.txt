@@ -1,0 +1,22 @@
+%遗失的美好_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=46797
+title=遗失的美好
+tag=
+usertag=
+tagroute=
+confidence=0.992
+conf_p10=0.983
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-46797
+%--
+2/4
+subtitle=score
+x 6 q6 q5 3 s1 s7 s6 s5 6 q6 q5 q3 q5 2 6 - 1 0 x q1. s1 s1 q7 s6 s7 q6 q,5. ,5 q5 q5 ,6 q,6 q6 s6 s5 s4 q,4 q,3 ,3
+1 s1 q7 q6 q7 s6 ,5. q5 q1 s2 q3 q4 - - q3 2. q1 ,5 - q1. s1 s1 s7 s6 s7 s6 q,5. ,5 s5 q5 q,6 q,6 s6 s5 s5 s4 s4 q,3. q,3 s5
+s5 q1 q1 s1 q7 s6 q7 q5. s1 q5 q1 s2 s3 q4 q3 s2 q2 q1 2 - q0 s5 q1 q5 s4 q3 q2 s3 s3 ~ q3 s1 s2 q0 s2 s2 q5 s3 s2 q2
+s5 s2 ~ s2 s3 s2 s1 1 q3 s4 s5 s5 q4 s4 s5 s3 q1 s1 s1 q,7 s5 s3 q2 s1 q2. s3 ~ 3 q0 q,5 q5 s4 s3 q2 q3 s3 ~ q3 s4 s2
+q2 s2 s2 s5 q3 s2 q2 s5 q2 s2 s3 s2' s1 1 s3 q4 s5 s5 s4 s3 s4 s3 q1 q1 s1 q1 s5 q3 s2 s1 q2. s1 1 0 0 0 0 0 0 0
+0 q2. s1 ~ 1 0 0 q0 s4 s4 q4 q3 s2 s3 q1. s6 ~ q6 6 s7 s1 q1 s6 s7 q1 q1 q7 6 s6 q,5. 5 q0 q4 s4 s4 s3 s2 - - q3
+q1. s5 s5 q3 s3 5 q5 3 s4 q5 s6 s6 5 - q2. s1 ~ 1 0 0 0 0 0 0 0 0 0 0
+%END

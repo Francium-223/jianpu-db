@@ -1,0 +1,24 @@
+%醉相思_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=7267
+title=醉相思
+tag=
+usertag=
+tagroute=
+confidence=0.954
+conf_p10=0.865
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-7267
+%--
+4/4
+subtitle=score
+1 - - 0 x. x x q3 q5 6. q1 q7 q6 5 6 q,7 q1 1 q3 q5 6. q1 q7 q6 5 3 q1 q3 1 q5 q3 2. q3 6. q5 q3 q5 q2 q3 1
+- ,7. q5 q5 3 q,5 ,6 - - - q3 q3 q3 q2 1 - q,7 q,6 q,7 q,5 ,6 - q1 q1 q1 q,6 0 5 s3 s5 s3 s2 3 - - 0 q3 q6 q6 q5
+3. q2 q1 q,7 q,6 q,5 ,3 - q,6 q,5 q,6 q3 q2 q1 q,6 q,5 ,6 - - - q3 q3 q3 q2 1 - q,7 q,6 q,7 q,5 ,6 - q1 q1 q1 q,6 q5 q5 s3 s5
+s3 s2 q2 3. ~ 3 - q3 q6 q6 q5 3. q2 q1 q,7 q,6 q,5 ,3 - q,6 q,5 q,6 q3 q2 q1 q,6 q,5 ,6 0 0 - q3 q5 q6 6 q1' q7 q6 s6 s7
+q5 0 6 - - q3 q5 6 6 1' 7 6 6 5 3 3 5 6 6 5 3 6 1 2 3 2 6 1 2 2 2 3 3 5 3 5 2 0 3 -
+q3 q5 q6 6 q1' q7 q6 q7 q5 0 6 - q3 q5 q6 6 q1' q7 q6 q6 q5 3 - - - q3 q6 s6 s3 2 - q3 q5 q5 q2 1 - q,7 q,7 q,7
+q5 0 q3 q2 0 q2 q,7 ,6 - - q3 q5 6. q1' q7 q6 5 6 - - q3 q5 6. q1' q7 q6 5 3 - - q6 q3 2. q3 2 q3 q5 3. q,6 1.
+q2 ,7. q5 3. q,5 ,6 - - - ,6 - - - ,6. q1 q2 q3 q3 q5 ,6 - - - q,7' q,7 q,7 q5 0 0 q3 q2 0 0 q2 q,7 0 ,6 - - -
+,6 - -
+%END

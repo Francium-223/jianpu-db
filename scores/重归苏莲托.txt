@@ -1,0 +1,19 @@
+%重归苏莲托.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=31773
+title=重归苏莲托
+tag=
+usertag=
+tagroute=
+confidence=0.936
+conf_p10=0.701
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-31773
+%--
+3/4
+subtitle=score
+x 1 0 x x'. - x 1' x'. x' 6 7 q1 q2 q3 q1 3 3 - q2 q3 q4 q2 q4 q2 6 6 - q6 q7 q1' q7 q6 q7 3 3 - q2 q3 q2
+q1 7 q1 ,6 - 6 q0 1 - - q1' q7 q5 q6 q7 q5 6 6 - q7 q6 q5 q6 q7 q5 6 6 - q3 q4 q5 q3 q2 4 4 - q5 q6 q7 q6
+q5 q7 3 - q3 0 q1' q7 q5 q6 q7 q5 6 6 - q2' q1' q7 q1' q2' q7 1' 1' - q1' q2'. q3' q2' q1' q2' 5 5 - q4 q5 q4. q3 q2 q3 1
+- 0 q1 q2 7. q6 1 - - q0 q7 q1 q2 q7 q6 5 5 - 4 6 1' 3'. q2' 1' q1' q2' 7. q7 1' - 0
+%END

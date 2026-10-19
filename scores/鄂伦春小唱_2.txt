@@ -1,0 +1,16 @@
+%鄂伦春小唱_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=24326
+title=鄂伦春小唱
+tag=
+usertag=
+tagroute=
+confidence=0.995
+conf_p10=0.977
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-24326
+%--
+2/4
+subtitle=score
+q5. s5 q5 q5 3 5 q5. s1' q6 q5 5 - q2 s2 s3 q2 q3 q5 q6 q5 q2 q3 q2 q3 q2 1 -
+%END

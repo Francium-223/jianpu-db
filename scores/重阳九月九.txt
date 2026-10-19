@@ -1,0 +1,19 @@
+%重阳九月九.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12249
+title=重阳九月九
+tag=
+usertag=
+tagroute=
+confidence=0.919
+conf_p10=0.667
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12249
+%--
+2/4
+subtitle=score
+1 - - - x x 1 x x x. ,x' x x 3. 4 5 5. 5 6 6 5 - 5 3. 4 5 5. 5 2. 2 1 1 q1 3 5 5 6 6 5 -
+x 3 2 2 1 - 1 3 3 5 5 6 6 5 - 5 1 2 3 3 2 2 1 - 1 q3 4 5. 5 1 3 4 5 5 1 q3 q4 5 1' 7
+q6 q5 6 - 6 q7 7 6 7 5 q7 7 6 7 5 q1 q2 3 3 2 1 2 - 2 q,7 q1 2 2 1 ,7 1' 1 2. - 1 - 3' x 1. q1
+q2 3 3 2 1 2 - 2 ,7 1 2 2 1 1 - 1 q,7 q1 2 2 1 1 - 1 0
+%END

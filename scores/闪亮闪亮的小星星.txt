@@ -1,0 +1,18 @@
+%闪亮闪亮的小星星.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=12682
+title=闪亮闪亮的小星星
+tag=
+usertag=
+tagroute=
+confidence=0.937
+conf_p10=0.712
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-12682
+%--
+2/4
+subtitle=score
+1 - - ,1 x x x q1. q1. s1 q,7 q1 q,6 q1 ,5 q3 q1 q4 q,2 s2 q1 ,,7 1 ,,1. - s1 q7 q1 q,6 q1 ,5 q3 q1 q4 q2 q,,1 q,7 1 q3. s3
+q2 3 q4 q3 2 q3. s3 q2 q3 q4 q3 2 q1. s,1 q,7 q,1 q2 q,,1 ,7 q1. s1 q,7 q1 q2 q1 ,7 q3. q3. s1. - s3 s3 s1 q4' q,,4. q7' q4 q,3 q3 q,3
+s1 s4 ,4 6' ,4 4 q6 s1 ,5' ,5 5' q1. q1 q1 q1 q1 q1 q1. s1 q1. 2. 2 q4. 7. 7' 2' ,7 1. 1 q1 7 q1' ,7 7' 7' 1' 1'. 1. 1 1'.
+%END
