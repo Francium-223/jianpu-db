@@ -1,16 +1,12 @@
-%喀秋莎__je-0382.txt
 %标题 喀秋莎
 % 出处 https://github.com/zytx121/je/issues/0382
 % 歌曲信息: 作曲 马特维·勃兰切尔 · 作词 米哈伊尔·伊萨科夫斯基 · 歌手 丽基雅·鲁斯兰诺娃
 title=喀秋莎
-tag=
-usertag=
-tagroute=
 artist=丽基雅·鲁斯兰诺娃
 lyricist=米哈伊尔·伊萨科夫斯基
 composer=马特维·勃兰切尔
 copyright=作曲 马特维·勃兰切尔 / 作词 米哈伊尔·伊萨科夫斯基
-transcriber=@火星喵
+transcriber=livesun
 status=bare-numbers
 source=je-0382
 %--
@@ -25,5 +21,3 @@ source=je-0382
 3 6 5 6 5 4 4
 3 2 3 ,6
 4 2 3 1 2 2 1 ,7 ,6 1
-%---
-%END

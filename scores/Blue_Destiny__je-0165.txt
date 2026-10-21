@@ -1,16 +1,13 @@
-%Blue_Destiny__je-0165.txt
 %标题 Blue_Destiny
 % 出处 https://github.com/zytx121/je/issues/0165
 % 歌曲信息: 作词 Heart‘s Cry · 作曲 Heart‘s Cry · 编曲 Heart‘s Cry · 歌手 Trident
 title=Blue_Destiny
-tag=
-usertag=
-tagroute=
 artist=Trident
 lyricist=Heart‘s Cry
 composer=Heart‘s Cry
 arranger=Heart‘s Cry
 copyright=作词 Heart‘s Cry / 作曲 Heart‘s Cry / 编曲 Heart‘s Cry
+transcriber=zytx121
 status=bare-numbers
 source=je-0165
 %--
@@ -55,5 +52,3 @@ source=je-0165
 3 4 3 2 1
 ,7 1 ,7 1 6 5 3 7 1'
 3 4 5 1' 5 5 3 4 5 1' 5 5 3 3 4 3
-%---
-%END

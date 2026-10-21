@@ -1,11 +1,7 @@
-%红莲の弓矢__je-0645.txt
 %标题 红莲の弓矢
 % 出处 https://github.com/zytx121/je/issues/0645
 % 歌曲信息: 专辑 EP《自由への进撃》 · 作词 Revo · 作曲 Revo · 编曲 Revo · 歌手 Linked Horizon
 title=红莲の弓矢
-tag=
-usertag=
-tagroute=
 artist=Linked Horizon
 album=EP《自由への进撃
 lyricist=Revo
@@ -94,5 +90,3 @@ source=je-0645
 6 4 5 3 4 2 3 1 6 4 5 3 4 3 2 #1
 1=F
 6 4 5 3 4 2 3 1 ,6 4 5 3 4
-%---
-%END

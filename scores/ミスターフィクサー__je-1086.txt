@@ -1,11 +1,7 @@
-%ミスターフィクサー__je-1086.txt
 %标题 ミスターフィクサー
 % 出处 https://github.com/zytx121/je/issues/1086
 % 歌曲信息: 专辑 ミスターフィクサー · 作词 Sou/RUCCA · 作曲 神谷志龍 · 歌手 Sou
 title=ミスターフィクサー
-tag=
-usertag=
-tagroute=
 artist=Sou
 album=ミスターフィクサー
 lyricist=Sou/RUCCA
@@ -48,5 +44,3 @@ source=je-1086
 4 4 4 4 4 4 5 4 3 4 3 2 1 ,6 2 3 4 1 2 3 4 5 1' 6 5 6
 7 7 7 7 5 1' 5 5 5 4 3 4 2 3 4 4 3 4 2 3 4 1' 5 5 6 5 4
 4 4 4 4 4 4 5 4 3 3 3 3 4 3 2 2 2 2 2 2 1 2 2 2 2 2 3 2 2 2 2 2 1 1 2 1 2
-%---
-%END

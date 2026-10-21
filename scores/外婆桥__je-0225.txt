@@ -1,16 +1,13 @@
-%外婆桥__je-0225.txt
 %标题 外婆桥
 % 出处 https://github.com/zytx121/je/issues/0225
 % 歌曲信息: 原曲 梦と叶桜（梦与叶樱） · 作词 冥凰 · 作曲 青木月光 · 编曲 青木月光 · 歌手 洛天依
 title=外婆桥
-tag=
-usertag=
-tagroute=
 artist=洛天依
 lyricist=冥凰
 composer=青木月光
 arranger=青木月光
 copyright=作词 冥凰 / 作曲 青木月光 / 编曲 青木月光
+transcriber=zytx121
 status=bare-numbers
 source=je-0225
 %--
@@ -31,5 +28,3 @@ source=je-0225
 3 5 2 2 3 5 3 2 1 2 3
 3 5 2 2 1 2 3 ,6 1 2 1 2 5 3
 3 5 2 2 1 2 3 ,6 ,5 ,6
-%---
-%END

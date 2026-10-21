@@ -1,18 +1,14 @@
-%記憶×ハジマリ__je-0511.txt
 %标题 記憶×ハジマリ
 % 出处 https://github.com/zytx121/je/issues/0511
 % 歌曲信息: 专辑 恋×シンアイ彼女 Complete Sound Track · 作词 Duca · 作曲 宫崎京一 · 编曲 宫崎京一 · 歌手 Duca
 title=記憶×ハジマリ
-tag=
-usertag=
-tagroute=
 artist=Duca
 album=恋×シンアイ彼女 Complete Sound Track
 lyricist=Duca
 composer=宫崎京一
 arranger=宫崎京一
 copyright=作词 Duca / 作曲 宫崎京一 / 编曲 宫崎京一
-transcriber=纳兰鸟儿（百度贴吧）
+transcriber=IGRX
 status=bare-numbers
 source=je-0511
 %--
@@ -27,5 +23,3 @@ source=je-0511
 3 6 1' 7 6 5 5 3 6 5 6 5 4 3 2 1 2 3 4 6 4 3 2 3 4 3 4 3
 6 1' 7 6 5 5 3 6 5 5 1' 7 1'
 1 4 3 2 1 ,5 1 2 1 3 4 3 2 1 ,5 1 2 3
-%---
-%END

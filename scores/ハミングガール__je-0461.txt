@@ -1,17 +1,13 @@
-%ハミングガール__je-0461.txt
 %标题 ハミングガール
 % 出处 https://github.com/zytx121/je/issues/0461
 % 歌曲信息: 作词 こだまさおり · 作曲 神前晓 · 编曲 神前晓 · 歌手 福原香织 内山夕实 悠木碧 寿美菜子
 title=ハミングガール
-tag=
-usertag=
-tagroute=
 artist=福原香织 内山夕实 悠木碧 寿美菜子
 lyricist=こだまさおり
 composer=神前晓
 arranger=神前晓
 copyright=作词 こだまさおり / 作曲 神前晓 / 编曲 神前晓
-transcriber=桥居
+transcriber=GlacierStudioQ
 status=bare-numbers
 source=je-0461
 %--
@@ -34,5 +30,3 @@ source=je-0461
 1 2 4 3 1 ,6 1 2 1
 1 2 1 1 5 1
 1 2 4 3 1 ,6 1 2 1
-%---
-%END

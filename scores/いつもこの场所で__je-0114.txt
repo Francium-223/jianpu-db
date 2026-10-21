@@ -1,15 +1,12 @@
-%いつもこの场所で__je-0114.txt
 %标题 いつもこの场所で
 % 出处 https://github.com/zytx121/je/issues/0114
 % 歌曲信息: 作词 志仓千代丸 · 作曲 志仓千代丸 · 歌手 彩音
 title=いつもこの场所で
-tag=
-usertag=
-tagroute=
 artist=彩音
 lyricist=志仓千代丸
 composer=志仓千代丸
 copyright=作词 志仓千代丸 / 作曲 志仓千代丸
+transcriber=zytx121
 status=bare-numbers
 source=je-0114
 %--
@@ -51,5 +48,3 @@ source=je-0114
 4 3 2 4 5 4 5 6 1' 3 3 2 4 5 5 4 5 4 2 4 5 5 6
 6 6 6 6 2 4 3 1 2 1 2 1 2 3 4 3 2
 ,#6 1 2 ,#6 3 2 1 1 3 2 ,#6 1 2 4 3 6 5 3 4 5 4
-%---
-%END

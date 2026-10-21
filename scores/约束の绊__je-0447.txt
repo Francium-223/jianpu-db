@@ -1,18 +1,14 @@
-%约束の绊__je-0447.txt
 %标题 约束の绊
 % 出处 https://github.com/zytx121/je/issues/0447
 % 歌曲信息: 专辑 TVアニメ『境界の彼方』オリジナルサウンドトラック オリジナルサウンドトラック · 作词 小田仓奈知 · 作曲 俊龙 · 编曲 高桥谅 · 歌手 妖梦讨伐队(栗山未来(CV.种田梨沙)、名瀬美月(CV.茅原实里)、新堂爱(CV.山冈百合)
 title=约束の绊
-tag=
-usertag=
-tagroute=
-artist=妖梦讨伐队(栗山未来(CV.种田梨沙),名瀬美月(CV.茅原实里),新堂爱(CV.山冈百合)
+artist=妖梦讨伐队(栗山未来(CV.种田梨沙)、名瀬美月(CV.茅原实里)、新堂爱(CV.山冈百合)
 album=TVアニメ『境界の彼方』オリジナルサウンドトラック オリジナルサウンドトラック
 lyricist=小田仓奈知
 composer=俊龙
 arranger=高桥谅
 copyright=作词 小田仓奈知 / 作曲 俊龙 / 编曲 高桥谅
-transcriber=那年春天的梦幻
+transcriber=moomiji
 status=bare-numbers
 source=je-0447
 %--
@@ -48,5 +44,3 @@ source=je-0447
 ,5 ,5 ,5 5 5 5 4 4
 4 4 3 2 2 2 2 3
 1 5 1 1 5 1 1 ,7 ,6 ,7 1 2 3
-%---
-%END

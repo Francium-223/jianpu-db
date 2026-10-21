@@ -1,17 +1,14 @@
-%山楂树__je-0319.txt
 %标题 山楂树
 % 出处 https://github.com/zytx121/je/issues/0319
 % 歌曲信息: 专辑 俄罗斯名歌经典 (俄语版) · 作词 М. Пилипенко · 作曲 Е. Родыгина · 编曲 Е. Родыгина · 歌手 Alexandrov Ensemble
 title=山楂树
-tag=
-usertag=
-tagroute=
 artist=Alexandrov Ensemble
 album=俄罗斯名歌经典 (俄语版)
 lyricist=М. Пилипенко
 composer=Е. Родыгина
 arranger=Е. Родыгина
 copyright=作词 М. Пилипенко / 作曲 Е. Родыгина / 编曲 Е. Родыгина
+transcriber=zytx121
 status=bare-numbers
 source=je-0319
 %--
@@ -34,5 +31,3 @@ source=je-0319
 ,6 ,6 1 2 3 5 4 3 2 ,7 3 2 ,6
 ,6 6 6 5 6 5 4 4 4 5 6 5 4 3
 1 1 1 2 3 5 3 3 2 ,7 3 2 ,6
-%---
-%END

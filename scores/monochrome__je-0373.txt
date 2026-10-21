@@ -1,18 +1,14 @@
-%monochrome__je-0373.txt
 %标题 monochrome
 % 出处 https://github.com/zytx121/je/issues/0373
 % 歌曲信息: 专辑 monochrome · 作词 meg rock · 作曲 kz(livetune) · 编曲 kz(livetune) · 歌手 Dancing Dolls
 title=monochrome
-tag=
-usertag=
-tagroute=
 artist=Dancing Dolls
 album=monochrome
 lyricist=meg rock
 composer=kz(livetune)
 arranger=kz(livetune)
 copyright=作词 meg rock / 作曲 kz(livetune) / 编曲 kz(livetune)
-transcriber=暗月灬朦胧
+transcriber=moomiji
 status=bare-numbers
 source=je-0373
 %--
@@ -36,5 +32,3 @@ source=je-0373
 3 4 3 2 1 1 ,7 1 2 3 ,5
 ,5 ,5 ,6 ,7 1 1 ,7 1 5 5 3 2 1 1
 ,5 3 4 3 4 3 4 3 2 2 1 ,7 1
-%---
-%END

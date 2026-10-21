@@ -1,16 +1,13 @@
-%Catch_the_Moment__je-0206.txt
 %标题 Catch_the_Moment
 % 出处 https://github.com/zytx121/je/issues/0206
 % 歌曲信息: 作词 LiSA · 作曲 田渊智也 · 编曲 江口亮 · 歌手 LiSA
 title=Catch_the_Moment
-tag=
-usertag=
-tagroute=
 artist=LiSA
 lyricist=LiSA
 composer=田渊智也
 arranger=江口亮
 copyright=作词 LiSA / 作曲 田渊智也 / 编曲 江口亮
+transcriber=zytx121
 status=bare-numbers
 source=je-0206
 %--
@@ -54,5 +51,3 @@ source=je-0206
 3 2 1 4 3 1 2 1 1 1 ,5 2 1
 2 2 1 4 3 1 2 1 2 2 1 4 3 2 3 4
 4 3 1 2 1
-%---
-%END

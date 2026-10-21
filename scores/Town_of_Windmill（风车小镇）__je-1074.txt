@@ -1,11 +1,7 @@
-%Town_of_Windmill（风车小镇）__je-1074.txt
 %标题 Town_of_Windmill（风车小镇）
 % 出处 https://github.com/zytx121/je/issues/1074
 % 歌曲信息: 歌手 a_hisa
 title=Town_of_Windmill（风车小镇）
-tag=
-usertag=
-tagroute=
 artist=a_hisa
 transcriber=Nephino
 status=bare-numbers
@@ -41,5 +37,3 @@ source=je-1074
 4 4 5 6 7 6 5 3 2 3
 3 1' 1' 2' 3' 7 5' 6 6 7 1' 5 3'
 4 5 6 7 6 5 6 5 6
-%---
-%END

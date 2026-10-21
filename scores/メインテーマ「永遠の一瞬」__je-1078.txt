@@ -1,11 +1,7 @@
-%メインテーマ「永遠の一瞬」__je-1078.txt
 %标题 メインテーマ「永遠の一瞬」
 % 出处 https://github.com/zytx121/je/issues/1078
 % 歌曲信息: 专辑 この青空に約束をー~ ようこそつぐみ寮へ~Piano Stories · 歌手 伊藤賢治
 title=メインテーマ「永遠の一瞬」
-tag=
-usertag=
-tagroute=
 artist=伊藤賢治
 album=この青空に約束をー~ ようこそつぐみ寮へ~Piano Stories
 transcriber=madderscientist
@@ -44,5 +40,3 @@ source=je-1078
 5 4 3 4 2
 5 4 3 4 2 1 3
 1 2 3 2 ,6 1 ,7 1 ,5 1 ,7 2 1 3 5 1'
-%---
-%END

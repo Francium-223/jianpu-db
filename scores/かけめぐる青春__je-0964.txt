@@ -1,11 +1,7 @@
-%かけめぐる青春__je-0964.txt
 %标题 かけめぐる青春
 % 出处 https://github.com/zytx121/je/issues/0964
 % 歌曲信息: 专辑 未知 · 作词 石原信一 · 作曲 あかのたちお · 编曲 未知 · 歌手 见月そはら＆五月田根美香子
 title=かけめぐる青春
-tag=
-usertag=
-tagroute=
 artist=见月そはら＆五月田根美香子
 lyricist=石原信一
 composer=あかのたちお
@@ -33,5 +29,3 @@ source=je-0964
 6 5 5 4 5 4 4 3
 4 3 3 2 #5 4 7 6
 3 ,7 2 3 6 #5 6
-%---
-%END

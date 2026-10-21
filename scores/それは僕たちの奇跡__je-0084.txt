@@ -1,17 +1,14 @@
-%それは僕たちの奇跡__je-0084.txt
 %标题 それは僕たちの奇跡
 % 出处 https://github.com/zytx121/je/issues/0084
 % 歌曲信息: 专辑 それは僕たちの奇跡 · 作词 畑_亜貴 · 作曲 黒須克彦 · 编曲 黒須克彦 · 歌手 μ's
 title=それは僕たちの奇跡
-tag=
-usertag=
-tagroute=
 artist=μ's
 album=それは僕たちの奇跡
 lyricist=畑_亜貴
 composer=黒須克彦
 arranger=黒須克彦
 copyright=作词 畑_亜貴 / 作曲 黒須克彦 / 编曲 黒須克彦
+transcriber=zytx121
 status=bare-numbers
 source=je-0084
 %--
@@ -57,5 +54,3 @@ source=je-0084
 1 2 3 1 1 2 3 1
 1 4 5 4 3 2 1 ,7 1
 5 4 3 2 3 5 4 3 3 2 1 2 5 4 3 2 3 5 4 3 2 3 4 3 1
-%---
-%END

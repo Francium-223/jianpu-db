@@ -1,11 +1,7 @@
-%夏の林檎__je-0670.txt
 %标题 夏の林檎
 % 出处 https://github.com/zytx121/je/issues/0670
 % 歌曲信息: 专辑 杀人考察（后） · 作词 奈须きのこ,梶浦由记 · 作曲 奈须きのこ,梶浦由记 · 编曲 梶浦由记 · 歌手 Kalafin
 title=夏の林檎
-tag=
-usertag=
-tagroute=
 artist=Kalafin
 album=杀人考察（后）
 lyricist=奈须きのこ,梶浦由记
@@ -74,5 +70,3 @@ source=je-0670
 1 2 3 6 5 3 4 5 4 3 4 3 2 3 3
 1 2 3 6 5 3 4 5 4 3 2 3 4 5 3
 2 1 ,7 ,6 ,7 1 2 ,7 ,5 ,6 ,6
-%---
-%END

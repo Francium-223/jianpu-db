@@ -1,18 +1,14 @@
-%CRIMSON_LOVERS__je-0520.txt
 %标题 CRIMSON_LOVERS
 % 出处 https://github.com/zytx121/je/issues/0520
 % 歌曲信息: 专辑 THE IDOLM@STER MASTER PRIMAL ROCKIN' RED · 作词 只野菜摘 · 作曲 広川恵一(MONACA) · 编曲 広川恵一(MONACA) · 歌手 天海春香、如月千早
 title=CRIMSON_LOVERS
-tag=
-usertag=
-tagroute=
-artist=天海春香,如月千早
+artist=天海春香、如月千早
 album=THE IDOLM@STER MASTER PRIMAL ROCKIN' RED
 lyricist=只野菜摘
 composer=広川恵一(MONACA)
 arranger=広川恵一(MONACA)
 copyright=作词 只野菜摘 / 作曲 広川恵一(MONACA) / 编曲 広川恵一(MONACA)
-transcriber=桥居
+transcriber=GlacierStudioQ
 status=bare-numbers
 source=je-0520
 %--
@@ -55,5 +51,3 @@ source=je-0520
 7 7 7 7 7 7 7 7 7 7 7 7 7 3
 7 7 7 7 7 7 7 7 7 7 6 6 6 3 7 6
 3 7 6 3 7 6 3 7 6 3 7 6 3
-%---
-%END

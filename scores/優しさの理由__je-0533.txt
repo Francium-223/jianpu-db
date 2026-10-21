@@ -1,18 +1,14 @@
-%優しさの理由__je-0533.txt
 %标题 優しさの理由
 % 出处 https://github.com/zytx121/je/issues/0533
 % 歌曲信息: 专辑 《优しさの理由》 · 作词 こだまさおり · 作曲 宫崎 诚 · 编曲 宫崎 诚 · 歌手 ChouCho
 title=優しさの理由
-tag=
-usertag=
-tagroute=
 artist=ChouCho
 album=优しさの理由
 lyricist=こだまさおり
 composer=宫崎 诚
 arranger=宫崎 诚
 copyright=作词 こだまさおり / 作曲 宫崎 诚 / 编曲 宫崎 诚
-transcriber=freedom54
+transcriber=zytx121
 status=bare-numbers
 source=je-0533
 %--
@@ -45,5 +41,3 @@ source=je-0533
 6 5 4 4 3 4
 2 3 4 6 5 4 5 6 7' 4 4
 6 5 4 4 3 4
-%---
-%END

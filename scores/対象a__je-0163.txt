@@ -1,17 +1,14 @@
-%対象a__je-0163.txt
 %标题 対象a
 % 出处 https://github.com/zytx121/je/issues/0163
 % 歌曲信息: 专辑 TVアニメーション ひぐらしのなく頃に解」サウンドトラック Vol.2 · 作词 interface · 作曲 bermei.inazawa · 编曲 bermei.inazawa · 歌手 Annabel(anNina)
 title=対象a
-tag=
-usertag=
-tagroute=
 artist=Annabel(anNina)
 album=TVアニメーション ひぐらしのなく頃に解」サウンドトラック Vol.2
 lyricist=interface
 composer=bermei.inazawa
 arranger=bermei.inazawa
 copyright=作词 interface / 作曲 bermei.inazawa / 编曲 bermei.inazawa
+transcriber=zytx121
 status=bare-numbers
 source=je-0163
 %--
@@ -27,5 +24,3 @@ source=je-0163
 3 2 3 1 2 3 1 ,6 3 2 2 1 2 3
 ,6 6 6 6 7 5 5 6 3 2 3 1 2 3
 6 5 1 2 3 ,5 1 ,7 ,6
-%---
-%END

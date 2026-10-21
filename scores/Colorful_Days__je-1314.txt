@@ -1,11 +1,7 @@
-%Colorful_Days__je-1314.txt
 %标题 Colorful_Days
 % 出处 https://github.com/zytx121/je/issues/1314
 % 歌曲信息: 作词 中村惠 · 作曲 佐佐木宏人 · 编曲 佐佐木宏人 · 歌手 765PRO ALLSTARS
 title=Colorful_Days
-tag=
-usertag=
-tagroute=
 artist=765PRO ALLSTARS
 lyricist=中村惠
 composer=佐佐木宏人
@@ -32,5 +28,3 @@ source=je-1314
 5 6 5 1 2 3 1
 ,6 ,6 ,6 4 3 2 1 1
 ,,#6
-%---
-%END

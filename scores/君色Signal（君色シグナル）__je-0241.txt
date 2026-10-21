@@ -1,15 +1,12 @@
-%君色Signal（君色シグナル）__je-0241.txt
 %标题 君色Signal（君色シグナル）
 % 出处 https://github.com/zytx121/je/issues/0241
 % 歌曲信息: 作曲 増谷贤 · 编曲 増谷贤 · 歌手 春奈露娜
 title=君色Signal（君色シグナル）
-tag=
-usertag=
-tagroute=
 artist=春奈露娜
 composer=増谷贤
 arranger=増谷贤
 copyright=作曲 増谷贤 / 编曲 増谷贤
+transcriber=zytx121
 status=bare-numbers
 source=je-0241
 %--
@@ -49,5 +46,3 @@ source=je-0241
 ,7 ,7 1 2 4 3 1 4 3 1 1 ,6 ,5 5 6 5 4 3 4 5
 6 4 3 4 3 2 3 4 5 3 2 3
 ,6 1 3 2 2 #1 2 ,6 1 3 2 3 4 2 1 ,7 1 2 2 1 1
-%---
-%END

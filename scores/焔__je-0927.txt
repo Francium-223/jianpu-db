@@ -1,11 +1,7 @@
-%焔__je-0927.txt
 %标题 焔
 % 出处 https://github.com/zytx121/je/issues/0927
 % 歌曲信息: 专辑 Roman · 作词 Revo · 作曲 Revo · 编曲 未知 · 歌手 Sound Horizon
 title=焔
-tag=
-usertag=
-tagroute=
 artist=Sound Horizon
 album=Roman
 lyricist=Revo
@@ -68,5 +64,3 @@ source=je-0927
 ,6 3 2 5 4 ,6 3 2 ,7 2 4 #5
 ,6 3 2 5 4 ,6 3 2 1 2 ,7 ,5
 ,6 3 2 5 4 2 1 ,7 ,6
-%---
-%END

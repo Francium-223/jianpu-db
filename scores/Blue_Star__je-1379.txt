@@ -1,11 +1,7 @@
-%Blue_Star__je-1379.txt
 %标题 Blue_Star
 % 出处 https://github.com/zytx121/je/issues/1379
 % 歌曲信息: 作词 松原 さらり · 作曲 矢田亨 · 编曲 玉井健二/飛内将大 · 歌手 栞菜智世
 title=Blue_Star
-tag=
-usertag=
-tagroute=
 artist=栞菜智世
 lyricist=松原 さらり
 composer=矢田亨
@@ -43,5 +39,3 @@ source=je-1379
 6 3'
 2' 2' 7 1' 2' 2' 3' 1'
 6 7 1' 1' 2' 7 5 3 5 6
-%---
-%END

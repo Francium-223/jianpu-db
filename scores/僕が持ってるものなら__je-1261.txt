@@ -1,11 +1,7 @@
-%僕が持ってるものなら__je-1261.txt
 %标题 僕が持ってるものなら
 % 出处 https://github.com/zytx121/je/issues/1261
 % 歌曲信息: 作词 秋元康 · 作曲 OzaShin · 歌手 22/7
 title=僕が持ってるものなら
-tag=
-usertag=
-tagroute=
 artist=22/7
 lyricist=秋元康
 composer=OzaShin
@@ -65,5 +61,3 @@ source=je-1261
 2 3 4 3 ,6 ,#6 6 5 4 3 1 2 6 2 1 1 #1 #1 2 3 4
 2 3 4 3 ,6 ,#6 6 5 1' 5 6 5 4 3 2
 2 1 3 3 2 2
-%---
-%END

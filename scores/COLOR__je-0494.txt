@@ -1,18 +1,14 @@
-%COLOR__je-0494.txt
 %标题 COLOR
 % 出处 https://github.com/zytx121/je/issues/0494
 % 歌曲信息: 专辑 COLOR / 君を守りたい · 作词 A.I. · 作曲 toku · 编曲 toku · 歌手 MARiA
 title=COLOR
-tag=
-usertag=
-tagroute=
 artist=MARiA
 album=COLOR / 君を守りたい
 lyricist=A.I.
 composer=toku
 arranger=toku
 copyright=作词 A.I. / 作曲 toku / 编曲 toku
-transcriber=zgyharp1
+transcriber=moomiji
 status=bare-numbers
 source=je-0494
 %--
@@ -39,5 +35,3 @@ source=je-0494
 5 4 5 6 #6 6 4 5 6 5 6 1' 5 4 4 5 4 4 6 5 4 3 4 5 4 4 1 4
 1 6 #6 6 4 5 6 5 6 1' #1' 6 5 3 5 4 4 6 5 4 3 4 5 4 5 6 4
 6 5 4 6 5 4 3 4 6 5 4 6 5 6 1' 4
-%---
-%END

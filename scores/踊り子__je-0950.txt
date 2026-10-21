@@ -1,12 +1,8 @@
-%踊り子__je-0950.txt
 %标题 踊り子
 % 出处 https://github.com/zytx121/je/issues/0950
 % 歌曲信息: 专辑 未知 · 作词 村下孝蔵 · 作曲 村下孝蔵 · 编曲 未知 · 歌手 早见沙织，野水伊织
 title=踊り子
-tag=
-usertag=
-tagroute=
-artist=早见沙织,野水伊织
+artist=早见沙织，野水伊织
 lyricist=村下孝蔵
 composer=村下孝蔵
 copyright=作词 村下孝蔵 / 作曲 村下孝蔵 / 编曲 未知
@@ -44,5 +40,3 @@ source=je-0950
 4 5 6 5 2 5 6 7 5 3
 3 2 1 ,7 2 1 ,7 1 ,6
 #1
-%---
-%END

@@ -1,11 +1,7 @@
-%君だけの旅路__je-1113.txt
 %标题 君だけの旅路
 % 出处 https://github.com/zytx121/je/issues/1113
 % 歌曲信息: 专辑 Suara LIVE 2010〜 歌始め〜 · 作词 須谷尚子 · 作曲 衣笠道雄 · 歌手 Suara
 title=君だけの旅路
-tag=
-usertag=
-tagroute=
 artist=Suara
 album=Suara LIVE 2010〜 歌始め〜
 lyricist=須谷尚子
@@ -53,5 +49,3 @@ source=je-1113
 ,6 2 4 3 1 2 3 1 2 ,6
 4 5 6 2 2 4 5 6 2 3 1 2
 4 5 6 2 2 4 5 6 2 3 1 2
-%---
-%END

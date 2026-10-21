@@ -1,13 +1,9 @@
-%Believe_Me__je-0484.txt
 %标题 Believe_Me
 % 出处 https://github.com/zytx121/je/issues/0484
 % 歌曲信息: 歌手 阿保剛
 title=Believe_Me
-tag=
-usertag=
-tagroute=
 artist=阿保剛
-transcriber=张大力
+transcriber=zytx121
 status=bare-numbers
 source=je-0484
 %--
@@ -21,5 +17,3 @@ source=je-0484
 6 3 6 3 6 7 3 7 3 7 1' 1' 2' 1' 7 7 5' 3'
 6 3 6 3 6 7 1' 7 3 3 7 1' 2' 3' 1' 7 5 6 7 6
 6 2' 5 3 4 6 #5 3
-%---
-%END

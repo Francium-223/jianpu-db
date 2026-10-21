@@ -1,17 +1,14 @@
-%Anemone_heart__je-0089.txt
 %标题 Anemone_heart
 % 出处 https://github.com/zytx121/je/issues/0089
 % 歌曲信息: 专辑 μ's_オリジナルソングCD · 作词 畑_亜貴 · 作曲 高田暁 · 编曲 高田暁 · 歌手 園田海未/南ことり
 title=Anemone_heart
-tag=
-usertag=
-tagroute=
 artist=園田海未/南ことり
 album=μ's_オリジナルソングCD
 lyricist=畑_亜貴
 composer=高田暁
 arranger=高田暁
 copyright=作词 畑_亜貴 / 作曲 高田暁 / 编曲 高田暁
+transcriber=zytx121
 status=bare-numbers
 source=je-0089
 %--
@@ -69,5 +66,3 @@ source=je-0089
 3 3 3 2 1 ,7
 3 3 3 3 3 3 5 3
 3 3 3 2 1 ,7
-%---
-%END

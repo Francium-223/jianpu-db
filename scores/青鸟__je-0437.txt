@@ -1,18 +1,14 @@
-%青鸟__je-0437.txt
 %标题 青鸟
 % 出处 https://github.com/zytx121/je/issues/0437
 % 歌曲信息: 专辑 《My song Your song》 · 作词 水野良树 · 作曲 水野良树 · 编曲 江口亮 · 歌手 生物股长
 title=青鸟
-tag=
-usertag=
-tagroute=
 artist=生物股长
 album=My song Your song
 lyricist=水野良树
 composer=水野良树
 arranger=江口亮
 copyright=作词 水野良树 / 作曲 水野良树 / 编曲 江口亮
-transcriber=FREEDOM54
+transcriber=livesun
 status=bare-numbers
 source=je-0437
 %--
@@ -79,5 +75,3 @@ source=je-0437
 2 6 5 2 6 5 1 1 2 2
 2 6 5 2 6 5 1 1 2 2
 2 6 5 2 6 5 1 1 2 2
-%---
-%END

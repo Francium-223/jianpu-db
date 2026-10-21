@@ -1,11 +1,7 @@
-%雨のち想い出__je-1239.txt
 %标题 雨のち想い出
 % 出处 https://github.com/zytx121/je/issues/1239
 % 歌曲信息: 专辑 メモオフピアノコレクション 第2集 - (秋之回忆) · 歌手 志倉千代丸
 title=雨のち想い出
-tag=
-usertag=
-tagroute=
 artist=志倉千代丸
 album=メモオフピアノコレクション 第2集 - (秋之回忆)
 transcriber=madderscientist
@@ -84,5 +80,3 @@ source=je-1239
 3 4 1' 2' 7 6 5 3 5
 3 4 1' 7 5 2 3 7 3' 2' 1'
 5 6 3' 5 6 3' 2' 3' 3'
-%---
-%END

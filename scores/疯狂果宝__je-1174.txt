@@ -1,11 +1,7 @@
-%疯狂果宝__je-1174.txt
 %标题 疯狂果宝
 % 出处 https://github.com/zytx121/je/issues/1174
 % 歌曲信息: 编曲 隋晓峰 · 歌手 陈洁丽
 title=疯狂果宝
-tag=
-usertag=
-tagroute=
 artist=陈洁丽
 lyricist=王巍
 composer=王巍
@@ -33,5 +29,3 @@ source=je-1174
 ,4 ,4 ,3 ,4 ,4 ,5 ,4 ,3 ,2
 ,1 ,1 ,1 ,#6 ,#6 ,6 ,6 ,5 ,6
 ,4 ,4 ,3 ,4 ,5 ,5 ,5 ,#6 ,2 ,#6 ,6
-%---
-%END

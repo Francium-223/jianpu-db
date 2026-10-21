@@ -1,11 +1,7 @@
-%影色舞_Silhouette_Dance__je-1388.txt
 %标题 影色舞_Silhouette_Dance
 % 出处 https://github.com/zytx121/je/issues/1388
 % 歌曲信息: 作词 藤原優樹 · 作曲 木下龍平 · 编曲 木下龍平 · 歌手 MyGO!!!!!
 title=影色舞_Silhouette_Dance
-tag=
-usertag=
-tagroute=
 artist=MyGO!!!!!
 lyricist=藤原優樹
 composer=木下龍平
@@ -75,5 +71,3 @@ source=je-1388
 1=#F
 ,7 2 3 5 ,7 2 3 5 ,7 2 3 5 3 ,7 2 3 5 3 5 6 7 #6 6 5 3
 ,7 2 3 5 ,7 2 3 5 ,7 2 3 5 3 ,7 2 3 5 3 5 6 7 #6 6 5
-%---
-%END

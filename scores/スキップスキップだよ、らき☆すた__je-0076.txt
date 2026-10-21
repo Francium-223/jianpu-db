@@ -1,12 +1,9 @@
-%スキップスキップだよ、らき☆すた__je-0076.txt
 %标题 スキップスキップだよ、らき☆すた
 % 出处 https://github.com/zytx121/je/issues/0076
 % 歌曲信息: 歌手 神前晓
 title=スキップスキップだよ、らき☆すた
-tag=
-usertag=
-tagroute=
 artist=神前晓
+transcriber=zytx121
 status=bare-numbers
 source=je-0076
 %--
@@ -30,5 +27,3 @@ source=je-0076
 5 6 #6 1 5 6 7 3' 4 #2' 4
 5 4 3 4 5 1
 4 3 4 5 1 2 1
-%---
-%END

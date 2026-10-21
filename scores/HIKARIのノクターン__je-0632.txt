@@ -1,18 +1,14 @@
-%HIKARIのノクターン__je-0632.txt
 %标题 HIKARIのノクターン
 % 出处 https://github.com/zytx121/je/issues/0632
 % 歌曲信息: 专辑 穢翼のユースティア – Original CharacterSong Series · 作词 永原さくら · 作曲 藤井亮太 · 编曲 藤井亮太 · 歌手 岡嶋 妙·種崎敦美
 title=HIKARIのノクターン
-tag=
-usertag=
-tagroute=
 artist=岡嶋 妙·種崎敦美
 album=穢翼のユースティア – Original CharacterSong Series
 lyricist=永原さくら
 composer=藤井亮太
 arranger=藤井亮太
 copyright=作词 永原さくら / 作曲 藤井亮太 / 编曲 藤井亮太
-transcriber=纳兰鸟儿
+transcriber=zytx121
 status=bare-numbers
 source=je-0632
 %--
@@ -51,5 +47,3 @@ source=je-0632
 ,6 4 3 1 ,5 ,6 ,6 4 3 1 ,5 ,6
 ,6 4 3 4 5 4 4 3 3 4 4
 1' #6 5 6
-%---
-%END

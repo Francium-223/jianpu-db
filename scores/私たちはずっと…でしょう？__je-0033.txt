@@ -1,16 +1,13 @@
-%私たちはずっと…でしょう？__je-0033.txt
 %标题 私たちはずっと…でしょう？
 % 出处 https://github.com/zytx121/je/issues/0033
 % 歌曲信息: 作词 畑亚贵 · 作曲 佐佐木宏人 · 编曲 佐佐木宏人 · 歌手 765PRO ALLSTARS
 title=私たちはずっと…でしょう？
-tag=
-usertag=
-tagroute=
 artist=765PRO ALLSTARS
 lyricist=畑亚贵
 composer=佐佐木宏人
 arranger=佐佐木宏人
 copyright=作词 畑亚贵 / 作曲 佐佐木宏人 / 编曲 佐佐木宏人
+transcriber=zytx121
 status=bare-numbers
 source=je-0033
 %--
@@ -43,5 +40,3 @@ source=je-0033
 4 4 4 3 4 5 6 #6 6 5
 1=E
 3 3 3 2 3 4 3 2 1
-%---
-%END

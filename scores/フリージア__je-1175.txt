@@ -1,11 +1,7 @@
-%フリージア__je-1175.txt
 %标题 フリージア
 % 出处 https://github.com/zytx121/je/issues/1175
 % 歌曲信息: 专辑 フリージア ＜通常盤＞ · 作词 Uru · 作曲 岩見直明 · 歌手 Uru
 title=フリージア
-tag=
-usertag=
-tagroute=
 artist=Uru
 album=フリージア ＜通常盤＞
 lyricist=Uru
@@ -67,5 +63,3 @@ source=je-1175
 1 1 6 6 6 6 5' 4' 5' 6 1
 1 1 2 4 4 6 6 #6 6 4 2 1 5 5
 1 1 1 6 4 4 3 4
-%---
-%END

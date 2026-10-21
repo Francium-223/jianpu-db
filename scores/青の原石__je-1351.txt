@@ -1,11 +1,7 @@
-%青の原石__je-1351.txt
 %标题 青の原石
 % 出处 https://github.com/zytx121/je/issues/1351
 % 歌曲信息: 专辑 青の原石 · 作词 40mP · 作曲 ROCK★PANDA/HIPTIP · 歌手 EverdreaM
 title=青の原石
-tag=
-usertag=
-tagroute=
 artist=EverdreaM
 album=青の原石
 lyricist=40mP
@@ -57,5 +53,3 @@ source=je-1351
 3 1' 1' 1' 7 6 5 2' 7
 3 5 3 2' 7 2' 3' 3'
 1' 2' 3' 6 6 3' 4' 2' 1' 7 5 3 3 7 6
-%---
-%END

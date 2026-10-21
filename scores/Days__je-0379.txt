@@ -1,17 +1,13 @@
-%Days__je-0379.txt
 %标题 Days
 % 出处 https://github.com/zytx121/je/issues/0379
 % 歌曲信息: 专辑 Days · 作词 Shela · 作曲 原一博 · 歌手 Shela
 title=Days
-tag=
-usertag=
-tagroute=
 artist=Shela
 album=Days
 lyricist=Shela
 composer=原一博
 copyright=作词 Shela / 作曲 原一博
-transcriber=市川美識
+transcriber=moomiji
 status=bare-numbers
 source=je-0379
 %--
@@ -37,5 +33,3 @@ source=je-0379
 4 4 3 2 2 3 3 3 2 1 ,6 ,7 1 1 1 2 3 3 2 2 1 1
 ,5 1 2 3 4 3 2 1 ,5 1 2 3 4 3 2 1 ,6 1 2 3 4 3 2 2 3 3
 4 4 3 2 2 3 3 3 2 1 ,6 ,7 1 1 1 2 3 3 2 2 1 1
-%---
-%END

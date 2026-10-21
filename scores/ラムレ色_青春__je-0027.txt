@@ -1,16 +1,13 @@
-%ラムレ色_青春__je-0027.txt
 %标题 ラムレ色_青春
 % 出处 https://github.com/zytx121/je/issues/0027
 % 歌曲信息: 作词 NBGI(モモキエイジ) · 作曲 田中秀和(MONACA) · 编曲 田中秀和(MONACA) · 歌手 765PRO ALLSTARTS
 title=ラムレ色_青春
-tag=
-usertag=
-tagroute=
 artist=765PRO ALLSTARTS
 lyricist=NBGI(モモキエイジ)
 composer=田中秀和(MONACA)
 arranger=田中秀和(MONACA)
 copyright=作词 NBGI(モモキエイジ) / 作曲 田中秀和(MONACA) / 编曲 田中秀和(MONACA)
+transcriber=zytx121
 status=bare-numbers
 source=je-0027
 %--
@@ -45,5 +42,3 @@ source=je-0027
 ,5 1 4 3 3 2 3
 ,#5 1 4 3 3 2 6 5 3
 4 3 1 ,6 5 6 3 2 1
-%---
-%END

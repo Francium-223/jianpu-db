@@ -1,16 +1,12 @@
-%period__je-0615.txt
 %标题 period
 % 出处 https://github.com/zytx121/je/issues/0615
 % 歌曲信息: 专辑 未知 · 作词 川畑要 · 作曲 Peter Kvint · 编曲 未知 · 歌手 Chemistry
 title=period
-tag=
-usertag=
-tagroute=
 artist=Chemistry
 lyricist=川畑要
 composer=Peter Kvint
 copyright=作词 川畑要 / 作曲 Peter Kvint / 编曲 未知
-transcriber=gundamV
+transcriber=zytx121
 status=bare-numbers
 source=je-0615
 %--
@@ -54,5 +50,3 @@ source=je-0615
 2 4 6 6 #6 6 5
 4 3 2 6 6 5 5 4 3 4 3 2
 4 3 2 6 6 5 5 4 3 4 3 2
-%---
-%END

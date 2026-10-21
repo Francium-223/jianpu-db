@@ -1,17 +1,13 @@
-%逆浪千秋__je-0502.txt
 %标题 逆浪千秋
 % 出处 https://github.com/zytx121/je/issues/0502
 % 歌曲信息: 作词 St&四界 · 作曲 乌龟Sui · 编曲 Saikuro feat.海鲜面 · 歌手 言和
 title=逆浪千秋
-tag=
-usertag=
-tagroute=
 artist=言和
 lyricist=St&四界
 composer=乌龟Sui
 arranger=Saikuro feat.海鲜面
 copyright=作词 St&四界 / 作曲 乌龟Sui / 编曲 Saikuro feat.海鲜面
-transcriber=37872307
+transcriber=moomiji
 status=bare-numbers
 source=je-0502
 %--
@@ -44,5 +40,3 @@ source=je-0502
 2 4 1' 6 5 5 2' 6 5
 2 4 5 4 5 4 5 4 5 6
 6 5 1' 2' 3' 4' 6'
-%---
-%END

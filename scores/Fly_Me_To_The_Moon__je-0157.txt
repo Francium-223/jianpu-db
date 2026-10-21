@@ -1,17 +1,14 @@
-%Fly_Me_To_The_Moon__je-0157.txt
 %标题 Fly_Me_To_The_Moon
 % 出处 https://github.com/zytx121/je/issues/0157
 % 歌曲信息: 专辑 Die große Ballroom & Tanzsport Serie: Langsamer Walzer · 作词 Bart Howard · 作曲 Bart Howard · 编曲 Bart Howard and Frank Sinatra · 歌手 101 Strings Orchestra
 title=Fly_Me_To_The_Moon
-tag=
-usertag=
-tagroute=
 artist=101 Strings Orchestra
 album=Die große Ballroom & Tanzsport Serie: Langsamer Walzer
 lyricist=Bart Howard
 composer=Bart Howard
 arranger=Bart Howard and Frank Sinatra
 copyright=作词 Bart Howard / 作曲 Bart Howard / 编曲 Bart Howard and Frank Sinatra
+transcriber=zytx121
 status=bare-numbers
 source=je-0157
 %--
@@ -28,5 +25,3 @@ source=je-0157
 6 5 4 3 2 3 4 6 #5 4 3 2 1
 #1 2 6 6 1' 7 3'
 3' 3' 1' 1' 1' 2' 1'
-%---
-%END

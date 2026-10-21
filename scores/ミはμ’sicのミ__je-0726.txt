@@ -1,11 +1,7 @@
-%ミはμ’sicのミ__je-0726.txt
 %标题 ミはμ’sicのミ
 % 出处 https://github.com/zytx121/je/issues/0726
 % 歌曲信息: 专辑 ミはμ’sicのミ · 作词 畑 亜貴 · 作曲 高田暁 · 编曲 高田暁 · 歌手 μ's
 title=ミはμ’sicのミ
-tag=
-usertag=
-tagroute=
 artist=μ's
 album=ミはμ’sicのミ
 lyricist=畑 亜貴
@@ -83,5 +79,3 @@ source=je-0726
 3 4 5 5 5 5 5 3 5 5 4 3 3 4 3 3 3 6
 6 3 2 3 1 ,5 1 2 3 1 ,5 1 2 5 4 3 1
 6 5 2 2 2 3 2 1
-%---
-%END

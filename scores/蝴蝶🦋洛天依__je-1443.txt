@@ -1,11 +1,7 @@
-%蝴蝶🦋洛天依__je-1443.txt
 %标题 蝴蝶🦋洛天依
 % 出处 https://github.com/zytx121/je/issues/1443
 % 歌曲信息: 作词 温莨 · 作曲 翟子千 · 歌手 洛天依
 title=蝴蝶🦋洛天依
-tag=
-usertag=
-tagroute=
 artist=洛天依
 lyricist=温莨
 composer=翟子千
@@ -50,5 +46,3 @@ source=je-1443
 2 2 2 2 2 2 2 2 2 ,6 ,5
 2 2 2 2 2 2 2 2 2 ,6 ,5
 ,7 ,6 ,7 ,6 ,7 ,6 ,7 ,6 ,7 ,6 ,5
-%---
-%END

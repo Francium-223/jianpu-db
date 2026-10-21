@@ -1,18 +1,14 @@
-%Buds_Crown__je-0636.txt
 %标题 Buds_Crown
 % 出处 https://github.com/zytx121/je/issues/0636
 % 歌曲信息: 专辑 穢翼のユースティア – Original CharacterSong Series · 作词 永原さくら · 作曲 中島 岬 · 编曲 中島 岬 · 歌手 中村繪里子
 title=Buds_Crown
-tag=
-usertag=
-tagroute=
 artist=中村繪里子
 album=穢翼のユースティア – Original CharacterSong Series
 lyricist=永原さくら
 composer=中島 岬
 arranger=中島 岬
 copyright=作词 永原さくら / 作曲 中島 岬 / 编曲 中島 岬
-transcriber=纳兰鸟儿
+transcriber=zytx121
 status=bare-numbers
 source=je-0636
 %--
@@ -54,5 +50,3 @@ source=je-0636
 1=D
 3 4 5 5 3 #6 6 5 4 3 4 2 3 4 4 ,7 4 3 2 1 ,7 1
 2 4 6 5 4 4 3 4 4 5 6 4 5 6 #4 5 5 #5 #5 6
-%---
-%END

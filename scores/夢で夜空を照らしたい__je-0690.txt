@@ -1,11 +1,7 @@
-%夢で夜空を照らしたい__je-0690.txt
 %标题 夢で夜空を照らしたい
 % 出处 https://github.com/zytx121/je/issues/0690
 % 歌曲信息: 专辑 ‎夢で夜空を照らしたい / 未熟DREAMER · 作词 畑亚贵 · 作曲 光増基 · 编曲 EFFY · 歌手 Aqours
 title=夢で夜空を照らしたい
-tag=
-usertag=
-tagroute=
 artist=Aqours
 album=‎夢で夜空を照らしたい / 未熟DREAMER
 lyricist=畑亚贵
@@ -63,5 +59,3 @@ source=je-0690
 3 4 5 5 5 5 6 6 5 1' 7 1'
 1' 7 6 5 1 5 1 5 4 3 1 2 1
 1' 7 6 5 1 2 1 5 1' 7 6 5
-%---
-%END

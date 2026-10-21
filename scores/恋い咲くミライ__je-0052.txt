@@ -1,10 +1,7 @@
-%恋い咲くミライ__je-0052.txt
 %标题 恋い咲くミライ
 % 出处 https://github.com/zytx121/je/issues/0052
 title=恋い咲くミライ
-tag=
-usertag=
-tagroute=
+transcriber=zytx121
 status=bare-numbers
 source=je-0052
 %--
@@ -22,5 +19,3 @@ source=je-0052
 1 2 3 3 2 3 5 2 2 1 ,7 1 1 ,7 1 2 6 5 3
 1 2 3 2 3 5 6 7 1' 7 6 4 ,6 ,7 1 2 1
 4 ,6 ,7 1 2 1
-%---
-%END

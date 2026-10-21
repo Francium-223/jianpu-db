@@ -1,16 +1,13 @@
-%牵丝戏__je-0218.txt
 %标题 牵丝戏
 % 出处 https://github.com/zytx121/je/issues/0218
 % 歌曲信息: 作词 Vagary · 作曲 灰原穷 · 编曲 灰原穷 · 歌手 银临，Aki阿杰
 title=牵丝戏
-tag=
-usertag=
-tagroute=
-artist=银临,Aki阿杰
+artist=银临，Aki阿杰
 lyricist=Vagary
 composer=灰原穷
 arranger=灰原穷
 copyright=作词 Vagary / 作曲 灰原穷 / 编曲 灰原穷
+transcriber=zytx121
 status=bare-numbers
 source=je-0218
 %--
@@ -36,5 +33,3 @@ source=je-0218
 2 4 5 6 2 5 6 2 1 2
 ,6 1 2 1 ,6 1 ,6 1 1 ,6 ,5 ,6 ,6 1 2 4 ,6 1 2 4 5 6
 ,6 1 2 4 ,6 1 1 ,6 1 ,6 1 2 2 2 1 ,6 2 1 ,6 ,5 ,6
-%---
-%END

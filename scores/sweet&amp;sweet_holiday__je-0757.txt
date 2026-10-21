@@ -1,11 +1,7 @@
-%sweet&amp;sweet_holiday__je-0757.txt
 %标题 sweet&amp;sweet_holiday
 % 出处 https://github.com/zytx121/je/issues/0757
 % 歌曲信息: 专辑 Love marginal · 作词 畑 亜貴 · 作曲 山口朗彦 · 编曲 山口朗彦 · 歌手 Printemps
 title=sweet&amp;sweet_holiday
-tag=
-usertag=
-tagroute=
 artist=Printemps
 album=Love marginal
 lyricist=畑 亜貴
@@ -72,5 +68,3 @@ source=je-0757
 1 2 3 3 2 1 2 3 5 3 5 3
 1 2 3 3 2 1 2 1 2 3
 1 ,7 1 1 ,7 1 1 ,7 1 ,7 1 ,7 1
-%---
-%END

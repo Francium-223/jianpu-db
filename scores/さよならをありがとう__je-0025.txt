@@ -1,16 +1,13 @@
-%さよならをありがとう__je-0025.txt
 %标题 さよならをありがとう
 % 出处 https://github.com/zytx121/je/issues/0025
 % 歌曲信息: 作词 橋本由香利 · 作曲 橋本由香利 · 编曲 橋本由香利 · 歌手 天海春香
 title=さよならをありがとう
-tag=
-usertag=
-tagroute=
 artist=天海春香
 lyricist=橋本由香利
 composer=橋本由香利
 arranger=橋本由香利
 copyright=作词 橋本由香利 / 作曲 橋本由香利 / 编曲 橋本由香利
+transcriber=zytx121
 status=bare-numbers
 source=je-0025
 %--
@@ -41,5 +38,3 @@ source=je-0025
 1 1 2 4 3 #5 6 5
 1 2 6 1 1 5 4 3 5 3 1
 ,6 ,7 1 2 5 4 3 4 2 3
-%---
-%END

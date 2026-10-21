@@ -1,17 +1,14 @@
-%夜空はなんでも知ってるの？__je-0099.txt
 %标题 夜空はなんでも知ってるの？
 % 出处 https://github.com/zytx121/je/issues/0099
 % 歌曲信息: 专辑 元気全開DAY！DAY！DAY！ · 作词 畑 亜貴 · 作曲 Kon k · 编曲 Kon k · 歌手 CYaRon!
 title=夜空はなんでも知ってるの？
-tag=
-usertag=
-tagroute=
 artist=CYaRon!
 album=元気全開DAY！DAY！DAY！
 lyricist=畑 亜貴
 composer=Kon k
 arranger=Kon k
 copyright=作词 畑 亜貴 / 作曲 Kon k / 编曲 Kon k
+transcriber=zytx121
 status=bare-numbers
 source=je-0099
 %--
@@ -70,5 +67,3 @@ source=je-0099
 6 5 6 5 1' 4
 2 5 6 6 2 4 2 5 6 6
 6 5 4 4 4 3 4 4
-%---
-%END

@@ -1,11 +1,7 @@
-%Christina_I__je-1148.txt
 %标题 Christina_I
 % 出处 https://github.com/zytx121/je/issues/1148
 % 歌曲信息: 专辑 STEINS;GATE サウンドトラックⅡ「Event Horizon」 · 作曲 阿保剛 · 歌手 阿保剛
 title=Christina_I
-tag=
-usertag=
-tagroute=
 artist=阿保剛
 album=STEINS;GATE サウンドトラックⅡ「Event Horizon」
 composer=阿保剛
@@ -37,5 +33,3 @@ source=je-1148
 1=bE
 6 4 2 6 4 2 6 4 2 6 4 2
 7 5 3 7 5 3 7 5 3 7 1' 2' 3'
-%---
-%END

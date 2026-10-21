@@ -1,11 +1,7 @@
-%お婆さんが闻かせてくれた昔の话__je-0864.txt
 %标题 お婆さんが闻かせてくれた昔の话
 % 出处 https://github.com/zytx121/je/issues/0864
 % 歌曲信息: 专辑 未知 · 作词 未知 · 作曲 未知 · 编曲 未知 · 歌手 未知
 title=お婆さんが闻かせてくれた昔の话
-tag=
-usertag=
-tagroute=
 copyright=作词 未知 / 作曲 未知 / 编曲 未知
 transcriber=zytx121
 status=bare-numbers
@@ -77,5 +73,3 @@ source=je-0864
 2 1 ,7 1 5 6 3 2
 3 2 ,6 ,5 ,5 3 2 1 5 5
 2 1 ,7 1 5 6 7 6
-%---
-%END

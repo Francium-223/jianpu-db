@@ -1,17 +1,13 @@
-%get_over__je-0855.txt
 %标题 get_over
 % 出处 https://github.com/zytx121/je/issues/0855
 % 歌曲信息: 专辑 Process · 作词 松室麻衣 · 作曲 BOUNCEBACK · 编曲 矢崎俊辅，中尾昌史 · 歌手 Dream
 title=get_over
-tag=
-usertag=
-tagroute=
 artist=Dream
 album=Process
 lyricist=松室麻衣
 composer=BOUNCEBACK
-arranger=矢崎俊辅,中尾昌史
-copyright=作词 松室麻衣 / 作曲 BOUNCEBACK / 编曲 矢崎俊辅,中尾昌史
+arranger=矢崎俊辅，中尾昌史
+copyright=作词 松室麻衣 / 作曲 BOUNCEBACK / 编曲 矢崎俊辅，中尾昌史
 transcriber=zytx121
 status=bare-numbers
 source=je-0855
@@ -47,5 +43,3 @@ source=je-0855
 4 5 6 1' 5 4 4 5 5 5 6 1'
 4 5 6 1' 5 4 5 6 5 4 3 2
 3 4 5 6 2 6 5 4 5 6 6 2 3 4 5 4 3 1 2
-%---
-%END

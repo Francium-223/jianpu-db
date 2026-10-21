@@ -1,18 +1,14 @@
-%ミレナリオ__je-0424.txt
 %标题 ミレナリオ
 % 出处 https://github.com/zytx121/je/issues/0424
 % 歌曲信息: 专辑 ミレナリオ · 作词 zopp · 作曲 Shihori · 编曲 佐佐木裕 · 歌手 ELISA
 title=ミレナリオ
-tag=
-usertag=
-tagroute=
 artist=ELISA
 album=ミレナリオ
 lyricist=zopp
 composer=Shihori
 arranger=佐佐木裕
 copyright=作词 zopp / 作曲 Shihori / 编曲 佐佐木裕
-transcriber=暗月灬朦胧
+transcriber=moomiji
 status=bare-numbers
 source=je-0424
 %--
@@ -30,5 +26,3 @@ source=je-0424
 7 7 6 5 5 7' 7' 6' 5' 5'
 7 7 7 6 5 5 7' 7' 7' 6' 5' 5'
 7 7 6 5 5 2 2' 7 6 5 5
-%---
-%END

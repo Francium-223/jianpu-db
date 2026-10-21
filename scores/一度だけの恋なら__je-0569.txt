@@ -1,18 +1,14 @@
-%一度だけの恋なら__je-0569.txt
 %标题 一度だけの恋なら
 % 出处 https://github.com/zytx121/je/issues/0569
 % 歌曲信息: 专辑 一度だけの恋なら · 作词 唐沢美帆・加藤裕介 · 作曲 加藤裕介 · 编曲 加藤裕介 · 歌手 ワルキューレ
 title=一度だけの恋なら
-tag=
-usertag=
-tagroute=
 artist=ワルキューレ
 album=一度だけの恋なら
 lyricist=唐沢美帆・加藤裕介
 composer=加藤裕介
 arranger=加藤裕介
 copyright=作词 唐沢美帆・加藤裕介 / 作曲 加藤裕介 / 编曲 加藤裕介
-transcriber=霜落xss
+transcriber=zytx121
 status=bare-numbers
 source=je-0569
 %--
@@ -52,5 +48,3 @@ source=je-0569
 ,6 2 3 4 3 4 5 3 4 3 1 1 ,6 2 1 2 4 1 2 1
 1 2 3 4 3 2 1 4 4 3 2 1 4 3 4 5 5
 4 3 2 2 3 4 4 5 3 2 1 2
-%---
-%END

@@ -1,11 +1,7 @@
-%Magia__je-0806.txt
 %标题 Magia
 % 出处 https://github.com/zytx121/je/issues/0806
 % 歌曲信息: 专辑 Magia · 作词 梶浦由记 · 作曲 梶浦由记 · 编曲 梶浦由记 · 歌手 Kalafina
 title=Magia
-tag=
-usertag=
-tagroute=
 artist=Kalafina
 album=Magia
 lyricist=梶浦由记
@@ -46,5 +42,3 @@ source=je-0806
 5 3 4 5 4 6 2'
 2 5 6 5 4 4 5 4 3 1 1 1 1 2
 2 5 6 5 4 4 5 4 3 1 1 4 3 1 1 ,6 ,6
-%---
-%END

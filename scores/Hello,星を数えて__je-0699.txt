@@ -1,11 +1,7 @@
-%Hello,星を数えて__je-0699.txt
 %标题 Hello,星を数えて
 % 出处 https://github.com/zytx121/je/issues/0699
 % 歌曲信息: 专辑 Angelic Angel／Hello,星を数えて · 作词 畑 亜貴 · 作曲 山口朗彦 · 编曲 山口朗彦 · 歌手 μ’s
 title=Hello,星を数えて
-tag=
-usertag=
-tagroute=
 artist=μ’s
 album=Angelic Angel／Hello,星を数えて
 lyricist=畑 亜貴
@@ -76,5 +72,3 @@ source=je-0699
 ,7 1 2 1 ,7 ,6 ,5
 4 3 1 2 1
 4 3 1 2 3
-%---
-%END

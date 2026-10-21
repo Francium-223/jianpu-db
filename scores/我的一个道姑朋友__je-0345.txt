@@ -1,16 +1,13 @@
-%我的一个道姑朋友__je-0345.txt
 %标题 我的一个道姑朋友
 % 出处 https://github.com/zytx121/je/issues/0345
 % 歌曲信息: 作词 陆菱纱 · 作曲 タイナカサチ · 编曲 タイナカサチ · 歌手 Lon
 title=我的一个道姑朋友
-tag=
-usertag=
-tagroute=
 artist=Lon
 lyricist=陆菱纱
 composer=タイナカサチ
 arranger=タイナカサチ
 copyright=作词 陆菱纱 / 作曲 タイナカサチ / 编曲 タイナカサチ
+transcriber=zytx121
 status=bare-numbers
 source=je-0345
 %--
@@ -49,5 +46,3 @@ source=je-0345
 2 4 5 4 3 1 2 1 2 4 5 6 1' 2'
 4' 3' 2'
 4 3 1 ,6 ,5 ,6 2 1 ,#6 ,6 ,5 ,4
-%---
-%END

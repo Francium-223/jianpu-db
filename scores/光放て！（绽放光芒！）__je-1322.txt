@@ -1,11 +1,7 @@
-%光放て！（绽放光芒！）__je-1322.txt
 %标题 光放て！（绽放光芒！）
 % 出处 https://github.com/zytx121/je/issues/1322
 % 歌曲信息: 专辑 ATRI · 作词 绀野アスタ · 作曲 松本文纪 · 编曲 松本文纪 · 歌手 柳麻美
 title=光放て！（绽放光芒！）
-tag=
-usertag=
-tagroute=
 artist=柳麻美
 album=ATRI
 lyricist=绀野アスタ
@@ -33,5 +29,3 @@ source=je-1322
 4 5 1' 6 2' 1' 7 5 7 1' 5 2 2 3
 6 7 1' 2' 1' 7 2' 1' 7 1' 5 4 4 3
 3 5 6 3 6 2' 1' 7 7 1' 5 2 4 3
-%---
-%END

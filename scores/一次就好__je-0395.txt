@@ -1,11 +1,7 @@
-%一次就好__je-0395.txt
 %标题 一次就好
 % 出处 https://github.com/zytx121/je/issues/0395
 % 歌曲信息: 专辑 夏洛特烦恼 电影原声带 · 作词 陈曦 · 作曲 董冬冬 · 编曲 董冬冬 · 歌手 杨宗纬
 title=一次就好
-tag=
-usertag=
-tagroute=
 artist=杨宗纬
 album=夏洛特烦恼 电影原声带
 lyricist=陈曦
@@ -42,5 +38,3 @@ source=je-0395
 3 1' 1' 7 7 6 5 5 3 3 5 6 5
 5 6 6 6 6 6 5 5 1 1 1 2 3
 ,5 ,5 3 2 2 2 3 4 5 2 3 ,6 2 1
-%---
-%END

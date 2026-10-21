@@ -1,11 +1,7 @@
-%君のままで__je-1284.txt
 %标题 君のままで
 % 出处 https://github.com/zytx121/je/issues/1284
 % 歌曲信息: 歌手 azusa
 title=君のままで
-tag=
-usertag=
-tagroute=
 artist=azusa
 transcriber=madderscientist
 status=bare-numbers
@@ -47,5 +43,3 @@ source=je-1284
 5 5 5 1 1 1 ,7 1 1 5 5 5 1 1 1 ,7 1 1
 ,5 4 4 4 3 1 3 3 2 1 1 ,7 1 1
 1' 7 6 7 6 5
-%---
-%END

@@ -1,16 +1,13 @@
-%MUSIC♪__je-0037.txt
 %标题 MUSIC♪
 % 出处 https://github.com/zytx121/je/issues/0037
 % 歌曲信息: 作词 yura · 作曲 NBGI（渡辺量） · 编曲 NBGI（渡辺量） · 歌手 765PRO ALLSTARS
 title=MUSIC♪
-tag=
-usertag=
-tagroute=
 artist=765PRO ALLSTARS
 lyricist=yura
 composer=NBGI（渡辺量）
 arranger=NBGI（渡辺量）
 copyright=作词 yura / 作曲 NBGI（渡辺量） / 编曲 NBGI（渡辺量）
+transcriber=zytx121
 status=bare-numbers
 source=je-0037
 %--
@@ -38,5 +35,3 @@ source=je-0037
 5 3 2 3 5 5 5 3 2 3
 5 6 5 6 5 1' 2' 5 1'
 5 5 6 1' 2' 1'
-%---
-%END

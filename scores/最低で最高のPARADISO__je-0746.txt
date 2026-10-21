@@ -1,11 +1,7 @@
-%最低で最高のPARADISO__je-0746.txt
 %标题 最低で最高のPARADISO
 % 出处 https://github.com/zytx121/je/issues/0746
 % 歌曲信息: 专辑 ラブライブ！The School Idol Movie ユニットシングル付き第3弾 · 作词 畑 亜貴 · 作曲 木村有希 · 编曲 木村有希 · 歌手 BiBi
 title=最低で最高のPARADISO
-tag=
-usertag=
-tagroute=
 artist=BiBi
 album=ラブライブ！The School Idol Movie ユニットシングル付き第3弾
 lyricist=畑 亜貴
@@ -66,5 +62,3 @@ source=je-0746
 5 5 5 6 5 4 3 2 2 1 2 1 1
 ,6 2 3 ,6 3 ,6 3 ,6 3 ,6 3 ,6 3 ,6 ,6 ,6 1 ,7
 ,6 ,6 ,6 ,6 ,5 ,6
-%---
-%END

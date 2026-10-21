@@ -1,11 +1,7 @@
-%帰るから__je-0955.txt
 %标题 帰るから
 % 出处 https://github.com/zytx121/je/issues/0955
 % 歌曲信息: 专辑 未知 · 作词 三浦诚司 · 作曲 糀谷拓土 · 编曲 水谷広実 · 歌手 blue drops
 title=帰るから
-tag=
-usertag=
-tagroute=
 artist=blue drops
 lyricist=三浦诚司
 composer=糀谷拓土
@@ -70,5 +66,3 @@ source=je-0955
 1 2 1 2 1 2 5 5 ,7 1
 1 6 3 2 1 2
 1 ,7 ,6 ,7 1 2 1 ,7 ,6 ,7 1
-%---
-%END

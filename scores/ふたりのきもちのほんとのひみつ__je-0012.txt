@@ -1,13 +1,10 @@
-%ふたりのきもちのほんとのひみつ__je-0012.txt
 %标题 ふたりのきもちのほんとのひみつ
 % 出处 https://github.com/zytx121/je/issues/0012
 % 歌曲信息: 专辑 ふたりのきもちのほんとのひみつ · 歌手 キルミーベイベー
 title=ふたりのきもちのほんとのひみつ
-tag=
-usertag=
-tagroute=
 artist=キルミーベイベー
 album=ふたりのきもちのほんとのひみつ
+transcriber=zytx121
 status=bare-numbers
 source=je-0012
 %--
@@ -25,5 +22,3 @@ source=je-0012
 2 2 4 4 2
 6 1' 5 4 6 3 2
 4 5 3 3 4 5 6
-%---
-%END

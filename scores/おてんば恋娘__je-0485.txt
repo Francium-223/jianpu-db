@@ -1,15 +1,11 @@
-%おてんば恋娘__je-0485.txt
 %标题 おてんば恋娘
 % 出处 https://github.com/zytx121/je/issues/0485
 % 歌曲信息: 专辑 東方紅魔郷 ～ the Embodiment of Scarlet Devil. · 作曲 上海アリス幻樂団
 title=おてんば恋娘
-tag=
-usertag=
-tagroute=
 album=東方紅魔郷 ～ the Embodiment of Scarlet Devil.
 composer=上海アリス幻樂団
 copyright=作曲 上海アリス幻樂団
-transcriber=深白senba
+transcriber=moomiji
 status=bare-numbers
 source=je-0485
 %--
@@ -35,5 +31,3 @@ source=je-0485
 3 4 2 ,6 4 3 1 3 3 3 2 2
 6 6 4 2 6 5 3 1 5 5 6 4
 6 6 4 2 6 1' 5 3 1' 2'
-%---
-%END

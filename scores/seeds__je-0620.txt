@@ -1,17 +1,13 @@
-%seeds__je-0620.txt
 %标题 seeds
 % 出处 https://github.com/zytx121/je/issues/0620
 % 歌曲信息: 专辑 未知 · 作词 (K)Now_NAME:eNu · 作曲 (K)Now_NAME:Shuhei Matsuki · 编曲 (K)Now_NAME:Shuhei Matsuki · 歌手 (K)Now_NAME:NIKIIE
 title=seeds
-tag=
-usertag=
-tagroute=
 artist=(K)Now_NAME:NIKIIE
 lyricist=(K)Now_NAME:eNu
 composer=(K)Now_NAME:Shuhei Matsuki
 arranger=(K)Now_NAME:Shuhei Matsuki
 copyright=作词 (K)Now_NAME:eNu / 作曲 (K)Now_NAME:Shuhei Matsuki / 编曲 (K)Now_NAME:Shuhei Matsuki
-transcriber=霜落xss
+transcriber=zytx121
 status=bare-numbers
 source=je-0620
 %--
@@ -45,5 +41,3 @@ source=je-0620
 3 2 3 4 5 1 2 1 1 2 3 4 3 1 1 2
 1 1' 7 6 5 4 3 3 2 3 4 5 1 2 1
 1 2 3 4 3 1 1 1 2 3 4 3 1 1 ,7 1
-%---
-%END

@@ -1,11 +1,7 @@
-%響音-kotone-__je-1082.txt
 %标题 響音-kotone-
 % 出处 https://github.com/zytx121/je/issues/1082
 % 歌曲信息: 专辑 天ノ弱 · 作词 mitsu · 作曲 Another Infinity · 编曲 Another Infinity · 歌手 中原龙太郎 (Ryu☆)/森永真由美 (もりなが まゆみ)
 title=響音-kotone-
-tag=
-usertag=
-tagroute=
 artist=中原龙太郎 (Ryu☆)/森永真由美 (もりなが まゆみ)
 album=天ノ弱
 lyricist=mitsu
@@ -39,5 +35,3 @@ source=je-1082
 1 1 ,5 1 2 1 2 3 4 3 4 3 4 3 1
 1 2 1 2 #4 4 3 4 3 4 5 4
 1 2 #4
-%---
-%END

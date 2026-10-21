@@ -1,16 +1,12 @@
-%唱给雅音宫羽__je-0985.txt
 %标题 唱给雅音宫羽
 % 出处 https://github.com/zytx121/je/issues/0985
 % 歌曲信息: 专辑 未知 · 作词 薇采之依 · 作曲 纯白 · 编曲 纯白，Jerrkiy · 歌手 洛天依
 title=唱给雅音宫羽
-tag=
-usertag=
-tagroute=
 artist=洛天依
 lyricist=薇采之依
 composer=纯白
-arranger=纯白,Jerrkiy
-copyright=作词 薇采之依 / 作曲 纯白 / 编曲 纯白,Jerrkiy
+arranger=纯白，Jerrkiy
+copyright=作词 薇采之依 / 作曲 纯白 / 编曲 纯白，Jerrkiy
 transcriber=zytx121
 status=bare-numbers
 source=je-0985
@@ -42,5 +38,3 @@ source=je-0985
 7 7 2' 2' 2' 3' 7 6 5 3
 3 2 7 7 5 3 5 6 5
 ,7 ,6 ,7 1 ,7 1 2 3 2 ,7 2 ,7 2 3 #4 3 2 2 ,7 ,6 ,5 ,6 ,6 ,5 ,3 ,5
-%---
-%END

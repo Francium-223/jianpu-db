@@ -1,16 +1,13 @@
-%欠けた月__je-0007.txt
 %标题 欠けた月
 % 出处 https://github.com/zytx121/je/issues/0007
 % 歌曲信息: 作词 宫脇诗音 · 作曲 ArmySlick,Emyli · 编曲 ArmySlick · 歌手 宫脇诗音
 title=欠けた月
-tag=
-usertag=
-tagroute=
 artist=宫脇诗音
 lyricist=宫脇诗音
 composer=ArmySlick,Emyli
 arranger=ArmySlick
 copyright=作词 宫脇诗音 / 作曲 ArmySlick,Emyli / 编曲 ArmySlick
+transcriber=zytx121
 status=bare-numbers
 source=je-0007
 %--
@@ -31,5 +28,3 @@ source=je-0007
 ,6 1 ,6 1 ,6 1 ,6 1 ,6 1 2 3 2
 ,5 3 3 2 ,7 1
 7 6 2 6 5 3 2' 1' 7 2'
-%---
-%END

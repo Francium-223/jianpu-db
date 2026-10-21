@@ -1,11 +1,7 @@
-%韶华未既__je-0982.txt
 %标题 韶华未既
 % 出处 https://github.com/zytx121/je/issues/0982
 % 歌曲信息: 专辑 未知 · 作词 風守miNado · 作曲 風守miNado · 编曲 風守miNado · 歌手 洛天依&乐正绫
 title=韶华未既
-tag=
-usertag=
-tagroute=
 artist=洛天依&乐正绫
 lyricist=風守miNado
 composer=風守miNado
@@ -77,5 +73,3 @@ source=je-0982
 6 5 5 5 5 5 6 7
 2
 3 5 6 6 5 6 7 5
-%---
-%END

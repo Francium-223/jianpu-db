@@ -1,18 +1,14 @@
-%いつかの手紙__je-0519.txt
 %标题 いつかの手紙
 % 出处 https://github.com/zytx121/je/issues/0519
 % 歌曲信息: 专辑 crossing field · 作词 古屋真 · 作曲 黒須克彦 · 编曲 黒須克彦 · 歌手 LiSA
 title=いつかの手紙
-tag=
-usertag=
-tagroute=
 artist=LiSA
 album=crossing field
 lyricist=古屋真
 composer=黒須克彦
 arranger=黒須克彦
 copyright=作词 古屋真 / 作曲 黒須克彦 / 编曲 黒須克彦
-transcriber=Purple_Haze
+transcriber=moomiji
 status=bare-numbers
 source=je-0519
 %--
@@ -38,5 +34,3 @@ source=je-0519
 6 7 1' 7 6 5
 5 5 #4 5 5 5 4 5 5 5 #4 5 6 7 1' 7
 5 5 #4 5 5 5 4 5 6 7 1' 7 6 5
-%---
-%END

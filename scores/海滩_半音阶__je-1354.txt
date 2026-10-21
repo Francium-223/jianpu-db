@@ -1,10 +1,6 @@
-%海滩_半音阶__je-1354.txt
 %标题 海滩_半音阶
 % 出处 https://github.com/zytx121/je/issues/1354
 title=海滩_半音阶
-tag=
-usertag=
-tagroute=
 transcriber=livesun
 status=bare-numbers
 source=je-1354
@@ -18,5 +14,3 @@ source=je-1354
 5 3 ,7 ,5 ,3 ,,6
 ,,6 ,,7 ,1 ,,4 ,,,5 ,,,7 ,,,5 ,,,,3
 ,,,,1 ,,,,,2 ,,,,,,,3 ,,,,,,,,4 ,,,,,,,,5 ,,,,,,,1 ,,,,,,,,7 ,,,,,,,1
-%---
-%END

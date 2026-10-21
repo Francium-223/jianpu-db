@@ -1,11 +1,7 @@
-%Leia__je-0991.txt
 %标题 Leia
 % 出处 https://github.com/zytx121/je/issues/0991
 % 歌曲信息: 专辑 未知 · 作词 ゆよゆっぺ · 作曲 ゆよゆっぺ · 编曲 ゆよゆっぺ · 歌手 巡音ルカ
 title=Leia
-tag=
-usertag=
-tagroute=
 artist=巡音ルカ
 lyricist=ゆよゆっぺ
 composer=ゆよゆっぺ
@@ -65,5 +61,3 @@ source=je-0991
 ,6 ,7 1 2 3 1' 7 5 2' 3'
 ,6 ,7 1 2 3 1' 7 5 2 3
 1 ,7 1 2 3 1' 7 6 4' 3' 6 4' 3'
-%---
-%END

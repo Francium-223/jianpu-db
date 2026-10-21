@@ -1,13 +1,9 @@
-%Mermaid_festa_vol._1__je-0783.txt
 %标题 Mermaid_festa_vol._1
 % 出处 https://github.com/zytx121/je/issues/0783
 % 歌曲信息: 专辑 夏色えがおで1, 2, Jump! · 作词 畑亜贵 · 作曲 俊龍 · 编曲 渡辺和紀 · 歌手 μ's
 title=Mermaid_festa_vol._1
-tag=
-usertag=
-tagroute=
 artist=μ's
-album=夏色えがおで1,2,Jump!
+album=夏色えがおで1, 2, Jump!
 lyricist=畑亜贵
 composer=俊龍
 arranger=渡辺和紀
@@ -56,5 +52,3 @@ source=je-0783
 4 2 2 2 6 5 2 3 4 2 2 2 6 5
 5 4 6 #6 6 5 4 5 6 6 5 4 5 6 6
 6 5 5 6 5 2 3 4 2 5 5 4 6 #6 6
-%---
-%END

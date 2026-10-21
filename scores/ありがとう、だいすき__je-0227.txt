@@ -1,16 +1,13 @@
-%ありがとう、だいすき__je-0227.txt
 %标题 ありがとう、だいすき
 % 出处 https://github.com/zytx121/je/issues/0227
 % 歌曲信息: 作词 畑亚贵 · 作曲 rino · 编曲 Evan&nbsp;Call · 歌手 茅原实里
 title=ありがとう、だいすき
-tag=
-usertag=
-tagroute=
 artist=茅原实里
 lyricist=畑亚贵
 composer=rino
 arranger=Evan&nbsp;Call
 copyright=作词 畑亚贵 / 作曲 rino / 编曲 Evan&nbsp;Call
+transcriber=zytx121
 status=bare-numbers
 source=je-0227
 %--
@@ -42,5 +39,3 @@ source=je-0227
 #2 2 #2 1 2 #2
 4 3 4 2 3 4 5 2
 1 2
-%---
-%END

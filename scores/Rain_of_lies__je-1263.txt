@@ -1,10 +1,6 @@
-%Rain_of_lies__je-1263.txt
 %标题 Rain_of_lies
 % 出处 https://github.com/zytx121/je/issues/1263
 title=Rain_of_lies
-tag=
-usertag=
-tagroute=
 artist=22/7
 album=何もしてあげられない (Special Edition)
 lyricist=Yasushi Akimoto
@@ -62,5 +58,3 @@ source=je-1263
 2 2 2 3 4 4 6 5 3 2 1 ,6 1 2
 2 2 3 4 4 6 5 1' 6 5 4 5 6
 6 6 #6 6 5 5 6 #6 6 6
-%---
-%END

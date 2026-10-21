@@ -1,18 +1,14 @@
-%うたかた花火__je-0463.txt
 %标题 うたかた花火
 % 出处 https://github.com/zytx121/je/issues/0463
 % 歌曲信息: 专辑 Today Is A Beautiful Day · 作词 ryo(supercell) · 作曲 ryo(supercell) · 编曲 ryo(supercell) · 歌手 nagi
 title=うたかた花火
-tag=
-usertag=
-tagroute=
 artist=nagi
 album=Today Is A Beautiful Day
 lyricist=ryo(supercell)
 composer=ryo(supercell)
 arranger=ryo(supercell)
 copyright=作词 ryo(supercell) / 作曲 ryo(supercell) / 编曲 ryo(supercell)
-transcriber=hivefnrly64
+transcriber=moomiji
 status=bare-numbers
 source=je-0463
 %--
@@ -80,5 +76,3 @@ source=je-0463
 1 5 4 3 4 2 1 ,3 ,3 ,4 ,3 ,4 1
 1 2 3 4 2 1 1
 ,3 ,3 ,4 ,3 ,4 1 1 2 3 4 2 1 1
-%---
-%END

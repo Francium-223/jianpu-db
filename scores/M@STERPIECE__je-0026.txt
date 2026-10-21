@@ -1,16 +1,13 @@
-%M@STERPIECE__je-0026.txt
 %标题 M@STERPIECE
 % 出处 https://github.com/zytx121/je/issues/0026
 % 歌曲信息: 作词 yura · 作曲 神前晓(MONACA) · 编曲 神前晓(MONACA)/高田龍一(MONACA) · 歌手 765PRO ALLSTARTS
 title=M@STERPIECE
-tag=
-usertag=
-tagroute=
 artist=765PRO ALLSTARTS
 lyricist=yura
 composer=神前晓(MONACA)
 arranger=神前晓(MONACA)/高田龍一(MONACA)
 copyright=作词 yura / 作曲 神前晓(MONACA) / 编曲 神前晓(MONACA)/高田龍一(MONACA)
+transcriber=zytx121
 status=bare-numbers
 source=je-0026
 %--
@@ -37,5 +34,3 @@ source=je-0026
 1 ,7 1 ,6 ,7 1 6 ,5 3
 4 3 1 2
 #2 2 1
-%---
-%END

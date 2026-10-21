@@ -1,16 +1,13 @@
-%Fate_of_the_world__je-0028.txt
 %标题 Fate_of_the_world
 % 出处 https://github.com/zytx121/je/issues/0028
 % 歌曲信息: 作词 NBSI(kyo) · 作曲 NBSI(kyo) · 编曲 NBSI(kyo) · 歌手 天海春香 如月千早 星井美希
 title=Fate_of_the_world
-tag=
-usertag=
-tagroute=
 artist=天海春香 如月千早 星井美希
 lyricist=NBSI(kyo)
 composer=NBSI(kyo)
 arranger=NBSI(kyo)
 copyright=作词 NBSI(kyo) / 作曲 NBSI(kyo) / 编曲 NBSI(kyo)
+transcriber=zytx121
 status=bare-numbers
 source=je-0028
 %--
@@ -30,5 +27,3 @@ source=je-0028
 1 1 ,7 1 3 2 2
 ,#5 #5 4 3 2 1
 3 3 4 ,6 ,6 1 ,7 2 2 3
-%---
-%END

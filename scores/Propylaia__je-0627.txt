@@ -1,18 +1,14 @@
-%Propylaia__je-0627.txt
 %标题 Propylaia
 % 出处 https://github.com/zytx121/je/issues/0627
 % 歌曲信息: 专辑 夢想曲 ~ Seeking Asphodelus ~ · 作词 Ceui · 作曲 小高光太郎 · 编曲 小高光太郎 · 歌手 Ceui
 title=Propylaia
-tag=
-usertag=
-tagroute=
 artist=Ceui
 album=夢想曲 ~ Seeking Asphodelus ~
 lyricist=Ceui
 composer=小高光太郎
 arranger=小高光太郎
 copyright=作词 Ceui / 作曲 小高光太郎 / 编曲 小高光太郎
-transcriber=纳兰鸟儿
+transcriber=zytx121
 status=bare-numbers
 source=je-0627
 %--
@@ -52,5 +48,3 @@ source=je-0627
 1 ,6 ,7 1 1 ,5 1 5 5 4 3 1 1 2 2
 1 1' 1' 1' 7 5 3 6 5 5 4 5 1' 1'
 1 4 3 4 4 5 1 5 6 7 1' 1'
-%---
-%END

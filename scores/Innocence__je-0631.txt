@@ -1,16 +1,12 @@
-%Innocence__je-0631.txt
 %标题 Innocence
 % 出处 https://github.com/zytx121/je/issues/0631
 % 歌曲信息: 专辑 秽翼のユースティア ORIGINAL SOUND TRACK · 作词 未知 · 作曲 スミイ酸 · 编曲 スミイ酸 · 歌手 未知
 title=Innocence
-tag=
-usertag=
-tagroute=
 album=秽翼のユースティア ORIGINAL SOUND TRACK
 composer=スミイ酸
 arranger=スミイ酸
 copyright=作词 未知 / 作曲 スミイ酸 / 编曲 スミイ酸
-transcriber=莉莉的樱花团子
+transcriber=zytx121
 status=bare-numbers
 source=je-0631
 %--
@@ -36,5 +32,3 @@ source=je-0631
 4 3 2 1 2 3 2
 6 7 1' 2' 1' 7 6 5 4 3 6 5 4 3 2
 ,6 4 3 2 1 ,7 ,6 ,6 ,7 1 ,6
-%---
-%END

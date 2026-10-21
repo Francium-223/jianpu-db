@@ -1,18 +1,14 @@
-%残酷天使的行动纲领__je-0393.txt
 %标题 残酷天使的行动纲领
 % 出处 https://github.com/zytx121/je/issues/0393
 % 歌曲信息: 专辑 BEST PIECES · 作词 及川眠子 · 作曲 佐藤英敏 · 编曲 大森俊之 · 歌手 高桥洋子
 title=残酷天使的行动纲领
-tag=
-usertag=
-tagroute=
 artist=高桥洋子
 album=BEST PIECES
 lyricist=及川眠子
 composer=佐藤英敏
 arranger=大森俊之
 copyright=作词 及川眠子 / 作曲 佐藤英敏 / 编曲 大森俊之
-transcriber=@火星猫
+transcriber=livesun
 status=bare-numbers
 source=je-0393
 %--
@@ -44,5 +40,3 @@ source=je-0393
 3 5 6 2 1 5 5 3 5 5 6
 3 2 6 ,6 ,6 3 3 2 6 5 5
 ,7 ,7 3 3 3 2 6 5 7
-%---
-%END

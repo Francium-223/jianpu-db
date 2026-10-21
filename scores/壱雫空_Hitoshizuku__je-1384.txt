@@ -1,11 +1,7 @@
-%壱雫空_Hitoshizuku__je-1384.txt
 %标题 壱雫空_Hitoshizuku
 % 出处 https://github.com/zytx121/je/issues/1384
 % 歌曲信息: 作词 藤原優樹 · 作曲 hisakuni · 编曲 hisakuni · 歌手 MyGO!!!!!
 title=壱雫空_Hitoshizuku
-tag=
-usertag=
-tagroute=
 artist=MyGO!!!!!
 lyricist=藤原優樹
 composer=hisakuni
@@ -65,5 +61,3 @@ source=je-1384
 1 6 5 1 6 5 1 1 2 3 5 3 2 3 2 1
 1 2 3 5 3 2 3 2 1 1 6 5 1 6 5
 1 6 5 3 2 3 3 5 3 2 1 ,6 1 2 1
-%---
-%END

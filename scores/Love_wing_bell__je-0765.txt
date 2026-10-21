@@ -1,11 +1,7 @@
-%Love_wing_bell__je-0765.txt
 %标题 Love_wing_bell
 % 出处 https://github.com/zytx121/je/issues/0765
 % 歌曲信息: 专辑 Love wing bell / Dancing stars on me! · 作词 畑 亜貴 · 作曲 森慎太郎 · 编曲 森慎太郎 · 歌手 μ's
 title=Love_wing_bell
-tag=
-usertag=
-tagroute=
 artist=μ's
 album=Love wing bell / Dancing stars on me!
 lyricist=畑 亜貴
@@ -71,5 +67,3 @@ source=je-0765
 3 4 5 3 4 5 1 5 5 5 6 5 4
 1 4 3 3 2 1 3 ,6
 ,6 ,7 1 2 1 ,7 ,6 ,7 1 3 1 3 1
-%---
-%END

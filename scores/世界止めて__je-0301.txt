@@ -1,17 +1,14 @@
-%世界止めて__je-0301.txt
 %标题 世界止めて
 % 出处 https://github.com/zytx121/je/issues/0301
 % 歌曲信息: 专辑 second tune~ 世界止めて ~ · 作词 竹井诗织里 · 作曲 大野爱果 · 编曲 小林哲 · 歌手 竹井诗织里
 title=世界止めて
-tag=
-usertag=
-tagroute=
 artist=竹井诗织里
 album=second tune~ 世界止めて ~
 lyricist=竹井诗织里
 composer=大野爱果
 arranger=小林哲
 copyright=作词 竹井诗织里 / 作曲 大野爱果 / 编曲 小林哲
+transcriber=zytx121
 status=bare-numbers
 source=je-0301
 %--
@@ -44,5 +41,3 @@ source=je-0301
 7 6 5
 #6 #5 5 4
 5 2 #2
-%---
-%END

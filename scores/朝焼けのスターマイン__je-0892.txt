@@ -1,11 +1,7 @@
-%朝焼けのスターマイン__je-0892.txt
 %标题 朝焼けのスターマイン
 % 出处 https://github.com/zytx121/je/issues/0892
 % 歌曲信息: 专辑 未知 · 作词 林直孝 · 作曲 石田秀登 · 编曲 Tak Miyazawa · 歌手 今井麻美
 title=朝焼けのスターマイン
-tag=
-usertag=
-tagroute=
 artist=今井麻美
 lyricist=林直孝
 composer=石田秀登
@@ -30,5 +26,3 @@ source=je-0892
 3 3 4 5 5 6 #6 6 5 4
 3 4 #6 6 5 4 5 5
 3 4 #6 6 5 4 #6 6 5 4 4
-%---
-%END

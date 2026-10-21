@@ -1,14 +1,11 @@
-%小步舞曲__je-0326.txt
 %标题 小步舞曲
 % 出处 https://github.com/zytx121/je/issues/0326
 % 歌曲信息: 作曲 巴赫 · 编曲 巴赫
 title=小步舞曲
-tag=
-usertag=
-tagroute=
 composer=巴赫
 arranger=巴赫
 copyright=作曲 巴赫 / 编曲 巴赫
+transcriber=zytx121
 status=bare-numbers
 source=je-0326
 %--
@@ -25,5 +22,3 @@ source=je-0326
 5 1 ,7 1 6 1 ,7 1 5 4 3' 2 1 ,7 1 2
 ,5 ,6 ,7 1 2 3 4 3 2
 3 5 1 ,5 1
-%---
-%END

@@ -1,18 +1,14 @@
-%空とキミのメッセージ__je-0563.txt
 %标题 空とキミのメッセージ
 % 出处 https://github.com/zytx121/je/issues/0563
 % 歌曲信息: 专辑 《空とキミのメッセージ》 · 作词 こだまさおり · 作曲 矢吹香那 · 编曲 矢吹香那 · 歌手 ChouCho
 title=空とキミのメッセージ
-tag=
-usertag=
-tagroute=
 artist=ChouCho
 album=空とキミのメッセージ
 lyricist=こだまさおり
 composer=矢吹香那
 arranger=矢吹香那
 copyright=作词 こだまさおり / 作曲 矢吹香那 / 编曲 矢吹香那
-transcriber=扒谱大佬的ID
+transcriber=zytx121
 status=bare-numbers
 source=je-0563
 %--
@@ -34,5 +30,3 @@ source=je-0563
 2 1 2 1 ,5 1 2 2 1 1 5 1 1 1 1 5 1 1
 1 1 6 5 1 2 3 6
 1 2 3 1 2 3 1 2 3 6 4 3 1 2 1
-%---
-%END

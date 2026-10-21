@@ -1,11 +1,7 @@
-%ニヒル神楽__je-1221.txt
 %标题 ニヒル神楽
 % 出处 https://github.com/zytx121/je/issues/1221
 % 歌曲信息: 专辑 夜桜に君を隠して · 作词 かませ虎 · 作曲 ZUN · 歌手 森永真由美
 title=ニヒル神楽
-tag=
-usertag=
-tagroute=
 artist=森永真由美
 album=夜桜に君を隠して
 lyricist=かませ虎
@@ -41,5 +37,3 @@ source=je-1221
 ,6 1 6 5 2 ,7 5 4 3 3
 3 3 2 #1 2 6 2 1 ,7 1 6
 #5 6 7 3 #5 7 6 #5 6
-%---
-%END

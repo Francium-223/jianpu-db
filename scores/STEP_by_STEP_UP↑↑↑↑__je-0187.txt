@@ -1,16 +1,13 @@
-%STEP_by_STEP_UP↑↑↑↑__je-0187.txt
 %标题 STEP_by_STEP_UP↑↑↑↑
 % 出处 https://github.com/zytx121/je/issues/0187
 % 歌曲信息: 作词 鸟屋茶房、篠崎绚人 · 作曲 篠崎绚人、Hige Driver · 编曲 篠崎绚人 · 歌手 fourfolium
 title=STEP_by_STEP_UP↑↑↑↑
-tag=
-usertag=
-tagroute=
 artist=fourfolium
-lyricist=鸟屋茶房,篠崎绚人
-composer=篠崎绚人,Hige Driver
+lyricist=鸟屋茶房、篠崎绚人
+composer=篠崎绚人、Hige Driver
 arranger=篠崎绚人
-copyright=作词 鸟屋茶房,篠崎绚人 / 作曲 篠崎绚人,Hige Driver / 编曲 篠崎绚人
+copyright=作词 鸟屋茶房、篠崎绚人 / 作曲 篠崎绚人、Hige Driver / 编曲 篠崎绚人
+transcriber=zytx121
 status=bare-numbers
 source=je-0187
 %--
@@ -48,5 +45,3 @@ source=je-0187
 4 3 4 3 2 4 3 2
 6 6 4 3 2 2
 ,#6 4 5 6
-%---
-%END

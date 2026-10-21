@@ -1,17 +1,13 @@
-%ガーネット__je-0560.txt
 %标题 ガーネット
 % 出处 https://github.com/zytx121/je/issues/0560
 % 歌曲信息: 专辑 未知 · 作词 奥华子 · 作曲 奥华子 · 编曲 奥华子 · 歌手 奥华子
 title=ガーネット
-tag=
-usertag=
-tagroute=
 artist=奥华子
 lyricist=奥华子
 composer=奥华子
 arranger=奥华子
 copyright=作词 奥华子 / 作曲 奥华子 / 编曲 奥华子
-transcriber=风切羽
+transcriber=zytx121
 status=bare-numbers
 source=je-0560
 %--
@@ -44,5 +40,3 @@ source=je-0560
 ,6 ,7 1 2 3 4 3 4 5 4 3 ,6 ,7 1
 4 3 ,6 ,7 1 1 ,7 1 2 3
 4 3 1 ,5 1 ,7 1 1
-%---
-%END

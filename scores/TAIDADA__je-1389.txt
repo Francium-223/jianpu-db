@@ -1,11 +1,7 @@
-%TAIDADA__je-1389.txt
 %标题 TAIDADA
 % 出处 https://github.com/zytx121/je/issues/1389
 % 歌曲信息: 作词 ACAね · 作曲 煮ル果実/100回嘔吐/ずっと真夜中でいいのに。 · 编曲 煮ル果実/100回嘔吐/ずっと真夜中でいいのに。 · 歌手 ずっと真夜中でいいのに。
 title=TAIDADA
-tag=
-usertag=
-tagroute=
 artist=ずっと真夜中でいいのに。
 lyricist=ACAね
 composer=煮ル果実/100回嘔吐/ずっと真夜中でいいのに。
@@ -85,5 +81,3 @@ source=je-1389
 1=#C
 6 6 6 4 4 4 #4 3 6 7
 7 6 6 7 7 7 7 7 7 7 7 6 7 7 6 7
-%---
-%END

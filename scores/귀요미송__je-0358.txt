@@ -1,14 +1,10 @@
-%귀요미송__je-0358.txt
 %标题 귀요미송
 % 出处 https://github.com/zytx121/je/issues/0358
 % 歌曲信息: 专辑 귀요미송 · 歌手 하리(Hari)
 title=귀요미송
-tag=
-usertag=
-tagroute=
 artist=하리(Hari)
 album=귀요미송
-transcriber=GAOOOO—
+transcriber=moomiji
 status=bare-numbers
 source=je-0358
 %--
@@ -24,5 +20,3 @@ source=je-0358
 3 3 3 1 2 3 2 2 2
 7 1 2 1 1 2 3 4 3 5 4 3 2 1 1' 6 4 5 6
 3 4 5 6 1' 7
-%---
-%END

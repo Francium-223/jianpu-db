@@ -1,11 +1,7 @@
-%さようならへさよなら！__je-0716.txt
 %标题 さようならへさよなら！
 % 出处 https://github.com/zytx121/je/issues/0716
 % 歌曲信息: 专辑 MOMENT RING · 作词 畑 亜貴 · 作曲 増谷賢 · 编曲 増谷賢 · 歌手 μ's
 title=さようならへさよなら！
-tag=
-usertag=
-tagroute=
 artist=μ's
 album=MOMENT RING
 lyricist=畑 亜貴
@@ -76,5 +72,3 @@ source=je-0716
 4 6 2 3 4 5 6 7 1' 2 3 4
 4 4 3 4 5 2 2 3 ,7 2 1
 1 5 4 1 2 1
-%---
-%END

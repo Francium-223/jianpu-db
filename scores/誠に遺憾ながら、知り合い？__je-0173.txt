@@ -1,12 +1,9 @@
-%誠に遺憾ながら、知り合い？__je-0173.txt
 %标题 誠に遺憾ながら、知り合い？
 % 出处 https://github.com/zytx121/je/issues/0173
 % 歌曲信息: 歌手 高橋クニユキ
 title=誠に遺憾ながら、知り合い？
-tag=
-usertag=
-tagroute=
 artist=高橋クニユキ
+transcriber=zytx121
 status=bare-numbers
 source=je-0173
 %--
@@ -32,5 +29,3 @@ source=je-0173
 ,5 5 5 4 3 2 3 1 1 2 2 1 6 ,7 1
 4 5 6 5 1 1 ,7 1 2 1 1
 1 2 3 1 4 3 2 1 1 1'
-%---
-%END

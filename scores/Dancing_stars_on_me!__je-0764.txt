@@ -1,11 +1,7 @@
-%Dancing_stars_on_me!__je-0764.txt
 %标题 Dancing_stars_on_me!
 % 出处 https://github.com/zytx121/je/issues/0764
 % 歌曲信息: 专辑 Love wing bell / Dancing stars on me! · 作词 畑 亜貴 · 作曲 佐伯高志 · 编曲 佐伯高志 · 歌手 μ's
 title=Dancing_stars_on_me!
-tag=
-usertag=
-tagroute=
 artist=μ's
 album=Love wing bell / Dancing stars on me!
 lyricist=畑 亜貴
@@ -65,5 +61,3 @@ source=je-0764
 1 2 3 3 4 3 2 1 ,7 2 2 1 1
 ,5 5 5 ,5 5 5
 5 4 3 2 5 1
-%---
-%END

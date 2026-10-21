@@ -1,11 +1,7 @@
-%愛してるばんざーい!__je-0782.txt
 %标题 愛してるばんざーい!
 % 出处 https://github.com/zytx121/je/issues/0782
 % 歌曲信息: 专辑 もぎゅっと“love”で接近中! · 作词 畑亜贵 · 作曲 山田高弘 · 编曲 清水哲平 · 歌手 μ's
 title=愛してるばんざーい!
-tag=
-usertag=
-tagroute=
 artist=μ's
 album=もぎゅっと“love”で接近中!
 lyricist=畑亜贵
@@ -64,5 +60,3 @@ source=je-0782
 1 3 2 2 3 4 3 2 1 1
 1 ,7 1 ,7 1 ,7 1 ,7 1 1 1
 1 ,7 1 ,7 1 ,7 1 ,7 1 1 1
-%---
-%END

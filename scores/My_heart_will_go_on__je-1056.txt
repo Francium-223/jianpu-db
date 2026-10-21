@@ -1,17 +1,13 @@
-%My_heart_will_go_on__je-1056.txt
 %标题 My_heart_will_go_on
 % 出处 https://github.com/zytx121/je/issues/1056
 % 歌曲信息: 专辑 《泰坦尼克号》 · 作词 詹姆斯·霍纳、威尔·詹宁斯 · 作曲 詹姆斯·霍纳、威尔·詹宁斯 · 编曲 詹姆斯·霍纳、威尔·詹宁斯 · 歌手 席琳·迪翁
 title=My_heart_will_go_on
-tag=
-usertag=
-tagroute=
 artist=席琳·迪翁
 album=泰坦尼克号
-lyricist=詹姆斯·霍纳,威尔·詹宁斯
-composer=詹姆斯·霍纳,威尔·詹宁斯
-arranger=詹姆斯·霍纳,威尔·詹宁斯
-copyright=作词 詹姆斯·霍纳,威尔·詹宁斯 / 作曲 詹姆斯·霍纳,威尔·詹宁斯 / 编曲 詹姆斯·霍纳,威尔·詹宁斯
+lyricist=詹姆斯·霍纳、威尔·詹宁斯
+composer=詹姆斯·霍纳、威尔·詹宁斯
+arranger=詹姆斯·霍纳、威尔·詹宁斯
+copyright=作词 詹姆斯·霍纳、威尔·詹宁斯 / 作曲 詹姆斯·霍纳、威尔·詹宁斯 / 编曲 詹姆斯·霍纳、威尔·詹宁斯
 transcriber=livesun
 status=bare-numbers
 source=je-1056
@@ -60,5 +56,3 @@ source=je-1056
 3 4 3 2 1 ,7 1
 ,7 ,7 1 2 2 ,5 3 5 3 4 3 2 1
 1 2 3 2 3 2 1 2 5 4 3 1 2 1 2 1
-%---
-%END

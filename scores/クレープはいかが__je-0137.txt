@@ -1,12 +1,9 @@
-%クレープはいかが__je-0137.txt
 %标题 クレープはいかが
 % 出处 https://github.com/zytx121/je/issues/0137
 % 歌曲信息: 歌手 百石元
 title=クレープはいかが
-tag=
-usertag=
-tagroute=
 artist=百石元
+transcriber=zytx121
 status=bare-numbers
 source=je-0137
 %--
@@ -25,5 +22,3 @@ source=je-0137
 5 6 1' 7 6 5 2' #1'
 5 6 7 1' 6 3 2' 1'
 5 6 7 1' 6 3 2' 1' 1' 1' 1'
-%---
-%END

@@ -1,11 +1,7 @@
-%圣者遗物__je-0801.txt
 %标题 圣者遗物
 % 出处 https://github.com/zytx121/je/issues/0801
 % 歌曲信息: 专辑 未知 · 作词 皓月 · 作曲 皓月 · 编曲 皓月 · 歌手 初音ミク / 洛天依/九幽
 title=圣者遗物
-tag=
-usertag=
-tagroute=
 artist=初音ミク / 洛天依/九幽
 lyricist=皓月
 composer=皓月
@@ -36,5 +32,3 @@ source=je-0801
 4 2 3 5 3 6 5 3 1 2 3 6 5 3 6 5 3
 6 5 3 2 5 3 4 5 3 2 3
 4 2 3 5 3 6 5 3 4 5 3
-%---
-%END

@@ -1,11 +1,7 @@
-%夢追人__je-1242.txt
 %标题 夢追人
 % 出处 https://github.com/zytx121/je/issues/1242
 % 歌曲信息: 歌手 KOKIA
 title=夢追人
-tag=
-usertag=
-tagroute=
 artist=KOKIA
 transcriber=madderscientist
 status=bare-numbers
@@ -56,5 +52,3 @@ source=je-1242
 4 4 4 4 3 2 3 3 3 3 2 1 2 2 2 2 1 ,7 1
 4 4 4 4 3 2 3 3 3 3 2 1 2 2 2 2 1 ,7 1
 4 4 4 4 3 2 3 3 3 3 2 1 2 2 2 2 1 ,7 1
-%---
-%END

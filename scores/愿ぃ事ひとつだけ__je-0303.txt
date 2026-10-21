@@ -1,17 +1,14 @@
-%愿ぃ事ひとつだけ__je-0303.txt
 %标题 愿ぃ事ひとつだけ
 % 出处 https://github.com/zytx121/je/issues/0303
 % 歌曲信息: 专辑 小松未歩ベスト~ once more ~ · 作词 小松未步 · 作曲 小松未步 · 编曲 古井弘人 · 歌手 小松未步
 title=愿ぃ事ひとつだけ
-tag=
-usertag=
-tagroute=
 artist=小松未步
 album=小松未歩ベスト~ once more ~
 lyricist=小松未步
 composer=小松未步
 arranger=古井弘人
 copyright=作词 小松未步 / 作曲 小松未步 / 编曲 古井弘人
+transcriber=zytx121
 status=bare-numbers
 source=je-0303
 %--
@@ -26,5 +23,3 @@ source=je-0303
 1 2 3 4 5 4 3 4 3 2 2 ,6 1 ,7
 ,7 ,7 ,7 1 2 3 2 3 4 4 5 2 3
 ,7 ,7 ,7 1 2 3 2 3 4 4 5 #5 5 2
-%---
-%END

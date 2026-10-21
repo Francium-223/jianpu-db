@@ -1,11 +1,7 @@
-%梦の蕾__je-0885.txt
 %标题 梦の蕾
 % 出处 https://github.com/zytx121/je/issues/0885
 % 歌曲信息: 专辑 夢の蕾（梦之蕾） · 作词 岩城由美 · 作曲 横山克 · 编曲 横山克 · 歌手 THREE(CV.花守ゆみり / 種田梨沙 / 佐倉綾音)
 title=梦の蕾
-tag=
-usertag=
-tagroute=
 artist=THREE(CV.花守ゆみり / 種田梨沙 / 佐倉綾音)
 album=夢の蕾（梦之蕾）
 lyricist=岩城由美
@@ -35,5 +31,3 @@ source=je-0885
 1 2 3 6 5 6 5 4 3 4 5 1 ,7 1 6 5 7 1'
 2 3 1 2 3 5 6 3 2 1 1
 2 3 1 2 3 5 6 3 2 1 1
-%---
-%END

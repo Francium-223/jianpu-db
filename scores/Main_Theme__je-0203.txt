@@ -1,10 +1,7 @@
-%Main_Theme__je-0203.txt
 %标题 Main_Theme
 % 出处 https://github.com/zytx121/je/issues/0203
 title=Main_Theme
-tag=
-usertag=
-tagroute=
+transcriber=zytx121
 status=bare-numbers
 source=je-0203
 %--
@@ -58,5 +55,3 @@ source=je-0203
 #6 2 1'
 #6 6 5
 4 3 2
-%---
-%END

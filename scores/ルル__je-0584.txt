@@ -1,18 +1,14 @@
-%ルル__je-0584.txt
 %标题 ルル
 % 出处 https://github.com/zytx121/je/issues/0584
 % 歌曲信息: 专辑 《ルル》 · 作词 ティカ．α · 作曲 ティカ．α · 编曲 近藤研二 · 歌手 やくしまるえつこ
 title=ルル
-tag=
-usertag=
-tagroute=
 artist=やくしまるえつこ
 album=ルル
 lyricist=ティカ．α
 composer=ティカ．α
 arranger=近藤研二
 copyright=作词 ティカ．α / 作曲 ティカ．α / 编曲 近藤研二
-transcriber=焊马坠落
+transcriber=zytx121
 status=bare-numbers
 source=je-0584
 %--
@@ -29,5 +25,3 @@ source=je-0584
 5 6 6 5 4 5 3 3 4 4 4 3 4 5 6 5 5 6 1' 7 6 5 4 3 2 6 6 6 6 6 6 5 6 5 5 5 5 5
 5 5 5 3 4 6 5 4 3 2 1' 2 3 3 3 1' 4 4 3 4 5 5
 5 5 5 3 4 6 5 4 3 3 2 1' 2 3 1' 4 4 3 4 3 2 1'
-%---
-%END

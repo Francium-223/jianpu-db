@@ -1,18 +1,14 @@
-%Glow__je-0452.txt
 %标题 Glow
 % 出处 https://github.com/zytx121/je/issues/0452
 % 歌曲信息: 专辑 in the rain · 作词 keeno · 作曲 keeno · 编曲 keeno · 歌手 初音ミクDark
 title=Glow
-tag=
-usertag=
-tagroute=
 artist=初音ミクDark
 album=in the rain
 lyricist=keeno
 composer=keeno
 arranger=keeno
 copyright=作词 keeno / 作曲 keeno / 编曲 keeno
-transcriber=pw582452709
+transcriber=moomiji
 status=bare-numbers
 source=je-0452
 %--
@@ -48,5 +44,3 @@ source=je-0452
 4 1' 6 5 5 1 3 5 5 4
 4 3 4 5 4 1 ,#6 ,6 5 3 4
 2 3 4 4 3 4 5 4 3 4
-%---
-%END

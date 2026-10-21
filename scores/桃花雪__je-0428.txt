@@ -1,17 +1,13 @@
-%桃花雪__je-0428.txt
 %标题 桃花雪
 % 出处 https://github.com/zytx121/je/issues/0428
 % 歌曲信息: 作词 莫与人辩 · 作曲 莫与人辩 · 编曲 莫与人辩 · 歌手 洛天依
 title=桃花雪
-tag=
-usertag=
-tagroute=
 artist=洛天依
 lyricist=莫与人辩
 composer=莫与人辩
 arranger=莫与人辩
 copyright=作词 莫与人辩 / 作曲 莫与人辩 / 编曲 莫与人辩
-transcriber=硫酸碘
+transcriber=Mars-Cat
 status=bare-numbers
 source=je-0428
 %--
@@ -61,5 +57,3 @@ source=je-0428
 1 1 2 1 1' 5 6
 5 6 5 3 2 3
 3 3 2 2 1 2 1 ,6 1 5
-%---
-%END

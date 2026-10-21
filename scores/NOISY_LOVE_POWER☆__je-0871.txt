@@ -1,16 +1,12 @@
-%NOISY_LOVE_POWER☆__je-0871.txt
 %标题 NOISY_LOVE_POWER☆
 % 出处 https://github.com/zytx121/je/issues/0871
 % 歌曲信息: 专辑 未知 · 作词 こだまさおり、狐夢想、川崎里実 · 作曲 本多友紀(青田新名)、ARM、川崎里実 · 编曲 本多友紀(青田新名)、ARM、佐々木裕 · 歌手 大橋彩香
 title=NOISY_LOVE_POWER☆
-tag=
-usertag=
-tagroute=
 artist=大橋彩香
-lyricist=こだまさおり,狐夢想,川崎里実
-composer=本多友紀(青田新名),ARM,川崎里実
-arranger=本多友紀(青田新名),ARM,佐々木裕
-copyright=作词 こだまさおり,狐夢想,川崎里実 / 作曲 本多友紀(青田新名),ARM,川崎里実 / 编曲 本多友紀(青田新名),ARM,佐々木裕
+lyricist=こだまさおり、狐夢想、川崎里実
+composer=本多友紀(青田新名)、ARM、川崎里実
+arranger=本多友紀(青田新名)、ARM、佐々木裕
+copyright=作词 こだまさおり、狐夢想、川崎里実 / 作曲 本多友紀(青田新名)、ARM、川崎里実 / 编曲 本多友紀(青田新名)、ARM、佐々木裕
 transcriber=zytx121
 status=bare-numbers
 source=je-0871
@@ -95,5 +91,3 @@ source=je-0871
 1=bA
 4 4 4 3 2 1 2
 1 2 1 2 5 2 1 2
-%---
-%END

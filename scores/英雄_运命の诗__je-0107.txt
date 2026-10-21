@@ -1,10 +1,7 @@
-%英雄_运命の诗__je-0107.txt
 %标题 英雄_运命の诗
 % 出处 https://github.com/zytx121/je/issues/0107
 title=英雄_运命の诗
-tag=
-usertag=
-tagroute=
+transcriber=zytx121
 status=bare-numbers
 source=je-0107
 %--
@@ -40,5 +37,3 @@ source=je-0107
 3 3 2 3 4 3 2 ,7
 3 3 5 4 2 2 4 3
 ,6 ,6 1 ,7 ,6 ,3 ,6 ,7
-%---
-%END

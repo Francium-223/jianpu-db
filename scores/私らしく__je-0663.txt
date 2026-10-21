@@ -1,16 +1,12 @@
-%私らしく__je-0663.txt
 %标题 私らしく
 % 出处 https://github.com/zytx121/je/issues/0663
 % 歌曲信息: 专辑 YOU GET TO BURNING · 作词 松浦有希 · 作曲 松浦有希，吉田潔 · 编曲 未知 · 歌手 桑島法子
 title=私らしく
-tag=
-usertag=
-tagroute=
 artist=桑島法子
 album=YOU GET TO BURNING
 lyricist=松浦有希
-composer=松浦有希,吉田潔
-copyright=作词 松浦有希 / 作曲 松浦有希,吉田潔 / 编曲 未知
+composer=松浦有希，吉田潔
+copyright=作词 松浦有希 / 作曲 松浦有希，吉田潔 / 编曲 未知
 transcriber=zytx121
 status=bare-numbers
 source=je-0663
@@ -49,5 +45,3 @@ source=je-0663
 2 2 2 3 3 4 5 1 1 1 4 5 6 #6 6 4 6 5 4 3 5 4
 2 2 2 4 5 4 3 4 3 2 1 2 4 5 4 5 5
 1 2 1 2 4 5 5 6 6 #5 4 #5 5 5 4 3 2 1
-%---
-%END

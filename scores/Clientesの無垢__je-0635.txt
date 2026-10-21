@@ -1,18 +1,14 @@
-%Clientesの無垢__je-0635.txt
 %标题 Clientesの無垢
 % 出处 https://github.com/zytx121/je/issues/0635
 % 歌曲信息: 专辑 穢翼のユースティア – Original CharacterSong Series · 作词 さなぎ · 作曲 藤井亮太 · 编曲 藤井亮太 · 歌手 浅川悠
 title=Clientesの無垢
-tag=
-usertag=
-tagroute=
 artist=浅川悠
 album=穢翼のユースティア – Original CharacterSong Series
 lyricist=さなぎ
 composer=藤井亮太
 arranger=藤井亮太
 copyright=作词 さなぎ / 作曲 藤井亮太 / 编曲 藤井亮太
-transcriber=纳兰鸟儿
+transcriber=zytx121
 status=bare-numbers
 source=je-0635
 %--
@@ -33,5 +29,3 @@ source=je-0635
 ,6 3 4 4 4 4 3 ,6 ,6 6 3 3 4 4
 2 3 4 5 6 #6 #6 6 6
 5 5 6 5 4 3 5 4 1 ,#6 ,6 ,#6 1 ,#6 1 2 5 4 3 3 2
-%---
-%END

@@ -1,16 +1,13 @@
-%terminal_terminal__je-0166.txt
 %标题 terminal_terminal
 % 出处 https://github.com/zytx121/je/issues/0166
 % 歌曲信息: 作词 meg rock · 作曲 ミト、神前晓 · 编曲 ミト、神前晓 · 歌手 八九寺真宵（加藤英美里）
 title=terminal_terminal
-tag=
-usertag=
-tagroute=
 artist=八九寺真宵（加藤英美里）
 lyricist=meg rock
-composer=ミト,神前晓
-arranger=ミト,神前晓
-copyright=作词 meg rock / 作曲 ミト,神前晓 / 编曲 ミト,神前晓
+composer=ミト、神前晓
+arranger=ミト、神前晓
+copyright=作词 meg rock / 作曲 ミト、神前晓 / 编曲 ミト、神前晓
+transcriber=zytx121
 status=bare-numbers
 source=je-0166
 %--
@@ -33,5 +30,3 @@ source=je-0166
 2 3 4 4 4 5 #6 6 1
 1 6 #6 5 6 5 4 4 4 4 5 3 4 2' 5 5
 5 5 6 #6 5 #6 6 4 4 4 4 4 4 4 4 4 4 4 4 6 5
-%---
-%END

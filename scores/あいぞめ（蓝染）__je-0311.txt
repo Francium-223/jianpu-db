@@ -1,17 +1,14 @@
-%あいぞめ（蓝染）__je-0311.txt
 %标题 あいぞめ（蓝染）
 % 出处 https://github.com/zytx121/je/issues/0311
 % 歌曲信息: 专辑 地獄少女 二籠 オリジナルサウンドトラック · 作词 ああ · 作曲 Takumi · 编曲 西田マサラ · 歌手 能登麻美子
 title=あいぞめ（蓝染）
-tag=
-usertag=
-tagroute=
 artist=能登麻美子
 album=地獄少女 二籠 オリジナルサウンドトラック
 lyricist=ああ
 composer=Takumi
 arranger=西田マサラ
 copyright=作词 ああ / 作曲 Takumi / 编曲 西田マサラ
+transcriber=zytx121
 status=bare-numbers
 source=je-0311
 %--
@@ -38,5 +35,3 @@ source=je-0311
 2 ,6 3 4 3 2 3 1
 2 ,6 3 4 3 2 3 1
 2 ,6 3 4 3 2 5
-%---
-%END

@@ -1,17 +1,14 @@
-%βιοζ-δ__je-0292.txt
 %标题 βιοζ-δ
 % 出处 https://github.com/zytx121/je/issues/0292
 % 歌曲信息: 专辑 ギルティクラウン オリジナルサウンドトラック · 作词 Rie · 作曲 澤野弘之 · 编曲 澤野弘之 · 歌手 小林未郁
 title=βιοζ-δ
-tag=
-usertag=
-tagroute=
 artist=小林未郁
 album=ギルティクラウン オリジナルサウンドトラック
 lyricist=Rie
 composer=澤野弘之
 arranger=澤野弘之
 copyright=作词 Rie / 作曲 澤野弘之 / 编曲 澤野弘之
+transcriber=zytx121
 status=bare-numbers
 source=je-0292
 %--
@@ -34,5 +31,3 @@ source=je-0292
 1=bB
 2 4 5 2 4 5 6 1' 2' 5
 4 3 2 1 4 3 5 2
-%---
-%END

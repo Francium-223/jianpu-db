@@ -1,13 +1,9 @@
-%孤独なHeaven__je-0735.txt
 %标题 孤独なHeaven
 % 出处 https://github.com/zytx121/je/issues/0735
 % 歌曲信息: 专辑 告白日和、です！ · 作词 畑 亜貴 · 作曲 前口 渉 · 编曲 増田武史 · 歌手 小泉花陽
 title=孤独なHeaven
-tag=
-usertag=
-tagroute=
 artist=小泉花陽
-album=告白日和,です！
+album=告白日和、です！
 lyricist=畑 亜貴
 composer=前口 渉
 arranger=増田武史
@@ -36,5 +32,3 @@ source=je-0735
 4 4 3 4 5 6 #6 6 5 4
 4 4 3 2 1 2 6 2 2 6 2 2 6
 4 4 3 4 5 4
-%---
-%END

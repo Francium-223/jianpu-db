@@ -1,15 +1,12 @@
-%GLISTENING♭__je-0317.txt
 %标题 GLISTENING♭
 % 出处 https://github.com/zytx121/je/issues/0317
 % 歌曲信息: 作词 稲叶エミ · 作曲 奥井康介 · 歌手 安野希世乃
 title=GLISTENING♭
-tag=
-usertag=
-tagroute=
 artist=安野希世乃
 lyricist=稲叶エミ
 composer=奥井康介
 copyright=作词 稲叶エミ / 作曲 奥井康介
+transcriber=zytx121
 status=bare-numbers
 source=je-0317
 %--
@@ -41,5 +38,3 @@ source=je-0317
 3 3 3 3 4 3 4 5 2 1 2
 3 4 5 ,7 7 6 #5 6 6
 3 1' 7 6 6
-%---
-%END

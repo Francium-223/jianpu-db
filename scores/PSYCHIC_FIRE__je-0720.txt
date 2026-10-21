@@ -1,11 +1,7 @@
-%PSYCHIC_FIRE__je-0720.txt
 %标题 PSYCHIC_FIRE
 % 出处 https://github.com/zytx121/je/issues/0720
 % 歌曲信息: 专辑 錯覚CROSSROADS · 作词 畑 亜貴 · 作曲 森慎太郎 · 编曲 森慎太郎 · 歌手 BiBi
 title=PSYCHIC_FIRE
-tag=
-usertag=
-tagroute=
 artist=BiBi
 album=錯覚CROSSROADS
 lyricist=畑 亜貴
@@ -59,5 +55,3 @@ source=je-0720
 ,6 1 2 1 2 3 5 2 3 1
 2 3 4 3 1 ,6
 1 2 1 1
-%---
-%END

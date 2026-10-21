@@ -1,16 +1,13 @@
-%いのちの名前__je-0199.txt
 %标题 いのちの名前
 % 出处 https://github.com/zytx121/je/issues/0199
 % 歌曲信息: 作词 覚和歌子 · 作曲 久石譲 · 编曲 久石譲 · 歌手 木村弓
 title=いのちの名前
-tag=
-usertag=
-tagroute=
 artist=木村弓
 lyricist=覚和歌子
 composer=久石譲
 arranger=久石譲
 copyright=作词 覚和歌子 / 作曲 久石譲 / 编曲 久石譲
+transcriber=zytx121
 status=bare-numbers
 source=je-0199
 %--
@@ -44,5 +41,3 @@ source=je-0199
 6 7 1' 1' 2' 1' 7 3 5 6 7 6 5 4 5 5 5 5 4 4 3 4 2 4 5 6 5
 6 7 1' 1' 2' 1' 7 3 5 6 7 6 5 4 5 5 5 5 4 4 3 4 5 6 7 1'
 6 7 1' 1' 7 1' 2' ,5 1 ,7 1
-%---
-%END

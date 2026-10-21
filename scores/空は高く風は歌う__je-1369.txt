@@ -1,11 +1,7 @@
-%空は高く風は歌う__je-1369.txt
 %标题 空は高く風は歌う
 % 出处 https://github.com/zytx121/je/issues/1369
 % 歌曲信息: 作词 梶浦 由記 · 作曲 梶浦 由記 · 歌手 春奈るな
 title=空は高く風は歌う
-tag=
-usertag=
-tagroute=
 artist=春奈るな
 lyricist=梶浦 由記
 composer=梶浦 由記
@@ -88,5 +84,3 @@ source=je-1369
 3 3 2 1 ,7 1 1
 1 4 3 2 4 4 3 3
 2 1 2 ,7 ,7 1 2 3
-%---
-%END

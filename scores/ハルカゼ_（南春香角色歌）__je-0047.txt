@@ -1,13 +1,10 @@
-%ハルカゼ_（南春香角色歌）__je-0047.txt
 %标题 ハルカゼ_（南春香角色歌）
 % 出处 https://github.com/zytx121/je/issues/0047
 % 歌曲信息: 专辑 南家三姐妹 欢迎回来 角色歌集 · 歌手 佐藤利奈
 title=ハルカゼ_（南春香角色歌）
-tag=
-usertag=
-tagroute=
 artist=佐藤利奈
 album=南家三姐妹 欢迎回来 角色歌集
+transcriber=zytx121
 status=bare-numbers
 source=je-0047
 %--
@@ -28,5 +25,3 @@ source=je-0047
 1 1 2 3 5
 1 ,7 ,7 ,7 1 2 3 1 2 3 5 6 3 3 2 1 2
 1 1 2 3 1 4
-%---
-%END

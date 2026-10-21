@@ -1,17 +1,13 @@
-%哆啦A梦__je-0581.txt
 %标题 哆啦A梦
 % 出处 https://github.com/zytx121/je/issues/0581
 % 歌曲信息: 专辑 未知 · 作词 藤子不二雄 · 作曲 越部信義 · 编曲 越部信義 · 歌手 劇団NLT、内藤はるみ
 title=哆啦A梦
-tag=
-usertag=
-tagroute=
-artist=劇団NLT,内藤はるみ
+artist=劇団NLT、内藤はるみ
 lyricist=藤子不二雄
 composer=越部信義
 arranger=越部信義
 copyright=作词 藤子不二雄 / 作曲 越部信義 / 编曲 越部信義
-transcriber=翌日の晨
+transcriber=zytx121
 status=bare-numbers
 source=je-0581
 %--
@@ -38,5 +34,3 @@ source=je-0581
 7 #6 7 #6 7 #6 7 1' 2' 1' 7 1'
 4 3 4 3 4 3 2 3 2 3 2 3 2 1
 ,7 ,6 ,6 ,7 1 2 ,6 ,6 ,7 1 2 1 1
-%---
-%END

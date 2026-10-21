@@ -1,16 +1,13 @@
-%新·九九八十一__je-0190.txt
 %标题 新·九九八十一
 % 出处 https://github.com/zytx121/je/issues/0190
 % 歌曲信息: 作词 薇采之依 · 作曲 纯白 · 编曲 纯白 · 歌手 泠鸢yousa
 title=新·九九八十一
-tag=
-usertag=
-tagroute=
 artist=泠鸢yousa
 lyricist=薇采之依
 composer=纯白
 arranger=纯白
 copyright=作词 薇采之依 / 作曲 纯白 / 编曲 纯白
+transcriber=zytx121
 status=bare-numbers
 source=je-0190
 %--
@@ -33,5 +30,3 @@ source=je-0190
 1 ,7 ,6 6 6 6 5 6 7 6 5 5 3
 2 3 5 ,6 6 6 6 5 6 7 6 5 3 5 3 2 3 2 1
 1 ,7 ,6 6 6 6 5 6 5 1' 7 6
-%---
-%END

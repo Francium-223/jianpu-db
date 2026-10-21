@@ -1,13 +1,10 @@
-%キラメキ__je-0129.txt
 %标题 キラメキ
 % 出处 https://github.com/zytx121/je/issues/0129
 % 歌曲信息: 专辑 日常ドラマチッ · 歌手 wacci
 title=キラメキ
-tag=
-usertag=
-tagroute=
 artist=wacci
 album=日常ドラマチッ
+transcriber=zytx121
 status=bare-numbers
 source=je-0129
 %--
@@ -51,5 +48,3 @@ source=je-0129
 3 4 5 5 5 5 5 6 5 5 5 5 5 2' 1' 7 1' 1'
 1' 7 1' 7 5 6 3 2 1 1 2 2
 5 6 1' 1'
-%---
-%END

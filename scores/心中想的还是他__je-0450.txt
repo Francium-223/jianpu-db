@@ -1,17 +1,13 @@
-%心中想的还是他__je-0450.txt
 %标题 心中想的还是他
 % 出处 https://github.com/zytx121/je/issues/0450
 % 歌曲信息: 专辑 《虹猫蓝兔七侠传 动画原声》 · 作词 王宏、唐跃生 · 作曲 方石、薛振华、姜华 · 歌手 禹丁洁
 title=心中想的还是他
-tag=
-usertag=
-tagroute=
 artist=禹丁洁
 album=虹猫蓝兔七侠传 动画原声
-lyricist=王宏,唐跃生
-composer=方石,薛振华,姜华
-copyright=作词 王宏,唐跃生 / 作曲 方石,薛振华,姜华
-transcriber=z333355557777
+lyricist=王宏、唐跃生
+composer=方石、薛振华、姜华
+copyright=作词 王宏、唐跃生 / 作曲 方石、薛振华、姜华
+transcriber=moomiji
 status=bare-numbers
 source=je-0450
 %--
@@ -32,5 +28,3 @@ source=je-0450
 5 2 3 3
 ,6 1 2 ,6 4 3 2 1 2 3 ,6
 3 4 5 3 4 5 5 1 2
-%---
-%END

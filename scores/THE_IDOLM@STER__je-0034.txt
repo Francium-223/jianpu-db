@@ -1,16 +1,13 @@
-%THE_IDOLM@STER__je-0034.txt
 %标题 THE_IDOLM@STER
 % 出处 https://github.com/zytx121/je/issues/0034
 % 歌曲信息: 作词 中村惠 · 作曲 NBGI（佐佐木宏人） · 编曲 NBGI（佐佐木宏人） · 歌手 765PRO ALLSTARS
 title=THE_IDOLM@STER
-tag=
-usertag=
-tagroute=
 artist=765PRO ALLSTARS
 lyricist=中村惠
 composer=NBGI（佐佐木宏人）
 arranger=NBGI（佐佐木宏人）
 copyright=作词 中村惠 / 作曲 NBGI（佐佐木宏人） / 编曲 NBGI（佐佐木宏人）
+transcriber=zytx121
 status=bare-numbers
 source=je-0034
 %--
@@ -36,5 +33,3 @@ source=je-0034
 1 2 4 6 5 6 1' 6 5 6 1' 5 4 3 1 1
 1 2 4 6 5 6 1' 6 5 6 1' 5 4 3 1 2
 1
-%---
-%END

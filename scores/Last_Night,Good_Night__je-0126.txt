@@ -1,12 +1,9 @@
-%Last_Night,Good_Night__je-0126.txt
 %标题 Last_Night,Good_Night
 % 出处 https://github.com/zytx121/je/issues/0126
 % 歌曲信息: 歌手 miku
 title=Last_Night,Good_Night
-tag=
-usertag=
-tagroute=
 artist=miku
+transcriber=zytx121
 status=bare-numbers
 source=je-0126
 %--
@@ -25,5 +22,3 @@ source=je-0126
 5 1' 2' 3' 4' 3' 2' 3' 5 1' 2' 3' 5 1' 7 1'
 5 1' 2' 3' 4' 3' 2' 5' 5 1' 2' 3' 5 1' 7 1'
 4' 3' 2' 1'
-%---
-%END

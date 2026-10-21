@@ -1,11 +1,7 @@
-%この広い空の下で__je-1342.txt
 %标题 この広い空の下で
 % 出处 https://github.com/zytx121/je/issues/1342
 % 歌曲信息: 作词 Maiko · 作曲 Maiko/Nanae · 歌手 seven oops 7!!
 title=この広い空の下で
-tag=
-usertag=
-tagroute=
 artist=seven oops 7!!
 lyricist=Maiko
 composer=Maiko/Nanae
@@ -74,5 +70,3 @@ source=je-1342
 1 ,7 ,6 ,6 1 2 1 2 5
 4 3 2 2 3 4 ,6 ,6
 4 3 2 1 1 ,7 ,7 2 2 1 1
-%---
-%END

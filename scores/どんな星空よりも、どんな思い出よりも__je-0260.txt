@@ -1,16 +1,13 @@
-%どんな星空よりも、どんな思い出よりも__je-0260.txt
 %标题 どんな星空よりも、どんな思い出よりも
 % 出处 https://github.com/zytx121/je/issues/0260
 % 歌曲信息: 作词 结城爱良 · 作曲 结城爱良 · 编曲 渡部チェル · 歌手 结城爱良
 title=どんな星空よりも、どんな思い出よりも
-tag=
-usertag=
-tagroute=
 artist=结城爱良
 lyricist=结城爱良
 composer=结城爱良
 arranger=渡部チェル
 copyright=作词 结城爱良 / 作曲 结城爱良 / 编曲 渡部チェル
+transcriber=zytx121
 status=bare-numbers
 source=je-0260
 %--
@@ -33,5 +30,3 @@ source=je-0260
 5 5 5 5 5 5 5 1' 7 1' 2' 1'
 4 3 4 3 4 5
 ,7 1 ,7 1 1
-%---
-%END

@@ -1,11 +1,7 @@
-%Counting_Stars_-_Simply_Three_(提琴版)__je-1023.txt
 %标题 Counting_Stars_-_Simply_Three_(提琴版)
 % 出处 https://github.com/zytx121/je/issues/1023
 % 歌曲信息: 专辑 未知 · 作词 瑞恩·泰德 · 作曲 瑞恩·泰德 · 编曲 未知 · 歌手 未知
 title=Counting_Stars_-_Simply_Three_(提琴版)
-tag=
-usertag=
-tagroute=
 lyricist=瑞恩·泰德
 composer=瑞恩·泰德
 copyright=作词 瑞恩·泰德 / 作曲 瑞恩·泰德 / 编曲 未知
@@ -90,5 +86,3 @@ source=je-1023
 1' 7 6 5 1' 7 6 6 5 3 1 6 5 3
 5 4 3 2 5 4 3 3 2 1 ,7 3 2 1
 1' 7 7 6 6 5 1' 1' 7 6
-%---
-%END

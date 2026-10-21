@@ -1,17 +1,13 @@
-%LEVEL5_-Judgelight-__je-0796.txt
 %标题 LEVEL5_-Judgelight-
 % 出处 https://github.com/zytx121/je/issues/0796
 % 歌曲信息: 专辑 TVアニメ「とある科学の超电磁炮」新OPテーマ: LEVEL5-Judgelight- [DVD付初回限定盘] · 作词 八木沼悟志，yuki-ka · 作曲 八木沼悟志 · 编曲 八木沼悟志 · 歌手 fripSide
 title=LEVEL5_-Judgelight-
-tag=
-usertag=
-tagroute=
 artist=fripSide
 album=TVアニメ「とある科学の超电磁炮」新OPテーマ: LEVEL5-Judgelight- [DVD付初回限定盘]
-lyricist=八木沼悟志,yuki-ka
+lyricist=八木沼悟志，yuki-ka
 composer=八木沼悟志
 arranger=八木沼悟志
-copyright=作词 八木沼悟志,yuki-ka / 作曲 八木沼悟志 / 编曲 八木沼悟志
+copyright=作词 八木沼悟志，yuki-ka / 作曲 八木沼悟志 / 编曲 八木沼悟志
 transcriber=zytx121
 status=bare-numbers
 source=je-0796
@@ -64,5 +60,3 @@ source=je-0796
 1 ,7 1 2 3 3 1' 7 6 5 3 5 6 7 2' 2' 3' 1'
 1' 7 6 7 1' 2' 1' 7 5 7 1' 6
 1' 7 6 3' 2' 1' 7 5 7 1' 6
-%---
-%END

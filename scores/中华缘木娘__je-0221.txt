@@ -1,17 +1,14 @@
-%中华缘木娘__je-0221.txt
 %标题 中华缘木娘
 % 出处 https://github.com/zytx121/je/issues/0221
 % 歌曲信息: 专辑 中华少女project · 作词 薇采之依 · 作曲 纯白 · 编曲 纯白 · 歌手 洛天依
 title=中华缘木娘
-tag=
-usertag=
-tagroute=
 artist=洛天依
 album=中华少女project
 lyricist=薇采之依
 composer=纯白
 arranger=纯白
 copyright=作词 薇采之依 / 作曲 纯白 / 编曲 纯白
+transcriber=zytx121
 status=bare-numbers
 source=je-0221
 %--
@@ -45,5 +42,3 @@ source=je-0221
 ,3 ,5 ,6 6 5 4 3 5 4 3
 2 3 4 2 6 4 3 1 6 #4
 #4 #5 6 #6 7
-%---
-%END

@@ -1,18 +1,14 @@
-%雪花火__je-0375.txt
 %标题 雪花火
 % 出处 https://github.com/zytx121/je/issues/0375
 % 歌曲信息: 专辑 TVアニメ「風夏」サウンドコレクション · 作词 川岛爱 · 作曲 川岛爱 · 编曲 伊贺拓郎 · 歌手 冰无小雪（CV：早见沙织（早見沙織））
 title=雪花火
-tag=
-usertag=
-tagroute=
 artist=冰无小雪（CV：早见沙织（早見沙織））
 album=TVアニメ「風夏」サウンドコレクション
 lyricist=川岛爱
 composer=川岛爱
 arranger=伊贺拓郎
 copyright=作词 川岛爱 / 作曲 川岛爱 / 编曲 伊贺拓郎
-transcriber=找拽啊
+transcriber=moomiji
 status=bare-numbers
 source=je-0375
 %--
@@ -43,5 +39,3 @@ source=je-0375
 4 5 6 6 5 4 4 4 5 6 6 5 5 1' 6
 #6 6 5 4 4 4 5 4 5 6 #6 6 5 4
 2 3 4 4 3 4 4
-%---
-%END

@@ -1,11 +1,7 @@
-%崖下のオアウェル__je-1371.txt
 %标题 崖下のオアウェル
 % 出处 https://github.com/zytx121/je/issues/1371
 % 歌曲信息: 作曲 西木康智
 title=崖下のオアウェル
-tag=
-usertag=
-tagroute=
 composer=西木康智
 copyright=作曲 西木康智
 transcriber=madderscientist
@@ -26,5 +22,3 @@ source=je-1371
 4 3 2
 6 5
 4 1 2
-%---
-%END

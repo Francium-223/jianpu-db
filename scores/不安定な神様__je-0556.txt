@@ -1,18 +1,14 @@
-%不安定な神様__je-0556.txt
 %标题 不安定な神様
 % 出处 https://github.com/zytx121/je/issues/0556
 % 歌曲信息: 专辑 不安定な神様 · 作词 須谷尚子 · 作曲 下川直哉 · 编曲 小林俊太郎 · 歌手 Suara
 title=不安定な神様
-tag=
-usertag=
-tagroute=
 artist=Suara
 album=不安定な神様
 lyricist=須谷尚子
 composer=下川直哉
 arranger=小林俊太郎
 copyright=作词 須谷尚子 / 作曲 下川直哉 / 编曲 小林俊太郎
-transcriber=忏悔之诗
+transcriber=zytx121
 status=bare-numbers
 source=je-0556
 %--
@@ -67,5 +63,3 @@ source=je-0556
 1 4 4 5 3 2 1 2 2
 4 6 6 #6 5 5 5 5 6 4
 1 4 4 5 3 2 1 2 2
-%---
-%END

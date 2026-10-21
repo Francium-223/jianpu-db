@@ -1,17 +1,13 @@
-%梦想歌__je-0551.txt
 %标题 梦想歌
 % 出处 https://github.com/zytx121/je/issues/0551
 % 歌曲信息: 专辑 未知 · 作词 须谷尚子 · 作曲 衣笠道雄 · 编曲 豆田将 · 歌手 Suara
 title=梦想歌
-tag=
-usertag=
-tagroute=
 artist=Suara
 lyricist=须谷尚子
 composer=衣笠道雄
 arranger=豆田将
 copyright=作词 须谷尚子 / 作曲 衣笠道雄 / 编曲 豆田将
-transcriber=zgyharp1
+transcriber=zytx121
 status=bare-numbers
 source=je-0551
 %--
@@ -43,5 +39,3 @@ source=je-0551
 3 5 6 6 6 5 3 2 3 2 1 2 3 1 2 3 3 2 1 ,7 1 ,6 1 2 3 2
 ,6 ,7 1 ,6 3 2 1 2 ,5 ,5 ,6 ,7 1 2 3 2 1 2 5 5
 3 5 6 6 6 5 3 2 3 2 1 2 3 1 2 3 3 2 1 ,7 1 2 1 ,7 ,6
-%---
-%END

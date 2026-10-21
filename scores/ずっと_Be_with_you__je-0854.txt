@@ -1,14 +1,10 @@
-%ずっと_Be_with_you__je-0854.txt
 %标题 ずっと_Be_with_you
 % 出处 https://github.com/zytx121/je/issues/0854
 % 歌曲信息: 专辑 未知 · 作词 未知 · 作曲 Masayoshi Minoshima、REDALiCE、RAMM · 编曲 RAMM · 歌手 未知
 title=ずっと_Be_with_you
-tag=
-usertag=
-tagroute=
-composer=Masayoshi Minoshima,REDALiCE,RAMM
+composer=Masayoshi Minoshima、REDALiCE、RAMM
 arranger=RAMM
-copyright=作词 未知 / 作曲 Masayoshi Minoshima,REDALiCE,RAMM / 编曲 RAMM
+copyright=作词 未知 / 作曲 Masayoshi Minoshima、REDALiCE、RAMM / 编曲 RAMM
 transcriber=zytx121
 status=bare-numbers
 source=je-0854
@@ -22,5 +18,3 @@ source=je-0854
 5 1 1 5 1 1 5 6 5 4 3 4 5 1 1 5 1 ,7 ,7 1
 5 1 1 5 1 1 5 6 5 4 3 4 5 1 1 5 1 ,7 ,7 1
 5 1 1 5 1 1 5 6 5 4 3 4 5 1 1 5 1 ,7 ,7 1
-%---
-%END

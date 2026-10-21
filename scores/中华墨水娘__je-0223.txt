@@ -1,17 +1,14 @@
-%中华墨水娘__je-0223.txt
 %标题 中华墨水娘
 % 出处 https://github.com/zytx121/je/issues/0223
 % 歌曲信息: 专辑 中华少女project · 作词 薇采之依 · 作曲 纯白 · 编曲 纯白 · 歌手 洛天依
 title=中华墨水娘
-tag=
-usertag=
-tagroute=
 artist=洛天依
 album=中华少女project
 lyricist=薇采之依
 composer=纯白
 arranger=纯白
 copyright=作词 薇采之依 / 作曲 纯白 / 编曲 纯白
+transcriber=zytx121
 status=bare-numbers
 source=je-0223
 %--
@@ -41,5 +38,3 @@ source=je-0223
 3 5 6 5 3 6 5 6 5 2 5 3
 3 5 6 5 3 6 5 6 7 1' 7 3
 3 5 6 5 3 6 5 6 1' 7 5 6
-%---
-%END

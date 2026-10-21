@@ -1,18 +1,14 @@
-%双向幸福__je-0436.txt
 %标题 双向幸福
 % 出处 https://github.com/zytx121/je/issues/0436
 % 歌曲信息: 专辑 双向系列 · 作词 JUSF周存 · 作曲 JUSF周存 · 编曲 JUSF周存 · 歌手 言和，洛天依
 title=双向幸福
-tag=
-usertag=
-tagroute=
-artist=言和,洛天依
+artist=言和，洛天依
 album=双向系列
 lyricist=JUSF周存
 composer=JUSF周存
 arranger=JUSF周存
 copyright=作词 JUSF周存 / 作曲 JUSF周存 / 编曲 JUSF周存
-transcriber=硫酸碘
+transcriber=Mars-Cat
 status=bare-numbers
 source=je-0436
 %--
@@ -69,5 +65,3 @@ source=je-0436
 4' 3'
 4' 3' 2' 1'
 7 1'
-%---
-%END

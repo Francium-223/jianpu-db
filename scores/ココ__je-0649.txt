@@ -1,11 +1,7 @@
-%ココ__je-0649.txt
 %标题 ココ
 % 出处 https://github.com/zytx121/je/issues/0649
 % 歌曲信息: 作词 田村歩美 · 作曲 田村歩美 · 歌手 たむらぱん
 title=ココ
-tag=
-usertag=
-tagroute=
 artist=たむらぱん
 lyricist=田村歩美
 composer=田村歩美
@@ -29,5 +25,3 @@ source=je-0649
 1 1 1 1 2 2 3 1 1 2 2 3 4 3 4 3 4 3 2 1
 1 1 ,5 ,5 1 2 3 1 1 1 1 1 ,5 1 2 3 1
 1 2 3 1 2 3 1 2 3 4 3 2 1 2 1
-%---
-%END

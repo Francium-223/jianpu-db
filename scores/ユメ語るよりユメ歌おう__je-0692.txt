@@ -1,11 +1,7 @@
-%ユメ語るよりユメ歌おう__je-0692.txt
 %标题 ユメ語るよりユメ歌おう
 % 出处 https://github.com/zytx121/je/issues/0692
 % 歌曲信息: 专辑 ユメ語るよりユメ歌おう · 作词 畑 亜貴 · 作曲 山口朗彦 · 编曲 山口朗彦 · 歌手 Aqours
 title=ユメ語るよりユメ歌おう
-tag=
-usertag=
-tagroute=
 artist=Aqours
 album=ユメ語るよりユメ歌おう
 lyricist=畑 亜貴
@@ -67,5 +63,3 @@ source=je-0692
 2 3 4 4 3 2 1
 1 ,7 1 2 1 ,7 1
 1 ,7 1 2 1 ,7 1 1 ,7 1 2 1 2 3
-%---
-%END

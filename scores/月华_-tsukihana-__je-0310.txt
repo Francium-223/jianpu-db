@@ -1,17 +1,14 @@
-%月华_-tsukihana-__je-0310.txt
 %标题 月华_-tsukihana-
 % 出处 https://github.com/zytx121/je/issues/0310
 % 歌曲信息: 专辑 地狱少女三鼎OP · 作词 北出菜奈 · 作曲 Velvet_romica · 编曲 根岸孝旨 · 歌手 北出菜奈
 title=月华_-tsukihana-
-tag=
-usertag=
-tagroute=
 artist=北出菜奈
 album=地狱少女三鼎OP
 lyricist=北出菜奈
 composer=Velvet_romica
 arranger=根岸孝旨
 copyright=作词 北出菜奈 / 作曲 Velvet_romica / 编曲 根岸孝旨
+transcriber=zytx121
 status=bare-numbers
 source=je-0310
 %--
@@ -54,5 +51,3 @@ source=je-0310
 2 3 4 2 4 6 #6 2' 1' #6 6 5
 6 3 4 5 6 2 4 4 5 4 3 4 4
 4 4 2 4 6 1' #6 6
-%---
-%END

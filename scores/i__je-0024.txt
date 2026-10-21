@@ -1,16 +1,13 @@
-%i__je-0024.txt
 %标题 i
 % 出处 https://github.com/zytx121/je/issues/0024
 % 歌曲信息: 作词 中村惠 · 作曲 NBGI（佐佐木宏人） · 编曲 NBGI（佐佐木宏人） · 歌手 765PRO ALLSTARS
 title=i
-tag=
-usertag=
-tagroute=
 artist=765PRO ALLSTARS
 lyricist=中村惠
 composer=NBGI（佐佐木宏人）
 arranger=NBGI（佐佐木宏人）
 copyright=作词 中村惠 / 作曲 NBGI（佐佐木宏人） / 编曲 NBGI（佐佐木宏人）
+transcriber=zytx121
 status=bare-numbers
 source=je-0024
 %--
@@ -38,5 +35,3 @@ source=je-0024
 5 3 3 2 5 3 3 2 5 3 3 2 2 1 2
 1 1 2 3 1 1 ,7 1 2 3 4 3 3 3 2 1
 1 ,7 1 1
-%---
-%END

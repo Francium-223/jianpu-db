@@ -1,13 +1,9 @@
-%スプーンひとさじの爱__je-0530.txt
 %标题 スプーンひとさじの爱
 % 出处 https://github.com/zytx121/je/issues/0530
 % 歌曲信息: 歌手 花泽香菜
 title=スプーンひとさじの爱
-tag=
-usertag=
-tagroute=
 artist=花泽香菜
-transcriber=扒谱大佬的ID
+transcriber=zytx121
 status=bare-numbers
 source=je-0530
 %--
@@ -32,5 +28,3 @@ source=je-0530
 5 5 5 1' 7 5 3 2 1 6 5 3 4 5 5 5 1' 5
 5 5 5 1' 7 5 3 4 5 3 4 5 2 1 1 3 #2 3 #2 3 1 1 3 4 5
 2 1 2 1 1 2 1 3 1 1 2 1 1 1 3 4 3 1 5
-%---
-%END

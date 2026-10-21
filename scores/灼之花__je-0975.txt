@@ -1,11 +1,7 @@
-%灼之花__je-0975.txt
 %标题 灼之花
 % 出处 https://github.com/zytx121/je/issues/0975
 % 歌曲信息: 专辑 未知 · 作词 COP · 作曲 COP · 编曲 COP · 歌手 洛天依&乐正绫
 title=灼之花
-tag=
-usertag=
-tagroute=
 artist=洛天依&乐正绫
 lyricist=COP
 composer=COP
@@ -83,5 +79,3 @@ source=je-0975
 ,3 ,5 ,6 ,6 ,6 3 5 3 2
 3 5 3 2 2 3 1
 1 2 1 2 1 ,7 5 4 3
-%---
-%END

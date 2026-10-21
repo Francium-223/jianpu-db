@@ -1,17 +1,14 @@
-%虹のかけら__je-0322.txt
 %标题 虹のかけら
 % 出处 https://github.com/zytx121/je/issues/0322
 % 歌曲信息: 专辑 虹のかけら · 作词 川嶋あい · 作曲 川嶋あい · 编曲 宮崎誠 · 歌手 昆夏美
 title=虹のかけら
-tag=
-usertag=
-tagroute=
 artist=昆夏美
 album=虹のかけら
 lyricist=川嶋あい
 composer=川嶋あい
 arranger=宮崎誠
 copyright=作词 川嶋あい / 作曲 川嶋あい / 编曲 宮崎誠
+transcriber=zytx121
 status=bare-numbers
 source=je-0322
 %--
@@ -63,5 +60,3 @@ source=je-0322
 ,#5 ,6 ,6 ,6 ,6 1 2 ,5 2 1
 1 2 4 3 1 1 2 4 3 1 2 1 1
 1 2 4 3 1 1 5 1 1 2 1
-%---
-%END

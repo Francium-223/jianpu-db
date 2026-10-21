@@ -1,15 +1,11 @@
-%萌萌哒之歌__je-0433.txt
 %标题 萌萌哒之歌
 % 出处 https://github.com/zytx121/je/issues/0433
 title=萌萌哒之歌
-tag=
-usertag=
-tagroute=
 artist=洛天依
 lyricist=枫2
 composer=枫2
 arranger=枫2
-transcriber=硫酸碘
+transcriber=Mars-Cat
 status=bare-numbers
 source=je-0433
 %--
@@ -39,5 +35,3 @@ source=je-0433
 5 5 3 5 5 3 5 5 7
 6 6 3 6 6 3 6 6 7
 5 5 3
-%---
-%END

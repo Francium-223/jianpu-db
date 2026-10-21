@@ -1,16 +1,13 @@
-%ハチミツ时间__je-0160.txt
 %标题 ハチミツ时间
 % 出处 https://github.com/zytx121/je/issues/0160
 % 歌曲信息: 作词 辻纯更 · 作曲 冈部启一 · 编曲 冈部启一 · 歌手 茅野爱衣 中原麻衣 丰崎爱生
 title=ハチミツ时间
-tag=
-usertag=
-tagroute=
 artist=茅野爱衣 中原麻衣 丰崎爱生
 lyricist=辻纯更
 composer=冈部启一
 arranger=冈部启一
 copyright=作词 辻纯更 / 作曲 冈部启一 / 编曲 冈部启一
+transcriber=zytx121
 status=bare-numbers
 source=je-0160
 %--
@@ -36,5 +33,3 @@ source=je-0160
 6 1 #5 5 4 5 3 7 1'
 5 4 3 4 3 1
 5 4 3 4 1'
-%---
-%END

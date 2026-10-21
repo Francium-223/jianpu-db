@@ -1,17 +1,14 @@
-%プラネタリウム__je-0314.txt
 %标题 プラネタリウム
 % 出处 https://github.com/zytx121/je/issues/0314
 % 歌曲信息: 专辑 プラネタリウム · 作词 愛 · 作曲 愛 · 编曲 愛/Ikoman · 歌手 大塚愛
 title=プラネタリウム
-tag=
-usertag=
-tagroute=
 artist=大塚愛
 album=プラネタリウム
 lyricist=愛
 composer=愛
 arranger=愛/Ikoman
 copyright=作词 愛 / 作曲 愛 / 编曲 愛/Ikoman
+transcriber=zytx121
 status=bare-numbers
 source=je-0314
 %--
@@ -43,5 +40,3 @@ source=je-0314
 4 5 6 1' 5 3 3 4 3 4 5 6 5 4 3 2 6 5 4 4
 4 5 6 1' 5 3 4 3 2 1 4 3 2 4 1 4 6 #6 6 5 4 5
 4 5 6 1' 5 3 4 3 4 5 6 5 4 3 2 6 5 4 4
-%---
-%END

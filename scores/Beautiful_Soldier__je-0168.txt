@@ -1,16 +1,13 @@
-%Beautiful_Soldier__je-0168.txt
 %标题 Beautiful_Soldier
 % 出处 https://github.com/zytx121/je/issues/0168
 % 歌曲信息: 作词 Minami · 作曲 ZAQ · 编曲 ZAQ · 歌手 Minami
 title=Beautiful_Soldier
-tag=
-usertag=
-tagroute=
 artist=Minami
 lyricist=Minami
 composer=ZAQ
 arranger=ZAQ
 copyright=作词 Minami / 作曲 ZAQ / 编曲 ZAQ
+transcriber=zytx121
 status=bare-numbers
 source=je-0168
 %--
@@ -27,5 +24,3 @@ source=je-0168
 1 2 3 4 3 1 #6 6 5 4 4 5 6 #6 6 4
 2 6 2 5 4 3 4 5 1'
 #6 6 #6 2 4 3 2 2
-%---
-%END

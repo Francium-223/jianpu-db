@@ -1,11 +1,7 @@
-%センチメンタルクライシス__je-1109.txt
 %标题 センチメンタルクライシス
 % 出处 https://github.com/zytx121/je/issues/1109
 % 歌曲信息: 专辑 Assortrip · 作词 Junko Miyajima · 作曲 Ryuhei Yamada · 编曲 未知 · 歌手 halca
 title=センチメンタルクライシス
-tag=
-usertag=
-tagroute=
 artist=halca
 album=Assortrip
 lyricist=Junko Miyajima
@@ -67,5 +63,3 @@ source=je-1109
 2 6 7 1' 7 6 6 7 6 6 7
 5 2' 5 6 7 5 #4 5 3 5 5
 5 #2 5 5 5 5 6 5 5
-%---
-%END

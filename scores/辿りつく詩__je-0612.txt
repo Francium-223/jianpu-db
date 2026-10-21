@@ -1,18 +1,14 @@
-%辿りつく詩__je-0612.txt
 %标题 辿りつく詩
 % 出处 https://github.com/zytx121/je/issues/0612
 % 歌曲信息: 专辑 Chronicle 2nd · 作词 Revo · 作曲 Revo · 编曲 Revo · 歌手 Sound Horizon
 title=辿りつく詩
-tag=
-usertag=
-tagroute=
 artist=Sound Horizon
 album=Chronicle 2nd
 lyricist=Revo
 composer=Revo
 arranger=Revo
 copyright=作词 Revo / 作曲 Revo / 编曲 Revo
-transcriber=拯救节操希灵宅
+transcriber=shenyi97
 status=bare-numbers
 source=je-0612
 %--
@@ -55,5 +51,3 @@ source=je-0612
 6 4' 3' 1' 6 1' 2' 4 3 4 5 4' 3' 6 1' 2'
 ,2 ,6 1 ,4 ,5 ,6 ,#6 ,6 ,2 ,6 2 1 ,4 ,5 ,4 ,3 ,2
 ,2 ,6 1 ,4 ,5 ,6 ,#6 ,6 ,2 ,6 2 1 ,4 ,5 ,4 ,3 ,2
-%---
-%END

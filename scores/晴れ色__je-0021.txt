@@ -1,16 +1,13 @@
-%晴れ色__je-0021.txt
 %标题 晴れ色
 % 出处 https://github.com/zytx121/je/issues/0021
 % 歌曲信息: 作词 伊那村さちこ · 作曲 小西裕子 · 编曲 佐藤ノリチカ · 歌手 高桥智秋
 title=晴れ色
-tag=
-usertag=
-tagroute=
 artist=高桥智秋
 lyricist=伊那村さちこ
 composer=小西裕子
 arranger=佐藤ノリチカ
 copyright=作词 伊那村さちこ / 作曲 小西裕子 / 编曲 佐藤ノリチカ
+transcriber=zytx121
 status=bare-numbers
 source=je-0021
 %--
@@ -37,5 +34,3 @@ source=je-0021
 ,7 #1 2 #1 2
 2 3 #4 5 6
 2 2 7 6 #4 6
-%---
-%END

@@ -1,10 +1,6 @@
-%关羽之歌__je-1420.txt
 %标题 关羽之歌
 % 出处 https://github.com/zytx121/je/issues/1420
 title=关羽之歌
-tag=
-usertag=
-tagroute=
 transcriber=fansilqigeming
 status=bare-numbers
 source=je-1420
@@ -14,5 +10,3 @@ source=je-1420
 2 3 4 6 5 4 3 2 3 ,6 2 1 7 6 7
 ,6 ,7 1 ,4 4 3 2 2 7 6 5 6 2 5 ,7
 ,5 ,6 ,7 1 2 3 4 5 #4 3 2 6
-%---
-%END

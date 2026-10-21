@@ -1,17 +1,13 @@
-%真·操戈天下__je-0416.txt
 %标题 真·操戈天下
 % 出处 https://github.com/zytx121/je/issues/0416
 % 歌曲信息: 作词 睡狸 · 作曲 睡狸 · 编曲 睡狸 · 歌手 洛天依
 title=真·操戈天下
-tag=
-usertag=
-tagroute=
 artist=洛天依
 lyricist=睡狸
 composer=睡狸
 arranger=睡狸
 copyright=作词 睡狸 / 作曲 睡狸 / 编曲 睡狸
-transcriber=硫酸碘
+transcriber=Mars-Cat
 status=bare-numbers
 source=je-0416
 %--
@@ -30,5 +26,3 @@ source=je-0416
 6 5 6 2' 2'
 2' 1' 6 5 4' 1' 2'
 6 5 4 5 4' 5' 4' 3' 4' 3' 1' 2' ,#5
-%---
-%END

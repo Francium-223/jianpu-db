@@ -1,11 +1,7 @@
-%そばにいられるだけで__je-0963.txt
 %标题 そばにいられるだけで
 % 出处 https://github.com/zytx121/je/issues/0963
 % 歌曲信息: 专辑 Ring My Bell · 作词 三浦诚司 · 作曲 糀谷拓土 · 编曲 水谷広実 · 歌手 blue drops
 title=そばにいられるだけで
-tag=
-usertag=
-tagroute=
 artist=blue drops
 album=Ring My Bell
 lyricist=三浦诚司
@@ -51,5 +47,3 @@ source=je-0963
 4 4 4 3 2 2 1 1 ,5 ,6
 ,6 ,6 1 1 4 4 5 5 6 4
 2 3 4 #6 6 5 4 4
-%---
-%END

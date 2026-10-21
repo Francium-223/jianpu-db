@@ -1,11 +1,7 @@
-%赤い花_白い花__je-0959.txt
 %标题 赤い花_白い花
 % 出处 https://github.com/zytx121/je/issues/0959
 % 歌曲信息: 专辑 未知 · 作词 中林三恵 · 作曲 中林三恵 · 编曲 未知 · 歌手 イカロス
 title=赤い花_白い花
-tag=
-usertag=
-tagroute=
 artist=イカロス
 lyricist=中林三恵
 composer=中林三恵
@@ -34,5 +30,3 @@ source=je-0959
 5 6 5 4 3 2 1 2
 6 6 5 6 2' 1' 6 6 5 6
 5 6 5 4 3 2 1 2
-%---
-%END

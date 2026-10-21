@@ -1,11 +1,7 @@
-%文学少女ロングver.__je-1072.txt
 %标题 文学少女ロングver.
 % 出处 https://github.com/zytx121/je/issues/1072
 % 歌曲信息: 专辑 男子高校生の日常 VOL.1 スペシャルCD · 歌手 日笠陽子
 title=文学少女ロングver.
-tag=
-usertag=
-tagroute=
 artist=日笠陽子
 album=男子高校生の日常 VOL.1 スペシャルCD
 transcriber=madderscientist
@@ -21,5 +17,3 @@ source=je-1072
 6 5 4 5 6 1' 7 5 6 3
 3 2 3 4 4 4 3 1' 6
 7 1' 7 7 7 2' 2' 4 2' 1' 7 6
-%---
-%END

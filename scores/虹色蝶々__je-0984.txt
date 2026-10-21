@@ -1,11 +1,7 @@
-%虹色蝶々__je-0984.txt
 %标题 虹色蝶々
 % 出处 https://github.com/zytx121/je/issues/0984
 % 歌曲信息: 专辑 君のいる景色 · 作词 黒うさP · 作曲 黒うさP · 编曲 黒うさP · 歌手 初音未来
 title=虹色蝶々
-tag=
-usertag=
-tagroute=
 artist=初音未来
 album=君のいる景色
 lyricist=黒うさP
@@ -44,5 +40,3 @@ source=je-0984
 2 1 ,7 1 2 5 3
 2 3 5 3 5 6 3 5 1' 7 5 3 6 3 2 ,6 3 5 3
 3 5 1' 7 3 5 6
-%---
-%END

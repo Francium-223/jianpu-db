@@ -1,18 +1,14 @@
-%悲しい星座__je-0487.txt
 %标题 悲しい星座
 % 出处 https://github.com/zytx121/je/issues/0487
 % 歌曲信息: 专辑 infinite synthesis · 作词 IKU · 作曲 八木沼悟志 · 编曲 八木沼悟志 · 歌手 fripSide
 title=悲しい星座
-tag=
-usertag=
-tagroute=
 artist=fripSide
 album=infinite synthesis
 lyricist=IKU
 composer=八木沼悟志
 arranger=八木沼悟志
 copyright=作词 IKU / 作曲 八木沼悟志 / 编曲 八木沼悟志
-transcriber=zgyharp1
+transcriber=moomiji
 status=bare-numbers
 source=je-0487
 %--
@@ -55,5 +51,3 @@ source=je-0487
 1=D
 3 5 6 5 6 7 6 5 2 2 2 3 3 3 5 2 2 3 ,7 ,7 1 2 3 3
 3 5 6 5 6 7 6 5 7 7 1' 1' 1' 7 6 6 1' 7 6 5 6 6
-%---
-%END

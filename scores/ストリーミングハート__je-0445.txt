@@ -1,17 +1,13 @@
-%ストリーミングハート__je-0445.txt
 %标题 ストリーミングハート
 % 出处 https://github.com/zytx121/je/issues/0445
 % 歌曲信息: 作词 DECO*27 · 作曲 DECO*27 · 编曲 kous · 歌手 初音ミク
 title=ストリーミングハート
-tag=
-usertag=
-tagroute=
 artist=初音ミク
 lyricist=DECO*27
 composer=DECO*27
 arranger=kous
 copyright=作词 DECO*27 / 作曲 DECO*27 / 编曲 kous
-transcriber=卟噜blue蓝
+transcriber=moomiji
 status=bare-numbers
 source=je-0445
 %--
@@ -59,5 +55,3 @@ source=je-0445
 3 2 3 2 5 5 3 2 3
 3 2 3 2 3 2 2 7' 2 3
 3 2 3 2 5 5 3 2 3
-%---
-%END

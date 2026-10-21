@@ -1,11 +1,7 @@
-%stand_still__je-0793.txt
 %标题 stand_still
 % 出处 https://github.com/zytx121/je/issues/0793
 % 歌曲信息: 专辑 Grow Slowly · 作词 渡边翔 · 作曲 渡边翔 · 编曲 渡边翔 · 歌手 井口裕香
 title=stand_still
-tag=
-usertag=
-tagroute=
 artist=井口裕香
 album=Grow Slowly
 lyricist=渡边翔
@@ -63,5 +59,3 @@ source=je-0793
 6 5 4 1 4 4 1 4 4 4 1 2' 1'
 6 5 4 4 1' 5 4 1' 5 4 4 1 4
 4 5 6 5 5 4 5 6 4 1' 4 5 4
-%---
-%END

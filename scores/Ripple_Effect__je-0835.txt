@@ -1,11 +1,7 @@
-%Ripple_Effect__je-0835.txt
 %标题 Ripple_Effect
 % 出处 https://github.com/zytx121/je/issues/0835
 % 歌曲信息: 专辑 Ripple Effect · 作词 ZAQ · 作曲 ZAQ · 编曲 ZAQ · 歌手 春奈るな
 title=Ripple_Effect
-tag=
-usertag=
-tagroute=
 artist=春奈るな
 album=Ripple Effect
 lyricist=ZAQ
@@ -36,5 +32,3 @@ source=je-0835
 3 2 1 ,7 1 5 3 3 4 5 4 3 3 5 6 5 4
 2 3 4 4 6 6 5 4 3 5 2 3 1
 2 1 ,5 2 #2 2 #2 2 #2 2 1 1
-%---
-%END

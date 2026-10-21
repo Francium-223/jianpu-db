@@ -1,14 +1,11 @@
-%At_Nightfall__je-0202.txt
 %标题 At_Nightfall
 % 出处 https://github.com/zytx121/je/issues/0202
 % 歌曲信息: 作曲 梶浦由记 · 编曲 梶浦由记
 title=At_Nightfall
-tag=
-usertag=
-tagroute=
 composer=梶浦由记
 arranger=梶浦由记
 copyright=作曲 梶浦由记 / 编曲 梶浦由记
+transcriber=zytx121
 status=bare-numbers
 source=je-0202
 %--
@@ -27,5 +24,3 @@ source=je-0202
 1 2 3 6 7 1 7 5
 3 5 4 3 1
 4 3 ,6 1 2 1 ,7 1 2 1
-%---
-%END

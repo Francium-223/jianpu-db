@@ -1,13 +1,9 @@
-%ふゆびより__je-0465.txt
 %标题 ふゆびより
 % 出处 https://github.com/zytx121/je/issues/0465
 % 歌曲信息: 歌手 佐々木恵梨
 title=ふゆびより
-tag=
-usertag=
-tagroute=
 artist=佐々木恵梨
-transcriber=狠丶纯洁de猫
+transcriber=zytx121
 status=bare-numbers
 source=je-0465
 %--
@@ -41,5 +37,3 @@ source=je-0465
 3 5 #4 3 2 5 3 3 5 #4 3 2 7 7
 2' 1' 7 6 1' 7 6 5 5 6 7 5 #4 5
 2' 1' 7 6 1' 7 6 5 5 6 7 5 #4 5
-%---
-%END

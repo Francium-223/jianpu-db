@@ -1,14 +1,11 @@
-%Weight_of_the_World_（壊れた世界の歌）__je-0112.txt
 %标题 Weight_of_the_World_（壊れた世界の歌）
 % 出处 https://github.com/zytx121/je/issues/0112
 % 歌曲信息: 作曲 冈部启一 · 歌手 Emi Evans
 title=Weight_of_the_World_（壊れた世界の歌）
-tag=
-usertag=
-tagroute=
 artist=Emi Evans
 composer=冈部启一
 copyright=作曲 冈部启一
+transcriber=zytx121
 status=bare-numbers
 source=je-0112
 %--
@@ -61,5 +58,3 @@ source=je-0112
 1 2 3 4 3 4 3 2 1 2
 3 2 1 ,7 1 1 1 1 ,7 1 3 5 1 1
 ,7 1 1
-%---
-%END

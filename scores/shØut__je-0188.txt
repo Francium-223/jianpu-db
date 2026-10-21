@@ -1,16 +1,13 @@
-%shØut__je-0188.txt
 %标题 shØut
 % 出处 https://github.com/zytx121/je/issues/0188
 % 歌曲信息: 作词 泽野弘之、Tielle · 作曲 泽野弘 · 编曲 泽野弘之 · 歌手 SawanoHiroyuki[nZk]:Tielle&Gemie
 title=shØut
-tag=
-usertag=
-tagroute=
 artist=SawanoHiroyuki[nZk]:Tielle&Gemie
-lyricist=泽野弘之,Tielle
+lyricist=泽野弘之、Tielle
 composer=泽野弘
 arranger=泽野弘之
-copyright=作词 泽野弘之,Tielle / 作曲 泽野弘 / 编曲 泽野弘之
+copyright=作词 泽野弘之、Tielle / 作曲 泽野弘 / 编曲 泽野弘之
+transcriber=zytx121
 status=bare-numbers
 source=je-0188
 %--
@@ -33,5 +30,3 @@ source=je-0188
 2 6 6 6 5 4 4 1' 5
 4 4 4 4 5 5 5 4 4 4 4 5 5 5
 2 6 6 6 5 4 4 1' 5
-%---
-%END

@@ -1,11 +1,7 @@
-%この狭い鸟笼の中で__je-0934.txt
 %标题 この狭い鸟笼の中で
 % 出处 https://github.com/zytx121/je/issues/0934
 % 歌曲信息: 专辑 イドへ至る森へ至るイド · 作词 未知 · 作曲 未知 · 编曲 未知 · 歌手 Sound Horizon
 title=この狭い鸟笼の中で
-tag=
-usertag=
-tagroute=
 artist=Sound Horizon
 album=イドへ至る森へ至るイド
 copyright=作词 未知 / 作曲 未知 / 编曲 未知
@@ -41,5 +37,3 @@ source=je-0934
 ,6 4 5 6 5 4 4 3 4 3 1 ,#6 1 2 1 ,6 1 2 2 3 4 4 3 3
 ,6 4 5 6 5 1' 4 3 4 5 6 5 6 4' 3' 1' 6 5 6 1'
 4 3 4 3 3 2
-%---
-%END

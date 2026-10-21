@@ -1,11 +1,7 @@
-%錯覚CROSSROADS__je-0721.txt
 %标题 錯覚CROSSROADS
 % 出处 https://github.com/zytx121/je/issues/0721
 % 歌曲信息: 专辑 錯覚CROSSROADS · 作词 畑 亜貴 · 作曲 川崎里実 · 编曲 渡辺和紀 · 歌手 BiBi
 title=錯覚CROSSROADS
-tag=
-usertag=
-tagroute=
 artist=BiBi
 album=錯覚CROSSROADS
 lyricist=畑 亜貴
@@ -64,5 +60,3 @@ source=je-0721
 4' #2' 1' 4 #2 1
 6 2' 6 2'
 6 4 5 2 4
-%---
-%END

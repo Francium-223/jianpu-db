@@ -1,15 +1,11 @@
-%メインテーマ・戦闘-I__je-0495.txt
 %标题 メインテーマ・戦闘-I
 % 出处 https://github.com/zytx121/je/issues/0495
 % 歌曲信息: 专辑 COLOR / 君を守りたい · 作曲 横山克
 title=メインテーマ・戦闘-I
-tag=
-usertag=
-tagroute=
 album=COLOR / 君を守りたい
 composer=横山克
 copyright=作曲 横山克
-transcriber=zgyharp1
+transcriber=moomiji
 status=bare-numbers
 source=je-0495
 %--
@@ -27,5 +23,3 @@ source=je-0495
 5 6 1' 4 5 6 3' 1' 4' 5'
 4' 3' 1' 5 6 6 #5 1' 7 2' #1'
 6 3
-%---
-%END

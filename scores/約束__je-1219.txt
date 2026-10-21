@@ -1,12 +1,8 @@
-%約束__je-1219.txt
 %标题 約束
 % 出处 https://github.com/zytx121/je/issues/1219
 % 歌曲信息: 歌手 リリィ、さよなら。
 title=約束
-tag=
-usertag=
-tagroute=
-artist=リリィ,さよなら。
+artist=リリィ、さよなら。
 transcriber=madderscientist
 status=bare-numbers
 source=je-1219
@@ -63,5 +59,3 @@ source=je-1219
 ,6 ,5 ,4 ,4 ,2 ,4 ,2 ,4 ,5 ,5 1 ,6
 ,6 2 1 1 ,6 2 1 1 4 2 1
 ,6 ,5 ,4 ,2 ,6 ,5 ,4 2 ,5 ,4
-%---
-%END

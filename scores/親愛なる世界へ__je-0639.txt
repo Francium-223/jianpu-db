@@ -1,18 +1,14 @@
-%親愛なる世界へ__je-0639.txt
 %标题 親愛なる世界へ
 % 出处 https://github.com/zytx121/je/issues/0639
 % 歌曲信息: 专辑 秽翼のユースティア エンディングテーママキシシングル 亲爱なる世界へ · 作词 hanon · 作曲 Ceui · 编曲 Ceui · 歌手 Ceui
 title=親愛なる世界へ
-tag=
-usertag=
-tagroute=
 artist=Ceui
 album=秽翼のユースティア エンディングテーママキシシングル 亲爱なる世界へ
 lyricist=hanon
 composer=Ceui
 arranger=Ceui
 copyright=作词 hanon / 作曲 Ceui / 编曲 Ceui
-transcriber=纳兰鸟儿
+transcriber=zytx121
 status=bare-numbers
 source=je-0639
 %--
@@ -46,5 +42,3 @@ source=je-0639
 ,6 6 5 4 3 ,6 4 3 1 ,5 ,6
 2 3 4 5
 4 5 6
-%---
-%END

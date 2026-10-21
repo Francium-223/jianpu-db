@@ -1,11 +1,7 @@
-%Shiny_tale__je-0828.txt
 %标题 Shiny_tale
 % 出处 https://github.com/zytx121/je/issues/0828
 % 歌曲信息: 专辑 Shiny tale · 作词 Yuki · 作曲 Seek · 编曲 Mix Speaker's,Inc. · 歌手 Mix Speaker's,Inc.
 title=Shiny_tale
-tag=
-usertag=
-tagroute=
 artist=Mix Speaker's,Inc.
 album=Shiny tale
 lyricist=Yuki
@@ -32,5 +28,3 @@ source=je-0828
 5 3 3 #6 6
 2 6 #6 5 5 5 1' 5 4
 3 3 4 4 5 4 3 ,6 ,6 3 #1 #1'
-%---
-%END

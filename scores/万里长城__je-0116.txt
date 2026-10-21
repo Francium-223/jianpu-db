@@ -1,14 +1,11 @@
-%万里长城__je-0116.txt
 %标题 万里长城
 % 出处 https://github.com/zytx121/je/issues/0116
 % 歌曲信息: 作曲 太田美知彦 · 编曲 太田美知彦
 title=万里长城
-tag=
-usertag=
-tagroute=
 composer=太田美知彦
 arranger=太田美知彦
 copyright=作曲 太田美知彦 / 编曲 太田美知彦
+transcriber=zytx121
 status=bare-numbers
 source=je-0116
 %--
@@ -25,5 +22,3 @@ source=je-0116
 2 4 5 6 2 1 2
 ,6 1 2 4 3 4 3 2 1 2
 ,6 1 2 4 3 4 3 2 1 2
-%---
-%END

@@ -1,13 +1,9 @@
-%告白日和、です！__je-0736.txt
 %标题 告白日和、です！
 % 出处 https://github.com/zytx121/je/issues/0736
 % 歌曲信息: 专辑 告白日和、です！ · 作词 畑 亜貴 · 作曲 若林 充 · 编曲 若林 充 · 歌手 南ことり/小泉花陽
 title=告白日和、です！
-tag=
-usertag=
-tagroute=
 artist=南ことり/小泉花陽
-album=告白日和,です！
+album=告白日和、です！
 lyricist=畑 亜貴
 composer=若林 充
 arranger=若林 充
@@ -68,5 +64,3 @@ source=je-0736
 3 3 2 3 4 5 4 4
 3 1 1 2 ,6 ,6
 ,6 ,7 1 2 3 4 5 4 #2 4 3 1 1
-%---
-%END

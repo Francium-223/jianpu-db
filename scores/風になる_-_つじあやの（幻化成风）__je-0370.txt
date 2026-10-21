@@ -1,17 +1,14 @@
-%風になる_-_つじあやの（幻化成风）__je-0370.txt
 %标题 風になる_-_つじあやの（幻化成风）
 % 出处 https://github.com/zytx121/je/issues/0370
 % 歌曲信息: 专辑 猫の恩返し · 作词 つじあやの · 作曲 つじあやの · 编曲 根岸孝旨 · 歌手 つじあやの
 title=風になる_-_つじあやの（幻化成风）
-tag=
-usertag=
-tagroute=
 artist=つじあやの
 album=猫の恩返し
 lyricist=つじあやの
 composer=つじあやの
 arranger=根岸孝旨
 copyright=作词 つじあやの / 作曲 つじあやの / 编曲 根岸孝旨
+transcriber=xqyww123
 status=bare-numbers
 source=je-0370
 %--
@@ -64,5 +61,3 @@ source=je-0370
 5 6 5 6 7 1' 3 3 6 6 5
 1 2 1 4 3 2 1 4 3 2 1
 1 2 ,6 1 2 1
-%---
-%END

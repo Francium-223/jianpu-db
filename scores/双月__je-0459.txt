@@ -1,18 +1,14 @@
-%双月__je-0459.txt
 %标题 双月
 % 出处 https://github.com/zytx121/je/issues/0459
 % 歌曲信息: 专辑 THE IDOLM@STER MASTER ARTIST 3 06 四条贵音 · 作词 kyo · 作曲 kyo · 编曲 kyo · 歌手 四条贵音
 title=双月
-tag=
-usertag=
-tagroute=
 artist=四条贵音
 album=THE IDOLM@STER MASTER ARTIST 3 06 四条贵音
 lyricist=kyo
 composer=kyo
 arranger=kyo
 copyright=作词 kyo / 作曲 kyo / 编曲 kyo
-transcriber=桥居
+transcriber=GlacierStudioQ
 status=bare-numbers
 source=je-0459
 %--
@@ -38,5 +34,3 @@ source=je-0459
 2 2 2 1 2 3 4 3 1 ,6
 ,6 ,7 1 2 1 ,5 5 4 3 1 ,6
 ,7 1 2 3
-%---
-%END

@@ -1,17 +1,14 @@
-%葬歌__je-0224.txt
 %标题 葬歌
 % 出处 https://github.com/zytx121/je/issues/0224
 % 歌曲信息: 专辑 ilem黑暗曲系列 · 作词 ilem · 作曲 ilem · 编曲 ilem · 歌手 洛天依、言和
 title=葬歌
-tag=
-usertag=
-tagroute=
-artist=洛天依,言和
+artist=洛天依、言和
 album=ilem黑暗曲系列
 lyricist=ilem
 composer=ilem
 arranger=ilem
 copyright=作词 ilem / 作曲 ilem / 编曲 ilem
+transcriber=zytx121
 status=bare-numbers
 source=je-0224
 %--
@@ -43,5 +40,3 @@ source=je-0224
 5 6 #6 #6 #6 #6 6 5 6 4 3 2
 3 4 5 4 4 3 2
 3 2 3 2 3' 2' 3' 2'
-%---
-%END

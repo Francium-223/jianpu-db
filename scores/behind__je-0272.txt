@@ -1,17 +1,14 @@
-%behind__je-0272.txt
 %标题 behind
 % 出处 https://github.com/zytx121/je/issues/0272
 % 歌曲信息: 专辑 behind · 作词 やなぎなぎ · 作曲 やなぎなぎ · 编曲 川嶋可能 · 歌手 夏目美緒(cv.礒部花凜)、森川葉月(cv.芳野由奈)、小宮恵那(cv.Lynn)
 title=behind
-tag=
-usertag=
-tagroute=
-artist=夏目美緒(cv.礒部花凜),森川葉月(cv.芳野由奈),小宮恵那(cv.Lynn)
+artist=夏目美緒(cv.礒部花凜)、森川葉月(cv.芳野由奈)、小宮恵那(cv.Lynn)
 album=behind
 lyricist=やなぎなぎ
 composer=やなぎなぎ
 arranger=川嶋可能
 copyright=作词 やなぎなぎ / 作曲 やなぎなぎ / 编曲 川嶋可能
+transcriber=zytx121
 status=bare-numbers
 source=je-0272
 %--
@@ -32,5 +29,3 @@ source=je-0272
 1 6 3 3 5 3 1' 7 5 2 3
 3 2 3 1 5 3 3 3
 3 2 3
-%---
-%END

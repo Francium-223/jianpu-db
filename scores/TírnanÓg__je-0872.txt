@@ -1,11 +1,7 @@
-%TírnanÓg__je-0872.txt
 %标题 TírnanÓg
 % 出处 https://github.com/zytx121/je/issues/0872
 % 歌曲信息: 专辑 未知 · 作词 高漱爱虹 · 作曲 炭田慎也 · 编曲 华原大辅 · 歌手 μ（CV：上田丽奈）
 title=TírnanÓg
-tag=
-usertag=
-tagroute=
 artist=μ（CV：上田丽奈）
 lyricist=高漱爱虹
 composer=炭田慎也
@@ -55,5 +51,3 @@ source=je-0872
 6 3 1' 7 5 3 3 1' 7 5 6
 3 6 7 1' 7 5 7 1' 2' 1'
 1' 1' 7 1' 2' 5 2' 1' 6
-%---
-%END

@@ -1,11 +1,7 @@
-%Last_regrets__je-0680.txt
 %标题 Last_regrets
 % 出处 https://github.com/zytx121/je/issues/0680
 % 歌曲信息: 专辑 未知 · 作词 麻枝准 · 作曲 麻枝准 · 编曲 高瀬一矢 · 歌手 彩菜
 title=Last_regrets
-tag=
-usertag=
-tagroute=
 artist=彩菜
 lyricist=麻枝准
 composer=麻枝准
@@ -46,5 +42,3 @@ source=je-0680
 1 2 1 2 3
 3 2 5 6 3 3 2 5 6 3 1 2 5 3
 3 2 5 6 3 3 2 5 6 3 1 2 5 3
-%---
-%END

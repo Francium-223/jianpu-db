@@ -1,15 +1,11 @@
-%梦桜__je-0508.txt
 %标题 梦桜
 % 出处 https://github.com/zytx121/je/issues/0508
 % 歌曲信息: 专辑 千年の恋 · 作曲 Jusqu'à Grand-Père
 title=梦桜
-tag=
-usertag=
-tagroute=
 album=千年の恋
 composer=Jusqu'à Grand-Père
 copyright=作曲 Jusqu'à Grand-Père
-transcriber=约瑟斯德林克
+transcriber=moomiji
 status=bare-numbers
 source=je-0508
 %--
@@ -43,5 +39,3 @@ source=je-0508
 ,1 ,2 ,3 ,5 ,6 ,3 ,1 ,2
 ,1 ,2 ,3 1 ,7 1 ,5
 ,5 5 5 4 4 3 1 2 1
-%---
-%END

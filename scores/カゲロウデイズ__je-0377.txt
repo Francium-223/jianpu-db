@@ -1,18 +1,14 @@
-%カゲロウデイズ__je-0377.txt
 %标题 カゲロウデイズ
 % 出处 https://github.com/zytx121/je/issues/0377
 % 歌曲信息: 专辑 メカクシティデイズ · 作词 Jin（自然之敌P） · 作曲 Jin（自然之敌P） · 编曲 Jin（自然之敌P） · 歌手 初音ミクAppend
 title=カゲロウデイズ
-tag=
-usertag=
-tagroute=
 artist=初音ミクAppend
 album=メカクシティデイズ
 lyricist=Jin（自然之敌P）
 composer=Jin（自然之敌P）
 arranger=Jin（自然之敌P）
 copyright=作词 Jin（自然之敌P） / 作曲 Jin（自然之敌P） / 编曲 Jin（自然之敌P）
-transcriber=单通道图
+transcriber=moomiji
 status=bare-numbers
 source=je-0377
 %--
@@ -49,5 +45,3 @@ source=je-0377
 1' 6 5 4 5 6 5 4 2 1 1' 6 5 4 2 1 2 4 2
 1' 1' 1' 1' 2' 6 5 4 5 4 6 5 4 5 4 5 4 5 6 5 4 3
 1' 6 5 4 5 6 5 4 2 1 6 5 4 2 1 2 1 2 4 2
-%---
-%END

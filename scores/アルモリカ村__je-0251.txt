@@ -1,12 +1,9 @@
-%アルモリカ村__je-0251.txt
 %标题 アルモリカ村
 % 出处 https://github.com/zytx121/je/issues/0251
 % 歌曲信息: 歌手 Falcom Sound Team jdk
 title=アルモリカ村
-tag=
-usertag=
-tagroute=
 artist=Falcom Sound Team jdk
+transcriber=zytx121
 status=bare-numbers
 source=je-0251
 %--
@@ -20,5 +17,3 @@ source=je-0251
 5 4 3 2
 3 5 1' 4 5 6 2 2 4 6 5
 3 5 1' 4 5 6 2' 1' 7 6 5 4 3 2 1
-%---
-%END

@@ -1,17 +1,14 @@
-%anamnesis__je-0013.txt
 %标题 anamnesis
 % 出处 https://github.com/zytx121/je/issues/0013
 % 歌曲信息: 专辑 《anamnesis》 · 作词 Annabel · 作曲 myu · 编曲 myu · 歌手 Annabel
 title=anamnesis
-tag=
-usertag=
-tagroute=
 artist=Annabel
 album=anamnesis
 lyricist=Annabel
 composer=myu
 arranger=myu
 copyright=作词 Annabel / 作曲 myu / 编曲 myu
+transcriber=zytx121
 status=bare-numbers
 source=je-0013
 %--
@@ -53,5 +50,3 @@ source=je-0013
 3 1 4 1 2
 5 5 3 ,7 1
 ,5 ,4 ,3 1
-%---
-%END

@@ -1,16 +1,13 @@
-%BAD_APPLE__je-0309.txt
 %标题 BAD_APPLE
 % 出处 https://github.com/zytx121/je/issues/0309
 % 歌曲信息: 专辑 Lovelight · 作曲 上海アリス幻乐团、Masayoshi Minoshima/ZUN · 编曲 Masayoshi Minoshima/ZUN · 歌手 nomico
 title=BAD_APPLE
-tag=
-usertag=
-tagroute=
 artist=nomico
 album=Lovelight
-composer=上海アリス幻乐团,Masayoshi Minoshima/ZUN
+composer=上海アリス幻乐团、Masayoshi Minoshima/ZUN
 arranger=Masayoshi Minoshima/ZUN
-copyright=作曲 上海アリス幻乐团,Masayoshi Minoshima/ZUN / 编曲 Masayoshi Minoshima/ZUN
+copyright=作曲 上海アリス幻乐团、Masayoshi Minoshima/ZUN / 编曲 Masayoshi Minoshima/ZUN
+transcriber=zytx121
 status=bare-numbers
 source=je-0309
 %--
@@ -54,5 +51,3 @@ source=je-0309
 2 3 2 1 ,7 ,5 ,6 ,5 ,6 ,7 1 2 3 ,6
 3 5 5 6 3 2 3 2 3 5 6 3 2 3
 6 7 1' 7 6 5 3 2 3 2 1 ,7 ,5 ,6
-%---
-%END

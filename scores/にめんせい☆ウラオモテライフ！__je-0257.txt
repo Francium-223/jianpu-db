@@ -1,16 +1,13 @@
-%にめんせい☆ウラオモテライフ！__je-0257.txt
 %标题 にめんせい☆ウラオモテライフ！
 % 出处 https://github.com/zytx121/je/issues/0257
 % 歌曲信息: 作词 篠崎绚人、橘亮祐 · 作曲 篠崎绚人、橘亮祐 · 编曲 篠崎绚人、橘亮祐 · 歌手 土间埋
 title=にめんせい☆ウラオモテライフ！
-tag=
-usertag=
-tagroute=
 artist=土间埋
-lyricist=篠崎绚人,橘亮祐
-composer=篠崎绚人,橘亮祐
-arranger=篠崎绚人,橘亮祐
-copyright=作词 篠崎绚人,橘亮祐 / 作曲 篠崎绚人,橘亮祐 / 编曲 篠崎绚人,橘亮祐
+lyricist=篠崎绚人、橘亮祐
+composer=篠崎绚人、橘亮祐
+arranger=篠崎绚人、橘亮祐
+copyright=作词 篠崎绚人、橘亮祐 / 作曲 篠崎绚人、橘亮祐 / 编曲 篠崎绚人、橘亮祐
+transcriber=zytx121
 status=bare-numbers
 source=je-0257
 %--
@@ -45,5 +42,3 @@ source=je-0257
 4 5 6 #6 6 5 1 1 5 4
 4 3 3 4 6 5
 4 4 4 4 4 4 4 #2 #2 3 4
-%---
-%END

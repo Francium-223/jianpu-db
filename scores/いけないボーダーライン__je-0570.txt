@@ -1,18 +1,14 @@
-%いけないボーダーライン__je-0570.txt
 %标题 いけないボーダーライン
 % 出处 https://github.com/zytx121/je/issues/0570
 % 歌曲信息: 专辑 いけないボーダーライン · 作词 西直紀 · 作曲 コモリタミノル · 编曲 コモリタミノル · 歌手 ワルキューレ
 title=いけないボーダーライン
-tag=
-usertag=
-tagroute=
 artist=ワルキューレ
 album=いけないボーダーライン
 lyricist=西直紀
 composer=コモリタミノル
 arranger=コモリタミノル
 copyright=作词 西直紀 / 作曲 コモリタミノル / 编曲 コモリタミノル
-transcriber=霜落xss
+transcriber=zytx121
 status=bare-numbers
 source=je-0570
 %--
@@ -57,5 +53,3 @@ source=je-0570
 5 5 5 5 6 5 4 4 5 6 4 #6 6 5 4 6 5
 5 4 5 4 3 2 4 5 4 5 4 3 2
 5 4 5 4 3 2 4 5 4 5 4 3 2
-%---
-%END

@@ -1,11 +1,7 @@
-%Starting_line__je-0652.txt
 %标题 Starting_line
 % 出处 https://github.com/zytx121/je/issues/0652
 % 歌曲信息: 专辑 美しき残酷な世界 · 作词 稻叶エミ · 作曲 奈良悠树 · 编曲 未知 · 歌手 日笠阳子
 title=Starting_line
-tag=
-usertag=
-tagroute=
 artist=日笠阳子
 album=美しき残酷な世界
 lyricist=稻叶エミ
@@ -57,5 +53,3 @@ source=je-0652
 2 2 2 4 3 2 1 ,7 1
 1 ,7 1 2 1 2 3 4 3 1 5 1
 5 4 3 1 1 1 ,7 1 2 1
-%---
-%END

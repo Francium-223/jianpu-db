@@ -1,11 +1,7 @@
-%For_フルーツバスケット__je-0909.txt
 %标题 For_フルーツバスケット
 % 出处 https://github.com/zytx121/je/issues/0909
 % 歌曲信息: 作词 冈崎律子 · 作曲 冈崎律子 · 编曲 未知 · 歌手 冈崎律子
 title=For_フルーツバスケット
-tag=
-usertag=
-tagroute=
 artist=冈崎律子
 lyricist=冈崎律子
 composer=冈崎律子
@@ -53,5 +49,3 @@ source=je-0909
 3 6 7 7 1' 7 6 2' 1' 7 6 5
 3 4 5 5 4 4 3 4 2 3 4 4 5 4 3 2 3
 3 6 7 7 1' 7 6 2' 1' 7 1'
-%---
-%END

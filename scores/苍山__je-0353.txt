@@ -1,13 +1,10 @@
-%苍山__je-0353.txt
 %标题 苍山
 % 出处 https://github.com/zytx121/je/issues/0353
 % 歌曲信息: 专辑 天龙八部Online游戏音乐集 · 歌手 徐鲤
 title=苍山
-tag=
-usertag=
-tagroute=
 artist=徐鲤
 album=天龙八部Online游戏音乐集
+transcriber=njupt4145438
 status=bare-numbers
 source=je-0353
 %--
@@ -32,5 +29,3 @@ source=je-0353
 6 1' 5 6 1' 2'
 ,6 ,#6 1 2 4 5 6 6 4 5 4 5 6 1' 5 6 2
 4 5 6 4 5 1 3 2
-%---
-%END

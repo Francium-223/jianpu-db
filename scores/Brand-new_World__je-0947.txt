@@ -1,11 +1,7 @@
-%Brand-new_World__je-0947.txt
 %标题 Brand-new_World
 % 出处 https://github.com/zytx121/je/issues/0947
 % 歌曲信息: 专辑 Brand-new World/ピアチェー · 作词 西泽幸奏 · 作曲 WEST GROUND · 编曲 WEST GROUND · 歌手 西泽幸奏
 title=Brand-new_World
-tag=
-usertag=
-tagroute=
 artist=西泽幸奏
 album=Brand-new World/ピアチェー
 lyricist=西泽幸奏
@@ -55,5 +51,3 @@ source=je-0947
 5 3 3 2 3 5
 5 7 6 5 6 6 5 7 6 5 1' 7 6 6
 5 7 6 5 6 6 5 #4 5 5
-%---
-%END

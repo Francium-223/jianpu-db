@@ -1,11 +1,7 @@
-%Credens_justitiam__je-1339.txt
 %标题 Credens_justitiam
 % 出处 https://github.com/zytx121/je/issues/1339
 % 歌曲信息: 专辑 「魔法少女まどか☆マギカ」 Ultimate Best · 作曲 梶浦由記
 title=Credens_justitiam
-tag=
-usertag=
-tagroute=
 album=「魔法少女まどか☆マギカ」 Ultimate Best
 composer=梶浦由記
 copyright=作曲 梶浦由記
@@ -26,5 +22,3 @@ source=je-1339
 4 3 4 5
 1 2 3 1 4 1 2 3 1 4 3 2 3 1 2 3 3
 2 3 3
-%---
-%END

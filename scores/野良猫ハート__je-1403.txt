@@ -1,11 +1,7 @@
-%野良猫ハート__je-1403.txt
 %标题 野良猫ハート
 % 出处 https://github.com/zytx121/je/issues/1403
 % 歌曲信息: 作词 はと · 作曲 drops · 歌手 遥そら / 高森奈津美 / 浅川悠 / 種崎敦美
 title=野良猫ハート
-tag=
-usertag=
-tagroute=
 artist=遥そら / 高森奈津美 / 浅川悠 / 種崎敦美
 lyricist=はと
 composer=drops
@@ -48,5 +44,3 @@ source=je-1403
 4 6 1' 7 1' 2' 7 5 2' 2' #1' 7 #1'
 6 7 1' 2' 1'
 5 4 3 4 1' 1' 1' 6 1' 3' 2'
-%---
-%END

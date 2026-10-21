@@ -1,18 +1,14 @@
-%现実という名の怪物と戦う者たち__je-0489.txt
 %标题 现実という名の怪物と戦う者たち
 % 出处 https://github.com/zytx121/je/issues/0489
 % 歌曲信息: 专辑 笑う約束 · 作词 高橋優 · 作曲 高橋優 · 编曲 浅田信一 · 歌手 高橋優
 title=现実という名の怪物と戦う者たち
-tag=
-usertag=
-tagroute=
 artist=高橋優
 album=笑う約束
 lyricist=高橋優
 composer=高橋優
 arranger=浅田信一
 copyright=作词 高橋優 / 作曲 高橋優 / 编曲 浅田信一
-transcriber=RockyHan
+transcriber=rockyhann
 status=bare-numbers
 source=je-0489
 %--
@@ -34,5 +30,3 @@ source=je-0489
 ,1 ,2 ,3 ,4 ,3 ,2 ,1 ,1 ,2 ,3 ,4 ,3 ,2 ,1
 ,1 ,2 ,3 ,4 ,3 ,2 ,1 ,1 7 ,1 ,2
 ,1 ,1 ,5 ,1 ,1 ,5 ,3 ,2 ,1
-%---
-%END

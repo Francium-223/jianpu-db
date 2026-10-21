@@ -1,18 +1,14 @@
-%冥夜花伝廊__je-0492.txt
 %标题 冥夜花伝廊
 % 出处 https://github.com/zytx121/je/issues/0492
 % 歌曲信息: 专辑 冥夜花伝廊 · 作词 畑亜貴 · 作曲 上松範康 · 编曲 菊田大介 · 歌手 栗林みな実
 title=冥夜花伝廊
-tag=
-usertag=
-tagroute=
 artist=栗林みな実
 album=冥夜花伝廊
 lyricist=畑亜貴
 composer=上松範康
 arranger=菊田大介
 copyright=作词 畑亜貴 / 作曲 上松範康 / 编曲 菊田大介
-transcriber=zgyharp1
+transcriber=moomiji
 status=bare-numbers
 source=je-0492
 %--
@@ -43,5 +39,3 @@ source=je-0492
 1 5 4 5 #6 5 4 5 4 #2 2 #2 5 1 5 4 5 #6 5 #6 #2' 2' 1' 5
 5 6 6 6 7 1' 7 3 3 6 7 1'
 ,6 3 2 3 5 3 5 1' 7 6 6 3 7 6 6 #5 6 6 #5 6 6 #5 6 6
-%---
-%END

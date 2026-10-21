@@ -1,17 +1,13 @@
-%夜祭__je-0421.txt
 %标题 夜祭
 % 出处 https://github.com/zytx121/je/issues/0421
 % 歌曲信息: 作词 ST君 · 作曲 正弦函数P · 编曲 湌谑P · 歌手 洛天依
 title=夜祭
-tag=
-usertag=
-tagroute=
 artist=洛天依
 lyricist=ST君
 composer=正弦函数P
 arranger=湌谑P
 copyright=作词 ST君 / 作曲 正弦函数P / 编曲 湌谑P
-transcriber=硫酸碘
+transcriber=Mars-Cat
 status=bare-numbers
 source=je-0421
 %--
@@ -71,5 +67,3 @@ source=je-0421
 1 2 3 4 5 3 4 5 1' 2'
 1 2 3 4 5 3 4 5 1' 2'
 1 2 3 4 5 3 4 5 1' 2'
-%---
-%END

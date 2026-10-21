@@ -1,11 +1,7 @@
-%happy_endings__je-0647.txt
 %标题 happy_endings
 % 出处 https://github.com/zytx121/je/issues/0647
 % 歌曲信息: 专辑 ED《happy endings》 · 作词 meg rock · 作曲 神前 暁(MONACA) · 编曲 未知 · 歌手 花泽香菜
 title=happy_endings
-tag=
-usertag=
-tagroute=
 artist=花泽香菜
 album=ED《happy endings
 lyricist=meg rock
@@ -37,5 +33,3 @@ source=je-0647
 3 3 2 ,6 2 3 3 2 1 2 ,7 1 ,7 ,3 ,6 ,5 ,4 ,3 ,4 1 ,5 ,4 ,3 ,4 1 1 2 1 2 3 3
 3 3 2 ,6 2 3 3 2 5 3 5 5 4 4 3' 5 4 3'
 1 ,7 ,6 ,7 1 1 ,7 ,6 ,7 1 1 2 #2 2 1 2 #2 #2 2 1 2 #2 #2 4 2
-%---
-%END

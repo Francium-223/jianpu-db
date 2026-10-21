@@ -1,11 +1,7 @@
-%Butter-fly__je-1035.txt
 %标题 Butter-fly
 % 出处 https://github.com/zytx121/je/issues/1035
 % 歌曲信息: 专辑 未知 · 作词 千绵伟功 · 作曲 千绵伟功 · 编曲 渡部チェル · 歌手 和田光司
 title=Butter-fly
-tag=
-usertag=
-tagroute=
 artist=和田光司
 lyricist=千绵伟功
 composer=千绵伟功
@@ -49,5 +45,3 @@ source=je-1035
 1=E
 2 3 4 5 4 5 4 3 2 3
 1 3 5 5 5 5 4 4 3 1 2 3
-%---
-%END

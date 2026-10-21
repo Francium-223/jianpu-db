@@ -1,16 +1,13 @@
-%One_In_A_Billion__je-0110.txt
 %标题 One_In_A_Billion
 % 出处 https://github.com/zytx121/je/issues/0110
 % 歌曲信息: 作词 藤林圣子 · 作曲 渡边未来 · 编曲 R·O·N · 歌手 Wake_Up,May'n!
 title=One_In_A_Billion
-tag=
-usertag=
-tagroute=
 artist=Wake_Up,May'n!
 lyricist=藤林圣子
 composer=渡边未来
 arranger=R·O·N
 copyright=作词 藤林圣子 / 作曲 渡边未来 / 编曲 R·O·N
+transcriber=zytx121
 status=bare-numbers
 source=je-0110
 %--
@@ -42,5 +39,3 @@ source=je-0110
 2 7 7 6 7 6 5
 6 7 1' 7 6 5 6
 1' 7 6 5 #4 #4 5 6 6 5
-%---
-%END

@@ -1,17 +1,14 @@
-%I_SAY_YES__je-0351.txt
 %标题 I_SAY_YES
 % 出处 https://github.com/zytx121/je/issues/0351
 % 歌曲信息: 专辑 I SAY YES · 作词 森 由里子 · 作曲 坂部 刚 · 编曲 新井理生 · 歌手 ICHIKO
 title=I_SAY_YES
-tag=
-usertag=
-tagroute=
 artist=ICHIKO
 album=I SAY YES
 lyricist=森 由里子
 composer=坂部 刚
 arranger=新井理生
 copyright=作词 森 由里子 / 作曲 坂部 刚 / 编曲 新井理生
+transcriber=moomiji
 status=bare-numbers
 source=je-0351
 %--
@@ -58,5 +55,3 @@ source=je-0351
 4 5 4 3 2 4 6 2 2 4 6 2' 1' #6 6 6
 2 3 4 1' 6
 4 5 4 3 2 4 6 2 2 4 6 6 5 6
-%---
-%END

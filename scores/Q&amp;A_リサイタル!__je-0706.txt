@@ -1,11 +1,7 @@
-%Q&amp;A_リサイタル!__je-0706.txt
 %标题 Q&amp;A_リサイタル!
 % 出处 https://github.com/zytx121/je/issues/0706
 % 歌曲信息: 专辑 Q&A リサイタル! · 作词 田渊智也 · 作曲 田渊智也 · 编曲 古川贵浩 · 歌手 户松遥
 title=Q&amp;A_リサイタル!
-tag=
-usertag=
-tagroute=
 artist=户松遥
 album=Q&A リサイタル!
 lyricist=田渊智也
@@ -76,5 +72,3 @@ source=je-0706
 7 5 5 5 1' 7 6 7 6 5
 3 3 5 3 3 5 1' 7 7 6 5 #4 5
 1' 7 6 5 6 5 5
-%---
-%END

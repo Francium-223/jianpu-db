@@ -1,17 +1,13 @@
-%キミガタメ__je-0550.txt
 %标题 キミガタメ
 % 出处 https://github.com/zytx121/je/issues/0550
 % 歌曲信息: 专辑 未知 · 作词 衣笠道雄 · 作曲 下川直哉 · 编曲 豆田将 · 歌手 Suara
 title=キミガタメ
-tag=
-usertag=
-tagroute=
 artist=Suara
 lyricist=衣笠道雄
 composer=下川直哉
 arranger=豆田将
 copyright=作词 衣笠道雄 / 作曲 下川直哉 / 编曲 豆田将
-transcriber=zgyharp1
+transcriber=zytx121
 status=bare-numbers
 source=je-0550
 %--
@@ -51,5 +47,3 @@ source=je-0550
 2 6 6 ,6 1 2 6 2 6
 6 5 4 5 2 3 4 6 5 6 3 1 2 2 3 4
 6 5 6 1' 6 2'
-%---
-%END

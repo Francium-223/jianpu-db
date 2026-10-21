@@ -1,17 +1,14 @@
-%あなたがいるから__je-0306.txt
 %标题 あなたがいるから
 % 出处 https://github.com/zytx121/je/issues/0306
 % 歌曲信息: 专辑 A thousand feelings · 作词 小松未步 · 作曲 小松未步 · 编曲 池田大介 · 歌手 小松未步
 title=あなたがいるから
-tag=
-usertag=
-tagroute=
 artist=小松未步
 album=A thousand feelings
 lyricist=小松未步
 composer=小松未步
 arranger=池田大介
 copyright=作词 小松未步 / 作曲 小松未步 / 编曲 池田大介
+transcriber=zytx121
 status=bare-numbers
 source=je-0306
 %--
@@ -59,5 +56,3 @@ source=je-0306
 1=#F
 1 1 2 3 4
 5 4 2 2 3 4 3 5 4
-%---
-%END
