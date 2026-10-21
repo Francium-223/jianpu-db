@@ -257,12 +257,16 @@ python skill/jianpu-melody-lookup/lookup.py "5 5 5 3 2 2 3 5 3 2 1 1 6 1 2 6 5 5
 
 * 曲谱均来自公开曲谱站(中国曲谱网 qupu123 / 歌谱简谱网 jianpu.cn / 简谱之家 jianpujia),
   `source` 字段逐首标注站内 id, 便于回溯。
+* 另有 **自由神社曲谱库**(zytx121/je, MIT 许可)的 1,379 首社区记谱: 原帖就是 jianpu-ly 文本,
+  不是图片转写, 所以 `status` 与 OCR 来源不同; `source` 写作 `je-<issue号>`, 可回到
+  `https://github.com/zytx121/je/issues/<issue号>`; 每首的记谱人保留在 `transcriber` 字段。
+  按 MIT 要求保留其出处标注; 该库版权归各记谱人与原作者。
 * 本站只是**旋律记谱**(不含歌词), 用于检索与研究; 版权归原词曲作者所有, 请勿商用。
 
 ## 数据构成(实测)
 
 * `status`: `ocr` {stats.get('status:ocr', 0)} 首(由图片机器转写) / `ok` {stats.get('status:ok', 0)} 首(人工校对过)
-* `source_host`: qupu123 {stats.get('host:qupu123', 0)} / jianpucn {stats.get('host:jianpucn', 0)} / jianpujia {stats.get('host:jianpujia', 0)} / 其它 {sum(v for k, v in stats.items() if k.startswith('host:') and k.split(':')[1] not in ('qupu123', 'jianpucn', 'jianpujia', '?'))} / 未记录 {stats.get('host:?', 0)}
+* `source_host`: qupu123 {stats.get('host:qupu123', 0)} / jianpucn {stats.get('host:jianpucn', 0)} / jianpujia {stats.get('host:jianpujia', 0)} / je {stats.get('host:je', 0)} / 其它 {sum(v for k, v in stats.items() if k.startswith('host:') and k.split(':')[1] not in ('qupu123', 'jianpucn', 'jianpujia', 'je', '?'))} / 未记录 {stats.get('host:?', 0)}
 * 音符总数: {n_pitch_notes:,}(不含休止/念白; 由 `jptok.seq` 统计)
 
 > ⚠ 这三行以前是**硬编码**的(写着 `ocr 7295` / `1,422,852`), 数据涨了卡片还不动 ——

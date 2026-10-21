@@ -290,6 +290,8 @@ opus=作品编号
 
 ### 鸣谢
 
+[自由神社曲谱库（zytx121/je）](https://github.com/zytx121/je)：MIT 许可，1,379 首社区记谱（`source=je-<issue>`，每首记谱人见 `transcriber` 字段）
+
 [jianpu-ly](https://github.com/ssb22/jianpu-ly/blob/master/README_zh-Hans.md)：规范的记谱语言
 
 [Partitura](https://github.com/CPJKU/partitura)：MIDI转MusicXML的工具
