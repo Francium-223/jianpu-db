@@ -273,6 +273,17 @@ python skill/jianpu-melody-lookup/lookup.py "5 5 5 3 2 2 3 5 3 2 1 1 6 1 2 6 5 5
 `data.jsonl` 由仓库 CI 每次 push 后自动重建(`parse_scores.py` 重生成 `data.json`/`data.jsonl`,
 `export_hf.py` 转出本卡与本文件), 数字与上表同步。
 """
+    # 生成戳: 每次 publish 都换一行, 好让 HF 侧确实产生一个 commit —— 否则内容没变,
+    # upload_folder 是空操作, 数据集仓库的 lastModified 不动, 也就测不出"一次发布带多少下载"。
+    import datetime
+    _sha = (os.environ.get("GITHUB_SHA") or "local")[:7]
+    _utc = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%MZ")
+    card = card.rstrip("\n") + (
+        "\n\n---\n\n"
+        f"> 本卡由 `export_hf.py` 于 {_utc} 生成（提交 `{_sha}`，语料 {len(rows)} 首 / "
+        f"音符 {n_pitch_notes:,}）。这一行每次发布都会变，用于校验数据集确实被刷新。\n"
+    )
+
     with io.open(os.path.join(args.out, "README.md"), "w", encoding="utf-8", newline="\n") as g:
         g.write(card)
     print(f"写出 {args.out}/README.md (dataset card)")
