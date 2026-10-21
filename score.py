@@ -527,6 +527,12 @@ class Score():
 			'alias': self.others.get('alias', []),
 			# 歌手(独立字段, 2026-09-24): 以前只混在 usertag 里, 下游没法直接问"这首谁唱的"。
 			'artist': self.others.get('artist', []),
+			# 歌曲信息的制作名单(2026-10-20): album/lyricist/composer/arranger 与 artist 并列,
+			# 以前只有 copyright= 一行字符串, 下游拿不到结构化的"谁作词/谁作曲"。
+			'album': self.others.get('album', []),
+			'lyricist': self.others.get('lyricist', []),
+			'composer': self.others.get('composer', []),
+			'arranger': self.others.get('arranger', []),
 			'transcriber': self.others.get('transcriber', []),
 			'sections': sections,
 			'score': full,

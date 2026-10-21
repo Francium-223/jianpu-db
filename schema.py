@@ -382,6 +382,20 @@ FIELDS = {
 	# 「最低那 10% 的分位」: 平均值看不出的"个别音很虚"靠它看(例: 平均 0.95 但 p10 只有 0.42)
 	'conf_p10': {'label': {'zh': '置信（低 10%）', 'en': 'Confidence p10'}, 'attr': None, 'kind': 'readonly',
 				 'note': '置信度最低那 10% 的分位值 —— 平均看着还行、个别音很虚时靠它发现'},
+	# 歌曲信息里的制作名单(2026-10-20 加): 专辑/作词/作曲/编曲 各一个字段, 与歌手并列。
+	# 以前它们只写在曲谱头部的 `copyright=` 一行里 -> 下游问不了"谁作的曲"。
+	'album': {'label': {'zh': '专辑', 'en': 'Album'}, 'attr': 'album', 'kind': 'list',
+			  'editable': True, 'hint': '所属专辑（多个用逗号）',
+			  'note': '来自原谱页面的歌曲信息; 没有就空着, 不造'},
+	'lyricist': {'label': {'zh': '作词', 'en': 'Lyricist'}, 'attr': 'lyricist', 'kind': 'list',
+				 'editable': True, 'hint': '作词人（多个用逗号）',
+				 'note': '来自原谱页面的歌曲信息'},
+	'composer': {'label': {'zh': '作曲', 'en': 'Composer'}, 'attr': 'composer', 'kind': 'list',
+				 'editable': True, 'hint': '作曲人（多个用逗号）',
+				 'note': '来自原谱页面的歌曲信息'},
+	'arranger': {'label': {'zh': '编曲', 'en': 'Arranger'}, 'attr': 'arranger', 'kind': 'list',
+				 'editable': True, 'hint': '编曲人（多个用逗号）',
+				 'note': '来自原谱页面的歌曲信息'},
 	'tags': {'label': {'zh': '标签', 'en': 'Tags'}, 'attr': None, 'kind': 'readonly',
 			 'note': '由「人标」(usertag) 按 tags.json 推导出来, 不直接手写 —— 要加就加到人标'},
 	'usertags': {'label': {'zh': '人标', 'en': 'Human tags'}, 'attr': 'usertag', 'kind': 'list',
@@ -433,6 +447,10 @@ schema = {
 	# 通用曲名(《海阔天空》《爱》《家》)靠它 + 文件名消歧才分得清谁是谁。
 	# 来源是**有证据的**: harvest_artists.py 从原谱站页面标题抽出来、按 source 缓存的歌手。
 	'artist': Attr(default_parse, (), '歌手(可多个); 来自原谱站页面, 与 分类/… 标签分开'),
+	'album': Attr(default_parse, (), '专辑(可多个); 来自原谱页面的「歌曲信息」'),
+	'lyricist': Attr(default_parse, (), '作词(可多个)'),
+	'composer': Attr(default_parse, (), '作曲(可多个)'),
+	'arranger': Attr(default_parse, (), '编曲(可多个)'),
 	# 转写置信度（2026-09-30 加）: 0~1 的单值字符串。**必须在这里登记**，否则它会被
 	# `default_parse` 当多值列表切成 `["0.93"]`，检索侧 `float()` 拿不到数（并列时就用不上它了）。
 	'confidence': Attr(return_itself, (), '转写置信度 0~1（转写时算的 top-1 概率平均; 老谱没这行）'),
