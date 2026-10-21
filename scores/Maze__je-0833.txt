@@ -1,7 +1,11 @@
+%Maze__je-0833.txt
 %标题 Maze
 % 出处 https://github.com/zytx121/je/issues/0833
 % 歌曲信息: 专辑 未知 · 作词 ああ · 作曲 奥井雅美 · 编曲 MACARONI · 歌手 近江知永
 title=Maze
+tag=
+usertag=
+tagroute=
 artist=近江知永
 lyricist=ああ
 composer=奥井雅美
@@ -36,3 +40,5 @@ source=je-0833
 ,2 ,3 3 ,3 ,2 4 ,4
 ,6 ,7 7 ,7 ,6 6 5 ,6 7 ,7 ,6 6
 ,5 ,6 ,7 7 7 ,7 ,6
+%---
+%END

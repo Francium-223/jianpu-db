@@ -1,7 +1,11 @@
+%winter_alice__je-1004.txt
 %标题 winter_alice
 % 出处 https://github.com/zytx121/je/issues/1004
 % 歌曲信息: 专辑 未知 · 作词 doriko · 作曲 doriko · 编曲 doriko · 歌手 初音ミク
 title=winter_alice
+tag=
+usertag=
+tagroute=
 artist=初音ミク
 lyricist=doriko
 composer=doriko
@@ -40,3 +44,5 @@ source=je-1004
 ,5 2 3 2 3 2 3 ,5 3 2 3 4 3
 ,5 2 1 2 3 4 5 2 1 ,7 1
 ,6 ,7 1 1 1 2 1 1 1 2 1 2 3 5 3 7 7 7 7 1' 7 1'
+%---
+%END

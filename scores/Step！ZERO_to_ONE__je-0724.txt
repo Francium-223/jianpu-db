@@ -1,7 +1,11 @@
+%Step！ZERO_to_ONE__je-0724.txt
 %标题 Step！ZERO_to_ONE
 % 出处 https://github.com/zytx121/je/issues/0724
 % 歌曲信息: 专辑 君のこころは辉いてるかい？ · 作词 畑 亜貴 · 作曲 高田 暁 · 编曲 高田 暁 · 歌手 Aqours
 title=Step！ZERO_to_ONE
+tag=
+usertag=
+tagroute=
 artist=Aqours
 album=君のこころは辉いてるかい？
 lyricist=畑 亜貴
@@ -63,3 +67,5 @@ source=je-0724
 1 1 1 1 2 1 ,5 1 4 3 2 1
 1 1 1 1 1 ,5 1 2 1
 1 1 1 1 1 1 2 3 4 3 4 5 1 2 2 1
+%---
+%END

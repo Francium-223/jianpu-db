@@ -1,7 +1,11 @@
+%叫ぶしかない青春__je-1273.txt
 %标题 叫ぶしかない青春
 % 出处 https://github.com/zytx121/je/issues/1273
 % 歌曲信息: 专辑 シャンプーの匂いがした (Special Edition) · 作词 秋元康Yasushi Akimoto · 作曲 中村泰輔 · 歌手 22/7
 title=叫ぶしかない青春
+tag=
+usertag=
+tagroute=
 artist=22/7
 album=シャンプーの匂いがした (Special Edition)
 lyricist=秋元康Yasushi Akimoto
@@ -47,3 +51,5 @@ source=je-1273
 1 2 4 5 6 6 6 6 5 4 5 6 6 4 3 4
 6 6 6 6 6 5 4 5 6 6 4 3 2
 1' 1' 1' #6 6 2 6 6 6 5 4 5 2 3 4 3 3 3 4 5
+%---
+%END

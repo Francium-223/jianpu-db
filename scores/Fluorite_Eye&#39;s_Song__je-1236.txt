@@ -1,7 +1,11 @@
+%Fluorite_Eye&#39;s_Song__je-1236.txt
 %标题 Fluorite_Eye&#39;s_Song
 % 出处 https://github.com/zytx121/je/issues/1236
 % 歌曲信息: 专辑 Fluorite Eye's Song · 作词 只野菜摘 Natsumi Tadano · 作曲 神前暁 Satoru Kousaki · 编曲 神前暁 Satoru Kousaki · 歌手 八木海莉
 title=Fluorite_Eye&#39;s_Song
+tag=
+usertag=
+tagroute=
 artist=八木海莉
 album=Fluorite Eye's Song
 lyricist=只野菜摘 Natsumi Tadano
@@ -97,3 +101,5 @@ source=je-1236
 4 5 6 2 3 4 ,6 ,7 1 ,4 ,5 ,6
 4 5 6 2 3 4 ,6 ,7 1 ,4 ,5 ,6
 4 5 #5 5 2 3 4 ,6 ,7 1 ,4 ,5 ,6
+%---
+%END

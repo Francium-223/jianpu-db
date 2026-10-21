@@ -1,7 +1,11 @@
+%メインテーマ_~Baby_Blue_Sky~__je-1194.txt
 %标题 メインテーマ_~Baby_Blue_Sky~
 % 出处 https://github.com/zytx121/je/issues/1194
 % 歌曲信息: 专辑 THX! -サンクス!- ORIGINAL SOUNDTRACK · 歌手 C-CLAYS
 title=メインテーマ_~Baby_Blue_Sky~
+tag=
+usertag=
+tagroute=
 artist=C-CLAYS
 album=THX! -サンクス!- ORIGINAL SOUNDTRACK
 transcriber=madderscientist
@@ -51,3 +55,5 @@ source=je-1194
 7 6 3 6 7 3' 7 6 7 6 3 6 7 3' 7
 6 5 2 5 6 2' 6 5 6 5 2 5 6 2' 6
 3 #4 5 7 3 #4 5 2 3 5 6
+%---
+%END

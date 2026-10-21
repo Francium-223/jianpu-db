@@ -1,7 +1,11 @@
+%ARCADIA__je-1440.txt
 %标题 ARCADIA
 % 出处 https://github.com/zytx121/je/issues/1440
 % 歌曲信息: 作词 香椎ﾓｲﾐ · 作曲 香椎ﾓｲﾐ · 编曲 香椎ﾓｲﾐ · 歌手 ヰ世界情緒
 title=ARCADIA
+tag=
+usertag=
+tagroute=
 artist=ヰ世界情緒
 lyricist=香椎ﾓｲﾐ
 composer=香椎ﾓｲﾐ
@@ -49,3 +53,5 @@ source=je-1440
 1 1' 7 1' 5 7 1' 2' 2' 3'
 5 6 3' 2' 1' 1' 7 1' 7 1' 2' 3' 5 6 6
 5 6 1' 5 7 1' 1' 5 6 1' 3' 2' 1' 1'
+%---
+%END

@@ -1,12 +1,16 @@
+%Hello！MyWorld！！__je-0183.txt
 %标题 Hello！MyWorld！！
 % 出处 https://github.com/zytx121/je/issues/0183
 % 歌曲信息: 作词 林英树 · 作曲 佐藤纯一 · 编曲 fhána、A_bee · 歌手 fhána
 title=Hello！MyWorld！！
+tag=
+usertag=
+tagroute=
 artist=fhána
 lyricist=林英树
 composer=佐藤纯一
-arranger=fhána、A_bee
-copyright=作词 林英树 / 作曲 佐藤纯一 / 编曲 fhána、A_bee
+arranger=fhána,A_bee
+copyright=作词 林英树 / 作曲 佐藤纯一 / 编曲 fhána,A_bee
 transcriber=zytx121
 status=bare-numbers
 source=je-0183
@@ -28,3 +32,5 @@ source=je-0183
 6 6 5 5 4 3 6 6 5 5 4 3 1
 6 5 4 2 1 2 1 4 3 5
 6 5 4 2 1 2 1
+%---
+%END

@@ -1,13 +1,17 @@
+%青空Jumping_Heart__je-0093.txt
 %标题 青空Jumping_Heart
 % 出处 https://github.com/zytx121/je/issues/0093
 % 歌曲信息: 专辑 青空Jumping Heart · 作词 畑_亜貴 · 作曲 伊藤賢，光増ハジメ · 编曲 EFFY · 歌手 Aqours
 title=青空Jumping_Heart
+tag=
+usertag=
+tagroute=
 artist=Aqours
 album=青空Jumping Heart
 lyricist=畑_亜貴
-composer=伊藤賢，光増ハジメ
+composer=伊藤賢,光増ハジメ
 arranger=EFFY
-copyright=作词 畑_亜貴 / 作曲 伊藤賢，光増ハジメ / 编曲 EFFY
+copyright=作词 畑_亜貴 / 作曲 伊藤賢,光増ハジメ / 编曲 EFFY
 transcriber=zytx121
 status=bare-numbers
 source=je-0093
@@ -61,3 +65,5 @@ source=je-0093
 5 5 4 3 4 5 1 1 2 3 4 5 6 7 2' 1'
 2 3 4 3 4 5 6 1' 7 1' 5
 5 1' 7 1' 5 1' 7 1'
+%---
+%END

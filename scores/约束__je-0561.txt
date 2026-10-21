@@ -1,7 +1,11 @@
+%约束__je-0561.txt
 %标题 约束
 % 出处 https://github.com/zytx121/je/issues/0561
 % 歌曲信息: 专辑 キラリ宝物 · 作词 未知 · 作曲 未知 · 编曲 未知 · 歌手 未知
 title=约束
+tag=
+usertag=
+tagroute=
 album=キラリ宝物
 copyright=作词 未知 / 作曲 未知 / 编曲 未知
 transcriber=zytx121
@@ -43,3 +47,5 @@ source=je-0561
 4 3 4 4 3 4 4 3 4 3 2 3
 3 2 3 1 2 3 1 1 6 3 2 1 ,6
 ,6 1 2 1 2 1
+%---
+%END

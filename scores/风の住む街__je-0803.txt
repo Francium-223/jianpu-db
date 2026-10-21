@@ -1,7 +1,11 @@
+%风の住む街__je-0803.txt
 %标题 风の住む街
 % 出处 https://github.com/zytx121/je/issues/0803
 % 歌曲信息: 专辑 风の住む街 · 作词 未知 · 作曲 矶村由纪子 · 编曲 未知 · 歌手 未知
 title=风の住む街
+tag=
+usertag=
+tagroute=
 album=风の住む街
 composer=矶村由纪子
 copyright=作词 未知 / 作曲 矶村由纪子 / 编曲 未知
@@ -31,3 +35,5 @@ source=je-0803
 3 5 7 6 7 3' 2' 6 7
 3 5 7 6 7 2' 7 3 6 5
 3 5 5 6 3 2 3
+%---
+%END

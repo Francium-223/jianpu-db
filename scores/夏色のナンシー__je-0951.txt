@@ -1,7 +1,11 @@
+%夏色のナンシー__je-0951.txt
 %标题 夏色のナンシー
 % 出处 https://github.com/zytx121/je/issues/0951
 % 歌曲信息: 专辑 未知 · 作词 三浦徳子 · 作曲 筒美京平 · 编曲 未知 · 歌手 野水伊織
 title=夏色のナンシー
+tag=
+usertag=
+tagroute=
 artist=野水伊織
 lyricist=三浦徳子
 composer=筒美京平
@@ -41,3 +45,5 @@ source=je-0951
 5 6 7 5 2' 5 6 7 5 2' 5 6 7 5 2' 5 6 7 5
 6 5 3 3 3 4 3 3 3 3 3 #2 3 6
 6 5 4 3 2 4 ,7 1
+%---
+%END

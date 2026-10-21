@@ -1,7 +1,11 @@
+%baby_maybe_恋のボタン__je-0786.txt
 %标题 baby_maybe_恋のボタン
 % 出处 https://github.com/zytx121/je/issues/0786
 % 歌曲信息: 专辑 Snow halation · 作词 畑亜贵 · 作曲 山口朗彦 · 编曲 山口朗彦 · 歌手 μ's
 title=baby_maybe_恋のボタン
+tag=
+usertag=
+tagroute=
 artist=μ's
 album=Snow halation
 lyricist=畑亜贵
@@ -68,3 +72,5 @@ source=je-0786
 2 2 2 2 3 4 5
 1 ,7 1 2 1 1
 1 ,7 1 2 3 3
+%---
+%END

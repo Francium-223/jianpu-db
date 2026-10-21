@@ -1,7 +1,11 @@
+%colorless_wind__je-0939.txt
 %标题 colorless_wind
 % 出处 https://github.com/zytx121/je/issues/0939
 % 歌曲信息: 专辑 colorless wind · 作词 畑亜貴 · 作曲 大久保薫 · 编曲 大久保薫 · 歌手 结城爱良
 title=colorless_wind
+tag=
+usertag=
+tagroute=
 artist=结城爱良
 album=colorless wind
 lyricist=畑亜貴
@@ -32,3 +36,5 @@ source=je-0939
 6 5 4 3 3 5 1 3 4 5 2 3 4 5 3 4 3 4 3
 1 ,7 1 3 6 1' 7 5 5 3 2 3 3 5 7 1' 6
 5 1 1 2 1 4 3 4 5 6 5 4 3 2 2 3 3
+%---
+%END

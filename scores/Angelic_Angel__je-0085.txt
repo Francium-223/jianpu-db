@@ -1,7 +1,11 @@
+%Angelic_Angel__je-0085.txt
 %标题 Angelic_Angel
 % 出处 https://github.com/zytx121/je/issues/0085
 % 歌曲信息: 专辑 Angelic_Angel／Hello,星を数えて · 作词 畑_亜貴 · 作曲 森慎太郎 · 编曲 倉內達矢 · 歌手 μ's
 title=Angelic_Angel
+tag=
+usertag=
+tagroute=
 artist=μ's
 album=Angelic_Angel／Hello,星を数えて
 lyricist=畑_亜貴
@@ -52,3 +56,5 @@ source=je-0085
 1 1' 7 6 5 2 3 4 5 6 3
 1 5 1 1 1 1 5 1 1
 #6 #5 5 4 5
+%---
+%END

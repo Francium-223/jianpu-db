@@ -1,11 +1,15 @@
+%桜色ダイアリー__je-0315.txt
 %标题 桜色ダイアリー
 % 出处 https://github.com/zytx121/je/issues/0315
 % 歌曲信息: 作词 妄想キャリブレーション、泽井美空 · 作曲 本田正树 · 歌手 妄想キャリブレーション
 title=桜色ダイアリー
+tag=
+usertag=
+tagroute=
 artist=妄想キャリブレーション
-lyricist=妄想キャリブレーション、泽井美空
+lyricist=妄想キャリブレーション,泽井美空
 composer=本田正树
-copyright=作词 妄想キャリブレーション、泽井美空 / 作曲 本田正树
+copyright=作词 妄想キャリブレーション,泽井美空 / 作曲 本田正树
 transcriber=zytx121
 status=bare-numbers
 source=je-0315
@@ -32,3 +36,5 @@ source=je-0315
 1 4 4 1 4 4 4 3 4 5 6
 6 5 4 2 4 3 4 5 5 4 4
 6 5 4 2 4 2 3 4 5 5 4 4
+%---
+%END

@@ -1,7 +1,11 @@
+%Oh,Love&amp;Peace！__je-0778.txt
 %标题 Oh,Love&amp;Peace！
 % 出处 https://github.com/zytx121/je/issues/0778
 % 歌曲信息: 专辑 Wonderful Rush · 作词 畑亜贵 · 作曲 黒須克彦 · 编曲 黒須克彦 · 歌手 μ's
 title=Oh,Love&amp;Peace！
+tag=
+usertag=
+tagroute=
 artist=μ's
 album=Wonderful Rush
 lyricist=畑亜贵
@@ -56,3 +60,5 @@ source=je-0778
 1 1 1 ,7 1 2 2 2 1 2 3 3 4 3 2 1 1
 ,6 4 5 4 3 2 1 ,7 2 1
 1 ,5 1 2 1 2 3 1 2 1 ,7 ,5 ,3 ,6 ,6 1 4 3 1 2 1 ,5 1 2 1 2 3
+%---
+%END

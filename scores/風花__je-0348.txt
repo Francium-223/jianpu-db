@@ -1,7 +1,11 @@
+%風花__je-0348.txt
 %标题 風花
 % 出处 https://github.com/zytx121/je/issues/0348
 % 歌曲信息: 专辑 THE IDOLM@STER MASTER ARTIST 2 - FIRST SEASON - 06 四条貴音 · 作词 橋本由香利 · 作曲 橋本由香利 · 编曲 橋本由香利 · 歌手 四条貴音
 title=風花
+tag=
+usertag=
+tagroute=
 artist=四条貴音
 album=THE IDOLM@STER MASTER ARTIST 2 - FIRST SEASON - 06 四条貴音
 lyricist=橋本由香利
@@ -39,3 +43,5 @@ source=je-0348
 5 6 1' 7 7 1' 7 7
 6 7 1' 4 4 1' 2'
 #6 1' 2' 3'
+%---
+%END

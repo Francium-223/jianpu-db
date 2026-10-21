@@ -1,8 +1,12 @@
+%霜雪千年__je-0226.txt
 %标题 霜雪千年
 % 出处 https://github.com/zytx121/je/issues/0226
 % 歌曲信息: 专辑 霜雪千年灯 · 作词 COP · 作曲 COP · 编曲 COP · 歌手 洛天依、乐正绫
 title=霜雪千年
-artist=洛天依、乐正绫
+tag=
+usertag=
+tagroute=
+artist=洛天依,乐正绫
 album=霜雪千年灯
 lyricist=COP
 composer=COP
@@ -50,3 +54,5 @@ source=je-0226
 4 5 6 1' 6 2 4 4 5 6 1' 6
 5 6 5 4
 2' 3' 2' 1'
+%---
+%END

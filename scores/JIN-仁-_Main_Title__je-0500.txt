@@ -1,7 +1,11 @@
+%JIN-仁-_Main_Title__je-0500.txt
 %标题 JIN-仁-_Main_Title
 % 出处 https://github.com/zytx121/je/issues/0500
 % 歌曲信息: 专辑 「JIN-仁-」オリジナル・サウンドトラック ~ファイナル・セレクション~ · 作曲 髙見優
 title=JIN-仁-_Main_Title
+tag=
+usertag=
+tagroute=
 album=「JIN-仁-」オリジナル・サウンドトラック ~ファイナル・セレクション~
 composer=髙見優
 copyright=作曲 髙見優
@@ -33,3 +37,5 @@ source=je-0500
 2 3 4 3 1 ,6
 2' 3' 4' 3' 1' 6
 2 3 4 3 1 ,6 1 2 2 1
+%---
+%END

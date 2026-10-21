@@ -1,7 +1,11 @@
+%晴る__je-1359.txt
 %标题 晴る
 % 出处 https://github.com/zytx121/je/issues/1359
 % 歌曲信息: 作词 n-buna · 作曲 n-buna · 歌手 ヨルシカ
 title=晴る
+tag=
+usertag=
+tagroute=
 artist=ヨルシカ
 lyricist=n-buna
 composer=n-buna
@@ -56,3 +60,5 @@ source=je-1359
 ,6 3 2 1 2 3 5
 1 6 6 5 5 3 3 7 6 7 1'
 1 2 3 4 5 2 1 2 2 1
+%---
+%END

@@ -1,7 +1,11 @@
+%Paris__je-1360.txt
 %标题 Paris
 % 出处 https://github.com/zytx121/je/issues/1360
 % 歌曲信息: 歌手 Cy Leo
 title=Paris
+tag=
+usertag=
+tagroute=
 artist=Cy Leo
 transcriber=madderscientist
 status=bare-numbers
@@ -79,3 +83,5 @@ source=je-1360
 4' 6 1' 7 1'
 3' 5' 1'' 7' 1'' 5' 3' 5'
 4'' 6' 1'' 7' 1''
+%---
+%END

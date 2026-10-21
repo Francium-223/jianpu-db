@@ -1,7 +1,11 @@
+%フンフンフン_だよ、らき☆すた__je-0081.txt
 %标题 フンフンフン_だよ、らき☆すた
 % 出处 https://github.com/zytx121/je/issues/0081
 % 歌曲信息: 歌手 神前晓
 title=フンフンフン_だよ、らき☆すた
+tag=
+usertag=
+tagroute=
 artist=神前晓
 transcriber=zytx121
 status=bare-numbers
@@ -30,3 +34,5 @@ source=je-0081
 2 3 #4 4 3 2
 2' 2' 2' 2' 5' 7 2' 2' 2' 2' 5' 7 2' 2' 2' 2' 2' 5' #4'
 2 5 5 5 5 #5 #5 5 5'
+%---
+%END

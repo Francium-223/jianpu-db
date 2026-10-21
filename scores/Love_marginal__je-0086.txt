@@ -1,7 +1,11 @@
+%Love_marginal__je-0086.txt
 %标题 Love_marginal
 % 出处 https://github.com/zytx121/je/issues/0086
 % 歌曲信息: 专辑 Love_marginal · 作词 畑_亜貴 · 作曲 藤末_樹 · 编曲 藤末_樹・松坂_康司 · 歌手 Printemps
 title=Love_marginal
+tag=
+usertag=
+tagroute=
 artist=Printemps
 album=Love_marginal
 lyricist=畑_亜貴
@@ -59,3 +63,5 @@ source=je-0086
 ,7 1 2 2 2 2 2 2 5 4 4 3 3 2 3
 ,6 ,6 1 1 1 2 3 ,6 ,6 1 1 1 2 3
 ,6 ,7 1 1 1 2 3 2 1 2 2 2 1 1
+%---
+%END

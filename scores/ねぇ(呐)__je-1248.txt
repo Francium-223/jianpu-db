@@ -1,7 +1,11 @@
+%ねぇ(呐)__je-1248.txt
 %标题 ねぇ(呐)
 % 出处 https://github.com/zytx121/je/issues/1248
 % 歌曲信息: 专辑 LOVE STORY BEST ~緋色の欠片~ · 作词 藤田麻衣子 · 作曲 藤田麻衣子 · 歌手 藤田麻衣子
 title=ねぇ(呐)
+tag=
+usertag=
+tagroute=
 artist=藤田麻衣子
 album=LOVE STORY BEST ~緋色の欠片~
 lyricist=藤田麻衣子
@@ -45,3 +49,5 @@ source=je-1248
 4 4 1' 1' 4 4 1' 1' 4 6 5 4 3 4
 1' #6 6 4 4 4 ,5 ,6 ,#6 ,6 ,5 4 3 4
 5 6 #6 6 5 4 4 3 3 4 4
+%---
+%END

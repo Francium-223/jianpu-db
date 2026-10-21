@@ -1,7 +1,11 @@
+%雷神の左腕__je-0932.txt
 %标题 雷神の左腕
 % 出处 https://github.com/zytx121/je/issues/0932
 % 歌曲信息: 专辑 Chronicle · 作词 未知 · 作曲 未知 · 编曲 未知 · 歌手 Sound Horizon
 title=雷神の左腕
+tag=
+usertag=
+tagroute=
 artist=Sound Horizon
 album=Chronicle
 copyright=作词 未知 / 作曲 未知 / 编曲 未知
@@ -25,3 +29,5 @@ source=je-0932
 7 3 3 7 6 7 1' 2' 7 3 3 7 6 7 1' 2'
 7 3 7 3 6 7 6 3 7 3 7 3 6 7 6 3
 3 #4 5 7 3' 3' 2' 1' 7 3 3 #4 5 7 3' 3' 2' 1' 7 3'
+%---
+%END

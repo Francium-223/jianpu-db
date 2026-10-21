@@ -1,7 +1,11 @@
+%Ring_of_Fortune__je-0898.txt
 %标题 Ring_of_Fortune
 % 出处 https://github.com/zytx121/je/issues/0898
 % 歌曲信息: 专辑 未知 · 作词 林直孝 · 作曲 未知 · 编曲 千葉直樹 · 歌手 佐佐木恵梨
 title=Ring_of_Fortune
+tag=
+usertag=
+tagroute=
 artist=佐佐木恵梨
 lyricist=林直孝
 arranger=千葉直樹
@@ -28,3 +32,5 @@ source=je-0898
 6 6 6 6 6 6 5 6 #6 1' 2 2 5 5 #4 5 6
 ,6 ,6 6 6 5 1 1 1' #6 6 4
 2 3 4 5 6 5 5 #6 6 5 4 3 2 2
+%---
+%END

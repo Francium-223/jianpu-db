@@ -1,7 +1,11 @@
+%見つめて__je-0752.txt
 %标题 見つめて
 % 出处 https://github.com/zytx121/je/issues/0752
 % 歌曲信息: 专辑 THE IDOLM@STER ANIM@TION MASTER 07 · 作词 贝田由里子 · 作曲 NBGI（Yoshi） · 编曲 佐久间诚 · 歌手 四条貴音　萩原雪歩
 title=見つめて
+tag=
+usertag=
+tagroute=
 artist=四条貴音 萩原雪歩
 album=THE IDOLM@STER ANIM@TION MASTER 07
 lyricist=贝田由里子
@@ -36,3 +40,5 @@ source=je-0752
 6 #6 6 1' 1' 1' 1' 1' #6 6 #6 6 4 6 #6 6 5 4 5 6 6
 6 1' 1' 1' 1' 1' #6 6 #6 6 4 6 #6 6 5 4 3 4
 1' 1' 1' 1' 1' #6 6 #6 6 4 4 5 4 5 4 4
+%---
+%END

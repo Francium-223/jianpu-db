@@ -1,7 +1,11 @@
+%astral_ability（op）__je-1324.txt
 %标题 astral_ability（op）
 % 出处 https://github.com/zytx121/je/issues/1324
 % 歌曲信息: 专辑 Riddle Joker · 作词 中山♡マミ(Angel Note) · 作曲 Famishin · 编曲 井ノ原智 · 歌手 桥本美雪
 title=astral_ability（op）
+tag=
+usertag=
+tagroute=
 artist=桥本美雪
 album=Riddle Joker
 lyricist=中山♡マミ(Angel Note)
@@ -38,3 +42,5 @@ source=je-1324
 1 2 1 2 3 2 1 ,6
 ,6 ,7 1 1 ,7 1 ,6 2
 2 1 2 1 2 3 3
+%---
+%END

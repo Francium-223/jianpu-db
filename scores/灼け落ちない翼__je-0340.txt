@@ -1,7 +1,11 @@
+%灼け落ちない翼__je-0340.txt
 %标题 灼け落ちない翼
 % 出处 https://github.com/zytx121/je/issues/0340
 % 歌曲信息: 专辑 Bravely you/灼け落ちない翼 · 作词 麻枝准 · 作曲 麻枝准 · 编曲 ANANT-GARDE EYES · 歌手 多田葵
 title=灼け落ちない翼
+tag=
+usertag=
+tagroute=
 artist=多田葵
 album=Bravely you/灼け落ちない翼
 lyricist=麻枝准
@@ -46,3 +50,5 @@ source=je-0340
 5 4 3 2 4 5 3 2 1
 2 5 5 5 4 3 2 3
 1 2 3 3 2 1 ,7 2 1
+%---
+%END

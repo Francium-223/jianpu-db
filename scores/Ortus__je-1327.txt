@@ -1,7 +1,11 @@
+%Ortus__je-1327.txt
 %标题 Ortus
 % 出处 https://github.com/zytx121/je/issues/1327
 % 歌曲信息: 歌手 相宮零 · 专辑 終のステラ オリジナルサウンドトラック
 title=Ortus
+tag=
+usertag=
+tagroute=
 artist=相宮零
 album=終のステラ オリジナルサウンドトラック
 transcriber=madderscientist
@@ -40,3 +44,5 @@ source=je-1327
 1' 1' 2' 1' 1' 5 1' 5 5 6 6 3 2 2
 ,6 ,7 1 ,7 ,6 ,7 1 2 6 5 #5 6
 1 5 5 6 5
+%---
+%END

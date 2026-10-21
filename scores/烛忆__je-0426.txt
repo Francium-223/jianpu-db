@@ -1,7 +1,11 @@
+%烛忆__je-0426.txt
 %标题 烛忆
 % 出处 https://github.com/zytx121/je/issues/0426
 % 歌曲信息: 原曲 Otokaze-夏恋 · 作词 mini胡萝卜 · 歌手 洛天依
 title=烛忆
+tag=
+usertag=
+tagroute=
 artist=洛天依
 lyricist=mini胡萝卜
 copyright=作词 mini胡萝卜
@@ -50,3 +54,5 @@ source=je-0426
 5 6 4 5 3 1 2 1 2 3
 5 6 5 5 5 4 5 1' 2' 6
 5 6 4 5 3 1 2 1 2
+%---
+%END

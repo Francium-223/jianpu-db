@@ -1,7 +1,11 @@
+%扉をあけて__je-0005.txt
 %标题 扉をあけて
 % 出处 https://github.com/zytx121/je/issues/0005
 % 歌曲信息: 歌手 anza
 title=扉をあけて
+tag=
+usertag=
+tagroute=
 artist=anza
 transcriber=zytx121
 status=bare-numbers
@@ -34,3 +38,5 @@ source=je-0005
 #4 #4 #4 4 4 4 4 4 4 4 4 4 4 3 4 5 2 1
 6 5 4 6 6 6 6 6 6 6 6 6 6 5 4 6 5 1 5 6 5 #4
 #4 #4 #4 4 5 6 4 5 6 4 4 4 4 2 4 5 6 5 4 4
+%---
+%END

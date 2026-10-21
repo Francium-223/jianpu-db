@@ -1,6 +1,10 @@
+%私たちの罪と罰__je-0178.txt
 %标题 私たちの罪と罰
 % 出处 https://github.com/zytx121/je/issues/0178
 title=私たちの罪と罰
+tag=
+usertag=
+tagroute=
 transcriber=zytx121
 status=bare-numbers
 source=je-0178
@@ -19,3 +23,5 @@ source=je-0178
 2 3 5 4 4 3 2 ,6 ,7 1 2 ,7 ,6 ,7 ,#5
 ,6 3 2 3 4 5 4 3 2 3
 6 7 1' 7 6 6 7 1' 7 6 #5 4 3
+%---
+%END

@@ -1,7 +1,11 @@
+%君ノ记忆__je-0539.txt
 %标题 君ノ记忆
 % 出处 https://github.com/zytx121/je/issues/0539
 % 歌曲信息: 作词 mao · 作曲 安瀬圣 · 编曲 安瀬圣 · 歌手 mao
 title=君ノ记忆
+tag=
+usertag=
+tagroute=
 artist=mao
 lyricist=mao
 composer=安瀬圣
@@ -33,3 +37,5 @@ source=je-0539
 3 2 1 ,7 1 3 3 2 ,6
 3 4 2 1 ,7 ,5 ,7 1 1
 3 4 2 1 ,7 1 2 1
+%---
+%END

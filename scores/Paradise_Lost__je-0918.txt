@@ -1,7 +1,11 @@
+%Paradise_Lost__je-0918.txt
 %标题 Paradise_Lost
 % 出处 https://github.com/zytx121/je/issues/0918
 % 歌曲信息: 专辑 Paradise Lost · 作词 畑亜贵 · 作曲 菊田大介 · 编曲 菊田大介 · 歌手 茅原実里
 title=Paradise_Lost
+tag=
+usertag=
+tagroute=
 artist=茅原実里
 album=Paradise Lost
 lyricist=畑亜贵
@@ -49,3 +53,5 @@ source=je-0918
 #6 6 5 4 4 4 1 ,6 ,7 1 2 3 4 4 3 4 5 4 5 6 3 2 2 2 1 2 3 2
 4 3 4 5 2 2 2 4 5 6 5
 4 3 4 5 2 2 2 1 2 4 3 2
+%---
+%END

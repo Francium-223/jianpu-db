@@ -1,7 +1,11 @@
+%Angles__je-1386.txt
 %标题 Angles
 % 出处 https://github.com/zytx121/je/issues/1386
 % 歌曲信息: 作词 Diggy-MO’ · 作曲 長谷川大介 · 编曲 長谷川大介 · 歌手 Ave Mujica
 title=Angles
+tag=
+usertag=
+tagroute=
 artist=Ave Mujica
 lyricist=Diggy-MO’
 composer=長谷川大介
@@ -63,3 +67,5 @@ source=je-1386
 ,6 ,6 4 4 4 4 1 2 3 4 1 1 2 1 5 4 3 3 4
 4 4 4 1 4 4 4 1 4 5 4 4 3 4 4 3 2 1 2
 2 2 3 4 1 1 4 5 4 4 1 4 3 3 3 3 2
+%---
+%END

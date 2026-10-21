@@ -1,7 +1,11 @@
+%Fairy_Dang-Sing__je-0480.txt
 %标题 Fairy_Dang-Sing
 % 出处 https://github.com/zytx121/je/issues/0480
 % 歌曲信息: 专辑 スーパーロボット大戦OG ORIGINAL GENERATIONS オリジナルサウンドトラック · 作曲 JAM Project
 title=Fairy_Dang-Sing
+tag=
+usertag=
+tagroute=
 album=スーパーロボット大戦OG ORIGINAL GENERATIONS オリジナルサウンドトラック
 composer=JAM Project
 copyright=作曲 JAM Project
@@ -30,3 +34,5 @@ source=je-0480
 5 6 5 4 3 1 2 3 1 4
 4 3 4 4 3 5
 1 5 6
+%---
+%END

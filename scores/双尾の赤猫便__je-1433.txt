@@ -1,7 +1,11 @@
+%双尾の赤猫便__je-1433.txt
 %标题 双尾の赤猫便
 % 出处 https://github.com/zytx121/je/issues/1433
 % 歌曲信息: 专辑 東方霊宴談 · 作词 憐歌 · 编曲 時音 · 歌手 沙紗飛鳥 · 原曲 廃獄ララバイ
 title=双尾の赤猫便
+tag=
+usertag=
+tagroute=
 artist=沙紗飛鳥
 album=東方霊宴談
 lyricist=憐歌
@@ -45,3 +49,5 @@ source=je-1433
 3' 1' 7 6 5 6
 6 1' 2' 3' 1' 7 6 5 6 2 6 5 4 3 2
 4 6 5 4 5 #4 3 #4 2
+%---
+%END

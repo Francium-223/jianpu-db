@@ -1,7 +1,11 @@
+%MIRACLE_WAVE__je-0096.txt
 %标题 MIRACLE_WAVE
 % 出处 https://github.com/zytx121/je/issues/0096
 % 歌曲信息: 专辑 MY舞☆TONIGHT /MIRACLE WAVE · 作词 畑亚贵 · 作曲 酒井拓也 · 编曲 胁真富 · 歌手 Aqours
 title=MIRACLE_WAVE
+tag=
+usertag=
+tagroute=
 artist=Aqours
 album=MY舞☆TONIGHT /MIRACLE WAVE
 lyricist=畑亚贵
@@ -36,3 +40,5 @@ source=je-0096
 1 ,7 1 ,,6 5 1 ,,6 5 1 ,,6 5 4 3 4 5 1' 2' 3' 3 4 4 3 4 4 ,,6 5
 ,6 ,6 3 3 3 2 3 4 5 3 2 3 ,,7 ,,6 1 2 3 4 5 2 3 2 1 1
 2 3 2 1 1 2 2 1 1 2 4 4 4 3 4 3 4 5 5
+%---
+%END

@@ -1,13 +1,17 @@
+%ツキアカリのミチシルべ__je-0392.txt
 %标题 ツキアカリのミチシルべ
 % 出处 https://github.com/zytx121/je/issues/0392
 % 歌曲信息: 专辑 OVER THE BORDER · 作词 AIMI · 作曲 AIMI · 编曲 ステレオポニー，BOND×mw · 歌手 Stereopony
 title=ツキアカリのミチシルべ
+tag=
+usertag=
+tagroute=
 artist=Stereopony
 album=OVER THE BORDER
 lyricist=AIMI
 composer=AIMI
-arranger=ステレオポニー，BOND×mw
-copyright=作词 AIMI / 作曲 AIMI / 编曲 ステレオポニー，BOND×mw
+arranger=ステレオポニー,BOND×mw
+copyright=作词 AIMI / 作曲 AIMI / 编曲 ステレオポニー,BOND×mw
 transcriber=livesun
 status=bare-numbers
 source=je-0392
@@ -79,3 +83,5 @@ source=je-0392
 4 4 3 5 3 4 5 6 2 5 3
 2 1 2 5 3
 2 #1 2 2
+%---
+%END

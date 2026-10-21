@@ -1,6 +1,10 @@
+%-记忆-__je-0150.txt
 %标题 -记忆-
 % 出处 https://github.com/zytx121/je/issues/0150
 title=-记忆-
+tag=
+usertag=
+tagroute=
 transcriber=zytx121
 status=bare-numbers
 source=je-0150
@@ -20,3 +24,5 @@ source=je-0150
 6 5 6 5 2 3 5 7 1' 2' #2' 2' 1' 7 5 7 1' 1' 7 6 #5 6 7
 3' 2' 1' 7 5 3 6
 2'' 2' 1' 7 5 3 6
+%---
+%END

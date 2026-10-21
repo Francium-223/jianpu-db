@@ -1,7 +1,11 @@
+%smile_for_you__je-0205.txt
 %标题 smile_for_you
 % 出处 https://github.com/zytx121/je/issues/0205
 % 歌曲信息: 作词 梶浦由记 · 作曲 梶浦由记 · 编曲 梶浦由记 · 歌手 YUNA
 title=smile_for_you
+tag=
+usertag=
+tagroute=
 artist=YUNA
 lyricist=梶浦由记
 composer=梶浦由记
@@ -30,3 +34,5 @@ source=je-0205
 2 3 #4 3 2 #4 3 6 2 #1 ,7 2 2 #1 #1
 2 3 4 4 4 4 4 3 2 1 1 2
 4 3 2 2 2 #1 #1 #1 2 3 2 ,6 ,6 ,6
+%---
+%END

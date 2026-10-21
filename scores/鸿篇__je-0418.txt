@@ -1,7 +1,11 @@
+%鸿篇__je-0418.txt
 %标题 鸿篇
 % 出处 https://github.com/zytx121/je/issues/0418
 % 歌曲信息: 原曲 花中谜 · 专辑 霹雳震寰宇之兵甲龙痕 剧集原声带
 title=鸿篇
+tag=
+usertag=
+tagroute=
 album=霹雳震寰宇之兵甲龙痕 剧集原声带
 transcriber=Mars-Cat
 status=bare-numbers
@@ -29,3 +33,5 @@ source=je-0418
 ,6 4 5 6 3 3 #1 2
 2' 3' #4' 5' 3' 1' 2'
 2' 4' 6' 5' 1'' 1' 2'
+%---
+%END

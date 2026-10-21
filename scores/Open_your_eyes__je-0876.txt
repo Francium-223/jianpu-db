@@ -1,7 +1,11 @@
+%Open_your_eyes__je-0876.txt
 %标题 Open_your_eyes
 % 出处 https://github.com/zytx121/je/issues/0876
 % 歌曲信息: 专辑 Open your eyes · 作词 志倉千代丸 · 作曲 志倉千代丸 · 编曲 志倉千代丸 · 歌手 亚咲花
 title=Open_your_eyes
+tag=
+usertag=
+tagroute=
 artist=亚咲花
 album=Open your eyes
 lyricist=志倉千代丸
@@ -101,3 +105,5 @@ source=je-0876
 7 6 5 1
 7 6 7 1' 7 6 5 #4 5 #4 2
 3 3 3 2 3 3 3 2 3
+%---
+%END

@@ -1,7 +1,11 @@
+%シュガーソングとビターステップ__je-0268.txt
 %标题 シュガーソングとビターステップ
 % 出处 https://github.com/zytx121/je/issues/0268
 % 歌曲信息: 作词 田渊智也 · 作曲 田渊智也 · 编曲 UNISON SQUARE GARDEN · 歌手 UNISON SQUARE GARDEN
 title=シュガーソングとビターステップ
+tag=
+usertag=
+tagroute=
 artist=UNISON SQUARE GARDEN
 lyricist=田渊智也
 composer=田渊智也
@@ -45,3 +49,5 @@ source=je-0268
 1=E
 4 3 2 2 4 5 1 #1 2 2 1 2 1 2 2 4 2
 1 2 4 5 1 #1 2 2 1 2 1 2 2 4 2
+%---
+%END

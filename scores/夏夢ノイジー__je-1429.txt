@@ -1,7 +1,11 @@
+%夏夢ノイジー__je-1429.txt
 %标题 夏夢ノイジー
 % 出处 https://github.com/zytx121/je/issues/1429
 % 歌曲信息: 作词 志倉千代丸 · 作曲 志倉千代丸 · 编曲 悠木真一 · 歌手 亜咲花
 title=夏夢ノイジー
+tag=
+usertag=
+tagroute=
 artist=亜咲花
 lyricist=志倉千代丸
 composer=志倉千代丸
@@ -36,3 +40,5 @@ source=je-1429
 3 3 2 3 6 2 3 4
 4 5 4 3 4 5 6 5 4 5
 1 ,7 ,6 3 1 2
+%---
+%END

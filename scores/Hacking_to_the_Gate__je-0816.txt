@@ -1,7 +1,11 @@
+%Hacking_to_the_Gate__je-0816.txt
 %标题 Hacking_to_the_Gate
 % 出处 https://github.com/zytx121/je/issues/0816
 % 歌曲信息: 专辑 Hacking to the Gate · 作词 志仓千代丸 · 作曲 志仓千代丸 · 编曲 矶江俊道 · 歌手 伊藤香奈子
 title=Hacking_to_the_Gate
+tag=
+usertag=
+tagroute=
 artist=伊藤香奈子
 album=Hacking to the Gate
 lyricist=志仓千代丸
@@ -48,3 +52,5 @@ source=je-0816
 3 5 4 6 7 5 7 1' 7
 3 1' 7 2' 1' 5 7 1'
 1' 7 6 6 2' 5 5 7 6
+%---
+%END

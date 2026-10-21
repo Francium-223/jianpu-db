@@ -1,7 +1,11 @@
+%that_girl__je-0861.txt
 %标题 that_girl
 % 出处 https://github.com/zytx121/je/issues/0861
 % 歌曲信息: 专辑 24 HRS (Deluxe) · 作词 未知 · 作曲 未知 · 编曲 未知 · 歌手 Olly Murs
 title=that_girl
+tag=
+usertag=
+tagroute=
 artist=Olly Murs
 album=24 HRS (Deluxe)
 copyright=作词 未知 / 作曲 未知 / 编曲 未知
@@ -52,3 +56,5 @@ source=je-0861
 2 3 4 4 3 2 1 2
 4 5 6 6 6 1' 5 5 6 4 2
 2 3 4 4 3 2 1 2
+%---
+%END

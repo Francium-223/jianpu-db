@@ -1,7 +1,11 @@
+%微熱からMystery__je-0087.txt
 %标题 微熱からMystery
 % 出处 https://github.com/zytx121/je/issues/0087
 % 歌曲信息: 专辑 微熱からMystery · 作词 畑 亜貴 · 作曲 佐々木裕 · 编曲 佐々木裕 · 歌手 lily white
 title=微熱からMystery
+tag=
+usertag=
+tagroute=
 artist=lily white
 album=微熱からMystery
 lyricist=畑 亜貴
@@ -66,3 +70,5 @@ source=je-0087
 6 1' 2' 6 5 6 1' 6 4 3 2 1 2
 6 1' 2' 6 5 6 1' 6 4 3 2 1 2
 1' 6 5 6 1 2
+%---
+%END

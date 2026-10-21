@@ -1,7 +1,11 @@
+%光の旋律__je-0397.txt
 %标题 光の旋律
 % 出处 https://github.com/zytx121/je/issues/0397
 % 歌曲信息: 作词 梶浦由记 · 作曲 梶浦由记 · 编曲 梶浦由记 · 歌手 Kalafina
 title=光の旋律
+tag=
+usertag=
+tagroute=
 artist=Kalafina
 lyricist=梶浦由记
 composer=梶浦由记
@@ -77,3 +81,5 @@ source=je-0397
 4 5 6 1' 4
 #6 6 5 4 5 4 3 2
 6 5 4 3 2
+%---
+%END

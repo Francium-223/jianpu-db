@@ -1,7 +1,11 @@
+%イニシャル__je-1089.txt
 %标题 イニシャル
 % 出处 https://github.com/zytx121/je/issues/1089
 % 歌曲信息: 专辑 イニシャル/夢を撃ち抜く瞬間に！<ドキドキVer.> · 作词 中村航 · 作曲 上松範康(Elements Garden) · 歌手 Poppin'Party
 title=イニシャル
+tag=
+usertag=
+tagroute=
 artist=Poppin'Party
 album=イニシャル/夢を撃ち抜く瞬間に！<ドキドキVer.>
 lyricist=中村航
@@ -54,3 +58,5 @@ source=je-1089
 1 2 6 1 2 6 6 5 3 1 ,6 1 2 1 2 1 2
 ,6 ,6 ,6 ,6 ,6 ,6 ,6 ,6 ,5 ,4 ,5 ,4 ,4 ,4 ,4 ,3 ,4 ,3 ,2
 ,6 ,6 ,6 ,6 ,6 1 ,6 ,6 ,5 ,4 ,5 ,4 ,4 ,4 ,4 ,5 ,4 ,3 ,2
+%---
+%END

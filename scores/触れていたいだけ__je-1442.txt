@@ -1,7 +1,11 @@
+%触れていたいだけ__je-1442.txt
 %标题 触れていたいだけ
 % 出处 https://github.com/zytx121/je/issues/1442
 % 歌曲信息: 作词 MIMI · 作曲 MIMI · 编曲 MIMI · 歌手 月
 title=触れていたいだけ
+tag=
+usertag=
+tagroute=
 artist=月
 lyricist=MIMI
 composer=MIMI
@@ -36,3 +40,5 @@ source=je-1442
 5 4 3 4 4 1' 4 4 1 2 6 5 4 4 5 5 4
 4 3 4 4 1 4 4 1' 2' 4 4 5 5 6 6
 5 4 3 4 4 4 1' 1' 2' 1 2 6 5 4 4 5 4
+%---
+%END

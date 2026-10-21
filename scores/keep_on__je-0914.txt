@@ -1,12 +1,16 @@
+%keep_on__je-0914.txt
 %标题 keep_on
 % 出处 https://github.com/zytx121/je/issues/0914
 % 歌曲信息: 专辑 未知 · 作词 NK · 作曲 木根尚登 · 编曲 木根尚登、汤浅公一 · 歌手 前田爱
 title=keep_on
+tag=
+usertag=
+tagroute=
 artist=前田爱
 lyricist=NK
 composer=木根尚登
-arranger=木根尚登、汤浅公一
-copyright=作词 NK / 作曲 木根尚登 / 编曲 木根尚登、汤浅公一
+arranger=木根尚登,汤浅公一
+copyright=作词 NK / 作曲 木根尚登 / 编曲 木根尚登,汤浅公一
 transcriber=zytx121
 status=bare-numbers
 source=je-0914
@@ -48,3 +52,5 @@ source=je-0914
 6 4 2 6 4 2 6 6 #6 5 4 2 2 3 4 ,6 4 3 2 1
 1 4 2 1 5 6
 1 4 2 1 5 4
+%---
+%END

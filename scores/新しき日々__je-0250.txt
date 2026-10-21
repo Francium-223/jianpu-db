@@ -1,7 +1,11 @@
+%新しき日々__je-0250.txt
 %标题 新しき日々
 % 出处 https://github.com/zytx121/je/issues/0250
 % 歌曲信息: 歌手 Falcom Sound Team jdk
 title=新しき日々
+tag=
+usertag=
+tagroute=
 artist=Falcom Sound Team jdk
 transcriber=zytx121
 status=bare-numbers
@@ -33,3 +37,5 @@ source=je-0250
 6 5 6 2 2 3 4 5 6
 6 5 6 2 2 3 4 5 4 5 1' 5 1' 3' 4' 3' 6 5 4 3 2
 1 2 3 5 4 3 4 2
+%---
+%END

@@ -1,7 +1,11 @@
+%惊涛落日__je-1285.txt
 %标题 惊涛落日
 % 出处 https://github.com/zytx121/je/issues/1285
 % 歌曲信息: 作曲 Platix_Zhang
 title=惊涛落日
+tag=
+usertag=
+tagroute=
 composer=Platix_Zhang
 copyright=作曲 Platix_Zhang
 transcriber=madderscientist
@@ -34,3 +38,5 @@ source=je-1285
 ,2 1 2 ,6 2 1 ,6 ,5
 ,6 ,5 2 1 ,5 ,6
 2 1 ,6 ,5 ,6 ,5 ,2 ,3
+%---
+%END

@@ -1,7 +1,11 @@
+%虚無の先で愛をみつける__je-1328.txt
 %标题 虚無の先で愛をみつける
 % 出处 https://github.com/zytx121/je/issues/1328
 % 歌曲信息: 歌手 Hana
 title=虚無の先で愛をみつける
+tag=
+usertag=
+tagroute=
 artist=Hana
 transcriber=madderscientist
 status=bare-numbers
@@ -30,3 +34,5 @@ source=je-1328
 #1 1 1 2 3 4 2
 2 5 1 2 5 4 3 2
 2 3 4 3 2 1
+%---
+%END

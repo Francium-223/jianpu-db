@@ -1,13 +1,17 @@
+%why,_or_why_not__je-0162.txt
 %标题 why,_or_why_not
 % 出处 https://github.com/zytx121/je/issues/0162
 % 歌曲信息: 专辑 why, or why not · 作词 interface、綾菓 · 作曲 大嶋啓之、bermei.inazawa · 编曲 大嶋啓之、bermei.inazawa · 歌手 片霧烈火
 title=why,_or_why_not
+tag=
+usertag=
+tagroute=
 artist=片霧烈火
-album=why, or why not
-lyricist=interface、綾菓
-composer=大嶋啓之、bermei.inazawa
-arranger=大嶋啓之、bermei.inazawa
-copyright=作词 interface、綾菓 / 作曲 大嶋啓之、bermei.inazawa / 编曲 大嶋啓之、bermei.inazawa
+album=why,or why not
+lyricist=interface,綾菓
+composer=大嶋啓之,bermei.inazawa
+arranger=大嶋啓之,bermei.inazawa
+copyright=作词 interface,綾菓 / 作曲 大嶋啓之,bermei.inazawa / 编曲 大嶋啓之,bermei.inazawa
 transcriber=zytx121
 status=bare-numbers
 source=je-0162
@@ -25,3 +29,5 @@ source=je-0162
 4 3 2 1 2 3 4 3 2 ,5 1 2 2 1 2 3 1
 2 3 3 3 4 3 2 5 2 2 1 ,7 1 6 5
 5 7 7 1' 5 4 3 3 2 1 ,7 ,7 1
+%---
+%END

@@ -1,7 +1,11 @@
+%サンシャインぴっかぴか音頭__je-0691.txt
 %标题 サンシャインぴっかぴか音頭
 % 出处 https://github.com/zytx121/je/issues/0691
 % 歌曲信息: 专辑 ユメ語るよりユメ歌おう · 作词 畑 亜貴 · 作曲 伊藤真澄 · 编曲 EFFY · 歌手 Aqours
 title=サンシャインぴっかぴか音頭
+tag=
+usertag=
+tagroute=
 artist=Aqours
 album=ユメ語るよりユメ歌おう
 lyricist=畑 亜貴
@@ -91,3 +95,5 @@ source=je-0691
 7 7 6 5 7 7 6 5 6 6 7 6
 7 7 6 5 7 7 6 5 6 6 6 6
 7 7 6 5 7 7 6 5 6 6 7 6
+%---
+%END

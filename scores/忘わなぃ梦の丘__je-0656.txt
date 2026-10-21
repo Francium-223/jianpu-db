@@ -1,7 +1,11 @@
+%忘わなぃ梦の丘__je-0656.txt
 %标题 忘わなぃ梦の丘
 % 出处 https://github.com/zytx121/je/issues/0656
 % 歌曲信息: 专辑 星风のホロスコープ · 作词 Le ciel · 作曲 藤田淳平 · 编曲 未知 · 歌手 nomico
 title=忘わなぃ梦の丘
+tag=
+usertag=
+tagroute=
 artist=nomico
 album=星风のホロスコープ
 lyricist=Le ciel
@@ -22,3 +26,5 @@ source=je-0656
 2 3 5 6 5 6 1' 7 5 3 2 1 2 3 1 2 3 4 5 1 6 7 5 5 4 3 4 4 5
 6 5 6 5 3 6 5 3 2 3 6 6 #5 6 7 3 7 1' 1'
 6 7 1' 7 5 3 2 3 3 2 3 ,6 ,7 1 2 3 5 3 7 6
+%---
+%END

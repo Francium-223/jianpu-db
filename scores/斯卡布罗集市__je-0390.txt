@@ -1,7 +1,11 @@
+%斯卡布罗集市__je-0390.txt
 %标题 斯卡布罗集市
 % 出处 https://github.com/zytx121/je/issues/0390
 % 歌曲信息: 作曲 英格兰 · 歌手 莎拉·布莱曼
 title=斯卡布罗集市
+tag=
+usertag=
+tagroute=
 artist=莎拉·布莱曼
 composer=英格兰
 copyright=作曲 英格兰
@@ -22,3 +26,5 @@ source=je-0390
 6 1' 2' 1' 6 7 5 6
 2' 2' 2' 1' 6 6 5 4 3 1
 2 6 5 4 3 2 1 4 3 2
+%---
+%END

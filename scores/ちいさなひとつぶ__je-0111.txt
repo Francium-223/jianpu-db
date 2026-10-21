@@ -1,7 +1,11 @@
+%ちいさなひとつぶ__je-0111.txt
 %标题 ちいさなひとつぶ
 % 出处 https://github.com/zytx121/je/issues/0111
 % 歌曲信息: 作词 西直纪 · 作曲 酒井优 · 编曲 河野伸 · 歌手 安野希世乃
 title=ちいさなひとつぶ
+tag=
+usertag=
+tagroute=
 artist=安野希世乃
 lyricist=西直纪
 composer=酒井优
@@ -25,3 +29,5 @@ source=je-0111
 2 3 2 3 2 3 2 1 2 ,7 1 6 5
 2 1 2 1 2 1 ,7 1 7 1' 7 5
 1 5 4 3 1 2 3 2 1 4 3 6 7 3
+%---
+%END

@@ -1,7 +1,11 @@
+%アオイトリ（游戏《青鸟》OP）__je-1406.txt
 %标题 アオイトリ（游戏《青鸟》OP）
 % 出处 https://github.com/zytx121/je/issues/1406
 % 歌曲信息: 作词 石川泰 · 作曲 山口たこ · 编曲 山口たこ · 歌手 桥本みゆき
 title=アオイトリ（游戏《青鸟》OP）
+tag=
+usertag=
+tagroute=
 artist=桥本みゆき
 lyricist=石川泰
 composer=山口たこ
@@ -38,3 +42,5 @@ source=je-1406
 ,7 1 1 ,7 1 #1 5 4 3 1 2
 ,5 2 3 4 3 2 1
 ,6 ,7 1 #1 5 5 6 4 3 2
+%---
+%END

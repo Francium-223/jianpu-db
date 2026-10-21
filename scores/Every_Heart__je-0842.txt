@@ -1,13 +1,17 @@
+%Every_Heart__je-0842.txt
 %标题 Every_Heart
 % 出处 https://github.com/zytx121/je/issues/0842
 % 歌曲信息: 专辑 Every Heart-ミンナノキモチ- · 作词 渡边なつみ · 作曲 BOUCEBACK · 编曲 h-wonder，avex trax · 歌手 BoA宝儿
 title=Every_Heart
+tag=
+usertag=
+tagroute=
 artist=BoA宝儿
 album=Every Heart-ミンナノキモチ-
 lyricist=渡边なつみ
 composer=BOUCEBACK
-arranger=h-wonder，avex trax
-copyright=作词 渡边なつみ / 作曲 BOUCEBACK / 编曲 h-wonder，avex trax
+arranger=h-wonder,avex trax
+copyright=作词 渡边なつみ / 作曲 BOUCEBACK / 编曲 h-wonder,avex trax
 transcriber=zytx121
 status=bare-numbers
 source=je-0842
@@ -33,3 +37,5 @@ source=je-0842
 ,6 ,6 4 4 3 4 6
 2 3 4
 2 3 4 4 3 2 3 #4 #4
+%---
+%END

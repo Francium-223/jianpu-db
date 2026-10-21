@@ -1,7 +1,11 @@
+%Day_to_Story__je-0407.txt
 %标题 Day_to_Story
 % 出处 https://github.com/zytx121/je/issues/0407
 % 歌曲信息: 专辑 Day to Story · 作词 石井伸昂 · 作曲 石井伸昂 · 编曲 岡野裕次郎（冈野裕次郎） · 歌手 佐土原かおり（佐土原香织）
 title=Day_to_Story
+tag=
+usertag=
+tagroute=
 artist=佐土原かおり（佐土原香织）
 album=Day to Story
 lyricist=石井伸昂
@@ -74,3 +78,5 @@ source=je-0407
 1 2 3 3 4 3 2 3 3
 1 2 3 3 4 3 2 1 1
 1 2 3 3 4 3 2 1 1
+%---
+%END

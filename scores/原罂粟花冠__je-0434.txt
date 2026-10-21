@@ -1,8 +1,12 @@
+%原罂粟花冠__je-0434.txt
 %标题 原罂粟花冠
 % 出处 https://github.com/zytx121/je/issues/0434
 % 歌曲信息: 作词 JUSF周存 · 作曲 JUSF周存 · 编曲 JUSF周存 · 歌手 洛天依，镜音连
 title=原罂粟花冠
-artist=洛天依，镜音连
+tag=
+usertag=
+tagroute=
+artist=洛天依,镜音连
 lyricist=JUSF周存
 composer=JUSF周存
 arranger=JUSF周存
@@ -99,3 +103,5 @@ source=je-0434
 4 2 4 2 4 4
 3 2 3 4 5 6 #6 6 3 #1 2
 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+%---
+%END

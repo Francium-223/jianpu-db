@@ -1,7 +1,11 @@
+%天ノ弱__je-1021.txt
 %标题 天ノ弱
 % 出处 https://github.com/zytx121/je/issues/1021
 % 歌曲信息: 专辑 GUMitive · 作词 164 · 作曲 164 · 编曲 164 · 歌手 GUMI
 title=天ノ弱
+tag=
+usertag=
+tagroute=
 artist=GUMI
 album=GUMitive
 lyricist=164
@@ -51,3 +55,5 @@ source=je-1021
 1 3 4 3 4 1
 1 3 4 3 3 #6 6 5 4
 4 1 5 3 3 4 4 5 4
+%---
+%END

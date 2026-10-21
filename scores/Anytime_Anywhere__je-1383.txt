@@ -1,7 +1,11 @@
+%Anytime_Anywhere__je-1383.txt
 %标题 Anytime_Anywhere
 % 出处 https://github.com/zytx121/je/issues/1383
 % 歌曲信息: 作词 milet · 作曲 milet/中村泰輔/野村陽一郎 · 编曲 Evan Call · 歌手 milet
 title=Anytime_Anywhere
+tag=
+usertag=
+tagroute=
 artist=milet
 lyricist=milet
 composer=milet/中村泰輔/野村陽一郎
@@ -63,3 +67,5 @@ source=je-1383
 3 3 3 3 3 4 2 1 3
 2 1 1 ,6 ,7 ,7 1 1 ,5 ,5 1 3 3 4 3 2 1
 1 1 2 2 3 3 5 5 1' 1' 1' 2' 2' 1'
+%---
+%END

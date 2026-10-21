@@ -1,7 +1,11 @@
+%SAKURA__je-1344.txt
 %标题 SAKURA
 % 出处 https://github.com/zytx121/je/issues/1344
 % 歌曲信息: 作词 水野良樹 · 作曲 水野良樹 · 编曲 島田昌典 · 歌手 いきものがかり 生物股长
 title=SAKURA
+tag=
+usertag=
+tagroute=
 artist=いきものがかり 生物股长
 lyricist=水野良樹
 composer=水野良樹
@@ -64,3 +68,5 @@ source=je-1344
 ,6 1 2 3
 ,6 1 3 2 3 4 5 4 5 6
 ,6 1 2 6 5 4 3 4 2
+%---
+%END

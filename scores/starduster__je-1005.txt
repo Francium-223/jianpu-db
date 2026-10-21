@@ -1,7 +1,11 @@
+%starduster__je-1005.txt
 %标题 starduster
 % 出处 https://github.com/zytx121/je/issues/1005
 % 歌曲信息: 专辑 《初音ミク -Project DIVA-extend Complete Collection》 · 作词 ジミーサムＰ · 作曲 ジミーサムＰ · 编曲 ジミーサムＰ · 歌手 初音ミク
 title=starduster
+tag=
+usertag=
+tagroute=
 artist=初音ミク
 album=初音ミク -Project DIVA-extend Complete Collection
 lyricist=ジミーサムＰ
@@ -40,3 +44,5 @@ source=je-1005
 2' 1' 1' 1' 7 5 2' 1' 1' 5 4' 3' 3' 2' 1' 1'
 2' 1' 1' 7 7 1' 1' 2' 1' 1' 5 4' 3' 3' 2' 1'
 2' 1' 1' 7 7 1' 1' 2' 1' 1'
+%---
+%END

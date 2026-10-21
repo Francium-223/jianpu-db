@@ -1,7 +1,11 @@
+%High_Free_Spirits__je-0836.txt
 %标题 High_Free_Spirits
 % 出处 https://github.com/zytx121/je/issues/0836
 % 歌曲信息: 专辑 High Free Spirits · 作词 山﨑佳祐 · 作曲 山﨑佳祐 · 编曲 溝口雅大 · 歌手 TrySail
 title=High_Free_Spirits
+tag=
+usertag=
+tagroute=
 artist=TrySail
 album=High Free Spirits
 lyricist=山﨑佳祐
@@ -30,3 +34,5 @@ source=je-0836
 ,6 1 2 6 5 4 5 6 4 4 4 5 6 1' 6
 2 4 1' 6 6 5 5 4 4 4 5 6 1' 6
 4 4 5 6 5 3 1 2
+%---
+%END

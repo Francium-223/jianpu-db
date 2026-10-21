@@ -1,7 +1,11 @@
+%Pure_Sky_青空__je-1230.txt
 %标题 Pure_Sky_青空
 % 出处 https://github.com/zytx121/je/issues/1230
 % 歌曲信息: 专辑 原神-风与异乡人 Le Vent et les Enfants des étoiles · 作曲 陈致逸@HOYO-MiX
 title=Pure_Sky_青空
+tag=
+usertag=
+tagroute=
 album=原神-风与异乡人 Le Vent et les Enfants des étoiles
 composer=陈致逸@HOYO-MiX
 copyright=作曲 陈致逸@HOYO-MiX
@@ -17,3 +21,5 @@ source=je-1230
 ,2 ,,2 ,,6 ,,#6 ,2 ,6 6 5 4 3 4 5 3' 1'
 2 4 1 ,5 ,3 2 3 3 2
 2 3 4 5 3 1 ,6 ,3 ,2
+%---
+%END

@@ -1,12 +1,16 @@
+%Sincerely__je-0337.txt
 %标题 Sincerely
 % 出处 https://github.com/zytx121/je/issues/0337
 % 歌曲信息: 作词 唐泽美帆 · 作曲 堀江晶太 · 编曲 堀江晶太、Evan Call · 歌手 TRUE
 title=Sincerely
+tag=
+usertag=
+tagroute=
 artist=TRUE
 lyricist=唐泽美帆
 composer=堀江晶太
-arranger=堀江晶太、Evan Call
-copyright=作词 唐泽美帆 / 作曲 堀江晶太 / 编曲 堀江晶太、Evan Call
+arranger=堀江晶太,Evan Call
+copyright=作词 唐泽美帆 / 作曲 堀江晶太 / 编曲 堀江晶太,Evan Call
 transcriber=zytx121
 status=bare-numbers
 source=je-0337
@@ -29,3 +33,5 @@ source=je-0337
 1 5 6 5 4 4
 5 4 3 4 2' 1' 4 4
 1 5 6 5 4 4
+%---
+%END

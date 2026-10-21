@@ -1,7 +1,11 @@
+%ALONE__je-0907.txt
 %标题 ALONE
 % 出处 https://github.com/zytx121/je/issues/0907
 % 歌曲信息: 作词 太志 · 作曲 太志 · 编曲 Aqua Timez · 歌手 Aqua Timez
 title=ALONE
+tag=
+usertag=
+tagroute=
 artist=Aqua Timez
 lyricist=太志
 composer=太志
@@ -24,3 +28,5 @@ source=je-0907
 1 2 3 2 1 2 ,7 1 5 ,5 3 4 3 3 2 1 2 3 ,5 4 4 3 2 1 2 3
 ,5 ,7 1 1 2 1 ,7 1 2 ,5 #5 4 3 2 1 ,7 1 2 1 ,7 1 4 3 2 ,6 1 ,7 ,6 ,7 1
 1 2 1 ,7 1 2 ,5 #5 4 3 2 1 ,7 1 2 1 ,7 1 4 3 2 ,6 1 ,7 ,6 ,7 1
+%---
+%END

@@ -1,7 +1,11 @@
+%トリコリコPLEASE!!__je-0702.txt
 %标题 トリコリコPLEASE!!
 % 出处 https://github.com/zytx121/je/issues/0702
 % 歌曲信息: 专辑 トリコリコPLEASE!! · 作词 畑　亜貴 · 作曲 宮崎　誠 · 编曲 宮崎　誠 · 歌手 AZALEA
 title=トリコリコPLEASE!!
+tag=
+usertag=
+tagroute=
 artist=AZALEA
 album=トリコリコPLEASE!!
 lyricist=畑 亜貴
@@ -58,3 +62,5 @@ source=je-0702
 4 3 2 2 3 4
 5 6 5 4 7 1' 5
 3 2 1 ,7 1
+%---
+%END

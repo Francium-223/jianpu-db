@@ -1,7 +1,11 @@
+%恋のオーケストラ__je-0817.txt
 %标题 恋のオーケストラ
 % 出处 https://github.com/zytx121/je/issues/0817
 % 歌曲信息: 专辑 谜の彼女X BD Vol.1 特典CD · 作词 山田稔明 · 作曲 北川胜利 · 编曲 北川胜利 · 歌手 吉谷彩子
 title=恋のオーケストラ
+tag=
+usertag=
+tagroute=
 artist=吉谷彩子
 album=谜の彼女X BD Vol.1 特典CD
 lyricist=山田稔明
@@ -33,3 +37,5 @@ source=je-0817
 1 2 3 4 3 5 1
 1 1 2 3 4 3 1
 1 2 3 1 6 5
+%---
+%END

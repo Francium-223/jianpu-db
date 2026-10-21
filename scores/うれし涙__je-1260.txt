@@ -1,7 +1,11 @@
+%うれし涙__je-1260.txt
 %标题 うれし涙
 % 出处 https://github.com/zytx121/je/issues/1260
 % 歌曲信息: 专辑 23 Plus · 歌手 MACO
 title=うれし涙
+tag=
+usertag=
+tagroute=
 artist=MACO
 album=23 Plus
 transcriber=madderscientist
@@ -86,3 +90,5 @@ source=je-1260
 5 5 #1' #1' #1' 6 5 4
 3 4 3 2 2 2 3 4 6 6 5
 4 4 3 4
+%---
+%END

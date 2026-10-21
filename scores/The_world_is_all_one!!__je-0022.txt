@@ -1,7 +1,11 @@
+%The_world_is_all_one!!__je-0022.txt
 %标题 The_world_is_all_one!!
 % 出处 https://github.com/zytx121/je/issues/0022
 % 歌曲信息: 作词 RIONA · 作曲 田代智一 · 编曲 荒木启六 · 歌手 765PRO ALLSTARS
 title=The_world_is_all_one!!
+tag=
+usertag=
+tagroute=
 artist=765PRO ALLSTARS
 lyricist=RIONA
 composer=田代智一
@@ -51,3 +55,5 @@ source=je-0022
 ,5 5 6 3 2 1
 4 3 2 1 4 4 3 2 1
 1 ,7 ,7 1 2 1
+%---
+%END

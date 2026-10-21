@@ -1,7 +1,11 @@
+%opposite_world__je-0579.txt
 %标题 opposite_world
 % 出处 https://github.com/zytx121/je/issues/0579
 % 歌曲信息: 专辑 美少女万华镜←。←（小悪魔りんご原曲为大小姐的《亡き王女の为のセプテット》） · 作词 senya · 作曲 未知 · 编曲 Iceon · 歌手 senya
 title=opposite_world
+tag=
+usertag=
+tagroute=
 artist=senya
 album=美少女万华镜←。←（小悪魔りんご原曲为大小姐的《亡き王女の为のセプテット》）
 lyricist=senya
@@ -45,3 +49,5 @@ source=je-0579
 2 6 5 4 4 3 1 2 2 6 5 4 3 1' 6
 2 6 5 4 3 1 2 2 3 4 3 1 2 2 6
 2 3 4 3 1 2 2 6
+%---
+%END

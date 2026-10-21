@@ -1,7 +1,11 @@
+%Twinkle_Snow__je-0065.txt
 %标题 Twinkle_Snow
 % 出处 https://github.com/zytx121/je/issues/0065
 % 歌曲信息: 专辑 WHITE ALBUM 2 Original Soundtrack ~ introductory ~ · 作词 须谷尚子 · 作曲 松冈纯也 · 编曲 衣笠道雄 · 歌手 津田朱里
 title=Twinkle_Snow
+tag=
+usertag=
+tagroute=
 artist=津田朱里
 album=WHITE ALBUM 2 Original Soundtrack ~ introductory ~
 lyricist=须谷尚子
@@ -51,3 +55,5 @@ source=je-0065
 4 4 3 3 1 2
 4 4 3 3 1 3 2
 1 1 ,7 1
+%---
+%END

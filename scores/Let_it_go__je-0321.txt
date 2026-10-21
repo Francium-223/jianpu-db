@@ -1,7 +1,11 @@
+%Let_it_go__je-0321.txt
 %标题 Let_it_go
 % 出处 https://github.com/zytx121/je/issues/0321
 % 歌曲信息: 专辑 《冰雪奇缘》 · 作词 罗伯特·洛佩兹 · 作曲 克里斯汀·安德森 · 编曲 克里斯汀·安德森 · 歌手 黛米·洛瓦托
 title=Let_it_go
+tag=
+usertag=
+tagroute=
 artist=黛米·洛瓦托
 album=冰雪奇缘
 lyricist=罗伯特·洛佩兹
@@ -58,3 +62,5 @@ source=je-0321
 1 5 3 2 2 1 ,7 1 5 3 4
 1 1 ,7 1 5
 ,1 ,4 ,4 ,4 ,2 ,4 ,4 ,2 ,1
+%---
+%END

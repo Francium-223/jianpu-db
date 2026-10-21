@@ -1,7 +1,11 @@
+%young_lady_s__je-0905.txt
 %标题 young_lady_s
 % 出处 https://github.com/zytx121/je/issues/0905
 % 歌曲信息: 专辑 少女S · 作词 TOMOMI · 作曲 田鹿佑一 · 编曲 イイジマケン · 歌手 SCANDAL
 title=young_lady_s
+tag=
+usertag=
+tagroute=
 artist=SCANDAL
 album=少女S
 lyricist=TOMOMI
@@ -35,3 +39,5 @@ source=je-0905
 5 5 6 5 6 7 1' 7 6 5 5 5 #4 3 3 7 7 7 7 7 6 5 3 2 3
 7 7 7 6 5 3 2 3 5 3 5 3 5 3 5 3 5 3
 7 7 7 6 5 3 2 3 5 3 5 3 5 3 5 3 5 3 5 3 5 3 5 3
+%---
+%END

@@ -1,7 +1,11 @@
+%天球(そら)のMúsica__je-1381.txt
 %标题 天球(そら)のMúsica
 % 出处 https://github.com/zytx121/je/issues/1381
 % 歌曲信息: 作词 Diggy-MO’ · 作曲 Diggy-MO’/高橋涼 · 歌手 Ave Mujica
 title=天球(そら)のMúsica
+tag=
+usertag=
+tagroute=
 artist=Ave Mujica
 lyricist=Diggy-MO’
 composer=Diggy-MO’/高橋涼
@@ -49,3 +53,5 @@ source=je-1381
 1 5 3 1 1 ,7 1 2 1 1 5 3 ,5 1 ,7 1
 1 5 3 1 1 ,7 1 2 1 1 5 3 1 ,7 1
 1 5 3 1 1 ,7 1 2 1 1 5 3 ,5 1 ,7 1
+%---
+%END

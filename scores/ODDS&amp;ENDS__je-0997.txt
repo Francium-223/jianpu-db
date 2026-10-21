@@ -1,7 +1,11 @@
+%ODDS&amp;ENDS__je-0997.txt
 %标题 ODDS&amp;ENDS
 % 出处 https://github.com/zytx121/je/issues/0997
 % 歌曲信息: 专辑 未知 · 作词 ryo · 作曲 ryo · 编曲 ryo · 歌手 初音ミク
 title=ODDS&amp;ENDS
+tag=
+usertag=
+tagroute=
 artist=初音ミク
 lyricist=ryo
 composer=ryo
@@ -64,3 +68,5 @@ source=je-0997
 3 3 7 1' 7 6
 3 3 7 1' 7 6 5 5
 6 5 3 5 3 5 6 5 6
+%---
+%END

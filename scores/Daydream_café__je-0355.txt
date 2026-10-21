@@ -1,8 +1,12 @@
+%Daydream_café__je-0355.txt
 %标题 Daydream_café
 % 出处 https://github.com/zytx121/je/issues/0355
 % 歌曲信息: 专辑 Daydream café · 作词 畑亚贵 · 作曲 大久保薰 · 编曲 大久保薰 · 歌手 佐倉綾音、種田梨沙、水瀬いのり、内田真礼、佐藤聡美
 title=Daydream_café
-artist=佐倉綾音、種田梨沙、水瀬いのり、内田真礼、佐藤聡美
+tag=
+usertag=
+tagroute=
+artist=佐倉綾音,種田梨沙,水瀬いのり,内田真礼,佐藤聡美
 album=Daydream café
 lyricist=畑亚贵
 composer=大久保薰
@@ -87,3 +91,5 @@ source=je-0355
 1 ,7 1 ,5 1 ,7 1 2 4 3 2 1
 1 ,7 1 5 1 ,7 1 5 1 ,7 1 2 1
 1 ,7 1 5 4 3 2 1 ,7 ,7
+%---
+%END

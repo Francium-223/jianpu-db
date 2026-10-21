@@ -1,7 +1,11 @@
+%ピーターパンシンドローム__je-0869.txt
 %标题 ピーターパンシンドローム
 % 出处 https://github.com/zytx121/je/issues/0869
 % 歌曲信息: 专辑 未知 · 作词 40mP · 作曲 40mP · 编曲 no_my · 歌手 μ（CV：上田丽奈）
 title=ピーターパンシンドローム
+tag=
+usertag=
+tagroute=
 artist=μ（CV：上田丽奈）
 lyricist=40mP
 composer=40mP
@@ -52,3 +56,5 @@ source=je-0869
 4 3 1 5 4 4 3 1 5 4
 4 3 1 5 4 4 3 1 5 4
 4 3 1 5 4 4 3 1 5 4
+%---
+%END

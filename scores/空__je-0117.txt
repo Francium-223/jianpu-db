@@ -1,7 +1,11 @@
+%空__je-0117.txt
 %标题 空
 % 出处 https://github.com/zytx121/je/issues/0117
 % 歌曲信息: 作词 大黑摩季 · 作曲 大黑摩季 · 编曲 葉山たけし · 歌手 大黑摩季
 title=空
+tag=
+usertag=
+tagroute=
 artist=大黑摩季
 lyricist=大黑摩季
 composer=大黑摩季
@@ -27,3 +31,5 @@ source=je-0117
 ,6 1 2 3 3 3 5 2
 5 5 5 5 3 2 1 2 1 ,6 3 3 2 1
 1 4 4 5 3 2 1
+%---
+%END

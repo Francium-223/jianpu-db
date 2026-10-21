@@ -1,7 +1,11 @@
+%空__je-0032.txt
 %标题 空
 % 出处 https://github.com/zytx121/je/issues/0032
 % 歌曲信息: 作词 yura · 作曲 神前晓 · 编曲 神前晓 · 歌手 音无小鸟
 title=空
+tag=
+usertag=
+tagroute=
 artist=音无小鸟
 lyricist=yura
 composer=神前晓
@@ -36,3 +40,5 @@ source=je-0032
 6 6 6 4 4 2 4 6 4 4 2 4
 2 3 3 4 5 5 6 5 4 3 3 3 4 4
 4 #6 6 4 5 4
+%---
+%END

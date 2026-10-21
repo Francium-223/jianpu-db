@@ -1,9 +1,13 @@
+%夜风无意作情歌__je-1085.txt
 %标题 夜风无意作情歌
 % 出处 https://github.com/zytx121/je/issues/1085
 % 歌曲信息: 专辑 恋恋故人难, 不才 · 作词 陆菱纱 · 作曲 远藤直弥 · 编曲 远藤直弥/冯帆 · 歌手 恋恋故人难, 不才
 title=夜风无意作情歌
-artist=恋恋故人难, 不才
-album=恋恋故人难, 不才
+tag=
+usertag=
+tagroute=
+artist=恋恋故人难,不才
+album=恋恋故人难,不才
 lyricist=陆菱纱
 composer=远藤直弥
 arranger=远藤直弥/冯帆
@@ -46,3 +50,5 @@ source=je-1085
 ,5 5 3 4 1 1' 5 5 1 1' 5 5 5 6 #6 1' 6 5 4
 1 2 3 4 3 4 5 1 6 5 4
 1 6 5 5 4 2 4 6 6 5 4 3 4 4
+%---
+%END

@@ -1,7 +1,11 @@
+%星と君が消えた日__je-0517.txt
 %标题 星と君が消えた日
 % 出处 https://github.com/zytx121/je/issues/0517
 % 歌曲信息: 作词 夏轶瀚Sya · 作曲 蔡近翰Zoe · 编曲 郑宇界JODODO · 歌手 泠鸢yousa
 title=星と君が消えた日
+tag=
+usertag=
+tagroute=
 artist=泠鸢yousa
 lyricist=夏轶瀚Sya
 composer=蔡近翰Zoe
@@ -28,3 +32,5 @@ source=je-0517
 5 1' 7 5 1' 2' 1' 2' 1' 2' 3'
 5 5 5 4 4 3 3 2 3 4 3
 5 5 5 4 4 3 3 2 3 4 4 3
+%---
+%END

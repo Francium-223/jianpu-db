@@ -1,13 +1,17 @@
+%and_I’m_home__je-0808.txt
 %标题 and_I’m_home
 % 出处 https://github.com/zytx121/je/issues/0808
 % 歌曲信息: 专辑 魔法少女まどか☆マギカ 5 · 作词 wowaka · 作曲 wowaka · 编曲 wowaka，とく · 歌手 喜多村英梨，野中蓝
 title=and_I’m_home
-artist=喜多村英梨，野中蓝
+tag=
+usertag=
+tagroute=
+artist=喜多村英梨,野中蓝
 album=魔法少女まどか☆マギカ 5
 lyricist=wowaka
 composer=wowaka
-arranger=wowaka，とく
-copyright=作词 wowaka / 作曲 wowaka / 编曲 wowaka，とく
+arranger=wowaka,とく
+copyright=作词 wowaka / 作曲 wowaka / 编曲 wowaka,とく
 transcriber=zytx121
 status=bare-numbers
 source=je-0808
@@ -34,3 +38,5 @@ source=je-0808
 ,5 3 2 1 ,5 ,5 ,5 1 2 1 1 1 ,7 1 2 4 3
 6 6 3 3 2 3 6 6 5 6 7 6 3 3 2 1 2 2 1 2 5 5
 1 1 ,5 ,5 ,5 1 ,7 1 ,7 1 1 ,7 1 2 2 1
+%---
+%END

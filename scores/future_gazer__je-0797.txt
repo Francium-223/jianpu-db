@@ -1,7 +1,11 @@
+%future_gazer__je-0797.txt
 %标题 future_gazer
 % 出处 https://github.com/zytx121/je/issues/0797
 % 歌曲信息: 专辑 future gazer · 作词 八木沼悟志 · 作曲 八木沼悟志 · 编曲 八木沼悟志 · 歌手 fripSide
 title=future_gazer
+tag=
+usertag=
+tagroute=
 artist=fripSide
 album=future gazer
 lyricist=八木沼悟志
@@ -42,3 +46,5 @@ source=je-0797
 1=D
 6 #5 3 3 #1 6 7 3 3 5 #2 5 #6 #6 5 #6 #2' 2' #1' 7 6
 #1 6 #5 3 3 #1 6 7 3 3 #5 6 5 4 4 5 4 4 5 4 4 4 5 4 5 6 #5 #4 #4
+%---
+%END

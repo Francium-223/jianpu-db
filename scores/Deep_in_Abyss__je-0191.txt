@@ -1,12 +1,16 @@
+%Deep_in_Abyss__je-0191.txt
 %标题 Deep_in_Abyss
 % 出处 https://github.com/zytx121/je/issues/0191
 % 歌曲信息: 作词 hotaru · 作曲 KanadeYUK、Masahiro "Godspeed"Aoki · 编曲 KanadeYUK · 歌手 莉可（CV：富田美忧）、雷格（CV：伊濑茉莉也）
 title=Deep_in_Abyss
-artist=莉可（CV：富田美忧）、雷格（CV：伊濑茉莉也）
+tag=
+usertag=
+tagroute=
+artist=莉可（CV：富田美忧）,雷格（CV：伊濑茉莉也）
 lyricist=hotaru
-composer=KanadeYUK、Masahiro "Godspeed"Aoki
+composer=KanadeYUK,Masahiro "Godspeed"Aoki
 arranger=KanadeYUK
-copyright=作词 hotaru / 作曲 KanadeYUK、Masahiro "Godspeed"Aoki / 编曲 KanadeYUK
+copyright=作词 hotaru / 作曲 KanadeYUK,Masahiro "Godspeed"Aoki / 编曲 KanadeYUK
 transcriber=zytx121
 status=bare-numbers
 source=je-0191
@@ -73,3 +77,5 @@ source=je-0191
 ,7 #1 2 ,6 2 2 2 3
 2 3 4 3 2 5 4 3
 2 5 2 5 2
+%---
+%END

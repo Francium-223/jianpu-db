@@ -1,7 +1,11 @@
+%惊蛰（节气物语）__je-0979.txt
 %标题 惊蛰（节气物语）
 % 出处 https://github.com/zytx121/je/issues/0979
 % 歌曲信息: 专辑 未知 · 作词 桑葚上的猴子 · 作曲 桑葚上的猴子 · 编曲 未知 · 歌手 洛天依&乐正绫
 title=惊蛰（节气物语）
+tag=
+usertag=
+tagroute=
 artist=洛天依&乐正绫
 lyricist=桑葚上的猴子
 composer=桑葚上的猴子
@@ -31,3 +35,5 @@ source=je-0979
 5 4 5 6 2
 4 5
 4 2 1 4 4
+%---
+%END

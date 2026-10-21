@@ -1,7 +1,11 @@
+%ニブンノイチ__je-0524.txt
 %标题 ニブンノイチ
 % 出处 https://github.com/zytx121/je/issues/0524
 % 歌曲信息: 专辑 ニブンノイチ/INFINITY · 作词 BACK-ON · 作曲 BACK-ON · 编曲 BACK-ON · 歌手 BACK-ON
 title=ニブンノイチ
+tag=
+usertag=
+tagroute=
 artist=BACK-ON
 album=ニブンノイチ/INFINITY
 lyricist=BACK-ON
@@ -57,3 +61,5 @@ source=je-0524
 ,4 ,4 ,4 ,4 ,4 ,4 5 4 4
 ,4 ,4 ,4 ,4 1 5 4 4
 4 4 6 5 4 5 4
+%---
+%END

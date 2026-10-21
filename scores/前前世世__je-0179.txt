@@ -1,7 +1,11 @@
+%前前世世__je-0179.txt
 %标题 前前世世
 % 出处 https://github.com/zytx121/je/issues/0179
 % 歌曲信息: 作词 野田洋次郎 · 作曲 野田洋次郎 · 歌手 RADWIMPS
 title=前前世世
+tag=
+usertag=
+tagroute=
 artist=RADWIMPS
 lyricist=野田洋次郎
 composer=野田洋次郎
@@ -42,3 +46,5 @@ source=je-0179
 1 2 1 5 5 5 3 2 2 2 1 1 2 1 5 5 5 5 3 2
 1 2 3 2 1 1 ,6 1 2 3 2 1 1 ,6 1 2 3 2 1 1
 1 ,6 1 2 3 2 1 1 ,6 1 2 3 2 1 1 ,6 1 2 3 2 1 1
+%---
+%END

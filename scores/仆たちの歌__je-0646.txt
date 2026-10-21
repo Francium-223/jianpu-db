@@ -1,13 +1,17 @@
+%仆たちの歌__je-0646.txt
 %标题 仆たちの歌
 % 出处 https://github.com/zytx121/je/issues/0646
 % 歌曲信息: 专辑 ED2《仆たちの歌》 · 作词 Tomohisa Sako、Tomoyuki Ogawa · 作曲 Tomoyuki Ogawa · 编曲 Saku · 歌手 佐香智久
 title=仆たちの歌
+tag=
+usertag=
+tagroute=
 artist=佐香智久
 album=ED2《仆たちの歌
-lyricist=Tomohisa Sako、Tomoyuki Ogawa
+lyricist=Tomohisa Sako,Tomoyuki Ogawa
 composer=Tomoyuki Ogawa
 arranger=Saku
-copyright=作词 Tomohisa Sako、Tomoyuki Ogawa / 作曲 Tomoyuki Ogawa / 编曲 Saku
+copyright=作词 Tomohisa Sako,Tomoyuki Ogawa / 作曲 Tomoyuki Ogawa / 编曲 Saku
 transcriber=zytx121
 status=bare-numbers
 source=je-0646
@@ -38,3 +42,5 @@ source=je-0646
 ,6 ,7 1 ,7 1 2 1 2 2 1 2 3 4 3 2 1 ,6 1 4 3 2 1 1 ,7 1 2
 3 2 1 1 1 1 ,5 1 2 3 3 4 ,6 ,6 1 ,7 ,7 ,7 ,5 4 3 2 3
 3 3 4 5 1 1 1 2 ,5 6 5 3 2 1 2 3 ,6 1 ,6 1 4 3 5 3 2 2 3 1 ,6 ,1 5 1 1 1 ,7 ,6 ,7 2 1
+%---
+%END

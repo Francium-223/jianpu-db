@@ -1,7 +1,11 @@
+%オレンジ__je-1398.txt
 %标题 オレンジ
 % 出处 https://github.com/zytx121/je/issues/1398
 % 歌曲信息: 专辑 オレンジ(期間生産限定盤) · 作词 MICHIRU · 作曲 MICHIRU · 编曲 シライシ紗トリ · 歌手 seven oops
 title=オレンジ
+tag=
+usertag=
+tagroute=
 artist=seven oops
 album=オレンジ(期間生産限定盤)
 lyricist=MICHIRU
@@ -77,3 +81,5 @@ source=je-1398
 1 1 5 4 3 4 5 5 5 5 6 5 ,7 1
 ,6 ,6 3 2 2 ,6 1 ,7 ,6 ,7 1
 ,6 ,6 3 4 4 ,5 ,5 2 2 1 ,7 1
+%---
+%END

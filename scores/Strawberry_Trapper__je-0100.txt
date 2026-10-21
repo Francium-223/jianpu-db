@@ -1,7 +1,11 @@
+%Strawberry_Trapper__je-0100.txt
 %标题 Strawberry_Trapper
 % 出处 https://github.com/zytx121/je/issues/0100
 % 歌曲信息: 专辑 Strawberry Trapper · 作词 畑 亜貴 · 作曲 金崎真士 · 编曲 金崎真士 · 歌手 Guilty Kiss!
 title=Strawberry_Trapper
+tag=
+usertag=
+tagroute=
 artist=Guilty Kiss!
 album=Strawberry Trapper
 lyricist=畑 亜貴
@@ -70,3 +74,5 @@ source=je-0100
 1' 7 6 5 5 6 5 6 5 6
 1' 6 1' 2' 1' 6 5 5 6 5 6 5 6
 1' 6 1' 2' 1' 6 5 6
+%---
+%END

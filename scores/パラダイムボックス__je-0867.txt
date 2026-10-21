@@ -1,8 +1,12 @@
+%パラダイムボックス__je-0867.txt
 %标题 パラダイムボックス
 % 出处 https://github.com/zytx121/je/issues/0867
 % 歌曲信息: 专辑 未知 · 作词 ヨシダタクミ(phatmans after school) · 作曲 ヨシダタクミ(phatmans after school) · 编曲 アオヤマイクミ · 歌手 式岛律（CV：泽城千春）、佐竹笙悟（CV：武内骏辅）
 title=パラダイムボックス
-artist=式岛律（CV：泽城千春）、佐竹笙悟（CV：武内骏辅）
+tag=
+usertag=
+tagroute=
+artist=式岛律（CV：泽城千春）,佐竹笙悟（CV：武内骏辅）
 lyricist=ヨシダタクミ(phatmans after school)
 composer=ヨシダタクミ(phatmans after school)
 arranger=アオヤマイクミ
@@ -51,3 +55,5 @@ source=je-0867
 7 6 5 7 6 5 2 6 6 7 7 1' 2' 7 5 2 1 ,7 2 1 ,7 1 1 2 2 3 5 2 ,7
 2 3' 2' 2' 7 7 3' 2' 7 2' 2 3 2 2 ,7 ,7 3 2 ,7 2
 2' 3' 2' 5' 3' 7 6 7 1' 7
+%---
+%END

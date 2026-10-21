@@ -1,7 +1,11 @@
+%The_Moss__je-0477.txt
 %标题 The_Moss
 % 出处 https://github.com/zytx121/je/issues/0477
 % 歌曲信息: 专辑 未知 · 作词 未知 · 作曲 未知 · 编曲 未知 · 歌手 未知
 title=The_Moss
+tag=
+usertag=
+tagroute=
 copyright=作词 未知 / 作曲 未知 / 编曲 未知
 transcriber=rockyhann
 status=bare-numbers
@@ -36,3 +40,5 @@ source=je-0477
 3' 3' 6' 7' 1 2 3
 3 3 2 3 4 3
 6' 7' 1 6' 1 6' 1 6' 7' 1 2 7' 1 6'
+%---
+%END

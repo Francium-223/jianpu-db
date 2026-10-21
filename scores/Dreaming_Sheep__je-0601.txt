@@ -1,7 +1,11 @@
+%Dreaming_Sheep__je-0601.txt
 %标题 Dreaming_Sheep
 % 出处 https://github.com/zytx121/je/issues/0601
 % 歌曲信息: 专辑 PCゲーム『大図書館の羊飼い -Dreaming Sheep-』OP曲 · 作词 永原さくら · 作曲 小高光太郎 · 编曲 小高光太郎・西村太貴 · 歌手 中惠光城
 title=Dreaming_Sheep
+tag=
+usertag=
+tagroute=
 artist=中惠光城
 album=PCゲーム『大図書館の羊飼い -Dreaming Sheep-』OP曲
 lyricist=永原さくら
@@ -42,3 +46,5 @@ source=je-0601
 5 5 4 3 4 5 5 1' 7 1'
 1 1 5 5 1 1 3 3 2 2 2 3 4 3 2 1
 2 3 4 3 1 5 6 5 7 1'
+%---
+%END

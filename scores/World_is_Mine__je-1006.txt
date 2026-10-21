@@ -1,7 +1,11 @@
+%World_is_Mine__je-1006.txt
 %标题 World_is_Mine
 % 出处 https://github.com/zytx121/je/issues/1006
 % 歌曲信息: 专辑 《supercell》 · 作词 ryo · 作曲 ryo · 编曲 ryo · 歌手 初音ミク
 title=World_is_Mine
+tag=
+usertag=
+tagroute=
 artist=初音ミク
 album=supercell
 lyricist=ryo
@@ -66,3 +70,5 @@ source=je-1006
 1 2 6 2 2 1 2 2 2 2 4 4 6 6 5 1'
 1 2 4 5 4 5 #5 5 4 2 1 2
 2' 4 2 1 5 2'
+%---
+%END

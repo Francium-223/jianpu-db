@@ -1,7 +1,11 @@
+%Song_of_MANA__je-0920.txt
 %标题 Song_of_MANA
 % 出处 https://github.com/zytx121/je/issues/0920
 % 歌曲信息: 专辑 聖剣伝説 LEGEND OF MANA Arrangement Album -Promise- (游戏《圣剑传说 玛娜传奇》编曲专辑) · 作词 未知 · 作曲 未知 · 编曲 未知 · 歌手 下村阳子
 title=Song_of_MANA
+tag=
+usertag=
+tagroute=
 artist=下村阳子
 album=聖剣伝説 LEGEND OF MANA Arrangement Album -Promise- (游戏《圣剑传说 玛娜传奇》编曲专辑)
 copyright=作词 未知 / 作曲 未知 / 编曲 未知
@@ -34,3 +38,5 @@ source=je-0920
 ,5 ,5 2 1 4 4 3 2 2 2 ,5 ,5 2 1 4 5 4 3 3 2
 ,5 ,5 2 1 4 4 3 2 2 2 ,5 ,5 2 1 4 5 4 4 3 3 2
 ,5 ,5 2 1 4 4 3 2 2 2 ,5 ,5 2 1 4 5 4 4 3 3 2
+%---
+%END

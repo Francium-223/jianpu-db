@@ -1,13 +1,17 @@
+%恋暴动__je-0830.txt
 %标题 恋暴动
 % 出处 https://github.com/zytx121/je/issues/0830
 % 歌曲信息: 专辑 恋暴动/DAIKIRAI-DAISUKI · 作词 坂口喜咲 · 作曲 坂口喜咲 · 编曲 HAPPY BIRTHDAY、大久保友裕 · 歌手 HAPPY BIRTHDAY
 title=恋暴动
+tag=
+usertag=
+tagroute=
 artist=HAPPY BIRTHDAY
 album=恋暴动/DAIKIRAI-DAISUKI
 lyricist=坂口喜咲
 composer=坂口喜咲
-arranger=HAPPY BIRTHDAY、大久保友裕
-copyright=作词 坂口喜咲 / 作曲 坂口喜咲 / 编曲 HAPPY BIRTHDAY、大久保友裕
+arranger=HAPPY BIRTHDAY,大久保友裕
+copyright=作词 坂口喜咲 / 作曲 坂口喜咲 / 编曲 HAPPY BIRTHDAY,大久保友裕
 transcriber=zytx121
 status=bare-numbers
 source=je-0830
@@ -26,3 +30,5 @@ source=je-0830
 2 2 3 3 5 5 6 5 ,3 ,2 7 5 5 5 1' 7 1' 7 1' 1' 1' ,2 ,3 ,2 7 ,3 ,2 7 6 5
 1=#C
 5 3 5 3 5 3 5 3 5 3 5 3 5 3 5 3 5 3 5 3
+%---
+%END

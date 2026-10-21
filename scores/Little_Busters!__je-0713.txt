@@ -1,12 +1,16 @@
+%Little_Busters!__je-0713.txt
 %标题 Little_Busters!
 % 出处 https://github.com/zytx121/je/issues/0713
 % 歌曲信息: 专辑 未知 · 作词 麻枝准 · 作曲 麻枝准 · 编曲 中泽伴行、尾崎武士（I've） · 歌手 Rita
 title=Little_Busters!
+tag=
+usertag=
+tagroute=
 artist=Rita
 lyricist=麻枝准
 composer=麻枝准
-arranger=中泽伴行、尾崎武士（I've）
-copyright=作词 麻枝准 / 作曲 麻枝准 / 编曲 中泽伴行、尾崎武士（I've）
+arranger=中泽伴行,尾崎武士（I've）
+copyright=作词 麻枝准 / 作曲 麻枝准 / 编曲 中泽伴行,尾崎武士（I've）
 transcriber=zytx121
 status=bare-numbers
 source=je-0713
@@ -38,3 +42,5 @@ source=je-0713
 2 5 5 7 6 6 5 2' 1' 7 5 6 7 5
 5 6 6 6 7 6 5 5 5 #4 2
 5 6 #6 6 5 4 4 4 5 2 5 6 #6 6 5 4 1' 2' 2'
+%---
+%END

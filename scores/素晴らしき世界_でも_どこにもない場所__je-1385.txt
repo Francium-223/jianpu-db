@@ -1,7 +1,11 @@
+%素晴らしき世界_でも_どこにもない場所__je-1385.txt
 %标题 素晴らしき世界_でも_どこにもない場所
 % 出处 https://github.com/zytx121/je/issues/1385
 % 歌曲信息: 作词 Diggy-MO’ · 作曲 長谷川大介 · 编曲 長谷川大介 · 歌手 Ave Mujica
 title=素晴らしき世界_でも_どこにもない場所
+tag=
+usertag=
+tagroute=
 artist=Ave Mujica
 lyricist=Diggy-MO’
 composer=長谷川大介
@@ -93,3 +97,5 @@ source=je-1385
 1 2 1 3
 3' 2' 4' 3' 7 2' 1'
 2 3 4 5 2 4 3
+%---
+%END

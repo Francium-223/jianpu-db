@@ -1,7 +1,11 @@
+%Theme_of_Velvet__je-0075.txt
 %标题 Theme_of_Velvet
 % 出处 https://github.com/zytx121/je/issues/0075
 % 歌曲信息: 歌手 樱庭统
 title=Theme_of_Velvet
+tag=
+usertag=
+tagroute=
 artist=樱庭统
 transcriber=zytx121
 status=bare-numbers
@@ -28,3 +32,5 @@ source=je-0075
 6 7 1' 3 4 2' 1' 7 1' 7 6 5
 6 7 1' 3 4 2' 1' 3' 4' 3' 2' 1' 7 6
 6 7 1' 3 4 2' 1' 3' 4' 3' 2' 3' 4' 3'
+%---
+%END

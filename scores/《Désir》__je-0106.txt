@@ -1,7 +1,11 @@
+%《Désir》__je-0106.txt
 %标题 《Désir》
 % 出处 https://github.com/zytx121/je/issues/0106
 % 歌曲信息: 作词 MARiA · 作曲 toku · 编曲 GARNiDELiA · 歌手 GARNiDELiA
 title=《Désir》
+tag=
+usertag=
+tagroute=
 artist=GARNiDELiA
 lyricist=MARiA
 composer=toku
@@ -24,3 +28,5 @@ source=je-0106
 3 3 3 5 6 4 4 4 1' 7
 5 5 5 6 7 1' 7 6 5 6
 3 3 3 5 6 4 4 4 3' 2' 5 5 5 6 7 1' 7 6 5 6
+%---
+%END

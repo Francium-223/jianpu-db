@@ -1,7 +1,11 @@
+%萤之光__je-0438.txt
 %标题 萤之光
 % 出处 https://github.com/zytx121/je/issues/0438
 % 歌曲信息: 作词 水野良树 · 作曲 水野良树 · 编曲 江口亮 · 歌手 生物股长
 title=萤之光
+tag=
+usertag=
+tagroute=
 artist=生物股长
 lyricist=水野良树
 composer=水野良树
@@ -60,3 +64,5 @@ source=je-0438
 5 3 5 5 6
 ,5 1 1 1 1 ,7 1 2 1 ,7 1
 ,5 3 3 2 1 2 1
+%---
+%END

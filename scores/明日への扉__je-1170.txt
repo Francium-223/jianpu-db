@@ -1,7 +1,11 @@
+%明日への扉__je-1170.txt
 %标题 明日への扉
 % 出处 https://github.com/zytx121/je/issues/1170
 % 歌曲信息: 专辑 THE COMPLETE COLLECTION OF I WiSH · 作词 未知 · 作曲 未知 · 编曲 未知 · 歌手 I WiSH
 title=明日への扉
+tag=
+usertag=
+tagroute=
 artist=I WiSH
 album=THE COMPLETE COLLECTION OF I WiSH
 copyright=作词 未知 / 作曲 未知 / 编曲 未知
@@ -44,3 +48,5 @@ source=je-1170
 5 5 4 3 4 5 5 5 4 3 4 5
 5 6 7 1' 3 3 1' 7 6 5
 5 5 6 1 1 1 1 2 2 3 4 3 2 1
+%---
+%END

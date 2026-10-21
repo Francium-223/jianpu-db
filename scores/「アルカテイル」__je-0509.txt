@@ -1,7 +1,11 @@
+%「アルカテイル」__je-0509.txt
 %标题 「アルカテイル」
 % 出处 https://github.com/zytx121/je/issues/0509
 % 歌曲信息: 专辑 Summer Pockets Oringal Sound Track · 作词 魁 · 作曲 折户伸治 · 编曲 中山真斗 · 歌手 鈴木このみ
 title=「アルカテイル」
+tag=
+usertag=
+tagroute=
 artist=鈴木このみ
 album=Summer Pockets Oringal Sound Track
 lyricist=魁
@@ -103,3 +107,5 @@ source=je-0509
 3 1' 7 7 1' 7 6 3 3 4 3 2 3 1
 1 ,6 ,7 1 2 3 ,7 1 2 3 2 3 4 5 2
 ,7 2 5 7 7 6
+%---
+%END

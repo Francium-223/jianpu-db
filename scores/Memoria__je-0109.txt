@@ -1,7 +1,11 @@
+%Memoria__je-0109.txt
 %标题 Memoria
 % 出处 https://github.com/zytx121/je/issues/0109
 % 歌曲信息: 作词 Eir 安田史生 · 作曲 安田史生 · 编曲 下川佳代 · 歌手 蓝井アイル
 title=Memoria
+tag=
+usertag=
+tagroute=
 artist=蓝井アイル
 lyricist=Eir 安田史生
 composer=安田史生
@@ -51,3 +55,5 @@ source=je-0109
 2 3 4 3 4 5 4 3 4
 4 5 6 5 4 3 1 5 5 4 3 2
 2 3 4 3 4 5 4 3 4
+%---
+%END

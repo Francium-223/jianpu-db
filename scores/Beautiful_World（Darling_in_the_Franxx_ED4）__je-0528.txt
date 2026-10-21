@@ -1,7 +1,11 @@
+%Beautiful_World（Darling_in_the_Franxx_ED4）__je-0528.txt
 %标题 Beautiful_World（Darling_in_the_Franxx_ED4）
 % 出处 https://github.com/zytx121/je/issues/0528
 % 歌曲信息: 专辑 DARLING in the FRANXX ED集 vol.1 · 作词 未知 · 作曲 未知 · 编曲 未知 · 歌手 XX:me
 title=Beautiful_World（Darling_in_the_Franxx_ED4）
+tag=
+usertag=
+tagroute=
 artist=XX:me
 album=DARLING in the FRANXX ED集 vol.1
 copyright=作词 未知 / 作曲 未知 / 编曲 未知
@@ -45,3 +49,5 @@ source=je-0528
 2 3 4 3 1 ,6 ,7 1 2 1 ,7 ,5
 ,3 ,6 ,3 ,7 ,3 1 ,7 1 2 3 2
 ,5 ,7 1 ,7 1 ,7 ,5 1 ,7 ,5
+%---
+%END

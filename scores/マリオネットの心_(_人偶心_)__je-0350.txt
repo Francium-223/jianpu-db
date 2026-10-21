@@ -1,7 +1,11 @@
+%マリオネットの心_(_人偶心_)__je-0350.txt
 %标题 マリオネットの心_(_人偶心_)
 % 出处 https://github.com/zytx121/je/issues/0350
 % 歌曲信息: 专辑 THE IDOLM@STER ANIM@TION MASTER 05 · 作词 mft · 作曲 橋本由香利 · 编曲 宮崎誠 · 歌手 星井美希
 title=マリオネットの心_(_人偶心_)
+tag=
+usertag=
+tagroute=
 artist=星井美希
 album=THE IDOLM@STER ANIM@TION MASTER 05
 lyricist=mft
@@ -36,3 +40,5 @@ source=je-0350
 2 2 6 #6 6 1 #6 6
 5 4 3 2 1 2 3 4 5 4 5 6 7 1' 7
 4 3 5 4 3 5 4 3 5 4 5 6
+%---
+%END

@@ -1,6 +1,10 @@
+%ともしびのうた__je-0329.txt
 %标题 ともしびのうた
 % 出处 https://github.com/zytx121/je/issues/0329
 title=ともしびのうた
+tag=
+usertag=
+tagroute=
 transcriber=zytx121
 status=bare-numbers
 source=je-0329
@@ -23,3 +27,5 @@ source=je-0329
 1' 7 1' 1' 7 6 5 4 5 2' 1' 6 7 1' 1' 2' 7 6
 6 7 1' 1' 7 6 6 5 5 3 5 6 5 6 5 2 4 4 3 3
 1' 7 1' 1' 7 6 5 4 5 2' 1' 6 7 1' 1' 7 5 6
+%---
+%END

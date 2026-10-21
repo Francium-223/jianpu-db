@@ -1,7 +1,11 @@
+%あなたの選んだこの時を__je-1207.txt
 %标题 あなたの選んだこの時を
 % 出处 https://github.com/zytx121/je/issues/1207
 % 歌曲信息: 专辑 劇場版 STEINS;GATE 負荷領域のデジャヴ OST · 作曲 志倉千代丸 · 歌手 いとうかなこ
 title=あなたの選んだこの時を
+tag=
+usertag=
+tagroute=
 artist=いとうかなこ
 album=劇場版 STEINS;GATE 負荷領域のデジャヴ OST
 composer=志倉千代丸
@@ -59,3 +63,5 @@ source=je-1207
 4 4 3 4 3 2 1 ,7
 ,6 ,7 1 ,7 1 2 ,7 1 2 5 3
 ,4 ,4 2 1 ,7 ,6
+%---
+%END

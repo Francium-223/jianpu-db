@@ -1,7 +1,11 @@
+%甲賀忍法帖__je-0658.txt
 %标题 甲賀忍法帖
 % 出处 https://github.com/zytx121/je/issues/0658
 % 歌曲信息: 专辑 バジリスク～甲賀忍法帖 · 作词 瞬火 · 作曲 瞬火 · 编曲 未知 · 歌手 阴阳座
 title=甲賀忍法帖
+tag=
+usertag=
+tagroute=
 artist=阴阳座
 album=バジリスク～甲賀忍法帖
 lyricist=瞬火
@@ -44,3 +48,5 @@ source=je-0658
 7 7 6 7
 7 1 7 7 7 7 1
 7 7 7
+%---
+%END

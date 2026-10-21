@@ -1,7 +1,11 @@
+%僕らは今のなかで__je-0083.txt
 %标题 僕らは今のなかで
 % 出处 https://github.com/zytx121/je/issues/0083
 % 歌曲信息: 专辑 僕らは今のなかで · 作词 畑_亜貴 · 作曲 森慎太郎 · 编曲 森慎太郎 · 歌手 μ's
 title=僕らは今のなかで
+tag=
+usertag=
+tagroute=
 artist=μ's
 album=僕らは今のなかで
 lyricist=畑_亜貴
@@ -70,3 +74,5 @@ source=je-0083
 5 6 5 6 5 5 3
 1 2 3 5 4 3 2 1 ,7 1
 ,5 4 3 2 3 2 1 1
+%---
+%END

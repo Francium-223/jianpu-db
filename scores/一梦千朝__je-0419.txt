@@ -1,7 +1,11 @@
+%一梦千朝__je-0419.txt
 %标题 一梦千朝
 % 出处 https://github.com/zytx121/je/issues/0419
 % 歌曲信息: 作词 ST · 作曲 没有龟壳的乌龟 · 编曲 没有龟壳的乌龟 · 歌手 洛天依
 title=一梦千朝
+tag=
+usertag=
+tagroute=
 artist=洛天依
 lyricist=ST
 composer=没有龟壳的乌龟
@@ -40,3 +44,5 @@ source=je-0419
 ,6 1
 ,5 1 3 2 2 1 2
 1 2 2 1
+%---
+%END

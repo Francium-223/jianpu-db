@@ -1,7 +1,11 @@
+%绝对colorful的宣言__je-1294.txt
 %标题 绝对colorful的宣言
 % 出处 https://github.com/zytx121/je/issues/1294
 % 歌曲信息: 专辑 南家三姐妹
 title=绝对colorful的宣言
+tag=
+usertag=
+tagroute=
 album=南家三姐妹
 transcriber=zhangliang-04
 status=bare-numbers
@@ -29,3 +33,5 @@ source=je-1294
 ,6 1 ,6 1 ,6 1 3 4 3 2 1 6 5
 1 1 3 4 3 2 1 1 ,7 2 1 1
 3 4 3 2 1 1 ,7 1
+%---
+%END

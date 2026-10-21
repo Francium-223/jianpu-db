@@ -1,13 +1,17 @@
+%瞳のこたえ__je-0481.txt
 %标题 瞳のこたえ
 % 出处 https://github.com/zytx121/je/issues/0481
 % 歌曲信息: 专辑 瞳のこたえ · 作词 Noria · 作曲 五十嵐"IGAO"淳一 · 编曲 大場敏朗 、中川幸太郎 · 歌手 Noria
 title=瞳のこたえ
+tag=
+usertag=
+tagroute=
 artist=Noria
 album=瞳のこたえ
 lyricist=Noria
 composer=五十嵐"IGAO"淳一
-arranger=大場敏朗 、中川幸太郎
-copyright=作词 Noria / 作曲 五十嵐"IGAO"淳一 / 编曲 大場敏朗 、中川幸太郎
+arranger=大場敏朗,中川幸太郎
+copyright=作词 Noria / 作曲 五十嵐"IGAO"淳一 / 编曲 大場敏朗,中川幸太郎
 transcriber=moomiji
 status=bare-numbers
 source=je-0481
@@ -57,3 +61,5 @@ source=je-0481
 3 4 3 2 3 2 1 1 ,7 ,6
 ,6 ,6 ,7 1 2 2
 1 ,7 ,7 1 1
+%---
+%END

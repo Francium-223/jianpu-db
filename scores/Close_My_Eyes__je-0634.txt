@@ -1,7 +1,11 @@
+%Close_My_Eyes__je-0634.txt
 %标题 Close_My_Eyes
 % 出处 https://github.com/zytx121/je/issues/0634
 % 歌曲信息: 专辑 秽翼のユースティア エンディングテーママキシシングル 亲爱なる世界へ · 作词 hanon · 作曲 Ceui · 编曲 Ceui · 歌手 Ceui
 title=Close_My_Eyes
+tag=
+usertag=
+tagroute=
 artist=Ceui
 album=秽翼のユースティア エンディングテーママキシシングル 亲爱なる世界へ
 lyricist=hanon
@@ -47,3 +51,5 @@ source=je-0634
 4 5 6 6 1' 1' 7 5 6 6 6 5 6
 2' 1' 7 6 7 6 5 6 3
 2 3 4 5 6 5 4 3 3 2 2
+%---
+%END

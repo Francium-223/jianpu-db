@@ -1,7 +1,11 @@
+%ススメ→トゥモロウ__je-0771.txt
 %标题 ススメ→トゥモロウ
 % 出处 https://github.com/zytx121/je/issues/0771
 % 歌曲信息: 专辑 「ススメ→トゥモロウ」/「START:DASH!!」 · 作词 畑 亜貴 · 作曲 河田貴央 · 编曲 河田貴央 · 歌手 μ's
 title=ススメ→トゥモロウ
+tag=
+usertag=
+tagroute=
 artist=μ's
 album=「ススメ→トゥモロウ」/「START:DASH!!」
 lyricist=畑 亜貴
@@ -80,3 +84,5 @@ source=je-0771
 #6 6 4 3 4 5 4 5 4 6 6 6
 #6 6 4 3 4 5 4 5 4
 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7
+%---
+%END

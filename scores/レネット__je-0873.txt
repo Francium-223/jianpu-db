@@ -1,7 +1,11 @@
+%レネット__je-0873.txt
 %标题 レネット
 % 出处 https://github.com/zytx121/je/issues/0873
 % 歌曲信息: 专辑 未知 · 作词 坪田修平（TRYTONELABO） · 作曲 坪田修平（TRYTONELABO） · 编曲 RegaSound · 歌手 μ（CV：上田丽奈）
 title=レネット
+tag=
+usertag=
+tagroute=
 artist=μ（CV：上田丽奈）
 lyricist=坪田修平（TRYTONELABO）
 composer=坪田修平（TRYTONELABO）
@@ -55,3 +59,5 @@ source=je-0873
 1 1 2 2 2 1 1
 1 1 ,7 1 1 1 1 ,7 1 1
 1 ,7 ,7 2 1 ,7 ,5
+%---
+%END

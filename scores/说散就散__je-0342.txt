@@ -1,7 +1,11 @@
+%说散就散__je-0342.txt
 %标题 说散就散
 % 出处 https://github.com/zytx121/je/issues/0342
 % 歌曲信息: 作词 张楚翘 · 作曲 伍乐城 · 编曲 伍乐城 · 歌手 袁娅维
 title=说散就散
+tag=
+usertag=
+tagroute=
 artist=袁娅维
 lyricist=张楚翘
 composer=伍乐城
@@ -44,3 +48,5 @@ source=je-0342
 5 5 5 5 7 6
 3 2 1 ,6 1 1 2 1 2 1 2 3 3
 3 2 1 ,6 1 1 2 1 2 1 2 3 3
+%---
+%END

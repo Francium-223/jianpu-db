@@ -1,7 +1,11 @@
+%cat’s_dance__je-0992.txt
 %标题 cat’s_dance
 % 出处 https://github.com/zytx121/je/issues/0992
 % 歌曲信息: 专辑 未知 · 作词 まらしぃ · 作曲 まらしぃ · 编曲 まらしぃ · 歌手 初音ミク
 title=cat’s_dance
+tag=
+usertag=
+tagroute=
 artist=初音ミク
 lyricist=まらしぃ
 composer=まらしぃ
@@ -126,3 +130,5 @@ source=je-0992
 4 5 4 5 1 4 5 4 3 2
 1 2 3 7 2
 4 5 7 2 1 1 2 2 1 2 #5
+%---
+%END

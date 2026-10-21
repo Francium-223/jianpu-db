@@ -1,7 +1,11 @@
+%花守の丘__je-0681.txt
 %标题 花守の丘
 % 出处 https://github.com/zytx121/je/issues/0681
 % 歌曲信息: 专辑 everlasting songs · 作词 梶浦由记 · 作曲 梶浦由记 · 编曲 梶浦由记 · 歌手 FictionJunction KAORI
 title=花守の丘
+tag=
+usertag=
+tagroute=
 artist=FictionJunction KAORI
 album=everlasting songs
 lyricist=梶浦由记
@@ -89,3 +93,5 @@ source=je-0681
 6 7 ,7 ,7 ,7 ,7
 ,7 ,7 1 ,7 ,7 7 7
 6 7 ,7 ,7 ,7 ,7 7 ,7 7 ,5 6
+%---
+%END

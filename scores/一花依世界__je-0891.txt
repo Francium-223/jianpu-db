@@ -1,7 +1,11 @@
+%一花依世界__je-0891.txt
 %标题 一花依世界
 % 出处 https://github.com/zytx121/je/issues/0891
 % 歌曲信息: 作曲 LS · 作词 杏花包子
 title=一花依世界
+tag=
+usertag=
+tagroute=
 lyricist=杏花包子
 composer=LS
 copyright=作曲 LS / 作词 杏花包子
@@ -39,3 +43,5 @@ source=je-0891
 7 6 6 5 2 3 5 5 2 3 5 5 6 6 6 5
 7 6 6 5 2 3 5 5 2 3 5 5 6 5 6 5 6 7
 7 6 6 5 2 3 5 5 2 3 5 5 2'
+%---
+%END

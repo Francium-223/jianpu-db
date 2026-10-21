@@ -1,7 +1,11 @@
+%やっはろー！__je-0172.txt
 %标题 やっはろー！
 % 出处 https://github.com/zytx121/je/issues/0172
 % 歌曲信息: 歌手 石濱翔
 title=やっはろー！
+tag=
+usertag=
+tagroute=
 artist=石濱翔
 transcriber=zytx121
 status=bare-numbers
@@ -19,3 +23,5 @@ source=je-0172
 1 2 3 4 3 4 3 2 1 2 5 1
 4 3 4 3 1 ,6 1 ,6 1 2 5 4 3 4 3 6 5 4 3 4 5 1
 ,6 1 ,7 5 5 6 1'
+%---
+%END

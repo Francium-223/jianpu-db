@@ -1,6 +1,10 @@
+%王者荣耀s21赛季登录音乐·夏洛特__je-1171.txt
 %标题 王者荣耀s21赛季登录音乐·夏洛特
 % 出处 https://github.com/zytx121/je/issues/1171
 title=王者荣耀s21赛季登录音乐·夏洛特
+tag=
+usertag=
+tagroute=
 transcriber=madderscientist
 status=bare-numbers
 source=je-1171
@@ -30,3 +34,5 @@ source=je-1171
 2' 1' 7 3 2' 7 1'
 6 7 1' 1' 1' 2' 7 6 7
 7 3 3 3 3 3 3 3 6
+%---
+%END

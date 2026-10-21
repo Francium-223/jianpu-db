@@ -1,7 +1,11 @@
+%莎图温的裙摆__je-0993.txt
 %标题 莎图温的裙摆
 % 出处 https://github.com/zytx121/je/issues/0993
 % 歌曲信息: 专辑 行星infinity · 作词 跳蝻P · 作曲 跳蝻P · 编曲 跳蝻P · 歌手 洛天依
 title=莎图温的裙摆
+tag=
+usertag=
+tagroute=
 artist=洛天依
 album=行星infinity
 lyricist=跳蝻P
@@ -49,3 +53,5 @@ source=je-0993
 2' 4' 3'
 4' 3' 1' 2' 3' 4' 5' 4' 6'
 4 3 1 2 4 5 1' 6 5 2' 1' 6 1' 2'
+%---
+%END

@@ -1,7 +1,11 @@
+%春弦__je-1256.txt
 %标题 春弦
 % 出处 https://github.com/zytx121/je/issues/1256
 % 歌曲信息: 专辑 春弦 · 歌手 塞壬唱片-MSR / 横山克
 title=春弦
+tag=
+usertag=
+tagroute=
 artist=塞壬唱片-MSR / 横山克
 album=春弦
 transcriber=madderscientist
@@ -44,3 +48,5 @@ source=je-1256
 ,3 ,7 1 2 1 ,7 5 3
 1' 7 5 3 5 6
 1' 2' 7
+%---
+%END

@@ -1,8 +1,12 @@
+%Don’t_say_lazy__je-0679.txt
 %标题 Don’t_say_lazy
 % 出处 https://github.com/zytx121/je/issues/0679
 % 歌曲信息: 专辑 片尾曲《Don't say "lazy"》 · 作词 大森祥子 · 作曲 前泽宽之 · 编曲 小森茂生 · 歌手 樱高轻音部(秋山澪、平泽唯、田井中律、琴吹䌷、中野梓(CV：日笠阳子、丰崎爱生、佐藤聪美、寿美菜子、竹达彩奈))
 title=Don’t_say_lazy
-artist=樱高轻音部(秋山澪、平泽唯、田井中律、琴吹䌷、中野梓(CV：日笠阳子、丰崎爱生、佐藤聪美、寿美菜子、竹达彩奈))
+tag=
+usertag=
+tagroute=
+artist=樱高轻音部(秋山澪,平泽唯,田井中律,琴吹䌷,中野梓(CV：日笠阳子,丰崎爱生,佐藤聪美,寿美菜子,竹达彩奈))
 album=片尾曲《Don't say "lazy"
 lyricist=大森祥子
 composer=前泽宽之
@@ -33,3 +37,5 @@ source=je-0679
 6 5 4 5 4 6 1 2 1 2 1 2 2 1 2 1 2 1 4 4
 6 5 4 5 4 5 6 6 5 4 5 4 2 4
 6 5 4 5 4 6 1 2 1 2 1 2 2 1 2 1 2 1 4 4
+%---
+%END

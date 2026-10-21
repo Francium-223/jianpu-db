@@ -1,7 +1,11 @@
+%Another_Heaven__je-0113.txt
 %标题 Another_Heaven
 % 出处 https://github.com/zytx121/je/issues/0113
 % 歌曲信息: 作词 漆野淳哉 · 作曲 须田悦弘 · 编曲 矶江俊道 · 歌手 いとうかなこ
 title=Another_Heaven
+tag=
+usertag=
+tagroute=
 artist=いとうかなこ
 lyricist=漆野淳哉
 composer=须田悦弘
@@ -24,3 +28,5 @@ source=je-0113
 ,6 5 4 4 3 3 2 1 ,5 ,6 2 2
 1 2 4 3 3 2 3 2 ,#6 1 4 3 3 2 1 2 1
 ,6 5 4 4 ,6 5 4 4 3 3 2 2 2 3 2 4 4 3 2 1 1
+%---
+%END

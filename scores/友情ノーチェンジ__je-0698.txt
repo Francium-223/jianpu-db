@@ -1,7 +1,11 @@
+%友情ノーチェンジ__je-0698.txt
 %标题 友情ノーチェンジ
 % 出处 https://github.com/zytx121/je/issues/0698
 % 歌曲信息: 专辑 僕らのLIVE 君とのLIFE · 作词 畑亜貴 · 作曲 近藤昭雄 · 编曲 高田暁 · 歌手 μ’s
 title=友情ノーチェンジ
+tag=
+usertag=
+tagroute=
 artist=μ’s
 album=僕らのLIVE 君とのLIFE
 lyricist=畑亜貴
@@ -77,3 +81,5 @@ source=je-0698
 2 3 4 5 1 4 4
 1 4 5 6 5 4
 2 5 4 3 4
+%---
+%END

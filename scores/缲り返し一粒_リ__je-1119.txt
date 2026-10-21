@@ -1,7 +1,11 @@
+%缲り返し一粒_リ__je-1119.txt
 %标题 缲り返し一粒_リ
 % 出处 https://github.com/zytx121/je/issues/1119
 % 歌曲信息: 专辑 EXIT TUNES PRESENTS Vocalotwinkle · 作词 猫虫P · 作曲 猫虫P · 编曲 猫虫P · 歌手 猫虫P / 鏡音リン
 title=缲り返し一粒_リ
+tag=
+usertag=
+tagroute=
 artist=猫虫P / 鏡音リン
 album=EXIT TUNES PRESENTS Vocalotwinkle
 lyricist=猫虫P
@@ -94,3 +98,5 @@ source=je-1119
 4 4 4 6 4 4 4 4 3 3 4
 1 4 4 4 4 4 4 4 4 4 4 3 3 4
 1 4 5 4 3
+%---
+%END

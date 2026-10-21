@@ -1,7 +1,11 @@
+%チームワークはばっちりだね♪__je-0176.txt
 %标题 チームワークはばっちりだね♪
 % 出处 https://github.com/zytx121/je/issues/0176
 % 歌曲信息: 歌手 MONACA
 title=チームワークはばっちりだね♪
+tag=
+usertag=
+tagroute=
 artist=MONACA
 transcriber=zytx121
 status=bare-numbers
@@ -24,3 +28,5 @@ source=je-0176
 3 4 5 3 6 5 4 3
 4 3 4 3 1
 4 3 4 5 4 3 4 1
+%---
+%END

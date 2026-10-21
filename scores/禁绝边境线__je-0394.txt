@@ -1,7 +1,11 @@
+%禁绝边境线__je-0394.txt
 %标题 禁绝边境线
 % 出处 https://github.com/zytx121/je/issues/0394
 % 歌曲信息: 作词 西直紀 · 作曲 コモリタミノル · 歌手 Walküre
 title=禁绝边境线
+tag=
+usertag=
+tagroute=
 artist=Walküre
 lyricist=西直紀
 composer=コモリタミノル
@@ -70,3 +74,5 @@ source=je-0394
 5 4 5 4 3 2
 5 4 5 4 3 2 4
 5 4 5 4 3 2
+%---
+%END

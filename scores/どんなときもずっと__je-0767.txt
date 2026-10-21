@@ -1,7 +1,11 @@
+%どんなときもずっと__je-0767.txt
 %标题 どんなときもずっと
 % 出处 https://github.com/zytx121/je/issues/0767
 % 歌曲信息: 专辑 どんなときもずっと · 作词 畑 亜貴 · 作曲 佐々木裕 · 编曲 佐々木裕 · 歌手 μ's
 title=どんなときもずっと
+tag=
+usertag=
+tagroute=
 artist=μ's
 album=どんなときもずっと
 lyricist=畑 亜貴
@@ -53,3 +57,5 @@ source=je-0767
 4 4 4 4 4 4 4 5 6
 4 4 4 4 5 4 3 4
 #6 6 5 6 4
+%---
+%END

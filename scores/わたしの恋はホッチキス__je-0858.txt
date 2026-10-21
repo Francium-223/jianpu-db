@@ -1,7 +1,11 @@
+%わたしの恋はホッチキス__je-0858.txt
 %标题 わたしの恋はホッチキス
 % 出处 https://github.com/zytx121/je/issues/0858
 % 歌曲信息: 专辑 K-ON · 作词 樱高轻音部 · 作曲 樱高轻音部 · 编曲 樱高轻音部 · 歌手 平泽唯 秋山澪
 title=わたしの恋はホッチキス
+tag=
+usertag=
+tagroute=
 artist=平泽唯 秋山澪
 album=K-ON
 lyricist=樱高轻音部
@@ -30,3 +34,5 @@ source=je-0858
 ,5 ,5 5 4 3 2 1
 5 6 5 4 3 2 3 4 3 ,5
 ,5 ,5 5 6 5 4 3 2 2 1 4 3 1 2
+%---
+%END

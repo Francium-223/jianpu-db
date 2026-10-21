@@ -1,6 +1,10 @@
+%こんな世界、知りたくなかった__je-1099.txt
 %标题 こんな世界、知りたくなかった
 % 出处 https://github.com/zytx121/je/issues/1099
 title=こんな世界、知りたくなかった
+tag=
+usertag=
+tagroute=
 transcriber=madderscientist
 status=bare-numbers
 source=je-1099
@@ -50,3 +54,5 @@ source=je-1099
 6 5 6 5 6 5 7 6 6 7 1' 2' 7 1'
 1 1 ,5 1 2 3 2 2 5 6 6
 1' 7 6
+%---
+%END

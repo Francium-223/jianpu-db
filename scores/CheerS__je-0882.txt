@@ -1,7 +1,11 @@
+%CheerS__je-0882.txt
 %标题 CheerS
 % 出处 https://github.com/zytx121/je/issues/0882
 % 歌曲信息: 专辑 TVアニメ「はたらく細胞」エンディング主題歌 · 作词 ハヤシケイ(KEI) · 作曲 megane · 编曲 毛蟹 · 歌手 ClariS
 title=CheerS
+tag=
+usertag=
+tagroute=
 artist=ClariS
 album=TVアニメ「はたらく細胞」エンディング主題歌
 lyricist=ハヤシケイ(KEI)
@@ -47,3 +51,5 @@ source=je-0882
 1 1 4 3 2 1
 1 1 ,7 1 2 1
 1 1 4 3 2 1
+%---
+%END

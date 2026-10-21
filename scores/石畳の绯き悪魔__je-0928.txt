@@ -1,7 +1,11 @@
+%石畳の绯き悪魔__je-0928.txt
 %标题 石畳の绯き悪魔
 % 出处 https://github.com/zytx121/je/issues/0928
 % 歌曲信息: 专辑 圣戦のイベリア · 作词 未知 · 作曲 未知 · 编曲 未知 · 歌手 Sound Horizon
 title=石畳の绯き悪魔
+tag=
+usertag=
+tagroute=
 artist=Sound Horizon
 album=圣戦のイベリア
 copyright=作词 未知 / 作曲 未知 / 编曲 未知
@@ -45,3 +49,5 @@ source=je-0928
 6 7 1' 1' 7 5 5 3 6
 6 7 1' 2' 3' 4' #5' 6' 7 1' 2' 3' 4' 3' 4' #5' 6' 3' 1' 6' 3'' 1'' #6' #5'
 6' 3'' 4'' 3'' 2'' 1'' 6'
+%---
+%END

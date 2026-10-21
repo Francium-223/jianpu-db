@@ -1,7 +1,11 @@
+%Love_Theme_from_&#39;Spartacus&#39;__je-0159.txt
 %标题 Love_Theme_from_&#39;Spartacus&#39;
 % 出处 https://github.com/zytx121/je/issues/0159
 % 歌曲信息: 专辑 Eastern Sounds · 作曲 Alex North
 title=Love_Theme_from_&#39;Spartacus&#39;
+tag=
+usertag=
+tagroute=
 album=Eastern Sounds
 composer=Alex North
 copyright=作曲 Alex North
@@ -58,3 +62,5 @@ source=je-0159
 6 3' 1' 1' 5' 3' 4 1' 6 7 5 6
 4 3 3 4 4 2 1 2 3 4 3
 7 1' 2' 3' 4' 3' 2' 1' 7 6 #5 4 3 2 1 ,7 1 2 3
+%---
+%END

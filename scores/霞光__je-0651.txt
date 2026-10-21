@@ -1,12 +1,16 @@
+%霞光__je-0651.txt
 %标题 霞光
 % 出处 https://github.com/zytx121/je/issues/0651
 % 歌曲信息: 专辑 未知 · 作词 高博 · 作曲 陈欣若 · 编曲 陈欣若、闫志强 · 歌手 白冰、曲锦楠
 title=霞光
-artist=白冰、曲锦楠
+tag=
+usertag=
+tagroute=
+artist=白冰,曲锦楠
 lyricist=高博
 composer=陈欣若
-arranger=陈欣若、闫志强
-copyright=作词 高博 / 作曲 陈欣若 / 编曲 陈欣若、闫志强
+arranger=陈欣若,闫志强
+copyright=作词 高博 / 作曲 陈欣若 / 编曲 陈欣若,闫志强
 transcriber=zytx121
 status=bare-numbers
 source=je-0651
@@ -32,3 +36,5 @@ source=je-0651
 3' 2' 3' 4' 3' 1' 7 #4 6 #5
 3 1' 7 6 7 3' 5' 6' 5' 3'
 3' 4' 3' 2' 3' 6' 6 7 #4 #5 6
+%---
+%END

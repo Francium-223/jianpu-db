@@ -1,7 +1,11 @@
+%秋姐妹__je-0479.txt
 %标题 秋姐妹
 % 出处 https://github.com/zytx121/je/issues/0479
 % 歌曲信息: 专辑 未知 · 作词 未知 · 作曲 未知 · 编曲 未知 · 歌手 未知
 title=秋姐妹
+tag=
+usertag=
+tagroute=
 copyright=作词 未知 / 作曲 未知 / 编曲 未知
 transcriber=zytx121
 status=bare-numbers
@@ -64,3 +68,5 @@ source=je-0479
 2 3 5 6 7 2' 7 6 7 5 2' 6
 2 3 5 6 7 6 7 2' 7 6 7 3
 2 3 5 6 7 2' 7 6 5 5
+%---
+%END

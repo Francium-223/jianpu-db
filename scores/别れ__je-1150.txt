@@ -1,7 +1,11 @@
+%别れ__je-1150.txt
 %标题 别れ
 % 出处 https://github.com/zytx121/je/issues/1150
 % 歌曲信息: 专辑 STEINS;GATE サウンドトラックⅡ「Event Horizon」 · 作词 村上純 · 作曲 村上純 · 歌手 村上純
 title=别れ
+tag=
+usertag=
+tagroute=
 artist=村上純
 album=STEINS;GATE サウンドトラックⅡ「Event Horizon」
 lyricist=村上純
@@ -30,3 +34,5 @@ source=je-1150
 2 3 ,6 3 5 5 6 2
 3 4 2 4 6 5 6 3 1 2 #4 5 6
 2 ,,4 ,,6 ,2 ,4 ,5 1 4 2'
+%---
+%END

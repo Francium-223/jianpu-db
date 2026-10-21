@@ -1,7 +1,11 @@
+%沧海红颜__je-0432.txt
 %标题 沧海红颜
 % 出处 https://github.com/zytx121/je/issues/0432
 % 歌曲信息: 原曲 花のあとさき · 作曲 霜月はるか · 编曲 霜月はるか
 title=沧海红颜
+tag=
+usertag=
+tagroute=
 composer=霜月はるか
 arranger=霜月はるか
 copyright=作曲 霜月はるか / 编曲 霜月はるか
@@ -75,3 +79,5 @@ source=je-0432
 4 3 3 2 2
 4 5 6 2 2 6 5
 4 3 3 2 1 2
+%---
+%END

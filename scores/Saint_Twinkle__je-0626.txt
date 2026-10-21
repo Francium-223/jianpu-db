@@ -1,7 +1,11 @@
+%Saint_Twinkle__je-0626.txt
 %标题 Saint_Twinkle
 % 出处 https://github.com/zytx121/je/issues/0626
 % 歌曲信息: 专辑 秽翼のユースティア ORIGINAL SOUND TRACK · 作词 未知 · 作曲 スミイ酸 · 编曲 スミイ酸 · 歌手 未知
 title=Saint_Twinkle
+tag=
+usertag=
+tagroute=
 album=秽翼のユースティア ORIGINAL SOUND TRACK
 composer=スミイ酸
 arranger=スミイ酸
@@ -23,3 +27,5 @@ source=je-0626
 1 6 4 2 1 ,7 5 3 1 ,7
 ,6 4 2 ,7 ,6 ,#5 ,6 ,7 1 2 3 4
 3 2 1 ,7 1 2 ,7 ,6
+%---
+%END

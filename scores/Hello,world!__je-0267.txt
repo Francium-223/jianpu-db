@@ -1,12 +1,16 @@
+%Hello,world!__je-0267.txt
 %标题 Hello,world!
 % 出处 https://github.com/zytx121/je/issues/0267
 % 歌曲信息: 作词 藤原基央 · 作曲 藤原基央 · 编曲 BUMP OF CHICKEN、MOR · 歌手 BUMP OF CHICKEN
 title=Hello,world!
+tag=
+usertag=
+tagroute=
 artist=BUMP OF CHICKEN
 lyricist=藤原基央
 composer=藤原基央
-arranger=BUMP OF CHICKEN、MOR
-copyright=作词 藤原基央 / 作曲 藤原基央 / 编曲 BUMP OF CHICKEN、MOR
+arranger=BUMP OF CHICKEN,MOR
+copyright=作词 藤原基央 / 作曲 藤原基央 / 编曲 BUMP OF CHICKEN,MOR
 transcriber=zytx121
 status=bare-numbers
 source=je-0267
@@ -31,3 +35,5 @@ source=je-0267
 4 3 1 ,#6 ,#6 1 3 1 #1 4 #1 #2 #5
 5 4 5 4 5 4 1 4 3 1
 5 4 5 4 5 4 1 4 3 1
+%---
+%END

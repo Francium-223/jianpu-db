@@ -1,7 +1,11 @@
+%聖なる日の祈り__je-0102.txt
 %标题 聖なる日の祈り
 % 出处 https://github.com/zytx121/je/issues/0102
 % 歌曲信息: 专辑 ジングルベルがとまらない · 作词 畑亜貴 · 作曲 田中俊亮 · 编曲 田中俊亮 伊藤賢 · 歌手 Aqours
 title=聖なる日の祈り
+tag=
+usertag=
+tagroute=
 artist=Aqours
 album=ジングルベルがとまらない
 lyricist=畑亜貴
@@ -73,3 +77,5 @@ source=je-0102
 2 3 1 2 3 1
 2 ,7 1 2 ,7 1
 2 3 1 2 3 1
+%---
+%END

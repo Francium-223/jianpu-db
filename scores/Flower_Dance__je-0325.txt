@@ -1,7 +1,11 @@
+%Flower_Dance__je-0325.txt
 %标题 Flower_Dance
 % 出处 https://github.com/zytx121/je/issues/0325
 % 歌曲信息: 专辑 《A Cup Of Coffee》 · 作词 Dj Okawari · 作曲 Dj Okawari · 编曲 Dj Okawari · 歌手 钢琴曲
 title=Flower_Dance
+tag=
+usertag=
+tagroute=
 artist=钢琴曲
 album=A Cup Of Coffee
 lyricist=Dj Okawari
@@ -63,3 +67,5 @@ source=je-0325
 3 5 4 3 2 4 3 2 1 3 2 1 ,7 ,6 ,#5 ,7
 1 ,7 1 2 ,7 ,6 ,5 ,3 ,5 ,6 ,5 ,6 1 ,5 ,4 ,3
 ,3 ,5 ,4 ,3 ,2 ,4 ,3 ,2 ,1 ,3 ,2 ,1 ,,7 ,,6 ,,6
+%---
+%END

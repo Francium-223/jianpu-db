@@ -1,7 +1,11 @@
+%HELLO!!_(M@STER_VERSION)__je-0020.txt
 %标题 HELLO!!_(M@STER_VERSION)
 % 出处 https://github.com/zytx121/je/issues/0020
 % 歌曲信息: 专辑 THEIDOLM@STERDREAMSYMPHONY01 · 歌手 花澤香菜
 title=HELLO!!_(M@STER_VERSION)
+tag=
+usertag=
+tagroute=
 artist=花澤香菜
 album=THEIDOLM@STERDREAMSYMPHONY01
 transcriber=zytx121
@@ -27,3 +31,5 @@ source=je-0020
 5 4 3 1 2 3 4 4 3 2 1 2 1 1
 ,5 3 2 1 ,6 4 3 2 1 ,7 2 1
 ,5 3 2 1 ,6 4 3 2 1 ,7 2 1
+%---
+%END

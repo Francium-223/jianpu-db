@@ -1,7 +1,11 @@
+%梦と叶桜__je-0128.txt
 %标题 梦と叶桜
 % 出处 https://github.com/zytx121/je/issues/0128
 % 歌曲信息: 专辑 V Love 25 Aperios · 作词 青木月光 · 作曲 青木月光 · 编曲 青木月光 · 歌手 初音未来
 title=梦と叶桜
+tag=
+usertag=
+tagroute=
 artist=初音未来
 album=V Love 25 Aperios
 lyricist=青木月光
@@ -29,3 +33,5 @@ source=je-0128
 3 5 2 2 3 5 3 2 1 2 3
 3 5 2 2 1 2 3 ,6 1 2 1 2 5 3
 3 5 2 2 1 2 3 ,6 ,5 ,6
+%---
+%END

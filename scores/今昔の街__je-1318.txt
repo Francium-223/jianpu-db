@@ -1,7 +1,11 @@
+%今昔の街__je-1318.txt
 %标题 今昔の街
 % 出处 https://github.com/zytx121/je/issues/1318
 % 歌曲信息: 专辑 千恋＊万花 · 作曲 Angel Note
 title=今昔の街
+tag=
+usertag=
+tagroute=
 album=千恋＊万花
 composer=Angel Note
 copyright=作曲 Angel Note
@@ -26,3 +30,5 @@ source=je-1318
 2 2 1 2 3 ,6 1 2 2 1 2 3 5
 3 5 6 1' 7 7 6 5 6
 #1 2 #1
+%---
+%END

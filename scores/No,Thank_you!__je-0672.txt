@@ -1,7 +1,11 @@
+%No,Thank_you!__je-0672.txt
 %标题 No,Thank_you!
 % 出处 https://github.com/zytx121/je/issues/0672
 % 歌曲信息: 专辑 No,Thank you! · 作词 大森祥子 · 作曲 前泽宽之 · 编曲 小森茂生 · 歌手 放学后TEA TIME
 title=No,Thank_you!
+tag=
+usertag=
+tagroute=
 artist=放学后TEA TIME
 album=No,Thank you!
 lyricist=大森祥子
@@ -51,3 +55,5 @@ source=je-0672
 6 6 6 6 6 6 4 5 6 5 4 6
 6 6 6 6 6 6 4 5 6 5 4 5 6 5 4 4
 4 #6 6 4 4 3 3 3 3 4 3 2
+%---
+%END

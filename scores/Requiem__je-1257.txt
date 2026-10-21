@@ -1,12 +1,16 @@
+%Requiem__je-1257.txt
 %标题 Requiem
 % 出处 https://github.com/zytx121/je/issues/1257
 % 歌曲信息: 专辑 塞壬唱片-MSR · 作词 Excerpts from the poem "Requiem", by Anna Akhmatova · 作曲 Obadiah Brown-Beach · 歌手 Requiem
 title=Requiem
+tag=
+usertag=
+tagroute=
 artist=Requiem
 album=塞壬唱片-MSR
-lyricist=Excerpts from the poem "Requiem", by Anna Akhmatova
+lyricist=Excerpts from the poem "Requiem",by Anna Akhmatova
 composer=Obadiah Brown-Beach
-copyright=作词 Excerpts from the poem "Requiem", by Anna Akhmatova / 作曲 Obadiah Brown-Beach
+copyright=作词 Excerpts from the poem "Requiem",by Anna Akhmatova / 作曲 Obadiah Brown-Beach
 transcriber=madderscientist
 status=bare-numbers
 source=je-1257
@@ -48,3 +52,5 @@ source=je-1257
 6 3' 3' 3' 2' 1' 1' 7 6 7 3 1' 1' 1' 7 6 6 #5 6 4
 1=E
 1 1 5 5 5 5 4 3 4 4 1 1 3 3 3 3 1 1 1 1
+%---
+%END

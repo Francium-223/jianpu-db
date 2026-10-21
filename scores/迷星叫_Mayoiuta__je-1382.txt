@@ -1,7 +1,11 @@
+%迷星叫_Mayoiuta__je-1382.txt
 %标题 迷星叫_Mayoiuta
 % 出处 https://github.com/zytx121/je/issues/1382
 % 歌曲信息: 作词 藤原優樹 · 作曲 長谷川大介 · 编曲 長谷川大介 · 歌手 MyGO!!!!!
 title=迷星叫_Mayoiuta
+tag=
+usertag=
+tagroute=
 artist=MyGO!!!!!
 lyricist=藤原優樹
 composer=長谷川大介
@@ -49,3 +53,5 @@ source=je-1382
 ,6 ,7 1 2 ,7 1 2 3 3 3 4 3 2 2 1
 ,5 1 5 2 1 2 1 3
 2 3 5 2 ,7 1 5 3 2 3 1 ,7 1 6 5 ,7 1 2 1
+%---
+%END

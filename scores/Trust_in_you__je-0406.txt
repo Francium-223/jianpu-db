@@ -1,7 +1,11 @@
+%Trust_in_you__je-0406.txt
 %标题 Trust_in_you
 % 出处 https://github.com/zytx121/je/issues/0406
 % 歌曲信息: 专辑 Trust in you · 作词 渡部紫緒（渡部紫绪） · 作曲 坂部剛（坂部刚） · 编曲 坂部剛（坂部刚） · 歌手 sweet ARMS
 title=Trust_in_you
+tag=
+usertag=
+tagroute=
 artist=sweet ARMS
 album=Trust in you
 lyricist=渡部紫緒（渡部紫绪）
@@ -65,3 +69,5 @@ source=je-0406
 4 3 2 2 3 4 1 4 1' 1' 5 5
 6 6 5 4 3 3 2 2
 2' 3' 4' 1' 4'' 1'' 4' 1'' #6' 6' 5' 4' 6' 6' 6' 6' 6' 6' 6'
+%---
+%END

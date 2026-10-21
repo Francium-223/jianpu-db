@@ -1,7 +1,11 @@
+%きっと彼女は。__je-0170.txt
 %标题 きっと彼女は。
 % 出处 https://github.com/zytx121/je/issues/0170
 % 歌曲信息: 歌手 石濱翔
 title=きっと彼女は。
+tag=
+usertag=
+tagroute=
 artist=石濱翔
 transcriber=zytx121
 status=bare-numbers
@@ -25,3 +29,5 @@ source=je-0170
 3 4 5 1 5
 3 4 5 3 5 ,6 3 2 1
 4 3 1 ,6 1 2 1
+%---
+%END

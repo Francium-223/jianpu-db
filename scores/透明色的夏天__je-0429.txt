@@ -1,7 +1,11 @@
+%透明色的夏天__je-0429.txt
 %标题 透明色的夏天
 % 出处 https://github.com/zytx121/je/issues/0429
 % 歌曲信息: 专辑 透明色 · 作词 冰镇甜豆浆 · 作曲 纯白P · 编曲 纯白P
 title=透明色的夏天
+tag=
+usertag=
+tagroute=
 album=透明色
 lyricist=冰镇甜豆浆
 composer=纯白P
@@ -62,3 +66,5 @@ source=je-0429
 1 4 5 6 5 1' 2' 6
 1 4 5 6 4 5 4 3
 4 5 6 4 5 5 4
+%---
+%END

@@ -1,7 +1,11 @@
+%春分（节气物语）__je-0980.txt
 %标题 春分（节气物语）
 % 出处 https://github.com/zytx121/je/issues/0980
 % 歌曲信息: 专辑 未知 · 作词 Misaki · 作曲 桑葚上的猴子 · 编曲 桑葚上的猴子 · 歌手 乐正绫&洛天依
 title=春分（节气物语）
+tag=
+usertag=
+tagroute=
 artist=乐正绫&洛天依
 lyricist=Misaki
 composer=桑葚上的猴子
@@ -29,3 +33,5 @@ source=je-0980
 2 3 2 1 2 5 3 3
 3 5 6 5 1' 6 5 6 3 5 3 1 2 3 5 3 ,6
 2 3 2 1 ,6 5 1 1
+%---
+%END

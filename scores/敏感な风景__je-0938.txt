@@ -1,7 +1,11 @@
+%敏感な风景__je-0938.txt
 %标题 敏感な风景
 % 出处 https://github.com/zytx121/je/issues/0938
 % 歌曲信息: 专辑 mellow melody · 作词 畑亚贵 · 作曲 大久保薰 · 编曲 大久保薰 · 歌手 Ceui
 title=敏感な风景
+tag=
+usertag=
+tagroute=
 artist=Ceui
 album=mellow melody
 lyricist=畑亚贵
@@ -40,3 +44,5 @@ source=je-0938
 3 4 2 2 3 1
 ,6 4 3 4 3 4 3 2 1
 ,6 4 3 4 3 4 3 2 #1
+%---
+%END

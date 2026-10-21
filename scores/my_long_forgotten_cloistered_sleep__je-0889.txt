@@ -1,7 +1,11 @@
+%my_long_forgotten_cloistered_sleep__je-0889.txt
 %标题 my_long_forgotten_cloistered_sleep
 % 出处 https://github.com/zytx121/je/issues/0889
 % 歌曲信息: 专辑 Fiction II · 作词 梶浦由记 · 作曲 梶浦由记 · 编曲 梶浦由记 · 歌手 Emily Bindiger
 title=my_long_forgotten_cloistered_sleep
+tag=
+usertag=
+tagroute=
 artist=Emily Bindiger
 album=Fiction II
 lyricist=梶浦由记
@@ -59,3 +63,5 @@ source=je-0889
 5 4 3 2 3 4 4 3 3
 3 6 1' 7 6 5
 5 4 3 2 5 4 4 3 3
+%---
+%END

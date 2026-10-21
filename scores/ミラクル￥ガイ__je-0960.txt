@@ -1,7 +1,11 @@
+%ミラクル￥ガイ__je-0960.txt
 %标题 ミラクル￥ガイ
 % 出处 https://github.com/zytx121/je/issues/0960
 % 歌曲信息: 专辑 未知 · 作词 竜真知子 · 作曲 林哲司 · 编曲 未知 · 歌手 福原香织
 title=ミラクル￥ガイ
+tag=
+usertag=
+tagroute=
 artist=福原香织
 lyricist=竜真知子
 composer=林哲司
@@ -47,3 +51,5 @@ source=je-0960
 5 6 5 7 7 3
 5 6 5 7 7 3
 7 7 7 1' 6 7
+%---
+%END

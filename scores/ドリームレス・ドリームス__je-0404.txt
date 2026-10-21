@@ -1,7 +1,11 @@
+%ドリームレス・ドリームス__je-0404.txt
 %标题 ドリームレス・ドリームス
 % 出处 https://github.com/zytx121/je/issues/0404
 % 歌曲信息: 作词 はるまきごはん · 作曲 はるまきごはん · 歌手 初音ミク
 title=ドリームレス・ドリームス
+tag=
+usertag=
+tagroute=
 artist=初音ミク
 lyricist=はるまきごはん
 composer=はるまきごはん
@@ -51,3 +55,5 @@ source=je-0404
 5 3 2 3 5 6 6
 3 5 5 6 5 3 5 6 5 3 5 3 2 1 3
 ,6 3 3 2 1 2 5 3 5 6 6
+%---
+%END

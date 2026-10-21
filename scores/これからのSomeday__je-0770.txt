@@ -1,7 +1,11 @@
+%これからのSomeday__je-0770.txt
 %标题 これからのSomeday
 % 出处 https://github.com/zytx121/je/issues/0770
 % 歌曲信息: 专辑 「これからのSomeday」/「Wonder zone」 · 作词 畑 亜貴 · 作曲 yozuca · 编曲 lotta · 歌手 μ's
 title=これからのSomeday
+tag=
+usertag=
+tagroute=
 artist=μ's
 album=「これからのSomeday」/「Wonder zone」
 lyricist=畑 亜貴
@@ -73,3 +77,5 @@ source=je-0770
 1 ,6 ,7 1 2 1 ,5
 5 6 5 4 3 4 3 ,6 1
 1 2 #2 2 1 4 3 4 3 4 3 4 3 4 3 4 3
+%---
+%END

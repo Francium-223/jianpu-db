@@ -1,7 +1,11 @@
+%爱し子よ_(亲爱的宝贝)__je-0398.txt
 %标题 爱し子よ_(亲爱的宝贝)
 % 出处 https://github.com/zytx121/je/issues/0398
 % 歌曲信息: 专辑 《爱し子よ》 · 作词 Rurutia · 作曲 Rurutia · 编曲 Rurutia · 歌手 Rurutia
 title=爱し子よ_(亲爱的宝贝)
+tag=
+usertag=
+tagroute=
 artist=Rurutia
 album=爱し子よ
 lyricist=Rurutia
@@ -72,3 +76,5 @@ source=je-0398
 ,6 ,6 2 2 2 3 4 6 1' 6 6
 2 3 4 5 6 4 1 4
 2 2 4 5 4 3 2
+%---
+%END

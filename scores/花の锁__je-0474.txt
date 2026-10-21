@@ -1,13 +1,17 @@
+%花の锁__je-0474.txt
 %标题 花の锁
 % 出处 https://github.com/zytx121/je/issues/0474
 % 歌曲信息: 专辑 圣闘士星矢THE LOST CANVAS 冥王神话〜主题歌集 · 作词 车田正美、松尾康治 · 作曲 Kacky · 编曲 大石宪一郎 · 歌手 生乃麻纪 with Marina del ray
 title=花の锁
+tag=
+usertag=
+tagroute=
 artist=生乃麻纪 with Marina del ray
 album=圣闘士星矢THE LOST CANVAS 冥王神话〜主题歌集
-lyricist=车田正美、松尾康治
+lyricist=车田正美,松尾康治
 composer=Kacky
 arranger=大石宪一郎
-copyright=作词 车田正美、松尾康治 / 作曲 Kacky / 编曲 大石宪一郎
+copyright=作词 车田正美,松尾康治 / 作曲 Kacky / 编曲 大石宪一郎
 transcriber=moomiji
 status=bare-numbers
 source=je-0474
@@ -39,3 +43,5 @@ source=je-0474
 1 2 3 4 3 1 2 3 4 3 1 2 3 4 3 3 3 2 1 ,7 ,6
 ,6 1 ,7 ,7 1 2 2 1
 ,7 ,6 ,6 1 ,7 ,7 ,5 ,6
+%---
+%END

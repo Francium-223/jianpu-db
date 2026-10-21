@@ -1,7 +1,11 @@
+%これから__je-0737.txt
 %标题 これから
 % 出处 https://github.com/zytx121/je/issues/0737
 % 歌曲信息: 专辑 ラブライブ！The School Idol Movie Blu-ray · 作词 畑 亜貴 · 作曲 伊藤真澄·ミト · 编曲 TO-MAS SOUNDSIGHT FLUORESCENT FOREST · 歌手 μ's
 title=これから
+tag=
+usertag=
+tagroute=
 artist=μ's
 album=ラブライブ！The School Idol Movie Blu-ray
 lyricist=畑 亜貴
@@ -69,3 +73,5 @@ source=je-0737
 ,6 ,7 1 ,6 ,7 1 ,6 ,7 1 2 3 6 5 6 5
 5 4 3 1 2 3 2
 4 3 1 1 ,7 1
+%---
+%END

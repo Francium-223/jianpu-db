@@ -1,7 +1,11 @@
+%over_and_over__je-0271.txt
 %标题 over_and_over
 % 出处 https://github.com/zytx121/je/issues/0271
 % 歌曲信息: 作词 やなぎなぎ · 作曲 北川胜利 · 编曲 北川胜利 · 歌手 やなぎなぎ
 title=over_and_over
+tag=
+usertag=
+tagroute=
 artist=やなぎなぎ
 lyricist=やなぎなぎ
 composer=北川胜利
@@ -32,3 +36,5 @@ source=je-0271
 1 ,7 1 ,5 1 2 1
 1 1 2 4 3 2 1
 1 6 5 1 4 3 1 1'
+%---
+%END

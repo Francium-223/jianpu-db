@@ -1,7 +1,11 @@
+%空色デイズ__je-0944.txt
 %标题 空色デイズ
 % 出处 https://github.com/zytx121/je/issues/0944
 % 歌曲信息: 专辑 Big☆Bang!!! · 作词 meg rock · 作曲 斉藤真也 · 编曲 斉藤真也 · 歌手 中川翔子
 title=空色デイズ
+tag=
+usertag=
+tagroute=
 artist=中川翔子
 album=Big☆Bang!!!
 lyricist=meg rock
@@ -43,3 +47,5 @@ source=je-0944
 4 3 4 5 3 1' 7 3
 3 4 5 5 5 5 #5 3 7 1' 7 7 6 1'
 4 3 4 5 1 1 4 3 4 5 1 2 2 3
+%---
+%END

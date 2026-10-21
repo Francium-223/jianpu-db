@@ -1,9 +1,13 @@
+%Cras_numquam_scire__je-0588.txt
 %标题 Cras_numquam_scire
 % 出处 https://github.com/zytx121/je/issues/0588
 % 歌曲信息: 专辑 《yes, prisoner/Cras numquam scire》 · 作词 ノリクス·ベネディクトゥス · 作曲 辻陽 · 编曲 未知 · 歌手 Yucca　feat.Hugh Anthony Disward（小野大辅）
 title=Cras_numquam_scire
+tag=
+usertag=
+tagroute=
 artist=Yucca feat.Hugh Anthony Disward（小野大辅）
-album=yes, prisoner/Cras numquam scire
+album=yes,prisoner/Cras numquam scire
 lyricist=ノリクス·ベネディクトゥス
 composer=辻陽
 copyright=作词 ノリクス·ベネディクトゥス / 作曲 辻陽 / 编曲 未知
@@ -49,3 +53,5 @@ source=je-0588
 3 5 6 7 1' 5' #4' 5' #4' 2' 3'
 1' 3' 3' 4' 2' 1' 3' 6
 6 7 1' 3' 2' 7 6
+%---
+%END

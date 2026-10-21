@@ -1,7 +1,11 @@
+%adrenaline!!!__je-0119.txt
 %标题 adrenaline!!!
 % 出处 https://github.com/zytx121/je/issues/0119
 % 歌曲信息: 作词 中野领太 · 作曲 中野领太 · 编曲 中野领太 · 歌手 TrySail
 title=adrenaline!!!
+tag=
+usertag=
+tagroute=
 artist=TrySail
 lyricist=中野领太
 composer=中野领太
@@ -85,3 +89,5 @@ source=je-0119
 1=F
 3 4 5 4 3 5 6 5 4 6 5 4 3 2
 3 4 5 4 3 5 6 5 4 6 5 4 3 2 1 1'
+%---
+%END

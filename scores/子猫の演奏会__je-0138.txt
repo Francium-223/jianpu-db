@@ -1,6 +1,10 @@
+%子猫の演奏会__je-0138.txt
 %标题 子猫の演奏会
 % 出处 https://github.com/zytx121/je/issues/0138
 title=子猫の演奏会
+tag=
+usertag=
+tagroute=
 artist=百石元
 transcriber=zytx121
 status=bare-numbers
@@ -24,3 +28,5 @@ source=je-0138
 3 4 5 2 4 ,7 2 1
 6 ,7 1 2 3 1 ,7 ,6 ,5
 ,3 ,3 ,3 ,4 ,4 ,4 ,3 ,2 ,1 ,1 1
+%---
+%END

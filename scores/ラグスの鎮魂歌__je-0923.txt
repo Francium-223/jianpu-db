@@ -1,7 +1,11 @@
+%ラグスの鎮魂歌__je-0923.txt
 %标题 ラグスの鎮魂歌
 % 出处 https://github.com/zytx121/je/issues/0923
 % 歌曲信息: 专辑 未知 · 作词 Noria · 作曲 五十岚 · 编曲 大场敏朗/中川幸太郎 · 歌手 Noria
 title=ラグスの鎮魂歌
+tag=
+usertag=
+tagroute=
 artist=Noria
 lyricist=Noria
 composer=五十岚
@@ -36,3 +40,5 @@ source=je-0923
 2 3 4 4 5 4 5 5 6 6
 6 5 4 5 4 3 4 3 1 2
 2 3 4 4 5 4 3 3 2
+%---
+%END

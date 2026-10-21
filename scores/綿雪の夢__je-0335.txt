@@ -1,7 +1,11 @@
+%綿雪の夢__je-0335.txt
 %标题 綿雪の夢
 % 出处 https://github.com/zytx121/je/issues/0335
 % 歌曲信息: 歌手 crest
 title=綿雪の夢
+tag=
+usertag=
+tagroute=
 artist=crest
 transcriber=zytx121
 status=bare-numbers
@@ -46,3 +50,5 @@ source=je-0335
 3 5 2 2 3 5 6
 3' 5' 2' 2' 1' 7 1' 7 6 5 3
 3 5 2
+%---
+%END

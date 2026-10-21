@@ -1,7 +1,11 @@
+%WONDERFUL_STORIES__je-0098.txt
 %标题 WONDERFUL_STORIES
 % 出处 https://github.com/zytx121/je/issues/0098
 % 歌曲信息: 歌手 Aqours
 title=WONDERFUL_STORIES
+tag=
+usertag=
+tagroute=
 artist=Aqours
 transcriber=zytx121
 status=bare-numbers
@@ -39,3 +43,5 @@ source=je-0098
 3 3 3 3 3 4 5 3 4 5 6 4
 #6 6 5 4 5 1 6 5 5 4 4
 1 6 5 5 4 4
+%---
+%END

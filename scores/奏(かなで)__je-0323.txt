@@ -1,7 +1,11 @@
+%奏(かなで)__je-0323.txt
 %标题 奏(かなで)
 % 出处 https://github.com/zytx121/je/issues/0323
 % 歌曲信息: 专辑 奏(かなで) · 作词 大橋卓弥 · 作曲 常田真太郎 · 歌手 藤宮香織(CV.雨宮天)
 title=奏(かなで)
+tag=
+usertag=
+tagroute=
 artist=藤宮香織(CV.雨宮天)
 album=奏(かなで)
 lyricist=大橋卓弥
@@ -45,3 +49,5 @@ source=je-0323
 1 2 3 3 3 3 3 6 2 1 1 2 3 4 3 1
 1 2 3 1 ,6 3 2 ,7 ,5 2 1
 1 2 3 2 1 ,5 2 1
+%---
+%END

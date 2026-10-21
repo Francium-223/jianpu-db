@@ -1,7 +1,11 @@
+%时を刻む呗__je-0543.txt
 %标题 时を刻む呗
 % 出处 https://github.com/zytx121/je/issues/0543
 % 歌曲信息: 作词 麻枝准 · 作曲 麻枝准 · 编曲 ANANT－GARDE EYES · 歌手 riya
 title=时を刻む呗
+tag=
+usertag=
+tagroute=
 artist=riya
 lyricist=麻枝准
 composer=麻枝准
@@ -58,3 +62,5 @@ source=je-0543
 2 3 1 5 1
 2 3 1 5 1
 2 3 1 5 1 1
+%---
+%END

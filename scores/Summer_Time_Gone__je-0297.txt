@@ -1,7 +1,11 @@
+%Summer_Time_Gone__je-0297.txt
 %标题 Summer_Time_Gone
 % 出处 https://github.com/zytx121/je/issues/0297
 % 歌曲信息: 专辑 FUTURE KISS · 作词 仓木麻衣 · 作曲 大野爱果 · 编曲 叶山武 · 歌手 仓木麻衣
 title=Summer_Time_Gone
+tag=
+usertag=
+tagroute=
 artist=仓木麻衣
 album=FUTURE KISS
 lyricist=仓木麻衣
@@ -48,3 +52,5 @@ source=je-0297
 2 2 2 1 ,#6 1 2 3 3 2 #1 2 3 2 3 4 3 2 5 4 2
 4 4 4 4 4 4 4 4 3 3 #2 #2 #2 #2 #2 ,6 5 4 3 4 #5 5 4
 2 2 2 1 ,#6 1 2 3 3 2 #1 2 3 2 3 4 3 2 1 4 4 4 4 4
+%---
+%END

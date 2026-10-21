@@ -1,7 +1,11 @@
+%小鸡哔哔__je-0862.txt
 %标题 小鸡哔哔
 % 出处 https://github.com/zytx121/je/issues/0862
 % 歌曲信息: 专辑 未知 · 作词 未知 · 作曲 未知 · 编曲 未知 · 歌手 洛天依
 title=小鸡哔哔
+tag=
+usertag=
+tagroute=
 artist=洛天依
 copyright=作词 未知 / 作曲 未知 / 编曲 未知
 transcriber=zytx121
@@ -94,3 +98,5 @@ source=je-0862
 ,6 1 2 2 4 4 2 1 2
 6 6 6 5 5 5 5 4
 4 4 4 3 3 3 3 4 2
+%---
+%END

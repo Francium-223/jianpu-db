@@ -1,7 +1,11 @@
+%Spirits__je-1084.txt
 %标题 Spirits
 % 出处 https://github.com/zytx121/je/issues/1084
 % 歌曲信息: 专辑 アルカディアの蒼き巫女 オリジナル・サウンドトラック · 歌手 KOKIA
 title=Spirits
+tag=
+usertag=
+tagroute=
 artist=KOKIA
 album=アルカディアの蒼き巫女 オリジナル・サウンドトラック
 transcriber=madderscientist
@@ -53,3 +57,5 @@ source=je-1084
 ,6 ,7 1 1 1 1 1 2 3 4 4 3 2 1 2
 1 1' 5 4 3 2 1 1 5
 1 ,7 1 1
+%---
+%END

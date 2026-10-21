@@ -1,11 +1,15 @@
+%如寄__je-0269.txt
 %标题 如寄
 % 出处 https://github.com/zytx121/je/issues/0269
 % 歌曲信息: 作词 陆菱纱 · 作曲 小旭音乐、三个糙汉一个软妹组 · 歌手 萧忆情
 title=如寄
+tag=
+usertag=
+tagroute=
 artist=萧忆情
 lyricist=陆菱纱
-composer=小旭音乐、三个糙汉一个软妹组
-copyright=作词 陆菱纱 / 作曲 小旭音乐、三个糙汉一个软妹组
+composer=小旭音乐,三个糙汉一个软妹组
+copyright=作词 陆菱纱 / 作曲 小旭音乐,三个糙汉一个软妹组
 transcriber=zytx121
 status=bare-numbers
 source=je-0269
@@ -53,3 +57,5 @@ source=je-0269
 6 5 5 3 6
 6 5 2 3 2
 5 2 1 ,6 3 2 3 ,6
+%---
+%END

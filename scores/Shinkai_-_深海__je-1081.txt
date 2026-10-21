@@ -1,7 +1,11 @@
+%Shinkai_-_深海__je-1081.txt
 %标题 Shinkai_-_深海
 % 出处 https://github.com/zytx121/je/issues/1081
 % 歌曲信息: 歌手 MOKA☆
 title=Shinkai_-_深海
+tag=
+usertag=
+tagroute=
 artist=MOKA☆
 transcriber=madderscientist
 status=bare-numbers
@@ -31,3 +35,5 @@ source=je-1081
 3 4 6 3 4 6 7 3 4 6 2' 3 6 3 #5 3 ,7 2
 ,4 ,5 ,7 1 2 3
 ,4 ,6 1 2 3
+%---
+%END

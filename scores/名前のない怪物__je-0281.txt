@@ -1,7 +1,11 @@
+%名前のない怪物__je-0281.txt
 %标题 名前のない怪物
 % 出处 https://github.com/zytx121/je/issues/0281
 % 歌曲信息: 专辑 名前のない怪物 · 作词 ryo · 作曲 ryo · 编曲 ryo · 歌手 EGOIST
 title=名前のない怪物
+tag=
+usertag=
+tagroute=
 artist=EGOIST
 album=名前のない怪物
 lyricist=ryo
@@ -28,3 +32,5 @@ source=je-0281
 6 3 2 1 2 1 2 1 2 3 2 6 3 2 2 1' 1' 1' 1' 7 3
 2 1 2 1 2 1 2 3 2
 1 2 1 2 3 2 1 ,7 ,6 ,6
+%---
+%END

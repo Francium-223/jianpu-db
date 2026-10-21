@@ -1,7 +1,11 @@
+%Crow_Song__je-1198.txt
 %标题 Crow_Song
 % 出处 https://github.com/zytx121/je/issues/1198
 % 歌曲信息: 专辑 Crow Song · 作词 麻枝准 · 作曲 麻枝准 · 歌手 Girls Dead Monster
 title=Crow_Song
+tag=
+usertag=
+tagroute=
 artist=Girls Dead Monster
 album=Crow Song
 lyricist=麻枝准
@@ -54,3 +58,5 @@ source=je-1198
 6 6 7 6 7 6 3 4 3 4 3 2 1
 5 5 6 5 6 5 6 7
 6 7 1' 6 5 5 6 7 1' 6 1'
+%---
+%END

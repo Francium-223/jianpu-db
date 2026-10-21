@@ -1,7 +1,11 @@
+%ランランラン_だよ、らき☆すた__je-0078.txt
 %标题 ランランラン_だよ、らき☆すた
 % 出处 https://github.com/zytx121/je/issues/0078
 % 歌曲信息: 歌手 神前晓
 title=ランランラン_だよ、らき☆すた
+tag=
+usertag=
+tagroute=
 artist=神前晓
 transcriber=zytx121
 status=bare-numbers
@@ -30,3 +34,5 @@ source=je-0078
 7 7 7 7 5 6 6 6 6 5 5 5 5 3 5 5 6
 7 7 7 7 5 6 6 6 6 5 5 5 5 3 5 5 5 6 6
 7 7 7 7 5 6 6 6 6 5 5 5 5 3 5 5 5 6 5
+%---
+%END

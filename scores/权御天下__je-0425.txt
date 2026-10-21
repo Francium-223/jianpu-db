@@ -1,8 +1,12 @@
+%权御天下__je-0425.txt
 %标题 权御天下
 % 出处 https://github.com/zytx121/je/issues/0425
 % 歌曲信息: 作词 ST · 作曲 没有龟壳的乌龟 · 编曲 没有龟壳的乌龟 · 歌手 洛天依，西瓜Kune
 title=权御天下
-artist=洛天依，西瓜Kune
+tag=
+usertag=
+tagroute=
+artist=洛天依,西瓜Kune
 lyricist=ST
 composer=没有龟壳的乌龟
 arranger=没有龟壳的乌龟
@@ -75,3 +79,5 @@ source=je-0425
 5 3 1 2 2 1 2 2 1 2 1 2 3 ,6
 5 3 1 2 2 1 2 2 1 2 1 2 3
 5 3 1 2 2 1 2 2 1 2 1 2 3 5 ,6
+%---
+%END

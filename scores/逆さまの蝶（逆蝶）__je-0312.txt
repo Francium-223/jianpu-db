@@ -1,7 +1,11 @@
+%逆さまの蝶（逆蝶）__je-0312.txt
 %标题 逆さまの蝶（逆蝶）
 % 出处 https://github.com/zytx121/je/issues/0312
 % 歌曲信息: 专辑 地狱少女op single · 作词 SNoW&山野英明 · 作曲 SNoW&进藤安三津 · 编曲 进藤安三津&藤田谦一 · 歌手 SNoW
 title=逆さまの蝶（逆蝶）
+tag=
+usertag=
+tagroute=
 artist=SNoW
 album=地狱少女op single
 lyricist=SNoW&山野英明
@@ -52,3 +56,5 @@ source=je-0312
 2 7 6 6 2 7 6 6 2 7 6 6 5 6 7 7
 2 7 6 6 2 7 6 6 2 7 6 6 5 6 7 7
 2 7 6 6 2 7 6 6 2 7 6 6 5 6 7 7
+%---
+%END

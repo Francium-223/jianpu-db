@@ -1,6 +1,10 @@
+%蓝色生死恋_reason__je-1355.txt
 %标题 蓝色生死恋_reason
 % 出处 https://github.com/zytx121/je/issues/1355
 title=蓝色生死恋_reason
+tag=
+usertag=
+tagroute=
 transcriber=livesun
 status=bare-numbers
 source=je-1355
@@ -24,3 +28,5 @@ source=je-1355
 6 7 1' 2' 3' 2'
 1' 1' 1' 5 5 1 3
 3 4 5 4 3 2 1
+%---
+%END

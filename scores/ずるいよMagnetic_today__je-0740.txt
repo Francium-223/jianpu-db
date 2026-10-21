@@ -1,7 +1,11 @@
+%ずるいよMagnetic_today__je-0740.txt
 %标题 ずるいよMagnetic_today
 % 出处 https://github.com/zytx121/je/issues/0740
 % 歌曲信息: 专辑 μ's オリジナルソングCD · 作词 畑 亜貴 · 作曲 岡本健介 · 编曲 岡本健介 · 歌手 矢澤にこ/西木野真姫
 title=ずるいよMagnetic_today
+tag=
+usertag=
+tagroute=
 artist=矢澤にこ/西木野真姫
 album=μ's オリジナルソングCD
 lyricist=畑 亜貴
@@ -60,3 +64,5 @@ source=je-0740
 6 6 6 6 5 6 1' 7 6 7
 6 6 6 5 6 6 6 6 5 6
 6 6 6 6 5 6 1' 7 6 7
+%---
+%END

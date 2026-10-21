@@ -1,13 +1,17 @@
+%腐草为萤__je-0414.txt
 %标题 腐草为萤
 % 出处 https://github.com/zytx121/je/issues/0414
 % 歌曲信息: 专辑 腐草为萤 · 作词 择荇 · 作曲 银临，灰原穷 · 编曲 灰原穷 · 歌手 银临
 title=腐草为萤
+tag=
+usertag=
+tagroute=
 artist=银临
 album=腐草为萤
 lyricist=择荇
-composer=银临，灰原穷
+composer=银临,灰原穷
 arranger=灰原穷
-copyright=作词 择荇 / 作曲 银临，灰原穷 / 编曲 灰原穷
+copyright=作词 择荇 / 作曲 银临,灰原穷 / 编曲 灰原穷
 transcriber=Mars-Cat
 status=bare-numbers
 source=je-0414
@@ -33,3 +37,5 @@ source=je-0414
 6 5 4 5 1' 4
 1 1 2 6 6 6 6 5
 4 3 4
+%---
+%END

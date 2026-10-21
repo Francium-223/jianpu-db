@@ -1,7 +1,11 @@
+%白夜~_True_Light_~__je-0949.txt
 %标题 白夜~_True_Light_~
 % 出处 https://github.com/zytx121/je/issues/0949
 % 歌曲信息: 专辑 D・N・ANGEL Vocal Collection · 作词 酒井ミキオ · 作曲 山崎ますみ · 编曲 永井ルイ · 歌手 Shunn
 title=白夜~_True_Light_~
+tag=
+usertag=
+tagroute=
 artist=Shunn
 album=D・N・ANGEL Vocal Collection
 lyricist=酒井ミキオ
@@ -43,3 +47,5 @@ source=je-0949
 4 3 2 6 3 3 1 1 2 4 4 5 6
 2 3 4 4 4 2 3 4 4 4
 4 5 6 5 3 5 4
+%---
+%END

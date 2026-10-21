@@ -1,8 +1,12 @@
+%時の翼_Chrono_Geizer__je-1204.txt
 %标题 時の翼_Chrono_Geizer
 % 出处 https://github.com/zytx121/je/issues/1204
 % 歌曲信息: 歌手 守野せりあ（赤尾ひかる）、各務あいり（持田千妃来）、中村繭璃（佐藤亜美菜）、浅葱晃（山本希望）、藤田まなみ（髙野麻美）、山本和春（秋吉あや）
 title=時の翼_Chrono_Geizer
-artist=守野せりあ（赤尾ひかる）、各務あいり（持田千妃来）、中村繭璃（佐藤亜美菜）、浅葱晃（山本希望）、藤田まなみ（髙野麻美）、山本和春（秋吉あや）
+tag=
+usertag=
+tagroute=
+artist=守野せりあ（赤尾ひかる）,各務あいり（持田千妃来）,中村繭璃（佐藤亜美菜）,浅葱晃（山本希望）,藤田まなみ（髙野麻美）,山本和春（秋吉あや）
 transcriber=madderscientist
 status=bare-numbers
 source=je-1204
@@ -90,3 +94,5 @@ source=je-1204
 2 3 3 4 5 3 1 ,6 ,6 ,6
 ,6 ,6 ,#6 ,5 ,6 1 2 4 3 2 2
 2 3 2 3 4 5 6 4 3 2 6 6
+%---
+%END

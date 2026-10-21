@@ -1,7 +1,11 @@
+%Contrail～軌跡～__je-0510.txt
 %标题 Contrail～軌跡～
 % 出处 https://github.com/zytx121/je/issues/0510
 % 歌曲信息: 专辑 Contrail～軌跡～ · 作词 川田麻美 · 作曲 中泽伴行 · 编曲 中泽伴行 · 歌手 川田麻美
 title=Contrail～軌跡～
+tag=
+usertag=
+tagroute=
 artist=川田麻美
 album=Contrail～軌跡～
 lyricist=川田麻美
@@ -36,3 +40,5 @@ source=je-0510
 1 2 3 4 5 1' 7 1' 1' 1' 2' 3' 3'
 1=bE
 4 4 4 3 4 5 1 ,6 1 ,6 1 4 3
+%---
+%END

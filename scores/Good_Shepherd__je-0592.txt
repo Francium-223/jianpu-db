@@ -1,7 +1,11 @@
+%Good_Shepherd__je-0592.txt
 %标题 Good_Shepherd
 % 出处 https://github.com/zytx121/je/issues/0592
 % 歌曲信息: 专辑 大图书馆的牧羊人 / 『大図書館の羊飼い-Library Party-』OP&EDマキシシングル · 作词 永原さくら · 作曲 小高光太郎・西村太貴 · 编曲 小高光太郎 · 歌手 伊波杏樹
 title=Good_Shepherd
+tag=
+usertag=
+tagroute=
 artist=伊波杏樹
 album=大图书馆的牧羊人 / 『大図書館の羊飼い-Library Party-』OP&EDマキシシングル
 lyricist=永原さくら
@@ -40,3 +44,5 @@ source=je-0592
 5 5 5 1 1 ,7 1 2 1 1 5 5 5 1 1 1 2 2 1
 #2 #2 2 #2 4 5 1' 1 1 1 ,7 1 1
 1 1' 1' 6 5 4 3 4 5
+%---
+%END

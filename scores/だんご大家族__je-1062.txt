@@ -1,7 +1,11 @@
+%だんご大家族__je-1062.txt
 %标题 だんご大家族
 % 出处 https://github.com/zytx121/je/issues/1062
 % 歌曲信息: 专辑 だんご大家族 · 作词 麻枝准 · 作曲 麻枝准 · 歌手 真理絵 / 茶太 / Morrigan / Rio
 title=だんご大家族
+tag=
+usertag=
+tagroute=
 artist=真理絵 / 茶太 / Morrigan / Rio
 album=だんご大家族
 lyricist=麻枝准
@@ -47,3 +51,5 @@ source=je-1062
 2 1 4 4 5 5 6 5
 2 1 4 4 5 5 6 4 1
 2 1 4 4 5 4
+%---
+%END

@@ -1,7 +1,11 @@
+%自分REST@RT__je-0031.txt
 %标题 自分REST@RT
 % 出处 https://github.com/zytx121/je/issues/0031
 % 歌曲信息: 作词 佐々木宏人 · 作曲 田中秀和 · 编曲 田中秀和 · 歌手 765PRO ALLSTARS
 title=自分REST@RT
+tag=
+usertag=
+tagroute=
 artist=765PRO ALLSTARS
 lyricist=佐々木宏人
 composer=田中秀和
@@ -49,3 +53,5 @@ source=je-0031
 4 2 3 4 3 2 4 3 6 3
 2 #6 6 5 3 4 5 4 3 4 2
 ,7 #1 ,2 2 3 4 2 4 6 1' 6
+%---
+%END

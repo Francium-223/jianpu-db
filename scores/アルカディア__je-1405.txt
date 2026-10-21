@@ -1,7 +1,11 @@
+%アルカディア__je-1405.txt
 %标题 アルカディア
 % 出处 https://github.com/zytx121/je/issues/1405
 % 歌曲信息: 作词 千歳サラ · 作曲 宮崎京一 · 编曲 清水永之 · 歌手 千歳サラ
 title=アルカディア
+tag=
+usertag=
+tagroute=
 artist=千歳サラ
 lyricist=千歳サラ
 composer=宮崎京一
@@ -29,3 +33,5 @@ source=je-1405
 4 5 6 4 4 2 1 5 #6 6 5 4 4 3 4
 1' 4 4 3 4 #4 5 4 5 #6 6
 2 3 4 4 4 4 4 4 4 4 5 3 4 5 #6 6
+%---
+%END
