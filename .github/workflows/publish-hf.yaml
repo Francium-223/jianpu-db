@@ -10,6 +10,10 @@ on:
   push:
     branches: [master, main]
   workflow_dispatch:
+  # 每天 03:17 UTC 只记一次计数(不发布): HF 的 downloads 是**按日聚合**的滚动量,
+  # 90 秒窗口里量不到一次发布带来的增量, 只能靠"日与日之间的差"看趋势。
+  schedule:
+    - cron: '17 3 * * *'
 
 permissions:
   contents: write   # 末尾的"计数探针"要把前后两个数字提交回仓库
@@ -20,7 +24,7 @@ concurrency:
 
 jobs:
   publish:
-    if: github.actor != 'github-actions[bot]'
+    if: github.event_name != 'schedule' && github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     # 见 parse.yaml 里的同一段说明: jptok 在兄弟仓库, 没有它时用兜底口径(已被 parity 测试锁死等价)。
     env:
@@ -125,5 +129,45 @@ jobs:
           for i in 1 2 3 4 5; do
             git pull --rebase --autostash -q origin master || true
             if git push -q origin master; then echo "探针已回写"; break; fi
+            sleep 10
+          done || true
+
+  # 每日快照(2026-10-21 加): 不发布, 只把 HF 的 downloads/likes 记进 _probe/hf_daily.tsv。
+  # 用途: HF 的 downloads 是按日聚合的 30 天滚动量 —— 只有"今天 vs 昨天"的差能看出
+  # 一次发布/一天自然访问带来多少, 单次发布前后 90 秒的差永远是 0。
+  snapshot:
+    if: github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: 记录当日计数
+        env:
+          HF_REPO: ${{ vars.HF_REPO }}
+        run: |
+          python - <<'PY'
+          import datetime, json, os, urllib.request
+          repo = os.environ.get("HF_REPO") or "Caesium-132/chinese-jianpu-corpus"
+          url = "https://huggingface.co/api/datasets/" + repo
+          with urllib.request.urlopen(url, timeout=30) as r:
+              d = json.load(r)
+          day = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d")
+          line = "%s\tdownloads=%s\tlikes=%s\tlastModified=%s" % (
+              day, d.get("downloads"), d.get("likes"), d.get("lastModified"))
+          print(line)
+          os.makedirs("_probe", exist_ok=True)
+          with open("_probe/hf_daily.tsv", "a", encoding="utf-8") as f:
+              f.write(line + "\n")
+          open(os.environ["GITHUB_STEP_SUMMARY"], "a", encoding="utf-8").write(
+              "### HF 每日计数\n\n`%s`\n" % line)
+          PY
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add _probe/hf_daily.tsv
+          git commit -m "chore(probe): HF 每日计数快照 [skip ci]" || exit 0
+          for i in 1 2 3 4 5; do
+            git pull --rebase --autostash -q origin master || true
+            if git push -q origin master; then echo "快照已回写"; break; fi
             sleep 10
           done || true
