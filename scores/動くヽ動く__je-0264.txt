@@ -1,0 +1,43 @@
+%動くヽ動く__je-0264.txt
+%标题 動くヽ動く
+% 出处 https://github.com/zytx121/je/issues/0264
+% 歌曲信息: 作词 毛蟹（KADOKAWA） · 作曲 毛蟹（KADOKAWA） · 编曲 毛蟹（KADOKAWA） · 歌手 水瀬いのり 久保ユリカ
+title=動くヽ動く
+tag=
+usertag=
+tagroute=
+artist=水瀬いのり 久保ユリカ
+lyricist=毛蟹（KADOKAWA）
+composer=毛蟹（KADOKAWA）
+arranger=毛蟹（KADOKAWA）
+copyright=作词 毛蟹（KADOKAWA） / 作曲 毛蟹（KADOKAWA） / 编曲 毛蟹（KADOKAWA）
+status=bare-numbers
+source=je-0264
+%--
+1=D
+3 ,7 1 1 2 3 4 3 2 1
+3 ,7 ,7 1 1 2 3 4 3 6 1
+3 3 3 3 3 3 1
+3 3 3 3 3 1
+3 3 3 3 3 3 3 1
+1 2 1 1 2 1
+3 3 3 3 3 3 3 1
+3 3 3 3 3 3 1 1
+3 3 3 3 3 3 1 1
+1 2 1 1 2 1
+5 4 3 1
+1 2 3 4 3 1 ,7 2 1
+1 1 2 5 4 3 1
+1 2 3 4 3 1 1 5 5
+1=F
+1 2 1 5 5 5 4 3 2 1 2 3
+3 2 1 1 2 2 1 1 3 2 1 1 ,5 1 2
+1 2 1 5 5 5 4 3 2 1 2 3
+3 2 1 1 3 2 1 1 3 2 1 1
+1 2 1 5 5 5 4 3 2 1 2 3
+3 2 1 1 3 2 1 1 3 2 1 3 ,5 1 2
+1 2 1 5 5 5 6 3 2 1 2 3 4
+3 2 1 1 3 5 ,7 1 1 1 1
+,7 ,6
+%---
+%END

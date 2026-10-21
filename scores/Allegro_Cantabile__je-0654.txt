@@ -1,0 +1,27 @@
+%Allegro_Cantabile__je-0654.txt
+%标题 Allegro_Cantabile
+% 出处 https://github.com/zytx121/je/issues/0654
+% 歌曲信息: 专辑 未知 · 作词 SUEMITSU atsushi · 作曲 SUEMITSU atsushi · 编曲 未知 · 歌手 SUEMITSU & THE SUEMITH
+title=Allegro_Cantabile
+tag=
+usertag=
+tagroute=
+artist=SUEMITSU & THE SUEMITH
+lyricist=SUEMITSU atsushi
+composer=SUEMITSU atsushi
+copyright=作词 SUEMITSU atsushi / 作曲 SUEMITSU atsushi / 编曲 未知
+transcriber=zytx121
+status=bare-numbers
+source=je-0654
+%--
+1=C
+,3 ,3 ,3 ,3 ,4 ,5 ,6 ,2 ,2 ,2 ,2 ,3 ,4 ,5 ,1 ,1 ,1 ,1 ,2 ,3 ,4 ,4 ,4 ,5 ,3 ,2 ,1 ,1
+,3 ,3 ,3 ,3 ,4 ,5 ,6 ,2 ,2 ,2 ,2 ,3 ,4 ,5 ,1 ,1 ,1 ,1 ,2 ,3 ,4 ,4 ,4 ,5 ,3 ,2 ,1 ,3
+,3 ,4 ,4 ,4 ,5 ,5 ,5 ,6 ,6 ,7 1 2
+3 3 3 3 3 3 4 3 2 1 1 3 3 3 3 3 3 4 3 2 1 1
+4 4 4 4 4 4 5 4 3 2 2 4 4 4 4 4 4 3 2 3 4 3
+3 3 3 3 3 3 4 3 2 1 1 3 3 3 3 3 3 4 3 2 1 1
+4 4 4 4 4 4 5 4 3 2 2 4 4 4 4 4 4 3 2 3 4 4
+5 1 1 ,7 1 3 4 5 4 4 3 4 4 3 3 3 3 2 2 3 2 1 ,7 1
+%---
+%END

@@ -1,0 +1,33 @@
+%Your_Reality__je-1121.txt
+%标题 Your_Reality
+% 出处 https://github.com/zytx121/je/issues/1121
+% 歌曲信息: 专辑 Doki Doki Literature Club! (Original Soundtrack) · 歌手 Dan Salvato / Jillian Ashcraft
+title=Your_Reality
+tag=
+usertag=
+tagroute=
+artist=Dan Salvato / Jillian Ashcraft
+album=Doki Doki Literature Club! (Original Soundtrack)
+transcriber=madderscientist
+status=bare-numbers
+source=je-1121
+%--
+1=C
+5 5 5 5 4 3 3 4 5 3 2 1 2 3 1 ,5
+5 6 5 3 4 5 4 3 2 ,6 ,5 ,4 ,6 ,5 3 1
+5 5 5 4 3 1 #1 2 3 5 6 5 3 2 ,5 ,6 1 ,6 1 2 1
+5 5 5 4 3 1 #1 2 3 5 6 5 3 2 ,5 ,6 1 ,6 1 2 1
+6 5 3 2 ,5 ,6 1 ,6 1 2 1
+5 5 5 5 4 3 3 4 5 3 2 1 2 3 1 ,5
+5 6 5 3 4 5 4 3 2 ,6 ,5 ,4 ,6 ,5 3 1
+5 5 5 4 3 1 #1 2 3 5 6 5 3 2 ,5 ,6 1 ,6 1 2 1
+5 5 5 4 3 1 #1 2 3 5 6 5 3 2 ,5 ,6 1 ,6 1 2 1
+5 5 5 5 4 3 3 4 5 3 2 1 2 3 1 ,5
+5 6 5 3 4 5 4 3 2 ,6 ,5 ,4 ,6 ,5 3 1
+5 5 5 4 3 1 #1 2 3 5 6 5 3 2 ,5 ,6 1 ,6 1 2 1
+5 5 5 4 3 1 #1 2 3 5 6 5 3 2 ,5 ,6 1 ,6 1 2 1
+6 5 3 2 ,5 ,6 1 ,6 1 2 1
+5 5 5 4 3 1 #1 2 3 5 6 5 3 2 ,5 ,6 1 ,6 1 2 1
+,5 ,6 1 ,6 1 2 1 3 4 4 3 1 ,6 1 5 ,5 ,6 1 1
+%---
+%END

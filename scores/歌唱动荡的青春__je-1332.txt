@@ -1,0 +1,24 @@
+%歌唱动荡的青春__je-1332.txt
+%标题 歌唱动荡的青春
+% 出处 https://github.com/zytx121/je/issues/1332
+title=歌唱动荡的青春
+tag=
+usertag=
+tagroute=
+transcriber=FunMelon
+status=bare-numbers
+source=je-1332
+%--
+1=#F
+,3 ,6 ,6 ,7 1 ,6 4 3
+1 2 2 3 2 1 ,7 ,6
+,3 ,6 ,6 ,7 1 ,6 6 5
+3 4 4 3 4 5 3
+3 6 1' 7 6 5 6 7 6 5 6 3
+1 6 5 4 3 2
+4 3 2 3 4 3 6
+3 6 1' 7 6 5 6 7 6 5 6 3
+1 6 5 4 3 2
+4 3 2 3 4 3 6
+%---
+%END

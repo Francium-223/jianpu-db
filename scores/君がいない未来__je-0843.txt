@@ -1,0 +1,46 @@
+%君がいない未来__je-0843.txt
+%标题 君がいない未来
+% 出处 https://github.com/zytx121/je/issues/0843
+% 歌曲信息: 专辑 The Best of Do As Infinity · 作词 Kyasu Morizuki，Tomiko Van，Kano Inoue · 编曲 Katsumi Ohnishi · 歌手 Do As Infinity
+title=君がいない未来
+tag=
+usertag=
+tagroute=
+artist=Do As Infinity
+album=The Best of Do As Infinity
+lyricist=Kyasu Morizuki,Tomiko Van,Kano Inoue
+arranger=Katsumi Ohnishi
+copyright=作词 Kyasu Morizuki,Tomiko Van,Kano Inoue / 编曲 Katsumi Ohnishi
+transcriber=zytx121
+status=bare-numbers
+source=je-0843
+%--
+1=C
+1 4 5 6 5 4 3 3 4 1 6 5 4 3 3 4 1
+1 3 4 1 1 4 5 4
+1 4 5 6 5 4 3 3 4 1 6 5 4 3 3 4 1
+1=F
+,5 ,7 1 1 2 3 2 4 3
+3 3 3 3 2 1 2 3 2 2 1 1 2 2
+3 3 3 3 2 1 2 3 2 2 4 4 3 3
+5 5 5 5 4 3 3 2 2 1 2 3 4 3 2 1 ,7 1
+5 5 5 5 4 3 3 2 2 1 2 3 4 3
+5 5 5 5 4 3 3 2 2 1 2 3 4 3 2 1 ,7 1
+1 ,7 ,6 ,5 ,4 1 1 1 2 3 2 4 3 1 2 1 1
+,5 1 2 3 2 1 ,7 ,7 1 ,5 3 2 1 ,7 ,7 1 ,5
+,5 ,7 1 ,5 ,5 ,5 1 2 1
+,5 1 2 3 2 1 ,7 ,7 1 ,5 3 2 1 ,7 ,7 1 ,5
+,5 ,7 1 1 2 3 2 4 3
+3 3 3 3 2 1 2 3 2 2 1 1 2 2
+3 3 3 3 2 1 2 3 2 2 4 4 3 3
+5 5 5 5 4 3 3 2 2 1 2 3 4 3 2 1 ,7 1
+5 5 5 5 4 3 3 2 2 1 2 3 4 3
+5 5 5 5 4 3 3 2 2 1 2 3 4 3 2 1 ,7 1
+1 ,7 ,6 ,5 ,4 1 1 1 2 3 2 4 3 1 2 1 1
+5 5 5 5 4 3 3 2 2 1 2 3 4 3 2 1 ,7 1
+5 5 5 5 4 3 3 2 2 1 2 3 4 3
+5 5 5 5 4 3 3 2 2 1 2 3 4 3 2 1 ,7 1
+1 ,7 ,6 ,5 ,4 1 1 1 2 3 2 4 3 1 2 1 ,7 1
+1 ,7 ,6 ,5 ,4 1 1 1 2 3 2 4 3 1 2 1 ,7 1
+%---
+%END

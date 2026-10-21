@@ -1,0 +1,35 @@
+%More_One_Night__je-0265.txt
+%标题 More_One_Night
+% 出处 https://github.com/zytx121/je/issues/0265
+% 歌曲信息: 作词 emon(Tes.) · 作曲 emon(Tes.)、ヒゲドライバー · 编曲 emon(Tes.) · 歌手 水瀬いのり、久保ユリカ
+title=More_One_Night
+tag=
+usertag=
+tagroute=
+artist=水瀬いのり,久保ユリカ
+lyricist=emon(Tes.)
+composer=emon(Tes.),ヒゲドライバー
+arranger=emon(Tes.)
+copyright=作词 emon(Tes.) / 作曲 emon(Tes.),ヒゲドライバー / 编曲 emon(Tes.)
+status=bare-numbers
+source=je-0265
+%--
+1=C
+3 5 3 5 3 5 5
+5 6 7 5 3 5 5 6 7 6 5 3 2
+5 6 7 7 5 3 2 2 3 5 3 5 7 6
+5 6 7 5 3 5 5 6 7 1' 7 6 5
+5 6 7 5 3 2 5 5 #4 5 3 5 6 5
+5
+4 5 5 5 4 5 5 5 4 5 5 5 5
+2 3 2' 2' 1' 7 6 7 6 7 5
+2 2' 2' 1' 7 6 6 7 6 7 6
+2' 2' 2' 3' 7 6 6 7 6 7
+2 2 3 3 5 6 5 7 1' 7 6 5
+5 #4 5
+5 7 6 5 6
+5 2 3 5 6
+5 7 6 5 6
+5 5 3 5 5
+%---
+%END

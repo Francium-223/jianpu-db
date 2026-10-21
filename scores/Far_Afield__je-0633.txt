@@ -1,0 +1,31 @@
+%Far_Afield__je-0633.txt
+%标题 Far_Afield
+% 出处 https://github.com/zytx121/je/issues/0633
+% 歌曲信息: 专辑 秽翼のユースティア ORIGINAL SOUND TRACK · 作词 未知 · 作曲 スミイ酸 · 编曲 スミイ酸 · 歌手 未知
+title=Far_Afield
+tag=
+usertag=
+tagroute=
+album=秽翼のユースティア ORIGINAL SOUND TRACK
+composer=スミイ酸
+arranger=スミイ酸
+copyright=作词 未知 / 作曲 スミイ酸 / 编曲 スミイ酸
+transcriber=莉莉的樱花团子
+status=bare-numbers
+source=je-0633
+%--
+1=A
+1 2 3 3 4 5 5 2
+1 2 3 3 4 5 5
+1 2 3 3 6 7 1' 7 5
+6 5 6 7 6 5 6 5 4 3
+5 4 3 2 3 2 1 2
+1 2 3 6 1' 7 5 3 6
+7 1' 1' 7
+1 2 3 3 4 5 5 2
+1 2 3 3 6 7 7 3 5
+1' 7 1' 2' 1' 7 5 3 5
+1' 2' 1' 7 5 3 5 6 5
+1' 2' 1' 7 6
+%---
+%END

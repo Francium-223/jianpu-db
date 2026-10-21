@@ -1,0 +1,28 @@
+%Lost_my_pieces__je-1134.txt
+%标题 Lost_my_pieces
+% 出处 https://github.com/zytx121/je/issues/1134
+% 歌曲信息: 专辑 TVアニメ 「とらドラ!」 オリジナル・サウンドトラック · 歌手 橋本由香利
+title=Lost_my_pieces
+tag=
+usertag=
+tagroute=
+artist=橋本由香利
+album=TVアニメ 「とらドラ!」 オリジナル・サウンドトラック
+transcriber=madderscientist
+status=bare-numbers
+source=je-1134
+%--
+1=G
+5 1 ,7 5 6 3
+3 4 3 2 1 ,7 1 2 ,5
+,7 1 2 ,7 2 5 2 3 #2 3
+,6 ,7 1 ,5 ,6 ,7 1 2 3 2
+3 4 5 6 5 1' 7 5 2 6 5 2 4 3 4 3 6 5 1 2 4 3
+1 2 5 6 5 1' 7 5 2 6 5 1' 2' 4' 3' 2' 1' 7
+5 1 ,7 5 6 3 3 4 3 2 1 ,7 1 2 ,5
+,7 1 2 ,7 2 5 2 3 #2 3
+3 4 5 6 5 1' 7 5 2 6 5 2 4 3 4 3 6 5 1 2 4 3
+1 5 6 5 1' 7 5 2 6 5 1 2 4 3 2 1
+5 1 2 5 6 7 1' 5'
+%---
+%END

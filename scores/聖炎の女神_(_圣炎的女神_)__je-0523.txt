@@ -1,0 +1,44 @@
+%聖炎の女神_(_圣炎的女神_)__je-0523.txt
+%标题 聖炎の女神_(_圣炎的女神_)
+% 出处 https://github.com/zytx121/je/issues/0523
+% 歌曲信息: 专辑 THE IDOLM@STER MASTER PRIMAL ROCKIN' RED · 作词 奥井雅美 · 作曲 IMAJO(PSYCHIC LOVER) · 编曲 IMAJO(PSYCHIC LOVER) · 歌手 四条貴音、秋月律子
+title=聖炎の女神_(_圣炎的女神_)
+tag=
+usertag=
+tagroute=
+artist=四条貴音,秋月律子
+album=THE IDOLM@STER MASTER PRIMAL ROCKIN' RED
+lyricist=奥井雅美
+composer=IMAJO(PSYCHIC LOVER)
+arranger=IMAJO(PSYCHIC LOVER)
+copyright=作词 奥井雅美 / 作曲 IMAJO(PSYCHIC LOVER) / 编曲 IMAJO(PSYCHIC LOVER)
+transcriber=桥居
+status=bare-numbers
+source=je-0523
+%--
+1=C
+4 4 4 3 4 4 3 4 5 3
+1 3 3 2 2
+2 3 4 4 4 4 4 1 4 3
+4 4 3 3 4 3 4 6 5
+1 6 #6 6 5 4 4 3 4 5
+1=#C
+1 7 7 6
+5 5 5 #4 5 #4 2 3
+5 5 5 6 5 6 7 7
+,6 ,7 1 1 ,7 1
+,7 1 2 2 1 2
+,5 5 4 3 2 2 6 #5
+1=bB
+6 7 1' 1' 1' 1' 1' 4 4 4 1' 1'
+7 1' 2' 5
+6 5 4 4 3 4 1' 7
+3 7 6 #5
+6 7 1' 1' 1' 1' 4 4 4 1' 1' 7 1' 2' 5
+6 6 7 1' 6 6 7 1'
+5 2' 1' 7 7 1' 2'
+1' 7 6 1' 7 6
+5 2' 1' 7 6 5 3
+4 3 4 2' 1' 7 6
+%---
+%END

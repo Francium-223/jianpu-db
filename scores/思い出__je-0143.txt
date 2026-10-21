@@ -1,0 +1,26 @@
+%思い出__je-0143.txt
+%标题 思い出
+% 出处 https://github.com/zytx121/je/issues/0143
+% 歌曲信息: 歌手 井内舞子
+title=思い出
+tag=
+usertag=
+tagroute=
+artist=井内舞子
+status=bare-numbers
+source=je-0143
+%--
+1=bE
+3 4 5 5 5 6 5
+1 2 3 3 3 4 3 2 1
+,6 ,7 1 1 2 1 ,#5 ,5
+3 4 5 5 5 6 5
+1 2 3 3 3 4 3 2 1
+1 6 5 6 3 2 2
+,6 ,7 1
+3 4 5 5 5 2 1
+3 4 5 5 5 1 6 5
+,6 3 2 6 5 2 1
+,6 4 3 1 1 6 1 2 3 2
+%---
+%END

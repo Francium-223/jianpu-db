@@ -1,0 +1,34 @@
+%五月雨が過ぎた頃に__je-1427.txt
+%标题 五月雨が過ぎた頃に
+% 出处 https://github.com/zytx121/je/issues/1427
+% 歌曲信息: 作词 梶浦由记 · 作曲 梶浦由记 · 编曲 梶浦由记 · 歌手 Kalafina
+title=五月雨が過ぎた頃に
+tag=
+usertag=
+tagroute=
+artist=Kalafina
+lyricist=梶浦由记
+composer=梶浦由记
+arranger=梶浦由记
+copyright=作词 梶浦由记 / 作曲 梶浦由记 / 编曲 梶浦由记
+transcriber=hgizayoi
+status=bare-numbers
+source=je-1427
+%--
+1=C
+1
+4 3 2 2 2 3 2 1 1 1 1 1
+4 3 2 2 2 4 5 6 6 6
+4 3 2 2 2 3 2 1 1 1 1 1
+4 3 2 3 4 5 4 3 3 2 2
+4 5 6 6 5 5 1' 6 #6 6 5 4
+4 5 6 6 5 5 4 3 4 5 6
+4 5 6 6 5 5 1' 1' #6' 6' 5' 4'
+4 3 2 3 4 5 4 2 4 3 3
+4 3 2 3 4 5 4 2 4 3 3
+4 3 2 2 2 3 2 1 1 1 1 1
+4 3 2 2 2 4 5 6 6 6
+4 3 2 2 2 3 2 1 1 1 1 1
+4 3 2 3 4 5 4 5 6 5 5 4
+%---
+%END

@@ -1,0 +1,25 @@
+%血小板之歌__je-0902.txt
+%标题 血小板之歌
+% 出处 https://github.com/zytx121/je/issues/0902
+% 歌曲信息: 作词 PoKeR · 作曲 PoKeR · 编曲 PoKeR · 歌手 hanser
+title=血小板之歌
+tag=
+usertag=
+tagroute=
+artist=hanser
+lyricist=PoKeR
+composer=PoKeR
+arranger=PoKeR
+copyright=作词 PoKeR / 作曲 PoKeR / 编曲 PoKeR
+transcriber=zytx121
+status=bare-numbers
+source=je-0902
+%--
+1=F
+,5
+3 3 2 1 2 2 1 2 5 5
+4 3 2 1 3
+3 3 2 1 2 2 1 2 5 5
+4 2 3 2 1
+%---
+%END

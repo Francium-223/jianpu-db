@@ -1,0 +1,41 @@
+%BURN__je-0074.txt
+%标题 BURN
+% 出处 https://github.com/zytx121/je/issues/0074
+% 歌曲信息: 作词 Kohshi Asakawa · 作曲 Takeshi Asakawa · 编曲 キバオブアキバ＆FLOW · 歌手 FLOW
+title=BURN
+tag=
+usertag=
+tagroute=
+artist=FLOW
+lyricist=Kohshi Asakawa
+composer=Takeshi Asakawa
+arranger=キバオブアキバ＆FLOW
+copyright=作词 Kohshi Asakawa / 作曲 Takeshi Asakawa / 编曲 キバオブアキバ＆FLOW
+status=bare-numbers
+source=je-0074
+%--
+1=B
+3 3 3 3 3 2 3
+3 3 3 3 3 5 3
+1 2 2 1 1 1 1 1 ,7 1 ,3
+3 3 3 3 3 2 3
+3 3 3 3 3 5 3
+3 5 5 4 3 4 3 2 1 ,7 1
+,6 ,6 ,6 3 2 1 2 2
+,7 1 ,7 1 ,5 1 2 3 2 4 5 3
+1 1 1 1 ,6 1 ,6 2 3
+3 3 3 3 5 1 ,7 1
+1 1 ,6 1 3 3 2 2
+5 5 5 5 5 5 1 1 ,7 1
+5 5 5 5 5 5 1 1 ,7 1
+,6 1 6 5
+5 4 3 2 2 3 3
+5 5 5 5 5 5 1 1 ,7 1
+5 5 5 5 5 5 1 1 ,7 1
+,6 1 6 5
+5 3 5 3 2 3 3
+1 2 1 1 1 1 ,6 1 3 2
+1 2 1 1 1 1 1 1 3 2
+2 2 5 3
+%---
+%END

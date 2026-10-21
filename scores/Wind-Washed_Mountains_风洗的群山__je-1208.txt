@@ -1,0 +1,31 @@
+%Wind-Washed_Mountains_风洗的群山__je-1208.txt
+%标题 Wind-Washed_Mountains_风洗的群山
+% 出处 https://github.com/zytx121/je/issues/1208
+% 歌曲信息: 专辑 原神-风与牧歌之城 City of Winds and Idylls · 作曲 Yu-Peng Chen 陈致逸 · 歌手 陈致逸 / HOYO-MiX
+title=Wind-Washed_Mountains_风洗的群山
+tag=
+usertag=
+tagroute=
+artist=陈致逸 / HOYO-MiX
+album=原神-风与牧歌之城 City of Winds and Idylls
+composer=Yu-Peng Chen 陈致逸
+copyright=作曲 Yu-Peng Chen 陈致逸
+transcriber=madderscientist
+status=bare-numbers
+source=je-1208
+%--
+1=F
+1 4 3 4 2
+4 3 4 1
+1 6 5 6 4
+6 5 6 2 4 3 4 1 4 3 4 2
+4 3 4 1
+1 1' 6 1' 5 1' 4
+1 4 3 4 2
+4 3 4 1
+1 6 5 6 4 5 2 3 2 3 1
+1 4 3 4 2
+4 3 4 1
+1 1' 6 1' 5 1' 4
+%---
+%END

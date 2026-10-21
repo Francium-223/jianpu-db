@@ -1,0 +1,32 @@
+%Prefert_Time__je-0364.txt
+%标题 Prefert_Time
+% 出处 https://github.com/zytx121/je/issues/0364
+% 歌曲信息: 专辑 七つの大罪 オリジナル・サウンドトラック · 作词 mpi · 作曲 泽野弘之 · 编曲 泽野弘之 · 歌手 小林未郁/mpi
+title=Prefert_Time
+tag=
+usertag=
+tagroute=
+artist=小林未郁/mpi
+album=七つの大罪 オリジナル・サウンドトラック
+lyricist=mpi
+composer=泽野弘之
+arranger=泽野弘之
+copyright=作词 mpi / 作曲 泽野弘之 / 编曲 泽野弘之
+transcriber=黑翅Shirotsu
+status=bare-numbers
+source=je-0364
+%--
+1=D
+#6 1'
+4 4 4 4 4 4 4 3 3 3 2 1 2 ,6 1 2 3 1
+2 2 1
+4 4 4 4 4 4 4 5 3 2 1 1 5 1 1 1 ,6 2
+2 3 4 4 4 4 4 4 4 3 3 3 2 1 2 ,6 1 2 3 1
+2 3 4 4 4 4 ,6 ,6 4 4 3 3 3 2 2 2 1 2
+1=G
+1 2 3 3 3 2 4 3 2 2 3 1
+3 4 5 5 6 1 1 1 2 3 2
+1 1 2 4 3 3 2 4 3 2 2 3 1 2
+5 5 4 3 2 4 3 2 1
+%---
+%END

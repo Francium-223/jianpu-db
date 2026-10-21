@@ -1,0 +1,49 @@
+%My_soul,Your_Beats!__je-0018.txt
+%标题 My_soul,Your_Beats!
+% 出处 https://github.com/zytx121/je/issues/0018
+% 歌曲信息: 专辑 My Soul,Your Beats&Brave Song · 作词 麻枝准 · 作曲 麻枝准 · 编曲 ANANT GARDE EYES · 歌手 Lia
+title=My_soul,Your_Beats!
+tag=
+usertag=
+tagroute=
+artist=Lia
+album=My Soul,Your Beats&Brave Song
+lyricist=麻枝准
+composer=麻枝准
+arranger=ANANT GARDE EYES
+copyright=作词 麻枝准 / 作曲 麻枝准 / 编曲 ANANT GARDE EYES
+status=bare-numbers
+source=je-0018
+%--
+1=A
+,6 1 4 4 3 5 5 4 5 6 3
+,6 1 4 4 3 4
+2 2 3 4 5 2
+2 3 1 2 2
+,6 1 4 4 3 5 5 4 5 6 3
+,6 1 4 4 3 4
+2 2 3 4 5 2
+2 3 4 5 6 6
+6 1' 6 1' #6 6 4 4 5 4 2 5 6 6
+7 6 6 5 7 2' 7 2'
+7 6 6 5 7 2' 7 2' 3' 2'
+7 6 5 6 7 7 6 5 6 7 2' 6
+7 6 6 5 7 2' 7 2'
+7 6 6 5 7 2' 7 2' 3' 2'
+2' #4' 2' 2' 6 2'
+7 6 5 3 2
+7 6 5 3 2
+7 6 5 2 3
+3 3 4 5 1' 5 3 3 4 5 1' 5 3 3 4 5 1' 5 3 2 1 1 5
+3 3 4 5 1' 5 3 3 4 5 1' 5 4 5 6 5 4 1' 2' 1' 2'
+2' 3' 4' 3' 1' 7 1'
+1=F
+3 2 2 1 3 5 3 5
+3 2 2 1 3 5 3 5 6 5
+3 2 1 2 3 3 2 1 2 3 5 2
+3 2 2 1 3 5 3 5
+3 2 2 1 3 5 3 5 6 5
+5 7 5 5 2 5
+3 2 1 ,6 ,5 3 2 1 ,6 ,5 3 2 1 ,5 ,6
+%---
+%END

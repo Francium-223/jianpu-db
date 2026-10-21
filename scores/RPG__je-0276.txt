@@ -1,0 +1,36 @@
+%RPG__je-0276.txt
+%标题 RPG
+% 出处 https://github.com/zytx121/je/issues/0276
+% 歌曲信息: 专辑 C_オリジナル・サウンドトラック · 作词 江口亮、内村友美 · 作曲 江口亮、School Food Punishment · 编曲 School Food Punishment、江口亮 · 歌手 School Food Punishment
+title=RPG
+tag=
+usertag=
+tagroute=
+artist=School Food Punishment
+album=C_オリジナル・サウンドトラック
+lyricist=江口亮,内村友美
+composer=江口亮,School Food Punishment
+arranger=School Food Punishment,江口亮
+copyright=作词 江口亮,内村友美 / 作曲 江口亮,School Food Punishment / 编曲 School Food Punishment,江口亮
+status=bare-numbers
+source=je-0276
+%--
+1=C
+1 1 1 1 ,6 1 ,6 ,6 3 4
+5 5 4 4 3 1 5 5 5 4 4 5 6 6
+,6 1 1 1 1 ,6 1 ,6 ,6 ,6 ,6 ,6 3 4 5 5 4 4 3 1
+4 5 5 5 5 5 4 5 6 6
+5 5 5 5 6 1' 5 5 5 4 4
+1 1 6 5 6 4 3 4 4 6 5 6 4 3 4
+1' 1' #6 4 4 5
+1' 1' 6 5 4 1 1' 2' 5 4
+1 1' 1' 1' 1' 1' 6 5 5 5 6 5 4
+1 4 1 4 1 5 5 4 6
+6 1' 6 5 4 1 6 1' 4' 4
+4 1' 1' 1' 6 5 5 5 5 6 5 4
+1 4 1 4 1 5 4 6 6 3'
+1' 1' 1' 4 5 4 1 1' 2' 4' 4
+4 1' 1' 1' 6 5 5 5 5 6 5 4
+1 4 1 4 1 5 5 6 5 4 #6 6
+%---
+%END

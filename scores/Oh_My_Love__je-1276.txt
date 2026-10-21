@@ -1,0 +1,32 @@
+%Oh_My_Love__je-1276.txt
+%标题 Oh_My_Love
+% 出处 https://github.com/zytx121/je/issues/1276
+% 歌曲信息: 专辑 Working Class Hero: The Definitive Lennon · 作词 Lennon, Ono · 作曲 Lennon, Ono · 歌手 John Lennon
+title=Oh_My_Love
+tag=
+usertag=
+tagroute=
+artist=John Lennon
+album=Working Class Hero: The Definitive Lennon
+lyricist=Lennon,Ono
+composer=Lennon,Ono
+copyright=作词 Lennon,Ono / 作曲 Lennon,Ono
+transcriber=madderscientist
+status=bare-numbers
+source=je-1276
+%--
+1=E
+,5 2 5 #6 4' ,6 3 6 1' 3'
+,5 2 5 #6 2' #6 ,4 1 4 6 #6 6
+4 3 2 ,#6 2 3 4 3 3 3 4 3
+4 2 4 3 4 4
+4 3 2 ,#6 2 3 4 3 3 3 4 3
+4 3 2 ,#6 2 3 4 2 1
+4 3 2 ,#6 2 3 4 3 3 3 4 3
+4 2 4 3 4 4
+6 6 #6 6 5 4 3 3 4 5
+5 4 3 4 3 2 ,#6 2 ,6
+6 6 #6 6 5 4 3 3 4 5
+5 4 3 4 3 2 1 ,#6 ,6
+%---
+%END

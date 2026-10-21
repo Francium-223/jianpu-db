@@ -1,0 +1,30 @@
+%あ・り・が・と・yesterdays__je-0527.txt
+%标题 あ・り・が・と・yesterdays
+% 出处 https://github.com/zytx121/je/issues/0527
+% 歌曲信息: 作词 イイジマケン · 作曲 イイジマケン · 编曲 浜田ピエール裕介 · 歌手 天海春香、星井美希、菊地真、秋月律子
+title=あ・り・が・と・yesterdays
+tag=
+usertag=
+tagroute=
+artist=天海春香,星井美希,菊地真,秋月律子
+lyricist=イイジマケン
+composer=イイジマケン
+arranger=浜田ピエール裕介
+copyright=作词 イイジマケン / 作曲 イイジマケン / 编曲 浜田ピエール裕介
+transcriber=桥居
+status=bare-numbers
+source=je-0527
+%--
+1=C
+4 4 4 #6 6 5 4
+4 4 4 2 4 2 4 5 6
+4 4 2 4 2 4 5 6
+4 4 4 2 4 2 4 5 6
+2 3 4 5 #6 6 4 5
+4 4 4 2 4 2 4 5
+4 4 2 4 2 4 5
+4 4 4 2 4 2 4 5 6
+2 3 4 5 #6 6 4 5 4
+4 5 4
+%---
+%END

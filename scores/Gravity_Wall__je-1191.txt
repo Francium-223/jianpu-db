@@ -1,0 +1,39 @@
+%Gravity_Wall__je-1191.txt
+%标题 Gravity_Wall
+% 出处 https://github.com/zytx121/je/issues/1191
+% 歌曲信息: 专辑 gravityWall / shØut · 作词 Hiroyuki Sawano / Tielle · 作曲 Hiroyuki Sawano · 歌手 Tielle / R!N/Gemie / SawanoHiroyuki[nZk]
+title=Gravity_Wall
+tag=
+usertag=
+tagroute=
+artist=Tielle / R!N/Gemie / SawanoHiroyuki[nZk]
+album=gravityWall / shØut
+lyricist=Hiroyuki Sawano / Tielle
+composer=Hiroyuki Sawano
+copyright=作词 Hiroyuki Sawano / Tielle / 作曲 Hiroyuki Sawano
+transcriber=madderscientist
+status=bare-numbers
+source=je-1191
+%--
+1=C
+3 5 5 5 5 3 5 5 5 3 5 5 3 3
+3 5 5 5 5 5 3 5 5 2 2 1 1 ,6 ,6
+3 5 5 5 5 3 5 2 1 3 4 3
+3 5 5 5 5 5 3 5 6 1' 7 5 6
+1=G
+2 ,5 ,6 1 2 4 5 2
+2 2 4 2 6 4 5 5 5 4 6 4 5 5
+4 5 4 5 5 5 5 4 3 4 3 2
+2 2 4 2 6 4 5 5 5 4 6 4 5 5
+5 4 5 5 5 5 4 6 2 2 2
+2 4 6 5 4 5 2 2 2 2 2 4 6 5 5
+5 4 5 2 2 2 2 4 6 5 4 6 5 2 2
+2 2 2 4 6 5 5 5 4 5 2 2 2 5
+5 5 5 4 4 4 1 5 5 6 4 1 5 5 6 4
+4 3 4 1
+5 5 5 4 4 4 1 3 4 6 3 4 6 3 5 4
+5 5 5 4 4 4 1 5 5 6 4 1 5 5 6 4
+4 3 4 1
+5 5 5 4 4 4 1 #2 3 4 6 3 4 6 3 5 4
+%---
+%END

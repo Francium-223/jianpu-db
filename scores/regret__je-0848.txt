@@ -1,0 +1,28 @@
+%regret__je-0848.txt
+%标题 regret
+% 出处 https://github.com/zytx121/je/issues/0848
+% 歌曲信息: 专辑 未知 · 作词 星村麻衣 · 作曲 星村麻衣 · 编曲 铃木Daichi秀行 · 歌手 星村麻衣
+title=regret
+tag=
+usertag=
+tagroute=
+artist=星村麻衣
+lyricist=星村麻衣
+composer=星村麻衣
+arranger=铃木Daichi秀行
+copyright=作词 星村麻衣 / 作曲 星村麻衣 / 编曲 铃木Daichi秀行
+transcriber=zytx121
+status=bare-numbers
+source=je-0848
+%--
+1=C
+6 6 6 6 6 6 5 5 5 5 5 5 5 3 5 5 5
+6 6 6 6 6 6 5 5 5 5 3 5 2 5
+6 6 6 6 6 6 5 5 5 5 5 5 5 3 5 5 5
+6 6 6 6 6 6 5 5 5 5 7 6 6 7
+6 6 6 6 6 6 6 5 6 6 6 5 5 5 3 3 5 5
+6 6 6 6 6 6 6 7 7 7 6 7 7 5 6 6 6 7 7 7 6 7 7 7
+6 6 7 7 ,7 7 7 6 7 7 7 6 6 6 6 7 7 ,7 ,7 7 6 6 7 7
+6 6 7 7 ,7 7 7 6 7 7 7 6 6 6 6 7 7 ,7 ,7 7 6 6 7 7 7 7
+%---
+%END

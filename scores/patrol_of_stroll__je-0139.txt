@@ -1,0 +1,28 @@
+%patrol_of_stroll__je-0139.txt
+%标题 patrol_of_stroll
+% 出处 https://github.com/zytx121/je/issues/0139
+% 歌曲信息: 歌手 百石元
+title=patrol_of_stroll
+tag=
+usertag=
+tagroute=
+artist=百石元
+status=bare-numbers
+source=je-0139
+%--
+1=A
+1' 5 3 4 3 4 5
+1' 5 3 4 5 3 4 5
+1' 5 3 4 3 4 5
+1 2 3 5 1' 7 1' 2' 2' 3' 1'
+6 4' 4' 3' 2' 5' 3' 1'
+1' 5 3 4 3 4 5
+1' 5 3 4 5 3 4 5
+1' 5 3 4 3 4 5
+1 2 3 5 1' 7 1' 2' 2' 3' 1'
+6 4' 4' 3' 2' 5' 3'
+1' 7 1' 5 4 5 4 3 4 3 2 1
+1' 7 1' 5 4 5 4 3 4 4 3 2
+5 5 #5 5 5 5 #5 5 5 1'
+%---
+%END

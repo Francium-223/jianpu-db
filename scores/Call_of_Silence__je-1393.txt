@@ -1,0 +1,40 @@
+%Call_of_Silence__je-1393.txt
+%标题 Call_of_Silence
+% 出处 https://github.com/zytx121/je/issues/1393
+% 歌曲信息: 歌手 澤野弘之 / R!N/Gemie · 作词 cAnON. · 作曲 泽野弘之 · 编曲 泽野弘之 · 专辑 TVアニメ「進撃の巨人」Season 2 オリジナルサウンドトラック
+title=Call_of_Silence
+tag=
+usertag=
+tagroute=
+artist=澤野弘之 / R!N/Gemie
+album=TVアニメ「進撃の巨人」Season 2 オリジナルサウンドトラック
+lyricist=cAnON.
+composer=泽野弘之
+arranger=泽野弘之
+copyright=作词 cAnON. / 作曲 泽野弘之 / 编曲 泽野弘之
+transcriber=madderscientist
+status=bare-numbers
+source=je-1393
+%--
+1=E
+,2 ,4 ,6 1 ,5
+,3 ,4 ,5 ,4
+,4 ,3 ,2 ,5 1
+,2 ,4 ,6 1 ,5
+,3 ,4 ,5 ,4
+,1 ,5 ,5 ,4 ,2 ,5 ,5 ,4
+,2 ,6 ,6 ,6 ,3 ,2 ,4
+,2 ,6 ,6 ,6 3 4 ,6
+2 6 6 6 3 4 1
+1 ,6 1 5 4 5 4 2
+2 1
+6 5 5 4 4 1' 4 3 4
+6 5 5 4 1 6 5 6 4
+6 5 5 4 4 1' 1' 1' 5 4
+2 4 5 5 4 5 6 5 5 4
+4 3 ,6 2 4 3 ,6 ,4
+4 3 ,6 2 2 3 5 4
+4 3 ,6 2 4 3 ,6 ,4
+4 3 4 5 6 6 4 3
+%---
+%END

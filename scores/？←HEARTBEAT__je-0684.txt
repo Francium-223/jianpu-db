@@ -1,0 +1,38 @@
+%？←HEARTBEAT__je-0684.txt
+%标题 ？←HEARTBEAT
+% 出处 https://github.com/zytx121/je/issues/0684
+% 歌曲信息: 专辑 「SUNNY DAY SONG」/「?←HEARTBEAT」 · 作词 畑亚贵 · 作曲 本田光史郎 · 编曲 本田光史郎 · 歌手 绚濑绘里（CV：南条爱乃）东条希（CV：楠田亚衣奈）矢泽妮可（CV：徳井青空）
+title=？←HEARTBEAT
+tag=
+usertag=
+tagroute=
+artist=绚濑绘里（CV：南条爱乃）东条希（CV：楠田亚衣奈）矢泽妮可（CV：徳井青空）
+album=「SUNNY DAY SONG」/「?←HEARTBEAT」
+lyricist=畑亚贵
+composer=本田光史郎
+arranger=本田光史郎
+copyright=作词 畑亚贵 / 作曲 本田光史郎 / 编曲 本田光史郎
+transcriber=zytx121
+status=bare-numbers
+source=je-0684
+%--
+1=G
+6 6 3 3 6 6 6 3 3 6 6 3 3 2 2 3
+6 6 3 3 6 6 6 3 3 6 6 3 3 6 7 1' 7
+6 1' 2' 1' 7 6 7 7 6
+6 6 3 3 6 6 6 3 3 6 6 5 5 6
+1=D
+4 4 4 3 2 3 3 3
+#4 #4 #4 4 #2 4 4 4
+5 5 5 #4 4 3 3 3
+4 4 3 4 5 4 3 2
+4 4 4 3 2 3 3 3
+1=F
+#2 #2 #2 2 1 2 2 2
+3 3 3 3 2 3 3 3 2 3 5 #4 3 2 3 2 3 2 3
+1 4 6 5 4 1 #2 4 4 4 4 4 4 3 1
+4 4 4 4 4 3 4 1 ,#6 #2 4 3 4 5
+1 4 6 5 4 1 #2 4 4 4 4 4 4 3 4
+4 4 4 4 4 3 4 6 5 4 4 3 4 4 4 5 4 4 4 3
+%---
+%END

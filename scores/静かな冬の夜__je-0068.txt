@@ -1,0 +1,33 @@
+%静かな冬の夜__je-0068.txt
+%标题 静かな冬の夜
+% 出处 https://github.com/zytx121/je/issues/0068
+% 歌曲信息: 专辑 WHITE ALBUM 2 Original Soundtrack ~ introductory ~ · 编曲 小林俊太郎
+title=静かな冬の夜
+tag=
+usertag=
+tagroute=
+album=WHITE ALBUM 2 Original Soundtrack ~ introductory ~
+arranger=小林俊太郎
+copyright=编曲 小林俊太郎
+status=bare-numbers
+source=je-0068
+%--
+1=A
+1 5 4 1 5 4
+1 5 4 3 5 4
+1 5 4 1 5 4
+1 5 5 3 2
+2 6 2 5 1 5 1 4
+4 3 2 3 4 5 5 6 #6 6 5 6
+4 5 6 2 5 1 5 1 4
+4 5 6 5 4 #1 1
+1=D
+1 2 3 5 1' 7 5 2 3 2
+,7 1 2 5 1' 7 5 3 2 1
+1 ,7 ,6 ,6 ,7 1 2
+2 3 4 4 5 3
+1 2 3 5 1' 7 5 2 3 2
+,7 1 2 5 1' 7 5 3 2 ,5 1
+1 ,7 1 2 3 ,7 1 1
+%---
+%END

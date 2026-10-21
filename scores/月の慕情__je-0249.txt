@@ -1,0 +1,19 @@
+%月の慕情__je-0249.txt
+%标题 月の慕情
+% 出处 https://github.com/zytx121/je/issues/0249
+% 歌曲信息: 歌手 Falcom Sound Team jdk
+title=月の慕情
+tag=
+usertag=
+tagroute=
+artist=Falcom Sound Team jdk
+status=bare-numbers
+source=je-0249
+%--
+1=D
+2 6 6 4 1' 1' 7 6 5 7 6
+2 6 6 5 4 3 2 1 2 3 4 2 #1 ,7 #1 2
+6 5 1' 6 6 5 1' 2' 6 5 4 3 4 3 4 5 3 6
+6 5 1' 6 6 5 1' 2' 6 5 4 3 4 2 6 5 4 3 2 1 2
+%---
+%END

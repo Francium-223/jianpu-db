@@ -1,0 +1,42 @@
+%ブルー・フィールド__je-0164.txt
+%标题 ブルー・フィールド
+% 出处 https://github.com/zytx121/je/issues/0164
+% 歌曲信息: 作词 Heart‘s Cry · 作曲 Heart‘s Cry · 编曲 Heart‘s Cry · 歌手 Trident
+title=ブルー・フィールド
+tag=
+usertag=
+tagroute=
+artist=Trident
+lyricist=Heart‘s Cry
+composer=Heart‘s Cry
+arranger=Heart‘s Cry
+copyright=作词 Heart‘s Cry / 作曲 Heart‘s Cry / 编曲 Heart‘s Cry
+status=bare-numbers
+source=je-0164
+%--
+1=bB
+2 5 2 5 2 2 5 6 7 6
+2 5 2 5 2 1 ,7 1 ,2 ,5
+2 5 2 5 2 2 5 6 7 6 5 #4 5
+2' 5 5 5 5 #4 5 5
+3 3 5 #4 5 6 2 2
+2 2 5 #4 5 6 2 1
+1 1 ,7 1 ,7 1 2 2
+5 5 6 7 7 6 5
+5 3 5 3 5 3 5 6 7 1' 7 6 7 5
+2' 1' 7 6 5 6 5 6 5 3 5
+1=C
+2 4 2 4 3 2 3 2 4 4 5 6 6 5 4
+4 2 4 2 4 2 4 5 6 #6 6 5 6 4
+1' #6 6 #6 1' 5 4 5 6 5 4
+2 4 2 4 2 4 5 4 1' 4 1' 4
+4 5 6 5 4 5 4 4
+2 2 1 2 4 3 1 1
+1 1 ,7 1 4 3 4 3
+,6 #1 ,6 ,6 3 3
+3 3 2 #4
+2 2 1 2 4 3 1 1
+1 1 ,7 1 4 3 4 3
+#1 #1 ,6 ,6 6 5 4 3 3 4 2
+%---
+%END

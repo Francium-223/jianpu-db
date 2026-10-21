@@ -1,0 +1,37 @@
+%Blooming_Lily__je-0240.txt
+%标题 Blooming_Lily
+% 出处 https://github.com/zytx121/je/issues/0240
+% 歌曲信息: 作词 稲葉エミ · 作曲 奥井康介 · 编曲 奥井康介 · 歌手 大西沙织
+title=Blooming_Lily
+tag=
+usertag=
+tagroute=
+artist=大西沙织
+lyricist=稲葉エミ
+composer=奥井康介
+arranger=奥井康介
+copyright=作词 稲葉エミ / 作曲 奥井康介 / 编曲 奥井康介
+status=bare-numbers
+source=je-0240
+%--
+1=G
+5 5 1' 1' 5 5 1' 7 6 5 2 3
+4 5 6 6 5 6 1 2 3 4 4 3 2 1 2
+5 5 1' 1' 5 5 1' 7 6 5 2 3
+4 5 6 6 5 6 1 2 3 4 3 4 5 2
+1 1 1' 1' 7 1' 2'
+1' 7 5 3' 5 6
+2 3 4 4 5 6 6
+1=D
+2 3 4 4 3 3 4 5
+1 1 6 5 5 4 5
+1 4 5 6 4 4 1 6 5 6
+5 3 3 1 5 3 4
+4 2 2 ,6 4 3
+3 3 5 4 3 4 4 5 4 6
+1 4 5 6 4 4 1 6 5 6
+5 3 3 1 1' 3 4
+4 2 2 ,6 4 3
+1 6 5 4 5 4 4
+%---
+%END

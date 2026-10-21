@@ -1,0 +1,33 @@
+%Overcooked_-_Main_Menu_SONG__je-1363.txt
+%标题 Overcooked_-_Main_Menu_SONG
+% 出处 https://github.com/zytx121/je/issues/1363
+title=Overcooked_-_Main_Menu_SONG
+tag=
+usertag=
+tagroute=
+transcriber=madderscientist
+status=bare-numbers
+source=je-1363
+%--
+1=bB
+2 3 4 5 6
+6 4 5
+6 6 5 4
+2 3 4 3 6 5
+4 5 6 6 #6 6 4 2
+6 6 5 4
+2 3 4 3 6 5
+4 6 2' 4'
+4 5 6 6 2' #6 5 6
+4 5 6 6 5 4 3
+2 3 4 5 6 6 2' #6 5 6
+5 4 3
+2 3 4 5 6
+6 4 5
+6 6 5 4
+2 3 4 3 6 5
+4 5 6 6 #6 6 4 2
+6 6 5 4
+#6 6 5 4 3 2
+%---
+%END

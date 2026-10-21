@@ -1,0 +1,26 @@
+%A_Light_Illuminating_The_Depths__je-0253.txt
+%标题 A_Light_Illuminating_The_Depths
+% 出处 https://github.com/zytx121/je/issues/0253
+% 歌曲信息: 歌手 Falcom Sound Team jdk
+title=A_Light_Illuminating_The_Depths
+tag=
+usertag=
+tagroute=
+artist=Falcom Sound Team jdk
+status=bare-numbers
+source=je-0253
+%--
+1=bA
+3 4 4 4 5
+2 6 5 4 5 2
+4 4 3 7 6
+2' 6' 5' 4' 5' 2'
+4' 4' 3' 7' 6' 3'' 2''
+6 5 4 3 4 3 2 3 4 6 2' 2 3 4 6 2'
+2' 4' 3' 3' 2' #1' #1' #6 6
+6 4 6 2' 6 6 5 4 5 1 5 1' 6
+5 4 3 4 ,#6 4 6 5 4 3 4 3 ,7 #1
+6 4 6 2' 6 6 5 4 5 1 5 1' 6
+5 4 3 4 ,#6 4 6 5 4 3 4 5 4 3 6 5 6
+%---
+%END

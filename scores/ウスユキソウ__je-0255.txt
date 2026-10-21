@@ -1,0 +1,30 @@
+%ウスユキソウ__je-0255.txt
+%标题 ウスユキソウ
+% 出处 https://github.com/zytx121/je/issues/0255
+% 歌曲信息: 专辑 TVアニメ「結城友奈は勇者である」オリジナルサウンドトラック · 作词 MONACA、岡部啓一 · 作曲 岡部啓一、MONACA · 编曲 MONACA、岡部啓一 · 歌手 Emi Evans
+title=ウスユキソウ
+tag=
+usertag=
+tagroute=
+artist=Emi Evans
+album=TVアニメ「結城友奈は勇者である」オリジナルサウンドトラック
+lyricist=MONACA,岡部啓一
+composer=岡部啓一,MONACA
+arranger=MONACA,岡部啓一
+copyright=作词 MONACA,岡部啓一 / 作曲 岡部啓一,MONACA / 编曲 MONACA,岡部啓一
+status=bare-numbers
+source=je-0255
+%--
+1=bA
+1' 7 5 6 6 3 1' 7 5 6 6 5
+5 4 1 4 3 1 ,7 1 2
+1' 7 5 6 3 1' 7 5 6 5
+5 4 1 4 3 6 7 1' 7
+4 3 4 1' 3 4 3 2 3 2 1
+4 3 4 1' 3 6 1' 7
+6 7 1' 7 5 6 3 1' 7 5 6 5
+5 4 1 4 3 1 ,7 1 2
+1' 7 5 6 3 1' 7 5 6 5
+5 4 1 4 3 6 7 1' 7 6 #5 6
+%---
+%END
