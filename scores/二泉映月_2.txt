@@ -1,0 +1,25 @@
+%二泉映月_2.txt
+% 出处 https://www.jp114.com/jianpu/976734.html
+title=二泉映月
+tag=
+usertag=
+tagroute=
+confidence=0.926
+conf_p10=0.729
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-976734
+%--
+4/4
+subtitle=score
+q1' q1 x. 1. 5 0 4' 4 qx sx 0 x ,,x x 1 x x q0 s6 s5 s6 s4 s3 2 - q2. s3 q1 s1 s2 3. q5 q6 q5 s6 s5 s1' s1' q5. s3
+q5 s5 s3 q2 q6 s5 s6 s1 s2 3. q5 s2. d3 s5 s1 s6 s2 s3 s5 1 - q1 s6 s1 q3 s3 s2 q1. s6 s1. d2 s3 s3 q2 s1. s1 s6 s1 s2 s3
+5 - s5' s0 s3'. s5' s6'. s5' s1' s1' q5'. s3' s5'. q1' s1' q6' q6' s5' s6'. s5'. s5' q3'. s5'. s3' s4. d4'. s3'. s3'. s5'. s2'. d3'. s2' s1' q6 1' q1'. s2' s3'. s1' q1'
+s2'. s5'. s3' s6' 5' - s5 s0 s1 s0 s6 s5 s1' s1' q5. s3 q5 s5 s3 s2. d3 s1' s1' s6 s2 s3 s5 1 - s1' s1' s1' q3'. s3'. s2' q1'. s1' s1'. d2'. s3'.
+s3' q1' s1'. s1' s1' s1'. s2'. s3' 5 - s5 s0 s5 s0 s3'. s5'. s3'. s5' 6' q1' q1' s3'. d5'. s3'. s5' s6'. s1' s1' s0 q5'. s3' s5'. q1' s1' q6' q6' s5' s6'. s5'. s5'
+q3'. s5'. s3' s4. d4'. s3'. s5' s2'. s3'. s2' s1' s1' s1' q6 q1'. s6 q1'. s2' s3'. s1' q1'. s2'. d5'. s3'. s5' s6' 5'. q3' q5'. s5' s6' s5'. s5'. s3'. s5' 6' - x. 6' x.
+6' 5. 6' 5. 6' q6' q6' s6' s5. s5' s1' s1' q5'. s3' s5'. q1' q6' q6' s5' s6'. s5'. s5' q3'. s5'. s3' s4. d4'. d3'. s5' s2'. s3'. s2' s1' s1' q6 q1. s6 q1. s2 s3
+s5 q1 s2. d5 s3 s6 5 - s5 s0 s1 s0 s6 s5 s6 s1 q5. s3 q5 s5 s3 s2. d3 s5 s1 s6 s2 s3 s5 1 - 5 q1 s1 s2 3 - q3 s5'. s3'
+s6 s1' s1' s6 q5. s3 q5 s5 s3 q2 q6 s5 s6 s1 s2 q3. s2 q3. s5 q6 s2 s3 s5 s2 s3 s5 1 - s1' s1' q3'. s3'. s2' q1'. s1' s1'. d2'. s3'. s3'. q1'
+s1'. s6 s1'. s2' s3 5 - s5 s0 s5 s0 s3'. s5'. s3'. s5' 6' q1' q3'. d5'. s3'. s5' s6'. s2' s7' s6' q5'. s3' s5'. q1' s1' q6' q6' s5' s6'. s5'. s2'
+%END

@@ -1,0 +1,20 @@
+%雪意.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14371
+title=雪意
+tag=
+usertag=
+tagroute=
+confidence=0.942
+conf_p10=0.820
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14371
+%--
+2/4
+subtitle=score
+q1 - - q2. q1 x qx qx 3 ,,x x x. x x x x 3 - q2 q3 ,6 q1 q2 q,6 q3 1 q2 q1 6 - q,6 q2 q1 q2 q3 q5 q6 q7 q5 q3'
+3' 3' - 6. q6 6 q3 q2 q1 q2 3 2 - q0 q1 q1 q1 q2 q3 q1 q,6 ,5. q,6 ,7. ,5 ,6 - ,6 - 0 0 0 0 q3 3 q3 q2 q3 q1 q,6
+1 q2 q1 ,6 - q,6 q,6 q2 q2 q3 q5 q6 q7 q5 q3 3 3 - 6. q6 6 q3 q2 q2 3 2 - q0 q1 q1 q2 q3 q1 q,6 ,5. q,6 ,7 ,5 6 -
+,6 - 0 0 q6 q6 q6 q5 6. q3 q5 q6 7 6 - q6 q6 q6 q5 3 q2 q1 q1 q3 3 3 - q6 q6 q6 q5 6. q3 q5 q6 7 6 - q2 q2
+q6 q6 q5 q6 q4 q2 5 - 5. q6 3. q5 q2 q3 q1 q6 ,6 - ,6 - 2 - 2 - 3 - 5 - 6 - 6 - 6 - 6 -
+%END

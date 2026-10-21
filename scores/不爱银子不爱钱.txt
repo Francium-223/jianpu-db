@@ -1,0 +1,16 @@
+%不爱银子不爱钱.txt
+% 出处 https://www.jp114.com/jianpu/1358018.html
+title=不爱银子不爱钱
+tag=
+usertag=
+tagroute=
+confidence=0.867
+conf_p10=0.494
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1358018
+%--
+2/4
+subtitle=score
+q5 s1 s6 q5 q5 x q1 q2 q5 q2 q5 q6 q5 q5 q3 2 - q5 q,1 q6 q5 q5 x q1 q2 q5 q2 q5 q6 q5 q5 q3 5 - 2. 1 x - x. x
+%END

@@ -1,0 +1,20 @@
+%美丽的珞巴姑娘.txt
+% 出处 https://www.jp114.com/jianpu/895809.html
+title=美丽的珞巴姑娘
+tag=
+usertag=
+tagroute=
+confidence=0.932
+conf_p10=0.761
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-895809
+%--
+2/4
+subtitle=score
+5 - 5 - 5 - 5 6 6 5 5 - 5 6 6 - 6 5 5 - 5 - 6 - 6. q5 5 - 5 - 5 - 5 - q1 q1 q5 q1 q1 q1
+q5 q1 q5 q5 q1 q3 q3 q2 2 q5 q3 3 s1 1 1 2 0 ,2 q5 q5 2 q1 s1 q3 1 q1 q3 q2 q1 2 0 q2 q2 q5' q5 q5 q5' q1 5 5
+1 q1 3 q3 q2 3 x 2 2 2 1 1 2. q2 q1 5 q6 q3 q6 3 3 ,6 3 q5 2 q5 s2 q5 2 q1 q3 x 2 1 q3 q1 q3 q2 q2 q1
+x 2 1 q3 q3 q2 q3 q2 q1 q1 q6 q6 ,6. ,6 0 q3 q3 q2 q3 q2 q1 q1 q6 q6 ,6. ,6 0 q3 q3 q2 q3 q2 q1 q1 q6 q6 ,6. ,6 0 2
+- 2 q3. s2 5 - 5 -
+%END

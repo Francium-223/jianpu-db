@@ -1,0 +1,20 @@
+%葬花吟_8.txt
+% 出处 https://www.jp114.com/jianpu/936328.html
+title=葬花吟
+tag=
+usertag=
+tagroute=
+confidence=0.988
+conf_p10=0.968
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-936328
+%--
+3/4
+subtitle=score
+7 - q6. s7 6 q5 3 - - - 5 q3 5 - 6 4. 5 q4 3 5 - 2 4 q3 q2 q3 q5 1 - - q7 q6 2 2 - ,7 q6 q2 3 ,5
+- q,5 q6 1 1 q7 q6 ,5 ,6 - - q7 q,6 2 2 0 7 q6 2 3 ,5 - ,5 ,6 1 1 7 6 ,5 ,6 - - - 1 - - 7 ,1 7 6
+6 - - 1 7. q6 q5. 6 q7 ,1 q7 6 - - - 1 - - 7 ,1 7 6 6 - - 1 ,7. 6 5 6 6 5 3 - - ,6 3 2 2 0
+,6 2 1 - 0 ,7 ,6 ,5. q3 q,5 ,6 7 ,1 7 ,6 - - q6 q3 2 2 0 q6 q2 1 - - 7 6 ,5. ,3 ,5 ,6 ,7 ,1 ,7 ,6 - - -
+5 3 5 3 - 7 6 7 6 - q1. 2 q,7 q,6 3 - q1. 3 2 ,7 ,6 - 6 - 6. 5 3 2 2 - - - 2 2
+%END

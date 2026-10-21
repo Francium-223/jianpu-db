@@ -1,0 +1,20 @@
+%阮.txt
+% 出处 https://www.jp114.com/jianpu/875244.html
+title=阮
+tag=
+usertag=
+tagroute=
+confidence=0.845
+conf_p10=0.470
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-875244
+%--
+4/4
+subtitle=score
+1 1 2 2 3 4 4 5 5 6 7 7 - 1 1 2 2. 3 3. 4' 4 5 6'. 6. 7' - x 1 - - - - - - - - - - - -
+- - 3 7 - 4 5 2 - ,x' 1 - 1 q4 5 - - - q1 - - - q1 - - - 1 2 3 q7 q1 - - - - - - - qx -
+- 6 2 3. x 5 7 2 3 1 q1 q2 q3 q5 6 q7 0 - - - qx - - - - q1 q2 q3 q4 q5 - - - - - - - - - -
+qx - - - - - q1 q1 q2 q7' qx' q4 q5 q3' - - - - - 0 1 q1 0 qx. q3 q1. q6 q4'. q7 - - - - - - - - - ,1 1'
+1' - - - - - - - - x
+%END

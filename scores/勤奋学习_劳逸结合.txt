@@ -1,0 +1,18 @@
+%勤奋学习_劳逸结合.txt
+% 出处 https://www.jp114.com/jianpu/1222097.html
+title=勤奋学习 劳逸结合
+tag=
+usertag=
+tagroute=
+confidence=0.993
+conf_p10=0.987
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1222097
+%--
+4/4
+subtitle=score
+q5 s3 s5 q3 q1 3 - q5 s3 s5 q3 s2 s1 ,6 - s,6. s1 q2 q3 s3 s5 s3 s2 3 s3 s5 s2 s1 s6 s1 s3 s5 ,6 - q1 q1 q7 s6 s5 s3
+s5 s3 s2 1 s1 s1 s2 s3 q5 q1 3 - s3 s5 s2 s1 s6 s1 q,5 ,6 - q3. s5 q6 q7 q1 s7 s6 5 q7 q6 q5 s4 s3 2 - q3. s5 q3 q1
+,6 - q1. s1 q7 q6 s3 s5 3. s5 s5 s1 s1 q3 q1 1 - 6
+%END

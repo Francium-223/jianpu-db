@@ -1,0 +1,18 @@
+%康定情歌_3.txt
+% 出处 https://www.jp114.com/jianpu/1191221.html
+title=康定情歌
+tag=
+usertag=
+tagroute=
+confidence=0.926
+conf_p10=0.732
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1191221
+%--
+4/4
+subtitle=score
+1 ,6 3 x q1 1' x q,6' 2'. q5' 3'. s2' s1 6'. q5' q3' s2' s3 s2 s1' q2' ,6'. x q3' q5' q6 s6' s5' q6. s3 2 q3' q5' q6 s6' s5' q6' 3'. q3' q5'
+q6 s6' s5' q6 q3 2 q5' q3' s2' s3' s2' s1' q2' ,6'. q,6' 2'. q5' 3'. s2' s1 ,6'. q5' q3' s2' s3 s2 s1' q2' ,6'. q6' 2'. q5' 3'. s2' s1 ,6'. q5' q3' s2' s3
+s2 s1' q2 6'.
+%END

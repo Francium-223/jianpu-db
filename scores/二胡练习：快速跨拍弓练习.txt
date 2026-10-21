@@ -1,0 +1,19 @@
+%二胡练习：快速跨拍弓练习.txt
+% 出处 https://www.jp114.com/jianpu/1188108.html
+title=二胡练习：快速跨拍弓练习
+tag=
+usertag=
+tagroute=
+confidence=0.859
+conf_p10=0.546
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1188108
+%--
+4/4
+subtitle=score
+,,1' q,1' 7 6 1' ~ q1' ,1' 7 q,,6 q1' - - ,1' 7 6' 7 6 ,3 s6 7' ,,7' 7 s,1' s7 6 7 1' 1' q1' q,1' s7 s3 0 1' 2' ,1' ,,1' ,1' 7
+q,6 q7' q1' s2' q3' ~ q3' 7'. 1' 7' 2'. q6 7' 7 q7. 6 s7 s7 7 7 7' 1' ,,2' 3' s,6' - q,,5' ,7' 1' 6' 7' 1' 2' q,,7' q7' 1' q2' s1' q3 7
+q,7 7 3 q7' q7'. q1'. q7 1' 7 - - 0 q1' 2' 3' - - q2' s1' q7 q5' - - q2' q1' sx' - s5' - s4' q1' 2. 2' 7' 6' q3 5 3 6 6
+3' 5' 3' 6' q6' ~ 6 q0 q3 q0 0 -
+%END

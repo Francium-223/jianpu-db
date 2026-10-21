@@ -1,0 +1,21 @@
+%亲亲的中华_2.txt
+% 出处 https://www.jp114.com/jianpu/1237214.html
+title=亲亲的中华
+tag=
+usertag=
+tagroute=
+confidence=0.918
+conf_p10=0.684
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1237214
+%--
+4/4
+subtitle=score
+2 4 x x. x x x x 1 3. 3'. s2' s1' q2' 5'. d5 s1 s2 s3 q2. s1 s2 s3 s2 s1 q,5 q1 q1' q1' q1' s6 s5 q4 s3 s2 1 q5 s1' s1' q2'.
+s6 5 - 5. 5. q,5 q5 5. 5. x q5 s5 s5 s3 s4 q5 q0 s3 s4 q5 q1 1 - q1 qx q,5 q5 2. 2. x q1 q5 s2 s2 s2 s1 q,6 q0 s2 s1
+q2 q3 3 - q3 qx q5 q1' 1'. q1' q2' s1' s1' s6 q6 q0 s1' s6 q5 q6 ~ 6 - q6 qx q5 2. 2. x q2 q6 s5 s5 s3 s2 q1 q0 s3 s2 q1
+q5 5 - - ,,x 3' s3' s2' q1' q3' s3' s2' q5 s1' s1' q1' s6 s5 6 - 3' s3' s2' q1' q3' s3' s2' q5 s1' s1' q1' s6 s5 4 - q3. s2 q1 q,5 q5
+s3 s2 1 s3 s3 s3 s2 q1 q,5 q5 s3 s2 3 q1' s1' s1' q2' s6 s5 4 - q2 s2 s2 q2 q5 q2' q2' q2'. s6 5 - 5 - q2. q2 s2 q2 q5 q2'
+q2' q2' q6 - 1' -
+%END

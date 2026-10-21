@@ -1,0 +1,19 @@
+%庄严的选择.txt
+% 出处 https://www.jp114.com/jianpu/922046.html
+title=庄严的选择
+tag=
+usertag=
+tagroute=
+confidence=0.984
+conf_p10=0.973
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-922046
+%--
+4/4
+subtitle=score
+sx x x x qx qx qx qx qx 3 - 4 5 0 0 0 0 5. q4 5 6 5 6 7. q6 ,7 q1' q7 q1' - 2' - - - 2' 0 2 2 2 2
+2 0 0 q5 - 3 q5 q5 ~ 5 q0 2'. q1' 3 5 5 3 6. s7 q6 5. 1 q2 s3 3 q3 q6 5 3 0 2 - - - 3 q5 s5 5 q5 2.
+s1 1 q7 q1 7 6 5 4 3 6. 6 6 7 7 q,1' 2' - - 3 5 s5 5 0 2. 1 1 3 5 s5 s3 s6. 7 q6 5. q1 s2 q3 3 q6 6
+,6 5 3 2 3 s5 s5 q5 q0 q2. q1 q1 q7 s1 q7 6 q5 q4 3 6. 6 6 7 1' 7 1' 2' - - 3' 3' 3' 2' 3' ~ 3' 6 1'
+%END

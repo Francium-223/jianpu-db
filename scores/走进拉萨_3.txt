@@ -1,0 +1,18 @@
+%走进拉萨_3.txt
+% 出处 https://www.jp114.com/jianpu/1231004.html
+title=走进拉萨
+tag=
+usertag=
+tagroute=
+confidence=0.720
+conf_p10=0.423
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1231004
+%--
+4/4
+subtitle=score
+,,1'. ,1'. 1' q1' q1' ,1' s,,1 ,,1 q1' 1' 1' qx' q3'. q2 3' 2 q2 q3' q3' q3' d,,5 5' 0 ,5' 2' 1 6 q,3 5' q2' q,1' ,2' ,6' 1 q1 1' q1 x' x s1'
+dx' 0 ,,,1' 1' x d1' dx q1 0 h6 ,3 h,1' d1' s5 s5 h3' s6' 0 h5' h6'. h3 h2' h,,,1' 1 ,6' h,,,1' h,1' 1 q1 d1. h,2'. q2' d1'. d1' h,2' h,2'. h,2'. s2 h,2'. h2'.
+q2' h,,3' h,,3' h,,3' h,,3'. h,,3' h,,3' s3 h,,,1. h,,,1 h,,1 h,1' h,1' h,,,1 h,1'. h1'. h1'. h,1'. h,,,1 h,1'. h1 h,1' h,,1 h,,,1' h,,,1' h,,1 h,,,1' h,,1' h,1' h,,1' h,,,1
+%END

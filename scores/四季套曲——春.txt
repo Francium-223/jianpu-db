@@ -1,0 +1,23 @@
+%四季套曲——春.txt
+% 出处 https://www.jp114.com/jianpu/1187988.html
+title=四季套曲——春
+tag=
+usertag=
+tagroute=
+confidence=0.927
+conf_p10=0.704
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1187988
+%--
+4/4
+subtitle=score
+1 0 0 x 5 2 x x x 1' x 0 0 1 2 3 1 ,5. d2 q5 q5 q2' 5' - - - - s1' - s5' s6' s5' s1' s5' s6 s6' s5' s1' s5' s6'
+s5' s1' s5' s6' s5' s1' s5' s6' s5' s1' s5' s6' s5' q5' q5' q5' 5'. q6' q3' q5' q6' 3' 5' 3' 5' 6' ,5' s3' 5' 3' s2' s1' s3' s6 s5 s3 s5 s3 s1 s,6
+s1 s,6 s,5 5' 0 s6 s5 s3 s5 s6 s5 s3 s5 s6 s5 s3 s5 s6 s5 s3 s5 s6 s5 s3 s5 s6 s5 s3 s5 s6 s5 s3 s5 ,6 5 3 ,5 1' ,5 ,5
+6 6 ,1' ,1' ,1' s1' s1' - s5 q5 q3 q5 q6 q2' q3' 5' 5' - q6' q1 s5 s1 s5 q,1 q5 4 s3 d2 d5 d2 d5 s2 s1 q7 q6 q2 q5 s2 s5 s2
+s5 q2 q1 ,7 q,7. s3 q2 q1 q,7 q,6 ,5 - 2. - 5' - 2' - 5' - q0 x - - - - 5' x 5' x 0 0 x x - 5 - 1. 1'. q1
+q5. q6 q5 q2 q5' q5 q1 2 - ,5 5 - 1'. q6 q2' ,2' q6 q5 4. q3 q2' q1. s2 q4 0 - q3 q2 q1 s2' s5' s0 s,7' s,6' ,5 - - 0 0 0
+0 6 q2'. s2' q2'. q2' q2' q2' q1' x' q7 q6 x q1. ,2 q4 q3 q2 q1 2 q1. ,7 ,7 ,,6 ,5 0 x 5. q1' 4. s3 s2' 1. 2' q5' 0 q5 q2 q5 ,7
+x q2 q5 4 ,7 x s4 s3 s2 s5 ,7
+%END

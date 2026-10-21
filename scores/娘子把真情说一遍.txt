@@ -1,0 +1,21 @@
+%娘子把真情说一遍.txt
+% 出处 https://www.jp114.com/jianpu/862353.html
+title=娘子把真情说一遍
+tag=
+usertag=
+tagroute=
+confidence=0.956
+conf_p10=0.898
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-862353
+%--
+4/4
+subtitle=score
+q0 q0 0 q3 q3 q1 6 q4 q3 s2 s3 q1 q0 q2 ,7 6 7 5 6 6 qx s1 q7 q7 6 6 q3 q3 q2 q1 6 s1 s2 3 q3 s2 s1 q6 s1 s2
+s3 s1. qx d2 d2 q7 q7 q6 q6 q5 q6 q1 x s1 s2 q7 q6 q5 q6 q1 s2 s3 s1 q7 q6 q6 qx q5 q5 q3 q3 q5 q5 6 6 s3 s3 s2 s2 x
+q1 q2 3 x s3 s2 s1 s2 q3 qx q1 7 6 q5 q3 s2 q7 ,6 q3 q6 s1 q6 s1 s2 s3 1 x q7 q6 q5 q6 q1 qx q3 q3 s2 s3 q6 s1 5.
+q6 1 q0 q2 3 5 s2 q7 q6 q3 5 5 qx q7 q7 q6 q6 5 5 qx q7' q7 q6 q6 7 5 ,6 q3 q6 s1 q0 q3 x 5 q6 s1 q3 6 s3 q6
+q1 1 x q7 q6 q5 q6 q1 q0 q3 q3 q3 6 q5 q3 s2 s1 q6 s1 s0 s2 q7 s2 6 q6 q3 5. q6 1 q1. s3 2 q3 q2 q3 q6 s1 q3 q6 s1
+s2 s5 s3 s2 1 x q7 q6 q5 q6 q1 q2 s1 q6 q6 q3 q3 s5 s5 s3 s5 s3 s2 s1 q6 q6 q2 q7 ,6 ~ 6
+%END

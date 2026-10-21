@@ -1,0 +1,18 @@
+%巴黎之歌.txt
+% 出处 https://www.jp114.com/jianpu/807317.html
+title=巴黎之歌
+tag=
+usertag=
+tagroute=
+confidence=0.978
+conf_p10=0.951
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-807317
+%--
+2/4
+subtitle=score
+q0 q3' q3' q3' q3'. s2' q0 q2' q2' q2' q2' 6 q0 q5 q5 6 7 q1' 2' - x' 0 q0 1' 1' q1' q1'. s7 6 q0 q,7 q7 q7 q7. s6 5 q0 q6 q6 q6
+q6. 4 q0 q2 q,,,3 q4 q3. s2 5 q0 q1 q1 q1 1. q7 6 q0 q7 q7 q7 q7. q6 5 q0 q6 q6 6 6. s5 4 q0 q2 q3 q4 q3 q2 1 1 q1. s1
+4. 5 6 - 6 1 q7. s1 7 6
+%END

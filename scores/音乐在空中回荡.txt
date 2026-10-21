@@ -1,0 +1,17 @@
+%音乐在空中回荡.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=45793
+title=音乐在空中回荡
+tag=
+usertag=
+tagroute=
+confidence=0.933
+conf_p10=0.700
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-45793
+%--
+4/4
+subtitle=score
+,5 3 3 3 3 4 - 3 - q2 2 q2 2 3 2 1 - - ,5 3. x 3 3 3 3 4 - 3 - q2 2 2 2 3 2 1 - - 0 ,6
+1 4 ,6 ,5 1 3 - 3 2 ,7 ,5 2 ,7 ,5 - ,6 1 4 ,6 ,5 1 3 3 q3 3 2 ,7 ,5 1 - -
+%END

@@ -1,0 +1,21 @@
+%我亲亲的娘娘滩.txt
+% 出处 https://www.jp114.com/jianpu/1203300.html
+title=我亲亲的娘娘滩
+tag=
+usertag=
+tagroute=
+confidence=0.884
+conf_p10=0.577
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1203300
+%--
+4/4
+subtitle=score
+x q3 3 q3'. q3' q1' q6. q6' q3' 7 6 3 6 5. 7 6. 6 5 ,4 3 5 3 5 3 5 3' - q1' - qx q5 ,5 3 - - 7 7 6 3 5
+5 6 5 - 0 - - 5' 5' 6' 4' 5 5 6 6 5' q3 5 3 - ,5 q3 - 3 - 6 5 6 - q1 q7. 6 q4 5 5 6 5 q3 ,5 3'
+- q7' 5 3' 3' 3'. 3'. 3' 3' 6. - 3'. 7. ~ 7 6. 6. 3 5 6 5. - q7 q6' q6' 4 3' 5 5 3 5 6 7 7 6 6 7' 7 5 3'
+3' 3' 3' ,7 1' 3' - 3 7 6 3 5 6. - 7 6. 6' 1' 5 3 q5 3' q3' - q3' q7 q6 q5' q6. q,,1' q3 3' 3' 3' 3' q1 5' q,3' 3' q1
+x' 3' 1. 3' 6 6 6' 6' q3'. 1. 1'. 7 s7 7 7' 7' 1'. 7' q6' q6 q6' q5 q5 q5 q,6 6 q1' q5 3 3' s5. s5' s5' s3' q3' s,1 s3' qx qx' q1
+q6 q6 x 1 1. - 0
+%END

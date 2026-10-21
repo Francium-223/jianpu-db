@@ -1,0 +1,17 @@
+%风儿玫瑰.txt
+% 出处 https://www.jp114.com/jianpu/1108202.html
+title=风儿玫瑰
+tag=
+usertag=
+tagroute=
+confidence=0.894
+conf_p10=0.599
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1108202
+%--
+4/4
+subtitle=score
+1 q4 1 x 1. x s,,x. x'. x - 1 2 3 0 7. - 2' 3. 3'. q2' q1' q3' 2' 3' 2' 1' - 1' 7 q1' q7 6 - q4 3 0 6. - s4 3
+2. 7 q3' 3' 7 q1' q7 6' - 6' - 6 0
+%END

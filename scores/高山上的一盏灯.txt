@@ -1,0 +1,17 @@
+%高山上的一盏灯.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47473
+title=高山上的一盏灯
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.997
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47473
+%--
+3/4
+subtitle=score
+5 5 3 3 5 6 6' - - 6 6 1 5 5 3 3 - 3 - - 3 5 6 6 1 6 5 3 5 3 2 - 2 3 2 1 ,6 ,6 1 2
+2 0 5 5 5 3. 5 6 5 3 - 3 5 6 5 6 1 6 5 3 3 2 2 2 - 2 - -
+%END

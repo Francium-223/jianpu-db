@@ -1,0 +1,19 @@
+%草原颂_4.txt
+% 出处 https://www.jp114.com/jianpu/1396926.html
+title=草原颂
+tag=
+usertag=
+tagroute=
+confidence=0.921
+conf_p10=0.563
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1396926
+%--
+4/4
+subtitle=score
+1 4 x x x x x x q3' q5' 6' 5' q6' q2' qx' qx 3 5. 6 q6. q5 3 6 1' 2' 3' 3' 3 q5. q1' x 3 5. q1 6. 1 q5 6 q5 5
+3 3 3 2 1 6 2. 5 3 6. 5 6 3 2 3 5 3. 2 1 6 1 2 3 3 3 5. 1 6 2 3 5 5 6 5 3 6 6'. 5 3 -
+- - - - - - - - - - - 5 5 ,,6 q1 q2 q1 6 1 2. 3 2 3 5 6. 5 6 3 2 3 5 3. q2 1 6 1 2 3 3 3
+q5. q1 6 - x 6 2' 5' 3 5 5' 3 6 6 -
+%END

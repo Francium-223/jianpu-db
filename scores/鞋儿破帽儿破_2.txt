@@ -1,0 +1,21 @@
+%鞋儿破帽儿破_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=21140
+title=鞋儿破帽儿破
+tag=
+usertag=
+tagroute=
+confidence=0.976
+conf_p10=0.958
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-21140
+%--
+4/4
+subtitle=score
+x 5. q0 5. q0 q1. q2 q2 3 2 q1. s1 6 q1 ,6 ,5 q1. q2 q2 3 2 q1. s1 6 q1 ,6 ,5 5 2 5 6 q1 ,5 ,6 q1 q2 q5 q2 5 ,5
+6 q1 q2 5. q5 q5 q2 q1 ,5 2 ,5 2 ,5 2 ,5 2 x q,6. s1 q1 q,6 ,5 0 6. s1 q1 q,6 ,5 0 5 q2. s4 q3 q2 1 2 - - - q,6.
+s1 q1 q,6 ,5 0 5 q2 q3 2 0 q4. s3 q2 q1 q,6 q,5 ,4 ,5 - - - q1. s1 q2 q2 3 2 q1. s1 q,6 ,6 ,5 q1. s1 q2 q2 3 2 q1. s1
+,6 q1 ,6 ,5 5 - - - q2 q5 q2 5. ~ 5 q2 5. ~ q5 qx q5 q2 q1 ,5 2 ,5 2 ,5 ,5 x ,4 ,5 q2 q5 q2 5. x q5 q2 q1 ,5
+,5 x ,4 ,5 q2 q5 q2 5. q2 q3 q5 x 1 q1 q2 ,6 q,5 q,6 x 1 q1 q2 ,6 6 q1 2 q5. s5 q2 4. q3 q2 1 2 - 5 s2 s2 5 q1
+6 5 ,4 ,5 - - - q1. d1 s2 s2 ,3 q2 q1. d1 q,6 s1 q,6 ,5 q1. s1 s2 q2 3 2 q1. d1 q6 q1 q,6 ,5 x 5 0 0 0
+%END

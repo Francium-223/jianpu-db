@@ -1,0 +1,24 @@
+%到农村去.txt
+% 出处 https://www.jp114.com/jianpu/1585695.html
+title=到农村去
+tag=
+usertag=
+tagroute=
+confidence=0.966
+conf_p10=0.902
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1585695
+%--
+4/4
+subtitle=score
+1 q5 q6 q5 q3 q2 1 - 1 q5 5 q6 5 1 q2 q1 q2 q6 5 - 3 q1 q2 q1 ,6' ,5 5 5 - q5 - 5 q6. s5 q3 q2 3 q2 q1 q,5
+,1 ,5 ,1 s2 q3 6 q5 q1 q,5 s,6 s,5 s,6 s1 ,5 1' q6. s5 q3 q2 3 q2 q1 q,5 s1 s,5 ,1 2 q3 6 q5 q1 q,5 q,5 s,6 s,5' q,6 q,5 - q3. s5
+h2 d3 q1 d1 d,6 ,5 s,6 s,5 q,3. s,5 s6 s5 s3 s2 1 - q6'. s5' q5. q,5. ,6 q1 q2 d3 d2 d3 d5 d2 s1 q,6' ,5. s,6 s3 q,5 - q6 s1 s3 d2 d3
+s5 q,6. d7 qx s,6' q,5 s,3 q,5 d,6 d2 s3 q5 3 - q1 s2 q3' q6 5. 6 4 0 3' 2 3 2 5 6 2 7 6 5 x 0 0 6' 0 5' 3 0
+5' q6 qx 1 2 5 3 2 1 6' 5 5 6 1' 5 6 5 3 2 ,6 q1 s2 q1 s2 s,3 s,2 s,3 q,5. s,3 s2 h,5 s,6 s2 q1 q5 q6 q3. s2 3 q,5
+q5 d3 q4 q3 s2 1 q2 s6 q6 s5 s3 5 q6 - 5 q6 s1' q5 5 q6 q5 s6 q3 q2 1 q,5 q5 s6 q5 q1 q2 q6 5 q3 q1 d2 s3' d2 d,6 ,5
+1. 5 ~ 5 - q5 - 5 q6. s5 q3 q2 3 q2 q1 q,5 ,1 ,5 s1 s2 q3 6 q5 q1 q,5 ,6 ,5 s,6 s1 ,5 - s2' s3' s2' 1' s2' s3' 1' ,1' 6
+s5 s1' s1' s2' s6 s1 s6 s5 s3 s5 s6 s1 s5 s6 s5 s3 s2 s3 s5 s6 s1 s1 s5 s5 s5 s5 s6 s6 s5 s6 5 q6 5. q6 q5 s6 s6 q4 s6 s6
+q5 s6 s6 q4 6 s6
+%END

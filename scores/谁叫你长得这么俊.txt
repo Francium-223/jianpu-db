@@ -1,0 +1,18 @@
+%谁叫你长得这么俊.txt
+% 出处 https://www.jp114.com/jianpu/1235191.html
+title=谁叫你长得这么俊
+tag=
+usertag=
+tagroute=
+confidence=0.984
+conf_p10=0.939
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1235191
+%--
+4/4
+subtitle=score
+q5. 5 q5 5 5 1 1 2 5 5 - 5. 5 2 2 5 1 - 1. 7 6 5 2 5 5 1' 5 5 - x 2 5 2 1 7. 1 2 - 2 -
+5. 5 5 2 5 1' 5 5 - x 2 5 2 1 ,7. 1 2 2 5 1 7 6 ,5 1' 5 1' 6 5 4 2 5 1' 1' 5. 1' 4 3 2 1 -
+1' - 1' - 2'. 1' 7 1' 2' 1' 5 - 5 - 2' 2' 1' 7. 2' 2'
+%END

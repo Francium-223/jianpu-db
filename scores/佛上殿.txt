@@ -1,0 +1,21 @@
+%佛上殿.txt
+% 出处 https://www.jp114.com/jianpu/1584665.html
+title=佛上殿
+tag=
+usertag=
+tagroute=
+confidence=0.954
+conf_p10=0.898
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1584665
+%--
+4/4
+subtitle=score
+q1 0 0 1 4 x q1. s6 q2 q1 q6. s1 q5 s2 s4 3 - - q2 q1 q5. s6 q1 q2 q3. s2 q5 q3 6 - 6. q1 q2. s2 q1 q2 q6 q1 q3 s2
+s3 5 - 5. q1 q6. s1' q5 q6 q1. s3 q2 q4 3 - - q2 q1 q3. s5 q6. s1' q5 q6 q3 q2 5 x q1' q1'. s7 q6 q1' q3 s2 s3 q5. s6 q1'. q,x
+s6 q5 q1 q5 q6 q1'. s6 s2'. s1' q1' q6. sx' s1' q5 s2 s4 3 - - q5. s6' q2. s3 q5 q6 q3 s3 s5 q,6' q2 1 - 1. s6 s1 q2. q,x s3 q5 q6
+q3 s3 s5 s6 s1 s2 s3 1 - - 2 2' q1' q6 q1' q3' q2' q3' 1 - - 2 2 q1 q2 q3. s2 q5 q3 6 - 6. q1 5. q6 q1. s7 q6 q1 5
+- 5. q1 q6. s1 q5 q6 q1. s3 q2 q4 3 - - q2 q1 q3. s5 q6 q1 q5 q6 q4 q3 2 - 2. q3 q2. s3 q5 q6 q3. s5 q,6 q2 - 1 - 1.
+- s6 s1 q5. s6 q1' q2' q6 q5 s4 s5 q3 2 0 x. x q3 q2. s3 q5 q6 q3. qx s5 s6 s1 s1 s2'. s3' 1' -
+%END

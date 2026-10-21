@@ -1,0 +1,18 @@
+%你绣的茶花送给谁_2.txt
+% 出处 https://www.jp114.com/jianpu/1377551.html
+title=你绣的茶花送给谁
+tag=
+usertag=
+tagroute=
+confidence=0.953
+conf_p10=0.825
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1377551
+%--
+4/4
+subtitle=score
+1 - - x x x x x x 1 x q1 s1 s1 q1 s1. 1 s1 s1 x 1' s3 q1' s5 s1' q5 q1 s3 s5 q1' s1' s3 s2 1 q1' s5. d1' s3 s2 -
+1 - - q1 s1 - s2 1 q1 q5 q1 s2. s2 3 s2 s1 s3 s5 q1 s1 s1 - q1 s1. - 1 - x x x - - - - q1 q3 3 - q1 q1
+q2 q2 q1 q1 q2 2 1 q1 q1 2
+%END

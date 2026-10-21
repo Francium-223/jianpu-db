@@ -1,0 +1,18 @@
+%伦敦德里.txt
+% 出处 https://www.jp114.com/jianpu/1540618.html
+title=伦敦德里
+tag=
+usertag=
+tagroute=
+confidence=0.939
+conf_p10=0.708
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1540618
+%--
+4/4
+subtitle=score
+,6 1 3 1 5' - 6 5 3 1 3 2 - - 2 ,7 1 2 3 - 2 3 6 5 3 2 1 ,6 ,5 ,6 0 ,7 1 2 3 - 4 3 2 1
+2 1 - 1 5 6 7 1' - - 7 7 6 5 6 5 3 1 - 1 5 6 7 1' - - 7 7 6 5 3 2 - - - 2 5 5 5 3'
+- - 2' 2' 1' 6 1' 5 3 1 1 ,7 1 2 3 6' 6' 5 3 2 1 ,6 ,7 1' - - 1' 0 0 0
+%END

@@ -1,0 +1,20 @@
+%家住黄土塬.txt
+% 出处 https://www.jp114.com/jianpu/1232495.html
+title=家住黄土塬
+tag=
+usertag=
+tagroute=
+confidence=0.979
+conf_p10=0.943
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1232495
+%--
+4/4
+subtitle=score
+1 - - 4 q1 qx ,1 1 1 1 s5 s3 s1 s6 q1' d6 d6 s5 s5 q2 3 s3 s6 q6 s5 s3 q3 s2 s3 s3 s1 2 s2 s3 s1 s2 2 s5 s6 s3
+s7 7 s6 s5 q3 s2 s3 s1 q7 q6 q7 5 ,6 s6 s6 q3 s6 s3' q2' s1' s7 s6 s3 3 s6 s6 s5 s3 s2 s3 q1 s5 s6 q5 5 s6 s6 q6 s5 s3
+s2 s3 s1 q7 q,6 ,6 s5 s3 s6 s5 3 s3 s2 s1 s7 s5 q,6 s3 s5 s6 s3' 2' s1' s7 s7 s6 s6 5 s3 s5 q3 s5 s6 q5 s2 s3 s1 s3 2 s3
+s1 q6 s3 3 s6 s7 s5 s3 3 s6 s5 q3 s2 s3 q2 s1 q7 q6 q5 ,6 s6 s3 s3 s3 s2 s3' q2 s1 s7 s6 s3 3 s5 s6 q3 s1 s1 q6 q6 s2
+s3 q2 2 q3 s1 s2 s3 q5 s1 q7 q6 q5 ,3 q,6 s1 s2 s3 s6 s5 s3 s2 s1 q7 q6 ,6
+%END

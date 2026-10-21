@@ -1,0 +1,20 @@
+%书记带咱向前走.txt
+% 出处 https://www.jp114.com/jianpu/1315009.html
+title=书记带咱向前走
+tag=
+usertag=
+tagroute=
+confidence=0.976
+conf_p10=0.943
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1315009
+%--
+4/4
+subtitle=score
+1 - - - x x x x 0 x x q0 q1 q3 q6 5 - 5 - q,5 q,6 q1 q2 q3 q5 4 q2 s4 s2 s4 s5 q6 q2 5 - 5 - x q1 1
+q2' q,6. s1' q,6 q,5 5 - 5'. q6 q1' 5 q6' 4 q3 q2 1' - 1'. q2 q4 4 q5 q6 q2' q1' s7 s6 5 q6 q2 4 - 4. q3 q2. s2 q2 q1 q,6 q2
+q1 s,6 s1 ,5 - ,5 - - q1 q1 q1 s,6 s,5 2 q4 q6 5 - q6 6 q1' 4 q6 q1' 4 q5 q3 2 - q1 1 q2' q1 q,7 q,6 q1 ,5 - q4 4
+q5 6 q6 q2 4 - 4. q3 q2 2 q1 q,6 q2 q1 s,6 s1 ,5 - ,5 - 5. q6 q1'. s2' q1' q6 5. q1' 4 - q1' 1' q5 q6. s1' q6 q5 4 q5 q6
+q2 q1 2 q1 1 q2 q4 q5 q6 q2 5 - 5. q6 1' 2' 1' 5 1' - 1' -
+%END

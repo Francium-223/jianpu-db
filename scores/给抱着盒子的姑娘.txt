@@ -1,0 +1,18 @@
+%给抱着盒子的姑娘.txt
+% 出处 https://www.jp114.com/jianpu/915240.html
+title=给抱着盒子的姑娘
+tag=
+usertag=
+tagroute=
+confidence=0.976
+conf_p10=0.889
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-915240
+%--
+4/4
+subtitle=score
+0 0 0 q,5 q,6 2. q3 2 q,6 ,5 - - q,5 q,6 5. q6 4 3 - - 0 q3 0 - - 0 0 4 3 2 - - - ,5 0 5 3 2 - 2.
+q3 1 - q,7 q1 q3 q3 q4 6 q3 q3 q5 - q3 4' - q4' q3 3 - 0 q3 q3 q4 q3 q3 - q3 4. ,4 ,3 q1 - q3 4. ,4 ,3 0 - -
+-
+%END

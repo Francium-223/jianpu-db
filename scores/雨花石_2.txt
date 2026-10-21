@@ -1,0 +1,18 @@
+%雨花石_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15065
+title=雨花石
+tag=
+usertag=
+tagroute=
+confidence=0.931
+conf_p10=0.599
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15065
+%--
+2/4
+subtitle=score
+6. 0 7 q6 q,5 6 - q1' q6 s1' s1' 7 7 6 s5 s5 6 x 3 - 6 3 6 4 s5 3 0 3 3 2 1 2 2 - ,x ,x 7 6 ~ 6
+q5 6 - qx 1' 7 q6 5 s6 s6 x 3 - q1 q2 qx 7 q0 3 2 3 ,1 ,1 2 5 - s2 2 - s0 s2 sx - 3 5 6 3 3 2' q7
+3 s5 ~ s5 6 6 - 7 3 s6 6 -
+%END

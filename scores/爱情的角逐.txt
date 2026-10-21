@@ -1,0 +1,21 @@
+%爱情的角逐.txt
+% 出处 https://www.jp114.com/jianpu/890936.html
+title=爱情的角逐
+tag=
+usertag=
+tagroute=
+confidence=0.964
+conf_p10=0.906
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-890936
+%--
+2/4
+subtitle=score
+- x 0 q3 2 q2 3 4 3 q2 5 5 x - x 0 q,5 ,5 ,4 ,4 q,5 ,6 q,5 q,4 ,7 x 0 q7 q6 7 q6 q5 6 q5 q4 5 0 5 q5 5
+4 4 6 5 q4 0 q2 q1 2 q1 q,7 1 ,7 q,6 ,7 0 ,7 q,7 ,7 ,7 q2 4 q3 2 q4 q3 0 q3 q6 5 4 q3 q4 ,7 q2 1 0 3 3 2
+q2 3 1 ,7 0 1 q1 ,7 ,6 q,5 ,6 q,5 q,4 ,3 0 ,5 ,5 ,4 q,4 q,5 x 4 3 2 5 5 0 7 6 7 6 q5 6 5 q4 5 0 5 q5 ,6
+q,5 1 ,4 ,7 q,7 ,7 0 2 1 2 1 ,7 1 ,7 ,6 ,7 - 0 q,7 ,7 x 5 q4 q4 6 q6 q5 5 3 3 3 6 5 4 3 4 ,7 q2 1 ,7
+,7 2 4 q4 3 3 1 1 q1 q1 ,7 q,6 q,5 ,6 q,5 ,4 ,3 x 0 q5 q5 7 q7 q7 7 q1 q7 1 5 q5 q5 7 q7 q7 7 q6 q5 0 q3 q3
+4 q4 q4 4 q5 q4 3 3 3 q3 x q1 qx x qx. q1
+%END

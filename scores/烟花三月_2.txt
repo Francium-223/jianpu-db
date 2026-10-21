@@ -1,0 +1,24 @@
+%烟花三月_2.txt
+% 出处 https://www.jp114.com/jianpu/1226579.html
+title=烟花三月
+tag=
+usertag=
+tagroute=
+confidence=0.944
+conf_p10=0.864
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1226579
+%--
+4/4
+subtitle=score
+q1 - - - - 7 5 - 1 x' x x' x q0 q1 q,7 q,6 q,5. s6 q1 q,6 q1 2 q3 q3 q5 q5 q5 1 q,7 q,6 q,6 4 q5 q3. s2 q2 q2 1 -
+x 3 3 q,5 q,6 1 q2 s2 s3 q1 s1 s6 0 ,5 - q,6. s5 q,6 q1 q5 s3 s2 3 q5 q3 s3 s2 q1 2 - 3 3 q,5 s5 s6 1 q2 s2 s3 q1
+s1 s6 0 0 ,5 - q,6. s5 q,6 q1 q5 s3 s2 3 q5 q3 q,6 s5 s6 q1. qx s5 s3 s5 q2 q1 s6 s1 1 q3 s2 s3 5 s6 s1 s5 s6 s5 s3 q2
+1 - x q5 3 q5 q6. q6 q5 q3 s2 q2 s3 s2 s1. q,6 ,5 - q,6 q,6 q,5 q,6 q2 s5 s3 q2 q1 s2 s2 s2 s3 s2 s3 q1 2 - q5 3 q5 q1.
+q6 q5 q3 s2 q2 s3 q2 q1 s6 s1 s6 s5 ,6 q0 q,5 q,3 q,5 q2 s5 s3 q2 q1 s2 s2 s2 s1 q2 q3 5 - 5 - - - 5 6 x q5 5 q6
+1' q1'. s1' q1' q1' q1' s6 s5 5 - q5 5 q6 1' q1'. s1' q1' q1' d1' s3 s2 2 - q3 3 s5 s6 q5 s3 s2 d1 q1 q2. s3 s2 s3 q,5 q,6. s5 q,6
+q,5 5. q3 3 - s2 q2 s2 q2 s2 s3 q3 s3 s2 1 x q2. s3 5 q2 s5 s3 q2 q1 q2 q3 q3 q,5 s6 s1 q,5 ,6 q1 s6 s1 2 q3 s2 s3 5
+q,6 q4 s3 s5 q2 1 - x. s2 q2 s2 q2 s2 s3 ~ q3 s3 s2 1 s2 q2 s2 q2 s2 s3 s3 s2 1. 5. q6 3 - q2 qx q2 q2 q3 s3 s2 1.
+1 - - -
+%END

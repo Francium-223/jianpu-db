@@ -1,0 +1,17 @@
+%龟兔赛跑.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=39014
+title=龟兔赛跑
+tag=
+usertag=
+tagroute=
+confidence=0.916
+conf_p10=0.523
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-39014
+%--
+2/4
+subtitle=score
+1 - - 2 - x x ,x x x x x q5. q3 q5. q3 3. 2 1 2. 2 1. 2 3 - 5. q5 3. 5 3. 2 1 2. 2 3. 2 1 - 5. 5
+5. q5 q6. q6 6 1'. q1' q1'. q6 5 - 6. 6 q1' 6 q5. q5 3. 3 q2. 2 q3. q2 1. 0
+%END

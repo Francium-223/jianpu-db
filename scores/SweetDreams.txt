@@ -1,0 +1,18 @@
+%SweetDreams.txt
+% 出处 https://www.jp114.com/jianpu/823787.html
+title=SweetDreams
+tag=
+usertag=
+tagroute=
+confidence=0.932
+conf_p10=0.683
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-823787
+%--
+4/4
+subtitle=score
+0 0 x 6 6 7 0 x 6 6 2'. 7 6 1' 6 1' 0 6 2'. 7 0 6 6 6 2' 7' x 7' 7' 7 6 1' 7. 0 0 1' 6 6 2'. 7
+0 6 6 7. 0 0 6 6 2'. 7 0 6' - - - 6' - 5. 5' - - - - - - - - - - - 6 6 6 0 0 0 6 6 6 0
+0 0 3 2
+%END

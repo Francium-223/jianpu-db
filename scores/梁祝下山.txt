@@ -1,0 +1,17 @@
+%梁祝下山.txt
+% 出处 https://www.jp114.com/jianpu/1145533.html
+title=梁祝下山
+tag=
+usertag=
+tagroute=
+confidence=0.931
+conf_p10=0.608
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1145533
+%--
+4/4
+subtitle=score
+q6 s7 6 5 3 6 s7 q6 q5 3 6 6 5 3 2 - q2' 2' q7 6 7 6 q5 3 2 s3 s2 q7 q6 q6 ,5 3 ,6. q1 2 5 q3 q2 s3 s2
+q7 q6 ,5. q3 q2 q2 q6 q1 q2. q1 2 q0 3 q3 6 2 ,7 q6 ,6 q3 ,5 - 6 7 0 5 x' x' x x x
+%END

@@ -1,0 +1,23 @@
+%祖国_我深深地爱着你.txt
+% 出处 https://www.jp114.com/jianpu/1075037.html
+title=祖国 我深深地爱着你
+tag=
+usertag=
+tagroute=
+confidence=0.846
+conf_p10=0.534
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1075037
+%--
+4/4
+subtitle=score
+qx q1 q1 sx 6 s2 d2 d4 d4 d3 d3 d4 d4 d5 d5 d6 d6 d7' d7' d1'. d2' d2' 3' q0 s2'. s3'. q2' q7 - - - q3 1' q7 s6 s7'. q2'. q3' 6 0
+- - - 0 s1' s1' s1 s4'. s4 s4 s1'. s1' s3' s3 2' 2' 2' 2 q2 q1 - q2 s2 s2 q2 q3 q4 2 q6 5 5 - - q,5 q,6 1 - - - 1
+- - - x q,5 q5 q,6 q1 q5 4 q3 q2 q1' q1' q7 q1' q7' q1' q7' q2' q1. 4 q3' q1 3'. x x 6 3 6 x q5 s5' s5' 6 6' s5 6 s2 q5
+q6' q6' s,6 q1' s1' s1' q1 h1 s1' q4 d6 2 q3 1' s3 q5 5' 5' 4' 4' 5' 5' 4 q2 q0 s1' s1' q4 q1' q4' q3 5 2' 2 2' s1' s1' q2' q2' d1
+q2. s2' s1' s1' q1 d5 s1' s3 q3' q3' q4 q4 q4 q3'. q1'. q3' q5 q1' 1. s3'. d7 q2' q6 q2' q6' s1' h1' q1' h1 h1' h1' q1' q6 q6 h1 q6 s1' q6 q3 s6
+1' 1' - - s1' s1' s4 s3 2 - - - q2 s2 s2 q2 s3 s3 s4 2 q6 5 - - - 3' - q0 s2'. s3'. q2' q7 1' - - - s1'. q3'. s3'. s3'
+q1' q1' s7' s1' s2'. s3' 6 - - - q0 s2 s3 q4 q5 q6 q5 q6 q7 q0 s3 s5 q6 q1' q1' q1' q1'. q3' s2' 0 - - 2'. 3'. q3' 5 q3' s3' 1' -
+- 2' 5' - - 5' - q5' q0 s3'. s2' q1' 1' - - -
+%END

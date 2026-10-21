@@ -1,0 +1,21 @@
+%阿佤姑娘_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=9423
+title=阿佤姑娘
+tag=
+usertag=
+tagroute=
+confidence=0.884
+conf_p10=0.591
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-9423
+%--
+4/4
+subtitle=score
+q1' q1 qx. qx. sx 1 0 q0 0 0 x. 1. - q6 q6 s5 s6'. s2' s1' 6 q5'. q3' q2'. q2' q1'. q3' 6 0 q2'. q2' s2'. s3' 6. q6' 6' - - - q5'. q3
+q5'. q3' ~ 3' s1' s1' 3 - - - q6 q6 s5 s6'. s2' s1' 6 q5'. q3' 4. q4' q4' q4' q2' 3' 0 4 q4' q4' q4'. q2' 3' x' x' - - 3' q5' q3' q5'
+q3' 3'. s1' s1' 6 - - - 6. q6' s6'. s5'. q3'. q3' q6' s6'. s5'. q3'. q5' 2' q6 q0 s3 s5'. s2' 6 - - s5 s6'. s1' s1' 6 - - - x 0 q3' q5'
+q6' q1' 0 q6' q5' 6' q3' q2' 3' q2'. s2'. s3' 2' 1' q5 s1' 6 - - - x x' x x' 1'. 1' x' x'. 0 q2' q5' q6' q1' 0 q6' q5' 6' q3' q2' 3'
+s2' s3' 2' 3' q2' ~ s2'. ~ s2' 3 - - - 0 q1' q1' q2' q1' q6 q1' q2' q3'. q5' q5'. q3' q0 s5' s6' x' - - 3' 7' - - - q5'. q5' q5'. q5'
+5' q0 q3' 6' - - - 6' - - -
+%END

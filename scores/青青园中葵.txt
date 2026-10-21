@@ -1,0 +1,18 @@
+%青青园中葵.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=32381
+title=青青园中葵
+tag=
+usertag=
+tagroute=
+confidence=0.898
+conf_p10=0.484
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-32381
+%--
+4/4
+subtitle=score
+1 q1 q1 x - qx x 1' q2' q3' q7 6 q1' 3. q1' 7 q6 q3 - - q6 1' - q3' 2 - ,7. q3 q2 ,6 q1' ,1 - - - 1. q,6 1 qx q3'
+2 - - - - q3 - q6 q2' q7 6 1'. q2' 3' 3. - 6 1' q7. q2' q7' q3' - q6' 1' - - - 1' q2' q3' q7 6 q1' - q6 - - 3. q1'
+7 q6' q3' - q6 - - - q6 q7' q6' q7 q3' 2' - 3' - q7. s2' q7' q3' - q6' 1' - - -
+%END

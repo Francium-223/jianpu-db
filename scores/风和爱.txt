@@ -1,0 +1,18 @@
+%风和爱.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=7910
+title=风和爱
+tag=
+usertag=
+tagroute=
+confidence=0.948
+conf_p10=0.831
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-7910
+%--
+4/4
+subtitle=score
+- 6 q7 6 - - 5 4 3 q2 q2 3 4 q5 q5 q6 q5' ~ 5 - 6 q7 6 - 5' 5 q2 q2 6 5 q1 ,7' ,7 2 x 1 4 1 - -
+- 1' q6 1' q7 ~ 7 - - - 6 q7 1' q5 ~ 5 - - - - 4 - 6. q6 q7 q6 q5 7 q7 6 q7 6 2' - 2' - - - q1' q1'
+q1' q7 q7 q7 6 0 3 3 4 5 - 0 0 4 7 3 3 2 6' 6' 6' 7 5 6 5 ,7 1 1' 1 7
+%END

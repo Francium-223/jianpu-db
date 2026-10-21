@@ -1,0 +1,16 @@
+%根治松溪河.txt
+% 出处 https://www.jp114.com/jianpu/963706.html
+title=根治松溪河
+tag=
+usertag=
+tagroute=
+confidence=0.988
+conf_p10=0.990
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-963706
+%--
+2/4
+subtitle=score
+q5 5 6 4 3 5 7 2 3 q5 5 6 3 4 3 2 1 - q2 2 5 1 7 6 q5 q5 2 3 ,5 5 6 q7 2 7 6 3 ,5 -
+%END

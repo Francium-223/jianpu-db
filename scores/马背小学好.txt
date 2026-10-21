@@ -1,0 +1,18 @@
+%马背小学好.txt
+% 出处 https://www.jp114.com/jianpu/956304.html
+title=马背小学好
+tag=
+usertag=
+tagroute=
+confidence=0.977
+conf_p10=0.945
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-956304
+%--
+2/4
+subtitle=score
+5 5 7 ,1' 1' 5 1' 6 5 4 5 5' 1 5 1 1 1 2 3 6 5 3 5 2 7 1. 7 q6 q5 1 q5 q1 5 1 q5 1 x 1 5 6
+1 2 3 4 x 5 q5 6 5 4 3 5 q2 3 2 7 1 - 5 5 5 6 1. q7 q1 q2 q7 1 0 7 1' 2' 7 1' 1' - 5 5 0 6
+1'. 2' 1' 6 1' 5 0 6 5. 6 q7 x 5 5' 0 5 4 3 1 1 1 2 3 2 q3 4 5 5 5 5 5 6
+%END

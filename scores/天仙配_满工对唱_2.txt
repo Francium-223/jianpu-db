@@ -1,0 +1,18 @@
+%天仙配_满工对唱_2.txt
+% 出处 https://www.jp114.com/jianpu/1279012.html
+title=天仙配 满工对唱
+tag=
+usertag=
+tagroute=
+confidence=0.979
+conf_p10=0.960
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1279012
+%--
+4/4
+subtitle=score
+q5 q3 q2 q5' s5 s3' s3 s2 1' 2 q2 q1 q3'. s2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 q6 q2 q3' q,7 q,6' 1 d,6' s1 s,6 s1' d2'
+s3 q1' 0 0 5 5 3 2 3' 5' 6 5' 6 5 3' 2 - 0 5 3' 5' 2' 1 ,6 5 0 0 0 1 ,6 ,5 3'. 5 2' 1' 2 - 1. 6 5
+q6 q5 3 5. 6 1. q2 5 3 2 3 q2 q1 ,6 5 - 1 2. s1 q3' q1 2 q1'. s2' q3 q1' q2 q3 s2 s1 q,6 x -
+%END

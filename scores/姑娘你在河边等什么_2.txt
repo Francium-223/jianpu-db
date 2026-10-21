@@ -1,0 +1,18 @@
+%姑娘你在河边等什么_2.txt
+% 出处 https://www.jp114.com/jianpu/883006.html
+title=姑娘你在河边等什么
+tag=
+usertag=
+tagroute=
+confidence=0.982
+conf_p10=0.940
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-883006
+%--
+3/4
+subtitle=score
+q5 q1 s3 s2 q1 s6 s1 s2 s3 5 s6 s1 s2 s6 1 5 2. s6 s3 q5 q5 s3' s2' q1' s6 s2' s3' 5 s6 s2' s6 s6 s5 1 - 5 q5 q1 q3 q2
+q1 q6 q1 q2 q3 5 q6 q1 q2 q6 1 s6 s5 2 5 q5 q1 s3 s2 q1 s6 s1 s2 s6 1 q1 s6 s5 1. 5. 5. q5 q1 s3 q2 q1 s6 s1 s2 q3
+5 s6 q,1 s2 s6 1 s6 s5 2. s6 s5 5 5.
+%END

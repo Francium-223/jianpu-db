@@ -1,0 +1,19 @@
+%画祖国.txt
+% 出处 https://www.jp114.com/jianpu/1452186.html
+title=画祖国
+tag=
+usertag=
+tagroute=
+confidence=0.956
+conf_p10=0.821
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1452186
+%--
+2/4
+subtitle=score
+qx - - q1 0 6 1 x. 1. x q5 s3' s3' q3' q3' q5 s2' s2' q2' q2' q5 s5 s5 - 1' 0 x 5 q1'. s6 5 - 3 q2 q3 1 - q6 q6 q4
+q6 1 q7 q6 5 - 5 - 6 7 1. q6 5 q1 q3 2 - q5. s6 q5 q3 q6 6 q0 2'. s5 s6 1' - 1' - 3'. q2' q1 q7 q6 q3 5 q5. s6
+5 - 6. q7 1 q7 q6 5 q1. s3 2 - 3'. q2' 3' - 2' q7 6 - q5. s6 q5 q3 q2' q0 q5'. s6 1' - 1' - 3'. q2' 3' - 2' q1' q7 6
+- q5. s6 q5 q3 2' - 2 - 2 q5 q6 1 - 1 - 1 - 1 0
+%END

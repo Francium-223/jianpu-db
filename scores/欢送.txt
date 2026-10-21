@@ -1,0 +1,20 @@
+%欢送.txt
+% 出处 https://www.jp114.com/jianpu/970717.html
+title=欢送
+tag=
+usertag=
+tagroute=
+confidence=0.863
+conf_p10=0.583
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-970717
+%--
+2/4
+subtitle=score
+q6 1 q4 2 ,4 2 ,4 ,5 ,6. 0 6 ,6 7 ,2 x 5 5 3 2 1. q2 ,3 3 6 5 ,,3. q5 ,x q,6 5 ,5 ,3 ,2. 5 q5 q4 ,2 5 ,5 ,3
+,5 1. 2 7. 6 5 3. 5 6 5 4 3 2. 5 4 q3 2 ~ ,2 ,3. - 2 2 ,2 2 ,2 ,1 2 q1 6 5 q3 x - - x x 1 5 x
+qx - - 6' ,x' 3 5 5 x' q1' 1 5 ,1' 5 3 5 ,1 5 1. q5' 3' 2' 1' ,,2' ,,3. 2' q,,5' q,5' 2. q5' s2. sx' x'. qx' q6 ,x q5 q,,6 s,,2 5
+,x' 5 ,5 ,1' 3 5 q1 ,5 5. ,2 ,1 q,3 2 q5 ,5 ~ ,5 2 5 ,5 2. ,x' x x 5 x' 1'. x'. ~ x' qx' x 1' 6' ,1' 1' 1' q3 5 5
+q3 5 1'. 1'. ,3 5 2' q2' q,5' q3 2. 3' 2' 5' ,3' q2' s5' s1' q0 2. 5 1' - x -
+%END

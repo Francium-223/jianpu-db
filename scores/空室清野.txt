@@ -1,0 +1,18 @@
+%空室清野.txt
+% 出处 https://www.jp114.com/jianpu/1506050.html
+title=空室清野
+tag=
+usertag=
+tagroute=
+confidence=0.957
+conf_p10=0.817
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1506050
+%--
+2/4
+subtitle=score
+q3' q2' q2' q2' q1' 6 5 5 3' 2' 2' 6 2' - 3' q2' 2' 2' 6 5 q1' q6 q5 q6 q3 2 2' 2' 6 5 3 2' q3 5. q3' 2' q0 0 q3' q,3
+q1' q1' 2' 3' 1' 2' 2'. q2' 3' 5' 2'. 3'. q2' q3'. 2' 1'. 2' 3' 2' 2' 2' q2' 6 - 3' 2' 3' 2' 2. 2' ,,5' 2'. 3'. 2' 3'. q2' 1'. 2' 3' 2'.
+2' 2' 2' 6 5 -
+%END

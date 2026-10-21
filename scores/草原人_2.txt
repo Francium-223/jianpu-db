@@ -1,0 +1,20 @@
+%草原人_2.txt
+% 出处 https://www.jp114.com/jianpu/1231384.html
+title=草原人
+tag=
+usertag=
+tagroute=
+confidence=0.919
+conf_p10=0.571
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1231384
+%--
+4/4
+subtitle=score
+qx' q1 qx' qx' sx 5 6 4 1 x. x 1 x' x 6. s1' s2' 2' - q2'. s3' q5 s6 s5 3 - q6. q6 q,6 s2. d3 s1 s2 3 s3 q3 s6 s2 s3 s1
+s2 ,6 - x q3. s5 q6 s6 s1 s2 d3 s1 s2 q1 q,6 q5. s3 q5 s6 s1 s6 s5 6. q6. s2' q2' s2'. s3' q2 s2 s3 q1 q,6 q2. s3 s1'. s5 s6 q5 3.
+q3. s5 q6 s1' s2 s3 s1 s2 q1 q,6 q3 s6' s1' q6. s5 2 - s1 q1 s2' q3. s3' s5' s6' s1' s5 s6 q6 q,6 s2 q2 s3 s2 s3' s1 s2 ,6 - 6. s1'
+s2' 2' - q2'. s3' q5 s5 s6 3 - q6. q6 q3 s2. d3 s1 s2 3 s2 q2' q2 s2 s3 q5' q5 s5' s5 s6 x 3 - s3 q3' q3 q3' s6 s2. d3' d3 d1'
+s1 s2 x ,6 - x ,6 - 1 - q2 s3 q1' s1' s2' x
+%END

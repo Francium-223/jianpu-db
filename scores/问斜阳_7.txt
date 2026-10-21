@@ -1,0 +1,19 @@
+%问斜阳_7.txt
+% 出处 https://www.jp114.com/jianpu/1262102.html
+title=问斜阳
+tag=
+usertag=
+tagroute=
+confidence=0.980
+conf_p10=0.935
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1262102
+%--
+4/4
+subtitle=score
+3 q5 q6 6 - q5 q6 5 3 3 3 2 q3 5 3. 3 2 1 ,5 ,6 - ,6 q1 q2 2. q2 q2 q2 q3 q2 1. q1 ,7 5 7 ,6 - ,6 - 0
+0 3 q5 6'. 6 - q5 q6 5 3 3 3 2 q3 q5 3. 3 2 1 ,5 ,6 ,6 1 q2 2. q2 q2 q2 q3 2 1. q1 ,7 q,5 q,7 ,6 - ,6 - 0
+0 q3 2 q1 1 - q3 5. 6 5 4 q6 7. 5 5 5 3. q3 q3 4 3 2 - 2 3 2 1 - ,6 1 5 - 5 5 3 - 3 q2 q1 1
+- q3 5. q6 q5 4 q6 7. ,,5 - 5 5 3. q3 q5 6 5 3 3 5 6 6 5 6'. 5 3. ,,,3 ,5. 6. ,,,6 q5 q6 5 3
+%END

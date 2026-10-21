@@ -1,0 +1,20 @@
+%飞行船.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=34833
+title=飞行船
+tag=
+usertag=
+tagroute=
+confidence=0.914
+conf_p10=0.686
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-34833
+%--
+4/4
+subtitle=score
+x 3' 1 1' q7 q7 6 ~ 6 - - qx 7 1' 3' 1' 1' 1 6 6 - 6 q,7 1' 2' 1' 3 4 - - 3 1 1 - - - - x 3 3
+3 1 1 q3' 3 3 3 3 2 q1 ,1 2 3 3 ,6 2 ~ 2 - 2. ,1 ,7 ,1 ,x 1 2 2. q3 ,1' x 3 - - - 3 3 q3 1 1 q3
+~ 3 3 ~ 3 3 2 1 q1 2 3 3 6' 2 1. 2 2' 1 7' 1 2 2' 2 2 ,1 ,7 ,1 ~ ,1' ~ 1 - 1 4. 4 4 ,6 0 2 -
+- 2. ,2 2 2. 2 3 3 - 4 1 4 3 2 2. ,2 ,1 2 3 3 - - - 3 - 4. q4 4 0 1 2 - 2 2 2 2 2 2 q3 5
+5 3 ~ 3 4 4 4 3 2 2 ,1 2 ,1 1 - 1 - - x x
+%END

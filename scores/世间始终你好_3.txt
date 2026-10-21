@@ -1,0 +1,20 @@
+%世间始终你好_3.txt
+% 出处 https://www.jp114.com/jianpu/1189976.html
+title=世间始终你好
+tag=
+usertag=
+tagroute=
+confidence=0.960
+conf_p10=0.881
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1189976
+%--
+4/4
+subtitle=score
+1 3. q5 - 6 q3 q5' 6 5 3' 2. q1 2 - 2 - - - ,6. q1 2 - 2 q1 2 q1 q2 3. q5 3 - 3 - - - 3. q5 6 - 6
+q3 q5 6 q5 q3 2. q1 2 - 2 - - - ,7. q2 3 - 3 q2' q3 2 qx ,7 ,3' ,5 ,6 - - - ,6 - - ,6 - - 7 - - 6 5
+- - 3 q2 3 - - 6 5. q4' ~ 4' 2 7. q6 ~ 6 - 0 7 5. q3 6 - - - - - 0 3. q5 6 - 6 q3' q5' 6 q5' q3' 2.
+q1 2 - 2 - - - ,1 2 - 2 ,6 q1 2 q1 q2 ,7 - - ,5 ,1 - - - ,6 - - 6 2' - - q2' 7 - 5 - 6 - - -
+- - 0
+%END

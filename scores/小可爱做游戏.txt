@@ -1,0 +1,17 @@
+%小可爱做游戏.txt
+% 出处 https://www.jp114.com/jianpu/1229520.html
+title=小可爱做游戏
+tag=
+usertag=
+tagroute=
+confidence=0.950
+conf_p10=0.871
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1229520
+%--
+4/4
+subtitle=score
+1 - - - 1' 4 x x'. 1 q5 q5 q5 q5 5 3 6 q5 q6 5 - q5 q5 q5 q3 2 q2 q3 1 - 1 - 5 q5 q3 5 - 6 q5 q6 5
+- 6 q5 q6 5 - 3 q2 q3 2 - 2 q2 q3 5 - 3 q2 q3 1 - ,5 q,5 q,6 3 q2 q3 1 - - -
+%END

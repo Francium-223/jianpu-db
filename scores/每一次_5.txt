@@ -1,0 +1,21 @@
+%每一次_5.txt
+% 出处 https://www.jp114.com/jianpu/1312324.html
+title=每一次
+tag=
+usertag=
+tagroute=
+confidence=0.937
+conf_p10=0.764
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1312324
+%--
+4/4
+subtitle=score
+q1 ,1 ,1 sx 6 0 4 4 qx'. ,x x. x. x' x x' x' x x 1 x 1. q5'. s5' q5' q6' 5'. s3'. s5' q6'. s6' q5'. q2' 3' - q5'. s5' q1' s1' s7 6.
+q1' s5 q5 s3 q1' q1' 2' - q5'. s5' q5' q6' 5'. s3'. s5' q6'. s6' q5' q2' 3' - q5'. s5' q2' s5 s6 1. s1' s1' q2'. q2' q1' q6 5 - q2'. s2' q2' q6' 5'.
+q3' q2'. s1' q2 q3' 5 - 3 5 q6 s5 s6' q1. s1' q6. s5 q6 q3' 2' - q2'. s2' q2' q6' 5'. q3' q2'. s1' q2 q3' 5 - 3 5 q6 s5 s6' 1 s2'. q2'.
+s2' q1' s6 s5' 5 - q5'. s5'. q5' q6'. s5' 5'. q3' q6'. s6' q5. q2 3' - q5'. s5' q1' s1' s7 6. q1' s5 q5 s3 q1' ~ q1' 2' - q5'. s5' q5' q6'. s5' 5'.
+q3' q6'. s6' q5'. q2' 3' - q5'. s5' q2' s5 s6 1'. s1' ~ s1' s2'. q2'. q1' s6 s5' 5 - 2'. s3'. s2' 1'. q7 q6 q6' q6'. s5'. s3' 2' - s2'. q2'. q1' s6 s5'
+5 - q2' 2' q6 q1' q2' q1' q6 5 - - -
+%END

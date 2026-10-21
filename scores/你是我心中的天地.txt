@@ -1,0 +1,20 @@
+%你是我心中的天地.txt
+% 出处 https://www.jp114.com/jianpu/1520018.html
+title=你是我心中的天地
+tag=
+usertag=
+tagroute=
+confidence=0.976
+conf_p10=0.966
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1520018
+%--
+4/4
+subtitle=score
+0 0 0 0 q1' q7 q6 q5 ~ 5 q6 q5 q6 q5 q6 q5 ~ q5 q3 ~ 3 q7 q6 q5 ~ 5 q6 q5 q6 q5 q6 q1' q2' 2' q2' q2' q2' 6 0 q5
+q3 q5 6 0 q1' q1' q6 5 0 q3 q2 q3 q6 5 0 q7 q1' q7 q6 q5 ~ 5 q6 q5 q6 q5 q6 6 q5 - 3 0 q1' q6 q1' q6 q2' 2' q7 q6
+q5 q3 q5 6 q2' - 1' 0 q5 q6 q2' q3' q2' 3' q5 q6 q1' q3' q2' 2' q6 q5 q6 q1' q2' 2' q2' 6 q2' q2' q3' q7 q6 5 q2' q1' q2' q3' q5' q3'
+2' q5 q6 q1' q5' q3' q2' 3' q5 q6 q1' q5' q2' q1' 2' q6 q5 q6 q2' 2' q2' 1' 6 q2' q1' q2' q3' q7 q6 5 q2' q1' q2' q3' q5 q2' 1' 0 0 0
+0 q2' q1' q2' q3' q5 q2' 1' q2' q1' q2' q3' q5 q2' 1'
+%END

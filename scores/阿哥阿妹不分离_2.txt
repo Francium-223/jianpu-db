@@ -1,0 +1,26 @@
+%阿哥阿妹不分离_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=22547
+title=阿哥阿妹不分离
+tag=
+usertag=
+tagroute=
+confidence=0.933
+conf_p10=0.724
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-22547
+%--
+4/4
+subtitle=score
+x x q1 q2 - - q1 q6 - q3 s2 s1 s,6 s1 2 - - - - q1 - q2 - q3 - - - q6 q3 7 6 - - - - 1 q2 q1 s3 -
+3 q1 q2. s1 q2 q3 5' - 1 q2 q3 q6. s6 - q3 q2 q1 q,6 q1 2 - 1. q2 3 - - q,7 - 6 - q2. s1 q2 q3 6. q3 - - - -
+q6 s6 - - - - - s2 s3 2 - - q,6 s3 s2 2 - - q2 s,6 - 5' - - - - - q1 s,6 s1 s2 s3 2. - s2 - q2 s1' s2 s1
+s,6' 5. s,6 q,6' s1 q2 - s2' s3 s2' s1'. 0 6 s,6 s,6 s,6 s2 q1 s,6 - 5 - - - - - q1 s,6 s1 s2 s3 2. - s2 - q2 s1 s2 s1 s,6
+5'. s,6 q,6 s1 q2 s2 - s2 s3 s2 s1'. 0 6 s,6 s,6 s,6 s2 q1 s,6 - 5 - - - q6 s6 - - q3 q2 s3 - q1 s,6 s1 s2' s3' 2. q2 s2
+s2 - - - - s2' s3' s2' s1'. 0 6 q,6 s,6' s2' q1 s,6' - 5 - - - q6 s6 - - q3 q2 s3 - q1 s,6 s1 s2 s3 2. q2 s2 s2 - -
+s2' s3' s2' s1'. - 6 q,6 s,6' s2 q1 s,6' - 5 - - q6 s6 - - q3 q2 s3 - q1 s,6 s1 s2 s3 2. q2. s2 - s2 s3 s2 s1. 6 s,6 s,6 s,6
+s2 q1 s,6 5' - - q6 s6 - - q3 q2 s3 - q1 s,6 s1 s2 s3 2. q2. s2 - - s2 s3 s2 s1'. - 6 s,6 s,6 s,6 s2 q1 s,6 - 5' - x
+1 q2 q1 s3 - 3 q1 q2. s1 q2 q3 5' - 1 q2 q3 q6. s6 q3 q2 q1 q,6 q1 2 - 1. q2 3 - - q,7. 6 - q2. s1 q2 q3 6. q3 -
+- - x. q6 s6 - - - - - s2 s3 2 - - q,6 s3 s2 2 - - q2 s,6 5 - - x x x x x x - - - - - x x. 6
+5 2 7 6 q1 7 2
+%END

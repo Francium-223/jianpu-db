@@ -1,0 +1,20 @@
+%长长的秀发.txt
+% 出处 https://www.jp114.com/jianpu/941825.html
+title=长长的秀发
+tag=
+usertag=
+tagroute=
+confidence=0.973
+conf_p10=0.935
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-941825
+%--
+4/4
+subtitle=score
+x 6 q6. q3 q5 6 q7. q6 q5 3 - ,6 q3 6 q1 2 7. s2 5 ,6 - 6 q3. s5 q1 6 q3 q6 q6 q2 s3 s4 q3 3 6. s3 q3 q1 q2 q3
+2 ,7 q2 5 ,6 - 2. q6 1 2 3 6 6 2 3 6. q6 1 6 7 - 7 6 5 q3 q7 6 - x q2. q3 q1 ,6 - x 6 q6. q3 q5 6
+q7 q3 q5 q,1 q7 6 - ,6 q3 6 q1 2 5. s6 q2 s5 q6 3 - 6 6 q3 q1' 6 6 q2 q3 2 5 5 s5 q6 3 - - - 2 ,6. q1 3
+2 1. q2 3 6 5 - 4 3 ,6 1 q2 ,1 ,7 2 2 3 ,7 ,6 ,5 s6 s7 6 - - - 7 7 6 5 6 7 6 5 q5 s3 6 - 5. 6
+7 7
+%END

@@ -1,0 +1,16 @@
+%飞翔吧姑娘.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=16129
+title=飞翔吧姑娘
+tag=
+usertag=
+tagroute=
+confidence=0.980
+conf_p10=0.806
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-16129
+%--
+3/4
+subtitle=score
+q2 q1 x q1 q2 3 - q2 q2 q1 q1 - - q1
+%END

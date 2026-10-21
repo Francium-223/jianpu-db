@@ -1,0 +1,21 @@
+%雪莲花_4.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=43214
+title=雪莲花
+tag=
+usertag=
+tagroute=
+confidence=0.979
+conf_p10=0.991
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-43214
+%--
+4/4
+subtitle=score
+1 - - - - q1' 1' x x' x 3 2 3 2 3 2 1 2 1 2 1 2 1 7 6 6 5 6 7 1 7 3 4 5 6 7 1 2 3 2
+3 2 3 2 1 2 1 2 1 2 1 7 q,6 s,6 s1 d7 d6 q,5 ,6. q6 q,3 ,6 q,6. s,6 ,3 q,6 - ,3 q,6. s,7 q1 q1 q,7 q,6 3 1 s,6 s1 ,7 -
+x ,3 q,6. s,7 q1 q1 q,7 q,6 3 q1 s,6 s1 ,7 - x q3 q3 s3 s2 q1 2 q2 q1 q2 q2 s2 s1 q,7 1 q,7 q,6 q,7 q1 q,7 q,6 ,5 ,6 6 x 5
+6 5. 4 3 - 1 5. 6 5 4 3 4 5 6 5 6 5 4 4 3 2 4 3 3 2 3 2 1 2 1 2 1 7 6 6 5 6 1 7 -
+3 2 3 2 1 2 1 2 1 7 q,5 s,5 q,6 s,5 s,6 q,,4 ,3 - q,6 s,5 s,6 q,5 s,6 s4 ,3 x ,3 ,6 ~ ,6 1 q7. s,6 q,5 ,6. ,6 - ,6 0 0
+0
+%END

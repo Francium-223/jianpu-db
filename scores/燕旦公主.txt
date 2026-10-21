@@ -1,0 +1,20 @@
+%燕旦公主.txt
+% 出处 https://www.jp114.com/jianpu/814293.html
+title=燕旦公主
+tag=
+usertag=
+tagroute=
+confidence=0.950
+conf_p10=0.779
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-814293
+%--
+6/8
+subtitle=score
+- q5. q3 5 q1' 1' q1' q1' 1' 7 q6 q6 ,1' 7 6 ,1' 5 5 5 ,1' 6 5 5' 6 5 3 3 5 3 2 ,1 q6 1. ~ 1. 5 2 ,1 6 q6
+q6 q6 q6 5 5 ,1' ,1' 7 ,1' 7 6 5 5 5 ,1 6 0 3 3 3 0 q6 q6 q6 5 5' q6 q5 3 3 5 ,3 2 ,1 6 q1. 5 2 ,1 6
+q6 q6 6 q6 q5 5 ,1' ,1' 7 0 3 3 3 0 6 q6 q6 1 x 6 ,1 7 ,1 5 5 5 ,1 6 5 5 ,1 q6 5 3 3 5 ,3 2 ,1 6
+,1 2 ,1 6 q6 5 6 5 6 0 3 3 3 0 q6 6 q6 ,1 1 ,1 ,1 7 q6 6 ,1 7 6 ,1 q5 5 5 ,1 6 5 5 ,1 6 5 3 3
+5 3 2 ,1 6 q1 ,5 ,5 2 ,1 6 q6 q6 ,6 1
+%END

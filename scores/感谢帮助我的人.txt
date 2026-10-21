@@ -1,0 +1,19 @@
+%感谢帮助我的人.txt
+% 出处 https://www.jp114.com/jianpu/1151182.html
+title=感谢帮助我的人
+tag=
+usertag=
+tagroute=
+confidence=0.977
+conf_p10=0.983
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1151182
+%--
+4/4
+subtitle=score
+- - - 1' 1 0 x q1 q1 q1 q2 q1 q5 6 q6 q6 q6 q1 q5 q4 3 s6 q1 q2 q3 q6 q4 3 q2 q1 q,5 q,6 1 - ,1 q3 q5 6 q5 q4
+3 q2 q3 q5 q5 q2 q1 ,6 1 ,6 q1 q2 3 q5 q5 q6 q4 3 - q2 q2 q2 q1 2 - q5 q5 q6 q4 3 - 2 1 q2 q3 5 q2 q1 q,5 q,6
+1 - q1 q1 q1 q2' q1 q5 6 q6 q6 q6 q1 q5 q4 3 q1 q1 q1 q2 q1 q5 6 q6 q6 q6 q1 q5 q4 3 2. q3 6 5 q6 q4 q3 q2 1 ,6
+q,6 q1 q2 q3 q6 q4 3 q2 q1 q,5 q,6 1 - 2'. q1 5 6 1 - 1 -
+%END

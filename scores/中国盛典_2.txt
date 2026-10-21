@@ -1,0 +1,18 @@
+%中国盛典_2.txt
+% 出处 https://www.jp114.com/jianpu/806254.html
+title=中国盛典
+tag=
+usertag=
+tagroute=
+confidence=0.725
+conf_p10=0.459
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-806254
+%--
+2/4
+subtitle=score
+0 0 - - q5 x q1 q1 q1 q5 x. x. 5 3 2 ,6 - 6 6 qx q,7'. x q1' 7' ,7' q,x' ,x' x q1 q1 x' s5 q,5 0 7 ,1 x' x' x 5
+s,5'. q5 1 2 7. q1 x 4 q,5 6 3 ,1 0 7'. 1 0 q1 q3 q4 5 1 - - - 2 ,,2 ,2 0 - x x - - - - 2 3 3 ,1 1.
+1 1. x x.
+%END

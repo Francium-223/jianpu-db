@@ -1,0 +1,19 @@
+%降香.txt
+% 出处 https://www.jp114.com/jianpu/811499.html
+title=降香
+tag=
+usertag=
+tagroute=
+confidence=0.965
+conf_p10=0.915
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-811499
+%--
+2/4
+subtitle=score
+6 3 5 6 2 7 6 q,,5 - 6 1' 3 5 6 3' 2' 3' 2' 1' 6 1' 6 5 2 5 5 3 1'. 6 1' 3 5 2 3 3 5 6 6 4 2
+1 ,1 6 ,1 6 ,1 2 5 2 2 2 3 5 5 6 4 5 2 3 6 5 2 2 1. 6 5 6 1 6 6 3 5 6 2 1 7 6 5. 5 4
+3 2 3 5 1. 2 3 3 6 5 0 4 3 2 5 2 x 1. 2 ,1 2 3 6 5 2 x 1 0 5 ,2 3 2 1 6 3 6 6 3 5 6
+1 2 6 6 5. 6 5 5 6 q5 s6 1
+%END

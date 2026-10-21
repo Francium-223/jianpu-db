@@ -1,0 +1,18 @@
+%春天的小溪_2.txt
+% 出处 https://www.jp114.com/jianpu/1162124.html
+title=春天的小溪
+tag=
+usertag=
+tagroute=
+confidence=0.976
+conf_p10=0.910
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1162124
+%--
+4/4
+subtitle=score
+x q1' 2' 3' 2' 2'. q1' 6 5 6 7 5 2 0 q3 1 - - - x 5 5. s5 3 4 5 6 q6 q6 3 4 5 6 q6 6 7 1' 7 6 5
+1 4 3 2 3 2. 3 2 1 1 7 q1 6 5. q5 5 1 5 4 3 2. q2 2 4 3. 2 1 - - q0 5 3'. q3' 3' 2' 1' 0 2' 2'. 6
+7 5. 6. q6 q6 q7 q6 2' - q0 5 3'. 3' 3' 2' 0 2' 2'. 2' 1' 6. 7 7 q7 5 2'. 1' 1' 2' 7. q7 6 5 2' 2' 1' 1' - 1' -
+%END

@@ -1,0 +1,19 @@
+%山里的孩子大跳歌.txt
+% 出处 https://www.jp114.com/jianpu/984094.html
+title=山里的孩子大跳歌
+tag=
+usertag=
+tagroute=
+confidence=0.992
+conf_p10=0.992
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-984094
+%--
+2/4
+subtitle=score
+q1 q3 2 q1 q6 6. q1 q3 2 q1 q6 6. q6 q2 q1 q2 q1' q6 6 q2 q3 q5 q3 6 6 q7 q6 6 q5 q3 3 q7 q6 6 q5 q3 3' q3 q6 q5
+q6 q7 q6 q5 q6' q7 q6 q5 q3 6 - - 6 q3 q5 6 q3 q5 ,6 q3 q2 q1 q3 q2 q1 ,6 q1 q6 6 q1 q6 6. q1 q6 q1 q6 q5 q3 2. q3
+q2 2 q3 q2 2. q3' q2' q1' q3' q2' q1' 6 q3' q2' q1' q3' q5 q6 ,6 q3 q5 6 q3 q5 ,6. q1 q6 q1 q6 q3 q5 q2 q1 ,6 - q1 q6 6 q1 q6
+6 q1 q6 q1 q6 q3 q5 q1 q2 6 -
+%END

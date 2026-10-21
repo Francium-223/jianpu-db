@@ -1,0 +1,18 @@
+%我怎能离开你_2.txt
+% 出处 https://www.jp114.com/jianpu/1189960.html
+title=我怎能离开你
+tag=
+usertag=
+tagroute=
+confidence=0.966
+conf_p10=0.932
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1189960
+%--
+4/4
+subtitle=score
+1 - - 2 6 3 x x x 5 - 6 5 6 4' 3' - 2' - 6 7 1' - - - x 3' - 1' 6 5 1' 1' - 2' - 1' 2' 3' 6
+5 - 5 - 4. 4 5 6 4' 3' - 2' - 3' 2' 5 - - 0 2' - 3' 2' 1' 6 5 - 3' - 4' 3' 6 3' 2' - 5 - 6 5 6
+s4' 3' - 2' - 6 7 1' - - 0
+%END

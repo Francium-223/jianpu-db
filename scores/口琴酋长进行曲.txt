@@ -1,0 +1,18 @@
+%口琴酋长进行曲.txt
+% 出处 https://www.jp114.com/jianpu/988428.html
+title=口琴酋长进行曲
+tag=
+usertag=
+tagroute=
+confidence=0.884
+conf_p10=0.528
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-988428
+%--
+4/4
+subtitle=score
+4 ,1 1' 1' ,5 ,1 1' 1' 5 5 1 4 5. 1 5 ~ 5. 1 4. q1 q5 q4 q7' q4 q4' q5 qx q6 q5 6 x 7 x q6 q5 q4 5 5 1'. 7
+1'. q1 1 7. 2 1 ,5 7. 1 2 4 q3 q2 q1 2 ,5 7. 1 2 1 2 3 4 x 3 2 1 2 1 3. 4 5 5 5. x 6 4 q2 q1 q1'
+q2 5 6 ,1' 1 1' 2. q3 2. 2 1 7 1 3. ,4 5 5 5. 0 6 4 q5 q4 q3 q3' q4 q4' q5 q0 q6 q5
+%END

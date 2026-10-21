@@ -1,0 +1,21 @@
+%黄昏耍蛇人.txt
+% 出处 https://www.jp114.com/jianpu/981678.html
+title=黄昏耍蛇人
+tag=
+usertag=
+tagroute=
+confidence=0.903
+conf_p10=0.643
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-981678
+%--
+3/4
+subtitle=score
+,6 x ,x x ,6 - - - s7 q1 d7 d6 d7 q1 d7 d6 d3 d5 d4 s5 d6 d5 d3 d5 d4'. d5' ,3' - - - 5 ,x'. q1 d7. q6 q,x q,5' 3' 6. ,6
+- q,6. q1 q2 q3 6 qx 6 x q6 qx q6 x 6' 6. q5 q6 q3 q6 q5 q6 q3' qx q1 1 - ,7 - - q,7'. s1 q7. h6 q,4 q,5 q,3' ,6 x ,6' ,1
+x ,6 - - - 0 0 s3 s6 s5 s6 s6 s1 s7 s2 5 q1. s7 x q1 s7 s6 q,5. s4 ,3 ,6 - q,6. s1 q2 q3 q3 q5 q6 6 - - 6 - x
+0 x 6' s5 s,x s4 q3 3 - - - q3. s1 q2 q3 6 s6 s3 s5 s6 q7 q6 q5 3' q,7 s6 s5 ,7 - q1 7 ,5 ,3 0 q,x x x ,x x q,6.
+s1 q2 q3 6 s6 s3 s5 s6 q7 q6 q5. 3 7 s,6 s,5 q1 ,7. - ,7 ,5 q1 7 q,5 q,3 ,6' - - - 1 - - - 1 - - - - s,7 s6 q5
+q,5 q,5 q6 q5 s6 s5 d7 d6 x 5 q,3 ,x ,4 q,5 x q,6 s7 s6 q,5 q,4 ,3 - - - ,3 ,5 x 5 1 - 1 ,5 x 5 -
+%END

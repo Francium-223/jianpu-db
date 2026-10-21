@@ -1,0 +1,19 @@
+%嫂子颂_7.txt
+% 出处 https://www.jp114.com/jianpu/780068.html
+title=嫂子颂
+tag=
+usertag=
+tagroute=
+confidence=0.956
+conf_p10=0.883
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-780068
+%--
+4/4
+subtitle=score
+1 2. 2 - 1 2 3 3 2 1 q6 ,5 ,6 ,3 q5 ,6 1 3 2 2 1 q6 q5 ,6 ,6. ,6 - x 1' 2' 3' 3' 2' 6 5 6. 6 - x 2
+3. 3 2 3 3 1 ,6 x 5' 6' 2 1'. ,6 1' - 3' ,7 5' 2 3' 2 2 7' 2 3 5 x 3 5 - - - 5 5 3 5 6. 6 3 2
+1 2. q,6 ,6 3 2 1 ,6 ,5 2. 3 2 - 5 5 3 5 6. 6 3 2 1 2. q6 q6 q3 q2 1 6 5 ,6. q1 ,6 - q2 3'. 3 - 3 3
+2 q1 2. 2 - 1 2. 2' - 2 2 1 q,6 1 1 - ,6 - ,5 ,3 ,6 - - -
+%END

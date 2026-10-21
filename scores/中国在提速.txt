@@ -1,0 +1,17 @@
+%中国在提速.txt
+% 出处 https://www.jp114.com/jianpu/1163716.html
+title=中国在提速
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.998
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1163716
+%--
+4/4
+subtitle=score
+q1 ~ 1 ~ q1 6 q5 q6 5 3 q3 q3 q3 q1 q6 6. q5 q6 2 ~ q2 ~ q2 ~ q2 q2 q1 q2 q3 5 q3 q3 q3 q1 q6 q6 6 6 6 q3
+q2 q2 q2 1 2 3 3 q3 5 6
+%END

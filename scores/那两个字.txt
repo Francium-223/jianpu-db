@@ -1,0 +1,20 @@
+%那两个字.txt
+% 出处 https://www.jp114.com/jianpu/1111530.html
+title=那两个字
+tag=
+usertag=
+tagroute=
+confidence=0.990
+conf_p10=0.990
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1111530
+%--
+4/4
+subtitle=score
+x 0 0 0 0 0 3 5 q5 q5 q3 q2 q1 2 1 2 3 3 0 4 q4 4 4 q4 1 1 1 1 1 1 1 q,6 q,5 0 3 3 2 3. 2 q4
+q4 q5 4 4 0 0 0 0 q,5 1 q2 q1 1 q0 q3 q5 q5 q5 q3 2 1 2 1 2 3 3 0 0 0 0 ,5 q1 ,5 1 2 1 1 q0 4 q4
+4 4 4 1 1 1 6 5 4 5 4 0 0 0 0 q1 q1 q2 q1 1 - 4 q4 q4 4 4 5 6 5 4 4 5 2 2 q2 2 5 4 3 4
+4 2 1 1 1 1 ,1 2 q3 3 q5 4 2 4 4 4 4 4 4 5 6 5 5 - 4 4 4 4 4 1 ,1 4 6 6 5 4 4 5 5 -
+- 5 - - q1
+%END

@@ -1,0 +1,18 @@
+%送别（和声标注.txt
+% 出处 https://www.jp114.com/jianpu/1234723.html
+title=送别（和声标注
+tag=
+usertag=
+tagroute=
+confidence=0.885
+conf_p10=0.484
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1234723
+%--
+4/4
+subtitle=score
+5 x 1 q3 q5 1' - 6 6 1' 5 5 - 5 0 1 q2 3 q2 q1 ,2 2 - 0 0 5' 0 q3 q5 1' 7 6 6' x x 1' 5' 0 - 5
+5 q2 q3 4 q,7 1 - 0 0 6 6 1' 1' - 7 q7 q6 q7 1' ,x - q6 6 7' 1' q6 6 q5 3 q1 0 0 0 5 5 3 5 1' q7 6'
+1' 5' 5 5 7 2 3 4 4 ,4 7 ,7 1 1 - 0 0 - x x
+%END

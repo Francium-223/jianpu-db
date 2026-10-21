@@ -1,0 +1,19 @@
+%白发心_2.txt
+% 出处 https://www.jp114.com/jianpu/888987.html
+title=白发心
+tag=
+usertag=
+tagroute=
+confidence=0.905
+conf_p10=0.599
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-888987
+%--
+4/4
+subtitle=score
+1 - - 6 qx - 1 x x x x q7 6 3 5 0 6 5. 0 1 3 2 2 - - 3 5 3 6 0 6. 0 5 5 5 3 2 q1 q1 2
+3 3 - - - 7 6 3 5 - 0 6 1. 3 q2 ~ q2 ~ 2 - - 6 1 6 3 6 - 0 5 6 q1 5 6 x 6' qx' 1' 2 2. 3'
+2' 2' - q5 q6 3' - q2 q6 1 0 1 1 7 7 5 6 6 0 ,3 5 - 5 6 3' - - 2' 6 q1' 1' - 5 6 q2' 2 3' - q0 q2
+3 6 6 1 - - - -
+%END

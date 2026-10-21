@@ -1,0 +1,18 @@
+%育儿3.txt
+% 出处 https://www.jp114.com/jianpu/1636148.html
+title=育儿3
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.997
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1636148
+%--
+4/4
+subtitle=score
+q2 q1 q2 q3 q5 q6 q5 q6 5 - - - q2 q1 q2 q3 q5 q6 q5 q6 3 - - - q2 q1 q2 q3 q5 q6 q5 q3 2 - - - q2 q1 q2 q3
+q5 q6 q3 q2 1 - - - q2 q1 q2 q3 q5 q6 q5 q3 2 - - - q1 q2 q3 q5 q6 q5 q6 q5 6 - - - 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+%END

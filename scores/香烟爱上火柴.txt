@@ -1,0 +1,22 @@
+%香烟爱上火柴.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=33404
+title=香烟爱上火柴
+tag=
+usertag=
+tagroute=
+confidence=0.901
+conf_p10=0.607
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-33404
+%--
+4/4
+subtitle=score
+1 - - x 0 1. 3' 2' 5 2' q2' 2' - 0 q0 q5' q2' q2' 2' - 6 - 5 - q5 q2 q3 q2 1' - - q3' x x. x. x. 6. q7 q3 q5
+2 - - - 0 0 0 0 q5 s5 s5 s5 s3 q3 q5 q5. s3 q1' q1' q1' s3 s5 5 0 q6 q6' q6 q6 s6 s5 q5 s6 q6. s,6 q3 q2 q2 s,3' q3 q3'
+q2 2 q3 3' q5 s5 d5 q5 q3 q3. s3 q1' d2 d3' q5 q6 0 s6 s6 s6 s1' q1' q5'. q5. s3' q3 s5 d5 s6 1' 0 s1' s1' s6 2' 2' - - - qx
+qx 0 0 q0 s5 d5 x. x. s3' d3' d3' d3' q3' s2' s2' s3' d2' q2' d3' d2' d1' 0 s1' s3 d5 5. d5 s5 d6 s1' q6 q5. s3 q3 d5 s5 7 d6 q1' s1'
+q6 2' q0 s5 d5 s3' d3' d3' d3' q3' q1' s2' s2' s3' d2' q2' d3' d2' d1' s1' d1' s1' q5' q5'. d5 s5 x. x. x. 7 x x. d6 q1' sx' q6 q5. s3 q3 d5
+s5 d6 sx' q6 2' q1' q7 1' - - 0 s0 s,5 s2 s2 q3. s0 s,6 s2 s2 q3. s,6 s,3 s1 s2 s2 q3. s0 s,5 s1 s2 s2 5. s0 s,5 s1 s2 s2 q5. s0
+s,6 s1 s2 s2 q7 s3 q6 s1' s6 6 s,4 s1 s4 s4 s6 6 5 - 0 0
+%END

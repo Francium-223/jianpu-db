@@ -1,0 +1,16 @@
+%下雪的街道.txt
+% 出处 https://www.jp114.com/jianpu/1200394.html
+title=下雪的街道
+tag=
+usertag=
+tagroute=
+confidence=0.799
+conf_p10=0.441
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1200394
+%--
+4/4
+subtitle=score
+0 0 7 ,6 q0 6 q7 0 x x x 0 x 1 - - - h0 x q6 3' 0 1 0 1' - -
+%END

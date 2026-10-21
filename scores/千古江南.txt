@@ -1,0 +1,21 @@
+%千古江南.txt
+% 出处 https://www.jp114.com/jianpu/1236914.html
+title=千古江南
+tag=
+usertag=
+tagroute=
+confidence=0.972
+conf_p10=0.929
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1236914
+%--
+4/4
+subtitle=score
+q1'. q7. s1' 6' - q1'. 7. s1' q,2 6 - 6 2' ,1' s2' q,1' s7 6 q3 q2 3 6 2' q1' s2' q7 6 q3 q2 1 s,6 s,7 ,1 q2 q,6 7 s1 2 s,6 s,7
+s1 s2 s3 s4 s5 s6 6 - 6 - x s1 q7. 6 - q1. s1 q7. 6 - ,6 6 s3' s4 s,3 s2' 3 q,6 q6 s3' s4 s3 s2' 3 - q2. s2 q6 q6 s3
+s4 s3' s2 q2. s2 q6 q6 s3 s,4' s3 s2' ,6 q1 q1 s,6' s1 ,6 s1' 2 - s2' s3 s2 s3' q5 q4 s4 s3 s2 1' q,7. s,7 q,7 q,7 ,2 1 - ,6 ,5' ,6
+- s,6 s,7 s2 s,6 s,7 s1 s2 s,6 s,7 s1 s,2 s3 s4 s5 s6 x 1. s1 q7. s1 - 1 - q1. q7. 0 q,2' 6 - 6 2' s1' s2' s1' s7 6 q3 q2 3
+6 2' s2' s1' s7 6 q3 q2 3 q3. 3 q3 q6 q3 q2 1 ,7 s,6' s2 q,7' ,6 q,6 q6 6 - 6 - q2' q2' q2' q2' q3' 7' 5' 5 6 - 6 - 6
+0
+%END

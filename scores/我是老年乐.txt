@@ -1,0 +1,19 @@
+%我是老年乐.txt
+% 出处 https://www.jp114.com/jianpu/1378377.html
+title=我是老年乐
+tag=
+usertag=
+tagroute=
+confidence=0.878
+conf_p10=0.618
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1378377
+%--
+3/4
+subtitle=score
+x 5 qx 7 q2' q2 x 6 5 - q3 2 3 5 3 2 qx x x x 7 x 7 2' x' - 5 x qx' 7 q6 5 q5' 3' - - 2 q3 q3 4
+6 5 5 3' 2. 0 3 ,7 q,x 2 2 4 q3 q2 q,7' - x - ,5 x qx ,7 x q,7 qx q2. q2 ,7 x - qx q4 q1 q1 q4 0 3 2 - x
+sx' q7 2' sx' sx q6 q5 3 q3 q5 q4 q,3 q2 q2 x - x - ,5 sx ,x q7. q2 x' - q5. qx qx 7 q6 5 x 0 3 2 - q2. sx. q3 -
+q,x q6 5. 3 2. q,x ,x q2 x 2' ~ 2' 2 7' x - -
+%END

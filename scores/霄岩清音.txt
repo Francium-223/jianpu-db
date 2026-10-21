@@ -1,0 +1,20 @@
+%霄岩清音.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=51267
+title=霄岩清音
+tag=
+usertag=
+tagroute=
+confidence=0.956
+conf_p10=0.852
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-51267
+%--
+2/4
+subtitle=score
+q1' q5 q2' 1' - q4 q6 q5 5 - q5 q2' - q4 q6 q5 5 - q1 s,5 s1 3 q3 s1 s3 5 q4 q1 q5 6 - s5 5 q5 s3 s5 3 q2. s,5 q3
+q1 1 - q1. s,5 q3 q1 1 - q2 q1 q1 q,6 ,5 - q1 s,5 s1 3 q3 s1 s3 5 q4 q1 q6 q5 5 - q1. s,5 q3 q1 1 - q4 q1 q1' q5 6
+- s5 5 q5 s3 s5 3 q2. s,5 q3 q1 1 - q1 s,5 s1 3 q3 s1 s3 5 q4 q1 q1' q5 6 - s1' 5 q5 s3 s5 3 q2. s,5 q3 q1 1 - q1'.
+s5 q2'. - q4 q6 q5 5 - q1'. s5 q2'. - q4 q6 q5 5 - s5 s1' 5 q5 s3 s5 3 q5 q1' q2' 3' - q1' s5 s1' 5 q5 s3 s5 3 q5 q2' q1'
+- q1'. s5 q2'. - q5 q3' q3' 2' - 5. q3 5 3' 3' - 3' - q3' 2' 2' - 2' - 7 - - - - 0
+%END

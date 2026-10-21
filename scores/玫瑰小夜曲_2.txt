@@ -1,0 +1,18 @@
+%玫瑰小夜曲_2.txt
+% 出处 https://www.jp114.com/jianpu/892373.html
+title=玫瑰小夜曲
+tag=
+usertag=
+tagroute=
+confidence=0.912
+conf_p10=0.658
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-892373
+%--
+3/4
+subtitle=score
+0 3 3 3'. 1' 2' 3' 6' 7' ,x' ,x' x 6 6 - 1' 7. 6 6 6 x 5 4. 4 7 7 3 - 3 0 ,3 3'. 1'. q2' q3' ,6 q7 1' x 6
+- - 6 1' 7. 6 7. 6 6 5 7' - 0 q6 0 3' 1 2 3. 1' 6' 4 2 - - 2 - 1 ,7. 7 7 2 1 6' 1 x ,5 - - ,5
+0 6 5. 3 ,1 2 3. 1' 6' 4 2 - - 2 - 4 3. 1' 7 6' 2. 6' 5 1 - - 1 0
+%END

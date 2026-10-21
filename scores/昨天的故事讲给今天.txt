@@ -1,0 +1,19 @@
+%昨天的故事讲给今天.txt
+% 出处 https://www.jp114.com/jianpu/876621.html
+title=昨天的故事讲给今天
+tag=
+usertag=
+tagroute=
+confidence=0.928
+conf_p10=0.653
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-876621
+%--
+4/4
+subtitle=score
+1 ,x x. x x - 3 5 1 7 q6 5 q6 q5 5 - ,1 2 3 5 6 1 7 0 1 q2 3 q5 5 3 2 q1 2 3 - - - 6 7 6
+5 3 3 5 6 7 - - 1' 7 6 2'. 3' 7 0 5 3 x 5 - 6 x 5 6 6 7 5 3 3 1 5 5 q5 6 7 q2 6 5 - ,1
+2 2 3' 1' x'. 3 3 3 5 6 5 5 3 3 5 7 7 5 3 3. 7 6 7 3 - 2 3 4 5 6 7 6 7. 2 5 3 3 5 ,7 -
+,6 ,7 1 2 2 3 x 4 4 5. 6 7 -
+%END

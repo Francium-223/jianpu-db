@@ -1,0 +1,18 @@
+%快乐的单身汉1.txt
+% 出处 https://www.jp114.com/jianpu/1341428.html
+title=快乐的单身汉1
+tag=
+usertag=
+tagroute=
+confidence=0.735
+conf_p10=0.417
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1341428
+%--
+2/4
+subtitle=score
+0 0 1' ,1'. 1' d,,2' s2' d,,2' d,4' q2' q2 q2 q5 1' q0 q0 0 0 0 0 0 0 x d0 s0 s0 s0 4 5' 5' 5' q5' q0 5' 5' 0 0 ,,5'. 4' 1'.
+1'. ,1 x'. x' s6 6'. s3 s2 x. s3' s6' 1' q,,7' 3' q,3' q,3' q,3' 5' 5' ,,,1 0 0 q2 ,,,2. q2 q4 q6' q1' 1 1' 1' 1' 1' 1' x' 1' x' x' 2' 4'
+x 1' 1' q1 0 0 1' 3 1' 1 ,1. 0 0 ,1'. q,3'. 4 3' 6 x 3' 4 6' q1' qx' 0 s0 q0 q0 h0 x' ,,1'.
+%END

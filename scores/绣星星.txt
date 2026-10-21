@@ -1,0 +1,19 @@
+%绣星星.txt
+% 出处 https://www.jp114.com/jianpu/1364585.html
+title=绣星星
+tag=
+usertag=
+tagroute=
+confidence=0.948
+conf_p10=0.798
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1364585
+%--
+4/4
+subtitle=score
+1 qx q1 4 x. x x x x 2. q2' q3' q2' q3' 2'. q3' 2' - q2' q3' q2' q6 q5 q6 q2' q3' q6 q5 q6 q5 q5 q2 2 - - x 2 q2 q3 q3
+q2 6 2 q2 q3 q3 q2 6 q6 q6 q5 q6 q2' q3' 6 q6 q5 q6 q5 q5 2. 5. q5 5 q4' q5 q6 q5 q6 q2 5 - 5. q5 5 q4' q5 q6 q5 q6
+q5 q5 2. q5 q5 4 q4 q5 q6 q6 2' q5 q5 4 q4 q5 q6 q6 2' 0 q2' q3' 2' 3' 2' - - - 3' 3' q2' q3' q2' q6 2' 2' - q2' q2' q1'
+q6 q5 2. q2' q3' q3' q2' 6 q0 s5 s6 2' - - -
+%END

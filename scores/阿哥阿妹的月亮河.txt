@@ -1,0 +1,22 @@
+%阿哥阿妹的月亮河.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=16067
+title=阿哥阿妹的月亮河
+tag=
+usertag=
+tagroute=
+confidence=0.933
+conf_p10=0.758
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-16067
+%--
+4/4
+subtitle=score
+1 - - ,1 ,1 x' ,x 1 x' x x ,6' q,x q3 q3 2 7 s5 s6 6 d3. d5 s6 s7 q7 q6 2 s6 s5 3 - - 7 s5 s3 s6 h3' s6' s1' s3'
+q6 q2 s6 s5 h2 s3 h3 s5 h2 h,6' q3 q,6' q0 s5' s,x q2 s3 q1 q,3 q,6 ,6 2. 0 s5 s,3 ,6 - - - q,6 s6 s5 s3 s5 q6 6. s3 s5 s6 s5
+s3 s5 3 - - q,6 s6 s5 s3 s5 q2 2. q3 q1. s,6 ,6 ,6. q5 6 - - - q,3. s,6 s1 q3. q1 ,6. q,7. s7 s5 s5 s,6 s7 q,5 ,3. q,3. s,6 s1 q3.
+q1 2. q1. s,6 s2 s2 s2 s3 q5 3. q,6 6 s6 s3 q5 6. q5 5 q,6 s1 s2 2. s3 q3 s5 q3 q,6 s5 q5 s2 3 q1. s3 s2 q2 s3 q1 ,6 q5 6
+- - - q3. s7 6 - - q0 s7 s7 q5 s6 s7 6 s0 s5 s6 s5 3 - - - q3 s5 s5 s6 q1 s,6 s,6 2 s0 s2 s2 s3 q5. s6 s5 q2 s2
+q5 3. q6 6 s3 s5 6 - q,6 6 s2 s3 1 - s,6 s,6 s,6 s3 q,6 q3 q2 2 s3 s5 q6. s6 s5 q6 s7 q6 s5 s6 3 s5 q2 s3 q1 q,6 2. s5
+s3 ,6' - ,6'. q5 ,6 - - - 5 - - - 6' - - - 6' - - 0
+%END

@@ -1,0 +1,20 @@
+%年味道.txt
+% 出处 https://www.jp114.com/jianpu/1455419.html
+title=年味道
+tag=
+usertag=
+tagroute=
+confidence=0.972
+conf_p10=0.962
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1455419
+%--
+4/4
+subtitle=score
+1. s2' q3' q2' 1' q6 q5 q1'. s2' q3' q2' 1' - q1'. s2' q3' q2' q1' q1' q6 q5 q4 q4 q3 q2 5. 0 q4 q4 q3 q2 1 0 x q5 q5 q5 q3 1' q6
+q5 q4 q4 q3 q2 1 0 q5 q5 q5 q3 1' q6 q5 q4 q4 q3 q2 5 0 q2 q2 q2 q3 1 1 1' q6 q5 4 - q2 q2 q2 q5 q3 q2 q2 q1 2
+- - - q5 q5 q2 q5 q2 q1 q,7 q2 1 - - - q5 q5 q5 q6 1' q1' q2' q3' q2' q3' q2' 1' - q1'. s2' q3' q2' 1' q6 q5 q4 q4 q3 q2 5
+- q2 q2 q2 q3 q2 q1 1 q1' q1' q6 q5 6 - q5. s5 q5 q6 1' 6 2' 2' - q2' q1' 3' - - - 3' - - - 3' - - - 3' - -
+x. q2' q1' 1' - - - 1' - - -
+%END

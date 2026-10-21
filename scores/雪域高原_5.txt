@@ -1,0 +1,19 @@
+%雪域高原_5.txt
+% 出处 https://www.jp114.com/jianpu/939698.html
+title=雪域高原
+tag=
+usertag=
+tagroute=
+confidence=0.982
+conf_p10=0.988
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-939698
+%--
+4/4
+subtitle=score
+q3 q3 s6 s1 6 0 6 q5 s3 s2 3 0 q,6 q,6 q6 q1 q5 s6 s5 s3 s2 2 0 - - q3 q3 q5 s6 s1 6 0 q6 q1 q2 q3 2 - q7 q7
+q5 q3 s5 s3 q5 s6 s1 6 - - - q6 q6 q1 s3 s5 3. q2 q3 s2 s3 q5 s3 s2 3 q6 s6 s6 q1 q2 3 s3 s2 2 - - - q3 q3 q5
+s6 s1 6 - 6 s3 s2' 3 - q,6 q,6 q6 q1' q5 s6 s3 s2' 2 - - - q3 q3 q5' s6 6 - q2' q3' 2' - q7 q7 q3 s3 q5 s6 s1 6 -
+- - q6 q6 q1 s3 3. q2 q3 s2 s3 q5 s3 s2 3 - q6 s6 s6 q1 q2 3 s3 s2 2 0 - - q7 q7 q3 s6 s1 q3 q2 6 0 - -
+%END

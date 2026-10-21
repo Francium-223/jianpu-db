@@ -1,0 +1,18 @@
+%油菜花香.txt
+% 出处 https://www.jp114.com/jianpu/1477815.html
+title=油菜花香
+tag=
+usertag=
+tagroute=
+confidence=0.988
+conf_p10=0.991
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1477815
+%--
+2/4
+subtitle=score
+0 ,5 6 ,6 ,5 3 3 3 - 0 ,5 ,6 ,5 2 2 2 - 0 ,5 ,6 ,5 3 3 3 - 0 ,5 ,6 ,5 5 3 3 3 - 0 ,5 ,6 ,5 2 2
+2 - 0 ,5 ,6 ,5 2 1 1 1 - 5 6 6 5 5 3 3 - 3 - 6 1' 6 5 5 5 - 3 5 6 - 6 6' 6 5 5 5 - 2
+2 3 2 1 1 1 - 1 -
+%END

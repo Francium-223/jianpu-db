@@ -1,0 +1,19 @@
+%龙泉奇侠片头曲.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15219
+title=龙泉奇侠片头曲
+tag=
+usertag=
+tagroute=
+confidence=0.953
+conf_p10=0.778
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15219
+%--
+4/4
+subtitle=score
+- - - 4 x x x x q6 6 - - q,6 q3 3 - - q6 q3 3 - - q5 q2 2 - 5 3 - - - q,6 q1 q,6 q1 - q2 q5 2 -
+- q2 q5 q3 q6 q5 q3 ,6 - - - q6 q3 3 - - q6 q3 3 - - q5 q2 2 - 5 3 - - - q,6 q1 q,6 q1 1 - q2 q5 2 -
+- q2 q3 q5 q3 q3 q5 6 - - - q1'. s6 q6 q1' q6 q5 q3 q5 6 - - - s6 q6 q1' q6 q5 q3 q5 3 - - - q5. s2 q2 q5 q3 q2
+q3 q5 2 - - - s,6 q,6 q1 q2 q5 q5 q3 ,6 - - - q3 q5 ~ q5' q2 ~ 2' - - q1 s6 q,6 q3
+%END

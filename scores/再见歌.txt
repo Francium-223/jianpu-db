@@ -1,0 +1,16 @@
+%再见歌.txt
+% 出处 https://www.jp114.com/jianpu/1233028.html
+title=再见歌
+tag=
+usertag=
+tagroute=
+confidence=1.000
+conf_p10=0.999
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1233028
+%--
+4/4
+subtitle=score
+,5 - - q4 q4 q4 q4 5. 5 3 - 5 3 q6 7 - - 5 q4 3 - 1 -
+%END

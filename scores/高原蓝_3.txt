@@ -1,0 +1,22 @@
+%高原蓝_3.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=37149
+title=高原蓝
+tag=
+usertag=
+tagroute=
+confidence=0.861
+conf_p10=0.507
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-37149
+%--
+2/4
+subtitle=score
+2. q,6 h2 s2 h1 h1 s6 d5 ,x s3 s2 3 q,6 h2 h1 s3 s1' s6 s3 s5 s3 s3' s2 q,6 s2 h2 h2 s1 s3 s3 s6 2' d5 s1'. d3 2' s2 1' 1' x
+x' s5 q5 h2' d5 d5 d3' s5 h5' h5 d5 h1' s5 q5 h1 h1 d6' h1 d1 d2 d6 5 s0 q0 d0 h6 s3 h3 h,3 h,3 s3 s5' s5 q6' d5' d5' d5' s5 s5' d,6
+h3 s6 s6 d2 d3 d3' h1' h1' h1 h6' d2' h6 h,6 s7' s1' s6 d6' q6' q6' q6 s6 d,6 d2 s1' s2' q2 3' q,3 q2. d1 q3 3' q5 s3 s3' q3' d5. h3' s2' s6
+2' s3 s2' s3' 2' s6 h0 h,1 s1' h,1 d1' s2' x' 1' 6 2' 3' 1 1 q2 s2 s2 s2 q1 s6 3 - 1'. q6 - 2'. q6 3' 5. q5 5 6 7 0 5
+3 6 - 6' - x' x' q,6 q,6 s2. s2 s3 s3 s3 s6' s6 s5 s3 s2 s2 s1 3 3 6 q6 q6 q6 q6 q6 q5 q3 q1 q1 q1 1 2 q2 q1 qx' ,6
+- ,6 1 x 6 s6 s1 s6 s5 q5 s6 s6 s2'. s3' s6 6 - 6 - q5. s5 q5 q3 q5 s6 s6 q2' q3' 3' - 3' s2' s1' s6 s5 s5 s6 1'. 6 0
+- - 6 - 6. ,6 - 6. q6 s6 s6 s6 s6 s6 s6 s6 s6 6 0 x x 1 1 x
+%END

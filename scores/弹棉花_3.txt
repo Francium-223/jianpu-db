@@ -1,0 +1,19 @@
+%弹棉花_3.txt
+% 出处 https://www.jp114.com/jianpu/849479.html
+title=弹棉花
+tag=
+usertag=
+tagroute=
+confidence=0.957
+conf_p10=0.826
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-849479
+%--
+3/4
+subtitle=score
+1 0 - - 1 1 x' 1'. x'. x q3 q6 q6 q6 q5 q6 q3 q6 q6 q6 q7 q6 q3 q6 q5 q6 q7 q6 q5 q6 q7 q6 q5 q3 q6 s1' q6 q5 q3 q5
+q6 s1' s1' q6 q5 q3 q3 q6 s1' q6 q5 q3 s3 s5 q,6 s1 s2 q3 q5 q6 q5 x 3 - 3 6 - s5 q3 3 5 3 6 - - 5 q6 q5 3 -
+5 6. q5 s6 q1 2 3 - 5 3 5 6. q5 6 5 - q5 q3 2. q3 2 5 6. q5 3 2 q2 q3 5. q3 q5 q7 q,6 - - 1 ,6 1 2. q1
+2 3 5. q3 7 6 - 6 - - 1' 6 1' 6 5 q5 q3 2. q3 q2 q1 2 - q2 q3 5 - 3 5 - 7 6 - - 6 - - ,6 - -
+%END

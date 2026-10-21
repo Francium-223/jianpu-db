@@ -1,0 +1,28 @@
+%口琴-少女与水手.txt
+% 出处 https://www.jp114.com/jianpu/989046.html
+title=口琴-少女与水手
+tag=
+usertag=
+tagroute=
+confidence=0.960
+conf_p10=0.870
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-989046
+%--
+4/4
+subtitle=score
+q3' q2' q3' q6 q6 q5 q6 q7 q2' 3' q3' 2' qx' q2' q3' q6 q6 q5 q6 q7 q2' q3' q5' q3' q2' q2' q3' q6 q6 q5 q6 q7 q2' 3' q3' 2' q3'. q4' q5'. q4'.
+q3'. q2'. q3'. q2' q7 q5 q6 q7'. q2' q7 6 q3'. q2' q3' q6 q6 q5 q6 q7' q2' q1' q1' q3' q1' q1' q2' q3' q6 q6 q5 q6 q7' q2' 1' 5'. 3'. 2' q2' 3' 6
+6 5 q6 7' q2' q1' 3'. 2' 3' 4' 4'. q5'. q4'. q3'. 2'. 3' q2' 7 5 q6 7'. 2' q7 6 6 6 5 6 6 q5 6 q6 7 q7'. 2' 7' q7 q6 5 q2
+5 q5 q2 5 q5 6 q7 q5' q2' 1' q7 6 q5 q4 q6 q6 q5 6 q6 7 q7'. q2' q7' 1' 7 q6 5 q5 6 6 q5 q6 7' q2' 1' 2' 7' 6 6 5
+6 6 5 6 6 7 7'. 2' 7 7 6 5 2 5 5 2 5 5 6 7 5'. 2' 7' 7 6 5 x 4 6 6 5 6 6 7 q7 q2' q7' q1' q7 q6
+q5 q5 q6 q6 q5 q6 q7' q2' q1' q2' q7' q3'. q2' q3' q6 q6 q5 q6 q7 q2' 3' q3' 2' q2' q3' q6 q6 q5 q6 q1' q2' q1' q1'. q5'. q3'. q2' q2' q3' q6 q6
+q5 6 q7 q2 3' q3'. 2' q3. q4' q5' q4'. q3'. q2'. q3'. q2' q7 q5 q6 q7'. q2' q7 6 q3'. q2' q3' q6 6 q5 6 q7' q2' 1' 3'. 2' 2' 3' 6 6 5 6
+7' 1' 2' 1' 5'. 3'. 2' 2' 3' 6 6 5 6 7' 2' 3' 3'. 2' 3' 4' 4' 5'. 4' 3'. 2'. 3' 2' 7 5 6 q7' q2' q7 6 3 q5 6 q6 q7 q6
+q5 q3. 2 q3. q5 q6 1' 1' q7 q6 q5 6 q6 7 q6 q5 q3 q2 q3 q5. q3 q5 2 q3. q5 6 q6 q7 q6 q5 q3 q2 q3 q5 q6 q7 q2' q3'. q1' q3'
+q2' q6 q7 q6 q5 q3 2 q3 q5 6 q6 q7 q6 q5 q3 q2 q3 q5 q6 q7' 1' q2' q3'. q1' q3'. q2' q6 q7 q6 q5 q3 2 q6 q6 q5 q6 q6 q5 6 q6
+q7 q7'. q2' q7 q7 q6 q5 q2 q5 q5 q2 5 q5 q6 q7 q5'. q2' q7 qx' q7 q6 q5 x' q4 q6 q6 q5 6 q6 7 7'. q2' q7 q7 6 q5 q5 q6 q6 q5
+q6 q7 q2' q1' 1' 2' q7' q6 q6 q5 6 q6 q5 6 q6 7 7' q2' q7 q7 q6 q5 q2. q5 q5 q2 5 q5 q6 7 5'. 2' 7' 7 6 5 x 4 6 6
+5 6 6 7 7'. 2' 7' 7 6 5 5 6 6 5 6 7' 2' 3' 2' 7' 6 7'. 2' 7 6
+%END

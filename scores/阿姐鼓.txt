@@ -1,0 +1,22 @@
+%阿姐鼓.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=33756
+title=阿姐鼓
+tag=
+usertag=
+tagroute=
+confidence=0.962
+conf_p10=0.864
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-33756
+%--
+2/4
+subtitle=score
+1 - 1 q3 q5. ,1 q6. 6 6 - 1 - 1 s3 q6. 6' 6' - 1' - ,3' q5. ,1' q6'. ~ 6 ,3 s5 s6 s5 q6. s5 ,5 6 5 ~ 5 s5 3. ~
+3' 3 q0 6 ,1 q2 q1 ,2 2 q1 ~ 1' s6 s1 s6 s1 x 1. ,1 1 1 q0 ,1 ,1 1 ,1 q2. x 2' - 2 0 s3 s5 s5 6 s5 q0 5 q6
+,5 ,5 q3'. 3' s2 s1 q,6 ,6 q1 s2 s1 1 1 - 1 ,3 q5 q1 q6 6 - 6 - - 3' 6'. 6' 1' - 0 4 4 4 4 ,4 6 5 5' s5 s4
+q2' 2' s4 q5. ~ 5 5 5 2 3 3' 3 0 q0 4 4 q4 q4 s4 s6' q5 5' 5' s4 2 2 s4 q5'. ~ 5' s2 q1. 1' sx sx sx sx sx x 2'.
+,3' 1' - 6 6 s6 s6 5 6' q6' 0 0 2'. 3' - s1' s6 s6 s6 q6 s6 s5 s5' q5 q0 0 2'. s3' - s1' s6 s6 s6 s6 s6 6' ~ ,6' q5 6
+~ q6 q0 2'. s3' 1' - ,1' q6 6 q,6 q6 5 d5 ~ q5' q0 0 s5 3 3 3 3 ~ 3 ~ 3 ~ ,3' q3' 0 0 s3 s1 s1 s1 s1 s1 s1 s1
+~ q1 q0 0
+%END

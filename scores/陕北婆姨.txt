@@ -1,0 +1,20 @@
+%陕北婆姨.txt
+% 出处 https://www.jp114.com/jianpu/1122853.html
+title=陕北婆姨
+tag=
+usertag=
+tagroute=
+confidence=0.789
+conf_p10=0.460
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1122853
+%--
+4/4
+subtitle=score
+- - 1' 1' x. x' x 5 2 2' 5 5 4 q3 q2 1 - 2 q2 q5 q2 q1 q0 q,7 1 - - - x 2 q2 q2 q2 q1 ,7 1 - - - 5
+q5 q5 4 q3 q2 5 - - - 1' 5 3 4 5 5 7 5 5 5 x x' x' x' x' x' x' x' x' 2 2'. 2'. 2' 2'. 2' 2' 2'. 2' 2 5 x'
+x' x' x' ,x' ,1' ,x' ,x' ,x' 5 x' ,x' d,,1' d,,1' d,1'. d,1' d,1' d,,1' d,1' s,4' 4 s,4' s4' s,4' s,,4' s,,,4' 4' q3 q2 1 - q1' q1' s2 s2' s2' q2 q2' q2' q,2 q,2'
+q,2' q2' q,2' q2' q2 q5 q5' d,5' q5 q5' q5. q5 q5' q5 q5 q5' q5' q,x q,x' q5' q5' q5 q5 q5' q5'. h,,1' h,,1' qx q1' qx' h,x' q2' q,2 q,2' q2' q,2' q2' q2 q2 q,2'
+q1 q1 ,7 s,,1' 1 1 1' 1 1 ,1' - - -
+%END

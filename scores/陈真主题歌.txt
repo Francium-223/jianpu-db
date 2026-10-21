@@ -1,0 +1,19 @@
+%陈真主题歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=13281
+title=陈真主题歌
+tag=
+usertag=
+tagroute=
+confidence=0.991
+conf_p10=0.983
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-13281
+%--
+2/4
+subtitle=score
+6 6 - q5 q3 5 q1' 6. 6 6 - - q5 q3 2 - - - 5 2 - 3 q2 q3 q2' q1' 6 - q3 3 q3 5 1' 6 - - - q3 3 q3
+5 1' 6 - - - q2' q1' q6 q1' 5 7 6 - - - q2' q1' q2' q3' 1' 7 6 - - - q1 1 q1 q3 3 q3 q6 6 q6 q1' 1' q1' 2' q1'
+q7 q6 2' q7 q6 q5 6 - - - 2' q1' q7 q6 2' q7 q6 q5 6 - - x 6 6 - q5 q3 5 q1' 6. 6 6 - - q5 q3 2 - - -
+5 2 - 3 q2 q3 q2' q1' 6 - q1 1 q2 q3 3 q3 q6 6 q6 q1' 1' q1' 2' - - q7 q6 q5 6 - - -
+%END

@@ -1,0 +1,19 @@
+%探清水河_2.txt
+% 出处 https://www.jp114.com/jianpu/1224947.html
+title=探清水河
+tag=
+usertag=
+tagroute=
+confidence=0.959
+conf_p10=0.875
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1224947
+%--
+4/4
+subtitle=score
+x q1 q1 q1 0 1 q1 1 s1 0 - 1 s1 q1 - ,x 1 1 x 3' s3' q3' q3' q2' 1' 2'. x s1' 2' x 2 q2 q1 q1 1 x 1 x 1 1.
+1 1 2 q3 q2 3 2 2 q1 1 - - - 3 3 3 2 1 2. x 1 1 2 x 2 3 2 1 1 1 x 5 1 x 1 1 2 q3 3 q2
+3 2 2 q1 1 2. 1 q1 q5 3 1 2 1 2 1 2 7 1 1 x 3' 3' 3' 2' 2'. x 1' 1' 2' x q2' q3' q1' q1' 1' x 1' x q5' 3'
+q2' q1' 1' 5 5 2 - 3. 2 1 2 1 3 2 1 q2 5 1 1 x 3 3 3 2 1 - 2. x q1 q1 x 2 q3 q2 q1 q1 1 x
+%END

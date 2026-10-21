@@ -1,0 +1,18 @@
+%一路向阳.txt
+% 出处 https://www.jp114.com/jianpu/845941.html
+title=一路向阳
+tag=
+usertag=
+tagroute=
+confidence=0.937
+conf_p10=0.696
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-845941
+%--
+2/4
+subtitle=score
+q1 - - q1 4 1 x 1'. x'. ,5 3 3 q3. s3 2 q3 q4 3 - 2. q2 q2 q1 q,6 q,5 ,5 - ,5 - ,6 2 2 2 1 q2 q3 2 - 5. q5
+q5 q5 q5 q6 3 - 3 - 3 3 6 6 q7. s7 5 6 - 6 3 2. q1 2 - 2 - 2 3 4 4 q4. s4 5 4 0 ,5 4 3. q2 1 -
+1 - 5 5 1 1 7. q6 5 - q5. s5 6 5 0 4 3 5 - 5 - 5 5 1 q7. s7 1 6 - 2 3 4 6 q2. s2 5 - 1 -
+%END

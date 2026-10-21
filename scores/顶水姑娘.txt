@@ -1,0 +1,16 @@
+%顶水姑娘.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=16128
+title=顶水姑娘
+tag=
+usertag=
+tagroute=
+confidence=0.758
+conf_p10=0.464
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-16128
+%--
+4/4
+subtitle=score
+- - - x s1' q2 x - q1' q7 q7 3 2. q3 q2. s1 q,5 5 - - - q1' s1' ~ s1' x s1' s1' s2' x - - - - - - - -
+%END

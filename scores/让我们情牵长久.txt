@@ -1,0 +1,20 @@
+%让我们情牵长久.txt
+% 出处 https://www.jp114.com/jianpu/1234023.html
+title=让我们情牵长久
+tag=
+usertag=
+tagroute=
+confidence=0.903
+conf_p10=0.615
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1234023
+%--
+4/4
+subtitle=score
+x ,1' 1' 2' q3' 7 7 6 - ,7 q7 ,1' q2' 7 6 7 5 - 0 x 5 6 7 7. ,7 ,7 q5 3 0 5 6 3' x' - x 3 q5 3 3 2
+q1 1 - 5 q3 5 3 q1 q3 3 5 q6 ,1' q7 q6 5 - 3 q3 q7 7 6 3 5 q6 q1 6 qx q3 2 - 3 q5 6 q5 q1 3 - 6 q7
+qx q5 6 - ,1' 7 7 6 6 5 q6 5 q,3 q,2 2 2' 2' 7 6 5 2' q3' 3' x 7 6 6 7 q,2' 2' x 7 6 5 0 2' q,3' 7 6 -
+7 q2' 6 6 5 - ,1' 1' 2' q3' 7 ,1' 7 6 - 7 q7 ,1' q2' 7 6 7 5 - 6 6 x 0 x 5 6 x 7. 7 ,7 ,7 qx 3 0 5
+6 0 3' 2' 2' x 2' x - 1. x' qx' - - 1
+%END

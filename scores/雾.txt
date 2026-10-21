@@ -1,0 +1,27 @@
+%雾.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=24868
+title=雾
+tag=
+usertag=
+tagroute=
+confidence=0.981
+conf_p10=0.953
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-24868
+%--
+4/4
+subtitle=score
+q1' q5 q3' q5 q1' q5 q3' q5 1' - - q1' q5 7 - - - 1' - - - 1' - - - 1' - - q1' q5 7 - - - 7 - - - 5 -
+- - q1. s2 s3 q5 s3 s1' q1' s5 s6 s5 q3 q1. s2 s3 q5 s3 s1' q1' s5 s6 s5 q3 1' - - - 0 q5 q6 q7 q6 s6 s5 7 - - - 0
+0 0 q0 d1' q2'. q6 6 - 0 s5 q6 q7. d6 q5 s5 3' - - - 3' - 0 q2' q2' q3' 5' - - - q5' 4' q3' 2'. s2'. s3' 6 - - - 0
+0 0 s1' s1' s7 s6 q7 q6 7 - - 0 s5 s6 s7 q3' s1' ~ s1' 1' - - - 0 0 0 q0 q3' 7 - - - 0 0 s5 q6 q7 q5 6 -
+- - 0 0 0 q0 s3' q4' - 2' - 2' 0 q6 q3' q6 s7 s6 q7 7 - - 0 0 0 q0 q5 q3' - - - 3' - q5' q4' q3' q5' - - -
+5' - - q0 q5' d6' s5' q6' 6' - - 0 s5' q6' q7' q5' q6' d7' s1' s7' s6' 7' - - 7' s5' q4' s4' q2' s1' s1' s7 1' - - - 0 q5' q5' q1'
+s1' s7 q6 s6 s5 q5 q7 ~ 7 - - 0 0 0 q0 s1' s1' 2'. q6 6 - 0 q5 q6 q7. s6 q5 q5 3' - - - 3' - 0 q2' q2' q3' 5' -
+- - q5' 4' q3' 2'. s2'. s3' 6 - - - 0 0 0 s1' s1' s7 s6 0 q7 q1' s5 s6 q7 s6 s5 s7 s6 q7 7 - - 0 q5 q6 q7 3' s1' ~
+s1' 1' - - - 7 - - - 2' 6 s5 s6 q7 s6 s5 3' - - - 5' q7' q7' s4'. s3' 2' 6 - - q0 s5 s6 7 - q0 q2' q7'. s3'. s2' 1'
+- - q0 q3 7 - - q5 q7 6 - - q0 q4' 4' 2' - q6' q4' s6 q7. ~ 7 - q0 q5 1' - - q5' q4' 5' - - q3'. s5' 6' - q6' s4'
+s5' q6' s5' s6' 7' - s0 d7' d7' s7' d5' d5' s5' s4' s2' s7 1' - q0 s5 s6 q7 s6 s5 7 - - - 2' 6. s5 s6 q7 s6 s5 3' - - - 5'.
+q7' q7' s4'. s3' 2' 6 - - q0 s5 s6 7 - q0 s5 s6 q7'. s3' s2' 1' - - - 1' - - -
+%END

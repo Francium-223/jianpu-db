@@ -1,0 +1,19 @@
+%苍浪歌.txt
+% 出处 https://www.jp114.com/jianpu/982178.html
+title=苍浪歌
+tag=
+usertag=
+tagroute=
+confidence=0.989
+conf_p10=0.993
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-982178
+%--
+4/4
+subtitle=score
+6 6 5 5 6 6 - - 5 3 5 6 6 - - ,x 2 2 1 1 2 q3 2. 3 3 2 1 2 5 - - - 6 6 5 5 6 6 - -
+5 3 5 6 6 - - 0 2 2 1 1 2 q3 2. 3 3 2 1 2 5 - - - x 6 6 5 5 6 6 - - 5 3 5 6 6 - -
+- 2 2 1 1 2 q3 2 - 3 2 1 2 5 - - - 6 6 5 5 6 6 - - q6 q6 q5 q5 q6 q6 - 0 5 3 5 6 6 - -
+5 3 5 6 6 - - 0 2 2 1 1 2 q3 2 - 2 2 1 1 2 q3 2 - 3 2 1 2 5 - - -
+%END

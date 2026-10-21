@@ -1,0 +1,18 @@
+%卜算子.txt
+% 出处 https://www.jp114.com/jianpu/1581499.html
+title=卜算子
+tag=
+usertag=
+tagroute=
+confidence=0.958
+conf_p10=0.815
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1581499
+%--
+4/4
+subtitle=score
+1 - - ,5 2 1 x x 2 0 x 5 q3 1 2. 0 q3 ,x 5 6 x 3 - q2 0 qx 2 3 q2 ,7 6 q5 1. 1' 2 0 3 2' 3 5'
+2 - q2 2 5 6 3 2 ,2' 1. q1' q2 q0 3 5 2. 0 1 ,7 6 6 ,6 1 q2 3 1 ,6 ,5 - 3 3 ,6 3 1. ,7 ,6 5 ,6 - 0
+0
+%END

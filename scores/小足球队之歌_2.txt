@@ -1,0 +1,19 @@
+%小足球队之歌_2.txt
+% 出处 https://www.jp114.com/jianpu/974645.html
+title=小足球队之歌
+tag=
+usertag=
+tagroute=
+confidence=0.922
+conf_p10=0.657
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-974645
+%--
+4/4
+subtitle=score
+1 - - x 3 7. x x x qx x - 3 3 4 q5 q1' q3 3 4 q5 q1' q3 3 5 q3' q2' - q2' 2' 7 q1' q2' 2' ,1' q7 q2 2 s1 q7
+6 5 - 3 3 4 5 1' 2' q7 q1' 6 - q0 q5 q6 q7 1' q3' q3' q2' 5 s5 q6 7 - q4' ~ 4' ~ s4' 6 q4' q4' s4' 6 4' s4' s4' q1'
+q2' 3' - q2' ~ 2' ~ 2' 5 q2' s2' s2' 5 q2' 2' q2' q7 q1' 2' - q3. s3 q3 4 5 x 1' x q2'. q1' q7 1' 2' 6 q0 5 q6 q7 1'. s1'
+3' q3' 2' 5 s,,6 q7 -
+%END

@@ -1,0 +1,19 @@
+%乐呵呵.txt
+% 出处 https://www.jp114.com/jianpu/866608.html
+title=乐呵呵
+tag=
+usertag=
+tagroute=
+confidence=0.950
+conf_p10=0.846
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-866608
+%--
+4/4
+subtitle=score
+1 x 1 x x. x 1 x x q6 2' q2' q2' q5' q1' q6 q5 s6 s5 q4 q2 q7 q6 q5 q5 s6 s1' q3 2 0 q2'. q3' q2' q1' 6 q5' q3' q2'. q3' q2'
+q1' 6 - q2' s2' s2' s,4' q1'. s2' q,1' q6 s5 s5 d6 q3 q,2 - q5. s,4 s5 s6 q6 q3 2 q5. q4 q5 q6 q6 q3 2 q2' q6 2' q6 q4 5 q2' s,1' s7
+q,6 q5 s6 s2' s,4 s3 2 2' q,2' s,1' d7 s6 d7 s,6 d5 q6 s1' s3 2 q2' q5. s4 s6 s5' s5 d4 d6 s6 q2 - q,6 2' s2' q2'. s5' q1' q6 s5. - s6
+q,4 q2 q1' s7 q6 s,5 s5 d,6 s1' q3 q,2 - q6 q6' 2' ,2' x q2' q2'. s5' q1' q6 5' 5' 6 3 2' q5. s6 q4 q2 1' q7 q6 -
+%END

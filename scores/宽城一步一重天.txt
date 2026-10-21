@@ -1,0 +1,19 @@
+%宽城一步一重天.txt
+% 出处 https://www.jp114.com/jianpu/1279199.html
+title=宽城一步一重天
+tag=
+usertag=
+tagroute=
+confidence=0.995
+conf_p10=0.992
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1279199
+%--
+2/4
+subtitle=score
+q1' s6 s5 s4 s5 q2 5 - s5 q1' s1' q1' s6 s5' q4 s5 s4 2 q5 q5 q1 s7' s1' 2 - s2 q5 s5 q5 s5 s1 q6. s5 q4 q3 q2 q2 q2 q5 1
+- s2 q2 s1 q2 q5 q6 2 q2 q1 s1 s2 s6 s5 q2 5 - d1 d1 s1 s1 s2 s2 s6 s5 q2 5 - x s2 q2 s2 q2 q2 s1 s6 5. q1 s6 s5
+s4 s5 q2 5 - q2'. s2' q1' q6 q5. s1' q4 q3 q2 5 q1 2 - q2. s5 q5 q1' q6 s6 s5 q4 q3 q2 q2 q2 q5 1 - s2 q2 s2 q2 q5 q6 2'
+q2' s1' q6 s5 s4 s5 q2 5 - q6 q1' 2' - - 1 q6 q5 q4 q5 2 5 - - - 5 - 0 0
+%END

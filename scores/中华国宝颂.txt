@@ -1,0 +1,22 @@
+%中华国宝颂.txt
+% 出处 https://www.jp114.com/jianpu/895452.html
+title=中华国宝颂
+tag=
+usertag=
+tagroute=
+confidence=0.934
+conf_p10=0.717
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-895452
+%--
+4/4
+subtitle=score
+1 4 q1 q1 x x x 1 ,x' q,x 1. x x 1 x 1 x x q3 s3' s5 s5 s7 s2'. s6 s6 s7 s7 q,1' q1'. q1'. q2' 1'. q7 q3 q7 q6 s6 s3 5
+- q1 q1'. q1'. q2' 1'. q7 q3 q7 q6 s3 s5 2 - q2 q3 q2 q3 5 6 q3 s2 s3 q2 q,5 ,6 - q,6 q,5 q,3 q,5 3 5 2. q3 q,7. s2 s,6 s,3 s,5
+s,6 1 - - - x q5. s5 q6 s5 s6 1. q,7 q2 s3 s5 s2 s7 s6 s3 ,5 - q1 1 q,7 s6 s1 s5 s6 1 q,5 s5 s6 s6 s5 s3 s5 2 - 5.
+s5 q6 q5 s6 1. q,7 q2. s3 s2 s3 s3 s5 ,6 - q2 s2 s1 q2 q3 q5. s6 5 q3 3 q5 q2. s3 q3 q,6 1 - - q3 q3 q5 q5 q6 q6 s7 s7
+x q1'. q1'. q2' 1'. 7 q3 q7 q7 s6 s3 5 - q1. s1 q1 q2 1. q7 q3. s6 q6 s3 s5 2 - q2. q3 q2 q3 5 6 q2. s3 q3 q,5 ,6 - q6 6
+s3' 7. q6 5 - - 3 2. q3 q3 q,5 q,6 s7 s6 ,5 - - q3 s3' s5 s5 s6 s6 s7 s7 x x ,5 - - - 6. s5 s6 7 q6 q5 1' - -
+- - - -
+%END

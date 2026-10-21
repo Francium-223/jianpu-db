@@ -1,0 +1,24 @@
+%这一个好地方叫山西_2.txt
+% 出处 https://www.jp114.com/jianpu/1514912.html
+title=这一个好地方叫山西
+tag=
+usertag=
+tagroute=
+confidence=0.941
+conf_p10=0.733
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1514912
+%--
+4/4
+subtitle=score
+x qx 2 5. 6 q1 q2 q5 6 1 2 2 - - 1 1 6 q3. 3 q5 s1 q2 q1 6 d1 6 - - - x 5 6 1' 6 - - x 1 6 2
+2 2 1 q6 q5. q4 q4 q5 q6' q2 q4 3 2 4 2 - - - x 1 0 0 2 q7 2 2 2 s0 s,2 s0 2 0 2 - 2 s0 s2 s0 s2 x
+1 6 2 2 4 3 2 2 - q1 4 6 3 s2 2 - 6 2 2 5 3 2 2 1 q7 q6 q2 s1 q2 s5 q6 s1 q7 6 - q1 q1 q6 6 2
+3' 2 q2 q1 6 2 2 q6 5 q5 q4 5 q5 5 s4 5 q6 2 1' 7 6 2 5 q6 q4 q3 2 q6 2 q1 q2 4 - 3 2 1 2 6 - 6
+2 2 2 q3 q2 s1' q2 4 3' 2 q2 1 2 7 6 - q6 2 1 2 4 - q3 2 1 q2 q1 6 - 6 q2 q2 2 q3 q2 q1 q2 4 5 q6
+2 5 6 s4 s3 2 q6 q5 6 q1 2 1 q2 2 4 - q4 5 x 5 1 5 5 ,4 2 x s5 s6 5 1. 1. - - - 2 5 q5 4 3 s2
+q3 1 q6 q2 q2 5 q4 q3 5 5 6 4 5 q5 6 q1 s4 s3 2 - 5 q6 1 2 3 2 - s5 s1. q5 q5 q5 5 4 2 5 6 5 q2 q5
+5 q4 3 q2 3 1 6 2 2 5 ,4 3 2 6 5 4 5 s5 6 q1 s2 q4 q3 2 - x q1 6 - q1 - 2 - 6 - 6 q4 ,2 4' 2
+- 2 - 2 - 2 0 2
+%END

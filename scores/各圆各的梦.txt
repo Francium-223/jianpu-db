@@ -1,0 +1,19 @@
+%各圆各的梦.txt
+% 出处 https://www.jp114.com/jianpu/1146983.html
+title=各圆各的梦
+tag=
+usertag=
+tagroute=
+confidence=0.959
+conf_p10=0.884
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1146983
+%--
+4/4
+subtitle=score
+5 5 5 6 q6 5 6 q2' q2' 2' 3'. 2'. q3' q2' 6 6 q2' q2' q3' q2' q5 q6 5. 3' 5' q5' q5' 6' 5' q5' q2' q2' 3'. 6 2' q2' q2' q2' q3' q2'
+q2' q3' q2' q5 6 5 1' - q5' 5' q5' q2' q3' ~ 3' - - 6. q3' 3' q2' q3' q6 - - x'. q5' ~ 5' q5' q2' q3' ~ 3' - - 6. q3' 3' q2'
+q2' q5' 5' - - q5 q5 q5 q6 1' q6 q5 q6 q2' q3' q2' ~ 2' - 3' 2' 6 6 2' 2' q5 6 5 ~ 5 - q3' 5' q5' q5' q6' 5' q5' q2' q3'
+~ 3' - q6 q2' q2' q2' q3' 3'. q2' q5 q6 -
+%END

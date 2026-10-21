@@ -1,0 +1,21 @@
+%鸭子洗澡.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49050
+title=鸭子洗澡
+tag=
+usertag=
+tagroute=
+confidence=0.974
+conf_p10=0.958
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49050
+%--
+2/4
+subtitle=score
+,5 1 0 q3 q3 3 3 3 x 0 2 3 4 2 - x 0 0 0 0 1 q1 1 1 x 0 0 0 0 0 x 7 7 7 7 7 x 0 3 3
+4 3 1 5 2 7 1 - 0 0 - - - x q5 q5 q5 q5 ,5 0 0 0 0 0 0 0 0 0 q2 q2 q0 2 2 0 2 2 q0 2 2 0
+q7 ,7 q1 2 2 x 7 7 0 7 ,7 0 q7 7 0 7 ,7 0 7 ,7 q1 2 2 q2 q1 q1 q5 ,5 3 4 q5 q5 q3 q4 q3 q2 q3 1. 3 4
+5 q5 3 q4 3 2 2 1 1 5 5 - 3 4 5 5 3 4 3 2 3 1. 1 2 3 3 1 2 1 7 x - - - - - - - - -
+- - q3 1. x x x x x x x x x x x x qx x x x x x x x x x 0 x 5 1. x x x x x x x x x x
+x x qx x x x x x x x x x 0
+%END

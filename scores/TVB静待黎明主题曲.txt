@@ -1,0 +1,19 @@
+%TVB静待黎明主题曲.txt
+% 出处 https://www.jp114.com/jianpu/1388202.html
+title=TVB静待黎明主题曲
+tag=
+usertag=
+tagroute=
+confidence=0.953
+conf_p10=0.743
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1388202
+%--
+4/4
+subtitle=score
+- - x x x x. q,6 3 q2 3 - 3 q3 q2 q3 q2 q,7 q,6 5 q4 5 - 5 q4 q3 4 q3 q2 s3 s,7 s,6 s,5 s,7 s2 s,7 s,6 ,7 - ,6 -
+q,6 3 q2 3 - - q2 q2 5 q6 3. q2 3 - - - 3 - q,6 2 2 - - q,7 2 q3 ,7. q,6 ,7 - - - ,7 0 q3 6 q5 6 - -
+q6 7 q6 q3 5. q6 5 - - - 5 3 ,6. q1 2 - - q2 q3 q2 q,6 3 - 3 - - - 3 0 q,6 3 q2. 5 3 ,6. 2 - - q2 q3
+q2 q,6 - - - - - - 0
+%END

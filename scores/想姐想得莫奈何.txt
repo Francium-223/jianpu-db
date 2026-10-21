@@ -1,0 +1,21 @@
+%想姐想得莫奈何.txt
+% 出处 https://www.jp114.com/jianpu/1235569.html
+title=想姐想得莫奈何
+tag=
+usertag=
+tagroute=
+confidence=0.960
+conf_p10=0.861
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1235569
+%--
+4/4
+subtitle=score
+- - - q0 s1 s1 q1 q6 q5 s3 s5 q2 q3 3 - - - q0 s1 s6 q3 q3 s1 s2 q3 q2 s1 s6 q0 q6 6 - - q0 s6 s3 s6 s3 s6' s1'
+q6 q3' q1' q2' s1' s6 q2' s1' s6 q6'. s2' s5 q6 q0 q1'. s2' 3' - - - q2' q2' q3' q2' q2' 0 q2' s1' s6 3' 1' 6 - q6'. q3' q2'. q3' q0 2' q3'
+q1' q6 s5 s6 q5 3 - q6 q2' q2'. q1' 2'. q3' q1'. s6 q7 s6 s5 6' - 6' - 2'. q3' q1' q6 q6 q5 3 - 6 2' 1'. q6 q5. s3 s2 s1 q,6 q6
+q0 q0 q6 q0 q6 q6 q0 q5 q6 q7 q5 q0 1' q1' 6 6 q0 q5' q3' q5' q2' 3'. q0 1' q6 3' 3' 2' 3' ~ 3' q2' s1' s6 6 - 6 q6 q6 6
+qx q0 3 q3 q3 q5 3 q0 3' 2' 2' x q0 q6 2' q0 q6 q1' 5 6 6. qx q0 1' 1'. q0 7 ~ 7 3 3' 3'. q0 3 2' 2'. q0 q0 q3 q3
+q3' q2' 2' 0 q2' 2' s,1' s6 6 - 6 - 5' 6' ~ 6' - 6' -
+%END

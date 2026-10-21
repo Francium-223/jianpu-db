@@ -1,0 +1,17 @@
+%上前线.txt
+% 出处 https://www.jp114.com/jianpu/1281738.html
+title=上前线
+tag=
+usertag=
+tagroute=
+confidence=0.997
+conf_p10=0.990
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1281738
+%--
+2/4
+subtitle=score
+5. 4 3 5 2 q1 q,6 ,5 ,3 1. q,7 ,6 2 2 - 2 0 6. 5 4 q3 q4 5. q4 3 ,5 ,6 1 2 q1 q,6 5 - 5 0 q6 6 q6 q5 q4
+q4 q4 3 q4 q5. s6 5 4 3 x q6 6 q6 q5 q4 4 q4 q3 q4 5. s6 q5 4 3 ,5 ,6 1 2 q1 ,6 5 - 5 0
+%END

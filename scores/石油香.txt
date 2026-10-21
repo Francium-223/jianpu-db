@@ -1,0 +1,21 @@
+%石油香.txt
+% 出处 https://www.jp114.com/jianpu/1343855.html
+title=石油香
+tag=
+usertag=
+tagroute=
+confidence=0.981
+conf_p10=0.956
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1343855
+%--
+2/4
+subtitle=score
+q5' s6 s6' s5 q3' 5 - q5 s6 s6' s5' q3 q5 s5 s3' 2 q2' s3 s5' s2' s1 s1 s6' ,5 - q5' s6 s6' s5 q3' 5 - q5 s6 s1' s6 s5' q3 q5 s5
+s3 2 q2 s3 s5' s2' s1 s1 s6' 1 - s5 s6' s2' s1' 6 - q5 s3 s2 s1 s2' q3 2 - q3 s2' s3 q5 q6' 5 3' 5 q2 s3 s5 s1 s2 q6 ,5
+- q1'. s2' q3' s2 s3' q5' s3 s2' q1 q6 q2 s3' s5 s1 s2 s6 s1' 2 - q2 s3 s5 s1 s2' q6 ,5 - q1'. s2' q3' s2 s3' q5' s3 s2' q1 q6 q2 s3
+s5 s1 s2 s6 s1' 2 - q5. s3 q2 q3 q2 s1 s6 1 q,6 s2 s3 s2 s1 q,6 ,5 - q,6' s1 s2' q3 s5 6' q5' s3 s2' q1 s6 q1 s1 s2 q3' s5 s6'
+5 - q6. q5 q6 q5 s3' s2 3 q2 s3 s5 s2 s1 s1 s6 1 - 1 - s5 s6 s2' 6 - s5 s6 q2' s6 s5' s3 s2' q3 q2 s2 s3 s2 s1 q6 q1
+q2 q3 q5 q6' 5 6' 5 ~ 5 - s3 s2 s2' s3' 2 s2 s1 s1 s6' 1 1 - s6 s2' s3' 2' s2' s1' s6' - - - 0
+%END

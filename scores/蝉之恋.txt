@@ -1,0 +1,19 @@
+%蝉之恋.txt
+% 出处 https://www.jp114.com/jianpu/1525632.html
+title=蝉之恋
+tag=
+usertag=
+tagroute=
+confidence=0.974
+conf_p10=0.950
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1525632
+%--
+2/4
+subtitle=score
+1 0 2 x 4 q,5. s6 q3 s2 s3 1 s1 s2 q3 3 s6 s5 ,5 1 q,6 1 q,6 q6 s5 s6 3 q1 s1 s6 s1 s2 s5 s2 x 3 q3 5. q3 5. q6
+q5 q3 q2 q3 q1 ,6 q,5'. q6 q1 q2 q3 q5 q6 q5 q3 q3 q3 q2 3 q2 s1 x q1 6 q3 s5 s6 s5 6 s3 s5 q6 q6 1 1' s1' s6 6 q,6'. s1
+q2 q3 s5' s3' 5 5 s3 s5 q6 1 s6 s5 5 q3. s5 s6 s1 s1 s6 1 s6 s6 q5 6 s5' s6 5 3 q,5. s6 q1 s2 q3 q5 q6 s5 3 2 3 s2
+s1
+%END

@@ -1,0 +1,23 @@
+%瑞士民谣.txt
+% 出处 https://www.jp114.com/jianpu/981658.html
+title=瑞士民谣
+tag=
+usertag=
+tagroute=
+confidence=0.977
+conf_p10=0.957
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-981658
+%--
+4/4
+subtitle=score
+1 - - 1 x x 1 5 x x 3' - 2' 3' 2' ,1' 2' 1' - 3' q2' q0 q2' q7 q1' q3' q2' q0 q2' q7 q1' q3' q2' q0 q2' q7 1' q3' 5 q5
+q4 q3 q2 3' - ,2' 3' 2' ,1' 2' 1' - 3' q2' q0 q2' q7 q1' q3' q2' q0 q2' q1' 2' 3' q2' 0 2' 1' q2' q3' 1' - - 3' - s2' q3' q2' s1'
+2' 1' - - 3' q2' q0 q2' q7 ,1' q3' q2' q0 q2' q7 q1' q3' q2' q0 q2' q7 ,1' 3' 5 q5 q4 q3 q2 3' - 2'. 3' 2' 1' 2' 1' - 0 3' q2'
+q0 q2' q7 q3' q2' q0 q2' ,1' q2' q3' q2' q0 q2' q1' q2' q3' 1' - - 1 q1 q2 q3 q4 5 3 5 6 4 6 5 3 5 4 2 4 3 1 3 2
+q2 q1 q2 q3 1 - - 1' q1' 2' q3' q4 5' 3' 5' 6' 4' 6' q6' q5' 3' 5' q5' 4' 2' 4' 4' 3' 1' 3' q3' 2' q1' q1' 2' q3' q4' q3' 1' 1'
+,1' s2' ,1' 7 ,1' 2' s3 s4. s4' 5' - - 1. q1 3' - s2' 3' 2' ,1' 2' 1' - 3' 2' 2' 7 q3' 2' q2' q7 q1' q3' 2' q2' q7 q1' q3' 5 q5
+q4 q3 q2 3 - 2 2 2 ,1 2 1 - - 0 3' - q2' 3' q2' s1' q2' 1' - - 3 - 2 q3 q2 ,1 s2 1 - - 0 1' - - 0 1'
+- -
+%END

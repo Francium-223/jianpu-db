@@ -1,0 +1,24 @@
+%静静的白天鹅.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=13791
+title=静静的白天鹅
+tag=
+usertag=
+tagroute=
+confidence=0.954
+conf_p10=0.868
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-13791
+%--
+4/4
+subtitle=score
+- - q0 q,3 1 q,7 1 q0 s,3 ,7 q,6 ,7 q0 q,3 2. q2 q1 ,7 q1 q1 q2 4 s3 q2 3 q0 q5 q5 4 s3 s2'. ,6 q0 q4 q4 q3 q3 s2 s3' q3'
+s2 s1' 1' q1 q,4 q,4 q1 q1 2 q2 q1 s1 q6 ,6 - 0 1 q,7 q1 q7 q6 q0 s1 s1 5' q3' x 4 x 2' 0 1' q1 1 q2 2' x 2. q1 q2
+q1 q,7' ,7' 2 q1 q,7 q,6 q,3 q0 q,3 q1 q,7 q1 q,6 ~ ,6 - q0 q,3 1 q1 q,7 1 q0 q,3 ,7. q,7 q,6 ,7 q0 q,3 2. s2 s1 ,7 q1 s1 s2 4. s3
+s2 3 q0 q5 q5 4 s4 s3'. ,6 q0 q4 q4 q3 q3 s2 s3' q3' s2 s1' 1' q1 q,4 q,4 s1 s2 ~ 2 q1 s1 s2 q1 s,7 s1' q1' s,7 s,6' ,6' - 1. q,7
+q1 s,7 s,6' q,6' s1 s1 2. s1 q2 s1 s,7' ,7' 2 q1 q,7 s,6 s,3' q,3' s,3 s1 q,7 s1 s,6 ~ ,6 - 1' s0 s3 q2' 1' q0 s5 3 s2 3 - 5' - -
+- - - - - - - - - q0 sx. 3 - - q0 q5 q5 4 q3 qx ,6 q4 q4 q3 q3 s2 s3' ~ q3' s2 s1' ~ 1' q1 q,4 q,4 q1 q2 2 s1
+s2 q1 s,7 s,6 ~ ,6 - 0 1 q,7 q1 s,7 s,6' q,6' s1 s1 2 s1 q2 s1 s,7' ,7' 2 q1 q,7 s,6 s,3' q,3' s,3 s1 q,7 s1 q6 ,6 - 0 1. q,7 q1 s,7
+s,6' q,6' s1 s1 2 s1 q2 s1 q7' ,7' x. 2 q1 q,7 q6 q3' q,3' q3 s1 q1 s2 s3 3 - q0 q5 q5 4 q3 q4 ,6 q4 q4 3 q3 q2 q3 q2 q1' ~
+1' q1 q,4 4 q1 2. q1 q2 3 - - q3 q5 2 q1 7 q,6 q,3' q0 q,3 q1 1 0 ,7 ,7. q1 s6 ~ ,6 - 0 0
+%END

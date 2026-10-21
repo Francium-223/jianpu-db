@@ -1,0 +1,19 @@
+%红色接班人歌.txt
+% 出处 https://www.jp114.com/jianpu/1225572.html
+title=红色接班人歌
+tag=
+usertag=
+tagroute=
+confidence=0.849
+conf_p10=0.517
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1225572
+%--
+4/4
+subtitle=score
+5. q6 q5. s4 q3 q2 1 3 ,5 - 1. q2 q1. s7 q,6 q,5 3 - - 0 6. q7 q6. ,5 q4 q3 s2 q5. s2. s5 s3 s5 1 qx. s5 q7 q7 6' 6 6.
+q3 q3 5 5 5' sx 1 q6 q6. q5' q1'. 4' 2 3' 3 0 q2 x. s,1 s1 2. 5 q2' 1 q7 q,6 q6 q,,5' q,5' 1' 1 q6 1 q5'. - s7' s6 q,4 q4 q1'
+q5 6 5' - 1. s6 q5 q5. q5' s6 q3 q5 q1 q1 qx q4 q4 q4 3' 3 q2 q2. q,1 s1 s,1 s1 1 - 0 5. q6 q5. ,4 q3 q2 1 3 q,5 q1. d2
+q1 s,7 ,6 ,5 3 - - 0
+%END

@@ -1,0 +1,18 @@
+%海那边有一座美丽的小鸟岛.txt
+% 出处 https://www.jp114.com/jianpu/812793.html
+title=海那边有一座美丽的小鸟岛
+tag=
+usertag=
+tagroute=
+confidence=0.916
+conf_p10=0.675
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-812793
+%--
+4/4
+subtitle=score
+x 6 3 6 1 3 1 6 3 6 3 6 1 3 1 6 3 x 3 5 6 5 6 - - 1 - 1 - - x x - - - x x 1 2 -
+2 ,6 1 2 2 q1 2 q3 q3 q1 ,,2 3 q5 q5 q2 q3 q5 6 7 7 7 7 6 7 2' 1' q7 q1' 6 0 q6 6 6 0 1'. 2 3 q6 3 2
+q3 q2 1 3 x 6 0 x 6 ,6 ,1 2 q3 5 q3 6 q6 2 1. 3 q5 q6 x 6
+%END

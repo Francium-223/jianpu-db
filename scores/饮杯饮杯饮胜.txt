@@ -1,0 +1,21 @@
+%饮杯饮杯饮胜.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=22291
+title=饮杯饮杯饮胜
+tag=
+usertag=
+tagroute=
+confidence=0.940
+conf_p10=0.685
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-22291
+%--
+4/4
+subtitle=score
+1 x - qx' x' x q0 q1 s2 q3 q5 q5 q6 s7 q6 q5 q3 q5 s3 s3 s3 s6 q6 s6 1' s6 s5 q3 s2 s3 q2 q1 s6 1 - 7 - q1'. s6 s1'.
+q2'. ~ 2' s5 q1' s6 1' - 0 0 - 0 - q3 q5 q5 q3. q2 q5 q5 q2. q1 q3 q3 q1 q1 q3 3 q,6 q1 q1 q,6 q,5 q1 q1 q,5 q,6 q1 q1 q3
+q2 q1 q1 q2 q3 q5 s5 q3. q2 q5 s5 q2. q1 q3 q3 q1 q1 q3 3 q,6 q1 q1 q,6 q,5 q1 1 q6 q1 q1 q3 q2 q1 1 ~ 1 - - q1'. s1' q1'.
+q7. s6 5 q6 q6 q5 s3 s5 5 - q1'. s1' 0 0 0 - 0 x q1'. s1' q7. s6 5 q6 q6 q5 s3 s5 5 - s1' s1' s1' q7 q6 5 q6 q6 q5 s3
+s5 5 s1 s1 q3 q5 q5 q5 q6 q1' ~ q1' q7 ~ 7 ~ 7 0 q1 q1 q3 q1 q1 q1 1 - - 5 3 q3. q1 q1 q4. - 5 5 3 q3. s4 s3
+q4. - 3 q5 q5 q6 q1' ~ q1' q7 ~ 7
+%END

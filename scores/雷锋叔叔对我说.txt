@@ -1,0 +1,18 @@
+%雷锋叔叔对我说.txt
+% 出处 https://www.jp114.com/jianpu/1201173.html
+title=雷锋叔叔对我说
+tag=
+usertag=
+tagroute=
+confidence=0.835
+conf_p10=0.483
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1201173
+%--
+4/4
+subtitle=score
+x s3 s5 q6 3 s3 q6 5 3 5 q,6 - 3. - ,6 x ,6 q6 x x q3 q6 x 6 q6 3 q3 q6 3 q,6 x 3 q6 ,6. q1 6 ,x q3 q,6. q,6
+x 3 q3 q3' q3 q3' q3 qx' q3 q3 q3 q3 q3' q3 q3 q5 q2 3 2' s6 3 3 3 4. 4 4 - 6' - - ,6 x 1' x q6 q1' q3 - - -
+1 - - ,6 - 1 x 3 ,6' ,x ,7 ,6 q,6' 1 - 1
+%END

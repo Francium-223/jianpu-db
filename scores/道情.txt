@@ -1,0 +1,18 @@
+%道情.txt
+% 出处 https://www.jp114.com/jianpu/1587050.html
+title=道情
+tag=
+usertag=
+tagroute=
+confidence=0.863
+conf_p10=0.463
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1587050
+%--
+2/4
+subtitle=score
+x. x. 1. x 5. q3 q3 q2 q3 q3 5 q3 q2. s3 s1 s6 q5 6 - x q3 6 q1' q2' s3' s2' s1' s6 q5 q2' s1' s6 s1' q5 6 - q3 6 q1' x'
+,1' x q2' s3' s2' s1' s6 q5 q5 s6 s1' s6 s5 s3 s5 2 - s3 s2 3 q5 s6 s5 6. x' ,1 s,1' ,x ,x'. x' x' qx' q,,1 q6 s3' q1' s6 s1' - 2'
+- q3' q3' q2' q3' q3 q5. s3 s2'. s3' s1' s6 q5 6 - q3' q3' q2' q3' q3 q5. s6 q2'. s3' s1' s6 q5 6 - 6 -
+%END

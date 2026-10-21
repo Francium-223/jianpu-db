@@ -1,0 +1,18 @@
+%绘出山河万里绣.txt
+% 出处 https://www.jp114.com/jianpu/1377449.html
+title=绘出山河万里绣
+tag=
+usertag=
+tagroute=
+confidence=0.968
+conf_p10=0.926
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1377449
+%--
+2/4
+subtitle=score
+1 - - 4 1' x' 5 1 q,3'. s2' 1 s2'. s3' 5 - 1' 2' q,6'. s5' 3 5 s6' s3' 2 - 3 5 6 5 s6 s6 s6. s1' 2' - 3' 2' 1' 6 5
+,6 s2' s2' 1' - 3' 3' q2'. s3' q2' q1' q6. s5 s6. s1' 2' - 3' 3' q2'. s3' q2' q1' 6 q2' q3' 5 - 1'. q1' 2' 1' q5'. s6' s3' s2' 3 - 5. q5
+5 3' 2 q2'. s3' 1 - 5. q5 5 3' q2' 2'. 3' - 1' - 0
+%END

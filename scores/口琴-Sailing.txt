@@ -1,0 +1,17 @@
+%口琴-Sailing.txt
+% 出处 https://www.jp114.com/jianpu/989445.html
+title=口琴-Sailing
+tag=
+usertag=
+tagroute=
+confidence=0.985
+conf_p10=0.958
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-989445
+%--
+5/4
+subtitle=score
+q5 q4 q4 - q5. 4 3 - - q5 q3 q6 q3 2 q2. s5 q6 q3 1 - q,5 q,6 q3 q1 2 - q2 q1 1 - 0 q6 q5 q3 q1 2 - q4 q5 q5
+3. q5. s6 ,6 s5 q3 q3 q2 2 - ,4 q5. ,5 q3 ~ 3 q5 ,6 ~ ,6 5 q3 q3 q2 2 - q2 q1 -
+%END

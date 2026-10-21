@@ -1,0 +1,23 @@
+%给我温情吧！爱人_2.txt
+% 出处 https://www.jp114.com/jianpu/1220934.html
+title=给我温情吧！爱人
+tag=
+usertag=
+tagroute=
+confidence=0.993
+conf_p10=0.993
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1220934
+%--
+4/4
+subtitle=score
+5 - s0 s5 s6 s5 s3 s2 s3 s5 6 - s0 s1' s2' s1' s6 s1' s6 s5 3. s2 s3 q5 q5 q0 d5 d6 d1' d2' 3'. d2' d3' d2' d1' 6 q0 d3 d5 d6
+d1' 2' - q0 s3' s4' s3' s2' s1' s7 1' - s1' s1' s1' s1' s6 d1' d6 s5 s6 q1'. s1 q2 q3 q5 s6 s5 q3 q5 q0 s5'. s3' q3' s2' s1' 2' - q0 s1'
+q1' q3' q2'. s3' q1' s6 s5 q0 s3 s6 q5 s3 s2 q2 1. q0 s2 s2 s1 q1 3 - q0 s5 q5 q3 6 - q0 5 s3' s2' 1' s1' d2' d1' s6 s5 5 -
+5 1' 1' s6 s5 5 s3 s2 q1 2. q3 5 - q0 s1 q1 q1 q1 s2 s1 q2 q3 s0 s5 s6 s1' q6'. s6 s5 5 5 3'. s2' s1' 2' q5 s6 s1' - -
+5 - q5 s6 s5 s3 s2 s1 s2. q1. s1 q2 q3 q5. d6 d5 q3 q5 q0 s5 s3 q3 s2 s1 2 - q0 s1 q1 q3 q2. s3 q1 s6 s5 q0 s3 s6 q5 s3
+s2 1 - q0 s2 s2 s1 q1 3 - q0 s5 q5 q3 6 - q0 5 s3' s2' 1' s1' d2' d1' s6 s5 5 - 5 1' 1' s6 s5 5 s3 s2 q1 2 q3 5
+- q0 s1 q1 q1 q1 s2 s1 q2 q3 s0 s5 s6 s1' q6'. s6 s5 5 5 3'. s2' s1' 2' q5 s6 s1' 1' - 1' 5' - q5' s6' s5' s3' s2' s1' s2' 3' d2'
+d3' d2' d1' 6 q0 d3 d5 d6 d1' 2' - q0 s3' s4' s3' s2' s1' s7 1' - 6 6 1' - 1'
+%END

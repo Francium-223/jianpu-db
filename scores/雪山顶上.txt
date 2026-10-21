@@ -1,0 +1,18 @@
+%雪山顶上.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=26065
+title=雪山顶上
+tag=
+usertag=
+tagroute=
+confidence=0.965
+conf_p10=0.897
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-26065
+%--
+2/4
+subtitle=score
+q3. s5 s6. d1' s6 s5 s5 s3 q3' q3 q3' q6 s5 s3 q5 s6 s5 q3 s5 s3 q2. s3 s1 q6 q3 s2. d3 s2 s1 6 ~ 6' 6 ~ 6' 6'. ~ 6 q3. s5
+q3 q6 s1 q2. s3 s1 q6 q3 s2. s3 s2 s1 6 ~ 6' q6. d1 s3 s5 q2. s5 s3 s2 s1 s2 6' ~ 6 6' ~ 6 6' ~ 6 s2. d3 s2 s1 6 ~
+6 q6. d1 s3 s5 q2. s5 - - 0 - s3 s2 s1 s2 q6 q6 q6. q6 q6 q0
+%END

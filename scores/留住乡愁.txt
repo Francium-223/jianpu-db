@@ -1,0 +1,21 @@
+%留住乡愁.txt
+% 出处 https://www.jp114.com/jianpu/1202683.html
+title=留住乡愁
+tag=
+usertag=
+tagroute=
+confidence=0.735
+conf_p10=0.441
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1202683
+%--
+4/4
+subtitle=score
+qx q0 q5' 5 1. q3' q3 3'. q3 3'. 5 q2' q5 q2' q3' 5. d6 5' d5 - d6 q6 q3 q1' 0 q5 ,2 q3' s3 q3' q6 0 5 h2' s3 3' d,2' 1 5 s2'.
+x 6' q2 s0 q6 s3' s3' 6 3 - q2' s2 q3 q3 d1' q,x x. 0 s5 qx 3' d3 q1' d1 s1 0 s3' h2' h2' 3 q3' 3' q2' d3' s3' 3 0 6 0 5'
+q5 q1. 2 q,1' q1 x 1 3 ,,1 2 3' 1 2'. q2 q2 3 2 ,2' q2 3. 5 1 1 3' q7' q6 q6 q1 5 x 1 5 5. x' s1 q1'. 5 2 1 6
+5' 1 x' 5. 5' 5 q6' 1. qx x qx q6 1 ,1' 1. ,1' 0 ,1 ,6'. - s2' qx 6' q2 ,6 1 1 3'. 0 2 1 3' q1' q3' 1 q,x 1 1 3 q1
+5 5 x q,3 q5 6' 6' 3 1. 1 q6 1' 1' s1 5' q1 1. 1 1'. 6 0 ~ q4 q0 x 5 q5 q5 1' x 2' 5 s3 5' q1' q,1 q1' s6' 1' 1
+4 5' ,x 1 5 x' x 3' x
+%END

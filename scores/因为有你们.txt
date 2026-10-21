@@ -1,0 +1,19 @@
+%因为有你们.txt
+% 出处 https://www.jp114.com/jianpu/1231085.html
+title=因为有你们
+tag=
+usertag=
+tagroute=
+confidence=0.942
+conf_p10=0.700
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1231085
+%--
+4/4
+subtitle=score
+q1 - - - - 1 1 0 0 - x x. x. x. qx - x x' x x q6. s6 q6 q3 q1'. s1' q1' q1' q7. s6 q5 q3 6 - q5 5 q3 5 q1' q7
+6 q6. s6 q6 q0 0 q6. s6 q6 q3 2 3 q2. s2 q1 q,7 ,6 - q1. s1 q1 q,6 2 3 q5. s5 q6 q5 3 - q3 3 q2 q3. s1 q6 q5 q6. s6 q5
+q1 2 - q2 2 q3 q5 q3 5 q3 q5 q1 s5 ,6 - q6 6 q3 1' 1' q7. s6 q5 q3 6 - q6 6 q3 1' 1' q7. s6 q5 q2 3 - 3. q2 3
+6 q5. s6 q5 q3 2 - q2 2 q3 q5 q3 5 q5. s3 q5 q7 6 - q2 2 q3 q5 q3 5 q5. s3 q5 q1 6 - 5. q3 5 1 6 - - -
+%END

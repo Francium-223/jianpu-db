@@ -1,0 +1,19 @@
+%当月圆的时候.txt
+% 出处 https://www.jp114.com/jianpu/1579001.html
+title=当月圆的时候
+tag=
+usertag=
+tagroute=
+confidence=0.948
+conf_p10=0.774
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1579001
+%--
+4/4
+subtitle=score
+1 - - x 1 5 x 1 1 x 2 q3. s5 5. q6 - 1'. q2' q3' 1' q6 5 q6 q5 1. q2 q3 5 s3 s2 2 - 2 q3 q5 5. q6 q2' q3' 2'.
+q7 q6 5. q6 s6 s1' q1 q2 q3 5 q2 1 - 1 q2' 3'. s2' q2' 3'. q3' q2' q3' q7 q6 s5 6. q6. s1' 6 2' 2' s,6 q5 5 - 5 q3 0 q,2 1'.
+2 q3 q2' q7 7 s6 s5 0 6 - q0 s,1' ~ s1' q1 q2 q3 5 q2 1 - 1 q3. s5. 1 - 1 q2' 3'. s2' s1' q5 3' s2' 2' - 2' q6 q1' 2'.
+2' s6 q2 s6 s5 5 - 5 q3 q2 1. q2 q3 1' q2' q7 7 s6 s5 s0 6 - q0 s1' 6 q2' 2' q6 1' 1' - - 1'
+%END

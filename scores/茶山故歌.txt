@@ -1,0 +1,16 @@
+%茶山故歌.txt
+% 出处 https://www.jp114.com/jianpu/1162118.html
+title=茶山故歌
+tag=
+usertag=
+tagroute=
+confidence=0.857
+conf_p10=0.527
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1162118
+%--
+4/4
+subtitle=score
+0 0 0 0 0 q4' q5' 6. 0 0 ,x 0 0 2. 0 5' 6'. 6' 5'. 2 0 0 sx 5 3 x 1' ~ 1' 0 x 3 q5 q6 3. 1
+%END

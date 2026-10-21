@@ -1,0 +1,18 @@
+%亲亲吊脚楼.txt
+% 出处 https://www.jp114.com/jianpu/964029.html
+title=亲亲吊脚楼
+tag=
+usertag=
+tagroute=
+confidence=0.981
+conf_p10=0.938
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-964029
+%--
+4/4
+subtitle=score
+q3' q1' q1' q5 - q2' q1' q1' q3 5 - q1' q5 q5. s1' q5 q3 q3 q1 q5 q1' q2'. s1' 1' - q1' q5 q5. s1' q5 q3 1 q5 q1 q3. s5 5 - q1' q5
+q5. s1' q5 q3 1 q5 q1 q3. s2 2 - q3 q5 q5. s1 q3 5. q3 q5 q1' q5 6 - q1' q5 q5. s1' q5 q3 q3 q1 q5 q1' q2'. s1' 1' - q3' q1' q5
+- q2' q1' q1' q3 5 - q1' q5 q5. s1' q5 q3 q3 q1 q5 q1' q2'. s1' 1' - 2'. q5 6 1' 1' - - - 1' 0 0 0
+%END

@@ -1,0 +1,18 @@
+%烦恼歌.txt
+% 出处 https://www.jp114.com/jianpu/1203153.html
+title=烦恼歌
+tag=
+usertag=
+tagroute=
+confidence=0.966
+conf_p10=0.861
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1203153
+%--
+4/4
+subtitle=score
+q2' - - q2' 6 6 q5'. 5'. 5 - - - - - q6 6 - - - - x qx x - x 0 x qx qx. x x x x qx qx x x 0 qx qx
+x x x x qx qx qx qx 0 qx x qx qx x x qx 0 0 5' 5 5' ,6' 5' 0 1 5 5 2 q2 - 4 4 4 4 4 ,x q6 6' 5 4
+q4 5 5 5 5 ~ 5' x - q6 q6 5 6 6' 5' 6 - 5 0 5' 5 5 5' q2' 3 - q6 6 5 4 5 6' 5 4 4
+%END

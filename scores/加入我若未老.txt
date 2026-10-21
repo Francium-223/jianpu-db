@@ -1,0 +1,19 @@
+%加入我若未老.txt
+% 出处 https://www.jp114.com/jianpu/959448.html
+title=加入我若未老
+tag=
+usertag=
+tagroute=
+confidence=0.990
+conf_p10=0.995
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-959448
+%--
+3/4
+subtitle=score
+3 - 3 6 - - 7 6 5 3 - - 6 1 6 3 - - 3 2 1 2 - - 1 7 6 3 - - 7 6 5 6 - - 6 - 6 3
+- 1 2 0 3 2 - - 2 3 1 7 - 6 5 6 3 1 - 7 6 0 - 6 1 6 3 2 1 2. q2 3 2 0 - 2 3 1 7 0
+6 5 6 3 5'. ,6 7 6 0 - 2 3 1 5' 6 7 6 0 - 3 3 6 0 - q6 7 6 0 - 7 6 7 3 0 3 2. q3 3 - -
+1 7 6 3 0 q2 q1 2 0 3 2 0 - 3 2 3 5 - 3 5. q,6 7 6 - 3 2 3 5 - 3 q6 7 6' 0 - 6' 0 0
+%END

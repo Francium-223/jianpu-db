@@ -1,0 +1,22 @@
+%风和雾_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=19730
+title=风和雾
+tag=
+usertag=
+tagroute=
+confidence=0.987
+conf_p10=0.969
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-19730
+%--
+4/4
+subtitle=score
+6 3 7 3 6 3 7 3 6 3 2 3 2 7 - - 0 ,1 s2 q3 3 q3 s2 s1 1 q0 s6 2 2 q,,2 ,7. ,7 q0 s,,3 ,1 q1 ,1 q1 s7 6
+~ ,6. 6 ,1 2 2 2 q1 7 ~ ,7 7 7 7 5 6 7 6 6 ,6 - - ,6 - - q0 ,1 2 q3 q3 q3 q2 q1 1 0 6 2 q2 2 7.
+,7 0 s3 q1 q1 q1 1 7 6 ~ ,6'. s6 ,,1 2 2 q2 q1 q7 ~ ,7 7 7 7 5 ,6 q,7 q,6 ,6 ,6 - - ,6 - - - 0 2 2 q2 2
+3 q3 q2 q,,1 2 3 q3 ,6 ~ ,6 - - q0 2 2 q2 2 s3 ~ 3 2 1 q2 q3 q3 3 q4 3 ~ 3 - q0 2 2 q2 2 3 q3 q2 q1
+2 3 3 q6 ,6 - 0 6 6 q2 q2 2 - 0 q4 3 3 - - - 0 s6 s6 6 5 6 0 6 5 q4 q4 3 4 4 - q5 5 6 3 -
+4 3 3 2 q3 3 - q0 6 6 6 6 7 ~ 7 q6 5 3 5 q,4 4 s3 4 5 q4 4 - 0 0 q3 q4 q3 ,7' ,7 ~ 7' 7 7 ,1 q1
+q,6 ,6 - - - ,6 - - -
+%END

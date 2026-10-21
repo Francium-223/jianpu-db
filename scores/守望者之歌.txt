@@ -1,0 +1,20 @@
+%守望者之歌.txt
+% 出处 https://www.jp114.com/jianpu/862816.html
+title=守望者之歌
+tag=
+usertag=
+tagroute=
+confidence=0.928
+conf_p10=0.674
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-862816
+%--
+4/4
+subtitle=score
+1 - - x 4 4 1 x 6 6 - - q,6 q3 q3 q2 q2 q3 q,7 q,5 q,7 ,6 - - 3 3 - - q2 q2 q2 q3 q3 q5 q5 q6 q2 q4 3 -
+- 2 2 - - q,7 q,7 q,7 q3 q3 q2 q3 q4 q3. s2 2 - - ,7 ,7 - - q,7 q1 q2 q2 q,7 q3 q2 q1 q,6 3 - - 0 x x. 1'. ,,,x. ,,,1.
+x'. x ,7 ,7 - - q,7 q1 q2 q2 q2 q2 q1 q,7 q,5 q,7 ,6 - - ,6 - - q6 q7 1' q1' q7 s6 q5. 6 - - q3 q5 6 q6 q6 q6 q5 s5
+q6. 3 - - q6 q7 q1' 1' q1' q1' q7 s6 q5. 6 - - q6 q5 6. s6 s6 q5 q5 s5 q6. 3 - - q6 q3 q2 2 q2 q2 q2 q2 3 - - q3
+q5 q6 6 q6 q6 q6 s6 q1. 7 - - q3 q5 6. q5 6 q3 q2 1. q,7 ,6 - q,7 q,7 q,7 s7 s1 q2 q2 q,7 ,6 - - -
+%END

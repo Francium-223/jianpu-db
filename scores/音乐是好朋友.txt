@@ -1,0 +1,16 @@
+%音乐是好朋友.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49029
+title=音乐是好朋友
+tag=
+usertag=
+tagroute=
+confidence=0.995
+conf_p10=0.993
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49029
+%--
+3/4
+subtitle=score
+3 3 3 2. 3 4 ,5 ,6 ,7 1 - - 5 5 5 4. q5 6 4 4 4 3. q4 5 3 3 3 2. 3 4 ,5 q6 q6 ,7 1 -
+%END

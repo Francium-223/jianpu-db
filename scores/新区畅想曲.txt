@@ -1,0 +1,16 @@
+%新区畅想曲.txt
+% 出处 https://www.jp114.com/jianpu/1269474.html
+title=新区畅想曲
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.998
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1269474
+%--
+3/4
+subtitle=score
+q6 q7 q6 q5 3 q4 q5 q4 q3 2 ,5 5 4 3 1 2 3 3 4 5 3 2 3 1 ,5
+%END

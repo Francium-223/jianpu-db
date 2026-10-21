@@ -1,0 +1,21 @@
+%兵团军垦进行曲.txt
+% 出处 https://www.jp114.com/jianpu/1201471.html
+title=兵团军垦进行曲
+tag=
+usertag=
+tagroute=
+confidence=0.636
+conf_p10=0.342
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1201471
+%--
+4/4
+subtitle=score
+7 0 0 1 2 0 0 x. 2' x 3 ,1 x x x x' x x x x q,1 0 6 d6 sx q,3 q,2 q2 x 1 2' x s1' q1' s7 s,,1 s3 1 q0 0
+sx' 3 sx' d1' 1' x d0 s,,1' s2 2 6' x 2 2 q0 1 q4 q1 0 q,2 q1 ,,1 ,1 1 ,x' ,x' s,x 2' q,2' ,1 q1 x q,3' 1 ,x' d1 d1' ,1' s0 d1'
+,1' ,1' ,1 s1 ,3' q,1' ,1' x 2 2' q6 ,6 ,6 ,x' s,1 x q1 1 q,1' s1 s1 5 q1' d1 5' 1 6 1' ,1' 5 x s,1 2' s1 1' 1' h1 q1' q1' h,1
+1' s1' x 3' 3' 3' s2' 1'. ,,1 s1 q1' 4. 2' 4' s1' s1 q1' q1 ,x' ,x' x x' x' x' x s0 s1 h,1 d1 s,,1 s,2 q1 s,1 d1' x' d,1 h,3 s6' s,1' q2'
+s2. q1 q2' q2 q2' q2'. qx ,,x 2' 2 1' d1' d1 d1 d1' s1 q1' 1'. s,2 2 2 ,2 d,,6' 6 2' 6 q1 1' 1' q5 q1 d1' s1 d1' s,1 q1 s,1' q1 qx q,4'
+q,1 s,2' s2 h1 s6' s1 qx h1' d1 s1 x' 1' 0 h3 d3 x x' h5 d,x s,,,x h,,6 q0 s,,x d2 q2. s2. s1' q2 2 0 x - - - - - -
+%END

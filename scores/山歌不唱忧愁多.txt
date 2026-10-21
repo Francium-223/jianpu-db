@@ -1,0 +1,16 @@
+%山歌不唱忧愁多.txt
+% 出处 https://www.jp114.com/jianpu/870145.html
+title=山歌不唱忧愁多
+tag=
+usertag=
+tagroute=
+confidence=0.607
+conf_p10=0.267
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-870145
+%--
+2/4
+subtitle=score
+s,2 s,6' q1' qx s2' q,2' ,2 s,6' dx s,x' q,x' ,1' q,x x' 1' x
+%END

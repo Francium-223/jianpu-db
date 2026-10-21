@@ -1,0 +1,19 @@
+%来生甘做德州人.txt
+% 出处 https://www.jp114.com/jianpu/962288.html
+title=来生甘做德州人
+tag=
+usertag=
+tagroute=
+confidence=0.963
+conf_p10=0.939
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-962288
+%--
+4/4
+subtitle=score
+0 0 0 q0 s2 d,7 q,6 q,7 ,3 q,5 q,6 q1 0 s1 s,6 0 q3 s5 q3' - q3 s6 q6 d3 s5 q2 q,7 ,6' - q0 s,6 q,5 ,6 s1 1' ~ 1' - 0 q2
+q,7 q2 3 s6 s,6 q,5 s,6 1 q0 - 1 - - s5 s6 - q0 - - ,7 ,6 - 0 q0 s,7 s,6 - - ,7 - q,5 - - q,6 q,5 q,6 1 s1 s2 q1
+- - q0 ,7 q1 ,6 - 0 q0 s,7 s6 - q,6 - s,6 q,5 - q1 q2 q,7 q,6 q,5' q,5' q,6 1 - 0 2 q1 q,3 q2 q,7 q,6 q,5' 1 - 3 0 q2 q,7
+q,6 q,5' 1' 1' 0 0 0 q3 q2 q3 6 - - 5' 0 0 0
+%END

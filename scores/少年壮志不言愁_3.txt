@@ -1,0 +1,19 @@
+%少年壮志不言愁_3.txt
+% 出处 https://www.jp114.com/jianpu/869569.html
+title=少年壮志不言愁
+tag=
+usertag=
+tagroute=
+confidence=0.959
+conf_p10=0.889
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-869569
+%--
+4/4
+subtitle=score
+1 - - 1. x 1 x' 2 5 5 2 3 1 q,5 q,6 1 5 ,1 1 ,6 1 2 3' 5' 2 2 2 5 5 2' 3' 1 q5 q6 q1 q5 ,6 ,5 q5 ,6
+1 2 3 ,6 ,5 5 5 q5 5' q3 q5' 6' 5' 3 6 q6 q5 3' 2 5 2' 3 2 1' ,6 q5' q3 q5' q6 1 ,6' 5' q6' q5 q3 q5' 2 5 q5 5
+q3 q5 6 6 5 3 6 q6 q5 6 q5 q3 2 ~ 2 5' q2 q3 q2 q1 ,6 ,5 q6 1 ,6 2 1 2 ,6 5 5 q2 q3 q2 q1 ,6 ,5 q6 1 ,6
+2 q1 q2 ,6 5 - 5 1
+%END

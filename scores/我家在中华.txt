@@ -1,0 +1,17 @@
+%我家在中华.txt
+% 出处 https://www.jp114.com/jianpu/1230933.html
+title=我家在中华
+tag=
+usertag=
+tagroute=
+confidence=0.937
+conf_p10=0.567
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1230933
+%--
+4/4
+subtitle=score
+q1 q2 4 x 1 q5 q3 q7 6 - q6 q2 q4 q5 3 - q3 q6 q6 q3 q2 s3 s2 1 q5 s5 s6 q7 q5 6 - q6 q6 - q6 q6 q2 3 - q7
+q6 q6 q5 3 q5 s5 s6 q2' s7 - -
+%END

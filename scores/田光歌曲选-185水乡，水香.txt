@@ -1,0 +1,21 @@
+%田光歌曲选-185水乡，水香.txt
+% 出处 https://www.jp114.com/jianpu/1119348.html
+title=田光歌曲选-185水乡，水香
+tag=
+usertag=
+tagroute=
+confidence=0.959
+conf_p10=0.904
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1119348
+%--
+4/4
+subtitle=score
+x q0 s3 s5 1'. s7 s6 5. s6 s5 q4. s6 q5 q4 3. s7 s1 q2 q2 q0 s2 s3 q4 q4 q0 s7 s6 q,5. s6 q,3 q,5 1 - 1. q,5 q3 5. 3. s7 s2
+q1 ,5. 1. s5 q3 6 s5 s6 q4. s3 q2 q6 q5 2. q,5 1. q,5 3. q,5. s1 q,7 q1 q5 q4' 3 q2. s2 q2 q6 q5 4 q,6 1. x s7 s6 q,5. s6 s6 s1
+q2. s2 q2 s6 s5 5 - q5 4 q,6 1 q,5. s3 1 - - - q2 s0 s2 q,7 s2 s4 q3 q2 x d7 s1 q2 x q3 s0 5 q,7 s2 s4 q3 q2 x s7
+s1 q2 x q0 q1 q3 q6 q6 q3. 5 q2' q1 q3. s5 s7 s2 q,6' q,5. qx d3 s5 d3 s5 s6 x x 1 x - q1 1 s2 s1 q,6 d6 s1 s5 s4 q,3 q2.
+s3 q,3 q,5 q,7' s6 sx s1 s7 s6 s5 s4 x s,,3 s5 s6 q1 s7 s6 q1 q3 q5 q6 5 q6. q5 q4 q3 q5 2 q,3 s5 s6 1 - q1 s3 s1 q3 q1 4
+- q0 s3 s1 q3 q1 ,6 - q0 6 q5 q4. s3 q2. q5 q5 1 s4 s3 2 q3 s5 s6 5. x s3 s5
+%END

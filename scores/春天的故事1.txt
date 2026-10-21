@@ -1,0 +1,20 @@
+%春天的故事1.txt
+% 出处 https://www.jp114.com/jianpu/991196.html
+title=春天的故事1
+tag=
+usertag=
+tagroute=
+confidence=0.938
+conf_p10=0.780
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-991196
+%--
+4/4
+subtitle=score
+1' q6 q3 q5 5 3 5. q1' 7 6 3 q5 5 - 5 5 3 q2 1 q3 s,7 q2 ,7 ,6 ,6 ,5 q5 q5 q5 3 2 3 ,7 0 q,6 ,5 2 0 1' 7
+6 q7 7 q3 5 4 5' - 5' 2' 2 q6 7 2 7. 3 3 ,5 - x 4 5 q5 q5 6 q5 6 5 5' 2 5' 4 2 q3 3 3 ,7 ,6 1 ,5'
+2 ,5' ,5 s1' - q3 5 2' 5 4 ,5 5 q5 q3 q2 q3 1. ,6 1 q2 q3' ,7 1' 5 ,6 1 2 3 5 0 3 6 ,6' 6 5' q6' q3' q3 q,6 1'
+2 q3' 2 2 2 - 4 3 q3 q5 - ,7 ,6 ,7 ,6 - ,6 ,7 q3 q5 2 0 - q5 ,7 ,6 q,7 q,6 q,5 - ,7 q,6 ,1 5 - 5. q6 6 - x
+,1. x' x
+%END

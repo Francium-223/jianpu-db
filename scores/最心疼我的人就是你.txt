@@ -1,0 +1,21 @@
+%最心疼我的人就是你.txt
+% 出处 https://www.jp114.com/jianpu/1477521.html
+title=最心疼我的人就是你
+tag=
+usertag=
+tagroute=
+confidence=0.964
+conf_p10=0.966
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1477521
+%--
+4/4
+subtitle=score
+qx - 5 4 1 x. x. q0 s6 s6 3 q3. s1 q3 q2 q0 s6 s7 q1 s1 s1 q1 s7 s6 q,5 s7 s6 ,6 s1 s1 s1 s1 q1 q,6 q2 s1 s2 q0 s1 s2
+s5 s5 s5 s6 q5 q2 q1 s2 s3 q0 s6 s6 q3. s3 s3 s3 s2 s1 s2 q3 s2 2 s1 s1 s1 s1 q1 s7 s6 s5 s5 s7 s6 ~ ,6 s1 s1 s1 s1 q1
+s1 s6 s2 s2 s3 s2 q0 s1 s1 q2. s2 q2 q3 q2. s3 q2 q,5 ,6 - - - s6 s6 s6 s6 q6. s5 q5 s6 s7 6 s5 s5 s5 s5 q5 q6 s7 q6 s5
+3 s2 s2 s2 s2 q2. s1 q1 s2 s3 q2 s2 s3 s5 s5 s5 s5 q5 s5 s6 7 - s6 s6 s6 s6 q6. s5 q5 s6 s7 6 s5 s5 s5 s5 q5 q6 s7 q6
+s5 3 s2 s2 s2 s2 q2. s1 q1 s2 s3 q2 s2 s3 q5. s5 q5 q6 7 q6 q5 6 - - - q0 s6 s6 q5. s5 q5 q6 7 q6 q5 6 - - - q5.
+s5 q5 q6 7 q6 q5 6 - - -
+%END

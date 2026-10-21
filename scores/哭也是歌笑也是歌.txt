@@ -1,0 +1,18 @@
+%哭也是歌笑也是歌.txt
+% 出处 https://www.jp114.com/jianpu/857629.html
+title=哭也是歌笑也是歌
+tag=
+usertag=
+tagroute=
+confidence=0.873
+conf_p10=0.495
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-857629
+%--
+4/4
+subtitle=score
+3' 6 5 6 5 5 3 6 5 5 5 2 2 0 3 5. 1 2 1 6 6 - - 5 5 6 6. 1' 5 2' 6 1' 5 ,6 5 3 3' q2 2 3
+1 1 5 2 2 x 6 1 3 2 5' x 3 3 3 q2 6 5. 5 6 6 5 2 0 ,6. ,6 5 2' 2 - 5. q6 q2' 6 6 2' 1' 6 6 6
+2' ,1' 6 6. 6 6 5 6
+%END

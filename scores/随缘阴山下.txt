@@ -1,0 +1,23 @@
+%随缘阴山下.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=30575
+title=随缘阴山下
+tag=
+usertag=
+tagroute=
+confidence=0.954
+conf_p10=0.857
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-30575
+%--
+4/4
+subtitle=score
+- - - x. ,,x x 1 x s,3 s,5 q,6 s1 s2 s3 s5 s6 s7 6. 7 s6 s7 s5 s3 ~ 3 - ,6 s1 s2 d3 d5 s3 s2 s3 2 s1 s2 s3 s2 d1
+d2 s1 q,6 q,5 ,6 - ,6 - q,6 q,3 q,6 q1 2 - - q2 s,5 s,6 ,7. q2 3 q2 q3 ,6 - - - q,6 s,6 s1 s2 d3 d2 s1 s2'. 3 - q3 s3 s5
+s1' ~ s1' s5 s6'. 3 - q3 s0 s5 q6 s1' ~ s1' s6 s5 s3 s2'. 3 - q2 s2 s3 s2 s1 s,6 s,5 ,6 - q,6 s,6 s1 q2 s2 s3 s2 s3 s2 s1 ,6
+q3. s5 s1' s1' s5 s6'. 3 - q3 s3 s5 q6 s1' ~ s1' s6 s5 s3 s2'. 3 q2. s3 s2 s1 s,6 s,5'. ,6 - s6 s0 s6 s7 s6 s5 s3 s5'. 6 - s7 s0
+s7 s7 s6 s7 s5 s6. 3 - s2 s0 s2 s3 q5 q6 s3 s4 s3 s2 1 q2. s3 s2 s1 s,6 s,5. ,6 - 0 q3 q5 3 0 0 q3 q5 6 0 ,6 - -
+q6 q1 2 - ,7 ,5 5 - q5 6 q5 3 - - - ,6 - - q3. s5 2 - - q2 q3 ,5. q6 2 1 ,6 - - - s6 s0 s6 s7 s6 s5 s3
+s5 6 - s7 s0 s7 s7 s6 s7 s5 s6 3 - s2 s0 s2 s3 q5 q6 s3 s4 s3 s2 1 q2. s3 s2 s1 s6 s5'. ,6 - s2 s0 s2 s3 q5 q6 s3 s4
+s3 s2 1 q2. s3 s2 s1 s6 s5'. ,6 - q7 d6 s6 6 0 0 x 1. x
+%END

@@ -1,0 +1,16 @@
+%笛子基本教程.txt
+% 出处 https://www.jp114.com/jianpu/976726.html
+title=笛子基本教程
+tag=
+usertag=
+tagroute=
+confidence=0.933
+conf_p10=0.649
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-976726
+%--
+4/4
+subtitle=score
+2 4 qx. 1 2 0 s1 s1 q0 ,2 2 q0 3 q,3 0 ,2 2 q0 x s1 s,,1 s1 2 q2 2 3 q3 2 q,2 1
+%END

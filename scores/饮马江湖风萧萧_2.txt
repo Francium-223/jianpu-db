@@ -1,0 +1,26 @@
+%饮马江湖风萧萧_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=22092
+title=饮马江湖风萧萧
+tag=
+usertag=
+tagroute=
+confidence=0.989
+conf_p10=0.984
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-22092
+%--
+4/4
+subtitle=score
+q0 s1 s2 q3 q,6 q3 q3 s2 s2 ~ q2 d7 s1 q2 q,5 q2 ,5 s2 s3 s0 s6 q5 3. q2 3 s3 s5 6 q0 s1 s2 q3 q,6 s3 q,6 s,6 s3 s2 s2 s2
+q0 s,7 s1 q2 s,5 s2 ~ q2 s,7 s1 ~ 1 q0 s1 s2 q3 q,6 s3 q2 s1 q2 s5 s6 ~ s6 s2 s,7 s1 s2 q2 s2 s2 q4 s2 3 q0 s1 s2 q3 q,6
+s3 q,6 s,6 s3 s2 s2 s2 q0 s,7 s1 q2 q,5 q2 s,7 s,7 s1 s,7 s,7 s1 q0 s1 s2 q3 q,6 s3 q2 s1 q2 s5 s6 ~ s6 s2 s,7 s1 s2 q2 s2 s2 q4
+s2 3 s,6 s,7 s1 s2 q3 s2 s3' ~ q3' s2 s1 q2 s5 s2 q0 s,7 s1 q2 s1 s2 q2 s1 s,7 q1 s,7 s,6 s0 s1 s1 s2 q3 s2 s3 q3 s2 s1 q2 s5
+s2 q0 q1 q1 s2 s4 q4 s3 s2 3 s,6 s,7 s1 s2 q3 s2 s3' q3' s2 s1 q2 s5 s2 q0 s7 s1 q2 s1 s2 ~ q2 s1 s7 q1 s7 s6 s0 s1 s1 s2
+q3 s2 s3 ~ q3 s2 s1 q2 s5 s6 q0 q2 q2 s4 s3 s3 s2 q2 3 q1 s,7 s,5 q,7 ,6. 0 - - - - - - - - q0 s1 s2 q,7 q,6 ,6 0
+q2 q2 q2 s1 s1 q1 s1 s2 q3 q3 q3 s2 s2 q2 s1 q2 q,5 q2 3 x x x q0 s1 s2 s2 q3' s2 s2 s1 q2 s5 s2 q0 s,7 s1' s1 q2 s1 s2
+q2 s1 s,7 q1 s,7 s,6 s0 s1 s1 s2 q3 s2 s3 q3 s2 s1 q2 s5 s2 q0 q1 q1 s2 s3 q4 s3 s2 3 s,6 s,7 s1 s2 x 3 - q3 q2 q3 s6 s6
+q5 q5 q5. s2 q3 s,6 s,6 ,6 0 0 q6. q5 q5 q3 s2 s3 q3 s2 s1 q2 s5 s2 q0 s,7 s1 q2 s1 s2 q2 s1 s,7 q1 s,7 s,6 s0 s1 s1 s2 q3 s2
+s3 q3 s2 s1 q2 s5 s6 q0 q2 q2 s4 s3' s3' s2 q2 3 q1 s,7 s,5 q,7' - 0 - - - q0 q0 q0 s1 s2 q3. s,6 ,6 s3 s2 s2 s2 q0 s,7 s1
+q2 s1 s,7 ~ q,7 s,5 s,6 ,6 -
+%END

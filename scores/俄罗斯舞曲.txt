@@ -1,0 +1,17 @@
+%俄罗斯舞曲.txt
+% 出处 https://www.jp114.com/jianpu/1227036.html
+title=俄罗斯舞曲
+tag=
+usertag=
+tagroute=
+confidence=0.937
+conf_p10=0.626
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1227036
+%--
+4/4
+subtitle=score
+q1 - - q1 2 0 x 1 7 2 1 5 6 6 5 4 3 1 4 6. 4 q1. 2. 3 3 5. 3 2 2 5 4 3 1 1 2 2 5 5 1 1
+x - - - - - x - -
+%END

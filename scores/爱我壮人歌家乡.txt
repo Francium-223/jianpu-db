@@ -1,0 +1,17 @@
+%爱我壮人歌家乡.txt
+% 出处 https://www.jp114.com/jianpu/1126708.html
+title=爱我壮人歌家乡
+tag=
+usertag=
+tagroute=
+confidence=0.993
+conf_p10=0.974
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1126708
+%--
+4/4
+subtitle=score
+q5 q5 s1' q6 s5 5 s5 s6 s1' s6 2' - q6 q2' q1' q2' 6 s6 s1' s6 s5 5 - q2 q2 q5 q5 s1' q6 s1' 6 q6 q2' q1' q2' s6 s1' s6 s5 5
+q5 2' ~ q2' q2' 5' ~ q5' q2' q2' q5' q5' q4' s2' s4' 2' q2' q5' q4' q5' 6' - q5' q6' q4' s2' s4' 2' q7 q1' 2' -
+%END

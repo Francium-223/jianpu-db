@@ -1,0 +1,20 @@
+%麻麻菜开黄花.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=14521
+title=麻麻菜开黄花
+tag=
+usertag=
+tagroute=
+confidence=0.940
+conf_p10=0.682
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-14521
+%--
+4/4
+subtitle=score
+1 - - q1 4 1 x x 0 - - 0 x x x 1' x x. 1 x 2'. 1' q2 q2' q3' q2' q1' q6 2'. q3' q1' q1' 6 3'. q2' q1' q3' q1' q1' q1'
+q1' q6 q3 5 - 6 q1' q6 q1' q1' 2'. 2. q3' q2' q1' q6 q5 3 2 q1' 1' q6 q5 q6 q5 q3 2. s3 s5 2 - 2'. q,2 q2' q3' q2' q1' q6 2'. q3'
+q2' q1' 6 3'. q2' q1' q3' q2' q1' q2' q1' q6 q3 5 - 6 q1' ~ q1' 2'. q3' q2' q1' q6 q5 3 2 q1' q6 q1' q2' q3' q5 q6 q3 q5 2 s3 s5 2
+- q6. s5 q4 q5 q6 6 q1' q2'. s3' q2' q1' 6 - q2 2 q5 4 q3 q2 q1 q2 q1 q6 q5 q6 4 q1. s6 q1 q2 q3 q5 q6 q3 q5 2 s3 s5 2
+- q1' q1' q6 q5 q4 q2 q4 q5 q1' q1' q6 q5 6 - q1' q6 q1' q2' 3'. q2' q1' q3' q2' q7 q2' 6 s7 s2' 6 - -
+%END

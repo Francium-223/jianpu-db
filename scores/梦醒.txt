@@ -1,0 +1,19 @@
+%梦醒.txt
+% 出处 https://www.jp114.com/jianpu/790865.html
+title=梦醒
+tag=
+usertag=
+tagroute=
+confidence=0.881
+conf_p10=0.549
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-790865
+%--
+4/4
+subtitle=score
+1 0 0 q4 x. 1' x x x x x 1 0 - x. 3 5 5 5 3 2 2 3 2 1 1 6 2 - 2 0 0 1. - 1' 1. 1' ,x q,3 x
+q5. 5 qx q3 2 s2 q1 s6 s1 - - q1 q0 1' 7 6' 1' q7 q6' q1'. q1' q7 q6 1'. q6 3 - 7' q6 q5' q7' q6 q5' q6. q6 q6 q5 3 5. 3
+2 - q2 q2 q2 q3 5 q5 q3 2 q2 q2 q3 ,6 - q5 5 q6 q5 q3 q2 q,6 1 - - - 5 5 6 5 5 3 x 1 2 6 - - 1 -
+- - 1 - - 0 x x 1' 1' ,1 ,x x
+%END

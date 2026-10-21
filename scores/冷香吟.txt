@@ -1,0 +1,18 @@
+%冷香吟.txt
+% 出处 https://www.jp114.com/jianpu/944606.html
+title=冷香吟
+tag=
+usertag=
+tagroute=
+confidence=0.966
+conf_p10=0.958
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-944606
+%--
+4/4
+subtitle=score
+q3 q5 6 q5 q6 1' q2' q1' 6 - - q5 q6 q2' q1' q3 s5 s3 q2 q3 5 - - q6 q5 6. q1' 6 q6 q2' q3' q2' q1' 6 q6 q5 1' q6 q5 q3
+s5 s3 q2 q3 5 - - q3 q5 6 q5 q6 1' q2' q1' 6 - - q5 q6 q2' q3 s5 s3 q2 q3 5 - - q6 q5 6. q1' 6 q6 q2' q3' q2' q1' 6
+q6 q5 q6 q5 q3 s5 s3 q2 q3 5 - - q3 q5 6 q5 q6 1' q2' q1' 6 - - q3 q5 6 q5 q6 q3 q5 q2 q,6 1 - -
+%END

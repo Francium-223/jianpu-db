@@ -1,0 +1,19 @@
+%我不想说_2.txt
+% 出处 https://www.jp114.com/jianpu/1191150.html
+title=我不想说
+tag=
+usertag=
+tagroute=
+confidence=0.979
+conf_p10=0.945
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1191150
+%--
+4/4
+subtitle=score
+0 0 q0 s,5 s,6 s,5 q,5 2 - q0 s,5 q5 s3 s2 3 - q0 s3 s2 s1' q1 2 - q0 s,,2 q1 s,,,5 ,5 - q0 s,5 s,6 s,5 q,5 5. q3 6. q5 q3 q3
+q,,,3 s2 q1 q,6 ,6 q0 s1 s2 q2 s2 s1 q,6 s1 s2 q2 s2 s1 ,6 s1 s,6 q,4 ,4 s,4 s,5 s,6' s,5' q,5 q0 q5 s,6' s,5 q,5 q,4 q,4 s,4 q,5' s,6 s,5 q,5 q0
+q5 s6 s5 5 - - q5 s6 s5 2 - - q5 s6 s5 1. s,5 s,5 q,6. s,6 q,6 q1 2 - - q5 s6 s5 5 - - q5 s,6 s5 2 - - q5 s6 s5
+1. s,5 s,5 q,6. s,6 q,6 q,1 1 - - -
+%END

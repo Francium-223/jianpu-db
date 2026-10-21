@@ -1,0 +1,20 @@
+%痴情冢.txt
+% 出处 https://www.jp114.com/jianpu/789790.html
+title=痴情冢
+tag=
+usertag=
+tagroute=
+confidence=0.978
+conf_p10=0.973
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-789790
+%--
+4/4
+subtitle=score
+1 - - - x 1 x x x x x. ,6 q1 q3 2 q1 q,7 ,6 q,6 q,5 ,3 q,3 q,5 ,6 1 ,7 ,5 ,6 - - q,6 q1 q,6 q,5 ,3 ,6 ,3 ,6 q1 q3
+2 q1 q,7 ,6 q,6 q,5 ,3 - q0 q,6 q,7 q1 ,7 q,5 q,5 ~ q,5 q,6 ~ ,6 - - ,6 q1 q3 2 q1 q2 3 q5 q3 3 - q0 q,6 q,7 q1 ,7 q,6 q,5
+~ q,5 q,6 ~ ,6 - - 6 q5 q6 3 q2 q1 2 q2 q3 ,6 - q2 q3 q1 q,6 2 q3 q5 3 - - - 6 q5 q6 3 q2 q1 2 q2 q3 ,6 -
+q2 q3 q1 q,6 ,5 q,3 q,5 ,6 - - - ,3 q,7 q,6 2 3 ,6 q,3 q,5 q,6 q,5 q,6 q,7 6 q5 q6 3 q2 q1 2 3 ,6 - q2 q3 q1 q,6 2 q3 q5
+3 - - - 6 q5 q6 3 q2 q1 2 q2 q3 q1 q,7 ,6 q2 q3 q1 q,6 ,5 q,3 q,5 ,6 - - - ,6 - - - ,6 - - -
+%END

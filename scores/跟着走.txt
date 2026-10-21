@@ -1,0 +1,18 @@
+%跟着走.txt
+% 出处 https://www.jp114.com/jianpu/862594.html
+title=跟着走
+tag=
+usertag=
+tagroute=
+confidence=0.924
+conf_p10=0.695
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-862594
+%--
+4/4
+subtitle=score
+1 - - - x x. - 0 x 1. qx. 1. 1' x. q3 s2 s1 ,5 q,6 s1 s2 2 q,6. s,6 q6 q6 5 s3 s2 3 - 3 2 q6. s6 q5 s4 s3 2. q,5
+,6 q1 q2 2 - q,5. s,5 q,6 q1 2 s3 s2 x 2 q,5 q5 s5 s5' s3' q3 x 1 - q0 s,5 s,6 s1 s2 s3 s5 q6. s6 q5 s4 s3 2. q,5 ,6 q1 q2
+2 - q,5. s,5 q5 q5 2 s3 s2 1 - 1 - 2 - 3 - 3 - 1 - 1 - 1 - 1 - x
+%END

@@ -1,0 +1,18 @@
+%二胡练习：同音异指练习.txt
+% 出处 https://www.jp114.com/jianpu/1188154.html
+title=二胡练习：同音异指练习
+tag=
+usertag=
+tagroute=
+confidence=0.887
+conf_p10=0.588
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1188154
+%--
+4/4
+subtitle=score
+1' 1' 1 - - - 5 5' 5 5 5' 5 - - - 4 4 4 4 4 - - 5 6 6 6 6 1 - - - 5' 4' 4' 4' - 6 4 4 4
+1 - - 3' - 2' 2' 2' ~ 2' 2 - 2 - 1 1 - - 4' 2' 7 6 4' 5' 4' 2' 5. 4 2 4 4 5 7 7 5' 7' 5' 4 0 4'
+6 1' 4 1 4 0 4 1' 6' 4' 1 5 3 5' 5' 5' 5' x' 5' x 1
+%END

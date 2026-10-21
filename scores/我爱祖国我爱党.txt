@@ -1,0 +1,17 @@
+%我爱祖国我爱党.txt
+% 出处 https://www.jp114.com/jianpu/1142543.html
+title=我爱祖国我爱党
+tag=
+usertag=
+tagroute=
+confidence=0.981
+conf_p10=0.927
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1142543
+%--
+4/4
+subtitle=score
+x 1 1 1 2 1 5. 1 6 5 6 - 2 3 5 1 q6 5 3 2 q1 5 5 q5 q5 ,5 q5 x 3 5 6 5 3 2. 3 1 2 ,5 5. s6
+1 2 3 5 6 5 6 5 6 5 3 5 6 5 3 2 3 1 2 ,6 - ,,5 s,6 1 2 3 6 5 4 3 2 1 2 - 5 3 ,5
+%END

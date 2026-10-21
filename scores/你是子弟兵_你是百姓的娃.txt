@@ -1,0 +1,19 @@
+%你是子弟兵_你是百姓的娃.txt
+% 出处 https://www.jp114.com/jianpu/1287486.html
+title=你是子弟兵 你是百姓的娃
+tag=
+usertag=
+tagroute=
+confidence=0.933
+conf_p10=0.719
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1287486
+%--
+2/4
+subtitle=score
+x ,1 2 3. q3 q2 1 q2 - 2. q3 q2 1 - 5 ,1 2 3. 5 4 3 2 2 - 7 6 5 2 3 1' - 1' - x 3 s5 s5 5 q5 s5
+3 6 5 6 6 q6 q6 5 6 ,1 ,1 2 ,1 ,1 ,1 ,1 ,1' 6' 3 2'. ~ 2' - 5 1 2 3' 3' 2. 5 6 - 6 6 2' 2' 3' 2' 6 5
+- 1 0 5 2' 3' 3 3. q3 q2 6. ~ 6 q6 q2'. q2 ~ 2 ~ 2' q6 2. 2 ,x 1 - 1 - 2. 2 2 5 - 5 - q2' 2' 2' q6 2.
+2' - - 2' 3' 2 1' - -
+%END

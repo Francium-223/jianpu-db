@@ -1,0 +1,19 @@
+%爱如潮涌.txt
+% 出处 https://www.jp114.com/jianpu/1484128.html
+title=爱如潮涌
+tag=
+usertag=
+tagroute=
+confidence=0.958
+conf_p10=0.803
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1484128
+%--
+4/4
+subtitle=score
+x 6 4 3' q1' q1' q2' q3'. q7 q7 q1' q1' q1' q7 q6 6 6 5 4 3 3 q2 5 - - 5. 3 5 3 2 1 6 3 5. 6 5 - 1. 6 1
+6 5 4 3 6 2. q3 2 - 3. q4 q3 5. q4 q3 2. 3 2 1 - q,6 q,7 q1 q6 s5 q4 3 s2 s1 3 - 2 - q,5. s3 q,5 q3 q2 1 q6
+q3 5. 6 5 - 1. 6 1 6 5 4 3 6 2. 3 2 - 3. 4 3 5. 4 3 2. 3 2 1 - 6 7 1 6 5. 4 4 4 6 7 1 -
+- - x x x x 1 2 3 4 5 3 q2'. q2' q3'. q7 q7 2' q7 q6 6
+%END

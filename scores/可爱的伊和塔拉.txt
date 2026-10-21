@@ -1,0 +1,19 @@
+%可爱的伊和塔拉.txt
+% 出处 https://www.jp114.com/jianpu/1402043.html
+title=可爱的伊和塔拉
+tag=
+usertag=
+tagroute=
+confidence=0.936
+conf_p10=0.676
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1402043
+%--
+4/4
+subtitle=score
+1 1 x 4 1'. 0 x' ,x x 3' - - q2' q3' 6' - - 5' 3' 6' 6' q5' q5' q6' 3' - - 1' ,6 3 6 3 q2 2 1 1 2 3 ,6 -
+x 6 6. 2. q3 5. q1 6 q6 q3. s2 q1 q2 q2 3 6 3' 6' 3' q2' 2' 2' 2' 3' 6 - 6 6 2. q3 5. 6 6 3' 2' 3' 5' 6' 1'. 2'
+3' 6' q3'. q2' q2' q2' 2' 3' 6 - 2. q3 6 x. q2' 5 q1' 6 - 2. 3 6. q2' 2 q3 2 - q6 2' q2' 2' 2' q3' 3' q6' q5' 3' - q6 3
+q6 q3. q2 q2 q2 q1 q1 q2 q3 6 - q6 3 q6 q3. q2 2 1 q1 2 3 3' - - - 3 3' 3' 0 0 0
+%END

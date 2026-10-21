@@ -1,0 +1,19 @@
+%阿妹的金口弦.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=26061
+title=阿妹的金口弦
+tag=
+usertag=
+tagroute=
+confidence=0.953
+conf_p10=0.847
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-26061
+%--
+2/4
+subtitle=score
+x q6 q1 q4 q6 1'. q6 q5 q1 q2 q5 3 s2 s3 s2 s1 1 - 1 0 5 q1 s2 s1 s2 s3 1. q0 5 q1 s2 s1 s2 s3 1. q0 q5 q3 q5 q1
+q5 s3 s5 q3 q1 3 - 3 - 5 q1 s2 s1 s2 s3 1. 5 5 q1 s2 s1 s2 s3 1. q0 q5 q3 q5 q1' 1' - 1' - q3' s1' s3' q1' q5 q5 s3
+s5 q3 q1 q4 q1 q4 q6 1'. q6 q5 q1 q2 q5 5 - q5 q1 s2 s3 s2 s1 1 - 1. q0 q5 q1 q2 q5 - 0 0 3 s2 s3 s2 s1 1 - 1
+- 1 - 1 -
+%END

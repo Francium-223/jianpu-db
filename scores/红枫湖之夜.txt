@@ -1,0 +1,17 @@
+%红枫湖之夜.txt
+% 出处 https://www.jp114.com/jianpu/1234560.html
+title=红枫湖之夜
+tag=
+usertag=
+tagroute=
+confidence=0.979
+conf_p10=0.955
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1234560
+%--
+4/4
+subtitle=score
+6 q6 q5 4 3 2 - - 3 2 1 4. q5 6 7 7 6 5. q3 5 6 - q7' q1' 2' - - 5 3. q2' 1' 7 1' 2' - 1' 6 - - 7
+7 7 5 6 q2' q3' 1' - -
+%END

@@ -1,0 +1,22 @@
+%有多好_2.txt
+% 出处 https://www.jp114.com/jianpu/1223711.html
+title=有多好
+tag=
+usertag=
+tagroute=
+confidence=0.973
+conf_p10=0.973
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1223711
+%--
+4/4
+subtitle=score
+qx' q1 - - - - 1 1 1 0 x x x ,x 1'. q2' 3' 3' q2' q1' 6 0 - 1' q2' q1' q6 q5 6 5 0 0 6 q5 q6 1' 1' 6 5 3
+- 5 3' q2' q1' 2' 1' - - - 1 q2 q2 2 1 q2 q1 q1 q6 5 - 1 q2 q1 q6 q5 6 5 - - - 6 q5 q6 1 q1 q1 6 5 3
+- 5 q6 q1' 2' 6 5 - - - 3. q2 3 q5 q5 q2 q1 3 - - q5 5 q3 q7 q6 5 6 - - - q5 q5 q5 q6 1 q1 q1 q6 q5 3
+- - q6 6 q3 q2 q1 6 1 - - - 1 - - - 1 q1 q2 3 3 q2 q1 6 - - 1 q2 q1 q6 q5 q6 q5 5 - - - 6 q5 q6
+1. q1 6 5 3 - q6 q1' q2' q3' 3' 1' 2' - - - 1' q1' q2' 3'. q3' 2' 1' - - 2' q2' q3' 2' 1' 6 - - - 5 q5 q6 1 q1 q1
+6 5 3 - q5 q6 q1 q3 q2 q1 q2 q1 1 - - - 1 - - - q2' q3' q2' q1' 6 - 5 3' q2' q1' 2' 1' - - - 1' - - - 1'
+- - - 1' - - - 2' 2' - 1' 2' - 3' - 3' - - - 1' - - - 1' - - - 1' - - - 1' - - - 1' 0 0 0
+%END

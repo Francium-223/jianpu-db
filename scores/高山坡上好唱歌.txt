@@ -1,0 +1,17 @@
+%高山坡上好唱歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48127
+title=高山坡上好唱歌
+tag=
+usertag=
+tagroute=
+confidence=0.909
+conf_p10=0.543
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48127
+%--
+2/4
+subtitle=score
+x 1 x x 2 4 4 3 3 1. 4 3 2. 3 5. 3 4 2 2 - q5 6 5 5 3. 2 3 2 1 1 1 q2 q3 5 4 3 6 1 q5 s5
+q3. 2 q1 2. s1 q,6. s1 q2. 1 - ,6 4 ,5 0
+%END

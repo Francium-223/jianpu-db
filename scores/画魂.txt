@@ -1,0 +1,19 @@
+%画魂.txt
+% 出处 https://www.jp114.com/jianpu/1141064.html
+title=画魂
+tag=
+usertag=
+tagroute=
+confidence=0.977
+conf_p10=0.963
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1141064
+%--
+4/4
+subtitle=score
+x 1 2 3 - - 3 7 6 7 3 - 1 2 3 - - q3 q5 7 3 2 - 2 5 2 5 6 q2 6 q6 6 q6 q5 q2 5 q7 3 q7 q7
+7 7 3 q5 q,7 q6 ,5 ,3 ,6 x q0 q,7 ,6 ,7 ,3 0 ,3 ,5 ,6 ,6 q0 2 ,6 1 2 3 q2 2 - 0 ,7 ,6 ,7 ,3 0 ,5 ,7 3 2 q0
+2 ,6 5 6 4 q2 3 5 6 5 2 2 0 3 ,7 ,6 ,3 ,6 ,3 ,7 q3 2 1 q0 ,7 q,3 ,5 ,6 ,6 - - x 0 5 7 2 3 - q3' q5'
+q2' q5' 6' q2' q6' 6' x - 6 q3 q7 6 q1' q3 6 7 q5 6
+%END

@@ -1,0 +1,19 @@
+%连弓与音阶.txt
+% 出处 https://www.jp114.com/jianpu/1582264.html
+title=连弓与音阶
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.996
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1582264
+%--
+4/4
+subtitle=score
+1 - - - 2 - - - 3 - - - 4 - - - 5 - - - 6 - - 7 - - - 1 - - - 2 - - - 1 - - - 7
+- - - 6 - - - 5 - - - 4 - - - 3 - - - 2 - - - 1 - 2 - 3 - 4 - 5 - 6 - 7 - 1 - 2
+- 1 - 7 - 6 - 5 - 4 - 3 - 2 - 1 2 3 4 5 6 7 1 2 1 7 6 5 4 3 2 q1 q2 q3 q4 q5 q6 q7 q2 q1
+q7 q6 q5 q4 q3 q2 q2 q3 q4 q5 q6 q7 q1' q2' q1' q7 q6 q5 q4 q3 q2 1 - - - 1 0 0 0
+%END

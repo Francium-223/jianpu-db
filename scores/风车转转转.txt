@@ -1,0 +1,18 @@
+%风车转转转.txt
+% 出处 https://www.jp114.com/jianpu/789310.html
+title=风车转转转
+tag=
+usertag=
+tagroute=
+confidence=0.901
+conf_p10=0.497
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-789310
+%--
+2/4
+subtitle=score
+1 - - 2 4 x. x. x. qx' x. 1 x x' x 3 q4 5 5 1 3 q4 q5 5 - 6 5 4 3 1 ,5 - ,5. q0 1 q4 q4 q4 5 4 6
+5 q4 3 q1 2 - 2 x' 6 x 5 - 5. q0 3 q4 5 5 1 3 q4 5 5 1' 7 1' 7 q5 q5 s3 3 - 3 - 6 q5 q6 5 q4 q3
+2 q0 q5 4 4 q3 q2 1 - 1 - 1 0
+%END

@@ -1,0 +1,22 @@
+%幸福地久天长.txt
+% 出处 https://www.jp114.com/jianpu/1229107.html
+title=幸福地久天长
+tag=
+usertag=
+tagroute=
+confidence=0.983
+conf_p10=0.951
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1229107
+%--
+4/4
+subtitle=score
+q6 s6 s5 q6 q3 s5 s6 s7 s6 6 q6 s6 s5 q6 q3 s2 s3 s4 s2 3 q1 s1 s2 q3 q6 s2 s2 s3 s2 1 s5 d5 d5 s5 s3 s5 s6 s7 s6 6
+- ,6 q3. s1 q2 s1 s7 q,6. s6 s2 q2 s6 s6 s5 s3 s2 3 - 3 q6. s3 s1 s6 s1 s3 q2. s3 - s5 q5 s3 q2 s2 s3 - s5 q,5 s,3 s5 s6
+s2 s1 ~ q1 ,6. q,6. s1 q3 s3 s2 s1 s,6 s1 s2 3 q6 s6 s5 s3 s1 s2 s5 3 - ,6 q3. s1 q2 s2 s3 q,6. s6 s2 q2 s6 s6 s5 s3 s2 3
+- 3 q6. s3 s1 s6 s1 s3 q2. s3 - s5 q5 s3 q5 s5 s6 - s7 q7 s2' s5 s3 s7 ~ q7 6. q,6. s1 q3 s3 s2 s1 s6 s1 s2 3 - s2 q2
+s3 q5 s5 s6 - q5. s3 s2 s3 s1 s7 ,6 - 6 q6. s3 s5 s6 s7 s6 q6. s6 s7 q7 s6 s5 s6 s6 s5 q5 3. s6 q6 s3 q1. s,6 s1 s2 s3 s2
+q2. s3 - s5 q5 s6 q5 s3 s2 - q1. s,6 s1 s2 s5 s3 3 - s1 q1 s2 s3 s3 q6 6 - s2 q2 s3 s1 s6 s5 s3 3 - 6 q6. s3 s5 s6
+s7 s6 q6. s6
+%END

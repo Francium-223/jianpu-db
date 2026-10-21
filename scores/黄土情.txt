@@ -1,0 +1,22 @@
+%黄土情.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=19686
+title=黄土情
+tag=
+usertag=
+tagroute=
+confidence=0.964
+conf_p10=0.917
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-19686
+%--
+2/4
+subtitle=score
+qx 1 2' x x 1' q1' q2' 1' - s1' q5 q4 s4 s2 0 0 5 - q6. s6 q5 s1' s1' s4 s3 2 s5 s2 q2. s5 s6. d1' s7 s6 5. s2 s5 s5 d2
+d2 s2 s5 q2 q,5 q,6 q2 s1 s7 s6 s1 ,5. d7 d6 d7 d6 ,5 - q2 q5 q5 q1' q4 s3 s2 q2 q,5 s4 q4 s2 s4 s5 s6 s5 5 - s5 s1' q6 s5
+s6 s5 s6 s4 s5 q5 q2 s5 q2 s5 q,7 s7 s1 2 - s6 q6 s6 q5 s6 s5 4. q2 s1' q1' s1' s6 s5 6. s5 s6 s1' q1' s1' s2 s2 q0 s4 s2 s4
+s5 s6 s5 q5 s2 s5 s7 s1 s2 s1 ,5 - q1. s1 q,7 q1 q0 s2 s1 s7 s1 s2 s1 ,5 - q2. s2 q2 q4 q0 s4 s2 s4 s5 s1' s6 5 - 5 -
+q1'. s1' s1' q2' - q5 s1' q4 s3 s2 5 - q2. s5 q2 q,5 q0 s1 s2 q4 q5 5 - 5 - s1' q1'. s1' q2' s1' 1' - s1' q5 s1' s4 s3 s4 s2 5
+- q2. s5 q2 s2 s5 q0 s1 s5 q1 q2 q4 q2 s4 s5 s1' s6 5 - 5 - q5 s2 s2 q2 q5 q6 q1' s1' s7 s6 s1' 2' - 2' q7 q6 q5 s2 s5
+q6 q1' 2' 3' 3' - 3' q5 q6 1' - 1' - 1' - 1' - 1' 0
+%END

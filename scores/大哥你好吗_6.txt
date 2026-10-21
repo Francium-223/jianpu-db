@@ -1,0 +1,20 @@
+%大哥你好吗_6.txt
+% 出处 https://www.jp114.com/jianpu/873285.html
+title=大哥你好吗
+tag=
+usertag=
+tagroute=
+confidence=0.933
+conf_p10=0.768
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-873285
+%--
+4/4
+subtitle=score
+x 5 - - 6. 7 6 6 3 2 5 5 - x 0 q3 4 s,5 s5 q5 q5 5 3 5 6'. 0 3 3 3 ,3 x' 2 1 1 1 0 0 1' q2 qx
+1' 1' x 3 q3 3 x' 2' q1 2 - - 0 3 4 5 5 5 5 3 5 2'. 1' 1' 7 7. 7 q5 3. 1 1' 2' 3 2 2 4 3 q2 q2 6
+q5 5 - 0 q3 4 1. 2 3 2 2 2 2 2 2 3 2 1. 1 - - q0 q5 s3' q2' 3' 3' s3' 2' q3' q3' 2' q3' 5'. q6 5 5. q3 5 6
+6 6 q,6 q6 s5 s6 q6 q6 1' q6 1' q4' 3' q2' s1' 0 2'. 5 3' 2' 3' 3' 3' 2' 3' q3' 2' q3' ,5'. ,6'. x' q,x 5 - 6 5 6 s1' s,6 s6
+- q6 s1' q4' q4' s4' q4' q3' 2' x' - - 0 0 0 0 q3 s4
+%END

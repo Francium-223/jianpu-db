@@ -1,0 +1,21 @@
+%酒醉的蝴蝶_5.txt
+% 出处 https://www.jp114.com/jianpu/968613.html
+title=酒醉的蝴蝶
+tag=
+usertag=
+tagroute=
+confidence=0.953
+conf_p10=0.917
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-968613
+%--
+4/4
+subtitle=score
+1 - - - x x x. 1 ,x x x x x x q3 q,6 q1 s2 s3 3 - q5 q6 q6 q5 3 - q3 q,6 q,6 q3 2 - q5 s3 s5 q1 s2 s1 ,6
+- 6 0 - - 6 q6. s5 q3 s3 s1' 6 q5. s6 q5 s2 s5 3 - q2. s2 q2 s6 q1 s2 s3 2 q3 s3 s5 s2 s3 s1 s5 ,6 - q,6 s6 s5 q,3
+s1 s6 ,6 - q3 q3 q2 s1 s6 ,6 - q2 s2 s1 q2 s3 s2 2 - q1 s6 s1 q,6 s5 s3 ,3 q0 s3 s5 q,6 s6 s5 q,3 s1 s6 ,6 q0 s1 s2 q3
+q3 q2 s5 s3 3 q0 s3 s5 q6 q6 q6 s2 s3 2 q0 s1 s2 q3. s5 q3 q,5 s6 s1 q,6 ,6 q3 q,6 q1 s2 s3 3 - q5'. q6 q6 s5 s3'. 3 q0 s3
+s5 q6 s6 s6 q6 s2 s3 2 - q5 s3 s5 q1 s2 s1'. ,6 - ,6 - - s6 s1 s2 s5 3 - - s3 s5 s6 s1 2 - - s2 s3 s5 s6 3 -
+- q1 q2 q3 q5 x q5. s5 q5 3 6 - 6 0 0 0
+%END

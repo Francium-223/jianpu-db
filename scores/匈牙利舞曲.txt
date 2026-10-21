@@ -1,0 +1,16 @@
+%匈牙利舞曲.txt
+% 出处 https://www.jp114.com/jianpu/1540714.html
+title=匈牙利舞曲
+tag=
+usertag=
+tagroute=
+confidence=0.956
+conf_p10=0.761
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1540714
+%--
+2/4
+subtitle=score
+0 0 0 0 3. 6 1'. q6 5. q6 q7 6 - 6 0 2 6 0 7 0 1 1' 0 0
+%END

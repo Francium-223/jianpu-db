@@ -1,0 +1,20 @@
+%妥了歌.txt
+% 出处 https://www.jp114.com/jianpu/909513.html
+title=妥了歌
+tag=
+usertag=
+tagroute=
+confidence=0.960
+conf_p10=0.864
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-909513
+%--
+4/4
+subtitle=score
+1 - - - x 1 x 5 x - 6 - - 6 0 0 0 2' - - 5 6 - - 6 0 0 0 1' 1' 1' q6 0 2' q6 2' 3' q6 q3' q0
+2' 6 2' - 6 2 - 0 3 0 0 x x qx x 0 x x x q3 6 0 0 x. x qx x 0 x x x 3 6 0 0 x. 3 q6 3 6
+0 0 q3 6 3 q6 0 0 1' 1' 5 6 5 3 5 3 2 6 2' 6 1' 6 3' 6 1' 6 2' - 6 2' 0 0 0 6 q2' q6 1' 1' - -
+6 3' 2' 3' ~ 3' - - x x x x x x x 0 x x qx x x x x x x 2' 2' 2' 0 2' 2' 2' 2' q2' q2' q2' q5' 5' 0 0
+0 x. x x 0 0 6 2' 0 0 0 6. 0 0 0
+%END

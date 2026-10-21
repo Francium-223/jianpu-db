@@ -1,0 +1,24 @@
+%野蜂飞舞.txt
+% 出处 https://www.jp114.com/jianpu/979063.html
+title=野蜂飞舞
+tag=
+usertag=
+tagroute=
+confidence=0.941
+conf_p10=0.770
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-979063
+%--
+2/4
+subtitle=score
+1 - - x 5 x x x x x 1 x x x s6' s5' s5' s4' s4' s4' s4' s4' s3' s4' s3' s3' s2' s1' s1' s1' s7 s7 s6 s5 s4. s5 s4 s4 s3 s4
+s3 s3 s2 s1 s1 q7 q7 q6 s0 q0 0 0 0 s3 s2 s2 s1 s1 s4 s3 s2 s3 s3 s2 s1 s1 s2 s2 s3 s2 s2 s1 s1 s4 s3 s2 s3 s2 s2 s1
+s1 s1 s2 s2 s3 s2 s2 s1 s2 s1 s1 q7 s1 s1 s2 s2 s3 s4 s3 s2 s3 s2 s2 s1 s2 s1 s1 q7 s1 s1. s2 s2 s3 s4 s5 s5 q6 qx q5 qx
+q5' qx q4 x q4 q7 q6 qx q5 q6 qx q5 qx q5 qx q4 x q4 qx q4 q5 qx q5 q6 qx q5' q5 qx q4 x q4 q7 q6 qx q5 q6 q5 q5 q4 q4
+q4 q5 q6 q5 q5 q4 q5 q4 q4 q3 q4 q4 q5 q6 q7 q6 q5 s6 s5 s5 s4 s4 s4 s3 s1 s4 s5 s6 s7 s6 s5 s,6 s6 s6 s6 s6 s6 s6 s6 ,7.
+q0 d6 s6 s6 s6 s6 s6 s6 s6 ,7. q0 d6. s7 s6 s5 s6 s7 s6. s6 s7 s6 s6 s7 s6 s5 s6 s7 s7 s1 s1' s1' s7 s7 s6 s7 s7 s1' s1' s1' s1'
+s7 s7 d2'. s2' s2' s2' s2' s2' s2'. s2' ,3'. q0 s2'. s2' s2' s2' s2' s2' s2' s2' q3'. q0 s,,2 s3. s2 s1 s2. s3. s2 s1 s2 s3. s2 s1 s2. s3. s2 d1 d,2 s3
+s3 s4 s4 s4. s3. s3 s2 s3 s3 s4. s5 d5 d6 q2' q1' q1 q1' q1 q7 s,7 q3' q2' q1' q1' s2' q1' q1' q7 q7 q7 q1' q1' s2' q1' q1' q1' q7 q1' q7. s7
+q6 - s7 s7 s1' s2' s2' s2' s,3' s2' s2' s2' s1' s2' s7 s7 s7. s6 s5 s5. s4 s1 s,3 s,4. s3 s2. s3 s4. s3. s2
+%END

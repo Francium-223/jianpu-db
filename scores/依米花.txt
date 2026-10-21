@@ -1,0 +1,20 @@
+%依米花.txt
+% 出处 https://www.jp114.com/jianpu/1410795.html
+title=依米花
+tag=
+usertag=
+tagroute=
+confidence=0.957
+conf_p10=0.880
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1410795
+%--
+4/4
+subtitle=score
+1 ,6 ,6 1 3 4 1 2 1 ,7 ,7 ,7 1 ,6 - ,7 1 2 x 1 5. ,5 5 5 ,5 x ,5 - q1 q2 3 - - 4 - - ,6 - - 4
+4 3 q2 q3 2 - - ,7 ,7. q,7 q,7 q1 ,7. q,7 2 ,7 ,4 2 2 1 2 3 - - 3 x. ,6 ,3 ,4 ,6 - ,7 ,7 - q,7 q1 ,6 - - ,7
+- 1 2 - q,5 ,5 ,5 q1 2 3 - - 4 - ,6 4 4 q4 q3 3 - q2 q3 2 - - ,7 s7 ,7. ,7 0 q,7 q1 ,6 - - ,6 - ,6 4
+3 4 5 q4 q5 q4 q3 q2 q3 4 - - 6 5. q2 4 3 ,7 q,7 1 q2 4 3 q2 3 q3 0 q0 ,6 5 6 - 5 - 4 q4 5 q4 3 2
+3 2 - - q,7 1 q2 q2 q2 q3 4 4 4 5 6 2 - - 2 0 0 ,3 2 3 2 q1 ,7 1 ,7 - - ,7 0 q,7 1 ,6 - 0
+%END

@@ -1,0 +1,21 @@
+%黄河_我的中华魂.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=28466
+title=黄河 我的中华魂
+tag=
+usertag=
+tagroute=
+confidence=0.949
+conf_p10=0.884
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-28466
+%--
+2/4
+subtitle=score
+1 - - ,x' x'. 1 x' 5 q5 ~ s5 s5 s2 s3 s2 s1 1 - s2. s3 s2 s1 5 7 1' - q6. s1' s5. s6 s5 s4 s3. s4 s3 s2 1 s5 s2 s3
+s2 s1 q7 q7 s1 s2 s2 q2. - 2 5 ~ q5 s5 s2 s3 s2 s1 ,3 1' - q4. s3 s2 s1 s2 s6 s6 q6. - 6 q5. s1' q5 q4 s5 d2 d5 s2 s1
+2 s2. d3 s2 s1 5 7 q7 q1. 1 q1'. s2' s2' d6 d7 s6 s5 q5 q5 q4 4. s3 s2 q1 q1' s6. d7 s6 s5 q5'. s4 q4 q3' s2. d3 s2 s1 5. s0 s2
+d2 d3 s2 s1 5. s0 s5 d2 d5 s2 s1 5 s1 s2 s2 q5. 5 q1'. s2' s2' d6. d7 s6 s5 4. s3 s2 q1 q1' s6. d7 s6 s5 q5. s4 q4 q3' s2. d3 s2
+s1 5. s0 s2 d2 d3 s2 s1 5. s0 s2. d5 s2 s1 s2 s1 q5 q7 q7 q1. 1 1' 1 1' - 1. 5 q1 q1 q1. q5 q2. q5 5' 5' 5 s1' q7' q7' s1'
+s2' s1' s2' s2' s1' s1' h1 s1' q5. 5 5 1 7 - 0 - 0 0 1 - 1 - 1 - 1 - 1 0
+%END

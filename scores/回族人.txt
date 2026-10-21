@@ -1,0 +1,19 @@
+%回族人.txt
+% 出处 https://www.jp114.com/jianpu/1166163.html
+title=回族人
+tag=
+usertag=
+tagroute=
+confidence=0.943
+conf_p10=0.829
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1166163
+%--
+4/4
+subtitle=score
+5 x 1 ,5 1 2 1 ,7 0 ,5 0 5 4 5 6. 6 5 4 3 2 2 2 5 4 5 q6 q5 q4 q3 2. 3 1 q1 6 q2 q3 2. 6 ,4 1.
+q6 ,5 ,5 5 1 1' 2' 5. 6 5 5 5 5 2 6 6 3 2. 3 2 2 2 2. 0 1 1 2 ,6. 1 ,5 1 1 2 ,6. 1 ,5 0 1 2 5
+5 6. 1' 6 5 4 3 2 ~ 2 0 2 2 5 4 4 3 2. 5 2 ,6 ,7 ,6 ,5 ,5 ,5 ,5 q5 q2 q2 q5 4 2 6 6 - 6 5 1 6
+7 6 1 5 q1 5 5 5 5 0 x 2 2 2 5 0 x x
+%END

@@ -1,0 +1,26 @@
+%游牧时光_2.txt
+% 出处 https://www.jp114.com/jianpu/984118.html
+title=游牧时光
+tag=
+usertag=
+tagroute=
+confidence=0.940
+conf_p10=0.763
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-984118
+%--
+2/4
+subtitle=score
+1 - - x 5 0 2 x 0 - x 5 ,5 - q,5 ,6 q,6 1 - q1 q1 q3 q,6 q,5 q,3 q,5 q,6 ,6 ,5 ,5. s6 s7 q1 q,7 q1 q2 s5 s3 5 q6
+q1 0 1 s3 s2 s2 s1 s1 s3 s6 s5 5 - s1 s6 6 q5 s6 s5 3. q,6 q1 q2 q3 q5 s5 s6 s2 s1 1 - 1 q,5 q,3' q,6 1 1 s3 s5 q3
+2 2 s1 s6 1' 1 - 1 q3 s3 s5 5. s6 s1 q6 5 q6 - x' - - - 0 - - - - - - - - q1 s6 s6 s6 s5 s5 s3 q3 2.
+x s5 s6 s1 s2 s1 s2 s3 s5 x s3 q5 s3 q3 s5 s6 s5 s3 3 q2 q1. s6 s1 s2 q3 2. s2 s3 x - - - - x - - - - - -
+- - - 0 1 - - 2. 3 1 - - - - - - 1 - - - - - - - q5. s6 0 q1 s3 s2 q1 q,6 s2 d3 d2 s1 s2 q1 1 1
+q,5 q,6. x s5 s6 s1 s2 s1 s2 s3 s5 x q3 5 s3 s5 s1 q2 s1 1 s3' s2' s2' s3' s1' s2' q6 5 - s6 q1' s6 q6 q5 s6 q5. 3 q1. s1 q1
+q,6 q6 1' q3 q3 2. x 5 - x 1 - - - - x - - - 0 - - - - - x 1 - - ,1 0 - - q3. s5 s5 s3 q3 s1 q2
+s1 ~ 1 s3 s2 s2 s3 s1 s2 q6 5 - s6 q1 s6 ~ q6 q5 q6 s5 s3 s2 s3 d6 s1 2 - 2. s2 s3 5. s6 s1' q1 q3 q2 s1 s6 - 0
+1 - x 5 q6 q1 3 q1 q,6 - 0 1 - 2 - ,7 - s6 d6 d6 s6 d6 d6 s6 d6 d6 s6 d6 d6 s2 d2 d2 s2 d2 d2 s2 d2 d2 s2 d2
+d2 s4 d4 d4 s4 d4 d4 s4 d4 d4 s4 d4 d4 d5 q0 2' 2 2' s5 s6 q1 2. 2 d2 s2 s0 s0 s3 5' 3' 5. 3' q,6 x' x. x h5 s6 h6 s1'
+h1 d2 q1' d1 q3' q3 d2 x s3 s5 q2' q2 q2 q2' s1 h6 h1' s6 s1' s6 x h6 5' 1 s6 s6' d5 d3 1 s2 s0 s3 s6 s1
+%END

@@ -1,0 +1,18 @@
+%哭阿满.txt
+% 出处 https://www.jp114.com/jianpu/796336.html
+title=哭阿满
+tag=
+usertag=
+tagroute=
+confidence=0.953
+conf_p10=0.895
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-796336
+%--
+4/4
+subtitle=score
+- - - x 1 x 1' x q,6 q,6 6 - q6 q5 q3. s2 2 - - q,6 s1 s,6 2 - q2 q3 q,7 s,6 s,5 ,3 - - - q1. s1 q1 q,6 q3. s2 2
+q2. s2 q2 q3 1 q,5 q,3 ,6 - - - ,6 - ,6. q,6 6 - q6 q5 q3. s2 2 - - q,6 s1 s,6 2 - q2 q3 q,7 s,6 s,5 ,3 - - - q1. s1
+q1 q,6 q3 q2 2 q2. s2 q2 q3 1 q,5 q,3 ,6 - - -
+%END

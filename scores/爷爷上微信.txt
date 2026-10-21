@@ -1,0 +1,18 @@
+%爷爷上微信.txt
+% 出处 https://www.jp114.com/jianpu/1477371.html
+title=爷爷上微信
+tag=
+usertag=
+tagroute=
+confidence=0.961
+conf_p10=0.807
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1477371
+%--
+2/4
+subtitle=score
+q2' 2' q6 q2' q3' 2' q3' q2' s6 2' - q6 6 q2' q6 5 q4 q2 q6 5 - q6 q5 q4 q2 5 - q2' s6 s2' 1' q5 6 - q4 4 q5 6 2' q1'
+q6 q5 q4 2 - s6 2'. q3'. s2' q6 q1' q3' 2' q3'. s2' q6 q1' q2' 6 q0 s4 s5 q6 q2' - s6 q5 q4 2 - s3 s5 6 q4 q2 q4 q5 - q6 q5
+6 q6 q5 q6 q2' - s2' q3' q5' 2' -
+%END

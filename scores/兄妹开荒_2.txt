@@ -1,0 +1,21 @@
+%兄妹开荒_2.txt
+% 出处 https://www.jp114.com/jianpu/1372021.html
+title=兄妹开荒
+tag=
+usertag=
+tagroute=
+confidence=0.971
+conf_p10=0.947
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1372021
+%--
+4/4
+subtitle=score
+1 - - q2 qx 1 0 0 7 2 qx' 1' q1'. s6 5 q2'. s6 5 q1'. s6 s5 s6 s5 s4 q5 q1 2 q1'. s6 s5 s6 s5 s4 q5 q1 2 q2'. s1' q1' q1'
+q2'. s1' q5 q1' q2' 5 q2' 1'. s6 s5 q4 q5 q1' q6 q5 q5 q4 q2 q2 q5 s2 s1 s7 1 - x q1'. s6 5 q2'. s6 5 q1' s6 s5 q4 q2 5 - q5'
+s6 s5' q4' q2' q5' s6 s5' q4' q2' q2' s2 s5' s2' s1 s7' 1 - q2 q5 ,7 q2 q5 q,7. d7 q2' q5' q5' s2 s1' ,7 - q5 q2 5 q5 q5 q4 s2 s2 q5
+2 q6 q4 q2 1 q1. s6 5 q2. s6 5 q1 s6 s5 q4 q2 5 - q2 s5 s5 q5 q1 2 - q2 s5 s5 q5 q1 2 - q2 q5 ,7 q2' q5' ,7 q2 q5
+q5 s2 s1 q1 q,6 ,5 5 q4. s2 q5 q5 q0 q1' q2'. s1' q5 q1' q2'. s1' q5 q1' q2' 5 q2' 1' s6 s5 q4. s5 q1' q6 q5 q5 q4 q2 q2 q5 s2 s1 s7
+1 - 1. q1' q2'. s1' q5 q1' q2'. s1' q5 q1' q2' 5 q2' 1' s6 s5 q4. s5 q1' q6 q5' q5' q4' q2' q2' q5' s2 s1 q,7 1' -
+%END

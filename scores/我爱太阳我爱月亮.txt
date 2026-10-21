@@ -1,0 +1,17 @@
+%我爱太阳我爱月亮.txt
+% 出处 https://www.jp114.com/jianpu/920485.html
+title=我爱太阳我爱月亮
+tag=
+usertag=
+tagroute=
+confidence=0.793
+conf_p10=0.448
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-920485
+%--
+2/4
+subtitle=score
+- - ,1 q1. sx x 0 0 0 0 0 0 0 0 0 5 q5 q4 s4 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 q1. 0 0 1' - 1'.
+- s1. 0 q4 - - - 0 0 0 0 0 0 0 q5. 5. 0 0 0 0 0 0 0 - 1' 2 0 - -
+%END

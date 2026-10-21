@@ -1,0 +1,23 @@
+%黄河之都.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=21907
+title=黄河之都
+tag=
+usertag=
+tagroute=
+confidence=0.974
+conf_p10=0.986
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-21907
+%--
+4/4
+subtitle=score
+qx - - 6 0 3. x 1 x x d5 d6 d7 d1' d2' d3' d4' d5' q1' q5' q6' q1' s2' s3' 5' q6' q1' s7 s6 q5 q5' 2' - q1' q5' q6' q1' s2' s3' 5'.
+q1' s7 s2' 6 s2 s3 s4 s5 s6 s7 s1' s2' q5' q5' ~ 5' - - q2' 2' s3' s5' q1' s7 s6 5 q2' q5' q5' q1' s2' s3' 2'. q2' 2' s3' s5' q1' s7 s2'
+6 q2' q2' q2' s6 s5 5 - q1' q1' q1' s3' s6 s5 s6 5. q5' q5' q1' q1' s2' s3' 2'. s2'. s3' 5' q6' q1' s7' s2' 6 q2 1' s6 s5 5 - q2'. s3' q5'
+q6' q1' s7' s2' 6 q2 1' s6 s5 5 - q2' 2' s3' s5' q1' s7 s6 5 q2' q5' q5' q1' s2' s3' 2'. q2' 2' s3' s5' q1' s7 s2' 6 q2' q2' q2' s6 s5 5
+- q1' q1' q1' s3' s6 s5 s6 5. q5' q5' q1' q1' s2' s3' 2' s2' s3' 5' q6' q1' s7 s2' 6 q2 1' s6 s5 5. q2' 5' - - - q6' s5' s6' q4' s3' s2'
+q5' 1'. q6' s5' s6' q4' s3' s2' 5' - q6' s5' s6' q4' s3' s2' q5' 1'. q5 s5' s5' q4' s3' s2' 2' - q0 q3' q2' q3' q5' s1' s7 6 q0 q6 q1' q2' q4' 4'
+q2' q6' 6'. 6'. q6' 2' q6' q5' - 5' - - - q5' q2' q1' s7 s6 5 - q5' s6' s1' q1' q6 2' - q0 q3' q2' q3' q5' s1' s7 6 q2 1' s6 s5 5
+- 2'. 5' - - q5' - - - 5' - - 1 0
+%END

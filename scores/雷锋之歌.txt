@@ -1,0 +1,19 @@
+%雷锋之歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=26066
+title=雷锋之歌
+tag=
+usertag=
+tagroute=
+confidence=0.950
+conf_p10=0.823
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-26066
+%--
+4/4
+subtitle=score
+x q2. s6 s5 s4 s3 s5 2 0 5 6 2. s5 s3 2 5 q1'. 6 ,5 - q3. s5 q2 q3 q5. s6 s6 s5. ~ s5 s3 2 - - - q3. s5 q2 q3 q5
+5 q3 q6 s5 s3 s2 s3 q5 s5 q3 s2 q1. s6 q1 s0 q6 q1 q2 q3 q5 q3 s0 s2 x q0 q5 q6 s1 s2 s3 x s1. s2 s3 s5 s2 s1'. 6 ,5 -
+q2. s5 q3' q5 q6 6 q5 q5. s6 s6 s5 ~ s5' s3 2. q3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 q5 s5 s2 q3 q5 q6 s5 s3
+q2 q5 q6 1 - - - q5 s5 s2 q3 q5 q6 s5 s3 q2 q3 5 - - - 0 0 0 0 1 - - -
+%END

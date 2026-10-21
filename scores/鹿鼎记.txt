@@ -1,0 +1,23 @@
+%鹿鼎记.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=20684
+title=鹿鼎记
+tag=
+usertag=
+tagroute=
+confidence=0.983
+conf_p10=0.978
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-20684
+%--
+2/4
+subtitle=score
+0 1' 3 5 6 0 5 3 1' 3 q5 6 0 1' 2' 1' 6 5 0 3 q5 6 q5 q3 ~ 3 q0 5 1. q3 q5 q6 0 q5 3 1 3 q5 q6 0
+1 2. q1' 6 5 3 2 q1 0 q6 5 3 2 1. 0 q6 0 6. 6 - q1 1 3 5 6 6 0 3 1' 3 5 6 0 3 1' 6. q1' q6 5 3
+1' 5 6 5 q0 q6 1'. q2' 5 6 5. q6 1'. q2' 5 6 5 0 6 6 q2 q3 4 0 3. q6 2 q3 4 0 3 6 4. 6 4 3 2 1 2 3
+5 q5 6 7 - 7 ~ 7 2' 5 6 7 2' 2' 5 6 7 7 q3 5 q6 q1 5 0 x 1. 2 5 6 5. q6 1. 2 5 6 5 0 x q7. q6
+q5 q7 6 0 5 q3. q5 q5 q7 6 0 q5. q3 q1' q1' 6 5 q4 4 q3 q2 q1 q2 q3 5 0 qx. sx x qx qx x x x. qx qx x x q2 q3
+q5 q6 qx x x 0 s1 s1 6 5 3 q5 q6 q5 0 1 2 4 3 - 3 - 3 - 3 - 3. q3 2 1 q5 3 7 2 - 6 0 0 0 s7
+q7 6 6' 6 6' 0 q5 q5' q5 q5' 6' 6 6' 6' 0 q7 q7' s7 6 6' 6 6 0 5 5' 5 6 6' 6 6' 0 7 7' q7 q7' 6. 6' q6 q6' 6
+6' 6 6' 6 6' q6' q1' q2' q3'. q3 q2' q1 q5 q3 q1' q6 1 - 1' - qx. qx qx qx x -
+%END

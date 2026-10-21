@@ -1,0 +1,19 @@
+%阿尔斯楞的眼睛.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=38679
+title=阿尔斯楞的眼睛
+tag=
+usertag=
+tagroute=
+confidence=0.990
+conf_p10=0.978
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-38679
+%--
+4/4
+subtitle=score
+1 6 5 6 1 2 1. 2 2 3 1 1 5. 1 1 3 3 3 - - - x 3. q6 5 3 5 q3 q2 1. q3 2 3 6 ,5 q6 1 q2 3 q5
+6 q1 6 1 1. q2 2 3 1 q1 6 5. 1 q6 q1 q5 3 5 5. 6 3 3 3 2 3 5 1 1' 1 - - q1 q2 q2 1 2 1 6 1 6
+1 q5 q0 q1 6 1 5 6 - 5 6 1 2 - - - 2 1 1 6 5 3 5 6 1 5 0 1 6 1 5 3 5 3 2 1 6 6 1 5
+0 1 6 5 6 1 5 3 0 5 5. 6 3 2 3 5 1 x 1 2 6 ,x 5 5. 6 3 5 6 6' -
+%END

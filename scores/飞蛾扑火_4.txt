@@ -1,0 +1,23 @@
+%飞蛾扑火_4.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=36441
+title=飞蛾扑火
+tag=
+usertag=
+tagroute=
+confidence=0.982
+conf_p10=0.961
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-36441
+%--
+2/4
+subtitle=score
+1 - - x - - 0 x. x s1 s2 s1 s1 s3 s2 s2 s1 q1 s1 s2 s1 s5 s1 s5 s3 s2 s1 s5 s1 s2 s3 s5 q3. s5 s1 s2 s3 s5 s2' s5
+s1 s2 2 s3 s2 - q0 s,6 s1 q2 s1 s2 ~ q2 s,6 s1 s2 q3 s2 ~ 2 q,7 q,5 s,5 q,7 s,6 ,6 q0 s,6 s1 q2 s1 s2 ~ q2 s,6 s1 s2 q3 s2
+q0 s1 s2 s3 q5 s2 3 0 q0 s,6 s1 q2 s1 s2 ~ q2 s,6 s1 s2 q3 s2 ~ 2 q,7 q,5 s,5 q2. s1 s,7 q,6 q0 s,6 s1 q2 s1 s2 ~ q2 s,6 s1
+s2 q3 s2 ~ 2 q,7 q,5 s,5 q,7 s,6 ,6 q0 s3 s3 4 q4 s3 s4 ~ q4 s5 s5 ~ s5 q2. q3 s5 s5 ~ s5 q3 s2 s2 q1. 0 s3 s2 s3 s2 s3
+q6 s6 s6 q5 s5 s5 s3 s5 s5 ~ s5 q6. ~ 6 0 q0 s3 s5 q6' s6 s6 ~ 6 q1' s1' s7 ~ s7 q5. q7 s7 s7 s1' q1' s6 ~ 6 q0 s3 s5
+q6 s6 s6 s1' q1' s1' q1' s1' s7 ~ s7 q6 s5 s6 s5 5 3 q0 s3 s5 q6 s6 s6 ~ 6 q1' s1' s7 ~ s7 q5. q7 s7 s7 s1' q1' s6 ~ 6 q0
+s3 s5 s1' q1' s1' q7 s6 s5 q0 s5 s5 q3 s5 s6 s7 s6 6 - q0 s6 s1 0 q0 s3 s5 0 q0 s3 s5 q6 s6 s6 ~ 6 q1' s1' s7 ~ s7 q5.
+q7 s7 s7 s1' q1' s6 ~ 6 q0 s3 s5 s1' q1' s1' q1' s1' s7 7 - q0 s5 s5 q3 q5 ~ 5 q7 q6 6 - 6 -
+%END

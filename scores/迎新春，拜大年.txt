@@ -1,0 +1,18 @@
+%迎新春，拜大年.txt
+% 出处 https://www.jp114.com/jianpu/902566.html
+title=迎新春，拜大年
+tag=
+usertag=
+tagroute=
+confidence=0.977
+conf_p10=0.985
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-902566
+%--
+4/4
+subtitle=score
+x q5 q5 q6 q5 q6 q5 q6 q5 q0 1' q1' q2 q1' q6 5 0 q2 q2 q3 q5 q5 q1' 1' 6 5 5 2 2 3 5 5 1' 1 6 5 ~ 5 2 5
+6 6 6 ~ 6 6 ~ 6 6 2 5 6 q6 ~ q6 5 0 x 5 q5 q3 1 - 0 2 3 6 5 - q6 q6 q6 q6 6 q1' 2 - - - q2'
+0 2' q2' q2' 1' 1 5 6 - - - 2' 2' 1' 2 0 q1' q1' q2' 5' q2'
+%END

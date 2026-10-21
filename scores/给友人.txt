@@ -1,0 +1,23 @@
+%给友人.txt
+% 出处 https://www.jp114.com/jianpu/1224064.html
+title=给友人
+tag=
+usertag=
+tagroute=
+confidence=0.989
+conf_p10=0.992
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1224064
+%--
+4/4
+subtitle=score
+1 - - q1 q4 x x x x 2 2 - 3 2 0 7 6 7 2 - 0 q6 q7 q6 q5 5 - 0 - q6 q7 q6 q5 6 - 0 0 4 q3 q4
+q7 q6 6 - - q3 q4 q3 q2 3 - 0 - 5 - 2 - - 0 7 q6 q5 5 - 0 0 q0 5 q7 7 6 q0 4 q3 q3 s2 s3 ,7 q3 q3
+q4 q4 ~ 4 0 q1 q1 q3 q2 2 - 2 0 0 0 5 2 - 0 q7. s5 6 6. q4 q4 s3 3 0 0 5. q4 q3 s2 s3 ,7 q3' q1' q7 q6 ~
+6 0 6. q6 6 4 ~ q4 4 q3 5 2 ~ q2 q7 q6 q7 2' 7 q7 q3' q1' q7 6 0 0 6 q7. s5 6 q7 s6 s7 q2' q2' q3' s3' s5' q2' q7
+q2' q6 q7 q6 5 - q6 q6 q7 s6 s7 6 - q7 s6 s7 2' 2' - q2' s7 s2' 5' 5' - 6. q2' q6 5. q0 3' q7 q6 q7 2' 2' 6 7 5 ~
+q5 2 q3 5 2 q0 3 q5 q7 q6 6 q6 7 q7 q6 q7 2' 3' 2' q7 q6 7 7 q6 q7 2' 2' 7 6 3 5 q0 7 q2' q3' q2' 3' 2' 7 4
+3 ~ q3 5 q4 q3 q4 6 2' 6 3' 7 ~ 7 0 0 0 s7 s2' q2' s3' s2' q2' ~ 2' - 0 - q1' q7 s7 s6 q7 ~ 7 0 - - q2' q7
+q2' q3' 3' - - 0 3' 2' - 0 7 2' 7 2' - - 0 2' - - 0 0 0 2 0 2 0 4. 3 0
+%END

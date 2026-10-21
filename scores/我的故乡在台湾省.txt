@@ -1,0 +1,19 @@
+%我的故乡在台湾省.txt
+% 出处 https://www.jp114.com/jianpu/907294.html
+title=我的故乡在台湾省
+tag=
+usertag=
+tagroute=
+confidence=0.954
+conf_p10=0.867
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-907294
+%--
+2/4
+subtitle=score
+0 2' 2' 6 q7 6 0 2 2 q4 6. q4 3 q0 2 2 2. 3 q2 q1 q0 ,7 7 ,7 1 ,7 ,6 ,6 3. s6 6 - 6 x 3 q6 3 1 2 0
+3 1. q2 1 q,7 ,6 ,6 x 3 q6 s7 7 7 6 4 s2 3 3 0 6 7 1' 7 6 5 4 3 2 q1 ,7 1 2 3. 5 4 2 3 - 3 0
+s6 s3 6 7 7 6 5 q,4 q5 6 2. 3 4 6 3. 2 1 ,7 ,6 - ,6 6 1 1' 1' 7' 2' q1' q7 6 4 2 q0 6 5 5 4 3 x 2
+x x
+%END

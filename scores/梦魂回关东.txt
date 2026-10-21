@@ -1,0 +1,19 @@
+%梦魂回关东.txt
+% 出处 https://www.jp114.com/jianpu/813340.html
+title=梦魂回关东
+tag=
+usertag=
+tagroute=
+confidence=0.961
+conf_p10=0.925
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-813340
+%--
+2/4
+subtitle=score
+1 - - 4 x ,,1 0 x - 3'. s2'. s3' s1' q1' s6 6 2'. s1'. s2' s1' q6. 5 s5 s6 s5 s3 q2. s3 1. s1 s5 s3 q3. s3 s3 s5 s6 3 3. x
+s3 s3. s5 q2. s3 s2 s1 s1 s6 ,5. s1 s2 3 s3 s3 s5 s6 5. s6 s5 q5. s3 s2 s1 s3 s2 2. ~ s2 s5 s3 q3. ~ s3 s3 s5 s6 3. s3 s5
+q2. s3 s3 s2 s2 s1 ,6. s,5 s,6 1 s1 s3 s5 s6 s5 q5. ~ q5 s6 s5 q3. s5 s2 s1 s1 s,6 1. s6 s7 q1'. s1' s1' q6 s5 5. s3 s5 q6. s6 s1
+s6 s6 d5 d3 2. s1 s2 q3. s3 s5 s3 s2 s1 ,6. s,5 s6 q5. s3 s2 s1 s1 s,6 1. s1 s,5 q5. s3 s3 s2 s2 d1 d6
+%END

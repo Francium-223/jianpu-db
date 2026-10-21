@@ -1,0 +1,21 @@
+%送别_5.txt
+% 出处 https://www.jp114.com/jianpu/1188741.html
+title=送别
+tag=
+usertag=
+tagroute=
+confidence=0.957
+conf_p10=0.874
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1188741
+%--
+4/4
+subtitle=score
+1 - - 4 x ,7 x 4. x x x x q3 q5 q7 - 0 - q2 q3 4. q,7 - 0 - 0 - 0 0 0 0 5 q3' q5' 1' - 6 5 - 5
+q1 q2' 3 q2' q1' 0 - 0 - q,1 q1 q3 q5 q5 q3 q1 q,1 q1 q3 q6 q1' q5 q3 q1 q,5 q5 q1' q2' q1' q6 q5 2 - - - 5 q3' 5' 1'. q7
+6 1' 5 - 5 q2' q3' 4. q,7 1 - - - ,2 q2 q5 q7 q2' q7 q5 q2 q,5 q1 q3 q5 q1' q6 q5 q3 q,1 q1 q3 q6 q5 q3 q1 q,5 q1 q2 q3
+q4 q2 q,7 q,5 q,1 q1 q3 q5 q1' q5 q1 q1 6 1' - 7 q6' q7' 1' - q6' q7' q1' q6 q6 q5' q3' q1' 2 - - - q1' q6 q4 q5 q3 6 5 3
+1 q2 q,5 q,6 q1 q2 q1 q2 q3 5 q3 q5' 1'. q7 6 5 - 5 q2 q3 4. q,7 1 - - - 0 q,1 q1 q3 q5 q1' q5 q3 q1 q,1 q1 q3 q6 q5
+q3 q1 q,5 q1 q2 q3 0 q1 q,5 q1 q3 q5 q3' q5' 0
+%END

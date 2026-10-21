@@ -1,0 +1,18 @@
+%口琴黄昏之恋.txt
+% 出处 https://www.jp114.com/jianpu/988596.html
+title=口琴黄昏之恋
+tag=
+usertag=
+tagroute=
+confidence=0.855
+conf_p10=0.498
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-988596
+%--
+4/4
+subtitle=score
+q1' q2 q4 4' 3' 2' x ,x 3 - 2 2 q7 q1 q3 5. 1' - - 7 - 7 - - 7 q7 1 q3 5 7 1' 7 x. q7 6 - - 6 q1 2
+qx ,,6 2' - - 2' ,1 2 q4 q1 - - x' q1 q2 ,4 2' 7 6 4. ,2 1 - 1 7 q1. ,3 q5 - - 7 - x 7 - - 7 q3 ,1 q5
+7 7 6 q0 q7 6 - - x ,1 2 4 6 4' 2' 1' x. q,4 3 - - ,1 2 3 q4 - - x' 7 - - - - - - 3. 3. - - -
+%END

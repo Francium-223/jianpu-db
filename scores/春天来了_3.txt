@@ -1,0 +1,20 @@
+%春天来了_3.txt
+% 出处 https://www.jp114.com/jianpu/1189830.html
+title=春天来了
+tag=
+usertag=
+tagroute=
+confidence=0.968
+conf_p10=0.905
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1189830
+%--
+4/4
+subtitle=score
+1 - - x 1 5 x x 0 - - 0 0 0 0 0 0 0 0 1. q3 5 1' 1. q1' q5 q3 q5 q5 q3 q5 q5 q3 q5 q1' q5 q3 q5 q1' q5
+q3 q5 q5 q3 q5 6 q6 5 - 4. q5 3 1 2 - 1 - 5 5 4 4 q1 q6 q4 q6 q,5 q2 q,7 q,5 q,4 q1 q,6 q1 q3 q1 q,5 q1 q2 q,7 q,5
+q2 q1 q,5 1 q1 q5 q1 q5 q1 q4 q1 q4 3 q5 q3 2 - 5 5 4 4 3 q5 q3 2 - 1. q3 5 q1 q3 q5 q3 q2 q,7 q2 q3 q1 q5 q1
+q5 q1 q4 q1 q4 q1 q3 q5 q3 q2 q,7 q2 q3 q1' q5 q3 q5 q5 q3 q5 6 q6 5 - 4. q5 3 1 2 - 1 - q6 q4 q6 q,5 q2 q,7 q,5 q,4
+q1 q,6 q1 q3 q1 q,5 q1 q2 q,7 q,5 2 1
+%END

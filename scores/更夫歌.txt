@@ -1,0 +1,18 @@
+%更夫歌.txt
+% 出处 https://www.jp114.com/jianpu/1141239.html
+title=更夫歌
+tag=
+usertag=
+tagroute=
+confidence=0.982
+conf_p10=0.983
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1141239
+%--
+4/4
+subtitle=score
+1 2 5 1 ,7 1 5 5 6 5 4 2 1 q5 ,5 1 1 1 1 2 5 2. 2 1 q,5 ,5 5 5 1' 5 1 5 4 5 1 2 5 5 6 5
+4 2 1 q5 ,5 1 x 2 5 2. 2. 2 1 q,5 ,5 2 2 2 q7 1 2 1 2 5 5 5 6 5 1 2 5 1 s7 1 5 5 6 5 4 q2
+1 q5 ,5 2 5 5. 2 2 1 ,5 2 5 5 2 1 6 2 5 2. 2 1 5 5 1 6 4
+%END

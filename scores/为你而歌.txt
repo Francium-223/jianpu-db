@@ -1,0 +1,22 @@
+%为你而歌.txt
+% 出处 https://www.jp114.com/jianpu/1202519.html
+title=为你而歌
+tag=
+usertag=
+tagroute=
+confidence=0.718
+conf_p10=0.442
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1202519
+%--
+4/4
+subtitle=score
+1 qx - - 1 2 6 x 2. 4 x 1 1 1 1 x x 5 5. 1 1 3 q5 1' q3 q1 x' 2' 1 s1 qx q5 7 s5 s1 s2 q1 1 6 s5
+q5 5 s5 5' 4 0 2 q2 q1 3' 2. x 2' q1 x q5 x x 2' 6 6 ,6 q2 2 q2 q1 5 3' q5 ,x 5' 5' 5 qx. q1' qx q3' x. x' 1'.
+1'. ,,1' 1' 2 qx 1' 1 7 x 3' 6 1' 1 1 1 6 0 ,2' ,,2 2 q1' 1' x 1 x x' ,,7 ,5 5 5' 5' 4 qx q5 ,x' 1' ,,x ,1' 2'. 3
+2 ,2 q6 1 1 2 1 q5. 2. dx dx qx 1 1 ,1' ,x ,x x' 1' 1' q4' s1' q1 1' 1' 1' ,,3 q2 q,1 x s0 - q3' q5 q5 q5 1 q2 q1 1'
+x' 1 1' q1 q6 x' - x - - 2 q1 x - 6 2 3 x q2. q2 q2 q2 2 4'. 2' 1' q,x q,2 q1' qx q1' q1' q1' q1' q1' q1' 1 q2. 2 ,,x
+1 q6 q6 q,1 q1' q1 q1' ,1 1 1 q1 1 1' 1' s2 q2'. q1' 2' 1 5 q5' q5 sx' s,1 q,1 d1 x' s1' s2 s1' 5 1 1 1' x 1 1 1 x 1
+q1' q1' 1 1' 1'. s1 q1' q1' q1' 1' x q1 0
+%END

@@ -1,0 +1,19 @@
+%天上下雨地上流.txt
+% 出处 https://www.jp114.com/jianpu/1135289.html
+title=天上下雨地上流
+tag=
+usertag=
+tagroute=
+confidence=0.975
+conf_p10=0.949
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1135289
+%--
+4/4
+subtitle=score
+x ,2 5 2. 5 q2 q5 1 - - 7 6 2 5' q2' q4 q3' 2' - - - q2 5 2 5' 5' 2' 1' 7. 7 7 2' 2 6 5 2 5 2. 5 2
+4' 5 - - - 2. 2' q6 5 - q2. q5 q2 q4 5 - 2 5 5 2 1 - - - 2 2 5 5' 5 x' 5 2 5 7' 6. 7 6. 5 6 2
+2' 5 - - - ,2 2 6 5 - q5 2 - - 4 5 - 2 5 5 2 - - - 5 5 5 2 1 7 7 7 q2 2 6 q5 2. 5 6 q7
+6 5 q,5 - - 7 7 2 x x 6 7 q6 7 6 5 5 4 - 3 2 5 1 2 4 3 2 - - -
+%END

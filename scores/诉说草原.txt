@@ -1,0 +1,25 @@
+%诉说草原.txt
+% 出处 https://www.jp114.com/jianpu/782891.html
+title=诉说草原
+tag=
+usertag=
+tagroute=
+confidence=0.909
+conf_p10=0.619
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-782891
+%--
+4/4
+subtitle=score
+1 0 0 x x x x 3. q3 2 ,7 1 - - - 3. q3 2. q,7 1 - - - 4 - 3 q2 q1 ,7 - - 1 2 - 5 q1 q2 ,6 - -
+- x ,6. q,3 q,6 q1 q2 q3 ~ q3 2. ~ 2 - q2 s2 s1 q2 s2 s3 2 q,5 q5 q5 q3 3 - - q,1 1 1' q,6 q1 q,6 s,3 q3 h,3 q5 s,5. d,6
+6. q1 6 s3 s3 q6 s3 q5 s1' d6 q7 s6 h2 d6. d2. d6 d6' s5 h,,5. h5. 6 d0 3 h3. h3. h3 3 sx q5 q5 h3 d2 q2' s6 s6'. s7. h3 s2 s7 q,3'
+h,6 q6 q3 5. ,7 s2 q2 s2 d,6 0 d,5 q5 d1 d,3 h,3. d5 q6 ,3 6 3 q,3' q,3 s,5 q3 3. ~ q3 s1 s2 q3 q6 6 2 - - q5 s5 s5 5 ~
+q5 q3 q5 q1' q2' q3' 6 - 0 3'. 3' - - q6 q1' q,6 ,6. ~ q,6 s,6 s1 q3 q6 6 4 - - q3 s3 s2 5 ~ q5 q3 q7 q2' q3' 6 - 0
+0 0 0 0 2' - 0 s2' s3' 2' - 0 q1' q2' 3' - - s6 s1 s2 s3 6 - q6 q3 q5 q3 2 - - q3 q5 7. q6 5 q3 q5 6 - -
+1' q1' q2' 3' - q3' q3 q6 q1' 2' - - q1' s2' s3' 2' - q2' q5 q6 q5' 3' - - - 0 0 0 0 0 q1' q2' 3' - 3' q6 q1' 2' - 2'
+q1' s2' s3' 2' - 2' q1' q2' 5 - q6 0 6. q0 0 s5 q6 q5 q6 q5 6. s3 s2 s2 q6 s5 s5 s5. s5. q5 s3 s2 s2 q2 2. s7 q7 s7' h7 s7
+s7' h6 s6 5. 5'. 5. 5. s3 q3 q3' s5 q5 q1' s2' q2' q2' h6 s6 6' 6 6 6' 0 - - - q7 q7 s7 s6 5 - - q3 q5 1' - - 6 -
+- - 6 - 0 0
+%END

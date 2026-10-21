@@ -1,0 +1,17 @@
+%猜调_5.txt
+% 出处 https://www.jp114.com/jianpu/970806.html
+title=猜调
+tag=
+usertag=
+tagroute=
+confidence=0.954
+conf_p10=0.783
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-970806
+%--
+2/4
+subtitle=score
+q5 1' q1' 6 5 5 5 6 ,5 5 5 ,7. q7 q,7 s1 2 q2 5. q,,7 ,1 s1 2 q4 s2 0 s,,7 q,7 ,1 ,,2 q2 q2 q5 qx q,7 q,7 q5 ,7 q1 q2 4
+qx. ,7 q,7 q1 q2 q2 1' - ,5 -
+%END

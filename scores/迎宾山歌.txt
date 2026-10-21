@@ -1,0 +1,21 @@
+%迎宾山歌.txt
+% 出处 https://www.jp114.com/jianpu/805961.html
+title=迎宾山歌
+tag=
+usertag=
+tagroute=
+confidence=0.960
+conf_p10=0.878
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-805961
+%--
+2/4
+subtitle=score
+q1' s1' q1' q6 q5 6 6 6 3 qx' qx qx qx x x s1' q1' ,1' 6 5 q6 6 6 2 x x x x x q1 6 6 ,6 1 2 q6 q6 q1 q2 q5
+q3 q3 3 5 5. s3 q5 6 6 6 q0 qx x qx x qx qx qx' 6 6 6 6 q0 qx qx x sx qx x x x 6 6 qx 5 3 5 q6 6 3
+6 6 3 q5 6 q6 0 6. 6. q5 q3 q5 q2 2 s1 2. 3 q2 q5 2. q3 q2 1 2 q3 5 ,6 6 6 - 6 - 1 q1. s5 5 - 1 1. 5
+3 - 3 6 q6 3 2. 3 q1 6 3 - 3 - 1 q1. s5 5 - 1 q1. s5 5 - q3 6 6 q3 q2. s3 q1 q6 5 5 - ,1 3 3 5 1
+2 3 3 6 3 q2 3 1 2 q1 q,6 ,6 q3 q,6 ,6 1 ,6 ,6 1 6 6 3 6 6 1' 6 - 6 - 6 - 6 6 x qx q5' q6' 6' 6 0
+x
+%END

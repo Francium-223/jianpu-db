@@ -1,0 +1,17 @@
+%民族声乐考级歌曲：茉莉花.txt
+% 出处 https://www.jp114.com/jianpu/1505003.html
+title=民族声乐考级歌曲：茉莉花
+tag=
+usertag=
+tagroute=
+confidence=0.996
+conf_p10=0.990
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1505003
+%--
+4/4
+subtitle=score
+3 q3 q5 q6 q1 q1 q6 5 q5 q6 5 - q3. s2 q3 q5 q6 q1 q1 q6 5 q5 q6 5 - 5 5 5 q3 q5 6 6 5 - 3 q2 q3 5 q3 q2
+1 q1 q2 1 - q3 q2 q1 q3 2. q3 5 q6 q1 5. q3 2 q3 q5 q2 q3 q1 q,6 ,5 - ,6 1 2. q3 q1 q2 q1 q,6 ,5 - - 0
+%END

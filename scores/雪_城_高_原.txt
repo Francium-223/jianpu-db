@@ -1,0 +1,24 @@
+%雪_城_高_原.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=34810
+title=雪 城 高 原
+tag=
+usertag=
+tagroute=
+confidence=0.985
+conf_p10=0.970
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-34810
+%--
+4/4
+subtitle=score
+q3 s3 s5 q3 s3 s5 q6 q6 q6 q0 s2'. s1' q1' s2' s1' q1' q6 q6 q6 q0 q3 s3 s5 q3 s3 s5 q6 q6 q6 q0 s2'. s1' q1' s2'. s1' q1' q6 q6 q6 q0
+3' - - - 3' - - - q3' q3' q3'. s2' s1' q3' q3' q3'. s2' s1' q3' q3' q2' s3'. s5' 3' - q2' q2' q2' s1' s6 q2' q2' q2' s1' s6 q2' q2' q1' s6 s5
+3 - q3' q3' q3' s1' ~ s1' q3' q3' q3' s1' ~ s1' q3' q3' q2' s3'. s5' 3' - q2' q2' q2' s1' s6 q2' q2' q2' s1' s6 q2' q2' q1' s6 s5 6 - q3 s3
+s5 q3 s3 s5 q6 q6 q6 q0 q2' s1' s1' q2' s1' s1' q6 q6 q6 q0 q3 s3 s5 q3 s3 s5 q6 q6 q6 q0 q2' s1' s1' q2' s1' s1' q6 q6 q6 q0 q2'. s3'
+1' q2'. s3' 1' q2'. s1' q2' q1' q6 q6 q6 q0 q2'. s3' 1' q2'. s3' 1' q2'. s1' q2' q1' q6 q6 q6 q0 q1' 6 q5 6 q6 3 q5 6 q1' 6 q5 6 q6 3.
+q5 6 q2'. s3' 1' q2'. s3' 1' q2'. s1' q2' q1' q6 q6 q6 q0 qx qx qx q0 qx qx qx q0 qx qx qx qx qx qx qx q0 qx sx dx qx q0 qx sx dx
+qx q0 sx sx sx sx sx sx qx qx sx q0 qx qx qx q0 qx qx qx q0 qx qx qx qx qx qx qx q0 qx qx qx q0 qx qx qx q0 qx qx qx qx
+qx qx qx q0 qx qx qx q0 qx qx qx q0 qx qx qx qx qx qx qx q0 qx qx qx q0 qx qx qx q0 qx qx qx qx qx q0 q3 s3 s5 q3 s3 s5
+q6 q6 q6 q0 q2' s1' s1' q2' s1' s1' q6 q6 q6 q0 q3 s3 s5 q3 s3 s5 q6 q6 q6 q0 q2' s1' s1' q2' s1' s1' q6 q6 q6 q0 q5 q6 0 0 0 x
+%END

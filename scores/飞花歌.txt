@@ -1,0 +1,18 @@
+%飞花歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=28459
+title=飞花歌
+tag=
+usertag=
+tagroute=
+confidence=0.909
+conf_p10=0.515
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-28459
+%--
+2/4
+subtitle=score
+1 x x 1 x'. x. x' 5 2' 1' q0 3 q5 6 2' - q2' q0 3' 2' 1' q0 6 q5 6. q2' - - 5 q5 q6 1' q0 2' s1' s2' 3' - 3' -
+q0 1' q2' 6 6 q0 5 q6 4 4 q0 3 q5 6 6 q0 5 q6 7 - 5 - q5 q0 5 2' 1' q0 3 q5 6 1' 2' - q2' q0 3' 2' 1' q0
+6 q5 6 2' 1' -
+%END

@@ -1,0 +1,18 @@
+%中秋水调歌.txt
+% 出处 https://www.jp114.com/jianpu/921920.html
+title=中秋水调歌
+tag=
+usertag=
+tagroute=
+confidence=0.934
+conf_p10=0.671
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-921920
+%--
+2/4
+subtitle=score
+1 - - x x x. x' x' x' x' 2 x x 3 6 - 6 - q,5 s,6 q1 q1 1 - s,6 q1 q3 q,3 2 - q5'. 6' 5 q3'. 5' q3' q2' 2 2 -
+2'. 3' 2 q2' q1 ,6'. q1 ,6 - q6 6. q7 6. q7 q6' 7' q5 6 q5 3. 4. 3 2 3 3' 2' 2 1 ,6 1 q1' q2' 3 6. x x q,4 q3. 4 s3
+s,2 1 q2 3 2 - x q,7. q6 q,5 - q,6 0 5 ,3 - 1. s6 ,5 ,,6 ,6 - q1. q2' q,3' q5' s,6' q,7' s6' s5'. 3 q2 s0 s3 s2' s1 ,6 1. 0
+%END

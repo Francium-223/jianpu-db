@@ -1,0 +1,19 @@
+%阿里郎情歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=26063
+title=阿里郎情歌
+tag=
+usertag=
+tagroute=
+confidence=0.914
+conf_p10=0.536
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-26063
+%--
+4/4
+subtitle=score
+1 0 - - x. ,1' ,1' x' 3 - q2 q3 q5 1 q2. s3 ,6 - - - 1 1 - s1 6 s1 2 q1. s2 3 - - - x x x x x x. 3
+- q2 q3 q5 q1. s1 q2. s3 ,6 - - - 1 - s1 6 s1 q2. s2 q1 q1'. q2 q3 5 - - - 6 - s5 q3 s5 6 5 - s2 q3 s5 3 -
+6 ,7 3 2 s2 q3 q6 1 - - - ,5 - q6 5 q6 2 s2 q3 s5 3 - 6 - s5 q3 s5 6 1 q1 q6 q1 2 - 2 - - - 1 -
+q1 q7 q1 6 5 q2 q3 q5 3 - 5 ,6 3 2 s2 q3 q6 1 - - - 5 ,6 q3 2 s5 q1' s1' 1' - - - 1' - - - 1' - - 0
+%END

@@ -1,0 +1,17 @@
+%秦川笛韵.txt
+% 出处 https://www.jp114.com/jianpu/1191981.html
+title=秦川笛韵
+tag=
+usertag=
+tagroute=
+confidence=0.990
+conf_p10=0.983
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1191981
+%--
+4/4
+subtitle=score
+5 - q5 5 q2 q1 q7 q6 q5 q1. s2 q4 q3 q2 q0 2 - 1 - - - q1' - - q1' - - 6 q5 q6 - - q5. q3 q2 q1 ,7. q1 2 -
+- q4 q5 - - 1' 7 6. 0 0 5 - q5 q0
+%END

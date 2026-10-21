@@ -1,0 +1,21 @@
+%苿莉情歌胡琳词涂乐曲.txt
+% 出处 https://www.jp114.com/jianpu/789148.html
+title=苿莉情歌胡琳词涂乐曲
+tag=
+usertag=
+tagroute=
+confidence=0.933
+conf_p10=0.757
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-789148
+%--
+4/4
+subtitle=score
+q1 0 0 7 6 4 1 x'. x'. x' 1 q3'. s2' q3' q3' s5 s1' s1' s2' 2' q2' s6 q5. s6 q6 q2' s6 s5 5 s2 s3 s5 s6 5' 5 - - - x q1'
+2' q5' q3'. - s5' q1' q2' q3' q2' 2' - - q3' 5 q6 q2' 1'. q6 q2' s6 s5 q6 q5 ~ 5 q5 s6 - s5 q3 q5 q5 q6 q1' q2' 2' - - s2' s1'.
+d2' q5' q2' 3' - q2' 5 q6 q2'. s1' 6 5 - - - q3'. s2' q1' q2' s5' s6'. s5'. s2' 3' q1'. s3' q2' q1' s6 s5 s1' s1' 2' q2' s1' s6 s5 s3 s5 s6
+1' - q6 q2' q1' s6 s5 5 s2 s3 s5 s6 5 - - - 5'. q2' s3'. s5' 3'. 2' q3' 5' 2' - s3'. s5' q3' 3' - - 1' 1'. q2' 2' - q2 q2' q1
+5' q6 2 2' 1' s2 s2'. s3' q2' 2' - - q1 3 q5 q6 q6 6 q2'. s3'. s3' q2' - s1' s1 6'. q2 q3 q5' q6 q2' 2' q3' 2 6 1 - 2 3 s5
+s6 5. 5 - 2 - 6 - s1' s2' 1'. - - -
+%END

@@ -1,0 +1,19 @@
+%到海上来.txt
+% 出处 https://www.jp114.com/jianpu/990418.html
+title=到海上来
+tag=
+usertag=
+tagroute=
+confidence=0.913
+conf_p10=0.560
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-990418
+%--
+3/4
+subtitle=score
+x qx - - 0 x 0 1' 2 3 6 5 3 1 2 3 1 0 0 1 1 3 4 5 6 7 6 2 - - 2 1 2 3 6 5 3 7 2 3
+1 0 0 1 2 3 6 5 2 4 3 1 - - 0 1 2 3 6 7 7 6 6 5 0 0 5 5 6 6 7 1 2 2 3 - - 3 3 1
+1 3 5 1' 1' 1' 7 - 6 0 3 4 5 5 5 4 3 2 1 - - 1 0 0 qx q1' 0 q0 0 1. 1 qx q1 s,,3 1' x x x q3 qx
+qx. q3. ,2 x. - x. q1 q0 0 0 1 qx 1 1. x x
+%END

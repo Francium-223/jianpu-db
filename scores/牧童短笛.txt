@@ -1,0 +1,17 @@
+%牧童短笛.txt
+% 出处 https://www.jp114.com/jianpu/1496957.html
+title=牧童短笛
+tag=
+usertag=
+tagroute=
+confidence=0.903
+conf_p10=0.533
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1496957
+%--
+4/4
+subtitle=score
+s1 1 s1 1. q4 7 2 x ,x x x' x x' ,5 q,6 q1 3 - q2 1 q2 q,6 q,5 ,3 ,5 - - - ,6 q1 q2 3. q5 6. q5 q3. s5 s3 s2 q1
+2 - - - 3 q,6 q3 2. q1 ,7 q,6 q,7 ,6 ,5 ,3 - - - ,3. q,5 ,6 1 2 - - 3 1. q,6 ,5 1 ,6 - - -
+%END

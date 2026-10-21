@@ -1,0 +1,20 @@
+%德国土风舞.txt
+% 出处 https://www.jp114.com/jianpu/1539437.html
+title=德国土风舞
+tag=
+usertag=
+tagroute=
+confidence=0.888
+conf_p10=0.525
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1539437
+%--
+4/4
+subtitle=score
+1 - - 0 0 1 3 5 q4 q3 2 2 q4 q3 2 2 q4 q3 2 q3 q2 1 3 5 1 0 0 3 q3 q4 q3 2 2 q4 d4 q3 2 2 1 1
+- - 1 1 3 5 q4 d4 q3 2 2 3' 2' 2' 5' q4 q3 2 2 q4 q3 2 q3 q2 3 5 q4 q3 2 2 q4 q3 2 2 4' 4' 4' 1 ,,1 -
+- 1 1 q2 q3 q4 q5 x' 6 ,5 6 6 5 q1 q3 5 h1 ,6' 6 6 6 ,5 5 - 3 h2 h0 h2 h2 1 2 q,1 2 5 x 4 4 6 ,4 5
+- - 1 ,1 3 5 q4 d,4 q3 2 2 q4 d4 q3 2 2 ,1 ,1' 1 1 ,1 h3 q4 d4 q3 2 q3 q2 1 1 3 5 d4 q4 q3 2 2 d4 q4 q3
+2 2 1 3 5 q1' 0 0 x x'. q3 q2 s3' h4' 2' 6 6
+%END

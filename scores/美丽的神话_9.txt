@@ -1,0 +1,20 @@
+%美丽的神话_9.txt
+% 出处 https://www.jp114.com/jianpu/1234868.html
+title=美丽的神话
+tag=
+usertag=
+tagroute=
+confidence=0.742
+conf_p10=0.434
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1234868
+%--
+4/4
+subtitle=score
+0 q1 h,4' s0 h5' d,5 h0 h1' h3 ,1 3 h6 h6 h1'. h1' h3' hx h1' h1 ,3' ,,1'. 6' ,6 6' d,6' 6' d,6' d,3' q,6' q,,,1'. q,,,6'. h,x - q6' d3' s6 3' ,,5 q,5' q,5
+s,,5' q5 q2 q,2 h,,,1' h,,,1 h1 - h,,3'. s1' h2 q,4' q,,3' s1' s3 q1' q1' h,1 7 h,2' h,2' h,2 6' ,,6 ,,6 ,,5' ,,3' ,,1' s,,1' h,,,1' h3 ,3 q3 q0 4' 4' s,6' 6 6' ,,6
+,,1' d,6' d,6 - h,1 q,6 q,3 d,1 d,1' h5' ,7 ,5' h,5 d7' q,5 q6 5 5 ,5 1 1 qx. x' qx x' ,,6' q6'. q,,6 h,,,6' d,,,3. d,6 q,,3 q,,3 q,,,1'. q,6 ,3' ,3 q,,6 q,,3 d3
+s,6 q,,6 q,,6' h,1 h,,1 ,,6' q6' q6 ,,6 q,,1' d,3 d,6 h3 h3 d2 q,,3 q,,3' q,,3 s,,7 h,7 d3 d1 1 h5' h5'. s1' q,,4 d,,6' d,,,6' s5' q,,5 s5 s,2 s,2' s,2 s,2 d3 q3 0 q,x
+q1 q,5 q3 d3 q,1 s,1 s,3' s,3' ,7 ,7' s,1 q0 q6' q0 0 1' s,3 ,3 ,6 q3 3 s,,3 q,,3' q,3' 2 ,,1 ,3 ,3 ,5 ,5
+%END

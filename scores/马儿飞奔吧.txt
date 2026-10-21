@@ -1,0 +1,19 @@
+%马儿飞奔吧.txt
+% 出处 https://www.jp114.com/jianpu/891703.html
+title=马儿飞奔吧
+tag=
+usertag=
+tagroute=
+confidence=0.899
+conf_p10=0.566
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-891703
+%--
+2/4
+subtitle=score
+1 - 1 - ,x. x - ,1' 1 q1 1' q,,7. q6 q6 ,,6 q6 q5' q2 q2. q3 1 q7 q6 q6 q6 q6 q6 q6 q6 6 6 ,6. 2 q5 q3 q2. s2 q,3 q1 q7
+,6 - 1 q,1 1 1 q2 q3. q6 q,5 ,,,4. 3 - 3 0 2 q,2 q1. q6 6 q5 q6. ,1 q,6 4 q,3 2 6 ,,6 q6 q,2. q,2 q,5 q,3 2. s2 q3 q,1 s7 ,6
+- 1 - x. q5 1 1' 7 q,6 6 q,5 q6 q6 q5 q4 q3 2 1 1 q2 x. q,3 3 6 6. 3' 1. s,,6 5 1 q4'. 3 1. 1' 1' 7 6' 1. 6 1
+,5' x 6 q1 1. 6'. q,,4 q3 2 6 q6 q6'. q1 q,1 q2. q,3. q,,6 q5 q3 6 ,1' 6 q1' ,1' ,,,1' q7
+%END

@@ -1,0 +1,20 @@
+%黄昏梦难圆.txt
+% 出处 https://www.jp114.com/jianpu/1379892.html
+title=黄昏梦难圆
+tag=
+usertag=
+tagroute=
+confidence=0.988
+conf_p10=0.976
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1379892
+%--
+2/4
+subtitle=score
+q,1 2 2 3 3 5 q6 q6' q,5 4 3 - 0 2 2 5 4 3' 4 3' 2' - 2' - 0 q2 2 q4 3 q2' q1 2 1 - 1 - q1 5 - 3
+- q5 q4 q3 q2 - 1. ,1 ,6 q1 6. q6 q7 q7 q7 5 - q0 q4 q4 q4 4 3 2 5. 6 7. 7. q0 5 4 3 0 q5 q4 3 2. 6 5 4
+3 2 - 2 - 1 1 2 3 3 3 q6 s6 q6 3 - q0 q2 q2 q5 4 q3 q3 q2 3 q1 2 - q0 q2 q2 q5 4 q3 q3 q2 ,6 q,7 1 -
+d6' d1' 6 - 7 6 5 6 - 6 7 7 6 5 3 - 3 - 2. 3 5 5 6 3 2 1. ,7 ,6 3 3 3 5 1 2 - 2 3 ,6 3 3
+3 5 1 3 ,6 - ,6 - q,6 q2 q2 q3 6' - 6' - q0 7 q6 q7 q6 5 6' - 6' - 6' - 6' 0 0 0
+%END

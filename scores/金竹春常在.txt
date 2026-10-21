@@ -1,0 +1,18 @@
+%金竹春常在.txt
+% 出处 https://www.jp114.com/jianpu/922167.html
+title=金竹春常在
+tag=
+usertag=
+tagroute=
+confidence=0.982
+conf_p10=0.928
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-922167
+%--
+4/4
+subtitle=score
+s3 s5 s6 6 - - q7 q6 3 - - q,3 q7 q7 q,6 6 - s3 s2 2 - - q1 q3 3 - - s2 s3. s,3 s,1 2 - - q6 q1 ,1 - - s6
+s7 s7 s5 x 0 6 1 2 3 6 3 6 - - - 2. 1 5 6 7. 6 6 - - x 3 x 2 - - 3 5 6 6 - - 7 6 6 -
+-
+%END

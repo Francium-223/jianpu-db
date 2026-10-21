@@ -1,0 +1,21 @@
+%霍尔果斯之恋.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=15642
+title=霍尔果斯之恋
+tag=
+usertag=
+tagroute=
+confidence=0.957
+conf_p10=0.875
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-15642
+%--
+2/4
+subtitle=score
+1 - - x x x 1 x 1. s5 s5 s7 q2' - s7 s2' s7 s7 s6 5 - s0 s0 q7 q6 s5 s6 s5 s4 3 s7 s2' s3' s2' q7 - s,5 q1 s1 s2
+s4 s3 s2 s1 s2 s1 s,7 s,7 q,5. s5 q7 s1 s2 s3 s1 s2 1 - s1 q4 s4 q4 s6 s6 s5 s6 s4 s5 3 s2 s3 s4 s6 s5 s4 s3 s5 2 - q3.
+s1 s2 s4 s3 s2 s1 s2 s7 s1 q6. s2 q4. s3 s2 s3 s4 s5 q6. s7 q7 s5 q5 s6 s5 s4 s3 s1 s2 s3 s4 s6 3 q3. s1 s2 s3 s1 s2 1 -
+s7 s6 s7 s1' s2' - q2'. s7' s7 s6 5 - s0 q6 s6 q6 q6 s5 s6 s4 s5 3 s2 s3 s4 s6 s5 s4 s3 s5 2 - s0 q5 s6 q5 q4 s5 s7 s7
+q5. s0 q4 s5 q4 q3 s4 s5 s3 s4 q4 q2 s0 q5 s1' d1' s7 2' - s7 q7 s5 s6 s7 s6 5 - s5 q6 s5 s6 s5 s4 3 s0 q,7 s1 s2 s4 s3
+s2 1 - s5 d2' s7 2' - q1' q2' 3' 3' - q3'. s2' s3' s2' - 1' - - 0
+%END

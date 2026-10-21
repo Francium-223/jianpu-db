@@ -1,0 +1,20 @@
+%歌声伴我快乐成长.txt
+% 出处 https://www.jp114.com/jianpu/931740.html
+title=歌声伴我快乐成长
+tag=
+usertag=
+tagroute=
+confidence=0.936
+conf_p10=0.678
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-931740
+%--
+4/4
+subtitle=score
+x. 1. 4 4 0 - x x. x 1 - - 6 q4 q5 6 6 2 - 7 - 5 q3 q4 5 5 6 6 6. q5 q6. s5 q4 q3 2 - ,5 5 q5 q5
+q2 q3 1 - - - x q6 q5 5 q5 3 q4 5 1 q6 q5 ,5 - - q2 2 q2 2 3 x 2 5 x q4 q5 6 2 q,5 - - q5 5 q5 5
+q3 q1 q7 q6 ,6 - - x q0 q,5 q,6 q,7 q1 q2 5 5 6 5 x ,7 ,x 2 q1 1 0 - 1 - 1' - 1 - 6 1 6 q4 q5 6 6 2
+- 7 - 5 q3 q4 5 5 4 q2 q3 4 4 2 - 5 - 3 q1 q2 3 3 6 6 6 6. q5 q6. s5 q4 q3 2 - ,5 q5 q5 q5 q5 q2 q3
+1 4 q4 q4 4. q3 q4. s3 q2 q1 2 - ,5 q2 q2 q2 q2 q4 q3 1 - - - 5 x q5 5 q5 5 q6 q7 1' - - - x 1
+%END

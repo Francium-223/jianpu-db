@@ -1,0 +1,21 @@
+%我的家_我的国.txt
+% 出处 https://www.jp114.com/jianpu/1231241.html
+title=我的家 我的国
+tag=
+usertag=
+tagroute=
+confidence=0.899
+conf_p10=0.628
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1231241
+%--
+4/4
+subtitle=score
+3'. 3' 1. x 2'. x q1' 3 qx q6 q6 q5 5. q3 1' 3 1' q1' q6 5 - - - 2. q3 5 5 5 6 6 6 x 2' q3' q2' 2'. q5 2' q2' q3'
+3' q2' q1' 1' - - - x q3 q5 q6 q5 q3 q5 q5 q1 q5 q5 q6 q5 5 - 3 q1' q1' q6 q3 q6 q5 q1 q2 q5 q3 2 - q3 q5 q5 q5 q6
+q5 q5 q6 q1' q1' q1' q7 6 - 2 q2 q3 q5 q5 q5 q6 x qx x. qx 1 x x x' 1 x x q1 x x qx x q2' q2' q2' q1' 1' - 3' -
+2'. q1' 3 q6 q5 5. q3 1' 3 1' q1' q6 5 - - - 6 - 6. q5 3 q1' q7 6. q5 2' q2' q3' 2' q1' q6 2' - - - 3' - 2'. q1' 3
+q6 q5 5. q3 1' 3 1' q1' q7 6 - - - 2. q3 5 6 2' q3' q2' 2'. q5 2' q2' q3' 3' q2' q1' 1' - - - 2' 1. - qx - 2' 3' -
+2' 1' 1' - - - 1' - - 0
+%END

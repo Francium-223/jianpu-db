@@ -1,0 +1,23 @@
+%舞台迎宾曲-2.txt
+% 出处 https://www.jp114.com/jianpu/983752.html
+title=舞台迎宾曲-2
+tag=
+usertag=
+tagroute=
+confidence=0.991
+conf_p10=0.989
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-983752
+%--
+2/4
+subtitle=score
+1 - q,6. s1 q,6 q1 q2 q3 2 2 3 5. q1' q6 q1' q6 q2 - - 4 - 4 q3 q2 5 ,6 ,6 1 1 2 q1' q6 q5 q3 2 0 q,6. s1 q2 q2
+q2 q,5 q,6 s7 s6 ,5 - ,5 - s6 s1 s6 s1 q2 q2 q5 q3 2 0 qx sx sx qx qx qx qx x s3 s5 s3 s5 q6 - q6 0 q1 q3 2 qx sx
+sx qx qx qx qx x q0 q2 q1 q2 3 - 2 1 - 1 q1 q6 q5. s1 q3. s5 q2. s5 q,7 q,6 x 1 x 2 - - - - - - - q,5 ,5 q,6
+,5 - q,5 5 q6 q5 q0 0 q1. s2 q7 q6 - q6 5 q3 q6. s1 q3 q2 s3 s5 1 q,6 q1. s2 q5 q3 q2. s5 q3 q1 q2 - q2 q,7 q,6 ,5 - d6
+s1 d6 s1 q2 q2 q2 q5 q3 2 0 qx sx sx qx qx qx qx x s3 s5 s3 s5 q6 - - q6 q1' q3 2 0 qx sx sx qx qx qx qx x q0 q2
+q1 q2 3 - 2 1 - 1 q1 q6 q5. s1 q3. s5 q2. s5 q,7 q,6 q,5 5 q6 q5 q6 s5 s6 s5 s3 q,5 5 q6 q5 q6 s5 s6 s5 s3 q1 1 q2 q1
+q2 s1 s2 s1 s6 q1 1 q2 q1 q2 s1 s2 s1 s6 s1 s2 s1 s6 s1 s2 s1 s6 s1 s2 s1 s6 s1 s2 s1 s6 s1 s2 s1 s6 s1 s2 s1 s6 s1 s2
+s1 s6 s1 s2 s1 s6 s1 s2 s1 s6 s1 s2 s1 s6 5 - 1 - 2 - 1 6 5. - 5 -
+%END

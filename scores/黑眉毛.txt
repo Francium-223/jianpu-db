@@ -1,0 +1,17 @@
+%黑眉毛.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47386
+title=黑眉毛
+tag=
+usertag=
+tagroute=
+confidence=0.971
+conf_p10=0.893
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47386
+%--
+4/4
+subtitle=score
+x. x. 1 1 1 7 ,6 ,6 1. 2 ,7 q1 7 ,6 - x 3 6 6 ,6 ,6 x 1 1 7 ,6 ,6 1. 2 ,7 1 7 ,6 - x 3 6 6 ,6 q,6
+x q0 q1 q2 q3 q3 q3 q4 q3 q2 4. 5 4 3 2 2 q1 q1 q7 6 q4 q3. q2 q1 q2 q1 q7 ,6 - x q3 q6 q6 6 6 x.
+%END

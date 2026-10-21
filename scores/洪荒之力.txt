@@ -1,0 +1,18 @@
+%洪荒之力.txt
+% 出处 https://www.jp114.com/jianpu/1232525.html
+title=洪荒之力
+tag=
+usertag=
+tagroute=
+confidence=0.997
+conf_p10=0.990
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1232525
+%--
+4/4
+subtitle=score
+1 7 5 5 6 7 7 1 q1 q1 7 5 5 q6 6 q3 q7 ,7 7 q1 1 1 7 5 5 6 7 7 1 q1 q1 7 5 5 q6 6 q3 q7 ,7 7
+q1 1 1 7 5 5 6 7 7 1 q1 q1 7 5 5 q6 6 q3 q7 ,7 7 q1 1 1 7 5 5 6 7 7 1 q1 q1 7 5 5 q6 6 q3 q7
+,7 7 q1 1
+%END

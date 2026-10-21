@@ -1,0 +1,19 @@
+%小狗狗.txt
+% 出处 https://www.jp114.com/jianpu/1269979.html
+title=小狗狗
+tag=
+usertag=
+tagroute=
+confidence=0.883
+conf_p10=0.497
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1269979
+%--
+2/4
+subtitle=score
+- - 1 1 x. x 3 3 2 6 5 3 6 5 6 7 1 q3. s6 5 q3. s6 5 q6 q7 q6 5 - q6 q,5 ,,,6. ,,5. q3 q5 2 q6 q1' q6 1 q1
+q7 q2' q6 q6 q2 1 x'. q5' q6'. 3' q,,,3'. q,,,3'. 3' q6' q,,,5' q5' ,,,3'. q5 q6 q,6'. q7 q1 1' 1 3'. 3'. q6 q3 3 3' 5'. q5 ,,,x' q2' ,,,6 q1' q2 ,,,1'. 1' 2'
+2 7' 2 q1' q6 q5. q6 x' q5 q3 2 - q3 q6 q5 q3 2 1 5 - 5 - 3. q3 q2 2 7 6 5 6 - 3 3 2 1 6 5 3 3 2
+1 0
+%END

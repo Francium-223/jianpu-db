@@ -1,0 +1,18 @@
+%栖霞.txt
+% 出处 https://www.jp114.com/jianpu/772729.html
+title=栖霞
+tag=
+usertag=
+tagroute=
+confidence=0.939
+conf_p10=0.673
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-772729
+%--
+4/4
+subtitle=score
+x 1 2. 1'. 1 q2 q1 ,6 - 5 q3 q5 6 - 6 6 3' 3' 2' q1' q1' 2' - 1'. q3' 2' 3' 1' q2' q1' 6 - 3 3 5 5 6 q6 q2' 1'
+- 2' 3' 1' 6 1' 2' 3' - 6 6 3' 3' 2' q3' q1' 2' - 1'. q3' 2' 3' 1' q6 q5 3 - 3 3 5 5 6 1' 1' - 2' 3' 1' 6 1'
+1' 6 - 0 0 0 0 1' 2' 1' 6
+%END

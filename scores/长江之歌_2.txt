@@ -1,0 +1,18 @@
+%长江之歌_2.txt
+% 出处 https://www.jp114.com/jianpu/1288468.html
+title=长江之歌
+tag=
+usertag=
+tagroute=
+confidence=0.667
+conf_p10=0.408
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1288468
+%--
+4/4
+subtitle=score
+1 q3 q5. 5 - x 2 2 1' 2' 5 - - x' x 5' x 1' x' q1 1' 1' 1' s1 sx sx' - - q2 3 q3 q1' 2 x x x 4 qx qx' 3
+1' ,x ,x' 2' 1' 2 ,2 1' x - - 1' x' x' q1' qx q1' q1' q1 qx qx' q1 q1 qx' q1' qx - q1' q1 q3 qx' 0 - 1' q3 s,4 q1' 1' 1' q,3'
+s2 1' qx q1' 1' q2 q1 1'
+%END

@@ -1,0 +1,17 @@
+%送行歌.txt
+% 出处 https://www.jp114.com/jianpu/1231166.html
+title=送行歌
+tag=
+usertag=
+tagroute=
+confidence=0.986
+conf_p10=0.952
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1231166
+%--
+4/4
+subtitle=score
+3 q2 q3 1 - 1' 6 5 - q3 q5 6 3 - q6 q5 q1 q2 3 - 1 2 3 5 2' 1' q1' q1' 5 6 - - - 3 2 - q5 q5 q6 q3
+5 - 5 6 - q2'. s1' - - -
+%END

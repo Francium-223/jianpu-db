@@ -1,0 +1,33 @@
+%白帆.txt
+% 出处 https://www.jp114.com/jianpu/982981.html
+title=白帆
+tag=
+usertag=
+tagroute=
+confidence=0.923
+conf_p10=0.691
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-982981
+%--
+4/4
+subtitle=score
+- 3 ,,2 2' - - s2' s2' q5 5 - - 1' 2' 5' - 5' - - - q,5 q5' q0 q5' q0 q5' q0 q5' q0 5' - - - 5' - - - 0 0 0
+0 0 0 0 0 1 0 0 0 q0 - - - - - - s1' s5' s5' s3' s3' s2' s2' s7 0 0 0 0 0 0 1 q5' q2' q5 s2' s7 s7 s6 6 -
+q5 1. q1 ,5 - - 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 2 0 5 0 0 0 0 0 0 0 0 0 3 0 0 q6' q5' 0
+q2' q7 6. q6 q0 q5 q0 0 q0 q0 q3 q0 q1' q0 q3' 0 0 0 0 0 q0 s0 s,3 d5' q2' q3' s4 q0 ,1 1' 1 0 ,1' - ,6 0 - s6 s7 s6
+s7 s2' s7 s7 s6 q2' q5 s2' s7 s7 s6 5 s2 s5 s6 s1' s5' x s7 s6 s5 s6 s2' s7 s7 s6 5 - q2' q5' q5' s3' s2' s7 s3' s0 s2' 1'. q2' q5'
+q5' s3' s2' 3' - q0 7 6' s6 d6' s7 s7' s6' s6 s5 d6' d3' q5 q3' q5 d6' d6 d2' h5' d7 h1' d2' h1' d7 h2' d2' d5' d3' q2' q5' s2' s7 s6 q2' 0
+d3' s2' q1' q2' s1' q5' q2' q5' 0 0 h3' s3' s2' s2' d1' s3' d1' 2' 1' q0 q1' s1' q1' q5' q6' 1 7 1 s3' s0 s6 d7 h5' d6 s3' s5 s6 d2' 5 qx'.
+- s1' 5 q2' 5' 0 0 0 q2'. q5' s1' s1' q2' q5' s3' ,,1 ,2' 7 1 s6 s1' s1 d,5 d7 h1' d6 s5 d2' s6 h3' d2' q1 q0 q0 s1' 0 1' 0 0 q0
+0 s1' 0 0 0 0 1 2 0 0 0 s1' s2' s3' s2' q1' q5 0 0 0 0 0 0 1 0 2 5 0 0 0 0 0 0 0 0 0 1 3 0 0
+0 q1 d7. q,4 q0 d1' s7 q6 s5 0 0 s1 6 0 0 q5 s0 q0 q1' s1' s0 q0 q2' q1' ~ 1 q6 q0 q0 0 0 0 q1' q0 s0 s0 s0 s0 q0 q0
+s1' 0 0 q2' q0 0 1 0 5 0 q0 q5 q0 0 0 s2 s2 1 6 0 5' 5' 5 0 q1' q1' 1 d0 0 7 5 0 0 d4 s1' s5 d1' s6 s2' s5'
+d6 d2 d7 s6 0 s5 h7' h7 s6 h7 d6 d6 h6 d2 d5 d5 d2 d6 d5 d2 d2 d7 h2 d6 d5 d0 d0 d6 h7 d7 d0 d0 d6 q1' q1 q0 s0 s2' q0 q0
+q7 0 0 0 q2' 0 0 s0 s1 0 0 5' 5' 1 0 7 2' 5 0 0 7' s0 q0 0 1 q0 s0 0 0 0 0 2 0 0 0 s5 s6 d7 s6 s5
+s6 d7 d6 d5 d6 d7 d6 d5 d6 d7 d6 d5 s6 s7 s6 s5 s6 s7 s6 s5 s6 s7 s6 s5 s6 s7 s6 q5. s5 q5 q5 s1 s2 s3 s2 q1 q1 q1 q0 q5
+q5 q4 q5 q1'. s6 q6 q5 s4 s5 s6 s5 x q4 q4 q0 q5 q4 q5 q1'. s3 q3 q3 q1'. q2 s0 s3 s0 q3 q3 q2'. s5 q5 s5 q2'. s5 q5 s5 s0 s3' s2'
+q1' q0 q0 s3' s2' q1' q0 s2 s1' s0 s5' s2' s3' s2' s1' s2' s3' s2' 2 1 5 q,,5. s6 q5 q2 q5. s6 q5 q2 d5 s6 s5 s2 d5 d6 d5 d2 d5 d6 d5
+d2 d5 d6 d5 d2 d1' d2' d1' d5 d1' d2' d1' d5 1' 1' s2' s1' 1' s1' s2' d1' 5' 1' - ,2 s1' s,2 d1' q5. h3' 1' s1' s2' s2' s1' s2' s2' s1' 0 s0
+0 2 0 0 0 0 1' 0 s1 s1' 1' q5' q5 q5 q1' d7 d7 d5 d7 d1' s6 s5 s6 1'
+%END

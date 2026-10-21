@@ -1,0 +1,19 @@
+%让我再看你一眼_7.txt
+% 出处 https://www.jp114.com/jianpu/1540335.html
+title=让我再看你一眼
+tag=
+usertag=
+tagroute=
+confidence=0.927
+conf_p10=0.693
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1540335
+%--
+4/4
+subtitle=score
+q3 q3 q3 q3 4 5 5 q3 q2 1 - - - 1 x q5 q5 6 6 qx q3 2 - - - 7 q7 q7 q7 q7 1' q6 6 - - - 6 q6 6 6
+6 1' 0 q7 q6 5 - - - 3 q3 q3 q3 q3 q4 q4 5. q3 q2 1 - - - x 4 2 - 6. q4 q3 2 - - - q7 q7 7 q7 q7 7
+1' q6 6 - - - 6 6 6 6 7 1' 1' q3' q2' 2 - - 0 5 7 7 3'. 0 q3 q2 3 3 q2' q1' 1' - 0 s6 s6 q6 2'. q1' 7 6
+7 q6 5 5 - - 0 5 3. q0 3' 3' 2' 3' q2' q1' 1 - 0 q6 q6 x 4' 0 3' 3' 3' q2' q1' 1' - - -
+%END

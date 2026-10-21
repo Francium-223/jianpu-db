@@ -1,0 +1,17 @@
+%出海歌_2.txt
+% 出处 https://www.jp114.com/jianpu/1151797.html
+title=出海歌
+tag=
+usertag=
+tagroute=
+confidence=0.982
+conf_p10=0.924
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1151797
+%--
+4/4
+subtitle=score
+q5 q1 q1 q2 q3. q5 q3 q2 q1 1 q3 q2 1 0 3. 2. q1 2 5 6 5 s2 5 - 6 5 6 5 6 2 6 2 5 2 0 6 5 6 2 2
+- - 6 2' 6 2 5 5 1' 5 5
+%END

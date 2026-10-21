@@ -1,0 +1,18 @@
+%榴花灯.txt
+% 出处 https://www.jp114.com/jianpu/937885.html
+title=榴花灯
+tag=
+usertag=
+tagroute=
+confidence=0.982
+conf_p10=0.975
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-937885
+%--
+2/4
+subtitle=score
+x 3 3 3 1 1 2. - 6 5 3 5 6 7 2 1 5 0 x 5 1 6 5. 6 6 5 0 5 1 1 3 2. 6 6 3 2 0 5. 3 3
+2 3 5 6 6 5 6 - 1 ,6 5 6 6 5 3 ,5 2 0 3 1 - 3 ,3 5 6 ,,1 ,5 ,6 5 3 3 5 6 q7 q6 5 2 3 1 7
+6 5 6 7 1 2 - q3 x 3 3 1 qx 2 6 x 2 2 6 3 3 q1 q1' 2 2 6 q5 q3 q5 q6 q7 - 1 0 5 1 0
+%END

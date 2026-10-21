@@ -1,0 +1,20 @@
+%中华热土.txt
+% 出处 https://www.jp114.com/jianpu/896278.html
+title=中华热土
+tag=
+usertag=
+tagroute=
+confidence=0.943
+conf_p10=0.797
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-896278
+%--
+2/4
+subtitle=score
+1 ,,x ,,,x ,x - x x x x ,x x' x 1' x 5. s5 q5 5 q6' s7 s6 q5 5 q5 q1 q2 q5 2 q5 1 ,6 ,5 q5 d6 q5 s6 q5 5 5 4
+5 s,,5 s6 s5 s6 q,5 q5 q5 q4 5 s1 q6 s6 q5 q1 q2 q5 1 ,6 ,5 s5. s,5 ,5 s5 s5 q,5 d5 s5 x q,5. s5 5 - 5 - q6 s7 s6 q5. s5
+q5 q1 s2. s5 s1 s7 q1 qx qx qx qx qx qx x s5. s5 5 - 5 - q6 s7 s6 q5 q0 5 q5 q1 q2. d5 q,5 qx x x x q,6 q7 s6 ,5 q2
+5. 5. s4 s5' q6 q6 s5 s5 q4 2 q6 5 - x qx qx qx qx q,,x qx q,,,x qx x q,6 s7 d6 ,5 q2 5. 5. s4 s5 q1' q6 s,5 5 q4 5 s5 s3
+2 - x qx qx qx qx qx qx x qx x q2. s5 5 s3 q2 s1 s,2 3 s2 2
+%END

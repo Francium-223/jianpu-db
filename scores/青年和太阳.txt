@@ -1,0 +1,20 @@
+%青年和太阳.txt
+% 出处 https://www.jp114.com/jianpu/1111733.html
+title=青年和太阳
+tag=
+usertag=
+tagroute=
+confidence=0.953
+conf_p10=0.840
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1111733
+%--
+4/4
+subtitle=score
+x 4 4 5 5 1 2 6. 2 x 6 6. 4 4. 4 4. 1. 1 1 x 6' 6 3' 3 4 5. 4 3 3. 1 5 x 3 3 0 4 5 5. q6 5.
+q4 3 2 1 4'. 4 q3 2 1 4 4'. q3 2 ,7 1 x q3 q3 0 1 ,5. 0 4 3 0 1 ,5. 0 1 ,7 1 2 3 3 0 5 4 s4 4 q3
+q1 2 3 q3 0 4 5 5 4 3 0 1 ,6 ,7 ,7 1 2 2. q,5 4. 2 3 - 3 3 0 4 5 5 4 3 0 1 ,6 ,7 ,7 1 2 2. 5
+4 3 2 1 4 5 6' 6. x q6 q6 4' 7 1 1' 6 q3 q4 5. q4 q4 3' 7 1 1' 5 3 3 0 4 5 5. q6 5. 4 3 2 1 - 4.
+q3 2 1 4. q3 2 1 4. 2 3 4 5 3 3 0 4 5 5. 6 5. 4 3 2 1
+%END

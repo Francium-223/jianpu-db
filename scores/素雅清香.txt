@@ -1,0 +1,19 @@
+%素雅清香.txt
+% 出处 https://www.jp114.com/jianpu/1201152.html
+title=素雅清香
+tag=
+usertag=
+tagroute=
+confidence=0.700
+conf_p10=0.329
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1201152
+%--
+4/4
+subtitle=score
+- - 1 x x x'. x ,x q,6 q3 1 q0 q3 q,6 3 q3 3 q3 6 - 3 - - q1' 0 3 - - ,3. 3' - 3' - q3 ,,7 q,3 ,3 q1' q2' q1'
+,,7 ,2' ,1' ,,3 x 3. 3 3 1 q1. q2' q2 s2' q,1' q3 q,x ,7 ,1 ,4' 1 x 1' 1 q1' 1'. 3 x' 7 x 1 3. 3'. - 6. q1 s1 x ,2. 1'. ,3
+q,6 sx' 1 6 6' 5 q1 s1 d3 1. x. q4' s3 1' x q5' q3 q1' x q7 s6 q6' - 3 3 6'. q2' 3 q2 x 7' s6' s6' ,7 q6 - 3 6. - q3
+q7 6 q6 - q6 3 3 1' 6 - 2 3 q4 3 q6. q6 - q4 - q6 x 6 x ,,1 1 ,1 ,3 q,,1 x
+%END

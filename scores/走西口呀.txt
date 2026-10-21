@@ -1,0 +1,16 @@
+%走西口呀.txt
+% 出处 https://www.jp114.com/jianpu/1351292.html
+title=走西口呀
+tag=
+usertag=
+tagroute=
+confidence=0.982
+conf_p10=0.937
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1351292
+%--
+4/4
+subtitle=score
+s3 q2 s3 q2 s1 q6 q1 ,5. s2 q2 s3 q2 s2 s3 q5. s3 2 q2 s2 s3 s6 q5 s5 s3 s5 s3 s6 q1 q3 q3 q2 q1 q6 q5 q6 q1 ,5 -
+%END

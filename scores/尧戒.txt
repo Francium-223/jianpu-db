@@ -1,0 +1,18 @@
+%尧戒.txt
+% 出处 https://www.jp114.com/jianpu/1237005.html
+title=尧戒
+tag=
+usertag=
+tagroute=
+confidence=0.973
+conf_p10=0.973
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1237005
+%--
+4/4
+subtitle=score
+q5' q3' q2' q1' 3' - q3' q6 q1' q1' 1' - - q5 q1' 3' - q2' q1' 1' - - q7 6 q3 5 - - - q1' q7 q6 q5 6 - q6 q5 q6 q5 3
+- 5 - q5 q6 q1' q3' 2' - q2' q1' q1' q6 1' - - - q5' 3'. q2' q1' 1' - - q1' q7 6 6. q5 6 - - - q1' q6 q3' q3' 2 - q2
+q5 q6 q1 1 - - - q5 q3 q2 q1 3 - q3 q6 q1 q1 1 - - - 1 - - -
+%END

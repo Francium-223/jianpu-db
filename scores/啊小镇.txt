@@ -1,0 +1,18 @@
+%啊小镇.txt
+% 出处 https://www.jp114.com/jianpu/845261.html
+title=啊小镇
+tag=
+usertag=
+tagroute=
+confidence=0.639
+conf_p10=0.403
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-845261
+%--
+2/4
+subtitle=score
+0 0 0 0 0 0 0 0 0 - 0 0 0 0 s,5 0 0 0 0 s,6 0 0 0 s3. 0 0 0 0 q3. 0 0 s,x. - 0 0 0 0 s,5 - 0
+0 0 0 0 q1 - 0 0 0 0 - 0 0 0 - 0 0 0 0 0 0 qx s5 0 0 - 0 0 0 0 0 0 0 0 1. 0 0 0 s3. 0
+0 s1. 0 s3. - 0 0 s2. - qx. s1. - 6 s1 s2. q3' 0 0 3. 0 0 s1 s2. - - 0 0 0 s2. - - 0 sx 0 qx 0 - -
+%END

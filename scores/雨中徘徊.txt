@@ -1,0 +1,20 @@
+%雨中徘徊.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=35925
+title=雨中徘徊
+tag=
+usertag=
+tagroute=
+confidence=0.993
+conf_p10=0.978
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-35925
+%--
+4/4
+subtitle=score
+,6. q,6 ,6 ,6 ,7 - - - 1 q1 1 1 2 - - - q,6 ,7 q1 ~ 1 - q,7 1 q2 ~ 2 - q1 2 q3 ~ 3 - q2 3 q4 ~ 4 -
+q3 q3 q3 q3 q3 q3 q3 q3 3' q0 q3 7 q,6. s,6 ,6 - - q,7. s,7 ,7 - - 1 ~ q1 q1 q1 q,7 ,6 ,7 q3 1' 7 q,6. s,6 ,6 - - q,7 q,7
+q,7 ~ q,7 ~ ,7 - 1 q1 1 q2 3 - 1 q2 3 - - - 2 2 2. 3 - - - q2 q2 q2 q2 2. 3. q1 ,6 q,6 q,6 ,7. q,7 ,7 ~ q,7
+- ,6. q,6 ,6. q,6 ,7. q,7 ,7 ,7 1. q1 2 - - - ,6 - - - 0 0 0 0 4 - - 5 q6 6 q6 q6 q5 4 q3 3 q3 q3 q2 1 4
+- 3 2 3 - 4 2 3 - 2 1 ,7 - ,5 ,3.
+%END

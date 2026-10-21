@@ -1,0 +1,20 @@
+%偶感.txt
+% 出处 https://www.jp114.com/jianpu/1201946.html
+title=偶感
+tag=
+usertag=
+tagroute=
+confidence=0.711
+conf_p10=0.418
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1201946
+%--
+4/4
+subtitle=score
+x q1 q1 h0 dx h1 hx h2 s2' s2 d6 q,x s0 s0 q4 q1' d,2 6 ,6 0 5 q1 s,1 q0 q0 q1 ,1 q0 s1 s3 1 - sx dx s4 1 q1'. q,5 q6 4'
+q5 qx 2. 1'. qx s4' 1 x 1 ,2' ,3 s1 d,1 ,1' ,2 s0 s0 ,x x d,2 d,x sx s,x 1 x 4' 1 0 0 5. x x q5 q5 x q0 3 q0 q2 s3
+qx q1. 2 1' - - - q5 dx dx s0 s0 sx ,x ~ dx ~ dx h,4 h,4 dx hx - - qx q0 q0 ,x q5 q2. s6 x q4 q2 q2 0 6 1 qx' 5
+2 4. x' ~ qx 4. 4 1 q,1 q3 qx' 0 qx q6 0 ,1 q0 s6 s0 6 h0 s6 5 - 1 2. sx qx 1 2 1 ,x ,1 x 0 q1 q4 q,4 2. qx
+qx ,6 - - - - - 1 1 x
+%END

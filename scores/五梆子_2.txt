@@ -1,0 +1,26 @@
+%五梆子_2.txt
+% 出处 https://www.jp114.com/jianpu/974158.html
+title=五梆子
+tag=
+usertag=
+tagroute=
+confidence=0.848
+conf_p10=0.495
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-974158
+%--
+2/4
+subtitle=score
+q3 6. 6 x 1 ,,7 q7 x 6 6 qx 7 q,,7 qx q6 q5 q1 ,x qx 3' x 0 1 0 3' 3' 4 3' 3' 3' - 0 q5. 0 q1'. 0 q3'. 0 qx 2
+x qx' 2' ,x 2 2 ,1 3'. x 0 1' 5. 0 x' q5. ,1' 6 q5 x' 1' 1' 1' 2 3 5 q2 qx q,5 q7 q2 qx ,6 ,6 5 ,6' x' ,6 ,6 qx' q,6
+q2 q5 q1. 2 q7 ,6. s,5 sx' 5 d6 1' 1'. q7 x 6' q1' q,1' sx' 6' q6'. q1' q7 q6 q5 qx 0 s6 q5 6 6 q5 6 ,6 5 6 6 ,5 q5 6 1'
+1' x - x 2' 1' sx 6. s1' 5 q3. 5 q2 q,,3 5 x x x' 6 2' q1' 1' q1' ,1' ,x' 5 qx' 5 x' 5 q1' 3. 5 5 - 5 x x 1 3
+1 qx - - 0 6. 7 6 7 6 5 3 q3 q3 3 3 q3 ,,3 3 3 3 3 x' q5 x' 5 5. qx' q,5 q1' q1' 1' 1' s1 3. 0 5 x 2 2
+2 2 2 2 2 2 2 q2 2 2 3. 0 0 5. 0 5. ,1' 6 5 1' ,1' 6 ,1' 1' ,1' 1' ,1' 1' ,1' 6' ,1' 1' ,1' 6' x 2' 2' 3 qx' 5
+2 x' q5 ,7 q2 q,6 6 ,6 q,6 6 q,6 q,6 6 ,6 6 6 6 ,6 2'. q,,5 2. 2 7 q6 ,5 ,5 q,6 1' 1'. q7 q,1 6 q1' qx' q6 x' q1' q,x' q6 1'
+1' q6 x' 1' 5 ,1 ,1' 5 ,1' ,1' 5 q5 q1 q1' 5 1' sx' q5 6 6 1' 1 - 6 2' 1' q6 qx' 6 5 3. 5 2 3 5 x - x' 6 x'
+x 6 1 q2' q2' 1' ,1' 1' ,1' qx q1' ,1' qx' q6 x' 5 qx' q5 x' 5 q1' 3'. 5 q6 qx' 5 - 5 x - x 1' 6 - 6 - x' x q3 q1'
+q1' 1' s3. 3' q1' q1' x q3 q1' q1' 3 s5 3 5 5' 3 5 3' 3 5 q3 5 3 5 sx' 2 x' sx 2 q1' qx' s1' 2' q1' q1' 2' 1' 3 5' 3
+5 5 3' 5' 3' 5' 3' 5' 3' 5' 2 ,6' ,6 q3 - ,6 -
+%END

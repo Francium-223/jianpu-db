@@ -1,0 +1,18 @@
+%相思夜夜深_3.txt
+% 出处 https://www.jp114.com/jianpu/1219372.html
+title=相思夜夜深
+tag=
+usertag=
+tagroute=
+confidence=0.975
+conf_p10=0.907
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1219372
+%--
+4/4
+subtitle=score
+qx - - 1 2 0 x x x x q3 q5 s1 s2 s3 s2 s1 s5 q1 q1 s1 s1 q2 q2 s2 s3 q2 q1 s1 - - s5 s1 s2 s3 s2 s1 s2 s3 q1'
+q1' s2' s1' s1' x q3 q5 q2 q1 q,5 1 - x q1 q1 1 x 1 - 2. q1 - 2 s1 - - - x 1 q1 q1 q2 q3 q1 - - - - - -
+- - - - 2 s2 s3 q3 3 s2 s3 q2 q1 1 s1 s2 s1 1 x
+%END

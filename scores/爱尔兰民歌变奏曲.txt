@@ -1,0 +1,21 @@
+%爱尔兰民歌变奏曲.txt
+% 出处 https://www.jp114.com/jianpu/976655.html
+title=爱尔兰民歌变奏曲
+tag=
+usertag=
+tagroute=
+confidence=0.941
+conf_p10=0.805
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-976655
+%--
+4/4
+subtitle=score
+5 x 3 2 4 3 2 1 ,5 5 4 3 2 ,5 4 3 2 1 1. q,1 1 2 3 1 3 4 ,5 5 6 5 3 1 3 4 ,5 5 4 3 2 1
+2 3 ,5 x 3 2 1 ,5 ,6 ,7 1 1 1 1 2 3 1 1 3 4 0 0 ,x. - - - - 5 q5 q5 6 5 3 q1 q2 q3 q4 ,5 q5 5
+4 3 2 ,7 1 2 3 ,5 4 q4 3 2 1 1 2 3 4 ,5 ,4 4 3 2 ,1 1 ,5 q1 q,5 ,6 q,7 1 ,7 q1 q,2 q3 q,2 q1 q2 q3 q2 q3
+q4 q5 q3 q1' q1' q1' ,5 q3 2 1 2 3 2 3 4 5 3 1' x' 6 ,5 ,4 3 ,2. q3. 1 ,x ,,,1 ,1 2 q3 5 q6 q,5 4 3 x 3 2 1
+,5 ,7 1 2 3 x ,5 ,6 5 x 3 ,4 3 2 ,1 1 ,5 1 q1 3 3 ,5 3 1 ,5 ,5 ,6 ,5 ,6 ,7 1 1 1 q2 3 2 ,1 2 q3 2
+3 5 6 q5 q6 q7 ,1 ,1 0
+%END

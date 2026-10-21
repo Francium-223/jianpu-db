@@ -1,0 +1,19 @@
+%梦回故乡_4.txt
+% 出处 https://www.jp114.com/jianpu/1262535.html
+title=梦回故乡
+tag=
+usertag=
+tagroute=
+confidence=0.987
+conf_p10=0.983
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1262535
+%--
+2/4
+subtitle=score
+q5 q5 q5 q1 2 - 3 3 q3 2 2 3 2 1 1 q,5 ,6 - 6 6 6 q1 2 q2 q3 q2 q1 q6 q5 5 - 5 5 6 q5 q6 1 1 1 1
+q6 ,5 - q6 q,6 ,6 ,1 2. 3 5 5 5 1 2 - 3 3 3 2 2 3 2 1 1 q,5 ,6 - q,6 q,6 q6 1 2 2 3 2 0 ,3 ,6 ,7 ,6
+,5 - - - x x 5 5 6 5 6 1 1 1 1 q6 ,5 - q6 q6 q6 1 2. 3 5 5 5 1 2 - 3 3 3 2 2 3 2 1 1 ,5
+,6 - 6 6 6 1 2 2 3 2 1 6 5 5 - x. x
+%END

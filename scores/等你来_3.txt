@@ -1,0 +1,19 @@
+%等你来_3.txt
+% 出处 https://www.jp114.com/jianpu/892583.html
+title=等你来
+tag=
+usertag=
+tagroute=
+confidence=0.957
+conf_p10=0.890
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-892583
+%--
+2/4
+subtitle=score
+q1 q6 q6 q1 q6 1 q2 q5 3. q2 q,1 q2 q3 2 q3 q1 q2 1 6 2 - 2 q2 q3 2 3 1 6 6 x 1 6 1 2 5 3. 2 1 2. 3
+2 3 1 2' 1 6 2 2 2 3 2 3 1 6 6 1 6 6 1 6 1 2 5 3. 2 q1 q2. 3 2'. 3' 1 2 1 6 2 1 6 2 2 2
+3 2 3 1 6 6 6 6 2 1 3 2 2 1 2 1 3 2 1 6 6 1 1 6 1 2 5 3. 2 q1 q2 3 2 q3 1 5 q6 2 1 6
+2 - 2 2 3 2 3 1 6 6 1 1 6 1. ,2 5 3. 2 1 2 3 2 3 1 5 6 2 1 6 x x 2. 3 2 3 1 6 6
+%END

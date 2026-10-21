@@ -1,0 +1,19 @@
+%尕妹是天上的白鸽子.txt
+% 出处 https://www.jp114.com/jianpu/896827.html
+title=尕妹是天上的白鸽子
+tag=
+usertag=
+tagroute=
+confidence=0.972
+conf_p10=0.933
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-896827
+%--
+2/4
+subtitle=score
+- - 5 3 q2 q5 3 s2 q5 s6 3 2 2 q2 3 3 3 3 3 2 2 q2 1 - 2 0 3 3 3 5 2 2 2 5 5 5 6 5 5 5
+6 5 5 5 6 5 5 5 q6 ,1 6 6 - q6. d1 q2 q3 q1 2 1 6 ,5 5 q0 1. 6 - x 1 qx 6 6. s1 s2 q3 q1 s2 q1 6 ,5
+5 0 3 3 3 5 2 q2 q2 3 5 5 5 6 5 5 5 6 5 5 q5 6 5 5 5 6 1. 6 - q1 - - 6. q1 2 q3 1 2 1 q6
+,5 5 q0
+%END

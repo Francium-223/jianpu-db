@@ -1,0 +1,27 @@
+%青玉案元夕_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=52193
+title=青玉案元夕
+tag=
+usertag=
+tagroute=
+confidence=0.986
+conf_p10=0.984
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-52193
+%--
+4/4
+subtitle=score
+qx q1 - - - 7 7 6 - x' x 0 6 ,6 - 1 3 4 1 ,7 - 4 - 7. s7 s1 2. s1 s6 6 - 0 0 0 0 0 0 0 0 q3.
+s1 6 - q0 q3 3 q2 q7 7 q0 q3 q2. s7 7 4. s3 s1 1 0 0 0 7. 0 q7. 3 6 3' 6 q5' 4' s3' s2' 2' q2' q3' q4' 3' - 0 q3
+q3 q4' q3' 3' - 4' 3' q3 q3 1' 7 6 - 0 0 0 0 0 0 s3 q1 s6 6 - q3 q0 q2 s3 s7 7 0 - 0 q2 q3 q7 q3 q0 q3 q4'
+q3' q3' 1'. 0 3 6 q0 q3' 6 q5' 4' s3' s2' 2' q2' q3' q4' 3' - 0 q3 q3 q4' q3' 2' - 4' 3 q3 q3 7 3 6 - 0 0 0 0 0 0
+3. q6 3 - q4 q4 s1 q1 s7 7 0 q4 q4 s1 q1 s7 7 0 q2 q2 s1 q7 s6 6 - 3. q6 3 - q4 q4 s1 q1 s7 7 0 q4 q4 s1 q1
+s7 7 0 q2 q2 s1 q7 s6 6 - 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 q3. s1 6 - q0 q3 3 q2 q7 7 q0 q3 q2. s7
+7 4. s3 s1 1 0 0 0 3 6 3' 6 q5' 4' s3' s2' 2' q2' q3' q4' 3' - 0 q3 q3 q4' q3' 3' - 4' 3' q3 q3 1' 7 6 - 0 0 0
+0 0 0 s3 q1 s6 6 - q3 q0 q2 s3 s7 7 0 0 0 q2 q3 q7 q3 q0 q3 q4' q3' q3' 1'. 0 3 6 q0 q3' 6 q5' 4' s3' s2' 2' q2' q3'
+q4' 3' - 0 q3 q3 q4' q3' 2' - 4' 3 q3 q3 7 3 6 - 0 0 3. q6 3 - q4 q4 s1 q1 s7 7 0 q4 q4 s1 q1 s7 7 0 q2 q2
+s1 q7 s6 6 - 3. q6 3 - q4 q4 s1 q1 s7 7 0 q4 q4 s1 q1 s7 7 0 q2 q2 s1 q7 - s6 6 - 3. q6 3 - q4 q4 s1 q1 s7
+7 0 q4 q4 s1 q1 s7 7 0 q2 q2 s1 q7 s6 6 - 3. q6 3 - q4 q4 s1 q1 s7 7 0 q4 q4 s1 q1 s7 7 0 q2 q2 s1 q7 s6 6
+- 0 0 0 0 0 0 0 0
+%END

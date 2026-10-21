@@ -1,0 +1,20 @@
+%杜鹃花开_2.txt
+% 出处 https://www.jp114.com/jianpu/1228153.html
+title=杜鹃花开
+tag=
+usertag=
+tagroute=
+confidence=0.976
+conf_p10=0.967
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1228153
+%--
+4/4
+subtitle=score
+q3 s3 s5 s2 s3 s1 s,7 ,6 - s,5 s,3 s,5 s,3 s,5 s,6 s1 s,7 ,6 - q,6 s,5 s,6 q1 q1 q,6 s,5 s,6 s,5 q,3. q2 s2 s1 q2 q3 5. q3 q2 s3 s5 s2
+s3 q,6 1 - q1 s1 s2 q3 q5 q1 s1 d6 ,5 s5 s6 d6 d5 s3 5 q3. s6 s5 q3 s5 s6 5 q5 s5 s6 q1' q6 s5 s6 q5 q3 s5 s5 s,6 s,5 s1
+s2 s5 s3 2 - q3 s3 s5 s2 s3 s1 s,7 ,6 - s5 s5 s5 s3 s5 s6 s7 6 - q6 s5 s6 q1' q6 s5 s6 s5 s3 q2 q2 s2 s1 q2 q3 5. q3
+q2 s3 s5 s2 s1 s1 s6 1. q,6 q2 s3 s5 s2 s3 d6 d7 s,6 ,5 - q6 s5 s6 q6 s5 s6 s5 s3 q2 q2 s2 s1 q2 q3 5. q3 q2 s3 s5 s2 s1
+s1 s,6 1 q,6 q2 s3 s5 s2 s3 d6 d7 s,6 ,5 - 2 q3 q5 q6 q5 q6 q1' 1' - 1' - 1' 5 5 - 5 - 5 0
+%END

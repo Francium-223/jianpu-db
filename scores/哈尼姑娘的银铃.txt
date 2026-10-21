@@ -1,0 +1,27 @@
+%哈尼姑娘的银铃.txt
+% 出处 https://www.jp114.com/jianpu/1378208.html
+title=哈尼姑娘的银铃
+tag=
+usertag=
+tagroute=
+confidence=0.961
+conf_p10=0.897
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1378208
+%--
+4/4
+subtitle=score
+1 - - q1 1 x s6 s3 s6 s3 q6 q3 q6 q3 q6 q3 s6 s3 s6 s3 s6 s3 s6 s3 q6 q3 q6 q3 s6 s3 s6 s3 q6 q3 q6 q3 q6 q3 s6 s3
+s6 s3 s6 s3 s6 s3 q6 q3 q6 q3 s3 s7 s3 s7 q3 q,7 q3 q,7 q3 q,7 s3 s7 s3 s7 s3 s7 s3 s7 q3 q,7 q3 q,7 s3 s7 s3 s7 q3 q,7 q3 q,7
+q3 q,7 x x s3 s7 s3 s7 s3 s7 s3 s7 q,3 q,7 q,3 q,7 s6 d1 d6 d1 s2 s3 s2 s3 s1 s2 s1 s2 s3 s5 s3 s5 s2 s3 s2 s3 s5 s6 s5 s6
+s3 s5 s3 s5 s6 s1' s6 s1' q6 q2' s6 s2' s6 s2' q6 q2' q6 q2' 6 2' 3' 7 x ,x 2. x q6' q1' q6 q3 q6 q1 s2' s1' s6 s1 q6 q3 s,6 q1
+d2 d3 d2 d3 d5 q1' s6 s6 q6 q2' s1' s2' s1' s6 6 q5 s3 s3 q3 q6 s5 s6 s5 s3 3 s1 s2 s1 s2 q3 q5 s1 s6 s1 s3 2 s1 s6 s6 s6
+q,6 q2 s1 s2 s1 s6 ,6 q0 s6 s3 s6 s3 q0 q6 q2 q0 q6 q3 s6 s3 s6 s3 q6 q3 q0 s3 s7 s3 s7 q0 q1 q1 3. 0 x 3 3 3 3 1
+1 1 2 2 2 2 1 1 2 ,6 ,6 ,6 ,6 6 6 6 6 6 6 3 3 3 3 3 3 q0 q,7 s7 s7 q,7 q0 s5 s5 q0 q,5 q0 q,6 s6 s6 q,6
+q0 s6 s6 q0 q,6 q0 q,3 s3 s3 q,3 s1 s3 s3 s3 s5 s3 s3 s3 s5 s7 s7 s7 s2 s7 s7 s7 s1 s2 s3 s5 s1 s6 s1 s3 s2 s2 s6 s6 s2 s2
+s6 s2 s1 s2 s3 s5 s6 s3 s2 s1 s6 s1 s2 s3 s3 s3 s3 q,3 q,7 q,7 q,3 q6' q1 q0 q5 q3 q0 q5 q3 q0 q,7 q,2 q0 ,5' 1 q1 q1' s2 s6 s2
+s6 s2 s6 s6 s2 q,6 q2 q0 5 2 6 3 q6 q2' s6 s2' s2' s6 s2' s6 s2' s6 s2' s6 s6 s2' 6 2' 0 3' qx' q1'. s0 q6. s0 q5. s3 q3. s0 q6.
+q3. s5 s2 q6 q3 q2' q5 s1' s2' s1' s6 6 3 q6' q1' q0 q2' q6 q0 q5' q1' q0 q4 q6 q0 s,6' s1 - s6 s3 - 6 3 - 6 3 0 4. ,6 q1
+q2 q3 q5 q6 q5 5' 1 5 2 1 1 2 ,6 ,6 q1 q2 q3 q2 q3 q5 1 1 ,6' 1 1 1 5 2 q1 q2 q3 q5 3 0
+%END

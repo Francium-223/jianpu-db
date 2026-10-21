@@ -1,0 +1,21 @@
+%雪域骄子.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=45940
+title=雪域骄子
+tag=
+usertag=
+tagroute=
+confidence=0.980
+conf_p10=0.978
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-45940
+%--
+4/4
+subtitle=score
+1' 1'. q5 7 - q6 q4 q1. s5 5 - 1'. q5 q7 s6 s5 q6 q4 q5 q2 q4. s3 1 - q1 q1 q1 s5 s5 q1. s5 5 q0 q5 4 q5 q3. s1 1 -
+s4 s5 s5 s4 q3 q1 q1 s2 s3 s3 s2 q1 q,5 2. s3 s2 s1 2 - q1 q1 q1 q5 q5 q1. s5 q5 s0 q5 q4 q5 q3. s1 1 - s4 s5 s5 s4 q3
+q1 s2 s3 q3 q2 q1 q,5 2. d3 d2 d1 d2 1 - q2. d2 s2 s2 q2 s3 q3 s2 q1 ,5. q1. s1 s1 s5 s4 s5 s5 q4 q3 s0 s1 q1 q2 2 5. s6
+q5 q4 5 - s1 q1 s1 q5 q7 q6. q6 q5 5 x s1. d1 s1 s1 q5 q7 s6. s6 s5 5 x 6 q4. s6 q5. s6 s4 s5 s3 s4 q2 s5. d5 s5 s5 q2
+q4 q3 s0 s4 s3 s1 2 q6 s5 s4 q3 s1 q2 s1 1 - 1'. q5 7 - q6 q7 q6 q4 q1. s5 5 - 1'. q5 7 - s6 s7 s6 s4 q7 q6 5 -
+s3 s4 s3 s2 q1 s5 2 - s3 s4 s3 s2 q1 q,5 2 - s3 s4 s3 s2 q1 q,5 2 4 3 1 - - - x x x x 1 q1 -
+%END

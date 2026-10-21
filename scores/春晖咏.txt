@@ -1,0 +1,25 @@
+%春晖咏.txt
+% 出处 https://www.jp114.com/jianpu/1191575.html
+title=春晖咏
+tag=
+usertag=
+tagroute=
+confidence=0.724
+conf_p10=0.457
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1191575
+%--
+4/4
+subtitle=score
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 x 1 x x x x 1 1 x 1 x x x x 1 1 x 1 1
+x x x x x x x - - - - 1 1 x 1 0 0 0 0 0 - 0 0 0 0 0 0 0 0 - - 0 0 0 0 0 - 0 0 0
+- - 0 - - h5' h2 h5' h2. h2 6 2 h1' d5 q5 h0 h0 d0 h1'. h1. h1 h2 h5 s6 h5 h2 q2 h5 d4 h2 s4 h,6 d3 q5 s2 d2 h6 h7 s6 s6
+h1 h1 h3 h5 d2 s5 h2 h3 d6 h1 h2 s2 2 4 h1 s3 s1 q6 s1 s6 s5 h1 h1 0 s0 s1 h5 h5 q6 q2 h2 h3 s6 h6'. h2 d5 h3 h1 s5 h5
+s6 s3 d,5 q2 s2 s4 s1' h2 d,5 2 d2 s5 h3 h6 h3 d5 q6 d2 h1. h1 h1 s3 q6' q3 q2 s6' h6 s5 h5 h2' 2 q,6 2 s5 h5 q2 h2 h1 h1 q1.
+h1 s1 h3 h6 h0 d2 h0 h0 h0 d1' d6' d1 h5 0 q,2' q,6 s,6 d2 d4 d2' h2 d6' d6 h3 h1 h1 h1 d1 h1' h3 d6 h5 h7 d6 h6' h6 h1 h1 h1 d5
+h5 h2 h2 h1 s4 h1 h6 h2 s5 q5 q2 q2 h,6 ,6 s5 h1 s3 h6 1 1 1 1 1 1 1 1 1 1 1 x x x x x x x x x x 1
+1 1 x x - - 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1 1 x x x x x 1 x x x x x x x x x x x x x x x x x x x x x x x x 1
+x x x x 1 x 1 x x x x x x x x - - - - -
+%END

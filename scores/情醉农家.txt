@@ -1,0 +1,24 @@
+%情醉农家.txt
+% 出处 https://www.jp114.com/jianpu/1344790.html
+title=情醉农家
+tag=
+usertag=
+tagroute=
+confidence=0.989
+conf_p10=0.986
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1344790
+%--
+4/4
+subtitle=score
+5. 6 q5 q6 q5 q6 q5 q6 q5 q6 5 - q6 q5 q3 q2 q1 q6 q1 q3 2. q3 q2 q3 q2 q3 2 - q3 q2 q1 q,6 x ,4. s,5 s,6 ,5 - 2 2
+6. 5 s6 s5 s6 s5 s6 s5 s6 s5 5 - q3 q2 q1 q2 q3 q1 s2 s3 q2 2. d1 d2 d1 h6 q0 ,2 ,5 ,6 1 q,6 s,5 s,6 s,5 s,6 q,5 ,5 - -
+2 0 2 0 q2 s2 s2 q,6 q1 q2 q3 2 2 0 2 0 q2 s2 s2 q,6 q2 q,5 q,6 ,5 5 5 1 q2 q3 q2 q3 2 q2 q3 2 ,6 2 q2. s5 q,6
+q,5 q,5 q,6 ,5 q,5 q,6 ,5 ,2 ,5 ,6 q2 q1 q,6 q1 ,6 q,6 q1 ,6 2 q2 q5 5 q,6 q,5 q,5 q,6 ,5 q,5 q,6 ,5 5 5 1 q2 q3 q2 q3 2 q2 3
+2 ,6 2 q2. s5 q,6 q,5 q,5 q,6 ,5 q,5 q,6 ,5 ,2 ,5 ,6 q2 q1 q,6 q1 ,6 q,6 q1 ,6 2 q2 q5 5 q,6 q,5 1 0 1 2 2 - - - 2 -
+q1. s2 q1 q2 5 - - - 5 - - - 6. q5 6 2 2 4 - q3 q2 q2 3 1 q2 q3 2 - - 6. q5 6 2 2 4 - 3 q2 1. q2
+3 1 q2 q3 2 - ,2 q,5. d6 ,5 - - ,5 - - - 5 ,5 q0 q,5 q1 ,5 q2 q3 2 q2 q3 2 5 ,5 q0 q,5 q1 q,5 q2 q3 2 0 2 6
+- - - 6 - - - 7. q2 q4 q5 q6 q5 5 0 q4. s5 q6 q2 5 - - - 5 - - - 2 2'. 6. q5 s6 s5 s6 s5 s6 s5 s6 s5 5
+- q3 q2 q1 q2 q3 q1 s2 s3 q2 2. d1 d2 d1 d6 q0 q,2 q,5 q,6 1 q2 q2' 2' - s2'. s2'. s2'. s2' 2' q1' 5. 5 - - -
+%END

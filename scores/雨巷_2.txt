@@ -1,0 +1,20 @@
+%雨巷_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=22141
+title=雨巷
+tag=
+usertag=
+tagroute=
+confidence=0.951
+conf_p10=0.894
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-22141
+%--
+2/4
+subtitle=score
+- q3. s3 q1' s7 s6 q6. s7 q3. s3 q6. s5 s5 s4 s4 s2 q3 - q3. s3 q1' s1' s1' q3'. s2' 2' s7 q7 s7 s1' s7 s6 s7 7 - q3. s3 q1' s7 s6
+q6. s7 3 q6. s5 s5 s4 s3 s2 3 - q3 s3 s3 q1' s1' ~ s1' q3'. s2' 2' q7. s1' s7 s6 s5 6 q0 s6 s7 1. s1'. q3'. s3' q6' q5' q4'. s3' q2'. s1'
+s2' q2' s2' q2'. s3' s4' 3' q0 s6 s7 s1'. q3'. s3' q6' q5' s4'. s5' q2'. s1' s2' q2' s2' q1' q1' 7 q0 s6 s7 d1'. q3'. q6' q5' q4'. s5' q2'. s1' s2' q2' s2' q2'.
+s3' s4' 3' q0 s6 s7 s1'. s3'. q6'. q5' q4'. s5' q2'. s1' s2' q1' s1' q7 d1' ~ s1' 6 - 0 0 0 0 0 - - 0 - - 6 q0 s6 s7 6 q0 s1'
+s2' q1' s1' q7 s7' s1' 6 -
+%END

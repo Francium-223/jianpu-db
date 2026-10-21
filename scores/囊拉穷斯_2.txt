@@ -1,0 +1,17 @@
+%囊拉穷斯_2.txt
+% 出处 https://www.jp114.com/jianpu/785343.html
+title=囊拉穷斯
+tag=
+usertag=
+tagroute=
+confidence=0.975
+conf_p10=0.954
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-785343
+%--
+4/4
+subtitle=score
+- 1' qx' q6 s5 q2 q3 q6 q6 q5 5 5 - 1 q2 q1 q,,6 s1 s6 0 q,,,5 q6 q,,6 q5 q3 s,2 s3 q,2 s1 s1 1 2 2 2 6 5 6 q2' s2' q2'
+s6 0 q6 0 q5 3 2 3 2 1 2 s1 s2 s3 q5 s1' s1' q6 q5 q3 s1 s3 q1 1. q1 1 -
+%END

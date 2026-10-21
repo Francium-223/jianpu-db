@@ -1,0 +1,20 @@
+%七彩的家园.txt
+% 出处 https://www.jp114.com/jianpu/1088190.html
+title=七彩的家园
+tag=
+usertag=
+tagroute=
+confidence=0.977
+conf_p10=0.966
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1088190
+%--
+4/4
+subtitle=score
+1 - - 4 - - 1 1 0 x - - - x x 6 6 4 q4 q5 6 6 5 5 3 q3 q4 5 5 5 6 6 6 q6 s5 4 q4 q4 s4 q3
+q2 q2 q2 q1 2 3. q4 5 6 6 q4 q4 q5 q6 q6 5 5 3 3 q4 q5 q5 q6 q6 s5 q4 s4 s3 q2 q2 s1 q,7 ,7 s,6 ,5 5 - 0 ,5 1
+0 0 0 0 x ,5 1 q1. q2 3 3 q3. s2 1 - 5 q5. q5 6 q5. s5 ,5 ,5 q1'. q,7' 1 1 q,7. q,6 ,5 - 3 q3. s3 4 q3. q3 q4 3 4
+2' 2 - ,5 1 q1'. q2' 3 2 q2. s3 q4 q4' 4' q1 q1 q1 ,7 ,7 - ,5 ,5 q1. ,7 1 ,7 q,7. s1 q2 q2 2 5 q5. q5 6 q4. s4 q3 q2 q3
+q1 1 - 0 q1 1 4 5 q6. s6 6 3 q3. s3 4 q2. s2 q1 ,7 1 ,6 ,6 - 0 1 s1 q2 q3 q4. s4 4 1 7
+%END

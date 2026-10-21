@@ -1,0 +1,19 @@
+%龙的胸怀.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=32395
+title=龙的胸怀
+tag=
+usertag=
+tagroute=
+confidence=0.950
+conf_p10=0.816
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-32395
+%--
+4/4
+subtitle=score
+x q3 5 q1 s5 s6 5. q3 q5 q1 s1' s7 6 - q5. s6 q5 q3 q2 q3 q0 s5 s6 1 - - - x q3 q5 q2 q3 1 s7 q2 q6 ,5 q3 q2 q1
+q5 q6 5. 5 q6 q1' q5 q6 4 q3 q2 q3 ,6 q1 q1 q6 q3 q2 2. 2 q3 q5 q2 q3 1 s7 q2 q5 ,6 q5 q3 q6 q7 6. 6 x ,1 1. 1'. q5
+q6 q3 q5 2 q3 q2 q3 ,6 s5 s6 q1 q2 1. 1 q1 q3 q3 5 1 q1 s1 s5 qx' q6 5. 1 q6 q6 q5 s5 s6 q,1 q1 q1 q2 3 - q2. q3 q5
+q3 q2 q1 s6 q0 s5 s6 q1 q2 q3 q1 2 - q3 5 q1 q5 q6 5. q3. q5 q1' q7 6 - q5. s6 q5 q3 q2 q3 s5 s6 q2 1 - - -
+%END

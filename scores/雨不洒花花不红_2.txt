@@ -1,0 +1,17 @@
+%雨不洒花花不红_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=44707
+title=雨不洒花花不红
+tag=
+usertag=
+tagroute=
+confidence=0.995
+conf_p10=0.985
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-44707
+%--
+2/4
+subtitle=score
+q6. s1' q6 s6 s1' q2'. s1' 2' - q2' q0 q5'. q3' q2' s1' s6 s5 s6 s4 s5 6 - q6 q0 q6. s1 q2 s3 s2 s2 s1 q6 q5 s4 s2 q5. s1 q6 s5 s6
+q5. s4 2 - q2 q0 q2 q2 q2 q5 s1 s2 s6 s1 q5. s2 q5. s1 q6 s5 s6 5. s4 2' - 2 0 q6 s5 q6 q5'. q4' 2' - 2' 0
+%END

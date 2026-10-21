@@ -1,0 +1,17 @@
+%旱天雷.txt
+% 出处 https://www.jp114.com/jianpu/1539481.html
+title=旱天雷
+tag=
+usertag=
+tagroute=
+confidence=0.655
+conf_p10=0.385
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1539481
+%--
+4/4
+subtitle=score
+h1 5 q4 h1' h1' h1' h1' h1' 1 h1' d1' h1' x h1' x' h3' h1 h1' 1 h1' q1' x x x h1' q1' d1' d1 x 1 1' dx hx' h1 h1' 1' ,1' x' h5' 4'
+x x 1' ,1' q1' q1' 1 d3' 1' h1' h1' h,1' h,1' h1' h1' 2' 1' x h1' h1' 1' 1' 1' x
+%END

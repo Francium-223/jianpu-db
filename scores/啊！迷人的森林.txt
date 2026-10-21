@@ -1,0 +1,17 @@
+%啊！迷人的森林.txt
+% 出处 https://www.jp114.com/jianpu/860945.html
+title=啊！迷人的森林
+tag=
+usertag=
+tagroute=
+confidence=0.744
+conf_p10=0.383
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-860945
+%--
+4/4
+subtitle=score
+3 ,3 3' q3 6' 6 1 3' q1 q3 5' 6 2' 2 6 1 6 2 2' 2' 1. ,3 ,x q3'. q3'. q1 d2 3' 3' 3' q1' q1 3'. q1 q1 - q1. 1' q6 q2'
+q6 1 1' q0 5. 5' 5 5' s1. s6 q6 6' - q3 q1 - q2 q2 q1 q3 5'. 2 2' 5' - q6 3 1 1 s2 s5 2 q3
+%END

@@ -1,0 +1,19 @@
+%勇气_4.txt
+% 出处 https://www.jp114.com/jianpu/1227496.html
+title=勇气
+tag=
+usertag=
+tagroute=
+confidence=0.895
+conf_p10=0.749
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1227496
+%--
+4/4
+subtitle=score
+- - 4 1 ,7 x' 1 qx 6 0 1'. 1 x s1' s5 s5 s1' q1' q2' 3' - q3 s2 s3 q3 s4 s5 5. s0 s1 q,7 s1 s7 q,7 s6 s5 q,5 s2 s1 ~
+q1 s3 s4 ~ q,4 s1 s7 ~ q,7 s2 s3 ,4 - ,3 s0 s5 s1 s2 q2. s5 ~ s5 q4 s3 2 - s5 s3 s3 s2 s3 s2 s3 s5 s5 s3 s3 s2 s3 s2
+s3 s5 s1 s6 s6 s5 s6 s5 q,5 q,2 q,3 s3 s1 s1 s6 s5 s3 s3 s2 s3 s2 s3 s5 s5 s3 s3 s2 s3 s2 s3 s5 s1 s6 s6 s5 s6 s5 q,5 q,2 q,3
+~ s3 s1 s1 s6 s5 s3 s3 s2 s3 s2 s3 s5 s5 s3 s3 s2 s3 s2 s3 s5 s1 s6 s6 s5 s6 s5 q,5 q,2 q,3 ~ s3 s1 s1 s6
+%END

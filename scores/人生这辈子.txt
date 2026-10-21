@@ -1,0 +1,20 @@
+%人生这辈子.txt
+% 出处 https://www.jp114.com/jianpu/969087.html
+title=人生这辈子
+tag=
+usertag=
+tagroute=
+confidence=0.787
+conf_p10=0.512
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-969087
+%--
+4/4
+subtitle=score
+q1 q1 4 x 1 ,6. - - q3 q0 1 q,6 q,5 1 2 - - 3 6 5 q3 q2 5 3 - - 6 6' 6 3' 1'. 1 6' 6'. 3. 3 1. 6' 3 q5
+d1' d6 s6 d6 s6 h2 h3 d2 h6 qx q6 1' 5' 1' 1' ,,5' ,,5' 5' 1' ,,5 5 5 1 1 h1' s3' q6' q6 h2 d3 s3 h1 h,6 d5 s5 q5 h1 h1 s1' q1'
+q6' h1 s1 q6 q3 d,1' q1' d,5 s6 d1 d2 q2 d,6 3 q2' q1' q3' q5' q6' q2' q3' q3 q5 q3' s6 s6' q6 q6 q3' s2 s3 q3 h6' q3' q3' q3' s5 s5 q5 q5
+q3 s5' h1 s5' s5' s5' q,5' q3' q1' q1' q3' q3' 5 5 q1' q3' q3' q3 s1' h,5 h2 h6 d2 s2 q6 q5' q5' q2' q1' q5' q5' q5' q1' q2' q1' q1' q,5' s,1 s3 s6
+s3 s6 6 d2 s5 d3 s6
+%END

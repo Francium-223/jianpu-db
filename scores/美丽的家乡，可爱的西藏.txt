@@ -1,0 +1,17 @@
+%美丽的家乡，可爱的西藏.txt
+% 出处 https://www.jp114.com/jianpu/1405440.html
+title=美丽的家乡，可爱的西藏
+tag=
+usertag=
+tagroute=
+confidence=0.965
+conf_p10=0.911
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1405440
+%--
+2/4
+subtitle=score
+2 s1 s2 s1 q2. s3 s1 ~ s1 q,3 s1 s2 q1 s1 s1 x q2. s3 s1 ~ s1 q3 s2 s1 q2 s3 s1 s2 1 s1 - q1' s3 q1 s5 s1 s2 s3 q2. s3
+q1 s1 s1 x - s1 s2 s3 - s5 1 q3. s5 s3 q2. s3 q1 q,3. s1 s2 s3 - - 1 s1 s1 - - - x. x - d3 - 0 s3 1
+%END

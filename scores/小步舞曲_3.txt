@@ -1,0 +1,21 @@
+%小步舞曲_3.txt
+% 出处 https://www.jp114.com/jianpu/975126.html
+title=小步舞曲
+tag=
+usertag=
+tagroute=
+confidence=0.785
+conf_p10=0.462
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-975126
+%--
+4/4
+subtitle=score
+5' 1. q5' 1' x' ~ x 5' ,x' x' ,1' q3' q3' q0 q2' s1' s0 q7 q1' q0 q7 q,6' q0 1 0 - 0 1' q3' 0 x' x' q2' 0 0 x x' ,1 x q1'
+7 x' x' 4'. 3' ,2' q1' 0 x s,x. 1' - 2' x' 6' 7 1' 0 ,3' x' ~ x' x' x' 5'. 1'. 5' 7' 6' q5'. x' 3' 2' 3' 3' 2'. x' 2' x. 1'.
+qx' q3' 1' 2' ,1' 1' 7 q6 qx q5 0 q5 q6 q6 5 0 7 1' 6 x 4 q5 q4 - 4 5 0 x 3 q5' q0 x' ,x q,x 1' q,1' q0 7 2' 0
+- q0 q7' q7' 0 1' q6' q0 5'. 1'. 1'. q0 ,5' q1' q1' q0 q2' q0 q7 q1' s0 q3' q6 0 5' q4' q0 1' q,5' q1' q0 4' 2' ,x 1' 0 0 ,x' 7 q2'
+1' 1' 3' 3' 2' 3' 5' q1'. q1'. s3' 2' ,6' 7 0 q1' 7' 1'. 1' q7 q6 q5 q5 q4 q3 q3 2 x 4 3 6 5 x q2 ,1 ,7 q1 q3 q3 1 2
+x q,6 s,1 q,7
+%END

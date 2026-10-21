@@ -1,0 +1,22 @@
+%随想曲_粤语.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=33517
+title=随想曲 粤语
+tag=
+usertag=
+tagroute=
+confidence=0.955
+conf_p10=0.803
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-33517
+%--
+4/4
+subtitle=score
+q1 4 x 4 ,,x ,1 x x'. q1 q2 3. q5 q6 q5 s3 s2 s1 s2 3 - - q3 q5 6. q1' q1' s6 s5 s3 s5 6 - - q,6 q1 q2 q1 q2 q3 6
+q3 q2 q1 q2 q3 q5 q3 ,6 q6 q3 q2 q3 q2 q1 - - q1 q2 3. q5 q6 q5 s3 s2 s2 3 - - q3 q5 6. q1' q6 q5 6 - - q1' q1' 2'
+q3' q1' q6 q3 6. q5'. 5 - 6. q5 q2 q3 q2 1 - - q1 q2. 1' q6 6. q1' q5'. 5 - q2 3 q1' q6 q5 q6 q3 2 - - - 3'. q3' 2' q2'
+q3' q2' q1' 1' - q6 q7 q1' q1' q6 q5 2. q6 6 5 - q2 3. q5 q6 q5 s3 s2 s1 s2 3 - - q3 q5 6. q7 q2' q1' s6 s5 s3 s5 6 -
+- q6 q1' sx sx qx. x x q6 q1 2' q3' q2' q1' q6 q3 6 q5 5 - 6 q5 q2 q3 q2 q1 - - q1 q2 3 q5 q6 q5 s3 s2 s2 3 - -
+q3 q5 6. q1' q1' q1' s6 s5 s3 s5 6 - - q,6 q1 q2 q1 q2 q3 6. q3 q2 q1 q2 q3 5. q3 ,6 q6 q3 q2 q3 q2 q1 - - - q2 q2 q3
+6. q3 q2 q1 q2 q3 x 1 5. q3 ,6 q6 q3 q2 q3 q2 1 - - - x x x x
+%END

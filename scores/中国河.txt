@@ -1,0 +1,19 @@
+%中国河.txt
+% 出处 https://www.jp114.com/jianpu/1087992.html
+title=中国河
+tag=
+usertag=
+tagroute=
+confidence=0.907
+conf_p10=0.598
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1087992
+%--
+4/4
+subtitle=score
+x 5 3 3. 3. ,x 2 3 x. 3 2 1 7 6 - 6 6 7 1' 2 3 1 4 3. 3 - 3 2. - - 5 ,6 0 5 3. 2 3 2 2 2
+1 q,6 ,5. ,5 ,6 0 6 5. 4 3 2 2 2 ,6 3 2. 3 5 5 6 6 1. 7 6 7' 5 5 2 3 ,5 ,6 - 2 2 2 2 2 2 1 2
+3 3 6 7 6 6. 5 6 3 3 2. 3 7. q6 5. 5 6 6 q7' 1 1 ,x x 3 - - 1 1 2 - 1 - 6 x 1 - - 6 0 4.
+7 - 6 x 4 5 - 3 2. 3 5 - 4 - 2 -
+%END

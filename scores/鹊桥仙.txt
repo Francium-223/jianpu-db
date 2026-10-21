@@ -1,0 +1,18 @@
+%鹊桥仙.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=23790
+title=鹊桥仙
+tag=
+usertag=
+tagroute=
+confidence=0.934
+conf_p10=0.677
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-23790
+%--
+4/4
+subtitle=score
+1 - - - x - x x x' 3'. q2' q6 3 q2 q3 q1 q2 6 - ,6 - ,7 3 1 - ,6 - q6 6 q7 d6 d7 s6 q5 6 q1' q1' q6 3 -
+q6 6. q5 q3 d2 d3 s2 q1 3 - - 0 q6 3 s,1 s2 2 - ,6 q6 s3 d5 d3 2 - q5 5 q3 q7 s6 d7 d6 q5 q6 6 - - 0 q1' 1'
+q6 - q7 6 q7 q3 - q6. s6 q6 q6 q7 6 s5 s7 3 - - 0 q1' q6 1' - 6 q2' q3' 7 - q1' 7 q6 q5 3 s5 s6 6 - - -
+%END

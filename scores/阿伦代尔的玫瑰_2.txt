@@ -1,0 +1,19 @@
+%阿伦代尔的玫瑰_2.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49958
+title=阿伦代尔的玫瑰
+tag=
+usertag=
+tagroute=
+confidence=0.961
+conf_p10=0.860
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49958
+%--
+4/4
+subtitle=score
+x x' 1' x x x' q1'. q2' 3'. q2' 1'. 7 2' 1' 7 6 5. q5 5. q1' 1' q2' q3' 2' - 0 q1'. q2' 3'. 2' 1'. q7 q2' q1' q7 q6 5. 5 6 1'.
+7 1' 2' 3' 1' - 0 1' 2'. q7 5. q5 3'. q1' 5 q0 q3' 4' q3' q2' 3'. 1' 2' - - q1'. s2' 3'. q2' 1'. q7 q2' q1' q7 q6 5 5. q5 q6 1'
+q6 q7 q1' q2' 3' 1' - - q5'. s5' 5'. q3' 3'. q1' 6 - - 6 4'. 3' 2' 1' q7 5. 0 5 6. 7 q2' q1' q7' q6' q5 1'. 3' 1' 7 6 1' q6
+q7 q1' q2' q3' 1' - -
+%END

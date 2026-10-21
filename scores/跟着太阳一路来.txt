@@ -1,0 +1,17 @@
+%跟着太阳一路来.txt
+% 出处 https://www.jp114.com/jianpu/881022.html
+title=跟着太阳一路来
+tag=
+usertag=
+tagroute=
+confidence=0.908
+conf_p10=0.657
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-881022
+%--
+4/4
+subtitle=score
+0 ,1' 6 6 ,1' 2' - 2' ,3' q,,2' 2 6 - q0 2' 0 q2' q2' 6. 5 5 - 1' q6 ,1' q6 5 q1' 6 q1' q6 q1' q6 q,,6 q1' q3 q0 1' s5 s6
+q5 q6 5' 6 q6 1' 6 6 q1' 3 0 q0 6 6 q5 s1' ~ s1' 2' - q2' q3' q1' q2' ,2 1 6 - x q0 s2' ,1' q2' q2' 6. q5 5 -
+%END

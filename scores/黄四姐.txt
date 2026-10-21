@@ -1,0 +1,18 @@
+%黄四姐.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=47618
+title=黄四姐
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.998
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-47618
+%--
+2/4
+subtitle=score
+6 1 1 6 6 1 1' 1 6 - 1 6 1 2 2 1 5 6 1 ,1 6 0 6 1 6 1 2 2 1 5 6 1 6 0 x x x x x x
+0 qx qx x qx x x 0 6 1 1 q6 5. q6 1 6 q6 q1 q1 6 5 - x x x x qx x q0 qx x x qx x qx x 0 q1' q1' q6
+q1' q2' q6 2'. 6 q6 6 1' 6 5 -
+%END

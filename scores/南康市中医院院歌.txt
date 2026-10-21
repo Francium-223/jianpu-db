@@ -1,0 +1,19 @@
+%南康市中医院院歌.txt
+% 出处 https://www.jp114.com/jianpu/1222830.html
+title=南康市中医院院歌
+tag=
+usertag=
+tagroute=
+confidence=0.948
+conf_p10=0.805
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1222830
+%--
+4/4
+subtitle=score
+q1 q2 1 x. x - 7 6 1 ,x. x q3 q3 q5 q5 q5 q2' 1'. q2' q3'. s5' s7 s6 q5 6 - q6 q6' q5' 3' q5' q2' q6 q2' q6' 5' q5 q6 - -
+x q,5 q,6 q5 q2 3 - 2 q3 q,6 1 - q,6 q,6 q3 q5 2. q1 q,6 q,6 q1 q,6 ,5 - q,5 q,6 q5 q2 3 - 2 q3 q,5 ,6 - q,6 q,6 q2 q3 4.
+q3 q4 4 q3 q2. s2 q2 q6 5 - 5. q5 1'. q5 q6 s5 s6 1 q4 s4 s3 q2 q6 5. q5 1'. q5 q6 s5 s6 4 q4 s4 s3 s2 s3 q1 2 - 3.
+s5 q5 q6 q5 3. 6 q5. s6 q1 ,6. q2. s2 q2 q1 q2 q7 q6 5. q6 5 q,5 q,6 1 - 1 - q3 q5 q5 q6 5 q5 q6
+%END

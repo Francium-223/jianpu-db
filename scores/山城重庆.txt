@@ -1,0 +1,18 @@
+%山城重庆.txt
+% 出处 https://www.jp114.com/jianpu/846122.html
+title=山城重庆
+tag=
+usertag=
+tagroute=
+confidence=0.990
+conf_p10=0.973
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-846122
+%--
+4/4
+subtitle=score
+q,5 q,6 1 - q2 q3 q1 q,6 ,5 - - q2 q3 q5 q6 q5 s3 s2 3 q1 d6 s5 ,6 - - q5 q3 q1 s6 s5 3 - q1 q,6 q5 s3 s2 1 - q5
+q6 q1' q2 3' - q2 q3 q1' q6 5 - q2 q3 q5 q6 q1 q2 3 2. s1 s6 3 - q5 q3 q6 q5 5 - q1 q6 q3 q2 2 - q1 q2 3 - q2
+q3 q2 q1 q6 q5 6 0 1 - - q6 q5 6 - - - 6 - - - 6 - - - 6 - - -
+%END

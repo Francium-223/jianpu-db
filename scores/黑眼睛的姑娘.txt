@@ -1,0 +1,21 @@
+%黑眼睛的姑娘.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49987
+title=黑眼睛的姑娘
+tag=
+usertag=
+tagroute=
+confidence=0.943
+conf_p10=0.738
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49987
+%--
+4/4
+subtitle=score
+x. x. x' x x' x' x q1' 2' 3'. 2. 2' 3' 5' 4. 4' 3' 3' q3' 0 q1 q2 3. q2 3 5 x 4 3' q3' q0 0 1' 2' q3'. q2. q2' 3' 5' 4.
+4' 3' 3' - q7 q1' 3'. 2' 1'. 7 1' 7 6 x 5 6 q7 1' 3' 3' q2' 1' q7 q6 q5 q6 q5 s4 s3 s4 s5 s6 7 7 q1' 2' q1' q7 1' q7
+q6 5 5. q6 5 s6 q5 q4 q3 1 2 3 q7 q1' 2' 1' q7 1' q7 q6 5 5. q6 q5' s6' 5 4 q3 3 - - 3 0 5 5. q6 s5' s6 q5 q4
+q3 q5 q6 q7 q1' q2' q1' q7 1' 7 - 0 q1' 2' q3'. q2. q2' 3' 5' 4. 4' 3 3 - q7 q1 3. 2 1. 7 1 7 6 5 6 q7 1 3 q3 q2
+1 q7 q6 s5 q6 q5 q4 q3 q4 q5 s6 7 q7 q1 2 q1 q7 1 q7 q6 5. 6 q5 s6 5 4 3 1 3 q7 q1 1 2 q1 q7 1 q7 q6 5. q6
+q5 q6 q5 4 3 3 - q3 q0 7 7' - - 7 7' - - - 7' - - - 7' - -
+%END

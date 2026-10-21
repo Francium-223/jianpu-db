@@ -1,0 +1,21 @@
+%小河弯弯.txt
+% 出处 https://www.jp114.com/jianpu/1376952.html
+title=小河弯弯
+tag=
+usertag=
+tagroute=
+confidence=0.994
+conf_p10=0.982
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1376952
+%--
+4/4
+subtitle=score
+q5 s5 s6 q5 q5 s6 s5 q3 2 q5 s5 s6 q1 q2 q5 q3 2 q2. s5 s3 s5 s3 s2 s1 s6 s1 s3 s2 s3 s2 s,6 s,6 s1 2 s2 s1 s,6 ,5 s1 s,6
+s,6 s1 q2 s2 s2 s2 s,6 ,5 q5 s5 s6 q5 q5 s6 s5 q3 2 q5 q5 s1 s2 s5 s3 2 - q2. s5 q3 s3 s2 q1 q3 2 s,6 s,6 s1 q2 s2 ,5 -
+d1 s1 s2 q1 q,6 0 q2 q5 s5 s3 q2 1. q,6. d6 q,6 q1 2 2 s,6. s6 s,6 s6 q1 2 q1 q2 q1 s6 ,5 - - - q5 q6 2. s1 s2 q,6 q1 2
+- - - q5 q6 2. s1 s2 q1 q,6 ,5 - - - q5 5 q2 q6 q5 q4 q5 q4 q2 5 - q5 5 q2 1 q6 q5 q4 q4 q5 q4 2 - q5 5 q2
+q6 q5 q4 q4 q4 q5 1 - q1 q,6 q,6 q1 2. s,6 s,6 q2 q2 q1 s2 s3 2 q,6 2 - - - q1 q2 q1 q,6 ,5 - 1' 2 1' 6 - - - -
+- -
+%END

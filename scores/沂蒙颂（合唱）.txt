@@ -1,0 +1,24 @@
+%沂蒙颂（合唱）.txt
+% 出处 https://www.jp114.com/jianpu/921361.html
+title=沂蒙颂（合唱）
+tag=
+usertag=
+tagroute=
+confidence=0.950
+conf_p10=0.851
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-921361
+%--
+2/4
+subtitle=score
+- - ,2 x 0 1 x 3' 3'. s2' s3' 1' 5 2'. s1' s7 s6 s5 2' - 3'. s2' s3' ,1' s7' s2' 6 3' 2' s7' s2' 6 5 - 5 s2 s3 s5 s1' s1'
+s2' x x s3'. s2' s3' s7 s6' s2' q5 - s5'. q2' d1' s7 s6 s5 ,2' - s1'. q2' q3' s5' s5' s2' q7 s1' s1' q5 q5 q3. d5 dx' d5 s6 1'. q2' 3 q2 3
+q,1 q7 q6 2 5 - 5 2 q,1 q7 q6 5 2 - 1. 7 6 3 1 5 3 3. q5 q6 q,1 q5 q4 3. 5 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 q3' s6' s5' d3' s5' q2'. q3' s6' q5' d5' s3' 2' q1' - 5' 5'. q6' 6'. q2' 3' - q5' s3'
+q5' s2' s1' q1' 2'. q3' q7. s7 q6 q3 qx ,1' 2' 3' q,1' q6 7 q6 q5 7 6 5 - 0 0 0 0 0 0 0 0 0 0 x 0 0 q0 s5 q5 q3
+q5 6 s5 s4 q3 - 0 0 0 0 0 0 0 0 0 0 0 0 q0 5 7 5 ,6 5 6 1 - 0 0 0 0 0 0 0 0 0 0 5 5 x
+q3' s2' s1' s1' s7 s6'. s2' 5 - q5' q2' d1' s7 s6 s5 2' - s5 ,,1' q7 d1' q5 3 s6' q3' d2' s3' q6' 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 1 0 0 3' - q3' q3' q3' 2' - q2' q2' q2' 7 6 - 6 q5 6 q7 6 0 0 5 - 5 5 5 6 7 - 7 7 7 5 3
+- 3 2 1 6. 3
+%END

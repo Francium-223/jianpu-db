@@ -1,0 +1,21 @@
+%情如叶垂千万缕.txt
+% 出处 https://www.jp114.com/jianpu/891381.html
+title=情如叶垂千万缕
+tag=
+usertag=
+tagroute=
+confidence=0.986
+conf_p10=0.980
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-891381
+%--
+4/4
+subtitle=score
+5' - s3' s5' s2' s3' s1' s2' s6 s1' 5 - q1' s6 s1' q2' s3' s2' s1' s2' s3' s5' 2' s2' q2' s3' q2' s6' s3' 5' - q5 s5 s5 s6 s5 s6 s1 q5. s3
+5 q2 s2 s2 s3 s5 s3 s2 q1. s6 1 q5 s2 s3 5 q2 s3 s2 1 q,6 s3 s5 s2 s1 s,6 s1 1 - q5 s5 s5 s6 s5 s6 s1 q5. s3 5 q2 s2
+s2 s3 s5 s3 s2 q1. s,6 1 q5 s2 s3 5 q2 s3 s2 1 q,6 s3 s5 s2 s1 s,6 s,5 1 - s5 s5 s3 s2 s3 s5 s6 s1' 5 - s3 s3 s2 s3 s5
+s6 s5 s3 2 - q,6 d,6 s1 q2 s3 s2 s1 s2 s3 s5 2 q2 s2 s3 q2 s6 s3 5 - q5 s5 s5 s6 s5 s6 s1 q5. s3 5 q2 s2 s2 s3 s5 s3
+s2 q1. s6 1 q5 s2 s3 5 q2 s3 s2 1 q,6 q3 s2 s1 s,6 s,5 1 - q5 s5 s5 s6 s5 s6 s1 q5. s3 5 q2 s2 s2 s3 s5 s3 s2 q1. s,6 1
+q5 s2 s3 5 q2 s3 s2 1 q,6. s3 s2 s1 s,6 s,5 1 - s,2 s,3 s,5 s,6 s1 s3 s2 s3 1 -
+%END

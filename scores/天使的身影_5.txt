@@ -1,0 +1,20 @@
+%天使的身影_5.txt
+% 出处 https://www.jp114.com/jianpu/1231214.html
+title=天使的身影
+tag=
+usertag=
+tagroute=
+confidence=0.992
+conf_p10=0.986
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1231214
+%--
+4/4
+subtitle=score
+6 - - 7 3 - 6 - - 7 3 - 7 6 5 6 5 3 - - 3 - - 5 6 7 6 - - 6 - - ,6. q1 ,6 3 - 3 2 q2
+q2 q1 q,7 ,6 - - 2 4 2 6 - 6 5 q5 q6 q5 q4 3 - - 6 7 6 5 - 3 2 q2 q,6 q1 q3 2 - - 1 2 3 5 - 6
+3 - - 3 - - 6 3 1 2 - 3 ,6' - - ,6' - - 6 - - 6 7 3 7 6 5 6 5 3' - - 3' - - q4 q4 4 2 6
+6 6 6 3 2 1 - - 2 2 2 1 - 2 3' - - 3' - - q6 q6 3 1 2 - 3 6 - - 6 - - x 6 3 1 2 - q2
+q3 ,6 - - x 5. q6 7 6 - -
+%END

@@ -1,0 +1,20 @@
+%走西口_18.txt
+% 出处 https://www.jp114.com/jianpu/882251.html
+title=走西口
+tag=
+usertag=
+tagroute=
+confidence=0.961
+conf_p10=0.829
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-882251
+%--
+4/4
+subtitle=score
+1 - q4 1 1 x x 1. 5 3 5 1' 7 6 5 6 4 3 2. 3 2. 3 5 5 2 1 7 6 1 5 - 6 ,5 - - - 5 5 1' 1'
+2' 7 6 q6 5 - q3 q5 q6. 6 6 1' q5 q6 q3 q2 - x. q3 q5 1 - ,6 q2 q3 5 - q3 q1 q6 5 q6 1 ,6 q4. q2 q4 q5 q2 q1
+q1 s6 1 2 ,5 - ,6 ,5 - - - 1 ,7 q1 2 ,5 q1 ,7 1 2 - qx 5 4 q5 6 2 x q4 3 q2 5 - 5 6 7 q1 1'. 2' 7
+6 5 - q6 q5 5 4. 4 q3 q2 5 2 1 ,7 1 2. q3 q1 q2 ,6 ,6 ,5 - - x q2 q5 q2 q1 q2 q3 q5 q6 q5 2 q1 ,7 1 2. 3
+q1 q3 ,6 ,6 ,5 - -
+%END

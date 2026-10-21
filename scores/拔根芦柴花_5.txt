@@ -1,0 +1,21 @@
+%拔根芦柴花_5.txt
+% 出处 https://www.jp114.com/jianpu/977879.html
+title=拔根芦柴花
+tag=
+usertag=
+tagroute=
+confidence=0.930
+conf_p10=0.725
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-977879
+%--
+2/4
+subtitle=score
+q1 q1 4 x x 1 s1'. s6 q1' s1' q0 s1'. s6 s1' s2' q0 s1'. s1' s6 s5. s2' q6 - - q1 q0 0 q1 q0 0 1' q1'. s3'. q1' s6 q1'. s3'. q2' s6 q5
+q5. s6 1 1 5 1 q1' q2' s2' q6 s1' s2' s1' s1' 1 q5 q5 q6 q6 1 2 0 1 5. q6 q0 q0 q0 q0 s3. q3 q2. s3 q2 q1 qx s2' s1'. q2' q6
+s6 1 3 5 1 1 4 0 1 x q5 q3 q5 q6 q1'. s3'. q1' s6 q1'. s3' q1' s6 q5. s3 q5 q6 q1'. s2' q1' s1' s6 q1'. s2' 1 4 5 1 q3 q2 1
+q5 q5 q6 q1'. s3' q1' s6 s1' s6 q5 q0 0 0 q0 x 5 0 1 0 q0 0 q0 0 q0 q3 q2. s3 s1' s1' 1 5 5 1 x 6 0 1 q1 q0 s2'
+q2'. q1' q6 s1' s1' s6 q1' q1'. q3 q2 q1'. s1' 1 6 5 1 1 - s1'. s6 s1'. s2' q6 s1' q1 q0 0 q1 q0 0 1. 1'. - s6 q1' s1' s1' - 5. -
+s1' s6 - s2' s1' s6 q1' - - - 1 - q5 - 1 - s3 5 q6. s1' s7 - - 6 - -
+%END

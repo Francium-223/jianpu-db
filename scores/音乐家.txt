@@ -1,0 +1,17 @@
+%音乐家.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=49028
+title=音乐家
+tag=
+usertag=
+tagroute=
+confidence=0.995
+conf_p10=0.982
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-49028
+%--
+2/4
+subtitle=score
+4. 3 2 0 3. 2 q1 q0 q2. s3 q4 q4 q5 0 ,5 q5. 7 2 4 3 1 3 2 3 4 6 7 q1 0 4. 3 2 4 3 3 2 3 4 7 1
+0 q5. q7 q2 q4 q3 q5 3 q2 q5 2 5. 7 2 4 3 1 3 2 3 4 7 1 0 - - - 0 - - - - 1
+%END

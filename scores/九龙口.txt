@@ -1,0 +1,22 @@
+%九龙口.txt
+% 出处 https://www.jp114.com/jianpu/924697.html
+title=九龙口
+tag=
+usertag=
+tagroute=
+confidence=0.971
+conf_p10=0.939
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-924697
+%--
+4/4
+subtitle=score
+qx - - 1 1 2 x 1 x x x 0 0 0 q5 6. 6 0 6 q3. s3 q3 q1 q2 q3 ,6 q3. s3 3 0 q0 q6 q2. s2 q2 q1 q2 q3 ,6 q2.
+s2 2 q0 s,3 s,5 q,6 q1 q2 q3 2 q,3 q,5 ,6 - - q1 s2 s3 q5 6. 6 0 ,6 3 q3 q2 3 ,5 q,6 q,5 ,3 - q,6 q1 q1 q2 q2 q3 q5 q2
+3 - - - ,6 ,6 3 ,6 1 q2 q3 2 - q1 q1 q2 q3 1 q,6 q,5 ,6 - - - ,6 3 q3 q2 3 1 q,6 q,5 ,3 - q1 q1 q1 q2 q2 q3
+q5 q2 3 - - - ,6 ,6 3 ,6 1 q2 q3 2 - q1 q1 q2 q3 1 q,6 q,5 ,6 - - - 5 6 3. q3 5 6 3 - q5 q5 q5 q2 5 q5
+q6 3 - - - ,6 3 2. q3 ,6 3 2 - q2 q2 q2 q3 5 ,5 ,6 - - - 5 6 3. q3 5 6 3 - q5 q5 q5 q2 5 q5 q6 3 -
+- - ,6 3 2. q3 ,6 3 2 - q2 q2 q2 q3 5 ,5 ,6 - - - q2 q2 q2 q3 5 0 3 0 6 - - - 6 - - q5 q6 6 0 x
+x. x'.
+%END

@@ -1,0 +1,17 @@
+%忆点滴.txt
+% 出处 https://www.jp114.com/jianpu/1233247.html
+title=忆点滴
+tag=
+usertag=
+tagroute=
+confidence=0.999
+conf_p10=0.998
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1233247
+%--
+4/4
+subtitle=score
+,6 ,7 1 5 3 1' ,7' ,6 ,6 ,7 1 5 6 3 6 6 6 ,6 1 q1 ,7 ,7 ,7 ,3 ,5 ,6 1 2 3 3 3 3 1 7 q6 q7 q6 3 2 1
+2. q6 1 q2 q4 3 q3 q5 6 q6 q5 q6 q1 2 q2 q3 7 q5 q5 5 q5 q3 5 q7 q6 6 7 7 7 5 3 5 7 6 6
+%END

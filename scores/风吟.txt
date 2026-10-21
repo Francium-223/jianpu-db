@@ -1,0 +1,24 @@
+%风吟.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=51115
+title=风吟
+tag=
+usertag=
+tagroute=
+confidence=0.961
+conf_p10=0.910
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-51115
+%--
+4/4
+subtitle=score
+qx q1 0 0 2 ,1 ,1 ,x' ,1' ,1'. 1'. 1'. x. qx x q0 q6 - - 3 - q3 q6 q1 s3 s1 q2 2 s2 s1 2. s2 s3 7 - q7 q7 q7 s6 s5
+5. s5 s6 3. q5 s6 s7 q6 6. q3 q5 q6 4. s3 s2 6. s6 s7 1 s1 s2 7 q6 q5 6 - - - x ,6. q1 q2 q3 q3 q5 q,7. s5 ~ q,5 q,7
+,6 - q1 q,6 ~ ,6 q1. s6 ~ q,6 q5 3 - 0 0 3 q3 q5 6. q1' q1. s6 ~ q,6 q3 2 - 2 q3 q5. s5 q5 q1 ,6 - 0 0 ,6 q1 q2
+q3 q3 q5 q,7. s6 q,6 q,5 ,6 - q1 q,6 ,6 q1. s6 q,6 s5 s6 3 - 0 0 3 q3 q5 6. q1 q1. s6 q,6 q3 2 - 2 q3 q5. s5 q5 q1 ,6 -
+0 0 6. q1 2. q3 q7. s7 q7 q5 6 - q6 q1 q1 q6 5 q2 q5 3 - 0 0 3. q5 6. q1 q1. s6 q,6 q3 2 - 2 q3 q7. s7 q7 q5 6
+- - 0 6. q1 2 q3 q7. s7 q7 q5 6 - q6 q1' q1' q6 5 q2 q5 3 - - 0 3. q5 6. q1' q1. s6 ~ q,6 q3 2 - 2. q3 q7. s7 ~
+q7 s5 s6 6 - - - 0 - 6 - - - s6 s5 s6 s7 s1 s7 s1 s2 s2 s1 s2 s3 s5 s3 s5 s6 7 - - - s6 s5 s6 s7 s1 s6 s1
+s2 s3 s2 s3 s5 s5 s3 s5 s7 6. q3' q3' 3' q1' 2'. s3' s2' 2' - q1' q1' q1' q6 7 q5 q6 3 - - q3 q5 6. q3 q3 q3 q3 q1 2 q1 2
+- q1 1 q2 q7 7 s6 s5 6 - - - x. 6 - - - 6 - - 0 2. q3 q7 q7 q5 q6 6 - - -
+%END

@@ -1,0 +1,21 @@
+%天心阁.txt
+% 出处 https://www.jp114.com/jianpu/1524746.html
+title=天心阁
+tag=
+usertag=
+tagroute=
+confidence=0.993
+conf_p10=0.989
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1524746
+%--
+2/4
+subtitle=score
+q1' q7 6 q5 5 s6 q2 5 1 2 4 5 4 q5 s1' q2' 5 s1' s2' s5 s1' s2 q5' q4 q4 q4 s3 q2 q5 5 s5 s6 s2 q6 1 2 4 1 s2 s4
+s5 q2 s4 s5 s6 q5 s6 s2 q1 q2 q5 q1 q7 ,6 s1 s2 ,5 - ,5 - 2 5 5 q1 7 s6 q5 ,5 s5 q1 q2 q4 q4 q4 q5 5 - 4 4 4
+s5 s6 s6 s6 s5 q4 s3 s2 1 q7 7 7 1 q2 s5 s6 2 q1 q2 s5 s5 q5 q1 q,7 6 5 ,5 q1 1 q1 s2 q4 s4 s5 q5 2 1 q,4 s,4 q5
+6 q6 q5 4 s3 s,2 1 s2 q6 ,1 2 7 q6 q5 ,5 ,5 q1 q7 1 2 2 q2 q4 s3 s2 5 5 - q1 q1 7 6 q5 5 q6 q5 4 q4 4 q3
+q2 5 - q6 q6 q6 5 4 0 3 1 2 - 5 - q1 s1 s7 q6 q5 5 s6 q5 4 s4 q3 q2 q5 1 q2 s2 q4 q5 6 s6 s1 2 5 - 5
+- 1 - 7 6 5 - 5 - 5 - 5 -
+%END

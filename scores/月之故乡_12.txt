@@ -1,0 +1,21 @@
+%月之故乡_12.txt
+% 出处 https://www.jp114.com/jianpu/1228969.html
+title=月之故乡
+tag=
+usertag=
+tagroute=
+confidence=0.981
+conf_p10=0.917
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1228969
+%--
+4/4
+subtitle=score
+x q1' q7 q6 3 - q6 q7 q6 3 - q2 q2 q1 q2 3 6 q1 q,7 q,6 q,5 ,6 - x 3. 5 6 q7 5 6 - 3 - 5. q3 q2 q3. 4 3 -
+- - q2 2 q3 ,6 1 q2 q4 q3 q2 3 1 ,7 ,7 ,6 ,5 2 q1 ,7 ,6 ,5 ,6 - 3. 5 6 7 5 6 - 3 - 5. 3 2 3. 4 3 -
+- - q2 2 1 2 4 3 2 3 1 2 - q,7 ,7 q,6 ,5 2 q1 q,7 q,6 q,5 ,6 - x q1' q7 q6 3 - q1' q7 q6 3 - q2 q2 q1 2 3
+6 1 ,7 ,6 ,5 ,6 - x 3. 5 6 7 5 6 - 3 - 5. 3 2 3. 4 3 - - - 2 2 3 ,6 1 2 4 q3 q2 3 1 q,7 ,7 q,6
+,5 2 1 ,7 ,6 q,5 ,6 - 6. q5 6 q1' q7 q6 q7 5 6 - 5 5 q3 2 3 4 3 q4 3 2 3 - q2 2 q3 ,6 1 2 q4 3 2 3
+1 ,7 ,7 ,6 ,5 2 1
+%END

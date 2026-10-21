@@ -1,0 +1,16 @@
+%太阳出来啦.txt
+% 出处 https://www.jp114.com/jianpu/922239.html
+title=太阳出来啦
+tag=
+usertag=
+tagroute=
+confidence=0.598
+conf_p10=0.299
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-922239
+%--
+4/4
+subtitle=score
+- d1' h1' 1' 1' 1 d1' hx' h1' h,,1' 7' 1 0 h7' qx h,1' h1 h1' h1' h,x x ,1' 0 - 1' hx hx s,1' 1' s,1' 1 hx 1' h1 h1
+%END

@@ -1,0 +1,18 @@
+%角招.txt
+% 出处 https://www.jp114.com/jianpu/971292.html
+title=角招
+tag=
+usertag=
+tagroute=
+confidence=0.929
+conf_p10=0.657
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-971292
+%--
+4/4
+subtitle=score
+3 q4 0 7 1 2 1 3 4 3 0 1 3 2 1 3 1 0 6. 1 q7 6. q0 6 q7 q6 q6 q3 x 3 0 6 5 q6' 4 3 q0 1 2 q3
+3 6 7 1 2 q7 6. 0 4 3 q4 q0 - 4 3 1 0 6. 1 6 1 2 1 5 q4 3 ,3 2 1 3 1 7 6. 1 0 6 - 6 q7 q6
+q6 s3 6. 0 1 q3 0 q6' 4 3 q0 1 2 3 2 1 6 7 2 - 1 7 6. - q4 3 - - 0
+%END

@@ -1,0 +1,17 @@
+%鹌鹑歌.txt
+% 出处 http://www.fysongs.cn/songku_show.asp?id=48042
+title=鹌鹑歌
+tag=
+usertag=
+tagroute=
+confidence=0.962
+conf_p10=0.922
+transcriber=jianpu2-auto
+status=ocr
+source=fysongs-48042
+%--
+3/4
+subtitle=score
+1 - - 3 4 1 4 x x 6 2 1 ,6 ,6 4 2 6 ,5. 6 2. ,6 2 7 ,6 6 1 5 6 2. 6 7 6 5 6 2. 1 5. ,5 ,5 ,6
+6 2. 6 ,7. ,6 ,6 ,6 4 3 ,6 ,7 ,6 ,5
+%END

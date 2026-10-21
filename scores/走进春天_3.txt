@@ -1,0 +1,21 @@
+%走进春天_3.txt
+% 出处 https://www.jp114.com/jianpu/1274498.html
+title=走进春天
+tag=
+usertag=
+tagroute=
+confidence=0.888
+conf_p10=0.525
+transcriber=jianpu2-auto
+status=ocr
+source=jp114-1274498
+%--
+4/4
+subtitle=score
+q1 1 4 x 1 x 0 0 x x x x. x 5 q2 s3 s2 1 - q,7 q1 q2 q,5 1 - q2. - s2 q2 s1 2 q6 q1' q7 q6 5 - - 5 q2
+s3 s2 1 - q,1 q1 q2 q,5 1 - q2. s2 q2 q,6 q4 q6 q5 q6 q4 q3 2 - - 5 q2 s3 s2 1 - s,7 q1 q2 q,5 q1 - q2. s2 q2 q1 2
+q6 q1' q7 q6 ,5 5 - x 5 q2 s3 s2 1 s1' q,7 q1 q2 q,5 1 1 - q2. h0 s2 q2 q,6 q4 q6 q5 q6 q4 q3 2 - 2 5 - - - 1'.
+q1' q7 q1' q1' q1' 6 - - - 2'. q2' q6 q1' q7 q6 5 - - - 6. q6 4 q6 q5 q5 q5 q4 q3 - q2. s2 q2 q5 ,7 1 2 - - - 1'.
+q1' q7 q1' q2' q1' 6 - - - 2'. q2' q6 q1' q1 q6 5 - - - 6. q6 4 6 q5 q5 q5 q4 3 - 2' 1' 2 - 2 - q5 - 1' q1 1'
+q2 - s3 - d2 1 1' - - - - q1 q1' 1' 1' - 2 sx 2 5 ,1 x' q,1 0 0 0 ,2' 0
+%END
