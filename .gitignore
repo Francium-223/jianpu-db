@@ -22,3 +22,7 @@ misc/_nolink_quarantine/
 # 渲染产物（jianpu-ly / LilyPond / MIDI）不进仓库: *.mid
 *.ly
 *.pdf
+
+# data.jsonl 是派生产物(2026-10-21 起): 已涨到 109.9 MB, 越过 GitHub 100 MB 硬上限,
+# 每次语料重生成都会被拒推。CI 里现算后直接传 HF; 站点构建也读本地文件, 不依赖仓库里这份。
+data.jsonl

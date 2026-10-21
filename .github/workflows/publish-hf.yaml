@@ -12,7 +12,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write   # 末尾的"计数探针"要把前后两个数字提交回仓库
 
 concurrency:
   group: publish-hf-${{ github.ref }}
@@ -35,22 +35,37 @@ jobs:
           path: jianpu2
           token: ${{ secrets.JIANPU_PAT || github.token }}
 
-      # **不在这里重跑 parse_scores.py**: push 会同时触发 parse.yaml, 它已经是
-      # "重建 -> 以 github-actions[bot] 提交(带 [skip ci])" 的那一步; 我们这条在它之后 checkout,
-      # 直接读最新的 data.jsonl 即可。这里再跑一遍只会让两个 job 抢着改同一个文件、徒增 6 分钟。
-      - name: Sanity check data
-        run: |
-          test -s data.jsonl || { echo "data.jsonl 不存在或为空"; exit 1; }
-          echo "data.jsonl 行数: $(wc -l < data.jsonl)"
-          test -s scores/17.txt || echo "提示: scores/ 看起来不完整"
-
+      # **2026-10-21 起改为自己重跑 parse_scores.py**: data.jsonl 已经是派生产物、不再进 git
+      # (它涨到 109.9 MB, 越过 GitHub 100 MB 硬上限, 每条语料提交都会被拒推)。
+      # 所以这里现算一份, 既不再依赖仓库里那份, 也不会和 parse.yaml 抢提交 —— 两边都不提交它了。
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
 
+      - name: 现场生成 data.jsonl
+        run: |
+          python parse_scores.py
+          test -s data.jsonl || { echo "data.jsonl 生成失败"; exit 1; }
+          echo "data.jsonl 行数: $(wc -l < data.jsonl)"
+          test -s scores/17.txt || echo "提示: scores/ 看起来不完整"
+
       - name: Export HF dataset
         run: python export_hf.py --out hf
 
+      - name: 记下上传前的计数
+        env:
+          HF_REPO: ${{ vars.HF_REPO }}
+        run: |
+          python - <<'PY'
+          import json, os, urllib.request
+          repo = os.environ.get("HF_REPO") or "Caesium-132/chinese-jianpu-corpus"
+          url = "https://huggingface.co/api/datasets/" + repo
+          with urllib.request.urlopen(url, timeout=30) as r:
+              d = json.load(r)
+          out = {"downloads": d.get("downloads"), "likes": d.get("likes"), "lastModified": d.get("lastModified")}
+          print("上传前:", out)
+          open(os.environ["RUNNER_TEMP"] + "/hf_before.json", "w").write(json.dumps(out))
+          PY
       - name: Upload to HuggingFace
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
@@ -72,3 +87,37 @@ jobs:
                               token=token)
           print("上传完成:", url)
           PY
+
+      # 探针（2026-10-21 加）: 上传后等 90 秒再读一次计数, 把"前后差值"提交回仓库,
+      # 用来量出「一次 publish 会给 HF 的下载量加多少次」。文件写在 _probe/ 而不进 hf/, 不会被上传。
+      - name: 比对上传后的计数并回写
+        env:
+          HF_REPO: ${{ vars.HF_REPO }}
+        run: |
+          sleep 90
+          python - <<'PY'
+          import json, os, urllib.request
+          repo = os.environ.get("HF_REPO") or "Caesium-132/chinese-jianpu-corpus"
+          url = "https://huggingface.co/api/datasets/" + repo
+          with urllib.request.urlopen(url, timeout=30) as r:
+              after = json.load(r)
+          after = {"downloads": after.get("downloads"), "likes": after.get("likes"),
+                   "lastModified": after.get("lastModified")}
+          before = json.load(open(os.environ["RUNNER_TEMP"] + "/hf_before.json"))
+          d_before, d_after = before.get("downloads"), after.get("downloads")
+          delta = (d_after - d_before) if isinstance(d_before, int) and isinstance(d_after, int) else None
+          os.makedirs("_probe", exist_ok=True)
+          line = "%s\tbefore=%s\tafter=%s\tdelta=%s\tlikes=%s\t%s" % (
+              os.environ.get("GITHUB_SHA", "")[:8], d_before, d_after, delta,
+              after.get("likes"), os.environ.get("GITHUB_RUN_ID"))
+          print(line)
+          with open("_probe/hf_downloads.tsv", "a", encoding="utf-8") as f:
+              f.write(line + "\n")
+          open(os.environ["GITHUB_STEP_SUMMARY"], "a", encoding="utf-8").write(
+              "### HF 下载计数探针\n\n`%s`\n" % line)
+          PY
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add _probe/hf_downloads.tsv
+          git commit -m "chore(probe): HF 下载计数前后对比 [skip ci]" || echo "无变化"
+          git push || echo "推送失败(不致命)"
