@@ -120,4 +120,10 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add _probe/hf_downloads.tsv
           git commit -m "chore(probe): HF 下载计数前后对比 [skip ci]" || echo "无变化"
-          git push || echo "推送失败(不致命)"
+          # 并发保护: parse.yaml 的 bot 提交可能和本 job 同时推 —— 先 rebase 再推, 重试 5 次;
+          # 仍然失败也不让整个 job 变红(探针只是记录, 不该拖垮发布)。
+          for i in 1 2 3 4 5; do
+            git pull --rebase --autostash -q origin master || true
+            if git push -q origin master; then echo "探针已回写"; break; fi
+            sleep 10
+          done || true
